@@ -3349,6 +3349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminate: Study X | 253574 | [253574-terminate-study-x.json](./253574-terminate-study-x.json) |
 | Termination Mental | 309190 | [309190-termination-mental.json](./309190-termination-mental.json) |
 | Terminator | 208419 | [208419-terminator.json](./208419-terminator.json) |
+| Terminator 2: Judgment Day | 218325 | [218325-terminator-2-judgment-day.json](./218325-terminator-2-judgment-day.json) |
 | Terminator 2: Judgment Day | 307082 | [307082-terminator-2-judgment-day.json](./307082-terminator-2-judgment-day.json) |
 | Terminator 2: Judgment Day | 45346 | [45346-terminator-2-judgment-day.json](./45346-terminator-2-judgment-day.json) |
 | Terminator 2: Judgment Day - Chess Wars | 14557 | [14557-terminator-2-judgment-day-chess-wars.json](./14557-terminator-2-judgment-day-chess-wars.json) |
@@ -11265,6 +11266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pirate's Fate: Prisoner of Destiny | 169331 | [169331-the-pirates-fate-prisoner-of-destiny.json](./169331-the-pirates-fate-prisoner-of-destiny.json) |
 | The Pirate's Quest | 310092 | [310092-the-pirates-quest.json](./310092-the-pirates-quest.json) |
 | The Pirates Kill | 188037 | [188037-the-pirates-kill.json](./188037-the-pirates-kill.json) |
+| The Pirates of Dark Water | 218350 | [218350-the-pirates-of-dark-water.json](./218350-the-pirates-of-dark-water.json) |
 | The Pirates of Dark Water | 342059 | [342059-the-pirates-of-dark-water.json](./342059-the-pirates-of-dark-water.json) |
 | The Pirates of Dark Water | 8104 | [8104-the-pirates-of-dark-water.json](./8104-the-pirates-of-dark-water.json) |
 | The Piratescape | 176451 | [176451-the-piratescape.json](./176451-the-piratescape.json) |
@@ -12438,6 +12440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Simpsons Trivia | 221270 | [221270-the-simpsons-trivia.json](./221270-the-simpsons-trivia.json) |
 | The Simpsons: Bart & the Beanstalk | 2837 | [2837-the-simpsons-bart-and-the-beanstalk.json](./2837-the-simpsons-bart-and-the-beanstalk.json) |
 | The Simpsons: Bart vs. The Juggernauts | 2831 | [2831-the-simpsons-bart-vs-the-juggernauts.json](./2831-the-simpsons-bart-vs-the-juggernauts.json) |
+| The Simpsons: Bart vs. The Space Mutants | 218327 | [218327-the-simpsons-bart-vs-the-space-mutants.json](./218327-the-simpsons-bart-vs-the-space-mutants.json) |
 | The Simpsons: Bart vs. The Space Mutants | 2827 | [2827-the-simpsons-bart-vs-the-space-mutants.json](./2827-the-simpsons-bart-vs-the-space-mutants.json) |
 | The Simpsons: Bart vs. the World | 2830 | [2830-the-simpsons-bart-vs-the-world.json](./2830-the-simpsons-bart-vs-the-world.json) |
 | The Simpsons: Bart's House of Weirdness | 2828 | [2828-the-simpsons-barts-house-of-weirdness.json](./2828-the-simpsons-barts-house-of-weirdness.json) |
@@ -19071,6 +19074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TomTom Adventures | 82851 | [82851-tomtom-adventures.json](./82851-tomtom-adventures.json) |
 | Tomy Car Drive Shutsudou! Kinkyuu Sharyou-hen | 79319 | [79319-tomy-car-drive-shutsudou-kinkyuu-sharyou-hen.json](./79319-tomy-car-drive-shutsudou-kinkyuu-sharyou-hen.json) |
 | Tomyka Hero: Rescue Force DS | 124099 | [124099-tomyka-hero-rescue-force-ds.json](./124099-tomyka-hero-rescue-force-ds.json) |
+| Tomytronic 3D: Thundering Turbo | 218306 | [218306-tomytronic-3d-thundering-turbo.json](./218306-tomytronic-3d-thundering-turbo.json) |
 | Ton Ton Ball | 62097 | [62097-ton-ton-ball.json](./62097-ton-ton-ball.json) |
 | Tonalities | 236240 | [236240-tonalities.json](./236240-tonalities.json) |
 | Tonari ni Kanojo no Iru Shiawase: I Fight with Summer | 219050 | [219050-tonari-ni-kanojo-no-iru-shiawase-i-fight-with-summer.json](./219050-tonari-ni-kanojo-no-iru-shiawase-i-fight-with-summer.json) |
@@ -19641,6 +19645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Pinball 25: 3D Tables | 206745 | [206745-total-pinball-25-3d-tables.json](./206745-total-pinball-25-3d-tables.json) |
 | Total Pro Football | 61738 | [61738-total-pro-football.json](./61738-total-pro-football.json) |
 | Total Recall | 12500 | [12500-total-recall.json](./12500-total-recall.json) |
+| Total Recall | 218324 | [218324-total-recall.json](./218324-total-recall.json) |
 | Total Recall Mobile | 86194 | [86194-total-recall-mobile.json](./86194-total-recall-mobile.json) |
 | Total Reload | 248661 | [248661-total-reload.json](./248661-total-reload.json) |
 | Total Rendition | 172522 | [172522-total-rendition.json](./172522-total-rendition.json) |
