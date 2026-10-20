@@ -5488,6 +5488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Mall Story 2 | 146725 | [146725-mega-mall-story-2.json](./146725-mega-mall-story-2.json) |
 | Mega Man | 1738 | [1738-mega-man.json](./1738-mega-man.json) |
 | Mega Man | 195570 | [195570-mega-man.json](./195570-mega-man.json) |
+| Mega Man | 236703 | [236703-mega-man.json](./236703-mega-man.json) |
 | Mega Man | 281415 | [281415-mega-man.json](./281415-mega-man.json) |
 | Mega Man & Mega Man X 5in1 Special Box | 124033 | [124033-mega-man-and-mega-man-x-5in1-special-box.json](./124033-mega-man-and-mega-man-x-5in1-special-box.json) |
 | Mega Man 11 | 76723 | [76723-mega-man-11.json](./76723-mega-man-11.json) |
@@ -5495,6 +5496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 11: Collector's Package | 167160 | [167160-mega-man-11-collectors-package.json](./167160-mega-man-11-collectors-package.json) |
 | Mega Man 2 | 198812 | [198812-mega-man-2.json](./198812-mega-man-2.json) |
 | Mega Man 2 | 217935 | [217935-mega-man-2.json](./217935-mega-man-2.json) |
+| Mega Man 2 | 236705 | [236705-mega-man-2.json](./236705-mega-man-2.json) |
 | Mega Man 2 Lite | 206149 | [206149-mega-man-2-lite.json](./206149-mega-man-2-lite.json) |
 | Mega Man 2 Mobile | 103892 | [103892-mega-man-2-mobile.json](./103892-mega-man-2-mobile.json) |
 | Mega Man 2 Randomizer | 324885 | [324885-mega-man-2-randomizer.json](./324885-mega-man-2-randomizer.json) |
@@ -5502,6 +5504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 2: The Power Fighters | 1725 | [1725-mega-man-2-the-power-fighters.json](./1725-mega-man-2-the-power-fighters.json) |
 | Mega Man 3 | 1716 | [1716-mega-man-3.json](./1716-mega-man-3.json) |
 | Mega Man 3 | 198813 | [198813-mega-man-3.json](./198813-mega-man-3.json) |
+| Mega Man 3 | 236706 | [236706-mega-man-3.json](./236706-mega-man-3.json) |
 | Mega Man 3 Improvement | 219088 | [219088-mega-man-3-improvement.json](./219088-mega-man-3-improvement.json) |
 | Mega Man 30th Anniversary Bundle | 110814 | [110814-mega-man-30th-anniversary-bundle.json](./110814-mega-man-30th-anniversary-bundle.json) |
 | Mega Man 4 Voyage: Blue Version | 252392 | [252392-mega-man-4-voyage-blue-version.json](./252392-mega-man-4-voyage-blue-version.json) |
@@ -10313,6 +10316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Ring Possible | 141901 | [141901-mission-ring-possible.json](./141901-mission-ring-possible.json) |
 | Mission Rovee | 297845 | [297845-mission-rovee.json](./297845-mission-rovee.json) |
 | Mission Runway | 15795 | [15795-mission-runway.json](./15795-mission-runway.json) |
+| Mission Sigma | 236693 | [236693-mission-sigma.json](./236693-mission-sigma.json) |
 | Mission Supernova | 93040 | [93040-mission-supernova.json](./93040-mission-supernova.json) |
 | Mission Survive | 40682 | [40682-mission-survive.json](./40682-mission-survive.json) |
 | Mission to Earth | 388212 | [388212-mission-to-earth.json](./388212-mission-to-earth.json) |
@@ -11244,6 +11248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momotaro Dentetsu World | 64416 | [64416-momotaro-dentetsu-world.json](./64416-momotaro-dentetsu-world.json) |
 | Momotaro Dentetsu World Deluxe | 186772 | [186772-momotaro-dentetsu-world-deluxe.json](./186772-momotaro-dentetsu-world-deluxe.json) |
 | Momotaro Dentetsu World Remote Play | 186773 | [186773-momotaro-dentetsu-world-remote-play.json](./186773-momotaro-dentetsu-world-remote-play.json) |
+| Momotaro Dentetsu World: Chikyuu ha Kibou de Mawatteru! | 236695 | [236695-momotaro-dentetsu-world-chikyuu-ha-kibou-de-mawatteru.json](./236695-momotaro-dentetsu-world-chikyuu-ha-kibou-de-mawatteru.json) |
 | Momotaro Dentetsu X: Kyushu-hen mo Arubai | 79557 | [79557-momotaro-dentetsu-x-kyushu-hen-mo-arubai.json](./79557-momotaro-dentetsu-x-kyushu-hen-mo-arubai.json) |
 | Momotaro Dentetsu: 20 Shuunen | 64420 | [64420-momotaro-dentetsu-20-shuunen.json](./64420-momotaro-dentetsu-20-shuunen.json) |
 | Momotaro Dentetsu: Showa, Heisei, Reiwa mo Teiban! | 122290 | [122290-momotaro-dentetsu-showa-heisei-reiwa-mo-teiban.json](./122290-momotaro-dentetsu-showa-heisei-reiwa-mo-teiban.json) |
