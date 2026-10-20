@@ -2287,6 +2287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathless Maze TD | 352293 | [352293-pathless-maze-td.json](./352293-pathless-maze-td.json) |
 | Pathless Woods | 172705 | [172705-pathless-woods.json](./172705-pathless-woods.json) |
 | Pathmaker | 170316 | [170316-pathmaker.json](./170316-pathmaker.json) |
+| Pathmaster | 222735 | [222735-pathmaster.json](./222735-pathmaster.json) |
 | PathoBlasta VS | 276188 | [276188-pathoblasta-vs.json](./276188-pathoblasta-vs.json) |
 | Pathogen | 201641 | [201641-pathogen.json](./201641-pathogen.json) |
 | Pathogen | 213588 | [213588-pathogen.json](./213588-pathogen.json) |
@@ -4832,6 +4833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigmen's Challenge | 379708 | [379708-pigmens-challenge.json](./379708-pigmens-challenge.json) |
 | Pigment | 377050 | [377050-pigment.json](./377050-pigment.json) |
 | Pigmentone | 32240 | [32240-pigmentone.json](./32240-pigmentone.json) |
+| Pigments | 222761 | [222761-pigments.json](./222761-pigments.json) |
 | Pigmentum | 29695 | [29695-pigmentum.json](./29695-pigmentum.json) |
 | Pignator | 244137 | [244137-pignator.json](./244137-pignator.json) |
 | Pigromance | 141202 | [141202-pigromance.json](./141202-pigromance.json) |
@@ -12787,6 +12789,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PUBG Mobile: Season 20 | 158953 | [158953-pubg-mobile-season-20.json](./158953-pubg-mobile-season-20.json) |
 | PUBG: Battlegrounds - Season 16 | 198264 | [198264-pubg-battlegrounds-season-16.json](./198264-pubg-battlegrounds-season-16.json) |
 | PUBG: Battlegrounds - Season 18 | 217520 | [217520-pubg-battlegrounds-season-18.json](./217520-pubg-battlegrounds-season-18.json) |
+| PUBG: Battlegrounds - Season 19 | 222785 | [222785-pubg-battlegrounds-season-19.json](./222785-pubg-battlegrounds-season-19.json) |
+| PUBG: Battlegrounds - Season 20 | 222786 | [222786-pubg-battlegrounds-season-20.json](./222786-pubg-battlegrounds-season-20.json) |
 | PUBG: Battlegrounds - Season 21 | 279571 | [279571-pubg-battlegrounds-season-21.json](./279571-pubg-battlegrounds-season-21.json) |
 | PUBG: Battlegrounds - Season 22 | 279572 | [279572-pubg-battlegrounds-season-22.json](./279572-pubg-battlegrounds-season-22.json) |
 | PUBG: Battlegrounds - Season 23 | 279574 | [279574-pubg-battlegrounds-season-23.json](./279574-pubg-battlegrounds-season-23.json) |
