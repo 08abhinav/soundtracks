@@ -889,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh No! UFO! | 386730 | [386730-oh-no-ufo.json](./386730-oh-no-ufo.json) |
 | Oh Noes!!1 | 91896 | [91896-oh-noes-1.json](./91896-oh-noes-1.json) |
 | Oh Putt Off! | 181678 | [181678-oh-putt-off.json](./181678-oh-putt-off.json) |
+| Oh Sheep!: Baaaa | 212675 | [212675-oh-sheep-baaaa.json](./212675-oh-sheep-baaaa.json) |
 | Oh Ship Arena | 107756 | [107756-oh-ship-arena.json](./107756-oh-ship-arena.json) |
 | Oh Ship! | 399593 | [399593-oh-ship.json](./399593-oh-ship.json) |
 | Oh Shit Boulder | 211691 | [211691-oh-shit-boulder.json](./211691-oh-shit-boulder.json) |
