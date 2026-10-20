@@ -1035,6 +1035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vengeance is Mine | 173089 | [173089-vengeance-is-mine.json](./173089-vengeance-is-mine.json) |
 | Vengeance of Excalibur | 72015 | [72015-vengeance-of-excalibur.json](./72015-vengeance-of-excalibur.json) |
 | Vengeance of Mr. Peppermint | 250012 | [250012-vengeance-of-mr-peppermint.json](./250012-vengeance-of-mr-peppermint.json) |
+| Vengeance RPG | 252551 | [252551-vengeance-rpg.json](./252551-vengeance-rpg.json) |
 | Vengeance: Lost Love | 43160 | [43160-vengeance-lost-love.json](./43160-vengeance-lost-love.json) |
 | Vengeance/Justification | 395573 | [395573-vengeance-justification.json](./395573-vengeance-justification.json) |
 | Vengeful Bat Dungeon Crawler | 116837 | [116837-vengeful-bat-dungeon-crawler.json](./116837-vengeful-bat-dungeon-crawler.json) |
@@ -1470,6 +1471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Game Grid | 333195 | [333195-video-game-grid.json](./333195-video-game-grid.json) |
 | Video Game Menu: The Game | 399846 | [399846-video-game-menu-the-game.json](./399846-video-game-menu-the-game.json) |
 | Video Game Store: Supermarket Simulator | 319298 | [319298-video-game-store-supermarket-simulator.json](./319298-video-game-store-supermarket-simulator.json) |
+| Video Game Trivia | 252597 | [252597-video-game-trivia.json](./252597-video-game-trivia.json) |
 | Video Game Tutorial | 365277 | [365277-video-game-tutorial.json](./365277-video-game-tutorial.json) |
 | Video Game: Super Corrida | 345627 | [345627-video-game-super-corrida.json](./345627-video-game-super-corrida.json) |
 | Video Horror Society: Reggie | 230976 | [230976-video-horror-society-reggie.json](./230976-video-horror-society-reggie.json) |
@@ -2147,6 +2149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus Brotherhood | 387752 | [387752-virus-brotherhood.json](./387752-virus-brotherhood.json) |
 | Virus Crashers | 29654 | [29654-virus-crashers.json](./29654-virus-crashers.json) |
 | Virus Hunter | 323002 | [323002-virus-hunter.json](./323002-virus-hunter.json) |
+| Virus Infinite | 252591 | [252591-virus-infinite.json](./252591-virus-infinite.json) |
 | Virus Jigglin' Fever | 35474 | [35474-virus-jigglin-fever.json](./35474-virus-jigglin-fever.json) |
 | VIrus Killer | 186834 | [186834-virus-killer.json](./186834-virus-killer.json) |
 | Virus Kombat | 284565 | [284565-virus-kombat.json](./284565-virus-kombat.json) |
