@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Missile Defense System | 118246 | [118246-earth-missile-defense-system.json](./118246-earth-missile-defense-system.json) |
 | Earth Muncher | 95178 | [95178-earth-muncher.json](./95178-earth-muncher.json) |
 | Earth New Fall | 408252 | [408252-earth-new-fall.json](./408252-earth-new-fall.json) |
+| Earth of Oryn | 217206 | [217206-earth-of-oryn.json](./217206-earth-of-oryn.json) |
 | Earth on Stream | 403773 | [403773-earth-on-stream.json](./403773-earth-on-stream.json) |
 | Earth Overclocked | 34828 | [34828-earth-overclocked.json](./34828-earth-overclocked.json) |
 | Earth Rising | 235694 | [235694-earth-rising.json](./235694-earth-rising.json) |
@@ -1591,6 +1592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electranoid | 94324 | [94324-electranoid.json](./94324-electranoid.json) |
 | ElectriarCode | 210220 | [210220-electriarcode.json](./210220-electriarcode.json) |
 | Electric | 187162 | [187162-electric.json](./187162-electric.json) |
+| Electric Car Tycoon | 217199 | [217199-electric-car-tycoon.json](./217199-electric-car-tycoon.json) |
 | Electric Crayon 3.1: At the Zoo | 68970 | [68970-electric-crayon-3-1-at-the-zoo.json](./68970-electric-crayon-3-1-at-the-zoo.json) |
 | Electric Crayon Deluxe: Dinosaurs Are Forever | 71765 | [71765-electric-crayon-deluxe-dinosaurs-are-forever.json](./71765-electric-crayon-deluxe-dinosaurs-are-forever.json) |
 | Electric Crayon Deluxe: Teenage Mutant Hero Turtles - World Tour | 78007 | [78007-electric-crayon-deluxe-teenage-mutant-hero-turtles-world-tour.json](./78007-electric-crayon-deluxe-teenage-mutant-hero-turtles-world-tour.json) |
@@ -2094,6 +2096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elves '87 | 246233 | [246233-elves-87.json](./246233-elves-87.json) |
 | Elves Adventure | 31972 | [31972-elves-adventure.json](./31972-elves-adventure.json) |
 | Elves Castle and Secrets | 233900 | [233900-elves-castle-and-secrets.json](./233900-elves-castle-and-secrets.json) |
+| Elves Christmas Hentai Puzzle | 217197 | [217197-elves-christmas-hentai-puzzle.json](./217197-elves-christmas-hentai-puzzle.json) |
 | Elves Fantasy: Hentai Puzzle | 208229 | [208229-elves-fantasy-hentai-puzzle.json](./208229-elves-fantasy-hentai-puzzle.json) |
 | Elves Jigsaw Puzzle Collection | 229041 | [229041-elves-jigsaw-puzzle-collection.json](./229041-elves-jigsaw-puzzle-collection.json) |
 | Elves of Duty | 211922 | [211922-elves-of-duty.json](./211922-elves-of-duty.json) |
@@ -5738,6 +5741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exodemic | 197152 | [197152-exodemic.json](./197152-exodemic.json) |
 | Exodemon | 27740 | [27740-exodemon.json](./27740-exodemon.json) |
 | Exoder | 98767 | [98767-exoder.json](./98767-exoder.json) |
+| Exodition | 217176 | [217176-exodition.json](./217176-exodition.json) |
 | Exodos | 297069 | [297069-exodos.json](./297069-exodos.json) |
 | Exodus | 17643 | [17643-exodus.json](./17643-exodus.json) |
 | Exodus | 212237 | [212237-exodus.json](./212237-exodus.json) |
@@ -5751,6 +5755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exodus Flight | 297070 | [297070-exodus-flight.json](./297070-exodus-flight.json) |
 | Exodus Guilty | 80384 | [80384-exodus-guilty.json](./80384-exodus-guilty.json) |
 | Exodus Idle | 211761 | [211761-exodus-idle.json](./211761-exodus-idle.json) |
+| Exodus of Souls | 217161 | [217161-exodus-of-souls.json](./217161-exodus-of-souls.json) |
 | Exodus Vigil | 207353 | [207353-exodus-vigil.json](./207353-exodus-vigil.json) |
 | Exodus: Journey to the Promised Land | 11164 | [11164-exodus-journey-to-the-promised-land.json](./11164-exodus-journey-to-the-promised-land.json) |
 | Exodus: Sunflower on the Horizon | 257977 | [257977-exodus-sunflower-on-the-horizon.json](./257977-exodus-sunflower-on-the-horizon.json) |
