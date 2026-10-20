@@ -5754,6 +5754,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates Deck | 35643 | [35643-pirates-deck.json](./35643-pirates-deck.json) |
 | Pirates Girls | 148971 | [148971-pirates-girls.json](./148971-pirates-girls.json) |
 | Pirates Golden Quest | 300854 | [300854-pirates-golden-quest.json](./300854-pirates-golden-quest.json) |
+| Pirates In Love | 232852 | [232852-pirates-in-love.json](./232852-pirates-in-love.json) |
+| Pirates in Love: Captain's Cut | 232853 | [232853-pirates-in-love-captains-cut.json](./232853-pirates-in-love-captains-cut.json) |
 | Pirates Jigsaw Puzzle for Kids & Toddlers | 203698 | [203698-pirates-jigsaw-puzzle-for-kids-and-toddlers.json](./203698-pirates-jigsaw-puzzle-for-kids-and-toddlers.json) |
 | Pirates Kingdom | 323170 | [323170-pirates-kingdom.json](./323170-pirates-kingdom.json) |
 | Pirates Odyssey | 270122 | [270122-pirates-odyssey.json](./270122-pirates-odyssey.json) |
