@@ -2147,7 +2147,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farol del Diablo (Devil's Lantern) | 347136 | [347136-farol-del-diablo-devils-lantern.json](./347136-farol-del-diablo-devils-lantern.json) |
 | Faron's Fate | 34311 | [34311-farons-fate.json](./34311-farons-fate.json) |
 | Farplane Relic | 110768 | [110768-farplane-relic.json](./110768-farplane-relic.json) |
-| Farpoint | 19575 | [19575-farpoint.json](./19575-farpoint.json) |
 | Farragnarok | 114773 | [114773-farragnarok.json](./114773-farragnarok.json) |
 | Farrealm: The Prince of Winds | 120427 | [120427-farrealm-the-prince-of-winds.json](./120427-farrealm-the-prince-of-winds.json) |
 | FarRock Dodgeball | 159567 | [159567-farrock-dodgeball.json](./159567-farrock-dodgeball.json) |
