@@ -226,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaitei Takara Sagashi | 40214 | [40214-kaitei-takara-sagashi.json](./40214-kaitei-takara-sagashi.json) |
 | Kaiten Puyoman Kuu Carbuncle | 253764 | [253764-kaiten-puyoman-kuu-carbuncle.json](./253764-kaiten-puyoman-kuu-carbuncle.json) |
 | Kaiten Sushi VR | 245809 | [245809-kaiten-sushi-vr.json](./245809-kaiten-sushi-vr.json) |
+| Kaito Message | 216114 | [216114-kaito-message.json](./216114-kaito-message.json) |
 | Kaitou Apricot | 202589 | [202589-kaitou-apricot.json](./202589-kaitou-apricot.json) |
 | Kaitou Apricot Portable | 56775 | [56775-kaitou-apricot-portable.json](./56775-kaitou-apricot-portable.json) |
 | Kaitou Elf Liely | 246107 | [246107-kaitou-elf-liely.json](./246107-kaitou-elf-liely.json) |
