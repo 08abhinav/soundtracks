@@ -6154,6 +6154,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Master of Monsters Final | 387072 | [387072-shin-master-of-monsters-final.json](./387072-shin-master-of-monsters-final.json) |
 | Shin Master of Monsters Final EX | 111904 | [111904-shin-master-of-monsters-final-ex.json](./111904-shin-master-of-monsters-final-ex.json) |
 | Shin Megami Tensei | 248790 | [248790-shin-megami-tensei.json](./248790-shin-megami-tensei.json) |
+| Shin Megami Tensei | 250195 | [250195-shin-megami-tensei.json](./250195-shin-megami-tensei.json) |
+| Shin Megami Tensei | 250196 | [250196-shin-megami-tensei.json](./250196-shin-megami-tensei.json) |
+| Shin Megami Tensei | 250198 | [250198-shin-megami-tensei.json](./250198-shin-megami-tensei.json) |
 | Shin Megami Tensei Devil Summoner: Raidou Kuzunoha vs. The Soulless Army | 20640 | [20640-shin-megami-tensei-devil-summoner-raidou-kuzunoha-vs-the-soulless-army.json](./20640-shin-megami-tensei-devil-summoner-raidou-kuzunoha-vs-the-soulless-army.json) |
 | Shin Megami Tensei if... | 270672 | [270672-shin-megami-tensei-if.json](./270672-shin-megami-tensei-if.json) |
 | Shin Megami Tensei if... | 79726 | [79726-shin-megami-tensei-if.json](./79726-shin-megami-tensei-if.json) |
@@ -9587,6 +9590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam Dunk: Shouri he no Starting 5 | 282497 | [282497-slam-dunk-shouri-he-no-starting-5.json](./282497-slam-dunk-shouri-he-no-starting-5.json) |
 | Slam Dunk: Yonkyou Gekitotsu!! | 65425 | [65425-slam-dunk-yonkyou-gekitotsu.json](./65425-slam-dunk-yonkyou-gekitotsu.json) |
 | Slam Fighter II | 75172 | [75172-slam-fighter-ii.json](./75172-slam-fighter-ii.json) |
+| Slam Jump | 250182 | [250182-slam-jump.json](./250182-slam-jump.json) |
 | Slam Land | 98407 | [98407-slam-land.json](./98407-slam-land.json) |
 | Slam Poets | 399698 | [399698-slam-poets.json](./399698-slam-poets.json) |
 | Slam Racer | 270277 | [270277-slam-racer.json](./270277-slam-racer.json) |
@@ -9623,6 +9627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slappingrot | 383120 | [383120-slappingrot.json](./383120-slappingrot.json) |
 | Slappy Ass | 111121 | [111121-slappy-ass.json](./111121-slappy-ass.json) |
 | Slappy Board | 216886 | [216886-slappy-board.json](./216886-slappy-board.json) |
+| Slappy Paddles | 250181 | [250181-slappy-paddles.json](./250181-slappy-paddles.json) |
 | Slapshot | 120904 | [120904-slapshot.json](./120904-slapshot.json) |
 | Slapshot Ice Hockey | 245409 | [245409-slapshot-ice-hockey.json](./245409-slapshot-ice-hockey.json) |
 | Slapstick Bosses | 349861 | [349861-slapstick-bosses.json](./349861-slapstick-bosses.json) |
@@ -15682,6 +15687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Weaver | 335381 | [335381-spell-weaver.json](./335381-spell-weaver.json) |
 | Spell Welders | 199501 | [199501-spell-welders.json](./199501-spell-welders.json) |
 | Spellario | 171993 | [171993-spellario.json](./171993-spellario.json) |
+| Spellarium | 250164 | [250164-spellarium.json](./250164-spellarium.json) |
 | Spellarium 11 | 311594 | [311594-spellarium-11.json](./311594-spellarium-11.json) |
 | Spellarium 14: Collector's Edition | 416771 | [416771-spellarium-14-collectors-edition.json](./416771-spellarium-14-collectors-edition.json) |
 | Spellarium 2 | 298089 | [298089-spellarium-2.json](./298089-spellarium-2.json) |
@@ -25073,6 +25079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superpopular | 127308 | [127308-superpopular.json](./127308-superpopular.json) |
 | SuperPower | 23466 | [23466-superpower.json](./23466-superpower.json) |
 | SuperPower 2: Steam Edition | 90586 | [90586-superpower-2-steam-edition.json](./90586-superpower-2-steam-edition.json) |
+| SuperPower: World at War | 250177 | [250177-superpower-world-at-war.json](./250177-superpower-world-at-war.json) |
 | SuperPro Snowboarding | 233525 | [233525-superpro-snowboarding.json](./233525-superpro-snowboarding.json) |
 | SuperQuest | 342636 | [342636-superquest.json](./342636-superquest.json) |
 | Superscout | 296238 | [296238-superscout.json](./296238-superscout.json) |
