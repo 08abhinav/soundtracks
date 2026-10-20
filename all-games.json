@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:45:49.368Z",
-  "total_soundtracks": 2284,
+  "generated_at": "2026-10-20T21:46:00.899Z",
+  "total_soundtracks": 2285,
   "games": [
     {
       "igdb_id": 7522,
@@ -9679,6 +9679,20 @@
           "spotify_url": "https://music.apple.com/us/album/get-even-original-soundtrack/1238451700?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1238451700"
+        }
+      ]
+    },
+    {
+      "igdb_id": 8336,
+      "game_name": "Ghost in the Shell",
+      "game_url": "https://ostdb.net/games/ghost-in-the-shell",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733e8cd4d9e5255aed7d57d345",
+      "albums": [
+        {
+          "album_name": "GHOST IN THE SHELL VIDEOGAME SOUNDTRACK MEGATECH BODY. DIGITAL. LTD.",
+          "spotify_url": "https://open.spotify.com/album/6aXtzjfuTtTKQmEoH0dFkr",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
