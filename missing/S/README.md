@@ -5544,6 +5544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Invasion | 317445 | [317445-shape-invasion.json](./317445-shape-invasion.json) |
 | Shape of Clouds | 279115 | [279115-shape-of-clouds.json](./279115-shape-of-clouds.json) |
 | Shape of Dreams | 293572 | [293572-shape-of-dreams.json](./293572-shape-of-dreams.json) |
+| Shape of the Toilet Rim | 218308 | [218308-shape-of-the-toilet-rim.json](./218308-shape-of-the-toilet-rim.json) |
 | Shape Palette | 130779 | [130779-shape-palette.json](./130779-shape-palette.json) |
 | Shape Puzzle | 199456 | [199456-shape-puzzle.json](./199456-shape-puzzle.json) |
 | Shape Puzzle - Toddler Educational Learning Games | 105434 | [105434-shape-puzzle-toddler-educational-learning-games.json](./105434-shape-puzzle-toddler-educational-learning-games.json) |
@@ -7644,6 +7645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege Saga | 77633 | [77633-siege-saga.json](./77633-siege-saga.json) |
 | Siege Showdown | 270072 | [270072-siege-showdown.json](./270072-siege-showdown.json) |
 | Siege Survival: Gloria Victis | 145242 | [145242-siege-survival-gloria-victis.json](./145242-siege-survival-gloria-victis.json) |
+| Siege Worlds | 218301 | [218301-siege-worlds.json](./218301-siege-worlds.json) |
 | Siege: The Card Game | 33895 | [33895-siege-the-card-game.json](./33895-siege-the-card-game.json) |
 | Siege: World War II | 233404 | [233404-siege-world-war-ii.json](./233404-siege-world-war-ii.json) |
 | Siegebreaker | 276967 | [276967-siegebreaker.json](./276967-siegebreaker.json) |
@@ -10745,6 +10747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash simulator | 320833 | [320833-smash-simulator.json](./320833-smash-simulator.json) |
 | Smash Slug | 194877 | [194877-smash-slug.json](./194877-smash-slug.json) |
 | Smash Splat Deluxe Set | 231788 | [231788-smash-splat-deluxe-set.json](./231788-smash-splat-deluxe-set.json) |
+| Smash T.V. | 218326 | [218326-smash-t-v.json](./218326-smash-t-v.json) |
 | Smash Table Tennis | 84880 | [84880-smash-table-tennis.json](./84880-smash-table-tennis.json) |
 | Smash Team | 61735 | [61735-smash-team.json](./61735-smash-team.json) |
 | Smash Tennis | 44106 | [44106-smash-tennis.json](./44106-smash-tennis.json) |
