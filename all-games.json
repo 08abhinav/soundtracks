@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:56:43.888Z",
-  "total_soundtracks": 2307,
+  "generated_at": "2026-10-20T21:56:54.178Z",
+  "total_soundtracks": 2308,
   "games": [
     {
       "igdb_id": 7522,
@@ -19474,6 +19474,20 @@
     },
     {
       "igdb_id": 6013,
+      "game_name": "RoboCop",
+      "game_url": "https://ostdb.net/games/robocop",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f8af3e77267a474a1aba7282",
+      "albums": [
+        {
+          "album_name": "Robocop (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4hPydoZ7jW3MqNmZ7dkEDT",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 59110,
       "game_name": "RoboCop",
       "game_url": "https://ostdb.net/games/robocop",
       "cover_url": "https://i.scdn.co/image/ab67616d0000b273f8af3e77267a474a1aba7282",
