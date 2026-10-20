@@ -3417,6 +3417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside the Facility | 57511 | [57511-inside-the-facility.json](./57511-inside-the-facility.json) |
 | Inside the Forest | 181070 | [181070-inside-the-forest.json](./181070-inside-the-forest.json) |
 | Inside the Gear | 10437 | [10437-inside-the-gear.json](./10437-inside-the-gear.json) |
+| Inside the Labs | 251996 | [251996-inside-the-labs.json](./251996-inside-the-labs.json) |
 | Inside the Machine | 290844 | [290844-inside-the-machine.json](./290844-inside-the-machine.json) |
 | Inside the Memories | 152862 | [152862-inside-the-memories.json](./152862-inside-the-memories.json) |
 | Inside The Memory | 286216 | [286216-inside-the-memory.json](./286216-inside-the-memory.json) |
