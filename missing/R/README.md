@@ -1069,6 +1069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainforest Cascade | 69845 | [69845-rainforest-cascade.json](./69845-rainforest-cascade.json) |
 | Raining Blobs | 24050 | [24050-raining-blobs.json](./24050-raining-blobs.json) |
 | Raining blocks | 81764 | [81764-raining-blocks.json](./81764-raining-blocks.json) |
+| Raining Blood: Hellfire | 219491 | [219491-raining-blood-hellfire.json](./219491-raining-blood-hellfire.json) |
 | Raining City: Millions Recollections | 305310 | [305310-raining-city-millions-recollections.json](./305310-raining-city-millions-recollections.json) |
 | Raining Lead | 400410 | [400410-raining-lead.json](./400410-raining-lead.json) |
 | Rainmaker | 397612 | [397612-rainmaker.json](./397612-rainmaker.json) |
@@ -2161,6 +2162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Cake Maker: Cool Kidz | 316245 | [316245-real-cake-maker-cool-kidz.json](./316245-real-cake-maker-cool-kidz.json) |
 | Real Cake Maker: Sugar Rush | 316246 | [316246-real-cake-maker-sugar-rush.json](./316246-real-cake-maker-sugar-rush.json) |
 | Real Car Drift Racing | 311794 | [311794-real-car-drift-racing.json](./311794-real-car-drift-racing.json) |
+| Real Car Driving | 219458 | [219458-real-car-driving.json](./219458-real-car-driving.json) |
 | Real Car Market Simulator Together | 407348 | [407348-real-car-market-simulator-together.json](./407348-real-car-market-simulator-together.json) |
 | Real Car Parking 2024: Driving Simulator | 275447 | [275447-real-car-parking-2024-driving-simulator.json](./275447-real-car-parking-2024-driving-simulator.json) |
 | Real Car Parking 3D | 256436 | [256436-real-car-parking-3d.json](./256436-real-car-parking-3d.json) |
@@ -2834,6 +2836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Bull Flugtag Flight Lab | 337431 | [337431-red-bull-flugtag-flight-lab.json](./337431-red-bull-flugtag-flight-lab.json) |
 | Red Bull Free Skiing | 86820 | [86820-red-bull-free-skiing.json](./86820-red-bull-free-skiing.json) |
 | Red Bull MotoCross 2D | 198136 | [198136-red-bull-motocross-2d.json](./198136-red-bull-motocross-2d.json) |
+| Red Bull Pac-Man | 219441 | [219441-red-bull-pac-man.json](./219441-red-bull-pac-man.json) |
 | Red Bull X-Fighters | 20629 | [20629-red-bull-x-fighters.json](./20629-red-bull-x-fighters.json) |
 | Red Bull: Soapbox Racers | 336920 | [336920-red-bull-soapbox-racers.json](./336920-red-bull-soapbox-racers.json) |
 | Red Cap Squad: Zombie Source | 339924 | [339924-red-cap-squad-zombie-source.json](./339924-red-cap-squad-zombie-source.json) |
