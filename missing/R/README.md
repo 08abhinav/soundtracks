@@ -4756,7 +4756,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reveal! Multiplayer Edition | 232070 | [232070-reveal-multiplayer-edition.json](./232070-reveal-multiplayer-edition.json) |
 | Revealed | 388705 | [388705-revealed.json](./388705-revealed.json) |
 | Revector | 46516 | [46516-revector.json](./46516-revector.json) |
-| Reveil | 90409 | [90409-reveil.json](./90409-reveil.json) |
 | Reveil: Funhouse Edition | 290112 | [290112-reveil-funhouse-edition.json](./290112-reveil-funhouse-edition.json) |
 | Revel | 173010 | [173010-revel.json](./173010-revel.json) |
 | Revelation | 126319 | [126319-revelation.json](./126319-revelation.json) |
@@ -5883,7 +5882,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Jericho | 248027 | [248027-rise-of-jericho.json](./248027-rise-of-jericho.json) |
 | Rise of Keepers | 33994 | [33994-rise-of-keepers.json](./33994-rise-of-keepers.json) |
 | Rise of Kenshin | 310731 | [310731-rise-of-kenshin.json](./310731-rise-of-kenshin.json) |
-| Rise of Kingdoms | 113201 | [113201-rise-of-kingdoms.json](./113201-rise-of-kingdoms.json) |
 | Rise of Kingdoms: Conquer War | 199634 | [199634-rise-of-kingdoms-conquer-war.json](./199634-rise-of-kingdoms-conquer-war.json) |
 | Rise of Koreth | 258206 | [258206-rise-of-koreth.json](./258206-rise-of-koreth.json) |
 | Rise of Legions | 116249 | [116249-rise-of-legions.json](./116249-rise-of-legions.json) |
