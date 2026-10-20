@@ -10268,6 +10268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conscript: Golden Gun Pack | 332002 | [332002-conscript-golden-gun-pack.json](./332002-conscript-golden-gun-pack.json) |
 | Consecrated | 312297 | [312297-consecrated.json](./312297-consecrated.json) |
 | Consensual Torture Simulator | 15446 | [15446-consensual-torture-simulator.json](./15446-consensual-torture-simulator.json) |
+| Consentual Love In A Dungeon | 210471 | [210471-consentual-love-in-a-dungeon.json](./210471-consentual-love-in-a-dungeon.json) |
 | Considerable Grandfather | 293643 | [293643-considerable-grandfather.json](./293643-considerable-grandfather.json) |
 | Considerable Grandfather: It Followed Me Home | 408784 | [408784-considerable-grandfather-it-followed-me-home.json](./408784-considerable-grandfather-it-followed-me-home.json) |
 | Consolation: Board Meeting - Anthology Edition | 193217 | [193217-consolation-board-meeting-anthology-edition.json](./193217-consolation-board-meeting-anthology-edition.json) |
