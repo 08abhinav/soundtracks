@@ -2091,9 +2091,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 2014 | 3181 | [3181-farming-simulator-2014.json](./3181-farming-simulator-2014.json) |
 | Farming Simulator 22 | 146112 | [146112-farming-simulator-22.json](./146112-farming-simulator-22.json) |
 | Farming Simulator 22: Case IH Farmall Anniversary Pack | 276271 | [276271-farming-simulator-22-case-ih-farmall-anniversary-pack.json](./276271-farming-simulator-22-case-ih-farmall-anniversary-pack.json) |
+| Farming Simulator 22: Claas Xerion Saddle Trac Pack | 206532 | [206532-farming-simulator-22-claas-xerion-saddle-trac-pack.json](./206532-farming-simulator-22-claas-xerion-saddle-trac-pack.json) |
 | Farming Simulator 22: ERO Grapeliner Series 7000 | 214366 | [214366-farming-simulator-22-ero-grapeliner-series-7000.json](./214366-farming-simulator-22-ero-grapeliner-series-7000.json) |
 | Farming Simulator 22: Farm Production Pack | 296643 | [296643-farming-simulator-22-farm-production-pack.json](./296643-farming-simulator-22-farm-production-pack.json) |
 | Farming Simulator 22: Göweil Pack | 239013 | [239013-farming-simulator-22-goweil-pack.json](./239013-farming-simulator-22-goweil-pack.json) |
+| Farming Simulator 22: Mack Trucks - Black Anthem | 206531 | [206531-farming-simulator-22-mack-trucks-black-anthem.json](./206531-farming-simulator-22-mack-trucks-black-anthem.json) |
 | Farming Simulator 22: Platinum Edition | 209191 | [209191-farming-simulator-22-platinum-edition.json](./209191-farming-simulator-22-platinum-edition.json) |
 | Farming Simulator 22: Premium Expansion | 255023 | [255023-farming-simulator-22-premium-expansion.json](./255023-farming-simulator-22-premium-expansion.json) |
 | Farming Simulator 22: Pumps n' Hoses Pack | 210271 | [210271-farming-simulator-22-pumps-n-hoses-pack.json](./210271-farming-simulator-22-pumps-n-hoses-pack.json) |
@@ -4362,6 +4364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finnish Pub Simulator | 326424 | [326424-finnish-pub-simulator.json](./326424-finnish-pub-simulator.json) |
 | Finnish Roller | 29671 | [29671-finnish-roller.json](./29671-finnish-roller.json) |
 | Finque | 31057 | [31057-finque.json](./31057-finque.json) |
+| Finrendly | 206570 | [206570-finrendly.json](./206570-finrendly.json) |
 | Finsternis Kreuz | 298366 | [298366-finsternis-kreuz.json](./298366-finsternis-kreuz.json) |
 | FINSummerVR | 104059 | [104059-finsummervr.json](./104059-finsummervr.json) |
 | Finterior Decorator | 222791 | [222791-finterior-decorator.json](./222791-finterior-decorator.json) |
