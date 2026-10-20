@@ -11198,6 +11198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Shadows: Special Edition | 410946 | [410946-assassins-creed-shadows-special-edition.json](./410946-assassins-creed-shadows-special-edition.json) |
 | Assassin's Creed Shadows: Thrown to the Dogs | 301432 | [301432-assassins-creed-shadows-thrown-to-the-dogs.json](./301432-assassins-creed-shadows-thrown-to-the-dogs.json) |
 | Assassin's Creed Syndicate: A Long Night | 399890 | [399890-assassins-creed-syndicate-a-long-night.json](./399890-assassins-creed-syndicate-a-long-night.json) |
+| Assassin's Creed Syndicate: Limited Edition | 251379 | [251379-assassins-creed-syndicate-limited-edition.json](./251379-assassins-creed-syndicate-limited-edition.json) |
 | Assassin's Creed Syndicate: Runaway Train | 399891 | [399891-assassins-creed-syndicate-runaway-train.json](./399891-assassins-creed-syndicate-runaway-train.json) |
 | Assassin's Creed Syndicate: Season Pass | 399893 | [399893-assassins-creed-syndicate-season-pass.json](./399893-assassins-creed-syndicate-season-pass.json) |
 | Assassin's Creed Syndicate: Streets of London Pack | 109437 | [109437-assassins-creed-syndicate-streets-of-london-pack.json](./109437-assassins-creed-syndicate-streets-of-london-pack.json) |
