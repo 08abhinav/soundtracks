@@ -1630,6 +1630,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuushi no Monshou: Deep Dungeon | 41326 | [41326-yuushi-no-monshou-deep-dungeon.json](./41326-yuushi-no-monshou-deep-dungeon.json) |
 | Yuushun Rhapsody | 49752 | [49752-yuushun-rhapsody.json](./49752-yuushun-rhapsody.json) |
 | Yuuto Ichika Gets DMCA'd | 195074 | [195074-yuuto-ichika-gets-dmcad.json](./195074-yuuto-ichika-gets-dmcad.json) |
+| Yuuwaku | 232828 | [232828-yuuwaku.json](./232828-yuuwaku.json) |
+| Yuuwaku no Toiki | 232829 | [232829-yuuwaku-no-toiki.json](./232829-yuuwaku-no-toiki.json) |
 | Yuuyami Doori Tankentai | 9688 | [9688-yuuyami-doori-tankentai.json](./9688-yuuyami-doori-tankentai.json) |
 | Yuuyu no Quiz de Go! Go! | 37750 | [37750-yuuyu-no-quiz-de-go-go.json](./37750-yuuyu-no-quiz-de-go-go.json) |
 | YuuYuu Jiteki no Yuukarin | 166626 | [166626-yuuyuu-jiteki-no-yuukarin.json](./166626-yuuyuu-jiteki-no-yuukarin.json) |
