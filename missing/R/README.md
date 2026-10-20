@@ -2812,6 +2812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Chaos: The Strict Order | 211677 | [211677-red-chaos-the-strict-order.json](./211677-red-chaos-the-strict-order.json) |
 | Red Chat Ritual: Tsumimi Time | 400336 | [400336-red-chat-ritual-tsumimi-time.json](./400336-red-chat-ritual-tsumimi-time.json) |
 | Red Christmas | 383580 | [383580-red-christmas.json](./383580-red-christmas.json) |
+| Red Clash | 251368 | [251368-red-clash.json](./251368-red-clash.json) |
 | Red Colony | 139466 | [139466-red-colony.json](./139466-red-colony.json) |
 | Red Comrades 2: For the Great Justice - Reloaded | 33509 | [33509-red-comrades-2-for-the-great-justice-reloaded.json](./33509-red-comrades-2-for-the-great-justice-reloaded.json) |
 | Red Comrades 3: Return of Alaska - Reloaded | 30871 | [30871-red-comrades-3-return-of-alaska-reloaded.json](./30871-red-comrades-3-return-of-alaska-reloaded.json) |
@@ -3860,6 +3861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repit 2 | 220685 | [220685-repit-2.json](./220685-repit-2.json) |
 | Repkiss | 143444 | [143444-repkiss.json](./143444-repkiss.json) |
 | Replacement | 182763 | [182763-replacement.json](./182763-replacement.json) |
+| ReplaceR | 251372 | [251372-replacer.json](./251372-replacer.json) |
 | Replay | 288037 | [288037-replay.json](./288037-replay.json) |
 | Replay Boys | 259188 | [259188-replay-boys.json](./259188-replay-boys.json) |
 | Replay Value: Second Hand Games | 347748 | [347748-replay-value-second-hand-games.json](./347748-replay-value-second-hand-games.json) |
@@ -4173,6 +4175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: Chronicles HD Collection | 21068 | [21068-resident-evil-chronicles-hd-collection.json](./21068-resident-evil-chronicles-hd-collection.json) |
 | Resident Evil: Code - Madman | 387029 | [387029-resident-evil-code-madman.json](./387029-resident-evil-code-madman.json) |
 | Resident Evil: Cold Blood | 222311 | [222311-resident-evil-cold-blood.json](./222311-resident-evil-cold-blood.json) |
+| Resident Evil: Confidential Report | 251364 | [251364-resident-evil-confidential-report.json](./251364-resident-evil-confidential-report.json) |
 | Resident Evil: Deadly Silence | 20456 | [20456-resident-evil-deadly-silence.json](./20456-resident-evil-deadly-silence.json) |
 | Resident Evil: Degeneration | 25817 | [25817-resident-evil-degeneration.json](./25817-resident-evil-degeneration.json) |
 | Resident Evil: Deluxe Origins Bundle | 82423 | [82423-resident-evil-deluxe-origins-bundle.json](./82423-resident-evil-deluxe-origins-bundle.json) |
@@ -4486,6 +4489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Otrop | 400288 | [400288-retro-otrop.json](./400288-retro-otrop.json) |
 | Retro Pocket | 21005 | [21005-retro-pocket.json](./21005-retro-pocket.json) |
 | Retro Pocket Rocket | 208459 | [208459-retro-pocket-rocket.json](./208459-retro-pocket-rocket.json) |
+| Retro Quiz Tower | 251378 | [251378-retro-quiz-tower.json](./251378-retro-quiz-tower.json) |
 | Retro Racer | 148469 | [148469-retro-racer.json](./148469-retro-racer.json) |
 | Retro Racers | 180039 | [180039-retro-racers.json](./180039-retro-racers.json) |
 | Retro Racing 2 | 373614 | [373614-retro-racing-2.json](./373614-retro-racing-2.json) |
@@ -6993,6 +6997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Coaster | 82928 | [82928-rocket-coaster.json](./82928-rocket-coaster.json) |
 | Rocket Control | 242478 | [242478-rocket-control.json](./242478-rocket-control.json) |
 | Rocket Cows | 195730 | [195730-rocket-cows.json](./195730-rocket-cows.json) |
+| Rocket Crane | 251442 | [251442-rocket-crane.json](./251442-rocket-crane.json) |
 | Rocket Craze 3D | 30669 | [30669-rocket-craze-3d.json](./30669-rocket-craze-3d.json) |
 | Rocket Crowbar | 307353 | [307353-rocket-crowbar.json](./307353-rocket-crowbar.json) |
 | Rocket Dodge | 108219 | [108219-rocket-dodge.json](./108219-rocket-dodge.json) |
