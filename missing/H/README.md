@@ -1840,6 +1840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hat Wizard | 95949 | [95949-hat-wizard.json](./95949-hat-wizard.json) |
 | Hat Wizard 2 | 101691 | [101691-hat-wizard-2.json](./101691-hat-wizard-2.json) |
 | Hat World: New Testament | 229186 | [229186-hat-world-new-testament.json](./229186-hat-world-new-testament.json) |
+| Hat'venture | 244636 | [244636-hatventure.json](./244636-hatventure.json) |
 | Hataraku Otona no Renai Jijou | 329642 | [329642-hataraku-otona-no-renai-jijou.json](./329642-hataraku-otona-no-renai-jijou.json) |
 | Hataraku Shoujo: Tekipaki Working Love FX | 281928 | [281928-hataraku-shoujo-tekipaki-working-love-fx.json](./281928-hataraku-shoujo-tekipaki-working-love-fx.json) |
 | Hatastrophe | 359914 | [359914-hatastrophe.json](./359914-hatastrophe.json) |
@@ -4916,6 +4917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexer | 148683 | [148683-hexer.json](./148683-hexer.json) |
 | Hexes | 147416 | [147416-hexes.json](./147416-hexes.json) |
 | Hexes | 243780 | [243780-hexes.json](./243780-hexes.json) |
+| Hexfinder | 244647 | [244647-hexfinder.json](./244647-hexfinder.json) |
 | Hexforger | 295866 | [295866-hexforger.json](./295866-hexforger.json) |
 | Hexgarden | 415118 | [415118-hexgarden.json](./415118-hexgarden.json) |
 | Hexguardian | 253372 | [253372-hexguardian.json](./253372-hexguardian.json) |
