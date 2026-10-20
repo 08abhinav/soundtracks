@@ -5423,6 +5423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping Pong Master | 108225 | [108225-ping-pong-master.json](./108225-ping-pong-master.json) |
 | Ping Pong Masters '93 | 65412 | [65412-ping-pong-masters-93.json](./65412-ping-pong-masters-93.json) |
 | Ping Pong Palz | 180508 | [180508-ping-pong-palz.json](./180508-ping-pong-palz.json) |
+| Ping Pong Peg | 226090 | [226090-ping-pong-peg.json](./226090-ping-pong-peg.json) |
 | Ping Pong Pow | 23605 | [23605-ping-pong-pow.json](./23605-ping-pong-pow.json) |
 | Ping Pong Pufferfish | 188985 | [188985-ping-pong-pufferfish.json](./188985-ping-pong-pufferfish.json) |
 | Ping Pong Space | 130965 | [130965-ping-pong-space.json](./130965-ping-pong-space.json) |
