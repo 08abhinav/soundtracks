@@ -792,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quickie: A Love Hotel Story | 158549 | [158549-quickie-a-love-hotel-story.json](./158549-quickie-a-love-hotel-story.json) |
 | Quickie: Fantasy Adventure | 275437 | [275437-quickie-fantasy-adventure.json](./275437-quickie-fantasy-adventure.json) |
 | QuickMaze | 358400 | [358400-quickmaze.json](./358400-quickmaze.json) |
+| Quickscope Simulator | 226086 | [226086-quickscope-simulator.json](./226086-quickscope-simulator.json) |
 | Quicksilver | 92450 | [92450-quicksilver.json](./92450-quicksilver.json) |
 | QuickSolve | 174316 | [174316-quicksolve.json](./174316-quicksolve.json) |
 | Quicksort | 383735 | [383735-quicksort.json](./383735-quicksort.json) |
@@ -922,6 +923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Thiz Spain: Silver Edition | 232716 | [232716-quiz-thiz-spain-silver-edition.json](./232716-quiz-thiz-spain-silver-edition.json) |
 | Quiz Thiz United Kingdom | 228371 | [228371-quiz-thiz-united-kingdom.json](./228371-quiz-thiz-united-kingdom.json) |
 | Quiz Thiz United Kingdom: Silver Edition | 229169 | [229169-quiz-thiz-united-kingdom-silver-edition.json](./229169-quiz-thiz-united-kingdom-silver-edition.json) |
+| Quiz Thiz USA | 226091 | [226091-quiz-thiz-usa.json](./226091-quiz-thiz-usa.json) |
 | Quiz Thiz USA: Bronze Edition | 227128 | [227128-quiz-thiz-usa-bronze-edition.json](./227128-quiz-thiz-usa-bronze-edition.json) |
 | Quiz Thiz USA: Gold Edition | 227881 | [227881-quiz-thiz-usa-gold-edition.json](./227881-quiz-thiz-usa-gold-edition.json) |
 | Quiz Time | 88558 | [88558-quiz-time.json](./88558-quiz-time.json) |
