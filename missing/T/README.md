@@ -1125,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talesshop Puzzle: Jugeobeorin Byeorui Neokduri Dummy | 167858 | [167858-talesshop-puzzle-jugeobeorin-byeorui-neokduri-dummy.json](./167858-talesshop-puzzle-jugeobeorin-byeorui-neokduri-dummy.json) |
 | TalesWeaver | 57117 | [57117-talesweaver.json](./57117-talesweaver.json) |
 | Talesworth Adventure: The Lost Artifacts | 111550 | [111550-talesworth-adventure-the-lost-artifacts.json](./111550-talesworth-adventure-the-lost-artifacts.json) |
+| Talevania | 235613 | [235613-talevania.json](./235613-talevania.json) |
 | Talewarden: Riders of the New Day | 361248 | [361248-talewarden-riders-of-the-new-day.json](./361248-talewarden-riders-of-the-new-day.json) |
 | Talewind | 25307 | [25307-talewind.json](./25307-talewind.json) |
 | Tali: A Roman Empire Game of Chance | 344489 | [344489-tali-a-roman-empire-game-of-chance.json](./344489-tali-a-roman-empire-game-of-chance.json) |
@@ -4570,6 +4571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Awakener: Risen | 172702 | [172702-the-awakener-risen.json](./172702-the-awakener-risen.json) |
 | The Awakening of a Villainous Lady: A Crimson and Pure White Romance | 310208 | [310208-the-awakening-of-a-villainous-lady-a-crimson-and-pure-white-romance.json](./310208-the-awakening-of-a-villainous-lady-a-crimson-and-pure-white-romance.json) |
 | The Awakening of Mummies | 147323 | [147323-the-awakening-of-mummies.json](./147323-the-awakening-of-mummies.json) |
+| The Awakening Program | 235606 | [235606-the-awakening-program.json](./235606-the-awakening-program.json) |
 | The Away Team: Lost Exodus | 120897 | [120897-the-away-team-lost-exodus.json](./120897-the-away-team-lost-exodus.json) |
 | The Awesome Adventures of Captain Spirit | 103283 | [103283-the-awesome-adventures-of-captain-spirit.json](./103283-the-awesome-adventures-of-captain-spirit.json) |
 | The Awesome Adventures of Victor Vector & Yondo: The Cyberplasm Formula | 72098 | [72098-the-awesome-adventures-of-victor-vector-and-yondo-the-cyberplasm-formula.json](./72098-the-awesome-adventures-of-victor-vector-and-yondo-the-cyberplasm-formula.json) |
@@ -12017,6 +12019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret Codes of C.Y.P.H.E.R.: Operation Wildlife | 68739 | [68739-the-secret-codes-of-c-y-p-h-e-r-operation-wildlife.json](./68739-the-secret-codes-of-c-y-p-h-e-r-operation-wildlife.json) |
 | The Secret Cove | 113444 | [113444-the-secret-cove.json](./113444-the-secret-cove.json) |
 | The Secret Diary of Adrian Mole Aged 13 3/4 | 26357 | [26357-the-secret-diary-of-adrian-mole-aged-13-3-4.json](./26357-the-secret-diary-of-adrian-mole-aged-13-3-4.json) |
+| The Secret Door | 235616 | [235616-the-secret-door.json](./235616-the-secret-door.json) |
 | The Secret Fake Ring | 352327 | [352327-the-secret-fake-ring.json](./352327-the-secret-fake-ring.json) |
 | The Secret Ingredient is... | 254988 | [254988-the-secret-ingredient-is.json](./254988-the-secret-ingredient-is.json) |
 | The Secret Installation | 271315 | [271315-the-secret-installation.json](./271315-the-secret-installation.json) |
@@ -13980,6 +13983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Voice: La Plus Belle Voix | 268433 | [268433-the-voice-la-plus-belle-voix.json](./268433-the-voice-la-plus-belle-voix.json) |
 | The Voices Games 2D Collection | 208590 | [208590-the-voices-games-2d-collection.json](./208590-the-voices-games-2d-collection.json) |
 | The Voices Games 3D Collection | 211776 | [211776-the-voices-games-3d-collection.json](./211776-the-voices-games-3d-collection.json) |
+| The Voices Games Extra Collection | 235624 | [235624-the-voices-games-extra-collection.json](./235624-the-voices-games-extra-collection.json) |
 | The Voices Stories | 259964 | [259964-the-voices-stories.json](./259964-the-voices-stories.json) |
 | The Void | 261703 | [261703-the-void.json](./261703-the-void.json) |
 | The Void | 340808 | [340808-the-void.json](./340808-the-void.json) |
