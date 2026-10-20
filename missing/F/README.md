@@ -6872,11 +6872,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football | 131533 | [131533-football.json](./131533-football.json) |
 | Football | 199023 | [199023-football.json](./199023-football.json) |
 | Football | 217830 | [217830-football.json](./217830-football.json) |
+| Football | 225529 | [225529-football.json](./225529-football.json) |
 | Football | 284440 | [284440-football.json](./284440-football.json) |
 | Football | 287511 | [287511-football.json](./287511-football.json) |
 | Football | 346756 | [346756-football.json](./346756-football.json) |
 | Football | 411534 | [411534-football.json](./411534-football.json) |
 | Football (for the TI 99/4A) | 92702 | [92702-football-for-the-ti-99-4a.json](./92702-football-for-the-ti-99-4a.json) |
+| Football 2 | 225530 | [225530-football-2.json](./225530-football-2.json) |
 | Football 2019 | 220064 | [220064-football-2019.json](./220064-football-2019.json) |
 | Football 2024 Journey | 305408 | [305408-football-2024-journey.json](./305408-football-2024-journey.json) |
 | Football Academy | 124015 | [124015-football-academy.json](./124015-football-academy.json) |
