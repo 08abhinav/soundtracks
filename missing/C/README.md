@@ -7796,6 +7796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clock Tower 3 | 18305 | [18305-clock-tower-3.json](./18305-clock-tower-3.json) |
 | Clock Tower Deluxe | 314695 | [314695-clock-tower-deluxe.json](./314695-clock-tower-deluxe.json) |
 | Clock Tower Madness | 386273 | [386273-clock-tower-madness.json](./386273-clock-tower-madness.json) |
+| Clock Tower: Ready for the Next | 214969 | [214969-clock-tower-ready-for-the-next.json](./214969-clock-tower-ready-for-the-next.json) |
 | Clock Tower: Rewind | 256465 | [256465-clock-tower-rewind.json](./256465-clock-tower-rewind.json) |
 | Clock World | 398579 | [398579-clock-world.json](./398579-clock-world.json) |
 | Clock Zero: Shuuen no Ichibyou - Devote | 202593 | [202593-clock-zero-shuuen-no-ichibyou-devote.json](./202593-clock-zero-shuuen-no-ichibyou-devote.json) |
@@ -9164,6 +9165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pages: Lumberhill Tales | 316917 | [316917-coloring-pages-lumberhill-tales.json](./316917-coloring-pages-lumberhill-tales.json) |
 | Coloring Pixel: Fantasy Characters | 173203 | [173203-coloring-pixel-fantasy-characters.json](./173203-coloring-pixel-fantasy-characters.json) |
 | Coloring Pixels | 105712 | [105712-coloring-pixels.json](./105712-coloring-pixels.json) |
+| Coloring Pixels: 1-Bit Pack | 214980 | [214980-coloring-pixels-1-bit-pack.json](./214980-coloring-pixels-1-bit-pack.json) |
 | Coloring Pixels: Advent 2 Pack | 162600 | [162600-coloring-pixels-advent-2-pack.json](./162600-coloring-pixels-advent-2-pack.json) |
 | Coloring Pixels: Advent 3 Pack | 225002 | [225002-coloring-pixels-advent-3-pack.json](./225002-coloring-pixels-advent-3-pack.json) |
 | Coloring Pixels: Advent 4 Pack | 227467 | [227467-coloring-pixels-advent-4-pack.json](./227467-coloring-pixels-advent-4-pack.json) |
@@ -9180,6 +9182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Collection 4 | 317232 | [317232-coloring-pixels-collection-4.json](./317232-coloring-pixels-collection-4.json) |
 | Coloring Pixels: Collection 5 | 320454 | [320454-coloring-pixels-collection-5.json](./320454-coloring-pixels-collection-5.json) |
 | Coloring Pixels: Comic Pack | 393615 | [393615-coloring-pixels-comic-pack.json](./393615-coloring-pixels-comic-pack.json) |
+| Coloring Pixels: Cute Pack | 214978 | [214978-coloring-pixels-cute-pack.json](./214978-coloring-pixels-cute-pack.json) |
 | Coloring Pixels: Dinosaurs Pack | 162590 | [162590-coloring-pixels-dinosaurs-pack.json](./162590-coloring-pixels-dinosaurs-pack.json) |
 | Coloring Pixels: Emoji Pack | 242391 | [242391-coloring-pixels-emoji-pack.json](./242391-coloring-pixels-emoji-pack.json) |
 | Coloring Pixels: Fairy Tales Pack | 162606 | [162606-coloring-pixels-fairy-tales-pack.json](./162606-coloring-pixels-fairy-tales-pack.json) |
@@ -9211,6 +9214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Microscopic Pack | 327369 | [327369-coloring-pixels-microscopic-pack.json](./327369-coloring-pixels-microscopic-pack.json) |
 | Coloring Pixels: Monsters Pack | 162610 | [162610-coloring-pixels-monsters-pack.json](./162610-coloring-pixels-monsters-pack.json) |
 | Coloring Pixels: Mythology 2 Pack | 201705 | [201705-coloring-pixels-mythology-2-pack.json](./201705-coloring-pixels-mythology-2-pack.json) |
+| Coloring Pixels: Mythology Pack | 214988 | [214988-coloring-pixels-mythology-pack.json](./214988-coloring-pixels-mythology-pack.json) |
 | Coloring Pixels: Natural Wonders | 393616 | [393616-coloring-pixels-natural-wonders.json](./393616-coloring-pixels-natural-wonders.json) |
 | Coloring Pixels: Oceania Pack | 313001 | [313001-coloring-pixels-oceania-pack.json](./313001-coloring-pixels-oceania-pack.json) |
 | Coloring Pixels: Onion Pack | 276232 | [276232-coloring-pixels-onion-pack.json](./276232-coloring-pixels-onion-pack.json) |
@@ -12969,6 +12973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Life: Gang Wars | 5791 | [5791-crime-life-gang-wars.json](./5791-crime-life-gang-wars.json) |
 | Crime Map: Spot the Hidden Differences | 234625 | [234625-crime-map-spot-the-hidden-differences.json](./234625-crime-map-spot-the-hidden-differences.json) |
 | Crime Moto Racer | 218695 | [218695-crime-moto-racer.json](./218695-crime-moto-racer.json) |
+| Crime O'Clock | 214945 | [214945-crime-oclock.json](./214945-crime-oclock.json) |
 | Crime Opera Collection | 332503 | [332503-crime-opera-collection.json](./332503-crime-opera-collection.json) |
 | Crime Opera Fandisk: The Caterpillar Candids | 330602 | [330602-crime-opera-fandisk-the-caterpillar-candids.json](./330602-crime-opera-fandisk-the-caterpillar-candids.json) |
 | Crime or Punishment | 294001 | [294001-crime-or-punishment.json](./294001-crime-or-punishment.json) |
@@ -14836,6 +14841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Caves | 89663 | [89663-cursed-caves.json](./89663-cursed-caves.json) |
 | Cursed Ciddy | 414620 | [414620-cursed-ciddy.json](./414620-cursed-ciddy.json) |
 | Cursed Clouds 64 | 415299 | [415299-cursed-clouds-64.json](./415299-cursed-clouds-64.json) |
+| Cursed Colors | 214962 | [214962-cursed-colors.json](./214962-cursed-colors.json) |
 | Cursed Conundrum | 320910 | [320910-cursed-conundrum.json](./320910-cursed-conundrum.json) |
 | Cursed Core | 398045 | [398045-cursed-core.json](./398045-cursed-core.json) |
 | Cursed Cove | 337056 | [337056-cursed-cove.json](./337056-cursed-cove.json) |
