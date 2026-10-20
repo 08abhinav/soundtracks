@@ -6213,6 +6213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of the Wolf | 258184 | [258184-chronicles-of-the-wolf.json](./258184-chronicles-of-the-wolf.json) |
 | Chronicles of Time: Timeline Zero | 239723 | [239723-chronicles-of-time-timeline-zero.json](./239723-chronicles-of-time-timeline-zero.json) |
 | Chronicles of Ultiria | 338526 | [338526-chronicles-of-ultiria.json](./338526-chronicles-of-ultiria.json) |
+| Chronicles of Vaeltaja: In Search of the Great Wanderer | 250786 | [250786-chronicles-of-vaeltaja-in-search-of-the-great-wanderer.json](./250786-chronicles-of-vaeltaja-in-search-of-the-great-wanderer.json) |
 | Chronicles of Vinland | 81008 | [81008-chronicles-of-vinland.json](./81008-chronicles-of-vinland.json) |
 | Chronicles of Vipers | 253321 | [253321-chronicles-of-vipers.json](./253321-chronicles-of-vipers.json) |
 | Chronicles of Witches & Warlocks | 52738 | [52738-chronicles-of-witches-and-warlocks.json](./52738-chronicles-of-witches-and-warlocks.json) |
@@ -10932,6 +10933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corporate 0 | 411123 | [411123-corporate-0.json](./411123-corporate-0.json) |
 | Corporate Chaos | 338886 | [338886-corporate-chaos.json](./338886-corporate-chaos.json) |
 | Corporate Cut: The Hair-Raising Adventure of an Office Employee | 338887 | [338887-corporate-cut-the-hair-raising-adventure-of-an-office-employee.json](./338887-corporate-cut-the-hair-raising-adventure-of-an-office-employee.json) |
+| Corporate Fat Cat | 250780 | [250780-corporate-fat-cat.json](./250780-corporate-fat-cat.json) |
 | Corporate Fury | 357584 | [357584-corporate-fury.json](./357584-corporate-fury.json) |
 | Corporate Hell | 391617 | [391617-corporate-hell.json](./391617-corporate-hell.json) |
 | Corporate Lockdown | 250005 | [250005-corporate-lockdown.json](./250005-corporate-lockdown.json) |
@@ -10954,6 +10956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse Killer | 5372 | [5372-corpse-killer.json](./5372-corpse-killer.json) |
 | Corpse Killer: 25th Anniversary Edition | 119715 | [119715-corpse-killer-25th-anniversary-edition.json](./119715-corpse-killer-25th-anniversary-edition.json) |
 | Corpse Mansion | 167353 | [167353-corpse-mansion.json](./167353-corpse-mansion.json) |
+| Corpse Master | 250805 | [250805-corpse-master.json](./250805-corpse-master.json) |
 | Corpse Master Carnage | 277020 | [277020-corpse-master-carnage.json](./277020-corpse-master-carnage.json) |
 | Corpse of Discovery | 11490 | [11490-corpse-of-discovery.json](./11490-corpse-of-discovery.json) |
 | Corpse Party | 11600 | [11600-corpse-party.json](./11600-corpse-party.json) |
@@ -13671,6 +13674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusher Makochan | 40109 | [40109-crusher-makochan.json](./40109-crusher-makochan.json) |
 | Crushiator | 339676 | [339676-crushiator.json](./339676-crushiator.json) |
 | Crushing Blow | 55525 | [55525-crushing-blow.json](./55525-crushing-blow.json) |
+| Crushing Depths | 250777 | [250777-crushing-depths.json](./250777-crushing-depths.json) |
 | Crushing Depths | 392473 | [392473-crushing-depths.json](./392473-crushing-depths.json) |
 | Crushing on the Clock | 376461 | [376461-crushing-on-the-clock.json](./376461-crushing-on-the-clock.json) |
 | Crust Crusaders | 187788 | [187788-crust-crusaders.json](./187788-crust-crusaders.json) |
