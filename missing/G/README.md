@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives+: Bokujou Monogatari Mobile - Life & Love | 315678 | [315678-g-mode-archives-bokujou-monogatari-mobile-life-and-love.json](./315678-g-mode-archives-bokujou-monogatari-mobile-life-and-love.json) |
 | G-Mode Archives+: Danmaku Kentei Shiken - Ketsui-Hen | 214712 | [214712-g-mode-archives-danmaku-kentei-shiken-ketsui-hen.json](./214712-g-mode-archives-danmaku-kentei-shiken-ketsui-hen.json) |
 | G-Mode Archives+: Flash Motor Karen | 388380 | [388380-g-mode-archives-flash-motor-karen.json](./388380-g-mode-archives-flash-motor-karen.json) |
+| G-Mode Archives+: Game Tengoku | 253228 | [253228-g-mode-archives-game-tengoku.json](./253228-g-mode-archives-game-tengoku.json) |
 | G-Mode Archives+: Idol Janshi Suchie-Pai | 256268 | [256268-g-mode-archives-idol-janshi-suchie-pai.json](./256268-g-mode-archives-idol-janshi-suchie-pai.json) |
 | G-Mode Archives+: Kishinden Strike-G- | 412402 | [412402-g-mode-archives-kishinden-strike-g.json](./412402-g-mode-archives-kishinden-strike-g.json) |
 | G-Mode Archives+: Lost Chronicle | 410819 | [410819-g-mode-archives-lost-chronicle.json](./410819-g-mode-archives-lost-chronicle.json) |
@@ -5613,6 +5614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grain Sling | 273916 | [273916-grain-sling.json](./273916-grain-sling.json) |
 | Grainhold | 390256 | [390256-grainhold.json](./390256-grainhold.json) |
 | Grainwind Incident 77 | 229358 | [229358-grainwind-incident-77.json](./229358-grainwind-incident-77.json) |
+| Gramik Paint Roller | 253223 | [253223-gramik-paint-roller.json](./253223-gramik-paint-roller.json) |
 | Gramik Paint Roller | 254129 | [254129-gramik-paint-roller.json](./254129-gramik-paint-roller.json) |
 | Grammar Fun 2nd Grade | 89081 | [89081-grammar-fun-2nd-grade.json](./89081-grammar-fun-2nd-grade.json) |
 | Grammar Monsters | 56981 | [56981-grammar-monsters.json](./56981-grammar-monsters.json) |
@@ -6016,6 +6018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grappling Gunners: Arena FPS | 273772 | [273772-grappling-gunners-arena-fps.json](./273772-grappling-gunners-arena-fps.json) |
 | Grappling Hook | 21106 | [21106-grappling-hook.json](./21106-grappling-hook.json) |
 | Grappling Hook Ball Tournament | 190404 | [190404-grappling-hook-ball-tournament.json](./190404-grappling-hook-ball-tournament.json) |
+| Grapploteer | 253213 | [253213-grapploteer.json](./253213-grapploteer.json) |
 | Grapply | 31612 | [31612-grapply.json](./31612-grapply.json) |
 | Grashers | 124247 | [124247-grashers.json](./124247-grashers.json) |
 | Grass Cut | 189917 | [189917-grass-cut.json](./189917-grass-cut.json) |
