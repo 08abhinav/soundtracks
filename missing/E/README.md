@@ -5263,6 +5263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Apples: Dirty as ____. | 86996 | [86996-evil-apples-dirty-as.json](./86996-evil-apples-dirty-as.json) |
 | Evil Awaits | 224596 | [224596-evil-awaits.json](./224596-evil-awaits.json) |
 | Evil Below | 151500 | [151500-evil-below.json](./151500-evil-below.json) |
+| Evil Bird Simulator | 209301 | [209301-evil-bird-simulator.json](./209301-evil-bird-simulator.json) |
 | Evil Castle & Princess | 258193 | [258193-evil-castle-and-princess.json](./258193-evil-castle-and-princess.json) |
 | Evil Clowns | 125267 | [125267-evil-clowns.json](./125267-evil-clowns.json) |
 | Evil Cogs | 93740 | [93740-evil-cogs.json](./93740-evil-cogs.json) |
