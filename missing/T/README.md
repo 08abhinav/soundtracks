@@ -4387,6 +4387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ancients' Tome | 124567 | [124567-the-ancients-tome.json](./124567-the-ancients-tome.json) |
 | The Anders Cyclopaedia | 327161 | [327161-the-anders-cyclopaedia.json](./327161-the-anders-cyclopaedia.json) |
 | The Andesia Project | 279100 | [279100-the-andesia-project.json](./279100-the-andesia-project.json) |
+| The Andromeda Mysteries | 244102 | [244102-the-andromeda-mysteries.json](./244102-the-andromeda-mysteries.json) |
 | The Andromeda Strain | 24167 | [24167-the-andromeda-strain.json](./24167-the-andromeda-strain.json) |
 | The Angel Factory | 409860 | [409860-the-angel-factory.json](./409860-the-angel-factory.json) |
 | The Angel's Devil Tail: One More Question 2 | 379016 | [379016-the-angels-devil-tail-one-more-question-2.json](./379016-the-angels-devil-tail-one-more-question-2.json) |
@@ -11344,6 +11345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Prototype | 309174 | [309174-the-prototype.json](./309174-the-prototype.json) |
 | The Prototype | 94771 | [94771-the-prototype.json](./94771-the-prototype.json) |
 | The Proud and the Few | 59321 | [59321-the-proud-and-the-few.json](./59321-the-proud-and-the-few.json) |
+| The Prowler Hell | 244095 | [244095-the-prowler-hell.json](./244095-the-prowler-hell.json) |
 | The Psychedelic Quest | 177451 | [177451-the-psychedelic-quest.json](./177451-the-psychedelic-quest.json) |
 | The Psychiatrist: Major Depression | 115530 | [115530-the-psychiatrist-major-depression.json](./115530-the-psychiatrist-major-depression.json) |
 | The Psychic | 106491 | [106491-the-psychic.json](./106491-the-psychic.json) |
@@ -22312,6 +22314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traption Bakery | 142436 | [142436-traption-bakery.json](./142436-traption-bakery.json) |
 | Trapventure | 334318 | [334318-trapventure.json](./334318-trapventure.json) |
 | Trash | 94319 | [94319-trash.json](./94319-trash.json) |
+| Trash & Fists | 244093 | [244093-trash-and-fists.json](./244093-trash-and-fists.json) |
 | Trash Bandits | 125430 | [125430-trash-bandits.json](./125430-trash-bandits.json) |
 | Trash Collector Simulator: Survive Edition | 351029 | [351029-trash-collector-simulator-survive-edition.json](./351029-trash-collector-simulator-survive-edition.json) |
 | Trash defense | 114397 | [114397-trash-defense.json](./114397-trash-defense.json) |
@@ -24695,12 +24698,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twists of My Life | 122798 | [122798-twists-of-my-life.json](./122798-twists-of-my-life.json) |
 | Twisty Arrow! | 100880 | [100880-twisty-arrow.json](./100880-twisty-arrow.json) |
 | Twisty Board 2 | 233998 | [233998-twisty-board-2.json](./233998-twisty-board-2.json) |
+| Twisty Break 3D | 244090 | [244090-twisty-break-3d.json](./244090-twisty-break-3d.json) |
 | Twisty Hollow | 344956 | [344956-twisty-hollow.json](./344956-twisty-hollow.json) |
 | Twisty Pals | 289195 | [289195-twisty-pals.json](./289195-twisty-pals.json) |
 | Twisty Planets Space Puzzle | 83577 | [83577-twisty-planets-space-puzzle.json](./83577-twisty-planets-space-puzzle.json) |
 | Twisty Puzzle World | 264536 | [264536-twisty-puzzle-world.json](./264536-twisty-puzzle-world.json) |
 | Twisty Road! | 87660 | [87660-twisty-road.json](./87660-twisty-road.json) |
 | Twisty Tracks | 73999 | [73999-twisty-tracks.json](./73999-twisty-tracks.json) |
+| Twisty Twins | 244111 | [244111-twisty-twins.json](./244111-twisty-twins.json) |
 | Twisty's Asylum Escapades | 31940 | [31940-twistys-asylum-escapades.json](./31940-twistys-asylum-escapades.json) |
 | Twitch Place | 230971 | [230971-twitch-place.json](./230971-twitch-place.json) |
 | Twitchbox | 96052 | [96052-twitchbox.json](./96052-twitchbox.json) |
