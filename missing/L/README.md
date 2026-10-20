@@ -1538,7 +1538,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lea | 310112 | [310112-lea.json](./310112-lea.json) |
 | Lead | 258843 | [258843-lead.json](./258843-lead.json) |
 | Lead & Blood | 372687 | [372687-lead-and-blood.json](./372687-lead-and-blood.json) |
-| Lead and Gold: Gangs of the Wild West | 2041 | [2041-lead-and-gold-gangs-of-the-wild-west.json](./2041-lead-and-gold-gangs-of-the-wild-west.json) |
 | Lead on Mars | 61728 | [61728-lead-on-mars.json](./61728-lead-on-mars.json) |
 | Lead Soldier | 270616 | [270616-lead-soldier.json](./270616-lead-soldier.json) |
 | Lead the Way | 196693 | [196693-lead-the-way.json](./196693-lead-the-way.json) |
@@ -5170,7 +5169,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locus | 92844 | [92844-locus.json](./92844-locus.json) |
 | Locus Solus | 32243 | [32243-locus-solus.json](./32243-locus-solus.json) |
 | Locust Hunter | 310821 | [310821-locust-hunter.json](./310821-locust-hunter.json) |
-| Loddlenaut | 152196 | [152196-loddlenaut.json](./152196-loddlenaut.json) |
 | Lode Runner | 166708 | [166708-lode-runner.json](./166708-lode-runner.json) |
 | Lode Runner | 197939 | [197939-lode-runner.json](./197939-lode-runner.json) |
 | Lode Runner | 282565 | [282565-lode-runner.json](./282565-lode-runner.json) |
