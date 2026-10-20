@@ -12751,6 +12751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creatures of Ava: Deluxe Edition | 312976 | [312976-creatures-of-ava-deluxe-edition.json](./312976-creatures-of-ava-deluxe-edition.json) |
 | Creatures of Ava: WDC Charity Backpack Trinkets Set | 312835 | [312835-creatures-of-ava-wdc-charity-backpack-trinkets-set.json](./312835-creatures-of-ava-wdc-charity-backpack-trinkets-set.json) |
 | Creatures of Ravenwood | 251969 | [251969-creatures-of-ravenwood.json](./251969-creatures-of-ravenwood.json) |
+| Creatures of the Deep | 224418 | [224418-creatures-of-the-deep.json](./224418-creatures-of-the-deep.json) |
 | Creatures of the Night | 335391 | [335391-creatures-of-the-night.json](./335391-creatures-of-the-night.json) |
 | Creatures of War | 217338 | [217338-creatures-of-war.json](./217338-creatures-of-war.json) |
 | Creatures Playground | 11378 | [11378-creatures-playground.json](./11378-creatures-playground.json) |
