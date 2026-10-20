@@ -501,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint Boy | 328591 | [328591-paint-boy.json](./328591-paint-boy.json) |
 | Paint by DS | 79868 | [79868-paint-by-ds.json](./79868-paint-by-ds.json) |
 | Paint By Numbers | 148346 | [148346-paint-by-numbers.json](./148346-paint-by-numbers.json) |
+| Paint By Numbers | 241830 | [241830-paint-by-numbers.json](./241830-paint-by-numbers.json) |
 | Paint By Numbers: 8-Bit World Ep. 10 | 305506 | [305506-paint-by-numbers-8-bit-world-ep-10.json](./305506-paint-by-numbers-8-bit-world-ep-10.json) |
 | Paint By Numbers: 8-Bit World Ep. 11 | 305503 | [305503-paint-by-numbers-8-bit-world-ep-11.json](./305503-paint-by-numbers-8-bit-world-ep-11.json) |
 | Paint By Numbers: 8-Bit World Ep. 12 | 305507 | [305507-paint-by-numbers-8-bit-world-ep-12.json](./305507-paint-by-numbers-8-bit-world-ep-12.json) |
@@ -516,6 +517,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint By Numbers: 8-Bit World Ep. 7 | 305512 | [305512-paint-by-numbers-8-bit-world-ep-7.json](./305512-paint-by-numbers-8-bit-world-ep-7.json) |
 | Paint By Numbers: 8-Bit World Ep. 8 | 305504 | [305504-paint-by-numbers-8-bit-world-ep-8.json](./305504-paint-by-numbers-8-bit-world-ep-8.json) |
 | Paint By Numbers: 8-Bit World Ep. 9 | 305509 | [305509-paint-by-numbers-8-bit-world-ep-9.json](./305509-paint-by-numbers-8-bit-world-ep-9.json) |
+| Paint By Numbers: Cooking Time! Ep. 1 | 241797 | [241797-paint-by-numbers-cooking-time-ep-1.json](./241797-paint-by-numbers-cooking-time-ep-1.json) |
+| Paint By Numbers: Cooking Time! Ep. 2 | 241796 | [241796-paint-by-numbers-cooking-time-ep-2.json](./241796-paint-by-numbers-cooking-time-ep-2.json) |
+| Paint By Numbers: Cooking Time! Ep. 3 | 241795 | [241795-paint-by-numbers-cooking-time-ep-3.json](./241795-paint-by-numbers-cooking-time-ep-3.json) |
+| Paint By Numbers: Cooking Time! Ep. 4 | 241798 | [241798-paint-by-numbers-cooking-time-ep-4.json](./241798-paint-by-numbers-cooking-time-ep-4.json) |
+| Paint By Numbers: Cooking Time! Ep. 5 | 241794 | [241794-paint-by-numbers-cooking-time-ep-5.json](./241794-paint-by-numbers-cooking-time-ep-5.json) |
+| Paint By Numbers: Cooking Time! Ep. 6 | 241793 | [241793-paint-by-numbers-cooking-time-ep-6.json](./241793-paint-by-numbers-cooking-time-ep-6.json) |
+| Paint By Numbers: Cooking Time! Ep. 7 | 241792 | [241792-paint-by-numbers-cooking-time-ep-7.json](./241792-paint-by-numbers-cooking-time-ep-7.json) |
 | Paint by Pixel 2 | 249203 | [249203-paint-by-pixel-2.json](./249203-paint-by-pixel-2.json) |
 | Paint by Words | 374600 | [374600-paint-by-words.json](./374600-paint-by-words.json) |
 | Paint Car Derby | 180028 | [180028-paint-car-derby.json](./180028-paint-car-derby.json) |
@@ -2415,6 +2423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PAW Patrol: Storm Rescuers | 230328 | [230328-paw-patrol-storm-rescuers.json](./230328-paw-patrol-storm-rescuers.json) |
 | Paw Patrol: The Movie Learning Phone | 274652 | [274652-paw-patrol-the-movie-learning-phone.json](./274652-paw-patrol-the-movie-learning-phone.json) |
 | Paw Patrol: World | 252175 | [252175-paw-patrol-world.json](./252175-paw-patrol-world.json) |
+| Paw Paw Destiny | 241786 | [241786-paw-paw-destiny.json](./241786-paw-paw-destiny.json) |
 | Pawafuru Puroyakyu 2024-2025 | 287890 | [287890-pawafuru-puroyakyu-2024-2025.json](./287890-pawafuru-puroyakyu-2024-2025.json) |
 | Pawafuru Puroyakyu: Eikan Nine Crossroad | 265625 | [265625-pawafuru-puroyakyu-eikan-nine-crossroad.json](./265625-pawafuru-puroyakyu-eikan-nine-crossroad.json) |
 | Pawapuro Adventures | 396373 | [396373-pawapuro-adventures.json](./396373-pawapuro-adventures.json) |
@@ -7949,6 +7958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pok The Little Artiste | 279557 | [279557-pok-the-little-artiste.json](./279557-pok-the-little-artiste.json) |
 | Poka-poka Mama Koi Onsen: Mommy's Warm Hot Sprint | 288432 | [288432-poka-poka-mama-koi-onsen-mommys-warm-hot-sprint.json](./288432-poka-poka-mama-koi-onsen-mommys-warm-hot-sprint.json) |
 | Pokaboo | 197851 | [197851-pokaboo.json](./197851-pokaboo.json) |
+| Poke All Toads | 241785 | [241785-poke-all-toads.json](./241785-poke-all-toads.json) |
 | Poké Everworld Online | 389447 | [389447-poke-everworld-online.json](./389447-poke-everworld-online.json) |
 | Poké Floats: Melee | 324526 | [324526-poke-floats-melee.json](./324526-poke-floats-melee.json) |
 | Poke Genie | 103549 | [103549-poke-genie.json](./103549-poke-genie.json) |
@@ -12797,6 +12807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puffy's Saga | 12725 | [12725-puffys-saga.json](./12725-puffys-saga.json) |
 | Pug and Seek | 341437 | [341437-pug-and-seek.json](./341437-pug-and-seek.json) |
 | Pug Hop Mole Bop | 254672 | [254672-pug-hop-mole-bop.json](./254672-pug-hop-mole-bop.json) |
+| Pug Rapids | 241812 | [241812-pug-rapids.json](./241812-pug-rapids.json) |
 | Pug'llector | 311252 | [311252-pugllector.json](./311252-pugllector.json) |
 | Pug's Quest | 82954 | [82954-pugs-quest.json](./82954-pugs-quest.json) |
 | Pugg | 211911 | [211911-pugg.json](./211911-pugg.json) |
