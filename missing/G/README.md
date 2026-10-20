@@ -6153,6 +6153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard Keeper II: Pre-Order Bonus | 415416 | [415416-graveyard-keeper-ii-pre-order-bonus.json](./415416-graveyard-keeper-ii-pre-order-bonus.json) |
 | Graveyard Keeper: Breaking Dead | 111556 | [111556-graveyard-keeper-breaking-dead.json](./111556-graveyard-keeper-breaking-dead.json) |
 | Graveyard Keeper: Collector's Edition | 134367 | [134367-graveyard-keeper-collectors-edition.json](./134367-graveyard-keeper-collectors-edition.json) |
+| Graveyard Keeper: Last Journey Edition | 246261 | [246261-graveyard-keeper-last-journey-edition.json](./246261-graveyard-keeper-last-journey-edition.json) |
 | Graveyard Keeper: Stranger Sins | 124879 | [124879-graveyard-keeper-stranger-sins.json](./124879-graveyard-keeper-stranger-sins.json) |
 | Graveyard Keeper: Undead Edition | 350798 | [350798-graveyard-keeper-undead-edition.json](./350798-graveyard-keeper-undead-edition.json) |
 | Graveyard Miner | 255800 | [255800-graveyard-miner.json](./255800-graveyard-miner.json) |
