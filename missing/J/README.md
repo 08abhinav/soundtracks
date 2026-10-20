@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Axe: The Trial | 165622 | [165622-jack-axe-the-trial.json](./165622-jack-axe-the-trial.json) |
 | Jack B. Nimble | 26883 | [26883-jack-b-nimble.json](./26883-jack-b-nimble.json) |
 | Jack Barau | 342411 | [342411-jack-barau.json](./342411-jack-barau.json) |
+| Jack Big Chin: Alien Invasion | 212130 | [212130-jack-big-chin-alien-invasion.json](./212130-jack-big-chin-alien-invasion.json) |
 | Jack Blacksmith | 231942 | [231942-jack-blacksmith.json](./231942-jack-blacksmith.json) |
 | Jack Claw | 63244 | [63244-jack-claw.json](./63244-jack-claw.json) |
 | Jack Flash | 93078 | [93078-jack-flash.json](./93078-jack-flash.json) |
@@ -2945,6 +2946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jusou: Gakkou no Kaidan | 308906 | [308906-jusou-gakkou-no-kaidan.json](./308906-jusou-gakkou-no-kaidan.json) |
 | Just 1 Minute! Memory Test with Masterpieces | 316273 | [316273-just-1-minute-memory-test-with-masterpieces.json](./316273-just-1-minute-memory-test-with-masterpieces.json) |
 | Just 15 minutes | 151594 | [151594-just-15-minutes.json](./151594-just-15-minutes.json) |
+| Just a Chest | 212128 | [212128-just-a-chest.json](./212128-just-a-chest.json) |
 | Just a Cute Capybara Puzzle | 295284 | [295284-just-a-cute-capybara-puzzle.json](./295284-just-a-cute-capybara-puzzle.json) |
 | Just A Dream | 304894 | [304894-just-a-dream.json](./304894-just-a-dream.json) |
 | Just A Dream | 65788 | [65788-just-a-dream.json](./65788-just-a-dream.json) |
