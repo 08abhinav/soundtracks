@@ -5310,6 +5310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Frickbear's 3 | 341540 | [341540-five-nights-at-frickbears-3.json](./341540-five-nights-at-frickbears-3.json) |
 | Five Nights at Frickbears 2 | 395010 | [395010-five-nights-at-frickbears-2.json](./395010-five-nights-at-frickbears-2.json) |
 | Five Nights at Friedrich's | 381852 | [381852-five-nights-at-friedrichs.json](./381852-five-nights-at-friedrichs.json) |
+| Five Nights At Furry's | 223349 | [223349-five-nights-at-furrys.json](./223349-five-nights-at-furrys.json) |
 | Five Nights at FuzzBoob's: Definitive Edition | 240483 | [240483-five-nights-at-fuzzboobs-definitive-edition.json](./240483-five-nights-at-fuzzboobs-definitive-edition.json) |
 | Five Nights At Ghost House | 175737 | [175737-five-nights-at-ghost-house.json](./175737-five-nights-at-ghost-house.json) |
 | Five Nights at Grasos's | 387586 | [387586-five-nights-at-grasoss.json](./387586-five-nights-at-grasoss.json) |
@@ -9071,6 +9072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fright Cops | 216459 | [216459-fright-cops.json](./216459-fright-cops.json) |
 | Fright Fight | 61901 | [61901-fright-fight.json](./61901-fright-fight.json) |
 | Fright House | 329352 | [329352-fright-house.json](./329352-fright-house.json) |
+| Fright Knight Legend | 223333 | [223333-fright-knight-legend.json](./223333-fright-knight-legend.json) |
 | Fright Light | 31539 | [31539-fright-light.json](./31539-fright-light.json) |
 | Fright Night | 205031 | [205031-fright-night.json](./205031-fright-night.json) |
 | FrightDiary | 368818 | [368818-frightdiary.json](./368818-frightdiary.json) |
