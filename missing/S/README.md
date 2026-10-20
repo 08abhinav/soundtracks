@@ -8927,6 +8927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate O'Clock | 298093 | [298093-skate-oclock.json](./298093-skate-oclock.json) |
 | Skate of Emergency | 74773 | [74773-skate-of-emergency.json](./74773-skate-of-emergency.json) |
 | Skate or Die | 12267 | [12267-skate-or-die.json](./12267-skate-or-die.json) |
+| Skate or Die | 218917 | [218917-skate-or-die.json](./218917-skate-or-die.json) |
 | Skate or Die | 40929 | [40929-skate-or-die.json](./40929-skate-or-die.json) |
 | Skate or Die 2: The Search for Double Trouble | 48181 | [48181-skate-or-die-2-the-search-for-double-trouble.json](./48181-skate-or-die-2-the-search-for-double-trouble.json) |
 | Skate or Die: Bad 'N Rad | 128440 | [128440-skate-or-die-bad-n-rad.json](./128440-skate-or-die-bad-n-rad.json) |
@@ -18286,6 +18287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trapper FX | 196037 | [196037-star-trapper-fx.json](./196037-star-trapper-fx.json) |
 | Star Trek | 11485 | [11485-star-trek.json](./11485-star-trek.json) |
 | Star Trek | 131474 | [131474-star-trek.json](./131474-star-trek.json) |
+| Star Trek | 218919 | [218919-star-trek.json](./218919-star-trek.json) |
 | Star Trek | 247203 | [247203-star-trek.json](./247203-star-trek.json) |
 | Star Trek | 326626 | [326626-star-trek.json](./326626-star-trek.json) |
 | Star Trek | 80425 | [80425-star-trek.json](./80425-star-trek.json) |
@@ -18317,6 +18319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek​ x World of Warships: Commander Spock | 332622 | [332622-star-trek-x-world-of-warships-commander-spock.json](./332622-star-trek-x-world-of-warships-commander-spock.json) |
 | Star Trek: 20Q | 320400 | [320400-star-trek-20q.json](./320400-star-trek-20q.json) |
 | Star Trek: 25th Anniversary | 147343 | [147343-star-trek-25th-anniversary.json](./147343-star-trek-25th-anniversary.json) |
+| Star Trek: 25th Anniversary | 218920 | [218920-star-trek-25th-anniversary.json](./218920-star-trek-25th-anniversary.json) |
 | Star Trek: 25th Anniversary | 2231 | [2231-star-trek-25th-anniversary.json](./2231-star-trek-25th-anniversary.json) |
 | Star Trek: Alien Domain | 23645 | [23645-star-trek-alien-domain.json](./23645-star-trek-alien-domain.json) |
 | Star Trek: Armada III | 191510 | [191510-star-trek-armada-iii.json](./191510-star-trek-armada-iii.json) |
@@ -21468,6 +21471,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stroke the Hamster | 218563 | [218563-stroke-the-hamster.json](./218563-stroke-the-hamster.json) |
 | Stroke the Hedgehog | 218564 | [218564-stroke-the-hedgehog.json](./218564-stroke-the-hedgehog.json) |
 | Stroke the Koala | 243607 | [243607-stroke-the-koala.json](./243607-stroke-the-koala.json) |
+| Stroke the Parrot | 218941 | [218941-stroke-the-parrot.json](./218941-stroke-the-parrot.json) |
+| Stroke the Rabbit | 218939 | [218939-stroke-the-rabbit.json](./218939-stroke-the-rabbit.json) |
 | Stroke the Snake | 218943 | [218943-stroke-the-snake.json](./218943-stroke-the-snake.json) |
 | Stroke the Spider | 221074 | [221074-stroke-the-spider.json](./221074-stroke-the-spider.json) |
 | Stroke the Tortoise | 220344 | [220344-stroke-the-tortoise.json](./220344-stroke-the-tortoise.json) |
