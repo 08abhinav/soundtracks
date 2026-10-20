@@ -1772,6 +1772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaze of Dread | 293006 | [293006-gaze-of-dread.json](./293006-gaze-of-dread.json) |
 | Gaze of the Eyeless | 191089 | [191089-gaze-of-the-eyeless.json](./191089-gaze-of-the-eyeless.json) |
 | Gazed | 393476 | [393476-gazed.json](./393476-gazed.json) |
+| Gazelle in a Winter Coat | 216614 | [216614-gazelle-in-a-winter-coat.json](./216614-gazelle-in-a-winter-coat.json) |
 | Gazillionaire | 69550 | [69550-gazillionaire.json](./69550-gazillionaire.json) |
 | Gazing from beyond | 83497 | [83497-gazing-from-beyond.json](./83497-gazing-from-beyond.json) |
 | Gazmatera II: America's Least Wanted | 190029 | [190029-gazmatera-ii-americas-least-wanted.json](./190029-gazmatera-ii-americas-least-wanted.json) |
@@ -2988,6 +2989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GhostCast | 169840 | [169840-ghostcast.json](./169840-ghostcast.json) |
 | GhostCatcher | 257961 | [257961-ghostcatcher.json](./257961-ghostcatcher.json) |
 | Ghostcon: Elementals | 247773 | [247773-ghostcon-elementals.json](./247773-ghostcon-elementals.json) |
+| GhostCry Hill | 216616 | [216616-ghostcry-hill.json](./216616-ghostcry-hill.json) |
 | Ghosted | 221033 | [221033-ghosted.json](./221033-ghosted.json) |
 | Ghosted | 418760 | [418760-ghosted.json](./418760-ghosted.json) |
 | Ghosteez | 276936 | [276936-ghosteez.json](./276936-ghosteez.json) |
@@ -4816,6 +4818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Leaf Jigsaw Puzzles: Expansion Pack 1 | 268998 | [268998-golden-leaf-jigsaw-puzzles-expansion-pack-1.json](./268998-golden-leaf-jigsaw-puzzles-expansion-pack-1.json) |
 | Golden Leaf Jigsaw Puzzles: Expansion Pack 2 | 268999 | [268999-golden-leaf-jigsaw-puzzles-expansion-pack-2.json](./268999-golden-leaf-jigsaw-puzzles-expansion-pack-2.json) |
 | Golden Leaf Jigsaw Puzzles: Expansion Pack 3 | 269000 | [269000-golden-leaf-jigsaw-puzzles-expansion-pack-3.json](./269000-golden-leaf-jigsaw-puzzles-expansion-pack-3.json) |
+| Golden Light of Rose | 216628 | [216628-golden-light-of-rose.json](./216628-golden-light-of-rose.json) |
 | Golden Manager | 243729 | [243729-golden-manager.json](./243729-golden-manager.json) |
 | Golden Marriage | 60396 | [60396-golden-marriage.json](./60396-golden-marriage.json) |
 | Golden Marriage: Jewel Days | 60395 | [60395-golden-marriage-jewel-days.json](./60395-golden-marriage-jewel-days.json) |
@@ -5127,6 +5130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goo Go | 304380 | [304380-goo-go.json](./304380-goo-go.json) |
 | Goo Goo Grapplers | 349717 | [349717-goo-goo-grapplers.json](./349717-goo-goo-grapplers.json) |
 | Goo Hunter | 333128 | [333128-goo-hunter.json](./333128-goo-hunter.json) |
+| Goo Keeper | 216617 | [216617-goo-keeper.json](./216617-goo-keeper.json) |
 | Goo Saga | 57709 | [57709-goo-saga.json](./57709-goo-saga.json) |
 | Goo Saga: HD Edition | 31941 | [31941-goo-saga-hd-edition.json](./31941-goo-saga-hd-edition.json) |
 | Goob Wants an Android Girlfriend | 390244 | [390244-goob-wants-an-android-girlfriend.json](./390244-goob-wants-an-android-girlfriend.json) |
@@ -5264,6 +5268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goofball Goals | 60895 | [60895-goofball-goals.json](./60895-goofball-goals.json) |
 | Goofy | 198750 | [198750-goofy.json](./198750-goofy.json) |
 | Goofy Ahh Game | 396724 | [396724-goofy-ahh-game.json](./396724-goofy-ahh-game.json) |
+| Goofy Dungeon | 216650 | [216650-goofy-dungeon.json](./216650-goofy-dungeon.json) |
 | Goofy Gorillas | 276667 | [276667-goofy-gorillas.json](./276667-goofy-gorillas.json) |
 | Goofy Insanity | 259240 | [259240-goofy-insanity.json](./259240-goofy-insanity.json) |
 | Goofy Lil Guys | 335250 | [335250-goofy-lil-guys.json](./335250-goofy-lil-guys.json) |
