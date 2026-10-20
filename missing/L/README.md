@@ -3812,6 +3812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilith's Syndrome | 297037 | [297037-liliths-syndrome.json](./297037-liliths-syndrome.json) |
 | Lilium | 128653 | [128653-lilium.json](./128653-lilium.json) |
 | Lilium: Kiss Me Everyday | 394621 | [394621-lilium-kiss-me-everyday.json](./394621-lilium-kiss-me-everyday.json) |
+| Lillian Night: Exclusive Contract of Succubus | 235592 | [235592-lillian-night-exclusive-contract-of-succubus.json](./235592-lillian-night-exclusive-contract-of-succubus.json) |
 | Lillie is the Keeper | 232396 | [232396-lillie-is-the-keeper.json](./232396-lillie-is-the-keeper.json) |
 | Lilliput Hero: Miniature World | 344241 | [344241-lilliput-hero-miniature-world.json](./344241-lilliput-hero-miniature-world.json) |
 | Lilly and Sasha: Guardian Angels | 34954 | [34954-lilly-and-sasha-guardian-angels.json](./34954-lilly-and-sasha-guardian-angels.json) |
@@ -6193,6 +6194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Oath | 260600 | [260600-lost-oath.json](./260600-lost-oath.json) |
 | Lost Oddies | 243097 | [243097-lost-oddies.json](./243097-lost-oddies.json) |
 | Lost Odyssey: Seeker of the Deep! | 120313 | [120313-lost-odyssey-seeker-of-the-deep.json](./120313-lost-odyssey-seeker-of-the-deep.json) |
+| Lost Oliver | 235595 | [235595-lost-oliver.json](./235595-lost-oliver.json) |
 | Lost Orbit | 21597 | [21597-lost-orbit.json](./21597-lost-orbit.json) |
 | Lost Orbit: Terminal Velocity | 120185 | [120185-lost-orbit-terminal-velocity.json](./120185-lost-orbit-terminal-velocity.json) |
 | Lost Order | 22789 | [22789-lost-order.json](./22789-lost-order.json) |
@@ -6557,6 +6559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Me | 346741 | [346741-love-me.json](./346741-love-me.json) |
 | Love Me Not | 252147 | [252147-love-me-not.json](./252147-love-me-not.json) |
 | Love Meeting | 165032 | [165032-love-meeting.json](./165032-love-meeting.json) |
+| Love Menu | 235591 | [235591-love-menu.json](./235591-love-menu.json) |
 | Love My Pegasus | 239871 | [239871-love-my-pegasus.json](./239871-love-my-pegasus.json) |
 | Love Mystery Club | 155669 | [155669-love-mystery-club.json](./155669-love-mystery-club.json) |
 | Love Mythos: Sanctuary Island | 116309 | [116309-love-mythos-sanctuary-island.json](./116309-love-mythos-sanctuary-island.json) |
