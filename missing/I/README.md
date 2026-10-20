@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I am Rolling | 249108 | [249108-i-am-rolling.json](./249108-i-am-rolling.json) |
 | I am Sakuya VR: Touhou FPS Game | 244477 | [244477-i-am-sakuya-vr-touhou-fps-game.json](./244477-i-am-sakuya-vr-touhou-fps-game.json) |
 | I am Sakuya: Touhou FPS Game | 199475 | [199475-i-am-sakuya-touhou-fps-game.json](./199475-i-am-sakuya-touhou-fps-game.json) |
+| I am Sakuya: Touhou FPS Game - Reimu | 235630 | [235630-i-am-sakuya-touhou-fps-game-reimu.json](./235630-i-am-sakuya-touhou-fps-game-reimu.json) |
 | I am Setsuna: Collector's Edition | 53216 | [53216-i-am-setsuna-collectors-edition.json](./53216-i-am-setsuna-collectors-edition.json) |
 | I Am Short | 265353 | [265353-i-am-short.json](./265353-i-am-short.json) |
 | I am Slime | 389720 | [389720-i-am-slime.json](./389720-i-am-slime.json) |
@@ -160,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Bees 0 | 211735 | [211735-i-commissioned-some-bees-0.json](./211735-i-commissioned-some-bees-0.json) |
 | I Commissioned Some Bees 10 | 224776 | [224776-i-commissioned-some-bees-10.json](./224776-i-commissioned-some-bees-10.json) |
 | I Commissioned Some Bees 13 | 270139 | [270139-i-commissioned-some-bees-13.json](./270139-i-commissioned-some-bees-13.json) |
+| I Commissioned Some Bees 14 | 235612 | [235612-i-commissioned-some-bees-14.json](./235612-i-commissioned-some-bees-14.json) |
 | I Commissioned Some Bees 2 | 205245 | [205245-i-commissioned-some-bees-2.json](./205245-i-commissioned-some-bees-2.json) |
 | I Commissioned Some Bees 3 | 207790 | [207790-i-commissioned-some-bees-3.json](./207790-i-commissioned-some-bees-3.json) |
 | I Commissioned Some Bees 4 | 211687 | [211687-i-commissioned-some-bees-4.json](./211687-i-commissioned-some-bees-4.json) |
