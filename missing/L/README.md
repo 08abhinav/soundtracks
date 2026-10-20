@@ -905,6 +905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Command: Scream Fest pack | 263039 | [263039-last-command-scream-fest-pack.json](./263039-last-command-scream-fest-pack.json) |
 | Last Contingency | 152902 | [152902-last-contingency.json](./152902-last-contingency.json) |
 | Last Course | 356289 | [356289-last-course.json](./356289-last-course.json) |
+| Last Crash | 209299 | [209299-last-crash.json](./209299-last-crash.json) |
 | Last Dawn | 236847 | [236847-last-dawn.json](./236847-last-dawn.json) |
 | Last Day | 224026 | [224026-last-day.json](./224026-last-day.json) |
 | Last Day Lockdown | 272758 | [272758-last-day-lockdown.json](./272758-last-day-lockdown.json) |
@@ -996,6 +997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Hope - Tower Defense | 33735 | [33735-last-hope-tower-defense.json](./33735-last-hope-tower-defense.json) |
 | Last Hope 3: Sniper Zombie War | 208931 | [208931-last-hope-3-sniper-zombie-war.json](./208931-last-hope-3-sniper-zombie-war.json) |
 | Last Hope on Earth | 145586 | [145586-last-hope-on-earth.json](./145586-last-hope-on-earth.json) |
+| Last Hope Sniper | 208218 | [208218-last-hope-sniper.json](./208218-last-hope-sniper.json) |
 | Last Hope Z - VR | 117822 | [117822-last-hope-z-vr.json](./117822-last-hope-z-vr.json) |
 | Last Hope: Pink Bullets | 45817 | [45817-last-hope-pink-bullets.json](./45817-last-hope-pink-bullets.json) |
 | Last Hopeless | 255991 | [255991-last-hopeless.json](./255991-last-hopeless.json) |
@@ -1622,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Maidens | 38786 | [38786-league-of-maidens.json](./38786-league-of-maidens.json) |
 | League of Maidens: Standard Edition | 343745 | [343745-league-of-maidens-standard-edition.json](./343745-league-of-maidens-standard-edition.json) |
 | League of Mermaids | 34920 | [34920-league-of-mermaids.json](./34920-league-of-mermaids.json) |
+| League of Pantheons | 208173 | [208173-league-of-pantheons.json](./208173-league-of-pantheons.json) |
 | League of Piss | 383041 | [383041-league-of-piss.json](./383041-league-of-piss.json) |
 | League of Speedrunners | 277265 | [277265-league-of-speedrunners.json](./277265-league-of-speedrunners.json) |
 | League of Stickman | 99720 | [99720-league-of-stickman.json](./99720-league-of-stickman.json) |
@@ -1927,6 +1930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Egypt: Pharaohs Garden 2 - The sacred crocodile | 215339 | [215339-legend-of-egypt-pharaohs-garden-2-the-sacred-crocodile.json](./215339-legend-of-egypt-pharaohs-garden-2-the-sacred-crocodile.json) |
 | Legend of Empress | 255118 | [255118-legend-of-empress.json](./255118-legend-of-empress.json) |
 | Legend of Equip > Pants | 396346 | [396346-legend-of-equip-pants.json](./396346-legend-of-equip-pants.json) |
+| Legend of Etad | 208211 | [208211-legend-of-etad.json](./208211-legend-of-etad.json) |
 | Legend of Fae | 16262 | [16262-legend-of-fae.json](./16262-legend-of-fae.json) |
 | Legend of Fairies | 73814 | [73814-legend-of-fairies.json](./73814-legend-of-fairies.json) |
 | Legend of Fighters | 62670 | [62670-legend-of-fighters.json](./62670-legend-of-fighters.json) |
@@ -4798,6 +4802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liùmángzhū Chuánshuō | 394185 | [394185-liumangzhu-chuanshuo.json](./394185-liumangzhu-chuanshuo.json) |
 | Liuyin's World | 346566 | [346566-liuyins-world.json](./346566-liuyins-world.json) |
 | Liv | 386475 | [386475-liv.json](./386475-liv.json) |
+| Live a Hero | 208172 | [208172-live-a-hero.json](./208172-live-a-hero.json) |
 | Live Action-Bit Theater "Route Yonroku" | 319312 | [319312-live-action-bit-theater-route-yonroku.json](./319312-live-action-bit-theater-route-yonroku.json) |
 | Live Adventure | 187298 | [187298-live-adventure.json](./187298-live-adventure.json) |
 | Live Ammo | 93030 | [93030-live-ammo.json](./93030-live-ammo.json) |
@@ -5755,6 +5760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looty Dungeon | 104516 | [104516-looty-dungeon.json](./104516-looty-dungeon.json) |
 | LooWarVR | 31838 | [31838-loowarvr.json](./31838-loowarvr.json) |
 | Looxi | 343248 | [343248-looxi.json](./343248-looxi.json) |
+| Loplight | 208210 | [208210-loplight.json](./208210-loplight.json) |
 | Lopp | 81648 | [81648-lopp.json](./81648-lopp.json) |
 | Loppi Puzzle Magazine: Hirameku Soukangou | 226398 | [226398-loppi-puzzle-magazine-hirameku-soukangou.json](./226398-loppi-puzzle-magazine-hirameku-soukangou.json) |
 | Loppi Puzzle Magazine: Kangaeru Dai-2-gou | 226399 | [226399-loppi-puzzle-magazine-kangaeru-dai-2-gou.json](./226399-loppi-puzzle-magazine-kangaeru-dai-2-gou.json) |
@@ -5979,6 +5985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Between | 232914 | [232914-lost-between.json](./232914-lost-between.json) |
 | Lost Beyond | 213542 | [213542-lost-beyond.json](./213542-lost-beyond.json) |
 | Lost Bits | 256702 | [256702-lost-bits.json](./256702-lost-bits.json) |
+| Lost Blade | 208171 | [208171-lost-blade.json](./208171-lost-blade.json) |
 | Lost Boy | 179063 | [179063-lost-boy.json](./179063-lost-boy.json) |
 | Lost Brother | 323895 | [323895-lost-brother.json](./323895-lost-brother.json) |
 | Lost Brothers | 127311 | [127311-lost-brothers.json](./127311-lost-brothers.json) |
