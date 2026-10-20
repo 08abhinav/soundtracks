@@ -2261,6 +2261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manhattan Dolls | 265329 | [265329-manhattan-dolls.json](./265329-manhattan-dolls.json) |
 | Manhattan Requiem | 349955 | [349955-manhattan-requiem.json](./349955-manhattan-requiem.json) |
 | Manhole | 100229 | [100229-manhole.json](./100229-manhole.json) |
+| Manhole | 231719 | [231719-manhole.json](./231719-manhole.json) |
 | Manhole-e: Classic Version | 92847 | [92847-manhole-e-classic-version.json](./92847-manhole-e-classic-version.json) |
 | Manhunt | 1971 | [1971-manhunt.json](./1971-manhunt.json) |
 | Manhunt 2 | 1972 | [1972-manhunt-2.json](./1972-manhunt-2.json) |
@@ -2788,6 +2789,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Bros. | 192924 | [192924-mario-bros.json](./192924-mario-bros.json) |
 | Mario Bros. | 193280 | [193280-mario-bros.json](./193280-mario-bros.json) |
 | Mario Bros. | 193281 | [193281-mario-bros.json](./193281-mario-bros.json) |
+| Mario Bros. | 231740 | [231740-mario-bros.json](./231740-mario-bros.json) |
+| Mario Bros. | 231741 | [231741-mario-bros.json](./231741-mario-bros.json) |
 | Mario Bros. | 257638 | [257638-mario-bros.json](./257638-mario-bros.json) |
 | Mario Bros. | 3105 | [3105-mario-bros.json](./3105-mario-bros.json) |
 | Mario Bros. | 363314 | [363314-mario-bros.json](./363314-mario-bros.json) |
@@ -3102,6 +3105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Balls | 343829 | [343829-marios-balls.json](./343829-marios-balls.json) |
 | Mario's Bombs Away | 131938 | [131938-marios-bombs-away.json](./131938-marios-bombs-away.json) |
 | Mario's Carnival Quest | 307903 | [307903-marios-carnival-quest.json](./307903-marios-carnival-quest.json) |
+| Mario's Cement Factory | 231746 | [231746-marios-cement-factory.json](./231746-marios-cement-factory.json) |
 | Mario's Cement Factory | 67940 | [67940-marios-cement-factory.json](./67940-marios-cement-factory.json) |
 | Mario's Cement Factory C64 | 289585 | [289585-marios-cement-factory-c64.json](./289585-marios-cement-factory-c64.json) |
 | Mario's Deadly Flight | 323183 | [323183-marios-deadly-flight.json](./323183-marios-deadly-flight.json) |
