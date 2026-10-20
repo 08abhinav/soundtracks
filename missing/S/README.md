@@ -5759,6 +5759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Galaxy | 73258 | [73258-shattered-galaxy.json](./73258-shattered-galaxy.json) |
 | Shattered God - Quest for the Divine Relic | 41935 | [41935-shattered-god-quest-for-the-divine-relic.json](./41935-shattered-god-quest-for-the-divine-relic.json) |
 | Shattered Haven | 9407 | [9407-shattered-haven.json](./9407-shattered-haven.json) |
+| Shattered Heaven | 207659 | [207659-shattered-heaven.json](./207659-shattered-heaven.json) |
 | Shattered Hourglass | 133422 | [133422-shattered-hourglass.json](./133422-shattered-hourglass.json) |
 | Shattered Kingdoms | 229137 | [229137-shattered-kingdoms.json](./229137-shattered-kingdoms.json) |
 | Shattered Kingdoms | 285335 | [285335-shattered-kingdoms.json](./285335-shattered-kingdoms.json) |
@@ -10924,6 +10925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smoking Snakes | 197952 | [197952-smoking-snakes.json](./197952-smoking-snakes.json) |
 | Smokkehed | 368788 | [368788-smokkehed.json](./368788-smokkehed.json) |
 | Smoky White | 326777 | [326777-smoky-white.json](./326777-smoky-white.json) |
+| Smokyflex | 207693 | [207693-smokyflex.json](./207693-smokyflex.json) |
 | Smol Adventure | 353893 | [353893-smol-adventure.json](./353893-smol-adventure.json) |
 | Smol Birb | 139262 | [139262-smol-birb.json](./139262-smol-birb.json) |
 | Smol Dungeon | 187843 | [187843-smol-dungeon.json](./187843-smol-dungeon.json) |
@@ -11032,6 +11034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snackroach | 257251 | [257251-snackroach.json](./257251-snackroach.json) |
 | SnackTimeActionGame | 371593 | [371593-snacktimeactiongame.json](./371593-snacktimeactiongame.json) |
 | Snacktorio | 244121 | [244121-snacktorio.json](./244121-snacktorio.json) |
+| Snacky Tower | 207665 | [207665-snacky-tower.json](./207665-snacky-tower.json) |
 | Snafu | 5697 | [5697-snafu.json](./5697-snafu.json) |
 | Snafubar | 386438 | [386438-snafubar.json](./386438-snafubar.json) |
 | Snägäri Pinball | 388765 | [388765-snagari-pinball.json](./388765-snagari-pinball.json) |
@@ -11653,6 +11656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboarding+ | 90527 | [90527-snowboarding.json](./90527-snowboarding.json) |
 | Snowbound Blood | 177348 | [177348-snowbound-blood.json](./177348-snowbound-blood.json) |
 | Snowbound: Dead of Winter | 310131 | [310131-snowbound-dead-of-winter.json](./310131-snowbound-dead-of-winter.json) |
+| SnowBrawl | 207685 | [207685-snowbrawl.json](./207685-snowbrawl.json) |
 | Snowbrawll | 235461 | [235461-snowbrawll.json](./235461-snowbrawll.json) |
 | Snowcat Simulator | 9479 | [9479-snowcat-simulator.json](./9479-snowcat-simulator.json) |
 | Snowcat Simulator 2011 | 9480 | [9480-snowcat-simulator-2011.json](./9480-snowcat-simulator-2011.json) |
@@ -14888,6 +14892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Mission SM-11 | 235219 | [235219-space-mission-sm-11.json](./235219-space-mission-sm-11.json) |
 | Space Moguls | 124600 | [124600-space-moguls.json](./124600-space-moguls.json) |
 | Space Molmae | 202645 | [202645-space-molmae.json](./202645-space-molmae.json) |
+| Space Monkeys | 207691 | [207691-space-monkeys.json](./207691-space-monkeys.json) |
 | Space Monster | 162585 | [162585-space-monster.json](./162585-space-monster.json) |
 | Space Monster | 72971 | [72971-space-monster.json](./72971-space-monster.json) |
 | Space Moonshiner | 230969 | [230969-space-moonshiner.json](./230969-space-moonshiner.json) |
@@ -15298,6 +15303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacejacked | 24046 | [24046-spacejacked.json](./24046-spacejacked.json) |
 | Spacejump | 250598 | [250598-spacejump.json](./250598-spacejump.json) |
 | Spaceketball | 96225 | [96225-spaceketball.json](./96225-spaceketball.json) |
+| SpaceKraft! | 207671 | [207671-spacekraft.json](./207671-spacekraft.json) |
 | Spacelair | 114444 | [114444-spacelair.json](./114444-spacelair.json) |
 | Spaceland: Cooperative | 170524 | [170524-spaceland-cooperative.json](./170524-spaceland-cooperative.json) |
 | Spaceland: Frontier | 195785 | [195785-spaceland-frontier.json](./195785-spaceland-frontier.json) |
@@ -15607,6 +15613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Forces: Operation Blood II | 137424 | [137424-special-forces-operation-blood-ii.json](./137424-special-forces-operation-blood-ii.json) |
 | Special Forces: Team X | 16403 | [16403-special-forces-team-x.json](./16403-special-forces-team-x.json) |
 | Special girls | 178512 | [178512-special-girls.json](./178512-special-girls.json) |
+| Special Gulag Rescue Operation | 207669 | [207669-special-gulag-rescue-operation.json](./207669-special-gulag-rescue-operation.json) |
 | Special Harem Class | 396727 | [396727-special-harem-class.json](./396727-special-harem-class.json) |
 | Special Jinsei Game | 4161 | [4161-special-jinsei-game.json](./4161-special-jinsei-game.json) |
 | Special Meat | 411610 | [411610-special-meat.json](./411610-special-meat.json) |
@@ -16336,6 +16343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider+ | 87187 | [87187-spider.json](./87187-spider.json) |
 | SpiderAttack | 237808 | [237808-spiderattack.json](./237808-spiderattack.json) |
 | Spiderbot | 22264 | [22264-spiderbot.json](./22264-spiderbot.json) |
+| Spiderbro | 207703 | [207703-spiderbro.json](./207703-spiderbro.json) |
 | Spiderbro 2 | 298042 | [298042-spiderbro-2.json](./298042-spiderbro-2.json) |
 | Spiderdroid | 40621 | [40621-spiderdroid.json](./40621-spiderdroid.json) |
 | SpiderHeck | 137073 | [137073-spiderheck.json](./137073-spiderheck.json) |
@@ -26705,6 +26713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword 'N' Board | 33925 | [33925-sword-n-board.json](./33925-sword-n-board.json) |
 | Sword & Banner | 404889 | [404889-sword-and-banner.json](./404889-sword-and-banner.json) |
 | Sword & Dragon | 58234 | [58234-sword-and-dragon.json](./58234-sword-and-dragon.json) |
+| Sword & Fairy Inn 2 | 207698 | [207698-sword-and-fairy-inn-2.json](./207698-sword-and-fairy-inn-2.json) |
 | Sword & Glory | 334870 | [334870-sword-and-glory.json](./334870-sword-and-glory.json) |
 | Sword & Poker 2 | 98812 | [98812-sword-and-poker-2.json](./98812-sword-and-poker-2.json) |
 | Sword & Seek | 309847 | [309847-sword-and-seek.json](./309847-sword-and-seek.json) |
