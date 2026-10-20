@@ -1085,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venture II | 46889 | [46889-venture-ii.json](./46889-venture-ii.json) |
 | Venture Kid | 96439 | [96439-venture-kid.json](./96439-venture-kid.json) |
 | Venture Towns | 65498 | [65498-venture-towns.json](./65498-venture-towns.json) |
+| Venture Tycoon | 205984 | [205984-venture-tycoon.json](./205984-venture-tycoon.json) |
 | Venture Valley | 148946 | [148946-venture-valley.json](./148946-venture-valley.json) |
 | Venture Within | 199395 | [199395-venture-within.json](./199395-venture-within.json) |
 | Venture's Gauntlet VR | 261189 | [261189-ventures-gauntlet-vr.json](./261189-ventures-gauntlet-vr.json) |
@@ -1978,6 +1979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Striker 2 Version '99 | 287051 | [287051-virtua-striker-2-version-99.json](./287051-virtua-striker-2-version-99.json) |
 | Virtua Striker 2002 | 50567 | [50567-virtua-striker-2002.json](./50567-virtua-striker-2002.json) |
 | Virtua Striker 3 | 39789 | [39789-virtua-striker-3.json](./39789-virtua-striker-3.json) |
+| Virtua Tennis | 205980 | [205980-virtua-tennis.json](./205980-virtua-tennis.json) |
 | Virtua Tennis 2009 | 344146 | [344146-virtua-tennis-2009.json](./344146-virtua-tennis-2009.json) |
 | Virtua Tennis 2009 | 5257 | [5257-virtua-tennis-2009.json](./5257-virtua-tennis-2009.json) |
 | Virtua Tennis 4 | 5258 | [5258-virtua-tennis-4.json](./5258-virtua-tennis-4.json) |
@@ -2119,6 +2121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Rides 3: Ultimate Edition | 273586 | [273586-virtual-rides-3-ultimate-edition.json](./273586-virtual-rides-3-ultimate-edition.json) |
 | Virtual Robots: Robot Programming Simulator | 74518 | [74518-virtual-robots-robot-programming-simulator.json](./74518-virtual-robots-robot-programming-simulator.json) |
 | Virtual Rogue | 33375 | [33375-virtual-rogue.json](./33375-virtual-rogue.json) |
+| Virtual Safari | 205979 | [205979-virtual-safari.json](./205979-virtual-safari.json) |
 | Virtual Sailor NG | 220717 | [220717-virtual-sailor-ng.json](./220717-virtual-sailor-ng.json) |
 | Virtual Silence | 94014 | [94014-virtual-silence.json](./94014-virtual-silence.json) |
 | Virtual Skate | 349108 | [349108-virtual-skate.json](./349108-virtual-skate.json) |
