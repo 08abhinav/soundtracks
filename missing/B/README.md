@@ -3441,6 +3441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battletoads in Ragnarok's World | 48924 | [48924-battletoads-in-ragnaroks-world.json](./48924-battletoads-in-ragnaroks-world.json) |
 | Battletronics | 167594 | [167594-battletronics.json](./167594-battletronics.json) |
 | BattleTubers | 280794 | [280794-battletubers.json](./280794-battletubers.json) |
+| Battleverse Champions | 219972 | [219972-battleverse-champions.json](./219972-battleverse-champions.json) |
 | Battlevoid: Harbinger | 34604 | [34604-battlevoid-harbinger.json](./34604-battlevoid-harbinger.json) |
 | Battlevoid: Sector Siege | 72488 | [72488-battlevoid-sector-siege.json](./72488-battlevoid-sector-siege.json) |
 | Battlewagon | 65486 | [65486-battlewagon.json](./65486-battlewagon.json) |
@@ -5248,6 +5249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Dark Castle | 11957 | [11957-beyond-dark-castle.json](./11957-beyond-dark-castle.json) |
 | Beyond Dark Castle | 334220 | [334220-beyond-dark-castle.json](./334220-beyond-dark-castle.json) |
 | Beyond Dark Castle | 334221 | [334221-beyond-dark-castle.json](./334221-beyond-dark-castle.json) |
+| Beyond Dark Tales | 219985 | [219985-beyond-dark-tales.json](./219985-beyond-dark-tales.json) |
 | Beyond Dawn | 158531 | [158531-beyond-dawn.json](./158531-beyond-dawn.json) |
 | Beyond Despair | 26724 | [26724-beyond-despair.json](./26724-beyond-despair.json) |
 | Beyond Divinity | 9781 | [9781-beyond-divinity.json](./9781-beyond-divinity.json) |
@@ -7931,6 +7933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Pile | 360562 | [360562-block-pile.json](./360562-block-pile.json) |
 | Block Pong-Pong | 288322 | [288322-block-pong-pong.json](./288322-block-pong-pong.json) |
 | Block Pooper 9 | 112466 | [112466-block-pooper-9.json](./112466-block-pooper-9.json) |
+| Block Pro Forrest Diamond | 219977 | [219977-block-pro-forrest-diamond.json](./219977-block-pro-forrest-diamond.json) |
 | Block Pushing Puzzle Game But You Can Time Travel | 184371 | [184371-block-pushing-puzzle-game-but-you-can-time-travel.json](./184371-block-pushing-puzzle-game-but-you-can-time-travel.json) |
 | Block Puzzle | 106661 | [106661-block-puzzle.json](./106661-block-puzzle.json) |
 | Block Puzzle | 231879 | [231879-block-puzzle.json](./231879-block-puzzle.json) |
