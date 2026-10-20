@@ -1893,6 +1893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC Heli 3 | 240862 | [240862-rc-heli-3.json](./240862-rc-heli-3.json) |
 | RC Helicopter Indoor Adventure | 78279 | [78279-rc-helicopter-indoor-adventure.json](./78279-rc-helicopter-indoor-adventure.json) |
 | RC Overdrive | 393799 | [393799-rc-overdrive.json](./393799-rc-overdrive.json) |
+| RC Plane | 249652 | [249652-rc-plane.json](./249652-rc-plane.json) |
 | Rc Plane 2 | 260654 | [260654-rc-plane-2.json](./260654-rc-plane-2.json) |
 | RC Plane 3 | 55487 | [55487-rc-plane-3.json](./55487-rc-plane-3.json) |
 | RC Plane 3: Canyon Scenario | 167718 | [167718-rc-plane-3-canyon-scenario.json](./167718-rc-plane-3-canyon-scenario.json) |
@@ -8274,6 +8275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose and Cross | 304468 | [304468-rose-and-cross.json](./304468-rose-and-cross.json) |
 | Rose City Revenge: The Beginning | 220632 | [220632-rose-city-revenge-the-beginning.json](./220632-rose-city-revenge-the-beginning.json) |
 | Rose Cottage | 286673 | [286673-rose-cottage.json](./286673-rose-cottage.json) |
+| Rose From The Depths | 249623 | [249623-rose-from-the-depths.json](./249623-rose-from-the-depths.json) |
 | Rose Guns Days | 65427 | [65427-rose-guns-days.json](./65427-rose-guns-days.json) |
 | Rose Guns Days: Season 1 | 274213 | [274213-rose-guns-days-season-1.json](./274213-rose-guns-days-season-1.json) |
 | Rose Guns Days: Season 1 | 326598 | [326598-rose-guns-days-season-1.json](./326598-rose-guns-days-season-1.json) |
