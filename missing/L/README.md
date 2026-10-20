@@ -1971,6 +1971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Roland | 39781 | [39781-legend-of-roland.json](./39781-legend-of-roland.json) |
 | Legend of Rome 2: The Magic Hourglass | 296488 | [296488-legend-of-rome-2-the-magic-hourglass.json](./296488-legend-of-rome-2-the-magic-hourglass.json) |
 | Legend of Rome: The Wrath of Mars | 199345 | [199345-legend-of-rome-the-wrath-of-mars.json](./199345-legend-of-rome-the-wrath-of-mars.json) |
+| Legend of Rune | 223858 | [223858-legend-of-rune.json](./223858-legend-of-rune.json) |
 | Legend of Saha | 347817 | [347817-legend-of-saha.json](./347817-legend-of-saha.json) |
 | Legend of Serigel | 180648 | [180648-legend-of-serigel.json](./180648-legend-of-serigel.json) |
 | Legend of Shadow | 403147 | [403147-legend-of-shadow.json](./403147-legend-of-shadow.json) |
