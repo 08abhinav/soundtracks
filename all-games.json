@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:57:28.293Z",
-  "total_soundtracks": 2311,
+  "generated_at": "2026-10-20T21:57:38.944Z",
+  "total_soundtracks": 2312,
   "games": [
     {
       "igdb_id": 7522,
@@ -25669,6 +25669,20 @@
         {
           "album_name": "Torchlight: Infinite (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5wSG0yYvL6dbTC6HmIQixj",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 172664,
+      "game_name": "Toree 2",
+      "game_url": "https://ostdb.net/games/toree-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27341a376e8790713fc4611c08a",
+      "albums": [
+        {
+          "album_name": "Toree 2 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0fN7ddfJfh0OyivgVdl2pt",
           "apple_music_url": "",
           "album_link_url": ""
         }
