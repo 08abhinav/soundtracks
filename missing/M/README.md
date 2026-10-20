@@ -12832,6 +12832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 11: Time Warriors Skin Pack | 388866 | [388866-mortal-kombat-11-time-warriors-skin-pack.json](./388866-mortal-kombat-11-time-warriors-skin-pack.json) |
 | Mortal Kombat 11: Ultimate | 139446 | [139446-mortal-kombat-11-ultimate.json](./139446-mortal-kombat-11-ultimate.json) |
 | Mortal Kombat 11: Ultimate + Injustice 2 Legendary Edition Bundle | 164774 | [164774-mortal-kombat-11-ultimate-injustice-2-legendary-edition-bundle.json](./164774-mortal-kombat-11-ultimate-injustice-2-legendary-edition-bundle.json) |
+| Mortal Kombat 11: Ultimate Add-On Bundle | 238336 | [238336-mortal-kombat-11-ultimate-add-on-bundle.json](./238336-mortal-kombat-11-ultimate-add-on-bundle.json) |
 | Mortal Kombat 11: War Games Sonya Blade | 388871 | [388871-mortal-kombat-11-war-games-sonya-blade.json](./388871-mortal-kombat-11-war-games-sonya-blade.json) |
 | Mortal Kombat 3 | 1620 | [1620-mortal-kombat-3.json](./1620-mortal-kombat-3.json) |
 | Mortal Kombat 3 | 217929 | [217929-mortal-kombat-3.json](./217929-mortal-kombat-3.json) |
