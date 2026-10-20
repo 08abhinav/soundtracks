@@ -2975,6 +2975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Realms | 606 | [606-battle-realms.json](./606-battle-realms.json) |
 | Battle Realms: Zen Edition | 137532 | [137532-battle-realms-zen-edition.json](./137532-battle-realms-zen-edition.json) |
 | Battle Records of Rota | 264021 | [264021-battle-records-of-rota.json](./264021-battle-records-of-rota.json) |
+| Battle Recruits | 252564 | [252564-battle-recruits.json](./252564-battle-recruits.json) |
 | Battle Riders | 28281 | [28281-battle-riders.json](./28281-battle-riders.json) |
 | Battle Rift | 211428 | [211428-battle-rift.json](./211428-battle-rift.json) |
 | Battle Robot Damashii | 63833 | [63833-battle-robot-damashii.json](./63833-battle-robot-damashii.json) |
@@ -9227,6 +9228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolt Runner | 298094 | [298094-bolt-runner.json](./298094-bolt-runner.json) |
 | Bolt: Be-Awesome Edition | 269667 | [269667-bolt-be-awesome-edition.json](./269667-bolt-be-awesome-edition.json) |
 | BoltBreak 2 | 276281 | [276281-boltbreak-2.json](./276281-boltbreak-2.json) |
+| BoltBreak: Powers and Maps Pack | 252595 | [252595-boltbreak-powers-and-maps-pack.json](./252595-boltbreak-powers-and-maps-pack.json) |
 | Boltcraft | 203914 | [203914-boltcraft.json](./203914-boltcraft.json) |
 | BoltHalt | 120785 | [120785-bolthalt.json](./120785-bolthalt.json) |
 | Bolty | 184579 | [184579-bolty.json](./184579-bolty.json) |
