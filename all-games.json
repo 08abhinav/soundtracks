@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:47:36.289Z",
-  "total_soundtracks": 2294,
+  "generated_at": "2026-10-20T21:47:46.150Z",
+  "total_soundtracks": 2295,
   "games": [
     {
       "igdb_id": 7522,
@@ -28149,6 +28149,20 @@
         {
           "album_name": "Yooka-Laylee and the Impossible Lair (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5RcPDRFhmsAJV3it1klETs",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 186483,
+      "game_name": "You Will (Not) Remain",
+      "game_url": "https://ostdb.net/games/you-will-not-remain",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732db9f826bda991f9618b55a4",
+      "albums": [
+        {
+          "album_name": "You Will (Not) Remain (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0Jr42Fk07D3chUPbngQEQk",
           "apple_music_url": "",
           "album_link_url": ""
         }
