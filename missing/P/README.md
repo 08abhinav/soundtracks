@@ -3651,6 +3651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Shop Snacks: Expansion Pack 1 | 237981 | [237981-pet-shop-snacks-expansion-pack-1.json](./237981-pet-shop-snacks-expansion-pack-1.json) |
 | Pet Shop Snacks: Expansion Pack 2 | 237982 | [237982-pet-shop-snacks-expansion-pack-2.json](./237982-pet-shop-snacks-expansion-pack-2.json) |
 | Pet Shop Snacks: Extended Edition | 222233 | [222233-pet-shop-snacks-extended-edition.json](./222233-pet-shop-snacks-extended-edition.json) |
+| Pet Shop Snacks: Premium Edition | 225499 | [225499-pet-shop-snacks-premium-edition.json](./225499-pet-shop-snacks-premium-edition.json) |
 | Pet Show Craze | 177041 | [177041-pet-show-craze.json](./177041-pet-show-craze.json) |
 | Pet Show: Complete Edition | 357018 | [357018-pet-show-complete-edition.json](./357018-pet-show-complete-edition.json) |
 | Pet Show: Wild Edition | 362216 | [362216-pet-show-wild-edition.json](./362216-pet-show-wild-edition.json) |
@@ -6077,6 +6078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Game Maker Series: Stray Witch and the Ghost Train | 370820 | [370820-pixel-game-maker-series-stray-witch-and-the-ghost-train.json](./370820-pixel-game-maker-series-stray-witch-and-the-ghost-train.json) |
 | Pixel Game Maker Series: Tentacled Terrors Tyrannize Terra! | 244824 | [244824-pixel-game-maker-series-tentacled-terrors-tyrannize-terra.json](./244824-pixel-game-maker-series-tentacled-terrors-tyrannize-terra.json) |
 | Pixel Game Maker Series: The Willow Man | 316190 | [316190-pixel-game-maker-series-the-willow-man.json](./316190-pixel-game-maker-series-the-willow-man.json) |
+| Pixel Game Maker Series: Verzeus | 225500 | [225500-pixel-game-maker-series-verzeus.json](./225500-pixel-game-maker-series-verzeus.json) |
 | Pixel Game Maker Series: Weapon User | 365546 | [365546-pixel-game-maker-series-weapon-user.json](./365546-pixel-game-maker-series-weapon-user.json) |
 | Pixel Gangsters | 211184 | [211184-pixel-gangsters.json](./211184-pixel-gangsters.json) |
 | Pixel Gear | 25182 | [25182-pixel-gear.json](./25182-pixel-gear.json) |
@@ -9810,6 +9812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poseidon Kiugi: Bangchihyeong Aeksyeon RPG | 212855 | [212855-poseidon-kiugi-bangchihyeong-aeksyeon-rpg.json](./212855-poseidon-kiugi-bangchihyeong-aeksyeon-rpg.json) |
 | Poseidon Wars 3-D | 46134 | [46134-poseidon-wars-3-d.json](./46134-poseidon-wars-3-d.json) |
 | Poseidon: Planet Eleven | 67276 | [67276-poseidon-planet-eleven.json](./67276-poseidon-planet-eleven.json) |
+| Poseidon's Orb | 225516 | [225516-poseidons-orb.json](./225516-poseidons-orb.json) |
 | Posh Boutique | 53468 | [53468-posh-boutique.json](./53468-posh-boutique.json) |
 | Posh Boutique 2 | 294454 | [294454-posh-boutique-2.json](./294454-posh-boutique-2.json) |
 | Posibility | 127367 | [127367-posibility.json](./127367-posibility.json) |
@@ -12284,6 +12287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Taco | 420547 | [420547-project-taco.json](./420547-project-taco.json) |
 | Project: Tempo | 231909 | [231909-project-tempo.json](./231909-project-tempo.json) |
 | Project: The MIR Incident | 204062 | [204062-project-the-mir-incident.json](./204062-project-the-mir-incident.json) |
+| Project: The Perceiver | 225525 | [225525-project-the-perceiver.json](./225525-project-the-perceiver.json) |
 | Project: Undead | 165157 | [165157-project-undead.json](./165157-project-undead.json) |
 | Project: Unity | 275572 | [275572-project-unity.json](./275572-project-unity.json) |
 | Project: Velyria | 62087 | [62087-project-velyria.json](./62087-project-velyria.json) |
@@ -13649,6 +13653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle by Nikoli W Heyawake | 230827 | [230827-puzzle-by-nikoli-w-heyawake.json](./230827-puzzle-by-nikoli-w-heyawake.json) |
 | Puzzle by Nikoli W Hitori | 256430 | [256430-puzzle-by-nikoli-w-hitori.json](./256430-puzzle-by-nikoli-w-hitori.json) |
 | Puzzle by Nikoli W Kakuro | 262657 | [262657-puzzle-by-nikoli-w-kakuro.json](./262657-puzzle-by-nikoli-w-kakuro.json) |
+| Puzzle by Nikoli W Slitherlink | 225476 | [225476-puzzle-by-nikoli-w-slitherlink.json](./225476-puzzle-by-nikoli-w-slitherlink.json) |
 | Puzzle by Nikoli W Yajilin | 251395 | [251395-puzzle-by-nikoli-w-yajilin.json](./251395-puzzle-by-nikoli-w-yajilin.json) |
 | Puzzle by Nikoli W: Sudoku | 218511 | [218511-puzzle-by-nikoli-w-sudoku.json](./218511-puzzle-by-nikoli-w-sudoku.json) |
 | Puzzle Cafe VR | 159780 | [159780-puzzle-cafe-vr.json](./159780-puzzle-cafe-vr.json) |
