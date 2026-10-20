@@ -3089,6 +3089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nicktoons Unite! | 202111 | [202111-nicktoons-unite.json](./202111-nicktoons-unite.json) |
 | Nicktoons Volleyball | 243826 | [243826-nicktoons-volleyball.json](./243826-nicktoons-volleyball.json) |
 | Nicktoons Winners Cup Racing | 2771 | [2771-nicktoons-winners-cup-racing.json](./2771-nicktoons-winners-cup-racing.json) |
+| Nicktoons: Attack of the Toybots | 241231 | [241231-nicktoons-attack-of-the-toybots.json](./241231-nicktoons-attack-of-the-toybots.json) |
 | Nicktoons: Attack of the Toybots | 2774 | [2774-nicktoons-attack-of-the-toybots.json](./2774-nicktoons-attack-of-the-toybots.json) |
 | Nicktoons: Battle for Volcano Island | 248519 | [248519-nicktoons-battle-for-volcano-island.json](./248519-nicktoons-battle-for-volcano-island.json) |
 | Nicktoons: Freeze Frame Frenzy | 2766 | [2766-nicktoons-freeze-frame-frenzy.json](./2766-nicktoons-freeze-frame-frenzy.json) |
@@ -3308,6 +3309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Poetry | 264669 | [264669-night-poetry.json](./264669-night-poetry.json) |
 | Night Pump | 399005 | [399005-night-pump.json](./399005-night-pump.json) |
 | Night Pump: A Horror Game Remake | 402239 | [402239-night-pump-a-horror-game-remake.json](./402239-night-pump-a-horror-game-remake.json) |
+| Night Racer: Street Racing 3D | 241827 | [241827-night-racer-street-racing-3d.json](./241827-night-racer-street-racing-3d.json) |
 | Night Racing: Miami Street Traffic Racer | 106004 | [106004-night-racing-miami-street-traffic-racer.json](./106004-night-racing-miami-street-traffic-racer.json) |
 | Night Raid | 291021 | [291021-night-raid.json](./291021-night-raid.json) |
 | Night Raid | 80867 | [80867-night-raid.json](./80867-night-raid.json) |
@@ -4432,6 +4434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Ordinary Elevator | 76666 | [76666-no-ordinary-elevator.json](./76666-no-ordinary-elevator.json) |
 | No Outlet | 201633 | [201633-no-outlet.json](./201633-no-outlet.json) |
 | No Pain No Gain | 390604 | [390604-no-pain-no-gain.json](./390604-no-pain-no-gain.json) |
+| No Paint | 241813 | [241813-no-paint.json](./241813-no-paint.json) |
 | No Paint No Gain | 312754 | [312754-no-paint-no-gain.json](./312754-no-paint-no-gain.json) |
 | No Pantsu!! | 97378 | [97378-no-pantsu.json](./97378-no-pantsu.json) |
 | No Paper! | 240224 | [240224-no-paper.json](./240224-no-paper.json) |
