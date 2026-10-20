@@ -7455,7 +7455,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Life | 106271 | [106271-the-game-of-life.json](./106271-the-game-of-life.json) |
 | The Game of Life | 34432 | [34432-the-game-of-life.json](./34432-the-game-of-life.json) |
 | The Game of Life / Yahtzee / Payday | 137695 | [137695-the-game-of-life-yahtzee-payday.json](./137695-the-game-of-life-yahtzee-payday.json) |
-| The Game of Life 2 | 141523 | [141523-the-game-of-life-2.json](./141523-the-game-of-life-2.json) |
 | The Game of Life 2: Age of Giants World | 171591 | [171591-the-game-of-life-2-age-of-giants-world.json](./171591-the-game-of-life-2-age-of-giants-world.json) |
 | The Game of Life 2: Complete Collection | 238044 | [238044-the-game-of-life-2-complete-collection.json](./238044-the-game-of-life-2-complete-collection.json) |
 | The Game of Life 2: El Dorado | 256002 | [256002-the-game-of-life-2-el-dorado.json](./256002-the-game-of-life-2-el-dorado.json) |
