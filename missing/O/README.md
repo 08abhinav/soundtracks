@@ -3331,6 +3331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oshirikko Venus | 194580 | [194580-oshirikko-venus.json](./194580-oshirikko-venus.json) |
 | Oshirikko Venus 2 | 194581 | [194581-oshirikko-venus-2.json](./194581-oshirikko-venus-2.json) |
 | Oshiya! Push! | 185518 | [185518-oshiya-push.json](./185518-oshiya-push.json) |
+| Osiris | 224954 | [224954-osiris.json](./224954-osiris.json) |
 | Oslo: 2084 | 253890 | [253890-oslo-2084.json](./253890-oslo-2084.json) |
 | Osman Ghazi: Ottoman Rising | 382297 | [382297-osman-ghazi-ottoman-rising.json](./382297-osman-ghazi-ottoman-rising.json) |
 | Osmathus Falling | 399430 | [399430-osmathus-falling.json](./399430-osmathus-falling.json) |
