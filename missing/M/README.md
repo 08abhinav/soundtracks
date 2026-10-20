@@ -1204,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MagiCats Builder: Infinite Pack | 170312 | [170312-magicats-builder-infinite-pack.json](./170312-magicats-builder-infinite-pack.json) |
 | MagiCats Worlds | 111530 | [111530-magicats-worlds.json](./111530-magicats-worlds.json) |
 | MagicBeans | 257857 | [257857-magicbeans.json](./257857-magicbeans.json) |
+| MagicCraft | 224409 | [224409-magiccraft.json](./224409-magiccraft.json) |
 | Magician | 319093 | [319093-magician.json](./319093-magician.json) |
 | Magician | 94209 | [94209-magician.json](./94209-magician.json) |
 | Magician Lord | 19109 | [19109-magician-lord.json](./19109-magician-lord.json) |
@@ -10206,6 +10207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miskatonic Diaries | 201631 | [201631-miskatonic-diaries.json](./201631-miskatonic-diaries.json) |
 | Miskatonic University | 258007 | [258007-miskatonic-university.json](./258007-miskatonic-university.json) |
 | Misled Puzzled | 185373 | [185373-misled-puzzled.json](./185373-misled-puzzled.json) |
+| Mislight | 224411 | [224411-mislight.json](./224411-mislight.json) |
 | Miso Nikki | 166586 | [166586-miso-nikki.json](./166586-miso-nikki.json) |
 | Misplaced | 130091 | [130091-misplaced.json](./130091-misplaced.json) |
 | Misplaced | 146627 | [146627-misplaced.json](./146627-misplaced.json) |
@@ -14936,6 +14938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muv-Luv Unlimited: The Day After Ultimate Collection | 399799 | [399799-muv-luv-unlimited-the-day-after-ultimate-collection.json](./399799-muv-luv-unlimited-the-day-after-ultimate-collection.json) |
 | Muv-Luv VR | 33162 | [33162-muv-luv-vr.json](./33162-muv-luv-vr.json) |
 | Muv-Luv: Tactics Kalidasa at Nightmare | 407990 | [407990-muv-luv-tactics-kalidasa-at-nightmare.json](./407990-muv-luv-tactics-kalidasa-at-nightmare.json) |
+| Muyagangho | 224405 | [224405-muyagangho.json](./224405-muyagangho.json) |
 | Muzan: Chiniku no Ikenie | 67230 | [67230-muzan-chiniku-no-ikenie.json](./67230-muzan-chiniku-no-ikenie.json) |
 | Muzzle Flash | 62073 | [62073-muzzle-flash.json](./62073-muzzle-flash.json) |
 | Muzzle Velocity | 70947 | [70947-muzzle-velocity.json](./70947-muzzle-velocity.json) |
