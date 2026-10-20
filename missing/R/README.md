@@ -1578,6 +1578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat Race | 60789 | [60789-rat-race.json](./60789-rat-race.json) |
 | Rat Racer | 127760 | [127760-rat-racer.json](./127760-rat-racer.json) |
 | Rat Raze / Road to Riches: Tilt Five | 341308 | [341308-rat-raze-road-to-riches-tilt-five.json](./341308-rat-raze-road-to-riches-tilt-five.json) |
+| Rat Shoot | 223337 | [223337-rat-shoot.json](./223337-rat-shoot.json) |
 | Rat Simulator | 29405 | [29405-rat-simulator.json](./29405-rat-simulator.json) |
 | Rat Toy | 351197 | [351197-rat-toy.json](./351197-rat-toy.json) |
 | Rat Trap | 280113 | [280113-rat-trap.json](./280113-rat-trap.json) |
@@ -5170,6 +5171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Slice | 417971 | [417971-rhythm-slice.json](./417971-rhythm-slice.json) |
 | Rhythm Stars Climbing | 157196 | [157196-rhythm-stars-climbing.json](./157196-rhythm-stars-climbing.json) |
 | Rhythm Station | 277853 | [277853-rhythm-station.json](./277853-rhythm-station.json) |
+| Rhythm Stones | 223308 | [223308-rhythm-stones.json](./223308-rhythm-stones.json) |
 | Rhythm Stones | 223609 | [223609-rhythm-stones.json](./223609-rhythm-stones.json) |
 | Rhythm Storm | 239180 | [239180-rhythm-storm.json](./239180-rhythm-storm.json) |
 | Rhythm Taichi | 193797 | [193797-rhythm-taichi.json](./193797-rhythm-taichi.json) |
