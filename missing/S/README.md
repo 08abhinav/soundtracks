@@ -8784,6 +8784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sister Ray | 327245 | [327245-sister-ray.json](./327245-sister-ray.json) |
 | Sister Red | 385867 | [385867-sister-red.json](./385867-sister-red.json) |
 | Sister Slave: Faithful Girl's Slave Training | 83230 | [83230-sister-slave-faithful-girls-slave-training.json](./83230-sister-slave-faithful-girls-slave-training.json) |
+| Sister Splash | 205999 | [205999-sister-splash.json](./205999-sister-splash.json) |
 | Sister Square's Escape | 101098 | [101098-sister-squares-escape.json](./101098-sister-squares-escape.json) |
 | Sister Travel | 111718 | [111718-sister-travel.json](./111718-sister-travel.json) |
 | Sister's Dream | 202330 | [202330-sisters-dream.json](./202330-sisters-dream.json) |
