@@ -5443,6 +5443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noxcode | 404413 | [404413-noxcode.json](./404413-noxcode.json) |
 | Noxia Somnia | 235888 | [235888-noxia-somnia.json](./235888-noxia-somnia.json) |
 | Noxiam: Miserable Sinners | 126407 | [126407-noxiam-miserable-sinners.json](./126407-noxiam-miserable-sinners.json) |
+| Noxious Weeds | 251962 | [251962-noxious-weeds.json](./251962-noxious-weeds.json) |
 | Noxium | 280119 | [280119-noxium.json](./280119-noxium.json) |
 | Noyah: Corrupted Memories | 164962 | [164962-noyah-corrupted-memories.json](./164962-noyah-corrupted-memories.json) |
 | Noyd | 270608 | [270608-noyd.json](./270608-noyd.json) |
