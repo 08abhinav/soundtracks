@@ -579,6 +579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tale | 269419 | [269419-fairy-tale.json](./269419-fairy-tale.json) |
 | Fairy Tale Busters | 56571 | [56571-fairy-tale-busters.json](./56571-fairy-tale-busters.json) |
 | Fairy Tale Diaries | 110972 | [110972-fairy-tale-diaries.json](./110972-fairy-tale-diaries.json) |
+| Fairy Tale Ending Encore | 207164 | [207164-fairy-tale-ending-encore.json](./207164-fairy-tale-ending-encore.json) |
 | Fairy Tale Fighters | 406081 | [406081-fairy-tale-fighters.json](./406081-fairy-tale-fighters.json) |
 | Fairy Tale Mysteries 2: The Beanstalk | 34440 | [34440-fairy-tale-mysteries-2-the-beanstalk.json](./34440-fairy-tale-mysteries-2-the-beanstalk.json) |
 | Fairy Tale Plan | 405974 | [405974-fairy-tale-plan.json](./405974-fairy-tale-plan.json) |
@@ -846,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen London: Cut With Moonlight | 191539 | [191539-fallen-london-cut-with-moonlight.json](./191539-fallen-london-cut-with-moonlight.json) |
 | Fallen London: Damp Martyrs | 191791 | [191791-fallen-london-damp-martyrs.json](./191791-fallen-london-damp-martyrs.json) |
 | Fallen London: Daylight | 191711 | [191711-fallen-london-daylight.json](./191711-fallen-london-daylight.json) |
+| Fallen London: Dernier Cri | 207159 | [207159-fallen-london-dernier-cri.json](./207159-fallen-london-dernier-cri.json) |
 | Fallen London: Discernment | 191540 | [191540-fallen-london-discernment.json](./191540-fallen-london-discernment.json) |
 | Fallen London: Factory of Favours | 191700 | [191700-fallen-london-factory-of-favours.json](./191700-fallen-london-factory-of-favours.json) |
 | Fallen London: Fine Dining | 191732 | [191732-fallen-london-fine-dining.json](./191732-fallen-london-fine-dining.json) |
@@ -4250,6 +4252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Brenda: Episode 1 | 169928 | [169928-finding-brenda-episode-1.json](./169928-finding-brenda-episode-1.json) |
 | Finding Chase | 359408 | [359408-finding-chase.json](./359408-finding-chase.json) |
 | Finding Chuchu | 371630 | [371630-finding-chuchu.json](./371630-finding-chuchu.json) |
+| Finding Cinderella | 207171 | [207171-finding-cinderella.json](./207171-finding-cinderella.json) |
 | Finding Dory | 230376 | [230376-finding-dory.json](./230376-finding-dory.json) |
 | Finding Dory | 237525 | [237525-finding-dory.json](./237525-finding-dory.json) |
 | Finding fairies | 254582 | [254582-finding-fairies.json](./254582-finding-fairies.json) |
