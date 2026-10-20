@@ -3923,6 +3923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XV: Noodle Helmet | 350946 | [350946-final-fantasy-xv-noodle-helmet.json](./350946-final-fantasy-xv-noodle-helmet.json) |
 | Final Fantasy XV: Pocket Edition HD | 108156 | [108156-final-fantasy-xv-pocket-edition-hd.json](./108156-final-fantasy-xv-pocket-edition-hd.json) |
 | Final Fantasy XV: Royal Edition | 80877 | [80877-final-fantasy-xv-royal-edition.json](./80877-final-fantasy-xv-royal-edition.json) |
+| Final Fantasy XV: Royal Pack | 224410 | [224410-final-fantasy-xv-royal-pack.json](./224410-final-fantasy-xv-royal-pack.json) |
 | Final Fantasy XV: Special Edition | 205260 | [205260-final-fantasy-xv-special-edition.json](./205260-final-fantasy-xv-special-edition.json) |
 | Final Fantasy XV: Trendy Outfit | 350949 | [350949-final-fantasy-xv-trendy-outfit.json](./350949-final-fantasy-xv-trendy-outfit.json) |
 | Final Fantasy XV: Ultimate Collector's Edition | 75680 | [75680-final-fantasy-xv-ultimate-collectors-edition.json](./75680-final-fantasy-xv-ultimate-collectors-edition.json) |
@@ -8953,6 +8954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': VS Kacy | 208259 | [208259-friday-night-funkin-vs-kacy.json](./208259-friday-night-funkin-vs-kacy.json) |
 | Friday Night Funkin': VS Protegent | 274022 | [274022-friday-night-funkin-vs-protegent.json](./274022-friday-night-funkin-vs-protegent.json) |
 | Friday Night Funkin': Vs Shitass Full Week | 198346 | [198346-friday-night-funkin-vs-shitass-full-week.json](./198346-friday-night-funkin-vs-shitass-full-week.json) |
+| Friday Night Funkin': VS Shy-Girl | 224396 | [224396-friday-night-funkin-vs-shy-girl.json](./224396-friday-night-funkin-vs-shy-girl.json) |
 | Friday Night Funkin': VS Spider-Man - Volume II | 225302 | [225302-friday-night-funkin-vs-spider-man-volume-ii.json](./225302-friday-night-funkin-vs-spider-man-volume-ii.json) |
 | Friday Night Funkin': Vs Tree | 228613 | [228613-friday-night-funkin-vs-tree.json](./228613-friday-night-funkin-vs-tree.json) |
 | Friday Night Funkin': vs. /v/ | 235329 | [235329-friday-night-funkin-vs-v.json](./235329-friday-night-funkin-vs-v.json) |
