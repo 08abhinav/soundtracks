@@ -1878,6 +1878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Ahssûn | 127941 | [127941-legend-of-ahssun.json](./127941-legend-of-ahssun.json) |
 | Legend of Aladdin | 70969 | [70969-legend-of-aladdin.json](./70969-legend-of-aladdin.json) |
 | Legend Of Apophyxis | 287755 | [287755-legend-of-apophyxis.json](./287755-legend-of-apophyxis.json) |
+| Legend of Arcadia | 242939 | [242939-legend-of-arcadia.json](./242939-legend-of-arcadia.json) |
 | Legend of Asha | 390266 | [390266-legend-of-asha.json](./390266-legend-of-asha.json) |
 | Legend of Assassin: Egypt | 108069 | [108069-legend-of-assassin-egypt.json](./108069-legend-of-assassin-egypt.json) |
 | Legend of Assassin: Siberia | 107830 | [107830-legend-of-assassin-siberia.json](./107830-legend-of-assassin-siberia.json) |
@@ -4346,6 +4347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Computer People | 12179 | [12179-little-computer-people.json](./12179-little-computer-people.json) |
 | Little Corner Tea House | 327278 | [327278-little-corner-tea-house.json](./327278-little-corner-tea-house.json) |
 | Little Corners | 353890 | [353890-little-corners.json](./353890-little-corners.json) |
+| Little Crab Fisher | 242943 | [242943-little-crab-fisher.json](./242943-little-crab-fisher.json) |
 | Little Critters 2 | 305179 | [305179-little-critters-2.json](./305179-little-critters-2.json) |
 | Little Crossroads | 374710 | [374710-little-crossroads.json](./374710-little-crossroads.json) |
 | Little Demon | 61476 | [61476-little-demon.json](./61476-little-demon.json) |
