@@ -5372,6 +5372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Raid | 392137 | [392137-desktop-raid.json](./392137-desktop-raid.json) |
 | Desktop Reptiles | 405581 | [405581-desktop-reptiles.json](./405581-desktop-reptiles.json) |
 | Desktop Soccer | 112128 | [112128-desktop-soccer.json](./112128-desktop-soccer.json) |
+| Desktop Soccer 2: Nihon Daihyou Edition | 233925 | [233925-desktop-soccer-2-nihon-daihyou-edition.json](./233925-desktop-soccer-2-nihon-daihyou-edition.json) |
 | Desktop Standing Card Plates | 394346 | [394346-desktop-standing-card-plates.json](./394346-desktop-standing-card-plates.json) |
 | Desktop Survivors 98 | 325702 | [325702-desktop-survivors-98.json](./325702-desktop-survivors-98.json) |
 | Desktop Table Tennis | 119524 | [119524-desktop-table-tennis.json](./119524-desktop-table-tennis.json) |
@@ -6264,6 +6265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Delve | 184454 | [184454-dice-delve.json](./184454-dice-delve.json) |
 | Dice Derby | 366418 | [366418-dice-derby.json](./366418-dice-derby.json) |
 | Dice Dice Dice: A Roll Playing Game | 291300 | [291300-dice-dice-dice-a-roll-playing-game.json](./291300-dice-dice-dice-a-roll-playing-game.json) |
+| Dice Dreams | 233897 | [233897-dice-dreams.json](./233897-dice-dreams.json) |
 | Dice Fight | 232368 | [232368-dice-fight.json](./232368-dice-fight.json) |
 | Dice Game | 226179 | [226179-dice-game.json](./226179-dice-game.json) |
 | Dice Goblin's Den | 392118 | [392118-dice-goblins-den.json](./392118-dice-goblins-den.json) |
@@ -8328,6 +8330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doba Dash | 182942 | [182942-doba-dash.json](./182942-doba-dash.json) |
 | DoBad Inc | 369896 | [369896-dobad-inc.json](./369896-dobad-inc.json) |
 | Dobbel Dungeon | 290612 | [290612-dobbel-dungeon.json](./290612-dobbel-dungeon.json) |
+| Dobby x Escape: Spooky Adventure | 233933 | [233933-dobby-x-escape-spooky-adventure.json](./233933-dobby-x-escape-spooky-adventure.json) |
 | DobbyxEscape: Halloween Adventure | 225212 | [225212-dobbyxescape-halloween-adventure.json](./225212-dobbyxescape-halloween-adventure.json) |
 | DobbyxEscape: Pirate Adventure | 242967 | [242967-dobbyxescape-pirate-adventure.json](./242967-dobbyxescape-pirate-adventure.json) |
 | Doblons.io | 126023 | [126023-doblons-io.json](./126023-doblons-io.json) |
@@ -9128,6 +9131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Get Fired! | 406825 | [406825-dont-get-fired.json](./406825-dont-get-fired.json) |
 | Don't Get Got | 329216 | [329216-dont-get-got.json](./329216-dont-get-got.json) |
 | Don't Get Hit in the Face | 28263 | [28263-dont-get-hit-in-the-face.json](./28263-dont-get-hit-in-the-face.json) |
+| Don't Get Lost | 233890 | [233890-dont-get-lost.json](./233890-dont-get-lost.json) |
 | Don't Get Pinned | 26306 | [26306-dont-get-pinned.json](./26306-dont-get-pinned.json) |
 | Don't Get Tagged | 203667 | [203667-dont-get-tagged.json](./203667-dont-get-tagged.json) |
 | Don't Get the Job | 177870 | [177870-dont-get-the-job.json](./177870-dont-get-the-job.json) |
@@ -9885,6 +9889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dora the Explorer: The Search for Pirate Pig's Treasure | 49201 | [49201-dora-the-explorer-the-search-for-pirate-pigs-treasure.json](./49201-dora-the-explorer-the-search-for-pirate-pigs-treasure.json) |
 | Dora the Explorer: Twins' Day | 275577 | [275577-dora-the-explorer-twins-day.json](./275577-dora-the-explorer-twins-day.json) |
 | Dora the Explorer: World Adventure | 209119 | [209119-dora-the-explorer-world-adventure.json](./209119-dora-the-explorer-world-adventure.json) |
+| Dora Think Nobita's Exciting Brain Adventure | 233929 | [233929-dora-think-nobitas-exciting-brain-adventure.json](./233929-dora-think-nobitas-exciting-brain-adventure.json) |
 | Dora's Ballet Adventures | 209122 | [209122-doras-ballet-adventures.json](./209122-doras-ballet-adventures.json) |
 | Dora's Big Birthday Adventure | 202095 | [202095-doras-big-birthday-adventure.json](./202095-doras-big-birthday-adventure.json) |
 | Dora's Cooking Club | 47964 | [47964-doras-cooking-club.json](./47964-doras-cooking-club.json) |
@@ -10804,6 +10809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Kakarot - Legendary Edition | 307893 | [307893-dragon-ball-z-kakarot-legendary-edition.json](./307893-dragon-ball-z-kakarot-legendary-edition.json) |
 | Dragon Ball Z: Kakarot - Season Pass | 141113 | [141113-dragon-ball-z-kakarot-season-pass.json](./141113-dragon-ball-z-kakarot-season-pass.json) |
 | Dragon Ball Z: Kakarot - Season Pass 2 | 307831 | [307831-dragon-ball-z-kakarot-season-pass-2.json](./307831-dragon-ball-z-kakarot-season-pass-2.json) |
+| Dragon Ball Z: Kakarot - Special Edition | 233937 | [233937-dragon-ball-z-kakarot-special-edition.json](./233937-dragon-ball-z-kakarot-special-edition.json) |
 | Dragon Ball Z: Kakarot - Ultimate Edition | 136271 | [136271-dragon-ball-z-kakarot-ultimate-edition.json](./136271-dragon-ball-z-kakarot-ultimate-edition.json) |
 | Dragon Ball Z: Kakarot - Ultimate Special Edition | 233943 | [233943-dragon-ball-z-kakarot-ultimate-special-edition.json](./233943-dragon-ball-z-kakarot-ultimate-special-edition.json) |
 | Dragon Ball Z: Kakarot + A New Power Awakens Set - Deluxe Edition | 237860 | [237860-dragon-ball-z-kakarot-a-new-power-awakens-set-deluxe-edition.json](./237860-dragon-ball-z-kakarot-a-new-power-awakens-set-deluxe-edition.json) |
