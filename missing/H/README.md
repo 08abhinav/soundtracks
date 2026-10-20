@@ -4277,6 +4277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hermano | 299857 | [299857-hermano.json](./299857-hermano.json) |
 | Hermes | 94255 | [94255-hermes.json](./94255-hermes.json) |
 | Hermes & Gry: A Crooked Plan | 176308 | [176308-hermes-and-gry-a-crooked-plan.json](./176308-hermes-and-gry-a-crooked-plan.json) |
+| Hermes e Renato: Joselito Contra a Farofada | 253187 | [253187-hermes-e-renato-joselito-contra-a-farofada.json](./253187-hermes-e-renato-joselito-contra-a-farofada.json) |
 | Hermes: Rescue Mission | 126331 | [126331-hermes-rescue-mission.json](./126331-hermes-rescue-mission.json) |
 | Hermes: The Fury of Megaera | 255245 | [255245-hermes-the-fury-of-megaera.json](./255245-hermes-the-fury-of-megaera.json) |
 | Hermes: Tricks of Thanatos | 166041 | [166041-hermes-tricks-of-thanatos.json](./166041-hermes-tricks-of-thanatos.json) |
@@ -4761,6 +4762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Tunnel Touch | 100602 | [100602-hex-tunnel-touch.json](./100602-hex-tunnel-touch.json) |
 | Hex Two | 102218 | [102218-hex-two.json](./102218-hex-two.json) |
 | Hex-a-Hop | 261303 | [261303-hex-a-hop.json](./261303-hex-a-hop.json) |
+| Hex-Mix | 253246 | [253246-hex-mix.json](./253246-hex-mix.json) |
 | HEX: Shards of Fate | 9570 | [9570-hex-shards-of-fate.json](./9570-hex-shards-of-fate.json) |
 | Hexa | 114390 | [114390-hexa.json](./114390-hexa.json) |
 | Hexa | 46868 | [46868-hexa.json](./46868-hexa.json) |
@@ -7366,7 +7368,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopping Up for It | 32075 | [32075-hopping-up-for-it.json](./32075-hopping-up-for-it.json) |
 | Hoppup! | 141878 | [141878-hoppup.json](./141878-hoppup.json) |
 | Hoppy Bobby | 58494 | [58494-hoppy-bobby.json](./58494-hoppy-bobby.json) |
+| Hoppy Frog | 253248 | [253248-hoppy-frog.json](./253248-hoppy-frog.json) |
 | Hoppy Hop | 250884 | [250884-hoppy-hop.json](./250884-hoppy-hop.json) |
+| Hoppy Square DX | 253210 | [253210-hoppy-square-dx.json](./253210-hoppy-square-dx.json) |
 | Hoppy Woods | 184424 | [184424-hoppy-woods.json](./184424-hoppy-woods.json) |
 | Hopscotch | 262430 | [262430-hopscotch.json](./262430-hopscotch.json) |
 | Hopscotch | 68689 | [68689-hopscotch.json](./68689-hopscotch.json) |
