@@ -3279,6 +3279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal 64 | 252820 | [252820-terminal-64.json](./252820-terminal-64.json) |
 | Terminal 69 | 289030 | [289030-terminal-69.json](./289030-terminal-69.json) |
 | Terminal 7 | 131950 | [131950-terminal-7.json](./131950-terminal-7.json) |
+| Terminal 81 | 251976 | [251976-terminal-81.json](./251976-terminal-81.json) |
 | Terminal 81R | 339409 | [339409-terminal-81r.json](./339409-terminal-81r.json) |
 | Terminal Bore | 333025 | [333025-terminal-bore.json](./333025-terminal-bore.json) |
 | Terminal Breach | 217394 | [217394-terminal-breach.json](./217394-terminal-breach.json) |
@@ -3563,6 +3564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tesla: The Weather Man | 54431 | [54431-tesla-the-weather-man.json](./54431-tesla-the-weather-man.json) |
 | Tesla's Best Friend | 30861 | [30861-teslas-best-friend.json](./30861-teslas-best-friend.json) |
 | Tesla's Electric Mist | 70897 | [70897-teslas-electric-mist.json](./70897-teslas-electric-mist.json) |
+| Tesla's Puzzles of Lights | 252008 | [252008-teslas-puzzles-of-lights.json](./252008-teslas-puzzles-of-lights.json) |
 | Tesla's Tower: The Wardenclyffe Mystery | 31954 | [31954-teslas-tower-the-wardenclyffe-mystery.json](./31954-teslas-tower-the-wardenclyffe-mystery.json) |
 | Tesla8 | 95985 | [95985-tesla8.json](./95985-tesla8.json) |
 | Teslagrad 2 | 214506 | [214506-teslagrad-2.json](./214506-teslagrad-2.json) |
@@ -8967,6 +8969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Hero | 343593 | [343593-the-last-hero.json](./343593-the-last-hero.json) |
 | The Last Hero of Nostalgaia | 214707 | [214707-the-last-hero-of-nostalgaia.json](./214707-the-last-hero-of-nostalgaia.json) |
 | The Last Hero of Nostalgaia: Deluxe Edition | 254283 | [254283-the-last-hero-of-nostalgaia-deluxe-edition.json](./254283-the-last-hero-of-nostalgaia-deluxe-edition.json) |
+| The Last Hero: Journey to the Unknown | 251972 | [251972-the-last-hero-journey-to-the-unknown.json](./251972-the-last-hero-journey-to-the-unknown.json) |
 | The Last Heroine | 351777 | [351777-the-last-heroine.json](./351777-the-last-heroine.json) |
 | The Last Hex | 105231 | [105231-the-last-hex.json](./105231-the-last-hex.json) |
 | The Last Hike | 236267 | [236267-the-last-hike.json](./236267-the-last-hike.json) |
@@ -9866,6 +9869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost | 33178 | [33178-the-lost.json](./33178-the-lost.json) |
 | The Lost Abyss | 213592 | [213592-the-lost-abyss.json](./213592-the-lost-abyss.json) |
 | The Lost Admiral | 57573 | [57573-the-lost-admiral.json](./57573-the-lost-admiral.json) |
+| The Lost Adventure | 251980 | [251980-the-lost-adventure.json](./251980-the-lost-adventure.json) |
 | The Lost Adventures of Legend | 73543 | [73543-the-lost-adventures-of-legend.json](./73543-the-lost-adventures-of-legend.json) |
 | The Lost and Forgotten | 104816 | [104816-the-lost-and-forgotten.json](./104816-the-lost-and-forgotten.json) |
 | The Lost and The Wicked | 150972 | [150972-the-lost-and-the-wicked.json](./150972-the-lost-and-the-wicked.json) |
@@ -11933,6 +11937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Search For Sonic Mania 2 | 352175 | [352175-the-search-for-sonic-mania-2.json](./352175-the-search-for-sonic-mania-2.json) |
 | The Search for Tikiman | 265679 | [265679-the-search-for-tikiman.json](./265679-the-search-for-tikiman.json) |
 | The Search Master: Metal Gear Solid Edition | 270390 | [270390-the-search-master-metal-gear-solid-edition.json](./270390-the-search-master-metal-gear-solid-edition.json) |
+| The Search: Lost Dreams | 251991 | [251991-the-search-lost-dreams.json](./251991-the-search-lost-dreams.json) |
 | The Searcher Wild West Adventure | 105373 | [105373-the-searcher-wild-west-adventure.json](./105373-the-searcher-wild-west-adventure.json) |
 | The Season of the Warlock | 180132 | [180132-the-season-of-the-warlock.json](./180132-the-season-of-the-warlock.json) |
 | The Seasons | 43129 | [43129-the-seasons.json](./43129-the-seasons.json) |
@@ -19300,6 +19305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toro! Let's Party! | 65566 | [65566-toro-lets-party.json](./65566-toro-lets-party.json) |
 | Toro's Story App: Heart Pounding Nya | 246074 | [246074-toros-story-app-heart-pounding-nya.json](./246074-toros-story-app-heart-pounding-nya.json) |
 | Toroa: Skycall | 204521 | [204521-toroa-skycall.json](./204521-toroa-skycall.json) |
+| ToroFun | 251977 | [251977-torofun.json](./251977-torofun.json) |
 | Toroidal: Awaiting the Spring | 244699 | [244699-toroidal-awaiting-the-spring.json](./244699-toroidal-awaiting-the-spring.json) |
 | Toroom | 154834 | [154834-toroom.json](./154834-toroom.json) |
 | Torpedo Alley | 314417 | [314417-torpedo-alley.json](./314417-torpedo-alley.json) |
@@ -20177,6 +20183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of the Deep | 388026 | [388026-tower-of-the-deep.json](./388026-tower-of-the-deep.json) |
 | Tower of the Dragon | 337841 | [337841-tower-of-the-dragon.json](./337841-tower-of-the-dragon.json) |
 | Tower of the Ice Lich | 326690 | [326690-tower-of-the-ice-lich.json](./326690-tower-of-the-ice-lich.json) |
+| Tower of the Mad Wizard | 251986 | [251986-tower-of-the-mad-wizard.json](./251986-tower-of-the-mad-wizard.json) |
 | Tower of the Sage | 195140 | [195140-tower-of-the-sage.json](./195140-tower-of-the-sage.json) |
 | Tower of the Sorceror | 202778 | [202778-tower-of-the-sorceror.json](./202778-tower-of-the-sorceror.json) |
 | Tower of Titans | 375320 | [375320-tower-of-titans.json](./375320-tower-of-titans.json) |
@@ -24310,6 +24317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tutankhamun: Builders of the Eternal | 378360 | [378360-tutankhamun-builders-of-the-eternal.json](./378360-tutankhamun-builders-of-the-eternal.json) |
 | Tutel Quest | 291168 | [291168-tutel-quest.json](./291168-tutel-quest.json) |
 | Tutelary | 246371 | [246371-tutelary.json](./246371-tutelary.json) |
+| Tutenstone | 251985 | [251985-tutenstone.json](./251985-tutenstone.json) |
 | Tutien Path | 361596 | [361596-tutien-path.json](./361596-tutien-path.json) |
 | Tutorial | 231092 | [231092-tutorial.json](./231092-tutorial.json) |
 | Tutti Frutti | 54932 | [54932-tutti-frutti.json](./54932-tutti-frutti.json) |
