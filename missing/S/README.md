@@ -3660,6 +3660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeker of the Ruins | 331304 | [331304-seeker-of-the-ruins.json](./331304-seeker-of-the-ruins.json) |
 | Seeker Shrine | 399735 | [399735-seeker-shrine.json](./399735-seeker-shrine.json) |
 | Seeker Tactics | 412935 | [412935-seeker-tactics.json](./412935-seeker-tactics.json) |
+| Seeker: Quest | 250760 | [250760-seeker-quest.json](./250760-seeker-quest.json) |
 | Seekers | 169342 | [169342-seekers.json](./169342-seekers.json) |
 | Seekers Aeterna | 217339 | [217339-seekers-aeterna.json](./217339-seekers-aeterna.json) |
 | Seekers of Darkness | 320028 | [320028-seekers-of-darkness.json](./320028-seekers-of-darkness.json) |
@@ -7802,6 +7803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Ops | 332433 | [332433-silent-ops.json](./332433-silent-ops.json) |
 | Silent Paradise | 401796 | [401796-silent-paradise.json](./401796-silent-paradise.json) |
 | Silent Paradise Anthology | 402901 | [402901-silent-paradise-anthology.json](./402901-silent-paradise-anthology.json) |
+| Silent Paws | 250772 | [250772-silent-paws.json](./250772-silent-paws.json) |
 | Silent Paws: Hidden Valley | 264006 | [264006-silent-paws-hidden-valley.json](./264006-silent-paws-hidden-valley.json) |
 | Silent Rain | 258078 | [258078-silent-rain.json](./258078-silent-rain.json) |
 | Silent Reel | 367979 | [367979-silent-reel.json](./367979-silent-reel.json) |
@@ -12489,6 +12491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sommad | 51957 | [51957-sommad.json](./51957-sommad.json) |
 | Somme Trench | 275653 | [275653-somme-trench.json](./275653-somme-trench.json) |
 | Sommelier DS | 124052 | [124052-sommelier-ds.json](./124052-sommelier-ds.json) |
+| Sommerland | 250756 | [250756-sommerland.json](./250756-sommerland.json) |
 | SomnaBuster | 281378 | [281378-somnabuster.json](./281378-somnabuster.json) |
 | Somnambulo | 351385 | [351385-somnambulo.json](./351385-somnambulo.json) |
 | Somni | 172738 | [172738-somni.json](./172738-somni.json) |
@@ -20187,6 +20190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Store Keeper | 344985 | [344985-store-keeper.json](./344985-store-keeper.json) |
 | Store Simulator | 285670 | [285670-store-simulator.json](./285670-store-simulator.json) |
 | Store Simulator 2018 | 405476 | [405476-store-simulator-2018.json](./405476-store-simulator-2018.json) |
+| Store Story | 250794 | [250794-store-story.json](./250794-store-story.json) |
 | Storebound | 331151 | [331151-storebound.json](./331151-storebound.json) |
 | Storefront | 376481 | [376481-storefront.json](./376481-storefront.json) |
 | Storia Stories | 257115 | [257115-storia-stories.json](./257115-storia-stories.json) |
@@ -21478,6 +21482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subject:Love | 305850 | [305850-subject-love.json](./305850-subject-love.json) |
 | Subjectivation | 341910 | [341910-subjectivation.json](./341910-subjectivation.json) |
 | Sublight | 377057 | [377057-sublight.json](./377057-sublight.json) |
+| Sublime Element | 250790 | [250790-sublime-element.json](./250790-sublime-element.json) |
 | Subliminal Realms: The Masterpiece | 140290 | [140290-subliminal-realms-the-masterpiece.json](./140290-subliminal-realms-the-masterpiece.json) |
 | Subliminal Realms: The Masterpiece HD | 99717 | [99717-subliminal-realms-the-masterpiece-hd.json](./99717-subliminal-realms-the-masterpiece-hd.json) |
 | Subliminal Region | 168132 | [168132-subliminal-region.json](./168132-subliminal-region.json) |
@@ -24775,6 +24780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super VHS | 244683 | [244683-super-vhs.json](./244683-super-vhs.json) |
 | Super Video Golf | 249343 | [249343-super-video-golf.json](./249343-super-video-golf.json) |
 | Super Vili | 160167 | [160167-super-vili.json](./160167-super-vili.json) |
+| Super Virus Defense | 250775 | [250775-super-virus-defense.json](./250775-super-virus-defense.json) |
 | Super Visual Soccer | 125980 | [125980-super-visual-soccer.json](./125980-super-visual-soccer.json) |
 | Super Volley Blast | 105274 | [105274-super-volley-blast.json](./105274-super-volley-blast.json) |
 | Super Volte-Face | 310414 | [310414-super-volte-face.json](./310414-super-volte-face.json) |
