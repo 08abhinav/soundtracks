@@ -8285,6 +8285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Feed | 29879 | [29879-blood-feed.json](./29879-blood-feed.json) |
 | Blood Field | 153932 | [153932-blood-field.json](./153932-blood-field.json) |
 | Blood Fighter Round Battle | 417707 | [417707-blood-fighter-round-battle.json](./417707-blood-fighter-round-battle.json) |
+| Blood Flowers | 211583 | [211583-blood-flowers.json](./211583-blood-flowers.json) |
 | Blood Flows Where My Shotgun Blows | 263405 | [263405-blood-flows-where-my-shotgun-blows.json](./263405-blood-flows-where-my-shotgun-blows.json) |
 | Blood for Poppies | 165531 | [165531-blood-for-poppies.json](./165531-blood-for-poppies.json) |
 | Blood for the Queen | 383070 | [383070-blood-for-the-queen.json](./383070-blood-for-the-queen.json) |
