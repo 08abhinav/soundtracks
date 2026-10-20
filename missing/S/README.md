@@ -8921,6 +8921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeleton Boomerang | 44177 | [44177-skeleton-boomerang.json](./44177-skeleton-boomerang.json) |
 | Skeleton Dungeon | 360448 | [360448-skeleton-dungeon.json](./360448-skeleton-dungeon.json) |
 | Skeleton Farmer | 364013 | [364013-skeleton-farmer.json](./364013-skeleton-farmer.json) |
+| Skeleton Hotel | 247897 | [247897-skeleton-hotel.json](./247897-skeleton-hotel.json) |
 | Skeleton King | 163962 | [163962-skeleton-king.json](./163962-skeleton-king.json) |
 | Skeleton King | 210844 | [210844-skeleton-king.json](./210844-skeleton-king.json) |
 | Skeleton Messi | 293858 | [293858-skeleton-messi.json](./293858-skeleton-messi.json) |
@@ -16365,6 +16366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiritgrapher: The Asylum 99 | 312737 | [312737-spiritgrapher-the-asylum-99.json](./312737-spiritgrapher-the-asylum-99.json) |
 | Spiritlands | 28253 | [28253-spiritlands.json](./28253-spiritlands.json) |
 | Spiritle | 151731 | [151731-spiritle.json](./151731-spiritle.json) |
+| Spiritless Ltd. | 247883 | [247883-spiritless-ltd.json](./247883-spiritless-ltd.json) |
 | Spiritlink Tactics | 191737 | [191737-spiritlink-tactics.json](./191737-spiritlink-tactics.json) |
 | Spirits | 239573 | [239573-spirits.json](./239573-spirits.json) |
 | Spirits & Alice | 358502 | [358502-spirits-and-alice.json](./358502-spirits-and-alice.json) |
@@ -19435,6 +19437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Ranger | 179658 | [179658-steel-ranger.json](./179658-steel-ranger.json) |
 | Steel Rats | 74881 | [74881-steel-rats.json](./74881-steel-rats.json) |
 | Steel Rats: Deluxe Edition | 119083 | [119083-steel-rats-deluxe-edition.json](./119083-steel-rats-deluxe-edition.json) |
+| Steel Republic: Rail Defender | 247895 | [247895-steel-republic-rail-defender.json](./247895-steel-republic-rail-defender.json) |
 | Steel Revolt | 353476 | [353476-steel-revolt.json](./353476-steel-revolt.json) |
 | Steel Rivals | 34766 | [34766-steel-rivals.json](./34766-steel-rivals.json) |
 | Steel Runner | 175179 | [175179-steel-runner.json](./175179-steel-runner.json) |
@@ -23272,6 +23275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Landscapes 3 | 259088 | [259088-super-jigsaw-puzzle-generations-landscapes-3.json](./259088-super-jigsaw-puzzle-generations-landscapes-3.json) |
 | Super Jigsaw Puzzle: Generations - Landscapes Puzzles | 155624 | [155624-super-jigsaw-puzzle-generations-landscapes-puzzles.json](./155624-super-jigsaw-puzzle-generations-landscapes-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Love | 195277 | [195277-super-jigsaw-puzzle-generations-love.json](./195277-super-jigsaw-puzzle-generations-love.json) |
+| Super Jigsaw Puzzle: Generations - Malaysia | 247876 | [247876-super-jigsaw-puzzle-generations-malaysia.json](./247876-super-jigsaw-puzzle-generations-malaysia.json) |
 | Super Jigsaw Puzzle: Generations - Mexico Puzzles | 155642 | [155642-super-jigsaw-puzzle-generations-mexico-puzzles.json](./155642-super-jigsaw-puzzle-generations-mexico-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Monkeys & Apes Puzzles | 353462 | [353462-super-jigsaw-puzzle-generations-monkeys-and-apes-puzzles.json](./353462-super-jigsaw-puzzle-generations-monkeys-and-apes-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Motorbikes Puzzles | 155622 | [155622-super-jigsaw-puzzle-generations-motorbikes-puzzles.json](./155622-super-jigsaw-puzzle-generations-motorbikes-puzzles.json) |
