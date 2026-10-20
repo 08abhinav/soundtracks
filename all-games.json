@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T22:06:32.817Z",
-  "total_soundtracks": 2327,
+  "generated_at": "2026-10-20T22:10:38.354Z",
+  "total_soundtracks": 2328,
   "games": [
     {
       "igdb_id": 7522,
@@ -1227,6 +1227,20 @@
         {
           "album_name": "ANTONBLAST Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/4x4PyTOPgMtIVjRyoxTSzj",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 21897,
+      "game_name": "Aperture Tag: The Paint Gun Testing Initiative",
+      "game_url": "https://ostdb.net/games/aperture-tag-the-paint-gun-testing-initiative",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27301eedb7bc00596ab1785d168",
+      "albums": [
+        {
+          "album_name": "Aperture Tag: the Paint Gun Testing Initiative Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/0R3HUyBEvcAkdxcL03Baf1",
           "apple_music_url": "",
           "album_link_url": ""
         }
