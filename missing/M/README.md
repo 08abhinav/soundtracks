@@ -546,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madou Monogatari: Hanamaru Daiyouchienji | 110397 | [110397-madou-monogatari-hanamaru-daiyouchienji.json](./110397-madou-monogatari-hanamaru-daiyouchienji.json) |
 | Madou Monogatari: Michikusa Ibun | 146652 | [146652-madou-monogatari-michikusa-ibun.json](./146652-madou-monogatari-michikusa-ibun.json) |
 | Madou Monogatari: Tower of the Magician | 252162 | [252162-madou-monogatari-tower-of-the-magician.json](./252162-madou-monogatari-tower-of-the-magician.json) |
+| Madou Run | 253724 | [253724-madou-run.json](./253724-madou-run.json) |
 | Madou Senki: Deep Dungeon | 41232 | [41232-madou-senki-deep-dungeon.json](./41232-madou-senki-deep-dungeon.json) |
 | Madoushi Lulba | 235095 | [235095-madoushi-lulba.json](./235095-madoushi-lulba.json) |
 | MadOut | 35679 | [35679-madout.json](./35679-madout.json) |
@@ -760,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Balls | 163868 | [163868-magic-balls.json](./163868-magic-balls.json) |
 | Magic Balls | 263474 | [263474-magic-balls.json](./263474-magic-balls.json) |
 | Magic Barrage - Bitferno | 36142 | [36142-magic-barrage-bitferno.json](./36142-magic-barrage-bitferno.json) |
+| Magic Battle Hasamuncho | 253760 | [253760-magic-battle-hasamuncho.json](./253760-magic-battle-hasamuncho.json) |
 | Magic Block | 48282 | [48282-magic-block.json](./48282-magic-block.json) |
 | Magic Book Auto Battler | 328257 | [328257-magic-book-auto-battler.json](./328257-magic-book-auto-battler.json) |
 | Magic Book Escape | 315673 | [315673-magic-book-escape.json](./315673-magic-book-escape.json) |
@@ -7477,6 +7479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metris 4 | 91521 | [91521-metris-4.json](./91521-metris-4.json) |
 | Metris Soccer | 33295 | [33295-metris-soccer.json](./33295-metris-soccer.json) |
 | MetrixVR | 124142 | [124142-metrixvr.json](./124142-metrixvr.json) |
+| Metro | 253748 | [253748-metro.json](./253748-metro.json) |
 | Metro - The Board Game | 88803 | [88803-metro-the-board-game.json](./88803-metro-the-board-game.json) |
 | Metro 2033 Wars: Born in the Dark | 23973 | [23973-metro-2033-wars-born-in-the-dark.json](./23973-metro-2033-wars-born-in-the-dark.json) |
 | Metro 2033: Wars | 59064 | [59064-metro-2033-wars.json](./59064-metro-2033-wars.json) |
@@ -11332,6 +11335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Island 2.5: El Parque de las Pesadillas | 324164 | [324164-monkey-island-2-5-el-parque-de-las-pesadillas.json](./324164-monkey-island-2-5-el-parque-de-las-pesadillas.json) |
 | Monkey Island Special Edition Collection | 43036 | [43036-monkey-island-special-edition-collection.json](./43036-monkey-island-special-edition-collection.json) |
 | Monkey Jump | 373884 | [373884-monkey-jump.json](./373884-monkey-jump.json) |
+| Monkey Kick Off | 253792 | [253792-monkey-kick-off.json](./253792-monkey-kick-off.json) |
 | Monkey King | 287535 | [287535-monkey-king.json](./287535-monkey-king.json) |
 | Monkey King Online | 61691 | [61691-monkey-king-online.json](./61691-monkey-king-online.json) |
 | Monkey King Saga | 34061 | [34061-monkey-king-saga.json](./34061-monkey-king-saga.json) |
