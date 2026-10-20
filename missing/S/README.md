@@ -21497,6 +21497,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sube | 264149 | [264149-sube.json](./264149-sube.json) |
 | Subell's Abyss | 379105 | [379105-subells-abyss.json](./379105-subells-abyss.json) |
 | Suber Driver | 189079 | [189079-suber-driver.json](./189079-suber-driver.json) |
+| Subespaço | 247355 | [247355-subespaco.json](./247355-subespaco.json) |
+| Subespaço | 247356 | [247356-subespaco.json](./247356-subespaco.json) |
 | Subete wa Oshi no Tame ni!! Josou Shitara Chouzetsu Oshi ni Niteta Ken | 77866 | [77866-subete-wa-oshi-no-tame-ni-josou-shitara-chouzetsu-oshi-ni-niteta-ken.json](./77866-subete-wa-oshi-no-tame-ni-josou-shitara-chouzetsu-oshi-ni-niteta-ken.json) |
 | Subject | 131341 | [131341-subject.json](./131341-subject.json) |
 | Subject 26 | 178497 | [178497-subject-26.json](./178497-subject-26.json) |
