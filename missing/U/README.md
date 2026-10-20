@@ -219,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UG | 370848 | [370848-ug.json](./370848-ug.json) |
 | Ug! Caveman Game | 198528 | [198528-ug-caveman-game.json](./198528-ug-caveman-game.json) |
 | Ugandan Knuckles Pet | 96300 | [96300-ugandan-knuckles-pet.json](./96300-ugandan-knuckles-pet.json) |
+| Ugandan Knuckles VR | 223883 | [223883-ugandan-knuckles-vr.json](./223883-ugandan-knuckles-vr.json) |
 | Ugetsu Kitan | 57362 | [57362-ugetsu-kitan.json](./57362-ugetsu-kitan.json) |
 | Uggies Garden | 128472 | [128472-uggies-garden.json](./128472-uggies-garden.json) |
 | Ugh! | 11685 | [11685-ugh.json](./11685-ugh.json) |
@@ -354,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Board Game Collection | 20553 | [20553-ultimate-board-game-collection.json](./20553-ultimate-board-game-collection.json) |
 | Ultimate Bomb Squad | 142465 | [142465-ultimate-bomb-squad.json](./142465-ultimate-bomb-squad.json) |
 | Ultimate Booster Experience | 32102 | [32102-ultimate-booster-experience.json](./32102-ultimate-booster-experience.json) |
+| Ultimate Bowmasters | 223884 | [223884-ultimate-bowmasters.json](./223884-ultimate-bowmasters.json) |
 | Ultimate Bubble Shooter | 90536 | [90536-ultimate-bubble-shooter.json](./90536-ultimate-bubble-shooter.json) |
 | Ultimate Candy Hunt | 384337 | [384337-ultimate-candy-hunt.json](./384337-ultimate-candy-hunt.json) |
 | Ultimate Car Company Tycoon | 390108 | [390108-ultimate-car-company-tycoon.json](./390108-ultimate-car-company-tycoon.json) |
@@ -455,6 +457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Jungle Simulator | 86856 | [86856-ultimate-jungle-simulator.json](./86856-ultimate-jungle-simulator.json) |
 | Ultimate Kept Man Life | 340347 | [340347-ultimate-kept-man-life.json](./340347-ultimate-kept-man-life.json) |
 | Ultimate Knight Windom XP | 268438 | [268438-ultimate-knight-windom-xp.json](./268438-ultimate-knight-windom-xp.json) |
+| Ultimate Kungfu Street | 223885 | [223885-ultimate-kungfu-street.json](./223885-ultimate-kungfu-street.json) |
 | Ultimate Lemon Basket | 411522 | [411522-ultimate-lemon-basket.json](./411522-ultimate-lemon-basket.json) |
 | Ultimate Logic Puzzle Collection | 115163 | [115163-ultimate-logic-puzzle-collection.json](./115163-ultimate-logic-puzzle-collection.json) |
 | Ultimate Low Poly Pet | 151277 | [151277-ultimate-low-poly-pet.json](./151277-ultimate-low-poly-pet.json) |
@@ -794,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraman: Hiragana Daisakusen | 63950 | [63950-ultraman-hiragana-daisakusen.json](./63950-ultraman-hiragana-daisakusen.json) |
 | Ultraman: Kaijuu Daikessen | 385839 | [385839-ultraman-kaijuu-daikessen.json](./385839-ultraman-kaijuu-daikessen.json) |
 | Ultraman: Kaijuu Teikoku no Gyakushuu | 41333 | [41333-ultraman-kaijuu-teikoku-no-gyakushuu.json](./41333-ultraman-kaijuu-teikoku-no-gyakushuu.json) |
+| Ultraman: Legend of Heroes | 223886 | [223886-ultraman-legend-of-heroes.json](./223886-ultraman-legend-of-heroes.json) |
 | Ultraman: Oide yo! Ultra Youchien | 63947 | [63947-ultraman-oide-yo-ultra-youchien.json](./63947-ultraman-oide-yo-ultra-youchien.json) |
 | Ultraman: Suuji de Asobou Ultra Land | 63940 | [63940-ultraman-suuji-de-asobou-ultra-land.json](./63940-ultraman-suuji-de-asobou-ultra-land.json) |
 | Ultraman: The Digital Board Game | 289760 | [289760-ultraman-the-digital-board-game.json](./289760-ultraman-the-digital-board-game.json) |
@@ -1683,6 +1687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unhinged Pet Store Simulator | 349457 | [349457-unhinged-pet-store-simulator.json](./349457-unhinged-pet-store-simulator.json) |
 | Unhold | 407330 | [407330-unhold.json](./407330-unhold.json) |
 | Unholy | 90213 | [90213-unholy.json](./90213-unholy.json) |
+| Unholy Adventure | 223888 | [223888-unholy-adventure.json](./223888-unholy-adventure.json) |
 | Unholy Adventure 2 | 295933 | [295933-unholy-adventure-2.json](./295933-unholy-adventure-2.json) |
 | Unholy Adventure: Mystery | 381711 | [381711-unholy-adventure-mystery.json](./381711-unholy-adventure-mystery.json) |
 | Unholy Alliance: Tower Defense | 163223 | [163223-unholy-alliance-tower-defense.json](./163223-unholy-alliance-tower-defense.json) |
@@ -2055,6 +2060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unolingo | 288195 | [288195-unolingo.json](./288195-unolingo.json) |
 | Unoriginal CRINGE Meme Hack | 360138 | [360138-unoriginal-cringe-meme-hack.json](./360138-unoriginal-cringe-meme-hack.json) |
 | Unorthodox Game | 262587 | [262587-unorthodox-game.json](./262587-unorthodox-game.json) |
+| Unotale: Card Game | 223859 | [223859-unotale-card-game.json](./223859-unotale-card-game.json) |
 | Unou Kaihatsu Series 10 Nontan to Issho Wai-wai Nippon | 303759 | [303759-unou-kaihatsu-series-10-nontan-to-issho-wai-wai-nippon.json](./303759-unou-kaihatsu-series-10-nontan-to-issho-wai-wai-nippon.json) |
 | Unou Kids DS | 124117 | [124117-unou-kids-ds.json](./124117-unou-kids-ds.json) |
 | Unou no Tatsujin: Hirameki Kosodate My Angel | 124116 | [124116-unou-no-tatsujin-hirameki-kosodate-my-angel.json](./124116-unou-no-tatsujin-hirameki-kosodate-my-angel.json) |
@@ -2290,6 +2296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled One | 202340 | [202340-untitled-one.json](./202340-untitled-one.json) |
 | Untitled Paper Mario Fangame | 266509 | [266509-untitled-paper-mario-fangame.json](./266509-untitled-paper-mario-fangame.json) |
 | Untitled Racing Game | 219063 | [219063-untitled-racing-game.json](./219063-untitled-racing-game.json) |
+| Untitled Ragdoll Game | 223889 | [223889-untitled-ragdoll-game.json](./223889-untitled-ragdoll-game.json) |
 | Untitled Rhythm Puzzle Game | 143011 | [143011-untitled-rhythm-puzzle-game.json](./143011-untitled-rhythm-puzzle-game.json) |
 | Untitled Risk of Rain Fighting Game | 307395 | [307395-untitled-risk-of-rain-fighting-game.json](./307395-untitled-risk-of-rain-fighting-game.json) |
 | Untitled Roguelike | 202048 | [202048-untitled-roguelike.json](./202048-untitled-roguelike.json) |
