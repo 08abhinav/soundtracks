@@ -1133,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanctuary Saga | 233575 | [233575-sanctuary-saga.json](./233575-sanctuary-saga.json) |
 | Sanctuary VR | 30182 | [30182-sanctuary-vr.json](./30182-sanctuary-vr.json) |
 | Sanctuary: Shattered Sun | 235668 | [235668-sanctuary-shattered-sun.json](./235668-sanctuary-shattered-sun.json) |
+| Sanctum | 236690 | [236690-sanctum.json](./236690-sanctum.json) |
 | Sanctum 2: Road to Elysion | 10806 | [10806-sanctum-2-road-to-elysion.json](./10806-sanctum-2-road-to-elysion.json) |
 | Sanctum 2: Ruins of Brightholme | 10807 | [10807-sanctum-2-ruins-of-brightholme.json](./10807-sanctum-2-ruins-of-brightholme.json) |
 | Sanctum 2: The Last Stand | 10808 | [10808-sanctum-2-the-last-stand.json](./10808-sanctum-2-the-last-stand.json) |
@@ -4592,6 +4593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Severity | 93615 | [93615-severity.json](./93615-severity.json) |
 | Sevgilim Olur musun ? | 92423 | [92423-sevgilim-olur-musun.json](./92423-sevgilim-olur-musun.json) |
 | Sevn | 232486 | [232486-sevn.json](./232486-sevn.json) |
+| SevTech: Ages | 236686 | [236686-sevtech-ages.json](./236686-sevtech-ages.json) |
 | Sevyal | 254321 | [254321-sevyal.json](./254321-sevyal.json) |
 | Sew in Love | 184903 | [184903-sew-in-love.json](./184903-sew-in-love.json) |
 | Sewage | 202329 | [202329-sewage.json](./202329-sewage.json) |
@@ -7709,6 +7711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signal Decay | 58715 | [58715-signal-decay.json](./58715-signal-decay.json) |
 | Signal Garden | 400311 | [400311-signal-garden.json](./400311-signal-garden.json) |
 | Signal Hill | 390655 | [390655-signal-hill.json](./390655-signal-hill.json) |
+| Signal Lost | 236689 | [236689-signal-lost.json](./236689-signal-lost.json) |
 | Signal Lost | 327358 | [327358-signal-lost.json](./327358-signal-lost.json) |
 | Signal Lost | 377331 | [377331-signal-lost.json](./377331-signal-lost.json) |
 | Signal Maze | 231821 | [231821-signal-maze.json](./231821-signal-maze.json) |
@@ -9344,6 +9347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Guy Gone AWOL | 381759 | [381759-sky-guy-gone-awol.json](./381759-sky-guy-gone-awol.json) |
 | Sky Harrier: Alpha Code | 189044 | [189044-sky-harrier-alpha-code.json](./189044-sky-harrier-alpha-code.json) |
 | Sky Haven | 82463 | [82463-sky-haven.json](./82463-sky-haven.json) |
+| Sky Haven: AR Merge Adventure | 236696 | [236696-sky-haven-ar-merge-adventure.json](./236696-sky-haven-ar-merge-adventure.json) |
 | Sky Hawk | 93723 | [93723-sky-hawk.json](./93723-sky-hawk.json) |
 | Sky Hex | 261862 | [261862-sky-hex.json](./261862-sky-hex.json) |
 | Sky High Golf | 256137 | [256137-sky-high-golf.json](./256137-sky-high-golf.json) |
@@ -9644,6 +9648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam Dunk Basketball | 245410 | [245410-slam-dunk-basketball.json](./245410-slam-dunk-basketball.json) |
 | Slam Dunk Basketball | 276609 | [276609-slam-dunk-basketball.json](./276609-slam-dunk-basketball.json) |
 | Slam Dunk Basketball 2 | 259142 | [259142-slam-dunk-basketball-2.json](./259142-slam-dunk-basketball-2.json) |
+| Slam Dunk: Dream Team - Shueisha Limited | 236652 | [236652-slam-dunk-dream-team-shueisha-limited.json](./236652-slam-dunk-dream-team-shueisha-limited.json) |
 | Slam Dunk: Gakeppuchi no Kesshou League | 78516 | [78516-slam-dunk-gakeppuchi-no-kesshou-league.json](./78516-slam-dunk-gakeppuchi-no-kesshou-league.json) |
 | Slam Dunk: Kyougou Makkou Taiketsu! | 78307 | [78307-slam-dunk-kyougou-makkou-taiketsu.json](./78307-slam-dunk-kyougou-makkou-taiketsu.json) |
 | Slam Dunk: Shouri he no Starting 5 | 282497 | [282497-slam-dunk-shouri-he-no-starting-5.json](./282497-slam-dunk-shouri-he-no-starting-5.json) |
@@ -16548,6 +16553,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splatoon | 7335 | [7335-splatoon.json](./7335-splatoon.json) |
 | Splatoon 2 | 26761 | [26761-splatoon-2.json](./26761-splatoon-2.json) |
 | Splatoon 2 + Splatoon 2 Octo Expansion Bundle | 136382 | [136382-splatoon-2-splatoon-2-octo-expansion-bundle.json](./136382-splatoon-2-splatoon-2-octo-expansion-bundle.json) |
+| Splatoon 3: Expansion Pass | 236681 | [236681-splatoon-3-expansion-pass.json](./236681-splatoon-3-expansion-pass.json) |
+| Splatoon 3: Inkopolis | 236677 | [236677-splatoon-3-inkopolis.json](./236677-splatoon-3-inkopolis.json) |
 | Splatoon 3: Rainbow Alterna | 358239 | [358239-splatoon-3-rainbow-alterna.json](./358239-splatoon-3-rainbow-alterna.json) |
 | Splatoon 3: Sizzle Season | 306191 | [306191-splatoon-3-sizzle-season.json](./306191-splatoon-3-sizzle-season.json) |
 | Splatoon Raiders | 348977 | [348977-splatoon-raiders.json](./348977-splatoon-raiders.json) |
@@ -23168,6 +23175,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Foosball | 129719 | [129719-super-foosball.json](./129719-super-foosball.json) |
 | Super Football | 94923 | [94923-super-football.json](./94923-super-football.json) |
 | Super Football Sunday | 94401 | [94401-super-football-sunday.json](./94401-super-football-sunday.json) |
+| Super Formation Soccer 95: della Serie A - Extra Package | 236675 | [236675-super-formation-soccer-95-della-serie-a-extra-package.json](./236675-super-formation-soccer-95-della-serie-a-extra-package.json) |
+| Super Formation Soccer 95: della Serie A - UCC Xaqua | 236673 | [236673-super-formation-soccer-95-della-serie-a-ucc-xaqua.json](./236673-super-formation-soccer-95-della-serie-a-ucc-xaqua.json) |
 | Super Fowlst 2 | 147611 | [147611-super-fowlst-2.json](./147611-super-fowlst-2.json) |
 | Super Fox 2 | 146920 | [146920-super-fox-2.json](./146920-super-fox-2.json) |
 | Super Freaks 1 Remastered | 266873 | [266873-super-freaks-1-remastered.json](./266873-super-freaks-1-remastered.json) |
@@ -24846,6 +24855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Terrible Project | 222914 | [222914-super-terrible-project.json](./222914-super-terrible-project.json) |
 | Super Tetris | 100287 | [100287-super-tetris.json](./100287-super-tetris.json) |
 | Super Tetris | 46116 | [46116-super-tetris.json](./46116-super-tetris.json) |
+| Super Tetris 2 + BomBliss: Gentei-ban | 236679 | [236679-super-tetris-2-bombliss-gentei-ban.json](./236679-super-tetris-2-bombliss-gentei-ban.json) |
 | Super Tetris 3 | 42531 | [42531-super-tetris-3.json](./42531-super-tetris-3.json) |
 | Super Thor Quest | 134332 | [134332-super-thor-quest.json](./134332-super-thor-quest.json) |
 | Super Thunder Blade | 4471 | [4471-super-thunder-blade.json](./4471-super-thunder-blade.json) |
