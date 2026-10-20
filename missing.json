@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T11:03:58.433Z",
-  "total_missing": 237428,
+  "generated_at": "2026-10-20T11:18:48.121Z",
+  "total_missing": 237478,
   "games": [
     {
       "igdb_id": 191680,
@@ -10615,6 +10615,11 @@
       "igdb_id": 277038,
       "game_name": "5:48AM",
       "file": "missing/0-9/277038-5-48am.json"
+    },
+    {
+      "igdb_id": 230142,
+      "game_name": "5.0",
+      "file": "missing/0-9/230142-5-0.json"
     },
     {
       "igdb_id": 115517,
@@ -42852,6 +42857,11 @@
       "file": "missing/A/81960-amaze-untouchable.json"
     },
     {
+      "igdb_id": 230121,
+      "game_name": "Amaze Valentine",
+      "file": "missing/A/230121-amaze-valentine.json"
+    },
+    {
       "igdb_id": 51424,
       "game_name": "Amaze Zer0",
       "file": "missing/A/51424-amaze-zer0.json"
@@ -43155,6 +43165,11 @@
       "igdb_id": 94148,
       "game_name": "Amazing Maze/Tic Tac Toe",
       "file": "missing/A/94148-amazing-maze-tic-tac-toe.json"
+    },
+    {
+      "igdb_id": 230131,
+      "game_name": "Amazing Online",
+      "file": "missing/A/230131-amazing-online.json"
     },
     {
       "igdb_id": 7753,
@@ -115347,6 +115362,11 @@
       "file": "missing/B/188989-black-room.json"
     },
     {
+      "igdb_id": 230148,
+      "game_name": "Black Room",
+      "file": "missing/B/230148-black-room.json"
+    },
+    {
       "igdb_id": 33253,
       "game_name": "Black Rose",
       "file": "missing/B/33253-black-rose.json"
@@ -148237,6 +148257,11 @@
       "file": "missing/B/260056-bus-simulator-original.json"
     },
     {
+      "igdb_id": 230107,
+      "game_name": "Bus Simulator: Ultimate",
+      "file": "missing/B/230107-bus-simulator-ultimate.json"
+    },
+    {
       "igdb_id": 301921,
       "game_name": "Bus Stop",
       "file": "missing/B/301921-bus-stop.json"
@@ -179142,6 +179167,11 @@
       "file": "missing/C/52740-chopper-lethal-darkness-deluxe-edition.json"
     },
     {
+      "igdb_id": 230117,
+      "game_name": "Choppertchi",
+      "file": "missing/C/230117-choppertchi.json"
+    },
+    {
       "igdb_id": 236541,
       "game_name": "Choppie's",
       "file": "missing/C/236541-choppies.json"
@@ -186035,6 +186065,11 @@
       "igdb_id": 336137,
       "game_name": "Clash: Artifacts of Chaos - Supporter Pack",
       "file": "missing/C/336137-clash-artifacts-of-chaos-supporter-pack.json"
+    },
+    {
+      "igdb_id": 230125,
+      "game_name": "Clash: Artifacts of Chaos - Zeno Edition",
+      "file": "missing/C/230125-clash-artifacts-of-chaos-zeno-edition.json"
     },
     {
       "igdb_id": 238942,
@@ -225602,6 +225637,11 @@
       "file": "missing/C/180580-cyber-flyer.json"
     },
     {
+      "igdb_id": 230138,
+      "game_name": "Cyber Furry Girl",
+      "file": "missing/C/230138-cyber-furry-girl.json"
+    },
+    {
       "igdb_id": 154585,
       "game_name": "Cyber Girl 1.0: Booting",
       "file": "missing/C/154585-cyber-girl-1-0-booting.json"
@@ -233095,6 +233135,11 @@
       "igdb_id": 168923,
       "game_name": "Dark Deception: Monsters & Mortals - Monstrum",
       "file": "missing/D/168923-dark-deception-monsters-and-mortals-monstrum.json"
+    },
+    {
+      "igdb_id": 230147,
+      "game_name": "Dark Deception: Monsters & Mortals - Poppy Playtime Panic",
+      "file": "missing/D/230147-dark-deception-monsters-and-mortals-poppy-playtime-panic.json"
     },
     {
       "igdb_id": 168793,
@@ -251495,6 +251540,16 @@
       "igdb_id": 266073,
       "game_name": "Demon Slayer Shion",
       "file": "missing/D/266073-demon-slayer-shion.json"
+    },
+    {
+      "igdb_id": 230137,
+      "game_name": "Demon Slayer Tamagotchi Hashira Gathering Version",
+      "file": "missing/D/230137-demon-slayer-tamagotchi-hashira-gathering-version.json"
+    },
+    {
+      "igdb_id": 230141,
+      "game_name": "Demon Slayer Tamagotchi Yukaku Edition",
+      "file": "missing/D/230141-demon-slayer-tamagotchi-yukaku-edition.json"
     },
     {
       "igdb_id": 131963,
@@ -270185,6 +270240,11 @@
       "igdb_id": 31842,
       "game_name": "DodgeBall Blitz",
       "file": "missing/D/31842-dodgeball-blitz.json"
+    },
+    {
+      "igdb_id": 230152,
+      "game_name": "Dodgeball Championship League",
+      "file": "missing/D/230152-dodgeball-championship-league.json"
     },
     {
       "igdb_id": 112281,
@@ -309582,6 +309642,11 @@
       "file": "missing/E/111886-elon-musk-simulator-2.json"
     },
     {
+      "igdb_id": 230133,
+      "game_name": "Elon Must: Road to Respect",
+      "file": "missing/E/230133-elon-must-road-to-respect.json"
+    },
+    {
       "igdb_id": 120997,
       "game_name": "Elon on Mars",
       "file": "missing/E/120997-elon-on-mars.json"
@@ -336015,6 +336080,11 @@
       "igdb_id": 218503,
       "game_name": "Fallout 76: The Pitt - Deluxe Edition",
       "file": "missing/F/218503-fallout-76-the-pitt-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 230146,
+      "game_name": "Fallout 76: The Pitt Recruitment Bundle",
+      "file": "missing/F/230146-fallout-76-the-pitt-recruitment-bundle.json"
     },
     {
       "igdb_id": 103308,
@@ -400747,6 +400817,11 @@
       "file": "missing/G/1394-girls-of-doa-blackjack-the-kasumi-version.json"
     },
     {
+      "igdb_id": 230140,
+      "game_name": "Girls of Hentai Mosaic",
+      "file": "missing/G/230140-girls-of-hentai-mosaic.json"
+    },
+    {
       "igdb_id": 279532,
       "game_name": "Girls of the Tower",
       "file": "missing/G/279532-girls-of-the-tower.json"
@@ -446182,6 +446257,11 @@
       "file": "missing/H/219039-hentai-pazu.json"
     },
     {
+      "igdb_id": 230135,
+      "game_name": "Hentai Petting Simulator",
+      "file": "missing/H/230135-hentai-petting-simulator.json"
+    },
+    {
       "igdb_id": 340443,
       "game_name": "Hentai Phoebe",
       "file": "missing/H/340443-hentai-phoebe.json"
@@ -467482,6 +467562,11 @@
       "file": "missing/H/312839-house-flipper-hairdreser-bundle.json"
     },
     {
+      "igdb_id": 230153,
+      "game_name": "House Flipper Pets VR",
+      "file": "missing/H/230153-house-flipper-pets-vr.json"
+    },
+    {
       "igdb_id": 174666,
       "game_name": "House Flipper Simulator",
       "file": "missing/H/174666-house-flipper-simulator.json"
@@ -473235,6 +473320,11 @@
       "igdb_id": 275088,
       "game_name": "Hyper Mirror Run",
       "file": "missing/H/275088-hyper-mirror-run.json"
+    },
+    {
+      "igdb_id": 230122,
+      "game_name": "Hyper Mum Ft Adult Gaming",
+      "file": "missing/H/230122-hyper-mum-ft-adult-gaming.json"
     },
     {
       "igdb_id": 278484,
@@ -558777,6 +558867,11 @@
       "file": "missing/L/205065-lightrock.json"
     },
     {
+      "igdb_id": 230119,
+      "game_name": "Lights",
+      "file": "missing/L/230119-lights.json"
+    },
+    {
       "igdb_id": 232867,
       "game_name": "Lights",
       "file": "missing/L/232867-lights.json"
@@ -622065,6 +622160,11 @@
       "igdb_id": 367165,
       "game_name": "Milf Collection",
       "file": "missing/M/367165-milf-collection.json"
+    },
+    {
+      "igdb_id": 230158,
+      "game_name": "MILF Conditioning",
+      "file": "missing/M/230158-milf-conditioning.json"
     },
     {
       "igdb_id": 278949,
@@ -742962,6 +743062,11 @@
       "file": "missing/P/180676-pitch-shift.json"
     },
     {
+      "igdb_id": 230154,
+      "game_name": "Pitch Silent",
+      "file": "missing/P/230154-pitch-silent.json"
+    },
+    {
       "igdb_id": 57710,
       "game_name": "Pitch-Hit",
       "file": "missing/P/57710-pitch-hit.json"
@@ -752800,6 +752905,11 @@
       "igdb_id": 102236,
       "game_name": "Pocket Troops",
       "file": "missing/P/102236-pocket-troops.json"
+    },
+    {
+      "igdb_id": 230130,
+      "game_name": "Pocket Usatama Easter 2019 Edition",
+      "file": "missing/P/230130-pocket-usatama-easter-2019-edition.json"
     },
     {
       "igdb_id": 180494,
@@ -777920,6 +778030,11 @@
       "igdb_id": 175849,
       "game_name": "Pui Pui Molcar Let's! Molcar Party!",
       "file": "missing/P/175849-pui-pui-molcar-lets-molcar-party.json"
+    },
+    {
+      "igdb_id": 230159,
+      "game_name": "Pui Pui Molcartchi Driving School ver.",
+      "file": "missing/P/230159-pui-pui-molcartchi-driving-school-ver.json"
     },
     {
       "igdb_id": 298053,
@@ -823302,6 +823417,11 @@
       "file": "missing/R/76895-robot-unicorn-attack-2.json"
     },
     {
+      "igdb_id": 230136,
+      "game_name": "Robot Unicorn Attack Evolution",
+      "file": "missing/R/230136-robot-unicorn-attack-evolution.json"
+    },
+    {
       "igdb_id": 56161,
       "game_name": "Robot Unicorn Attack Forever",
       "file": "missing/R/56161-robot-unicorn-attack-forever.json"
@@ -858807,6 +858927,11 @@
       "file": "missing/S/180539-senpai-simulator.json"
     },
     {
+      "igdb_id": 230123,
+      "game_name": "Senpai Teaches Me Japanese",
+      "file": "missing/S/230123-senpai-teaches-me-japanese.json"
+    },
+    {
       "igdb_id": 409418,
       "game_name": "Senpai, Suki Desu...... Osu!: Boku o Shitatte Kureru Kouhai wa Chibikko Bishoujo de...... Yankee!?",
       "file": "missing/S/409418-senpai-suki-desu-osu-boku-o-shitatte-kureru-kouhai-wa-chibikko-bishoujo-de-yankee.json"
@@ -871575,6 +871700,11 @@
       "igdb_id": 408773,
       "game_name": "Shmup!",
       "file": "missing/S/408773-shmup.json"
+    },
+    {
+      "igdb_id": 230129,
+      "game_name": "Shmups Pack 2x1",
+      "file": "missing/S/230129-shmups-pack-2x1.json"
     },
     {
       "igdb_id": 33834,
@@ -904512,6 +904642,11 @@
       "file": "missing/S/332453-sonic-small-world.json"
     },
     {
+      "igdb_id": 230160,
+      "game_name": "Sonic Smash Brothers",
+      "file": "missing/S/230160-sonic-smash-brothers.json"
+    },
+    {
       "igdb_id": 317348,
       "game_name": "Sonic Smash Revived",
       "file": "missing/S/317348-sonic-smash-revived.json"
@@ -921232,6 +921367,41 @@
       "file": "missing/S/136382-splatoon-2-splatoon-2-octo-expansion-bundle.json"
     },
     {
+      "igdb_id": 230108,
+      "game_name": "Splatoon 2: Version 2.0.0",
+      "file": "missing/S/230108-splatoon-2-version-2-0-0.json"
+    },
+    {
+      "igdb_id": 230109,
+      "game_name": "Splatoon 2: Version 3.0.0",
+      "file": "missing/S/230109-splatoon-2-version-3-0-0.json"
+    },
+    {
+      "igdb_id": 230110,
+      "game_name": "Splatoon 2: Version 4.0.0",
+      "file": "missing/S/230110-splatoon-2-version-4-0-0.json"
+    },
+    {
+      "igdb_id": 230113,
+      "game_name": "Splatoon 2: Version 4.1.0",
+      "file": "missing/S/230113-splatoon-2-version-4-1-0.json"
+    },
+    {
+      "igdb_id": 230111,
+      "game_name": "Splatoon 2: Version 5.0.0",
+      "file": "missing/S/230111-splatoon-2-version-5-0-0.json"
+    },
+    {
+      "igdb_id": 230115,
+      "game_name": "Splatoon 3: Chill Season 2022",
+      "file": "missing/S/230115-splatoon-3-chill-season-2022.json"
+    },
+    {
+      "igdb_id": 230114,
+      "game_name": "Splatoon 3: Drizzle Season 2022",
+      "file": "missing/S/230114-splatoon-3-drizzle-season-2022.json"
+    },
+    {
       "igdb_id": 236681,
       "game_name": "Splatoon 3: Expansion Pass",
       "file": "missing/S/236681-splatoon-3-expansion-pass.json"
@@ -921260,6 +921430,11 @@
       "igdb_id": 316713,
       "game_name": "Splatoon: Torrential Climb",
       "file": "missing/S/316713-splatoon-torrential-climb.json"
+    },
+    {
+      "igdb_id": 230106,
+      "game_name": "Splatoon: Version 2.0.0",
+      "file": "missing/S/230106-splatoon-version-2-0-0.json"
     },
     {
       "igdb_id": 261224,
@@ -937370,6 +937545,11 @@
       "igdb_id": 102102,
       "game_name": "Stellights",
       "file": "missing/S/102102-stellights.json"
+    },
+    {
+      "igdb_id": 230155,
+      "game_name": "Stellinavra",
+      "file": "missing/S/230155-stellinavra.json"
     },
     {
       "igdb_id": 152861,
@@ -957850,6 +958030,16 @@
       "igdb_id": 115276,
       "game_name": "Super Mario Maker 2",
       "file": "missing/S/115276-super-mario-maker-2.json"
+    },
+    {
+      "igdb_id": 230104,
+      "game_name": "Super Mario Maker 2: A Legendary Update",
+      "file": "missing/S/230104-super-mario-maker-2-a-legendary-update.json"
+    },
+    {
+      "igdb_id": 230105,
+      "game_name": "Super Mario Maker 2: World Maker Update",
+      "file": "missing/S/230105-super-mario-maker-2-world-maker-update.json"
     },
     {
       "igdb_id": 26157,
@@ -991262,9 +991452,39 @@
       "file": "missing/T/51928-terratech-deluxe-edition.json"
     },
     {
+      "igdb_id": 230127,
+      "game_name": "TerraTech: Falcon Genesis",
+      "file": "missing/T/230127-terratech-falcon-genesis.json"
+    },
+    {
+      "igdb_id": 230145,
+      "game_name": "TerraTech: Fantabulous Contraptions",
+      "file": "missing/T/230145-terratech-fantabulous-contraptions.json"
+    },
+    {
       "igdb_id": 238354,
       "game_name": "TerraTech: Prospector Edition",
       "file": "missing/T/238354-terratech-prospector-edition.json"
+    },
+    {
+      "igdb_id": 230126,
+      "game_name": "TerraTech: R&D Labs",
+      "file": "missing/T/230126-terratech-r-and-d-labs.json"
+    },
+    {
+      "igdb_id": 230128,
+      "game_name": "TerraTech: To the Stars Pack",
+      "file": "missing/T/230128-terratech-to-the-stars-pack.json"
+    },
+    {
+      "igdb_id": 230144,
+      "game_name": "TerraTech: Warriors of Future Past",
+      "file": "missing/T/230144-terratech-warriors-of-future-past.json"
+    },
+    {
+      "igdb_id": 230143,
+      "game_name": "TerraTech: Weapons of War Pack",
+      "file": "missing/T/230143-terratech-weapons-of-war-pack.json"
     },
     {
       "igdb_id": 315631,
@@ -992045,6 +992265,11 @@
       "igdb_id": 331163,
       "game_name": "Test your Atari Acumen",
       "file": "missing/T/331163-test-your-atari-acumen.json"
+    },
+    {
+      "igdb_id": 230120,
+      "game_name": "Test Your Knowledge: Cats",
+      "file": "missing/T/230120-test-your-knowledge-cats.json"
     },
     {
       "igdb_id": 231604,
@@ -1070232,6 +1070457,11 @@
       "file": "missing/T/420554-topidia-the-last-badge.json"
     },
     {
+      "igdb_id": 230124,
+      "game_name": "Topless Hentai Mosaic",
+      "file": "missing/T/230124-topless-hentai-mosaic.json"
+    },
+    {
       "igdb_id": 204107,
       "game_name": "Topo Mix Game",
       "file": "missing/T/204107-topo-mix-game.json"
@@ -1092650,6 +1092880,11 @@
       "igdb_id": 369646,
       "game_name": "Trump vs Harris Clicker",
       "file": "missing/T/369646-trump-vs-harris-clicker.json"
+    },
+    {
+      "igdb_id": 230134,
+      "game_name": "Trump Vs Rocketman",
+      "file": "missing/T/230134-trump-vs-rocketman.json"
     },
     {
       "igdb_id": 26958,
@@ -1128937,6 +1129172,11 @@
       "file": "missing/V/96847-vroom-kaboom.json"
     },
     {
+      "igdb_id": 230156,
+      "game_name": "Vroom Racing",
+      "file": "missing/V/230156-vroom-racing.json"
+    },
+    {
       "igdb_id": 87527,
       "game_name": "Vroom Vroom !!!",
       "file": "missing/V/87527-vroom-vroom.json"
@@ -1136497,6 +1136737,11 @@
       "file": "missing/W/382761-warp-mania.json"
     },
     {
+      "igdb_id": 230150,
+      "game_name": "Warp Nexus",
+      "file": "missing/W/230150-warp-nexus.json"
+    },
+    {
       "igdb_id": 413007,
       "game_name": "Warp Rush",
       "file": "missing/W/413007-warp-rush.json"
@@ -1143140,6 +1143385,11 @@
       "igdb_id": 45900,
       "game_name": "Whack A Bubble",
       "file": "missing/W/45900-whack-a-bubble.json"
+    },
+    {
+      "igdb_id": 230139,
+      "game_name": "Whack A Hoe",
+      "file": "missing/W/230139-whack-a-hoe.json"
     },
     {
       "igdb_id": 147427,
