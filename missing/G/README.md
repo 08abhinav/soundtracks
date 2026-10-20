@@ -4254,6 +4254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Keeper | 23558 | [23558-goblin-keeper.json](./23558-goblin-keeper.json) |
 | Goblin Lands | 367736 | [367736-goblin-lands.json](./367736-goblin-lands.json) |
 | Goblin Museum | 404346 | [404346-goblin-museum.json](./404346-goblin-museum.json) |
+| Goblin Party | 237199 | [237199-goblin-party.json](./237199-goblin-party.json) |
 | Goblin Path | 382446 | [382446-goblin-path.json](./382446-goblin-path.json) |
 | Goblin Quest III | 395735 | [395735-goblin-quest-iii.json](./395735-goblin-quest-iii.json) |
 | Goblin Quest: Escape! | 115648 | [115648-goblin-quest-escape.json](./115648-goblin-quest-escape.json) |
@@ -6519,6 +6520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed's Grub | 349365 | [349365-greeds-grub.json](./349365-greeds-grub.json) |
 | Greeded | 266606 | [266606-greeded.json](./266606-greeded.json) |
 | Greediest Landlord | 419164 | [419164-greediest-landlord.json](./419164-greediest-landlord.json) |
+| Greedland | 237194 | [237194-greedland.json](./237194-greedland.json) |
 | Greedling: 2D Boss Rush | 409409 | [409409-greedling-2d-boss-rush.json](./409409-greedling-2d-boss-rush.json) |
 | Greedventory | 204507 | [204507-greedventory.json](./204507-greedventory.json) |
 | Greedy Crush | 113171 | [113171-greedy-crush.json](./113171-greedy-crush.json) |
