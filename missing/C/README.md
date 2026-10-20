@@ -6246,6 +6246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Commando 2053 | 272340 | [272340-chrono-commando-2053.json](./272340-chrono-commando-2053.json) |
 | Chrono Crimes | 316491 | [316491-chrono-crimes.json](./316491-chrono-crimes.json) |
 | Chrono Cross | 335488 | [335488-chrono-cross.json](./335488-chrono-cross.json) |
+| Chrono Crystal | 247916 | [247916-chrono-crystal.json](./247916-chrono-crystal.json) |
 | Chrono Crystal: Factory DLC | 253497 | [253497-chrono-crystal-factory-dlc.json](./253497-chrono-crystal-factory-dlc.json) |
 | Chrono Crystal: Giant Gate DLC | 253386 | [253386-chrono-crystal-giant-gate-dlc.json](./253386-chrono-crystal-giant-gate-dlc.json) |
 | Chrono Hunter | 253190 | [253190-chrono-hunter.json](./253190-chrono-hunter.json) |
