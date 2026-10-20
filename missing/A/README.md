@@ -7172,6 +7172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ani Leaving Sirius | 189120 | [189120-ani-leaving-sirius.json](./189120-ani-leaving-sirius.json) |
 | Ani Núbia: Lute como uma Rainha | 255542 | [255542-ani-nubia-lute-como-uma-rainha.json](./255542-ani-nubia-lute-como-uma-rainha.json) |
 | Anibabe! Choose Your Girl | 231435 | [231435-anibabe-choose-your-girl.json](./231435-anibabe-choose-your-girl.json) |
+| Aniballs | 240043 | [240043-aniballs.json](./240043-aniballs.json) |
 | Anicca | 208058 | [208058-anicca.json](./208058-anicca.json) |
 | Anicon: Animal Complex | 249274 | [249274-anicon-animal-complex.json](./249274-anicon-animal-complex.json) |
 | Anicon: Animal Complex - Cat's Path | 32031 | [32031-anicon-animal-complex-cats-path.json](./32031-anicon-animal-complex-cats-path.json) |
