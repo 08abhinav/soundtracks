@@ -6057,7 +6057,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkness Assault | 53725 | [53725-the-darkness-assault.json](./53725-the-darkness-assault.json) |
 | The Darkness of Gordoth | 398687 | [398687-the-darkness-of-gordoth.json](./398687-the-darkness-of-gordoth.json) |
 | The Darkside Detective Duology | 291586 | [291586-the-darkside-detective-duology.json](./291586-the-darkside-detective-duology.json) |
-| The Darkside Detective: A Fumble in the Dark | 109650 | [109650-the-darkside-detective-a-fumble-in-the-dark.json](./109650-the-darkside-detective-a-fumble-in-the-dark.json) |
 | The Darkside Detective: A Fumble in the Dark - Ghosts of Christmas Passed | 222965 | [222965-the-darkside-detective-a-fumble-in-the-dark-ghosts-of-christmas-passed.json](./222965-the-darkside-detective-a-fumble-in-the-dark-ghosts-of-christmas-passed.json) |
 | The Darkside Detective: A Fumble in the Dark - One Flew Into the Cuckoo's Nest | 222967 | [222967-the-darkside-detective-a-fumble-in-the-dark-one-flew-into-the-cuckoos-nest.json](./222967-the-darkside-detective-a-fumble-in-the-dark-one-flew-into-the-cuckoos-nest.json) |
 | The Darkside Detective: A Fumble in the Dark - Tales of the Darkside | 222968 | [222968-the-darkside-detective-a-fumble-in-the-dark-tales-of-the-darkside.json](./222968-the-darkside-detective-a-fumble-in-the-dark-tales-of-the-darkside.json) |
@@ -18353,7 +18352,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tohou Sky Arena: Matsuri Climax - Playable Character: Toyosatomimi no Miko | 238033 | [238033-tohou-sky-arena-matsuri-climax-playable-character-toyosatomimi-no-miko.json](./238033-tohou-sky-arena-matsuri-climax-playable-character-toyosatomimi-no-miko.json) |
 | Tohou Sky Arena: Matsuri Climax - Playable Character: Yukari Yakumo | 238032 | [238032-tohou-sky-arena-matsuri-climax-playable-character-yukari-yakumo.json](./238032-tohou-sky-arena-matsuri-climax-playable-character-yukari-yakumo.json) |
 | Tohou Sky Arena: Matsuri Climax - Playable Character: Yuyuko Saigyouji | 238034 | [238034-tohou-sky-arena-matsuri-climax-playable-character-yuyuko-saigyouji.json](./238034-tohou-sky-arena-matsuri-climax-playable-character-yuyuko-saigyouji.json) |
-| Tohu | 118044 | [118044-tohu.json](./118044-tohu.json) |
 | Tohu-Teka | 120159 | [120159-tohu-teka.json](./120159-tohu-teka.json) |
 | Toi | 166828 | [166828-toi.json](./166828-toi.json) |
 | Toi Acid Game | 47525 | [47525-toi-acid-game.json](./47525-toi-acid-game.json) |
