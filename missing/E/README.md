@@ -852,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ed, Edd n Eddy: Jawbreakers! | 2816 | [2816-ed-edd-n-eddy-jawbreakers.json](./2816-ed-edd-n-eddy-jawbreakers.json) |
 | Ed, Edd n Eddy: Lunchroom Rumble | 203096 | [203096-ed-edd-n-eddy-lunchroom-rumble.json](./203096-ed-edd-n-eddy-lunchroom-rumble.json) |
 | Ed, Edd n Eddy: Scam of the Century | 2817 | [2817-ed-edd-n-eddy-scam-of-the-century.json](./2817-ed-edd-n-eddy-scam-of-the-century.json) |
+| Ed, Edd n Eddy: The Mis-Edventures | 248473 | [248473-ed-edd-n-eddy-the-mis-edventures.json](./248473-ed-edd-n-eddy-the-mis-edventures.json) |
 | Ed, Edd n Eddy: The Mis-Edventures | 2722 | [2722-ed-edd-n-eddy-the-mis-edventures.json](./2722-ed-edd-n-eddy-the-mis-edventures.json) |
 | Ed, Edd n Eddy's Candy Machine Deluxe | 196798 | [196798-ed-edd-n-eddys-candy-machine-deluxe.json](./196798-ed-edd-n-eddys-candy-machine-deluxe.json) |
 | Ed's world story | 246850 | [246850-eds-world-story.json](./246850-eds-world-story.json) |
@@ -1095,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Knight | 119425 | [119425-egg-knight.json](./119425-egg-knight.json) |
 | Egg Maiden | 380779 | [380779-egg-maiden.json](./380779-egg-maiden.json) |
 | Egg Maker | 317361 | [317361-egg-maker.json](./317361-egg-maker.json) |
+| Egg Mania | 248463 | [248463-egg-mania.json](./248463-egg-mania.json) |
 | Egg Mania: Eggstreme Madness | 3903 | [3903-egg-mania-eggstreme-madness.json](./3903-egg-mania-eggstreme-madness.json) |
 | Egg Meister | 344483 | [344483-egg-meister.json](./344483-egg-meister.json) |
 | Egg Monster Hero | 67364 | [67364-egg-monster-hero.json](./67364-egg-monster-hero.json) |
