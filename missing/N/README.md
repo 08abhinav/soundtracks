@@ -2989,6 +2989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHRA Drag Racing: Main Event | 68984 | [68984-nhra-drag-racing-main-event.json](./68984-nhra-drag-racing-main-event.json) |
 | NHRA Drag Racing: Pro Stock Cars & Trucks | 210034 | [210034-nhra-drag-racing-pro-stock-cars-and-trucks.json](./210034-nhra-drag-racing-pro-stock-cars-and-trucks.json) |
 | NHRA Drag Racing: Quarter Mile Showdown | 210033 | [210033-nhra-drag-racing-quarter-mile-showdown.json](./210033-nhra-drag-racing-quarter-mile-showdown.json) |
+| NHRA: Speed for All | 204906 | [204906-nhra-speed-for-all.json](./204906-nhra-speed-for-all.json) |
 | Ni Hao Kai-lan: Super Game Day | 50715 | [50715-ni-hao-kai-lan-super-game-day.json](./50715-ni-hao-kai-lan-super-game-day.json) |
 | Ni Hao, Kai-lan: Beach Day | 109052 | [109052-ni-hao-kai-lan-beach-day.json](./109052-ni-hao-kai-lan-beach-day.json) |
 | Ni Hao, Kai-Lan: New Year's Celebration | 97371 | [97371-ni-hao-kai-lan-new-years-celebration.json](./97371-ni-hao-kai-lan-new-years-celebration.json) |
