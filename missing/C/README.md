@@ -7297,6 +7297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash'N Slash | 400685 | [400685-clashn-slash.json](./400685-clashn-slash.json) |
 | Clash'N Slash: Worlds Away | 39773 | [39773-clashn-slash-worlds-away.json](./39773-clashn-slash-worlds-away.json) |
 | ClashBall.io | 325921 | [325921-clashball-io.json](./325921-clashball-io.json) |
+| Clashbowl | 211072 | [211072-clashbowl.json](./211072-clashbowl.json) |
 | Clasherball | 306514 | [306514-clasherball.json](./306514-clasherball.json) |
 | Clashmon: Ignition | 267224 | [267224-clashmon-ignition.json](./267224-clashmon-ignition.json) |
 | ClashofHunter | 130794 | [130794-clashofhunter.json](./130794-clashofhunter.json) |
