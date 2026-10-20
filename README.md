@@ -1669,6 +1669,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273e7c2b3be02979e2e5227b39d" width="60" /> | [The First Descendant](https://ostdb.net/games/the-first-descendant) | **The First Descendant (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4wglXs9CPzXyzUdQNXIa0y) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/25/3d/cf253db7-4df5-6dfb-7fa7-a9b42962f869/artwork.jpg/600x600bb.jpg" width="60" /> | [The Forever Winter](https://ostdb.net/games/the-forever-winter) | **The Forever Winter (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/the-forever-winter-original-game-soundtrack/1770372804?uo=4) · [Album](https://album.link/i/1770372804) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e9/66/20/e9662086-cd5c-4698-a2c0-f9b63a13bdbe/18808.jpg/600x600bb.jpg" width="60" /> | [The Forgotten City](https://ostdb.net/games/the-forgotten-city) | **The Forgotten City (Original Score)** · [Spotify](https://open.spotify.com/album/591Ne4vDjXZbr9O5NZOVyB) · [Apple Music](https://music.apple.com/us/album/the-forgotten-city-original-score/1581064512) · [Album](https://album.link/i/1581064512) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733a918759109133b7fb6d063b" width="60" /> | [The Game of Life 2](https://ostdb.net/games/the-game-of-life-2) | **The Game of Life 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/38BW5cJfUBwIMx1601rrzs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e5547467d3ef0387d24fc56c" width="60" /> | [The Gunk](https://ostdb.net/games/the-gunk) | **The Gunk (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0u54Iiqqzh1J63VXqMpoj7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731aea4d3d9111352979084d6b" width="60" /> | [The Henry Stickmin Collection](https://ostdb.net/games/the-henry-stickmin-collection) | **The Henry Stickmin Collection (Soundtrack, Ockeroid Edition)** · [Spotify](https://open.spotify.com/album/3Fjilv525yi9VkIsTZBnoD) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27361568ed55c0742e6fc381e91" width="60" /> | [The House of Da Vinci](https://ostdb.net/games/the-house-of-da-vinci) | **The House of Da Vinci (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1699gCDSksz7QI4vWtBM3x) |
@@ -2002,4 +2003,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2319 soundtracks · last updated 2026-10-20T22:01:32.961Z_
+_2320 soundtracks · last updated 2026-10-20T22:01:44.111Z_
