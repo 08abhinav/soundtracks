@@ -3567,6 +3567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sedecktion | 297213 | [297213-sedecktion.json](./297213-sedecktion.json) |
 | Sedecordle | 194881 | [194881-sedecordle.json](./194881-sedecordle.json) |
 | Sedomairi | 159706 | [159706-sedomairi.json](./159706-sedomairi.json) |
+| Seduce a SuicideGirl | 245176 | [245176-seduce-a-suicidegirl.json](./245176-seduce-a-suicidegirl.json) |
 | Seduce Her Harem | 257865 | [257865-seduce-her-harem.json](./257865-seduce-her-harem.json) |
 | Seduce Me the Otome | 19075 | [19075-seduce-me-the-otome.json](./19075-seduce-me-the-otome.json) |
 | Seduce Me the Otome: Episode Series | 145559 | [145559-seduce-me-the-otome-episode-series.json](./145559-seduce-me-the-otome-episode-series.json) |
@@ -5660,6 +5661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharpe Investigations: Death on the Seine | 10822 | [10822-sharpe-investigations-death-on-the-seine.json](./10822-sharpe-investigations-death-on-the-seine.json) |
 | Sharper Minds: Brain Games | 255724 | [255724-sharper-minds-brain-games.json](./255724-sharper-minds-brain-games.json) |
 | Sharpshoot | 292154 | [292154-sharpshoot.json](./292154-sharpshoot.json) |
+| Sharpshooter | 245158 | [245158-sharpshooter.json](./245158-sharpshooter.json) |
 | Sharpshooter Plus | 130285 | [130285-sharpshooter-plus.json](./130285-sharpshooter-plus.json) |
 | SharpShooter3D | 103189 | [103189-sharpshooter3d.json](./103189-sharpshooter3d.json) |
 | SharpShooter3D | 336568 | [336568-sharpshooter3d.json](./336568-sharpshooter3d.json) |
@@ -5969,14 +5971,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Holmes Essential Bundle | 201013 | [201013-sherlock-holmes-essential-bundle.json](./201013-sherlock-holmes-essential-bundle.json) |
 | Sherlock Holmes i el cas d'Arthur Gordon Pym | 345023 | [345023-sherlock-holmes-i-el-cas-darthur-gordon-pym.json](./345023-sherlock-holmes-i-el-cas-darthur-gordon-pym.json) |
 | Sherlock Holmes: Chapter One - Beyond a Joke | 186894 | [186894-sherlock-holmes-chapter-one-beyond-a-joke.json](./186894-sherlock-holmes-chapter-one-beyond-a-joke.json) |
+| Sherlock Holmes: Chapter One - Clergyman Cassock | 245168 | [245168-sherlock-holmes-chapter-one-clergyman-cassock.json](./245168-sherlock-holmes-chapter-one-clergyman-cassock.json) |
 | Sherlock Holmes: Chapter One - Deluxe Edition | 173098 | [173098-sherlock-holmes-chapter-one-deluxe-edition.json](./173098-sherlock-holmes-chapter-one-deluxe-edition.json) |
+| Sherlock Holmes: Chapter One - Detective Pack | 245165 | [245165-sherlock-holmes-chapter-one-detective-pack.json](./245165-sherlock-holmes-chapter-one-detective-pack.json) |
 | Sherlock Holmes: Chapter One - M for Mystery | 194957 | [194957-sherlock-holmes-chapter-one-m-for-mystery.json](./194957-sherlock-holmes-chapter-one-m-for-mystery.json) |
+| Sherlock Holmes: Chapter One - Plague Doctor Pack | 245166 | [245166-sherlock-holmes-chapter-one-plague-doctor-pack.json](./245166-sherlock-holmes-chapter-one-plague-doctor-pack.json) |
 | Sherlock Holmes: Chapter One - Saints and Sinners | 194958 | [194958-sherlock-holmes-chapter-one-saints-and-sinners.json](./194958-sherlock-holmes-chapter-one-saints-and-sinners.json) |
+| Sherlock Holmes: Chapter One - Victorian Starter Pack | 245164 | [245164-sherlock-holmes-chapter-one-victorian-starter-pack.json](./245164-sherlock-holmes-chapter-one-victorian-starter-pack.json) |
 | Sherlock Holmes: Consulting Detective | 5435 | [5435-sherlock-holmes-consulting-detective.json](./5435-sherlock-holmes-consulting-detective.json) |
 | Sherlock Holmes: Crimes & Punishments | 5541 | [5541-sherlock-holmes-crimes-and-punishments.json](./5541-sherlock-holmes-crimes-and-punishments.json) |
 | Sherlock Holmes: Crimes and Punishments + Sherlock Holmes: The Devil's Daughter Bundle | 196515 | [196515-sherlock-holmes-crimes-and-punishments-sherlock-holmes-the-devils-daughter-bundle.json](./196515-sherlock-holmes-crimes-and-punishments-sherlock-holmes-the-devils-daughter-bundle.json) |
 | Sherlock Holmes: Crimes and Punishments Redux | 164780 | [164780-sherlock-holmes-crimes-and-punishments-redux.json](./164780-sherlock-holmes-crimes-and-punishments-redux.json) |
 | Sherlock Holmes: Puzzle City | 222297 | [222297-sherlock-holmes-puzzle-city.json](./222297-sherlock-holmes-puzzle-city.json) |
+| Sherlock Holmes: The Awakened - The Sleuth's Attire | 245169 | [245169-sherlock-holmes-the-awakened-the-sleuths-attire.json](./245169-sherlock-holmes-the-awakened-the-sleuths-attire.json) |
 | Sherlock Holmes: The Case of the Beheaded Smuggler | 230257 | [230257-sherlock-holmes-the-case-of-the-beheaded-smuggler.json](./230257-sherlock-holmes-the-case-of-the-beheaded-smuggler.json) |
 | Sherlock Holmes: The Devil's Daughter | 11563 | [11563-sherlock-holmes-the-devils-daughter.json](./11563-sherlock-holmes-the-devils-daughter.json) |
 | Sherlock Holmes: The Hound of the Baskervilles - Collector's Edition | 208999 | [208999-sherlock-holmes-the-hound-of-the-baskervilles-collectors-edition.json](./208999-sherlock-holmes-the-hound-of-the-baskervilles-collectors-edition.json) |
@@ -6839,6 +6846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Trilogy | 61465 | [61465-shooting-trilogy.json](./61465-shooting-trilogy.json) |
 | Shooting Type | 163854 | [163854-shooting-type.json](./163854-shooting-type.json) |
 | Shooting Zombie | 245053 | [245053-shooting-zombie.json](./245053-shooting-zombie.json) |
+| Shootout | 245146 | [245146-shootout.json](./245146-shootout.json) |
 | Shootout | 287555 | [287555-shootout.json](./287555-shootout.json) |
 | ShootOut | 411615 | [411615-shootout.json](./411615-shootout.json) |
 | Shootout at the OK Galaxy | 24810 | [24810-shootout-at-the-ok-galaxy.json](./24810-shootout-at-the-ok-galaxy.json) |
@@ -8877,6 +8885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skatelander | 345149 | [345149-skatelander.json](./345149-skatelander.json) |
 | Skatemasta Tcheco | 118401 | [118401-skatemasta-tcheco.json](./118401-skatemasta-tcheco.json) |
 | SkateNationXL | 272579 | [272579-skatenationxl.json](./272579-skatenationxl.json) |
+| Skater | 245172 | [245172-skater.json](./245172-skater.json) |
 | Skater Bunny Simulator | 320459 | [320459-skater-bunny-simulator.json](./320459-skater-bunny-simulator.json) |
 | Skater Cat | 85377 | [85377-skater-cat.json](./85377-skater-cat.json) |
 | Skater Frog | 129048 | [129048-skater-frog.json](./129048-skater-frog.json) |
@@ -9252,6 +9261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Alert | 398981 | [398981-sky-alert.json](./398981-sky-alert.json) |
 | Sky And Earth | 292051 | [292051-sky-and-earth.json](./292051-sky-and-earth.json) |
 | Sky Arena | 60556 | [60556-sky-arena.json](./60556-sky-arena.json) |
+| Sky Avenger | 245157 | [245157-sky-avenger.json](./245157-sky-avenger.json) |
 | Sky Ball | 81894 | [81894-sky-ball.json](./81894-sky-ball.json) |
 | Sky Ball Racing | 188387 | [188387-sky-ball-racing.json](./188387-sky-ball-racing.json) |
 | Sky Baron: War of Planes | 101531 | [101531-sky-baron-war-of-planes.json](./101531-sky-baron-war-of-planes.json) |
@@ -9589,6 +9599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slain 2: The Beast Within | 340587 | [340587-slain-2-the-beast-within.json](./340587-slain-2-the-beast-within.json) |
 | Slain: Back from Hell | 18509 | [18509-slain-back-from-hell.json](./18509-slain-back-from-hell.json) |
 | Sláine: The Celtic Barbarian | 53163 | [53163-slaine-the-celtic-barbarian.json](./53163-slaine-the-celtic-barbarian.json) |
+| Slalom | 245138 | [245138-slalom.json](./245138-slalom.json) |
 | Slalom | 378177 | [378177-slalom.json](./378177-slalom.json) |
 | Slam | 35046 | [35046-slam.json](./35046-slam.json) |
 | Slam 'N Jam | 20708 | [20708-slam-n-jam.json](./20708-slam-n-jam.json) |
@@ -15387,6 +15398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Force VR: Infinity War | 116492 | [116492-special-force-vr-infinity-war.json](./116492-special-force-vr-infinity-war.json) |
 | Special Forces | 37271 | [37271-special-forces.json](./37271-special-forces.json) |
 | Special Forces | 77269 | [77269-special-forces.json](./77269-special-forces.json) |
+| Special Forces Group | 245173 | [245173-special-forces-group.json](./245173-special-forces-group.json) |
 | Special Forces Group 3 | 245043 | [245043-special-forces-group-3.json](./245043-special-forces-group-3.json) |
 | Special Forces Jackal | 96308 | [96308-special-forces-jackal.json](./96308-special-forces-jackal.json) |
 | Special Forces Pack | 100208 | [100208-special-forces-pack.json](./100208-special-forces-pack.json) |
@@ -15507,6 +15519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Ball | 40121 | [40121-speed-ball.json](./40121-speed-ball.json) |
 | Speed Bike Racing | 250657 | [250657-speed-bike-racing.json](./250657-speed-bike-racing.json) |
 | Speed Blazers | 38989 | [38989-speed-blazers.json](./38989-speed-blazers.json) |
+| Speed Boat | 245148 | [245148-speed-boat.json](./245148-speed-boat.json) |
 | Speed Box | 105132 | [105132-speed-box.json](./105132-speed-box.json) |
 | Speed Builder | 117672 | [117672-speed-builder.json](./117672-speed-builder.json) |
 | Speed Busters: American Highways | 46531 | [46531-speed-busters-american-highways.json](./46531-speed-busters-american-highways.json) |
@@ -16132,6 +16145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spidersaurs | 117014 | [117014-spidersaurs.json](./117014-spidersaurs.json) |
 | Spidersilk | 262266 | [262266-spidersilk.json](./262266-spidersilk.json) |
 | Spidertronic | 302479 | [302479-spidertronic.json](./302479-spidertronic.json) |
+| Spidey | 245141 | [245141-spidey.json](./245141-spidey.json) |
 | Spidey & His Amazing Friends | 230277 | [230277-spidey-and-his-amazing-friends.json](./230277-spidey-and-his-amazing-friends.json) |
 | Spidle Tridle | 101730 | [101730-spidle-tridle.json](./101730-spidle-tridle.json) |
 | Spidle Tridle | 334166 | [334166-spidle-tridle.json](./334166-spidle-tridle.json) |
@@ -17675,6 +17689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Ash Fleet | 345081 | [345081-star-ash-fleet.json](./345081-star-ash-fleet.json) |
 | Star Assault | 53653 | [53653-star-assault.json](./53653-star-assault.json) |
 | Star Attack | 287560 | [287560-star-attack.json](./287560-star-attack.json) |
+| Star Ball | 245171 | [245171-star-ball.json](./245171-star-ball.json) |
 | Star Ball | 84472 | [84472-star-ball.json](./84472-star-ball.json) |
 | Star Balls | 35370 | [35370-star-balls.json](./35370-star-balls.json) |
 | Star Battalion | 203231 | [203231-star-battalion.json](./203231-star-battalion.json) |
@@ -17809,6 +17824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Equestrian | 242225 | [242225-star-equestrian.json](./242225-star-equestrian.json) |
 | Star Escape | 135052 | [135052-star-escape.json](./135052-star-escape.json) |
 | Star Evil | 243936 | [243936-star-evil.json](./243936-star-evil.json) |
+| Star Evil | 245144 | [245144-star-evil.json](./245144-star-evil.json) |
 | Star Exodus | 217306 | [217306-star-exodus.json](./217306-star-exodus.json) |
 | Star Explorers | 32051 | [32051-star-explorers.json](./32051-star-explorers.json) |
 | Star Fetchers: Escape from Pork Belly | 298240 | [298240-star-fetchers-escape-from-pork-belly.json](./298240-star-fetchers-escape-from-pork-belly.json) |
@@ -22429,6 +22445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sundae Drive | 422089 | [422089-sundae-drive.json](./422089-sundae-drive.json) |
 | Sunday & Magazine: White Comic | 61448 | [61448-sunday-and-magazine-white-comic.json](./61448-sunday-and-magazine-white-comic.json) |
 | Sunday City | 376280 | [376280-sunday-city.json](./376280-sunday-city.json) |
+| Sunday Drive | 245143 | [245143-sunday-drive.json](./245143-sunday-drive.json) |
 | Sunday Funday: The Ride | 11166 | [11166-sunday-funday-the-ride.json](./11166-sunday-funday-the-ride.json) |
 | Sunday Gold | 204547 | [204547-sunday-gold.json](./204547-sunday-gold.json) |
 | Sunday Golf | 54691 | [54691-sunday-golf.json](./54691-sunday-golf.json) |
