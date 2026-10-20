@@ -7099,7 +7099,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Flock Party | 377797 | [377797-angry-birds-flock-party.json](./377797-angry-birds-flock-party.json) |
 | Angry Birds Football | 58577 | [58577-angry-birds-football.json](./58577-angry-birds-football.json) |
 | Angry Birds FPS: First Person Slingshot | 111021 | [111021-angry-birds-fps-first-person-slingshot.json](./111021-angry-birds-fps-first-person-slingshot.json) |
-| Angry Birds Friends | 79766 | [79766-angry-birds-friends.json](./79766-angry-birds-friends.json) |
 | Angry Birds Fuji TV | 218530 | [218530-angry-birds-fuji-tv.json](./218530-angry-birds-fuji-tv.json) |
 | Angry Birds Go! | 23412 | [23412-angry-birds-go.json](./23412-angry-birds-go.json) |
 | Angry Birds Google+ | 245001 | [245001-angry-birds-google.json](./245001-angry-birds-google.json) |
