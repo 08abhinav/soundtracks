@@ -5944,6 +5944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hillside | 156565 | [156565-hillside.json](./156565-hillside.json) |
 | Hillslide | 291015 | [291015-hillslide.json](./291015-hillslide.json) |
 | Hilltop Hotrods | 233231 | [233231-hilltop-hotrods.json](./233231-hilltop-hotrods.json) |
+| Hilm | 242941 | [242941-hilm.json](./242941-hilm.json) |
 | Hilomi | 116441 | [116441-hilomi.json](./116441-hilomi.json) |
 | Hilton Ultimate Team Play | 63757 | [63757-hilton-ultimate-team-play.json](./63757-hilton-ultimate-team-play.json) |
 | Him | 171979 | [171979-him.json](./171979-him.json) |
@@ -6638,6 +6639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Life and Insincere Words | 358473 | [358473-hollow-life-and-insincere-words.json](./358473-hollow-life-and-insincere-words.json) |
 | Hollow Memories | 385847 | [385847-hollow-memories.json](./385847-hollow-memories.json) |
 | Hollow Minds | 311469 | [311469-hollow-minds.json](./311469-hollow-minds.json) |
+| Hollow Mission | 242960 | [242960-hollow-mission.json](./242960-hollow-mission.json) |
 | Hollow Ones | 422102 | [422102-hollow-ones.json](./422102-hollow-ones.json) |
 | Hollow Overhaul | 317521 | [317521-hollow-overhaul.json](./317521-hollow-overhaul.json) |
 | Hollow Park | 203184 | [203184-hollow-park.json](./203184-hollow-park.json) |
