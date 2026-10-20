@@ -3896,10 +3896,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koneko Monogatari: The Adventures of Chatran | 41271 | [41271-koneko-monogatari-the-adventures-of-chatran.json](./41271-koneko-monogatari-the-adventures-of-chatran.json) |
 | Konfronto | 319134 | [319134-konfronto.json](./319134-konfronto.json) |
 | Kong | 142412 | [142412-kong.json](./142412-kong.json) |
+| Kong | 228270 | [228270-kong.json](./228270-kong.json) |
 | Kong | 275224 | [275224-kong.json](./275224-kong.json) |
 | Kong Adventure | 108228 | [108228-kong-adventure.json](./108228-kong-adventure.json) |
 | Kong Hero | 231826 | [231826-kong-hero.json](./231826-kong-hero.json) |
 | Kong Horror | 395848 | [395848-kong-horror.json](./395848-kong-horror.json) |
+| Kong II | 228273 | [228273-kong-ii.json](./228273-kong-ii.json) |
 | Kong Studios | 368009 | [368009-kong-studios.json](./368009-kong-studios.json) |
 | Kong: King of Atlantis | 49334 | [49334-kong-king-of-atlantis.json](./49334-kong-king-of-atlantis.json) |
 | Kong: Survivor Instinct | 314136 | [314136-kong-survivor-instinct.json](./314136-kong-survivor-instinct.json) |
