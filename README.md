@@ -1352,6 +1352,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b27362ededa694d227d28d770ef7" width="60" /> | [Rusty Lake Hotel](https://ostdb.net/games/rusty-lake-hotel) | **Rusty Lake Hotel (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0bbLKL23ag3UiyZFFsekiY) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a9180693aa0c5eac7428c5be" width="60" /> | [Rusty Lake Paradise](https://ostdb.net/games/rusty-lake-paradise) | **Rusty Lake: Paradise (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3MgW9tksAjIXMDWxUS16Sc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273be7271b3e5d507041ea0c296" width="60" /> | [Rusty Lake: Roots](https://ostdb.net/games/rusty-lake-roots) | **Rusty Lake: Roots (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5VMhU7vjMBXlZdFLvHLPrw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273db02c30890087a0db3417031" width="60" /> | [République](https://ostdb.net/games/republique) | **République (Original Game Soundtrack) [Anniversary Edition]** · [Spotify](https://open.spotify.com/album/3kRxcZzBcp1oTOw2pZGSRF) |
 
 ### S
 
@@ -1949,4 +1950,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2266 soundtracks · last updated 2026-10-20T21:41:11.623Z_
+_2267 soundtracks · last updated 2026-10-20T21:41:22.201Z_
