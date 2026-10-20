@@ -2018,6 +2018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acroflow | 297760 | [297760-acroflow.json](./297760-acroflow.json) |
 | Acrofobic Lunchbreak | 26956 | [26956-acrofobic-lunchbreak.json](./26956-acrofobic-lunchbreak.json) |
 | Acron: Attack of the Squirrels! | 119335 | [119335-acron-attack-of-the-squirrels.json](./119335-acron-attack-of-the-squirrels.json) |
+| Acronia | 240637 | [240637-acronia.json](./240637-acronia.json) |
 | Acrophobia | 284274 | [284274-acrophobia.json](./284274-acrophobia.json) |
 | Acrophobia | 90914 | [90914-acrophobia.json](./90914-acrophobia.json) |
 | Acropolis: The Archaic Age | 111635 | [111635-acropolis-the-archaic-age.json](./111635-acropolis-the-archaic-age.json) |
@@ -8137,6 +8138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antivine | 250998 | [250998-antivine.json](./250998-antivine.json) |
 | Antivirus | 365003 | [365003-antivirus.json](./365003-antivirus.json) |
 | Antivirus Survivors 2003 Professional | 384325 | [384325-antivirus-survivors-2003-professional.json](./384325-antivirus-survivors-2003-professional.json) |
+| AntiVirus_Snake | 240656 | [240656-antivirus-snake.json](./240656-antivirus-snake.json) |
 | Antix | 15597 | [15597-antix.json](./15597-antix.json) |
 | Antixonix | 140493 | [140493-antixonix.json](./140493-antixonix.json) |
 | Antiyoy | 25554 | [25554-antiyoy.json](./25554-antiyoy.json) |
