@@ -4686,6 +4686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Ruins | 142828 | [142828-return-to-ruins.json](./142828-return-to-ruins.json) |
 | Return to Sector 9 | 311280 | [311280-return-to-sector-9.json](./311280-return-to-sector-9.json) |
 | Return to Sector 9 | 73778 | [73778-return-to-sector-9.json](./73778-return-to-sector-9.json) |
+| Return to Sender | 241224 | [241224-return-to-sender.json](./241224-return-to-sender.json) |
 | Return to Sender | 336560 | [336560-return-to-sender.json](./336560-return-to-sender.json) |
 | Return to Trahulara | 359007 | [359007-return-to-trahulara.json](./359007-return-to-trahulara.json) |
 | Return to Wonderland | 356844 | [356844-return-to-wonderland.json](./356844-return-to-wonderland.json) |
@@ -6338,6 +6339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Star | 359383 | [359383-road-star.json](./359383-road-star.json) |
 | Road Star | 359384 | [359384-road-star.json](./359384-road-star.json) |
 | Road Stones | 223409 | [223409-road-stones.json](./223409-road-stones.json) |
+| Road Story | 241819 | [241819-road-story.json](./241819-road-story.json) |
 | Road Thrills | 74012 | [74012-road-thrills.json](./74012-road-thrills.json) |
 | Road to Adventure! | 143747 | [143747-road-to-adventure.json](./143747-road-to-adventure.json) |
 | Road to Beta | 86114 | [86114-road-to-beta.json](./86114-road-to-beta.json) |
@@ -8877,6 +8879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby 2001 | 67655 | [67655-rugby-2001.json](./67655-rugby-2001.json) |
 | Rugby 2005 | 6019 | [6019-rugby-2005.json](./6019-rugby-2005.json) |
 | Rugby 22 | 182305 | [182305-rugby-22.json](./182305-rugby-22.json) |
+| Rugby 25 | 241246 | [241246-rugby-25.json](./241246-rugby-25.json) |
 | Rugby Challenge 3 | 17275 | [17275-rugby-challenge-3.json](./17275-rugby-challenge-3.json) |
 | Rugby Challenge 3: Jonah Lomu Edition | 82433 | [82433-rugby-challenge-3-jonah-lomu-edition.json](./82433-rugby-challenge-3-jonah-lomu-edition.json) |
 | Rugby Hero | 233237 | [233237-rugby-hero.json](./233237-rugby-hero.json) |
