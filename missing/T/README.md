@@ -9592,6 +9592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Ocarina of Time | 405460 | [405460-the-legend-of-zelda-ocarina-of-time.json](./405460-the-legend-of-zelda-ocarina-of-time.json) |
 | The Legend of Zelda: Ocarina of Time - Crystal Clocks | 313092 | [313092-the-legend-of-zelda-ocarina-of-time-crystal-clocks.json](./313092-the-legend-of-zelda-ocarina-of-time-crystal-clocks.json) |
 | The Legend of Zelda: Ocarina of Time - Expansion Disk | 204383 | [204383-the-legend-of-zelda-ocarina-of-time-expansion-disk.json](./204383-the-legend-of-zelda-ocarina-of-time-expansion-disk.json) |
+| The Legend of Zelda: Ocarina of Time - Gold Quest | 222777 | [222777-the-legend-of-zelda-ocarina-of-time-gold-quest.json](./222777-the-legend-of-zelda-ocarina-of-time-gold-quest.json) |
 | The Legend of Zelda: Ocarina of Time - Master Quest | 45142 | [45142-the-legend-of-zelda-ocarina-of-time-master-quest.json](./45142-the-legend-of-zelda-ocarina-of-time-master-quest.json) |
 | The Legend of Zelda: Ocarina of Time - Stamina Bar | 263457 | [263457-the-legend-of-zelda-ocarina-of-time-stamina-bar.json](./263457-the-legend-of-zelda-ocarina-of-time-stamina-bar.json) |
 | The Legend of Zelda: Ocarina of Time 3D Randomizer | 335717 | [335717-the-legend-of-zelda-ocarina-of-time-3d-randomizer.json](./335717-the-legend-of-zelda-ocarina-of-time-3d-randomizer.json) |
@@ -11761,6 +11762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rhine Railway: Mannheim - Karlsruhe Collection | 53783 | [53783-the-rhine-railway-mannheim-karlsruhe-collection.json](./53783-the-rhine-railway-mannheim-karlsruhe-collection.json) |
 | The Rhymatory | 399736 | [399736-the-rhymatory.json](./399736-the-rhymatory.json) |
 | The Rhythm of Fighters: SNK Original Sound Collection | 80562 | [80562-the-rhythm-of-fighters-snk-original-sound-collection.json](./80562-the-rhythm-of-fighters-snk-original-sound-collection.json) |
+| The Rice Story | 222767 | [222767-the-rice-story.json](./222767-the-rice-story.json) |
 | The Rich King | 351163 | [351163-the-rich-king.json](./351163-the-rich-king.json) |
 | The Riches of Agrabah with Disney | 243818 | [243818-the-riches-of-agrabah-with-disney.json](./243818-the-riches-of-agrabah-with-disney.json) |
 | The Richmond Rut: In Search of Fenton | 252677 | [252677-the-richmond-rut-in-search-of-fenton.json](./252677-the-richmond-rut-in-search-of-fenton.json) |
@@ -20246,6 +20248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tow Truck Driver Simulator 2023 | 261111 | [261111-tow-truck-driver-simulator-2023.json](./261111-tow-truck-driver-simulator-2023.json) |
 | Tow Truck: Max | 102137 | [102137-tow-truck-max.json](./102137-tow-truck-max.json) |
 | Towa no Sakura | 203199 | [203199-towa-no-sakura.json](./203199-towa-no-sakura.json) |
+| Towa Tsugai | 222776 | [222776-towa-tsugai.json](./222776-towa-tsugai.json) |
 | Toward The Ice | 335505 | [335505-toward-the-ice.json](./335505-toward-the-ice.json) |
 | Towards a perilous journey | 102333 | [102333-towards-a-perilous-journey.json](./102333-towards-a-perilous-journey.json) |
 | Towards the Pantheon | 25316 | [25316-towards-the-pantheon.json](./25316-towards-the-pantheon.json) |
