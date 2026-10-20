@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T10:51:29.646Z",
-  "total_soundtracks": 2215,
+  "generated_at": "2026-10-20T10:51:41.616Z",
+  "total_soundtracks": 2216,
   "games": [
     {
       "igdb_id": 7522,
@@ -18529,6 +18529,20 @@
         {
           "album_name": "Rise of Industry (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2YPm9dz3BVI9MkIslpXFYZ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 113201,
+      "game_name": "Rise of Kingdoms",
+      "game_url": "https://ostdb.net/games/rise-of-kingdoms",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27397a6d5dc7b00110b3d8f3110",
+      "albums": [
+        {
+          "album_name": "Rise of Kingdoms(Anniversary Music Collection) [Original Game Soundtrack]",
+          "spotify_url": "https://open.spotify.com/album/3AbmkiY1s62Qm2bIyYCyfw",
           "apple_music_url": "",
           "album_link_url": ""
         }
