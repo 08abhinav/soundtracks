@@ -13207,6 +13207,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar: The Last Airbender | 202100 | [202100-avatar-the-last-airbender.json](./202100-avatar-the-last-airbender.json) |
 | Avatar: The Last Airbender | 202168 | [202168-avatar-the-last-airbender.json](./202168-avatar-the-last-airbender.json) |
 | Avatar: The Last Airbender | 210487 | [210487-avatar-the-last-airbender.json](./210487-avatar-the-last-airbender.json) |
+| Avatar: The Last Airbender | 210488 | [210488-avatar-the-last-airbender.json](./210488-avatar-the-last-airbender.json) |
+| Avatar: The Last Airbender | 210489 | [210489-avatar-the-last-airbender.json](./210489-avatar-the-last-airbender.json) |
 | Avatar: The Last Airbender | 3792 | [3792-avatar-the-last-airbender.json](./3792-avatar-the-last-airbender.json) |
 | Avatar: The Last Airbender - Bobble Battles | 27459 | [27459-avatar-the-last-airbender-bobble-battles.json](./27459-avatar-the-last-airbender-bobble-battles.json) |
 | Avatar: The Last Airbender - Book 1 Challenges | 220068 | [220068-avatar-the-last-airbender-book-1-challenges.json](./220068-avatar-the-last-airbender-book-1-challenges.json) |
