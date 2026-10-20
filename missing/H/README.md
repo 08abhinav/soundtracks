@@ -8087,6 +8087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Anatolia | 29328 | [29328-hotel-anatolia.json](./29328-hotel-anatolia.json) |
 | Hotel Barcelona | 125125 | [125125-hotel-barcelona.json](./125125-hotel-barcelona.json) |
 | Hotel Blind | 33139 | [33139-hotel-blind.json](./33139-hotel-blind.json) |
+| Hotel Builder | 217168 | [217168-hotel-builder.json](./217168-hotel-builder.json) |
 | Hotel City | 182312 | [182312-hotel-city.json](./182312-hotel-city.json) |
 | Hotel Clover | 263984 | [263984-hotel-clover.json](./263984-hotel-clover.json) |
 | Hotel Dash Deluxe | 96724 | [96724-hotel-dash-deluxe.json](./96724-hotel-dash-deluxe.json) |
@@ -9275,6 +9276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyde | 192967 | [192967-hyde.json](./192967-hyde.json) |
 | Hyde and Seek | 193950 | [193950-hyde-and-seek.json](./193950-hyde-and-seek.json) |
 | Hyde and Zeke | 166782 | [166782-hyde-and-zeke.json](./166782-hyde-and-zeke.json) |
+| Hyde's Haunt & Seek | 217160 | [217160-hydes-haunt-and-seek.json](./217160-hydes-haunt-and-seek.json) |
 | Hydefos | 292848 | [292848-hydefos.json](./292848-hydefos.json) |
 | Hydlide | 320934 | [320934-hydlide.json](./320934-hydlide.json) |
 | Hydlide | 407550 | [407550-hydlide.json](./407550-hydlide.json) |
