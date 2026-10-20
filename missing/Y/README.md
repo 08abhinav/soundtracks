@@ -1615,6 +1615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuukyuu Gensoukyoku: 2nd Album | 125979 | [125979-yuukyuu-gensoukyoku-2nd-album.json](./125979-yuukyuu-gensoukyoku-2nd-album.json) |
 | Yuukyuu Kumikyoku All Star Project | 419857 | [419857-yuukyuu-kumikyoku-all-star-project.json](./419857-yuukyuu-kumikyoku-all-star-project.json) |
 | Yuukyuu no Campanella | 221239 | [221239-yuukyuu-no-campanella.json](./221239-yuukyuu-no-campanella.json) |
+| Yuukyuu no Eden: The Eternal Eden | 213255 | [213255-yuukyuu-no-eden-the-eternal-eden.json](./213255-yuukyuu-no-eden-the-eternal-eden.json) |
 | Yuukyuu no Tierblade for Nintendo Switch | 358924 | [358924-yuukyuu-no-tierblade-for-nintendo-switch.json](./358924-yuukyuu-no-tierblade-for-nintendo-switch.json) |
 | Yuukyuu no Tierblade: Fragments of Memory | 136439 | [136439-yuukyuu-no-tierblade-fragments-of-memory.json](./136439-yuukyuu-no-tierblade-fragments-of-memory.json) |
 | Yuukyuu no Tierblade: Lost Chronicle | 136438 | [136438-yuukyuu-no-tierblade-lost-chronicle.json](./136438-yuukyuu-no-tierblade-lost-chronicle.json) |
