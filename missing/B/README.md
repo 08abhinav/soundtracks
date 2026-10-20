@@ -5664,6 +5664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Fat Neighbor | 83532 | [83532-big-fat-neighbor.json](./83532-big-fat-neighbor.json) |
 | Big Fight: Big Trouble in the Atlantic Ocean | 40233 | [40233-big-fight-big-trouble-in-the-atlantic-ocean.json](./40233-big-fight-big-trouble-in-the-atlantic-ocean.json) |
 | Big Flappy Tower vs. Tiny Square | 166806 | [166806-big-flappy-tower-vs-tiny-square.json](./166806-big-flappy-tower-vs-tiny-square.json) |
+| Big Flying Asteroid | 207675 | [207675-big-flying-asteroid.json](./207675-big-flying-asteroid.json) |
 | Big Game Bundle 10-in-1 | 380189 | [380189-big-game-bundle-10-in-1.json](./380189-big-game-bundle-10-in-1.json) |
 | Big Game Fishing | 12403 | [12403-big-game-fishing.json](./12403-big-game-fishing.json) |
 | Big Game Trophy Hunter | 94208 | [94208-big-game-trophy-hunter.json](./94208-big-game-trophy-hunter.json) |
@@ -10239,6 +10240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bots & Mods | 291725 | [291725-bots-and-mods.json](./291725-bots-and-mods.json) |
 | Bots Can Feel Too | 200045 | [200045-bots-can-feel-too.json](./200045-bots-can-feel-too.json) |
 | Bots Chaos | 243595 | [243595-bots-chaos.json](./243595-bots-chaos.json) |
+| Bots City | 207690 | [207690-bots-city.json](./207690-bots-city.json) |
 | Bots Crusher Arena | 203895 | [203895-bots-crusher-arena.json](./203895-bots-crusher-arena.json) |
 | Bots n' Bugs | 183979 | [183979-bots-n-bugs.json](./183979-bots-n-bugs.json) |
 | Bots Rush | 112350 | [112350-bots-rush.json](./112350-bots-rush.json) |
@@ -13414,6 +13416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Rangers Tribute | 335632 | [335632-burning-rangers-tribute.json](./335632-burning-rangers-tribute.json) |
 | Burning Ravager | 180816 | [180816-burning-ravager.json](./180816-burning-ravager.json) |
 | Burning Regolith | 419155 | [419155-burning-regolith.json](./419155-burning-regolith.json) |
+| Burning Requiem: Fates | 207702 | [207702-burning-requiem-fates.json](./207702-burning-requiem-fates.json) |
 | Burning Rival | 39556 | [39556-burning-rival.json](./39556-burning-rival.json) |
 | Burning Road | 44857 | [44857-burning-road.json](./44857-burning-road.json) |
 | Burning Rubber | 14354 | [14354-burning-rubber.json](./14354-burning-rubber.json) |
