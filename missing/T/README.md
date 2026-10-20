@@ -2839,6 +2839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempest | 143034 | [143034-tempest.json](./143034-tempest.json) |
 | Tempest | 15383 | [15383-tempest.json](./15383-tempest.json) |
 | Tempest | 198939 | [198939-tempest.json](./198939-tempest.json) |
+| Tempest | 239522 | [239522-tempest.json](./239522-tempest.json) |
 | Tempest | 282630 | [282630-tempest.json](./282630-tempest.json) |
 | Tempest 3000 | 51181 | [51181-tempest-3000.json](./51181-tempest-3000.json) |
 | Tempest 4000 | 54565 | [54565-tempest-4000.json](./54565-tempest-4000.json) |
@@ -6687,6 +6688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Enthralling Realms: An Alchemist's Tale | 114544 | [114544-the-enthralling-realms-an-alchemists-tale.json](./114544-the-enthralling-realms-an-alchemists-tale.json) |
 | The Enthralling Realms: Curse of Darkness | 104806 | [104806-the-enthralling-realms-curse-of-darkness.json](./104806-the-enthralling-realms-curse-of-darkness.json) |
 | The Entity | 101331 | [101331-the-entity.json](./101331-the-entity.json) |
+| The Entity Within | 239492 | [239492-the-entity-within.json](./239492-the-entity-within.json) |
 | The Entity: Returning Home | 170366 | [170366-the-entity-returning-home.json](./170366-the-entity-returning-home.json) |
 | The Entropy Centre | 204543 | [204543-the-entropy-centre.json](./204543-the-entropy-centre.json) |
 | The Envolution of Wandaland | 254137 | [254137-the-envolution-of-wandaland.json](./254137-the-envolution-of-wandaland.json) |
@@ -7595,6 +7597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Good Ghouls | 224590 | [224590-the-good-ghouls.json](./224590-the-good-ghouls.json) |
 | The Good Life | 54675 | [54675-the-good-life.json](./54675-the-good-life.json) |
 | The Good Life | 9396 | [9396-the-good-life.json](./9396-the-good-life.json) |
+| The Good Life: Behind the Secret of Rainy Woods | 239483 | [239483-the-good-life-behind-the-secret-of-rainy-woods.json](./239483-the-good-life-behind-the-secret-of-rainy-woods.json) |
 | The Good Old Days | 312186 | [312186-the-good-old-days.json](./312186-the-good-old-days.json) |
 | The Good Overlord | 272582 | [272582-the-good-overlord.json](./272582-the-good-overlord.json) |
 | The Good People | 312872 | [312872-the-good-people.json](./312872-the-good-people.json) |
@@ -22118,6 +22121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tranquility I | 131336 | [131336-tranquility-i.json](./131336-tranquility-i.json) |
 | Tranquillizer Gun | 6128 | [6128-tranquillizer-gun.json](./6128-tranquillizer-gun.json) |
 | Trans Coming Out Simulator 2018 | 176927 | [176927-trans-coming-out-simulator-2018.json](./176927-trans-coming-out-simulator-2018.json) |
+| Trans Goetia | 239529 | [239529-trans-goetia.json](./239529-trans-goetia.json) |
 | Trans Liberation Forever | 277409 | [277409-trans-liberation-forever.json](./277409-trans-liberation-forever.json) |
 | Trans Theft Horso | 258563 | [258563-trans-theft-horso.json](./258563-trans-theft-horso.json) |
 | Trans-Galactic Tournament | 77963 | [77963-trans-galactic-tournament.json](./77963-trans-galactic-tournament.json) |
