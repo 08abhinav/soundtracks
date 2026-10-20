@@ -1330,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle Dreams: Tranquil Pack | 226859 | [226859-jigsaw-puzzle-dreams-tranquil-pack.json](./226859-jigsaw-puzzle-dreams-tranquil-pack.json) |
 | Jigsaw Puzzle DS: DS de Meguru Sekai Isan no Tabi | 269785 | [269785-jigsaw-puzzle-ds-ds-de-meguru-sekai-isan-no-tabi.json](./269785-jigsaw-puzzle-ds-ds-de-meguru-sekai-isan-no-tabi.json) |
 | Jigsaw Puzzle Express | 68547 | [68547-jigsaw-puzzle-express.json](./68547-jigsaw-puzzle-express.json) |
+| Jigsaw Puzzle Lovers | 235594 | [235594-jigsaw-puzzle-lovers.json](./235594-jigsaw-puzzle-lovers.json) |
 | Jigsaw Puzzle Nature | 272755 | [272755-jigsaw-puzzle-nature.json](./272755-jigsaw-puzzle-nature.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Aliens | 263223 | [263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json](./263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Electro Macro | 268529 | [268529-jigsaw-puzzle-pack-pixel-puzzles-ultimate-electro-macro.json](./268529-jigsaw-puzzle-pack-pixel-puzzles-ultimate-electro-macro.json) |
