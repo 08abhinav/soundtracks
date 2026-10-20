@@ -2767,6 +2767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hecaton | 133231 | [133231-hecaton.json](./133231-hecaton.json) |
 | HecatoncheirStory | 108358 | [108358-hecatoncheirstory.json](./108358-hecatoncheirstory.json) |
 | Héchéng Dà Xīguā | 296019 | [296019-hecheng-da-xigua.json](./296019-hecheng-da-xigua.json) |
+| Heck City Delivery | 243549 | [243549-heck-city-delivery.json](./243549-heck-city-delivery.json) |
 | Heck Deck | 154054 | [154054-heck-deck.json](./154054-heck-deck.json) |
 | Heckin' Slimes | 176788 | [176788-heckin-slimes.json](./176788-heckin-slimes.json) |
 | Heckle Dungeon | 123999 | [123999-heckle-dungeon.json](./123999-heckle-dungeon.json) |
@@ -3075,6 +3076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell of Nightmares: Chapter 1 | 254420 | [254420-hell-of-nightmares-chapter-1.json](./254420-hell-of-nightmares-chapter-1.json) |
 | Hell of Sand | 146665 | [146665-hell-of-sand.json](./146665-hell-of-sand.json) |
 | Hell of Sins: Soul | 209144 | [209144-hell-of-sins-soul.json](./209144-hell-of-sins-soul.json) |
+| Hell of Verdun | 243550 | [243550-hell-of-verdun.json](./243550-hell-of-verdun.json) |
 | Hell Of War: Combined Arms | 411596 | [411596-hell-of-war-combined-arms.json](./411596-hell-of-war-combined-arms.json) |
 | Hell on Earth | 28145 | [28145-hell-on-earth.json](./28145-hell-on-earth.json) |
 | Hell On Earth Shareware | 275212 | [275212-hell-on-earth-shareware.json](./275212-hell-on-earth-shareware.json) |
@@ -3875,6 +3877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Maya | 265572 | [265572-hentai-maya.json](./265572-hentai-maya.json) |
 | Hentai Maze | 266602 | [266602-hentai-maze.json](./266602-hentai-maze.json) |
 | Hentai Mei | 340439 | [340439-hentai-mei.json](./340439-hentai-mei.json) |
+| Hentai Melody | 243551 | [243551-hentai-melody.json](./243551-hentai-melody.json) |
 | Hentai Memorama | 112775 | [112775-hentai-memorama.json](./112775-hentai-memorama.json) |
 | Hentai Memory | 105200 | [105200-hentai-memory.json](./105200-hentai-memory.json) |
 | Hentai Memory: Sexy Couples | 286438 | [286438-hentai-memory-sexy-couples.json](./286438-hentai-memory-sexy-couples.json) |
@@ -3937,6 +3940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Photo: Sakura | 356820 | [356820-hentai-photo-sakura.json](./356820-hentai-photo-sakura.json) |
 | Hentai Photo: Yuri | 365539 | [365539-hentai-photo-yuri.json](./365539-hentai-photo-yuri.json) |
 | Hentai Pieces | 379657 | [379657-hentai-pieces.json](./379657-hentai-pieces.json) |
+| Hentai Pink | 243552 | [243552-hentai-pink.json](./243552-hentai-pink.json) |
 | Hentai Plus Girl | 111487 | [111487-hentai-plus-girl.json](./111487-hentai-plus-girl.json) |
 | Hentai Plus Girl: Puzzle Pack - 5 Girls | 163543 | [163543-hentai-plus-girl-puzzle-pack-5-girls.json](./163543-hentai-plus-girl-puzzle-pack-5-girls.json) |
 | Hentai Police Girl | 411068 | [411068-hentai-police-girl.json](./411068-hentai-police-girl.json) |
@@ -4009,6 +4013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Solitaire: Extended Edition | 315868 | [315868-hentai-solitaire-extended-edition.json](./315868-hentai-solitaire-extended-edition.json) |
 | Hentai Solitaire: Special Edition | 317911 | [317911-hentai-solitaire-special-edition.json](./317911-hentai-solitaire-special-edition.json) |
 | Hentai Solitaire: Ultimate Edition | 313785 | [313785-hentai-solitaire-ultimate-edition.json](./313785-hentai-solitaire-ultimate-edition.json) |
+| Hentai SpaceSuit | 243553 | [243553-hentai-spacesuit.json](./243553-hentai-spacesuit.json) |
 | Hentai Sport | 286537 | [286537-hentai-sport.json](./286537-hentai-sport.json) |
 | Hentai Sport | 371362 | [371362-hentai-sport.json](./371362-hentai-sport.json) |
 | Hentai SportsGirl | 230894 | [230894-hentai-sportsgirl.json](./230894-hentai-sportsgirl.json) |
@@ -4763,6 +4768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Phase | 30609 | [30609-hex-phase.json](./30609-hex-phase.json) |
 | Hex Picross | 213362 | [213362-hex-picross.json](./213362-hex-picross.json) |
 | Hex Pipe | 403665 | [403665-hex-pipe.json](./403665-hex-pipe.json) |
+| Hex Plat | 243555 | [243555-hex-plat.json](./243555-hex-plat.json) |
 | Hex Plus | 100061 | [100061-hex-plus.json](./100061-hex-plus.json) |
 | Hex Pool | 40172 | [40172-hex-pool.json](./40172-hex-pool.json) |
 | Hex Racer | 259061 | [259061-hex-racer.json](./259061-hex-racer.json) |
@@ -5990,6 +5996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hina-chan no Yakiniku Party | 208404 | [208404-hina-chan-no-yakiniku-party.json](./208404-hina-chan-no-yakiniku-party.json) |
 | Hina-chan Snowtime | 208260 | [208260-hina-chan-snowtime.json](./208260-hina-chan-snowtime.json) |
 | Hina-chan's Sticker Survival | 315088 | [315088-hina-chans-sticker-survival.json](./315088-hina-chans-sticker-survival.json) |
+| Hinami Bay | 243554 | [243554-hinami-bay.json](./243554-hinami-bay.json) |
 | Hinamizawa Branch School Basketball Tournament | 257559 | [257559-hinamizawa-branch-school-basketball-tournament.json](./257559-hinamizawa-branch-school-basketball-tournament.json) |
 | Hinata in Hot Maze | 163888 | [163888-hinata-in-hot-maze.json](./163888-hinata-in-hot-maze.json) |
 | Hinatazaka46 to Fushigi na Toshoshitsu | 223967 | [223967-hinatazaka46-to-fushigi-na-toshoshitsu.json](./223967-hinatazaka46-to-fushigi-na-toshoshitsu.json) |
@@ -7826,6 +7833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Hentai Puzzle Vol.1 | 163529 | [163529-hot-hentai-puzzle-vol-1.json](./163529-hot-hentai-puzzle-vol-1.json) |
 | Hot Homework Help | 269011 | [269011-hot-homework-help.json](./269011-hot-homework-help.json) |
 | Hot Honey | 163894 | [163894-hot-honey.json](./163894-hot-honey.json) |
+| Hot Ice | 243556 | [243556-hot-ice.json](./243556-hot-ice.json) |
 | Hot Job 94' | 265228 | [265228-hot-job-94.json](./265228-hot-job-94.json) |
 | Hot Land | 419375 | [419375-hot-land.json](./419375-hot-land.json) |
 | Hot Lap League | 197776 | [197776-hot-lap-league.json](./197776-hot-lap-league.json) |
@@ -7897,6 +7905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Springs Story 2 | 180274 | [180274-hot-springs-story-2.json](./180274-hot-springs-story-2.json) |
 | Hot Sprint Trip With A Married Woman | 97506 | [97506-hot-sprint-trip-with-a-married-woman.json](./97506-hot-sprint-trip-with-a-married-woman.json) |
 | Hot Steam | 231300 | [231300-hot-steam.json](./231300-hot-steam.json) |
+| Hot Therapy | 243557 | [243557-hot-therapy.json](./243557-hot-therapy.json) |
 | Hot Tin Roof: The Cat That Wore a Fedora | 26875 | [26875-hot-tin-roof-the-cat-that-wore-a-fedora.json](./26875-hot-tin-roof-the-cat-that-wore-a-fedora.json) |
 | Hot Vacation | 173835 | [173835-hot-vacation.json](./173835-hot-vacation.json) |
 | Hot View Ecchi Girls | 384885 | [384885-hot-view-ecchi-girls.json](./384885-hot-view-ecchi-girls.json) |
@@ -8682,6 +8691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Host | 403164 | [403164-human-host.json](./403164-human-host.json) |
 | Human Killing Machine | 12148 | [12148-human-killing-machine.json](./12148-human-killing-machine.json) |
 | Human Milk Seller | 291467 | [291467-human-milk-seller.json](./291467-human-milk-seller.json) |
+| Human Multiplayer Game | 243558 | [243558-human-multiplayer-game.json](./243558-human-multiplayer-game.json) |
 | Human or Not? | 251534 | [251534-human-or-not.json](./251534-human-or-not.json) |
 | Human or Virus | 142263 | [142263-human-or-virus.json](./142263-human-or-virus.json) |
 | Human Parking Simulator | 363063 | [363063-human-parking-simulator.json](./363063-human-parking-simulator.json) |
@@ -9471,6 +9481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperlight Ultimate | 117939 | [117939-hyperlight-ultimate.json](./117939-hyperlight-ultimate.json) |
 | Hypermarket Simulator | 335855 | [335855-hypermarket-simulator.json](./335855-hypermarket-simulator.json) |
 | Hypermarket Simulator Empire 2024 | 315903 | [315903-hypermarket-simulator-empire-2024.json](./315903-hypermarket-simulator-empire-2024.json) |
+| Hypermarket Tycoon Manager | 243559 | [243559-hypermarket-tycoon-manager.json](./243559-hypermarket-tycoon-manager.json) |
 | Hypermind | 193471 | [193471-hypermind.json](./193471-hypermind.json) |
 | Hypernet Arena | 108864 | [108864-hypernet-arena.json](./108864-hypernet-arena.json) |
 | HyperNova | 199465 | [199465-hypernova.json](./199465-hypernova.json) |
