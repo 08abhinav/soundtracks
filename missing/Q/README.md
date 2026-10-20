@@ -627,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest 2: The Ancient Temples | 266229 | [266229-quest-2-the-ancient-temples.json](./266229-quest-2-the-ancient-temples.json) |
 | Quest 64 | 3580 | [3580-quest-64.json](./3580-quest-64.json) |
 | Quest 64 "French Vanilla" | 248305 | [248305-quest-64-french-vanilla.json](./248305-quest-64-french-vanilla.json) |
+| Quest 64: Hard Mode | 214948 | [214948-quest-64-hard-mode.json](./214948-quest-64-hard-mode.json) |
 | Quest Adventure | 133444 | [133444-quest-adventure.json](./133444-quest-adventure.json) |
 | Quest Arrest | 141615 | [141615-quest-arrest.json](./141615-quest-arrest.json) |
 | Quest Eternal | 290954 | [290954-quest-eternal.json](./290954-quest-eternal.json) |
