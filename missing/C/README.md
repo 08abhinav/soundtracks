@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cage-Face: Case 2 - The Sewer | 193432 | [193432-cage-face-case-2-the-sewer.json](./193432-cage-face-case-2-the-sewer.json) |
 | Cage: Open | 193307 | [193307-cage-open.json](./193307-cage-open.json) |
 | Cagebreak | 60568 | [60568-cagebreak.json](./60568-cagebreak.json) |
+| Caged Beast | 207696 | [207696-caged-beast.json](./207696-caged-beast.json) |
 | Caged Bird Don't Fly Caught in a Wire Sing Like a Good Canary Come When Called | 122335 | [122335-caged-bird-dont-fly-caught-in-a-wire-sing-like-a-good-canary-come-when-called.json](./122335-caged-bird-dont-fly-caught-in-a-wire-sing-like-a-good-canary-come-when-called.json) |
 | Caged Garden Cock Robin | 120259 | [120259-caged-garden-cock-robin.json](./120259-caged-garden-cock-robin.json) |
 | Cages: Hidden Worlds | 406114 | [406114-cages-hidden-worlds.json](./406114-cages-hidden-worlds.json) |
@@ -2483,6 +2484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castaway Hand | 326195 | [326195-castaway-hand.json](./326195-castaway-hand.json) |
 | Castaway II: Isle of the Titans | 141759 | [141759-castaway-ii-isle-of-the-titans.json](./141759-castaway-ii-isle-of-the-titans.json) |
 | Castaway of Steel | 273328 | [273328-castaway-of-steel.json](./273328-castaway-of-steel.json) |
+| Castaway of the Ardusta Sea | 207689 | [207689-castaway-of-the-ardusta-sea.json](./207689-castaway-of-the-ardusta-sea.json) |
 | Castaway on a Weird Island | 174198 | [174198-castaway-on-a-weird-island.json](./174198-castaway-on-a-weird-island.json) |
 | Castaway Paradise | 36279 | [36279-castaway-paradise.json](./36279-castaway-paradise.json) |
 | Castaway Paradise - Animal Sim Island | 107089 | [107089-castaway-paradise-animal-sim-island.json](./107089-castaway-paradise-animal-sim-island.json) |
@@ -4678,6 +4680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasing Car Speed Drifting | 106473 | [106473-chasing-car-speed-drifting.json](./106473-chasing-car-speed-drifting.json) |
 | Chasing Dead | 21676 | [21676-chasing-dead.json](./21676-chasing-dead.json) |
 | Chasing Demons | 150553 | [150553-chasing-demons.json](./150553-chasing-demons.json) |
+| Chasing Halo | 207684 | [207684-chasing-halo.json](./207684-chasing-halo.json) |
 | Chasing Kaleidorider | 343321 | [343321-chasing-kaleidorider.json](./343321-chasing-kaleidorider.json) |
 | Chasing Light | 132582 | [132582-chasing-light.json](./132582-chasing-light.json) |
 | Chasing Nebula | 120705 | [120705-chasing-nebula.json](./120705-chasing-nebula.json) |
@@ -12218,6 +12221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Club | 93835 | [93835-crash-club.json](./93835-crash-club.json) |
 | Crash Commando | 21136 | [21136-crash-commando.json](./21136-crash-commando.json) |
 | Crash Course | 172528 | [172528-crash-course.json](./172528-crash-course.json) |
+| Crash Course | 207699 | [207699-crash-course.json](./207699-crash-course.json) |
 | Crash Course | 380094 | [380094-crash-course.json](./380094-crash-course.json) |
 | Crash Course Builder | 258322 | [258322-crash-course-builder.json](./258322-crash-course-builder.json) |
 | Crash Course Go! | 106099 | [106099-crash-course-go.json](./106099-crash-course-go.json) |
