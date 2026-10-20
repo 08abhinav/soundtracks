@@ -5120,7 +5120,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry: Inochi no Kusabi | 85870 | [85870-wizardry-inochi-no-kusabi.json](./85870-wizardry-inochi-no-kusabi.json) |
 | Wizardry: Knight of Diamonds - The Second Scenario | 2865 | [2865-wizardry-knight-of-diamonds-the-second-scenario.json](./2865-wizardry-knight-of-diamonds-the-second-scenario.json) |
 | Wizardry: Labyrinth of Lost Souls | 21083 | [21083-wizardry-labyrinth-of-lost-souls.json](./21083-wizardry-labyrinth-of-lost-souls.json) |
-| Wizardry: Proving Grounds of the Mad Overlord | 2863 | [2863-wizardry-proving-grounds-of-the-mad-overlord.json](./2863-wizardry-proving-grounds-of-the-mad-overlord.json) |
 | Wizardry: Tale of the Forsaken Land | 43620 | [43620-wizardry-tale-of-the-forsaken-land.json](./43620-wizardry-tale-of-the-forsaken-land.json) |
 | Wizardry: The Five Ordeals | 151699 | [151699-wizardry-the-five-ordeals.json](./151699-wizardry-the-five-ordeals.json) |
 | Wizardry: The Five Ordeals - Scenario "Prisoners of the Battles" | 242525 | [242525-wizardry-the-five-ordeals-scenario-prisoners-of-the-battles.json](./242525-wizardry-the-five-ordeals-scenario-prisoners-of-the-battles.json) |
