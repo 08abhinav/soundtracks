@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lablue Horror | 411048 | [411048-lablue-horror.json](./411048-lablue-horror.json) |
 | Labo Brick Car | 100990 | [100990-labo-brick-car.json](./100990-labo-brick-car.json) |
 | Labo Halloween Car | 91095 | [91095-labo-halloween-car.json](./91095-labo-halloween-car.json) |
+| Labophobia | 247906 | [247906-labophobia.json](./247906-labophobia.json) |
 | Labor | 100714 | [100714-labor.json](./100714-labor.json) |
 | Labor Power | 312301 | [312301-labor-power.json](./312301-labor-power.json) |
 | Labor Rights Funeral in Ukraine | 379962 | [379962-labor-rights-funeral-in-ukraine.json](./379962-labor-rights-funeral-in-ukraine.json) |
@@ -799,6 +800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Surgeon: The Microscopic Mission | 69552 | [69552-laser-surgeon-the-microscopic-mission.json](./69552-laser-surgeon-the-microscopic-mission.json) |
 | Laser Survivor | 258499 | [258499-laser-survivor.json](./258499-laser-survivor.json) |
 | Laser Tag Massacre | 329376 | [329376-laser-tag-massacre.json](./329376-laser-tag-massacre.json) |
+| Laser Tanks | 247921 | [247921-laser-tanks.json](./247921-laser-tanks.json) |
 | Laser Thief | 367001 | [367001-laser-thief.json](./367001-laser-thief.json) |
 | Laser War | 41567 | [41567-laser-war.json](./41567-laser-war.json) |
 | Laser Z | 127081 | [127081-laser-z.json](./127081-laser-z.json) |
