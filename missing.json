@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T22:07:18.907Z",
-  "total_missing": 239380,
+  "generated_at": "2026-10-20T22:13:30.888Z",
+  "total_missing": 239369,
   "games": [
     {
       "igdb_id": 191680,
@@ -55417,11 +55417,6 @@
       "file": "missing/A/341038-aperture-narbacular.json"
     },
     {
-      "igdb_id": 21897,
-      "game_name": "Aperture Tag: The Paint Gun Testing Initiative",
-      "file": "missing/A/21897-aperture-tag-the-paint-gun-testing-initiative.json"
-    },
-    {
       "igdb_id": 284366,
       "game_name": "Aperture: Salt Mines",
       "file": "missing/A/284366-aperture-salt-mines.json"
@@ -103792,11 +103787,6 @@
       "file": "missing/B/400884-bee-my-bloom.json"
     },
     {
-      "igdb_id": 106790,
-      "game_name": "Bee Simulator",
-      "file": "missing/B/106790-bee-simulator.json"
-    },
-    {
       "igdb_id": 335301,
       "game_name": "Bee Simulator: The Hive",
       "file": "missing/B/335301-bee-simulator-the-hive.json"
@@ -122775,11 +122765,6 @@
       "igdb_id": 364359,
       "game_name": "Blood & Play: Consultation",
       "file": "missing/B/364359-blood-and-play-consultation.json"
-    },
-    {
-      "igdb_id": 75242,
-      "game_name": "Blood & Truth",
-      "file": "missing/B/75242-blood-and-truth.json"
     },
     {
       "igdb_id": 338336,
@@ -205687,11 +205672,6 @@
       "file": "missing/C/280734-copy-right.json"
     },
     {
-      "igdb_id": 171650,
-      "game_name": "Copycat",
-      "file": "missing/C/171650-copycat.json"
-    },
-    {
       "igdb_id": 255631,
       "game_name": "Copycat",
       "file": "missing/C/255631-copycat.json"
@@ -284622,11 +284602,6 @@
       "file": "missing/D/290993-dragon-chronicles-black-tears.json"
     },
     {
-      "igdb_id": 38877,
-      "game_name": "Dragon City",
-      "file": "missing/D/38877-dragon-city.json"
-    },
-    {
       "igdb_id": 312170,
       "game_name": "Dragon Clicker",
       "file": "missing/D/312170-dragon-clicker.json"
@@ -362960,11 +362935,6 @@
       "igdb_id": 296271,
       "game_name": "Flint's Hints",
       "file": "missing/F/296271-flints-hints.json"
-    },
-    {
-      "igdb_id": 20330,
-      "game_name": "Flinthook",
-      "file": "missing/F/20330-flinthook.json"
     },
     {
       "igdb_id": 305332,
@@ -505812,11 +505782,6 @@
       "file": "missing/J/10466-jagged-alliance-2-wildfire.json"
     },
     {
-      "igdb_id": 72767,
-      "game_name": "Jagged Alliance 3",
-      "file": "missing/J/72767-jagged-alliance-3.json"
-    },
-    {
       "igdb_id": 249259,
       "game_name": "Jagged Alliance 3: Tactical Edition",
       "file": "missing/J/249259-jagged-alliance-3-tactical-edition.json"
@@ -601270,11 +601235,6 @@
       "igdb_id": 127042,
       "game_name": "Marvel's Guardians of the Galaxy: The Telltale Series - Episode 4: Who Needs You",
       "file": "missing/M/127042-marvels-guardians-of-the-galaxy-the-telltale-series-episode-4-who-needs-you.json"
-    },
-    {
-      "igdb_id": 116585,
-      "game_name": "Marvel's Iron Man VR",
-      "file": "missing/M/116585-marvels-iron-man-vr.json"
     },
     {
       "igdb_id": 255653,
@@ -885772,11 +885732,6 @@
       "file": "missing/S/141132-simcasino.json"
     },
     {
-      "igdb_id": 180001,
-      "game_name": "SimCity",
-      "file": "missing/S/180001-simcity.json"
-    },
-    {
       "igdb_id": 180002,
       "game_name": "SimCity",
       "file": "missing/S/180002-simcity.json"
@@ -961622,11 +961577,6 @@
       "file": "missing/S/40426-super-dodge-ball.json"
     },
     {
-      "igdb_id": 46768,
-      "game_name": "Super Dodge Ball",
-      "file": "missing/S/46768-super-dodge-ball.json"
-    },
-    {
       "igdb_id": 377232,
       "game_name": "Super Dodge Ball SNES Port",
       "file": "missing/S/377232-super-dodge-ball-snes-port.json"
@@ -975915,11 +975865,6 @@
       "igdb_id": 177827,
       "game_name": "Swallow the Dark",
       "file": "missing/S/177827-swallow-the-dark.json"
-    },
-    {
-      "igdb_id": 133836,
-      "game_name": "Swallow the Sea",
-      "file": "missing/S/133836-swallow-the-sea.json"
     },
     {
       "igdb_id": 124065,
