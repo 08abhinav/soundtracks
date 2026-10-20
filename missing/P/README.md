@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P.C. Fuzz | 92821 | [92821-p-c-fuzz.json](./92821-p-c-fuzz.json) |
 | P.Craft | 132121 | [132121-p-craft.json](./132121-p-craft.json) |
 | P.E. Noire | 142766 | [142766-p-e-noire.json](./142766-p-e-noire.json) |
+| P.E.P | 224959 | [224959-p-e-p.json](./224959-p-e-p.json) |
 | P.H.A.G.E: Rhapsody | 343763 | [343763-p-h-a-g-e-rhapsody.json](./343763-p-h-a-g-e-rhapsody.json) |
 | P.I. | 331463 | [331463-p-i.json](./331463-p-i.json) |
 | P.I. Al Luminum: Haunted House | 325635 | [325635-p-i-al-luminum-haunted-house.json](./325635-p-i-al-luminum-haunted-house.json) |
@@ -3597,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pesterminator: The Western Exterminator | 48080 | [48080-pesterminator-the-western-exterminator.json](./48080-pesterminator-the-western-exterminator.json) |
 | Pesterquest | 122062 | [122062-pesterquest.json](./122062-pesterquest.json) |
 | Pestersim | 276955 | [276955-pestersim.json](./276955-pestersim.json) |
+| Pesticide | 224971 | [224971-pesticide.json](./224971-pesticide.json) |
 | Pesticide Not Required | 257978 | [257978-pesticide-not-required.json](./257978-pesticide-not-required.json) |
 | Pestilence | 272272 | [272272-pestilence.json](./272272-pestilence.json) |
 | Pestilent Hunters | 201563 | [201563-pestilent-hunters.json](./201563-pestilent-hunters.json) |
@@ -6784,6 +6786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plain Video Poker | 84814 | [84814-plain-video-poker.json](./84814-plain-video-poker.json) |
 | Plains of Havoc | 289306 | [289306-plains-of-havoc.json](./289306-plains-of-havoc.json) |
 | Plains of Pain | 235621 | [235621-plains-of-pain.json](./235621-plains-of-pain.json) |
+| Plairdes | 224936 | [224936-plairdes.json](./224936-plairdes.json) |
 | Plambra Dash: The Parkour Game Part II | 361605 | [361605-plambra-dash-the-parkour-game-part-ii.json](./361605-plambra-dash-the-parkour-game-part-ii.json) |
 | Plan 9 From Outer Space | 12717 | [12717-plan-9-from-outer-space.json](./12717-plan-9-from-outer-space.json) |
 | Plan 9 From Planet Kr1x | 301114 | [301114-plan-9-from-planet-kr1x.json](./301114-plan-9-from-planet-kr1x.json) |
@@ -9422,6 +9425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PooSky | 68615 | [68615-poosky.json](./68615-poosky.json) |
 | Pooyan | 297493 | [297493-pooyan.json](./297493-pooyan.json) |
 | Pooyan | 4618 | [4618-pooyan.json](./4618-pooyan.json) |
+| Poozle Mania | 224974 | [224974-poozle-mania.json](./224974-poozle-mania.json) |
 | Pop | 21828 | [21828-pop.json](./21828-pop.json) |
 | Pop 'n Magic | 37582 | [37582-pop-n-magic.json](./37582-pop-n-magic.json) |
 | Pop & Chips | 83213 | [83213-pop-and-chips.json](./83213-pop-and-chips.json) |
