@@ -3807,6 +3807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetsudou Nippon! Memorial: JR Tokai KiHa 85 Tokkyuu Nanki-hen | 356242 | [356242-tetsudou-nippon-memorial-jr-tokai-kiha-85-tokkyuu-nanki-hen.json](./356242-tetsudou-nippon-memorial-jr-tokai-kiha-85-tokkyuu-nanki-hen.json) |
 | Tetsudou Nippon! Real Pro Tokkyu Soko! Nagoya Tetsudou-hen | 233956 | [233956-tetsudou-nippon-real-pro-tokkyu-soko-nagoya-tetsudou-hen.json](./233956-tetsudou-nippon-real-pro-tokkyu-soko-nagoya-tetsudou-hen.json) |
 | Tetsudou Nippon! Real Pro Tokyo - Kanagawa! Tokyu Dentetsu-hen | 366913 | [366913-tetsudou-nippon-real-pro-tokyo-kanagawa-tokyu-dentetsu-hen.json](./366913-tetsudou-nippon-real-pro-tokyo-kanagawa-tokyu-dentetsu-hen.json) |
+| Tetsudou Nippon! RealPro Tokkyu Soukou! Nagoya Tetsudou-hen | 254920 | [254920-tetsudou-nippon-realpro-tokkyu-soukou-nagoya-tetsudou-hen.json](./254920-tetsudou-nippon-realpro-tokkyu-soukou-nagoya-tetsudou-hen.json) |
 | Tetsudou Nippon! Rosen Tabi EX: Seiryuu Unten - Hasegawa Tetsudou-hen | 261366 | [261366-tetsudou-nippon-rosen-tabi-ex-seiryuu-unten-hasegawa-tetsudou-hen.json](./261366-tetsudou-nippon-rosen-tabi-ex-seiryuu-unten-hasegawa-tetsudou-hen.json) |
 | Tetsudou Nippon! Rosen Tabi: Aizu Tetsudou‑hen | 221946 | [221946-tetsudou-nippon-rosen-tabi-aizu-tetsudou-hen.json](./221946-tetsudou-nippon-rosen-tabi-aizu-tetsudou-hen.json) |
 | Tetsudou Nippon! Rosen Tabi: Akechi Tetsudou-hen | 241971 | [241971-tetsudou-nippon-rosen-tabi-akechi-tetsudou-hen.json](./241971-tetsudou-nippon-rosen-tabi-akechi-tetsudou-hen.json) |
@@ -6944,6 +6945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fate of the Bombiwa | 218075 | [218075-the-fate-of-the-bombiwa.json](./218075-the-fate-of-the-bombiwa.json) |
 | The Fate of the Pharaoh | 100188 | [100188-the-fate-of-the-pharaoh.json](./100188-the-fate-of-the-pharaoh.json) |
 | The Fateful Encounter | 299604 | [299604-the-fateful-encounter.json](./299604-the-fateful-encounter.json) |
+| The Fateful Saint’s Love | 254944 | [254944-the-fateful-saint-s-love.json](./254944-the-fateful-saint-s-love.json) |
 | The Fates of Twinion | 2521 | [2521-the-fates-of-twinion.json](./2521-the-fates-of-twinion.json) |
 | The Father | 184338 | [184338-the-father.json](./184338-the-father.json) |
 | The Fatum | 361453 | [361453-the-fatum.json](./361453-the-fatum.json) |
@@ -9563,6 +9565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legendary Blacksmith | 28651 | [28651-the-legendary-blacksmith.json](./28651-the-legendary-blacksmith.json) |
 | The Legendary Boy Run | 103913 | [103913-the-legendary-boy-run.json](./103913-the-legendary-boy-run.json) |
 | The Legendary Hero of Space | 53756 | [53756-the-legendary-hero-of-space.json](./53756-the-legendary-hero-of-space.json) |
+| The Legendary Love Story | 254943 | [254943-the-legendary-love-story.json](./254943-the-legendary-love-story.json) |
 | The Legendary Player - Make Your Reputation | 68612 | [68612-the-legendary-player-make-your-reputation.json](./68612-the-legendary-player-make-your-reputation.json) |
 | The Legendary Prophecy Of Light And Darkness: The Power To Save The World | 141494 | [141494-the-legendary-prophecy-of-light-and-darkness-the-power-to-save-the-world.json](./141494-the-legendary-prophecy-of-light-and-darkness-the-power-to-save-the-world.json) |
 | The Legendary Starfy | 20280 | [20280-the-legendary-starfy.json](./20280-the-legendary-starfy.json) |
@@ -13537,6 +13540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trashcan Games | 302060 | [302060-the-trashcan-games.json](./302060-the-trashcan-games.json) |
 | The Traveler's Path | 236124 | [236124-the-travelers-path.json](./236124-the-travelers-path.json) |
 | The Traveling Witch in Animal Town | 388386 | [388386-the-traveling-witch-in-animal-town.json](./388386-the-traveling-witch-in-animal-town.json) |
+| The Traveller | 254911 | [254911-the-traveller.json](./254911-the-traveller.json) |
 | The Traveller and the Mountain | 178570 | [178570-the-traveller-and-the-mountain.json](./178570-the-traveller-and-the-mountain.json) |
 | The Traveller Tale | 403794 | [403794-the-traveller-tale.json](./403794-the-traveller-tale.json) |
 | The Traveller: Vanilla Version | 280201 | [280201-the-traveller-vanilla-version.json](./280201-the-traveller-vanilla-version.json) |
@@ -20904,6 +20908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 3: Birmingham Cross-City Line - Lichfield: Bromsgrove & Redditch Route Add-On | 226688 | [226688-train-sim-world-3-birmingham-cross-city-line-lichfield-bromsgrove-and-redditch-route-add-on.json](./226688-train-sim-world-3-birmingham-cross-city-line-lichfield-bromsgrove-and-redditch-route-add-on.json) |
 | Train Sim World 3: Birmingham Standard Edition | 231364 | [231364-train-sim-world-3-birmingham-standard-edition.json](./231364-train-sim-world-3-birmingham-standard-edition.json) |
 | Train Sim World 3: Dispolok BR 182 Add-On | 220712 | [220712-train-sim-world-3-dispolok-br-182-add-on.json](./220712-train-sim-world-3-dispolok-br-182-add-on.json) |
+| Train Sim World 3: Glossop Line - Manchester: Hadfield & Glossop Route | 254910 | [254910-train-sim-world-3-glossop-line-manchester-hadfield-and-glossop-route.json](./254910-train-sim-world-3-glossop-line-manchester-hadfield-and-glossop-route.json) |
 | Train Sim World 3: Linke Rheinstrecke - Mainz: Koblenz Route | 241308 | [241308-train-sim-world-3-linke-rheinstrecke-mainz-koblenz-route.json](./241308-train-sim-world-3-linke-rheinstrecke-mainz-koblenz-route.json) |
 | Train Sim World 3: Loco Add-On Bundle 2 | 243233 | [243233-train-sim-world-3-loco-add-on-bundle-2.json](./243233-train-sim-world-3-loco-add-on-bundle-2.json) |
 | Train Sim World 3: New Journeys - S-Bahn Köln BR 423 | 227192 | [227192-train-sim-world-3-new-journeys-s-bahn-koln-br-423.json](./227192-train-sim-world-3-new-journeys-s-bahn-koln-br-423.json) |
