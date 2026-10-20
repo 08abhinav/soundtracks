@@ -5651,6 +5651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School Survival | 281945 | [281945-high-school-survival.json](./281945-high-school-survival.json) |
 | High School: Bisexual Experience | 106590 | [106590-high-school-bisexual-experience.json](./106590-high-school-bisexual-experience.json) |
 | High Sea Saga | 202849 | [202849-high-sea-saga.json](./202849-high-sea-saga.json) |
+| High Sea Saga DX | 250793 | [250793-high-sea-saga-dx.json](./250793-high-sea-saga-dx.json) |
 | High Seas Havoc | 10150 | [10150-high-seas-havoc.json](./10150-high-seas-havoc.json) |
 | High Seas Trader | 73867 | [73867-high-seas-trader.json](./73867-high-seas-trader.json) |
 | High Seas, High Profits! | 290922 | [290922-high-seas-high-profits.json](./290922-high-seas-high-profits.json) |
@@ -7012,6 +7013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honest Work | 416670 | [416670-honest-work.json](./416670-honest-work.json) |
 | Honey | 196245 | [196245-honey.json](./196245-honey.json) |
 | Honey and Swallowtail | 261453 | [261453-honey-and-swallowtail.json](./261453-honey-and-swallowtail.json) |
+| Honey Are You There? | 250785 | [250785-honey-are-you-there.json](./250785-honey-are-you-there.json) |
 | Honey Badger Don't Care | 56908 | [56908-honey-badger-dont-care.json](./56908-honey-badger-dont-care.json) |
 | Honey Bee | 47211 | [47211-honey-bee.json](./47211-honey-bee.json) |
 | Honey Bee | 71186 | [71186-honey-bee.json](./71186-honey-bee.json) |
@@ -7607,6 +7609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Club Adventures 2: Hazelwood Stories | 210914 | [210914-horse-club-adventures-2-hazelwood-stories.json](./210914-horse-club-adventures-2-hazelwood-stories.json) |
 | Horse Club Adventures 2: Secrets of Skeifa | 252624 | [252624-horse-club-adventures-2-secrets-of-skeifa.json](./252624-horse-club-adventures-2-secrets-of-skeifa.json) |
 | Horse Club Adventures: Complete Collection | 252627 | [252627-horse-club-adventures-complete-collection.json](./252627-horse-club-adventures-complete-collection.json) |
+| Horse Club Adventures: Lakeside Collection | 250767 | [250767-horse-club-adventures-lakeside-collection.json](./250767-horse-club-adventures-lakeside-collection.json) |
 | Horse Club Ride West | 412345 | [412345-horse-club-ride-west.json](./412345-horse-club-ride-west.json) |
 | Horse Dash | 349806 | [349806-horse-dash.json](./349806-horse-dash.json) |
 | Horse Divorce | 178032 | [178032-horse-divorce.json](./178032-horse-divorce.json) |
