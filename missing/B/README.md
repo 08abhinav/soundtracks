@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B-Sides | 183582 | [183582-b-sides.json](./183582-b-sides.json) |
 | B-Team | 193693 | [193693-b-team.json](./193693-b-team.json) |
 | B-Wings | 273080 | [273080-b-wings.json](./273080-b-wings.json) |
+| B:(ursed | 223862 | [223862-b-ursed.json](./223862-b-ursed.json) |
 | B. Braun Aesculap Spine VR | 107686 | [107686-b-braun-aesculap-spine-vr.json](./107686-b-braun-aesculap-spine-vr.json) |
 | B. Braun Future Operating Room | 30686 | [30686-b-braun-future-operating-room.json](./30686-b-braun-future-operating-room.json) |
 | B. C. Story | 39879 | [39879-b-c-story.json](./39879-b-c-story.json) |
