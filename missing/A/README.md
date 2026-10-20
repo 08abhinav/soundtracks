@@ -1472,6 +1472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Fall | 119004 | [119004-absolute-fall.json](./119004-absolute-fall.json) |
 | Absolute Fear: Aooni | 296243 | [296243-absolute-fear-aooni.json](./296243-absolute-fear-aooni.json) |
 | Absolute Force Online | 64311 | [64311-absolute-force-online.json](./64311-absolute-force-online.json) |
+| Absolute Instant | 253731 | [253731-absolute-instant.json](./253731-absolute-instant.json) |
 | Absolute Matter | 219697 | [219697-absolute-matter.json](./219697-absolute-matter.json) |
 | Absolute Pinball | 12376 | [12376-absolute-pinball.json](./12376-absolute-pinball.json) |
 | Absolute RC Plane Simulator | 107034 | [107034-absolute-rc-plane-simulator.json](./107034-absolute-rc-plane-simulator.json) |
@@ -4282,6 +4283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aku Ryuu G* Gotoku: Legend of the Strongest | 83223 | [83223-aku-ryuu-g-gotoku-legend-of-the-strongest.json](./83223-aku-ryuu-g-gotoku-legend-of-the-strongest.json) |
 | Akuarium | 147471 | [147471-akuarium.json](./147471-akuarium.json) |
 | Akuatica | 34497 | [34497-akuatica.json](./34497-akuatica.json) |
+| Akudaikan | 253751 | [253751-akudaikan.json](./253751-akudaikan.json) |
 | Akudaikan Manyuuki | 56517 | [56517-akudaikan-manyuuki.json](./56517-akudaikan-manyuuki.json) |
 | Akudaikan Manyuuki: Seigi no Yaiba | 56513 | [56513-akudaikan-manyuuki-seigi-no-yaiba.json](./56513-akudaikan-manyuuki-seigi-no-yaiba.json) |
 | Akui | 184584 | [184584-akui.json](./184584-akui.json) |
@@ -6361,6 +6363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amo | 293087 | [293087-amo.json](./293087-amo.json) |
 | Amoeba Battle: Microscopic RTS Action | 131972 | [131972-amoeba-battle-microscopic-rts-action.json](./131972-amoeba-battle-microscopic-rts-action.json) |
 | Amoeba Jump | 195568 | [195568-amoeba-jump.json](./195568-amoeba-jump.json) |
+| Amoebae | 253789 | [253789-amoebae.json](./253789-amoebae.json) |
 | Amoebattle | 21733 | [21733-amoebattle.json](./21733-amoebattle.json) |
 | Amoeboid | 233213 | [233213-amoeboid.json](./233213-amoeboid.json) |
 | Amogus TD | 183857 | [183857-amogus-td.json](./183857-amogus-td.json) |
@@ -6876,6 +6879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Engine | 387370 | [387370-angel-engine.json](./387370-angel-engine.json) |
 | Angel Garden | 393606 | [393606-angel-garden.json](./393606-angel-garden.json) |
 | Angel Gate | 242241 | [242241-angel-gate.json](./242241-angel-gate.json) |
+| Angel Graffiti S: Anata he no Profile | 253767 | [253767-angel-graffiti-s-anata-he-no-profile.json](./253767-angel-graffiti-s-anata-he-no-profile.json) |
 | Angel Graffiti: Anata he no Profile | 45440 | [45440-angel-graffiti-anata-he-no-profile.json](./45440-angel-graffiti-anata-he-no-profile.json) |
 | Angel Guardian | 312161 | [312161-angel-guardian.json](./312161-angel-guardian.json) |
 | Angel Hare's Learning Adventure | 277183 | [277183-angel-hares-learning-adventure.json](./277183-angel-hares-learning-adventure.json) |
@@ -8601,6 +8605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appulse | 335232 | [335232-appulse.json](./335232-appulse.json) |
 | Aprenda Libras | 315615 | [315615-aprenda-libras.json](./315615-aprenda-libras.json) |
 | Aprende con Horacio: La Gran Aventura de las Palabras | 283755 | [283755-aprende-con-horacio-la-gran-aventura-de-las-palabras.json](./283755-aprende-con-horacio-la-gran-aventura-de-las-palabras.json) |
+| Apricity | 253741 | [253741-apricity.json](./253741-apricity.json) |
 | Apricity | 322208 | [322208-apricity.json](./322208-apricity.json) |
 | Apricity | 337960 | [337960-apricity.json](./337960-apricity.json) |
 | Apricot Kernel | 364531 | [364531-apricot-kernel.json](./364531-apricot-kernel.json) |
