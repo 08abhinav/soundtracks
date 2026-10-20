@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives+: Monstre Waltz | 388382 | [388382-g-mode-archives-monstre-waltz.json](./388382-g-mode-archives-monstre-waltz.json) |
 | G-Mode Archives+: Ridge Racer | 416050 | [416050-g-mode-archives-ridge-racer.json](./416050-g-mode-archives-ridge-racer.json) |
 | G-Mode Archives+: Saiko Mystery Series vol. 1 - Three, Mittsu no Kioki | 251472 | [251472-g-mode-archives-saiko-mystery-series-vol-1-three-mittsu-no-kioki.json](./251472-g-mode-archives-saiko-mystery-series-vol-1-three-mittsu-no-kioki.json) |
+| G-Mode Archives+: Saiko Mystery Series Vol. 2 - Angel City | 254928 | [254928-g-mode-archives-saiko-mystery-series-vol-2-angel-city.json](./254928-g-mode-archives-saiko-mystery-series-vol-2-angel-city.json) |
 | G-Mode Archives+: Saiko Mystery Series Vol.3 - Sin | 260681 | [260681-g-mode-archives-saiko-mystery-series-vol-3-sin.json](./260681-g-mode-archives-saiko-mystery-series-vol-3-sin.json) |
 | G-Mode Archives+: Saiko Mystery Series Vol.5 - Cold Rain | 276453 | [276453-g-mode-archives-saiko-mystery-series-vol-5-cold-rain.json](./276453-g-mode-archives-saiko-mystery-series-vol-5-cold-rain.json) |
 | G-Mode Archives+: Stella Deus - The Age of Alchemy | 378337 | [378337-g-mode-archives-stella-deus-the-age-of-alchemy.json](./378337-g-mode-archives-stella-deus-the-age-of-alchemy.json) |
