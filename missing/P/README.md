@@ -4415,6 +4415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piano Notes! | 89811 | [89811-piano-notes.json](./89811-piano-notes.json) |
 | Piano Play 3D | 99031 | [99031-piano-play-3d.json](./99031-piano-play-3d.json) |
 | Piano Simulator | 98323 | [98323-piano-simulator.json](./98323-piano-simulator.json) |
+| Piano Star | 219986 | [219986-piano-star.json](./219986-piano-star.json) |
 | Piano Star! | 108266 | [108266-piano-star.json](./108266-piano-star.json) |
 | Piano Tap SAO | 402338 | [402338-piano-tap-sao.json](./402338-piano-tap-sao.json) |
 | Piano Teacher | 84826 | [84826-piano-teacher.json](./84826-piano-teacher.json) |
