@@ -4462,6 +4462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Architects of the Universe: The Orbital Wars | 402294 | [402294-the-architects-of-the-universe-the-orbital-wars.json](./402294-the-architects-of-the-universe-the-orbital-wars.json) |
 | The Architects of the Universe: The Orphans | 294022 | [294022-the-architects-of-the-universe-the-orphans.json](./294022-the-architects-of-the-universe-the-orphans.json) |
 | The Archive | 387637 | [387637-the-archive.json](./387637-the-archive.json) |
+| The Archives | 244615 | [244615-the-archives.json](./244615-the-archives.json) |
 | The Archives of Evil Dr BA | 135702 | [135702-the-archives-of-evil-dr-ba.json](./135702-the-archives-of-evil-dr-ba.json) |
 | The Archivist | 372814 | [372814-the-archivist.json](./372814-the-archivist.json) |
 | The Archivist and the Revolution | 277193 | [277193-the-archivist-and-the-revolution.json](./277193-the-archivist-and-the-revolution.json) |
@@ -6125,6 +6126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The December Effect | 163766 | [163766-the-december-effect.json](./163766-the-december-effect.json) |
 | The December Job | 386871 | [386871-the-december-job.json](./386871-the-december-job.json) |
 | The Decimation of Olarath | 57761 | [57761-the-decimation-of-olarath.json](./57761-the-decimation-of-olarath.json) |
+| The Declassifier | 244624 | [244624-the-declassifier.json](./244624-the-declassifier.json) |
 | The Decline of Grandidier | 395592 | [395592-the-decline-of-grandidier.json](./395592-the-decline-of-grandidier.json) |
 | The Decree | 417325 | [417325-the-decree.json](./417325-the-decree.json) |
 | The Deed | 26467 | [26467-the-deed.json](./26467-the-deed.json) |
@@ -11591,6 +11593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Reeve | 298458 | [298458-the-reeve.json](./298458-the-reeve.json) |
 | The Refuge | 125097 | [125097-the-refuge.json](./125097-the-refuge.json) |
 | The Reggae Operation | 188119 | [188119-the-reggae-operation.json](./188119-the-reggae-operation.json) |
+| The Regions | 244623 | [244623-the-regions.json](./244623-the-regions.json) |
 | The Regreening | 350554 | [350554-the-regreening.json](./350554-the-regreening.json) |
 | The Regular: Same Dog Every Time | 411750 | [411750-the-regular-same-dog-every-time.json](./411750-the-regular-same-dog-every-time.json) |
 | The Reign of an Early Fairy Sovereign | 56267 | [56267-the-reign-of-an-early-fairy-sovereign.json](./56267-the-reign-of-an-early-fairy-sovereign.json) |
@@ -15252,6 +15255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Mazeketeers | 192869 | [192869-three-mazeketeers.json](./192869-three-mazeketeers.json) |
 | Three Men's Morris | 384169 | [384169-three-mens-morris.json](./384169-three-mens-morris.json) |
 | Three Methods to Unseat a Fairy Monarch | 360144 | [360144-three-methods-to-unseat-a-fairy-monarch.json](./360144-three-methods-to-unseat-a-fairy-monarch.json) |
+| Three Minutes to Eight | 244610 | [244610-three-minutes-to-eight.json](./244610-three-minutes-to-eight.json) |
 | Three Minutes With Your Dog | 264453 | [264453-three-minutes-with-your-dog.json](./264453-three-minutes-with-your-dog.json) |
 | Three Misses Confectionery | 398455 | [398455-three-misses-confectionery.json](./398455-three-misses-confectionery.json) |
 | Three Musketeers | 206631 | [206631-three-musketeers.json](./206631-three-musketeers.json) |
@@ -17632,6 +17636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Sim | 181223 | [181223-tiny-sim.json](./181223-tiny-sim.json) |
 | Tiny Sokoban | 228391 | [228391-tiny-sokoban.json](./228391-tiny-sokoban.json) |
 | Tiny Solar System | 221150 | [221150-tiny-solar-system.json](./221150-tiny-solar-system.json) |
+| Tiny Squads | 244628 | [244628-tiny-squads.json](./244628-tiny-squads.json) |
 | Tiny Starfighters | 317413 | [317413-tiny-starfighters.json](./317413-tiny-starfighters.json) |
 | Tiny Step | 267333 | [267333-tiny-step.json](./267333-tiny-step.json) |
 | Tiny Strife | 158083 | [158083-tiny-strife.json](./158083-tiny-strife.json) |
@@ -17652,6 +17657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Tengu Tactics | 358444 | [358444-tiny-tengu-tactics.json](./358444-tiny-tengu-tactics.json) |
 | Tiny Tennis | 247173 | [247173-tiny-tennis.json](./247173-tiny-tennis.json) |
 | Tiny Terraces | 311476 | [311476-tiny-terraces.json](./311476-tiny-terraces.json) |
+| Tiny Terrariums | 244629 | [244629-tiny-terrariums.json](./244629-tiny-terrariums.json) |
 | Tiny Terry's Turbo Trip | 253106 | [253106-tiny-terrys-turbo-trip.json](./253106-tiny-terrys-turbo-trip.json) |
 | Tiny Thor | 28295 | [28295-tiny-thor.json](./28295-tiny-thor.json) |
 | Tiny Tied | 244843 | [244843-tiny-tied.json](./244843-tiny-tied.json) |
@@ -20252,6 +20258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Quest | 58626 | [58626-tower-quest.json](./58626-tower-quest.json) |
 | Tower Shield | 387588 | [387588-tower-shield.json](./387588-tower-shield.json) |
 | Tower Skydiver | 226436 | [226436-tower-skydiver.json](./226436-tower-skydiver.json) |
+| Tower Song | 244612 | [244612-tower-song.json](./244612-tower-song.json) |
 | Tower Stack | 258031 | [258031-tower-stack.json](./258031-tower-stack.json) |
 | Tower Stack | 265743 | [265743-tower-stack.json](./265743-tower-stack.json) |
 | Tower Stacker | 166613 | [166613-tower-stacker.json](./166613-tower-stacker.json) |
