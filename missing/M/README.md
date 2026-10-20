@@ -5581,6 +5581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 3 | 198813 | [198813-mega-man-3.json](./198813-mega-man-3.json) |
 | Mega Man 3 | 236706 | [236706-mega-man-3.json](./236706-mega-man-3.json) |
 | Mega Man 3 Improvement | 219088 | [219088-mega-man-3-improvement.json](./219088-mega-man-3-improvement.json) |
+| Mega Man 3 Revamped | 218313 | [218313-mega-man-3-revamped.json](./218313-mega-man-3-revamped.json) |
 | Mega Man 30th Anniversary Bundle | 110814 | [110814-mega-man-30th-anniversary-bundle.json](./110814-mega-man-30th-anniversary-bundle.json) |
 | Mega Man 4 Voyage: Blue Version | 252392 | [252392-mega-man-4-voyage-blue-version.json](./252392-mega-man-4-voyage-blue-version.json) |
 | Mega Man 4: Ridley X Hack 13 | 276029 | [276029-mega-man-4-ridley-x-hack-13.json](./276029-mega-man-4-ridley-x-hack-13.json) |
@@ -7075,6 +7076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Plane - Best Idle Game | 106477 | [106477-merge-plane-best-idle-game.json](./106477-merge-plane-best-idle-game.json) |
 | Merge Rainbow Friend | 224002 | [224002-merge-rainbow-friend.json](./224002-merge-rainbow-friend.json) |
 | Merge Rush Z | 299408 | [299408-merge-rush-z.json](./299408-merge-rush-z.json) |
+| Merge Stories | 218318 | [218318-merge-stories.json](./218318-merge-stories.json) |
 | Merge Studio: Fashion Makeover | 315111 | [315111-merge-studio-fashion-makeover.json](./315111-merge-studio-fashion-makeover.json) |
 | Merge Surge | 392426 | [392426-merge-surge.json](./392426-merge-surge.json) |
 | Merge Survival: Wasteland | 250175 | [250175-merge-survival-wasteland.json](./250175-merge-survival-wasteland.json) |
@@ -7652,6 +7654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro: Last Light - Faction Pack | 128647 | [128647-metro-last-light-faction-pack.json](./128647-metro-last-light-faction-pack.json) |
 | Metro: Last Light - Limited Edition | 47429 | [47429-metro-last-light-limited-edition.json](./47429-metro-last-light-limited-edition.json) |
 | Metro.Siberia | 283743 | [283743-metro-siberia.json](./283743-metro-siberia.json) |
+| Metrocubevania | 218309 | [218309-metrocubevania.json](./218309-metrocubevania.json) |
 | Metrogether | 326385 | [326385-metrogether.json](./326385-metrogether.json) |
 | Metroid | 1101 | [1101-metroid.json](./1101-metroid.json) |
 | Metroid | 342602 | [342602-metroid.json](./342602-metroid.json) |
@@ -8629,6 +8632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Math Carnival Countdown | 129156 | [129156-mighty-math-carnival-countdown.json](./129156-mighty-math-carnival-countdown.json) |
 | Mighty Math Zoo Zillions | 313286 | [313286-mighty-math-zoo-zillions.json](./313286-mighty-math-zoo-zillions.json) |
 | Mighty Math: Calculating Crew | 313278 | [313278-mighty-math-calculating-crew.json](./313278-mighty-math-calculating-crew.json) |
+| Mighty Max | 218349 | [218349-mighty-max.json](./218349-mighty-max.json) |
 | Mighty Metas | 316467 | [316467-mighty-metas.json](./316467-mighty-metas.json) |
 | Mighty Mighty Missile! | 128890 | [128890-mighty-mighty-missile.json](./128890-mighty-mighty-missile.json) |
 | Mighty Mike (Power Pete) | 72658 | [72658-mighty-mike-power-pete.json](./72658-mighty-mike-power-pete.json) |
@@ -10690,6 +10694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB 2005 | 24132 | [24132-mlb-2005.json](./24132-mlb-2005.json) |
 | MLB 2006 | 28197 | [28197-mlb-2006.json](./28197-mlb-2006.json) |
 | MLB 2K10 DS | 21157 | [21157-mlb-2k10-ds.json](./21157-mlb-2k10-ds.json) |
+| MLB 2K11 | 218304 | [218304-mlb-2k11.json](./218304-mlb-2k11.json) |
 | MLB 2K13 | 47409 | [47409-mlb-2k13.json](./47409-mlb-2k13.json) |
 | MLB 2K13 | 7064 | [7064-mlb-2k13.json](./7064-mlb-2k13.json) |
 | MLB 9 Innings | 304051 | [304051-mlb-9-innings.json](./304051-mlb-9-innings.json) |
@@ -14162,6 +14167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Holmes: The Milverton Plot - Collector's Edition | 337244 | [337244-ms-holmes-the-milverton-plot-collectors-edition.json](./337244-ms-holmes-the-milverton-plot-collectors-edition.json) |
 | Ms. Holmes: The Monster of the Baskervilles - Collector's Edition | 119688 | [119688-ms-holmes-the-monster-of-the-baskervilles-collectors-edition.json](./119688-ms-holmes-the-monster-of-the-baskervilles-collectors-edition.json) |
 | Ms. Match | 313866 | [313866-ms-match.json](./313866-ms-match.json) |
+| Ms. Pac Man | 218321 | [218321-ms-pac-man.json](./218321-ms-pac-man.json) |
 | Ms. Pac Person | 209155 | [209155-ms-pac-person.json](./209155-ms-pac-person.json) |
 | Ms. Pac-Man | 131815 | [131815-ms-pac-man.json](./131815-ms-pac-man.json) |
 | Ms. Pac-Man | 198832 | [198832-ms-pac-man.json](./198832-ms-pac-man.json) |
