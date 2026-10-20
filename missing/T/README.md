@@ -271,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Chronicle | 96515 | [96515-tactical-chronicle.json](./96515-tactical-chronicle.json) |
 | Tactical Combat Department | 164059 | [164059-tactical-combat-department.json](./164059-tactical-combat-department.json) |
 | Tactical Craft Online | 34125 | [34125-tactical-craft-online.json](./34125-tactical-craft-online.json) |
+| Tactical Dual Pack: Necromunda - Underhive Wars & Space Hulk: Tactics | 223872 | [223872-tactical-dual-pack-necromunda-underhive-wars-and-space-hulk-tactics.json](./223872-tactical-dual-pack-necromunda-underhive-wars-and-space-hulk-tactics.json) |
 | Tactical Manager | 182375 | [182375-tactical-manager.json](./182375-tactical-manager.json) |
 | Tactical Manager | 86220 | [86220-tactical-manager.json](./86220-tactical-manager.json) |
 | Tactical Manager 2 | 182351 | [182351-tactical-manager-2.json](./182351-tactical-manager-2.json) |
@@ -314,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactics Ogre: The Knight of Lodis | 6635 | [6635-tactics-ogre-the-knight-of-lodis.json](./6635-tactics-ogre-the-knight-of-lodis.json) |
 | Tactics Returners | 345508 | [345508-tactics-returners.json](./345508-tactics-returners.json) |
 | Tactics Rogue | 109709 | [109709-tactics-rogue.json](./109709-tactics-rogue.json) |
+| Tactics Saga | 223896 | [223896-tactics-saga.json](./223896-tactics-saga.json) |
 | Tactics Unlimited | 332564 | [332564-tactics-unlimited.json](./332564-tactics-unlimited.json) |
 | Tactics V: "Obsidian Brigade" | 119598 | [119598-tactics-v-obsidian-brigade.json](./119598-tactics-v-obsidian-brigade.json) |
 | Tactics: Bludgeons Blessing | 44130 | [44130-tactics-bludgeons-blessing.json](./44130-tactics-bludgeons-blessing.json) |
@@ -2238,6 +2240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TDF: Kaijuu Daisensou | 410188 | [410188-tdf-kaijuu-daisensou.json](./410188-tdf-kaijuu-daisensou.json) |
 | TDF: Kaijuu Daisensou | 410193 | [410193-tdf-kaijuu-daisensou.json](./410193-tdf-kaijuu-daisensou.json) |
 | TDF: Kaijuu Daisensou | 410194 | [410194-tdf-kaijuu-daisensou.json](./410194-tdf-kaijuu-daisensou.json) |
+| TDK Arena | 223895 | [223895-tdk-arena.json](./223895-tdk-arena.json) |
 | TDP5: Arena 3D | 35639 | [35639-tdp5-arena-3d.json](./35639-tdp5-arena-3d.json) |
 | TDS | 287793 | [287793-tds.json](./287793-tds.json) |
 | TDS Legacy | 331381 | [331381-tds-legacy.json](./331381-tds-legacy.json) |
@@ -8684,6 +8687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kill Zone | 235827 | [235827-the-kill-zone.json](./235827-the-kill-zone.json) |
 | The Killbox: Arena Combat | 74293 | [74293-the-killbox-arena-combat.json](./74293-the-killbox-arena-combat.json) |
 | The Killbox: Arena Combat US | 86976 | [86976-the-killbox-arena-combat-us.json](./86976-the-killbox-arena-combat-us.json) |
+| The Killbox: Leo | 223874 | [223874-the-killbox-leo.json](./223874-the-killbox-leo.json) |
 | The Killing Antidote | 287004 | [287004-the-killing-antidote.json](./287004-the-killing-antidote.json) |
 | The Killing Game of Thirst | 360903 | [360903-the-killing-game-of-thirst.json](./360903-the-killing-game-of-thirst.json) |
 | The Kind Camomille | 138494 | [138494-the-kind-camomille.json](./138494-the-kind-camomille.json) |
@@ -8974,6 +8978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Day of Adolf | 388884 | [388884-the-last-day-of-adolf.json](./388884-the-last-day-of-adolf.json) |
 | The Last day of Han Dynasty | 284602 | [284602-the-last-day-of-han-dynasty.json](./284602-the-last-day-of-han-dynasty.json) |
 | The Last Days | 147772 | [147772-the-last-days.json](./147772-the-last-days.json) |
+| The Last Days | 223873 | [223873-the-last-days.json](./223873-the-last-days.json) |
 | The Last Days of Friendship Valley | 289999 | [289999-the-last-days-of-friendship-valley.json](./289999-the-last-days-of-friendship-valley.json) |
 | The Last Days of Sodom | 192662 | [192662-the-last-days-of-sodom.json](./192662-the-last-days-of-sodom.json) |
 | The Last Days of the Third Age | 356169 | [356169-the-last-days-of-the-third-age.json](./356169-the-last-days-of-the-third-age.json) |
@@ -13950,6 +13955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vanished Sister | 283844 | [283844-the-vanished-sister.json](./283844-the-vanished-sister.json) |
 | The Vanished Soul | 318063 | [318063-the-vanished-soul.json](./318063-the-vanished-soul.json) |
 | The Vanishing | 317969 | [317969-the-vanishing.json](./317969-the-vanishing.json) |
+| The Vanishing Hitchhiker | 223866 | [223866-the-vanishing-hitchhiker.json](./223866-the-vanishing-hitchhiker.json) |
 | The Vanishing of Ethan Carter Redux | 102123 | [102123-the-vanishing-of-ethan-carter-redux.json](./102123-the-vanishing-of-ethan-carter-redux.json) |
 | The Vanishing of Ethan Carter VR | 19065 | [19065-the-vanishing-of-ethan-carter-vr.json](./19065-the-vanishing-of-ethan-carter-vr.json) |
 | The Vanishing Train | 380807 | [380807-the-vanishing-train.json](./380807-the-vanishing-train.json) |
@@ -15429,6 +15435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throne of Glass | 384268 | [384268-throne-of-glass.json](./384268-throne-of-glass.json) |
 | Throne of Gods | 124692 | [124692-throne-of-gods.json](./124692-throne-of-gods.json) |
 | Throne of Magic | 108502 | [108502-throne-of-magic.json](./108502-throne-of-magic.json) |
+| Throne of Maiden | 223875 | [223875-throne-of-maiden.json](./223875-throne-of-maiden.json) |
 | Throne of Shadows | 384271 | [384271-throne-of-shadows.json](./384271-throne-of-shadows.json) |
 | Throne of the Dead VR: Halloween | 161726 | [161726-throne-of-the-dead-vr-halloween.json](./161726-throne-of-the-dead-vr-halloween.json) |
 | Throne of Valoria | 323194 | [323194-throne-of-valoria.json](./323194-throne-of-valoria.json) |
@@ -15684,6 +15691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tic Tac Toe (Cellular) | 102843 | [102843-tic-tac-toe-cellular.json](./102843-tic-tac-toe-cellular.json) |
 | Tic Tac Toe 3D 2014 HD | 106744 | [106744-tic-tac-toe-3d-2014-hd.json](./106744-tic-tac-toe-3d-2014-hd.json) |
 | Tic Tac Toe Battle Royale | 180712 | [180712-tic-tac-toe-battle-royale.json](./180712-tic-tac-toe-battle-royale.json) |
+| Tic Tac Toe Glow | 223876 | [223876-tic-tac-toe-glow.json](./223876-tic-tac-toe-glow.json) |
 | Tic Tac Toe Plus | 100991 | [100991-tic-tac-toe-plus.json](./100991-tic-tac-toe-plus.json) |
 | Tic Tac Toe World | 387339 | [387339-tic-tac-toe-world.json](./387339-tic-tac-toe-world.json) |
 | Tic Tac Toe World Championship HD | 87291 | [87291-tic-tac-toe-world-championship-hd.json](./87291-tic-tac-toe-world-championship-hd.json) |
@@ -17566,6 +17574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tintin in Tibet | 249149 | [249149-tintin-in-tibet.json](./249149-tintin-in-tibet.json) |
 | Tintin on the Moon | 12797 | [12797-tintin-on-the-moon.json](./12797-tintin-on-the-moon.json) |
 | Tintin on the Moon | 316928 | [316928-tintin-on-the-moon.json](./316928-tintin-on-the-moon.json) |
+| Tintin Reporter: Cigars of the Pharaoh | 223863 | [223863-tintin-reporter-cigars-of-the-pharaoh.json](./223863-tintin-reporter-cigars-of-the-pharaoh.json) |
 | Tintin Reporter: Cigars of the Pharaoh - Limited Edition | 242368 | [242368-tintin-reporter-cigars-of-the-pharaoh-limited-edition.json](./242368-tintin-reporter-cigars-of-the-pharaoh-limited-edition.json) |
 | TinTin: Destination Adventure | 43902 | [43902-tintin-destination-adventure.json](./43902-tintin-destination-adventure.json) |
 | Tinting Time | 216500 | [216500-tinting-time.json](./216500-tinting-time.json) |
@@ -20265,6 +20274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Climb | 125754 | [125754-tower-climb.json](./125754-tower-climb.json) |
 | Tower climber | 90193 | [90193-tower-climber.json](./90193-tower-climber.json) |
 | Tower Command | 370908 | [370908-tower-command.json](./370908-tower-command.json) |
+| Tower Crusher! | 223877 | [223877-tower-crusher.json](./223877-tower-crusher.json) |
 | Tower Dash | 251508 | [251508-tower-dash.json](./251508-tower-dash.json) |
 | Tower Defence | 80216 | [80216-tower-defence.json](./80216-tower-defence.json) |
 | Tower Defence Engineer | 323248 | [323248-tower-defence-engineer.json](./323248-tower-defence-engineer.json) |
@@ -23099,6 +23109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrickStyle Jr. | 227757 | [227757-trickstyle-jr.json](./227757-trickstyle-jr.json) |
 | Tricky and the Dream Caster | 316626 | [316626-tricky-and-the-dream-caster.json](./316626-tricky-and-the-dream-caster.json) |
 | Tricky Ball | 102279 | [102279-tricky-ball.json](./102279-tricky-ball.json) |
+| Tricky Brain Story: DOP Puzzle | 223878 | [223878-tricky-brain-story-dop-puzzle.json](./223878-tricky-brain-story-dop-puzzle.json) |
 | Tricky Challenge 2 | 90839 | [90839-tricky-challenge-2.json](./90839-tricky-challenge-2.json) |
 | Tricky Challenge 3 | 103875 | [103875-tricky-challenge-3.json](./103875-tricky-challenge-3.json) |
 | Tricky Cow | 286753 | [286753-tricky-cow.json](./286753-tricky-cow.json) |
@@ -23723,6 +23734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator: Delivery in City | 375410 | [375410-truck-simulator-delivery-in-city.json](./375410-truck-simulator-delivery-in-city.json) |
 | Truck Simulator: Driving School 2024 | 276862 | [276862-truck-simulator-driving-school-2024.json](./276862-truck-simulator-driving-school-2024.json) |
 | Truck Simulator: European Roads | 383514 | [383514-truck-simulator-european-roads.json](./383514-truck-simulator-european-roads.json) |
+| Truck Simulator: Offroad | 223879 | [223879-truck-simulator-offroad.json](./223879-truck-simulator-offroad.json) |
 | Truck Simulator: World | 236249 | [236249-truck-simulator-world.json](./236249-truck-simulator-world.json) |
 | Truck Space | 220829 | [220829-truck-space.json](./220829-truck-space.json) |
 | Truck Trials 2 | 175379 | [175379-truck-trials-2.json](./175379-truck-trials-2.json) |
@@ -23800,6 +23812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True or False: The World | 407276 | [407276-true-or-false-the-world.json](./407276-true-or-false-the-world.json) |
 | True Pinball | 9131 | [9131-true-pinball.json](./9131-true-pinball.json) |
 | True Reporter | 110292 | [110292-true-reporter.json](./110292-true-reporter.json) |
+| True Speed | 223880 | [223880-true-speed.json](./223880-true-speed.json) |
 | True Swing Golf | 20493 | [20493-true-swing-golf.json](./20493-true-swing-golf.json) |
 | True Swing Golf Express | 84482 | [84482-true-swing-golf-express.json](./84482-true-swing-golf-express.json) |
 | True Thief | 340278 | [340278-true-thief.json](./340278-true-thief.json) |
@@ -24644,6 +24657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Infiniforest | 408161 | [408161-twilight-infiniforest.json](./408161-twilight-infiniforest.json) |
 | Twilight Insanity | 65485 | [65485-twilight-insanity.json](./65485-twilight-insanity.json) |
 | Twilight Kingdom | 314123 | [314123-twilight-kingdom.json](./314123-twilight-kingdom.json) |
+| Twilight Lore | 223887 | [223887-twilight-lore.json](./223887-twilight-lore.json) |
 | Twilight Lovers | 298983 | [298983-twilight-lovers.json](./298983-twilight-lovers.json) |
 | Twilight Mahjongg | 73225 | [73225-twilight-mahjongg.json](./73225-twilight-mahjongg.json) |
 | Twilight Manor | 289929 | [289929-twilight-manor.json](./289929-twilight-manor.json) |
