@@ -2885,6 +2885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Game | 243081 | [243081-cat-game.json](./243081-cat-game.json) |
 | Cat Game | 282580 | [282580-cat-game.json](./282580-cat-game.json) |
 | Cat Game: The Cats Collector! | 239919 | [239919-cat-game-the-cats-collector.json](./239919-cat-game-the-cats-collector.json) |
+| Cat Gamer | 247316 | [247316-cat-gamer.json](./247316-cat-gamer.json) |
 | Cat Gentlemans Play: Insult Spinner 10 Cents | 128626 | [128626-cat-gentlemans-play-insult-spinner-10-cents.json](./128626-cat-gentlemans-play-insult-spinner-10-cents.json) |
 | Cat Gets Medieval | 144972 | [144972-cat-gets-medieval.json](./144972-cat-gets-medieval.json) |
 | Cat Girl Survivor | 295771 | [295771-cat-girl-survivor.json](./295771-cat-girl-survivor.json) |
@@ -3629,6 +3630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavern Sweeper | 328334 | [328334-cavern-sweeper.json](./328334-cavern-sweeper.json) |
 | Caverna | 372829 | [372829-caverna.json](./372829-caverna.json) |
 | Caverna do Podrão | 332290 | [332290-caverna-do-podrao.json](./332290-caverna-do-podrao.json) |
+| Cavernas de Marte | 247353 | [247353-cavernas-de-marte.json](./247353-cavernas-de-marte.json) |
 | Cavernous | 414868 | [414868-cavernous.json](./414868-cavernous.json) |
 | Cavernous Wastes | 55872 | [55872-cavernous-wastes.json](./55872-cavernous-wastes.json) |
 | Caverns | 235753 | [235753-caverns.json](./235753-caverns.json) |
@@ -4492,6 +4494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charge! | 219101 | [219101-charge.json](./219101-charge.json) |
 | Charge! | 380071 | [380071-charge.json](./380071-charge.json) |
 | Charge! Tank Squad | 59392 | [59392-charge-tank-squad.json](./59392-charge-tank-squad.json) |
+| Charged: RC Racing - Starter Edition | 247322 | [247322-charged-rc-racing-starter-edition.json](./247322-charged-rc-racing-starter-edition.json) |
 | Charged! | 258736 | [258736-charged.json](./258736-charged.json) |
 | Charger Escape | 383373 | [383373-charger-escape.json](./383373-charger-escape.json) |
 | Charging Out Dead Zone | 207569 | [207569-charging-out-dead-zone.json](./207569-charging-out-dead-zone.json) |
@@ -7597,6 +7600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clickonomy | 345621 | [345621-clickonomy.json](./345621-clickonomy.json) |
 | Clickout | 302813 | [302813-clickout.json](./302813-clickout.json) |
 | ClickPlay 3 | 339155 | [339155-clickplay-3.json](./339155-clickplay-3.json) |
+| Clickpocalypse II | 247311 | [247311-clickpocalypse-ii.json](./247311-clickpocalypse-ii.json) |
 | Clickr | 10095 | [10095-clickr.json](./10095-clickr.json) |
 | ClickRaid | 50512 | [50512-clickraid.json](./50512-clickraid.json) |
 | ClickRaid2 | 120019 | [120019-clickraid2.json](./120019-clickraid2.json) |
@@ -9399,6 +9403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combo! | 184405 | [184405-combo.json](./184405-combo.json) |
 | ComboChain Pulse | 408712 | [408712-combochain-pulse.json](./408712-combochain-pulse.json) |
 | Combohead | 167368 | [167368-combohead.json](./167368-combohead.json) |
+| Comboio Espacial | 247354 | [247354-comboio-espacial.json](./247354-comboio-espacial.json) |
 | Combolite | 338675 | [338675-combolite.json](./338675-combolite.json) |
 | Combos | 37290 | [37290-combos.json](./37290-combos.json) |
 | Combotronica | 373093 | [373093-combotronica.json](./373093-combotronica.json) |
@@ -13221,6 +13226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Princess | 149499 | [149499-cross-princess.json](./149499-cross-princess.json) |
 | Cross Reunion | 237652 | [237652-cross-reunion.json](./237652-cross-reunion.json) |
 | Cross Review World | 178951 | [178951-cross-review-world.json](./178951-cross-review-world.json) |
+| Cross Romance: Koi to Mahjong to Hanafuda to | 247346 | [247346-cross-romance-koi-to-mahjong-to-hanafuda-to.json](./247346-cross-romance-koi-to-mahjong-to-hanafuda-to.json) |
 | Cross Seekers | 258987 | [258987-cross-seekers.json](./258987-cross-seekers.json) |
 | Cross Set | 34114 | [34114-cross-set.json](./34114-cross-set.json) |
 | Cross Set Infinity | 74497 | [74497-cross-set-infinity.json](./74497-cross-set-infinity.json) |
