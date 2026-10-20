@@ -3785,6 +3785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rén Líng Shìwùsuǒ: Yī Chǎng Kěyǐ Wǎnjiù de Bēijù | 316964 | [316964-ren-ling-shiwusuo-yi-chang-keyi-wanjiu-de-beiju.json](./316964-ren-ling-shiwusuo-yi-chang-keyi-wanjiu-de-beiju.json) |
 | Ren the Summoner and the Erotic Dungeon | 196127 | [196127-ren-the-summoner-and-the-erotic-dungeon.json](./196127-ren-the-summoner-and-the-erotic-dungeon.json) |
 | Ren Ti Tu Pu | 130972 | [130972-ren-ti-tu-pu.json](./130972-ren-ti-tu-pu.json) |
+| Ren'ai Shoshinsha | 221046 | [221046-renai-shoshinsha.json](./221046-renai-shoshinsha.json) |
 | Ren'Py Chess | 184300 | [184300-renpy-chess.json](./184300-renpy-chess.json) |
 | Ren'Py Rhythm Game | 184387 | [184387-renpy-rhythm-game.json](./184387-renpy-rhythm-game.json) |
 | Ren's Demons I | 202681 | [202681-rens-demons-i.json](./202681-rens-demons-i.json) |
