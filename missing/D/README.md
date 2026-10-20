@@ -1032,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark City: Budapest - Collector's Edition | 397158 | [397158-dark-city-budapest-collectors-edition.json](./397158-dark-city-budapest-collectors-edition.json) |
 | Dark City: Dublin | 139760 | [139760-dark-city-dublin.json](./139760-dark-city-dublin.json) |
 | Dark City: International Intrigue | 244198 | [244198-dark-city-international-intrigue.json](./244198-dark-city-international-intrigue.json) |
+| Dark City: International Intrigue - Collector's Edition | 224982 | [224982-dark-city-international-intrigue-collectors-edition.json](./224982-dark-city-international-intrigue-collectors-edition.json) |
 | Dark City: Kyiv | 397180 | [397180-dark-city-kyiv.json](./397180-dark-city-kyiv.json) |
 | Dark City: Kyiv - Collector's Edition | 268313 | [268313-dark-city-kyiv-collectors-edition.json](./268313-dark-city-kyiv-collectors-edition.json) |
 | Dark City: London | 376568 | [376568-dark-city-london.json](./376568-dark-city-london.json) |
@@ -1247,6 +1248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Mine | 343210 | [343210-dark-mine.json](./343210-dark-mine.json) |
 | Dark Mirror | 270084 | [270084-dark-mirror.json](./270084-dark-mirror.json) |
 | Dark Mist | 21818 | [21818-dark-mist.json](./21818-dark-mist.json) |
+| Dark Mist | 224945 | [224945-dark-mist.json](./224945-dark-mist.json) |
 | Dark Mist - The Wizard Vanishes | 141213 | [141213-dark-mist-the-wizard-vanishes.json](./141213-dark-mist-the-wizard-vanishes.json) |
 | Dark Mist- The Wizard Vanishes | 73684 | [73684-dark-mist-the-wizard-vanishes.json](./73684-dark-mist-the-wizard-vanishes.json) |
 | Dark Moon Deities | 339366 | [339366-dark-moon-deities.json](./339366-dark-moon-deities.json) |
@@ -12957,6 +12959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Tales SNES | 377743 | [377743-duck-tales-snes.json](./377743-duck-tales-snes.json) |
 | Duck Tales ZX: Webby to the Rescue! | 279736 | [279736-duck-tales-zx-webby-to-the-rescue.json](./279736-duck-tales-zx-webby-to-the-rescue.json) |
 | Duck the Miner | 389524 | [389524-duck-the-miner.json](./389524-duck-the-miner.json) |
+| Duck Think Outside the Flock | 224949 | [224949-duck-think-outside-the-flock.json](./224949-duck-think-outside-the-flock.json) |
 | Duck Turnip | 228963 | [228963-duck-turnip.json](./228963-duck-turnip.json) |
 | Duck vs. Evil | 350453 | [350453-duck-vs-evil.json](./350453-duck-vs-evil.json) |
 | Duck Warfare | 96811 | [96811-duck-warfare.json](./96811-duck-warfare.json) |
