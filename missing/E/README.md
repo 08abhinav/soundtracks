@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eagle Plan | 70867 | [70867-eagle-plan.json](./70867-eagle-plan.json) |
 | Eagle Rising | 356154 | [356154-eagle-rising.json](./356154-eagle-rising.json) |
 | Eagle Simulator | 186817 | [186817-eagle-simulator.json](./186817-eagle-simulator.json) |
+| Eagle Simulator | 219468 | [219468-eagle-simulator.json](./219468-eagle-simulator.json) |
 | Eagle Simulator | 86727 | [86727-eagle-simulator.json](./86727-eagle-simulator.json) |
 | Eagle Summoner | 307825 | [307825-eagle-summoner.json](./307825-eagle-summoner.json) |
 | Eagle: Special Forces | 333383 | [333383-eagle-special-forces.json](./333383-eagle-special-forces.json) |
@@ -1938,6 +1939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Plus | 100209 | [100209-elite-plus.json](./100209-elite-plus.json) |
 | Elite Shooter: Sniper Killer | 175696 | [175696-elite-shooter-sniper-killer.json](./175696-elite-shooter-sniper-killer.json) |
 | Elite Sniper Shooter 2 | 245215 | [245215-elite-sniper-shooter-2.json](./245215-elite-sniper-shooter-2.json) |
+| Elite Soldier Shooter | 219452 | [219452-elite-soldier-shooter.json](./219452-elite-soldier-shooter.json) |
 | Elite Soldier: Modern Gun Shooter and Tank Combat | 272490 | [272490-elite-soldier-modern-gun-shooter-and-tank-combat.json](./272490-elite-soldier-modern-gun-shooter-and-tank-combat.json) |
 | Elite Sports Gaming Football | 358359 | [358359-elite-sports-gaming-football.json](./358359-elite-sports-gaming-football.json) |
 | Elite Star Fighter | 117506 | [117506-elite-star-fighter.json](./117506-elite-star-fighter.json) |
@@ -2208,6 +2210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embryogenesis | 376614 | [376614-embryogenesis.json](./376614-embryogenesis.json) |
 | Embuscade | 179734 | [179734-embuscade.json](./179734-embuscade.json) |
 | EmDePloy | 372727 | [372727-emdeploy.json](./372727-emdeploy.json) |
+| Eme-Man | 219445 | [219445-eme-man.json](./219445-eme-man.json) |
 | Ememe | 280291 | [280291-ememe.json](./280291-ememe.json) |
 | Emerald | 375415 | [375415-emerald.json](./375415-emerald.json) |
 | Emerald & Mrs. Ghost: The Ship that Never Returns | 113591 | [113591-emerald-and-mrs-ghost-the-ship-that-never-returns.json](./113591-emerald-and-mrs-ghost-the-ship-that-never-returns.json) |
