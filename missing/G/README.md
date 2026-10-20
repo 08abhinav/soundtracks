@@ -629,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Angel Game Boy Advance: Moridakusan Tenshi no Full Course Okawari Jiyuu | 49562 | [49562-galaxy-angel-game-boy-advance-moridakusan-tenshi-no-full-course-okawari-jiyuu.json](./49562-galaxy-angel-game-boy-advance-moridakusan-tenshi-no-full-course-okawari-jiyuu.json) |
 | Galaxy Angel: Eternal Lovers | 79291 | [79291-galaxy-angel-eternal-lovers.json](./79291-galaxy-angel-eternal-lovers.json) |
 | Galaxy Annihilation | 36924 | [36924-galaxy-annihilation.json](./36924-galaxy-annihilation.json) |
+| Galaxy Arena | 208188 | [208188-galaxy-arena.json](./208188-galaxy-arena.json) |
 | Galaxy At War | 292976 | [292976-galaxy-at-war.json](./292976-galaxy-at-war.json) |
 | Galaxy at War Online | 39173 | [39173-galaxy-at-war-online.json](./39173-galaxy-at-war-online.json) |
 | Galaxy Ball | 96882 | [96882-galaxy-ball.json](./96882-galaxy-ball.json) |
@@ -1251,6 +1252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gang of Dragon | 381227 | [381227-gang-of-dragon.json](./381227-gang-of-dragon.json) |
 | Gang of Four | 127053 | [127053-gang-of-four.json](./127053-gang-of-four.json) |
 | Gang of Frogs | 369326 | [369326-gang-of-frogs.json](./369326-gang-of-frogs.json) |
+| Gang Start | 208178 | [208178-gang-start.json](./208178-gang-start.json) |
 | Gang Wars | 150778 | [150778-gang-wars.json](./150778-gang-wars.json) |
 | GangBusters | 46773 | [46773-gangbusters.json](./46773-gangbusters.json) |
 | Gangnam City Deluxe | 242207 | [242207-gangnam-city-deluxe.json](./242207-gangnam-city-deluxe.json) |
@@ -1709,6 +1711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gather CCG | 401543 | [401543-gather-ccg.json](./401543-gather-ccg.json) |
 | Gather the Gems! | 100013 | [100013-gather-the-gems.json](./100013-gather-the-gems.json) |
 | Gathera | 405563 | [405563-gathera.json](./405563-gathera.json) |
+| Gatherers | 208179 | [208179-gatherers.json](./208179-gatherers.json) |
 | Gathering Our Childhoods | 249756 | [249756-gathering-our-childhoods.json](./249756-gathering-our-childhoods.json) |
 | GatherX | 362937 | [362937-gatherx.json](./362937-gatherx.json) |
 | Gatlin' | 122790 | [122790-gatlin.json](./122790-gatlin.json) |
@@ -2494,6 +2497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Wars Portable | 339691 | [339691-geometry-wars-portable.json](./339691-geometry-wars-portable.json) |
 | Geometry Wars: Retro Evolved | 15756 | [15756-geometry-wars-retro-evolved.json](./15756-geometry-wars-retro-evolved.json) |
 | Geometry Waves | 195565 | [195565-geometry-waves.json](./195565-geometry-waves.json) |
+| Geometry Worlds 2 | 208180 | [208180-geometry-worlds-2.json](./208180-geometry-worlds-2.json) |
 | Geomeun Jeonseol | 220282 | [220282-geomeun-jeonseol.json](./220282-geomeun-jeonseol.json) |
 | Geomoth Boot Sequence | 289312 | [289312-geomoth-boot-sequence.json](./289312-geomoth-boot-sequence.json) |
 | Geon | 52226 | [52226-geon.json](./52226-geon.json) |
@@ -3373,6 +3377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl with a Big Sword | 110174 | [110174-girl-with-a-big-sword.json](./110174-girl-with-a-big-sword.json) |
 | Girl with a Heart of | 64906 | [64906-girl-with-a-heart-of.json](./64906-girl-with-a-heart-of.json) |
 | Girl With Gun | 390203 | [390203-girl-with-gun.json](./390203-girl-with-gun.json) |
+| Girl X Hunter | 208189 | [208189-girl-x-hunter.json](./208189-girl-x-hunter.json) |
 | Girl X Island | 273814 | [273814-girl-x-island.json](./273814-girl-x-island.json) |
 | Girl Zone | 66945 | [66945-girl-zone.json](./66945-girl-zone.json) |
 | Girl!Panic!!! | 415108 | [415108-girl-panic.json](./415108-girl-panic.json) |
@@ -4504,6 +4509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goddess detective | 167379 | [167379-goddess-detective.json](./167379-goddess-detective.json) |
 | Goddess Detective 2 | 255125 | [255125-goddess-detective-2.json](./255125-goddess-detective-2.json) |
 | Goddess Detective 3 | 269001 | [269001-goddess-detective-3.json](./269001-goddess-detective-3.json) |
+| Goddess Era | 208181 | [208181-goddess-era.json](./208181-goddess-era.json) |
 | Goddess Era: Paradise Oath | 259628 | [259628-goddess-era-paradise-oath.json](./259628-goddess-era-paradise-oath.json) |
 | Goddess Husk | 184527 | [184527-goddess-husk.json](./184527-goddess-husk.json) |
 | Goddess Kiss | 57066 | [57066-goddess-kiss.json](./57066-goddess-kiss.json) |
