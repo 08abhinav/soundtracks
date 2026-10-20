@@ -991,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K22: Cross-Gen Digital Bundle | 158592 | [158592-nba-2k22-cross-gen-digital-bundle.json](./158592-nba-2k22-cross-gen-digital-bundle.json) |
 | NBA 2K22: NBA 75th Anniversary Edition | 158594 | [158594-nba-2k22-nba-75th-anniversary-edition.json](./158594-nba-2k22-nba-75th-anniversary-edition.json) |
 | NBA 2K22: WNBA 25th Anniversary Edition | 158595 | [158595-nba-2k22-wnba-25th-anniversary-edition.json](./158595-nba-2k22-wnba-25th-anniversary-edition.json) |
+| NBA 2K23: Championship Edition | 242936 | [242936-nba-2k23-championship-edition.json](./242936-nba-2k23-championship-edition.json) |
 | NBA 2K23: Digital Deluxe Edition | 216409 | [216409-nba-2k23-digital-deluxe-edition.json](./216409-nba-2k23-digital-deluxe-edition.json) |
 | NBA 2K24: 25th Anniversary Edition | 265738 | [265738-nba-2k24-25th-anniversary-edition.json](./265738-nba-2k24-25th-anniversary-edition.json) |
 | NBA 2K24: Black Mamba Edition | 256201 | [256201-nba-2k24-black-mamba-edition.json](./256201-nba-2k24-black-mamba-edition.json) |
@@ -4953,6 +4954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nontan to Issho: Nohara de Asobo | 268519 | [268519-nontan-to-issho-nohara-de-asobo.json](./268519-nontan-to-issho-nohara-de-asobo.json) |
 | Nonu | 292378 | [292378-nonu.json](./292378-nonu.json) |
 | Noob Squad | 32242 | [32242-noob-squad.json](./32242-noob-squad.json) |
+| Noob: Les Sans-Factions - Limited Edition | 242937 | [242937-noob-les-sans-factions-limited-edition.json](./242937-noob-les-sans-factions-limited-edition.json) |
 | Noob's Room | 383574 | [383574-noobs-room.json](./383574-noobs-room.json) |
 | Noobow | 62598 | [62598-noobow.json](./62598-noobow.json) |
 | Noobs Are Coming | 332387 | [332387-noobs-are-coming.json](./332387-noobs-are-coming.json) |
