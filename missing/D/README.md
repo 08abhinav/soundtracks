@@ -3604,6 +3604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deceive Inc.: Neon Nights | 257432 | [257432-deceive-inc-neon-nights.json](./257432-deceive-inc-neon-nights.json) |
 | Deceive Inc.: Of Queens and Kings | 272493 | [272493-deceive-inc-of-queens-and-kings.json](./272493-deceive-inc-of-queens-and-kings.json) |
 | Deceiver | 74788 | [74788-deceiver.json](./74788-deceiver.json) |
+| December 1914 | 235637 | [235637-december-1914.json](./235637-december-1914.json) |
 | December 25, 2016 | 266143 | [266143-december-25-2016.json](./266143-december-25-2016.json) |
 | December 3rd | 392758 | [392758-december-3rd.json](./392758-december-3rd.json) |
 | Decent Into Sector 32 | 165641 | [165641-decent-into-sector-32.json](./165641-decent-into-sector-32.json) |
@@ -14093,6 +14094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dye the Bunny | 245979 | [245979-dye-the-bunny.json](./245979-dye-the-bunny.json) |
 | Dye The Bunny 2 | 290826 | [290826-dye-the-bunny-2.json](./290826-dye-the-bunny-2.json) |
 | Dyebreaker | 349389 | [349389-dyebreaker.json](./349389-dyebreaker.json) |
+| Dyer Expedition | 235626 | [235626-dyer-expedition.json](./235626-dyer-expedition.json) |
 | Dyflexion | 189067 | [189067-dyflexion.json](./189067-dyflexion.json) |
 | Dyg | 208581 | [208581-dyg.json](./208581-dyg.json) |
 | Dyger | 39673 | [39673-dyger.json](./39673-dyger.json) |
