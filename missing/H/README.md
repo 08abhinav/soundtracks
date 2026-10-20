@@ -582,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Sex Party | 175794 | [175794-halloween-sex-party.json](./175794-halloween-sex-party.json) |
 | Halloween Shooter | 222395 | [222395-halloween-shooter.json](./222395-halloween-shooter.json) |
 | Halloween Sinister Trivia | 274488 | [274488-halloween-sinister-trivia.json](./274488-halloween-sinister-trivia.json) |
+| Halloween Store Simulator | 216625 | [216625-halloween-store-simulator.json](./216625-halloween-store-simulator.json) |
 | Halloween Stories: Defying Death - Collector’s Edition | 228252 | [228252-halloween-stories-defying-death-collector-s-edition.json](./228252-halloween-stories-defying-death-collector-s-edition.json) |
 | Halloween Stories: Horror Movie | 187953 | [187953-halloween-stories-horror-movie.json](./187953-halloween-stories-horror-movie.json) |
 | Halloween Stories: Horror Movie - Collector's Edition | 173175 | [173175-halloween-stories-horror-movie-collectors-edition.json](./173175-halloween-stories-horror-movie-collectors-edition.json) |
@@ -2315,6 +2316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | He-Man: The Most Powerful Game in the Universe | 39210 | [39210-he-man-the-most-powerful-game-in-the-universe.json](./39210-he-man-the-most-powerful-game-in-the-universe.json) |
 | He's Just My Buddy | 393503 | [393503-hes-just-my-buddy.json](./393503-hes-just-my-buddy.json) |
 | He's Not My | 179045 | [179045-hes-not-my.json](./179045-hes-not-my.json) |
+| He's Nut Your Princess | 216613 | [216613-hes-nut-your-princess.json](./216613-hes-nut-your-princess.json) |
 | He@rtstrings | 248285 | [248285-he-rtstrings.json](./248285-he-rtstrings.json) |
 | Head 2 Head | 150139 | [150139-head-2-head.json](./150139-head-2-head.json) |
 | Head AS Code Original Version | 143720 | [143720-head-as-code-original-version.json](./143720-head-as-code-original-version.json) |
@@ -2786,6 +2788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hebereke's Popoon | 42610 | [42610-heberekes-popoon.json](./42610-heberekes-popoon.json) |
 | Hebi Hebi | 177261 | [177261-hebi-hebi.json](./177261-hebi-hebi.json) |
 | Hebi no Inochi | 288873 | [288873-hebi-no-inochi.json](./288873-hebi-no-inochi.json) |
+| Hecatomb | 216615 | [216615-hecatomb.json](./216615-hecatomb.json) |
 | Hecatomb | 398404 | [398404-hecatomb.json](./398404-hecatomb.json) |
 | Hecaton | 133231 | [133231-hecaton.json](./133231-hecaton.json) |
 | HecatoncheirStory | 108358 | [108358-hecatoncheirstory.json](./108358-hecatoncheirstory.json) |
