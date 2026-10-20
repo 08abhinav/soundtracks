@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zany's Hospital | 367623 | [367623-zanys-hospital.json](./367623-zanys-hospital.json) |
 | ZanZan | 163343 | [163343-zanzan.json](./163343-zanzan.json) |
 | Zanzibart | 278105 | [278105-zanzibart.json](./278105-zanzibart.json) |
+| Zanzlanz's Collector's Bundle | 239528 | [239528-zanzlanzs-collectors-bundle.json](./239528-zanzlanzs-collectors-bundle.json) |
 | Zǎojiào Lèyuán: Wǒ de Tónghuà Huìběn - Xiǎo Hǎitù de Gùshì | 260973 | [260973-zaojiao-leyuan-wo-de-tonghua-huiben-xiao-haitu-de-gushi.json](./260973-zaojiao-leyuan-wo-de-tonghua-huiben-xiao-haitu-de-gushi.json) |
 | Zaos | 141408 | [141408-zaos.json](./141408-zaos.json) |
 | Zap 21 | 78067 | [78067-zap-21.json](./78067-zap-21.json) |
