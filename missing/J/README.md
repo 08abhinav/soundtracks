@@ -440,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jane & John | 208571 | [208571-jane-and-john.json](./208571-jane-and-john.json) |
 | Jane Angel 2: Fallen Heaven | 156606 | [156606-jane-angel-2-fallen-heaven.json](./156606-jane-angel-2-fallen-heaven.json) |
 | Jane Austen Simulator: Pride and Prejudice | 372611 | [372611-jane-austen-simulator-pride-and-prejudice.json](./372611-jane-austen-simulator-pride-and-prejudice.json) |
+| Jane Austen's 8-bit Adventure | 246823 | [246823-jane-austens-8-bit-adventure.json](./246823-jane-austens-8-bit-adventure.json) |
 | Jane Skriff | 138611 | [138611-jane-skriff.json](./138611-jane-skriff.json) |
 | Jane the Office Slut | 217988 | [217988-jane-the-office-slut.json](./217988-jane-the-office-slut.json) |
 | Jane Westlake Adventures - The Mystery Train | 127757 | [127757-jane-westlake-adventures-the-mystery-train.json](./127757-jane-westlake-adventures-the-mystery-train.json) |
@@ -569,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japanese Rail Sim 3D: 5 types of trains | 147915 | [147915-japanese-rail-sim-3d-5-types-of-trains.json](./147915-japanese-rail-sim-3d-5-types-of-trains.json) |
 | Japanese Rail Sim: Hakone Town of Natural Beauty and Hot Springs | 315837 | [315837-japanese-rail-sim-hakone-town-of-natural-beauty-and-hot-springs.json](./315837-japanese-rail-sim-hakone-town-of-natural-beauty-and-hot-springs.json) |
 | Japanese Rail Sim: Journey to Kyoto | 139991 | [139991-japanese-rail-sim-journey-to-kyoto.json](./139991-japanese-rail-sim-journey-to-kyoto.json) |
+| Japanese Rail Sim: Operating the Meitetsu Line | 246822 | [246822-japanese-rail-sim-operating-the-meitetsu-line.json](./246822-japanese-rail-sim-operating-the-meitetsu-line.json) |
 | Japanese Ramen Simulator | 414484 | [414484-japanese-ramen-simulator.json](./414484-japanese-ramen-simulator.json) |
 | Japanese Salaryman | 323017 | [323017-japanese-salaryman.json](./323017-japanese-salaryman.json) |
 | Japanese School Life | 26136 | [26136-japanese-school-life.json](./26136-japanese-school-life.json) |
@@ -2479,6 +2481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Up | 110550 | [110550-jump-up.json](./110550-jump-up.json) |
 | Jump Up 3D: Mini Basketball | 353997 | [353997-jump-up-3d-mini-basketball.json](./353997-jump-up-3d-mini-basketball.json) |
 | Jump Up Champion! | 295337 | [295337-jump-up-champion.json](./295337-jump-up-champion.json) |
+| Jump Up, Jerry! | 246820 | [246820-jump-up-jerry.json](./246820-jump-up-jerry.json) |
 | Jump Up! Tiny Spaceman | 200121 | [200121-jump-up-tiny-spaceman.json](./200121-jump-up-tiny-spaceman.json) |
 | Jump Us | 187269 | [187269-jump-us.json](./187269-jump-us.json) |
 | Jump Warrior | 182799 | [182799-jump-warrior.json](./182799-jump-warrior.json) |
@@ -2486,6 +2489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Without Reason | 124252 | [124252-jump-without-reason.json](./124252-jump-without-reason.json) |
 | Jump Yuusha | 222423 | [222423-jump-yuusha.json](./222423-jump-yuusha.json) |
 | Jump, challenge 100 floors | 247662 | [247662-jump-challenge-100-floors.json](./247662-jump-challenge-100-floors.json) |
+| Jump, Dodge, Die, Repeat | 246821 | [246821-jump-dodge-die-repeat.json](./246821-jump-dodge-die-repeat.json) |
 | Jump, Mouse, Jump! | 391252 | [391252-jump-mouse-jump.json](./391252-jump-mouse-jump.json) |
 | Jump, Race, Fly | 264903 | [264903-jump-race-fly.json](./264903-jump-race-fly.json) |
 | Jump, Smash! | 106999 | [106999-jump-smash.json](./106999-jump-smash.json) |
