@@ -5387,6 +5387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five: Champions of Canaan | 32324 | [32324-five-champions-of-canaan.json](./32324-five-champions-of-canaan.json) |
 | Five: Guardians of David | 20205 | [20205-five-guardians-of-david.json](./20205-five-guardians-of-david.json) |
 | FiveM | 146553 | [146553-fivem.json](./146553-fivem.json) |
+| FiveSeven | 222727 | [222727-fiveseven.json](./222727-fiveseven.json) |
 | Fivies | 220343 | [220343-fivies.json](./220343-fivies.json) |
 | Fix and Foxi: Episode 1 - Lupo | 208380 | [208380-fix-and-foxi-episode-1-lupo.json](./208380-fix-and-foxi-episode-1-lupo.json) |
 | Fix EV3 Rover | 104002 | [104002-fix-ev3-rover.json](./104002-fix-ev3-rover.json) |
@@ -5522,6 +5523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappin Nutz | 27504 | [27504-flappin-nutz.json](./27504-flappin-nutz.json) |
 | FlapPing | 40718 | [40718-flapping.json](./40718-flapping.json) |
 | FlapPlane | 137573 | [137573-flapplane.json](./137573-flapplane.json) |
+| Flapple Bird | 222746 | [222746-flapple-bird.json](./222746-flapple-bird.json) |
 | Flappy | 195527 | [195527-flappy.json](./195527-flappy.json) |
 | Flappy 2: The Resurrection of Blue Star | 62199 | [62199-flappy-2-the-resurrection-of-blue-star.json](./62199-flappy-2-the-resurrection-of-blue-star.json) |
 | Flappy Alien | 311232 | [311232-flappy-alien.json](./311232-flappy-alien.json) |
@@ -5532,6 +5534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Bee | 169471 | [169471-flappy-bee.json](./169471-flappy-bee.json) |
 | Flappy Bird | 195491 | [195491-flappy-bird.json](./195491-flappy-bird.json) |
 | Flappy Bird | 218074 | [218074-flappy-bird.json](./218074-flappy-bird.json) |
+| Flappy Bird | 222745 | [222745-flappy-bird.json](./222745-flappy-bird.json) |
 | Flappy Bird | 239547 | [239547-flappy-bird.json](./239547-flappy-bird.json) |
 | Flappy Bird | 298312 | [298312-flappy-bird.json](./298312-flappy-bird.json) |
 | Flappy Bird | 316744 | [316744-flappy-bird.json](./316744-flappy-bird.json) |
@@ -7417,6 +7420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgive Me Father | 165479 | [165479-forgive-me-father.json](./165479-forgive-me-father.json) |
 | Forgive Me Father 2 | 244784 | [244784-forgive-me-father-2.json](./244784-forgive-me-father-2.json) |
 | Forgive Me My Henchmen | 106097 | [106097-forgive-me-my-henchmen.json](./106097-forgive-me-my-henchmen.json) |
+| Forgive My Sins & Desires, Father | 222736 | [222736-forgive-my-sins-and-desires-father.json](./222736-forgive-my-sins-and-desires-father.json) |
 | Forgive or Finalize | 398486 | [398486-forgive-or-finalize.json](./398486-forgive-or-finalize.json) |
 | Forgiven | 221641 | [221641-forgiven.json](./221641-forgiven.json) |
 | Forgiveness | 111471 | [111471-forgiveness.json](./111471-forgiveness.json) |
@@ -10490,6 +10494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futari ha Pretty Cure Max Heart | 125788 | [125788-futari-ha-pretty-cure-max-heart.json](./125788-futari-ha-pretty-cure-max-heart.json) |
 | Futari ha Pretty Cure Splash Star | 327580 | [327580-futari-ha-pretty-cure-splash-star.json](./327580-futari-ha-pretty-cure-splash-star.json) |
 | Futari ha Pretty Cure Splash Star: Panpaka Game de Zekkou-chou! | 168329 | [168329-futari-ha-pretty-cure-splash-star-panpaka-game-de-zekkou-chou.json](./168329-futari-ha-pretty-cure-splash-star-panpaka-game-de-zekkou-chou.json) |
+| Futari no Fantavision | 222750 | [222750-futari-no-fantavision.json](./222750-futari-no-fantavision.json) |
 | Futari wa Precure Max Heart: Maji? Maji!? Fight de IN Janai | 49568 | [49568-futari-wa-precure-max-heart-maji-maji-fight-de-in-janai.json](./49568-futari-wa-precure-max-heart-maji-maji-fight-de-in-janai.json) |
 | Futariuum's Gate | 310210 | [310210-futariuums-gate.json](./310210-futariuums-gate.json) |
 | Fútbol | 86007 | [86007-futbol.json](./86007-futbol.json) |
