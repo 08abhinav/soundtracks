@@ -5354,6 +5354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All-Star Baseball 2001 | 69229 | [69229-all-star-baseball-2001.json](./69229-all-star-baseball-2001.json) |
 | All-Star Baseball 2002 | 10624 | [10624-all-star-baseball-2002.json](./10624-all-star-baseball-2002.json) |
 | All-Star Baseball 2003 | 11557 | [11557-all-star-baseball-2003.json](./11557-all-star-baseball-2003.json) |
+| All-Star Baseball 2003 | 248445 | [248445-all-star-baseball-2003.json](./248445-all-star-baseball-2003.json) |
 | All-Star Baseball 2004 | 282834 | [282834-all-star-baseball-2004.json](./282834-all-star-baseball-2004.json) |
 | All-Star Baseball 2005 | 11559 | [11559-all-star-baseball-2005.json](./11559-all-star-baseball-2005.json) |
 | All-Star Baseball 97 | 19998 | [19998-all-star-baseball-97.json](./19998-all-star-baseball-97.json) |
@@ -5980,6 +5981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Frog: In the City | 96058 | [96058-amazing-frog-in-the-city.json](./96058-amazing-frog-in-the-city.json) |
 | Amazing Garden | 324155 | [324155-amazing-garden.json](./324155-amazing-garden.json) |
 | Amazing Gardens | 344366 | [344366-amazing-gardens.json](./344366-amazing-gardens.json) |
+| Amazing Girl | 248441 | [248441-amazing-girl.json](./248441-amazing-girl.json) |
 | Amazing Heists: Dillinger | 416882 | [416882-amazing-heists-dillinger.json](./416882-amazing-heists-dillinger.json) |
 | Amazing Hidden Object Games 3 Pack: Paranormal Mysteries | 202054 | [202054-amazing-hidden-object-games-3-pack-paranormal-mysteries.json](./202054-amazing-hidden-object-games-3-pack-paranormal-mysteries.json) |
 | Amazing Hidden Objects | 99091 | [99091-amazing-hidden-objects.json](./99091-amazing-hidden-objects.json) |
