@@ -2819,6 +2819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junkyard Builder: King Of Scrap | 414445 | [414445-junkyard-builder-king-of-scrap.json](./414445-junkyard-builder-king-of-scrap.json) |
 | Junkyard Frog | 334742 | [334742-junkyard-frog.json](./334742-junkyard-frog.json) |
 | Junkyard Fury | 173024 | [173024-junkyard-fury.json](./173024-junkyard-fury.json) |
+| Junkyard Fury 2 | 211613 | [211613-junkyard-fury-2.json](./211613-junkyard-fury-2.json) |
 | Junkyard Jumble | 112308 | [112308-junkyard-jumble.json](./112308-junkyard-jumble.json) |
 | Junkyard Keeper | 208930 | [208930-junkyard-keeper.json](./208930-junkyard-keeper.json) |
 | Junkyard Rush Racing | 326268 | [326268-junkyard-rush-racing.json](./326268-junkyard-rush-racing.json) |
