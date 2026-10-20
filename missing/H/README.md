@@ -1594,6 +1594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harmonis: The Hand-Made Kingdoms | 287073 | [287073-harmonis-the-hand-made-kingdoms.json](./287073-harmonis-the-hand-made-kingdoms.json) |
 | Harmonium: The Musical | 279616 | [279616-harmonium-the-musical.json](./279616-harmonium-the-musical.json) |
 | Harmony | 131412 | [131412-harmony.json](./131412-harmony.json) |
+| Harmony | 212661 | [212661-harmony.json](./212661-harmony.json) |
 | Harmony | 260660 | [260660-harmony.json](./260660-harmony.json) |
 | Harmony | 266397 | [266397-harmony.json](./266397-harmony.json) |
 | Harmony | 371452 | [371452-harmony.json](./371452-harmony.json) |
