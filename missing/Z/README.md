@@ -1624,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo's Mad | 187229 | [187229-zoos-mad.json](./187229-zoos-mad.json) |
 | Zoobles! Spring to Life! | 9753 | [9753-zoobles-spring-to-life.json](./9753-zoobles-spring-to-life.json) |
 | Zooclan | 394137 | [394137-zooclan.json](./394137-zooclan.json) |
+| Zoocube | 248468 | [248468-zoocube.json](./248468-zoocube.json) |
 | Zoocube | 2627 | [2627-zoocube.json](./2627-zoocube.json) |
 | Zoogarnian | 215661 | [215661-zoogarnian.json](./215661-zoogarnian.json) |
 | ZooHop | 247997 | [247997-zoohop.json](./247997-zoohop.json) |
