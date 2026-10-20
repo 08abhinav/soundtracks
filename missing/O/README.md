@@ -412,6 +412,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octopie | 204723 | [204723-octopie.json](./204723-octopie.json) |
 | Octopinbs | 394319 | [394319-octopinbs.json](./394319-octopinbs.json) |
 | Octopo | 306050 | [306050-octopo.json](./306050-octopo.json) |
+| Octopus | 231722 | [231722-octopus.json](./231722-octopus.json) |
+| Octopus | 231723 | [231723-octopus.json](./231723-octopus.json) |
 | Octopus | 287659 | [287659-octopus.json](./287659-octopus.json) |
 | Octopus 21 | 322390 | [322390-octopus-21.json](./322390-octopus-21.json) |
 | Octopus Evolution | 206733 | [206733-octopus-evolution.json](./206733-octopus-evolution.json) |
@@ -957,6 +959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oil Filling | 264103 | [264103-oil-filling.json](./264103-oil-filling.json) |
 | Oil Manager | 215627 | [215627-oil-manager.json](./215627-oil-manager.json) |
 | Oil Panic | 228397 | [228397-oil-panic.json](./228397-oil-panic.json) |
+| Oil Panic | 231724 | [231724-oil-panic.json](./231724-oil-panic.json) |
 | Oil Patch Simulations | 110366 | [110366-oil-patch-simulations.json](./110366-oil-patch-simulations.json) |
 | Oil Platform Simulator | 65265 | [65265-oil-platform-simulator.json](./65265-oil-platform-simulator.json) |
 | Oil Refinery: The Simulation | 344242 | [344242-oil-refinery-the-simulation.json](./344242-oil-refinery-the-simulation.json) |
@@ -1106,6 +1109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Towers | 126017 | [126017-old-towers.json](./126017-old-towers.json) |
 | Old Town Bus Simulator | 250959 | [250959-old-town-bus-simulator.json](./250959-old-town-bus-simulator.json) |
 | Old Town Stories | 127008 | [127008-old-town-stories.json](./127008-old-town-stories.json) |
+| Old Tunnel | 231769 | [231769-old-tunnel.json](./231769-old-tunnel.json) |
 | Old Village Simulator 1962 | 10638 | [10638-old-village-simulator-1962.json](./10638-old-village-simulator-1962.json) |
 | Old Watch | 76681 | [76681-old-watch.json](./76681-old-watch.json) |
 | Old World Blues | 321740 | [321740-old-world-blues.json](./321740-old-world-blues.json) |
