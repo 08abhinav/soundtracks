@@ -910,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Day on Stroggos | 402832 | [402832-last-day-on-stroggos.json](./402832-last-day-on-stroggos.json) |
 | Last Day Rules: Survival | 174717 | [174717-last-day-rules-survival.json](./174717-last-day-rules-survival.json) |
 | Last Day: Zombie Survival VR | 199484 | [199484-last-day-zombie-survival-vr.json](./199484-last-day-zombie-survival-vr.json) |
+| Last Days | 217205 | [217205-last-days.json](./217205-last-days.json) |
 | Last Days | 30773 | [30773-last-days.json](./30773-last-days.json) |
 | Last Days of Future | 226446 | [226446-last-days-of-future.json](./226446-last-days-of-future.json) |
 | Last Days of Old Earth | 35054 | [35054-last-days-of-old-earth.json](./35054-last-days-of-old-earth.json) |
@@ -3711,6 +3712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lights In The Sky | 310267 | [310267-lights-in-the-sky.json](./310267-lights-in-the-sky.json) |
 | Lights Off | 100159 | [100159-lights-off.json](./100159-lights-off.json) |
 | Lights Out | 199429 | [199429-lights-out.json](./199429-lights-out.json) |
+| Lights Out | 217183 | [217183-lights-out.json](./217183-lights-out.json) |
 | Lights Out | 300989 | [300989-lights-out.json](./300989-lights-out.json) |
 | Lights Out | 393161 | [393161-lights-out.json](./393161-lights-out.json) |
 | Lights Out Luigi | 323285 | [323285-lights-out-luigi.json](./323285-lights-out-luigi.json) |
@@ -5334,6 +5336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lollipop | 198329 | [198329-lollipop.json](./198329-lollipop.json) |
 | Lollipop Chainsaw | 1284 | [1284-lollipop-chainsaw.json](./1284-lollipop-chainsaw.json) |
 | Lollipop Chainsaw RePop: Nintendo Switch 2 Edition | 401101 | [401101-lollipop-chainsaw-repop-nintendo-switch-2-edition.json](./401101-lollipop-chainsaw-repop-nintendo-switch-2-edition.json) |
+| Lollipop: Summer! | 217202 | [217202-lollipop-summer.json](./217202-lollipop-summer.json) |
 | LolliPop: The Best Indie Game | 149496 | [149496-lollipop-the-best-indie-game.json](./149496-lollipop-the-best-indie-game.json) |
 | Lollipop! | 159882 | [159882-lollipop.json](./159882-lollipop.json) |
 | Lolly Pang VR | 110523 | [110523-lolly-pang-vr.json](./110523-lolly-pang-vr.json) |
