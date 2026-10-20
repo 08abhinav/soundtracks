@@ -2803,6 +2803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Croquet | 32751 | [32751-ghost-croquet.json](./32751-ghost-croquet.json) |
 | Ghost Deliverer | 350393 | [350393-ghost-deliverer.json](./350393-ghost-deliverer.json) |
 | Ghost Dimension | 126403 | [126403-ghost-dimension.json](./126403-ghost-dimension.json) |
+| Ghost Doll | 207661 | [207661-ghost-doll.json](./207661-ghost-doll.json) |
 | Ghost Dragon III | 384304 | [384304-ghost-dragon-iii.json](./384304-ghost-dragon-iii.json) |
 | Ghost Driver | 235059 | [235059-ghost-driver.json](./235059-ghost-driver.json) |
 | Ghost Eater | 278997 | [278997-ghost-eater.json](./278997-ghost-eater.json) |
