@@ -1245,7 +1245,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangoku Hime: Sangoku Ransei - Haruten no Saihai | 269522 | [269522-sangoku-hime-sangoku-ransei-haruten-no-saihai.json](./269522-sangoku-hime-sangoku-ransei-haruten-no-saihai.json) |
 | Sangoku Justice | 74402 | [74402-sangoku-justice.json](./74402-sangoku-justice.json) |
 | Sangoku Rensenki ~Omoidegaeshi~ CS Edition | 135856 | [135856-sangoku-rensenki-omoidegaeshi-cs-edition.json](./135856-sangoku-rensenki-omoidegaeshi-cs-edition.json) |
+| Sangoku Rensenki Sakigake | 221597 | [221597-sangoku-rensenki-sakigake.json](./221597-sangoku-rensenki-sakigake.json) |
 | Sangoku Rensenki: Omoide Gaeshi + Gakuen Rensenki | 222246 | [222246-sangoku-rensenki-omoide-gaeshi-gakuen-rensenki.json](./222246-sangoku-rensenki-omoide-gaeshi-gakuen-rensenki.json) |
+| Sangoku Rensenki: Otome no Heihou! Omoidegaeshi | 221596 | [221596-sangoku-rensenki-otome-no-heihou-omoidegaeshi.json](./221596-sangoku-rensenki-otome-no-heihou-omoidegaeshi.json) |
 | Sangoku Stories Ten | 222510 | [222510-sangoku-stories-ten.json](./222510-sangoku-stories-ten.json) |
 | Sangoku Xiangqi | 259096 | [259096-sangoku-xiangqi.json](./259096-sangoku-xiangqi.json) |
 | Sangoku-hime 2: Kouki Houkou, Mezameshi Taiga | 313993 | [313993-sangoku-hime-2-kouki-houkou-mezameshi-taiga.json](./313993-sangoku-hime-2-kouki-houkou-mezameshi-taiga.json) |
@@ -13644,6 +13646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sora o Aogite Kumo Takaku | 62733 | [62733-sora-o-aogite-kumo-takaku.json](./62733-sora-o-aogite-kumo-takaku.json) |
 | Sora to Muku no 6-ki | 283583 | [283583-sora-to-muku-no-6-ki.json](./283583-sora-to-muku-no-6-ki.json) |
 | Sora Tobu Henry | 231506 | [231506-sora-tobu-henry.json](./231506-sora-tobu-henry.json) |
+| Sora Yume Portable | 221617 | [221617-sora-yume-portable.json](./221617-sora-yume-portable.json) |
 | Sora: Blue Sky Edition | 54386 | [54386-sora-blue-sky-edition.json](./54386-sora-blue-sky-edition.json) |
 | Sora: Songs of the Stone | 403724 | [403724-sora-songs-of-the-stone.json](./403724-sora-songs-of-the-stone.json) |
 | Sorades - Die Befreiung | 91547 | [91547-sorades-die-befreiung.json](./91547-sorades-die-befreiung.json) |
@@ -17560,6 +17563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirm | 298947 | [298947-squirm.json](./298947-squirm.json) |
 | Squirm | 37309 | [37309-squirm.json](./37309-squirm.json) |
 | Squirm 16 | 313498 | [313498-squirm-16.json](./313498-squirm-16.json) |
+| Squirmunity: Ballad of the prankmonger | 222182 | [222182-squirmunity-ballad-of-the-prankmonger.json](./222182-squirmunity-ballad-of-the-prankmonger.json) |
 | Squirrel & Bär: Learn English | 122085 | [122085-squirrel-and-bar-learn-english.json](./122085-squirrel-and-bar-learn-english.json) |
 | Squirrel and Nuts | 239645 | [239645-squirrel-and-nuts.json](./239645-squirrel-and-nuts.json) |
 | Squirrel Away | 226614 | [226614-squirrel-away.json](./226614-squirrel-away.json) |
@@ -20525,6 +20529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormwinds | 210284 | [210284-stormwinds.json](./210284-stormwinds.json) |
 | Stormwinds: The Lost Campaigns | 210295 | [210295-stormwinds-the-lost-campaigns.json](./210295-stormwinds-the-lost-campaigns.json) |
 | Stormworks: Build and Rescue | 36623 | [36623-stormworks-build-and-rescue.json](./36623-stormworks-build-and-rescue.json) |
+| Stormworks: Industrial Frontier | 221629 | [221629-stormworks-industrial-frontier.json](./221629-stormworks-industrial-frontier.json) |
 | Stormworks: Search and Destroy | 174136 | [174136-stormworks-search-and-destroy.json](./174136-stormworks-search-and-destroy.json) |
 | Stormworm+ | 33332 | [33332-stormworm.json](./33332-stormworm.json) |
 | Stormy Castle | 330847 | [330847-stormy-castle.json](./330847-stormy-castle.json) |
@@ -20917,6 +20922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StreamerFun | 413064 | [413064-streamerfun.json](./413064-streamerfun.json) |
 | Streamers Cleaning Simulator | 312422 | [312422-streamers-cleaning-simulator.json](./312422-streamers-cleaning-simulator.json) |
 | Streamers Interactive Quiz Game | 343454 | [343454-streamers-interactive-quiz-game.json](./343454-streamers-interactive-quiz-game.json) |
+| Streamers' Secret Life | 221582 | [221582-streamers-secret-life.json](./221582-streamers-secret-life.json) |
 | StreamerVille | 285996 | [285996-streamerville.json](./285996-streamerville.json) |
 | StreamGods: Streamer Tycoon | 169449 | [169449-streamgods-streamer-tycoon.json](./169449-streamgods-streamer-tycoon.json) |
 | Streaming Girls 18+:- OnlyFap Live | 286468 | [286468-streaming-girls-18-onlyfap-live.json](./286468-streaming-girls-18-onlyfap-live.json) |
