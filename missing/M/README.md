@@ -4664,6 +4664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Forever | 233249 | [233249-maze-forever.json](./233249-maze-forever.json) |
 | Maze Game | 216256 | [216256-maze-game.json](./216256-maze-game.json) |
 | Maze Girl | 253907 | [253907-maze-girl.json](./253907-maze-girl.json) |
+| Maze Gobbler | 232303 | [232303-maze-gobbler.json](./232303-maze-gobbler.json) |
 | Maze Gold Run | 127267 | [127267-maze-gold-run.json](./127267-maze-gold-run.json) |
 | Maze Horror: Meikyuu Horror | 252893 | [252893-maze-horror-meikyuu-horror.json](./252893-maze-horror-meikyuu-horror.json) |
 | Maze in Your Mind | 351598 | [351598-maze-in-your-mind.json](./351598-maze-in-your-mind.json) |
@@ -4784,6 +4785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazing | 165763 | [165763-mazing.json](./165763-mazing.json) |
 | Mazing Mad | 367278 | [367278-mazing-mad.json](./367278-mazing-mad.json) |
 | Mazinger Z | 153841 | [153841-mazinger-z.json](./153841-mazinger-z.json) |
+| MazM: Hyde and Seek | 232306 | [232306-mazm-hyde-and-seek.json](./232306-mazm-hyde-and-seek.json) |
 | MazM: Jekyll and Hyde | 105857 | [105857-mazm-jekyll-and-hyde.json](./105857-mazm-jekyll-and-hyde.json) |
 | MazM: The Phantom of the Opera | 125865 | [125865-mazm-the-phantom-of-the-opera.json](./125865-mazm-the-phantom-of-the-opera.json) |
 | Mazovian Adventure | 128961 | [128961-mazovian-adventure.json](./128961-mazovian-adventure.json) |
@@ -6495,6 +6497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memo Blox | 304373 | [304373-memo-blox.json](./304373-memo-blox.json) |
 | Memo Box - Memory Challenges | 108625 | [108625-memo-box-memory-challenges.json](./108625-memo-box-memory-challenges.json) |
 | Memo R.I.P. | 400411 | [400411-memo-r-i-p.json](./400411-memo-r-i-p.json) |
+| Memo Raise: Memory Game | 232307 | [232307-memo-raise-memory-game.json](./232307-memo-raise-memory-game.json) |
 | Memo to the Underlord | 364374 | [364374-memo-to-the-underlord.json](./364374-memo-to-the-underlord.json) |
 | Memocratie | 322636 | [322636-memocratie.json](./322636-memocratie.json) |
 | Memoir '44 Online | 28724 | [28724-memoir-44-online.json](./28724-memoir-44-online.json) |
