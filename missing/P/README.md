@@ -1743,6 +1743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Park Beyond: Beyond the Depths - Theme World | 311079 | [311079-park-beyond-beyond-the-depths-theme-world.json](./311079-park-beyond-beyond-the-depths-theme-world.json) |
 | Park Beyond: Beyond the Skies of Arabia - Theme World | 315121 | [315121-park-beyond-beyond-the-skies-of-arabia-theme-world.json](./315121-park-beyond-beyond-the-skies-of-arabia-theme-world.json) |
 | Park Beyond: Complete Edition | 331856 | [331856-park-beyond-complete-edition.json](./331856-park-beyond-complete-edition.json) |
+| Park Beyond: Day-1 Admission Ticket Edition | 242926 | [242926-park-beyond-day-1-admission-ticket-edition.json](./242926-park-beyond-day-1-admission-ticket-edition.json) |
 | Park Beyond: Visioneer Edition | 254055 | [254055-park-beyond-visioneer-edition.json](./254055-park-beyond-visioneer-edition.json) |
 | Park Bound | 40524 | [40524-park-bound.json](./40524-park-bound.json) |
 | Park Escape | 362740 | [362740-park-escape.json](./362740-park-escape.json) |
@@ -3456,6 +3457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 3 Reload: Persona 5 Royal Shujin Academy Costume Set | 301572 | [301572-persona-3-reload-persona-5-royal-shujin-academy-costume-set.json](./301572-persona-3-reload-persona-5-royal-shujin-academy-costume-set.json) |
 | Persona 3: The Night Before | 71158 | [71158-persona-3-the-night-before.json](./71158-persona-3-the-night-before.json) |
 | Persona 4 Arena | 5650 | [5650-persona-4-arena.json](./5650-persona-4-arena.json) |
+| Persona 4 Colors | 242935 | [242935-persona-4-colors.json](./242935-persona-4-colors.json) |
 | Persona 4 Dancing All Night: Heaven featuring Hatsune Miku | 319167 | [319167-persona-4-dancing-all-night-heaven-featuring-hatsune-miku.json](./319167-persona-4-dancing-all-night-heaven-featuring-hatsune-miku.json) |
 | Persona 4 Golden | 234702 | [234702-persona-4-golden.json](./234702-persona-4-golden.json) |
 | Persona 4 Revival: Digital Premium Edition | 407470 | [407470-persona-4-revival-digital-premium-edition.json](./407470-persona-4-revival-digital-premium-edition.json) |
@@ -6955,6 +6957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetary Life | 258433 | [258433-planetary-life.json](./258433-planetary-life.json) |
 | Planetary Parfait | 293139 | [293139-planetary-parfait.json](./293139-planetary-parfait.json) |
 | Planetary Planter | 200517 | [200517-planetary-planter.json](./200517-planetary-planter.json) |
+| Planetary Plumbers | 242942 | [242942-planetary-plumbers.json](./242942-planetary-plumbers.json) |
 | Planetary Sanitations Inc. | 184812 | [184812-planetary-sanitations-inc.json](./184812-planetary-sanitations-inc.json) |
 | Planetary Settlers | 101340 | [101340-planetary-settlers.json](./101340-planetary-settlers.json) |
 | Planetary Taxi | 279558 | [279558-planetary-taxi.json](./279558-planetary-taxi.json) |
@@ -8342,6 +8345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Gold and Silver 97: Reforged | 203224 | [203224-pokemon-gold-and-silver-97-reforged.json](./203224-pokemon-gold-and-silver-97-reforged.json) |
 | Pokémon Golden Shield | 396519 | [396519-pokemon-golden-shield.json](./396519-pokemon-golden-shield.json) |
 | Pokémon Grand Colosseum | 212982 | [212982-pokemon-grand-colosseum.json](./212982-pokemon-grand-colosseum.json) |
+| Pokémon Grand Dad Version | 242950 | [242950-pokemon-grand-dad-version.json](./242950-pokemon-grand-dad-version.json) |
 | Pokémon Grape | 203217 | [203217-pokemon-grape.json](./203217-pokemon-grape.json) |
 | Pokémon Gratia | 318562 | [318562-pokemon-gratia.json](./318562-pokemon-gratia.json) |
 | Pokémon Heart & Soul | 376212 | [376212-pokemon-heart-and-soul.json](./376212-pokemon-heart-and-soul.json) |
@@ -12130,6 +12134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Cube | 395473 | [395473-project-cube.json](./395473-project-cube.json) |
 | Project: Dream | 220658 | [220658-project-dream.json](./220658-project-dream.json) |
 | Project: Drift | 174783 | [174783-project-drift.json](./174783-project-drift.json) |
+| Project: EagleBeak | 242954 | [242954-project-eaglebeak.json](./242954-project-eaglebeak.json) |
 | Project: Eden's Garden | 222895 | [222895-project-edens-garden.json](./222895-project-edens-garden.json) |
 | Project: EGG | 330872 | [330872-project-egg.json](./330872-project-egg.json) |
 | Project: Eliot | 337158 | [337158-project-eliot.json](./337158-project-eliot.json) |
