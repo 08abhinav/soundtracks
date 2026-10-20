@@ -680,7 +680,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DanDan | 258038 | [258038-dandan.json](./258038-dandan.json) |
 | Dandara | 296666 | [296666-dandara.json](./296666-dandara.json) |
 | Dandara: Trials of Fear - Enhanced Edition | 155057 | [155057-dandara-trials-of-fear-enhanced-edition.json](./155057-dandara-trials-of-fear-enhanced-edition.json) |
-| Dandara: Trials of Fear Edition | 129536 | [129536-dandara-trials-of-fear-edition.json](./129536-dandara-trials-of-fear-edition.json) |
 | Dandelion | 181343 | [181343-dandelion.json](./181343-dandelion.json) |
 | Dandelion Planet | 277777 | [277777-dandelion-planet.json](./277777-dandelion-planet.json) |
 | Dandelion Void | 343376 | [343376-dandelion-void.json](./343376-dandelion-void.json) |
@@ -5395,7 +5394,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Detective | 411745 | [411745-desktop-detective.json](./411745-desktop-detective.json) |
 | Desktop Dodgeball 2 | 317224 | [317224-desktop-dodgeball-2.json](./317224-desktop-dodgeball-2.json) |
 | Desktop Driller | 410454 | [410454-desktop-driller.json](./410454-desktop-driller.json) |
-| Desktop Dungeons | 8998 | [8998-desktop-dungeons.json](./8998-desktop-dungeons.json) |
 | Desktop Dungeons: Rewind | 213510 | [213510-desktop-dungeons-rewind.json](./213510-desktop-dungeons-rewind.json) |
 | Desktop Dynasties | 111519 | [111519-desktop-dynasties.json](./111519-desktop-dynasties.json) |
 | Desktop Explorer | 275251 | [275251-desktop-explorer.json](./275251-desktop-explorer.json) |
