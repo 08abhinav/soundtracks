@@ -627,6 +627,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273b301cb302ffe0f483c873f52" width="60" /> | [Final Fantasy: Brave Exvius](https://ostdb.net/games/final-fantasy-brave-exvius) | **FINAL FANTASY BRAVE EXVIUS Original Soundtrack** · [Spotify](https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27319f3df3565e048e6d1afc469" width="60" /> | [Finding Paradise](https://ostdb.net/games/finding-paradise) | **Finding Paradise (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2PRl4SmPZdkMdF3iUA8O16) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273394498e071a0655bfddf94bd" width="60" /> | [Firewatch](https://ostdb.net/games/firewatch) | **Firewatch (Original Score)** · [Spotify](https://open.spotify.com/album/6t4gSUaC3GZoUac8gpOFtn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27390d625bc3f7ac09d552fde93" width="60" /> | [Five Nights at Freddy's: Secret of the Mimic](https://ostdb.net/games/five-nights-at-freddys-secret-of-the-mimic) | **Five Nights at Freddy's: Secret of the Mimic Original Soundtrack** · [Spotify](https://open.spotify.com/album/3R1x1Tm3yC6eXejAA7scmb) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b8b07a9991f48153fd59a1d1" width="60" /> | [Five Nights at Freddy's: Security Breach](https://ostdb.net/games/five-nights-at-freddys-security-breach) | **Five Nights at Freddy's: Security Breach Original Soundtrack** · [Spotify](https://open.spotify.com/album/1QXxOTu7Ffyzwhb9u9EJoW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b7d9b0a08f52ac7332833964" width="60" /> | [Flintlock: The Siege of Dawn](https://ostdb.net/games/flintlock-the-siege-of-dawn) | **Flintlock: The Siege of Dawn (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/28JRK04RtUl4Yjj7MDjN1c) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fb/0e/86/fb0e8658-94eb-4bbe-6738-3171c6fc59c8/artwork.jpg/600x600bb.jpg" width="60" /> | [Floatlands](https://ostdb.net/games/floatlands) | **Floatlands** · [Spotify](https://music.apple.com/us/album/floatlands/1381096859?uo=4) · [Album](https://album.link/i/1381096859) |
@@ -1987,4 +1988,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2304 soundtracks · last updated 2026-10-20T21:56:11.273Z_
+_2305 soundtracks · last updated 2026-10-20T21:56:22.033Z_
