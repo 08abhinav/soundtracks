@@ -202,6 +202,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273bd149ebe3e76d2f35642184f" width="60" /> | [Before Your Eyes](https://ostdb.net/games/before-your-eyes) | **Before Your Eyes (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0n2i8bOgOuc9EjaSRd8wY7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27329cceffa764c75e20e4114ac" width="60" /> | [Behind the Frame: The Finest Scenery](https://ostdb.net/games/behind-the-frame-the-finest-scenery) | **Behind the Frame: The Finest Scenery (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5wiZTpK1QbdEorANrQYOuV) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e5af0e90266198d87ba6f4e3" width="60" /> | [Below](https://ostdb.net/games/below) | **Below (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3eNQpoIwtuWCV8sADe1vL9) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27387c4695bc504ba90f239cf03" width="60" /> | [Bendy and the Dark Revival](https://ostdb.net/games/bendy-and-the-dark-revival) | **Bendy and the Dark Revival (Official Soundtrack)** · [Spotify](https://open.spotify.com/album/4EBr8gtcSeCNesWNET10rx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736ebc391f388d998b604fa5c1" width="60" /> | [Bendy and the Ink Machine](https://ostdb.net/games/bendy-and-the-ink-machine) | **Bendy and the Ink Machine (Official Soundtrack)** · [Spotify](https://open.spotify.com/album/79RrM0HdEe2NIh2OjlQciN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27328f3df05f23d0cac6d4fbd3b" width="60" /> | [Beyond Blue](https://ostdb.net/games/beyond-blue) | **Beyond Blue Original Soundtrack** · [Spotify](https://open.spotify.com/album/6k4VRrvfb7U2mfzhLXkQiK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f33f191570b327c989976220" width="60" /> | [Beyond Good & Evil](https://ostdb.net/games/beyond-good-and-evil) | **Beyond Good and Evil 20th Anniversary (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1VHWvVa7DVTR6igxCVHP3l) |
@@ -1903,4 +1904,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2220 soundtracks · last updated 2026-10-20T21:05:50.174Z_
+_2221 soundtracks · last updated 2026-10-20T21:06:01.653Z_
