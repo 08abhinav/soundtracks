@@ -5194,6 +5194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bewbewbew | 201670 | [201670-bewbewbew.json](./201670-bewbewbew.json) |
 | Bewells | 226249 | [226249-bewells.json](./226249-bewells.json) |
 | Bewildebots | 114497 | [114497-bewildebots.json](./114497-bewildebots.json) |
+| Bewilder House | 229534 | [229534-bewilder-house.json](./229534-bewilder-house.json) |
 | Bewildered | 192640 | [192640-bewildered.json](./192640-bewildered.json) |
 | Bewitched | 296602 | [296602-bewitched.json](./296602-bewitched.json) |
 | Bewitched Hearts | 179703 | [179703-bewitched-hearts.json](./179703-bewitched-hearts.json) |
