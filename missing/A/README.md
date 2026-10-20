@@ -878,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Story Told By The Stars | 294867 | [294867-a-story-told-by-the-stars.json](./294867-a-story-told-by-the-stars.json) |
 | A Stranded Spark | 304676 | [304676-a-stranded-spark.json](./304676-a-stranded-spark.json) |
 | A Strange City | 148280 | [148280-a-strange-city.json](./148280-a-strange-city.json) |
+| A Street Cat's Tale 2: Out side is Dangerous | 250774 | [250774-a-street-cats-tale-2-out-side-is-dangerous.json](./250774-a-street-cats-tale-2-out-side-is-dangerous.json) |
 | A Study in Blue | 386249 | [386249-a-study-in-blue.json](./386249-a-study-in-blue.json) |
 | A Study in Steampunk: Choice by Gaslight | 34030 | [34030-a-study-in-steampunk-choice-by-gaslight.json](./34030-a-study-in-steampunk-choice-by-gaslight.json) |
 | A Stupid Game About Pouring Drinks for the P.T.A. | 387502 | [387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json](./387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json) |
@@ -11371,6 +11372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astate: La Malédiction des Templiers | 14271 | [14271-astate-la-malediction-des-templiers.json](./14271-astate-la-malediction-des-templiers.json) |
 | Astatos | 186111 | [186111-astatos.json](./186111-astatos.json) |
 | Astebreed | 8356 | [8356-astebreed.json](./8356-astebreed.json) |
+| Astebros | 250797 | [250797-astebros.json](./250797-astebros.json) |
 | Asteion Nights | 87559 | [87559-asteion-nights.json](./87559-asteion-nights.json) |
 | Astellia | 113957 | [113957-astellia.json](./113957-astellia.json) |
 | Aster Force | 195114 | [195114-aster-force.json](./195114-aster-force.json) |
@@ -11557,6 +11559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astra Intra | 258001 | [258001-astra-intra.json](./258001-astra-intra.json) |
 | Astra Itinera | 175262 | [175262-astra-itinera.json](./175262-astra-itinera.json) |
 | Astra Moment: Dimension | 365240 | [365240-astra-moment-dimension.json](./365240-astra-moment-dimension.json) |
+| Astra Noctis | 250808 | [250808-astra-noctis.json](./250808-astra-noctis.json) |
 | Astra Protocol 2: Audio Pack | 309660 | [309660-astra-protocol-2-audio-pack.json](./309660-astra-protocol-2-audio-pack.json) |
 | Astra Quest | 347718 | [347718-astra-quest.json](./347718-astra-quest.json) |
 | Astra Sentinel | 392126 | [392126-astra-sentinel.json](./392126-astra-sentinel.json) |
@@ -11800,6 +11803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astromattech | 334320 | [334320-astromattech.json](./334320-astromattech.json) |
 | Astromeda | 221667 | [221667-astromeda.json](./221667-astromeda.json) |
 | AstroMenace | 187894 | [187894-astromenace.json](./187894-astromenace.json) |
+| Astrometica | 250781 | [250781-astrometica.json](./250781-astrometica.json) |
 | Astrominer | 258105 | [258105-astrominer.json](./258105-astrominer.json) |
 | AstroMiner | 119546 | [119546-astrominer.json](./119546-astrominer.json) |
 | AstroN | 91912 | [91912-astron.json](./91912-astron.json) |
