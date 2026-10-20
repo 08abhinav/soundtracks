@@ -3986,7 +3986,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Republic of Jungle | 138655 | [138655-republic-of-jungle.json](./138655-republic-of-jungle.json) |
 | Republic of Pirates | 278603 | [278603-republic-of-pirates.json](./278603-republic-of-pirates.json) |
 | Republic: The Revolution | 10236 | [10236-republic-the-revolution.json](./10236-republic-the-revolution.json) |
-| République | 17719 | [17719-republique.json](./17719-republique.json) |
 | République VR | 159154 | [159154-republique-vr.json](./159154-republique-vr.json) |
 | Republique: Anniversary Edition | 152324 | [152324-republique-anniversary-edition.json](./152324-republique-anniversary-edition.json) |
 | République: Deluxe Edition | 51875 | [51875-republique-deluxe-edition.json](./51875-republique-deluxe-edition.json) |
@@ -8578,7 +8577,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rounding Demon | 123505 | [123505-rounding-demon.json](./123505-rounding-demon.json) |
 | RoundRick: Brick Breaker | 251201 | [251201-roundrick-brick-breaker.json](./251201-roundrick-brick-breaker.json) |
 | RoundRunners Playground | 253608 | [253608-roundrunners-playground.json](./253608-roundrunners-playground.json) |
-| Rounds | 145341 | [145341-rounds.json](./145341-rounds.json) |
 | Rounds of Reckoning | 230794 | [230794-rounds-of-reckoning.json](./230794-rounds-of-reckoning.json) |
 | Roundscape Adorevia | 82881 | [82881-roundscape-adorevia.json](./82881-roundscape-adorevia.json) |
 | RoundUrbs | 350413 | [350413-roundurbs.json](./350413-roundurbs.json) |
