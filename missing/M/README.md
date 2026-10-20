@@ -5599,6 +5599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 3 Improvement | 219088 | [219088-mega-man-3-improvement.json](./219088-mega-man-3-improvement.json) |
 | Mega Man 3 Revamped | 218313 | [218313-mega-man-3-revamped.json](./218313-mega-man-3-revamped.json) |
 | Mega Man 30th Anniversary Bundle | 110814 | [110814-mega-man-30th-anniversary-bundle.json](./110814-mega-man-30th-anniversary-bundle.json) |
+| Mega Man 4 Voyage | 210490 | [210490-mega-man-4-voyage.json](./210490-mega-man-4-voyage.json) |
 | Mega Man 4 Voyage: Blue Version | 252392 | [252392-mega-man-4-voyage-blue-version.json](./252392-mega-man-4-voyage-blue-version.json) |
 | Mega Man 4: Ridley X Hack 13 | 276029 | [276029-mega-man-4-ridley-x-hack-13.json](./276029-mega-man-4-ridley-x-hack-13.json) |
 | Mega Man 5 | 1718 | [1718-mega-man-5.json](./1718-mega-man-5.json) |
@@ -5854,6 +5855,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Network Transmission | 1766 | [1766-mega-man-network-transmission.json](./1766-mega-man-network-transmission.json) |
 | Mega Man NT Warrior: Battle Chip - WideShot1 | 352839 | [352839-mega-man-nt-warrior-battle-chip-wideshot1.json](./352839-mega-man-nt-warrior-battle-chip-wideshot1.json) |
 | Mega Man Perfect Blue | 132024 | [132024-mega-man-perfect-blue.json](./132024-mega-man-perfect-blue.json) |
+| Mega Man Perfect Harmony | 210481 | [210481-mega-man-perfect-harmony.json](./210481-mega-man-perfect-harmony.json) |
+| Mega Man Polarity Reconstruction | 210483 | [210483-mega-man-polarity-reconstruction.json](./210483-mega-man-polarity-reconstruction.json) |
 | Mega Man Powered Up | 12937 | [12937-mega-man-powered-up.json](./12937-mega-man-powered-up.json) |
 | Mega Man Redux | 45189 | [45189-mega-man-redux.json](./45189-mega-man-redux.json) |
 | Mega Man Revamped | 391132 | [391132-mega-man-revamped.json](./391132-mega-man-revamped.json) |
@@ -5874,6 +5877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Uprising | 215155 | [215155-mega-man-uprising.json](./215155-mega-man-uprising.json) |
 | Mega Man V SNES | 377762 | [377762-mega-man-v-snes.json](./377762-mega-man-v-snes.json) |
 | Mega Man VI SNES | 377751 | [377751-mega-man-vi-snes.json](./377751-mega-man-vi-snes.json) |
+| Mega Man Vs. Ghosts 'n Goblins | 210475 | [210475-mega-man-vs-ghosts-n-goblins.json](./210475-mega-man-vs-ghosts-n-goblins.json) |
 | Mega Man W | 403215 | [403215-mega-man-w.json](./403215-mega-man-w.json) |
 | Mega Man World 2 GBC Edition | 306589 | [306589-mega-man-world-2-gbc-edition.json](./306589-mega-man-world-2-gbc-edition.json) |
 | Mega Man World 3 DX | 315770 | [315770-mega-man-world-3-dx.json](./315770-mega-man-world-3-dx.json) |
@@ -11871,6 +11875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Girl Manager | 190438 | [190438-monster-girl-manager.json](./190438-monster-girl-manager.json) |
 | Monster Girl Prom | 96672 | [96672-monster-girl-prom.json](./96672-monster-girl-prom.json) |
 | Monster Girl Saga: Fallen Heroes | 341330 | [341330-monster-girl-saga-fallen-heroes.json](./341330-monster-girl-saga-fallen-heroes.json) |
+| Monster Girl's Labyrinth | 210470 | [210470-monster-girls-labyrinth.json](./210470-monster-girls-labyrinth.json) |
 | Monster Girls Survival & Craft 2040 | 421361 | [421361-monster-girls-survival-and-craft-2040.json](./421361-monster-girls-survival-and-craft-2040.json) |
 | Monster Girls: You Can't Say No | 415164 | [415164-monster-girls-you-cant-say-no.json](./415164-monster-girls-you-cant-say-no.json) |
 | Monster Grid | 341331 | [341331-monster-grid.json](./341331-monster-grid.json) |
