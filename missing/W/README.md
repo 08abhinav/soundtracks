@@ -3631,6 +3631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whodunchat | 418675 | [418675-whodunchat.json](./418675-whodunchat.json) |
 | Whodunnit | 387577 | [387577-whodunnit.json](./387577-whodunnit.json) |
 | Whole | 323619 | [323619-whole.json](./323619-whole.json) |
+| Whole Lotta Lies | 255536 | [255536-whole-lotta-lies.json](./255536-whole-lotta-lies.json) |
 | Whole New Ball Game | 304313 | [304313-whole-new-ball-game.json](./304313-whole-new-ball-game.json) |
 | Whole Note | 322037 | [322037-whole-note.json](./322037-whole-note.json) |
 | Wholesome Adventure Bundle | 277721 | [277721-wholesome-adventure-bundle.json](./277721-wholesome-adventure-bundle.json) |
