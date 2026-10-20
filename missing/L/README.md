@@ -2722,6 +2722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Cook Together 2 | 203251 | [203251-lets-cook-together-2.json](./203251-lets-cook-together-2.json) |
 | Let's Create! Pottery | 64876 | [64876-lets-create-pottery.json](./64876-lets-create-pottery.json) |
 | Let's Create! Pottery VR | 113887 | [113887-lets-create-pottery-vr.json](./113887-lets-create-pottery-vr.json) |
+| Let's Dance | 245698 | [245698-lets-dance.json](./245698-lets-dance.json) |
 | Let's Dance | 78337 | [78337-lets-dance.json](./78337-lets-dance.json) |
 | Let's Draw | 29849 | [29849-lets-draw.json](./29849-lets-draw.json) |
 | Let's Draw A Picture Together! | 68548 | [68548-lets-draw-a-picture-together.json](./68548-lets-draw-a-picture-together.json) |
@@ -6264,6 +6265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Within | 23959 | [23959-lost-within.json](./23959-lost-within.json) |
 | Lost Words: Beyond the Page | 110586 | [110586-lost-words-beyond-the-page.json](./110586-lost-words-beyond-the-page.json) |
 | Lost World | 226183 | [226183-lost-world.json](./226183-lost-world.json) |
+| Lost World Sudoku | 245673 | [245673-lost-world-sudoku.json](./245673-lost-world-sudoku.json) |
 | Lost World Survivor | 348588 | [348588-lost-world-survivor.json](./348588-lost-world-survivor.json) |
 | Lost Worlds Prophecy | 95666 | [95666-lost-worlds-prophecy.json](./95666-lost-worlds-prophecy.json) |
 | Lost Zion | 395555 | [395555-lost-zion.json](./395555-lost-zion.json) |
@@ -6389,6 +6391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Bites | 254451 | [254451-love-bites.json](./254451-love-bites.json) |
 | Love Breakout | 280176 | [280176-love-breakout.json](./280176-love-breakout.json) |
 | Love Cat Life | 123349 | [123349-love-cat-life.json](./123349-love-cat-life.json) |
+| Love Challenge | 245717 | [245717-love-challenge.json](./245717-love-challenge.json) |
 | Love Change | 217949 | [217949-love-change.json](./217949-love-change.json) |
 | Love Chronicles: A Winter's Spell - Collector's Edition | 105165 | [105165-love-chronicles-a-winters-spell-collectors-edition.json](./105165-love-chronicles-a-winters-spell-collectors-edition.json) |
 | Love Chronicles: Salvation - Collector's Edition | 89407 | [89407-love-chronicles-salvation-collectors-edition.json](./89407-love-chronicles-salvation-collectors-edition.json) |
