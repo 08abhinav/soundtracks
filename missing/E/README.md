@@ -1464,6 +1464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elarel | 83922 | [83922-elarel.json](./83922-elarel.json) |
 | Elarienne | 348777 | [348777-elarienne.json](./348777-elarienne.json) |
 | Elarooh | 61086 | [61086-elarooh.json](./61086-elarooh.json) |
+| Elasti'Carts | 224957 | [224957-elasticarts.json](./224957-elasticarts.json) |
 | Elastic car 2 (engineer mode) | 96004 | [96004-elastic-car-2-engineer-mode.json](./96004-elastic-car-2-engineer-mode.json) |
 | Elastic Fantastic | 167575 | [167575-elastic-fantastic.json](./167575-elastic-fantastic.json) |
 | Elastic Soccer | 323950 | [323950-elastic-soccer.json](./323950-elastic-soccer.json) |
@@ -3523,6 +3524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equinox | 13644 | [13644-equinox.json](./13644-equinox.json) |
 | Equinox | 197403 | [197403-equinox.json](./197403-equinox.json) |
 | Equinox | 203305 | [203305-equinox.json](./203305-equinox.json) |
+| Equinox | 224944 | [224944-equinox.json](./224944-equinox.json) |
 | Equinox | 264123 | [264123-equinox.json](./264123-equinox.json) |
 | Equinox | 329147 | [329147-equinox.json](./329147-equinox.json) |
 | Equinox: Homecoming | 342898 | [342898-equinox-homecoming.json](./342898-equinox-homecoming.json) |
