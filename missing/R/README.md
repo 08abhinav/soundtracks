@@ -3359,6 +3359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refuge | 110251 | [110251-refuge.json](./110251-refuge.json) |
 | Refuge | 226969 | [226969-refuge.json](./226969-refuge.json) |
 | Refuge For Troubles: Episode 1 - Dear Stranger | 171566 | [171566-refuge-for-troubles-episode-1-dear-stranger.json](./171566-refuge-for-troubles-episode-1-dear-stranger.json) |
+| Refuge of Embers | 236129 | [236129-refuge-of-embers.json](./236129-refuge-of-embers.json) |
 | Refugee: The Second Hearing | 253772 | [253772-refugee-the-second-hearing.json](./253772-refugee-the-second-hearing.json) |
 | Refunct | 13542 | [13542-refunct.json](./13542-refunct.json) |
 | Refund Me If You Can | 204074 | [204074-refund-me-if-you-can.json](./204074-refund-me-if-you-can.json) |
@@ -8213,6 +8214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooster II | 62696 | [62696-rooster-ii.json](./62696-rooster-ii.json) |
 | Rooster Rampage | 150285 | [150285-rooster-rampage.json](./150285-rooster-rampage.json) |
 | Rooster Saga: I Believe I Can Fly | 393529 | [393529-rooster-saga-i-believe-i-can-fly.json](./393529-rooster-saga-i-believe-i-can-fly.json) |
+| Rooster Tale | 236157 | [236157-rooster-tale.json](./236157-rooster-tale.json) |
 | Rooster Wars Tactic | 120235 | [120235-rooster-wars-tactic.json](./120235-rooster-wars-tactic.json) |
 | Rooster: Princess Rescue | 409558 | [409558-rooster-princess-rescue.json](./409558-rooster-princess-rescue.json) |
 | Root | 139145 | [139145-root.json](./139145-root.json) |
