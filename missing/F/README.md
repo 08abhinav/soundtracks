@@ -6674,7 +6674,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FNF: Spooky Mix | 365105 | [365105-fnf-spooky-mix.json](./365105-fnf-spooky-mix.json) |
 | FNF: V.S. Tabi Ex Boyfriend | 314513 | [314513-fnf-v-s-tabi-ex-boyfriend.json](./314513-fnf-v-s-tabi-ex-boyfriend.json) |
 | Foam | 138267 | [138267-foam.json](./138267-foam.json) |
-| Foamstars | 250623 | [250623-foamstars.json](./250623-foamstars.json) |
 | Fobia ...Worse Than Fear. | 242593 | [242593-fobia-worse-than-fear.json](./242593-fobia-worse-than-fear.json) |
 | Fobia: St. Dinfna Hotel | 133059 | [133059-fobia-st-dinfna-hotel.json](./133059-fobia-st-dinfna-hotel.json) |
 | Fobos | 79830 | [79830-fobos.json](./79830-fobos.json) |
