@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yatzy Classic | 105836 | [105836-yatzy-classic.json](./105836-yatzy-classic.json) |
 | Yatzy for iPad | 90798 | [90798-yatzy-for-ipad.json](./90798-yatzy-for-ipad.json) |
 | Yatzy Ultimate | 175304 | [175304-yatzy-ultimate.json](./175304-yatzy-ultimate.json) |
+| Yatzy Yacht Free | 232280 | [232280-yatzy-yacht-free.json](./232280-yatzy-yacht-free.json) |
 | YatzyDOS | 298946 | [298946-yatzydos.json](./298946-yatzydos.json) |
 | Yavalanche | 389739 | [389739-yavalanche.json](./389739-yavalanche.json) |
 | Yawara! | 58886 | [58886-yawara.json](./58886-yawara.json) |
