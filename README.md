@@ -95,6 +95,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7e/46/5a/7e465a01-cbca-57c6-2431-bcfd7310fddb/5054526021419_1.jpg/600x600bb.jpg" width="60" /> | [Angry Birds](https://ostdb.net/games/angry-birds) | **Angry Birds (Original Game Soundtrack) [Extended Edition]** · [Spotify](https://open.spotify.com/album/723enP78JetX37xpL5NcbG) · [Apple Music](https://music.apple.com/us/album/angry-birds-original-game-soundtrack-extended-edition-ep/1530256320) · [Album](https://album.link/i/1530256320) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733ed0b80b10c91f5cf64dc867" width="60" /> | [Angry Birds Epic](https://ostdb.net/games/angry-birds-epic) | **Angry Birds Epic! (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/21Ur9OWnLhUL3XajasOv32) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27346ef0301f6bf7feaa1f9f8ff" width="60" /> | [Angry Birds Friends](https://ostdb.net/games/angry-birds-friends) | **Angry Birds Friends (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2T8GJCIa92KFWpDswBXvOk) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273979195b7106e52843d1546ad" width="60" /> | [Angry Birds Go!](https://ostdb.net/games/angry-birds-go) | **Angry Birds Go! (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5RqzhhGDzmgfYnMuBRJRoR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273694e0b28183e5b0667f352ef" width="60" /> | [Angry Birds Space](https://ostdb.net/games/angry-birds-space) | **Angry Birds Space (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2ahYxY32maKsrZPBVtUp7E) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739ea0b2e2cc94ed73dad7f62c" width="60" /> | [Aniimo](https://ostdb.net/games/aniimo) | **Shine Beyond the Sky ("Aniimo"The Game Awards Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5zcqhr2NN4TiVh2ydl8TP2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e0ea09074e6c0634b6f5e168" width="60" /> | [Anno 117: Pax Romana](https://ostdb.net/games/anno-117-pax-romana) | **Anno 117: Pax Romana (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0IMO2z0yWS7LNWWHq356Wu) |
@@ -2021,4 +2022,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2338 soundtracks · last updated 2026-10-20T22:12:32.660Z_
+_2339 soundtracks · last updated 2026-10-20T22:15:38.352Z_
