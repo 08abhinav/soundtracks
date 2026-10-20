@@ -6932,6 +6932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Despair: Shadows Over Tokyo | 388252 | [388252-city-of-despair-shadows-over-tokyo.json](./388252-city-of-despair-shadows-over-tokyo.json) |
 | City of Dolorosa | 348319 | [348319-city-of-dolorosa.json](./348319-city-of-dolorosa.json) |
 | City of Dusk | 246951 | [246951-city-of-dusk.json](./246951-city-of-dusk.json) |
+| City of Elves | 223321 | [223321-city-of-elves.json](./223321-city-of-elves.json) |
 | City of Fools | 35520 | [35520-city-of-fools.json](./35520-city-of-fools.json) |
 | City of Gangsters: Bourbon Bootlegging | 227404 | [227404-city-of-gangsters-bourbon-bootlegging.json](./227404-city-of-gangsters-bourbon-bootlegging.json) |
 | City of Gangsters: Criminal Record | 193747 | [193747-city-of-gangsters-criminal-record.json](./193747-city-of-gangsters-criminal-record.json) |
@@ -6967,6 +6968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Stories: The Hunter's Heart | 417655 | [417655-city-of-stories-the-hunters-heart.json](./417655-city-of-stories-the-hunters-heart.json) |
 | City of Stories: The Hunter's Heart - Collector's Edition | 367607 | [367607-city-of-stories-the-hunters-heart-collectors-edition.json](./367607-city-of-stories-the-hunters-heart-collectors-edition.json) |
 | City of Stories: The Professor's Secret - Collector's Edition | 362839 | [362839-city-of-stories-the-professors-secret-collectors-edition.json](./362839-city-of-stories-the-professors-secret-collectors-edition.json) |
+| City of the Damned | 223314 | [223314-city-of-the-damned.json](./223314-city-of-the-damned.json) |
 | City of the Dead | 36835 | [36835-city-of-the-dead.json](./36835-city-of-the-dead.json) |
 | City of the Evil Dead | 282129 | [282129-city-of-the-evil-dead.json](./282129-city-of-the-evil-dead.json) |
 | City of the Shroud | 18354 | [18354-city-of-the-shroud.json](./18354-city-of-the-shroud.json) |
@@ -7562,6 +7564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click Dungeon | 259503 | [259503-click-dungeon.json](./259503-click-dungeon.json) |
 | Click for Biscuits! | 133766 | [133766-click-for-biscuits.json](./133766-click-for-biscuits.json) |
 | Click For Cash: Cashed Out | 265944 | [265944-click-for-cash-cashed-out.json](./265944-click-for-cash-cashed-out.json) |
+| Click For Points | 223315 | [223315-click-for-points.json](./223315-click-for-points.json) |
 | Click Here | 264761 | [264761-click-here.json](./264761-click-here.json) |
 | Click Legends | 118597 | [118597-click-legends.json](./118597-click-legends.json) |
 | Click Lovers | 203927 | [203927-click-lovers.json](./203927-click-lovers.json) |
@@ -12919,6 +12922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Coast: Gangster's Paradise | 69379 | [69379-crime-coast-gangsters-paradise.json](./69379-crime-coast-gangsters-paradise.json) |
 | Crime Code | 96022 | [96022-crime-code.json](./96022-crime-code.json) |
 | Crime Corporation | 174829 | [174829-crime-corporation.json](./174829-crime-corporation.json) |
+| Crime Cracker | 223348 | [223348-crime-cracker.json](./223348-crime-cracker.json) |
 | Crime District | 165699 | [165699-crime-district.json](./165699-crime-district.json) |
 | Crime Fighter 3 Pack | 131286 | [131286-crime-fighter-3-pack.json](./131286-crime-fighter-3-pack.json) |
 | Crime Fighters | 75525 | [75525-crime-fighters.json](./75525-crime-fighters.json) |
