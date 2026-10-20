@@ -3102,6 +3102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redacted | 373855 | [373855-redacted.json](./373855-redacted.json) |
 | Redacted by the Sadistic Princess from Another World?! | 402250 | [402250-redacted-by-the-sadistic-princess-from-another-world.json](./402250-redacted-by-the-sadistic-princess-from-another-world.json) |
 | Redacted Epilogue | 152505 | [152505-redacted-epilogue.json](./152505-redacted-epilogue.json) |
+| Redacted Hired Gun | 204917 | [204917-redacted-hired-gun.json](./204917-redacted-hired-gun.json) |
 | Redacted Life | 124679 | [124679-redacted-life.json](./124679-redacted-life.json) |
 | Redacted: Genome | 287196 | [287196-redacted-genome.json](./287196-redacted-genome.json) |
 | Redactem | 27470 | [27470-redactem.json](./27470-redactem.json) |
@@ -4451,6 +4452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retailer Tycoon | 148672 | [148672-retailer-tycoon.json](./148672-retailer-tycoon.json) |
 | Retale | 307749 | [307749-retale.json](./307749-retale.json) |
 | Retaliate | 300810 | [300810-retaliate.json](./300810-retaliate.json) |
+| Retchid | 204889 | [204889-retchid.json](./204889-retchid.json) |
 | reTension | 92085 | [92085-retension.json](./92085-retension.json) |
 | Retention | 36028 | [36028-retention.json](./36028-retention.json) |
 | Retention: A Love Story | 149597 | [149597-retention-a-love-story.json](./149597-retention-a-love-story.json) |
