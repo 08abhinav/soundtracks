@@ -13260,6 +13260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Three Stooges: Treasure Hunt Hijinks | 65184 | [65184-the-three-stooges-treasure-hunt-hijinks.json](./65184-the-three-stooges-treasure-hunt-hijinks.json) |
 | The Three Vegan Entrepreneurs | 376142 | [376142-the-three-vegan-entrepreneurs.json](./376142-the-three-vegan-entrepreneurs.json) |
 | The Three-Body Problem | 135694 | [135694-the-three-body-problem.json](./135694-the-three-body-problem.json) |
+| The Thrill of Combat | 242925 | [242925-the-thrill-of-combat.json](./242925-the-thrill-of-combat.json) |
 | The Thrill of the Fight 2 | 329781 | [329781-the-thrill-of-the-fight-2.json](./329781-the-thrill-of-the-fight-2.json) |
 | The Throne | 144329 | [144329-the-throne.json](./144329-the-throne.json) |
 | The Throne | 302117 | [302117-the-throne.json](./302117-the-throne.json) |
@@ -20243,6 +20244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of the Sorceror | 202778 | [202778-tower-of-the-sorceror.json](./202778-tower-of-the-sorceror.json) |
 | Tower of Titans | 375320 | [375320-tower-of-titans.json](./375320-tower-of-titans.json) |
 | Tower of Tori | 339289 | [339289-tower-of-tori.json](./339289-tower-of-tori.json) |
+| Tower of Traceability | 242955 | [242955-tower-of-traceability.json](./242955-tower-of-traceability.json) |
 | Tower of Trample | 346168 | [346168-tower-of-trample.json](./346168-tower-of-trample.json) |
 | Tower of unlife | 180831 | [180831-tower-of-unlife.json](./180831-tower-of-unlife.json) |
 | Tower of Waifus 2 | 148565 | [148565-tower-of-waifus-2.json](./148565-tower-of-waifus-2.json) |
