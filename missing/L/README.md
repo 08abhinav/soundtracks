@@ -451,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamb Fountain and Dungeon | 208086 | [208086-lamb-fountain-and-dungeon.json](./208086-lamb-fountain-and-dungeon.json) |
 | Lamb to the Slaughter | 323553 | [323553-lamb-to-the-slaughter.json](./323553-lamb-to-the-slaughter.json) |
 | Lambda Fortress | 345541 | [345541-lambda-fortress.json](./345541-lambda-fortress.json) |
+| Lambda Spellcrafting Academy | 243541 | [243541-lambda-spellcrafting-academy.json](./243541-lambda-spellcrafting-academy.json) |
 | Lambda Wars | 60785 | [60785-lambda-wars.json](./60785-lambda-wars.json) |
 | Lambdarune | 351685 | [351685-lambdarune.json](./351685-lambdarune.json) |
 | Lambo Jump | 234711 | [234711-lambo-jump.json](./234711-lambo-jump.json) |
@@ -555,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landelver | 285970 | [285970-landelver.json](./285970-landelver.json) |
 | Lander 8009 VR | 37039 | [37039-lander-8009-vr.json](./37039-lander-8009-vr.json) |
 | Landfall | 56511 | [56511-landfall.json](./56511-landfall.json) |
+| Landfall Archives | 243542 | [243542-landfall-archives.json](./243542-landfall-archives.json) |
 | Landgrabbers | 95683 | [95683-landgrabbers.json](./95683-landgrabbers.json) |
 | Landinar: Into the Void | 99162 | [99162-landinar-into-the-void.json](./99162-landinar-into-the-void.json) |
 | Landing Hero: Haneda x 787 | 199108 | [199108-landing-hero-haneda-x-787.json](./199108-landing-hero-haneda-x-787.json) |
@@ -1565,6 +1567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leafy Trails: Lost Soul | 265518 | [265518-leafy-trails-lost-soul.json](./265518-leafy-trails-lost-soul.json) |
 | Leafy Trails: Magic Tree | 264556 | [264556-leafy-trails-magic-tree.json](./264556-leafy-trails-magic-tree.json) |
 | League Bowling | 40206 | [40206-league-bowling.json](./40206-league-bowling.json) |
+| League Funny | 243543 | [243543-league-funny.json](./243543-league-funny.json) |
 | League Manager 2023 | 235696 | [235696-league-manager-2023.json](./235696-league-manager-2023.json) |
 | League of Abyss | 312573 | [312573-league-of-abyss.json](./312573-league-of-abyss.json) |
 | League of Angels | 23610 | [23610-league-of-angels.json](./23610-league-of-angels.json) |
@@ -5426,6 +5429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Sky | 115793 | [115793-long-sky.json](./115793-long-sky.json) |
 | Long Star | 131618 | [131618-long-star.json](./131618-long-star.json) |
 | Long Time No See | 143477 | [143477-long-time-no-see.json](./143477-long-time-no-see.json) |
+| Long Truck Simulator | 243544 | [243544-long-truck-simulator.json](./243544-long-truck-simulator.json) |
 | Long War of the Chosen | 315590 | [315590-long-war-of-the-chosen.json](./315590-long-war-of-the-chosen.json) |
 | Long Yard Run | 311052 | [311052-long-yard-run.json](./311052-long-yard-run.json) |
 | Long Z-Night | 118446 | [118446-long-z-night.json](./118446-long-z-night.json) |
@@ -6666,6 +6670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoveLive! Superstar!! Memory Collect | 386836 | [386836-lovelive-superstar-memory-collect.json](./386836-lovelive-superstar-memory-collect.json) |
 | Lovelorn Sanatorium I | 220608 | [220608-lovelorn-sanatorium-i.json](./220608-lovelorn-sanatorium-i.json) |
 | Lovelorn Sanatorium Ⅲ | 239654 | [239654-lovelorn-sanatorium-iii.json](./239654-lovelorn-sanatorium-iii.json) |
+| Lovelorn Sanatorium Ⅳ | 243545 | [243545-lovelorn-sanatorium-iv.json](./243545-lovelorn-sanatorium-iv.json) |
 | Lovelove Boin: High-handed Girl's Boobs | 97374 | [97374-lovelove-boin-high-handed-girls-boobs.json](./97374-lovelove-boin-high-handed-girls-boobs.json) |
 | Lovely Anemone | 184905 | [184905-lovely-anemone.json](./184905-lovely-anemone.json) |
 | Lovely Animal Stories | 173201 | [173201-lovely-animal-stories.json](./173201-lovely-animal-stories.json) |
