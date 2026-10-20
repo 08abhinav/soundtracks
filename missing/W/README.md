@@ -2769,6 +2769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What do I want? | 178498 | [178498-what-do-i-want.json](./178498-what-do-i-want.json) |
 | What do You Call a Group of Skeletons? | 352546 | [352546-what-do-you-call-a-group-of-skeletons.json](./352546-what-do-you-call-a-group-of-skeletons.json) |
 | What Do You Know? | 234723 | [234723-what-do-you-know.json](./234723-what-do-you-know.json) |
+| What Friends Are For | 251375 | [251375-what-friends-are-for.json](./251375-what-friends-are-for.json) |
 | What Girls Do in the Dark | 323557 | [323557-what-girls-do-in-the-dark.json](./323557-what-girls-do-in-the-dark.json) |
 | What Goes Pumpkin the Night | 186181 | [186181-what-goes-pumpkin-the-night.json](./186181-what-goes-pumpkin-the-night.json) |
 | What Goes Up | 144786 | [144786-what-goes-up.json](./144786-what-goes-up.json) |
@@ -4738,6 +4739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Story | 215653 | [215653-witch-story.json](./215653-witch-story.json) |
 | Witch Sword | 81963 | [81963-witch-sword.json](./81963-witch-sword.json) |
 | Witch Thief | 55464 | [55464-witch-thief.json](./55464-witch-thief.json) |
+| Witch Trainer | 251384 | [251384-witch-trainer.json](./251384-witch-trainer.json) |
 | Witch Trials | 76874 | [76874-witch-trials.json](./76874-witch-trials.json) |
 | Witch War 1 | 352384 | [352384-witch-war-1.json](./352384-witch-war-1.json) |
 | Witch Weapon | 113628 | [113628-witch-weapon.json](./113628-witch-weapon.json) |
