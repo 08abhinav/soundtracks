@@ -5625,6 +5625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha-1 | 14250 | [14250-alpha-1.json](./14250-alpha-1.json) |
 | Alpha-Nighthawk | 222841 | [222841-alpha-nighthawk.json](./222841-alpha-nighthawk.json) |
 | Alphabear | 19954 | [19954-alphabear.json](./19954-alphabear.json) |
+| Alphabear 2 | 238300 | [238300-alphabear-2.json](./238300-alphabear-2.json) |
 | Alphabear Hustle | 396230 | [396230-alphabear-hustle.json](./396230-alphabear-hustle.json) |
 | Alphabear: Hardcover Edition | 52053 | [52053-alphabear-hardcover-edition.json](./52053-alphabear-hardcover-edition.json) |
 | Alphabeats: Master Edition | 34054 | [34054-alphabeats-master-edition.json](./34054-alphabeats-master-edition.json) |
@@ -13519,6 +13520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azumi | 90930 | [90930-azumi.json](./90930-azumi.json) |
 | Azumi and the Vertical Slice | 257075 | [257075-azumi-and-the-vertical-slice.json](./257075-azumi-and-the-vertical-slice.json) |
 | Azur Lane | 70708 | [70708-azur-lane.json](./70708-azur-lane.json) |
+| Azur Lane: Complete Deluxe Edition | 238327 | [238327-azur-lane-complete-deluxe-edition.json](./238327-azur-lane-complete-deluxe-edition.json) |
 | Azur Lane: Crosswave | 109475 | [109475-azur-lane-crosswave.json](./109475-azur-lane-crosswave.json) |
 | Azur Lane: Crosswave - Commanders Calendar Edition | 139918 | [139918-azur-lane-crosswave-commanders-calendar-edition.json](./139918-azur-lane-crosswave-commanders-calendar-edition.json) |
 | Azura | 74218 | [74218-azura.json](./74218-azura.json) |
@@ -13542,6 +13544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azure Striker Gunvolt | 10373 | [10373-azure-striker-gunvolt.json](./10373-azure-striker-gunvolt.json) |
 | Azure Striker Gunvolt 2 | 18197 | [18197-azure-striker-gunvolt-2.json](./18197-azure-striker-gunvolt-2.json) |
 | Azure Striker Gunvolt 3 | 135503 | [135503-azure-striker-gunvolt-3.json](./135503-azure-striker-gunvolt-3.json) |
+| Azure Striker Gunvolt 3: Ex Image Pulses - Merak and Teseo Pack | 238320 | [238320-azure-striker-gunvolt-3-ex-image-pulses-merak-and-teseo-pack.json](./238320-azure-striker-gunvolt-3-ex-image-pulses-merak-and-teseo-pack.json) |
 | Azure Striker Gunvolt 3: Ex Image Pulses - Nova and Desna pack | 265595 | [265595-azure-striker-gunvolt-3-ex-image-pulses-nova-and-desna-pack.json](./265595-azure-striker-gunvolt-3-ex-image-pulses-nova-and-desna-pack.json) |
 | Azure Striker Gunvolt Trilogy Enhanced | 335400 | [335400-azure-striker-gunvolt-trilogy-enhanced.json](./335400-azure-striker-gunvolt-trilogy-enhanced.json) |
 | Azure Striker Gunvolt: Striker Pack | 29529 | [29529-azure-striker-gunvolt-striker-pack.json](./29529-azure-striker-gunvolt-striker-pack.json) |
