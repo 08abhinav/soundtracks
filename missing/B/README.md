@@ -2932,6 +2932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Guang | 358489 | [358489-battle-of-guang.json](./358489-battle-of-guang.json) |
 | Battle of Guardians | 238646 | [238646-battle-of-guardians.json](./238646-battle-of-guardians.json) |
 | Battle of Heroes 3 | 196877 | [196877-battle-of-heroes-3.json](./196877-battle-of-heroes-3.json) |
+| Battle of Heroes: Land of Immortals | 232855 | [232855-battle-of-heroes-land-of-immortals.json](./232855-battle-of-heroes-land-of-immortals.json) |
 | Battle of Hořice 1423 | 240716 | [240716-battle-of-horice-1423.json](./240716-battle-of-horice-1423.json) |
 | Battle of Hoth | 339851 | [339851-battle-of-hoth.json](./339851-battle-of-hoth.json) |
 | Battle of Keys | 90152 | [90152-battle-of-keys.json](./90152-battle-of-keys.json) |
@@ -3499,6 +3500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bazoo | 56293 | [56293-bazoo.json](./56293-bazoo.json) |
 | Bazooka Bill | 13811 | [13811-bazooka-bill.json](./13811-bazooka-bill.json) |
 | Bazooka Blitzkrieg | 42627 | [42627-bazooka-blitzkrieg.json](./42627-bazooka-blitzkrieg.json) |
+| Bazooka Bois | 232831 | [232831-bazooka-bois.json](./232831-bazooka-bois.json) |
 | Bazooka Boy | 227498 | [227498-bazooka-boy.json](./227498-bazooka-boy.json) |
 | Bazooka Cafe | 72633 | [72633-bazooka-cafe.json](./72633-bazooka-cafe.json) |
 | Bazooka Cat: First Episode | 233635 | [233635-bazooka-cat-first-episode.json](./233635-bazooka-cat-first-episode.json) |
@@ -4531,6 +4533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before Your Eyes | 305472 | [305472-before-your-eyes.json](./305472-before-your-eyes.json) |
 | BeforeDisaster | 368224 | [368224-beforedisaster.json](./368224-beforedisaster.json) |
 | Befriendus | 179700 | [179700-befriendus.json](./179700-befriendus.json) |
+| Befuddle | 232875 | [232875-befuddle.json](./232875-befuddle.json) |
 | Bega's Battle | 23938 | [23938-begas-battle.json](./23938-begas-battle.json) |
 | Beggar Simulator: Istanbul | 413815 | [413815-beggar-simulator-istanbul.json](./413815-beggar-simulator-istanbul.json) |
 | Beggar to Emperor | 353367 | [353367-beggar-to-emperor.json](./353367-beggar-to-emperor.json) |
@@ -4787,6 +4790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10: Omniverse 2 | 287019 | [287019-ben-10-omniverse-2.json](./287019-ben-10-omniverse-2.json) |
 | Ben 10: Omniverse 2 | 287020 | [287020-ben-10-omniverse-2.json](./287020-ben-10-omniverse-2.json) |
 | Ben 10: Omniverse 2 | 5310 | [5310-ben-10-omniverse-2.json](./5310-ben-10-omniverse-2.json) |
+| Ben 10: Omniverse Undertown Chase | 232858 | [232858-ben-10-omniverse-undertown-chase.json](./232858-ben-10-omniverse-undertown-chase.json) |
 | Ben 10: Power of the Omnitrix | 257852 | [257852-ben-10-power-of-the-omnitrix.json](./257852-ben-10-power-of-the-omnitrix.json) |
 | Ben 10: Power Splash | 203149 | [203149-ben-10-power-splash.json](./203149-ben-10-power-splash.json) |
 | Ben 10: Power Trip | 136659 | [136659-ben-10-power-trip.json](./136659-ben-10-power-trip.json) |
@@ -12450,6 +12454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bucky O'Hare | 18808 | [18808-bucky-ohare.json](./18808-bucky-ohare.json) |
 | Bud Blitz | 115521 | [115521-bud-blitz.json](./115521-bud-blitz.json) |
 | Bud Farm Idle Tycoon | 215104 | [215104-bud-farm-idle-tycoon.json](./215104-bud-farm-idle-tycoon.json) |
+| Bud Farm: Grass Roots | 232847 | [232847-bud-farm-grass-roots.json](./232847-bud-farm-grass-roots.json) |
 | Bud Farm: Munchie Match | 245347 | [245347-bud-farm-munchie-match.json](./245347-bud-farm-munchie-match.json) |
 | Bud Masters: Battle Edition | 142316 | [142316-bud-masters-battle-edition.json](./142316-bud-masters-battle-edition.json) |
 | Bud Masters: Peace Edition | 294040 | [294040-bud-masters-peace-edition.json](./294040-bud-masters-peace-edition.json) |
