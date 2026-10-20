@@ -9838,6 +9838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Big Crisis | 217793 | [217793-the-little-big-crisis.json](./217793-the-little-big-crisis.json) |
 | The Little Black Bestiary: A Midsummer Night's Barcrawl | 151498 | [151498-the-little-black-bestiary-a-midsummer-nights-barcrawl.json](./151498-the-little-black-bestiary-a-midsummer-nights-barcrawl.json) |
 | The Little Crumb | 401285 | [401285-the-little-crumb.json](./401285-the-little-crumb.json) |
+| The Little Cuttle Goes to Battle | 211595 | [211595-the-little-cuttle-goes-to-battle.json](./211595-the-little-cuttle-goes-to-battle.json) |
 | The Little Drone 2 | 172202 | [172202-the-little-drone-2.json](./172202-the-little-drone-2.json) |
 | The Little Engine That Could | 242030 | [242030-the-little-engine-that-could.json](./242030-the-little-engine-that-could.json) |
 | The Little Girl Mill of a Ginko | 300383 | [300383-the-little-girl-mill-of-a-ginko.json](./300383-the-little-girl-mill-of-a-ginko.json) |
@@ -10958,6 +10959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The OmniGallery | 158412 | [158412-the-omnigallery.json](./158412-the-omnigallery.json) |
 | The One | 289973 | [289973-the-one.json](./289973-the-one.json) |
 | The One Behind You | 408284 | [408284-the-one-behind-you.json](./408284-the-one-behind-you.json) |
+| The One Chapter 1 | 211578 | [211578-the-one-chapter-1.json](./211578-the-one-chapter-1.json) |
 | The One Fish | 410892 | [410892-the-one-fish.json](./410892-the-one-fish.json) |
 | The One Fork Restaurant | 175255 | [175255-the-one-fork-restaurant.json](./175255-the-one-fork-restaurant.json) |
 | The One Way Challenge | 259413 | [259413-the-one-way-challenge.json](./259413-the-one-way-challenge.json) |
@@ -11056,6 +11058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outcast Lovers | 135899 | [135899-the-outcast-lovers.json](./135899-the-outcast-lovers.json) |
 | The Outer Darkness | 274200 | [274200-the-outer-darkness.json](./274200-the-outer-darkness.json) |
 | The Outer Frame | 399859 | [399859-the-outer-frame.json](./399859-the-outer-frame.json) |
+| The Outer Radius | 211602 | [211602-the-outer-radius.json](./211602-the-outer-radius.json) |
 | The Outer Reaches | 345703 | [345703-the-outer-reaches.json](./345703-the-outer-reaches.json) |
 | The Outer Rim: Survivor | 97344 | [97344-the-outer-rim-survivor.json](./97344-the-outer-rim-survivor.json) |
 | The Outer Side | 329611 | [329611-the-outer-side.json](./329611-the-outer-side.json) |
@@ -21077,6 +21080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trailer Park Tycoon: Raccoon Ranch | 316488 | [316488-trailer-park-tycoon-raccoon-ranch.json](./316488-trailer-park-tycoon-raccoon-ranch.json) |
 | Trailer Park Zombies | 389462 | [389462-trailer-park-zombies.json](./389462-trailer-park-zombies.json) |
 | Trailer Shop Simulator | 167354 | [167354-trailer-shop-simulator.json](./167354-trailer-shop-simulator.json) |
+| Trailer Tales | 211609 | [211609-trailer-tales.json](./211609-trailer-tales.json) |
 | Trailer Trashers | 130157 | [130157-trailer-trashers.json](./130157-trailer-trashers.json) |
 | Trailmakers: Decals - Expression Pack | 308437 | [308437-trailmakers-decals-expression-pack.json](./308437-trailmakers-decals-expression-pack.json) |
 | Trailmakers: Deluxe Edition | 187896 | [187896-trailmakers-deluxe-edition.json](./187896-trailmakers-deluxe-edition.json) |
@@ -23724,6 +23728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trouble Witches Episode 1 Daughters of Amalgam | 381300 | [381300-trouble-witches-episode-1-daughters-of-amalgam.json](./381300-trouble-witches-episode-1-daughters-of-amalgam.json) |
 | Trouble Witches Final!: Cotton & Silk DLC | 357025 | [357025-trouble-witches-final-cotton-and-silk-dlc.json](./357025-trouble-witches-final-cotton-and-silk-dlc.json) |
 | Trouble Zone | 92403 | [92403-trouble-zone.json](./92403-trouble-zone.json) |
+| Troubled Passage | 211599 | [211599-troubled-passage.json](./211599-troubled-passage.json) |
 | Troubled Waters | 187221 | [187221-troubled-waters.json](./187221-troubled-waters.json) |
 | Troubled Waters | 352254 | [352254-troubled-waters.json](./352254-troubled-waters.json) |
 | TroubleDays | 129346 | [129346-troubledays.json](./129346-troubledays.json) |
@@ -24091,6 +24096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TS!Underswap | 212220 | [212220-ts-underswap.json](./212220-ts-underswap.json) |
 | TS2: Train Signalling Simulator | 118713 | [118713-ts2-train-signalling-simulator.json](./118713-ts2-train-signalling-simulator.json) |
 | TSA Frisky VR | 89964 | [89964-tsa-frisky-vr.json](./89964-tsa-frisky-vr.json) |
+| TSA: Thieves Strike Again | 211608 | [211608-tsa-thieves-strike-again.json](./211608-tsa-thieves-strike-again.json) |
 | Tsan-shadow Ninja | 351724 | [351724-tsan-shadow-ninja.json](./351724-tsan-shadow-ninja.json) |
 | Tsardoms: Total War | 356249 | [356249-tsardoms-total-war.json](./356249-tsardoms-total-war.json) |
 | Tsarevna: Age of Tales | 350213 | [350213-tsarevna-age-of-tales.json](./350213-tsarevna-age-of-tales.json) |
