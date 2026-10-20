@@ -2720,6 +2720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oppai Daisuki | 393373 | [393373-oppai-daisuki.json](./393373-oppai-daisuki.json) |
 | Oppai Heart: Kanojo wa Kedamono Hatsujouki!? | 77934 | [77934-oppai-heart-kanojo-wa-kedamono-hatsujouki.json](./77934-oppai-heart-kanojo-wa-kedamono-hatsujouki.json) |
 | Oppai Muse | 203383 | [203383-oppai-muse.json](./203383-oppai-muse.json) |
+| Oppai Odyssey | 240064 | [240064-oppai-odyssey.json](./240064-oppai-odyssey.json) |
 | Oppai Oppai Orbs | 341683 | [341683-oppai-oppai-orbs.json](./341683-oppai-oppai-orbs.json) |
 | Oppai Puzzle | 335440 | [335440-oppai-puzzle.json](./335440-oppai-puzzle.json) |
 | Oppai Puzzle L | 209481 | [209481-oppai-puzzle-l.json](./209481-oppai-puzzle-l.json) |
