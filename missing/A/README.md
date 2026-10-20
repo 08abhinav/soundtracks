@@ -5977,6 +5977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaze Gears 3 | 158660 | [158660-amaze-gears-3.json](./158660-amaze-gears-3.json) |
 | Amaze St.Patrick | 114548 | [114548-amaze-st-patrick.json](./114548-amaze-st-patrick.json) |
 | Amaze Untouchable | 81960 | [81960-amaze-untouchable.json](./81960-amaze-untouchable.json) |
+| Amaze Valentine | 230121 | [230121-amaze-valentine.json](./230121-amaze-valentine.json) |
 | Amaze Zer0 | 51424 | [51424-amaze-zer0.json](./51424-amaze-zer0.json) |
 | Amaze: Easter | 116186 | [116186-amaze-easter.json](./116186-amaze-easter.json) |
 | Amaze: Halloween | 110183 | [110183-amaze-halloween.json](./110183-amaze-halloween.json) |
@@ -6038,6 +6039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Maze | 217486 | [217486-amazing-maze.json](./217486-amazing-maze.json) |
 | Amazing Maze / Tic-Tac-Toe | 169264 | [169264-amazing-maze-tic-tac-toe.json](./169264-amazing-maze-tic-tac-toe.json) |
 | Amazing Maze/Tic Tac Toe | 94148 | [94148-amazing-maze-tic-tac-toe.json](./94148-amazing-maze-tic-tac-toe.json) |
+| Amazing Online | 230131 | [230131-amazing-online.json](./230131-amazing-online.json) |
 | Amazing Penguin | 7753 | [7753-amazing-penguin.json](./7753-amazing-penguin.json) |
 | Amazing Penguin DX | 279579 | [279579-amazing-penguin-dx.json](./279579-amazing-penguin-dx.json) |
 | Amazing Pets Bundle | 212788 | [212788-amazing-pets-bundle.json](./212788-amazing-pets-bundle.json) |
