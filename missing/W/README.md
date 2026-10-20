@@ -1103,9 +1103,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Deathwatch - Enhanced Edition | 34636 | [34636-warhammer-40-000-deathwatch-enhanced-edition.json](./34636-warhammer-40-000-deathwatch-enhanced-edition.json) |
 | Warhammer 40,000: Deathwatch Tyranids Invasion | 30804 | [30804-warhammer-40-000-deathwatch-tyranids-invasion.json](./30804-warhammer-40-000-deathwatch-tyranids-invasion.json) |
 | Warhammer 40,000: Eternal Crusade | 7630 | [7630-warhammer-40-000-eternal-crusade.json](./7630-warhammer-40-000-eternal-crusade.json) |
+| Warhammer 40,000: Eternal Crusade - Abaddon War Pack | 224431 | [224431-warhammer-40-000-eternal-crusade-abaddon-war-pack.json](./224431-warhammer-40-000-eternal-crusade-abaddon-war-pack.json) |
 | Warhammer 40,000: Eternal Crusade - Belial War Pack | 225868 | [225868-warhammer-40-000-eternal-crusade-belial-war-pack.json](./225868-warhammer-40-000-eternal-crusade-belial-war-pack.json) |
+| Warhammer 40,000: Eternal Crusade - Champion Weapon Pack | 224433 | [224433-warhammer-40-000-eternal-crusade-champion-weapon-pack.json](./224433-warhammer-40-000-eternal-crusade-champion-weapon-pack.json) |
 | Warhammer 40,000: Eternal Crusade - Imperium Edition | 53902 | [53902-warhammer-40-000-eternal-crusade-imperium-edition.json](./53902-warhammer-40-000-eternal-crusade-imperium-edition.json) |
+| Warhammer 40,000: Eternal Crusade - Mael Dannan Weapon Pack | 224434 | [224434-warhammer-40-000-eternal-crusade-mael-dannan-weapon-pack.json](./224434-warhammer-40-000-eternal-crusade-mael-dannan-weapon-pack.json) |
 | Warhammer 40,000: Eternal Crusade - Squadron Edition | 53901 | [53901-warhammer-40-000-eternal-crusade-squadron-edition.json](./53901-warhammer-40-000-eternal-crusade-squadron-edition.json) |
+| Warhammer 40,000: Eternal Crusade - Waaagh! Weapon Pack | 224432 | [224432-warhammer-40-000-eternal-crusade-waaagh-weapon-pack.json](./224432-warhammer-40-000-eternal-crusade-waaagh-weapon-pack.json) |
+| Warhammer 40,000: Eternal Crusade - Zealot Weapon Pack | 224430 | [224430-warhammer-40-000-eternal-crusade-zealot-weapon-pack.json](./224430-warhammer-40-000-eternal-crusade-zealot-weapon-pack.json) |
 | Warhammer 40,000: Fire Warrior | 9550 | [9550-warhammer-40-000-fire-warrior.json](./9550-warhammer-40-000-fire-warrior.json) |
 | Warhammer 40,000: Freeblade | 34420 | [34420-warhammer-40-000-freeblade.json](./34420-warhammer-40-000-freeblade.json) |
 | Warhammer 40,000: Gladius - Drukhari | 275818 | [275818-warhammer-40-000-gladius-drukhari.json](./275818-warhammer-40-000-gladius-drukhari.json) |
@@ -6423,6 +6428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War Z: Sin City Apocalypse Episode | 339072 | [339072-world-war-z-sin-city-apocalypse-episode.json](./339072-world-war-z-sin-city-apocalypse-episode.json) |
 | World War Z: Vegas Skin Pack | 339073 | [339073-world-war-z-vegas-skin-pack.json](./339073-world-war-z-vegas-skin-pack.json) |
 | World War Z: Victory Lap Weapons Skin Pack | 332045 | [332045-world-war-z-victory-lap-weapons-skin-pack.json](./332045-world-war-z-victory-lap-weapons-skin-pack.json) |
+| World War Z: Zeke Hunter Weapons Pack | 224394 | [224394-world-war-z-zeke-hunter-weapons-pack.json](./224394-world-war-z-zeke-hunter-weapons-pack.json) |
 | World War Zero | 127176 | [127176-world-war-zero.json](./127176-world-war-zero.json) |
 | World War: Battle of the Bulge | 300827 | [300827-world-war-battle-of-the-bulge.json](./300827-world-war-battle-of-the-bulge.json) |
 | World War: Combat Guardian | 251049 | [251049-world-war-combat-guardian.json](./251049-world-war-combat-guardian.json) |
