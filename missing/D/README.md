@@ -900,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dap | 143326 | [143326-dap.json](./143326-dap.json) |
 | Dapithapon | 341088 | [341088-dapithapon.json](./341088-dapithapon.json) |
 | Dappervolk | 130667 | [130667-dappervolk.json](./130667-dappervolk.json) |
+| Dappou Undead Factory | 206544 | [206544-dappou-undead-factory.json](./206544-dappou-undead-factory.json) |
 | Darby the Dragon | 72931 | [72931-darby-the-dragon.json](./72931-darby-the-dragon.json) |
 | Darco: Reign of Elements | 90092 | [90092-darco-reign-of-elements.json](./90092-darco-reign-of-elements.json) |
 | Darconika: The Cube of Soul | 32850 | [32850-darconika-the-cube-of-soul.json](./32850-darconika-the-cube-of-soul.json) |
@@ -12438,6 +12439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive in the Rain | 414818 | [414818-drive-in-the-rain.json](./414818-drive-in-the-rain.json) |
 | Drive Isle | 44178 | [44178-drive-isle.json](./44178-drive-isle.json) |
 | Drive Mad | 371327 | [371327-drive-mad.json](./371327-drive-mad.json) |
+| Drive Master: Simple Operation | 206557 | [206557-drive-master-simple-operation.json](./206557-drive-master-simple-operation.json) |
 | Drive Me Broke | 373107 | [373107-drive-me-broke.json](./373107-drive-me-broke.json) |
 | Drive Me to Hell | 253969 | [253969-drive-me-to-hell.json](./253969-drive-me-to-hell.json) |
 | Drive Megapolis | 31659 | [31659-drive-megapolis.json](./31659-drive-megapolis.json) |
@@ -14299,6 +14301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dyna Blade | 271402 | [271402-dyna-blade.json](./271402-dyna-blade.json) |
 | Dyna Bomb | 32732 | [32732-dyna-bomb.json](./32732-dyna-bomb.json) |
 | Dyna Bomb 2 | 206423 | [206423-dyna-bomb-2.json](./206423-dyna-bomb-2.json) |
+| Dyna Marisa 3D | 206571 | [206571-dyna-marisa-3d.json](./206571-dyna-marisa-3d.json) |
 | Dynablaster Revenge | 18445 | [18445-dynablaster-revenge.json](./18445-dynablaster-revenge.json) |
 | Dynabusters | 92413 | [92413-dynabusters.json](./92413-dynabusters.json) |
 | Dynacat | 196958 | [196958-dynacat.json](./196958-dynacat.json) |
