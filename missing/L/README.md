@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L the Prologue to Death Note -Spiraling Trap- | 22390 | [22390-l-the-prologue-to-death-note-spiraling-trap.json](./22390-l-the-prologue-to-death-note-spiraling-trap.json) |
 | L_Ender 's Cataclysm | 341940 | [341940-l-ender-s-cataclysm.json](./341940-l-ender-s-cataclysm.json) |
 | L-Dis | 37593 | [37593-l-dis.json](./37593-l-dis.json) |
+| L-Racers | 207180 | [207180-l-racers.json](./207180-l-racers.json) |
 | L-Room | 262936 | [262936-l-room.json](./262936-l-room.json) |
 | L-RPG | 98036 | [98036-l-rpg.json](./98036-l-rpg.json) |
 | L: An Interactive Mystery | 178883 | [178883-l-an-interactive-mystery.json](./178883-l-an-interactive-mystery.json) |
