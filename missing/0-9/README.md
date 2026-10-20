@@ -1516,6 +1516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Pack | 86016 | [86016-3-pack.json](./86016-3-pack.json) |
 | 3 Pandas In Fantasy | 381988 | [381988-3-pandas-in-fantasy.json](./381988-3-pandas-in-fantasy.json) |
 | 3 Pandas in Japan | 381989 | [381989-3-pandas-in-japan.json](./381989-3-pandas-in-japan.json) |
+| 3 Peak Deluxe | 205956 | [205956-3-peak-deluxe.json](./205956-3-peak-deluxe.json) |
 | 3 Player Battle | 58720 | [58720-3-player-battle.json](./58720-3-player-battle.json) |
 | 3 Point Contest | 64319 | [64319-3-point-contest.json](./64319-3-point-contest.json) |
 | 3 Scary Games | 254035 | [254035-3-scary-games.json](./254035-3-scary-games.json) |
@@ -1545,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-D Ultra Pinball: Thrillride | 49881 | [49881-3-d-ultra-pinball-thrillride.json](./49881-3-d-ultra-pinball-thrillride.json) |
 | 3-D Ultra Pinball: Thrillride | 50468 | [50468-3-d-ultra-pinball-thrillride.json](./50468-3-d-ultra-pinball-thrillride.json) |
 | 3-D Ultra Radio Control Racers | 9116 | [9116-3-d-ultra-radio-control-racers.json](./9116-3-d-ultra-radio-control-racers.json) |
+| 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition | 205953 | [205953-3-d-ultra-radio-control-racers-deluxe-traxxas-edition.json](./205953-3-d-ultra-radio-control-racers-deluxe-traxxas-edition.json) |
 | 3-D Vector Pong | 78746 | [78746-3-d-vector-pong.json](./78746-3-d-vector-pong.json) |
 | 3-D Zapper | 268566 | [268566-3-d-zapper.json](./268566-3-d-zapper.json) |
 | 3-Demon | 14470 | [14470-3-demon.json](./14470-3-demon.json) |
@@ -1757,6 +1759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Pong | 176772 | [176772-3d-pong.json](./176772-3d-pong.json) |
 | 3D Pool All Stars | 92596 | [92596-3d-pool-all-stars.json](./92596-3d-pool-all-stars.json) |
 | 3D Pool Game | 88273 | [88273-3d-pool-game.json](./88273-3d-pool-game.json) |
+| 3D Pool: Billiards & Snooker | 205948 | [205948-3d-pool-billiards-and-snooker.json](./205948-3d-pool-billiards-and-snooker.json) |
 | 3D PrintMaster Simulator | 273297 | [273297-3d-printmaster-simulator.json](./273297-3d-printmaster-simulator.json) |
 | 3D Puyo Puyo 2: Tsuu | 87195 | [87195-3d-puyo-puyo-2-tsuu.json](./87195-3d-puyo-puyo-2-tsuu.json) |
 | 3D Puzzle Dark Fantasy | 357751 | [357751-3d-puzzle-dark-fantasy.json](./357751-3d-puzzle-dark-fantasy.json) |
@@ -1809,11 +1812,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Shooting Tsukuuru | 60581 | [60581-3d-shooting-tsukuuru.json](./60581-3d-shooting-tsukuuru.json) |
 | 3D Slime | 320843 | [320843-3d-slime.json](./320843-3d-slime.json) |
 | 3D Snake . io | 100864 | [100864-3d-snake-io.json](./100864-3d-snake-io.json) |
+| 3D Snowboard Resort Designer | 205950 | [205950-3d-snowboard-resort-designer.json](./205950-3d-snowboard-resort-designer.json) |
 | 3D Sonic Action | 331719 | [331719-3d-sonic-action.json](./331719-3d-sonic-action.json) |
 | 3D Sonic the Hedgehog | 84656 | [84656-3d-sonic-the-hedgehog.json](./84656-3d-sonic-the-hedgehog.json) |
 | 3D Space Harrier | 47687 | [47687-3d-space-harrier.json](./47687-3d-space-harrier.json) |
 | 3D Space Invaders | 286676 | [286676-3d-space-invaders.json](./286676-3d-space-invaders.json) |
 | 3D Space Ranger | 15578 | [15578-3d-space-ranger.json](./15578-3d-space-ranger.json) |
+| 3D Space Station Adventure | 205951 | [205951-3d-space-station-adventure.json](./205951-3d-space-station-adventure.json) |
+| 3D Spades Deluxe | 205952 | [205952-3d-spades-deluxe.json](./205952-3d-spades-deluxe.json) |
 | 3D Star Fighter | 279697 | [279697-3d-star-fighter.json](./279697-3d-star-fighter.json) |
 | 3D Starstrike | 13271 | [13271-3d-starstrike.json](./13271-3d-starstrike.json) |
 | 3D Stereo Studio | 80505 | [80505-3d-stereo-studio.json](./80505-3d-stereo-studio.json) |
@@ -1830,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Turbo OutRun | 202923 | [202923-3d-turbo-outrun.json](./202923-3d-turbo-outrun.json) |
 | 3D Twist & Match | 65551 | [65551-3d-twist-and-match.json](./65551-3d-twist-and-match.json) |
 | 3D Ultra Lionel Traintown | 10735 | [10735-3d-ultra-lionel-traintown.json](./10735-3d-ultra-lionel-traintown.json) |
+| 3D Ultra Lionel Traintown Deluxe | 205954 | [205954-3d-ultra-lionel-traintown-deluxe.json](./205954-3d-ultra-lionel-traintown-deluxe.json) |
 | 3D Ultra Minigolf Adventures | 9899 | [9899-3d-ultra-minigolf-adventures.json](./9899-3d-ultra-minigolf-adventures.json) |
 | 3D Ultra Minigolf Adventures 2 | 52039 | [52039-3d-ultra-minigolf-adventures-2.json](./52039-3d-ultra-minigolf-adventures-2.json) |
 | 3D Ultra Minigolf Adventures: Carnival | 73260 | [73260-3d-ultra-minigolf-adventures-carnival.json](./73260-3d-ultra-minigolf-adventures-carnival.json) |
@@ -1872,6 +1879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3on3 FreeStyle: Rebound | 135748 | [135748-3on3-freestyle-rebound.json](./135748-3on3-freestyle-rebound.json) |
 | 3rd Degree | 45948 | [45948-3rd-degree.json](./45948-3rd-degree.json) |
 | 3rd Invasion: Zombies vs. Steel | 114555 | [114555-3rd-invasion-zombies-vs-steel.json](./114555-3rd-invasion-zombies-vs-steel.json) |
+| 3rd Space Incursion | 205958 | [205958-3rd-space-incursion.json](./205958-3rd-space-incursion.json) |
 | 3rd World Farmer | 56460 | [56460-3rd-world-farmer.json](./56460-3rd-world-farmer.json) |
 | 3Souls | 26407 | [26407-3souls.json](./26407-3souls.json) |
 | 3Souls | 409216 | [409216-3souls.json](./409216-3souls.json) |
@@ -2121,6 +2129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Red Mickeys | 362723 | [362723-5-red-mickeys.json](./362723-5-red-mickeys.json) |
 | 5 Spots Party | 51102 | [51102-5-spots-party.json](./51102-5-spots-party.json) |
 | 5 Star Fishy | 245937 | [245937-5-star-fishy.json](./245937-5-star-fishy.json) |
+| 5 Star Generals | 205960 | [205960-5-star-generals.json](./205960-5-star-generals.json) |
 | 5 Star Hawaii Resort | 338906 | [338906-5-star-hawaii-resort.json](./338906-5-star-hawaii-resort.json) |
 | 5 Star Miami Resort | 338907 | [338907-5-star-miami-resort.json](./338907-5-star-miami-resort.json) |
 | 5 Star Racing | 44820 | [44820-5-star-racing.json](./44820-5-star-racing.json) |
