@@ -158,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack's Gang | 29159 | [29159-jacks-gang.json](./29159-jacks-gang.json) |
 | Jack's House | 210126 | [210126-jacks-house.json](./210126-jacks-house.json) |
 | Jack's House | 88314 | [88314-jacks-house.json](./88314-jacks-house.json) |
+| Jack's Pea | 230694 | [230694-jacks-pea.json](./230694-jacks-pea.json) |
 | Jack*Bot | 92155 | [92155-jack-bot.json](./92155-jack-bot.json) |
 | Jackal | 14133 | [14133-jackal.json](./14133-jackal.json) |
 | Jackal | 25334 | [25334-jackal.json](./25334-jackal.json) |
@@ -1070,6 +1071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Legends: Tree of Life | 85206 | [85206-jewel-legends-tree-of-life.json](./85206-jewel-legends-tree-of-life.json) |
 | Jewel Link Chronicles: Mountains of Madness | 65458 | [65458-jewel-link-chronicles-mountains-of-madness.json](./65458-jewel-link-chronicles-mountains-of-madness.json) |
 | Jewel Link: Atlantic Quest | 401014 | [401014-jewel-link-atlantic-quest.json](./401014-jewel-link-atlantic-quest.json) |
+| Jewel Magic | 230695 | [230695-jewel-magic.json](./230695-jewel-magic.json) |
 | Jewel Magic Castle | 166288 | [166288-jewel-magic-castle.json](./166288-jewel-magic-castle.json) |
 | Jewel Mania | 360069 | [360069-jewel-mania.json](./360069-jewel-mania.json) |
 | Jewel Master | 222473 | [222473-jewel-master.json](./222473-jewel-master.json) |
