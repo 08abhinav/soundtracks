@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T10:50:38.102Z",
-  "total_soundtracks": 2211,
+  "generated_at": "2026-10-20T10:50:52.215Z",
+  "total_soundtracks": 2212,
   "games": [
     {
       "igdb_id": 7522,
@@ -9487,6 +9487,20 @@
         {
           "album_name": "Gnog (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7qaWGfwuLl1L1V4FG8khFm",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 88973,
+      "game_name": "Goblin Sword",
+      "game_url": "https://ostdb.net/games/goblin-sword",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f34feafdeec2dcf06691e609",
+      "albums": [
+        {
+          "album_name": "Goblin Sword (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5ne9b1LaJWwu33L0mnzWWo",
           "apple_music_url": "",
           "album_link_url": ""
         }
