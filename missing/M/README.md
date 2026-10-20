@@ -2486,6 +2486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mapstermind | 200408 | [200408-mapstermind.json](./200408-mapstermind.json) |
 | MapTap.gg | 400496 | [400496-maptap-gg.json](./400496-maptap-gg.json) |
 | Maptroid | 210833 | [210833-maptroid.json](./210833-maptroid.json) |
+| Maptroid: Worlds | 217198 | [217198-maptroid-worlds.json](./217198-maptroid-worlds.json) |
 | Mapventure Story | 238587 | [238587-mapventure-story.json](./238587-mapventure-story.json) |
 | Maqiupai | 92993 | [92993-maqiupai.json](./92993-maqiupai.json) |
 | Maquisard | 128427 | [128427-maquisard.json](./128427-maquisard.json) |
@@ -3344,6 +3345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Troopers | 105229 | [105229-mars-troopers.json](./105229-mars-troopers.json) |
 | Mars Type I | 181855 | [181855-mars-type-i.json](./181855-mars-type-i.json) |
 | Mars Underground | 110490 | [110490-mars-underground.json](./110490-mars-underground.json) |
+| Mars Vice | 217167 | [217167-mars-vice.json](./217167-mars-vice.json) |
 | Mars VR | 91120 | [91120-mars-vr.json](./91120-mars-vr.json) |
 | Mars vs. Robots | 319693 | [319693-mars-vs-robots.json](./319693-mars-vs-robots.json) |
 | Mars Wars | 117583 | [117583-mars-wars.json](./117583-mars-wars.json) |
@@ -4006,6 +4008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Thief Simulator | 389540 | [389540-master-thief-simulator.json](./389540-master-thief-simulator.json) |
 | Master Thief: Skyscraper Sting | 295920 | [295920-master-thief-skyscraper-sting.json](./295920-master-thief-skyscraper-sting.json) |
 | Master Whip | 175658 | [175658-master-whip.json](./175658-master-whip.json) |
+| Master Wulder | 217204 | [217204-master-wulder.json](./217204-master-wulder.json) |
 | Master x Re:master | 395138 | [395138-master-x-re-master.json](./395138-master-x-re-master.json) |
 | Masterblazer | 15258 | [15258-masterblazer.json](./15258-masterblazer.json) |
 | Masterchef Cakes Edition | 217507 | [217507-masterchef-cakes-edition.json](./217507-masterchef-cakes-edition.json) |
@@ -4941,6 +4944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mean Routine | 111540 | [111540-mean-routine.json](./111540-mean-routine.json) |
 | Meander | 108986 | [108986-meander.json](./108986-meander.json) |
 | Meander Land | 265703 | [265703-meander-land.json](./265703-meander-land.json) |
+| Meanderer | 217163 | [217163-meanderer.json](./217163-meanderer.json) |
 | Meandering Fiend | 126988 | [126988-meandering-fiend.json](./126988-meandering-fiend.json) |
 | Meanders | 76538 | [76538-meanders.json](./76538-meanders.json) |
 | Méandres | 257430 | [257430-meandres.json](./257430-meandres.json) |
@@ -8980,6 +8984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimic Arena | 33785 | [33785-mimic-arena.json](./33785-mimic-arena.json) |
 | Mimic Busters | 418674 | [418674-mimic-busters.json](./418674-mimic-busters.json) |
 | Mimic Hunters | 239761 | [239761-mimic-hunters.json](./239761-mimic-hunters.json) |
+| Mimic Man | 217185 | [217185-mimic-man.json](./217185-mimic-man.json) |
 | Mimic Party | 413646 | [413646-mimic-party.json](./413646-mimic-party.json) |
 | Mimic Search | 278678 | [278678-mimic-search.json](./278678-mimic-search.json) |
 | Mimic Sleuth | 355031 | [355031-mimic-sleuth.json](./355031-mimic-sleuth.json) |
@@ -10586,6 +10591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mittelland AD: Origins | 408533 | [408533-mittelland-ad-origins.json](./408533-mittelland-ad-origins.json) |
 | Mittin | 222286 | [222286-mittin.json](./222286-mittin.json) |
 | Mítú | 156684 | [156684-mitu.json](./156684-mitu.json) |
+| Miuma | 217180 | [217180-miuma.json](./217180-miuma.json) |
 | Miuratale | 244130 | [244130-miuratale.json](./244130-miuratale.json) |
 | MiuSa | 308863 | [308863-miusa.json](./308863-miusa.json) |
 | Mix AI Animal Ultimate | 320369 | [320369-mix-ai-animal-ultimate.json](./320369-mix-ai-animal-ultimate.json) |
