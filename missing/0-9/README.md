@@ -2218,6 +2218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 600 | 249254 | [249254-600.json](./249254-600.json) |
 | 6000-nin no Sensei-tachi ga Tsukutta Tanoshii Shougakkou Tanken 2 | 45576 | [45576-6000-nin-no-sensei-tachi-ga-tsukutta-tanoshii-shougakkou-tanken-2.json](./45576-6000-nin-no-sensei-tachi-ga-tsukutta-tanoshii-shougakkou-tanken-2.json) |
 | 600Seconds: The Deep Church | 164079 | [164079-600seconds-the-deep-church.json](./164079-600seconds-the-deep-church.json) |
+| 60FPS Kitten | 252549 | [252549-60fps-kitten.json](./252549-60fps-kitten.json) |
 | 6180 The Moon | 11435 | [11435-6180-the-moon.json](./11435-6180-the-moon.json) |
 | 625 Sandwich Stacker | 133765 | [133765-625-sandwich-stacker.json](./133765-625-sandwich-stacker.json) |
 | 63 Days: The Home Army Edition | 323899 | [323899-63-days-the-home-army-edition.json](./323899-63-days-the-home-army-edition.json) |
