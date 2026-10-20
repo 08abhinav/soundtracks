@@ -2500,6 +2500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Abduction! Patti Hattu | 299945 | [299945-marble-abduction-patti-hattu.json](./299945-marble-abduction-patti-hattu.json) |
 | Marble Age | 35838 | [35838-marble-age.json](./35838-marble-age.json) |
 | Marble Allstars | 335506 | [335506-marble-allstars.json](./335506-marble-allstars.json) |
+| Marble Ball: Racing 2022 | 237185 | [237185-marble-ball-racing-2022.json](./237185-marble-ball-racing-2022.json) |
 | Marble Battles | 240213 | [240213-marble-battles.json](./240213-marble-battles.json) |
 | Marble Blast Platinum | 239883 | [239883-marble-blast-platinum.json](./239883-marble-blast-platinum.json) |
 | Marble Blaster | 210043 | [210043-marble-blaster.json](./210043-marble-blaster.json) |
