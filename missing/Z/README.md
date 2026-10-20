@@ -1454,6 +1454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies in Space | 143602 | [143602-zombies-in-space.json](./143602-zombies-in-space.json) |
 | Zombies In Valkeala | 369750 | [369750-zombies-in-valkeala.json](./369750-zombies-in-valkeala.json) |
 | Zombies Inc | 104617 | [104617-zombies-inc.json](./104617-zombies-inc.json) |
+| Zombies Invasion | 204899 | [204899-zombies-invasion.json](./204899-zombies-invasion.json) |
 | Zombies Killer Machine | 221590 | [221590-zombies-killer-machine.json](./221590-zombies-killer-machine.json) |
 | Zombies Midnight | 207771 | [207771-zombies-midnight.json](./207771-zombies-midnight.json) |
 | Zombies Must Die | 151476 | [151476-zombies-must-die.json](./151476-zombies-must-die.json) |
