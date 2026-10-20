@@ -1475,12 +1475,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Masters: Temple of the Ten Gods | 43539 | [43539-mahjong-masters-temple-of-the-ten-gods.json](./43539-mahjong-masters-temple-of-the-ten-gods.json) |
 | Mahjong Match | 83156 | [83156-mahjong-match.json](./83156-mahjong-match.json) |
 | Mahjong Match Puzzle | 99420 | [99420-mahjong-match-puzzle.json](./99420-mahjong-match-puzzle.json) |
+| Mahjong Minimal | 213249 | [213249-mahjong-minimal.json](./213249-mahjong-minimal.json) |
 | Mahjong Mojo 3D | 87070 | [87070-mahjong-mojo-3d.json](./87070-mahjong-mojo-3d.json) |
 | Mahjong Musou: Former Army | 302817 | [302817-mahjong-musou-former-army.json](./302817-mahjong-musou-former-army.json) |
 | Mahjong on the Beach | 305195 | [305195-mahjong-on-the-beach.json](./305195-mahjong-on-the-beach.json) |
 | Mahjong Ou Densetsu | 91932 | [91932-mahjong-ou-densetsu.json](./91932-mahjong-ou-densetsu.json) |
 | Mahjong Palace | 89230 | [89230-mahjong-palace.json](./89230-mahjong-palace.json) |
 | Mahjong Party Pack | 268203 | [268203-mahjong-party-pack.json](./268203-mahjong-party-pack.json) |
+| Mahjong Pirate Journey | 213212 | [213212-mahjong-pirate-journey.json](./213212-mahjong-pirate-journey.json) |
 | Mahjong Pretty Girls Battle | 28584 | [28584-mahjong-pretty-girls-battle.json](./28584-mahjong-pretty-girls-battle.json) |
 | Mahjong Pretty Girls Battle: School Girls Edition | 34986 | [34986-mahjong-pretty-girls-battle-school-girls-edition.json](./34986-mahjong-pretty-girls-battle-school-girls-edition.json) |
 | Mahjong Pretty Manga Girls | 105105 | [105105-mahjong-pretty-manga-girls.json](./105105-mahjong-pretty-manga-girls.json) |
@@ -8023,6 +8025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro$oft Simulaattori | 98940 | [98940-micro-oft-simulaattori.json](./98940-micro-oft-simulaattori.json) |
 | Microarcade ApplePie | 223617 | [223617-microarcade-applepie.json](./223617-microarcade-applepie.json) |
 | Microball | 94617 | [94617-microball.json](./94617-microball.json) |
+| Microbes and Machines | 213244 | [213244-microbes-and-machines.json](./213244-microbes-and-machines.json) |
 | Microbial Mayhem | 268989 | [268989-microbial-mayhem.json](./268989-microbial-mayhem.json) |
 | Microbial Sector | 321825 | [321825-microbial-sector.json](./321825-microbial-sector.json) |
 | Microbian | 376078 | [376078-microbian.json](./376078-microbian.json) |
