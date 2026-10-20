@@ -1624,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bank Simulator | 326470 | [326470-bank-simulator.json](./326470-bank-simulator.json) |
 | Bank-A-Ball | 84323 | [84323-bank-a-ball.json](./84323-bank-a-ball.json) |
 | BankBank | 98057 | [98057-bankbank.json](./98057-bankbank.json) |
+| Banker HD | 213789 | [213789-banker-hd.json](./213789-banker-hd.json) |
 | Banking Dream | 84776 | [84776-banking-dream.json](./84776-banking-dream.json) |
 | Bankrupt Demon King | 216071 | [216071-bankrupt-demon-king.json](./216071-bankrupt-demon-king.json) |
 | Bankrupt Heroines | 157077 | [157077-bankrupt-heroines.json](./157077-bankrupt-heroines.json) |
@@ -5856,6 +5857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biker Mice from Mars | 100294 | [100294-biker-mice-from-mars.json](./100294-biker-mice-from-mars.json) |
 | Biker Mice from Mars | 217747 | [217747-biker-mice-from-mars.json](./217747-biker-mice-from-mars.json) |
 | Biker Mice From Mars | 15915 | [15915-biker-mice-from-mars.json](./15915-biker-mice-from-mars.json) |
+| Biker Street 2D | 213812 | [213812-biker-street-2d.json](./213812-biker-street-2d.json) |
 | Bikerz | 119018 | [119018-bikerz.json](./119018-bikerz.json) |
 | biketerra | 316177 | [316177-biketerra.json](./316177-biketerra.json) |
 | Biki Biki Flip | 246863 | [246863-biki-biki-flip.json](./246863-biki-biki-flip.json) |
@@ -6821,6 +6823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Hole Fishing | 346166 | [346166-black-hole-fishing.json](./346166-black-hole-fishing.json) |
 | Black Hole Gun | 413182 | [413182-black-hole-gun.json](./413182-black-hole-gun.json) |
 | Black Hole Interior Explorer | 277534 | [277534-black-hole-interior-explorer.json](./277534-black-hole-interior-explorer.json) |
+| Black Hole Pool | 213822 | [213822-black-hole-pool.json](./213822-black-hole-pool.json) |
 | Black Hole Simulator | 159544 | [159544-black-hole-simulator.json](./159544-black-hole-simulator.json) |
 | Black Hole Void: Survive The Hole | 332601 | [332601-black-hole-void-survive-the-hole.json](./332601-black-hole-void-survive-the-hole.json) |
 | Black Hole: Farmageddon | 382410 | [382410-black-hole-farmageddon.json](./382410-black-hole-farmageddon.json) |
