@@ -1060,6 +1060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balkadia | 129618 | [129618-balkadia.json](./129618-balkadia.json) |
 | Balkan Bloodbath | 310726 | [310726-balkan-bloodbath.json](./310726-balkan-bloodbath.json) |
 | Balkan Horror Tales | 330542 | [330542-balkan-horror-tales.json](./330542-balkan-horror-tales.json) |
+| Balkiri Sonyeo Kiugi | 216112 | [216112-balkiri-sonyeo-kiugi.json](./216112-balkiri-sonyeo-kiugi.json) |
 | Ball | 140884 | [140884-ball.json](./140884-ball.json) |
 | Ball | 231388 | [231388-ball.json](./231388-ball.json) |
 | Ball | 231735 | [231735-ball.json](./231735-ball.json) |
@@ -1622,6 +1623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bank-A-Ball | 84323 | [84323-bank-a-ball.json](./84323-bank-a-ball.json) |
 | BankBank | 98057 | [98057-bankbank.json](./98057-bankbank.json) |
 | Banking Dream | 84776 | [84776-banking-dream.json](./84776-banking-dream.json) |
+| Bankrupt Demon King | 216071 | [216071-bankrupt-demon-king.json](./216071-bankrupt-demon-king.json) |
 | Bankrupt Heroines | 157077 | [157077-bankrupt-heroines.json](./157077-bankrupt-heroines.json) |
 | Bankruptcy | 292283 | [292283-bankruptcy.json](./292283-bankruptcy.json) |
 | Bankshot | 344560 | [344560-bankshot.json](./344560-bankshot.json) |
@@ -2374,6 +2376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball Challenge | 14498 | [14498-basketball-challenge.json](./14498-basketball-challenge.json) |
 | Basketball Club Story | 150265 | [150265-basketball-club-story.json](./150265-basketball-club-story.json) |
 | Basketball Court VR | 32166 | [32166-basketball-court-vr.json](./32166-basketball-court-vr.json) |
+| Basketball Crew 2k18: Dunk Stars Street Battle! | 216094 | [216094-basketball-crew-2k18-dunk-stars-street-battle.json](./216094-basketball-crew-2k18-dunk-stars-street-battle.json) |
 | Basketball Dunk Tournament | 197336 | [197336-basketball-dunk-tournament.json](./197336-basketball-dunk-tournament.json) |
 | Basketball Dynasty Manager 16 | 99175 | [99175-basketball-dynasty-manager-16.json](./99175-basketball-dynasty-manager-16.json) |
 | Basketball FRVR | 305414 | [305414-basketball-frvr.json](./305414-basketball-frvr.json) |
@@ -2616,6 +2619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bato: Treasures of Tibet | 339837 | [339837-bato-treasures-of-tibet.json](./339837-bato-treasures-of-tibet.json) |
 | Batography | 323007 | [323007-batography.json](./323007-batography.json) |
 | Batomon Showdown | 398645 | [398645-batomon-showdown.json](./398645-batomon-showdown.json) |
+| Batoni | 216123 | [216123-batoni.json](./216123-batoni.json) |
 | Bats | 118285 | [118285-bats.json](./118285-bats.json) |
 | Bats & Terry | 48609 | [48609-bats-and-terry.json](./48609-bats-and-terry.json) |
 | Batsu Maru | 189894 | [189894-batsu-maru.json](./189894-batsu-maru.json) |
@@ -3228,6 +3232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield Mobile | 174893 | [174893-battlefield-mobile.json](./174893-battlefield-mobile.json) |
 | Battlefield of Eternal | 175681 | [175681-battlefield-of-eternal.json](./175681-battlefield-of-eternal.json) |
 | Battlefield Online | 353 | [353-battlefield-online.json](./353-battlefield-online.json) |
+| Battlefield Pioneer | 216087 | [216087-battlefield-pioneer.json](./216087-battlefield-pioneer.json) |
 | Battlefield Pirates | 363689 | [363689-battlefield-pirates.json](./363689-battlefield-pirates.json) |
 | Battlefield Pirates 2 | 363690 | [363690-battlefield-pirates-2.json](./363690-battlefield-pirates-2.json) |
 | Battlefield Priest | 211427 | [211427-battlefield-priest.json](./211427-battlefield-priest.json) |
@@ -3297,6 +3302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleLand: Warrior vs. Monster | 263574 | [263574-battleland-warrior-vs-monster.json](./263574-battleland-warrior-vs-monster.json) |
 | Battlelands Royale | 104311 | [104311-battlelands-royale.json](./104311-battlelands-royale.json) |
 | Battleline: Steel Warfare | 23630 | [23630-battleline-steel-warfare.json](./23630-battleline-steel-warfare.json) |
+| BattleLive: ZombieGhetto | 216085 | [216085-battlelive-zombieghetto.json](./216085-battlelive-zombieghetto.json) |
 | Battlemage Ascension | 407467 | [407467-battlemage-ascension.json](./407467-battlemage-ascension.json) |
 | Battlemage VR | 113450 | [113450-battlemage-vr.json](./113450-battlemage-vr.json) |
 | Battlemage: Magic by Mail | 154355 | [154355-battlemage-magic-by-mail.json](./154355-battlemage-magic-by-mail.json) |
@@ -4854,6 +4860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bendy and the Dark Revival | 120163 | [120163-bendy-and-the-dark-revival.json](./120163-bendy-and-the-dark-revival.json) |
 | Bendy and the Ink Machine: Chapter Five | 281029 | [281029-bendy-and-the-ink-machine-chapter-five.json](./281029-bendy-and-the-ink-machine-chapter-five.json) |
 | Bendy Road | 98782 | [98782-bendy-road.json](./98782-bendy-road.json) |
+| Bendy Scary & Ink Machines | 216095 | [216095-bendy-scary-and-ink-machines.json](./216095-bendy-scary-and-ink-machines.json) |
 | Bendy Tracks | 106647 | [106647-bendy-tracks.json](./106647-bendy-tracks.json) |
 | Bendy: Ink Demon's Collection | 393061 | [393061-bendy-ink-demons-collection.json](./393061-bendy-ink-demons-collection.json) |
 | Bendy: Revive and Survive Bundle | 393062 | [393062-bendy-revive-and-survive-bundle.json](./393062-bendy-revive-and-survive-bundle.json) |
@@ -5778,6 +5785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bigfoot Hunter | 61902 | [61902-bigfoot-hunter.json](./61902-bigfoot-hunter.json) |
 | Bigfoot Hunting | 220157 | [220157-bigfoot-hunting.json](./220157-bigfoot-hunting.json) |
 | Bigfoot Hunting | 353950 | [353950-bigfoot-hunting.json](./353950-bigfoot-hunting.json) |
+| Bigfoot Monster Hunter | 216105 | [216105-bigfoot-monster-hunter.json](./216105-bigfoot-monster-hunter.json) |
 | Bigfoot Monster Hunter | 97050 | [97050-bigfoot-monster-hunter.json](./97050-bigfoot-monster-hunter.json) |
 | Bigfoot Quest | 90752 | [90752-bigfoot-quest.json](./90752-bigfoot-quest.json) |
 | Bigfoot vs. Scots | 244257 | [244257-bigfoot-vs-scots.json](./244257-bigfoot-vs-scots.json) |
@@ -5816,6 +5824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Food Delivery Simulator | 409669 | [409669-bike-food-delivery-simulator.json](./409669-bike-food-delivery-simulator.json) |
 | Bike Game 3D | 254747 | [254747-bike-game-3d.json](./254747-bike-game-3d.json) |
 | Bike Hike | 362423 | [362423-bike-hike.json](./362423-bike-hike.json) |
+| Bike Hop: Crazy BMX Bike Jump | 216073 | [216073-bike-hop-crazy-bmx-bike-jump.json](./216073-bike-hop-crazy-bmx-bike-jump.json) |
 | Bike Jump | 203701 | [203701-bike-jump.json](./203701-bike-jump.json) |
 | Bike Mayhem 2 | 21319 | [21319-bike-mayhem-2.json](./21319-bike-mayhem-2.json) |
 | Bike Offroad Simulator | 248033 | [248033-bike-offroad-simulator.json](./248033-bike-offroad-simulator.json) |
@@ -7529,6 +7538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleach Heat the Soul | 44488 | [44488-bleach-heat-the-soul.json](./44488-bleach-heat-the-soul.json) |
 | Bleach Online | 23623 | [23623-bleach-online.json](./23623-bleach-online.json) |
 | Bleach Party | 157487 | [157487-bleach-party.json](./157487-bleach-party.json) |
+| Bleach Soul Rising | 216091 | [216091-bleach-soul-rising.json](./216091-bleach-soul-rising.json) |
 | Bleach vs Naruto | 228437 | [228437-bleach-vs-naruto.json](./228437-bleach-vs-naruto.json) |
 | Bleach: Blade Battlers | 72983 | [72983-bleach-blade-battlers.json](./72983-bleach-blade-battlers.json) |
 | Bleach: Blade Battlers 2nd | 75997 | [75997-bleach-blade-battlers-2nd.json](./75997-bleach-blade-battlers-2nd.json) |
@@ -8357,6 +8367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Red Rebirth | 384313 | [384313-blood-red-rebirth.json](./384313-blood-red-rebirth.json) |
 | Blood Rising | 338257 | [338257-blood-rising.json](./338257-blood-rising.json) |
 | Blood Rite | 238505 | [238505-blood-rite.json](./238505-blood-rite.json) |
+| Blood Rivals: Survival Battleground Shooting Games | 216076 | [216076-blood-rivals-survival-battleground-shooting-games.json](./216076-blood-rivals-survival-battleground-shooting-games.json) |
 | Blood River Base | 254307 | [254307-blood-river-base.json](./254307-blood-river-base.json) |
 | Blood Rot: 1918 | 238639 | [238639-blood-rot-1918.json](./238639-blood-rot-1918.json) |
 | Blood Running | 274370 | [274370-blood-running.json](./274370-blood-running.json) |
@@ -8451,6 +8462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodline Champions: Huntress Pack | 27657 | [27657-bloodline-champions-huntress-pack.json](./27657-bloodline-champions-huntress-pack.json) |
 | Bloodline Champions: Warchief Pack | 27655 | [27655-bloodline-champions-warchief-pack.json](./27655-bloodline-champions-warchief-pack.json) |
 | Bloodline Champions: Warrior Pack | 27656 | [27656-bloodline-champions-warrior-pack.json](./27656-bloodline-champions-warrior-pack.json) |
+| Bloodline: Heroes of Lithas | 216106 | [216106-bloodline-heroes-of-lithas.json](./216106-bloodline-heroes-of-lithas.json) |
 | BloodLines | 143363 | [143363-bloodlines.json](./143363-bloodlines.json) |
 | Bloodlines: The Alexa Holmes Chronicles | 65529 | [65529-bloodlines-the-alexa-holmes-chronicles.json](./65529-bloodlines-the-alexa-holmes-chronicles.json) |
 | Bloodlust | 22123 | [22123-bloodlust.json](./22123-bloodlust.json) |
@@ -10892,6 +10904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Test 2: Tricky Stories | 297626 | [297626-brain-test-2-tricky-stories.json](./297626-brain-test-2-tricky-stories.json) |
 | Brain Test All-Star: IQ Boost | 379581 | [379581-brain-test-all-star-iq-boost.json](./379581-brain-test-all-star-iq-boost.json) |
 | Brain Test: Mental Games | 304129 | [304129-brain-test-mental-games.json](./304129-brain-test-mental-games.json) |
+| Brain Test: Nurse Puzzle | 216109 | [216109-brain-test-nurse-puzzle.json](./216109-brain-test-nurse-puzzle.json) |
 | Brain Test: Thinking Game | 221342 | [221342-brain-test-thinking-game.json](./221342-brain-test-thinking-game.json) |
 | Brain Test: Tricky Puzzles | 322082 | [322082-brain-test-tricky-puzzles.json](./322082-brain-test-tricky-puzzles.json) |
 | Brain Tester: Mind trick quiz | 233650 | [233650-brain-tester-mind-trick-quiz.json](./233650-brain-tester-mind-trick-quiz.json) |
@@ -12264,6 +12277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BTank | 203898 | [203898-btank.json](./203898-btank.json) |
 | BTD: BTD | 258500 | [258500-btd-btd.json](./258500-btd-btd.json) |
 | BTS Cooking On | 313982 | [313982-bts-cooking-on.json](./313982-bts-cooking-on.json) |
+| BTS Dream: TinyTan House | 216086 | [216086-bts-dream-tinytan-house.json](./216086-bts-dream-tinytan-house.json) |
 | BTS Island: In the Seom | 206740 | [206740-bts-island-in-the-seom.json](./206740-bts-island-in-the-seom.json) |
 | BTS Universe Story | 139294 | [139294-bts-universe-story.json](./139294-bts-universe-story.json) |
 | Bù Shàngàn Bù Liànài | 373701 | [373701-bu-shangan-bu-lianai.json](./373701-bu-shangan-bu-lianai.json) |
@@ -12392,6 +12406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Shooter Mission | 102576 | [102576-bubble-shooter-mission.json](./102576-bubble-shooter-mission.json) |
 | Bubble Shooter: Fashion Bird | 108444 | [108444-bubble-shooter-fashion-bird.json](./108444-bubble-shooter-fashion-bird.json) |
 | Bubble Shooter: Original Bear | 97260 | [97260-bubble-shooter-original-bear.json](./97260-bubble-shooter-original-bear.json) |
+| Bubble Shooter! Extreme | 216079 | [216079-bubble-shooter-extreme.json](./216079-bubble-shooter-extreme.json) |
 | Bubble Shooter! Tournaments | 78387 | [78387-bubble-shooter-tournaments.json](./78387-bubble-shooter-tournaments.json) |
 | Bubble Shooting Robots | 266138 | [266138-bubble-shooting-robots.json](./266138-bubble-shooting-robots.json) |
 | Bubble Soccer | 117505 | [117505-bubble-soccer.json](./117505-bubble-soccer.json) |
