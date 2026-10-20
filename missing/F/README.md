@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Godmother Tycoon | 68634 | [68634-fairy-godmother-tycoon.json](./68634-fairy-godmother-tycoon.json) |
 | Fairy Godmother's Pumpkin Surprise | 246527 | [246527-fairy-godmothers-pumpkin-surprise.json](./246527-fairy-godmothers-pumpkin-surprise.json) |
 | Fairy Hotel: Enchanted Kingdom | 417523 | [417523-fairy-hotel-enchanted-kingdom.json](./417523-fairy-hotel-enchanted-kingdom.json) |
+| Fairy Hunter | 249026 | [249026-fairy-hunter.json](./249026-fairy-hunter.json) |
 | Fairy Kingdom: Castle of Magic | 235284 | [235284-fairy-kingdom-castle-of-magic.json](./235284-fairy-kingdom-castle-of-magic.json) |
 | Fairy Kitty no Kaiun Jiten: Yousei no Kuni no Uranai Shugyou | 65521 | [65521-fairy-kitty-no-kaiun-jiten-yousei-no-kuni-no-uranai-shugyou.json](./65521-fairy-kitty-no-kaiun-jiten-yousei-no-kuni-no-uranai-shugyou.json) |
 | Fairy Knights | 105943 | [105943-fairy-knights.json](./105943-fairy-knights.json) |
@@ -7979,6 +7980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fossil Skater | 318214 | [318214-fossil-skater.json](./318214-fossil-skater.json) |
 | Fossil Sweeper | 247462 | [247462-fossil-sweeper.json](./247462-fossil-sweeper.json) |
 | Fossilfuel | 148665 | [148665-fossilfuel.json](./148665-fossilfuel.json) |
+| Fossilfuel 2 | 249025 | [249025-fossilfuel-2.json](./249025-fossilfuel-2.json) |
 | Fossilfuel VR: Raptor Isolation | 192777 | [192777-fossilfuel-vr-raptor-isolation.json](./192777-fossilfuel-vr-raptor-isolation.json) |
 | Fossilpunk | 327189 | [327189-fossilpunk.json](./327189-fossilpunk.json) |
 | Fost - Ghost Vs Fox | 124519 | [124519-fost-ghost-vs-fox.json](./124519-fost-ghost-vs-fox.json) |
@@ -9011,6 +9013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fritz Mobile | 60385 | [60385-fritz-mobile.json](./60385-fritz-mobile.json) |
 | Fritz: Don't Call Me a Chess Bot | 251396 | [251396-fritz-dont-call-me-a-chess-bot.json](./251396-fritz-dont-call-me-a-chess-bot.json) |
 | Fritz: Your Chess Coach | 262648 | [262648-fritz-your-chess-coach.json](./262648-fritz-your-chess-coach.json) |
+| Fritz&Chesster: learn to play chess Vol. 1 - Edition 2023 | 249044 | [249044-fritz-and-chesster-learn-to-play-chess-vol-1-edition-2023.json](./249044-fritz-and-chesster-learn-to-play-chess-vol-1-edition-2023.json) |
 | Frizzle | 319194 | [319194-frizzle.json](./319194-frizzle.json) |
 | Frizzy | 34764 | [34764-frizzy.json](./34764-frizzy.json) |
 | Frobbutt 3D | 379139 | [379139-frobbutt-3d.json](./379139-frobbutt-3d.json) |
