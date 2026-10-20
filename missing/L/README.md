@@ -4381,7 +4381,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Buno | 98540 | [98540-little-buno.json](./98540-little-buno.json) |
 | Little Burned Maiden | 194347 | [194347-little-burned-maiden.json](./194347-little-burned-maiden.json) |
 | Little Bushman | 346039 | [346039-little-bushman.json](./346039-little-bushman.json) |
-| Little Busters! | 7364 | [7364-little-busters.json](./7364-little-busters.json) |
 | Little Busters! Converted Edition | 127796 | [127796-little-busters-converted-edition.json](./127796-little-busters-converted-edition.json) |
 | Little Busters! Perfect Edition: TV Anime Commemorative Edition | 291075 | [291075-little-busters-perfect-edition-tv-anime-commemorative-edition.json](./291075-little-busters-perfect-edition-tv-anime-commemorative-edition.json) |
 | Little By Little By Little | 178992 | [178992-little-by-little-by-little.json](./178992-little-by-little-by-little.json) |
