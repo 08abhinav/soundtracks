@@ -11352,7 +11352,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momo's Diary | 212780 | [212780-momos-diary.json](./212780-momos-diary.json) |
 | Momochan's Brain is So Crazy! | 388979 | [388979-momochans-brain-is-so-crazy.json](./388979-momochans-brain-is-so-crazy.json) |
 | Momodora 0: Day of Birth | 261191 | [261191-momodora-0-day-of-birth.json](./261191-momodora-0-day-of-birth.json) |
-| Momodora III | 17436 | [17436-momodora-iii.json](./17436-momodora-iii.json) |
 | Momodora: Moonlit Farewell | 188088 | [188088-momodora-moonlit-farewell.json](./188088-momodora-moonlit-farewell.json) |
 | Momoe Link | 183052 | [183052-momoe-link.json](./183052-momoe-link.json) |
 | Momogatari | 258526 | [258526-momogatari.json](./258526-momogatari.json) |
@@ -15105,7 +15104,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX vs. ATV: On the Edge | 18267 | [18267-mx-vs-atv-on-the-edge.json](./18267-mx-vs-atv-on-the-edge.json) |
 | MX vs. ATV: Reflex | 248570 | [248570-mx-vs-atv-reflex.json](./248570-mx-vs-atv-reflex.json) |
 | MX vs. ATV: Reflex | 248571 | [248571-mx-vs-atv-reflex.json](./248571-mx-vs-atv-reflex.json) |
-| MX vs. ATV: Reflex | 7091 | [7091-mx-vs-atv-reflex.json](./7091-mx-vs-atv-reflex.json) |
 | MX vs. ATV: Supercross - Encore | 14297 | [14297-mx-vs-atv-supercross-encore.json](./14297-mx-vs-atv-supercross-encore.json) |
 | MX vs. ATV: Unleashed | 24150 | [24150-mx-vs-atv-unleashed.json](./24150-mx-vs-atv-unleashed.json) |
 | MX vs. ATV: Untamed | 248554 | [248554-mx-vs-atv-untamed.json](./248554-mx-vs-atv-untamed.json) |
