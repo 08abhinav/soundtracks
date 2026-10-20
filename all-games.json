@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:50:37.755Z",
-  "total_soundtracks": 2297,
+  "generated_at": "2026-10-20T21:50:48.144Z",
+  "total_soundtracks": 2298,
   "games": [
     {
       "igdb_id": 7522,
@@ -13351,6 +13351,20 @@
         {
           "album_name": "LISA: THE JOYFUL (Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/72vOscySSWCScxOzJK6kvJ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 7364,
+      "game_name": "Little Busters!",
+      "game_url": "https://ostdb.net/games/little-busters",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27333a6561f538b28685346ee93",
+      "albums": [
+        {
+          "album_name": "Little Busters! Original SoundTrack",
+          "spotify_url": "https://open.spotify.com/album/6baH8AHKhbXU0TKNr26HXn",
           "apple_music_url": "",
           "album_link_url": ""
         }
