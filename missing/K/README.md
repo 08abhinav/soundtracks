@@ -564,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kannagi Usagi | 263139 | [263139-kannagi-usagi.json](./263139-kannagi-usagi.json) |
 | Kannou Mukashi Banashi Portable | 56766 | [56766-kannou-mukashi-banashi-portable.json](./56766-kannou-mukashi-banashi-portable.json) |
 | Kanojo * Step | 139862 | [139862-kanojo-step.json](./139862-kanojo-step.json) |
+| Kanojo ha Boku ni Kietehoshii | 221588 | [221588-kanojo-ha-boku-ni-kietehoshii.json](./221588-kanojo-ha-boku-ni-kietehoshii.json) |
 | Kanojo ha Ira-ira Jirai Girl | 251613 | [251613-kanojo-ha-ira-ira-jirai-girl.json](./251613-kanojo-ha-ira-ira-jirai-girl.json) |
 | Kanojo ha Sensei no Model | 97697 | [97697-kanojo-ha-sensei-no-model.json](./97697-kanojo-ha-sensei-no-model.json) |
 | Kanojo no Seiiki | 59879 | [59879-kanojo-no-seiiki.json](./59879-kanojo-no-seiiki.json) |
@@ -4059,6 +4060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koro-koro Reimu 2 | 255799 | [255799-koro-koro-reimu-2.json](./255799-koro-koro-reimu-2.json) |
 | Koro-san's Home Wan! Derby | 354414 | [354414-koro-sans-home-wan-derby.json](./354414-koro-sans-home-wan-derby.json) |
 | Korobo | 309105 | [309105-korobo.json](./309105-korobo.json) |
+| Korokesu | 221578 | [221578-korokesu.json](./221578-korokesu.json) |
 | Korokke! Ban-Ou no Kiki wo Sukue | 3970 | [3970-korokke-ban-ou-no-kiki-wo-sukue.json](./3970-korokke-ban-ou-no-kiki-wo-sukue.json) |
 | Korokoro | 338756 | [338756-korokoro.json](./338756-korokoro.json) |
 | Korokoro Post Nin | 92677 | [92677-korokoro-post-nin.json](./92677-korokoro-post-nin.json) |
