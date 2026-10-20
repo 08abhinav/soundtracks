@@ -1907,6 +1907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Part Time Job | 281339 | [281339-part-time-job.json](./281339-part-time-job.json) |
 | Part Time UFO | 75957 | [75957-part-time-ufo.json](./75957-part-time-ufo.json) |
 | Parthian Kings | 23963 | [23963-parthian-kings.json](./23963-parthian-kings.json) |
+| Partia | 233924 | [233924-partia.json](./233924-partia.json) |
 | Partia 3 | 197346 | [197346-partia-3.json](./197346-partia-3.json) |
 | Partial Control | 118358 | [118358-partial-control.json](./118358-partial-control.json) |
 | Partially Realio: Bittersweet 16 | 405983 | [405983-partially-realio-bittersweet-16.json](./405983-partially-realio-bittersweet-16.json) |
@@ -5591,6 +5592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PipeMan | 80538 | [80538-pipeman.json](./80538-pipeman.json) |
 | Piper | 315318 | [315318-piper.json](./315318-piper.json) |
 | Piper | 356068 | [356068-piper.json](./356068-piper.json) |
+| PipeRoll Oil | 233920 | [233920-piperoll-oil.json](./233920-piperoll-oil.json) |
 | Pipes | 78884 | [78884-pipes.json](./78884-pipes.json) |
 | Pipes Master | 194257 | [194257-pipes-master.json](./194257-pipes-master.json) |
 | Pipes Maze | 240354 | [240354-pipes-maze.json](./240354-pipes-maze.json) |
@@ -11959,6 +11961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Noah | 223981 | [223981-project-noah.json](./223981-project-noah.json) |
 | Project Nomads | 50245 | [50245-project-nomads.json](./50245-project-nomads.json) |
 | Project Nortubel | 353639 | [353639-project-nortubel.json](./353639-project-nortubel.json) |
+| Project Nosferatu | 233893 | [233893-project-nosferatu.json](./233893-project-nosferatu.json) |
 | Project Nova | 28696 | [28696-project-nova.json](./28696-project-nova.json) |
 | Project Null | 239798 | [239798-project-null.json](./239798-project-null.json) |
 | Project Nyx | 163816 | [163816-project-nyx.json](./163816-project-nyx.json) |
@@ -13415,6 +13418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pussy Puzzle: Over 9000 | 141661 | [141661-pussy-puzzle-over-9000.json](./141661-pussy-puzzle-over-9000.json) |
 | Pussy Puzzle: Over 9000 | 163562 | [163562-pussy-puzzle-over-9000.json](./163562-pussy-puzzle-over-9000.json) |
 | Pussy: Love Story from Titanic | 227822 | [227822-pussy-love-story-from-titanic.json](./227822-pussy-love-story-from-titanic.json) |
+| Pusu: Uyanış | 233902 | [233902-pusu-uyan-s.json](./233902-pusu-uyan-s.json) |
 | Puszka Pandory | 93586 | [93586-puszka-pandory.json](./93586-puszka-pandory.json) |
 | Put Anna | 105173 | [105173-put-anna.json](./105173-put-anna.json) |
 | Put In - Run Out | 119701 | [119701-put-in-run-out.json](./119701-put-in-run-out.json) |
