@@ -1130,6 +1130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Burgeria HD | 86695 | [86695-papas-burgeria-hd.json](./86695-papas-burgeria-hd.json) |
 | Papa's Burgeria to Go! | 96986 | [96986-papas-burgeria-to-go.json](./96986-papas-burgeria-to-go.json) |
 | Papa's Cheeseria To Go! | 265876 | [265876-papas-cheeseria-to-go.json](./265876-papas-cheeseria-to-go.json) |
+| Papa's Cupcakeria | 210492 | [210492-papas-cupcakeria.json](./210492-papas-cupcakeria.json) |
 | Papa's Donuteria | 210502 | [210502-papas-donuteria.json](./210502-papas-donuteria.json) |
 | Papa's Donutria | 143040 | [143040-papas-donutria.json](./143040-papas-donutria.json) |
 | Papa's Freezeria | 191917 | [191917-papas-freezeria.json](./191917-papas-freezeria.json) |
@@ -4854,6 +4855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigmen's Challenge | 379708 | [379708-pigmens-challenge.json](./379708-pigmens-challenge.json) |
 | Pigment | 377050 | [377050-pigment.json](./377050-pigment.json) |
 | Pigmentone | 32240 | [32240-pigmentone.json](./32240-pigmentone.json) |
+| Pigments | 210468 | [210468-pigments.json](./210468-pigments.json) |
 | Pigments | 222761 | [222761-pigments.json](./222761-pigments.json) |
 | Pigmentum | 29695 | [29695-pigmentum.json](./29695-pigmentum.json) |
 | Pignator | 244137 | [244137-pignator.json](./244137-pignator.json) |
@@ -8037,6 +8039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pok The Little Artiste | 279557 | [279557-pok-the-little-artiste.json](./279557-pok-the-little-artiste.json) |
 | Poka-poka Mama Koi Onsen: Mommy's Warm Hot Sprint | 288432 | [288432-poka-poka-mama-koi-onsen-mommys-warm-hot-sprint.json](./288432-poka-poka-mama-koi-onsen-mommys-warm-hot-sprint.json) |
 | Pokaboo | 197851 | [197851-pokaboo.json](./197851-pokaboo.json) |
+| Poke Abby | 210464 | [210464-poke-abby.json](./210464-poke-abby.json) |
 | Poke All Toads | 241785 | [241785-poke-all-toads.json](./241785-poke-all-toads.json) |
 | Poké Everworld Online | 389447 | [389447-poke-everworld-online.json](./389447-poke-everworld-online.json) |
 | Poké Floats: Melee | 324526 | [324526-poke-floats-melee.json](./324526-poke-floats-melee.json) |
@@ -8353,6 +8356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Digimon New World | 229098 | [229098-pokemon-digimon-new-world.json](./229098-pokemon-digimon-new-world.json) |
 | Pokémon Donjon Mystère Online | 304297 | [304297-pokemon-donjon-mystere-online.json](./304297-pokemon-donjon-mystere-online.json) |
 | Pokémon Dream Radar | 24945 | [24945-pokemon-dream-radar.json](./24945-pokemon-dream-radar.json) |
+| Pokémon Dream World | 210474 | [210474-pokemon-dream-world.json](./210474-pokemon-dream-world.json) |
 | Pokémon Dreams | 213844 | [213844-pokemon-dreams.json](./213844-pokemon-dreams.json) |
 | Pokémon Dreary | 213962 | [213962-pokemon-dreary.json](./213962-pokemon-dreary.json) |
 | Pokémon Duel | 27052 | [27052-pokemon-duel.json](./27052-pokemon-duel.json) |
@@ -13815,6 +13819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Kana? | 312354 | [312354-puzzle-kana.json](./312354-puzzle-kana.json) |
 | Puzzle Kids | 306597 | [306597-puzzle-kids.json](./306597-puzzle-kids.json) |
 | Puzzle King | 46791 | [46791-puzzle-king.json](./46791-puzzle-king.json) |
+| Puzzle Kingdoms | 210440 | [210440-puzzle-kingdoms.json](./210440-puzzle-kingdoms.json) |
 | Puzzle Kombat | 265855 | [265855-puzzle-kombat.json](./265855-puzzle-kombat.json) |
 | Puzzle Lab | 88118 | [88118-puzzle-lab.json](./88118-puzzle-lab.json) |
 | Puzzle Light | 149455 | [149455-puzzle-light.json](./149455-puzzle-light.json) |
