@@ -2519,6 +2519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 2: Border Crossing Heist | 167700 | [167700-payday-2-border-crossing-heist.json](./167700-payday-2-border-crossing-heist.json) |
 | Payday 2: Breakfast in Tijuana Heist | 167691 | [167691-payday-2-breakfast-in-tijuana-heist.json](./167691-payday-2-breakfast-in-tijuana-heist.json) |
 | Payday 2: Buluc's Mansion Heist | 167688 | [167688-payday-2-bulucs-mansion-heist.json](./167688-payday-2-bulucs-mansion-heist.json) |
+| Payday 2: Cartel Optics Mod Pack | 252588 | [252588-payday-2-cartel-optics-mod-pack.json](./252588-payday-2-cartel-optics-mod-pack.json) |
 | Payday 2: City of Gold Collection | 252886 | [252886-payday-2-city-of-gold-collection.json](./252886-payday-2-city-of-gold-collection.json) |
 | Payday 2: Clover Character Pack | 225114 | [225114-payday-2-clover-character-pack.json](./225114-payday-2-clover-character-pack.json) |
 | Payday 2: Crimewave Edition - GOAT Simulator Heists | 164579 | [164579-payday-2-crimewave-edition-goat-simulator-heists.json](./164579-payday-2-crimewave-edition-goat-simulator-heists.json) |
@@ -3700,6 +3701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petrol Blood | 156134 | [156134-petrol-blood.json](./156134-petrol-blood.json) |
 | Petrol Station Sim | 263780 | [263780-petrol-station-sim.json](./263780-petrol-station-sim.json) |
 | Petroleum Explore: Drill & Sell | 227504 | [227504-petroleum-explore-drill-and-sell.json](./227504-petroleum-explore-drill-and-sell.json) |
+| Petrolhead Paradise | 252561 | [252561-petrolhead-paradise.json](./252561-petrolhead-paradise.json) |
 | Pets | 314303 | [314303-pets.json](./314303-pets.json) |
 | Pets and Friends | 335355 | [335355-pets-and-friends.json](./335355-pets-and-friends.json) |
 | Pets and Friends Easter Bundle | 396924 | [396924-pets-and-friends-easter-bundle.json](./396924-pets-and-friends-easter-bundle.json) |
@@ -5353,6 +5355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping Pong | 358839 | [358839-ping-pong.json](./358839-ping-pong.json) |
 | Ping Pong | 86218 | [86218-ping-pong.json](./86218-ping-pong.json) |
 | Ping Pong 3D | 90348 | [90348-ping-pong-3d.json](./90348-ping-pong-3d.json) |
+| Ping Pong 3D HD | 252560 | [252560-ping-pong-3d-hd.json](./252560-ping-pong-3d-hd.json) |
 | Ping Pong Clásico en 2DD | 316341 | [316341-ping-pong-clasico-en-2dd.json](./316341-ping-pong-clasico-en-2dd.json) |
 | Ping Pong Cup | 247065 | [247065-ping-pong-cup.json](./247065-ping-pong-cup.json) |
 | Ping Pong Deluxe | 261132 | [261132-ping-pong-deluxe.json](./261132-ping-pong-deluxe.json) |
@@ -7806,6 +7809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | POD SpeedZone | 84320 | [84320-pod-speedzone.json](./84320-pod-speedzone.json) |
 | POD: Back to Hell | 93467 | [93467-pod-back-to-hell.json](./93467-pod-back-to-hell.json) |
 | Poda Wants a Statue | 260699 | [260699-poda-wants-a-statue.json](./260699-poda-wants-a-statue.json) |
+| Podageddon | 252559 | [252559-podageddon.json](./252559-podageddon.json) |
 | Podd | 66704 | [66704-podd.json](./66704-podd.json) |
 | Pode | 94054 | [94054-pode.json](./94054-pode.json) |
 | Podium Bash | 74955 | [74955-podium-bash.json](./74955-podium-bash.json) |
@@ -9625,6 +9629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Quest | 106372 | [106372-portal-quest.json](./106372-portal-quest.json) |
 | Portal Quest | 293159 | [293159-portal-quest.json](./293159-portal-quest.json) |
 | Portal Reloaded | 145947 | [145947-portal-reloaded.json](./145947-portal-reloaded.json) |
+| Portal Reloaded: The Cooperative Update | 252594 | [252594-portal-reloaded-the-cooperative-update.json](./252594-portal-reloaded-the-cooperative-update.json) |
 | Portal Rescue | 180809 | [180809-portal-rescue.json](./180809-portal-rescue.json) |
 | Portal Returns CE | 285154 | [285154-portal-returns-ce.json](./285154-portal-returns-ce.json) |
 | Portal Runner | 49954 | [49954-portal-runner.json](./49954-portal-runner.json) |
@@ -10074,6 +10079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers: Ninja Storm | 284965 | [284965-power-rangers-ninja-storm.json](./284965-power-rangers-ninja-storm.json) |
 | Power Rangers: Ninja Storm | 3291 | [3291-power-rangers-ninja-storm.json](./3291-power-rangers-ninja-storm.json) |
 | Power Rangers: To the Rescue | 220101 | [220101-power-rangers-to-the-rescue.json](./220101-power-rangers-to-the-rescue.json) |
+| Power Rangers: Unite | 252558 | [252558-power-rangers-unite.json](./252558-power-rangers-unite.json) |
 | Power Rush | 194375 | [194375-power-rush.json](./194375-power-rush.json) |
 | Power Serve 3D Tennis | 20641 | [20641-power-serve-3d-tennis.json](./20641-power-serve-3d-tennis.json) |
 | Power Shovel | 44741 | [44741-power-shovel.json](./44741-power-shovel.json) |
@@ -13424,6 +13430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle & Squishies | 109560 | [109560-puzzle-and-squishies.json](./109560-puzzle-and-squishies.json) |
 | Puzzle & Tantei Collection | 49798 | [49798-puzzle-and-tantei-collection.json](./49798-puzzle-and-tantei-collection.json) |
 | Puzzle 10 | 256221 | [256221-puzzle-10.json](./256221-puzzle-10.json) |
+| Puzzle 26: The 7th Day | 252556 | [252556-puzzle-26-the-7th-day.json](./252556-puzzle-26-the-7th-day.json) |
 | Puzzle 3D | 88180 | [88180-puzzle-3d.json](./88180-puzzle-3d.json) |
 | Puzzle Adventure | 347877 | [347877-puzzle-adventure.json](./347877-puzzle-adventure.json) |
 | Puzzle Adventure Blockle | 54529 | [54529-puzzle-adventure-blockle.json](./54529-puzzle-adventure-blockle.json) |
