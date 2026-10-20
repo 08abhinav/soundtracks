@@ -678,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnar | 352296 | [352296-ragnar.json](./352296-ragnar.json) |
 | Ragnar's Chinese Memory Game | 156112 | [156112-ragnars-chinese-memory-game.json](./156112-ragnars-chinese-memory-game.json) |
 | Ragnarock | 139399 | [139399-ragnarock.json](./139399-ragnarock.json) |
+| Ragnarock: Sabaton Raid | 253195 | [253195-ragnarock-sabaton-raid.json](./253195-ragnarock-sabaton-raid.json) |
 | Ragnarock: Vikings On Tour | 247655 | [247655-ragnarock-vikings-on-tour.json](./247655-ragnarock-vikings-on-tour.json) |
 | Ragnarok | 71704 | [71704-ragnarok.json](./71704-ragnarok.json) |
 | Ragnarok Age of Heroes | 305964 | [305964-ragnarok-age-of-heroes.json](./305964-ragnarok-age-of-heroes.json) |
@@ -5162,6 +5163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rica Mode | 401121 | [401121-rica-mode.json](./401121-rica-mode.json) |
 | Ricave | 322095 | [322095-ricave.json](./322095-ricave.json) |
 | Rice & Rest | 346581 | [346581-rice-and-rest.json](./346581-rice-and-rest.json) |
+| Rice Bowl Restaurant | 253221 | [253221-rice-bowl-restaurant.json](./253221-rice-bowl-restaurant.json) |
 | Ricerca VR | 32884 | [32884-ricerca-vr.json](./32884-ricerca-vr.json) |
 | Rich City | 298112 | [298112-rich-city.json](./298112-rich-city.json) |
 | Rich Code | 96231 | [96231-rich-code.json](./96231-rich-code.json) |
@@ -9599,6 +9601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty Foodies | 347351 | [347351-rusty-foodies.json](./347351-rusty-foodies.json) |
 | Rusty Hearts | 23524 | [23524-rusty-hearts.json](./23524-rusty-hearts.json) |
 | Rusty Junkyard Simulator | 312429 | [312429-rusty-junkyard-simulator.json](./312429-rusty-junkyard-simulator.json) |
+| Rusty Lines Remastered | 253216 | [253216-rusty-lines-remastered.json](./253216-rusty-lines-remastered.json) |
 | Rusty Orb | 95560 | [95560-rusty-orb.json](./95560-rusty-orb.json) |
 | Rusty Prison: Horror | 420660 | [420660-rusty-prison-horror.json](./420660-rusty-prison-horror.json) |
 | Rusty Punk | 177923 | [177923-rusty-punk.json](./177923-rusty-punk.json) |
