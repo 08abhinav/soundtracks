@@ -1034,6 +1034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jett Tailfin Racers | 60759 | [60759-jett-tailfin-racers.json](./60759-jett-tailfin-racers.json) |
 | Jett: The Far Shore | 134591 | [134591-jett-the-far-shore.json](./134591-jett-the-far-shore.json) |
 | Jett: The Far Shore - Given Time | 231858 | [231858-jett-the-far-shore-given-time.json](./231858-jett-the-far-shore-given-time.json) |
+| Jett: The Far Shore + Given Time | 217201 | [217201-jett-the-far-shore-given-time.json](./217201-jett-the-far-shore-given-time.json) |
 | Jettatura | 207502 | [207502-jettatura.json](./207502-jettatura.json) |
 | JettFuel | 316277 | [316277-jettfuel.json](./316277-jettfuel.json) |
 | JettFuel+ | 416848 | [416848-jettfuel.json](./416848-jettfuel.json) |
