@@ -1280,6 +1280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloonacy! | 39043 | [39043-balloonacy.json](./39043-balloonacy.json) |
 | BalloonBoyBob | 129096 | [129096-balloonboybob.json](./129096-balloonboybob.json) |
 | Balloone | 395872 | [395872-balloone.json](./395872-balloone.json) |
+| Ballooni | 240640 | [240640-ballooni.json](./240640-ballooni.json) |
 | Balloono | 405334 | [405334-balloono.json](./405334-balloono.json) |
 | Balloonrain | 130836 | [130836-balloonrain.json](./130836-balloonrain.json) |
 | Balloons | 257936 | [257936-balloons.json](./257936-balloons.json) |
@@ -1554,6 +1555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bangungot | 217862 | [217862-bangungot.json](./217862-bangungot.json) |
 | Bangy: Adventures in Egypt | 179135 | [179135-bangy-adventures-in-egypt.json](./179135-bangy-adventures-in-egypt.json) |
 | BanHammer | 286506 | [286506-banhammer.json](./286506-banhammer.json) |
+| BanHown | 240631 | [240631-banhown.json](./240631-banhown.json) |
 | Banira Shio | 182142 | [182142-banira-shio.json](./182142-banira-shio.json) |
 | Banish | 191184 | [191184-banish.json](./191184-banish.json) |
 | Banished Knight | 387621 | [387621-banished-knight.json](./387621-banished-knight.json) |
@@ -11534,6 +11536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brickhaven | 273380 | [273380-brickhaven.json](./273380-brickhaven.json) |
 | Brickle | 336321 | [336321-brickle.json](./336321-brickle.json) |
 | BrickMania | 328552 | [328552-brickmania.json](./328552-brickmania.json) |
+| Brickmasters | 240665 | [240665-brickmasters.json](./240665-brickmasters.json) |
 | Bricknosis | 391615 | [391615-bricknosis.json](./391615-bricknosis.json) |
 | Brickoid | 357167 | [357167-brickoid.json](./357167-brickoid.json) |
 | Brickout Kings | 108402 | [108402-brickout-kings.json](./108402-brickout-kings.json) |
