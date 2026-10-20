@@ -5987,6 +5987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binary. | 206173 | [206173-binary.json](./206173-binary.json) |
 | Binary. | 211098 | [211098-binary.json](./211098-binary.json) |
 | Binarycurse | 369690 | [369690-binarycurse.json](./369690-binarycurse.json) |
+| BinaryDefense | 224417 | [224417-binarydefense.json](./224417-binarydefense.json) |
 | BinaryGrab | 130724 | [130724-binarygrab.json](./130724-binarygrab.json) |
 | Binaural Odyssey | 153365 | [153365-binaural-odyssey.json](./153365-binaural-odyssey.json) |
 | Bincho-tan: Shiawase-goyomi | 194932 | [194932-bincho-tan-shiawase-goyomi.json](./194932-bincho-tan-shiawase-goyomi.json) |
