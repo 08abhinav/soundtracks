@@ -3475,7 +3475,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraTech Legion | 348307 | [348307-terratech-legion.json](./348307-terratech-legion.json) |
 | TerraTech Worlds | 252865 | [252865-terratech-worlds.json](./252865-terratech-worlds.json) |
 | TerraTech: Deluxe Edition | 51928 | [51928-terratech-deluxe-edition.json](./51928-terratech-deluxe-edition.json) |
+| TerraTech: Falcon Genesis | 230127 | [230127-terratech-falcon-genesis.json](./230127-terratech-falcon-genesis.json) |
+| TerraTech: Fantabulous Contraptions | 230145 | [230145-terratech-fantabulous-contraptions.json](./230145-terratech-fantabulous-contraptions.json) |
 | TerraTech: Prospector Edition | 238354 | [238354-terratech-prospector-edition.json](./238354-terratech-prospector-edition.json) |
+| TerraTech: R&D Labs | 230126 | [230126-terratech-r-and-d-labs.json](./230126-terratech-r-and-d-labs.json) |
+| TerraTech: To the Stars Pack | 230128 | [230128-terratech-to-the-stars-pack.json](./230128-terratech-to-the-stars-pack.json) |
+| TerraTech: Warriors of Future Past | 230144 | [230144-terratech-warriors-of-future-past.json](./230144-terratech-warriors-of-future-past.json) |
+| TerraTech: Weapons of War Pack | 230143 | [230143-terratech-weapons-of-war-pack.json](./230143-terratech-weapons-of-war-pack.json) |
 | Terratopia: March of The Demon King | 315631 | [315631-terratopia-march-of-the-demon-king.json](./315631-terratopia-march-of-the-demon-king.json) |
 | Terrawars: NY Invasion | 70467 | [70467-terrawars-ny-invasion.json](./70467-terrawars-ny-invasion.json) |
 | Terre Scramble! | 260427 | [260427-terre-scramble.json](./260427-terre-scramble.json) |
@@ -3632,6 +3638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Tube Titans | 129933 | [129933-test-tube-titans.json](./129933-test-tube-titans.json) |
 | Test Tube Titans: Taster Trial | 157062 | [157062-test-tube-titans-taster-trial.json](./157062-test-tube-titans-taster-trial.json) |
 | Test your Atari Acumen | 331163 | [331163-test-your-atari-acumen.json](./331163-test-your-atari-acumen.json) |
+| Test Your Knowledge: Cats | 230120 | [230120-test-your-knowledge-cats.json](./230120-test-your-knowledge-cats.json) |
 | Test Your Mario Memory | 231604 | [231604-test-your-mario-memory.json](./231604-test-your-mario-memory.json) |
 | Test Your Math | 27731 | [27731-test-your-math.json](./27731-test-your-math.json) |
 | Test Your Mind | 85432 | [85432-test-your-mind.json](./85432-test-your-mind.json) |
@@ -19269,6 +19276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topia World Builder | 87876 | [87876-topia-world-builder.json](./87876-topia-world-builder.json) |
 | Topic Twister | 254162 | [254162-topic-twister.json](./254162-topic-twister.json) |
 | Topidia: The Last Badge | 420554 | [420554-topidia-the-last-badge.json](./420554-topidia-the-last-badge.json) |
+| Topless Hentai Mosaic | 230124 | [230124-topless-hentai-mosaic.json](./230124-topless-hentai-mosaic.json) |
 | Topo Mix Game | 204107 | [204107-topo-mix-game.json](./204107-topo-mix-game.json) |
 | Topobeam | 390647 | [390647-topobeam.json](./390647-topobeam.json) |
 | Topografie Nederland | 86027 | [86027-topografie-nederland.json](./86027-topografie-nederland.json) |
@@ -23753,6 +23761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trump Tariff | 338606 | [338606-trump-tariff.json](./338606-trump-tariff.json) |
 | Trump vs Biden: Infinity war | 141035 | [141035-trump-vs-biden-infinity-war.json](./141035-trump-vs-biden-infinity-war.json) |
 | Trump vs Harris Clicker | 369646 | [369646-trump-vs-harris-clicker.json](./369646-trump-vs-harris-clicker.json) |
+| Trump Vs Rocketman | 230134 | [230134-trump-vs-rocketman.json](./230134-trump-vs-rocketman.json) |
 | Trump: Agent of Hate | 26958 | [26958-trump-agent-of-hate.json](./26958-trump-agent-of-hate.json) |
 | Trump! Jump | 256262 | [256262-trump-jump.json](./256262-trump-jump.json) |
 | Trumpets | 179164 | [179164-trumpets.json](./179164-trumpets.json) |
