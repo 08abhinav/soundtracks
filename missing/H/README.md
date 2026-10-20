@@ -6262,6 +6262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitler no Fukkatsu: Top Secret | 48580 | [48580-hitler-no-fukkatsu-top-secret.json](./48580-hitler-no-fukkatsu-top-secret.json) |
 | Hitm3 | 291870 | [291870-hitm3.json](./291870-hitm3.json) |
 | Hitmaker Tycoon | 395704 | [395704-hitmaker-tycoon.json](./395704-hitmaker-tycoon.json) |
+| Hitman | 218314 | [218314-hitman.json](./218314-hitman.json) |
 | Hitman 2 Christmas Game | 336886 | [336886-hitman-2-christmas-game.json](./336886-hitman-2-christmas-game.json) |
 | Hitman 2: Miami Pack | 118173 | [118173-hitman-2-miami-pack.json](./118173-hitman-2-miami-pack.json) |
 | Hitman 3 | 134595 | [134595-hitman-3.json](./134595-hitman-3.json) |
