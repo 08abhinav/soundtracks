@@ -2222,7 +2222,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scheming Through the Zombie Apocalypse: Episode 2 - Caged | 110542 | [110542-scheming-through-the-zombie-apocalypse-episode-2-caged.json](./110542-scheming-through-the-zombie-apocalypse-episode-2-caged.json) |
 | Scherzo | 276039 | [276039-scherzo.json](./276039-scherzo.json) |
 | Schiffbruch | 76251 | [76251-schiffbruch.json](./76251-schiffbruch.json) |
-| SCHiM | 140799 | [140799-schim.json](./140799-schim.json) |
 | Schism | 136135 | [136135-schism.json](./136135-schism.json) |
 | Schism | 260885 | [260885-schism.json](./260885-schism.json) |
 | Schism | 266227 | [266227-schism.json](./266227-schism.json) |
@@ -23731,7 +23730,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kirby Clash | 122229 | [122229-super-kirby-clash.json](./122229-super-kirby-clash.json) |
 | Super Kittens | 138489 | [138489-super-kittens.json](./138489-super-kittens.json) |
 | Super Kitty Tales | 180774 | [180774-super-kitty-tales.json](./180774-super-kitty-tales.json) |
-| Super Kiwi 64 | 197198 | [197198-super-kiwi-64.json](./197198-super-kiwi-64.json) |
 | Super Kiwi 64: Doomsday | 284145 | [284145-super-kiwi-64-doomsday.json](./284145-super-kiwi-64-doomsday.json) |
 | Super Knockoff Versus | 82507 | [82507-super-knockoff-versus.json](./82507-super-knockoff-versus.json) |
 | Super Knockoff! VS | 81131 | [81131-super-knockoff-vs.json](./81131-super-knockoff-vs.json) |
