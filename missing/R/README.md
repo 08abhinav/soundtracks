@@ -8814,6 +8814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubber Bandits | 139684 | [139684-rubber-bandits.json](./139684-rubber-bandits.json) |
 | Rubber Bandits: Animal Bandits | 297456 | [297456-rubber-bandits-animal-bandits.json](./297456-rubber-bandits-animal-bandits.json) |
 | Rubber Bandits: Go Wild Pack | 225071 | [225071-rubber-bandits-go-wild-pack.json](./225071-rubber-bandits-go-wild-pack.json) |
+| Rubber Bandits: Supporter Pack | 231211 | [231211-rubber-bandits-supporter-pack.json](./231211-rubber-bandits-supporter-pack.json) |
 | Rubber Bird | 404862 | [404862-rubber-bird.json](./404862-rubber-bird.json) |
 | Rubber Brawl | 219644 | [219644-rubber-brawl.json](./219644-rubber-brawl.json) |
 | Rubber Dinghy | 101733 | [101733-rubber-dinghy.json](./101733-rubber-dinghy.json) |
