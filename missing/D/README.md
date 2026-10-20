@@ -5264,6 +5264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Island Fishing | 56289 | [56289-desert-island-fishing.json](./56289-desert-island-fishing.json) |
 | Desert Journey | 214557 | [214557-desert-journey.json](./214557-desert-journey.json) |
 | Desert King 2 | 208918 | [208918-desert-king-2.json](./208918-desert-king-2.json) |
+| Desert Kingdom | 221611 | [221611-desert-kingdom.json](./221611-desert-kingdom.json) |
 | Desert Kingdom Portable: Limited Edition | 44510 | [44510-desert-kingdom-portable-limited-edition.json](./44510-desert-kingdom-portable-limited-edition.json) |
 | Desert Kingdoms | 279497 | [279497-desert-kingdoms.json](./279497-desert-kingdoms.json) |
 | Desert Kingdoms 2 | 303473 | [303473-desert-kingdoms-2.json](./303473-desert-kingdoms-2.json) |
@@ -8607,6 +8608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Plays in Space Bundle | 230824 | [230824-dog-plays-in-space-bundle.json](./230824-dog-plays-in-space-bundle.json) |
 | Dog Puzzle | 239773 | [239773-dog-puzzle.json](./239773-dog-puzzle.json) |
 | Dog Run - Pet Dog Simulator | 107062 | [107062-dog-run-pet-dog-simulator.json](./107062-dog-run-pet-dog-simulator.json) |
+| Dog School: Lovely Puppy | 222179 | [222179-dog-school-lovely-puppy.json](./222179-dog-school-lovely-puppy.json) |
 | Dog Simulator: Dog Life Games | 296771 | [296771-dog-simulator-dog-life-games.json](./296771-dog-simulator-dog-life-games.json) |
 | Dog Sled Saga | 17163 | [17163-dog-sled-saga.json](./17163-dog-sled-saga.json) |
 | Dog Spotting Challenge! | 336420 | [336420-dog-spotting-challenge.json](./336420-dog-spotting-challenge.json) |
@@ -10053,6 +10055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot Com Mystery | 393383 | [393383-dot-com-mystery.json](./393383-dot-com-mystery.json) |
 | Dot Dash Defense | 400361 | [400361-dot-dash-defense.json](./400361-dot-dash-defense.json) |
 | Dot Dash Dot | 167619 | [167619-dot-dash-dot.json](./167619-dot-dash-dot.json) |
+| Dot Eater New Pick Dan | 222180 | [222180-dot-eater-new-pick-dan.json](./222180-dot-eater-new-pick-dan.json) |
 | Dot Hop | 295803 | [295803-dot-hop.json](./295803-dot-hop.json) |
 | Dot Hopper | 52208 | [52208-dot-hopper.json](./52208-dot-hopper.json) |
 | Dot Horror Story: Double Pack | 222262 | [222262-dot-horror-story-double-pack.json](./222262-dot-horror-story-double-pack.json) |
@@ -11149,6 +11152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest Monsters: Joker 3 Professional | 79296 | [79296-dragon-quest-monsters-joker-3-professional.json](./79296-dragon-quest-monsters-joker-3-professional.json) |
 | Dragon Quest Monsters: Terry no Wonderland 3D | 80596 | [80596-dragon-quest-monsters-terry-no-wonderland-3d.json](./80596-dragon-quest-monsters-terry-no-wonderland-3d.json) |
 | Dragon Quest Monsters: Terry no Wonderland SP | 111757 | [111757-dragon-quest-monsters-terry-no-wonderland-sp.json](./111757-dragon-quest-monsters-terry-no-wonderland-sp.json) |
+| Dragon Quest Monsters: Terry's Wonderland Retro | 221584 | [221584-dragon-quest-monsters-terrys-wonderland-retro.json](./221584-dragon-quest-monsters-terrys-wonderland-retro.json) |
 | Dragon Quest Monsters: The Dark Prince | 254332 | [254332-dragon-quest-monsters-the-dark-prince.json](./254332-dragon-quest-monsters-the-dark-prince.json) |
 | Dragon Quest Monsters: The Dark Prince - Coach Joe's Dungeon Gym | 268576 | [268576-dragon-quest-monsters-the-dark-prince-coach-joes-dungeon-gym.json](./268576-dragon-quest-monsters-the-dark-prince-coach-joes-dungeon-gym.json) |
 | Dragon Quest Monsters: The Dark Prince - Digital Deluxe Edition | 268553 | [268553-dragon-quest-monsters-the-dark-prince-digital-deluxe-edition.json](./268553-dragon-quest-monsters-the-dark-prince-digital-deluxe-edition.json) |
