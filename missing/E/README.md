@@ -4644,13 +4644,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Etre | 270182 | [270182-etre.json](./270182-etre.json) |
 | Etrian Mystery Dungeon | 8607 | [8607-etrian-mystery-dungeon.json](./8607-etrian-mystery-dungeon.json) |
 | Etrian Mystery Dungeon 2: Etrian Odyssey 10th Anniversary Box | 70894 | [70894-etrian-mystery-dungeon-2-etrian-odyssey-10th-anniversary-box.json](./70894-etrian-mystery-dungeon-2-etrian-odyssey-10th-anniversary-box.json) |
+| Etrian Odyssey HD | 236678 | [236678-etrian-odyssey-hd.json](./236678-etrian-odyssey-hd.json) |
 | Etrian Odyssey HD Character Set DLC | 251586 | [251586-etrian-odyssey-hd-character-set-dlc.json](./251586-etrian-odyssey-hd-character-set-dlc.json) |
 | Etrian Odyssey Heardle | 283398 | [283398-etrian-odyssey-heardle.json](./283398-etrian-odyssey-heardle.json) |
+| Etrian Odyssey II HD | 236684 | [236684-etrian-odyssey-ii-hd.json](./236684-etrian-odyssey-ii-hd.json) |
 | Etrian Odyssey II HD: Character Set DLC | 251695 | [251695-etrian-odyssey-ii-hd-character-set-dlc.json](./251695-etrian-odyssey-ii-hd-character-set-dlc.json) |
 | Etrian Odyssey II: Heroes of Lagaard | 14717 | [14717-etrian-odyssey-ii-heroes-of-lagaard.json](./14717-etrian-odyssey-ii-heroes-of-lagaard.json) |
+| Etrian Odyssey III HD | 236685 | [236685-etrian-odyssey-iii-hd.json](./236685-etrian-odyssey-iii-hd.json) |
 | Etrian Odyssey III HD Character Set DLC | 251696 | [251696-etrian-odyssey-iii-hd-character-set-dlc.json](./251696-etrian-odyssey-iii-hd-character-set-dlc.json) |
 | Etrian Odyssey III: The Drowned City | 14718 | [14718-etrian-odyssey-iii-the-drowned-city.json](./14718-etrian-odyssey-iii-the-drowned-city.json) |
 | Etrian Odyssey IV: Legends of the Titan | 6767 | [6767-etrian-odyssey-iv-legends-of-the-titan.json](./6767-etrian-odyssey-iv-legends-of-the-titan.json) |
+| Etrian Odyssey Origins Collection: Limited Edition | 236687 | [236687-etrian-odyssey-origins-collection-limited-edition.json](./236687-etrian-odyssey-origins-collection-limited-edition.json) |
 | Etrian Odyssey Untold: The Millennium Girl | 6768 | [6768-etrian-odyssey-untold-the-millennium-girl.json](./6768-etrian-odyssey-untold-the-millennium-girl.json) |
 | Etrian Odyssey V: Beyond the Myth | 18224 | [18224-etrian-odyssey-v-beyond-the-myth.json](./18224-etrian-odyssey-v-beyond-the-myth.json) |
 | Etrom: The Astral Essence | 72086 | [72086-etrom-the-astral-essence.json](./72086-etrom-the-astral-essence.json) |
