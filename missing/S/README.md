@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safari Race | 6129 | [6129-safari-race.json](./6129-safari-race.json) |
 | Safari Rally | 40416 | [40416-safari-rally.json](./40416-safari-rally.json) |
 | Safari Simulator: Lion | 88154 | [88154-safari-simulator-lion.json](./88154-safari-simulator-lion.json) |
+| Safari Toy Factory | 253245 | [253245-safari-toy-factory.json](./253245-safari-toy-factory.json) |
 | Safari Venture | 28608 | [28608-safari-venture.json](./28608-safari-venture.json) |
 | Safari Zone | 158564 | [158564-safari-zone.json](./158564-safari-zone.json) |
 | Safari: I-Evolution | 239635 | [239635-safari-i-evolution.json](./239635-safari-i-evolution.json) |
@@ -4159,6 +4160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentient Noir | 219618 | [219618-sentient-noir.json](./219618-sentient-noir.json) |
 | Sentient: Arena Mech Royale | 130758 | [130758-sentient-arena-mech-royale.json](./130758-sentient-arena-mech-royale.json) |
 | Sentiment Laundromat | 371603 | [371603-sentiment-laundromat.json](./371603-sentiment-laundromat.json) |
+| Sentimental Death Loop | 253236 | [253236-sentimental-death-loop.json](./253236-sentimental-death-loop.json) |
 | Sentimental Garden | 334863 | [334863-sentimental-garden.json](./334863-sentimental-garden.json) |
 | Sentimental Gensoukyou | 306568 | [306568-sentimental-gensoukyou.json](./306568-sentimental-gensoukyou.json) |
 | Sentimental Graffiti | 124264 | [124264-sentimental-graffiti.json](./124264-sentimental-graffiti.json) |
@@ -6964,6 +6966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shot Online Golf: World Championship | 70858 | [70858-shot-online-golf-world-championship.json](./70858-shot-online-golf-world-championship.json) |
 | Shot Online: Golf Battle | 233119 | [233119-shot-online-golf-battle.json](./233119-shot-online-golf-battle.json) |
 | Shot Put | 287556 | [287556-shot-put.json](./287556-shot-put.json) |
+| Shot Shot Shoot | 253242 | [253242-shot-shot-shoot.json](./253242-shot-shot-shoot.json) |
 | Shot Supreme | 253856 | [253856-shot-supreme.json](./253856-shot-supreme.json) |
 | Shot the Body | 126572 | [126572-shot-the-body.json](./126572-shot-the-body.json) |
 | Shot.io | 77424 | [77424-shot-io.json](./77424-shot-io.json) |
@@ -17464,6 +17467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack Up (or dive trying) | 133132 | [133132-stack-up-or-dive-trying.json](./133132-stack-up-or-dive-trying.json) |
 | Stack World | 236383 | [236383-stack-world.json](./236383-stack-world.json) |
 | Stack-Making Neighbors | 258976 | [258976-stack-making-neighbors.json](./258976-stack-making-neighbors.json) |
+| Stack,Clack,Clock! | 253211 | [253211-stack-clack-clock.json](./253211-stack-clack-clock.json) |
 | Stack! | 191216 | [191216-stack.json](./191216-stack.json) |
 | Stack'em | 206976 | [206976-stackem.json](./206976-stackem.json) |
 | Stack'em HD | 355001 | [355001-stackem-hd.json](./355001-stackem-hd.json) |
