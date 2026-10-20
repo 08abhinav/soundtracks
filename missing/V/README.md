@@ -1316,6 +1316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vexbox | 351643 | [351643-vexbox.json](./351643-vexbox.json) |
 | Vexed Heroes | 261419 | [261419-vexed-heroes.json](./261419-vexed-heroes.json) |
 | Vexius | 76677 | [76677-vexius.json](./76677-vexius.json) |
+| Vexlands | 249036 | [249036-vexlands.json](./249036-vexlands.json) |
 | Vexle | 409228 | [409228-vexle.json](./409228-vexle.json) |
 | Vext Edit | 249648 | [249648-vext-edit.json](./249648-vext-edit.json) |
 | Vextorial | 324165 | [324165-vextorial.json](./324165-vextorial.json) |
