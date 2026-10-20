@@ -5625,6 +5625,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Mess | 176354 | [176354-big-mess.json](./176354-big-mess.json) |
 | Big Mountain 2000 | 3367 | [3367-big-mountain-2000.json](./3367-big-mountain-2000.json) |
 | Big Mountain Snowboarding | 88322 | [88322-big-mountain-snowboarding.json](./88322-big-mountain-snowboarding.json) |
+| Big Mutha Truckers | 248456 | [248456-big-mutha-truckers.json](./248456-big-mutha-truckers.json) |
+| Big Mutha Truckers | 248457 | [248457-big-mutha-truckers.json](./248457-big-mutha-truckers.json) |
 | Big Mutha Truckers | 3809 | [3809-big-mutha-truckers.json](./3809-big-mutha-truckers.json) |
 | Big Mutha Truckers 2 | 201103 | [201103-big-mutha-truckers-2.json](./201103-big-mutha-truckers-2.json) |
 | Big Mutha Truckers 2 | 5748 | [5748-big-mutha-truckers-2.json](./5748-big-mutha-truckers-2.json) |
@@ -6146,6 +6148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionicle: Masks of Power | 141873 | [141873-bionicle-masks-of-power.json](./141873-bionicle-masks-of-power.json) |
 | Bionicle: Masks of Power - Legacy | 354948 | [354948-bionicle-masks-of-power-legacy.json](./354948-bionicle-masks-of-power-legacy.json) |
 | Bionicle: Maze of Shadows | 15738 | [15738-bionicle-maze-of-shadows.json](./15738-bionicle-maze-of-shadows.json) |
+| Bionicle: The Game | 248451 | [248451-bionicle-the-game.json](./248451-bionicle-the-game.json) |
 | Bionicle: The Game | 3811 | [3811-bionicle-the-game.json](./3811-bionicle-the-game.json) |
 | Bionicle: The Legend of Mata Nui | 127645 | [127645-bionicle-the-legend-of-mata-nui.json](./127645-bionicle-the-legend-of-mata-nui.json) |
 | Bionicle: The Legend of Mata Nui Rebuilt | 341838 | [341838-bionicle-the-legend-of-mata-nui-rebuilt.json](./341838-bionicle-the-legend-of-mata-nui-rebuilt.json) |
@@ -10909,6 +10912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bratz: Forever Diamondz | 248533 | [248533-bratz-forever-diamondz.json](./248533-bratz-forever-diamondz.json) |
 | Bratz: Forever Diamondz | 3835 | [3835-bratz-forever-diamondz.json](./3835-bratz-forever-diamondz.json) |
 | Bratz: Girlz Really Rock | 43248 | [43248-bratz-girlz-really-rock.json](./43248-bratz-girlz-really-rock.json) |
+| Bratz: Rock Angelz | 248472 | [248472-bratz-rock-angelz.json](./248472-bratz-rock-angelz.json) |
 | Bratz: The Movie | 248612 | [248612-bratz-the-movie.json](./248612-bratz-the-movie.json) |
 | Bravada | 17695 | [17695-bravada.json](./17695-bravada.json) |
 | Brave | 216126 | [216126-brave.json](./216126-brave.json) |
