@@ -1619,6 +1619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wartune | 23652 | [23652-wartune.json](./23652-wartune.json) |
 | Wartune Reborn | 160087 | [160087-wartune-reborn.json](./160087-wartune-reborn.json) |
 | Wartune Ultra | 392881 | [392881-wartune-ultra.json](./392881-wartune-ultra.json) |
+| Warui Kami | 225501 | [225501-warui-kami.json](./225501-warui-kami.json) |
 | WarUniverse | 123614 | [123614-waruniverse.json](./123614-waruniverse.json) |
 | WarWest | 112336 | [112336-warwest.json](./112336-warwest.json) |
 | Warzone | 308473 | [308473-warzone.json](./308473-warzone.json) |
@@ -4830,6 +4831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witches & Vampires Ghost Pirates of Ashburry | 47812 | [47812-witches-and-vampires-ghost-pirates-of-ashburry.json](./47812-witches-and-vampires-ghost-pirates-of-ashburry.json) |
 | Witches & Vampires: The Secrets of Ashburry | 47813 | [47813-witches-and-vampires-the-secrets-of-ashburry.json](./47813-witches-and-vampires-the-secrets-of-ashburry.json) |
 | Witches & Woodlands | 275595 | [275595-witches-and-woodlands.json](./275595-witches-and-woodlands.json) |
+| Witches at Summer's End | 225518 | [225518-witches-at-summers-end.json](./225518-witches-at-summers-end.json) |
 | Witches Craft | 103956 | [103956-witches-craft.json](./103956-witches-craft.json) |
 | Witches Legacy: Slumbering Darkness & Dark Throne | 201824 | [201824-witches-legacy-slumbering-darkness-and-dark-throne.json](./201824-witches-legacy-slumbering-darkness-and-dark-throne.json) |
 | Witches of the Fourth | 417344 | [417344-witches-of-the-fourth.json](./417344-witches-of-the-fourth.json) |
@@ -5956,6 +5958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Class | 244508 | [244508-world-class.json](./244508-world-class.json) |
 | World Class Baseball | 37734 | [37734-world-class-baseball.json](./37734-world-class-baseball.json) |
 | World Class Bowling | 39426 | [39426-world-class-bowling.json](./39426-world-class-bowling.json) |
+| World Class Champion Soccer | 225510 | [225510-world-class-champion-soccer.json](./225510-world-class-champion-soccer.json) |
 | World Class Fussball/Soccer | 175907 | [175907-world-class-fussball-soccer.json](./175907-world-class-fussball-soccer.json) |
 | World Class Golf | 239338 | [239338-world-class-golf.json](./239338-world-class-golf.json) |
 | World Class Leaderboard Golf | 262861 | [262861-world-class-leaderboard-golf.json](./262861-world-class-leaderboard-golf.json) |
