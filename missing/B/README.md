@@ -2412,6 +2412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baskin-Robbins: Enter the Flavour-Verse | 257334 | [257334-baskin-robbins-enter-the-flavour-verse.json](./257334-baskin-robbins-enter-the-flavour-verse.json) |
 | Basment Dwellers | 30593 | [30593-basment-dwellers.json](./30593-basment-dwellers.json) |
 | Baspetball | 346584 | [346584-baspetball.json](./346584-baspetball.json) |
+| Bass Angler Championship | 220537 | [220537-bass-angler-championship.json](./220537-bass-angler-championship.json) |
 | Bass Avenger | 130845 | [130845-bass-avenger.json](./130845-bass-avenger.json) |
 | Bass Cat: Learn to Read Music | 90382 | [90382-bass-cat-learn-to-read-music.json](./90382-bass-cat-learn-to-read-music.json) |
 | Bass Class | 145246 | [145246-bass-class.json](./145246-bass-class.json) |
