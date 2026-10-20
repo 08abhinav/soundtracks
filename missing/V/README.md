@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacation Adventures: Park Ranger | 85464 | [85464-vacation-adventures-park-ranger.json](./85464-vacation-adventures-park-ranger.json) |
 | Vacation Adventures: Park Ranger 11 | 147421 | [147421-vacation-adventures-park-ranger-11.json](./147421-vacation-adventures-park-ranger-11.json) |
 | Vacation Adventures: Park Ranger 12 | 193218 | [193218-vacation-adventures-park-ranger-12.json](./193218-vacation-adventures-park-ranger-12.json) |
+| Vacation Adventures: Park Ranger 13 - Collector's Edition | 233894 | [233894-vacation-adventures-park-ranger-13-collectors-edition.json](./233894-vacation-adventures-park-ranger-13-collectors-edition.json) |
 | Vacation Adventures: Park Ranger 14 | 216854 | [216854-vacation-adventures-park-ranger-14.json](./216854-vacation-adventures-park-ranger-14.json) |
 | Vacation Adventures: Park Ranger 14 - Collector's Edition | 231837 | [231837-vacation-adventures-park-ranger-14-collectors-edition.json](./231837-vacation-adventures-park-ranger-14-collectors-edition.json) |
 | Vacation Adventures: Park Ranger 16 - Collectors Edition | 311108 | [311108-vacation-adventures-park-ranger-16-collectors-edition.json](./311108-vacation-adventures-park-ranger-16-collectors-edition.json) |
