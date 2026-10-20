@@ -3359,6 +3359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminator 2: Judgment Day | 45346 | [45346-terminator-2-judgment-day.json](./45346-terminator-2-judgment-day.json) |
 | Terminator 2: Judgment Day - Chess Wars | 14557 | [14557-terminator-2-judgment-day-chess-wars.json](./14557-terminator-2-judgment-day-chess-wars.json) |
 | Terminator 2: Judgment Game | 280650 | [280650-terminator-2-judgment-game.json](./280650-terminator-2-judgment-game.json) |
+| Terminator 3: Rise of the Machines | 204902 | [204902-terminator-3-rise-of-the-machines.json](./204902-terminator-3-rise-of-the-machines.json) |
 | Terminator 3: Rise of the Machines | 6196 | [6196-terminator-3-rise-of-the-machines.json](./6196-terminator-3-rise-of-the-machines.json) |
 | Terminator Salvation | 142768 | [142768-terminator-salvation.json](./142768-terminator-salvation.json) |
 | Terminator: Dark Fate | 287867 | [287867-terminator-dark-fate.json](./287867-terminator-dark-fate.json) |
@@ -4431,6 +4432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amulet of Darath | 58864 | [58864-the-amulet-of-darath.json](./58864-the-amulet-of-darath.json) |
 | The Anacrusis: Deluxe Edition | 192304 | [192304-the-anacrusis-deluxe-edition.json](./192304-the-anacrusis-deluxe-edition.json) |
 | The Analyst | 211289 | [211289-the-analyst.json](./211289-the-analyst.json) |
+| The Ancestral Trail | 204911 | [204911-the-ancestral-trail.json](./204911-the-ancestral-trail.json) |
 | The Anchorite | 325079 | [325079-the-anchorite.json](./325079-the-anchorite.json) |
 | The Ancient Art of War | 14600 | [14600-the-ancient-art-of-war.json](./14600-the-ancient-art-of-war.json) |
 | The Ancient Key | 179562 | [179562-the-ancient-key.json](./179562-the-ancient-key.json) |
@@ -5306,6 +5308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Call of the Rats | 300702 | [300702-the-call-of-the-rats.json](./300702-the-call-of-the-rats.json) |
 | The Calling | 339386 | [339386-the-calling.json](./339386-the-calling.json) |
 | The Callisto Protocol: Contagion Bundle | 241958 | [241958-the-callisto-protocol-contagion-bundle.json](./241958-the-callisto-protocol-contagion-bundle.json) |
+| The Callisto Protocol: Day One Edition | 204904 | [204904-the-callisto-protocol-day-one-edition.json](./204904-the-callisto-protocol-day-one-edition.json) |
 | The Callisto Protocol: Digital Deluxe Edition | 205001 | [205001-the-callisto-protocol-digital-deluxe-edition.json](./205001-the-callisto-protocol-digital-deluxe-edition.json) |
 | The Callisto Protocol: Final Transmission | 254275 | [254275-the-callisto-protocol-final-transmission.json](./254275-the-callisto-protocol-final-transmission.json) |
 | The Callisto Protocol: Outer Way Skin Collection | 308274 | [308274-the-callisto-protocol-outer-way-skin-collection.json](./308274-the-callisto-protocol-outer-way-skin-collection.json) |
@@ -5452,6 +5455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The change | 103429 | [103429-the-change.json](./103429-the-change.json) |
 | The Change Architect | 141095 | [141095-the-change-architect.json](./141095-the-change-architect.json) |
 | The Chant | 152076 | [152076-the-chant.json](./152076-the-chant.json) |
+| The Chant: Limited Edition | 204914 | [204914-the-chant-limited-edition.json](./204914-the-chant-limited-edition.json) |
 | The Chant: The Gloom Below | 266387 | [266387-the-chant-the-gloom-below.json](./266387-the-chant-the-gloom-below.json) |
 | The Chantry | 118698 | [118698-the-chantry.json](./118698-the-chantry.json) |
 | The Chaotic Workshop | 105154 | [105154-the-chaotic-workshop.json](./105154-the-chaotic-workshop.json) |
@@ -9048,6 +9052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Door on the Left | 177314 | [177314-the-last-door-on-the-left.json](./177314-the-last-door-on-the-left.json) |
 | The Last Door: Collector's Edition | 36443 | [36443-the-last-door-collectors-edition.json](./36443-the-last-door-collectors-edition.json) |
 | The Last Door: Complete Edition | 118676 | [118676-the-last-door-complete-edition.json](./118676-the-last-door-complete-edition.json) |
+| The Last Door: Legacy Edition | 204909 | [204909-the-last-door-legacy-edition.json](./204909-the-last-door-legacy-edition.json) |
 | The Last Dream: Developer's Edition | 34624 | [34624-the-last-dream-developers-edition.json](./34624-the-last-dream-developers-edition.json) |
 | The Last Drive: 2335 | 359607 | [359607-the-last-drive-2335.json](./359607-the-last-drive-2335.json) |
 | The Last Driver | 343791 | [343791-the-last-driver.json](./343791-the-last-driver.json) |
@@ -20963,6 +20968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrackMania Nations | 9909 | [9909-trackmania-nations.json](./9909-trackmania-nations.json) |
 | TrackMania Nations Forever | 15773 | [15773-trackmania-nations-forever.json](./15773-trackmania-nations-forever.json) |
 | TrackMania Sunrise | 22294 | [22294-trackmania-sunrise.json](./22294-trackmania-sunrise.json) |
+| TrackMania Sunrise Extreme | 204912 | [204912-trackmania-sunrise-extreme.json](./204912-trackmania-sunrise-extreme.json) |
 | TrackMania Sunrise Extreme | 205056 | [205056-trackmania-sunrise-extreme.json](./205056-trackmania-sunrise-extreme.json) |
 | TrackMania Turbo | 11172 | [11172-trackmania-turbo.json](./11172-trackmania-turbo.json) |
 | Trackmania Turbo: Build to Race | 67017 | [67017-trackmania-turbo-build-to-race.json](./67017-trackmania-turbo-build-to-race.json) |
@@ -22537,6 +22543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transition to adulthood | 81945 | [81945-transition-to-adulthood.json](./81945-transition-to-adulthood.json) |
 | Transitions | 181732 | [181732-transitions.json](./181732-transitions.json) |
 | Transliminal | 226583 | [226583-transliminal.json](./226583-transliminal.json) |
+| Translunar Enterprises | 204896 | [204896-translunar-enterprises.json](./204896-translunar-enterprises.json) |
 | TransMemory | 318802 | [318802-transmemory.json](./318802-transmemory.json) |
 | Transmigration | 334910 | [334910-transmigration.json](./334910-transmigration.json) |
 | Transmission | 108606 | [108606-transmission.json](./108606-transmission.json) |
