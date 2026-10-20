@@ -297,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Fly in the Array | 387613 | [387613-a-fly-in-the-array.json](./387613-a-fly-in-the-array.json) |
 | A Fool's Art Gallery | 268144 | [268144-a-fools-art-gallery.json](./268144-a-fools-art-gallery.json) |
 | A Foreign Land of Us | 410436 | [410436-a-foreign-land-of-us.json](./410436-a-foreign-land-of-us.json) |
+| A Foreign World | 223343 | [223343-a-foreign-world.json](./223343-a-foreign-world.json) |
 | A Forest | 387527 | [387527-a-forest.json](./387527-a-forest.json) |
 | A Forest Tale: Porasy | 330330 | [330330-a-forest-tale-porasy.json](./330330-a-forest-tale-porasy.json) |
 | A Foretold Affair | 29614 | [29614-a-foretold-affair.json](./29614-a-foretold-affair.json) |
@@ -479,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Kitten Seeks the Moon | 397177 | [397177-a-kitten-seeks-the-moon.json](./397177-a-kitten-seeks-the-moon.json) |
 | A Klance Texting Game | 178471 | [178471-a-klance-texting-game.json](./178471-a-klance-texting-game.json) |
 | A Knife Made of Whispers | 134375 | [134375-a-knife-made-of-whispers.json](./134375-a-knife-made-of-whispers.json) |
+| A Knight in the Attic | 223352 | [223352-a-knight-in-the-attic.json](./223352-a-knight-in-the-attic.json) |
 | A Knight Never Yields | 148486 | [148486-a-knight-never-yields.json](./148486-a-knight-never-yields.json) |
 | A Knight on the Town | 40650 | [40650-a-knight-on-the-town.json](./40650-a-knight-on-the-town.json) |
 | A Knight's Devotion | 238410 | [238410-a-knights-devotion.json](./238410-a-knights-devotion.json) |
@@ -5210,6 +5212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alkemstone | 24788 | [24788-alkemstone.json](./24788-alkemstone.json) |
 | Alkey the Brave | 226214 | [226214-alkey-the-brave.json](./226214-alkey-the-brave.json) |
 | Alkimya: House of Wisdom | 415155 | [415155-alkimya-house-of-wisdom.json](./415155-alkimya-house-of-wisdom.json) |
+| Alkurai | 223323 | [223323-alkurai.json](./223323-alkurai.json) |
 | All @ Once | 201651 | [201651-all-once.json](./201651-all-once.json) |
 | All 9 Lives | 408271 | [408271-all-9-lives.json](./408271-all-9-lives.json) |
 | All Aboard! The Train Defense Express | 337454 | [337454-all-aboard-the-train-defense-express.json](./337454-all-aboard-the-train-defense-express.json) |
@@ -11673,6 +11676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astoria: Fate's Kiss | 308058 | [308058-astoria-fates-kiss.json](./308058-astoria-fates-kiss.json) |
 | Astoria: The Holders of Power Saga | 51427 | [51427-astoria-the-holders-of-power-saga.json](./51427-astoria-the-holders-of-power-saga.json) |
 | Astra and The New Constellation | 240119 | [240119-astra-and-the-new-constellation.json](./240119-astra-and-the-new-constellation.json) |
+| Astra Defender | 223311 | [223311-astra-defender.json](./223311-astra-defender.json) |
 | Astra Etherium | 61027 | [61027-astra-etherium.json](./61027-astra-etherium.json) |
 | Astra Exodus | 111693 | [111693-astra-exodus.json](./111693-astra-exodus.json) |
 | Astra GalaxyX | 399615 | [399615-astra-galaxyx.json](./399615-astra-galaxyx.json) |
