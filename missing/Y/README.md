@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yawara! | 58886 | [58886-yawara.json](./58886-yawara.json) |
 | Yawara! 2 | 58885 | [58885-yawara-2.json](./58885-yawara-2.json) |
 | Yawara!: Yawara no Seishun | 353407 | [353407-yawara-yawara-no-seishun.json](./353407-yawara-yawara-no-seishun.json) |
+| Yawning Triceratops | 245677 | [245677-yawning-triceratops.json](./245677-yawning-triceratops.json) |
 | Yawnoc | 288449 | [288449-yawnoc.json](./288449-yawnoc.json) |
 | Yay BMO | 268988 | [268988-yay-bmo.json](./268988-yay-bmo.json) |
 | Yay! Spring Trip with My Coworkers! | 319071 | [319071-yay-spring-trip-with-my-coworkers.json](./319071-yay-spring-trip-with-my-coworkers.json) |
@@ -581,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yogosareta Seifuku: Ryojyoku no Kusari | 97779 | [97779-yogosareta-seifuku-ryojyoku-no-kusari.json](./97779-yogosareta-seifuku-ryojyoku-no-kusari.json) |
 | Yogurt Commercial 3 | 146850 | [146850-yogurt-commercial-3.json](./146850-yogurt-commercial-3.json) |
 | Yogurt Royale | 177010 | [177010-yogurt-royale.json](./177010-yogurt-royale.json) |
+| Yogurt: Wet Dreams | 245720 | [245720-yogurt-wet-dreams.json](./245720-yogurt-wet-dreams.json) |
 | Yogurt! | 158540 | [158540-yogurt.json](./158540-yogurt.json) |
 | Yogurt's Big Adventure | 227753 | [227753-yogurts-big-adventure.json](./227753-yogurts-big-adventure.json) |
 | Yogurting | 166014 | [166014-yogurting.json](./166014-yogurting.json) |
