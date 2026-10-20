@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kairos | 411799 | [411799-kairos.json](./411799-kairos.json) |
 | Kairos'Light | 132235 | [132235-kairoslight.json](./132235-kairoslight.json) |
 | Kaisa | 95362 | [95362-kaisa.json](./95362-kaisa.json) |
+| Kaisa: Resurrection | 212145 | [212145-kaisa-resurrection.json](./212145-kaisa-resurrection.json) |
 | Kaisen! Ika Gundan! | 269317 | [269317-kaisen-ika-gundan.json](./269317-kaisen-ika-gundan.json) |
 | Kaiser | 76157 | [76157-kaiser.json](./76157-kaiser.json) |
 | Kaiser of Singularity | 260868 | [260868-kaiser-of-singularity.json](./260868-kaiser-of-singularity.json) |
