@@ -2588,6 +2588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Ponies | 146120 | [146120-adventure-ponies.json](./146120-adventure-ponies.json) |
 | Adventure Ponies | 264456 | [264456-adventure-ponies.json](./264456-adventure-ponies.json) |
 | Adventure Ponies 2: Wait! There's More?! | 146121 | [146121-adventure-ponies-2-wait-theres-more.json](./146121-adventure-ponies-2-wait-theres-more.json) |
+| Adventure Puss | 244114 | [244114-adventure-puss.json](./244114-adventure-puss.json) |
 | Adventure Quiz 2: Hatena? No Dai-Bouken | 65206 | [65206-adventure-quiz-2-hatena-no-dai-bouken.json](./65206-adventure-quiz-2-hatena-no-dai-bouken.json) |
 | Adventure Quiz: Capcom World - Hatena no Daibouken | 77012 | [77012-adventure-quiz-capcom-world-hatena-no-daibouken.json](./77012-adventure-quiz-capcom-world-hatena-no-daibouken.json) |
 | Adventure Race | 387037 | [387037-adventure-race.json](./387037-adventure-race.json) |
@@ -2712,6 +2713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Sadukar: Chapter I | 168858 | [168858-adventures-of-sadukar-chapter-i.json](./168858-adventures-of-sadukar-chapter-i.json) |
 | Adventures of Samuel: The Worst Game Ever Made | 196160 | [196160-adventures-of-samuel-the-worst-game-ever-made.json](./196160-adventures-of-samuel-the-worst-game-ever-made.json) |
 | Adventures of Squeak Bottoms | 262833 | [262833-adventures-of-squeak-bottoms.json](./262833-adventures-of-squeak-bottoms.json) |
+| Adventures of Steve the Cat | 244072 | [244072-adventures-of-steve-the-cat.json](./244072-adventures-of-steve-the-cat.json) |
 | Adventures of Tara | 393119 | [393119-adventures-of-tara.json](./393119-adventures-of-tara.json) |
 | Adventures of the Beardsman | 61695 | [61695-adventures-of-the-beardsman.json](./61695-adventures-of-the-beardsman.json) |
 | Adventures of The Carrot Captain | 152853 | [152853-adventures-of-the-carrot-captain.json](./152853-adventures-of-the-carrot-captain.json) |
@@ -5968,6 +5970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Adventures Riddle of the Two Knights | 52584 | [52584-amazing-adventures-riddle-of-the-two-knights.json](./52584-amazing-adventures-riddle-of-the-two-knights.json) |
 | Amazing Adventures: The Forgotten Dynasty | 61675 | [61675-amazing-adventures-the-forgotten-dynasty.json](./61675-amazing-adventures-the-forgotten-dynasty.json) |
 | Amazing Animals Activity Center | 336615 | [336615-amazing-animals-activity-center.json](./336615-amazing-animals-activity-center.json) |
+| Amazing Birds Hunter | 244085 | [244085-amazing-birds-hunter.json](./244085-amazing-birds-hunter.json) |
 | Amazing Breaker | 65493 | [65493-amazing-breaker.json](./65493-amazing-breaker.json) |
 | Amazing Bumpman | 12292 | [12292-amazing-bumpman.json](./12292-amazing-bumpman.json) |
 | Amazing Cat Saves the World From Space Blobs | 185460 | [185460-amazing-cat-saves-the-world-from-space-blobs.json](./185460-amazing-cat-saves-the-world-from-space-blobs.json) |
@@ -11911,6 +11914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ASU | 231775 | [231775-asu.json](./231775-asu.json) |
 | Asu Kano! Asu mo Kanojo to Issho! | 209141 | [209141-asu-kano-asu-mo-kanojo-to-issho.json](./209141-asu-kano-asu-mo-kanojo-to-issho.json) |
 | Asu Owaru Sekai, Sono Zenya | 255325 | [255325-asu-owaru-sekai-sono-zenya.json](./255325-asu-owaru-sekai-sono-zenya.json) |
+| Asuji: The Legend of You | 244080 | [244080-asuji-the-legend-of-you.json](./244080-asuji-the-legend-of-you.json) |
 | Asuka & Asuka | 38515 | [38515-asuka-and-asuka.json](./38515-asuka-and-asuka.json) |
 | Asuka 120% Burning Fest. Exallent | 382789 | [382789-asuka-120-burning-fest-exallent.json](./382789-asuka-120-burning-fest-exallent.json) |
 | Asuka 120% Burning Fest. Excellent | 191681 | [191681-asuka-120-burning-fest-excellent.json](./191681-asuka-120-burning-fest-excellent.json) |
