@@ -6354,6 +6354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dream Circus | 387118 | [387118-the-dream-circus.json](./387118-the-dream-circus.json) |
 | The Dream Diary | 229259 | [229259-the-dream-diary.json](./229259-the-dream-diary.json) |
 | The Dream Globe | 371989 | [371989-the-dream-globe.json](./371989-the-dream-globe.json) |
+| The Dream Labyrinth | 249047 | [249047-the-dream-labyrinth.json](./249047-the-dream-labyrinth.json) |
 | The Dream Libra Had | 158714 | [158714-the-dream-libra-had.json](./158714-the-dream-libra-had.json) |
 | The Dream Machine | 9826 | [9826-the-dream-machine.json](./9826-the-dream-machine.json) |
 | The Dream Machine: Chapter 3 | 168831 | [168831-the-dream-machine-chapter-3.json](./168831-the-dream-machine-chapter-3.json) |
@@ -7751,6 +7752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grip Games PS Vita Collection | 99795 | [99795-the-grip-games-ps-vita-collection.json](./99795-the-grip-games-ps-vita-collection.json) |
 | The Gristmill | 187272 | [187272-the-gristmill.json](./187272-the-gristmill.json) |
 | The Grizzled: Armistice Digital | 215744 | [215744-the-grizzled-armistice-digital.json](./215744-the-grizzled-armistice-digital.json) |
+| The Groom of Gallagher Mansion | 249060 | [249060-the-groom-of-gallagher-mansion.json](./249060-the-groom-of-gallagher-mansion.json) |
 | The Ground Division | 139398 | [139398-the-ground-division.json](./139398-the-ground-division.json) |
 | The Grounding | 140506 | [140506-the-grounding.json](./140506-the-grounding.json) |
 | The Groundskeeper | 366885 | [366885-the-groundskeeper.json](./366885-the-groundskeeper.json) |
@@ -10591,6 +10593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
 | The Nameless City | 303312 | [303312-the-nameless-city.json](./303312-the-nameless-city.json) |
 | The Nameless Mod | 128308 | [128308-the-nameless-mod.json](./128308-the-nameless-mod.json) |
+| The Nameless: Slay Dragon | 249019 | [249019-the-nameless-slay-dragon.json](./249019-the-nameless-slay-dragon.json) |
 | The Nanny Affair | 313727 | [313727-the-nanny-affair.json](./313727-the-nanny-affair.json) |
 | The Nanny Affair 2 | 313728 | [313728-the-nanny-affair-2.json](./313728-the-nanny-affair-2.json) |
 | The Nanny Affair 3 | 313729 | [313729-the-nanny-affair-3.json](./313729-the-nanny-affair-3.json) |
@@ -11540,6 +11543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Reconstruction | 130894 | [130894-the-reconstruction.json](./130894-the-reconstruction.json) |
 | The Recurrence | 289968 | [289968-the-recurrence.json](./289968-the-recurrence.json) |
 | The Recursive Dollhouse | 176918 | [176918-the-recursive-dollhouse.json](./176918-the-recursive-dollhouse.json) |
+| The Red | 249030 | [249030-the-red.json](./249030-the-red.json) |
 | The Red Baron | 111660 | [111660-the-red-baron.json](./111660-the-red-baron.json) |
 | The Red Bell’s Lament | 276734 | [276734-the-red-bell-s-lament.json](./276734-the-red-bell-s-lament.json) |
 | The Red Beret | 278948 | [278948-the-red-beret.json](./278948-the-red-beret.json) |
@@ -17269,6 +17273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timeless Dual | 152809 | [152809-timeless-dual.json](./152809-timeless-dual.json) |
 | Timeless Heart VR | 235806 | [235806-timeless-heart-vr.json](./235806-timeless-heart-vr.json) |
 | Timeless Paradox VR | 133200 | [133200-timeless-paradox-vr.json](./133200-timeless-paradox-vr.json) |
+| Timeless Rain | 249038 | [249038-timeless-rain.json](./249038-timeless-rain.json) |
 | Timeless Solitaire Collection | 372476 | [372476-timeless-solitaire-collection.json](./372476-timeless-solitaire-collection.json) |
 | Timeless Tesseract | 310497 | [310497-timeless-tesseract.json](./310497-timeless-tesseract.json) |
 | Timeless Valley | 333593 | [333593-timeless-valley.json](./333593-timeless-valley.json) |
