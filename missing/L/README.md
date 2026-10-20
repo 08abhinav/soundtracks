@@ -3686,6 +3686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightrise | 34937 | [34937-lightrise.json](./34937-lightrise.json) |
 | Lightrix | 372989 | [372989-lightrix.json](./372989-lightrix.json) |
 | Lightrock | 205065 | [205065-lightrock.json](./205065-lightrock.json) |
+| Lights | 232867 | [232867-lights.json](./232867-lights.json) |
 | Lights | 314009 | [314009-lights.json](./314009-lights.json) |
 | Lights and Shadow | 339287 | [339287-lights-and-shadow.json](./339287-lights-and-shadow.json) |
 | Lights e Shades: Safìna | 216210 | [216210-lights-e-shades-safina.json](./216210-lights-e-shades-safina.json) |
@@ -4483,6 +4484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Lilicia | 406267 | [406267-little-lilicia.json](./406267-little-lilicia.json) |
 | Little Lives | 149097 | [149097-little-lives.json](./149097-little-lives.json) |
 | Little Loki & The Yggdrasil Maze | 265630 | [265630-little-loki-and-the-yggdrasil-maze.json](./265630-little-loki-and-the-yggdrasil-maze.json) |
+| Little Longnose | 232864 | [232864-little-longnose.json](./232864-little-longnose.json) |
 | Little Lookouts | 300385 | [300385-little-lookouts.json](./300385-little-lookouts.json) |
 | Little Lords of Twilight | 28667 | [28667-little-lords-of-twilight.json](./28667-little-lords-of-twilight.json) |
 | Little Lovers | 108969 | [108969-little-lovers.json](./108969-little-lovers.json) |
@@ -6410,6 +6412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love and Formaldehyde | 225266 | [225266-love-and-formaldehyde.json](./225266-love-and-formaldehyde.json) |
 | Love and Guillotines | 195629 | [195629-love-and-guillotines.json](./195629-love-and-guillotines.json) |
 | Love and Hate | 393776 | [393776-love-and-hate.json](./393776-love-and-hate.json) |
+| Love and Job! Otona no Jijou | 232849 | [232849-love-and-job-otona-no-jijou.json](./232849-love-and-job-otona-no-jijou.json) |
 | Love and Passion | 224506 | [224506-love-and-passion.json](./224506-love-and-passion.json) |
 | Love and Sex: First Base | 383555 | [383555-love-and-sex-first-base.json](./383555-love-and-sex-first-base.json) |
 | Love and War: Act I | 122860 | [122860-love-and-war-act-i.json](./122860-love-and-war-act-i.json) |
