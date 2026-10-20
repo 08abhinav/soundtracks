@@ -5745,6 +5745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altaïr | 93148 | [93148-altair.json](./93148-altair.json) |
 | Altair Assault | 117138 | [117138-altair-assault.json](./117138-altair-assault.json) |
 | Altair Breaker | 208682 | [208682-altair-breaker.json](./208682-altair-breaker.json) |
+| Altair Breaker: Legend Set | 221612 | [221612-altair-breaker-legend-set.json](./221612-altair-breaker-legend-set.json) |
 | Altar | 25598 | [25598-altar.json](./25598-altar.json) |
 | Altar | 337820 | [337820-altar.json](./337820-altar.json) |
 | Altar Corp | 409225 | [409225-altar-corp.json](./409225-altar-corp.json) |
@@ -8977,7 +8978,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ARC Squadron: Redux | 38984 | [38984-arc-squadron-redux.json](./38984-arc-squadron-redux.json) |
 | Arc Style Solitaire | 62222 | [62222-arc-style-solitaire.json](./62222-arc-style-solitaire.json) |
 | Arc Style: Baseball 3D | 84761 | [84761-arc-style-baseball-3d.json](./84761-arc-style-baseball-3d.json) |
+| Arc Style: Girls Soccer 3D | 222181 | [222181-arc-style-girls-soccer-3d.json](./222181-arc-style-girls-soccer-3d.json) |
 | Arc Style: Happy Ocean | 200678 | [200678-arc-style-happy-ocean.json](./200678-arc-style-happy-ocean.json) |
+| Arc Style: Jazzy Billiards 3D Professional | 222187 | [222187-arc-style-jazzy-billiards-3d-professional.json](./222187-arc-style-jazzy-billiards-3d-professional.json) |
+| Arc Style: Sangokushi Pinball | 222188 | [222188-arc-style-sangokushi-pinball.json](./222188-arc-style-sangokushi-pinball.json) |
+| Arc Style: Simple Mahjong 3D | 222186 | [222186-arc-style-simple-mahjong-3d.json](./222186-arc-style-simple-mahjong-3d.json) |
 | Arc Symphony | 74332 | [74332-arc-symphony.json](./74332-arc-symphony.json) |
 | Arc TCG | 290934 | [290934-arc-tcg.json](./290934-arc-tcg.json) |
 | Arc the Lad R | 26382 | [26382-arc-the-lad-r.json](./26382-arc-the-lad-r.json) |
@@ -13605,6 +13610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aztlan Uncovered | 201308 | [201308-aztlan-uncovered.json](./201308-aztlan-uncovered.json) |
 | Azu Quiz Daioh | 98059 | [98059-azu-quiz-daioh.json](./98059-azu-quiz-daioh.json) |
 | Azu-Beach | 140485 | [140485-azu-beach.json](./140485-azu-beach.json) |
+| Azu-Tama | 222183 | [222183-azu-tama.json](./222183-azu-tama.json) |
 | AzuFight: Taisen Shiyo | 222541 | [222541-azufight-taisen-shiyo.json](./222541-azufight-taisen-shiyo.json) |
 | Azul Baronis | 331992 | [331992-azul-baronis.json](./331992-azul-baronis.json) |
 | Azumanga Daioh Puzzle Bobble | 39646 | [39646-azumanga-daioh-puzzle-bobble.json](./39646-azumanga-daioh-puzzle-bobble.json) |
