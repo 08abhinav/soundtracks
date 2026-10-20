@@ -953,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Adelita | 350419 | [350419-dark-adelita.json](./350419-dark-adelita.json) |
 | Dark Adventure | 38529 | [38529-dark-adventure.json](./38529-dark-adventure.json) |
 | Dark Aegis | 416790 | [416790-dark-aegis.json](./416790-dark-aegis.json) |
+| Dark Age Dinos | 244648 | [244648-dark-age-dinos.json](./244648-dark-age-dinos.json) |
 | Dark Age Empires | 239691 | [239691-dark-age-empires.json](./239691-dark-age-empires.json) |
 | Dark Age Gladiator | 274906 | [274906-dark-age-gladiator.json](./274906-dark-age-gladiator.json) |
 | Dark Age Legends | 244667 | [244667-dark-age-legends.json](./244667-dark-age-legends.json) |
@@ -5569,6 +5570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy the Dummies | 158641 | [158641-destroy-the-dummies.json](./158641-destroy-the-dummies.json) |
 | Destroy the Hexons | 156129 | [156129-destroy-the-hexons.json](./156129-destroy-the-hexons.json) |
 | Destroy the House - Smash Home Interiors | 99708 | [99708-destroy-the-house-smash-home-interiors.json](./99708-destroy-the-house-smash-home-interiors.json) |
+| Destroy the Monoliths | 244644 | [244644-destroy-the-monoliths.json](./244644-destroy-the-monoliths.json) |
 | Destroy The Universe: Solar Mayhem | 411813 | [411813-destroy-the-universe-solar-mayhem.json](./411813-destroy-the-universe-solar-mayhem.json) |
 | Destroy the Wall | 250938 | [250938-destroy-the-wall.json](./250938-destroy-the-wall.json) |
 | Destroy the World Bundle | 308634 | [308634-destroy-the-world-bundle.json](./308634-destroy-the-world-bundle.json) |
@@ -7023,6 +7025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinobreak: Crisis Collection | 331409 | [331409-dinobreak-crisis-collection.json](./331409-dinobreak-crisis-collection.json) |
 | Dinobreak: Gaiden Collection | 334111 | [334111-dinobreak-gaiden-collection.json](./334111-dinobreak-gaiden-collection.json) |
 | Dinocop | 319445 | [319445-dinocop.json](./319445-dinocop.json) |
+| DinoDash | 244601 | [244601-dinodash.json](./244601-dinodash.json) |
 | Dinodon | 238624 | [238624-dinodon.json](./238624-dinodon.json) |
 | Dinodrifters | 126317 | [126317-dinodrifters.json](./126317-dinodrifters.json) |
 | DinoFense | 30169 | [30169-dinofense.json](./30169-dinofense.json) |
