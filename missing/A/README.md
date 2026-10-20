@@ -9995,6 +9995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ariel's Story Studio | 57920 | [57920-ariels-story-studio.json](./57920-ariels-story-studio.json) |
 | Aries | 170824 | [170824-aries.json](./170824-aries.json) |
 | Aries | 264465 | [264465-aries.json](./264465-aries.json) |
+| Aries Driving Game | 242932 | [242932-aries-driving-game.json](./242932-aries-driving-game.json) |
 | Aries: Origins | 142865 | [142865-aries-origins.json](./142865-aries-origins.json) |
 | Arifureta: From Commonplace to World's Strongest - Rebellion Soul | 390534 | [390534-arifureta-from-commonplace-to-worlds-strongest-rebellion-soul.json](./390534-arifureta-from-commonplace-to-worlds-strongest-rebellion-soul.json) |
 | Arigatou, Ningen-san! | 135030 | [135030-arigatou-ningen-san.json](./135030-arigatou-ningen-san.json) |
@@ -10852,6 +10853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascendant Hearts | 75760 | [75760-ascendant-hearts.json](./75760-ascendant-hearts.json) |
 | Ascendant One | 107613 | [107613-ascendant-one.json](./107613-ascendant-one.json) |
 | Ascendant Realms | 343253 | [343253-ascendant-realms.json](./343253-ascendant-realms.json) |
+| Ascendant's Roguelike | 242964 | [242964-ascendants-roguelike.json](./242964-ascendants-roguelike.json) |
 | Ascendants: Power Rising | 52610 | [52610-ascendants-power-rising.json](./52610-ascendants-power-rising.json) |
 | Ascendaria | 336120 | [336120-ascendaria.json](./336120-ascendaria.json) |
 | Ascended | 158608 | [158608-ascended.json](./158608-ascended.json) |
