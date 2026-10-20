@@ -3073,6 +3073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feudalism II | 234915 | [234915-feudalism-ii.json](./234915-feudalism-ii.json) |
 | Feuerwache: Mission - Leben retten | 81479 | [81479-feuerwache-mission-leben-retten.json](./81479-feuerwache-mission-leben-retten.json) |
 | Feuerwehr 3D | 93448 | [93448-feuerwehr-3d.json](./93448-feuerwehr-3d.json) |
+| Fever | 235588 | [235588-fever.json](./235588-fever.json) |
 | Fever | 256971 | [256971-fever.json](./256971-fever.json) |
 | Fever Cabin | 128439 | [128439-fever-cabin.json](./128439-fever-cabin.json) |
 | Fever Dream | 197065 | [197065-fever-dream.json](./197065-fever-dream.json) |
@@ -4696,6 +4697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Crusader | 274044 | [274044-first-crusader.json](./274044-first-crusader.json) |
 | First Customer | 119484 | [119484-first-customer.json](./119484-first-customer.json) |
 | First Cut | 177279 | [177279-first-cut.json](./177279-first-cut.json) |
+| First Cut: Samurai Duel | 235636 | [235636-first-cut-samurai-duel.json](./235636-first-cut-samurai-duel.json) |
 | First Date: Late to Date | 210233 | [210233-first-date-late-to-date.json](./210233-first-date-late-to-date.json) |
 | First date/Can't relate | 179616 | [179616-first-date-cant-relate.json](./179616-first-date-cant-relate.json) |
 | First Day: Home Defender | 129025 | [129025-first-day-home-defender.json](./129025-first-day-home-defender.json) |
@@ -9824,6 +9826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Contact | 12109 | [12109-full-contact.json](./12109-full-contact.json) |
 | Full Contact | 353613 | [353613-full-contact.json](./353613-full-contact.json) |
 | Full Contact Teams Racing | 241053 | [241053-full-contact-teams-racing.json](./241053-full-contact-teams-racing.json) |
+| Full Court Heroes | 235625 | [235625-full-court-heroes.json](./235625-full-court-heroes.json) |
 | Full Deck Solitaire | 91173 | [91173-full-deck-solitaire.json](./91173-full-deck-solitaire.json) |
 | Full English City | 310804 | [310804-full-english-city.json](./310804-full-english-city.json) |
 | Full Fathom | 234659 | [234659-full-fathom.json](./234659-full-fathom.json) |
