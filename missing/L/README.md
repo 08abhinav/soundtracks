@@ -4175,6 +4175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lion Quest Infinity | 157519 | [157519-lion-quest-infinity.json](./157519-lion-quest-infinity.json) |
 | Lion Simulator Survival: RPG Animal Battle | 284782 | [284782-lion-simulator-survival-rpg-animal-battle.json](./284782-lion-simulator-survival-rpg-animal-battle.json) |
 | Lion Tamer | 346061 | [346061-lion-tamer.json](./346061-lion-tamer.json) |
+| Lion the Last Homeland | 236151 | [236151-lion-the-last-homeland.json](./236151-lion-the-last-homeland.json) |
 | Liona's Adventure | 258447 | [258447-lionas-adventure.json](./258447-lionas-adventure.json) |
 | Lionel the Dragon | 197079 | [197079-lionel-the-dragon.json](./197079-lionel-the-dragon.json) |
 | Lionel Trains Presents: Trans-Con! | 348978 | [348978-lionel-trains-presents-trans-con.json](./348978-lionel-trains-presents-trans-con.json) |
@@ -5182,6 +5183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logiart Grimoire: Emil's Magic Training, Part 4 | 357389 | [357389-logiart-grimoire-emils-magic-training-part-4.json](./357389-logiart-grimoire-emils-magic-training-part-4.json) |
 | Logiart Grimoire: Emil's Magic Training, Part 5 | 357390 | [357390-logiart-grimoire-emils-magic-training-part-5.json](./357390-logiart-grimoire-emils-magic-training-part-5.json) |
 | Logic | 264784 | [264784-logic.json](./264784-logic.json) |
+| Logic and Candy | 236125 | [236125-logic-and-candy.json](./236125-logic-and-candy.json) |
 | Logic Bombs | 353412 | [353412-logic-bombs.json](./353412-logic-bombs.json) |
 | Logic Car | 154257 | [154257-logic-car.json](./154257-logic-car.json) |
 | Logic Circuit: Marble Puzzle | 210854 | [210854-logic-circuit-marble-puzzle.json](./210854-logic-circuit-marble-puzzle.json) |
@@ -5844,6 +5846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Los Angeles 1985 | 358306 | [358306-los-angeles-1985.json](./358306-los-angeles-1985.json) |
 | Los Angeles SWAT | 13012 | [13012-los-angeles-swat.json](./13012-los-angeles-swat.json) |
 | Los Lunnis | 269610 | [269610-los-lunnis.json](./269610-los-lunnis.json) |
+| Los Páramos | 236107 | [236107-los-paramos.json](./236107-los-paramos.json) |
 | Los Perdedores | 323800 | [323800-los-perdedores.json](./323800-los-perdedores.json) |
 | Los Pilarcitos | 398368 | [398368-los-pilarcitos.json](./398368-los-pilarcitos.json) |
 | Los Pingheros | 301109 | [301109-los-pingheros.json](./301109-los-pingheros.json) |
@@ -7349,6 +7352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Rescue Mission | 197755 | [197755-lunar-rescue-mission.json](./197755-lunar-rescue-mission.json) |
 | Lunar Resilience | 302918 | [302918-lunar-resilience.json](./302918-lunar-resilience.json) |
 | Lunar Rover Patrol | 69734 | [69734-lunar-rover-patrol.json](./69734-lunar-rover-patrol.json) |
+| Lunar Siege | 236115 | [236115-lunar-siege.json](./236115-lunar-siege.json) |
 | Lunar Soil | 93776 | [93776-lunar-soil.json](./93776-lunar-soil.json) |
 | Lunar Stone: Origin of Blood | 30578 | [30578-lunar-stone-origin-of-blood.json](./30578-lunar-stone-origin-of-blood.json) |
 | Lunar Timepiece: Shadow of Twelve | 121343 | [121343-lunar-timepiece-shadow-of-twelve.json](./121343-lunar-timepiece-shadow-of-twelve.json) |
