@@ -8918,6 +8918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police vs. Gangster New York 3D | 267349 | [267349-police-vs-gangster-new-york-3d.json](./267349-police-vs-gangster-new-york-3d.json) |
 | Police X Heroine Lovepatrina! Love na Rhythm de Taiho Shimasu! | 152332 | [152332-police-x-heroine-lovepatrina-love-na-rhythm-de-taiho-shimasu.json](./152332-police-x-heroine-lovepatrina-love-na-rhythm-de-taiho-shimasu.json) |
 | Police: Chase Down | 82131 | [82131-police-chase-down.json](./82131-police-chase-down.json) |
+| Policeman | 238896 | [238896-policeman.json](./238896-policeman.json) |
 | Policenauts | 4290 | [4290-policenauts.json](./4290-policenauts.json) |
 | Policenauts Pilot Disk | 37116 | [37116-policenauts-pilot-disk.json](./37116-policenauts-pilot-disk.json) |
 | Polidog Patrol | 365703 | [365703-polidog-patrol.json](./365703-polidog-patrol.json) |
@@ -10854,6 +10855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Home | 227243 | [227243-princess-home.json](./227243-princess-home.json) |
 | Princess in Airiness | 160161 | [160161-princess-in-airiness.json](./160161-princess-in-airiness.json) |
 | Princess in Love | 67663 | [67663-princess-in-love.json](./67663-princess-in-love.json) |
+| Princess in the Mirror | 238902 | [238902-princess-in-the-mirror.json](./238902-princess-in-the-mirror.json) |
 | Princess in the Tower Block | 183284 | [183284-princess-in-the-tower-block.json](./183284-princess-in-the-tower-block.json) |
 | Princess Isabella | 36318 | [36318-princess-isabella.json](./36318-princess-isabella.json) |
 | Princess Isabella: Return of the Curse | 17220 | [17220-princess-isabella-return-of-the-curse.json](./17220-princess-isabella-return-of-the-curse.json) |
