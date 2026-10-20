@@ -7130,6 +7130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ani | 312988 | [312988-ani.json](./312988-ani.json) |
 | Ani Idle | 351027 | [351027-ani-idle.json](./351027-ani-idle.json) |
 | Ani Leaving Sirius | 189120 | [189120-ani-leaving-sirius.json](./189120-ani-leaving-sirius.json) |
+| Ani Núbia: Lute como uma Rainha | 255542 | [255542-ani-nubia-lute-como-uma-rainha.json](./255542-ani-nubia-lute-como-uma-rainha.json) |
 | Anibabe! Choose Your Girl | 231435 | [231435-anibabe-choose-your-girl.json](./231435-anibabe-choose-your-girl.json) |
 | Anicca | 208058 | [208058-anicca.json](./208058-anicca.json) |
 | Anicon: Animal Complex | 249274 | [249274-anicon-animal-complex.json](./249274-anicon-animal-complex.json) |
@@ -7714,6 +7715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ano Hi Mita Hana no Namae wo Boku-tachi ha Mada Shiranai | 122222 | [122222-ano-hi-mita-hana-no-namae-wo-boku-tachi-ha-mada-shiranai.json](./122222-ano-hi-mita-hana-no-namae-wo-boku-tachi-ha-mada-shiranai.json) |
 | Ano Hi wo Mou Ichido | 220318 | [220318-ano-hi-wo-mou-ichido.json](./220318-ano-hi-wo-mou-ichido.json) |
 | Ano Ko Doko no Ko | 314652 | [314652-ano-ko-doko-no-ko.json](./314652-ano-ko-doko-no-ko.json) |
+| Ano Ko wo Numaraseru Koi no Mote-shinrigaku | 255525 | [255525-ano-ko-wo-numaraseru-koi-no-mote-shinrigaku.json](./255525-ano-ko-wo-numaraseru-koi-no-mote-shinrigaku.json) |
 | Ano Koro, Sobo wa Erokatta: Mukashi ni Modotte, Baa-chan ni Ecchi na Okaeshi o | 108870 | [108870-ano-koro-sobo-wa-erokatta-mukashi-ni-modotte-baa-chan-ni-ecchi-na-okaeshi-o.json](./108870-ano-koro-sobo-wa-erokatta-mukashi-ni-modotte-baa-chan-ni-ecchi-na-okaeshi-o.json) |
 | Ano ne DS | 130388 | [130388-ano-ne-ds.json](./130388-ano-ne-ds.json) |
 | Ano Subarashii Bento wo 2-do 3-do | 336178 | [336178-ano-subarashii-bento-wo-2-do-3-do.json](./336178-ano-subarashii-bento-wo-2-do-3-do.json) |
@@ -9921,6 +9923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aria Dating Simulator | 385049 | [385049-aria-dating-simulator.json](./385049-aria-dating-simulator.json) |
 | Aria of Destiny | 326828 | [326828-aria-of-destiny.json](./326828-aria-of-destiny.json) |
 | Aria of God Killing | 193977 | [193977-aria-of-god-killing.json](./193977-aria-of-god-killing.json) |
+| ARIA: Angelic Realms In Arborea | 255552 | [255552-aria-angelic-realms-in-arborea.json](./255552-aria-angelic-realms-in-arborea.json) |
 | Aria: Aqua Ritmo | 56291 | [56291-aria-aqua-ritmo.json](./56291-aria-aqua-ritmo.json) |
 | Aria: Genesis | 234530 | [234530-aria-genesis.json](./234530-aria-genesis.json) |
 | ARia's Legacy | 102795 | [102795-arias-legacy.json](./102795-arias-legacy.json) |
@@ -12831,6 +12834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autumn | 22025 | [22025-autumn.json](./22025-autumn.json) |
 | Autumn and Girls | 149393 | [149393-autumn-and-girls.json](./149393-autumn-and-girls.json) |
 | Autumn Aurora 2 | 376213 | [376213-autumn-aurora-2.json](./376213-autumn-aurora-2.json) |
+| Autumn Break | 255556 | [255556-autumn-break.json](./255556-autumn-break.json) |
 | Autumn Dynasty Warlords | 23424 | [23424-autumn-dynasty-warlords.json](./23424-autumn-dynasty-warlords.json) |
 | Autumn Garden | 82181 | [82181-autumn-garden.json](./82181-autumn-garden.json) |
 | Autumn Hike | 257431 | [257431-autumn-hike.json](./257431-autumn-hike.json) |
