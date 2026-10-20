@@ -7340,8 +7340,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Party | 134081 | [134081-disc-party.json](./134081-disc-party.json) |
 | Disc Saga Extra Edition: The Tower of Muda | 238086 | [238086-disc-saga-extra-edition-the-tower-of-muda.json](./238086-disc-saga-extra-edition-the-tower-of-muda.json) |
 | Disc Saga: Burning Sword! | 238082 | [238082-disc-saga-burning-sword.json](./238082-disc-saga-burning-sword.json) |
+| Disc Saga: Dragon's Immorality | 237795 | [237795-disc-saga-dragons-immorality.json](./237795-disc-saga-dragons-immorality.json) |
 | Disc Saga: Iraisha wa Monster? | 238087 | [238087-disc-saga-iraisha-wa-monster.json](./238087-disc-saga-iraisha-wa-monster.json) |
 | Disc Saga: Nagisa no Baka Taisho | 238090 | [238090-disc-saga-nagisa-no-baka-taisho.json](./238090-disc-saga-nagisa-no-baka-taisho.json) |
+| Disc Saga: The Treasure of the Sleeping Forest | 237796 | [237796-disc-saga-the-treasure-of-the-sleeping-forest.json](./237796-disc-saga-the-treasure-of-the-sleeping-forest.json) |
 | Disc Saga: Yukemuri ni Kieta Bijotachi Yume no Naka e Rendezvous | 238091 | [238091-disc-saga-yukemuri-ni-kieta-bijotachi-yume-no-naka-e-rendezvous.json](./238091-disc-saga-yukemuri-ni-kieta-bijotachi-yume-no-naka-e-rendezvous.json) |
 | Disc Space | 141087 | [141087-disc-space.json](./141087-disc-space.json) |
 | Disc Station #09 | 266405 | [266405-disc-station-09.json](./266405-disc-station-09.json) |
@@ -11632,6 +11634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Blast: Jewel Pops | 224073 | [224073-dream-blast-jewel-pops.json](./224073-dream-blast-jewel-pops.json) |
 | Dream Book | 167124 | [167124-dream-book.json](./167124-dream-book.json) |
 | Dream Boundary | 347715 | [347715-dream-boundary.json](./347715-dream-boundary.json) |
+| Dream Bright | 237807 | [237807-dream-bright.json](./237807-dream-bright.json) |
 | Dream Bubble | 246326 | [246326-dream-bubble.json](./246326-dream-bubble.json) |
 | Dream Bubblez | 103491 | [103491-dream-bubblez.json](./103491-dream-bubblez.json) |
 | Dream Builder: Amusement Park | 294200 | [294200-dream-builder-amusement-park.json](./294200-dream-builder-amusement-park.json) |
@@ -11642,6 +11645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Car Racing 3D | 32896 | [32896-dream-car-racing-3d.json](./32896-dream-car-racing-3d.json) |
 | Dream Cat Paradise | 374175 | [374175-dream-cat-paradise.json](./374175-dream-cat-paradise.json) |
 | Dream Catcher | 194931 | [194931-dream-catcher.json](./194931-dream-catcher.json) |
+| Dream Catcher | 237803 | [237803-dream-catcher.json](./237803-dream-catcher.json) |
 | Dream Catcher Chronicles: Manitou | 33772 | [33772-dream-catcher-chronicles-manitou.json](./33772-dream-catcher-chronicles-manitou.json) |
 | Dream Catcher VR | 203757 | [203757-dream-catcher-vr.json](./203757-dream-catcher-vr.json) |
 | Dream Catchers | 164448 | [164448-dream-catchers.json](./164448-dream-catchers.json) |
@@ -13736,6 +13740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons 4 | 215915 | [215915-dungeons-4.json](./215915-dungeons-4.json) |
 | Dungeons 4: Nintendo Switch Edition | 319321 | [319321-dungeons-4-nintendo-switch-edition.json](./319321-dungeons-4-nintendo-switch-edition.json) |
 | Dungeons 4: The Good, the Bad and the Evil | 309104 | [309104-dungeons-4-the-good-the-bad-and-the-evil.json](./309104-dungeons-4-the-good-the-bad-and-the-evil.json) |
+| Dungeons Adventurer | 237789 | [237789-dungeons-adventurer.json](./237789-dungeons-adventurer.json) |
 | Dungeons Again | 120742 | [120742-dungeons-again.json](./120742-dungeons-again.json) |
 | Dungeons and Dinners | 110117 | [110117-dungeons-and-dinners.json](./110117-dungeons-and-dinners.json) |
 | Dungeons and Dragons: Daggerdale | 15127 | [15127-dungeons-and-dragons-daggerdale.json](./15127-dungeons-and-dragons-daggerdale.json) |
