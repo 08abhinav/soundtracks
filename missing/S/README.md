@@ -623,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakunaverse | 363980 | [363980-sakunaverse.json](./363980-sakunaverse.json) |
 | Sakura Agent | 29850 | [29850-sakura-agent.json](./29850-sakura-agent.json) |
 | Sakura Alien | 186848 | [186848-sakura-alien.json](./186848-sakura-alien.json) |
+| Sakura Amidst Chaos | 238892 | [238892-sakura-amidst-chaos.json](./238892-sakura-amidst-chaos.json) |
 | Sakura And The Airyvixen | 289539 | [289539-sakura-and-the-airyvixen.json](./289539-sakura-and-the-airyvixen.json) |
 | Sakura Angels | 197621 | [197621-sakura-angels.json](./197621-sakura-angels.json) |
 | Sakura Apprentice | 254981 | [254981-sakura-apprentice.json](./254981-sakura-apprentice.json) |
@@ -992,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Kirby | 134459 | [134459-samurai-kirby.json](./134459-samurai-kirby.json) |
 | Samurai Lantern | 112238 | [112238-samurai-lantern.json](./112238-samurai-lantern.json) |
 | Samurai Legends | 214132 | [214132-samurai-legends.json](./214132-samurai-legends.json) |
+| Samurai Love Ballad: Party | 238893 | [238893-samurai-love-ballad-party.json](./238893-samurai-love-ballad-party.json) |
 | Samurai Maiden | 212269 | [212269-samurai-maiden.json](./212269-samurai-maiden.json) |
 | Samurai Nihon-Ichi | 40415 | [40415-samurai-nihon-ichi.json](./40415-samurai-nihon-ichi.json) |
 | Samurai Ninja Wars | 285522 | [285522-samurai-ninja-wars.json](./285522-samurai-ninja-wars.json) |
@@ -4219,6 +4221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentry City | 197082 | [197082-sentry-city.json](./197082-sentry-city.json) |
 | Sentry Knight 2 | 102032 | [102032-sentry-knight-2.json](./102032-sentry-knight-2.json) |
 | Sentry Knight Tactics | 24824 | [24824-sentry-knight-tactics.json](./24824-sentry-knight-tactics.json) |
+| Sentry Paragon | 238921 | [238921-sentry-paragon.json](./238921-sentry-paragon.json) |
 | Sentry: Obelisk of Dawn | 152898 | [152898-sentry-obelisk-of-dawn.json](./152898-sentry-obelisk-of-dawn.json) |
 | Senua | 405072 | [405072-senua.json](./405072-senua.json) |
 | Senya and Oscar 2 | 281276 | [281276-senya-and-oscar-2.json](./281276-senya-and-oscar-2.json) |
@@ -5378,6 +5381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shall we date?: The World or You | 225681 | [225681-shall-we-date-the-world-or-you.json](./225681-shall-we-date-the-world-or-you.json) |
 | Shall We Date?: War of Prayers - Inori no Otome | 225662 | [225662-shall-we-date-war-of-prayers-inori-no-otome.json](./225662-shall-we-date-war-of-prayers-inori-no-otome.json) |
 | Shall we date?: We the Girls | 225671 | [225671-shall-we-date-we-the-girls.json](./225671-shall-we-date-we-the-girls.json) |
+| Shall We Golf? | 238882 | [238882-shall-we-golf.json](./238882-shall-we-golf.json) |
 | Shallow Blue | 340599 | [340599-shallow-blue.json](./340599-shallow-blue.json) |
 | Shallow End | 293752 | [293752-shallow-end.json](./293752-shallow-end.json) |
 | Shallow Sea Roaming | 298187 | [298187-shallow-sea-roaming.json](./298187-shallow-sea-roaming.json) |
@@ -6258,6 +6262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin SD Sengokuden: Daishogun Retsuden | 58677 | [58677-shin-sd-sengokuden-daishogun-retsuden.json](./58677-shin-sd-sengokuden-daishogun-retsuden.json) |
 | Shin Sedai Robot Senki - Brave Saga | 137393 | [137393-shin-sedai-robot-senki-brave-saga.json](./137393-shin-sedai-robot-senki-brave-saga.json) |
 | Shin Sedai Robot Senki - Brave Saga 2 | 137397 | [137397-shin-sedai-robot-senki-brave-saga-2.json](./137397-shin-sedai-robot-senki-brave-saga-2.json) |
+| Shin Seizonritsu 0%! Chikatetsu Kara no Dasshutsu | 238886 | [238886-shin-seizonritsu-0-chikatetsu-kara-no-dasshutsu.json](./238886-shin-seizonritsu-0-chikatetsu-kara-no-dasshutsu.json) |
 | Shin Super Robot Taisen | 43908 | [43908-shin-super-robot-taisen.json](./43908-shin-super-robot-taisen.json) |
 | Shin Tennis no Ouji-sama: Let's Go!! Daily Life from RisingBeat | 222249 | [222249-shin-tennis-no-ouji-sama-lets-go-daily-life-from-risingbeat.json](./222249-shin-tennis-no-ouji-sama-lets-go-daily-life-from-risingbeat.json) |
 | Shin Togenkyo | 38252 | [38252-shin-togenkyo.json](./38252-shin-togenkyo.json) |
@@ -8843,6 +8848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate 3: San Van Party Pack | 367274 | [367274-skate-3-san-van-party-pack.json](./367274-skate-3-san-van-party-pack.json) |
 | Skate Attack | 43524 | [43524-skate-attack.json](./43524-skate-attack.json) |
 | Skate Boardin' | 40624 | [40624-skate-boardin.json](./40624-skate-boardin.json) |
+| Skate Boy | 238898 | [238898-skate-boy.json](./238898-skate-boy.json) |
 | Skate Bums | 387667 | [387667-skate-bums.json](./387667-skate-bums.json) |
 | Skate City | 26944 | [26944-skate-city.json](./26944-skate-city.json) |
 | Skate City Heroes | 21120 | [21120-skate-city-heroes.json](./21120-skate-city-heroes.json) |
@@ -16998,6 +17004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring Bunny Islands | 294239 | [294239-spring-bunny-islands.json](./294239-spring-bunny-islands.json) |
 | Spring Catastrophe | 246652 | [246652-spring-catastrophe.json](./246652-spring-catastrophe.json) |
 | Spring Cleaning | 179733 | [179733-spring-cleaning.json](./179733-spring-cleaning.json) |
+| Spring Crisis | 238913 | [238913-spring-crisis.json](./238913-spring-crisis.json) |
 | Spring Crisis 2 | 280922 | [280922-spring-crisis-2.json](./280922-spring-crisis-2.json) |
 | Spring Dash | 216723 | [216723-spring-dash.json](./216723-spring-dash.json) |
 | Spring Dogs: Ultimate Multiplayer Battle Royale | 294371 | [294371-spring-dogs-ultimate-multiplayer-battle-royale.json](./294371-spring-dogs-ultimate-multiplayer-battle-royale.json) |
@@ -18460,6 +18467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Zeal 4x | 195975 | [195975-star-zeal-4x.json](./195975-star-zeal-4x.json) |
 | Star Zone | 107033 | [107033-star-zone.json](./107033-star-zone.json) |
 | Star-blaze | 15377 | [15377-star-blaze.json](./15377-star-blaze.json) |
+| Star-Crossed Myth | 238897 | [238897-star-crossed-myth.json](./238897-star-crossed-myth.json) |
 | Star-Crossed Myth: The Department of Punishments | 123451 | [123451-star-crossed-myth-the-department-of-punishments.json](./123451-star-crossed-myth-the-department-of-punishments.json) |
 | Star-Crossed Myth: The Department of Punishments - Constellations of Love: Dui | 238070 | [238070-star-crossed-myth-the-department-of-punishments-constellations-of-love-dui.json](./238070-star-crossed-myth-the-department-of-punishments-constellations-of-love-dui.json) |
 | Star-Crossed Myth: The Department of Punishments - Constellations of Love: Ichthys | 238072 | [238072-star-crossed-myth-the-department-of-punishments-constellations-of-love-ichthys.json](./238072-star-crossed-myth-the-department-of-punishments-constellations-of-love-ichthys.json) |
@@ -24235,6 +24243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pinball | 64353 | [64353-super-pinball.json](./64353-super-pinball.json) |
 | Super Pinball Action | 40119 | [40119-super-pinball-action.json](./40119-super-pinball-action.json) |
 | Super Pinball Adventure | 365250 | [365250-super-pinball-adventure.json](./365250-super-pinball-adventure.json) |
+| Super Pinball Arcade | 238875 | [238875-super-pinball-arcade.json](./238875-super-pinball-arcade.json) |
 | Super Pinball II: The Amazing Odyssey | 38272 | [38272-super-pinball-ii-the-amazing-odyssey.json](./38272-super-pinball-ii-the-amazing-odyssey.json) |
 | Super Pinball: Behind the Mask | 42455 | [42455-super-pinball-behind-the-mask.json](./42455-super-pinball-behind-the-mask.json) |
 | Super Ping Pong Trick Shot | 54959 | [54959-super-ping-pong-trick-shot.json](./54959-super-ping-pong-trick-shot.json) |
