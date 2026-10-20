@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mabus 3000 | 245781 | [245781-mabus-3000.json](./245781-mabus-3000.json) |
 | Macabre | 201488 | [201488-macabre.json](./201488-macabre.json) |
 | Macabre | 34875 | [34875-macabre.json](./34875-macabre.json) |
+| Macabre Museum | 216685 | [216685-macabre-museum.json](./216685-macabre-museum.json) |
 | Macabre no Zantou: Remnants of the Macabre | 309363 | [309363-macabre-no-zantou-remnants-of-the-macabre.json](./309363-macabre-no-zantou-remnants-of-the-macabre.json) |
 | Macadam: Futari Yogari | 66125 | [66125-macadam-futari-yogari.json](./66125-macadam-futari-yogari.json) |
 | Macaroni Houren-sou Interactive | 234183 | [234183-macaroni-houren-sou-interactive.json](./234183-macaroni-houren-sou-interactive.json) |
@@ -904,6 +905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Kid Goo Goo | 48898 | [48898-magic-kid-goo-goo.json](./48898-magic-kid-goo-goo.json) |
 | Magic Kingdom | 213591 | [213591-magic-kingdom.json](./213591-magic-kingdom.json) |
 | Magic Kingdom | 373303 | [373303-magic-kingdom.json](./373303-magic-kingdom.json) |
+| Magic Kingdom War | 216693 | [216693-magic-kingdom-war.json](./216693-magic-kingdom-war.json) |
 | Magic Kingdom War DLC-1 | 220609 | [220609-magic-kingdom-war-dlc-1.json](./220609-magic-kingdom-war-dlc-1.json) |
 | Magic Kingdom War DLC-2 | 220610 | [220610-magic-kingdom-war-dlc-2.json](./220610-magic-kingdom-war-dlc-2.json) |
 | Magic Klondike | 232561 | [232561-magic-klondike.json](./232561-magic-klondike.json) |
@@ -1994,6 +1996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malice Within | 337590 | [337590-malice-within.json](./337590-malice-within.json) |
 | MaliceWave | 274768 | [274768-malicewave.json](./274768-malicewave.json) |
 | Malicious | 26582 | [26582-malicious.json](./26582-malicious.json) |
+| Malicious Mages | 216652 | [216652-malicious-mages.json](./216652-malicious-mages.json) |
 | Malicious Payload | 114509 | [114509-malicious-payload.json](./114509-malicious-payload.json) |
 | Malicious Rebirth | 26584 | [26584-malicious-rebirth.json](./26584-malicious-rebirth.json) |
 | Malignant Survivors | 286943 | [286943-malignant-survivors.json](./286943-malignant-survivors.json) |
@@ -2086,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mamiya: Downfall | 368583 | [368583-mamiya-downfall.json](./368583-mamiya-downfall.json) |
 | Mamiya: FallDown | 368564 | [368564-mamiya-falldown.json](./368564-mamiya-falldown.json) |
 | Mamizou's Mimic Check | 338698 | [338698-mamizous-mimic-check.json](./338698-mamizous-mimic-check.json) |
+| Mammon: Devil Help | 216637 | [216637-mammon-devil-help.json](./216637-mammon-devil-help.json) |
 | Mammoth Mini Golf AR | 87202 | [87202-mammoth-mini-golf-ar.json](./87202-mammoth-mini-golf-ar.json) |
 | Mammy Talk DS | 130391 | [130391-mammy-talk-ds.json](./130391-mammy-talk-ds.json) |
 | MamoBall | 208365 | [208365-mamoball.json](./208365-mamoball.json) |
@@ -8600,6 +8604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might and Magic: World of Xeen | 7738 | [7738-might-and-magic-world-of-xeen.json](./7738-might-and-magic-world-of-xeen.json) |
 | Might is Right | 127497 | [127497-might-is-right.json](./127497-might-is-right.json) |
 | Might of Fate | 406130 | [406130-might-of-fate.json](./406130-might-of-fate.json) |
+| Might of Merchants | 216691 | [216691-might-of-merchants.json](./216691-might-of-merchants.json) |
 | Might of the Meek | 413877 | [413877-might-of-the-meek.json](./413877-might-of-the-meek.json) |
 | Mightier | 341696 | [341696-mightier.json](./341696-mightier.json) |
 | Mightier | 50136 | [50136-mightier.json](./50136-mightier.json) |
@@ -11567,6 +11572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Tales: The Valley of the Jackal | 18461 | [18461-monkey-tales-the-valley-of-the-jackal.json](./18461-monkey-tales-the-valley-of-the-jackal.json) |
 | Monkey Time | 187300 | [187300-monkey-time.json](./187300-monkey-time.json) |
 | Monkey Turn V | 58065 | [58065-monkey-turn-v.json](./58065-monkey-turn-v.json) |
+| Monkey Valley | 216627 | [216627-monkey-valley.json](./216627-monkey-valley.json) |
 | Monkey vs. Dino | 167605 | [167605-monkey-vs-dino.json](./167605-monkey-vs-dino.json) |
 | Monkey Wars! | 323749 | [323749-monkey-wars.json](./323749-monkey-wars.json) |
 | Monkey Wave | 383963 | [383963-monkey-wave.json](./383963-monkey-wave.json) |
@@ -12212,6 +12218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsterbag | 60535 | [60535-monsterbag.json](./60535-monsterbag.json) |
 | Monsterburg | 305790 | [305790-monsterburg.json](./305790-monsterburg.json) |
 | Monstercakes | 28999 | [28999-monstercakes.json](./28999-monstercakes.json) |
+| MonsterCare | 216647 | [216647-monstercare.json](./216647-monstercare.json) |
 | MonsterCastle | 120653 | [120653-monstercastle.json](./120653-monstercastle.json) |
 | Monstercise | 282794 | [282794-monstercise.json](./282794-monstercise.json) |
 | MonsterCrafter | 89202 | [89202-monstercrafter.json](./89202-monstercrafter.json) |
@@ -16647,6 +16654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic Zombies | 143464 | [143464-mythic-zombies.json](./143464-mythic-zombies.json) |
 | Mythic: Frost Trials | 215636 | [215636-mythic-frost-trials.json](./215636-mythic-frost-trials.json) |
 | Mythica | 91859 | [91859-mythica.json](./91859-mythica.json) |
+| Mythica Adventures | 216626 | [216626-mythica-adventures.json](./216626-mythica-adventures.json) |
 | Mythical | 114213 | [114213-mythical.json](./114213-mythical.json) |
 | Mythical Agent | 249650 | [249650-mythical-agent.json](./249650-mythical-agent.json) |
 | Mythical Concept Starnaut | 272387 | [272387-mythical-concept-starnaut.json](./272387-mythical-concept-starnaut.json) |
