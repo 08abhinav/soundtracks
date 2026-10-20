@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:33:34.445Z",
-  "total_missing": 239444,
+  "generated_at": "2026-10-20T21:39:58.342Z",
+  "total_missing": 239438,
   "games": [
     {
       "igdb_id": 191680,
@@ -171030,11 +171030,6 @@
       "igdb_id": 260250,
       "game_name": "Century of Steam",
       "file": "missing/C/260250-century-of-steam.json"
-    },
-    {
-      "igdb_id": 141536,
-      "game_name": "Century: Age of Ashes",
-      "file": "missing/C/141536-century-age-of-ashes.json"
     },
     {
       "igdb_id": 202760,
@@ -344020,11 +344015,6 @@
       "igdb_id": 110768,
       "game_name": "Farplane Relic",
       "file": "missing/F/110768-farplane-relic.json"
-    },
-    {
-      "igdb_id": 19575,
-      "game_name": "Farpoint",
-      "file": "missing/F/19575-farpoint.json"
     },
     {
       "igdb_id": 114773,
@@ -552397,11 +552387,6 @@
       "file": "missing/L/372687-lead-and-blood.json"
     },
     {
-      "igdb_id": 2041,
-      "game_name": "Lead and Gold: Gangs of the Wild West",
-      "file": "missing/L/2041-lead-and-gold-gangs-of-the-wild-west.json"
-    },
-    {
       "igdb_id": 61728,
       "game_name": "Lead on Mars",
       "file": "missing/L/61728-lead-on-mars.json"
@@ -570555,11 +570540,6 @@
       "igdb_id": 310821,
       "game_name": "Locust Hunter",
       "file": "missing/L/310821-locust-hunter.json"
-    },
-    {
-      "igdb_id": 152196,
-      "game_name": "Loddlenaut",
-      "file": "missing/L/152196-loddlenaut.json"
     },
     {
       "igdb_id": 166708,
@@ -679060,11 +679040,6 @@
       "igdb_id": 301808,
       "game_name": "Neverseas",
       "file": "missing/N/301808-neverseas.json"
-    },
-    {
-      "igdb_id": 133261,
-      "game_name": "Neversong",
-      "file": "missing/N/133261-neversong.json"
     },
     {
       "igdb_id": 144728,
@@ -823645,11 +823620,6 @@
       "igdb_id": 38902,
       "game_name": "Rift Mobile",
       "file": "missing/R/38902-rift-mobile.json"
-    },
-    {
-      "igdb_id": 214492,
-      "game_name": "Rift of the NecroDancer",
-      "file": "missing/R/214492-rift-of-the-necrodancer.json"
     },
     {
       "igdb_id": 401751,
