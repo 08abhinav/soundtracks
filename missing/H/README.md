@@ -5940,6 +5940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hill 4 Cheetah | 417321 | [417321-hill-4-cheetah.json](./417321-hill-4-cheetah.json) |
 | Hill 4x4 Tuning Rivals | 255733 | [255733-hill-4x4-tuning-rivals.json](./255733-hill-4x4-tuning-rivals.json) |
 | Hill Cliff Horse: Online | 230203 | [230203-hill-cliff-horse-online.json](./230203-hill-cliff-horse-online.json) |
+| Hill Climb | 235047 | [235047-hill-climb.json](./235047-hill-climb.json) |
 | Hill Climb on a Motorcycle | 330217 | [330217-hill-climb-on-a-motorcycle.json](./330217-hill-climb-on-a-motorcycle.json) |
 | Hill Climb Racing 3 | 407909 | [407909-hill-climb-racing-3.json](./407909-hill-climb-racing-3.json) |
 | Hill Climb Runner | 256351 | [256351-hill-climb-runner.json](./256351-hill-climb-runner.json) |
@@ -7564,6 +7565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horrid Henry's Krazy Karts | 187451 | [187451-horrid-henrys-krazy-karts.json](./187451-horrid-henrys-krazy-karts.json) |
 | Horripilant | 342102 | [342102-horripilant.json](./342102-horripilant.json) |
 | Horror & Sports Pinball | 186698 | [186698-horror-and-sports-pinball.json](./186698-horror-and-sports-pinball.json) |
+| Horror Adventure | 235043 | [235043-horror-adventure.json](./235043-horror-adventure.json) |
 | Horror Adventure VR | 146651 | [146651-horror-adventure-vr.json](./146651-horror-adventure-vr.json) |
 | Horror Adventure: Zombie Edition VR | 243061 | [243061-horror-adventure-zombie-edition-vr.json](./243061-horror-adventure-zombie-edition-vr.json) |
 | Horror Amusement Park | 249213 | [249213-horror-amusement-park.json](./249213-horror-amusement-park.json) |
