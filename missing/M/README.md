@@ -1391,6 +1391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong | 90692 | [90692-mahjong.json](./90692-mahjong.json) |
 | MahJong | 74936 | [74936-mahjong.json](./74936-mahjong.json) |
 | Mahjong 16 TW | 334339 | [334339-mahjong-16-tw.json](./334339-mahjong-16-tw.json) |
+| Mahjong 2 Classroom | 246266 | [246266-mahjong-2-classroom.json](./246266-mahjong-2-classroom.json) |
 | Mahjong 300 | 401018 | [401018-mahjong-300.json](./401018-mahjong-300.json) |
 | Mahjong Adventure | 147322 | [147322-mahjong-adventure.json](./147322-mahjong-adventure.json) |
 | Mahjong Aztecs Mysteries | 234187 | [234187-mahjong-aztecs-mysteries.json](./234187-mahjong-aztecs-mysteries.json) |
@@ -4456,6 +4457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Action | 92784 | [92784-maximum-action.json](./92784-maximum-action.json) |
 | Maximum Apocalypse: The Video Game | 304291 | [304291-maximum-apocalypse-the-video-game.json](./304291-maximum-apocalypse-the-video-game.json) |
 | Maximum Archery the Game | 31711 | [31711-maximum-archery-the-game.json](./31711-maximum-archery-the-game.json) |
+| Maximum Car | 246255 | [246255-maximum-car.json](./246255-maximum-car.json) |
 | Maximum Chaser: 1001 Squad | 325509 | [325509-maximum-chaser-1001-squad.json](./325509-maximum-chaser-1001-squad.json) |
 | Maximum Entertainment Horror Bundle | 313209 | [313209-maximum-entertainment-horror-bundle.json](./313209-maximum-entertainment-horror-bundle.json) |
 | Maximum Entertainment Puzzle Platformer Bundle | 313208 | [313208-maximum-entertainment-puzzle-platformer-bundle.json](./313208-maximum-entertainment-puzzle-platformer-bundle.json) |
@@ -4854,6 +4856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mean Beans: Party Hat Pack | 257859 | [257859-mean-beans-party-hat-pack.json](./257859-mean-beans-party-hat-pack.json) |
 | Mean City | 47154 | [47154-mean-city.json](./47154-mean-city.json) |
 | Mean Girls | 150035 | [150035-mean-girls.json](./150035-mean-girls.json) |
+| Mean Machines | 246257 | [246257-mean-machines.json](./246257-mean-machines.json) |
 | Mean Routine | 111540 | [111540-mean-routine.json](./111540-mean-routine.json) |
 | Meander | 108986 | [108986-meander.json](./108986-meander.json) |
 | Meander Land | 265703 | [265703-meander-land.json](./265703-meander-land.json) |
