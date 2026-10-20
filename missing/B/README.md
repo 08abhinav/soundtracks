@@ -2474,6 +2474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baten Kaitos Origins | 3796 | [3796-baten-kaitos-origins.json](./3796-baten-kaitos-origins.json) |
 | Bath House Simulator | 326471 | [326471-bath-house-simulator.json](./326471-bath-house-simulator.json) |
 | BathDad | 311873 | [311873-bathdad.json](./311873-bathdad.json) |
+| BathDoom | 254306 | [254306-bathdoom.json](./254306-bathdoom.json) |
 | Bathhouse Creatures | 331274 | [331274-bathhouse-creatures.json](./331274-bathhouse-creatures.json) |
 | Bathos | 92842 | [92842-bathos.json](./92842-bathos.json) |
 | Bathroom Chef | 101627 | [101627-bathroom-chef.json](./101627-bathroom-chef.json) |
@@ -8238,6 +8239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Red Rebirth | 384313 | [384313-blood-red-rebirth.json](./384313-blood-red-rebirth.json) |
 | Blood Rising | 338257 | [338257-blood-rising.json](./338257-blood-rising.json) |
 | Blood Rite | 238505 | [238505-blood-rite.json](./238505-blood-rite.json) |
+| Blood River Base | 254307 | [254307-blood-river-base.json](./254307-blood-river-base.json) |
 | Blood Rot: 1918 | 238639 | [238639-blood-rot-1918.json](./238639-blood-rot-1918.json) |
 | Blood Running | 274370 | [274370-blood-running.json](./274370-blood-running.json) |
 | Blood Running: Prologue | 293388 | [293388-blood-running-prologue.json](./293388-blood-running-prologue.json) |
@@ -13142,6 +13144,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burn Depth | 203891 | [203891-burn-depth.json](./203891-burn-depth.json) |
 | Burn It Down | 47991 | [47991-burn-it-down.json](./47991-burn-it-down.json) |
 | Burn Me Twice | 132057 | [132057-burn-me-twice.json](./132057-burn-me-twice.json) |
+| Burn the City | 254344 | [254344-burn-the-city.json](./254344-burn-the-city.json) |
+| Burn the Corn | 254345 | [254345-burn-the-corn.json](./254345-burn-the-corn.json) |
 | Burn the Midnight Oil | 395846 | [395846-burn-the-midnight-oil.json](./395846-burn-the-midnight-oil.json) |
 | Burn the Rope HD | 107658 | [107658-burn-the-rope-hd.json](./107658-burn-the-rope-hd.json) |
 | Burn the Trash! | 122840 | [122840-burn-the-trash.json](./122840-burn-the-trash.json) |
