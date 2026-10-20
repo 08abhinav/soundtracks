@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Frogs 4 | 339694 | [339694-i-commissioned-some-frogs-4.json](./339694-i-commissioned-some-frogs-4.json) |
 | I Commissioned Some Frogs 5 | 339681 | [339681-i-commissioned-some-frogs-5.json](./339681-i-commissioned-some-frogs-5.json) |
 | I Commissioned Some Invisible People 0 | 292546 | [292546-i-commissioned-some-invisible-people-0.json](./292546-i-commissioned-some-invisible-people-0.json) |
+| I Commissioned Some Ladybugs | 244079 | [244079-i-commissioned-some-ladybugs.json](./244079-i-commissioned-some-ladybugs.json) |
 | I Commissioned Some Ladybugs 3 | 287071 | [287071-i-commissioned-some-ladybugs-3.json](./287071-i-commissioned-some-ladybugs-3.json) |
 | I Commissioned Some Ladybugs 4 | 309449 | [309449-i-commissioned-some-ladybugs-4.json](./309449-i-commissioned-some-ladybugs-4.json) |
 | I Commissioned Some Mice | 248073 | [248073-i-commissioned-some-mice.json](./248073-i-commissioned-some-mice.json) |
@@ -4552,6 +4553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai HKV | 388726 | [388726-isekai-hkv.json](./388726-isekai-hkv.json) |
 | Isekai Infinity: Worlds Unleashed | 291852 | [291852-isekai-infinity-worlds-unleashed.json](./291852-isekai-infinity-worlds-unleashed.json) |
 | Isekai Janken Hero | 220039 | [220039-isekai-janken-hero.json](./220039-isekai-janken-hero.json) |
+| Isekai Junior Manager | 244077 | [244077-isekai-junior-manager.json](./244077-isekai-junior-manager.json) |
 | Isekai Mage | 345689 | [345689-isekai-mage.json](./345689-isekai-mage.json) |
 | Isekai Mining Defense | 348229 | [348229-isekai-mining-defense.json](./348229-isekai-mining-defense.json) |
 | Isekai Musume Hatsujouchuu: Ore no Are wo Hamu-hamu Shimakuri!? | 194592 | [194592-isekai-musume-hatsujouchuu-ore-no-are-wo-hamu-hamu-shimakuri.json](./194592-isekai-musume-hatsujouchuu-ore-no-are-wo-hamu-hamu-shimakuri.json) |
