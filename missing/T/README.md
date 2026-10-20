@@ -4078,6 +4078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Abandoned House in Yeongdeok | 399073 | [399073-the-abandoned-house-in-yeongdeok.json](./399073-the-abandoned-house-in-yeongdeok.json) |
 | The Abandoned Levels | 396418 | [396418-the-abandoned-levels.json](./396418-the-abandoned-levels.json) |
 | The Abandoned Planet | 204113 | [204113-the-abandoned-planet.json](./204113-the-abandoned-planet.json) |
+| The Abandoned Presence | 247885 | [247885-the-abandoned-presence.json](./247885-the-abandoned-presence.json) |
 | The Abbess Garden | 334464 | [334464-the-abbess-garden.json](./334464-the-abbess-garden.json) |
 | The Abbey | 17628 | [17628-the-abbey.json](./17628-the-abbey.json) |
 | The Abbey of Montglane | 113445 | [113445-the-abbey-of-montglane.json](./113445-the-abbey-of-montglane.json) |
@@ -5393,6 +5394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cheetah Girls: Passport to Stardom | 117498 | [117498-the-cheetah-girls-passport-to-stardom.json](./117498-the-cheetah-girls-passport-to-stardom.json) |
 | The Cheetahmen: The Creation | 63348 | [63348-the-cheetahmen-the-creation.json](./63348-the-cheetahmen-the-creation.json) |
 | The Chef | 71238 | [71238-the-chef.json](./71238-the-chef.json) |
+| The Chef's Shift | 247893 | [247893-the-chefs-shift.json](./247893-the-chefs-shift.json) |
 | The Chemist | 74603 | [74603-the-chemist.json](./74603-the-chemist.json) |
 | The Cherry Orchard | 145302 | [145302-the-cherry-orchard.json](./145302-the-cherry-orchard.json) |
 | The Chess | 351729 | [351729-the-chess.json](./351729-the-chess.json) |
@@ -7819,6 +7821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hanging Gardens | 183826 | [183826-the-hanging-gardens.json](./183826-the-hanging-gardens.json) |
 | The Hangman | 264609 | [264609-the-hangman.json](./264609-the-hangman.json) |
 | The Hangman's Noose | 58222 | [58222-the-hangmans-noose.json](./58222-the-hangmans-noose.json) |
+| The Happies: Doomsday Stories | 247879 | [247879-the-happies-doomsday-stories.json](./247879-the-happies-doomsday-stories.json) |
 | The Happiest Days of Your Life | 13870 | [13870-the-happiest-days-of-your-life.json](./13870-the-happiest-days-of-your-life.json) |
 | The Happy Hereafter | 17521 | [17521-the-happy-hereafter.json](./17521-the-happy-hereafter.json) |
 | The Happyhills Homicide | 209496 | [209496-the-happyhills-homicide.json](./209496-the-happyhills-homicide.json) |
@@ -9964,6 +9967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Mind of Dr. Brain | 79885 | [79885-the-lost-mind-of-dr-brain.json](./79885-the-lost-mind-of-dr-brain.json) |
 | The Lost Mines | 199103 | [199103-the-lost-mines.json](./199103-the-lost-mines.json) |
 | The Lost Mixtape | 409411 | [409411-the-lost-mixtape.json](./409411-the-lost-mixtape.json) |
+| The Lost Moon | 247890 | [247890-the-lost-moon.json](./247890-the-lost-moon.json) |
 | The Lost Moonbase | 270697 | [270697-the-lost-moonbase.json](./270697-the-lost-moonbase.json) |
 | The Lost Mystic Ornament | 220194 | [220194-the-lost-mystic-ornament.json](./220194-the-lost-mystic-ornament.json) |
 | The Lost Myth | 340573 | [340573-the-lost-myth.json](./340573-the-lost-myth.json) |
@@ -10994,6 +10998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Panic Room | 33664 | [33664-the-panic-room.json](./33664-the-panic-room.json) |
 | The Panic Room: House of Secrets | 259516 | [259516-the-panic-room-house-of-secrets.json](./259516-the-panic-room-house-of-secrets.json) |
 | The Paper Aircraft of Childhood | 268216 | [268216-the-paper-aircraft-of-childhood.json](./268216-the-paper-aircraft-of-childhood.json) |
+| The Paper Arcade | 247909 | [247909-the-paper-arcade.json](./247909-the-paper-arcade.json) |
 | The Paper Arcade: Pong | 360677 | [360677-the-paper-arcade-pong.json](./360677-the-paper-arcade-pong.json) |
 | The Paper Loop | 344369 | [344369-the-paper-loop.json](./344369-the-paper-loop.json) |
 | The Paper Parable | 262398 | [262398-the-paper-parable.json](./262398-the-paper-parable.json) |
@@ -20406,6 +20411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Town Doubt | 55470 | [55470-town-doubt.json](./55470-town-doubt.json) |
 | Town Hall Toaster | 71463 | [71463-town-hall-toaster.json](./71463-town-hall-toaster.json) |
 | Town Market Simulator 2025 | 384276 | [384276-town-market-simulator-2025.json](./384276-town-market-simulator-2025.json) |
+| Town of Ancient Tea | 247896 | [247896-town-of-ancient-tea.json](./247896-town-of-ancient-tea.json) |
 | Town of Cinders | 398307 | [398307-town-of-cinders.json](./398307-town-of-cinders.json) |
 | Town of Destruction | 192184 | [192184-town-of-destruction.json](./192184-town-of-destruction.json) |
 | Town of Dusk | 251810 | [251810-town-of-dusk.json](./251810-town-of-dusk.json) |
@@ -22696,6 +22702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trepang2 | 126212 | [126212-trepang2.json](./126212-trepang2.json) |
 | Trepang2: Banger Edition | 254414 | [254414-trepang2-banger-edition.json](./254414-trepang2-banger-edition.json) |
 | Trepang2: Digital Deluxe Edition | 287625 | [287625-trepang2-digital-deluxe-edition.json](./287625-trepang2-digital-deluxe-edition.json) |
+| Trepidation | 247922 | [247922-trepidation.json](./247922-trepidation.json) |
 | Tres | 319800 | [319800-tres.json](./319800-tres.json) |
 | Tres Acordes | 230757 | [230757-tres-acordes.json](./230757-tres-acordes.json) |
 | Tres Undos | 208269 | [208269-tres-undos.json](./208269-tres-undos.json) |
