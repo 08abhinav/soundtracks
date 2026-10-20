@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:41:55.975Z",
-  "total_soundtracks": 2270,
+  "generated_at": "2026-10-20T21:42:07.408Z",
+  "total_soundtracks": 2271,
   "games": [
     {
       "igdb_id": 7522,
@@ -21889,6 +21889,20 @@
           "spotify_url": "https://open.spotify.com/album/5db1v8e3BJu4ymP3sCmcM8",
           "apple_music_url": "https://music.apple.com/us/album/stick-fight-the-game-original-soundtrack-ep/1290806376",
           "album_link_url": "https://album.link/i/1290806376"
+        }
+      ]
+    },
+    {
+      "igdb_id": 119886,
+      "game_name": "Still There",
+      "game_url": "https://ostdb.net/games/still-there",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27398ca452d465189b4727048ea",
+      "albums": [
+        {
+          "album_name": "Still There Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/27wmW1wIPdK1yKlUtpTqVP",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
