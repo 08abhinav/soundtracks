@@ -951,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Invaders | 70957 | [70957-panic-invaders.json](./70957-panic-invaders.json) |
 | Panic Lane | 247767 | [247767-panic-lane.json](./247767-panic-lane.json) |
 | Panic Mansion | 26726 | [26726-panic-mansion.json](./26726-panic-mansion.json) |
+| Panic Museum | 245707 | [245707-panic-museum.json](./245707-panic-museum.json) |
 | Panic on Ice | 239559 | [239559-panic-on-ice.json](./239559-panic-on-ice.json) |
 | Panic Palette Portable | 204391 | [204391-panic-palette-portable.json](./204391-panic-palette-portable.json) |
 | Panic Park | 62238 | [62238-panic-park.json](./62238-panic-park.json) |
@@ -2326,6 +2327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patrician IV: Steam Special Edition | 90478 | [90478-patrician-iv-steam-special-edition.json](./90478-patrician-iv-steam-special-edition.json) |
 | Patricide | 366246 | [366246-patricide.json](./366246-patricide.json) |
 | Patrick | 135836 | [135836-patrick.json](./135836-patrick.json) |
+| Patrick and the Maze | 245705 | [245705-patrick-and-the-maze.json](./245705-patrick-and-the-maze.json) |
 | Patrick's Parabox | 133227 | [133227-patricks-parabox.json](./133227-patricks-parabox.json) |
 | Patriotic Missile 3D | 104720 | [104720-patriotic-missile-3d.json](./104720-patriotic-missile-3d.json) |
 | Patriotic Pinball | 43847 | [43847-patriotic-pinball.json](./43847-patriotic-pinball.json) |
