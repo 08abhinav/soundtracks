@@ -1682,6 +1682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Battle Spirit Link | 107742 | [107742-card-battle-spirit-link.json](./107742-card-battle-spirit-link.json) |
 | Card Blast | 204966 | [204966-card-blast.json](./204966-card-blast.json) |
 | Card Blitz: WWII | 133235 | [133235-card-blitz-wwii.json](./133235-card-blitz-wwii.json) |
+| Card Brawl: Dungeon Slayer | 233395 | [233395-card-brawl-dungeon-slayer.json](./233395-card-brawl-dungeon-slayer.json) |
 | Card Captor Sakura: Sakura Card-hen - Sakura Card to Tomodachi | 49518 | [49518-card-captor-sakura-sakura-card-hen-sakura-card-to-tomodachi.json](./49518-card-captor-sakura-sakura-card-hen-sakura-card-to-tomodachi.json) |
 | Card Chronicles: Devious Deck | 312308 | [312308-card-chronicles-devious-deck.json](./312308-card-chronicles-devious-deck.json) |
 | Card City Nights | 14565 | [14565-card-city-nights.json](./14565-card-city-nights.json) |
@@ -5111,6 +5112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessmaster: Grandmaster Edition | 15884 | [15884-chessmaster-grandmaster-edition.json](./15884-chessmaster-grandmaster-edition.json) |
 | Chessmaster: The Art of Learning | 20777 | [20777-chessmaster-the-art-of-learning.json](./20777-chessmaster-the-art-of-learning.json) |
 | Chessmate | 413719 | [413719-chessmate.json](./413719-chessmate.json) |
+| Chessplode | 233376 | [233376-chessplode.json](./233376-chessplode.json) |
 | ChessRogue | 319280 | [319280-chessrogue.json](./319280-chessrogue.json) |
 | ChessRogue | 93479 | [93479-chessrogue.json](./93479-chessrogue.json) |
 | Chesst | 400891 | [400891-chesst.json](./400891-chesst.json) |
@@ -9228,6 +9230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colors of War | 66583 | [66583-colors-of-war.json](./66583-colors-of-war.json) |
 | Colors of Your World | 182988 | [182988-colors-of-your-world.json](./182988-colors-of-your-world.json) |
 | Colors: Lost Memories | 269122 | [269122-colors-lost-memories.json](./269122-colors-lost-memories.json) |
+| Colors: Zero | 233353 | [233353-colors-zero.json](./233353-colors-zero.json) |
 | Colors! | 162848 | [162848-colors.json](./162848-colors.json) |
 | Colors! Maze | 193486 | [193486-colors-maze.json](./193486-colors-maze.json) |
 | Colors! Platform | 199607 | [199607-colors-platform.json](./199607-colors-platform.json) |
