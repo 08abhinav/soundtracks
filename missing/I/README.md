@@ -1589,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IL-2 Sturmovik: Great Battles | 125836 | [125836-il-2-sturmovik-great-battles.json](./125836-il-2-sturmovik-great-battles.json) |
 | IL-2 Sturmovik: Hell Hawks Over the Bulge Campaign | 267661 | [267661-il-2-sturmovik-hell-hawks-over-the-bulge-campaign.json](./267661-il-2-sturmovik-hell-hawks-over-the-bulge-campaign.json) |
 | IL-2 Sturmovik: Lisunov Li-2 Collector Plane | 267662 | [267662-il-2-sturmovik-lisunov-li-2-collector-plane.json](./267662-il-2-sturmovik-lisunov-li-2-collector-plane.json) |
+| IL-2 Sturmovik: Sky Nomads Campaign | 254906 | [254906-il-2-sturmovik-sky-nomads-campaign.json](./254906-il-2-sturmovik-sky-nomads-campaign.json) |
 | IL-2 Sturmovik: Ten Days of Autumn Campaign | 267663 | [267663-il-2-sturmovik-ten-days-of-autumn-campaign.json](./267663-il-2-sturmovik-ten-days-of-autumn-campaign.json) |
 | Il-2 Sturmovik: Ultimate Edition | 146130 | [146130-il-2-sturmovik-ultimate-edition.json](./146130-il-2-sturmovik-ultimate-edition.json) |
 | Ilamentia | 36133 | [36133-ilamentia.json](./36133-ilamentia.json) |
@@ -2042,6 +2043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impostor syndrome | 110385 | [110385-impostor-syndrome.json](./110385-impostor-syndrome.json) |
 | Impping! | 350400 | [350400-impping.json](./350400-impping.json) |
 | Impractical Spells | 295525 | [295525-impractical-spells.json](./295525-impractical-spells.json) |
+| Imprecision | 254907 | [254907-imprecision.json](./254907-imprecision.json) |
 | Impresja | 47992 | [47992-impresja.json](./47992-impresja.json) |
 | Impressionista: Water Lilies | 182859 | [182859-impressionista-water-lilies.json](./182859-impressionista-water-lilies.json) |
 | Impressions | 128996 | [128996-impressions.json](./128996-impressions.json) |
