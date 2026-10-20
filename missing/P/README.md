@@ -1002,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panpu-ja | 254778 | [254778-panpu-ja.json](./254778-panpu-ja.json) |
 | Panspermia: Horror Myson Mansion | 232526 | [232526-panspermia-horror-myson-mansion.json](./232526-panspermia-horror-myson-mansion.json) |
 | Panta Rhei | 204090 | [204090-panta-rhei.json](./204090-panta-rhei.json) |
+| Pantaji Yeodongsaeng : Sujipyeong Bangchi RPG | 224404 | [224404-pantaji-yeodongsaeng-sujipyeong-bangchi-rpg.json](./224404-pantaji-yeodongsaeng-sujipyeong-bangchi-rpg.json) |
 | Pantazil | 221681 | [221681-pantazil.json](./221681-pantazil.json) |
 | Panthalassa | 304650 | [304650-panthalassa.json](./304650-panthalassa.json) |
 | Pantheon | 128470 | [128470-pantheon.json](./128470-pantheon.json) |
