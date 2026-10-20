@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.U.B.E | 412998 | [412998-c-u-b-e.json](./412998-c-u-b-e.json) |
 | C.U.B.I.P.L.E.X. | 58576 | [58576-c-u-b-i-p-l-e-x.json](./58576-c-u-b-i-p-l-e-x.json) |
 | C.V.: Watashi to Watashi no Naka no Hito - The Fourth Insider | 397400 | [397400-c-v-watashi-to-watashi-no-naka-no-hito-the-fourth-insider.json](./397400-c-v-watashi-to-watashi-no-naka-no-hito-the-fourth-insider.json) |
+| C'est La Vie | 250205 | [250205-cest-la-vie.json](./250205-cest-la-vie.json) |
 | C'est La Vie | 55882 | [55882-cest-la-vie.json](./55882-cest-la-vie.json) |
 | C'est Pas Sorcier | 269671 | [269671-cest-pas-sorcier.json](./269671-cest-pas-sorcier.json) |
 | C'est pas Sorcier: Menace sur le Volcan Tamakou | 46455 | [46455-cest-pas-sorcier-menace-sur-le-volcan-tamakou.json](./46455-cest-pas-sorcier-menace-sur-le-volcan-tamakou.json) |
@@ -1147,6 +1148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canvas Croquis | 40074 | [40074-canvas-croquis.json](./40074-canvas-croquis.json) |
 | Canvas Intruder | 316142 | [316142-canvas-intruder.json](./316142-canvas-intruder.json) |
 | Canvas Legacy | 219219 | [219219-canvas-legacy.json](./219219-canvas-legacy.json) |
+| Canvas Menagerie | 250167 | [250167-canvas-menagerie.json](./250167-canvas-menagerie.json) |
 | Canvas of Kings | 259576 | [259576-canvas-of-kings.json](./259576-canvas-of-kings.json) |
 | Canvas of Thoughts | 399590 | [399590-canvas-of-thoughts.json](./399590-canvas-of-thoughts.json) |
 | Canvas Street | 347904 | [347904-canvas-street.json](./347904-canvas-street.json) |
@@ -11062,6 +11064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corvos Dynasty | 268314 | [268314-corvos-dynasty.json](./268314-corvos-dynasty.json) |
 | Cory in the House | 47969 | [47969-cory-in-the-house.json](./47969-cory-in-the-house.json) |
 | Coryoon | 37717 | [37717-coryoon.json](./37717-coryoon.json) |
+| Coryphaeus Championships | 250214 | [250214-coryphaeus-championships.json](./250214-coryphaeus-championships.json) |
 | Cos-249 | 311145 | [311145-cos-249.json](./311145-cos-249.json) |
 | Cos-tte! Aki-san! vol.2 | 98460 | [98460-cos-tte-aki-san-vol-2.json](./98460-cos-tte-aki-san-vol-2.json) |
 | Cosa Nostra | 182863 | [182863-cosa-nostra.json](./182863-cosa-nostra.json) |
@@ -12390,6 +12393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Frog Racer | 20483 | [20483-crazy-frog-racer.json](./20483-crazy-frog-racer.json) |
 | Crazy Frog Racer | 240508 | [240508-crazy-frog-racer.json](./240508-crazy-frog-racer.json) |
 | Crazy Frog Racer | 248686 | [248686-crazy-frog-racer.json](./248686-crazy-frog-racer.json) |
+| Crazy Frog Racer | 250202 | [250202-crazy-frog-racer.json](./250202-crazy-frog-racer.json) |
 | Crazy Frog Racer: Christmas Edition | 210554 | [210554-crazy-frog-racer-christmas-edition.json](./210554-crazy-frog-racer-christmas-edition.json) |
 | Crazy Frog Runner Ding Dash | 406569 | [406569-crazy-frog-runner-ding-dash.json](./406569-crazy-frog-runner-ding-dash.json) |
 | Crazy Frog: Axel F Piano Tiles | 95870 | [95870-crazy-frog-axel-f-piano-tiles.json](./95870-crazy-frog-axel-f-piano-tiles.json) |
@@ -12468,6 +12472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Penguin Diner Run | 101974 | [101974-crazy-penguin-diner-run.json](./101974-crazy-penguin-diner-run.json) |
 | Crazy Penguin Wars | 302614 | [302614-crazy-penguin-wars.json](./302614-crazy-penguin-wars.json) |
 | Crazy People | 273960 | [273960-crazy-people.json](./273960-crazy-people.json) |
+| Crazy Pingoin | 250193 | [250193-crazy-pingoin.json](./250193-crazy-pingoin.json) |
 | Crazy Pirate | 81872 | [81872-crazy-pirate.json](./81872-crazy-pirate.json) |
 | Crazy Pirate Slots | 232364 | [232364-crazy-pirate-slots.json](./232364-crazy-pirate-slots.json) |
 | Crazy Pitcher | 227255 | [227255-crazy-pitcher.json](./227255-crazy-pitcher.json) |
