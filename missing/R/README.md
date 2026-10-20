@@ -9290,6 +9290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Factory: Guardians of Azuma - Story of Seasons Bundle | 377761 | [377761-rune-factory-guardians-of-azuma-story-of-seasons-bundle.json](./377761-rune-factory-guardians-of-azuma-story-of-seasons-bundle.json) |
 | Rune Factory: Tides of Destiny | 5133 | [5133-rune-factory-tides-of-destiny.json](./5133-rune-factory-tides-of-destiny.json) |
 | Rune Gate | 261738 | [261738-rune-gate.json](./261738-rune-gate.json) |
+| Rune Gems | 238298 | [238298-rune-gems.json](./238298-rune-gems.json) |
 | Rune Girl | 118976 | [118976-rune-girl.json](./118976-rune-girl.json) |
 | Rune Golf | 260245 | [260245-rune-golf.json](./260245-rune-golf.json) |
 | Rune Gunner | 383475 | [383475-rune-gunner.json](./383475-rune-gunner.json) |
