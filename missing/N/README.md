@@ -4588,6 +4588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noara: The Conspiracy | 178357 | [178357-noara-the-conspiracy.json](./178357-noara-the-conspiracy.json) |
 | Nob War: The Elves | 235243 | [235243-nob-war-the-elves.json](./235243-nob-war-the-elves.json) |
 | Nobby the Aardvark | 125181 | [125181-nobby-the-aardvark.json](./125181-nobby-the-aardvark.json) |
+| Nobelia | 224950 | [224950-nobelia.json](./224950-nobelia.json) |
 | Noble | 176975 | [176975-noble.json](./176975-noble.json) |
 | Noble Armada: Lost Worlds | 107897 | [107897-noble-armada-lost-worlds.json](./107897-noble-armada-lost-worlds.json) |
 | Noble Blood | 339684 | [339684-noble-blood.json](./339684-noble-blood.json) |
