@@ -518,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I woke up in the house of a fat man: he's over 30 years old and loves beer and games | 376469 | [376469-i-woke-up-in-the-house-of-a-fat-man-hes-over-30-years-old-and-loves-beer-and-games.json](./376469-i-woke-up-in-the-house-of-a-fat-man-hes-over-30-years-old-and-loves-beer-and-games.json) |
 | I won't finish this game | 350972 | [350972-i-wont-finish-this-game.json](./350972-i-wont-finish-this-game.json) |
 | I Won’t Let You Level up in My Goblin Town | 378424 | [378424-i-won-t-let-you-level-up-in-my-goblin-town.json](./378424-i-won-t-let-you-level-up-in-my-goblin-town.json) |
+| I Won't Slay Dragons for You | 206581 | [206581-i-wont-slay-dragons-for-you.json](./206581-i-wont-slay-dragons-for-you.json) |
 | I Work As An Exorcist | 381980 | [381980-i-work-as-an-exorcist.json](./381980-i-work-as-an-exorcist.json) |
 | I Would Like a Snack | 397377 | [397377-i-would-like-a-snack.json](./397377-i-would-like-a-snack.json) |
 | I-0: Jailbait on Interstate Zero | 69879 | [69879-i-0-jailbait-on-interstate-zero.json](./69879-i-0-jailbait-on-interstate-zero.json) |
@@ -1575,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikibago | 85185 | [85185-ikibago.json](./85185-ikibago.json) |
 | Ikimono High: The Visual Novel | 180510 | [180510-ikimono-high-the-visual-novel.json](./180510-ikimono-high-the-visual-novel.json) |
 | Ikisugi!? Before After | 241191 | [241191-ikisugi-before-after.json](./241191-ikisugi-before-after.json) |
+| Ikkaku Senkin | 206542 | [206542-ikkaku-senkin.json](./206542-ikkaku-senkin.json) |
 | Ikkarus and the Prince of Sin | 211804 | [211804-ikkarus-and-the-prince-of-sin.json](./211804-ikkarus-and-the-prince-of-sin.json) |
 | Ikki | 12915 | [12915-ikki.json](./12915-ikki.json) |
 | Ikki Tousen: Eloquent Fist | 38475 | [38475-ikki-tousen-eloquent-fist.json](./38475-ikki-tousen-eloquent-fist.json) |
@@ -3375,6 +3377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insanidade | 342218 | [342218-insanidade.json](./342218-insanidade.json) |
 | Insaniquarium! | 334696 | [334696-insaniquarium.json](./334696-insaniquarium.json) |
 | Insaniquarium! Deluxe | 8323 | [8323-insaniquarium-deluxe.json](./8323-insaniquarium-deluxe.json) |
+| Insanity | 206574 | [206574-insanity.json](./206574-insanity.json) |
 | Insanity | 281350 | [281350-insanity.json](./281350-insanity.json) |
 | Insanity | 94703 | [94703-insanity.json](./94703-insanity.json) |
 | Insanity Clicker | 34706 | [34706-insanity-clicker.json](./34706-insanity-clicker.json) |
@@ -5113,6 +5116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itsuka, Kasanariau Ashita he: Shirou-hen | 203822 | [203822-itsuka-kasanariau-ashita-he-shirou-hen.json](./203822-itsuka-kasanariau-ashita-he-shirou-hen.json) |
 | Itsuka, Todoku, Ano Sora ni.: You no Michi to Hi no Tasogare to | 372571 | [372571-itsuka-todoku-ano-sora-ni-you-no-michi-to-hi-no-tasogare-to.json](./372571-itsuka-todoku-ano-sora-ni-you-no-michi-to-hi-no-tasogare-to.json) |
 | Itsumo no Jikan, itsumo no Basho de | 97799 | [97799-itsumo-no-jikan-itsumo-no-basho-de.json](./97799-itsumo-no-jikan-itsumo-no-basho-de.json) |
+| Itsutsu no Neito+ | 206550 | [206550-itsutsu-no-neito.json](./206550-itsutsu-no-neito.json) |
 | Itsy Blitzy | 107391 | [107391-itsy-blitzy.json](./107391-itsy-blitzy.json) |
 | Ittle Dew | 7964 | [7964-ittle-dew.json](./7964-ittle-dew.json) |
 | Ittle Dew 2 | 11598 | [11598-ittle-dew-2.json](./11598-ittle-dew-2.json) |
