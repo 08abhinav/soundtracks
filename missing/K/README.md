@@ -3620,6 +3620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knytt Stories | 51317 | [51317-knytt-stories.json](./51317-knytt-stories.json) |
 | KO Chaos | 285456 | [285456-ko-chaos.json](./285456-ko-chaos.json) |
 | Ko Ima ni Ari | 357166 | [357166-ko-ima-ni-ari.json](./357166-ko-ima-ni-ari.json) |
+| KO Legends | 239475 | [239475-ko-legends.json](./239475-ko-legends.json) |
 | KO Punch | 62795 | [62795-ko-punch.json](./62795-ko-punch.json) |
 | KO Seiki Beast Sanjuushi | 108922 | [108922-ko-seiki-beast-sanjuushi.json](./108922-ko-seiki-beast-sanjuushi.json) |
 | Koa: A Gluttonous Wizard | 215335 | [215335-koa-a-gluttonous-wizard.json](./215335-koa-a-gluttonous-wizard.json) |
