@@ -223,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaite Tsukutte Asoberu: Dezaemon | 67611 | [67611-kaite-tsukutte-asoberu-dezaemon.json](./67611-kaite-tsukutte-asoberu-dezaemon.json) |
 | Kaitei Daisensou | 40215 | [40215-kaitei-daisensou.json](./40215-kaitei-daisensou.json) |
 | Kaitei Takara Sagashi | 40214 | [40214-kaitei-takara-sagashi.json](./40214-kaitei-takara-sagashi.json) |
+| Kaiten Puyoman Kuu Carbuncle | 253764 | [253764-kaiten-puyoman-kuu-carbuncle.json](./253764-kaiten-puyoman-kuu-carbuncle.json) |
 | Kaiten Sushi VR | 245809 | [245809-kaiten-sushi-vr.json](./245809-kaiten-sushi-vr.json) |
 | Kaitou Apricot | 202589 | [202589-kaitou-apricot.json](./202589-kaitou-apricot.json) |
 | Kaitou Apricot Portable | 56775 | [56775-kaitou-apricot-portable.json](./56775-kaitou-apricot-portable.json) |
