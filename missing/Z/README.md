@@ -160,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zagerrrr | 176366 | [176366-zagerrrr.json](./176366-zagerrrr.json) |
 | ZagZag | 369904 | [369904-zagzag.json](./369904-zagzag.json) |
 | Zahak | 287676 | [287676-zahak.json](./287676-zahak.json) |
+| Zahalia: The Curse of Zezor | 212102 | [212102-zahalia-the-curse-of-zezor.json](./212102-zahalia-the-curse-of-zezor.json) |
 | Zaharia | 62109 | [62109-zaharia.json](./62109-zaharia.json) |
 | Zahhak | 164245 | [164245-zahhak.json](./164245-zahhak.json) |
 | Zahmahrel | 365773 | [365773-zahmahrel.json](./365773-zahmahrel.json) |
@@ -1482,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombietron 1: Cemetery Guy | 94555 | [94555-zombietron-1-cemetery-guy.json](./94555-zombietron-1-cemetery-guy.json) |
 | ZombieVan Drive | 156972 | [156972-zombievan-drive.json](./156972-zombievan-drive.json) |
 | Zombieville USA | 69191 | [69191-zombieville-usa.json](./69191-zombieville-usa.json) |
+| Zombieville USA 3D | 212108 | [212108-zombieville-usa-3d.json](./212108-zombieville-usa-3d.json) |
 | ZombieVital DG | 147267 | [147267-zombievital-dg.json](./147267-zombievital-dg.json) |
 | Zombiewood | 228003 | [228003-zombiewood.json](./228003-zombiewood.json) |
 | Zombiewood: Survival Shooter | 294237 | [294237-zombiewood-survival-shooter.json](./294237-zombiewood-survival-shooter.json) |
