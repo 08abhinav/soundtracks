@@ -1493,6 +1493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Senjutsu: Ando Mitsuru Pro no Akuukan Sappou | 383088 | [383088-mahjong-senjutsu-ando-mitsuru-pro-no-akuukan-sappou.json](./383088-mahjong-senjutsu-ando-mitsuru-pro-no-akuukan-sappou.json) |
 | Mahjong Shikaku | 138675 | [138675-mahjong-shikaku.json](./138675-mahjong-shikaku.json) |
 | Mahjong Shikaku Retsuden: Mahjong Wars | 37676 | [37676-mahjong-shikaku-retsuden-mahjong-wars.json](./37676-mahjong-shikaku-retsuden-mahjong-wars.json) |
+| Mahjong Solitaire | 230697 | [230697-mahjong-solitaire.json](./230697-mahjong-solitaire.json) |
 | Mahjong Solitaire | 232382 | [232382-mahjong-solitaire.json](./232382-mahjong-solitaire.json) |
 | Mahjong Solitaire | 80453 | [80453-mahjong-solitaire.json](./80453-mahjong-solitaire.json) |
 | Mahjong Solitaire 100 | 156886 | [156886-mahjong-solitaire-100.json](./156886-mahjong-solitaire-100.json) |
@@ -4069,6 +4070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Day | 39123 | [39123-match-day.json](./39123-match-day.json) |
 | Match Day & International Match Day | 403172 | [403172-match-day-and-international-match-day.json](./403172-match-day-and-international-match-day.json) |
 | Match Day II | 39122 | [39122-match-day-ii.json](./39122-match-day-ii.json) |
+| Match Eleven | 230698 | [230698-match-eleven.json](./230698-match-eleven.json) |
 | Match Gem 99 | 261701 | [261701-match-gem-99.json](./261701-match-gem-99.json) |
 | Match Gems Evolved | 101969 | [101969-match-gems-evolved.json](./101969-match-gems-evolved.json) |
 | Match Hit: Puzzle Fighter | 273884 | [273884-match-hit-puzzle-fighter.json](./273884-match-hit-puzzle-fighter.json) |
@@ -5463,6 +5465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Blaster | 311664 | [311664-mega-blaster.json](./311664-mega-blaster.json) |
 | Mega Bowling Dash | 136431 | [136431-mega-bowling-dash.json](./136431-mega-bowling-dash.json) |
 | Mega Brain Boost | 94017 | [94017-mega-brain-boost.json](./94017-mega-brain-boost.json) |
+| Mega Brain Switch | 230699 | [230699-mega-brain-switch.json](./230699-mega-brain-switch.json) |
 | Mega Bundle 15-in-1 | 401132 | [401132-mega-bundle-15-in-1.json](./401132-mega-bundle-15-in-1.json) |
 | Mega Bundle: Cats | 208046 | [208046-mega-bundle-cats.json](./208046-mega-bundle-cats.json) |
 | Mega Business M: Business World | 199900 | [199900-mega-business-m-business-world.json](./199900-mega-business-m-business-world.json) |
@@ -6635,6 +6638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Lost | 172897 | [172897-memory-lost.json](./172897-memory-lost.json) |
 | Memory Lost - Shift Edition | 351138 | [351138-memory-lost-shift-edition.json](./351138-memory-lost-shift-edition.json) |
 | Memory Mastermind | 61068 | [61068-memory-mastermind.json](./61068-memory-mastermind.json) |
+| Memory Match | 230700 | [230700-memory-match.json](./230700-memory-match.json) |
 | Memory Match IQ Brain Training | 232477 | [232477-memory-match-iq-brain-training.json](./232477-memory-match-iq-brain-training.json) |
 | Memory Match Saga | 126303 | [126303-memory-match-saga.json](./126303-memory-match-saga.json) |
 | Memory Match Saga: Expansion Pack 1 | 167320 | [167320-memory-match-saga-expansion-pack-1.json](./167320-memory-match-saga-expansion-pack-1.json) |
@@ -10055,6 +10059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Land | 91986 | [91986-mirror-land.json](./91986-mirror-land.json) |
 | Mirror Layers | 98557 | [98557-mirror-layers.json](./98557-mirror-layers.json) |
 | Mirror Match | 363965 | [363965-mirror-match.json](./363965-mirror-match.json) |
+| Mirror Mirror | 230701 | [230701-mirror-mirror.json](./230701-mirror-mirror.json) |
 | Mirror Mirror | 340938 | [340938-mirror-mirror.json](./340938-mirror-mirror.json) |
 | Mirror Mysteries | 17204 | [17204-mirror-mysteries.json](./17204-mirror-mysteries.json) |
 | Mirror Mysteries 2: Forgotten Kingdoms | 36333 | [36333-mirror-mysteries-2-forgotten-kingdoms.json](./36333-mirror-mysteries-2-forgotten-kingdoms.json) |
@@ -11577,6 +11582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly IO | 74747 | [74747-monopoly-io.json](./74747-monopoly-io.json) |
 | Monopoly Junior | 295935 | [295935-monopoly-junior.json](./295935-monopoly-junior.json) |
 | Monopoly Junior | 73166 | [73166-monopoly-junior.json](./73166-monopoly-junior.json) |
+| Monopoly Madness: Dino City | 230709 | [230709-monopoly-madness-dino-city.json](./230709-monopoly-madness-dino-city.json) |
 | Monopoly Millionaire | 64475 | [64475-monopoly-millionaire.json](./64475-monopoly-millionaire.json) |
 | Monopoly One | 55944 | [55944-monopoly-one.json](./55944-monopoly-one.json) |
 | Monopoly Party | 4016 | [4016-monopoly-party.json](./4016-monopoly-party.json) |
@@ -13842,6 +13848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. and Mrs. Potato Head Go on Vacation | 209156 | [209156-mr-and-mrs-potato-head-go-on-vacation.json](./209156-mr-and-mrs-potato-head-go-on-vacation.json) |
 | Mr. Angry | 77380 | [77380-mr-angry.json](./77380-mr-angry.json) |
 | Mr. Ball | 232512 | [232512-mr-ball.json](./232512-mr-ball.json) |
+| Mr. Balls | 230677 | [230677-mr-balls.json](./230677-mr-balls.json) |
 | Mr. Bean: Special Delivery | 110284 | [110284-mr-bean-special-delivery.json](./110284-mr-bean-special-delivery.json) |
 | Mr. Bean's Wacky World | 50621 | [50621-mr-beans-wacky-world.json](./50621-mr-beans-wacky-world.json) |
 | Mr. Big Wigs | 55931 | [55931-mr-big-wigs.json](./55931-mr-big-wigs.json) |
