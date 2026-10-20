@@ -3322,6 +3322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life in Jasskia: a Coffee Shop | 355891 | [355891-life-in-jasskia-a-coffee-shop.json](./355891-life-in-jasskia-a-coffee-shop.json) |
 | Life In Planet | 152860 | [152860-life-in-planet.json](./152860-life-in-planet.json) |
 | Life in Quarantine | 145474 | [145474-life-in-quarantine.json](./145474-life-in-quarantine.json) |
+| Life in Santa County | 241240 | [241240-life-in-santa-county.json](./241240-life-in-santa-county.json) |
 | Life in the Analog Age: Rainy Day | 181871 | [181871-life-in-the-analog-age-rainy-day.json](./181871-life-in-the-analog-age-rainy-day.json) |
 | Life in the Dorms | 107031 | [107031-life-in-the-dorms.json](./107031-life-in-the-dorms.json) |
 | Life in the Fast Lane | 74057 | [74057-life-in-the-fast-lane.json](./74057-life-in-the-fast-lane.json) |
