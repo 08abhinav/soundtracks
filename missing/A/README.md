@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Completely Fictional Story About a City Inside a Whale | 253992 | [253992-a-completely-fictional-story-about-a-city-inside-a-whale.json](./253992-a-completely-fictional-story-about-a-city-inside-a-whale.json) |
 | A Completely Normal Dating Simulation That Is Definitely Completely Sweet, Innnocent and Normal: Somethingeth Aniversary Edition | 368246 | [368246-a-completely-normal-dating-simulation-that-is-definitely-completely-sweet-innnocent-and-normal-somethingeth-aniversary-edition.json](./368246-a-completely-normal-dating-simulation-that-is-definitely-completely-sweet-innnocent-and-normal-somethingeth-aniversary-edition.json) |
 | A Completely Normal Dating Simulation That is Definitely Completely Sweet, Innocent and Normal | 135015 | [135015-a-completely-normal-dating-simulation-that-is-definitely-completely-sweet-innocent-and-normal.json](./135015-a-completely-normal-dating-simulation-that-is-definitely-completely-sweet-innocent-and-normal.json) |
+| A Conscious Decision | 249637 | [249637-a-conscious-decision.json](./249637-a-conscious-decision.json) |
 | A Cop Chase | 240873 | [240873-a-cop-chase.json](./240873-a-cop-chase.json) |
 | A Cosmic Forest | 145672 | [145672-a-cosmic-forest.json](./145672-a-cosmic-forest.json) |
 | A Courtesan of Rome | 313819 | [313819-a-courtesan-of-rome.json](./313819-a-courtesan-of-rome.json) |
@@ -3931,6 +3932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airborne Arena | 277854 | [277854-airborne-arena.json](./277854-airborne-arena.json) |
 | Airborne Assault: Conquest of the Aegean | 72759 | [72759-airborne-assault-conquest-of-the-aegean.json](./72759-airborne-assault-conquest-of-the-aegean.json) |
 | Airborne Assault: Highway to Reich | 23751 | [23751-airborne-assault-highway-to-reich.json](./23751-airborne-assault-highway-to-reich.json) |
+| Airborne Bundle | 249596 | [249596-airborne-bundle.json](./249596-airborne-bundle.json) |
 | Airborne Empire | 252769 | [252769-airborne-empire.json](./252769-airborne-empire.json) |
 | Airborne Empires | 31748 | [31748-airborne-empires.json](./31748-airborne-empires.json) |
 | Airborne Grannies | 325895 | [325895-airborne-grannies.json](./325895-airborne-grannies.json) |
@@ -5576,6 +5578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Mission | 273028 | [273028-alpha-mission.json](./273028-alpha-mission.json) |
 | Alpha Mission | 8911 | [8911-alpha-mission.json](./8911-alpha-mission.json) |
 | Alpha Mission II | 13681 | [13681-alpha-mission-ii.json](./13681-alpha-mission-ii.json) |
+| Alpha One | 249644 | [249644-alpha-one.json](./249644-alpha-one.json) |
 | Alpha Pairs | 203854 | [203854-alpha-pairs.json](./203854-alpha-pairs.json) |
 | Alpha Point | 361730 | [361730-alpha-point.json](./361730-alpha-point.json) |
 | Alpha Polaris | 14199 | [14199-alpha-polaris.json](./14199-alpha-polaris.json) |
