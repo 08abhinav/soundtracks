@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Závody o jahody | 397107 | [397107-zavody-o-jahody.json](./397107-zavody-o-jahody.json) |
 | Zax: The Alien Hunter | 22013 | [22013-zax-the-alien-hunter.json](./22013-zax-the-alien-hunter.json) |
 | Zaxterion: Space Frenzy! | 203877 | [203877-zaxterion-space-frenzy.json](./203877-zaxterion-space-frenzy.json) |
+| Zaxxon | 218317 | [218317-zaxxon.json](./218317-zaxxon.json) |
 | Zaxxon | 2753 | [2753-zaxxon.json](./2753-zaxxon.json) |
 | Zaxxon | 309341 | [309341-zaxxon.json](./309341-zaxxon.json) |
 | Zaxxon 3-D | 46104 | [46104-zaxxon-3-d.json](./46104-zaxxon-3-d.json) |
