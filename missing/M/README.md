@@ -1640,6 +1640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maidens of the Ocean Solitaire | 164926 | [164926-maidens-of-the-ocean-solitaire.json](./164926-maidens-of-the-ocean-solitaire.json) |
 | MaidGardener | 253904 | [253904-maidgardener.json](./253904-maidgardener.json) |
 | Maidnight | 373733 | [373733-maidnight.json](./373733-maidnight.json) |
+| Maido Hebo Shogi | 222199 | [222199-maido-hebo-shogi.json](./222199-maido-hebo-shogi.json) |
 | Maids of Storm | 391027 | [391027-maids-of-storm.json](./391027-maids-of-storm.json) |
 | Maigo no Koneko-chan | 276472 | [276472-maigo-no-koneko-chan.json](./276472-maigo-no-koneko-chan.json) |
 | Maihon: The Impossible Jewel Stacking Puzzle Game | 116462 | [116462-maihon-the-impossible-jewel-stacking-puzzle-game.json](./116462-maihon-the-impossible-jewel-stacking-puzzle-game.json) |
@@ -2072,6 +2073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mambo Wave | 142261 | [142261-mambo-wave.json](./142261-mambo-wave.json) |
 | Mamegoma 2: Uchi no Ko ga Ichiban! | 241032 | [241032-mamegoma-2-uchi-no-ko-ga-ichiban.json](./241032-mamegoma-2-uchi-no-ko-ga-ichiban.json) |
 | Mamegoma 3: Kawaii ga Ippai! | 241043 | [241043-mamegoma-3-kawaii-ga-ippai.json](./241043-mamegoma-3-kawaii-ga-ippai.json) |
+| Mamegoma: Happy! Sweets Farm | 221581 | [221581-mamegoma-happy-sweets-farm.json](./221581-mamegoma-happy-sweets-farm.json) |
 | Mameshiba | 141729 | [141729-mameshiba.json](./141729-mameshiba.json) |
 | MAMH | 252919 | [252919-mamh.json](./252919-mamh.json) |
 | Mami no Doki-doki Tiro Finale | 56758 | [56758-mami-no-doki-doki-tiro-finale.json](./56758-mami-no-doki-doki-tiro-finale.json) |
@@ -3742,6 +3744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maskarable | 315108 | [315108-maskarable.json](./315108-maskarable.json) |
 | Masked | 120940 | [120940-masked.json](./120940-masked.json) |
 | Masked and Mysterious | 75196 | [75196-masked-and-mysterious.json](./75196-masked-and-mysterious.json) |
+| Masked Chain Dance | 221580 | [221580-masked-chain-dance.json](./221580-masked-chain-dance.json) |
 | Masked Devourer | 329427 | [329427-masked-devourer.json](./329427-masked-devourer.json) |
 | Masked Forces | 30527 | [30527-masked-forces.json](./30527-masked-forces.json) |
 | Masked Forces 2: Mystic Demons | 55523 | [55523-masked-forces-2-mystic-demons.json](./55523-masked-forces-2-mystic-demons.json) |
@@ -5439,6 +5442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meerkats | 91535 | [91535-meerkats.json](./91535-meerkats.json) |
 | Meet a Married Woman at a Hot Spring | 273467 | [273467-meet-a-married-woman-at-a-hot-spring.json](./273467-meet-a-married-woman-at-a-hot-spring.json) |
 | Meet Again Bundle | 219047 | [219047-meet-again-bundle.json](./219047-meet-again-bundle.json) |
+| Meet and Fuck My Favorite Teacher | 221618 | [221618-meet-and-fuck-my-favorite-teacher.json](./221618-meet-and-fuck-my-favorite-teacher.json) |
 | Meet Bub: Bub to Eigo Tanken | 327596 | [327596-meet-bub-bub-to-eigo-tanken.json](./327596-meet-bub-bub-to-eigo-tanken.json) |
 | Meet Cute: A Sweet New Chapter | 337681 | [337681-meet-cute-a-sweet-new-chapter.json](./337681-meet-cute-a-sweet-new-chapter.json) |
 | Meet Cute: Cafe | 190701 | [190701-meet-cute-cafe.json](./190701-meet-cute-cafe.json) |
@@ -5485,11 +5489,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet Your Maker: Sector 3 Arsenal Pack | 284882 | [284882-meet-your-maker-sector-3-arsenal-pack.json](./284882-meet-your-maker-sector-3-arsenal-pack.json) |
 | Meet.Hunter | 96479 | [96479-meet-hunter.json](./96479-meet-hunter.json) |
 | Meet'N'Fuck Denise Milani | 221728 | [221728-meetnfuck-denise-milani.json](./221728-meetnfuck-denise-milani.json) |
+| Meet'N'Fuck Hawaiian Vacation | 221625 | [221625-meetnfuck-hawaiian-vacation.json](./221625-meetnfuck-hawaiian-vacation.json) |
+| Meet'N'Fuck Intensive Therapy | 221623 | [221623-meetnfuck-intensive-therapy.json](./221623-meetnfuck-intensive-therapy.json) |
 | Meet'N'Fuck Kingdom | 221730 | [221730-meetnfuck-kingdom.json](./221730-meetnfuck-kingdom.json) |
 | Meet'N'Fuck Office Romance | 221724 | [221724-meetnfuck-office-romance.json](./221724-meetnfuck-office-romance.json) |
+| Meet'N'Fuck Subway Story | 221619 | [221619-meetnfuck-subway-story.json](./221619-meetnfuck-subway-story.json) |
+| Meet'N'Fuck Threesome Fun | 221621 | [221621-meetnfuck-threesome-fun.json](./221621-meetnfuck-threesome-fun.json) |
 | Meet'N'Fuck: BDSM Club | 221726 | [221726-meetnfuck-bdsm-club.json](./221726-meetnfuck-bdsm-club.json) |
 | Meet'N'Fuck: Ocean Cruise | 221729 | [221729-meetnfuck-ocean-cruise.json](./221729-meetnfuck-ocean-cruise.json) |
+| Meet'N'Fuck: Road Trip | 221622 | [221622-meetnfuck-road-trip.json](./221622-meetnfuck-road-trip.json) |
 | Meet'N'Fuck: Star Mission | 219163 | [219163-meetnfuck-star-mission.json](./219163-meetnfuck-star-mission.json) |
+| Meet'N'Fuck: Street Racing | 221627 | [221627-meetnfuck-street-racing.json](./221627-meetnfuck-street-racing.json) |
 | Meet'N'Fuck: The Plumber | 221725 | [221725-meetnfuck-the-plumber.json](./221725-meetnfuck-the-plumber.json) |
 | Meeting Her | 253909 | [253909-meeting-her.json](./253909-meeting-her.json) |
 | Meeting in the Flesh | 135008 | [135008-meeting-in-the-flesh.json](./135008-meeting-in-the-flesh.json) |
@@ -10456,6 +10466,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mist Survival | 108349 | [108349-mist-survival.json](./108349-mist-survival.json) |
 | Mist Survivor | 296982 | [296982-mist-survivor.json](./296982-mist-survivor.json) |
 | Mistake | 189188 | [189188-mistake.json](./189188-mistake.json) |
+| Mistake | 222195 | [222195-mistake.json](./222195-mistake.json) |
+| Mistake -1 | 222194 | [222194-mistake-1.json](./222194-mistake-1.json) |
 | Mistake of Pythagoras | 222416 | [222416-mistake-of-pythagoras.json](./222416-mistake-of-pythagoras.json) |
 | Mistake Souls | 75193 | [75193-mistake-souls.json](./75193-mistake-souls.json) |
 | Mistake: Source | 319451 | [319451-mistake-source.json](./319451-mistake-source.json) |
@@ -13334,6 +13346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT: NY Edition | 277895 | [277895-moto-rush-gt-ny-edition.json](./277895-moto-rush-gt-ny-edition.json) |
 | Moto Rush GT: Platinium Edition | 275048 | [275048-moto-rush-gt-platinium-edition.json](./275048-moto-rush-gt-platinium-edition.json) |
 | Moto Rush GT: Power Edition | 330202 | [330202-moto-rush-gt-power-edition.json](./330202-moto-rush-gt-power-edition.json) |
+| Moto Rush GT: Premium Edition | 221591 | [221591-moto-rush-gt-premium-edition.json](./221591-moto-rush-gt-premium-edition.json) |
 | Moto Rush GT: Prime Edition | 271503 | [271503-moto-rush-gt-prime-edition.json](./271503-moto-rush-gt-prime-edition.json) |
 | Moto Rush GT: Silver Edition | 254688 | [254688-moto-rush-gt-silver-edition.json](./254688-moto-rush-gt-silver-edition.json) |
 | Moto Rush GT: Ultimate Edition | 283138 | [283138-moto-rush-gt-ultimate-edition.json](./283138-moto-rush-gt-ultimate-edition.json) |
