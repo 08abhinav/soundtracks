@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacky Coursers | 389748 | [389748-wacky-coursers.json](./389748-wacky-coursers.json) |
 | Wacky Darts | 93352 | [93352-wacky-darts.json](./93352-wacky-darts.json) |
 | Wacky Escape | 276151 | [276151-wacky-escape.json](./276151-wacky-escape.json) |
+| Wacky Farm | 205957 | [205957-wacky-farm.json](./205957-wacky-farm.json) |
 | Wacky Jumpers | 288473 | [288473-wacky-jumpers.json](./288473-wacky-jumpers.json) |
 | Wacky Races | 12817 | [12817-wacky-races.json](./12817-wacky-races.json) |
 | Wacky Races | 205917 | [205917-wacky-races.json](./205917-wacky-races.json) |
