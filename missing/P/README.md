@@ -610,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pair Master | 347196 | [347196-pair-master.json](./347196-pair-master.json) |
 | Pair Matching Puzzle Connect | 163440 | [163440-pair-matching-puzzle-connect.json](./163440-pair-matching-puzzle-connect.json) |
 | Pair Matching Puzzle Connect: Expansion Pack 1 | 163450 | [163450-pair-matching-puzzle-connect-expansion-pack-1.json](./163450-pair-matching-puzzle-connect-expansion-pack-1.json) |
+| Pair Matching Puzzle Connect: Expansion Pack 10 | 227154 | [227154-pair-matching-puzzle-connect-expansion-pack-10.json](./227154-pair-matching-puzzle-connect-expansion-pack-10.json) |
 | Pair Matching Puzzle Connect: Expansion Pack 11 | 163443 | [163443-pair-matching-puzzle-connect-expansion-pack-11.json](./163443-pair-matching-puzzle-connect-expansion-pack-11.json) |
 | Pair Matching Puzzle Connect: Expansion Pack 12 | 163446 | [163446-pair-matching-puzzle-connect-expansion-pack-12.json](./163446-pair-matching-puzzle-connect-expansion-pack-12.json) |
 | Pair Matching Puzzle Connect: Expansion Pack 2 | 163442 | [163442-pair-matching-puzzle-connect-expansion-pack-2.json](./163442-pair-matching-puzzle-connect-expansion-pack-2.json) |
@@ -1287,6 +1288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperama | 83225 | [83225-paperama.json](./83225-paperama.json) |
 | Paperback Adventures | 220621 | [220621-paperback-adventures.json](./220621-paperback-adventures.json) |
 | Paperback Vol. 2 | 207271 | [207271-paperback-vol-2.json](./207271-paperback-vol-2.json) |
+| Paperball: Cherry Sky Pack | 227155 | [227155-paperball-cherry-sky-pack.json](./227155-paperball-cherry-sky-pack.json) |
 | Paperbound | 21849 | [21849-paperbound.json](./21849-paperbound.json) |
 | Paperbound Brawlers | 115753 | [115753-paperbound-brawlers.json](./115753-paperbound-brawlers.json) |
 | Paperboy | 19370 | [19370-paperboy.json](./19370-paperboy.json) |
@@ -10595,6 +10597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Bird 5 | 217812 | [217812-pretty-bird-5.json](./217812-pretty-bird-5.json) |
 | Pretty Bird 6 | 217813 | [217813-pretty-bird-6.json](./217813-pretty-bird-6.json) |
 | Pretty Bird 7 | 222799 | [222799-pretty-bird-7.json](./222799-pretty-bird-7.json) |
+| Pretty Bird 8 | 227114 | [227114-pretty-bird-8.json](./227114-pretty-bird-8.json) |
 | Pretty Bubble: Flappy Adventures | 253247 | [253247-pretty-bubble-flappy-adventures.json](./253247-pretty-bubble-flappy-adventures.json) |
 | Pretty Chaser | 269601 | [269601-pretty-chaser.json](./269601-pretty-chaser.json) |
 | Pretty Dinosaur Adventures of Ancient Earth VR | 234514 | [234514-pretty-dinosaur-adventures-of-ancient-earth-vr.json](./234514-pretty-dinosaur-adventures-of-ancient-earth-vr.json) |
