@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jackal | 25334 | [25334-jackal.json](./25334-jackal.json) |
 | Jackal Squad: Classic Shooting | 197704 | [197704-jackal-squad-classic-shooting.json](./197704-jackal-squad-classic-shooting.json) |
 | Jackal Squad: Pixel World War | 199978 | [199978-jackal-squad-pixel-world-war.json](./199978-jackal-squad-pixel-world-war.json) |
+| Jackalope | 216686 | [216686-jackalope.json](./216686-jackalope.json) |
 | Jackass: The Game | 2805 | [2805-jackass-the-game.json](./2805-jackass-the-game.json) |
 | Jackass: The Game DS | 79808 | [79808-jackass-the-game-ds.json](./79808-jackass-the-game-ds.json) |
 | Jacked | 124685 | [124685-jacked.json](./124685-jacked.json) |
@@ -1145,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Thief | 78923 | [78923-jewel-thief.json](./78923-jewel-thief.json) |
 | Jewel Time Deluxe | 110322 | [110322-jewel-time-deluxe.json](./110322-jewel-time-deluxe.json) |
 | Jewel Train | 230382 | [230382-jewel-train.json](./230382-jewel-train.json) |
+| Jewel Vampire Castle | 216115 | [216115-jewel-vampire-castle.json](./216115-jewel-vampire-castle.json) |
 | Jewel Venture | 40707 | [40707-jewel-venture.json](./40707-jewel-venture.json) |
 | Jewel Warehouse | 355233 | [355233-jewel-warehouse.json](./355233-jewel-warehouse.json) |
 | Jewel Wars | 146726 | [146726-jewel-wars.json](./146726-jewel-wars.json) |
