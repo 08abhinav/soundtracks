@@ -104,6 +104,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273c495bb6feb0f4d8d8e2d880b" width="60" /> | [Anthem](https://ostdb.net/games/anthem) | **Anthem (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6Dh6CBAsa6sDFKAeFfbGlU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a665d5d64c3b6abcc35c38fa" width="60" /> | [Antonblast](https://ostdb.net/games/antonblast) | **ANTONBLAST Original Soundtrack** · [Spotify](https://open.spotify.com/album/4x4PyTOPgMtIVjRyoxTSzj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731fe696d507b16dc64a5f1597" width="60" /> | [Apex Legends](https://ostdb.net/games/apex-legends) | **Apex Legends (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3hYzCtvSB0hmozcZZtBMDd)<br>**Apex Legends: Music from the Outlands, Vol. 1 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0rC4E8j8GjJzp94pcmHPIw) · [Apple Music](https://music.apple.com/us/album/apex-legends-music-from-the-outlands-vol-1-original/1564335054) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739f7531fc0c99dc21f0206b9c" width="60" /> | [Aphelion](https://ostdb.net/games/aphelion) | **Aphelion (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6gUHcjFXsRKs9CPPfVbVZd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739a985531a29913bfe34b07c8" width="60" /> | [Apotheon](https://ostdb.net/games/apotheon) | **Apotheon (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/05KZzNMhPR6jUPKDxrY8fz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273761a311920a2c0a1fc7c9815" width="60" /> | [Apsulov: End of Gods](https://ostdb.net/games/apsulov-end-of-gods) | **Apsulov: End of Gods (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6G0TOv2kzDFeb0oDMOwl3B) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273434c03e1ac265e34e0b219cb" width="60" /> | [Aragami](https://ostdb.net/games/aragami) | **Aragami (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/59EuNnwsJyfhGf6XQ5KS0Z) |
@@ -1965,4 +1966,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2282 soundtracks · last updated 2026-10-20T21:44:16.871Z_
+_2283 soundtracks · last updated 2026-10-20T21:45:38.276Z_
