@@ -10330,6 +10330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downhill Girl | 274918 | [274918-downhill-girl.json](./274918-downhill-girl.json) |
 | Downhill Jam | 181303 | [181303-downhill-jam.json](./181303-downhill-jam.json) |
 | Downhill Legend | 211240 | [211240-downhill-legend.json](./211240-downhill-legend.json) |
+| Downhill Pro Racer | 236155 | [236155-downhill-pro-racer.json](./236155-downhill-pro-racer.json) |
 | Downhill Republic | 193822 | [193822-downhill-republic.json](./193822-downhill-republic.json) |
 | Downhill Slalom | 66952 | [66952-downhill-slalom.json](./66952-downhill-slalom.json) |
 | Downhill Snow | 143643 | [143643-downhill-snow.json](./143643-downhill-snow.json) |
@@ -12719,6 +12720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dry School | 217791 | [217791-dry-school.json](./217791-dry-school.json) |
 | Dry Sorrow | 271783 | [271783-dry-sorrow.json](./271783-dry-sorrow.json) |
 | Drybreed | 180715 | [180715-drybreed.json](./180715-drybreed.json) |
+| Dryft City Kyngs | 236158 | [236158-dryft-city-kyngs.json](./236158-dryft-city-kyngs.json) |
 | Drying Paint Simulator VR | 129003 | [129003-drying-paint-simulator-vr.json](./129003-drying-paint-simulator-vr.json) |
 | Drylands | 256440 | [256440-drylands.json](./256440-drylands.json) |
 | Drymir Cave under Richmordnom | 108032 | [108032-drymir-cave-under-richmordnom.json](./108032-drymir-cave-under-richmordnom.json) |
