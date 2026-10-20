@@ -22587,6 +22587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Raccoon | 410864 | [410864-trash-raccoon.json](./410864-trash-raccoon.json) |
 | Trash Sailors | 122426 | [122426-trash-sailors.json](./122426-trash-sailors.json) |
 | Trash Squad | 81157 | [81157-trash-squad.json](./81157-trash-squad.json) |
+| Trash Taste: The Boys Order Pizza | 214957 | [214957-trash-taste-the-boys-order-pizza.json](./214957-trash-taste-the-boys-order-pizza.json) |
 | Trash the Planet | 144624 | [144624-trash-the-planet.json](./144624-trash-the-planet.json) |
 | Trash Time | 115155 | [115155-trash-time.json](./115155-trash-time.json) |
 | Trash Trek Simulator | 334556 | [334556-trash-trek-simulator.json](./334556-trash-trek-simulator.json) |
@@ -23196,6 +23197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Geometry | 233075 | [233075-tricky-geometry.json](./233075-tricky-geometry.json) |
 | Tricky Horse Jump Racing Game | 240924 | [240924-tricky-horse-jump-racing-game.json](./240924-tricky-horse-jump-racing-game.json) |
 | Tricky Keys | 144942 | [144942-tricky-keys.json](./144942-tricky-keys.json) |
+| Tricky Keys 2 | 214956 | [214956-tricky-keys-2.json](./214956-tricky-keys-2.json) |
 | Tricky Machines | 157160 | [157160-tricky-machines.json](./157160-tricky-machines.json) |
 | Tricky Monkey Zoo | 396228 | [396228-tricky-monkey-zoo.json](./396228-tricky-monkey-zoo.json) |
 | Tricky Questions | 233074 | [233074-tricky-questions.json](./233074-tricky-questions.json) |
