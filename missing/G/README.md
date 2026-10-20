@@ -1767,6 +1767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GayBlade | 137326 | [137326-gayblade.json](./137326-gayblade.json) |
 | Gaydorado | 87004 | [87004-gaydorado.json](./87004-gaydorado.json) |
 | Gaygarin In deep as's'pace | 109408 | [109408-gaygarin-in-deep-asspace.json](./109408-gaygarin-in-deep-asspace.json) |
+| Gaz | 211570 | [211570-gaz.json](./211570-gaz.json) |
 | Gaza SP | 279081 | [279081-gaza-sp.json](./279081-gaza-sp.json) |
 | Gazar | 373167 | [373167-gazar.json](./373167-gazar.json) |
 | Gaze At Maze | 101620 | [101620-gaze-at-maze.json](./101620-gaze-at-maze.json) |
@@ -8319,6 +8320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns of Midnight | 118362 | [118362-guns-of-midnight.json](./118362-guns-of-midnight.json) |
 | Guns of Survivor | 193829 | [193829-guns-of-survivor.json](./193829-guns-of-survivor.json) |
 | Guns on Wheels | 343618 | [343618-guns-on-wheels.json](./343618-guns-on-wheels.json) |
+| Guns Undarkness | 211618 | [211618-guns-undarkness.json](./211618-guns-undarkness.json) |
 | Guns Up! Mobile | 175705 | [175705-guns-up-mobile.json](./175705-guns-up-mobile.json) |
 | Guns, Blocks, and Steel | 326239 | [326239-guns-blocks-and-steel.json](./326239-guns-blocks-and-steel.json) |
 | Guns, Camera, Action! | 185481 | [185481-guns-camera-action.json](./185481-guns-camera-action.json) |
