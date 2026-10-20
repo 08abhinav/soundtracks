@@ -9797,6 +9797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rutrum | 406896 | [406896-rutrum.json](./406896-rutrum.json) |
 | Rutterkin | 416685 | [416685-rutterkin.json](./416685-rutterkin.json) |
 | Ruukoto the Robot | 392353 | [392353-ruukoto-the-robot.json](./392353-ruukoto-the-robot.json) |
+| Ruuuuuun | 211036 | [211036-ruuuuuun.json](./211036-ruuuuuun.json) |
 | Ruvato: Original Complex | 142187 | [142187-ruvato-original-complex.json](./142187-ruvato-original-complex.json) |
 | RUVN Contest Reboot | 292759 | [292759-ruvn-contest-reboot.json](./292759-ruvn-contest-reboot.json) |
 | Ruyn HD | 345565 | [345565-ruyn-hd.json](./345565-ruyn-hd.json) |
