@@ -1674,6 +1674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raven Tea | 371563 | [371563-raven-tea.json](./371563-raven-tea.json) |
 | Raven-Star | 350207 | [350207-raven-star.json](./350207-raven-star.json) |
 | Raven: Chapter 1 - The Commands of Eurybia | 74002 | [74002-raven-chapter-1-the-commands-of-eurybia.json](./74002-raven-chapter-1-the-commands-of-eurybia.json) |
+| Raven: The Rise | 224406 | [224406-raven-the-rise.json](./224406-raven-the-rise.json) |
 | Raven's Cry | 7686 | [7686-ravens-cry.json](./7686-ravens-cry.json) |
 | Raven's Daring Adventure | 311736 | [311736-ravens-daring-adventure.json](./311736-ravens-daring-adventure.json) |
 | Raven's Hike | 164982 | [164982-ravens-hike.json](./164982-ravens-hike.json) |
@@ -8025,6 +8026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms XIII: Scenario - The Wavering Han Dynasty & Event Set | 164498 | [164498-romance-of-the-three-kingdoms-xiii-scenario-the-wavering-han-dynasty-and-event-set.json](./164498-romance-of-the-three-kingdoms-xiii-scenario-the-wavering-han-dynasty-and-event-set.json) |
 | Romance of the Three Kingdoms XIII: Scenario for War Chronicles Mode - 5th Wave: The Battle for Yan Province | 164499 | [164499-romance-of-the-three-kingdoms-xiii-scenario-for-war-chronicles-mode-5th-wave-the-battle-for-yan-province.json](./164499-romance-of-the-three-kingdoms-xiii-scenario-for-war-chronicles-mode-5th-wave-the-battle-for-yan-province.json) |
 | Romance of the Three Kingdoms XIII: Sun Ce Pushing Forward Event Set | 164493 | [164493-romance-of-the-three-kingdoms-xiii-sun-ce-pushing-forward-event-set.json](./164493-romance-of-the-three-kingdoms-xiii-sun-ce-pushing-forward-event-set.json) |
+| Romance of the Three Kingdoms XIII: The Subjugation of Southern Jing Province Event Set | 224424 | [224424-romance-of-the-three-kingdoms-xiii-the-subjugation-of-southern-jing-province-event-set.json](./224424-romance-of-the-three-kingdoms-xiii-the-subjugation-of-southern-jing-province-event-set.json) |
 | Romance of the Three Kingdoms XIII: Zhuge Liang's Northern Campaign Event Set | 164502 | [164502-romance-of-the-three-kingdoms-xiii-zhuge-liangs-northern-campaign-event-set.json](./164502-romance-of-the-three-kingdoms-xiii-zhuge-liangs-northern-campaign-event-set.json) |
 | Romance of the Three Kingdoms XIV Complete Edition | 407202 | [407202-romance-of-the-three-kingdoms-xiv-complete-edition.json](./407202-romance-of-the-three-kingdoms-xiv-complete-edition.json) |
 | Romance of the Three Kingdoms XIV with Power Up Kit: Digital Deluxe Edition | 222265 | [222265-romance-of-the-three-kingdoms-xiv-with-power-up-kit-digital-deluxe-edition.json](./222265-romance-of-the-three-kingdoms-xiv-with-power-up-kit-digital-deluxe-edition.json) |
@@ -9344,6 +9346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune II: Berserker Rage Edition | 202216 | [202216-rune-ii-berserker-rage-edition.json](./202216-rune-ii-berserker-rage-edition.json) |
 | Rune II: Decapitation Edition | 139881 | [139881-rune-ii-decapitation-edition.json](./139881-rune-ii-decapitation-edition.json) |
 | Rune II: God Slayer Edition | 202215 | [202215-rune-ii-god-slayer-edition.json](./202215-rune-ii-god-slayer-edition.json) |
+| Rune II: Wolf Armor + Weapon Set | 224423 | [224423-rune-ii-wolf-armor-weapon-set.json](./224423-rune-ii-wolf-armor-weapon-set.json) |
 | Rune in the Three Kingdoms | 278674 | [278674-rune-in-the-three-kingdoms.json](./278674-rune-in-the-three-kingdoms.json) |
 | Rune Infinite | 195025 | [195025-rune-infinite.json](./195025-rune-infinite.json) |
 | Rune Jade | 77572 | [77572-rune-jade.json](./77572-rune-jade.json) |
