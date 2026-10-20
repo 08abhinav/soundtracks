@@ -1724,6 +1724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unicycle Giraffe | 318984 | [318984-unicycle-giraffe.json](./318984-unicycle-giraffe.json) |
 | Unicycle Hero | 87054 | [87054-unicycle-hero.json](./87054-unicycle-hero.json) |
 | Unicycle Journey | 415082 | [415082-unicycle-journey.json](./415082-unicycle-journey.json) |
+| Unicycle Legend | 244087 | [244087-unicycle-legend.json](./244087-unicycle-legend.json) |
 | Unicycle Pizza Time! | 314910 | [314910-unicycle-pizza-time.json](./314910-unicycle-pizza-time.json) |
 | Unicycle Together | 389403 | [389403-unicycle-together.json](./389403-unicycle-together.json) |
 | Unidentified | 112841 | [112841-unidentified.json](./112841-unidentified.json) |
