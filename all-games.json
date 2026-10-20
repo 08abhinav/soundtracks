@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:35:49.359Z",
-  "total_soundtracks": 2244,
+  "generated_at": "2026-10-20T21:35:59.916Z",
+  "total_soundtracks": 2245,
   "games": [
     {
       "igdb_id": 7522,
@@ -8198,6 +8198,20 @@
           "album_name": "Far Cry Primal (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1smWW6pjklXAe61hde9ql0",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 19575,
+      "game_name": "Farpoint",
+      "game_url": "https://ostdb.net/games/farpoint",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734950511148fa9446d9acb986",
+      "albums": [
+        {
+          "album_name": "Farpoint (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2ZSa59VpS7rQPCTL8kM9XV",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
