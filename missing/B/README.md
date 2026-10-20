@@ -11329,6 +11329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakfast Bar Tycoon: Definitive Edition | 333719 | [333719-breakfast-bar-tycoon-definitive-edition.json](./333719-breakfast-bar-tycoon-definitive-edition.json) |
 | Breakfast Bar Tycoon: Expansion Pack | 238017 | [238017-breakfast-bar-tycoon-expansion-pack.json](./238017-breakfast-bar-tycoon-expansion-pack.json) |
 | Breakfast Bar Tycoon: Expansion Pack 2 | 199829 | [199829-breakfast-bar-tycoon-expansion-pack-2.json](./199829-breakfast-bar-tycoon-expansion-pack-2.json) |
+| Breakfast Bar Tycoon: Premium Edition | 231220 | [231220-breakfast-bar-tycoon-premium-edition.json](./231220-breakfast-bar-tycoon-premium-edition.json) |
 | Breakfast Bar Tycoon: Super Edition | 315875 | [315875-breakfast-bar-tycoon-super-edition.json](./315875-breakfast-bar-tycoon-super-edition.json) |
 | Breakfast Bar Tycoon: Ultimate Edition | 298569 | [298569-breakfast-bar-tycoon-ultimate-edition.json](./298569-breakfast-bar-tycoon-ultimate-edition.json) |
 | Breakfast Bar Tycoon: Value Edition | 317916 | [317916-breakfast-bar-tycoon-value-edition.json](./317916-breakfast-bar-tycoon-value-edition.json) |
@@ -13164,6 +13165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Cats | 58574 | [58574-burger-cats.json](./58574-burger-cats.json) |
 | Burger Chase | 13826 | [13826-burger-chase.json](./13826-burger-chase.json) |
 | Burger Chef Tycoon | 122869 | [122869-burger-chef-tycoon.json](./122869-burger-chef-tycoon.json) |
+| Burger Chef Tycoon Extended Edition | 231221 | [231221-burger-chef-tycoon-extended-edition.json](./231221-burger-chef-tycoon-extended-edition.json) |
 | Burger Chef Tycoon: Co-op Edition | 250363 | [250363-burger-chef-tycoon-co-op-edition.json](./250363-burger-chef-tycoon-co-op-edition.json) |
 | Burger Chef Tycoon: Complete Edition | 199110 | [199110-burger-chef-tycoon-complete-edition.json](./199110-burger-chef-tycoon-complete-edition.json) |
 | Burger Chef Tycoon: Elite Edition | 332515 | [332515-burger-chef-tycoon-elite-edition.json](./332515-burger-chef-tycoon-elite-edition.json) |
