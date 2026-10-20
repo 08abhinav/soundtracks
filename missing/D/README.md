@@ -11018,7 +11018,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Chase | 113659 | [113659-dragon-chase.json](./113659-dragon-chase.json) |
 | Dragon Chase | 385406 | [385406-dragon-chase.json](./385406-dragon-chase.json) |
 | Dragon Chronicles: Black Tears | 290993 | [290993-dragon-chronicles-black-tears.json](./290993-dragon-chronicles-black-tears.json) |
-| Dragon City | 38877 | [38877-dragon-city.json](./38877-dragon-city.json) |
 | Dragon Clicker | 312170 | [312170-dragon-clicker.json](./312170-dragon-clicker.json) |
 | Dragon Coins | 63337 | [63337-dragon-coins.json](./63337-dragon-coins.json) |
 | Dragon Courier | 244681 | [244681-dragon-courier.json](./244681-dragon-courier.json) |
