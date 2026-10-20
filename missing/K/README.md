@@ -600,7 +600,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanzen Hanzai Mystery | 251622 | [251622-kanzen-hanzai-mystery.json](./251622-kanzen-hanzai-mystery.json) |
 | Kanzo | 236532 | [236532-kanzo.json](./236532-kanzo.json) |
 | Kao no nai Tsuki Select Story | 287639 | [287639-kao-no-nai-tsuki-select-story.json](./287639-kao-no-nai-tsuki-select-story.json) |
-| Kao the Kangaroo | 134528 | [134528-kao-the-kangaroo.json](./134528-kao-the-kangaroo.json) |
 | Kao the Kangaroo | 142453 | [142453-kao-the-kangaroo.json](./142453-kao-the-kangaroo.json) |
 | Kao The Kangaroo + Urban Trial Playground | 342415 | [342415-kao-the-kangaroo-urban-trial-playground.json](./342415-kao-the-kangaroo-urban-trial-playground.json) |
 | Kao the Kangaroo Trilogy | 143497 | [143497-kao-the-kangaroo-trilogy.json](./143497-kao-the-kangaroo-trilogy.json) |
@@ -819,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karuizawa Yuukai Annai | 79793 | [79793-karuizawa-yuukai-annai.json](./79793-karuizawa-yuukai-annai.json) |
 | Karumaruka Circle: Limited Edition | 167036 | [167036-karumaruka-circle-limited-edition.json](./167036-karumaruka-circle-limited-edition.json) |
 | Karumaruka Circle: Limited Edition | 339404 | [339404-karumaruka-circle-limited-edition.json](./339404-karumaruka-circle-limited-edition.json) |
+| Karumaruka Circle: Smartphone Version | 208222 | [208222-karumaruka-circle-smartphone-version.json](./208222-karumaruka-circle-smartphone-version.json) |
 | Karvan | 217187 | [217187-karvan.json](./217187-karvan.json) |
 | Kary | 286958 | [286958-kary.json](./286958-kary.json) |
 | Karyuu Jyou | 62982 | [62982-karyuu-jyou.json](./62982-karyuu-jyou.json) |
