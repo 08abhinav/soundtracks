@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.C.I.M.M.A.R.'s | 291976 | [291976-s-c-i-m-m-a-r-s.json](./291976-s-c-i-m-m-a-r-s.json) |
 | S.D.I. | 8666 | [8666-s-d-i.json](./8666-s-d-i.json) |
 | S.E.A. | 161383 | [161383-s-e-a.json](./161383-s-e-a.json) |
+| S.E.C.U. | 213208 | [213208-s-e-c-u.json](./213208-s-e-c-u.json) |
 | S.E.U.I.S. | 24886 | [24886-s-e-u-i-s.json](./24886-s-e-u-i-s.json) |
 | S.E.X. Retreat: WellCum In! | 278381 | [278381-s-e-x-retreat-wellcum-in.json](./278381-s-e-x-retreat-wellcum-in.json) |
 | S.F.77 | 104838 | [104838-s-f-77.json](./104838-s-f-77.json) |
@@ -1292,6 +1293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanguine | 260425 | [260425-sanguine.json](./260425-sanguine.json) |
 | Sanguine Holy Land | 299431 | [299431-sanguine-holy-land.json](./299431-sanguine-holy-land.json) |
 | Sanguine Melancholia | 138730 | [138730-sanguine-melancholia.json](./138730-sanguine-melancholia.json) |
+| Sanguine Rose | 213261 | [213261-sanguine-rose.json](./213261-sanguine-rose.json) |
 | Sanguivore: Twenty Below | 266271 | [266271-sanguivore-twenty-below.json](./266271-sanguivore-twenty-below.json) |
 | Sanguo | 113003 | [113003-sanguo.json](./113003-sanguo.json) |
 | Sanguo Doki | 208092 | [208092-sanguo-doki.json](./208092-sanguo-doki.json) |
@@ -7824,6 +7826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silency: Cube 666 | 410202 | [410202-silency-cube-666.json](./410202-silency-cube-666.json) |
 | SilenGames Bundle 2024 | 331517 | [331517-silengames-bundle-2024.json](./331517-silengames-bundle-2024.json) |
 | Silent | 298086 | [298086-silent.json](./298086-silent.json) |
+| Silent Abyss: Fate of Heroes | 213217 | [213217-silent-abyss-fate-of-heroes.json](./213217-silent-abyss-fate-of-heroes.json) |
 | Silent Anomalies | 337071 | [337071-silent-anomalies.json](./337071-silent-anomalies.json) |
 | Silent Apartment | 245369 | [245369-silent-apartment.json](./245369-silent-apartment.json) |
 | Silent Authority: Blood & Bourbon | 415876 | [415876-silent-authority-blood-and-bourbon.json](./415876-silent-authority-blood-and-bourbon.json) |
@@ -13029,6 +13032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Encore | 265070 | [265070-sonic-encore.json](./265070-sonic-encore.json) |
 | Sonic Endless Adventure | 316343 | [316343-sonic-endless-adventure.json](./316343-sonic-endless-adventure.json) |
 | Sonic Epoch | 330789 | [330789-sonic-epoch.json](./330789-sonic-epoch.json) |
+| Sonic Epoch Advance | 213239 | [213239-sonic-epoch-advance.json](./213239-sonic-epoch-advance.json) |
 | Sonic Epsilon | 332553 | [332553-sonic-epsilon.json](./332553-sonic-epsilon.json) |
 | Sonic ERaZor | 198564 | [198564-sonic-erazor.json](./198564-sonic-erazor.json) |
 | Sonic Escape | 370218 | [370218-sonic-escape.json](./370218-sonic-escape.json) |
@@ -13630,6 +13634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sono Hanabira ni Kuchizuke wo: Tenshi no Hanabira Zome | 12219 | [12219-sono-hanabira-ni-kuchizuke-wo-tenshi-no-hanabira-zome.json](./12219-sono-hanabira-ni-kuchizuke-wo-tenshi-no-hanabira-zome.json) |
 | Sono Hanabira ni Kuchizuke wo: Tenshi-tachi no Harukoi | 12272 | [12272-sono-hanabira-ni-kuchizuke-wo-tenshi-tachi-no-harukoi.json](./12272-sono-hanabira-ni-kuchizuke-wo-tenshi-tachi-no-harukoi.json) |
 | Sono Hanabira: YuriCycle | 251697 | [251697-sono-hanabira-yuricycle.json](./251697-sono-hanabira-yuricycle.json) |
+| Sono Higurashi vs. Touhou Universe 2 | 213210 | [213210-sono-higurashi-vs-touhou-universe-2.json](./213210-sono-higurashi-vs-touhou-universe-2.json) |
 | Sono Kaori de Mitasaretai: #7b5544 no Koi wo Shita Watashi no Hajimete wo Master ni Agetai | 412315 | [412315-sono-kaori-de-mitasaretai-7b5544-no-koi-wo-shita-watashi-no-hajimete-wo-master-ni-agetai.json](./412315-sono-kaori-de-mitasaretai-7b5544-no-koi-wo-shita-watashi-no-hajimete-wo-master-ni-agetai.json) |
 | Sonoklo | 408212 | [408212-sonoklo.json](./408212-sonoklo.json) |
 | Sonokuni | 208633 | [208633-sonokuni.json](./208633-sonokuni.json) |
@@ -14609,6 +14614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Flowers | 93761 | [93761-space-flowers.json](./93761-space-flowers.json) |
 | Space Food Truck | 34588 | [34588-space-food-truck.json](./34588-space-food-truck.json) |
 | Space Football: One on One | 42458 | [42458-space-football-one-on-one.json](./42458-space-football-one-on-one.json) |
+| Space for Sale | 213238 | [213238-space-for-sale.json](./213238-space-for-sale.json) |
 | Space Force | 336915 | [336915-space-force.json](./336915-space-force.json) |
 | Space Force | 346136 | [346136-space-force.json](./346136-space-force.json) |
 | Space Force | 346137 | [346137-space-force.json](./346137-space-force.json) |
@@ -14939,6 +14945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Quest I: Roger Wilco in the Sarien Encounter | 77194 | [77194-space-quest-i-roger-wilco-in-the-sarien-encounter.json](./77194-space-quest-i-roger-wilco-in-the-sarien-encounter.json) |
 | Space Quest II: Roger Wilco in Vohaul's Revenge | 84150 | [84150-space-quest-ii-roger-wilco-in-vohauls-revenge.json](./84150-space-quest-ii-roger-wilco-in-vohauls-revenge.json) |
 | Space Quest III: The Pirates Of Pestulon | 30 | [30-space-quest-iii-the-pirates-of-pestulon.json](./30-space-quest-iii-the-pirates-of-pestulon.json) |
+| Space Quest: Collector's Edition | 213260 | [213260-space-quest-collectors-edition.json](./213260-space-quest-collectors-edition.json) |
 | Space Quest: Incinerations | 265067 | [265067-space-quest-incinerations.json](./265067-space-quest-incinerations.json) |
 | Space Quest: The Lost Chapter | 349896 | [349896-space-quest-the-lost-chapter.json](./349896-space-quest-the-lost-chapter.json) |
 | Space Quiz | 74456 | [74456-space-quiz.json](./74456-space-quiz.json) |
