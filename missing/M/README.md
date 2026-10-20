@@ -1824,6 +1824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makaimura | 393958 | [393958-makaimura.json](./393958-makaimura.json) |
 | Makaimura Gaiden: The Demon Darkness | 84640 | [84640-makaimura-gaiden-the-demon-darkness.json](./84640-makaimura-gaiden-the-demon-darkness.json) |
 | Makaimura Online | 63297 | [63297-makaimura-online.json](./63297-makaimura-online.json) |
+| Makato: Your Fantasy Shop | 240629 | [240629-makato-your-fantasy-shop.json](./240629-makato-your-fantasy-shop.json) |
 | Makber | 165419 | [165419-makber.json](./165419-makber.json) |
 | Make a Cake | 266136 | [266136-make-a-cake.json](./266136-make-a-cake.json) |
 | Make a Friend | 201828 | [201828-make-a-friend.json](./201828-make-a-friend.json) |
@@ -8297,6 +8298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Heaven | 244728 | [244728-midnight-heaven.json](./244728-midnight-heaven.json) |
 | Midnight Heist | 184953 | [184953-midnight-heist.json](./184953-midnight-heist.json) |
 | Midnight Heist | 254432 | [254432-midnight-heist.json](./254432-midnight-heist.json) |
+| Midnight Horde | 240657 | [240657-midnight-horde.json](./240657-midnight-horde.json) |
 | Midnight Horror School | 292834 | [292834-midnight-horror-school.json](./292834-midnight-horror-school.json) |
 | Midnight Hunter | 101748 | [101748-midnight-hunter.json](./101748-midnight-hunter.json) |
 | Midnight Idle | 409565 | [409565-midnight-idle.json](./409565-midnight-idle.json) |
@@ -11591,6 +11593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Bargain | 283403 | [283403-monster-bargain.json](./283403-monster-bargain.json) |
 | Monster Bark | 264131 | [264131-monster-bark.json](./264131-monster-bark.json) |
 | Monster Bash | 18059 | [18059-monster-bash.json](./18059-monster-bash.json) |
+| Monster Battle | 240661 | [240661-monster-battle.json](./240661-monster-battle.json) |
 | Monster Battle | 302368 | [302368-monster-battle.json](./302368-monster-battle.json) |
 | Monster Battles | 343864 | [343864-monster-battles.json](./343864-monster-battles.json) |
 | Monster Blast | 146780 | [146780-monster-blast.json](./146780-monster-blast.json) |
@@ -13097,6 +13100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother 4 | 186042 | [186042-mother-4.json](./186042-mother-4.json) |
 | Mother 4 | 300351 | [300351-mother-4.json](./300351-mother-4.json) |
 | Mother Christmas | 394818 | [394818-mother-christmas.json](./394818-mother-christmas.json) |
+| Mother Dear | 240655 | [240655-mother-dear.json](./240655-mother-dear.json) |
 | Mother Fucker Galaxy | 254523 | [254523-mother-fucker-galaxy.json](./254523-mother-fucker-galaxy.json) |
 | Mother Goose no Himitsu no Yakata | 218962 | [218962-mother-goose-no-himitsu-no-yakata.json](./218962-mother-goose-no-himitsu-no-yakata.json) |
 | Mother Goose no Himitsu no Yakata: Blue Label | 218963 | [218963-mother-goose-no-himitsu-no-yakata-blue-label.json](./218963-mother-goose-no-himitsu-no-yakata-blue-label.json) |
