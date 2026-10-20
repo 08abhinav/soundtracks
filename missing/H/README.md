@@ -4388,6 +4388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Great Wars | 252131 | [252131-hero-great-wars.json](./252131-hero-great-wars.json) |
 | Hero Hawk | 195042 | [195042-hero-hawk.json](./195042-hero-hawk.json) |
 | Hero Hellspawn: Learn Arithmetic | 384284 | [384284-hero-hellspawn-learn-arithmetic.json](./384284-hero-hellspawn-learn-arithmetic.json) |
+| Hero Hours Contract 2: A Factory for Magical Girls | 211591 | [211591-hero-hours-contract-2-a-factory-for-magical-girls.json](./211591-hero-hours-contract-2-a-factory-for-magical-girls.json) |
 | Hero Hunters: Jurassic Shooting Sniper | 104069 | [104069-hero-hunters-jurassic-shooting-sniper.json](./104069-hero-hunters-jurassic-shooting-sniper.json) |
 | Hero in an All-forgiving Fantasy World RPG | 357423 | [357423-hero-in-an-all-forgiving-fantasy-world-rpg.json](./357423-hero-in-an-all-forgiving-fantasy-world-rpg.json) |
 | Hero in the Castle of Doom | 40173 | [40173-hero-in-the-castle-of-doom.json](./40173-hero-in-the-castle-of-doom.json) |
