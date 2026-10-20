@@ -4126,6 +4126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kou Dai Guai Shou II | 280685 | [280685-kou-dai-guai-shou-ii.json](./280685-kou-dai-guai-shou-ii.json) |
 | Kou Dai Guai Shou III | 280687 | [280687-kou-dai-guai-shou-iii.json](./280687-kou-dai-guai-shou-iii.json) |
 | Kou-Kyou-Sei Million Arthur | 125771 | [125771-kou-kyou-sei-million-arthur.json](./125771-kou-kyou-sei-million-arthur.json) |
+| Kouashi Kikou Shidan: Bein Panzer | 242409 | [242409-kouashi-kikou-shidan-bein-panzer.json](./242409-kouashi-kikou-shidan-bein-panzer.json) |
 | Kouchuu Kakutou: Mushi 1 Grand Prix | 122898 | [122898-kouchuu-kakutou-mushi-1-grand-prix.json](./122898-kouchuu-kakutou-mushi-1-grand-prix.json) |
 | Kouchuu Ouja Mushi King: Greatest Champion he no Michi DS | 72549 | [72549-kouchuu-ouja-mushi-king-greatest-champion-he-no-michi-ds.json](./72549-kouchuu-ouja-mushi-king-greatest-champion-he-no-michi-ds.json) |
 | Kouchuu Ouja Mushiking: Mori no Tami no Densetsu - Minna de Tanken! Kouchuu no Mori | 123621 | [123621-kouchuu-ouja-mushiking-mori-no-tami-no-densetsu-minna-de-tanken-kouchuu-no-mori.json](./123621-kouchuu-ouja-mushiking-mori-no-tami-no-densetsu-minna-de-tanken-kouchuu-no-mori.json) |
