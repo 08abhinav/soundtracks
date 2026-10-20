@@ -538,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odoya | 294958 | [294958-odoya.json](./294958-odoya.json) |
 | Ody Mos | 201497 | [201497-ody-mos.json](./201497-ody-mos.json) |
 | Odyssee Die | 356843 | [356843-odyssee-die.json](./356843-odyssee-die.json) |
+| Odyssée Numérique | 242946 | [242946-odyssee-numerique.json](./242946-odyssee-numerique.json) |
 | Odysseus Kosmos and his Robot Quest | 65838 | [65838-odysseus-kosmos-and-his-robot-quest.json](./65838-odysseus-kosmos-and-his-robot-quest.json) |
 | Odysseus Kosmos and his Robot Quest: Episode 1 | 81812 | [81812-odysseus-kosmos-and-his-robot-quest-episode-1.json](./81812-odysseus-kosmos-and-his-robot-quest-episode-1.json) |
 | Odysseus Kosmos and his Robot Quest: Episode 2 | 171339 | [171339-odysseus-kosmos-and-his-robot-quest-episode-2.json](./171339-odysseus-kosmos-and-his-robot-quest-episode-2.json) |
@@ -3253,6 +3254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orzmic | 174689 | [174689-orzmic.json](./174689-orzmic.json) |
 | Os Cavaleiros do Zodíaco: A Guerra Galáctica | 278870 | [278870-os-cavaleiros-do-zodiaco-a-guerra-galactica.json](./278870-os-cavaleiros-do-zodiaco-a-guerra-galactica.json) |
 | Os Cavaleiros do Zodíaco: A Lenda do Santuário - Cosmo Cards | 282131 | [282131-os-cavaleiros-do-zodiaco-a-lenda-do-santuario-cosmo-cards.json](./282131-os-cavaleiros-do-zodiaco-a-lenda-do-santuario-cosmo-cards.json) |
+| Os Encolhidos | 242921 | [242921-os-encolhidos.json](./242921-os-encolhidos.json) |
 | Os Invasores do Futuro | 300447 | [300447-os-invasores-do-futuro.json](./300447-os-invasores-do-futuro.json) |
 | Os Invasores do Futuro 2 | 300448 | [300448-os-invasores-do-futuro-2.json](./300448-os-invasores-do-futuro-2.json) |
 | Os Trapalhões apresentam Didi na Mina Encantada! | 262416 | [262416-os-trapalhoes-apresentam-didi-na-mina-encantada.json](./262416-os-trapalhoes-apresentam-didi-na-mina-encantada.json) |
