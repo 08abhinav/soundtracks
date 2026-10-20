@@ -940,6 +940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanayaka Nari, Waga Ichizoku Kinema Mosaic | 224447 | [224447-hanayaka-nari-waga-ichizoku-kinema-mosaic.json](./224447-hanayaka-nari-waga-ichizoku-kinema-mosaic.json) |
 | Hanayaka Nari, Waga Ichizoku Modern Nostalgie | 136796 | [136796-hanayaka-nari-waga-ichizoku-modern-nostalgie.json](./136796-hanayaka-nari-waga-ichizoku-modern-nostalgie.json) |
 | Hanayaka Nari, Waga Ichizoku Tasogare Polar Star | 224448 | [224448-hanayaka-nari-waga-ichizoku-tasogare-polar-star.json](./224448-hanayaka-nari-waga-ichizoku-tasogare-polar-star.json) |
+| Hanayoi Romanesque: Ai to Kanashimi - Sore ha Kimi no Tame no Aria | 221609 | [221609-hanayoi-romanesque-ai-to-kanashimi-sore-ha-kimi-no-tame-no-aria.json](./221609-hanayoi-romanesque-ai-to-kanashimi-sore-ha-kimi-no-tame-no-aria.json) |
 | Hanayome: The Sacrificial Bride | 284611 | [284611-hanayome-the-sacrificial-bride.json](./284611-hanayome-the-sacrificial-bride.json) |
 | Hanazakari no Kimitachi e: Boys love you | 238908 | [238908-hanazakari-no-kimitachi-e-boys-love-you.json](./238908-hanazakari-no-kimitachi-e-boys-love-you.json) |
 | Hancho | 121330 | [121330-hancho.json](./121330-hancho.json) |
@@ -6100,6 +6101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiragana Katakana Ninja | 372185 | [372185-hiragana-katakana-ninja.json](./372185-hiragana-katakana-ninja.json) |
 | Hiragana Word Challenge | 418325 | [418325-hiragana-word-challenge.json](./418325-hiragana-word-challenge.json) |
 | Hirai Nya | 333507 | [333507-hirai-nya.json](./333507-hirai-nya.json) |
+| Hirameki Puzzle Tetogram | 222178 | [222178-hirameki-puzzle-tetogram.json](./222178-hirameki-puzzle-tetogram.json) |
 | Hirata Shougo Interactive Ehon: Aesop Monogatari Vol. 1 | 245530 | [245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json](./245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json) |
 | Hirdrih Technologic | 404974 | [404974-hirdrih-technologic.json](./404974-hirdrih-technologic.json) |
 | Hire Me! | 285521 | [285521-hire-me.json](./285521-hire-me.json) |
@@ -7754,6 +7756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshi & Ishi | 76673 | [76673-hoshi-and-ishi.json](./76673-hoshi-and-ishi.json) |
 | Hoshi de Hakken!! Tamagotchi | 77630 | [77630-hoshi-de-hakken-tamagotchi.json](./77630-hoshi-de-hakken-tamagotchi.json) |
 | Hoshi no Furu Oka | 316951 | [316951-hoshi-no-furu-oka.json](./316951-hoshi-no-furu-oka.json) |
+| Hoshi no Furu Toki | 221608 | [221608-hoshi-no-furu-toki.json](./221608-hoshi-no-furu-toki.json) |
 | Hoshi no Kakera no Monogatari. Shikake-ban | 220328 | [220328-hoshi-no-kakera-no-monogatari-shikake-ban.json](./220328-hoshi-no-kakera-no-monogatari-shikake-ban.json) |
 | Hoshi no Kakera Satsuji-jiken | 266163 | [266163-hoshi-no-kakera-satsuji-jiken.json](./266163-hoshi-no-kakera-satsuji-jiken.json) |
 | Hoshi no Mahoroba | 204481 | [204481-hoshi-no-mahoroba.json](./204481-hoshi-no-mahoroba.json) |
