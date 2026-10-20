@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T20:51:31.308Z",
-  "total_missing": 239407,
+  "generated_at": "2026-10-20T21:11:44.884Z",
+  "total_missing": 239390,
   "games": [
     {
       "igdb_id": 191680,
@@ -23935,11 +23935,6 @@
       "igdb_id": 47222,
       "game_name": "Ad Infinitum",
       "file": "missing/A/47222-ad-infinitum.json"
-    },
-    {
-      "igdb_id": 77338,
-      "game_name": "Ad Infinitum",
-      "file": "missing/A/77338-ad-infinitum.json"
     },
     {
       "igdb_id": 336136,
@@ -60480,11 +60475,6 @@
       "igdb_id": 303342,
       "game_name": "Arcade Space Survivor",
       "file": "missing/A/303342-arcade-space-survivor.json"
-    },
-    {
-      "igdb_id": 106986,
-      "game_name": "Arcade Spirits",
-      "file": "missing/A/106986-arcade-spirits.json"
     },
     {
       "igdb_id": 145278,
@@ -106017,11 +106007,6 @@
       "file": "missing/B/245981-bendo.json"
     },
     {
-      "igdb_id": 120163,
-      "game_name": "Bendy and the Dark Revival",
-      "file": "missing/B/120163-bendy-and-the-dark-revival.json"
-    },
-    {
       "igdb_id": 281029,
       "game_name": "Bendy and the Ink Machine: Chapter Five",
       "file": "missing/B/281029-bendy-and-the-ink-machine-chapter-five.json"
@@ -136257,6 +136242,11 @@
       "file": "missing/B/230684-brain-switch.json"
     },
     {
+      "igdb_id": 208224,
+      "game_name": "Brain Syndrome VR",
+      "file": "missing/B/208224-brain-syndrome-vr.json"
+    },
+    {
       "igdb_id": 231073,
       "game_name": "Brain Teaser Bundle",
       "file": "missing/B/231073-brain-teaser-bundle.json"
@@ -141655,11 +141645,6 @@
       "igdb_id": 372099,
       "game_name": "Broken Race",
       "file": "missing/B/372099-broken-race.json"
-    },
-    {
-      "igdb_id": 162520,
-      "game_name": "Broken Ranks",
-      "file": "missing/B/162520-broken-ranks.json"
     },
     {
       "igdb_id": 226272,
@@ -251152,11 +251137,6 @@
       "file": "missing/D/265571-degraman-act-ii-victor.json"
     },
     {
-      "igdb_id": 110503,
-      "game_name": "Degrees of Separation",
-      "file": "missing/D/110503-degrees-of-separation.json"
-    },
-    {
       "igdb_id": 282007,
       "game_name": "Degu Squad",
       "file": "missing/D/282007-degu-squad.json"
@@ -351997,11 +351977,6 @@
       "file": "missing/F/323153-final-fantasy-i-ii-premium-package.json"
     },
     {
-      "igdb_id": 145817,
-      "game_name": "Final Fantasy II",
-      "file": "missing/F/145817-final-fantasy-ii.json"
-    },
-    {
       "igdb_id": 271819,
       "game_name": "Final Fantasy II",
       "file": "missing/F/271819-final-fantasy-ii.json"
@@ -366270,11 +366245,6 @@
       "igdb_id": 97346,
       "game_name": "Flynn & Freckles",
       "file": "missing/F/97346-flynn-and-freckles.json"
-    },
-    {
-      "igdb_id": 71595,
-      "game_name": "Flynn: Son of Crimson",
-      "file": "missing/F/71595-flynn-son-of-crimson.json"
     },
     {
       "igdb_id": 406173,
@@ -425272,11 +425242,6 @@
       "file": "missing/G/293924-guild-wars-2-elder-dragon-saga-complete-collection.json"
     },
     {
-      "igdb_id": 159254,
-      "game_name": "Guild Wars 2: End of Dragons",
-      "file": "missing/G/159254-guild-wars-2-end-of-dragons.json"
-    },
-    {
       "igdb_id": 161181,
       "game_name": "Guild Wars 2: End of Dragons - Deluxe Edition",
       "file": "missing/G/161181-guild-wars-2-end-of-dragons-deluxe-edition.json"
@@ -436890,11 +436855,6 @@
       "igdb_id": 132627,
       "game_name": "Hard Vacuum",
       "file": "missing/H/132627-hard-vacuum.json"
-    },
-    {
-      "igdb_id": 116014,
-      "game_name": "Hard West 2",
-      "file": "missing/H/116014-hard-west-2.json"
     },
     {
       "igdb_id": 51822,
@@ -502630,11 +502590,6 @@
       "igdb_id": 31614,
       "game_name": "Isomorph",
       "file": "missing/I/31614-isomorph.json"
-    },
-    {
-      "igdb_id": 158603,
-      "game_name": "Isonzo",
-      "file": "missing/I/158603-isonzo.json"
     },
     {
       "igdb_id": 218548,
@@ -629380,11 +629335,6 @@
       "igdb_id": 164776,
       "game_name": "Minecraft Dungeons: Ultimate Edition",
       "file": "missing/M/164776-minecraft-dungeons-ultimate-edition.json"
-    },
-    {
-      "igdb_id": 118711,
-      "game_name": "Minecraft Earth",
-      "file": "missing/M/118711-minecraft-earth.json"
     },
     {
       "igdb_id": 28407,
@@ -896912,11 +896862,6 @@
       "file": "missing/S/358437-slipstream.json"
     },
     {
-      "igdb_id": 75096,
-      "game_name": "Slipstream",
-      "file": "missing/S/75096-slipstream.json"
-    },
-    {
       "igdb_id": 132698,
       "game_name": "Sliptime Sleuth",
       "file": "missing/S/132698-sliptime-sleuth.json"
@@ -932277,11 +932222,6 @@
       "file": "missing/S/368503-squad-22-zov.json"
     },
     {
-      "igdb_id": 81141,
-      "game_name": "Squad 44",
-      "file": "missing/S/81141-squad-44.json"
-    },
-    {
       "igdb_id": 143161,
       "game_name": "Squad 51 vs. the Flying Saucers",
       "file": "missing/S/143161-squad-51-vs-the-flying-saucers.json"
@@ -950977,11 +950917,6 @@
       "file": "missing/S/332661-street-fighter-v-capcom-pro-tour-2022-premier-pass.json"
     },
     {
-      "igdb_id": 126095,
-      "game_name": "Street Fighter V: Champion Edition",
-      "file": "missing/S/126095-street-fighter-v-champion-edition.json"
-    },
-    {
       "igdb_id": 201034,
       "game_name": "Street Fighter V: Champion Edition - All Character Pack",
       "file": "missing/S/201034-street-fighter-v-champion-edition-all-character-pack.json"
@@ -955230,11 +955165,6 @@
       "igdb_id": 367057,
       "game_name": "SuccuBoss",
       "file": "missing/S/367057-succuboss.json"
-    },
-    {
-      "igdb_id": 114156,
-      "game_name": "Succubus",
-      "file": "missing/S/114156-succubus.json"
     },
     {
       "igdb_id": 278897,
@@ -1024460,11 +1024390,6 @@
       "igdb_id": 19081,
       "game_name": "The Jackbox Party Pack 2",
       "file": "missing/T/19081-the-jackbox-party-pack-2.json"
-    },
-    {
-      "igdb_id": 144783,
-      "game_name": "The Jackbox Party Pack 8",
-      "file": "missing/T/144783-the-jackbox-party-pack-8.json"
     },
     {
       "igdb_id": 198560,
@@ -1113327,11 +1113252,6 @@
       "file": "missing/U/37154-ums-the-universal-military-simulator.json"
     },
     {
-      "igdb_id": 131631,
-      "game_name": "Umurangi Generation",
-      "file": "missing/U/131631-umurangi-generation.json"
-    },
-    {
       "igdb_id": 81390,
       "game_name": "Un juego de huevos",
       "file": "missing/U/81390-un-juego-de-huevos.json"
@@ -1147750,11 +1147670,6 @@
       "igdb_id": 103379,
       "game_name": "Watch Dogs: DEDSEC Edition",
       "file": "missing/W/103379-watch-dogs-dedsec-edition.json"
-    },
-    {
-      "igdb_id": 139395,
-      "game_name": "Watch Dogs: Legion - Bloodline",
-      "file": "missing/W/139395-watch-dogs-legion-bloodline.json"
     },
     {
       "igdb_id": 119575,
