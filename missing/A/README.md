@@ -2991,6 +2991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Affiliated Homies | 357796 | [357796-affiliated-homies.json](./357796-affiliated-homies.json) |
 | Affinity | 122063 | [122063-affinity.json](./122063-affinity.json) |
 | Affinity | 144199 | [144199-affinity.json](./144199-affinity.json) |
+| Affinity Sorrow | 227707 | [227707-affinity-sorrow.json](./227707-affinity-sorrow.json) |
 | Affinity: Fallen from Paradise | 211262 | [211262-affinity-fallen-from-paradise.json](./211262-affinity-fallen-from-paradise.json) |
 | Afflicted | 261188 | [261188-afflicted.json](./261188-afflicted.json) |
 | Affliction | 221921 | [221921-affliction.json](./221921-affliction.json) |
@@ -4354,6 +4355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akyrikon VR | 158204 | [158204-akyrikon-vr.json](./158204-akyrikon-vr.json) |
 | Al Andalus 711 | 213273 | [213273-al-andalus-711.json](./213273-al-andalus-711.json) |
 | Al Capone | 421189 | [421189-al-capone.json](./421189-al-capone.json) |
+| Al Crepuscolo VR | 227677 | [227677-al-crepuscolo-vr.json](./227677-al-crepuscolo-vr.json) |
 | Al Gurbish in... Nick it & Run!!! | 316060 | [316060-al-gurbish-in-nick-it-and-run.json](./316060-al-gurbish-in-nick-it-and-run.json) |
 | Al Qaeda Hunting 3D | 370846 | [370846-al-qaeda-hunting-3d.json](./370846-al-qaeda-hunting-3d.json) |
 | Al Qmrah Restaurant | 213975 | [213975-al-qmrah-restaurant.json](./213975-al-qmrah-restaurant.json) |
@@ -5049,6 +5051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Virus | 147371 | [147371-alien-virus.json](./147371-alien-virus.json) |
 | Alien vs Predator | 8477 | [8477-alien-vs-predator.json](./8477-alien-vs-predator.json) |
 | Alien vs Predator: The Last of His Clan | 48965 | [48965-alien-vs-predator-the-last-of-his-clan.json](./48965-alien-vs-predator-the-last-of-his-clan.json) |
+| Alien vs. Predator | 227688 | [227688-alien-vs-predator.json](./227688-alien-vs-predator.json) |
 | Alien Wall | 169152 | [169152-alien-wall.json](./169152-alien-wall.json) |
 | Alien War Girl | 111072 | [111072-alien-war-girl.json](./111072-alien-war-girl.json) |
 | Alien Wars | 241241 | [241241-alien-wars.json](./241241-alien-wars.json) |
@@ -8590,6 +8593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apotheosis | 211437 | [211437-apotheosis.json](./211437-apotheosis.json) |
 | Apotheosis Engine | 399701 | [399701-apotheosis-engine.json](./399701-apotheosis-engine.json) |
 | Apotheosis X | 252089 | [252089-apotheosis-x.json](./252089-apotheosis-x.json) |
+| Apotris | 227679 | [227679-apotris.json](./227679-apotris.json) |
 | Apox | 9981 | [9981-apox.json](./9981-apox.json) |
 | Apox: Legend | 167853 | [167853-apox-legend.json](./167853-apox-legend.json) |
 | ApoZomb | 224704 | [224704-apozomb.json](./224704-apozomb.json) |
@@ -9089,6 +9093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Galactic Warriors | 378778 | [378778-arcade-archives-galactic-warriors.json](./378778-arcade-archives-galactic-warriors.json) |
 | Arcade Archives: Galaga | 230364 | [230364-arcade-archives-galaga.json](./230364-arcade-archives-galaga.json) |
 | Arcade Archives: Galaga '88 | 247421 | [247421-arcade-archives-galaga-88.json](./247421-arcade-archives-galaga-88.json) |
+| Arcade Archives: Galaxian | 227697 | [227697-arcade-archives-galaxian.json](./227697-arcade-archives-galaxian.json) |
 | Arcade Archives: Gangbusters | 340530 | [340530-arcade-archives-gangbusters.json](./340530-arcade-archives-gangbusters.json) |
 | Arcade Archives: Gee Bee | 371413 | [371413-arcade-archives-gee-bee.json](./371413-arcade-archives-gee-bee.json) |
 | Arcade Archives: Gemini Wing | 146343 | [146343-arcade-archives-gemini-wing.json](./146343-arcade-archives-gemini-wing.json) |
@@ -13254,6 +13259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awake: Definitive Edition | 113787 | [113787-awake-definitive-edition.json](./113787-awake-definitive-edition.json) |
 | AwakeMUD | 228698 | [228698-awakemud.json](./228698-awakemud.json) |
 | Awaken | 183954 | [183954-awaken.json](./183954-awaken.json) |
+| Awaken | 227693 | [227693-awaken.json](./227693-awaken.json) |
 | Awaken | 27276 | [27276-awaken.json](./27276-awaken.json) |
 | Awaken in Fear | 414439 | [414439-awaken-in-fear.json](./414439-awaken-in-fear.json) |
 | Awaken Infinity | 319841 | [319841-awaken-infinity.json](./319841-awaken-infinity.json) |
