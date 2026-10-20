@@ -1414,6 +1414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parabolus | 82317 | [82317-parabolus.json](./82317-parabolus.json) |
 | Parabox | 240113 | [240113-parabox.json](./240113-parabox.json) |
 | Paracelsus no Maken | 112517 | [112517-paracelsus-no-maken.json](./112517-paracelsus-no-maken.json) |
+| Parachute | 231725 | [231725-parachute.json](./231725-parachute.json) |
 | Parachute | 40678 | [40678-parachute.json](./40678-parachute.json) |
 | Parachute 22 | 205098 | [205098-parachute-22.json](./205098-parachute-22.json) |
 | Parachute Ninja | 232671 | [232671-parachute-ninja.json](./232671-parachute-ninja.json) |
