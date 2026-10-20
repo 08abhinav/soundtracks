@@ -12898,6 +12898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Storyteller | 342841 | [342841-the-storyteller.json](./342841-the-storyteller.json) |
 | The StoryTeller | 324670 | [324670-the-storyteller.json](./324670-the-storyteller.json) |
 | The Strange and Somewhat Sinister Tale of the House at Desert Bridge | 228966 | [228966-the-strange-and-somewhat-sinister-tale-of-the-house-at-desert-bridge.json](./228966-the-strange-and-somewhat-sinister-tale-of-the-house-at-desert-bridge.json) |
+| The Strange Box | 237186 | [237186-the-strange-box.json](./237186-the-strange-box.json) |
 | The Strange Case of Mei Lysel Andi | 257543 | [257543-the-strange-case-of-mei-lysel-andi.json](./257543-the-strange-case-of-mei-lysel-andi.json) |
 | The strange case of the serpent | 328322 | [328322-the-strange-case-of-the-serpent.json](./328322-the-strange-case-of-the-serpent.json) |
 | The Strange Men Anthology | 345349 | [345349-the-strange-men-anthology.json](./345349-the-strange-men-anthology.json) |
@@ -21962,6 +21963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2022: LMS/NSR Wagon Pack 1 | 285517 | [285517-trainz-railroad-simulator-2022-lms-nsr-wagon-pack-1.json](./285517-trainz-railroad-simulator-2022-lms-nsr-wagon-pack-1.json) |
 | Trainz Railroad Simulator 2022: Lone Pine Branch | 205347 | [205347-trainz-railroad-simulator-2022-lone-pine-branch.json](./205347-trainz-railroad-simulator-2022-lone-pine-branch.json) |
 | Trainz Railroad Simulator 2022: Midwestern Branch | 205344 | [205344-trainz-railroad-simulator-2022-midwestern-branch.json](./205344-trainz-railroad-simulator-2022-midwestern-branch.json) |
+| Trainz Railroad Simulator 2022: Midwestern Rails | 237220 | [237220-trainz-railroad-simulator-2022-midwestern-rails.json](./237220-trainz-railroad-simulator-2022-midwestern-rails.json) |
 | Trainz Railroad Simulator 2022: Model Trainz - UZ-Gbox | 262335 | [262335-trainz-railroad-simulator-2022-model-trainz-uz-gbox.json](./262335-trainz-railroad-simulator-2022-model-trainz-uz-gbox.json) |
 | Trainz Railroad Simulator 2022: Mojave Sub Division | 205372 | [205372-trainz-railroad-simulator-2022-mojave-sub-division.json](./205372-trainz-railroad-simulator-2022-mojave-sub-division.json) |
 | Trainz Railroad Simulator 2022: New York Central 10a 2-8-2 | 205338 | [205338-trainz-railroad-simulator-2022-new-york-central-10a-2-8-2.json](./205338-trainz-railroad-simulator-2022-new-york-central-10a-2-8-2.json) |
