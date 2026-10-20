@@ -14808,6 +14808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theme Hotel | 185634 | [185634-theme-hotel.json](./185634-theme-hotel.json) |
 | Theme Park | 283 | [283-theme-park.json](./283-theme-park.json) |
 | Theme Park Architect | 298659 | [298659-theme-park-architect.json](./298659-theme-park-architect.json) |
+| Theme Park Fun 3D! | 216077 | [216077-theme-park-fun-3d.json](./216077-theme-park-fun-3d.json) |
 | Theme Park Jam | 319302 | [319302-theme-park-jam.json](./319302-theme-park-jam.json) |
 | Theme Park Roller Coaster | 43273 | [43273-theme-park-roller-coaster.json](./43273-theme-park-roller-coaster.json) |
 | Theme Park Worker | 114964 | [114964-theme-park-worker.json](./114964-theme-park-worker.json) |
@@ -17108,6 +17109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Slider | 297922 | [297922-tile-slider.json](./297922-tile-slider.json) |
 | Tile Snap | 230227 | [230227-tile-snap.json](./230227-tile-snap.json) |
 | Tile Springs | 331376 | [331376-tile-springs.json](./331376-tile-springs.json) |
+| Tile Stamper | 216110 | [216110-tile-stamper.json](./216110-tile-stamper.json) |
 | Tile Star 2 | 233080 | [233080-tile-star-2.json](./233080-tile-star-2.json) |
 | Tile Tale | 204975 | [204975-tile-tale.json](./204975-tile-tale.json) |
 | Tile Tale | 266150 | [266150-tile-tale.json](./266150-tile-tale.json) |
@@ -20997,6 +20999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic Master Collection | 283212 | [283212-traffic-master-collection.json](./283212-traffic-master-collection.json) |
 | Traffic Panic | 343480 | [343480-traffic-panic.json](./343480-traffic-panic.json) |
 | Traffic Panic London | 343799 | [343799-traffic-panic-london.json](./343799-traffic-panic-london.json) |
+| Traffic Puzzle | 216113 | [216113-traffic-puzzle.json](./216113-traffic-puzzle.json) |
 | Traffic Race 3D 2 | 303323 | [303323-traffic-race-3d-2.json](./303323-traffic-race-3d-2.json) |
 | Traffic Racer | 83217 | [83217-traffic-racer.json](./83217-traffic-racer.json) |
 | Traffic Racer Crash | 123481 | [123481-traffic-racer-crash.json](./123481-traffic-racer-crash.json) |
