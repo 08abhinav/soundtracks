@@ -1759,6 +1759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash For Your Life | 257911 | [257911-dash-for-your-life.json](./257911-dash-for-your-life.json) |
 | Dash Galaxy in the Alien Asylum | 48140 | [48140-dash-galaxy-in-the-alien-asylum.json](./48140-dash-galaxy-in-the-alien-asylum.json) |
 | Dash Hale | 143377 | [143377-dash-hale.json](./143377-dash-hale.json) |
+| Dash King | 240670 | [240670-dash-king.json](./240670-dash-king.json) |
 | Dash Lamb | 154064 | [154064-dash-lamb.json](./154064-dash-lamb.json) |
 | Dash N Slash | 332869 | [332869-dash-n-slash.json](./332869-dash-n-slash.json) |
 | Dash of Destruction | 8981 | [8981-dash-of-destruction.json](./8981-dash-of-destruction.json) |
@@ -8459,6 +8460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodgy Geezers | 13598 | [13598-dodgy-geezers.json](./13598-dodgy-geezers.json) |
 | Dodgy Rocks | 133988 | [133988-dodgy-rocks.json](./133988-dodgy-rocks.json) |
 | Dodo | 277973 | [277973-dodo.json](./277973-dodo.json) |
+| Dodo Fly: New World | 241824 | [241824-dodo-fly-new-world.json](./241824-dodo-fly-new-world.json) |
 | DoDodge | 231330 | [231330-dododge.json](./231330-dododge.json) |
 | DoDodge2020 | 209674 | [209674-dododge2020.json](./209674-dododge2020.json) |
 | DodoGo! | 66709 | [66709-dodogo.json](./66709-dodogo.json) |
@@ -10563,6 +10565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft | 133704 | [133704-draft.json](./133704-draft.json) |
 | Draft Day Sports: College Basketball 2018 | 89637 | [89637-draft-day-sports-college-basketball-2018.json](./89637-draft-day-sports-college-basketball-2018.json) |
 | Draft Day Sports: College Basketball 2022 | 191891 | [191891-draft-day-sports-college-basketball-2022.json](./191891-draft-day-sports-college-basketball-2022.json) |
+| Draft Day Sports: College Basketball 2023 | 240659 | [240659-draft-day-sports-college-basketball-2023.json](./240659-draft-day-sports-college-basketball-2023.json) |
 | Draft Day Sports: College Basketball 2024 | 290853 | [290853-draft-day-sports-college-basketball-2024.json](./290853-draft-day-sports-college-basketball-2024.json) |
 | Draft Day Sports: College Basketball 2025 | 336058 | [336058-draft-day-sports-college-basketball-2025.json](./336058-draft-day-sports-college-basketball-2025.json) |
 | Draft Day Sports: College Basketball 26 | 393740 | [393740-draft-day-sports-college-basketball-26.json](./393740-draft-day-sports-college-basketball-26.json) |
