@@ -19059,6 +19059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomica de Asobou! | 327612 | [327612-tomica-de-asobou.json](./327612-tomica-de-asobou.json) |
 | Tomika Town o Tsukurou! | 376536 | [376536-tomika-town-o-tsukurou.json](./376536-tomika-town-o-tsukurou.json) |
 | Tommy and the Monster Prison | 359919 | [359919-tommy-and-the-monster-prison.json](./359919-tommy-and-the-monster-prison.json) |
+| Tommy Gun Carnage | 212674 | [212674-tommy-gun-carnage.json](./212674-tommy-gun-carnage.json) |
 | Tommy Gun Witches | 262893 | [262893-tommy-gun-witches.json](./262893-tommy-gun-witches.json) |
 | Tommy Is My Hero! | 272853 | [272853-tommy-is-my-hero.json](./272853-tommy-is-my-hero.json) |
 | Tommy Moe's Winter Extreme: Skiing & Snowboarding | 42429 | [42429-tommy-moes-winter-extreme-skiing-and-snowboarding.json](./42429-tommy-moes-winter-extreme-skiing-and-snowboarding.json) |
@@ -20040,11 +20041,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Genso Wanderer Reloaded: Cirno | 161749 | [161749-touhou-genso-wanderer-reloaded-cirno.json](./161749-touhou-genso-wanderer-reloaded-cirno.json) |
 | Touhou Genso Wanderer Reloaded: Complete Edition | 209953 | [209953-touhou-genso-wanderer-reloaded-complete-edition.json](./209953-touhou-genso-wanderer-reloaded-complete-edition.json) |
 | Touhou Genso Wanderer Reloaded: Daiyosei | 161742 | [161742-touhou-genso-wanderer-reloaded-daiyosei.json](./161742-touhou-genso-wanderer-reloaded-daiyosei.json) |
+| Touhou Genso Wanderer Reloaded: Flandre Scarlet | 212651 | [212651-touhou-genso-wanderer-reloaded-flandre-scarlet.json](./212651-touhou-genso-wanderer-reloaded-flandre-scarlet.json) |
 | Touhou Genso Wanderer Reloaded: Kasen Ibaraki | 161744 | [161744-touhou-genso-wanderer-reloaded-kasen-ibaraki.json](./161744-touhou-genso-wanderer-reloaded-kasen-ibaraki.json) |
 | Touhou Genso Wanderer Reloaded: Kokoro Hata | 161740 | [161740-touhou-genso-wanderer-reloaded-kokoro-hata.json](./161740-touhou-genso-wanderer-reloaded-kokoro-hata.json) |
 | Touhou Genso Wanderer Reloaded: Rei'sen | 161745 | [161745-touhou-genso-wanderer-reloaded-reisen.json](./161745-touhou-genso-wanderer-reloaded-reisen.json) |
 | Touhou Genso Wanderer Reloaded: Sakuya Izayoi | 161743 | [161743-touhou-genso-wanderer-reloaded-sakuya-izayoi.json](./161743-touhou-genso-wanderer-reloaded-sakuya-izayoi.json) |
 | Touhou Genso Wanderer Reloaded: Satori Komeiji | 161751 | [161751-touhou-genso-wanderer-reloaded-satori-komeiji.json](./161751-touhou-genso-wanderer-reloaded-satori-komeiji.json) |
+| Touhou Genso Wanderer Reloaded: Season Pass Elegance | 212656 | [212656-touhou-genso-wanderer-reloaded-season-pass-elegance.json](./212656-touhou-genso-wanderer-reloaded-season-pass-elegance.json) |
 | Touhou Genso Wanderer Reloaded: Suwako Moriya | 161747 | [161747-touhou-genso-wanderer-reloaded-suwako-moriya.json](./161747-touhou-genso-wanderer-reloaded-suwako-moriya.json) |
 | Touhou Genso Wanderer Reloaded: Tenshi Hinanawi | 161750 | [161750-touhou-genso-wanderer-reloaded-tenshi-hinanawi.json](./161750-touhou-genso-wanderer-reloaded-tenshi-hinanawi.json) |
 | Touhou Genso Wanderer Reloaded: Utsuho Reiuji | 161741 | [161741-touhou-genso-wanderer-reloaded-utsuho-reiuji.json](./161741-touhou-genso-wanderer-reloaded-utsuho-reiuji.json) |
@@ -24672,6 +24675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tux and Fanny | 166675 | [166675-tux-and-fanny.json](./166675-tux-and-fanny.json) |
 | Tux Typing | 210605 | [210605-tux-typing.json](./210605-tux-typing.json) |
 | Tux, of Math Command | 242812 | [242812-tux-of-math-command.json](./242812-tux-of-math-command.json) |
+| Tuxemon | 212634 | [212634-tuxemon.json](./212634-tuxemon.json) |
 | Tuya | 242053 | [242053-tuya.json](./242053-tuya.json) |
 | Tuzaq | 270874 | [270874-tuzaq.json](./270874-tuzaq.json) |
 | TV and Cinema 101: Trivia from Talkies to Trekkies | 69540 | [69540-tv-and-cinema-101-trivia-from-talkies-to-trekkies.json](./69540-tv-and-cinema-101-trivia-from-talkies-to-trekkies.json) |
