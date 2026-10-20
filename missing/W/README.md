@@ -1739,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watashi Koso ga Gakuen no Joou-sama | 296192 | [296192-watashi-koso-ga-gakuen-no-joou-sama.json](./296192-watashi-koso-ga-gakuen-no-joou-sama.json) |
 | Watashi no Happy Manner Book | 287631 | [287631-watashi-no-happy-manner-book.json](./287631-watashi-no-happy-manner-book.json) |
 | Watashi no Kare ha Pilot 2012 | 64834 | [64834-watashi-no-kare-ha-pilot-2012.json](./64834-watashi-no-kare-ha-pilot-2012.json) |
+| Watashi no Kokoro ha Kirei desu ka: Am I Kind Hearted? | 207663 | [207663-watashi-no-kokoro-ha-kirei-desu-ka-am-i-kind-hearted.json](./207663-watashi-no-kokoro-ha-kirei-desu-ka-am-i-kind-hearted.json) |
 | Watashi no Kokoro! Kimi no Koto ga Suki desu. | 161902 | [161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json](./161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json) |
 | Watashi no MakeSalon | 275635 | [275635-watashi-no-makesalon.json](./275635-watashi-no-makesalon.json) |
 | Watashi Suzume | 216841 | [216841-watashi-suzume.json](./216841-watashi-suzume.json) |
@@ -3523,6 +3524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Noise: Ghost Signal | 374145 | [374145-white-noise-ghost-signal.json](./374145-white-noise-ghost-signal.json) |
 | White Noise! | 359546 | [359546-white-noise.json](./359546-white-noise.json) |
 | White Nothing | 103634 | [103634-white-nothing.json](./103634-white-nothing.json) |
+| White Paper | 207701 | [207701-white-paper.json](./207701-white-paper.json) |
 | White Pearl | 76663 | [76663-white-pearl.json](./76663-white-pearl.json) |
 | White Rabbit | 161356 | [161356-white-rabbit.json](./161356-white-rabbit.json) |
 | White Rectangle | 182778 | [182778-white-rectangle.json](./182778-white-rectangle.json) |
@@ -5921,6 +5923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Work Wrecker | 358488 | [358488-work-wrecker.json](./358488-work-wrecker.json) |
 | Work x Work | 218984 | [218984-work-x-work.json](./218984-work-x-work.json) |
 | Work! Wan Wan Human | 301628 | [301628-work-wan-wan-human.json](./301628-work-wan-wan-human.json) |
+| Workaholic | 207695 | [207695-workaholic.json](./207695-workaholic.json) |
 | Workaholic Simulator: Leaving the Dream | 326305 | [326305-workaholic-simulator-leaving-the-dream.json](./326305-workaholic-simulator-leaving-the-dream.json) |
 | Workboy | 297549 | [297549-workboy.json](./297549-workboy.json) |
 | Workemon | 141174 | [141174-workemon.json](./141174-workemon.json) |
