@@ -6955,6 +6955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Run | 103988 | [103988-rock-run.json](./103988-rock-run.json) |
 | Rock Runners | 23403 | [23403-rock-runners.json](./23403-rock-runners.json) |
 | Rock Scissor Paper | 262927 | [262927-rock-scissor-paper.json](./262927-rock-scissor-paper.json) |
+| Rock Show | 245700 | [245700-rock-show.json](./245700-rock-show.json) |
 | Rock Simulator | 127932 | [127932-rock-simulator.json](./127932-rock-simulator.json) |
 | Rock Snake | 193137 | [193137-rock-snake.json](./193137-rock-snake.json) |
 | Rock Star Ate My Hamster | 12751 | [12751-rock-star-ate-my-hamster.json](./12751-rock-star-ate-my-hamster.json) |
@@ -8772,6 +8773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubber Royale: Holiday Prologue | 278939 | [278939-rubber-royale-holiday-prologue.json](./278939-rubber-royale-holiday-prologue.json) |
 | Rubber Sharks | 305980 | [305980-rubber-sharks.json](./305980-rubber-sharks.json) |
 | Rubber Toys | 38776 | [38776-rubber-toys.json](./38776-rubber-toys.json) |
+| Rubberduck Wave Racer | 245716 | [245716-rubberduck-wave-racer.json](./245716-rubberduck-wave-racer.json) |
 | Rubbish Island | 378890 | [378890-rubbish-island.json](./378890-rubbish-island.json) |
 | Rubble Rampage | 413127 | [413127-rubble-rampage.json](./413127-rubble-rampage.json) |
 | Rubble Rush | 118069 | [118069-rubble-rush.json](./118069-rubble-rush.json) |
