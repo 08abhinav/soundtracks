@@ -12586,7 +12586,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buddy Garden | 356003 | [356003-buddy-garden.json](./356003-buddy-garden.json) |
 | Buddy Shell | 328071 | [328071-buddy-shell.json](./328071-buddy-shell.json) |
 | Buddy Shell 2 | 328070 | [328070-buddy-shell-2.json](./328070-buddy-shell-2.json) |
-| Buddy Simulator 1984 | 132333 | [132333-buddy-simulator-1984.json](./132333-buddy-simulator-1984.json) |
 | Buddy Thunderstruck: The Maybe Pile | 322248 | [322248-buddy-thunderstruck-the-maybe-pile.json](./322248-buddy-thunderstruck-the-maybe-pile.json) |
 | Buddy Toss | 106736 | [106736-buddy-toss.json](./106736-buddy-toss.json) |
 | Buddy, No! | 234191 | [234191-buddy-no.json](./234191-buddy-no.json) |
