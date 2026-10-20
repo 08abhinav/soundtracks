@@ -1910,6 +1910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JoJo's Bizarre Adventure: All Star Battle - Golden Experience Box | 298016 | [298016-jojos-bizarre-adventure-all-star-battle-golden-experience-box.json](./298016-jojos-bizarre-adventure-all-star-battle-golden-experience-box.json) |
 | JoJo's Bizarre Adventure: All Star Battle R - Digital Deluxe Edition | 218458 | [218458-jojos-bizarre-adventure-all-star-battle-r-digital-deluxe-edition.json](./218458-jojos-bizarre-adventure-all-star-battle-r-digital-deluxe-edition.json) |
 | JoJo’s Bizarre Adventure: All-Star Battle R | 194208 | [194208-jojo-s-bizarre-adventure-all-star-battle-r.json](./194208-jojo-s-bizarre-adventure-all-star-battle-r.json) |
+| JoJo’s Bizarre Adventure: All-Star Battle R - Digital Ultimate Edition | 253229 | [253229-jojo-s-bizarre-adventure-all-star-battle-r-digital-ultimate-edition.json](./253229-jojo-s-bizarre-adventure-all-star-battle-r-digital-ultimate-edition.json) |
 | JoJo's Bizarre Adventure: All-Star Battle R - Keicho Nijimura | 242545 | [242545-jojos-bizarre-adventure-all-star-battle-r-keicho-nijimura.json](./242545-jojos-bizarre-adventure-all-star-battle-r-keicho-nijimura.json) |
 | JoJo's Bizarre Adventure: All-Star Battle R - Leone Abbacchio | 263539 | [263539-jojos-bizarre-adventure-all-star-battle-r-leone-abbacchio.json](./263539-jojos-bizarre-adventure-all-star-battle-r-leone-abbacchio.json) |
 | JoJo's Bizarre Adventure: All-Star Battle R - Rudol von Stroheim | 234633 | [234633-jojos-bizarre-adventure-all-star-battle-r-rudol-von-stroheim.json](./234633-jojos-bizarre-adventure-all-star-battle-r-rudol-von-stroheim.json) |
@@ -2578,6 +2579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping! | 209655 | [209655-jumping.json](./209655-jumping.json) |
 | JumpingBoy | 111868 | [111868-jumpingboy.json](./111868-jumpingboy.json) |
 | Jumpix Jump | 33487 | [33487-jumpix-jump.json](./33487-jumpix-jump.json) |
+| JumpJump | 253206 | [253206-jumpjump.json](./253206-jumpjump.json) |
 | JumpJumpBall | 158622 | [158622-jumpjumpball.json](./158622-jumpjumpball.json) |
 | JumpJumpJump! | 335086 | [335086-jumpjumpjump.json](./335086-jumpjumpjump.json) |
 | JumpJumpMania | 111596 | [111596-jumpjumpmania.json](./111596-jumpjumpmania.json) |
