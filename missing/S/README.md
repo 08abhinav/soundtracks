@@ -4210,6 +4210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentinels: High Energy Tower Defense | 79131 | [79131-sentinels-high-energy-tower-defense.json](./79131-sentinels-high-energy-tower-defense.json) |
 | Sentinent Steel | 249921 | [249921-sentinent-steel.json](./249921-sentinent-steel.json) |
 | Sento Survivor: Slip, Grab, and Bathe in Glory! | 390231 | [390231-sento-survivor-slip-grab-and-bathe-in-glory.json](./390231-sento-survivor-slip-grab-and-bathe-in-glory.json) |
+| Sentou Danchi | 237824 | [237824-sentou-danchi.json](./237824-sentou-danchi.json) |
 | Sentou Gakuen: Revival | 34388 | [34388-sentou-gakuen-revival.json](./34388-sentou-gakuen-revival.json) |
 | Sentou Kokka Kai Improved | 166547 | [166547-sentou-kokka-kai-improved.json](./166547-sentou-kokka-kai-improved.json) |
 | Sentou Kokka: Air Land Battle | 166546 | [166546-sentou-kokka-air-land-battle.json](./166546-sentou-kokka-air-land-battle.json) |
@@ -7827,6 +7828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hunter Patrol Disk #2 | 77311 | [77311-silent-hunter-patrol-disk-2.json](./77311-silent-hunter-patrol-disk-2.json) |
 | Silent Infinity | 202366 | [202366-silent-infinity.json](./202366-silent-infinity.json) |
 | Silent Iron | 94866 | [94866-silent-iron.json](./94866-silent-iron.json) |
+| Silent Love | 237794 | [237794-silent-love.json](./237794-silent-love.json) |
 | Silent Mementos | 372191 | [372191-silent-mementos.json](./372191-silent-mementos.json) |
 | Silent Mobius | 64742 | [64742-silent-mobius.json](./64742-silent-mobius.json) |
 | Silent Möbius | 401739 | [401739-silent-mobius.json](./401739-silent-mobius.json) |
@@ -9106,6 +9108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skibidi Toilet: Battle Royale | 321490 | [321490-skibidi-toilet-battle-royale.json](./321490-skibidi-toilet-battle-royale.json) |
 | SkibidiVerse | 266905 | [266905-skibidiverse.json](./266905-skibidiverse.json) |
 | Skid Island: Asphalt Mayhem | 291745 | [291745-skid-island-asphalt-mayhem.json](./291745-skid-island-asphalt-mayhem.json) |
+| Skid the Scrambling Squirrel | 237779 | [237779-skid-the-scrambling-squirrel.json](./237779-skid-the-scrambling-squirrel.json) |
 | Skidaddle Skidoodle | 311641 | [311641-skidaddle-skidoodle.json](./311641-skidaddle-skidoodle.json) |
 | Skiddy | 281528 | [281528-skiddy.json](./281528-skiddy.json) |
 | Skidlocked | 129519 | [129519-skidlocked.json](./129519-skidlocked.json) |
@@ -16167,6 +16170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider! | 107042 | [107042-spider.json](./107042-spider.json) |
 | Spider's Hollow | 184358 | [184358-spiders-hollow.json](./184358-spiders-hollow.json) |
 | Spider+ | 87187 | [87187-spider.json](./87187-spider.json) |
+| SpiderAttack | 237808 | [237808-spiderattack.json](./237808-spiderattack.json) |
 | Spiderbot | 22264 | [22264-spiderbot.json](./22264-spiderbot.json) |
 | Spiderbro 2 | 298042 | [298042-spiderbro-2.json](./298042-spiderbro-2.json) |
 | Spiderdroid | 40621 | [40621-spiderdroid.json](./40621-spiderdroid.json) |
@@ -22751,6 +22755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Baldy Kart | 268355 | [268355-super-baldy-kart.json](./268355-super-baldy-kart.json) |
 | Super Ball Arena | 215707 | [215707-super-ball-arena.json](./215707-super-ball-arena.json) |
 | Super Ball Juggling | 233540 | [233540-super-ball-juggling.json](./233540-super-ball-juggling.json) |
+| Super Ball Mania | 237788 | [237788-super-ball-mania.json](./237788-super-ball-mania.json) |
 | Super Balloon Rush | 232343 | [232343-super-balloon-rush.json](./232343-super-balloon-rush.json) |
 | Super Barista | 128408 | [128408-super-barista.json](./128408-super-barista.json) |
 | Super Baseball | 40676 | [40676-super-baseball.json](./40676-super-baseball.json) |
