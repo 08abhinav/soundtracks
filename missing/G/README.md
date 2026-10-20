@@ -4678,6 +4678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Going Balls | 378161 | [378161-going-balls.json](./378161-going-balls.json) |
 | Going Dark | 179518 | [179518-going-dark.json](./179518-going-dark.json) |
 | Going Dark | 338262 | [338262-going-dark.json](./338262-going-dark.json) |
+| Going Deep | 212114 | [212114-going-deep.json](./212114-going-deep.json) |
 | Going Deeper! | 196301 | [196301-going-deeper.json](./196301-going-deeper.json) |
 | Going Down | 138786 | [138786-going-down.json](./138786-going-down.json) |
 | Going Down | 266767 | [266767-going-down.json](./266767-going-down.json) |
@@ -8251,6 +8252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunners Heart | 54072 | [54072-gunners-heart.json](./54072-gunners-heart.json) |
 | Gunnheim | 20207 | [20207-gunnheim.json](./20207-gunnheim.json) |
 | Gunnhildr | 141072 | [141072-gunnhildr.json](./141072-gunnhildr.json) |
+| Gunning Over It! | 212117 | [212117-gunning-over-it.json](./212117-gunning-over-it.json) |
 | Gunnm Martian Memory | 23152 | [23152-gunnm-martian-memory.json](./23152-gunnm-martian-memory.json) |
 | GunnRunner | 117063 | [117063-gunnrunner.json](./117063-gunnrunner.json) |
 | GunnVR | 29908 | [29908-gunnvr.json](./29908-gunnvr.json) |
