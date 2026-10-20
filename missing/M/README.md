@@ -3375,6 +3375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martian Threat | 41568 | [41568-martian-threat.json](./41568-martian-threat.json) |
 | Martian Wars | 137692 | [137692-martian-wars.json](./137692-martian-wars.json) |
 | Martianoids | 39774 | [39774-martianoids.json](./39774-martianoids.json) |
+| Martin | 249035 | [249035-martin.json](./249035-martin.json) |
 | Martin and the Magic Staff | 154273 | [154273-martin-and-the-magic-staff.json](./154273-martin-and-the-magic-staff.json) |
 | Martin Goes on the Attack | 154088 | [154088-martin-goes-on-the-attack.json](./154088-martin-goes-on-the-attack.json) |
 | Martin Mystère: Operation Dorian Gray | 9102 | [9102-martin-mystere-operation-dorian-gray.json](./9102-martin-mystere-operation-dorian-gray.json) |
@@ -7754,6 +7755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Michi Café | 412794 | [412794-michi-cafe.json](./412794-michi-cafe.json) |
 | Michi: Expansion Pack | 249299 | [249299-michi-expansion-pack.json](./249299-michi-expansion-pack.json) |
 | Michigan: Report from Hell | 26294 | [26294-michigan-report-from-hell.json](./26294-michigan-report-from-hell.json) |
+| Michijiro no Lucent: Maou Fukkatsu | 249048 | [249048-michijiro-no-lucent-maou-fukkatsu.json](./249048-michijiro-no-lucent-maou-fukkatsu.json) |
 | Michiko Jump! | 217846 | [217846-michiko-jump.json](./217846-michiko-jump.json) |
 | Michikusa Wanderer | 402853 | [402853-michikusa-wanderer.json](./402853-michikusa-wanderer.json) |
 | Michinoku Hisen Koimonogatari | 64666 | [64666-michinoku-hisen-koimonogatari.json](./64666-michinoku-hisen-koimonogatari.json) |
@@ -12301,6 +12303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonbound | 186550 | [186550-moonbound.json](./186550-moonbound.json) |
 | Moonbreaker | 214405 | [214405-moonbreaker.json](./214405-moonbreaker.json) |
 | Moonbrella | 335633 | [335633-moonbrella.json](./335633-moonbrella.json) |
+| Moonbriar | 249034 | [249034-moonbriar.json](./249034-moonbriar.json) |
 | MoonBright | 275549 | [275549-moonbright.json](./275549-moonbright.json) |
 | Moonbringer | 413478 | [413478-moonbringer.json](./413478-moonbringer.json) |
 | Mooncake Shop | 100989 | [100989-mooncake-shop.json](./100989-mooncake-shop.json) |
