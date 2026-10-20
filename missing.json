@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:51:48.227Z",
-  "total_missing": 239404,
+  "generated_at": "2026-10-20T21:58:48.595Z",
+  "total_missing": 239393,
   "games": [
     {
       "igdb_id": 191680,
@@ -253647,11 +253647,6 @@
       "file": "missing/D/212152-demon-tomb.json"
     },
     {
-      "igdb_id": 134564,
-      "game_name": "Demon Turf",
-      "file": "missing/D/134564-demon-turf.json"
-    },
-    {
       "igdb_id": 197868,
       "game_name": "Demon Turf: Neon Splash",
       "file": "missing/D/197868-demon-turf-neon-splash.json"
@@ -311602,11 +311597,6 @@
       "file": "missing/E/345129-eliza.json"
     },
     {
-      "igdb_id": 92919,
-      "game_name": "Eliza",
-      "file": "missing/E/92919-eliza.json"
-    },
-    {
       "igdb_id": 130081,
       "game_name": "Elizabeth",
       "file": "missing/E/130081-elizabeth.json"
@@ -350637,11 +350627,6 @@
       "file": "missing/F/127869-fight-to-the-last.json"
     },
     {
-      "igdb_id": 59573,
-      "game_name": "Fight'N Rage",
-      "file": "missing/F/59573-fightn-rage.json"
-    },
-    {
       "igdb_id": 242370,
       "game_name": "Fight'n Rage: 5th Anniversary Limited Edition",
       "file": "missing/F/242370-fightn-rage-5th-anniversary-limited-edition.json"
@@ -359860,11 +359845,6 @@
       "igdb_id": 275568,
       "game_name": "Five Nights at Freddy's: Pocket Horror",
       "file": "missing/F/275568-five-nights-at-freddys-pocket-horror.json"
-    },
-    {
-      "igdb_id": 312859,
-      "game_name": "Five Nights at Freddy's: Secret of the Mimic",
-      "file": "missing/F/312859-five-nights-at-freddys-secret-of-the-mimic.json"
     },
     {
       "igdb_id": 300353,
@@ -547067,11 +547047,6 @@
       "file": "missing/L/290872-lamp-post.json"
     },
     {
-      "igdb_id": 79999,
-      "game_name": "Lamplight City",
-      "file": "missing/L/79999-lamplight-city.json"
-    },
-    {
       "igdb_id": 175316,
       "game_name": "Lamplight City mobile",
       "file": "missing/L/175316-lamplight-city-mobile.json"
@@ -555350,11 +555325,6 @@
       "igdb_id": 174612,
       "game_name": "Legends of Draxia",
       "file": "missing/L/174612-legends-of-draxia.json"
-    },
-    {
-      "igdb_id": 10388,
-      "game_name": "Legends of Eisenwald",
-      "file": "missing/L/10388-legends-of-eisenwald.json"
     },
     {
       "igdb_id": 51842,
@@ -829077,11 +829047,6 @@
       "file": "missing/R/242810-robocop.json"
     },
     {
-      "igdb_id": 59110,
-      "game_name": "RoboCop",
-      "file": "missing/R/59110-robocop.json"
-    },
-    {
       "igdb_id": 144145,
       "game_name": "RoboCop 2",
       "file": "missing/R/144145-robocop-2.json"
@@ -865262,11 +865227,6 @@
       "file": "missing/S/388255-semantics.json"
     },
     {
-      "igdb_id": 55173,
-      "game_name": "Semblance",
-      "file": "missing/S/55173-semblance.json"
-    },
-    {
       "igdb_id": 59876,
       "game_name": "Seme COM Dungeon: Drururuaga",
       "file": "missing/S/59876-seme-com-dungeon-drururuaga.json"
@@ -868175,11 +868135,6 @@
       "igdb_id": 82056,
       "game_name": "Seven: Reboot",
       "file": "missing/S/82056-seven-reboot.json"
-    },
-    {
-      "igdb_id": 18908,
-      "game_name": "Seven: The Days Long Gone",
-      "file": "missing/S/18908-seven-the-days-long-gone.json"
     },
     {
       "igdb_id": 25875,
@@ -950990,11 +950945,6 @@
       "igdb_id": 321628,
       "game_name": "Street Fighter V: Alex",
       "file": "missing/S/321628-street-fighter-v-alex.json"
-    },
-    {
-      "igdb_id": 74155,
-      "game_name": "Street Fighter V: Arcade Edition",
-      "file": "missing/S/74155-street-fighter-v-arcade-edition.json"
     },
     {
       "igdb_id": 345848,
@@ -1079480,11 +1079430,6 @@
       "igdb_id": 235712,
       "game_name": "Torecower",
       "file": "missing/T/235712-torecower.json"
-    },
-    {
-      "igdb_id": 172664,
-      "game_name": "Toree 2",
-      "file": "missing/T/172664-toree-2.json"
     },
     {
       "igdb_id": 279783,
