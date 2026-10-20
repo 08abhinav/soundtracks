@@ -8933,6 +8933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominance | 116371 | [116371-dominance.json](./116371-dominance.json) |
 | Dominance Chess-like | 311195 | [311195-dominance-chess-like.json](./311195-dominance-chess-like.json) |
 | Dominant Amber | 245671 | [245671-dominant-amber.json](./245671-dominant-amber.json) |
+| Dominant Color | 230689 | [230689-dominant-color.json](./230689-dominant-color.json) |
 | Dominant Mind | 148166 | [148166-dominant-mind.json](./148166-dominant-mind.json) |
 | Dominant Species for iPad | 108516 | [108516-dominant-species-for-ipad.json](./108516-dominant-species-for-ipad.json) |
 | Dominari | 75099 | [75099-dominari.json](./75099-dominari.json) |
