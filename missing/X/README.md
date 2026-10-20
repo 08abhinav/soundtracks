@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 11: Skyline Simulations - LXGB: Gibraltar Airport | 162761 | [162761-x-plane-11-skyline-simulations-lxgb-gibraltar-airport.json](./162761-x-plane-11-skyline-simulations-lxgb-gibraltar-airport.json) |
 | X-Plane 11: Skyline Simulations - MKJS: Montego Bay Jamaica | 168397 | [168397-x-plane-11-skyline-simulations-mkjs-montego-bay-jamaica.json](./168397-x-plane-11-skyline-simulations-mkjs-montego-bay-jamaica.json) |
 | X-Plane 11: Skyline Simulations CYTZ - Billy Bishop Toronto City Airport | 162807 | [162807-x-plane-11-skyline-simulations-cytz-billy-bishop-toronto-city-airport.json](./162807-x-plane-11-skyline-simulations-cytz-billy-bishop-toronto-city-airport.json) |
+| X-Plane 12 | 215544 | [215544-x-plane-12.json](./215544-x-plane-12.json) |
 | X-Plane 12 Global Scenery: Africa | 220533 | [220533-x-plane-12-global-scenery-africa.json](./220533-x-plane-12-global-scenery-africa.json) |
 | X-Plane 12 Global Scenery: Asia | 220637 | [220637-x-plane-12-global-scenery-asia.json](./220637-x-plane-12-global-scenery-asia.json) |
 | X-Plane 12 Global Scenery: Australia, Oceania, Pacific | 220725 | [220725-x-plane-12-global-scenery-australia-oceania-pacific.json](./220725-x-plane-12-global-scenery-australia-oceania-pacific.json) |
