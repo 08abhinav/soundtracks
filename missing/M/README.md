@@ -13422,6 +13422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain Madness: Super Pro Skiing | 5685 | [5685-mountain-madness-super-pro-skiing.json](./5685-mountain-madness-super-pro-skiing.json) |
 | Mountain Maniac | 66104 | [66104-mountain-maniac.json](./66104-mountain-maniac.json) |
 | Mountain Maniac Xmas | 396423 | [396423-mountain-maniac-xmas.json](./396423-mountain-maniac-xmas.json) |
+| Mountain of Ape | 249622 | [249622-mountain-of-ape.json](./249622-mountain-of-ape.json) |
 | Mountain Shoot | 54976 | [54976-mountain-shoot.json](./54976-mountain-shoot.json) |
 | Mountain Sniper Shooter Elite Assassin | 102844 | [102844-mountain-sniper-shooter-elite-assassin.json](./102844-mountain-sniper-shooter-elite-assassin.json) |
 | Mountain Taxi Challenge | 382978 | [382978-mountain-taxi-challenge.json](./382978-mountain-taxi-challenge.json) |
@@ -16411,6 +16412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic: Frost Trials | 215636 | [215636-mythic-frost-trials.json](./215636-mythic-frost-trials.json) |
 | Mythica | 91859 | [91859-mythica.json](./91859-mythica.json) |
 | Mythical | 114213 | [114213-mythical.json](./114213-mythical.json) |
+| Mythical Agent | 249650 | [249650-mythical-agent.json](./249650-mythical-agent.json) |
 | Mythical Concept Starnaut | 272387 | [272387-mythical-concept-starnaut.json](./272387-mythical-concept-starnaut.json) |
 | Mythical Haven | 419979 | [419979-mythical-haven.json](./419979-mythical-haven.json) |
 | Mythical Hearts | 299027 | [299027-mythical-hearts.json](./299027-mythical-hearts.json) |
