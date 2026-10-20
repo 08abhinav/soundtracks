@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Val'ty | 381294 | [381294-valty.json](./381294-valty.json) |
 | Valakas Story | 122824 | [122824-valakas-story.json](./122824-valakas-story.json) |
 | Valakas: Immortal | 154393 | [154393-valakas-immortal.json](./154393-valakas-immortal.json) |
+| Valand | 208814 | [208814-valand.json](./208814-valand.json) |
 | Valbrace | 318603 | [318603-valbrace.json](./318603-valbrace.json) |
 | Valcarta: Rise of the Demon | 32887 | [32887-valcarta-rise-of-the-demon.json](./32887-valcarta-rise-of-the-demon.json) |
 | Valdamour | 264531 | [264531-valdamour.json](./264531-valdamour.json) |
