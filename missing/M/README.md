@@ -8258,6 +8258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Blood Rush | 267272 | [267272-midnight-blood-rush.json](./267272-midnight-blood-rush.json) |
 | Midnight Blues | 173305 | [173305-midnight-blues.json](./173305-midnight-blues.json) |
 | Midnight Bowling | 21802 | [21802-midnight-bowling.json](./21802-midnight-bowling.json) |
+| Midnight Bowling 3 | 239474 | [239474-midnight-bowling-3.json](./239474-midnight-bowling-3.json) |
 | Midnight Building | 93172 | [93172-midnight-building.json](./93172-midnight-building.json) |
 | Midnight Calling: Anabel | 91139 | [91139-midnight-calling-anabel.json](./91139-midnight-calling-anabel.json) |
 | Midnight Calling: Jeronimo | 102792 | [102792-midnight-calling-jeronimo.json](./102792-midnight-calling-jeronimo.json) |
@@ -8345,6 +8346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Overtime | 385445 | [385445-midnight-overtime.json](./385445-midnight-overtime.json) |
 | Midnight Play! Pack | 123355 | [123355-midnight-play-pack.json](./123355-midnight-play-pack.json) |
 | Midnight Pool | 21800 | [21800-midnight-pool.json](./21800-midnight-pool.json) |
+| Midnight Pool | 239485 | [239485-midnight-pool.json](./239485-midnight-pool.json) |
 | Midnight Pool 3 | 273841 | [273841-midnight-pool-3.json](./273841-midnight-pool-3.json) |
 | Midnight Postman | 342907 | [342907-midnight-postman.json](./342907-midnight-postman.json) |
 | Midnight Pufferfish Show | 250860 | [250860-midnight-pufferfish-show.json](./250860-midnight-pufferfish-show.json) |
@@ -8812,6 +8814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millions of Billions of Suns | 398630 | [398630-millions-of-billions-of-suns.json](./398630-millions-of-billions-of-suns.json) |
 | Millipede | 198820 | [198820-millipede.json](./198820-millipede.json) |
 | Millipede | 239135 | [239135-millipede.json](./239135-millipede.json) |
+| Millipede | 239487 | [239487-millipede.json](./239487-millipede.json) |
 | Millipede / Super Breakout / Lunar Lander | 78289 | [78289-millipede-super-breakout-lunar-lander.json](./78289-millipede-super-breakout-lunar-lander.json) |
 | Millipede: Evolved | 329641 | [329641-millipede-evolved.json](./329641-millipede-evolved.json) |
 | Millispeed | 351633 | [351633-millispeed.json](./351633-millispeed.json) |
@@ -9638,6 +9641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miniature Air Hockey | 175239 | [175239-miniature-air-hockey.json](./175239-miniature-air-hockey.json) |
 | Miniature Garden | 25710 | [25710-miniature-garden.json](./25710-miniature-garden.json) |
 | Miniature Golf | 18415 | [18415-miniature-golf.json](./18415-miniature-golf.json) |
+| Miniature Golf | 239511 | [239511-miniature-golf.json](./239511-miniature-golf.json) |
 | Miniature Legends | 395238 | [395238-miniature-legends.json](./395238-miniature-legends.json) |
 | Miniature Mania | 395709 | [395709-miniature-mania.json](./395709-miniature-mania.json) |
 | Miniature Mayhem! | 262931 | [262931-miniature-mayhem.json](./262931-miniature-mayhem.json) |
@@ -10187,6 +10191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missile Command | 209502 | [209502-missile-command.json](./209502-missile-command.json) |
 | Missile Command | 209503 | [209503-missile-command.json](./209503-missile-command.json) |
 | Missile Command | 239489 | [239489-missile-command.json](./239489-missile-command.json) |
+| Missile Command | 239512 | [239512-missile-command.json](./239512-missile-command.json) |
 | Missile Command | 245436 | [245436-missile-command.json](./245436-missile-command.json) |
 | Missile Command | 280782 | [280782-missile-command.json](./280782-missile-command.json) |
 | Missile Command | 69142 | [69142-missile-command.json](./69142-missile-command.json) |
@@ -10879,6 +10884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Campaigns: Quang Tri '72 | 229964 | [229964-modern-campaigns-quang-tri-72.json](./229964-modern-campaigns-quang-tri-72.json) |
 | Modern Cannon Strike | 239041 | [239041-modern-cannon-strike.json](./239041-modern-cannon-strike.json) |
 | Modern Combat | 166216 | [166216-modern-combat.json](./166216-modern-combat.json) |
+| Modern Combat 2: Black Pegasus | 239484 | [239484-modern-combat-2-black-pegasus.json](./239484-modern-combat-2-black-pegasus.json) |
 | Modern Combat 3: Fallen Nation | 18882 | [18882-modern-combat-3-fallen-nation.json](./18882-modern-combat-3-fallen-nation.json) |
 | Modern Combat 5: Blackout | 23409 | [23409-modern-combat-5-blackout.json](./23409-modern-combat-5-blackout.json) |
 | Modern Combat Versus | 71910 | [71910-modern-combat-versus.json](./71910-modern-combat-versus.json) |
@@ -13261,6 +13267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motocross Urban Fever | 330760 | [330760-motocross-urban-fever.json](./330760-motocross-urban-fever.json) |
 | Motocross Zombie HD | 100736 | [100736-motocross-zombie-hd.json](./100736-motocross-zombie-hd.json) |
 | Motocross: The Force | 270211 | [270211-motocross-the-force.json](./270211-motocross-the-force.json) |
+| Motocross: Trial Extreme | 239472 | [239472-motocross-trial-extreme.json](./239472-motocross-trial-extreme.json) |
 | MotoGP | 175917 | [175917-motogp.json](./175917-motogp.json) |
 | MotoGP | 282659 | [282659-motogp.json](./282659-motogp.json) |
 | MotoGP '07 | 186046 | [186046-motogp-07.json](./186046-motogp-07.json) |
@@ -14177,6 +14184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mukti | 106382 | [106382-mukti.json](./106382-mukti.json) |
 | Muku wo Saku | 308877 | [308877-muku-wo-saku.json](./308877-muku-wo-saku.json) |
 | Mul-Ty-Player | 315191 | [315191-mul-ty-player.json](./315191-mul-ty-player.json) |
+| Mul.Mash.Tab.Ba.Gal.Gal | 239498 | [239498-mul-mash-tab-ba-gal-gal.json](./239498-mul-mash-tab-ba-gal-gal.json) |
 | Mulan 2125 | 372883 | [372883-mulan-2125.json](./372883-mulan-2125.json) |
 | Muldulamulom | 129502 | [129502-muldulamulom.json](./129502-muldulamulom.json) |
 | MULE Returns | 91151 | [91151-mule-returns.json](./91151-mule-returns.json) |
