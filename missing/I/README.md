@@ -2149,6 +2149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Search of Dr. Riptide | 69578 | [69578-in-search-of-dr-riptide.json](./69578-in-search-of-dr-riptide.json) |
 | In Search of Freedom | 383563 | [383563-in-search-of-freedom.json](./383563-in-search-of-freedom.json) |
 | In Search of Heroes! | 303584 | [303584-in-search-of-heroes.json](./303584-in-search-of-heroes.json) |
+| In Search of Immortality | 255554 | [255554-in-search-of-immortality.json](./255554-in-search-of-immortality.json) |
 | In Search of Light | 182522 | [182522-in-search-of-light.json](./182522-in-search-of-light.json) |
 | In Search of Paradise | 182829 | [182829-in-search-of-paradise.json](./182829-in-search-of-paradise.json) |
 | In Search of Something | 334191 | [334191-in-search-of-something.json](./334191-in-search-of-something.json) |
