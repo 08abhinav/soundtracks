@@ -3025,6 +3025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigmarella | 190223 | [190223-enigmarella.json](./190223-enigmarella.json) |
 | Enigmas da Escuridão | 254992 | [254992-enigmas-da-escuridao.json](./254992-enigmas-da-escuridao.json) |
 | EnigmaSand | 152035 | [152035-enigmasand.json](./152035-enigmasand.json) |
+| Enigmash | 249647 | [249647-enigmash.json](./249647-enigmash.json) |
 | Enigmata: Stellar War | 118317 | [118317-enigmata-stellar-war.json](./118317-enigmata-stellar-war.json) |
 | Enigmatica 2: Expert | 255663 | [255663-enigmatica-2-expert.json](./255663-enigmatica-2-expert.json) |
 | Enigmatis 2: The Mists of Ravenwood | 17138 | [17138-enigmatis-2-the-mists-of-ravenwood.json](./17138-enigmatis-2-the-mists-of-ravenwood.json) |
