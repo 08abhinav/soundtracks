@@ -3976,6 +3976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Radius | 115062 | [115062-into-the-radius.json](./115062-into-the-radius.json) |
 | Into the Radius 2 | 279128 | [279128-into-the-radius-2.json](./279128-into-the-radius-2.json) |
 | Into the Restless Ruins | 295885 | [295885-into-the-restless-ruins.json](./295885-into-the-restless-ruins.json) |
+| Into the Sinkhole | 213201 | [213201-into-the-sinkhole.json](./213201-into-the-sinkhole.json) |
 | Into the Sky | 236142 | [236142-into-the-sky.json](./236142-into-the-sky.json) |
 | Into the Slimy Mines | 391764 | [391764-into-the-slimy-mines.json](./391764-into-the-slimy-mines.json) |
 | Into the Soup | 126554 | [126554-into-the-soup.json](./126554-into-the-soup.json) |
