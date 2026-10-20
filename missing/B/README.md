@@ -11070,7 +11070,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave | 216126 | [216126-brave.json](./216126-brave.json) |
 | Brave | 229231 | [229231-brave.json](./229231-brave.json) |
 | Brave | 230341 | [230341-brave.json](./230341-brave.json) |
-| Brave | 36312 | [36312-brave.json](./36312-brave.json) |
 | Brave | 6926 | [6926-brave.json](./6926-brave.json) |
 | Brave 22 | 263507 | [263507-brave-22.json](./263507-brave-22.json) |
 | Brave and Desire | 272782 | [272782-brave-and-desire.json](./272782-brave-and-desire.json) |
