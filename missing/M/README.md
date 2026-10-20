@@ -2429,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Map Snap | 112338 | [112338-map-snap.json](./112338-map-snap.json) |
 | MapaboX: Trivia & Quiz game | 232045 | [232045-mapabox-trivia-and-quiz-game.json](./232045-mapabox-trivia-and-quiz-game.json) |
 | Mapas do Horizonte - Um jogo para conhecer BH | 95588 | [95588-mapas-do-horizonte-um-jogo-para-conhecer-bh.json](./95588-mapas-do-horizonte-um-jogo-para-conhecer-bh.json) |
+| MapFriend | 226085 | [226085-mapfriend.json](./226085-mapfriend.json) |
 | MapGame | 341893 | [341893-mapgame.json](./341893-mapgame.json) |
 | MapGod | 412513 | [412513-mapgod.json](./412513-mapgod.json) |
 | Maple & Rufus: The Water Robbery | 296490 | [296490-maple-and-rufus-the-water-robbery.json](./296490-maple-and-rufus-the-water-robbery.json) |
@@ -4581,9 +4582,28 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maybe It Meant Something | 406560 | [406560-maybe-it-meant-something.json](./406560-maybe-it-meant-something.json) |
 | Maybe Tomorrow | 238740 | [238740-maybe-tomorrow.json](./238740-maybe-tomorrow.json) |
 | Maybe: Interactive Stories | 139886 | [139886-maybe-interactive-stories.json](./139886-maybe-interactive-stories.json) |
+| Maybe: Interactive Stories - A Bite of You | 226066 | [226066-maybe-interactive-stories-a-bite-of-you.json](./226066-maybe-interactive-stories-a-bite-of-you.json) |
+| Maybe: Interactive Stories - A Good Day to Be a Dog | 226061 | [226061-maybe-interactive-stories-a-good-day-to-be-a-dog.json](./226061-maybe-interactive-stories-a-good-day-to-be-a-dog.json) |
+| Maybe: Interactive Stories - Cliché is Classic | 226072 | [226072-maybe-interactive-stories-cliche-is-classic.json](./226072-maybe-interactive-stories-cliche-is-classic.json) |
+| Maybe: Interactive Stories - Flower Lane 2: A Lingering Fragrance | 226081 | [226081-maybe-interactive-stories-flower-lane-2-a-lingering-fragrance.json](./226081-maybe-interactive-stories-flower-lane-2-a-lingering-fragrance.json) |
+| Maybe: Interactive Stories - Flower Lane: A Record of Romance | 226080 | [226080-maybe-interactive-stories-flower-lane-a-record-of-romance.json](./226080-maybe-interactive-stories-flower-lane-a-record-of-romance.json) |
+| Maybe: Interactive Stories - Keeper of Mine | 226068 | [226068-maybe-interactive-stories-keeper-of-mine.json](./226068-maybe-interactive-stories-keeper-of-mine.json) |
+| Maybe: Interactive Stories - Kill Your Boss | 226069 | [226069-maybe-interactive-stories-kill-your-boss.json](./226069-maybe-interactive-stories-kill-your-boss.json) |
+| Maybe: Interactive Stories - Lady in Armour | 226064 | [226064-maybe-interactive-stories-lady-in-armour.json](./226064-maybe-interactive-stories-lady-in-armour.json) |
+| Maybe: Interactive Stories - Long Live the Empress II: Dragon Master | 226075 | [226075-maybe-interactive-stories-long-live-the-empress-ii-dragon-master.json](./226075-maybe-interactive-stories-long-live-the-empress-ii-dragon-master.json) |
+| Maybe: Interactive Stories - Long Live the Empress: Curse & Love | 226074 | [226074-maybe-interactive-stories-long-live-the-empress-curse-and-love.json](./226074-maybe-interactive-stories-long-live-the-empress-curse-and-love.json) |
+| Maybe: Interactive Stories - Lord of Demons | 226060 | [226060-maybe-interactive-stories-lord-of-demons.json](./226060-maybe-interactive-stories-lord-of-demons.json) |
+| Maybe: Interactive Stories - Mary Go Round | 226071 | [226071-maybe-interactive-stories-mary-go-round.json](./226071-maybe-interactive-stories-mary-go-round.json) |
+| Maybe: Interactive Stories - My Dear Goddess | 226065 | [226065-maybe-interactive-stories-my-dear-goddess.json](./226065-maybe-interactive-stories-my-dear-goddess.json) |
+| Maybe: Interactive Stories - My Ex Is So Into Me | 226062 | [226062-maybe-interactive-stories-my-ex-is-so-into-me.json](./226062-maybe-interactive-stories-my-ex-is-so-into-me.json) |
+| Maybe: Interactive Stories - Own My God | 226070 | [226070-maybe-interactive-stories-own-my-god.json](./226070-maybe-interactive-stories-own-my-god.json) |
 | Maybe: Interactive Stories - Princess Irene | 139695 | [139695-maybe-interactive-stories-princess-irene.json](./139695-maybe-interactive-stories-princess-irene.json) |
+| Maybe: Interactive Stories - Remarried Empress | 226063 | [226063-maybe-interactive-stories-remarried-empress.json](./226063-maybe-interactive-stories-remarried-empress.json) |
 | Maybe: Interactive Stories - Royal Blood | 103997 | [103997-maybe-interactive-stories-royal-blood.json](./103997-maybe-interactive-stories-royal-blood.json) |
+| Maybe: Interactive Stories - Royal Blood 2: Secret Lesson | 226077 | [226077-maybe-interactive-stories-royal-blood-2-secret-lesson.json](./226077-maybe-interactive-stories-royal-blood-2-secret-lesson.json) |
+| Maybe: Interactive Stories - The Tyrant's Bodyguard | 226078 | [226078-maybe-interactive-stories-the-tyrants-bodyguard.json](./226078-maybe-interactive-stories-the-tyrants-bodyguard.json) |
 | Maybe: Interactive Stories - Triangle of Kisses | 139694 | [139694-maybe-interactive-stories-triangle-of-kisses.json](./139694-maybe-interactive-stories-triangle-of-kisses.json) |
+| Maybe: Interactive Stories - Wild Pitch | 226073 | [226073-maybe-interactive-stories-wild-pitch.json](./226073-maybe-interactive-stories-wild-pitch.json) |
 | Mayday | 38577 | [38577-mayday.json](./38577-mayday.json) |
 | Mayday | 392860 | [392860-mayday.json](./392860-mayday.json) |
 | MayDay MayDie | 405973 | [405973-mayday-maydie.json](./405973-mayday-maydie.json) |
