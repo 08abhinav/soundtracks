@@ -19791,6 +19791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellifier | 317018 | [317018-stellifier.json](./317018-stellifier.json) |
 | Stellights | 102102 | [102102-stellights.json](./102102-stellights.json) |
 | Stellona | 152861 | [152861-stellona.json](./152861-stellona.json) |
+| Stelloop | 232818 | [232818-stelloop.json](./232818-stelloop.json) |
 | Stem | 24944 | [24944-stem.json](./24944-stem.json) |
 | Stencil Art | 147621 | [147621-stencil-art.json](./147621-stencil-art.json) |
 | Stendhal | 176198 | [176198-stendhal.json](./176198-stendhal.json) |
@@ -24985,6 +24986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Wrestlers: Slap's Fury | 355152 | [355152-super-wrestlers-slaps-fury.json](./355152-super-wrestlers-slaps-fury.json) |
 | Super Wumpus | 152915 | [152915-super-wumpus.json](./152915-super-wumpus.json) |
 | Super X Chess | 111044 | [111044-super-x-chess.json](./111044-super-x-chess.json) |
+| Super X-Day X: The New challengers | 232871 | [232871-super-x-day-x-the-new-challengers.json](./232871-super-x-day-x-the-new-challengers.json) |
 | Super Xblox 360! | 11055 | [11055-super-xblox-360.json](./11055-super-xblox-360.json) |
 | Super Xevious | 20128 | [20128-super-xevious.json](./20128-super-xevious.json) |
 | Super Xevious: Gamp no Nazo | 184275 | [184275-super-xevious-gamp-no-nazo.json](./184275-super-xevious-gamp-no-nazo.json) |
