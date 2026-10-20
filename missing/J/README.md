@@ -1269,10 +1269,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Masterpieces 2: Additional Puzzle Pack Set Vol.8 | 328843 | [328843-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-8.json](./328843-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-8.json) |
 | Jigsaw Masterpieces EX: Kawaii Cute Goddesses | 173123 | [173123-jigsaw-masterpieces-ex-kawaii-cute-goddesses.json](./173123-jigsaw-masterpieces-ex-kawaii-cute-goddesses.json) |
 | Jigsaw Masterpieces: Animals in Snow | 226329 | [226329-jigsaw-masterpieces-animals-in-snow.json](./226329-jigsaw-masterpieces-animals-in-snow.json) |
+| Jigsaw Masterpieces: Baby Animals | 238310 | [238310-jigsaw-masterpieces-baby-animals.json](./238310-jigsaw-masterpieces-baby-animals.json) |
 | Jigsaw Masterpieces: Beautiful Castles in Japan | 238219 | [238219-jigsaw-masterpieces-beautiful-castles-in-japan.json](./238219-jigsaw-masterpieces-beautiful-castles-in-japan.json) |
 | Jigsaw Masterpieces: Beautiful Castles in the World | 238220 | [238220-jigsaw-masterpieces-beautiful-castles-in-the-world.json](./238220-jigsaw-masterpieces-beautiful-castles-in-the-world.json) |
 | Jigsaw Masterpieces: Beautiful Sceneries in Japan | 238221 | [238221-jigsaw-masterpieces-beautiful-sceneries-in-japan.json](./238221-jigsaw-masterpieces-beautiful-sceneries-in-japan.json) |
 | Jigsaw Masterpieces: Beautiful Towns Around the World | 238223 | [238223-jigsaw-masterpieces-beautiful-towns-around-the-world.json](./238223-jigsaw-masterpieces-beautiful-towns-around-the-world.json) |
+| Jigsaw Masterpieces: Cats and Friends on the Suetoshi Farm / Kenta Igarashi | 238309 | [238309-jigsaw-masterpieces-cats-and-friends-on-the-suetoshi-farm-kenta-igarashi.json](./238309-jigsaw-masterpieces-cats-and-friends-on-the-suetoshi-farm-kenta-igarashi.json) |
 | Jigsaw Masterpieces: Colorful Sweets | 226332 | [226332-jigsaw-masterpieces-colorful-sweets.json](./226332-jigsaw-masterpieces-colorful-sweets.json) |
 | Jigsaw Masterpieces: Fantastical Waterfalls | 199837 | [199837-jigsaw-masterpieces-fantastical-waterfalls.json](./199837-jigsaw-masterpieces-fantastical-waterfalls.json) |
 | Jigsaw Masterpieces: Hawaii - Most Beautiful Places in the World | 199836 | [199836-jigsaw-masterpieces-hawaii-most-beautiful-places-in-the-world.json](./199836-jigsaw-masterpieces-hawaii-most-beautiful-places-in-the-world.json) |
