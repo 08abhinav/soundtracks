@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daisenryaku Perfect: Senjou no Hasha | 65049 | [65049-daisenryaku-perfect-senjou-no-hasha.json](./65049-daisenryaku-perfect-senjou-no-hasha.json) |
 | Daisenryaku Portable | 56396 | [56396-daisenryaku-portable.json](./56396-daisenryaku-portable.json) |
 | Daisenryaku Portable 2 | 56397 | [56397-daisenryaku-portable-2.json](./56397-daisenryaku-portable-2.json) |
+| Daisenryaku SSB | 225502 | [225502-daisenryaku-ssb.json](./225502-daisenryaku-ssb.json) |
 | Daisenryaku SSB2 | 368908 | [368908-daisenryaku-ssb2.json](./368908-daisenryaku-ssb2.json) |
 | Daisenryaku VII | 361318 | [361318-daisenryaku-vii.json](./361318-daisenryaku-vii.json) |
 | Daisenryaku VII DX | 361319 | [361319-daisenryaku-vii-dx.json](./361319-daisenryaku-vii-dx.json) |
@@ -6721,6 +6722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon World Re:Digitize Decode | 80507 | [80507-digimon-world-re-digitize-decode.json](./80507-digimon-world-re-digitize-decode.json) |
 | Digimon World Vice | 339254 | [339254-digimon-world-vice.json](./339254-digimon-world-vice.json) |
 | Digimon World: Digital Card Battle | 186116 | [186116-digimon-world-digital-card-battle.json](./186116-digimon-world-digital-card-battle.json) |
+| Digimon World: Next Order | 225498 | [225498-digimon-world-next-order.json](./225498-digimon-world-next-order.json) |
 | Digimon: Heroic Battle Spirit | 332590 | [332590-digimon-heroic-battle-spirit.json](./332590-digimon-heroic-battle-spirit.json) |
 | Digiquad | 301500 | [301500-digiquad.json](./301500-digiquad.json) |
 | Digit & Dash | 60255 | [60255-digit-and-dash.json](./60255-digit-and-dash.json) |
@@ -9666,6 +9668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom 64: Retribution | 201107 | [201107-doom-64-retribution.json](./201107-doom-64-retribution.json) |
 | DOOM 87: The Lost World | 257833 | [257833-doom-87-the-lost-world.json](./257833-doom-87-the-lost-world.json) |
 | DOOM Abort | 202841 | [202841-doom-abort.json](./202841-doom-abort.json) |
+| Doom Absolution | 225487 | [225487-doom-absolution.json](./225487-doom-absolution.json) |
 | Doom Anthology | 332005 | [332005-doom-anthology.json](./332005-doom-anthology.json) |
 | Doom Castle | 268867 | [268867-doom-castle.json](./268867-doom-castle.json) |
 | Doom CE | 195432 | [195432-doom-ce.json](./195432-doom-ce.json) |
@@ -12336,6 +12339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drink Pro Tycoon | 87997 | [87997-drink-pro-tycoon.json](./87997-drink-pro-tycoon.json) |
 | Drinkbox Vita Collection | 99542 | [99542-drinkbox-vita-collection.json](./99542-drinkbox-vita-collection.json) |
 | Drinking in the Hot Spring! | 330180 | [330180-drinking-in-the-hot-spring.json](./330180-drinking-in-the-hot-spring.json) |
+| Drinking Tea (with the Trans Boy You Secretly Have a Crush On) | 225519 | [225519-drinking-tea-with-the-trans-boy-you-secretly-have-a-crush-on.json](./225519-drinking-tea-with-the-trans-boy-you-secretly-have-a-crush-on.json) |
 | Drinks Company Tycoon | 173053 | [173053-drinks-company-tycoon.json](./173053-drinks-company-tycoon.json) |
 | Drinks Down Under | 291384 | [291384-drinks-down-under.json](./291384-drinks-down-under.json) |
 | Drinlan Yellow | 254979 | [254979-drinlan-yellow.json](./254979-drinlan-yellow.json) |
