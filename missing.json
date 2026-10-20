@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T22:13:30.888Z",
-  "total_missing": 239369,
+  "generated_at": "2026-10-20T22:18:09.585Z",
+  "total_missing": 239362,
   "games": [
     {
       "igdb_id": 191680,
@@ -48880,11 +48880,6 @@
       "igdb_id": 218530,
       "game_name": "Angry Birds Fuji TV",
       "file": "missing/A/218530-angry-birds-fuji-tv.json"
-    },
-    {
-      "igdb_id": 23412,
-      "game_name": "Angry Birds Go!",
-      "file": "missing/A/23412-angry-birds-go.json"
     },
     {
       "igdb_id": 245001,
@@ -137035,11 +137030,6 @@
       "igdb_id": 230341,
       "game_name": "Brave",
       "file": "missing/B/230341-brave.json"
-    },
-    {
-      "igdb_id": 36312,
-      "game_name": "Brave",
-      "file": "missing/B/36312-brave.json"
     },
     {
       "igdb_id": 6926,
@@ -813847,11 +813837,6 @@
       "file": "missing/R/281392-relics-the-recur-of-origin.json"
     },
     {
-      "igdb_id": 109742,
-      "game_name": "Relicta",
-      "file": "missing/R/109742-relicta.json"
-    },
-    {
       "igdb_id": 404831,
       "game_name": "Relief",
       "file": "missing/R/404831-relief.json"
@@ -892107,11 +892092,6 @@
       "file": "missing/S/118869-sky-force-bundle.json"
     },
     {
-      "igdb_id": 19469,
-      "game_name": "Sky Force Reloaded",
-      "file": "missing/S/19469-sky-force-reloaded.json"
-    },
-    {
       "igdb_id": 277033,
       "game_name": "Sky Fortress: Odyssey",
       "file": "missing/S/277033-sky-fortress-odyssey.json"
@@ -954530,11 +954510,6 @@
       "igdb_id": 327399,
       "game_name": "Submerged Mystery: Takodachi",
       "file": "missing/S/327399-submerged-mystery-takodachi.json"
-    },
-    {
-      "igdb_id": 141373,
-      "game_name": "Submerged: Hidden Depths",
-      "file": "missing/S/141373-submerged-hidden-depths.json"
     },
     {
       "igdb_id": 341931,
@@ -1047580,11 +1047555,6 @@
       "igdb_id": 385072,
       "game_name": "The Sweetness that Returned",
       "file": "missing/T/385072-the-sweetness-that-returned.json"
-    },
-    {
-      "igdb_id": 18006,
-      "game_name": "The Swindle",
-      "file": "missing/T/18006-the-swindle.json"
     },
     {
       "igdb_id": 137693,
@@ -1173735,11 +1173705,6 @@
       "igdb_id": 413887,
       "game_name": "Wunkfall",
       "file": "missing/W/413887-wunkfall.json"
-    },
-    {
-      "igdb_id": 26175,
-      "game_name": "Wuppo",
-      "file": "missing/W/26175-wuppo.json"
     },
     {
       "igdb_id": 124120,
