@@ -1448,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Nikki: Mod(ified) Project | 229682 | [229682-yume-nikki-mod-ified-project.json](./229682-yume-nikki-mod-ified-project.json) |
 | Yume Nikki: Solitude | 202349 | [202349-yume-nikki-solitude.json](./202349-yume-nikki-solitude.json) |
 | Yume Nisshi | 145033 | [145033-yume-nisshi.json](./145033-yume-nisshi.json) |
+| Yume no Office | 255546 | [255546-yume-no-office.json](./255546-yume-no-office.json) |
 | Yume no Tamakura | 370778 | [370778-yume-no-tamakura.json](./370778-yume-no-tamakura.json) |
 | Yume Nyaki | 201639 | [201639-yume-nyaki.json](./201639-yume-nyaki.json) |
 | Yume Oukoku to Nemureru 100-nin no Ouji-sama | 109062 | [109062-yume-oukoku-to-nemureru-100-nin-no-ouji-sama.json](./109062-yume-oukoku-to-nemureru-100-nin-no-ouji-sama.json) |
