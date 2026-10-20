@@ -2185,7 +2185,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AD Blocker: An Action Puzzle Game | 357970 | [357970-ad-blocker-an-action-puzzle-game.json](./357970-ad-blocker-an-action-puzzle-game.json) |
 | Ad Exitum | 33466 | [33466-ad-exitum.json](./33466-ad-exitum.json) |
 | Ad Infinitum | 47222 | [47222-ad-infinitum.json](./47222-ad-infinitum.json) |
-| Ad Infinitum | 77338 | [77338-ad-infinitum.json](./77338-ad-infinitum.json) |
 | Ad Infinitum: Supporter Edition | 336136 | [336136-ad-infinitum-supporter-edition.json](./336136-ad-infinitum-supporter-edition.json) |
 | Ad Memoriam | 309575 | [309575-ad-memoriam.json](./309575-ad-memoriam.json) |
 | Ad Mortem | 262441 | [262441-ad-mortem.json](./262441-ad-mortem.json) |
@@ -2521,6 +2520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure C: The Ship of Doom | 72641 | [72641-adventure-c-the-ship-of-doom.json](./72641-adventure-c-the-ship-of-doom.json) |
 | Adventure Canoe | 392769 | [392769-adventure-canoe.json](./392769-adventure-canoe.json) |
 | Adventure Climb VR | 116821 | [116821-adventure-climb-vr.json](./116821-adventure-climb-vr.json) |
+| Adventure Climb VR: Brave the Elements | 209300 | [209300-adventure-climb-vr-brave-the-elements.json](./209300-adventure-climb-vr-brave-the-elements.json) |
 | Adventure Company | 57326 | [57326-adventure-company.json](./57326-adventure-company.json) |
 | Adventure Cop | 118092 | [118092-adventure-cop.json](./118092-adventure-cop.json) |
 | Adventure Cop 2 | 121627 | [121627-adventure-cop-2.json](./121627-adventure-cop-2.json) |
@@ -3382,6 +3382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of History II: Definitive Edition | 399162 | [399162-age-of-history-ii-definitive-edition.json](./399162-age-of-history-ii-definitive-edition.json) |
 | Age of Irata | 213429 | [213429-age-of-irata.json](./213429-age-of-irata.json) |
 | Age of Jura | 169803 | [169803-age-of-jura.json](./169803-age-of-jura.json) |
+| Age of Kita | 208205 | [208205-age-of-kita.json](./208205-age-of-kita.json) |
 | Age of Legion | 148968 | [148968-age-of-legion.json](./148968-age-of-legion.json) |
 | Age of Mage | 176191 | [176191-age-of-mage.json](./176191-age-of-mage.json) |
 | Age of Magic CCG | 33894 | [33894-age-of-magic-ccg.json](./33894-age-of-magic-ccg.json) |
@@ -6399,6 +6400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AMF Pro Bowl 3D | 93999 | [93999-amf-pro-bowl-3d.json](./93999-amf-pro-bowl-3d.json) |
 | AMFM | 315622 | [315622-amfm.json](./315622-amfm.json) |
 | AMG | 153143 | [153143-amg.json](./153143-amg.json) |
+| AMG2 | 208206 | [208206-amg2.json](./208206-amg2.json) |
 | Ami | 276791 | [276791-ami.json](./276791-ami.json) |
 | Ami's Room | 216211 | [216211-amis-room.json](./216211-amis-room.json) |
 | Amicade | 254027 | [254027-amicade.json](./254027-amicade.json) |
@@ -8999,6 +9001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arashi: Castles of Sin | 159109 | [159109-arashi-castles-of-sin.json](./159109-arashi-castles-of-sin.json) |
 | Arasuji de Kitaeru: Hayamimi no Susume DS | 269647 | [269647-arasuji-de-kitaeru-hayamimi-no-susume-ds.json](./269647-arasuji-de-kitaeru-hayamimi-no-susume-ds.json) |
 | Arasuji de Oboeru Sokudoku no Susume DS | 269646 | [269646-arasuji-de-oboeru-sokudoku-no-susume-ds.json](./269646-arasuji-de-oboeru-sokudoku-no-susume-ds.json) |
+| Arat | 208207 | [208207-arat.json](./208207-arat.json) |
 | Arata Haunted Asylum | 216669 | [216669-arata-haunted-asylum.json](./216669-arata-haunted-asylum.json) |
 | Arazok's Tomb | 14264 | [14264-arazoks-tomb.json](./14264-arazoks-tomb.json) |
 | ARB: Anomalous Research Bureau - Museum | 402499 | [402499-arb-anomalous-research-bureau-museum.json](./402499-arb-anomalous-research-bureau-museum.json) |
@@ -9483,7 +9486,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Snooker | 84177 | [84177-arcade-snooker.json](./84177-arcade-snooker.json) |
 | Arcade Soccer | 15599 | [15599-arcade-soccer.json](./15599-arcade-soccer.json) |
 | Arcade Space Survivor | 303342 | [303342-arcade-space-survivor.json](./303342-arcade-space-survivor.json) |
-| Arcade Spirits | 106986 | [106986-arcade-spirits.json](./106986-arcade-spirits.json) |
 | Arcade Spirits: The New Challengers | 145278 | [145278-arcade-spirits-the-new-challengers.json](./145278-arcade-spirits-the-new-challengers.json) |
 | Arcade Sports | 51093 | [51093-arcade-sports.json](./51093-arcade-sports.json) |
 | Arcade Squad | 195154 | [195154-arcade-squad.json](./195154-arcade-squad.json) |
@@ -13112,6 +13114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ava's Manor | 406254 | [406254-avas-manor.json](./406254-avas-manor.json) |
 | Ava's Quest HD | 175753 | [175753-avas-quest-hd.json](./175753-avas-quest-hd.json) |
 | Ava's Variations | 384670 | [384670-avas-variations.json](./384670-avas-variations.json) |
+| Avabel Lupinus | 208213 | [208213-avabel-lupinus.json](./208213-avabel-lupinus.json) |
 | Avabel Online | 38918 | [38918-avabel-online.json](./38918-avabel-online.json) |
 | Avadon 2: The Corruption | 10036 | [10036-avadon-2-the-corruption.json](./10036-avadon-2-the-corruption.json) |
 | Avadon 3: The Warborn | 23241 | [23241-avadon-3-the-warborn.json](./23241-avadon-3-the-warborn.json) |
