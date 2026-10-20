@@ -606,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia Alive | 68686 | [68686-mafia-alive.json](./68686-mafia-alive.json) |
 | Mafia Business Simulator | 394480 | [394480-mafia-business-simulator.json](./394480-mafia-business-simulator.json) |
 | Mafia Clicker | 241956 | [241956-mafia-clicker.json](./241956-mafia-clicker.json) |
+| Mafia Esper | 219970 | [219970-mafia-esper.json](./219970-mafia-esper.json) |
 | Mafia Gambling | 89266 | [89266-mafia-gambling.json](./89266-mafia-gambling.json) |
 | Mafia Gangster City | 151266 | [151266-mafia-gangster-city.json](./151266-mafia-gangster-city.json) |
 | Mafia Hotel | 416006 | [416006-mafia-hotel.json](./416006-mafia-hotel.json) |
@@ -4426,6 +4427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mavis Beacon Teaches Typing! for Kids | 94378 | [94378-mavis-beacon-teaches-typing-for-kids.json](./94378-mavis-beacon-teaches-typing-for-kids.json) |
 | Maw | 353975 | [353975-maw.json](./353975-maw.json) |
 | Mawang: Dark Lord Defense | 350396 | [350396-mawang-dark-lord-defense.json](./350396-mawang-dark-lord-defense.json) |
+| Mawangseonge Daara! Yongbyeongdan Seutori | 219976 | [219976-mawangseonge-daara-yongbyeongdan-seutori.json](./219976-mawangseonge-daara-yongbyeongdan-seutori.json) |
 | Mawaranu Hoshi no Stellarium | 358343 | [358343-mawaranu-hoshi-no-stellarium.json](./358343-mawaranu-hoshi-no-stellarium.json) |
 | Mawaskes | 45999 | [45999-mawaskes.json](./45999-mawaskes.json) |
 | Mawkey The Last Macaw | 358950 | [358950-mawkey-the-last-macaw.json](./358950-mawkey-the-last-macaw.json) |
@@ -12010,6 +12012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster MIX | 108394 | [108394-monster-mix.json](./108394-monster-mix.json) |
 | Monster MMORPG | 340727 | [340727-monster-mmorpg.json](./340727-monster-mmorpg.json) |
 | Monster Monpiece | 20094 | [20094-monster-monpiece.json](./20094-monster-monpiece.json) |
+| Monster Monster | 219988 | [219988-monster-monster.json](./219988-monster-monster.json) |
 | Monster Munch | 342607 | [342607-monster-munch.json](./342607-monster-munch.json) |
 | Monster Museum | 245826 | [245826-monster-museum.json](./245826-monster-museum.json) |
 | Monster Museum: Tidy Up the Collection! | 413484 | [413484-monster-museum-tidy-up-the-collection.json](./413484-monster-museum-tidy-up-the-collection.json) |
@@ -15509,6 +15512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hospital Town | 299209 | [299209-my-hospital-town.json](./299209-my-hospital-town.json) |
 | My Hot Beach Vacation | 367208 | [367208-my-hot-beach-vacation.json](./367208-my-hot-beach-vacation.json) |
 | My Hot Neighbor Kayla | 297152 | [297152-my-hot-neighbor-kayla.json](./297152-my-hot-neighbor-kayla.json) |
+| My Hot-Pot Story | 219983 | [219983-my-hot-pot-story.json](./219983-my-hot-pot-story.json) |
 | My Hotel | 199122 | [199122-my-hotel.json](./199122-my-hotel.json) |
 | My Hotel Romance | 298900 | [298900-my-hotel-romance.json](./298900-my-hotel-romance.json) |
 | My Hotel Simulator | 372559 | [372559-my-hotel-simulator.json](./372559-my-hotel-simulator.json) |
@@ -16545,6 +16549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystragedy | 97475 | [97475-mystragedy.json](./97475-mystragedy.json) |
 | MyStylist | 68303 | [68303-mystylist.json](./68303-mystylist.json) |
 | mySudoku | 87571 | [87571-mysudoku.json](./87571-mysudoku.json) |
+| MyTale | 219979 | [219979-mytale.json](./219979-mytale.json) |
 | MyTavern | 295328 | [295328-mytavern.json](./295328-mytavern.json) |
 | MyTeardrop | 319097 | [319097-myteardrop.json](./319097-myteardrop.json) |
 | Myth | 12186 | [12186-myth.json](./12186-myth.json) |
