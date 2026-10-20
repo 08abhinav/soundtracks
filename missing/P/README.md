@@ -9428,6 +9428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Quiz | 246477 | [246477-pool-quiz.json](./246477-pool-quiz.json) |
 | Pool Revolution: Cue Sports | 70649 | [70649-pool-revolution-cue-sports.json](./70649-pool-revolution-cue-sports.json) |
 | Pool Shark | 169226 | [169226-pool-shark.json](./169226-pool-shark.json) |
+| Pool Shark | 205949 | [205949-pool-shark.json](./205949-pool-shark.json) |
 | Pool Shark 2 | 5984 | [5984-pool-shark-2.json](./5984-pool-shark-2.json) |
 | Pool Sharks | 92437 | [92437-pool-sharks.json](./92437-pool-sharks.json) |
 | Pool Together | 251477 | [251477-pool-together.json](./251477-pool-together.json) |
