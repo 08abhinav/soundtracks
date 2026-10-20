@@ -5522,6 +5522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop Legend | 247032 | [247032-loop-legend.json](./247032-loop-legend.json) |
 | Loop Line | 179449 | [179449-loop-line.json](./179449-loop-line.json) |
 | Loop Loader | 419325 | [419325-loop-loader.json](./419325-loop-loader.json) |
+| Loop Loop Room | 255550 | [255550-loop-loop-room.json](./255550-loop-loop-room.json) |
 | Loop Merchant | 364669 | [364669-loop-merchant.json](./364669-loop-merchant.json) |
 | Loop Miner | 404411 | [404411-loop-miner.json](./404411-loop-miner.json) |
 | Loop My Crank | 374629 | [374629-loop-my-crank.json](./374629-loop-my-crank.json) |
@@ -5711,6 +5712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of the Shades | 72031 | [72031-lord-of-the-shades.json](./72031-lord-of-the-shades.json) |
 | Lord of the Sword | 46671 | [46671-lord-of-the-sword.json](./46671-lord-of-the-sword.json) |
 | Lord of the Wilds | 337437 | [337437-lord-of-the-wilds.json](./337437-lord-of-the-wilds.json) |
+| Lord of the Wings | 255537 | [255537-lord-of-the-wings.json](./255537-lord-of-the-wings.json) |
 | Lord of the Сlick | 207815 | [207815-lord-of-the-lick.json](./207815-lord-of-the-lick.json) |
 | Lord of Ultima | 66713 | [66713-lord-of-ultima.json](./66713-lord-of-ultima.json) |
 | Lord of Vermilion | 68298 | [68298-lord-of-vermilion.json](./68298-lord-of-vermilion.json) |
