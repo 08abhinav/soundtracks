@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoon Pizza Rush | 256737 | [256737-raccoon-pizza-rush.json](./256737-raccoon-pizza-rush.json) |
 | Raccoon Rascal | 38262 | [38262-raccoon-rascal.json](./38262-raccoon-rascal.json) |
 | Raccoon Rascals | 230211 | [230211-raccoon-rascals.json](./230211-raccoon-rascals.json) |
+| Raccoon Rascals | 244107 | [244107-raccoon-rascals.json](./244107-raccoon-rascals.json) |
 | Raccoon Roller | 211218 | [211218-raccoon-roller.json](./211218-raccoon-roller.json) |
 | Raccoon Squad | 261860 | [261860-raccoon-squad.json](./261860-raccoon-squad.json) |
 | Raccoon Survival Simulator | 401540 | [401540-raccoon-survival-simulator.json](./401540-raccoon-survival-simulator.json) |
@@ -4528,6 +4529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Snake Adventures | 107915 | [107915-retro-snake-adventures.json](./107915-retro-snake-adventures.json) |
 | Retro Sonic | 127903 | [127903-retro-sonic.json](./127903-retro-sonic.json) |
 | Retro Space Shooter | 75186 | [75186-retro-space-shooter.json](./75186-retro-space-shooter.json) |
+| Retro Speed 2 | 244088 | [244088-retro-speed-2.json](./244088-retro-speed-2.json) |
 | Retro Sphere | 81656 | [81656-retro-sphere.json](./81656-retro-sphere.json) |
 | Retro Sports Bundle | 154966 | [154966-retro-sports-bundle.json](./154966-retro-sports-bundle.json) |
 | Retro Style: Pixel Art Jigsaw Puzzles | 239063 | [239063-retro-style-pixel-art-jigsaw-puzzles.json](./239063-retro-style-pixel-art-jigsaw-puzzles.json) |
@@ -9142,6 +9144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run or Die VR | 283838 | [283838-run-or-die-vr.json](./283838-run-or-die-vr.json) |
 | Run or Fight | 161325 | [161325-run-or-fight.json](./161325-run-or-fight.json) |
 | Run Part Two \| Can you trust me? | 113484 | [113484-run-part-two-can-you-trust-me.json](./113484-run-part-two-can-you-trust-me.json) |
+| Run Penguin Run | 244100 | [244100-run-penguin-run.json](./244100-run-penguin-run.json) |
 | Run Pharaoh Run! | 181329 | [181329-run-pharaoh-run.json](./181329-run-pharaoh-run.json) |
 | Run Pizza Run | 275705 | [275705-run-pizza-run.json](./275705-run-pizza-run.json) |
 | Run Pizza Run 2 | 332988 | [332988-run-pizza-run-2.json](./332988-run-pizza-run-2.json) |
