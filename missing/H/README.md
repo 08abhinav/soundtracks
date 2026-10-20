@@ -5078,6 +5078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden & Dangerous Deluxe | 73774 | [73774-hidden-and-dangerous-deluxe.json](./73774-hidden-and-dangerous-deluxe.json) |
 | Hidden & Dangerous: Action Pack | 77208 | [77208-hidden-and-dangerous-action-pack.json](./77208-hidden-and-dangerous-action-pack.json) |
 | Hidden & Dangerous: Devil's Bridge | 108 | [108-hidden-and-dangerous-devils-bridge.json](./108-hidden-and-dangerous-devils-bridge.json) |
+| Hidden Agenda | 245669 | [245669-hidden-agenda.json](./245669-hidden-agenda.json) |
 | Hidden Agenda | 37092 | [37092-hidden-agenda.json](./37092-hidden-agenda.json) |
 | Hidden Alphabets: Wallace & Gromit | 334913 | [334913-hidden-alphabets-wallace-and-gromit.json](./334913-hidden-alphabets-wallace-and-gromit.json) |
 | Hidden Among Thieves | 340470 | [340470-hidden-among-thieves.json](./340470-hidden-among-thieves.json) |
@@ -5517,6 +5518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide and Seek | 131331 | [131331-hide-and-seek.json](./131331-hide-and-seek.json) |
 | Hide and Seek | 153153 | [153153-hide-and-seek.json](./153153-hide-and-seek.json) |
 | Hide and Seek | 234520 | [234520-hide-and-seek.json](./234520-hide-and-seek.json) |
+| Hide and Seek | 245670 | [245670-hide-and-seek.json](./245670-hide-and-seek.json) |
 | Hide and Seek | 275354 | [275354-hide-and-seek.json](./275354-hide-and-seek.json) |
 | Hide and Seek | 340003 | [340003-hide-and-seek.json](./340003-hide-and-seek.json) |
 | Hide and Seek | 361342 | [361342-hide-and-seek.json](./361342-hide-and-seek.json) |
@@ -6702,6 +6704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hologram Time Traveler | 8936 | [8936-hologram-time-traveler.json](./8936-hologram-time-traveler.json) |
 | HoloGrid: Monster Battle | 56377 | [56377-hologrid-monster-battle.json](./56377-hologrid-monster-battle.json) |
 | Hololive All-Stars Battle Tiles | 379575 | [379575-hololive-all-stars-battle-tiles.json](./379575-hololive-all-stars-battle-tiles.json) |
+| Hololive CouncilRyS RPG | 245681 | [245681-hololive-councilrys-rpg.json](./245681-hololive-councilrys-rpg.json) |
 | Hololive Dreams | 384205 | [384205-hololive-dreams.json](./384205-hololive-dreams.json) |
 | Hololive Error | 186622 | [186622-hololive-error.json](./186622-hololive-error.json) |
 | Hololive Fantasy Battle | 376877 | [376877-hololive-fantasy-battle.json](./376877-hololive-fantasy-battle.json) |
