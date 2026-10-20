@@ -15093,6 +15093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Star: Heart of a Soldier | 292628 | [292628-space-star-heart-of-a-soldier.json](./292628-space-star-heart-of-a-soldier.json) |
 | Space Station 13 | 66396 | [66396-space-station-13.json](./66396-space-station-13.json) |
 | Space Station Alpha | 35964 | [35964-space-station-alpha.json](./35964-space-station-alpha.json) |
+| Space Station Alpha: The Encounter | 208770 | [208770-space-station-alpha-the-encounter.json](./208770-space-station-alpha-the-encounter.json) |
 | Space Station Cargo Simulator | 149241 | [149241-space-station-cargo-simulator.json](./149241-space-station-cargo-simulator.json) |
 | Space Station Defender | 293533 | [293533-space-station-defender.json](./293533-space-station-defender.json) |
 | Space Station Escape | 282636 | [282636-space-station-escape.json](./282636-space-station-escape.json) |
@@ -15934,6 +15935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Tonaeru | 319150 | [319150-spell-tonaeru.json](./319150-spell-tonaeru.json) |
 | Spell Weaver | 335381 | [335381-spell-weaver.json](./335381-spell-weaver.json) |
 | Spell Welders | 199501 | [199501-spell-welders.json](./199501-spell-welders.json) |
+| Spellagories | 208784 | [208784-spellagories.json](./208784-spellagories.json) |
 | Spellario | 171993 | [171993-spellario.json](./171993-spellario.json) |
 | Spellarium | 250164 | [250164-spellarium.json](./250164-spellarium.json) |
 | Spellarium 11 | 311594 | [311594-spellarium-11.json](./311594-spellarium-11.json) |
@@ -16110,6 +16112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spend Bill Gates' Money | 409850 | [409850-spend-bill-gates-money.json](./409850-spend-bill-gates-money.json) |
 | Spend the Night with Kitty | 288122 | [288122-spend-the-night-with-kitty.json](./288122-spend-the-night-with-kitty.json) |
 | Spent | 174177 | [174177-spent.json](./174177-spent.json) |
+| Spere Jongg | 208786 | [208786-spere-jongg.json](./208786-spere-jongg.json) |
 | Sperm Into Labia | 310742 | [310742-sperm-into-labia.json](./310742-sperm-into-labia.json) |
 | Sperma | 232698 | [232698-sperma.json](./232698-sperma.json) |
 | SpermDash | 157009 | [157009-spermdash.json](./157009-spermdash.json) |
@@ -16121,6 +16124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SPGP Super Polygon Grand Prix | 274542 | [274542-spgp-super-polygon-grand-prix.json](./274542-spgp-super-polygon-grand-prix.json) |
 | Sphaera | 103771 | [103771-sphaera.json](./103771-sphaera.json) |
 | Sphera Turris | 87950 | [87950-sphera-turris.json](./87950-sphera-turris.json) |
+| Sphera: The Inner Journey | 208787 | [208787-sphera-the-inner-journey.json](./208787-sphera-the-inner-journey.json) |
 | Spherakill | 97717 | [97717-spherakill.json](./97717-spherakill.json) |
 | Sphere | 264887 | [264887-sphere.json](./264887-sphere.json) |
 | Sphere | 296002 | [296002-sphere.json](./296002-sphere.json) |
@@ -16258,6 +16262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man 2 | 80446 | [80446-spider-man-2.json](./80446-spider-man-2.json) |
 | Spider-Man 2 Handheld Game | 230180 | [230180-spider-man-2-handheld-game.json](./230180-spider-man-2-handheld-game.json) |
 | Spider-Man 2 Pinball | 224659 | [224659-spider-man-2-pinball.json](./224659-spider-man-2-pinball.json) |
+| Spider-Man 2: Activity Center | 208788 | [208788-spider-man-2-activity-center.json](./208788-spider-man-2-activity-center.json) |
 | Spider-Man 2: The Game | 149275 | [149275-spider-man-2-the-game.json](./149275-spider-man-2-the-game.json) |
 | Spider-Man 2: The Sinister Six | 49971 | [49971-spider-man-2-the-sinister-six.json](./49971-spider-man-2-the-sinister-six.json) |
 | Spider-Man 2: The Snap Game | 224660 | [224660-spider-man-2-the-snap-game.json](./224660-spider-man-2-the-snap-game.json) |
@@ -16821,6 +16826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob Big Guy Challenge | 382339 | [382339-spongebob-big-guy-challenge.json](./382339-spongebob-big-guy-challenge.json) |
 | Spongebob Boat-O-Cross | 235316 | [235316-spongebob-boat-o-cross.json](./235316-spongebob-boat-o-cross.json) |
 | Spongebob Boo or Boom | 307863 | [307863-spongebob-boo-or-boom.json](./307863-spongebob-boo-or-boom.json) |
+| SpongeBob Diner Dash 2: Two Times the Trouble | 208781 | [208781-spongebob-diner-dash-2-two-times-the-trouble.json](./208781-spongebob-diner-dash-2-two-times-the-trouble.json) |
 | SpongeBob Excludes Squidward | 388139 | [388139-spongebob-excludes-squidward.json](./388139-spongebob-excludes-squidward.json) |
 | SpongeBob GameStation | 196552 | [196552-spongebob-gamestation.json](./196552-spongebob-gamestation.json) |
 | SpongeBob HeroPants | 8474 | [8474-spongebob-heropants.json](./8474-spongebob-heropants.json) |
@@ -16832,6 +16838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants | 220120 | [220120-spongebob-squarepants.json](./220120-spongebob-squarepants.json) |
 | SpongeBob SquarePants | 318737 | [318737-spongebob-squarepants.json](./318737-spongebob-squarepants.json) |
 | SpongeBob SquarePants 3D Obstacle Odyssey | 46728 | [46728-spongebob-squarepants-3d-obstacle-odyssey.json](./46728-spongebob-squarepants-3d-obstacle-odyssey.json) |
+| SpongeBob SquarePants and the Nicktoons Gravjet Racing | 208780 | [208780-spongebob-squarepants-and-the-nicktoons-gravjet-racing.json](./208780-spongebob-squarepants-and-the-nicktoons-gravjet-racing.json) |
 | SpongeBob SquarePants Boating School | 382924 | [382924-spongebob-squarepants-boating-school.json](./382924-spongebob-squarepants-boating-school.json) |
 | SpongeBob SquarePants Bowling | 23599 | [23599-spongebob-squarepants-bowling.json](./23599-spongebob-squarepants-bowling.json) |
 | SpongeBob SquarePants Bubble Ball | 382921 | [382921-spongebob-squarepants-bubble-ball.json](./382921-spongebob-squarepants-bubble-ball.json) |
@@ -17113,6 +17120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sportsman's Paradise 2 | 126293 | [126293-sportsmans-paradise-2.json](./126293-sportsmans-paradise-2.json) |
 | Sporty Games | 188899 | [188899-sporty-games.json](./188899-sporty-games.json) |
 | Spot | 119584 | [119584-spot.json](./119584-spot.json) |
+| Spot and His Friends | 208768 | [208768-spot-and-his-friends.json](./208768-spot-and-his-friends.json) |
 | Spot Challenge Vol. 1 | 331912 | [331912-spot-challenge-vol-1.json](./331912-spot-challenge-vol-1.json) |
 | Spot Challenge Vol. 2 | 331921 | [331921-spot-challenge-vol-2.json](./331921-spot-challenge-vol-2.json) |
 | Spot Girls Difference | 114330 | [114330-spot-girls-difference.json](./114330-spot-girls-difference.json) |
@@ -17151,6 +17159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spotless | 275089 | [275089-spotless.json](./275089-spotless.json) |
 | Spotlight | 277565 | [277565-spotlight.json](./277565-spotlight.json) |
 | Spotlight | 279739 | [279739-spotlight.json](./279739-spotlight.json) |
+| Spotlight Fever | 208776 | [208776-spotlight-fever.json](./208776-spotlight-fever.json) |
 | Spotlight: Choose Your Romance | 298871 | [298871-spotlight-choose-your-romance.json](./298871-spotlight-choose-your-romance.json) |
 | Spotlight!!! | 299479 | [299479-spotlight.json](./299479-spotlight.json) |
 | Spotsanity | 420542 | [420542-spotsanity.json](./420542-spotsanity.json) |
@@ -17239,6 +17248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprint 4 | 61312 | [61312-sprint-4.json](./61312-sprint-4.json) |
 | Sprint 8 | 61311 | [61311-sprint-8.json](./61311-sprint-8.json) |
 | Sprint Car Challenge | 43333 | [43333-sprint-car-challenge.json](./43333-sprint-car-challenge.json) |
+| Sprint Cars 2: Showdown at Eldora | 208777 | [208777-sprint-cars-2-showdown-at-eldora.json](./208777-sprint-cars-2-showdown-at-eldora.json) |
 | Sprint City | 384167 | [384167-sprint-city.json](./384167-sprint-city.json) |
 | Sprint Journey | 217809 | [217809-sprint-journey.json](./217809-sprint-journey.json) |
 | Sprint Journey: Nitro | 216143 | [216143-sprint-journey-nitro.json](./216143-sprint-journey-nitro.json) |
@@ -17270,6 +17280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sproggiwood | 14686 | [14686-sproggiwood.json](./14686-sproggiwood.json) |
 | Sproing | 329401 | [329401-sproing.json](./329401-sproing.json) |
 | Sproing! | 263372 | [263372-sproing.json](./263372-sproing.json) |
+| Sproink | 208773 | [208773-sproink.json](./208773-sproink.json) |
 | Sprout | 198150 | [198150-sprout.json](./198150-sprout.json) |
 | Sprout Crafter | 329587 | [329587-sprout-crafter.json](./329587-sprout-crafter.json) |
 | Sprout Lands | 193481 | [193481-sprout-lands.json](./193481-sprout-lands.json) |
@@ -17320,6 +17331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Drops | 307538 | [307538-spy-drops.json](./307538-spy-drops.json) |
 | Spy Fiction | 43327 | [43327-spy-fiction.json](./43327-spy-fiction.json) |
 | Spy Fox 3: Operation Ozone | 7653 | [7653-spy-fox-3-operation-ozone.json](./7653-spy-fox-3-operation-ozone.json) |
+| Spy Fox Dry: Cereal and Cheese Chase - Activity Game | 208772 | [208772-spy-fox-dry-cereal-and-cheese-chase-activity-game.json](./208772-spy-fox-dry-cereal-and-cheese-chase-activity-game.json) |
 | Spy Game: Mission in Moskow | 241331 | [241331-spy-game-mission-in-moskow.json](./241331-spy-game-mission-in-moskow.json) |
 | Spy Games: Elevator Mission | 5205 | [5205-spy-games-elevator-mission.json](./5205-spy-games-elevator-mission.json) |
 | Spy Girls: Undercover Agent | 206200 | [206200-spy-girls-undercover-agent.json](./206200-spy-girls-undercover-agent.json) |
@@ -20286,6 +20298,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticky Zeitgeist: Episode 3 - A Trick With Ants | 178505 | [178505-sticky-zeitgeist-episode-3-a-trick-with-ants.json](./178505-sticky-zeitgeist-episode-3-a-trick-with-ants.json) |
 | Stickya Adventurya | 314648 | [314648-stickya-adventurya.json](./314648-stickya-adventurya.json) |
 | Stickyban | 338736 | [338736-stickyban.json](./338736-stickyban.json) |
+| Stickybear: Preschool | 208766 | [208766-stickybear-preschool.json](./208766-stickybear-preschool.json) |
+| Stickybear: Spelling | 208767 | [208767-stickybear-spelling.json](./208767-stickybear-spelling.json) |
 | StickyBee | 74975 | [74975-stickybee.json](./74975-stickybee.json) |
 | StickyBots | 112184 | [112184-stickybots.json](./112184-stickybots.json) |
 | StickyJump | 74974 | [74974-stickyjump.json](./74974-stickyjump.json) |
@@ -21023,6 +21037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streamer Simulator | 175762 | [175762-streamer-simulator.json](./175762-streamer-simulator.json) |
 | Streamer Top | 370843 | [370843-streamer-top.json](./370843-streamer-top.json) |
 | Streamer vs. Chat | 414605 | [414605-streamer-vs-chat.json](./414605-streamer-vs-chat.json) |
+| Streamer's Court | 208817 | [208817-streamers-court.json](./208817-streamers-court.json) |
 | StreamerFun | 413064 | [413064-streamerfun.json](./413064-streamerfun.json) |
 | Streamers Cleaning Simulator | 312422 | [312422-streamers-cleaning-simulator.json](./312422-streamers-cleaning-simulator.json) |
 | Streamers Interactive Quiz Game | 343454 | [343454-streamers-interactive-quiz-game.json](./343454-streamers-interactive-quiz-game.json) |
@@ -23634,6 +23649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Greece | 195257 | [195257-super-jigsaw-puzzle-generations-greece.json](./195257-super-jigsaw-puzzle-generations-greece.json) |
 | Super Jigsaw Puzzle: Generations - Halloween Puzzles | 155635 | [155635-super-jigsaw-puzzle-generations-halloween-puzzles.json](./155635-super-jigsaw-puzzle-generations-halloween-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Horses Puzzles | 155626 | [155626-super-jigsaw-puzzle-generations-horses-puzzles.json](./155626-super-jigsaw-puzzle-generations-horses-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Ice Creams | 208816 | [208816-super-jigsaw-puzzle-generations-ice-creams.json](./208816-super-jigsaw-puzzle-generations-ice-creams.json) |
 | Super Jigsaw Puzzle: Generations - Iceland | 155614 | [155614-super-jigsaw-puzzle-generations-iceland.json](./155614-super-jigsaw-puzzle-generations-iceland.json) |
 | Super Jigsaw Puzzle: Generations - Imagination | 193143 | [193143-super-jigsaw-puzzle-generations-imagination.json](./193143-super-jigsaw-puzzle-generations-imagination.json) |
 | Super Jigsaw Puzzle: Generations - Italy Puzzles | 155594 | [155594-super-jigsaw-puzzle-generations-italy-puzzles.json](./155594-super-jigsaw-puzzle-generations-italy-puzzles.json) |
@@ -24133,6 +24149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Odyssey 64 | 357442 | [357442-super-mario-odyssey-64.json](./357442-super-mario-odyssey-64.json) |
 | Super Mario Odyssey Autumn Isles | 342088 | [342088-super-mario-odyssey-autumn-isles.json](./342088-super-mario-odyssey-autumn-isles.json) |
 | Super Mario Odyssey F.L.U.D.D. | 235169 | [235169-super-mario-odyssey-f-l-u-d-d.json](./235169-super-mario-odyssey-f-l-u-d-d.json) |
+| Super Mario Odyssey Online | 208811 | [208811-super-mario-odyssey-online.json](./208811-super-mario-odyssey-online.json) |
 | Super Mario Odyssey Safari | 250042 | [250042-super-mario-odyssey-safari.json](./250042-super-mario-odyssey-safari.json) |
 | Super Mario Odyssey: 2D Mario in 3D! | 247533 | [247533-super-mario-odyssey-2d-mario-in-3d.json](./247533-super-mario-odyssey-2d-mario-in-3d.json) |
 | Super Mario Odyssey: A Galaxy Story | 357441 | [357441-super-mario-odyssey-a-galaxy-story.json](./357441-super-mario-odyssey-a-galaxy-story.json) |
