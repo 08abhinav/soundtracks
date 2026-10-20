@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:57:38.944Z",
-  "total_soundtracks": 2312,
+  "generated_at": "2026-10-20T21:57:50.105Z",
+  "total_soundtracks": 2313,
   "games": [
     {
       "igdb_id": 7522,
@@ -27477,6 +27477,20 @@
         {
           "album_name": "Wheel World (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4FqmgKXPJ5swAmRDBmp9tV",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 24463,
+      "game_name": "Wheels of Aurelia",
+      "game_url": "https://ostdb.net/games/wheels-of-aurelia",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b8b58bbbd7471e8e1565fe9c",
+      "albums": [
+        {
+          "album_name": "Wheels of Aurelia Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/7FZ4jzBZOJRIMBvUMAO501",
           "apple_music_url": "",
           "album_link_url": ""
         }
