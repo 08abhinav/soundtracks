@@ -3491,6 +3491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reincarnated | 245242 | [245242-reincarnated.json](./245242-reincarnated.json) |
 | Reincarnated as a Dark Lord Before Taking Over the World with Power 999999999 | 385413 | [385413-reincarnated-as-a-dark-lord-before-taking-over-the-world-with-power-999999999.json](./385413-reincarnated-as-a-dark-lord-before-taking-over-the-world-with-power-999999999.json) |
 | Reincarnated As A Monster | 127158 | [127158-reincarnated-as-a-monster.json](./127158-reincarnated-as-a-monster.json) |
+| Reincarnated as a Noble | 217746 | [217746-reincarnated-as-a-noble.json](./217746-reincarnated-as-a-noble.json) |
 | Reincarnated as a Rookie | 302798 | [302798-reincarnated-as-a-rookie.json](./302798-reincarnated-as-a-rookie.json) |
 | Reincarnation | 247901 | [247901-reincarnation.json](./247901-reincarnation.json) |
 | Reincarnation Tower | 289313 | [289313-reincarnation-tower.json](./289313-reincarnation-tower.json) |
@@ -6548,6 +6549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robfather World | 268350 | [268350-robfather-world.json](./268350-robfather-world.json) |
 | Robicon | 373764 | [373764-robicon.json](./373764-robicon.json) |
 | Robin & Orchid | 60013 | [60013-robin-and-orchid.json](./60013-robin-and-orchid.json) |
+| Robin Hood | 217733 | [217733-robin-hood.json](./217733-robin-hood.json) |
 | Robin Hood | 232903 | [232903-robin-hood.json](./232903-robin-hood.json) |
 | Robin Hood | 23575 | [23575-robin-hood.json](./23575-robin-hood.json) |
 | Robin Hood Legends | 104581 | [104581-robin-hood-legends.json](./104581-robin-hood-legends.json) |
@@ -8227,6 +8229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room13 | 17669 | [17669-room13.json](./17669-room13.json) |
 | Room231 | 297206 | [297206-room231.json](./297206-room231.json) |
 | Room2Room | 310814 | [310814-room2room.json](./310814-room2room.json) |
+| Room301 No.6 | 217749 | [217749-room301-no-6.json](./217749-room301-no-6.json) |
 | Roomates | 82053 | [82053-roomates.json](./82053-roomates.json) |
 | Roomba May Cry | 185116 | [185116-roomba-may-cry.json](./185116-roomba-may-cry.json) |
 | Roomba Out! | 302143 | [302143-roomba-out.json](./302143-roomba-out.json) |
