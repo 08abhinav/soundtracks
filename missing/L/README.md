@@ -3004,6 +3004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letters to the Metro | 182548 | [182548-letters-to-the-metro.json](./182548-letters-to-the-metro.json) |
 | Letters: Collector's Edition | 193748 | [193748-letters-collectors-edition.json](./193748-letters-collectors-edition.json) |
 | LettersFall 110% | 392794 | [392794-lettersfall-110.json](./392794-lettersfall-110.json) |
+| LetterStealth | 250171 | [250171-letterstealth.json](./250171-letterstealth.json) |
 | Letterswirl | 236972 | [236972-letterswirl.json](./236972-letterswirl.json) |
 | Lettters | 340564 | [340564-lettters.json](./340564-lettters.json) |
 | Lettuce Fish | 404977 | [404977-lettuce-fish.json](./404977-lettuce-fish.json) |
@@ -6206,6 +6207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Sector Online | 62815 | [62815-lost-sector-online.json](./62815-lost-sector-online.json) |
 | Lost Seed | 361637 | [361637-lost-seed.json](./361637-lost-seed.json) |
 | Lost Shipwreck | 72367 | [72367-lost-shipwreck.json](./72367-lost-shipwreck.json) |
+| Lost Skies | 250163 | [250163-lost-skies.json](./250163-lost-skies.json) |
 | Lost Snowmen | 187983 | [187983-lost-snowmen.json](./187983-lost-snowmen.json) |
 | Lost Socks: Naughty Brothers | 32053 | [32053-lost-socks-naughty-brothers.json](./32053-lost-socks-naughty-brothers.json) |
 | Lost Soul | 184128 | [184128-lost-soul.json](./184128-lost-soul.json) |
@@ -6594,6 +6596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Yourself | 268343 | [268343-love-yourself.json](./268343-love-yourself.json) |
 | Love-Colored Memories | 412974 | [412974-love-colored-memories.json](./412974-love-colored-memories.json) |
 | Love, Death & Mummies: Zombie Romance Visual Novel | 303322 | [303322-love-death-and-mummies-zombie-romance-visual-novel.json](./303322-love-death-and-mummies-zombie-romance-visual-novel.json) |
+| Love, Death and PvP | 250190 | [250190-love-death-and-pvp.json](./250190-love-death-and-pvp.json) |
 | Love, Election & Chocolate | 79167 | [79167-love-election-and-chocolate.json](./79167-love-election-and-chocolate.json) |
 | Love, Ghostie | 204529 | [204529-love-ghostie.json](./204529-love-ghostie.json) |
 | Love, Hate and the Mysterious Ocean Tower | 300381 | [300381-love-hate-and-the-mysterious-ocean-tower.json](./300381-love-hate-and-the-mysterious-ocean-tower.json) |
