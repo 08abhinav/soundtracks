@@ -3358,6 +3358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Mickey: Power of Illusion | 6765 | [6765-epic-mickey-power-of-illusion.json](./6765-epic-mickey-power-of-illusion.json) |
 | Epic Mickey: Rebrushed | 287849 | [287849-epic-mickey-rebrushed.json](./287849-epic-mickey-rebrushed.json) |
 | Epic Monster Quest | 271635 | [271635-epic-monster-quest.json](./271635-epic-monster-quest.json) |
+| Epic Ninja | 220013 | [220013-epic-ninja.json](./220013-epic-ninja.json) |
 | Epic O'Clock | 401765 | [401765-epic-oclock.json](./401765-epic-oclock.json) |
 | Epic of Tarot | 285963 | [285963-epic-of-tarot.json](./285963-epic-of-tarot.json) |
 | Epic Palace: Knossos | 147370 | [147370-epic-palace-knossos.json](./147370-epic-palace-knossos.json) |
@@ -3486,6 +3487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epsilon wars | 167296 | [167296-epsilon-wars.json](./167296-epsilon-wars.json) |
 | Epstein | 284575 | [284575-epstein.json](./284575-epstein.json) |
 | Epstein 2 | 315091 | [315091-epstein-2.json](./315091-epstein-2.json) |
+| Epsylon | 220014 | [220014-epsylon.json](./220014-epsylon.json) |
 | Epyka | 327930 | [327930-epyka.json](./327930-epyka.json) |
 | Epyx Rogue | 309074 | [309074-epyx-rogue.json](./309074-epyx-rogue.json) |
 | Epyx Summer Games | 76131 | [76131-epyx-summer-games.json](./76131-epyx-summer-games.json) |
@@ -4716,6 +4718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euphoria: Supreme Mechanics VR | 377048 | [377048-euphoria-supreme-mechanics-vr.json](./377048-euphoria-supreme-mechanics-vr.json) |
 | Euphory | 62584 | [62584-euphory.json](./62584-euphory.json) |
 | Euplectella | 339100 | [339100-euplectella.json](./339100-euplectella.json) |
+| Eureka | 220015 | [220015-eureka.json](./220015-eureka.json) |
 | Eureka | 298318 | [298318-eureka.json](./298318-eureka.json) |
 | Eureka | 322573 | [322573-eureka.json](./322573-eureka.json) |
 | Eureka Seven AO: Jungfrau no Hanabanatachi | 44590 | [44590-eureka-seven-ao-jungfrau-no-hanabanatachi.json](./44590-eureka-seven-ao-jungfrau-no-hanabanatachi.json) |
