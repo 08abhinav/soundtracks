@@ -9221,6 +9221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Cow Tools | 352156 | [352156-minecraft-cow-tools.json](./352156-minecraft-cow-tools.json) |
 | Minecraft: Cybersafe AI: Dig Deeper | 332581 | [332581-minecraft-cybersafe-ai-dig-deeper.json](./332581-minecraft-cybersafe-ai-dig-deeper.json) |
 | Minecraft: Dairycraft | 366815 | [366815-minecraft-dairycraft.json](./366815-minecraft-dairycraft.json) |
+| Minecraft: Deluxe Collection DLC | 228890 | [228890-minecraft-deluxe-collection-dlc.json](./228890-minecraft-deluxe-collection-dlc.json) |
 | Minecraft: Deluxe Collection for PC | 350618 | [350618-minecraft-deluxe-collection-for-pc.json](./350618-minecraft-deluxe-collection-for-pc.json) |
 | Minecraft: Dragonborn Mash-up | 233961 | [233961-minecraft-dragonborn-mash-up.json](./233961-minecraft-dragonborn-mash-up.json) |
 | Minecraft: Echo Crystal | 343904 | [343904-minecraft-echo-crystal.json](./343904-minecraft-echo-crystal.json) |
@@ -13519,6 +13520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mount & Blade Full Collection | 53364 | [53364-mount-and-blade-full-collection.json](./53364-mount-and-blade-full-collection.json) |
 | Mount & Blade II: Bannerlord | 9608 | [9608-mount-and-blade-ii-bannerlord.json](./9608-mount-and-blade-ii-bannerlord.json) |
 | Mount & Blade II: Bannerlord - War Sails | 336151 | [336151-mount-and-blade-ii-bannerlord-war-sails.json](./336151-mount-and-blade-ii-bannerlord-war-sails.json) |
+| Mount & Blade II: Bannerlord Digital Deluxe Edition | 228936 | [228936-mount-and-blade-ii-bannerlord-digital-deluxe-edition.json](./228936-mount-and-blade-ii-bannerlord-digital-deluxe-edition.json) |
 | Mount & Blade: Warband - Napoleonic Wars | 8784 | [8784-mount-and-blade-warband-napoleonic-wars.json](./8784-mount-and-blade-warband-napoleonic-wars.json) |
 | Mount & Blade: Warband - Viking Conquest Reforged Edition | 8761 | [8761-mount-and-blade-warband-viking-conquest-reforged-edition.json](./8761-mount-and-blade-warband-viking-conquest-reforged-edition.json) |
 | Mount & Blade: With Fire and Sword | 8792 | [8792-mount-and-blade-with-fire-and-sword.json](./8792-mount-and-blade-with-fire-and-sword.json) |
@@ -13719,6 +13721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moxie 2 | 174325 | [174325-moxie-2.json](./174325-moxie-2.json) |
 | Moxie 2 // Overdrive | 422460 | [422460-moxie-2-overdrive.json](./422460-moxie-2-overdrive.json) |
 | Moxie Girlz | 92466 | [92466-moxie-girlz.json](./92466-moxie-girlz.json) |
+| Moy 6 | 228897 | [228897-moy-6.json](./228897-moy-6.json) |
 | Moyashibito DX | 233211 | [233211-moyashibito-dx.json](./233211-moyashibito-dx.json) |
 | Moyashimon DS | 69164 | [69164-moyashimon-ds.json](./69164-moyashimon-ds.json) |
 | Mozaki Blocks Deluxe | 200366 | [200366-mozaki-blocks-deluxe.json](./200366-mozaki-blocks-deluxe.json) |
@@ -16134,6 +16137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious Castle | 205008 | [205008-mysterious-castle.json](./205008-mysterious-castle.json) |
 | Mysterious Castle | 34064 | [34064-mysterious-castle.json](./34064-mysterious-castle.json) |
 | Mysterious City Vegas | 53392 | [53392-mysterious-city-vegas.json](./53392-mysterious-city-vegas.json) |
+| Mysterious Crimes Bundle | 228941 | [228941-mysterious-crimes-bundle.json](./228941-mysterious-crimes-bundle.json) |
 | Mysterious Forum and 7 Rumors | 115484 | [115484-mysterious-forum-and-7-rumors.json](./115484-mysterious-forum-and-7-rumors.json) |
 | Mysterious House | 190916 | [190916-mysterious-house.json](./190916-mysterious-house.json) |
 | Mysterious House | 376828 | [376828-mysterious-house.json](./376828-mysterious-house.json) |
