@@ -905,6 +905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh, to Bee in Love | 178659 | [178659-oh-to-bee-in-love.json](./178659-oh-to-bee-in-love.json) |
 | Oh, You Touch My Balls | 377910 | [377910-oh-you-touch-my-balls.json](./377910-oh-you-touch-my-balls.json) |
 | Oh! Edo Towns | 65526 | [65526-oh-edo-towns.json](./65526-oh-edo-towns.json) |
+| Oh! Fuse Box | 243528 | [243528-oh-fuse-box.json](./243528-oh-fuse-box.json) |
 | OH! My Office | 223992 | [223992-oh-my-office.json](./223992-oh-my-office.json) |
 | Oh! My Sister's Slit Is... | 97839 | [97839-oh-my-sisters-slit-is.json](./97839-oh-my-sisters-slit-is.json) |
 | Oh! Robot: Legendary Mechanic | 356300 | [356300-oh-robot-legendary-mechanic.json](./356300-oh-robot-legendary-mechanic.json) |
@@ -2005,6 +2006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Socket | 295611 | [295611-one-socket.json](./295611-one-socket.json) |
 | One Sole Purpose | 27572 | [27572-one-sole-purpose.json](./27572-one-sole-purpose.json) |
 | One Song, One Life | 395278 | [395278-one-song-one-life.json](./395278-one-song-one-life.json) |
+| One Soul | 243526 | [243526-one-soul.json](./243526-one-soul.json) |
 | One Star | 28700 | [28700-one-star.json](./28700-one-star.json) |
 | One Step Away | 207588 | [207588-one-step-away.json](./207588-one-step-away.json) |
 | One Step From Eden | 111717 | [111717-one-step-from-eden.json](./111717-one-step-from-eden.json) |
@@ -2925,6 +2927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbosis Gloriosis | 406238 | [406238-orbosis-gloriosis.json](./406238-orbosis-gloriosis.json) |
 | Orbox C | 30786 | [30786-orbox-c.json](./30786-orbox-c.json) |
 | OrbQuest: The Search for Seven Wards | 140450 | [140450-orbquest-the-search-for-seven-wards.json](./140450-orbquest-the-search-for-seven-wards.json) |
+| OrbRider | 243525 | [243525-orbrider.json](./243525-orbrider.json) |
 | Orbs Match | 88157 | [88157-orbs-match.json](./88157-orbs-match.json) |
 | Orbs of Duality | 349114 | [349114-orbs-of-duality.json](./349114-orbs-of-duality.json) |
 | Orbs Orbs Orbs | 342160 | [342160-orbs-orbs-orbs.json](./342160-orbs-orbs-orbs.json) |
