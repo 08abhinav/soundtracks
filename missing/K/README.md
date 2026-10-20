@@ -716,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kare wa Kanojo | 116215 | [116215-kare-wa-kanojo.json](./116215-kare-wa-kanojo.json) |
 | Karen Ready！ | 326095 | [326095-karen-ready.json](./326095-karen-ready.json) |
 | Karen Sees | 186681 | [186681-karen-sees.json](./186681-karen-sees.json) |
+| Karen the Chicken | 251964 | [251964-karen-the-chicken.json](./251964-karen-the-chicken.json) |
 | Karen: An Outrage Simulator | 138555 | [138555-karen-an-outrage-simulator.json](./138555-karen-an-outrage-simulator.json) |
 | Karen's Fault | 265101 | [265101-karens-fault.json](./265101-karens-fault.json) |
 | Kareshi no Mawari ni itara Iya na Onna Tomodachi wo Kobushi de Wakaraseru Game | 373699 | [373699-kareshi-no-mawari-ni-itara-iya-na-onna-tomodachi-wo-kobushi-de-wakaraseru-game.json](./373699-kareshi-no-mawari-ni-itara-iya-na-onna-tomodachi-wo-kobushi-de-wakaraseru-game.json) |
