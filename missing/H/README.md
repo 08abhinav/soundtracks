@@ -4365,6 +4365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero of the Kingdom: The Lost Tales 1 | 132174 | [132174-hero-of-the-kingdom-the-lost-tales-1.json](./132174-hero-of-the-kingdom-the-lost-tales-1.json) |
 | Hero of the Kingdom: The Lost Tales 3 | 327322 | [327322-hero-of-the-kingdom-the-lost-tales-3.json](./327322-hero-of-the-kingdom-the-lost-tales-3.json) |
 | Hero of the Obelisk | 23551 | [23551-hero-of-the-obelisk.json](./23551-hero-of-the-obelisk.json) |
+| Hero Online | 253782 | [253782-hero-online.json](./253782-hero-online.json) |
 | Hero or Foe | 173232 | [173232-hero-or-foe.json](./173232-hero-or-foe.json) |
 | Hero or Villain: Genesis - Supercharged! | 265354 | [265354-hero-or-villain-genesis-supercharged.json](./265354-hero-or-villain-genesis-supercharged.json) |
 | Hero Pack | 340466 | [340466-hero-pack.json](./340466-hero-pack.json) |
@@ -4562,6 +4563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Might and Magic V: Bundle | 154441 | [154441-heroes-of-might-and-magic-v-bundle.json](./154441-heroes-of-might-and-magic-v-bundle.json) |
 | Heroes of Might and Magic V: Tribes of the East | 372 | [372-heroes-of-might-and-magic-v-tribes-of-the-east.json](./372-heroes-of-might-and-magic-v-tribes-of-the-east.json) |
 | Heroes of Mount Dragon | 294053 | [294053-heroes-of-mount-dragon.json](./294053-heroes-of-mount-dragon.json) |
+| Heroes of Mythic Might | 253768 | [253768-heroes-of-mythic-might.json](./253768-heroes-of-mythic-might.json) |
 | Heroes of Nature 4 in 1 | 332023 | [332023-heroes-of-nature-4-in-1.json](./332023-heroes-of-nature-4-in-1.json) |
 | Heroes of Newerth | 763 | [763-heroes-of-newerth.json](./763-heroes-of-newerth.json) |
 | Heroes of Newerth Reborn | 376014 | [376014-heroes-of-newerth-reborn.json](./376014-heroes-of-newerth-reborn.json) |
