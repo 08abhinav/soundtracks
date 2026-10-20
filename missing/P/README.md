@@ -1612,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Pursuit: The Gifted One | 60445 | [60445-paranormal-pursuit-the-gifted-one.json](./60445-paranormal-pursuit-the-gifted-one.json) |
 | Paranormal Pursuit: The Gifted One - Collector's Edition | 30041 | [30041-paranormal-pursuit-the-gifted-one-collectors-edition.json](./30041-paranormal-pursuit-the-gifted-one-collectors-edition.json) |
 | Paranormal Realtor | 382903 | [382903-paranormal-realtor.json](./382903-paranormal-realtor.json) |
+| Paranormal Records | 249059 | [249059-paranormal-records.json](./249059-paranormal-records.json) |
 | Paranormal Research Society | 391870 | [391870-paranormal-research-society.json](./391870-paranormal-research-society.json) |
 | Paranormal Roulette | 365084 | [365084-paranormal-roulette.json](./365084-paranormal-roulette.json) |
 | Paranormal Simulator | 199591 | [199591-paranormal-simulator.json](./199591-paranormal-simulator.json) |
@@ -3598,6 +3599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Rescue Saga | 60077 | [60077-pet-rescue-saga.json](./60077-pet-rescue-saga.json) |
 | Pet Rock Duty | 278994 | [278994-pet-rock-duty.json](./278994-pet-rock-duty.json) |
 | Pet Run | 59488 | [59488-pet-run.json](./59488-pet-run.json) |
+| Pet Sanctuary | 249052 | [249052-pet-sanctuary.json](./249052-pet-sanctuary.json) |
 | Pet Shop Hop | 208863 | [208863-pet-shop-hop.json](./208863-pet-shop-hop.json) |
 | Pet Shop Monogatari DS 2 | 259490 | [259490-pet-shop-monogatari-ds-2.json](./259490-pet-shop-monogatari-ds-2.json) |
 | Pet Shop Simulator | 248906 | [248906-pet-shop-simulator.json](./248906-pet-shop-simulator.json) |
@@ -8778,6 +8780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polda 5 | 64590 | [64590-polda-5.json](./64590-polda-5.json) |
 | Polda 7 | 205730 | [205730-polda-7.json](./205730-polda-7.json) |
 | Polders | 388320 | [388320-polders.json](./388320-polders.json) |
+| Pole Dancers XXX | 249041 | [249041-pole-dancers-xxx.json](./249041-pole-dancers-xxx.json) |
 | Pole Position | 310533 | [310533-pole-position.json](./310533-pole-position.json) |
 | Pole Position | 5691 | [5691-pole-position.json](./5691-pole-position.json) |
 | Pole Position 2010 | 158942 | [158942-pole-position-2010.json](./158942-pole-position-2010.json) |
