@@ -1607,6 +1607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Racing Master: Car Game 3D | 288982 | [288982-car-racing-master-car-game-3d.json](./288982-car-racing-master-car-game-3d.json) |
 | Car Racing Trials | 203697 | [203697-car-racing-trials.json](./203697-car-racing-trials.json) |
 | Car Racing: High on Fuel | 241825 | [241825-car-racing-high-on-fuel.json](./241825-car-racing-high-on-fuel.json) |
+| Car Racing: Highway Driving Simulator | 219455 | [219455-car-racing-highway-driving-simulator.json](./219455-car-racing-highway-driving-simulator.json) |
 | Car Racing: Highway Driving Simulator - Premium Edition | 283153 | [283153-car-racing-highway-driving-simulator-premium-edition.json](./283153-car-racing-highway-driving-simulator-premium-edition.json) |
 | Car Rental Simulator | 380054 | [380054-car-rental-simulator.json](./380054-car-rental-simulator.json) |
 | Car Rush I | 254387 | [254387-car-rush-i.json](./254387-car-rush-i.json) |
@@ -7335,6 +7336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Game Trio | 206971 | [206971-classic-game-trio.json](./206971-classic-game-trio.json) |
 | Classic Games | 87228 | [87228-classic-games.json](./87228-classic-games.json) |
 | Classic Games Collection Vol.1+2 Bundle | 231071 | [231071-classic-games-collection-vol-1-2-bundle.json](./231071-classic-games-collection-vol-1-2-bundle.json) |
+| Classic Games Collection Vol.2 | 219460 | [219460-classic-games-collection-vol-2.json](./219460-classic-games-collection-vol-2.json) |
 | Classic Hentai Logic Puzzle | 365280 | [365280-classic-hentai-logic-puzzle.json](./365280-classic-hentai-logic-puzzle.json) |
 | Classic Internet Scary Maze Game: Game Boy Edition | 275670 | [275670-classic-internet-scary-maze-game-game-boy-edition.json](./275670-classic-internet-scary-maze-game-game-boy-edition.json) |
 | Classic Invaders | 270765 | [270765-classic-invaders.json](./270765-classic-invaders.json) |
@@ -11396,6 +11398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmophage | 148552 | [148552-cosmophage.json](./148552-cosmophage.json) |
 | Cosmophobia | 330216 | [330216-cosmophobia.json](./330216-cosmophobia.json) |
 | CosmoPirates | 258553 | [258553-cosmopirates.json](./258553-cosmopirates.json) |
+| CosmoPlayerZ | 219481 | [219481-cosmoplayerz.json](./219481-cosmoplayerz.json) |
 | Cosmopolitan | 269749 | [269749-cosmopolitan.json](./269749-cosmopolitan.json) |
 | Cosmorbit | 384537 | [384537-cosmorbit.json](./384537-cosmorbit.json) |
 | Cosmos | 127861 | [127861-cosmos.json](./127861-cosmos.json) |
@@ -15242,6 +15245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Photographer | 68036 | [68036-cyber-photographer.json](./68036-cyber-photographer.json) |
 | Cyber Prison Management | 259505 | [259505-cyber-prison-management.json](./259505-cyber-prison-management.json) |
 | Cyber Protocol Prologue | 213340 | [213340-cyber-protocol-prologue.json](./213340-cyber-protocol-prologue.json) |
+| Cyber Protocol: Retro Arcade | 219467 | [219467-cyber-protocol-retro-arcade.json](./219467-cyber-protocol-retro-arcade.json) |
 | Cyber Puncake | 276680 | [276680-cyber-puncake.json](./276680-cyber-puncake.json) |
 | Cyber Racer | 120151 | [120151-cyber-racer.json](./120151-cyber-racer.json) |
 | Cyber Rage: Retribution | 116827 | [116827-cyber-rage-retribution.json](./116827-cyber-rage-retribution.json) |
