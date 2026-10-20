@@ -1324,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlock's Citadel | 35574 | [35574-warlocks-citadel.json](./35574-warlocks-citadel.json) |
 | Warlock's Mountain | 71999 | [71999-warlocks-mountain.json](./71999-warlocks-mountain.json) |
 | Warlock's Quest | 57697 | [57697-warlocks-quest.json](./57697-warlocks-quest.json) |
+| Warlock's Tower | 213219 | [213219-warlocks-tower.json](./213219-warlocks-tower.json) |
 | Warlocked | 336577 | [336577-warlocked.json](./336577-warlocked.json) |
 | Warlocked | 49874 | [49874-warlocked.json](./49874-warlocked.json) |
 | Warlocks | 37096 | [37096-warlocks.json](./37096-warlocks.json) |
@@ -6577,6 +6578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worldwide Battle Royale | 256907 | [256907-worldwide-battle-royale.json](./256907-worldwide-battle-royale.json) |
 | Worldwide Boxing Manager | 53106 | [53106-worldwide-boxing-manager.json](./53106-worldwide-boxing-manager.json) |
 | Worldwide Combos | 83427 | [83427-worldwide-combos.json](./83427-worldwide-combos.json) |
+| WorldWide FlightSimulator | 213215 | [213215-worldwide-flightsimulator.json](./213215-worldwide-flightsimulator.json) |
 | Worldwide Soccer | 259651 | [259651-worldwide-soccer.json](./259651-worldwide-soccer.json) |
 | Worldwide Soccer 2 | 47112 | [47112-worldwide-soccer-2.json](./47112-worldwide-soccer-2.json) |
 | Worldwide Soccer: Sega International Victory Goal Edition | 19755 | [19755-worldwide-soccer-sega-international-victory-goal-edition.json](./19755-worldwide-soccer-sega-international-victory-goal-edition.json) |
