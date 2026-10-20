@@ -2366,6 +2366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genso Suikoden: Tsumugareshi Hyaku-nen no Toki | 1453 | [1453-genso-suikoden-tsumugareshi-hyaku-nen-no-toki.json](./1453-genso-suikoden-tsumugareshi-hyaku-nen-no-toki.json) |
 | Genso Suikogaiden Volume 1: Swordsman of Harmonia | 1455 | [1455-genso-suikogaiden-volume-1-swordsman-of-harmonia.json](./1455-genso-suikogaiden-volume-1-swordsman-of-harmonia.json) |
 | Genso Suikogaiden Volume 2: Duel at the Crystal Valley | 1457 | [1457-genso-suikogaiden-volume-2-duel-at-the-crystal-valley.json](./1457-genso-suikogaiden-volume-2-duel-at-the-crystal-valley.json) |
+| Genso Yonbaiken: Tenshi no Daigyakushu | 207177 | [207177-genso-yonbaiken-tenshi-no-daigyakushu.json](./207177-genso-yonbaiken-tenshi-no-daigyakushu.json) |
 | Gensokishi Online | 267589 | [267589-gensokishi-online.json](./267589-gensokishi-online.json) |
 | Gensokyo Defenders | 96386 | [96386-gensokyo-defenders.json](./96386-gensokyo-defenders.json) |
 | Gensokyo no Nazo | 62253 | [62253-gensokyo-no-nazo.json](./62253-gensokyo-no-nazo.json) |
@@ -4251,6 +4252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Simulator 3: Multiverse of Nonsense | 305106 | [305106-goat-simulator-3-multiverse-of-nonsense.json](./305106-goat-simulator-3-multiverse-of-nonsense.json) |
 | Goat Simulator MMO Simulator | 88922 | [88922-goat-simulator-mmo-simulator.json](./88922-goat-simulator-mmo-simulator.json) |
 | Goat Simulator Waste of Space | 369590 | [369590-goat-simulator-waste-of-space.json](./369590-goat-simulator-waste-of-space.json) |
+| Goat Simulator: Nightmare Edition | 207116 | [207116-goat-simulator-nightmare-edition.json](./207116-goat-simulator-nightmare-edition.json) |
 | Goat Simulator: Remastered | 314250 | [314250-goat-simulator-remastered.json](./314250-goat-simulator-remastered.json) |
 | Goat Simulator: The Bundle | 141764 | [141764-goat-simulator-the-bundle.json](./141764-goat-simulator-the-bundle.json) |
 | Goat Simulator: Waste of Space Bundle | 234308 | [234308-goat-simulator-waste-of-space-bundle.json](./234308-goat-simulator-waste-of-space-bundle.json) |
