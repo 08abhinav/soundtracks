@@ -9875,6 +9875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concierge | 359888 | [359888-concierge.json](./359888-concierge.json) |
 | Conclave | 36120 | [36120-conclave.json](./36120-conclave.json) |
 | Conclave | 80371 | [80371-conclave.json](./80371-conclave.json) |
+| Conclave: Dissension | 244086 | [244086-conclave-dissension.json](./244086-conclave-dissension.json) |
 | Concluse | 95239 | [95239-concluse.json](./95239-concluse.json) |
 | Conclusion | 32197 | [32197-conclusion.json](./32197-conclusion.json) |
 | Concordia: Digital Edition | 140392 | [140392-concordia-digital-edition.json](./140392-concordia-digital-edition.json) |
