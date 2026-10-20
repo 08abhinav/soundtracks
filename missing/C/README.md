@@ -2080,6 +2080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carol Coral's: Open the Door | 319552 | [319552-carol-corals-open-the-door.json](./319552-carol-corals-open-the-door.json) |
 | Carol the Dark Angel | 209722 | [209722-carol-the-dark-angel.json](./209722-carol-the-dark-angel.json) |
 | Carol Vorderman's Sudoku DVD Game | 264474 | [264474-carol-vordermans-sudoku-dvd-game.json](./264474-carol-vordermans-sudoku-dvd-game.json) |
+| Carols in July | 228911 | [228911-carols-in-july.json](./228911-carols-in-july.json) |
 | Carom Billiards | 149916 | [149916-carom-billiards.json](./149916-carom-billiards.json) |
 | Carom Billiards | 393764 | [393764-carom-billiards.json](./393764-carom-billiards.json) |
 | Caromble! | 24655 | [24655-caromble.json](./24655-caromble.json) |
@@ -4556,6 +4557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlie the Unicorn Dating Simulator | 58724 | [58724-charlie-the-unicorn-dating-simulator.json](./58724-charlie-the-unicorn-dating-simulator.json) |
 | Charlie: The Legend | 172022 | [172022-charlie-the-legend.json](./172022-charlie-the-legend.json) |
 | Charlie's Adventure | 30487 | [30487-charlies-adventure.json](./30487-charlies-adventure.json) |
+| Charlie's Angels | 228920 | [228920-charlies-angels.json](./228920-charlies-angels.json) |
 | Charlie's Angels: Road Cyclone | 23757 | [23757-charlies-angels-road-cyclone.json](./23757-charlies-angels-road-cyclone.json) |
 | Charlie's Delivery | 219821 | [219821-charlies-delivery.json](./219821-charlies-delivery.json) |
 | Charlotte | 95227 | [95227-charlotte.json](./95227-charlotte.json) |
@@ -11628,6 +11630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Couroland | 223516 | [223516-couroland.json](./223516-couroland.json) |
 | Court of Ashes | 120941 | [120941-court-of-ashes.json](./120941-court-of-ashes.json) |
 | Court of Crowns | 207561 | [207561-court-of-crowns.json](./207561-court-of-crowns.json) |
+| Court of Darkness | 228937 | [228937-court-of-darkness.json](./228937-court-of-darkness.json) |
 | Court of Darkness: Adoration's Kiss | 414790 | [414790-court-of-darkness-adorations-kiss.json](./414790-court-of-darkness-adorations-kiss.json) |
 | Court of Darkness: Captivation's Kiss | 399622 | [399622-court-of-darkness-captivations-kiss.json](./399622-court-of-darkness-captivations-kiss.json) |
 | Court of Darkness: Temptation's Kiss | 370803 | [370803-court-of-darkness-temptations-kiss.json](./370803-court-of-darkness-temptations-kiss.json) |
@@ -15525,6 +15528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyclothymic | 202244 | [202244-cyclothymic.json](./202244-cyclothymic.json) |
 | Cyco | 204958 | [204958-cyco.json](./204958-cyco.json) |
 | Cydonia | 256838 | [256838-cydonia.json](./256838-cydonia.json) |
+| Cygnus Enterprises | 228913 | [228913-cygnus-enterprises.json](./228913-cygnus-enterprises.json) |
 | Cygnus IV | 263597 | [263597-cygnus-iv.json](./263597-cygnus-iv.json) |
 | Cygnus Leapt | 381395 | [381395-cygnus-leapt.json](./381395-cygnus-leapt.json) |
 | Cygnus Racing League | 188462 | [188462-cygnus-racing-league.json](./188462-cygnus-racing-league.json) |
