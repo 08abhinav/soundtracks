@@ -11120,6 +11120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Molytropia: Cloud in Shape of Hurt | 220679 | [220679-molytropia-cloud-in-shape-of-hurt.json](./220679-molytropia-cloud-in-shape-of-hurt.json) |
 | Mom | 159247 | [159247-mom.json](./159247-mom.json) |
 | Mom | 319278 | [319278-mom.json](./319278-mom.json) |
+| Mom and Cake | 244105 | [244105-mom-and-cake.json](./244105-mom-and-cake.json) |
 | Mom Crush: Hidden Hotel Love Story | 387673 | [387673-mom-crush-hidden-hotel-love-story.json](./387673-mom-crush-hidden-hotel-love-story.json) |
 | Mom Hid My Game! | 78160 | [78160-mom-hid-my-game.json](./78160-mom-hid-my-game.json) |
 | Mom Life Simulator | 380163 | [380163-mom-life-simulator.json](./380163-mom-life-simulator.json) |
