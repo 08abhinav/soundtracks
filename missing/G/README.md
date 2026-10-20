@@ -4391,6 +4391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gocco of War | 14677 | [14677-gocco-of-war.json](./14677-gocco-of-war.json) |
 | Gochi-Show! | 31730 | [31730-gochi-show.json](./31730-gochi-show.json) |
 | Gochi-Show! for Girls | 31731 | [31731-gochi-show-for-girls.json](./31731-gochi-show-for-girls.json) |
+| God as a Fat Woman Sitting in the Bath | 206580 | [206580-god-as-a-fat-woman-sitting-in-the-bath.json](./206580-god-as-a-fat-woman-sitting-in-the-bath.json) |
 | God Awefull Clicker | 101753 | [101753-god-awefull-clicker.json](./101753-god-awefull-clicker.json) |
 | God bless, or Goddess | 358972 | [358972-god-bless-or-goddess.json](./358972-god-bless-or-goddess.json) |
 | God Busters: Who watches the Watchers? | 232460 | [232460-god-busters-who-watches-the-watchers.json](./232460-god-busters-who-watches-the-watchers.json) |
