@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T22:18:09.585Z",
-  "total_missing": 239362,
+  "generated_at": "2026-10-20T22:22:19.084Z",
+  "total_missing": 239357,
   "games": [
     {
       "igdb_id": 191680,
@@ -125182,11 +125182,6 @@
       "file": "missing/B/172489-blossom-tales-2-the-minotaur-prince.json"
     },
     {
-      "igdb_id": 27994,
-      "game_name": "Blossom Tales: The Sleeping King",
-      "file": "missing/B/27994-blossom-tales-the-sleeping-king.json"
-    },
-    {
       "igdb_id": 403740,
       "game_name": "Blossom Voyage",
       "file": "missing/B/403740-blossom-voyage.json"
@@ -164520,11 +164515,6 @@
       "igdb_id": 11269,
       "game_name": "Castles: The Northern Campaign",
       "file": "missing/C/11269-castles-the-northern-campaign.json"
-    },
-    {
-      "igdb_id": 19136,
-      "game_name": "CastleStorm",
-      "file": "missing/C/19136-castlestorm.json"
     },
     {
       "igdb_id": 119361,
@@ -641202,11 +641192,6 @@
       "file": "missing/M/150164-monochro.json"
     },
     {
-      "igdb_id": 16873,
-      "game_name": "Monochroma",
-      "file": "missing/M/16873-monochroma.json"
-    },
-    {
       "igdb_id": 346170,
       "game_name": "Monochromality",
       "file": "missing/M/346170-monochromality.json"
@@ -714940,11 +714925,6 @@
       "igdb_id": 276186,
       "game_name": "Our Life on Water",
       "file": "missing/O/276186-our-life-on-water.json"
-    },
-    {
-      "igdb_id": 122028,
-      "game_name": "Our Life: Beginnings & Always",
-      "file": "missing/O/122028-our-life-beginnings-and-always.json"
     },
     {
       "igdb_id": 248049,
@@ -1010010,11 +1009990,6 @@
       "igdb_id": 136930,
       "game_name": "The Coma: Double Cut",
       "file": "missing/T/136930-the-coma-double-cut.json"
-    },
-    {
-      "igdb_id": 51385,
-      "game_name": "The Coma: Recut",
-      "file": "missing/T/51385-the-coma-recut.json"
     },
     {
       "igdb_id": 118699,
