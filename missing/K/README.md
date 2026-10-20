@@ -2965,6 +2965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kita he: White Illumination | 237433 | [237433-kita-he-white-illumination.json](./237433-kita-he-white-illumination.json) |
 | Kita he. Diamond Dust + Kiss is Beginning. | 60399 | [60399-kita-he-diamond-dust-kiss-is-beginning.json](./60399-kita-he-diamond-dust-kiss-is-beginning.json) |
 | Kita he.: Diamond Dust | 60400 | [60400-kita-he-diamond-dust.json](./60400-kita-he-diamond-dust.json) |
+| Kitan Iwanaga | 225527 | [225527-kitan-iwanaga.json](./225527-kitan-iwanaga.json) |
 | Kitari and Kimoshi | 223431 | [223431-kitari-and-kimoshi.json](./223431-kitari-and-kimoshi.json) |
 | Kitaria Fables | 144542 | [144542-kitaria-fables.json](./144542-kitaria-fables.json) |
 | Kitaria Fables 2 | 398521 | [398521-kitaria-fables-2.json](./398521-kitaria-fables-2.json) |
