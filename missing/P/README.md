@@ -10122,6 +10122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Champions | 250868 | [250868-power-champions.json](./250868-power-champions.json) |
 | Power Chess | 79900 | [79900-power-chess.json](./79900-power-chess.json) |
 | Power Chips | 382344 | [382344-power-chips.json](./382344-power-chips.json) |
+| Power Chips & High Roller | 209910 | [209910-power-chips-and-high-roller.json](./209910-power-chips-and-high-roller.json) |
 | Power Crisis | 332860 | [332860-power-crisis.json](./332860-power-crisis.json) |
 | Power Defence | 53470 | [53470-power-defence.json](./53470-power-defence.json) |
 | Power Diggerz | 22052 | [22052-power-diggerz.json](./22052-power-diggerz.json) |
@@ -10170,6 +10171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Lode Runner | 38243 | [38243-power-lode-runner.json](./38243-power-lode-runner.json) |
 | Power Lords | 24005 | [24005-power-lords.json](./24005-power-lords.json) |
 | Power Lords: Quest for Volcan | 40924 | [40924-power-lords-quest-for-volcan.json](./40924-power-lords-quest-for-volcan.json) |
+| Power Math | 209898 | [209898-power-math.json](./209898-power-math.json) |
 | Power Meter | 341464 | [341464-power-meter.json](./341464-power-meter.json) |
 | Power Move Pro Wrestling | 44763 | [44763-power-move-pro-wrestling.json](./44763-power-move-pro-wrestling.json) |
 | Power Nazoler | 289752 | [289752-power-nazoler.json](./289752-power-nazoler.json) |
@@ -10200,6 +10202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Plays | 60548 | [60548-power-plays.json](./60548-power-plays.json) |
 | Power Pocket Koushien | 98512 | [98512-power-pocket-koushien.json](./98512-power-pocket-koushien.json) |
 | Power Pointer | 335080 | [335080-power-pointer.json](./335080-power-pointer.json) |
+| Power Poker | 209897 | [209897-power-poker.json](./209897-power-poker.json) |
 | Power Politics | 76590 | [76590-power-politics.json](./76590-power-politics.json) |
 | Power Punch | 275121 | [275121-power-punch.json](./275121-power-punch.json) |
 | Power Punch | 385368 | [385368-power-punch.json](./385368-power-punch.json) |
@@ -10701,6 +10704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prettyboy Inc. is Hiring! | 318858 | [318858-prettyboy-inc-is-hiring.json](./318858-prettyboy-inc-is-hiring.json) |
 | Pretz Pac-Man | 219443 | [219443-pretz-pac-man.json](./219443-pretz-pac-man.json) |
 | Pretz'l Land | 105554 | [105554-pretzl-land.json](./105554-pretzl-land.json) |
+| Pretzel Pete | 209904 | [209904-pretzel-pete.json](./209904-pretzel-pete.json) |
 | Preventive Strike | 75194 | [75194-preventive-strike.json](./75194-preventive-strike.json) |
 | Previous Tenant | 152208 | [152208-previous-tenant.json](./152208-previous-tenant.json) |
 | Prey 2 | 525 | [525-prey-2.json](./525-prey-2.json) |
@@ -10896,6 +10900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia CD Collection | 213263 | [213263-prince-of-persia-cd-collection.json](./213263-prince-of-persia-cd-collection.json) |
 | Prince of Persia Classic | 21797 | [21797-prince-of-persia-classic.json](./21797-prince-of-persia-classic.json) |
 | Prince of Persia Classic | 248927 | [248927-prince-of-persia-classic.json](./248927-prince-of-persia-classic.json) |
+| Prince of Persia Collection: Limited Edition | 209893 | [209893-prince-of-persia-collection-limited-edition.json](./209893-prince-of-persia-collection-limited-edition.json) |
 | Prince of Persia Retro | 284854 | [284854-prince-of-persia-retro.json](./284854-prince-of-persia-retro.json) |
 | Prince of Persia Trilogy | 44706 | [44706-prince-of-persia-trilogy.json](./44706-prince-of-persia-trilogy.json) |
 | Prince of Persia Trilogy: Limited Edition | 43430 | [43430-prince-of-persia-trilogy-limited-edition.json](./43430-prince-of-persia-trilogy-limited-edition.json) |
@@ -10975,6 +10980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Knight's Mission: Anna's Marvelous Adventures | 272946 | [272946-princess-knights-mission-annas-marvelous-adventures.json](./272946-princess-knights-mission-annas-marvelous-adventures.json) |
 | Princess Lana | 138687 | [138687-princess-lana.json](./138687-princess-lana.json) |
 | Princess Lili | 107881 | [107881-princess-lili.json](./107881-princess-lili.json) |
+| Princess Lillifee's Magic Fairy | 209890 | [209890-princess-lillifees-magic-fairy.json](./209890-princess-lillifees-magic-fairy.json) |
 | Princess Lover! | 387346 | [387346-princess-lover.json](./387346-princess-lover.json) |
 | Princess Lover!: Eternal Love for My Lady | 92410 | [92410-princess-lover-eternal-love-for-my-lady.json](./92410-princess-lover-eternal-love-for-my-lady.json) |
 | Princess Maira: Initiation | 192658 | [192658-princess-maira-initiation.json](./192658-princess-maira-initiation.json) |
@@ -11098,6 +11104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prism Shift | 347090 | [347090-prism-shift.json](./347090-prism-shift.json) |
 | Prism Warriors DX | 346621 | [346621-prism-warriors-dx.json](./346621-prism-warriors-dx.json) |
 | Prism Wilds | 382404 | [382404-prism-wilds.json](./382404-prism-wilds.json) |
+| Prism: Guard Shield | 209889 | [209889-prism-guard-shield.json](./209889-prism-guard-shield.json) |
 | Prism: Light the Way | 20765 | [20765-prism-light-the-way.json](./20765-prism-light-the-way.json) |
 | Prism: Master Tape | 369236 | [369236-prism-master-tape.json](./369236-prism-master-tape.json) |
 | Prisma & the Masquerade Menace | 30907 | [30907-prisma-and-the-masquerade-menace.json](./30907-prisma-and-the-masquerade-menace.json) |
@@ -11314,9 +11321,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Basketball Manager 2024 | 267826 | [267826-pro-basketball-manager-2024.json](./267826-pro-basketball-manager-2024.json) |
 | Pro Basketball Manager 2025 | 316054 | [316054-pro-basketball-manager-2025.json](./316054-pro-basketball-manager-2025.json) |
 | Pro Basketball Manager 2026 | 371609 | [371609-pro-basketball-manager-2026.json](./371609-pro-basketball-manager-2026.json) |
+| Pro Bass Fishing | 209886 | [209886-pro-bass-fishing.json](./209886-pro-bass-fishing.json) |
 | Pro Bass Fishing 2003 | 27599 | [27599-pro-bass-fishing-2003.json](./27599-pro-bass-fishing-2003.json) |
 | Pro Biker 2 | 66934 | [66934-pro-biker-2.json](./66934-pro-biker-2.json) |
 | Pro Birder | 414185 | [414185-pro-birder.json](./414185-pro-birder.json) |
+| Pro Body Boarding | 209885 | [209885-pro-body-boarding.json](./209885-pro-body-boarding.json) |
 | Pro Bowling | 385781 | [385781-pro-bowling.json](./385781-pro-bowling.json) |
 | Pro Boxing Simulator | 12723 | [12723-pro-boxing-simulator.json](./12723-pro-boxing-simulator.json) |
 | Pro Bus Driver 2 | 293482 | [293482-pro-bus-driver-2.json](./293482-pro-bus-driver-2.json) |
@@ -11577,9 +11586,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Doctor Jetpack | 301268 | [301268-professor-doctor-jetpack.json](./301268-professor-doctor-jetpack.json) |
 | Professor Fizzwizzle | 78943 | [78943-professor-fizzwizzle.json](./78943-professor-fizzwizzle.json) |
 | Professor Fizzwizzle and the Molten Mystery | 16175 | [16175-professor-fizzwizzle-and-the-molten-mystery.json](./16175-professor-fizzwizzle-and-the-molten-mystery.json) |
+| Professor Fuji's Kakuro | 209877 | [209877-professor-fujis-kakuro.json](./209877-professor-fujis-kakuro.json) |
+| Professor Fuji's Sudoku | 209876 | [209876-professor-fujis-sudoku.json](./209876-professor-fujis-sudoku.json) |
+| Professor Fuji's Sudoku Deluxe | 209875 | [209875-professor-fujis-sudoku-deluxe.json](./209875-professor-fujis-sudoku-deluxe.json) |
 | Professor Galaktionov Dawn of the Robopocalypse | 383156 | [383156-professor-galaktionov-dawn-of-the-robopocalypse.json](./383156-professor-galaktionov-dawn-of-the-robopocalypse.json) |
 | Professor Goodboi's Ballistics | 248654 | [248654-professor-goodbois-ballistics.json](./248654-professor-goodbois-ballistics.json) |
 | Professor Heinz Wolff's Gravity | 5109 | [5109-professor-heinz-wolffs-gravity.json](./5109-professor-heinz-wolffs-gravity.json) |
+| Professor Iris' Fun Field Trip: Animal Safari | 209905 | [209905-professor-iris-fun-field-trip-animal-safari.json](./209905-professor-iris-fun-field-trip-animal-safari.json) |
+| Professor Iris' Fun Field Trip: Seaside Adventure | 209874 | [209874-professor-iris-fun-field-trip-seaside-adventure.json](./209874-professor-iris-fun-field-trip-seaside-adventure.json) |
 | Professor Layton and the Azran Legacy | 1403 | [1403-professor-layton-and-the-azran-legacy.json](./1403-professor-layton-and-the-azran-legacy.json) |
 | Professor Layton and the Curious Village | 1397 | [1397-professor-layton-and-the-curious-village.json](./1397-professor-layton-and-the-curious-village.json) |
 | Professor Layton and the Curious Village HD for Mobile | 102865 | [102865-professor-layton-and-the-curious-village-hd-for-mobile.json](./102865-professor-layton-and-the-curious-village-hd-for-mobile.json) |
@@ -11609,6 +11623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Watts Word Search: Pirates Life | 103467 | [103467-professor-watts-word-search-pirates-life.json](./103467-professor-watts-word-search-pirates-life.json) |
 | Professor Watts Word Search: Yummy Foods | 103468 | [103468-professor-watts-word-search-yummy-foods.json](./103468-professor-watts-word-search-yummy-foods.json) |
 | Professor Watts: Memory Match | 50760 | [50760-professor-watts-memory-match.json](./50760-professor-watts-memory-match.json) |
+| Professor Wise and His X-Ray Eyes | 209907 | [209907-professor-wise-and-his-x-ray-eyes.json](./209907-professor-wise-and-his-x-ray-eyes.json) |
 | Professora Abelha Aprendendo Figuras Geométricas | 294437 | [294437-professora-abelha-aprendendo-figuras-geometricas.json](./294437-professora-abelha-aprendendo-figuras-geometricas.json) |
 | Profi Girls | 247959 | [247959-profi-girls.json](./247959-profi-girls.json) |
 | Profiler: The Hopscotch Killer - Extended Edition | 262360 | [262360-profiler-the-hopscotch-killer-extended-edition.json](./262360-profiler-the-hopscotch-killer-extended-edition.json) |
@@ -12658,6 +12673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psi-Ops: The Mindgate Conspiracy | 5992 | [5992-psi-ops-the-mindgate-conspiracy.json](./5992-psi-ops-the-mindgate-conspiracy.json) |
 | Psi-Warrior | 26466 | [26466-psi-warrior.json](./26466-psi-warrior.json) |
 | PSI: Pressure Climbing | 276964 | [276964-psi-pressure-climbing.json](./276964-psi-pressure-climbing.json) |
+| PSI: Syberian Conflict | 209865 | [209865-psi-syberian-conflict.json](./209865-psi-syberian-conflict.json) |
 | Psibo | 85352 | [85352-psibo.json](./85352-psibo.json) |
 | Psichodelya | 17406 | [17406-psichodelya.json](./17406-psichodelya.json) |
 | Psicose? | 129235 | [129235-psicose.json](./129235-psicose.json) |
