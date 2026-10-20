@@ -2122,6 +2122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tax Dodge | 60638 | [60638-tax-dodge.json](./60638-tax-dodge.json) |
 | Tax Evasion | 265147 | [265147-tax-evasion.json](./265147-tax-evasion.json) |
 | Tax Fugitive | 169135 | [169135-tax-fugitive.json](./169135-tax-fugitive.json) |
+| Tax Heaven 3000 | 242362 | [242362-tax-heaven-3000.json](./242362-tax-heaven-3000.json) |
 | Tax Return | 390679 | [390679-tax-return.json](./390679-tax-return.json) |
 | Tax-Force | 265631 | [265631-tax-force.json](./265631-tax-force.json) |
 | Taxer Inc. | 144211 | [144211-taxer-inc.json](./144211-taxer-inc.json) |
@@ -7944,6 +7945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hero Project: Redemption Season | 33089 | [33089-the-hero-project-redemption-season.json](./33089-the-hero-project-redemption-season.json) |
 | The Hero Project: Redemption Season - MeChip Warning System | 170822 | [170822-the-hero-project-redemption-season-mechip-warning-system.json](./170822-the-hero-project-redemption-season-mechip-warning-system.json) |
 | The Hero Unmasked! | 52274 | [52274-the-hero-unmasked.json](./52274-the-hero-unmasked.json) |
+| The Hero with a Thousand Arms | 242399 | [242399-the-hero-with-a-thousand-arms.json](./242399-the-hero-with-a-thousand-arms.json) |
 | The Herobrine Mod | 232684 | [232684-the-herobrine-mod.json](./232684-the-herobrine-mod.json) |
 | The Heroic Knight | 388303 | [388303-the-heroic-knight.json](./388303-the-heroic-knight.json) |
 | The Heroic Legend of Eagarlnia | 120766 | [120766-the-heroic-legend-of-eagarlnia.json](./120766-the-heroic-legend-of-eagarlnia.json) |
@@ -8229,6 +8231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ignition Factor | 42607 | [42607-the-ignition-factor.json](./42607-the-ignition-factor.json) |
 | The IL Tempo Game | 83601 | [83601-the-il-tempo-game.json](./83601-the-il-tempo-game.json) |
 | The Illogical Journey of the Zambonis | 165439 | [165439-the-illogical-journey-of-the-zambonis.json](./165439-the-illogical-journey-of-the-zambonis.json) |
+| The Illusion: Curse | 242395 | [242395-the-illusion-curse.json](./242395-the-illusion-curse.json) |
 | The Illusory Abyss | 118368 | [118368-the-illusory-abyss.json](./118368-the-illusory-abyss.json) |
 | The Illusory Wall | 101710 | [101710-the-illusory-wall.json](./101710-the-illusory-wall.json) |
 | The Imaginary Circle | 215369 | [215369-the-imaginary-circle.json](./215369-the-imaginary-circle.json) |
@@ -13146,6 +13149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Terraces | 303018 | [303018-the-terraces.json](./303018-the-terraces.json) |
 | The Terrible Old Man | 122170 | [122170-the-terrible-old-man.json](./122170-the-terrible-old-man.json) |
 | The Terrible Old Man: Collector's Edition | 156100 | [156100-the-terrible-old-man-collectors-edition.json](./156100-the-terrible-old-man-collectors-edition.json) |
+| The Territory of Egg | 242415 | [242415-the-territory-of-egg.json](./242415-the-territory-of-egg.json) |
 | The Territory of Egg 2 | 309559 | [309559-the-territory-of-egg-2.json](./309559-the-territory-of-egg-2.json) |
 | The Terror At Freddy's | 338912 | [338912-the-terror-at-freddys.json](./338912-the-terror-at-freddys.json) |
 | The Terrors of Trantoss | 232557 | [232557-the-terrors-of-trantoss.json](./232557-the-terrors-of-trantoss.json) |
@@ -14014,6 +14018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: Saints & Sinners - Ch 2: Retribution | 198232 | [198232-the-walking-dead-saints-and-sinners-ch-2-retribution.json](./198232-the-walking-dead-saints-and-sinners-ch-2-retribution.json) |
 | The Walking Dead: Saints & Sinners - Ch 2: Retribution - Payback Edition | 229123 | [229123-the-walking-dead-saints-and-sinners-ch-2-retribution-payback-edition.json](./229123-the-walking-dead-saints-and-sinners-ch-2-retribution-payback-edition.json) |
 | The Walking Dead: Saints & Sinners - The Complete Edition | 139865 | [139865-the-walking-dead-saints-and-sinners-the-complete-edition.json](./139865-the-walking-dead-saints-and-sinners-the-complete-edition.json) |
+| The Walking Dead: Saints & Sinners - Tourist Edition | 242359 | [242359-the-walking-dead-saints-and-sinners-tourist-edition.json](./242359-the-walking-dead-saints-and-sinners-tourist-edition.json) |
 | The Walking Dead: Season One - Episode 2: Starved for Help | 114941 | [114941-the-walking-dead-season-one-episode-2-starved-for-help.json](./114941-the-walking-dead-season-one-episode-2-starved-for-help.json) |
 | The Walking Dead: Season One - Episode 3: Long Road Ahead | 114942 | [114942-the-walking-dead-season-one-episode-3-long-road-ahead.json](./114942-the-walking-dead-season-one-episode-3-long-road-ahead.json) |
 | The Walking Dead: Season One - Episode 4: Around Every Corner | 114943 | [114943-the-walking-dead-season-one-episode-4-around-every-corner.json](./114943-the-walking-dead-season-one-episode-4-around-every-corner.json) |
@@ -17455,6 +17460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tintin in Tibet | 249149 | [249149-tintin-in-tibet.json](./249149-tintin-in-tibet.json) |
 | Tintin on the Moon | 12797 | [12797-tintin-on-the-moon.json](./12797-tintin-on-the-moon.json) |
 | Tintin on the Moon | 316928 | [316928-tintin-on-the-moon.json](./316928-tintin-on-the-moon.json) |
+| Tintin Reporter: Cigars of the Pharaoh - Limited Edition | 242368 | [242368-tintin-reporter-cigars-of-the-pharaoh-limited-edition.json](./242368-tintin-reporter-cigars-of-the-pharaoh-limited-edition.json) |
 | TinTin: Destination Adventure | 43902 | [43902-tintin-destination-adventure.json](./43902-tintin-destination-adventure.json) |
 | Tinting Time | 216500 | [216500-tinting-time.json](./216500-tinting-time.json) |
 | Tiny | 298261 | [298261-tiny.json](./298261-tiny.json) |
@@ -20997,6 +21003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 3: Northeast Corridor - New York: Trenton | 237942 | [237942-train-sim-world-3-northeast-corridor-new-york-trenton.json](./237942-train-sim-world-3-northeast-corridor-new-york-trenton.json) |
 | Train Sim World 3: Peak Forest Railway - Ambergate - Chinley & Buxton | 273930 | [273930-train-sim-world-3-peak-forest-railway-ambergate-chinley-and-buxton.json](./273930-train-sim-world-3-peak-forest-railway-ambergate-chinley-and-buxton.json) |
 | Train Sim World 3: Rail Head Treatment Train Add-On | 220713 | [220713-train-sim-world-3-rail-head-treatment-train-add-on.json](./220713-train-sim-world-3-rail-head-treatment-train-add-on.json) |
+| Train Sim World 3: Rail Operations Group BR Class 37/7 | 242357 | [242357-train-sim-world-3-rail-operations-group-br-class-37-7.json](./242357-train-sim-world-3-rail-operations-group-br-class-37-7.json) |
 | Train Sim World 3: Santa Fe F7 Add-On | 220715 | [220715-train-sim-world-3-santa-fe-f7-add-on.json](./220715-train-sim-world-3-santa-fe-f7-add-on.json) |
 | Train Sim World 3: ScotRail Express: Edinburgh - Glasgow Route | 232430 | [232430-train-sim-world-3-scotrail-express-edinburgh-glasgow-route.json](./232430-train-sim-world-3-scotrail-express-edinburgh-glasgow-route.json) |
 | Train Sim World 3: Southeastern Super Starter Pack | 256312 | [256312-train-sim-world-3-southeastern-super-starter-pack.json](./256312-train-sim-world-3-southeastern-super-starter-pack.json) |
