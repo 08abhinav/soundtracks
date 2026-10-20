@@ -12264,6 +12264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shogun Empire | 22130 | [22130-the-shogun-empire.json](./22130-the-shogun-empire.json) |
 | The Shojing | 331892 | [331892-the-shojing.json](./331892-the-shojing.json) |
 | The Shoot | 20408 | [20408-the-shoot.json](./20408-the-shoot.json) |
+| The Shooter Ball | 233386 | [233386-the-shooter-ball.json](./233386-the-shooter-ball.json) |
 | The Shooting & The Helicopter | 203395 | [203395-the-shooting-and-the-helicopter.json](./203395-the-shooting-and-the-helicopter.json) |
 | The Shooting Maguro | 156024 | [156024-the-shooting-maguro.json](./156024-the-shooting-maguro.json) |
 | The Shopping List | 198373 | [198373-the-shopping-list.json](./198373-the-shopping-list.json) |
@@ -13177,6 +13178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Terminator 2029: Operation Scour | 15508 | [15508-the-terminator-2029-operation-scour.json](./15508-the-terminator-2029-operation-scour.json) |
 | The Terminator: Dawn of Fate | 6195 | [6195-the-terminator-dawn-of-fate.json](./6195-the-terminator-dawn-of-fate.json) |
 | The Terminator: Future Shock | 8413 | [8413-the-terminator-future-shock.json](./8413-the-terminator-future-shock.json) |
+| The Termiraptor | 233393 | [233393-the-termiraptor.json](./233393-the-termiraptor.json) |
 | The Terraces | 303018 | [303018-the-terraces.json](./303018-the-terraces.json) |
 | The Terrible Old Man | 122170 | [122170-the-terrible-old-man.json](./122170-the-terrible-old-man.json) |
 | The Terrible Old Man: Collector's Edition | 156100 | [156100-the-terrible-old-man-collectors-edition.json](./156100-the-terrible-old-man-collectors-edition.json) |
@@ -15119,6 +15121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Starry Midnight We Make | 17776 | [17776-this-starry-midnight-we-make.json](./17776-this-starry-midnight-we-make.json) |
 | This Strange Realm of Mine | 50506 | [50506-this-strange-realm-of-mine.json](./50506-this-strange-realm-of-mine.json) |
 | This Thing of Ours | 214162 | [214162-this-thing-of-ours.json](./214162-this-thing-of-ours.json) |
+| This This Rice | 233368 | [233368-this-this-rice.json](./233368-this-this-rice.json) |
 | This too | 183940 | [183940-this-too.json](./183940-this-too.json) |
 | This Trip: Hunted in Forest | 178520 | [178520-this-trip-hunted-in-forest.json](./178520-this-trip-hunted-in-forest.json) |
 | This Village Girl Turned Out to Be Under a Lewdification Curse! | 83189 | [83189-this-village-girl-turned-out-to-be-under-a-lewdification-curse.json](./83189-this-village-girl-turned-out-to-be-under-a-lewdification-curse.json) |
@@ -21041,6 +21044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 2020: West Somerset Railway Route | 156872 | [156872-train-sim-world-2020-west-somerset-railway-route.json](./156872-train-sim-world-2020-west-somerset-railway-route.json) |
 | Train Sim World 3 | 213113 | [213113-train-sim-world-3.json](./213113-train-sim-world-3.json) |
 | Train Sim World 3: Amtrak's Acela | 237944 | [237944-train-sim-world-3-amtraks-acela.json](./237944-train-sim-world-3-amtraks-acela.json) |
+| Train Sim World 3: Bahnstrecke Bremen - Oldenburg | 233357 | [233357-train-sim-world-3-bahnstrecke-bremen-oldenburg.json](./233357-train-sim-world-3-bahnstrecke-bremen-oldenburg.json) |
 | Train Sim World 3: Birmingham Cross-City Line - Lichfield: Bromsgrove & Redditch Route Add-On | 226688 | [226688-train-sim-world-3-birmingham-cross-city-line-lichfield-bromsgrove-and-redditch-route-add-on.json](./226688-train-sim-world-3-birmingham-cross-city-line-lichfield-bromsgrove-and-redditch-route-add-on.json) |
 | Train Sim World 3: Birmingham Standard Edition | 231364 | [231364-train-sim-world-3-birmingham-standard-edition.json](./231364-train-sim-world-3-birmingham-standard-edition.json) |
 | Train Sim World 3: Dispolok BR 182 Add-On | 220712 | [220712-train-sim-world-3-dispolok-br-182-add-on.json](./220712-train-sim-world-3-dispolok-br-182-add-on.json) |
@@ -21478,6 +21482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: West Somerset Railway Route Add-On | 90493 | [90493-train-simulator-west-somerset-railway-route-add-on.json](./90493-train-simulator-west-somerset-railway-route-add-on.json) |
 | Train Simulator: Western Lines of Scotland Route Add-On | 156360 | [156360-train-simulator-western-lines-of-scotland-route-add-on.json](./156360-train-simulator-western-lines-of-scotland-route-add-on.json) |
 | Train Simulator: Western Pacific GP20 High Nose Loco | 211898 | [211898-train-simulator-western-pacific-gp20-high-nose-loco.json](./211898-train-simulator-western-pacific-gp20-high-nose-loco.json) |
+| Train Station 2 | 233385 | [233385-train-station-2.json](./233385-train-station-2.json) |
 | Train Station Project | 334234 | [334234-train-station-project.json](./334234-train-station-project.json) |
 | Train Station Renovation | 108347 | [108347-train-station-renovation.json](./108347-train-station-renovation.json) |
 | Train Station Renovation: Germany | 195217 | [195217-train-station-renovation-germany.json](./195217-train-station-renovation-germany.json) |
@@ -21602,6 +21607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: Amtrak P42DC - Phase III | 205543 | [205543-trainz-plus-amtrak-p42dc-phase-iii.json](./205543-trainz-plus-amtrak-p42dc-phase-iii.json) |
 | Trainz Plus: Amtrak P42DC - Phase IV | 205493 | [205493-trainz-plus-amtrak-p42dc-phase-iv.json](./205493-trainz-plus-amtrak-p42dc-phase-iv.json) |
 | Trainz Plus: Andrushivka - Vinnitsa UZ | 205533 | [205533-trainz-plus-andrushivka-vinnitsa-uz.json](./205533-trainz-plus-andrushivka-vinnitsa-uz.json) |
+| Trainz Plus: ANR DL Class Australian National Pack | 233363 | [233363-trainz-plus-anr-dl-class-australian-national-pack.json](./233363-trainz-plus-anr-dl-class-australian-national-pack.json) |
 | Trainz Plus: Appen | 205510 | [205510-trainz-plus-appen.json](./205510-trainz-plus-appen.json) |
 | Trainz Plus: ATSF B40-8W 500-559 | 354381 | [354381-trainz-plus-atsf-b40-8w-500-559.json](./354381-trainz-plus-atsf-b40-8w-500-559.json) |
 | Trainz Plus: ATSF GP38-2 Santa FE | 205534 | [205534-trainz-plus-atsf-gp38-2-santa-fe.json](./205534-trainz-plus-atsf-gp38-2-santa-fe.json) |
@@ -21791,6 +21797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2019: Amtrak P42DC - Phase IV | 153179 | [153179-trainz-railroad-simulator-2019-amtrak-p42dc-phase-iv.json](./153179-trainz-railroad-simulator-2019-amtrak-p42dc-phase-iv.json) |
 | Trainz Railroad Simulator 2019: Amtrak P42DC - Phase V | 153201 | [153201-trainz-railroad-simulator-2019-amtrak-p42dc-phase-v.json](./153201-trainz-railroad-simulator-2019-amtrak-p42dc-phase-v.json) |
 | Trainz Railroad Simulator 2019: Andrushivka - Vinnitsa UZ | 153121 | [153121-trainz-railroad-simulator-2019-andrushivka-vinnitsa-uz.json](./153121-trainz-railroad-simulator-2019-andrushivka-vinnitsa-uz.json) |
+| Trainz Railroad Simulator 2019: ANR DL Class Australian National Pack | 233361 | [233361-trainz-railroad-simulator-2019-anr-dl-class-australian-national-pack.json](./233361-trainz-railroad-simulator-2019-anr-dl-class-australian-national-pack.json) |
 | Trainz Railroad Simulator 2019: Appen | 153119 | [153119-trainz-railroad-simulator-2019-appen.json](./153119-trainz-railroad-simulator-2019-appen.json) |
 | Trainz Railroad Simulator 2019: ATSF GP38-2 Santa FE | 153117 | [153117-trainz-railroad-simulator-2019-atsf-gp38-2-santa-fe.json](./153117-trainz-railroad-simulator-2019-atsf-gp38-2-santa-fe.json) |
 | Trainz Railroad Simulator 2019: Avery - Drexel Route | 153204 | [153204-trainz-railroad-simulator-2019-avery-drexel-route.json](./153204-trainz-railroad-simulator-2019-avery-drexel-route.json) |
@@ -21941,6 +21948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2022 | 195792 | [195792-trainz-railroad-simulator-2022.json](./195792-trainz-railroad-simulator-2022.json) |
 | Trainz Railroad Simulator 2022: Amtrak P42DC - Phase III | 205351 | [205351-trainz-railroad-simulator-2022-amtrak-p42dc-phase-iii.json](./205351-trainz-railroad-simulator-2022-amtrak-p42dc-phase-iii.json) |
 | Trainz Railroad Simulator 2022: Andrushivka - Vinnitsa UZ | 205356 | [205356-trainz-railroad-simulator-2022-andrushivka-vinnitsa-uz.json](./205356-trainz-railroad-simulator-2022-andrushivka-vinnitsa-uz.json) |
+| Trainz Railroad Simulator 2022: ANR DL Class Australian National Pack | 233362 | [233362-trainz-railroad-simulator-2022-anr-dl-class-australian-national-pack.json](./233362-trainz-railroad-simulator-2022-anr-dl-class-australian-national-pack.json) |
 | Trainz Railroad Simulator 2022: Appen | 205337 | [205337-trainz-railroad-simulator-2022-appen.json](./205337-trainz-railroad-simulator-2022-appen.json) |
 | Trainz Railroad Simulator 2022: ATSF B40-8W 500-559 | 354380 | [354380-trainz-railroad-simulator-2022-atsf-b40-8w-500-559.json](./354380-trainz-railroad-simulator-2022-atsf-b40-8w-500-559.json) |
 | Trainz Railroad Simulator 2022: Avery - Drexel Route | 205332 | [205332-trainz-railroad-simulator-2022-avery-drexel-route.json](./205332-trainz-railroad-simulator-2022-avery-drexel-route.json) |
@@ -22006,6 +22014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2022: Pro Train: CSX Loco Bundle 1 | 393725 | [393725-trainz-railroad-simulator-2022-pro-train-csx-loco-bundle-1.json](./393725-trainz-railroad-simulator-2022-pro-train-csx-loco-bundle-1.json) |
 | Trainz Railroad Simulator 2022: PRR T1 | 205355 | [205355-trainz-railroad-simulator-2022-prr-t1.json](./205355-trainz-railroad-simulator-2022-prr-t1.json) |
 | Trainz Railroad Simulator 2022: QR National GE C44aci | 213408 | [213408-trainz-railroad-simulator-2022-qr-national-ge-c44aci.json](./213408-trainz-railroad-simulator-2022-qr-national-ge-c44aci.json) |
+| Trainz Railroad Simulator 2022: Qube GE C44aci Pack | 233360 | [233360-trainz-railroad-simulator-2022-qube-ge-c44aci-pack.json](./233360-trainz-railroad-simulator-2022-qube-ge-c44aci-pack.json) |
 | Trainz Railroad Simulator 2022: Route - Tidewater Point Railroad 2.0 | 205378 | [205378-trainz-railroad-simulator-2022-route-tidewater-point-railroad-2-0.json](./205378-trainz-railroad-simulator-2022-route-tidewater-point-railroad-2-0.json) |
 | Trainz Railroad Simulator 2022: RZD-UZ-RIC Wagons | 205367 | [205367-trainz-railroad-simulator-2022-rzd-uz-ric-wagons.json](./205367-trainz-railroad-simulator-2022-rzd-uz-ric-wagons.json) |
 | Trainz Railroad Simulator 2022: SA CL Class - SSR Pack 01 | 296253 | [296253-trainz-railroad-simulator-2022-sa-cl-class-ssr-pack-01.json](./296253-trainz-railroad-simulator-2022-sa-cl-class-ssr-pack-01.json) |
@@ -24929,6 +24938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tybot Invasion: The Typing Runner | 151568 | [151568-tybot-invasion-the-typing-runner.json](./151568-tybot-invasion-the-typing-runner.json) |
 | Tyco R/C: Assault with a Battery | 44889 | [44889-tyco-r-c-assault-with-a-battery.json](./44889-tyco-r-c-assault-with-a-battery.json) |
 | Tyco Racin' Ratz | 73229 | [73229-tyco-racin-ratz.json](./73229-tyco-racin-ratz.json) |
+| Tycoon Idle: Business Master | 233377 | [233377-tycoon-idle-business-master.json](./233377-tycoon-idle-business-master.json) |
 | Tycoon Legends | 245855 | [245855-tycoon-legends.json](./245855-tycoon-legends.json) |
 | Tycoon of the HighSeas | 181124 | [181124-tycoon-of-the-highseas.json](./181124-tycoon-of-the-highseas.json) |
 | Tyd wag vir Niemand | 52012 | [52012-tyd-wag-vir-niemand.json](./52012-tyd-wag-vir-niemand.json) |
