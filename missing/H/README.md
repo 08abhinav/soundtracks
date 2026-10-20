@@ -5259,6 +5259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object Secrets: Family Revenge - Collector's Edition | 276663 | [276663-hidden-object-secrets-family-revenge-collectors-edition.json](./276663-hidden-object-secrets-family-revenge-collectors-edition.json) |
 | Hidden Object Secrets: The Whitefield Murder - Collector's Edition | 295072 | [295072-hidden-object-secrets-the-whitefield-murder-collectors-edition.json](./295072-hidden-object-secrets-the-whitefield-murder-collectors-edition.json) |
 | Hidden Object Vacation | 217016 | [217016-hidden-object-vacation.json](./217016-hidden-object-vacation.json) |
+| Hidden Object Vampires Temple | 241213 | [241213-hidden-object-vampires-temple.json](./241213-hidden-object-vampires-temple.json) |
 | Hidden Object Wedding Day | 100741 | [100741-hidden-object-wedding-day.json](./100741-hidden-object-wedding-day.json) |
 | Hidden Object: Age of the Dinosaurs | 98352 | [98352-hidden-object-age-of-the-dinosaurs.json](./98352-hidden-object-age-of-the-dinosaurs.json) |
 | Hidden Object: Aliens - The Arrival | 98401 | [98401-hidden-object-aliens-the-arrival.json](./98401-hidden-object-aliens-the-arrival.json) |
@@ -5385,6 +5386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects - Forest Fairies | 89286 | [89286-hidden-objects-forest-fairies.json](./89286-hidden-objects-forest-fairies.json) |
 | Hidden Objects - Ireland Adventures & Object Time Puzzle Games | 71205 | [71205-hidden-objects-ireland-adventures-and-object-time-puzzle-games.json](./71205-hidden-objects-ireland-adventures-and-object-time-puzzle-games.json) |
 | Hidden Objects Ancient Greece | 88847 | [88847-hidden-objects-ancient-greece.json](./88847-hidden-objects-ancient-greece.json) |
+| Hidden Objects Christmas Game | 241214 | [241214-hidden-objects-christmas-game.json](./241214-hidden-objects-christmas-game.json) |
 | Hidden Objects Collection | 93969 | [93969-hidden-objects-collection.json](./93969-hidden-objects-collection.json) |
 | Hidden Objects Collection 5: Detective Stories | 282055 | [282055-hidden-objects-collection-5-detective-stories.json](./282055-hidden-objects-collection-5-detective-stories.json) |
 | Hidden Objects Collection: Volume 3 | 191493 | [191493-hidden-objects-collection-volume-3.json](./191493-hidden-objects-collection-volume-3.json) |
@@ -5763,6 +5765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Pursuit | 231318 | [231318-highway-pursuit.json](./231318-highway-pursuit.json) |
 | Highway Racer | 300727 | [300727-highway-racer.json](./300727-highway-racer.json) |
 | Highway Racer HD | 237382 | [237382-highway-racer-hd.json](./237382-highway-racer-hd.json) |
+| Highway Racer: Out of Control | 241212 | [241212-highway-racer-out-of-control.json](./241212-highway-racer-out-of-control.json) |
 | Highway Racing | 247040 | [247040-highway-racing.json](./247040-highway-racing.json) |
 | Highway Racing 2 | 287524 | [287524-highway-racing-2.json](./287524-highway-racing-2.json) |
 | Highway Rally | 8037 | [8037-highway-rally.json](./8037-highway-rally.json) |
@@ -7468,6 +7471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon Forbidden West: Complete Edition | 268842 | [268842-horizon-forbidden-west-complete-edition.json](./268842-horizon-forbidden-west-complete-edition.json) |
 | Horizon Forbidden West: Major Update 1.14 | 227890 | [227890-horizon-forbidden-west-major-update-1-14.json](./227890-horizon-forbidden-west-major-update-1-14.json) |
 | Horizon Forbidden West: Regalla Edition | 173110 | [173110-horizon-forbidden-west-regalla-edition.json](./173110-horizon-forbidden-west-regalla-edition.json) |
+| Horizon Heat | 241223 | [241223-horizon-heat.json](./241223-horizon-heat.json) |
 | Horizon Journey | 320472 | [320472-horizon-journey.json](./320472-horizon-journey.json) |
 | Horizon Midnight Sky Combat Aircraft: War Arena Flight Simulator 2022 | 203707 | [203707-horizon-midnight-sky-combat-aircraft-war-arena-flight-simulator-2022.json](./203707-horizon-midnight-sky-combat-aircraft-war-arena-flight-simulator-2022.json) |
 | Horizon Midnight: Aircraft | 276118 | [276118-horizon-midnight-aircraft.json](./276118-horizon-midnight-aircraft.json) |
