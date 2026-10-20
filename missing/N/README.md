@@ -1848,6 +1848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Dan | 282829 | [282829-neon-dan.json](./282829-neon-dan.json) |
 | Neon Dash | 391613 | [391613-neon-dash.json](./391613-neon-dash.json) |
 | Neon Dash Tales | 268970 | [268970-neon-dash-tales.json](./268970-neon-dash-tales.json) |
+| Neon Death Drop | 240658 | [240658-neon-death-drop.json](./240658-neon-death-drop.json) |
 | Neon Defenders Premium Defense | 200156 | [200156-neon-defenders-premium-defense.json](./200156-neon-defenders-premium-defense.json) |
 | Neon Depth | 168333 | [168333-neon-depth.json](./168333-neon-depth.json) |
 | Neon Dimension | 157385 | [157385-neon-dimension.json](./157385-neon-dimension.json) |
