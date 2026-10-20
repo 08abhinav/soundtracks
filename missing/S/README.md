@@ -14614,6 +14614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
+| Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
 | Space Hunter | 271175 | [271175-space-hunter.json](./271175-space-hunter.json) |
 | Space Hurricane | 385796 | [385796-space-hurricane.json](./385796-space-hurricane.json) |
@@ -16048,6 +16049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spice World | 44907 | [44907-spice-world.json](./44907-spice-world.json) |
 | SpiceX | 362994 | [362994-spicex.json](./362994-spicex.json) |
 | Spicy Fruit | 293678 | [293678-spicy-fruit.json](./293678-spicy-fruit.json) |
+| Spider | 230674 | [230674-spider.json](./230674-spider.json) |
 | Spider | 320132 | [320132-spider.json](./320132-spider.json) |
 | Spider | 379979 | [379979-spider.json](./379979-spider.json) |
 | Spider | 88429 | [88429-spider.json](./88429-spider.json) |
@@ -22007,6 +22009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Puzzle | 258466 | [258466-sudoku-puzzle.json](./258466-sudoku-puzzle.json) |
 | Sudoku Puzzle Blast | 208354 | [208354-sudoku-puzzle-blast.json](./208354-sudoku-puzzle-blast.json) |
 | Sudoku Quest | 33669 | [33669-sudoku-quest.json](./33669-sudoku-quest.json) |
+| Sudoku Quiz | 230706 | [230706-sudoku-quiz.json](./230706-sudoku-quiz.json) |
 | Sudoku Race | 267591 | [267591-sudoku-race.json](./267591-sudoku-race.json) |
 | Sudoku Relax 2 Summer Waves | 124064 | [124064-sudoku-relax-2-summer-waves.json](./124064-sudoku-relax-2-summer-waves.json) |
 | Sudoku Relax 3 Autumn Leaves | 125746 | [125746-sudoku-relax-3-autumn-leaves.json](./125746-sudoku-relax-3-autumn-leaves.json) |
