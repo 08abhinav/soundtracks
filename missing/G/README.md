@@ -3401,6 +3401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girlish Love Revolution | 80610 | [80610-girlish-love-revolution.json](./80610-girlish-love-revolution.json) |
 | GirlJail | 97348 | [97348-girljail.json](./97348-girljail.json) |
 | Girlkiller | 275461 | [275461-girlkiller.json](./275461-girlkiller.json) |
+| GirlPuzzle | 213783 | [213783-girlpuzzle.json](./213783-girlpuzzle.json) |
 | Girls & Blocks | 289420 | [289420-girls-and-blocks.json](./289420-girls-and-blocks.json) |
 | Girls & Dungeons 2 | 119635 | [119635-girls-and-dungeons-2.json](./119635-girls-and-dungeons-2.json) |
 | Girls Academy | 224048 | [224048-girls-academy.json](./224048-girls-academy.json) |
