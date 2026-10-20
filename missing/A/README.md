@@ -9000,6 +9000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Daioh | 274896 | [274896-arcade-archives-daioh.json](./274896-arcade-archives-daioh.json) |
 | Arcade Archives: Darius | 121426 | [121426-arcade-archives-darius.json](./121426-arcade-archives-darius.json) |
 | Arcade Archives: Dead Connection | 334087 | [334087-arcade-archives-dead-connection.json](./334087-arcade-archives-dead-connection.json) |
+| Arcade Archives: Dig Dug II | 245714 | [245714-arcade-archives-dig-dug-ii.json](./245714-arcade-archives-dig-dug-ii.json) |
 | Arcade Archives: Dinorex | 276863 | [276863-arcade-archives-dinorex.json](./276863-arcade-archives-dinorex.json) |
 | Arcade Archives: Donkey Kong 3 | 117018 | [117018-arcade-archives-donkey-kong-3.json](./117018-arcade-archives-donkey-kong-3.json) |
 | Arcade Archives: Donkey Kong Jr. | 113436 | [113436-arcade-archives-donkey-kong-jr.json](./113436-arcade-archives-donkey-kong-jr.json) |
@@ -11416,6 +11417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterika: Phantom Rose Refrain | 342606 | [342606-asterika-phantom-rose-refrain.json](./342606-asterika-phantom-rose-refrain.json) |
 | Asterisk | 390189 | [390189-asterisk.json](./390189-asterisk.json) |
 | Asterism | 119741 | [119741-asterism.json](./119741-asterism.json) |
+| Asterism | 245712 | [245712-asterism.json](./245712-asterism.json) |
 | Asterism: Apex of War | 190088 | [190088-asterism-apex-of-war.json](./190088-asterism-apex-of-war.json) |
 | Asterius | 181723 | [181723-asterius.json](./181723-asterius.json) |
 | Asterix | 12242 | [12242-asterix.json](./12242-asterix.json) |
