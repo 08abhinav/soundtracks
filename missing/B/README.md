@@ -6876,6 +6876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Rock Shooter: Fragment | 193806 | [193806-black-rock-shooter-fragment.json](./193806-black-rock-shooter-fragment.json) |
 | Black Rock Shooter: The Game | 11831 | [11831-black-rock-shooter-the-game.json](./11831-black-rock-shooter-the-game.json) |
 | Black Room | 188989 | [188989-black-room.json](./188989-black-room.json) |
+| Black Room | 230148 | [230148-black-room.json](./230148-black-room.json) |
 | Black Rose | 33253 | [33253-black-rose.json](./33253-black-rose.json) |
 | Black Rose Valkyrie | 137079 | [137079-black-rose-valkyrie.json](./137079-black-rose-valkyrie.json) |
 | Black Roses | 100712 | [100712-black-roses.json](./100712-black-roses.json) |
@@ -13454,6 +13455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator: Car Driving | 231770 | [231770-bus-simulator-car-driving.json](./231770-bus-simulator-car-driving.json) |
 | Bus Simulator: City Driving Ultimate | 264902 | [264902-bus-simulator-city-driving-ultimate.json](./264902-bus-simulator-city-driving-ultimate.json) |
 | Bus Simulator: Original | 260056 | [260056-bus-simulator-original.json](./260056-bus-simulator-original.json) |
+| Bus Simulator: Ultimate | 230107 | [230107-bus-simulator-ultimate.json](./230107-bus-simulator-ultimate.json) |
 | Bus Stop | 301921 | [301921-bus-stop.json](./301921-bus-stop.json) |
 | Bus stop in the fog | 159877 | [159877-bus-stop-in-the-fog.json](./159877-bus-stop-in-the-fog.json) |
 | Bus Stop Shuffle | 361264 | [361264-bus-stop-shuffle.json](./361264-bus-stop-shuffle.json) |
