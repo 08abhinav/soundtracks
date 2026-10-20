@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:48:54.428Z",
-  "total_missing": 239408,
+  "generated_at": "2026-10-20T21:51:48.227Z",
+  "total_missing": 239404,
   "games": [
     {
       "igdb_id": 191680,
@@ -334592,11 +334592,6 @@
       "file": "missing/F/395036-facada.json"
     },
     {
-      "igdb_id": 11740,
-      "game_name": "Façade",
-      "file": "missing/F/11740-facade.json"
-    },
-    {
       "igdb_id": 87958,
       "game_name": "Face",
       "file": "missing/F/87958-face.json"
@@ -566560,11 +566555,6 @@
       "igdb_id": 346039,
       "game_name": "Little Bushman",
       "file": "missing/L/346039-little-bushman.json"
-    },
-    {
-      "igdb_id": 7364,
-      "game_name": "Little Busters!",
-      "file": "missing/L/7364-little-busters.json"
     },
     {
       "igdb_id": 127796,
@@ -856257,11 +856247,6 @@
       "file": "missing/S/76251-schiffbruch.json"
     },
     {
-      "igdb_id": 140799,
-      "game_name": "SCHiM",
-      "file": "missing/S/140799-schim.json"
-    },
-    {
       "igdb_id": 136135,
       "game_name": "Schism",
       "file": "missing/S/136135-schism.json"
@@ -963810,11 +963795,6 @@
       "igdb_id": 180774,
       "game_name": "Super Kitty Tales",
       "file": "missing/S/180774-super-kitty-tales.json"
-    },
-    {
-      "igdb_id": 197198,
-      "game_name": "Super Kiwi 64",
-      "file": "missing/S/197198-super-kiwi-64.json"
     },
     {
       "igdb_id": 284145,
