@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakai | 286482 | [286482-hakai.json](./286482-hakai.json) |
 | Hakan's War Manager | 258919 | [258919-hakans-war-manager.json](./258919-hakans-war-manager.json) |
 | Hakarena Heart: Dare ga Tame ni Kimi ha Aru | 69292 | [69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json](./69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json) |
+| Hakarena Heart: Kimi ga Tame ni Kagayaki wo | 217755 | [217755-hakarena-heart-kimi-ga-tame-ni-kagayaki-wo.json](./217755-hakarena-heart-kimi-ga-tame-ni-kagayaki-wo.json) |
 | Haken wo Nigire: 47 Todoufuken Taisen | 110107 | [110107-haken-wo-nigire-47-todoufuken-taisen.json](./110107-haken-wo-nigire-47-todoufuken-taisen.json) |
 | Hakkaku Doku | 323707 | [323707-hakkaku-doku.json](./323707-hakkaku-doku.json) |
 | Hakkemii no Uranai SP | 354390 | [354390-hakkemii-no-uranai-sp.json](./354390-hakkemii-no-uranai-sp.json) |
@@ -335,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakuouki Shinkai: Manyou no Shou | 241529 | [241529-hakuouki-shinkai-manyou-no-shou.json](./241529-hakuouki-shinkai-manyou-no-shou.json) |
 | Hakurei Frontier | 225725 | [225725-hakurei-frontier.json](./225725-hakurei-frontier.json) |
 | Hakurei Frontier Spell Strive | 225728 | [225728-hakurei-frontier-spell-strive.json](./225728-hakurei-frontier-spell-strive.json) |
+| Hakushaku to Yousei: Yume to Kizuna ni Omoi wo Hasete | 217756 | [217756-hakushaku-to-yousei-yume-to-kizuna-ni-omoi-wo-hasete.json](./217756-hakushaku-to-yousei-yume-to-kizuna-ni-omoi-wo-hasete.json) |
 | Hal 21 | 25956 | [25956-hal-21.json](./25956-hal-21.json) |
 | HAL Protocol | 352325 | [352325-hal-protocol.json](./352325-hal-protocol.json) |
 | Hal Wrestling | 48993 | [48993-hal-wrestling.json](./48993-hal-wrestling.json) |
@@ -1385,6 +1387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Driver | 151033 | [151033-hard-driver.json](./151033-hard-driver.json) |
 | Hard Driver 2 | 148858 | [148858-hard-driver-2.json](./148858-hard-driver-2.json) |
 | Hard Drivin' | 12134 | [12134-hard-drivin.json](./12134-hard-drivin.json) |
+| Hard Drivin' | 217740 | [217740-hard-drivin.json](./217740-hard-drivin.json) |
 | Hard Drivin' II: Drive Harder | 12135 | [12135-hard-drivin-ii-drive-harder.json](./12135-hard-drivin-ii-drive-harder.json) |
 | Hard Dunk | 40350 | [40350-hard-dunk.json](./40350-hard-dunk.json) |
 | Hard Evidence: Marilyn Monroe Files | 7619 | [7619-hard-evidence-marilyn-monroe-files.json](./7619-hard-evidence-marilyn-monroe-files.json) |
@@ -5926,7 +5929,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiiro | 32922 | [32922-hiiro.json](./32922-hiiro.json) |
 | Hiiro no Kakera Tamayori-hime Kitan: Omoi Iro no Kioku for Nintendo Switch | 293147 | [293147-hiiro-no-kakera-tamayori-hime-kitan-omoi-iro-no-kioku-for-nintendo-switch.json](./293147-hiiro-no-kakera-tamayori-hime-kitan-omoi-iro-no-kioku-for-nintendo-switch.json) |
 | Hiiro no Kakera: Omoi Iro no Kioku | 136478 | [136478-hiiro-no-kakera-omoi-iro-no-kioku.json](./136478-hiiro-no-kakera-omoi-iro-no-kioku.json) |
+| Hiiro no Kakera: Shin Tamayori-hime Denshou | 217763 | [217763-hiiro-no-kakera-shin-tamayori-hime-denshou.json](./217763-hiiro-no-kakera-shin-tamayori-hime-denshou.json) |
 | Hiiro no Kakera: Shin Tamayori-hime Denshou - Piece of Future | 217767 | [217767-hiiro-no-kakera-shin-tamayori-hime-denshou-piece-of-future.json](./217767-hiiro-no-kakera-shin-tamayori-hime-denshou-piece-of-future.json) |
+| Hiiro no Kakera: Shin Tamayuri-hime Densetsu - Portable | 217765 | [217765-hiiro-no-kakera-shin-tamayuri-hime-densetsu-portable.json](./217765-hiiro-no-kakera-shin-tamayuri-hime-densetsu-portable.json) |
 | Hiiro: Collector's Edition | 53211 | [53211-hiiro-collectors-edition.json](./53211-hiiro-collectors-edition.json) |
 | Hiirun | 257112 | [257112-hiirun.json](./257112-hiirun.json) |
 | Hiis | 143579 | [143579-hiis.json](./143579-hiis.json) |
@@ -8250,6 +8255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Flipper: Pop Art Furniture Pack | 295125 | [295125-house-flipper-pop-art-furniture-pack.json](./295125-house-flipper-pop-art-furniture-pack.json) |
 | House Ghost | 373842 | [373842-house-ghost.json](./373842-house-ghost.json) |
 | House Hopper | 250281 | [250281-house-hopper.json](./250281-house-hopper.json) |
+| House Hunted | 217759 | [217759-house-hunted.json](./217759-house-hunted.json) |
 | House in the village by the river v2.0 | 173813 | [173813-house-in-the-village-by-the-river-v2-0.json](./173813-house-in-the-village-by-the-river-v2-0.json) |
 | House in the Woods | 395108 | [395108-house-in-the-woods.json](./395108-house-in-the-woods.json) |
 | House M.D. Episode 5: Under the Big Top | 65508 | [65508-house-m-d-episode-5-under-the-big-top.json](./65508-house-m-d-episode-5-under-the-big-top.json) |
