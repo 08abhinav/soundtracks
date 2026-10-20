@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T02:48:36.497Z",
-  "total_missing": 235793,
+  "generated_at": "2026-10-20T03:03:35.079Z",
+  "total_missing": 235843,
   "games": [
     {
       "igdb_id": 191680,
@@ -39687,6 +39687,11 @@
       "file": "missing/A/11557-all-star-baseball-2003.json"
     },
     {
+      "igdb_id": 248445,
+      "game_name": "All-Star Baseball 2003",
+      "file": "missing/A/248445-all-star-baseball-2003.json"
+    },
+    {
       "igdb_id": 282834,
       "game_name": "All-Star Baseball 2004",
       "file": "missing/A/282834-all-star-baseball-2004.json"
@@ -42825,6 +42830,11 @@
       "igdb_id": 344366,
       "game_name": "Amazing Gardens",
       "file": "missing/A/344366-amazing-gardens.json"
+    },
+    {
+      "igdb_id": 248441,
+      "game_name": "Amazing Girl",
+      "file": "missing/A/248441-amazing-girl.json"
     },
     {
       "igdb_id": 416882,
@@ -108617,6 +108627,16 @@
       "file": "missing/B/88322-big-mountain-snowboarding.json"
     },
     {
+      "igdb_id": 248456,
+      "game_name": "Big Mutha Truckers",
+      "file": "missing/B/248456-big-mutha-truckers.json"
+    },
+    {
+      "igdb_id": 248457,
+      "game_name": "Big Mutha Truckers",
+      "file": "missing/B/248457-big-mutha-truckers.json"
+    },
+    {
       "igdb_id": 3809,
       "game_name": "Big Mutha Truckers",
       "file": "missing/B/3809-big-mutha-truckers.json"
@@ -111220,6 +111240,11 @@
       "igdb_id": 15738,
       "game_name": "Bionicle: Maze of Shadows",
       "file": "missing/B/15738-bionicle-maze-of-shadows.json"
+    },
+    {
+      "igdb_id": 248451,
+      "game_name": "Bionicle: The Game",
+      "file": "missing/B/248451-bionicle-the-game.json"
     },
     {
       "igdb_id": 3811,
@@ -135035,6 +135060,11 @@
       "igdb_id": 43248,
       "game_name": "Bratz: Girlz Really Rock",
       "file": "missing/B/43248-bratz-girlz-really-rock.json"
+    },
+    {
+      "igdb_id": 248472,
+      "game_name": "Bratz: Rock Angelz",
+      "file": "missing/B/248472-bratz-rock-angelz.json"
     },
     {
       "igdb_id": 248612,
@@ -189960,6 +189990,21 @@
       "igdb_id": 19677,
       "game_name": "Cocoto Fishing Master",
       "file": "missing/C/19677-cocoto-fishing-master.json"
+    },
+    {
+      "igdb_id": 248487,
+      "game_name": "Cocoto Kart Online",
+      "file": "missing/C/248487-cocoto-kart-online.json"
+    },
+    {
+      "igdb_id": 248485,
+      "game_name": "Cocoto Kart Racer",
+      "file": "missing/C/248485-cocoto-kart-racer.json"
+    },
+    {
+      "igdb_id": 248486,
+      "game_name": "Cocoto Kart Racer",
+      "file": "missing/C/248486-cocoto-kart-racer.json"
     },
     {
       "igdb_id": 61861,
@@ -264532,6 +264577,11 @@
       "file": "missing/D/49305-disney-sports-motocross.json"
     },
     {
+      "igdb_id": 248465,
+      "game_name": "Disney Sports Skateboarding",
+      "file": "missing/D/248465-disney-sports-skateboarding.json"
+    },
+    {
       "igdb_id": 3881,
       "game_name": "Disney Sports Skateboarding",
       "file": "missing/D/3881-disney-sports-skateboarding.json"
@@ -278420,6 +278470,11 @@
       "igdb_id": 304703,
       "game_name": "Dr. Murph",
       "file": "missing/D/304703-dr-murph.json"
+    },
+    {
+      "igdb_id": 248455,
+      "game_name": "Dr. Muto",
+      "file": "missing/D/248455-dr-muto.json"
     },
     {
       "igdb_id": 314661,
@@ -301822,6 +301877,11 @@
       "file": "missing/E/2817-ed-edd-n-eddy-scam-of-the-century.json"
     },
     {
+      "igdb_id": 248473,
+      "game_name": "Ed, Edd n Eddy: The Mis-Edventures",
+      "file": "missing/E/248473-ed-edd-n-eddy-the-mis-edventures.json"
+    },
+    {
       "igdb_id": 2722,
       "game_name": "Ed, Edd n Eddy: The Mis-Edventures",
       "file": "missing/E/2722-ed-edd-n-eddy-the-mis-edventures.json"
@@ -303040,6 +303100,11 @@
       "igdb_id": 317361,
       "game_name": "Egg Maker",
       "file": "missing/E/317361-egg-maker.json"
+    },
+    {
+      "igdb_id": 248463,
+      "game_name": "Egg Mania",
+      "file": "missing/E/248463-egg-mania.json"
     },
     {
       "igdb_id": 3903,
@@ -369480,6 +369545,11 @@
       "igdb_id": 371303,
       "game_name": "FPS Robot Attack Minigame",
       "file": "missing/F/371303-fps-robot-attack-minigame.json"
+    },
+    {
+      "igdb_id": 248436,
+      "game_name": "FPS Seduce: Hentai",
+      "file": "missing/F/248436-fps-seduce-hentai.json"
     },
     {
       "igdb_id": 102748,
@@ -499077,6 +499147,11 @@
       "file": "missing/J/1633-james-bond-007-goldfinger.json"
     },
     {
+      "igdb_id": 248458,
+      "game_name": "James Bond 007: Nightfire",
+      "file": "missing/J/248458-james-bond-007-nightfire.json"
+    },
+    {
       "igdb_id": 290069,
       "game_name": "James Bond 007: Nightfire",
       "file": "missing/J/290069-james-bond-007-nightfire.json"
@@ -503755,6 +503830,11 @@
       "igdb_id": 162999,
       "game_name": "Jigsaw Pieces: Romance",
       "file": "missing/J/162999-jigsaw-pieces-romance.json"
+    },
+    {
+      "igdb_id": 248440,
+      "game_name": "Jigsaw Pink",
+      "file": "missing/J/248440-jigsaw-pink.json"
     },
     {
       "igdb_id": 97145,
@@ -517745,6 +517825,11 @@
       "igdb_id": 340785,
       "game_name": "Kato Pirato",
       "file": "missing/K/340785-kato-pirato.json"
+    },
+    {
+      "igdb_id": 248438,
+      "game_name": "Katoa",
+      "file": "missing/K/248438-katoa.json"
     },
     {
       "igdb_id": 136881,
@@ -549392,6 +549477,16 @@
       "file": "missing/L/70408-lemons-must-die.json"
     },
     {
+      "igdb_id": 248492,
+      "game_name": "Lemony Snicket's A Series of Unfortunate Events",
+      "file": "missing/L/248492-lemony-snickets-a-series-of-unfortunate-events.json"
+    },
+    {
+      "igdb_id": 248493,
+      "game_name": "Lemony Snicket's A Series of Unfortunate Events",
+      "file": "missing/L/248493-lemony-snickets-a-series-of-unfortunate-events.json"
+    },
+    {
       "igdb_id": 214175,
       "game_name": "Lempo",
       "file": "missing/L/214175-lempo.json"
@@ -568197,6 +568292,11 @@
       "file": "missing/L/149724-lotus-bloom.json"
     },
     {
+      "igdb_id": 248446,
+      "game_name": "Lotus Challenge",
+      "file": "missing/L/248446-lotus-challenge.json"
+    },
+    {
       "igdb_id": 3983,
       "game_name": "Lotus Challenge",
       "file": "missing/L/3983-lotus-challenge.json"
@@ -576312,6 +576412,16 @@
       "file": "missing/M/230436-madagascar.json"
     },
     {
+      "igdb_id": 248476,
+      "game_name": "Madagascar",
+      "file": "missing/M/248476-madagascar.json"
+    },
+    {
+      "igdb_id": 248477,
+      "game_name": "Madagascar",
+      "file": "missing/M/248477-madagascar.json"
+    },
+    {
       "igdb_id": 3764,
       "game_name": "Madagascar",
       "file": "missing/M/3764-madagascar.json"
@@ -580265,6 +580375,11 @@
       "igdb_id": 264592,
       "game_name": "Magical Hike",
       "file": "missing/M/264592-magical-hike.json"
+    },
+    {
+      "igdb_id": 248471,
+      "game_name": "Magical Houshin",
+      "file": "missing/M/248471-magical-houshin.json"
     },
     {
       "igdb_id": 48670,
@@ -623687,6 +623802,11 @@
       "file": "missing/M/110121-minoria.json"
     },
     {
+      "igdb_id": 248459,
+      "game_name": "Minority Report: Everybody Runs",
+      "file": "missing/M/248459-minority-report-everybody-runs.json"
+    },
+    {
       "igdb_id": 370704,
       "game_name": "Minos",
       "file": "missing/M/370704-minos.json"
@@ -664697,6 +664817,11 @@
       "file": "missing/N/223395-neko-dating-sim.json"
     },
     {
+      "igdb_id": 248437,
+      "game_name": "Neko Doll",
+      "file": "missing/N/248437-neko-doll.json"
+    },
+    {
       "igdb_id": 385332,
       "game_name": "Neko Don Don!",
       "file": "missing/N/385332-neko-don-don.json"
@@ -671042,6 +671167,11 @@
       "file": "missing/N/39598-nfl-blitz-2000-gold-edition.json"
     },
     {
+      "igdb_id": 248464,
+      "game_name": "NFL Blitz 2003",
+      "file": "missing/N/248464-nfl-blitz-2003.json"
+    },
+    {
       "igdb_id": 47365,
       "game_name": "NFL Blitz 2003",
       "file": "missing/N/47365-nfl-blitz-2003.json"
@@ -675875,6 +676005,11 @@
       "igdb_id": 291401,
       "game_name": "NineHells",
       "file": "missing/N/291401-ninehells.json"
+    },
+    {
+      "igdb_id": 248439,
+      "game_name": "Ninehouse",
+      "file": "missing/N/248439-ninehouse.json"
     },
     {
       "igdb_id": 273449,
@@ -732465,6 +732600,11 @@
       "igdb_id": 416682,
       "game_name": "Pigkour",
       "file": "missing/P/416682-pigkour.json"
+    },
+    {
+      "igdb_id": 248453,
+      "game_name": "Piglet's Big Game",
+      "file": "missing/P/248453-piglets-big-game.json"
     },
     {
       "igdb_id": 314629,
@@ -800742,6 +800882,11 @@
       "file": "missing/R/126974-reign-of-darkness.json"
     },
     {
+      "igdb_id": 248461,
+      "game_name": "Reign of Fire",
+      "file": "missing/R/248461-reign-of-fire.json"
+    },
+    {
       "igdb_id": 112329,
       "game_name": "Reign of Guilds",
       "file": "missing/R/112329-reign-of-guilds.json"
@@ -817760,6 +817905,21 @@
       "igdb_id": 176770,
       "game_name": "Robots",
       "file": "missing/R/176770-robots.json"
+    },
+    {
+      "igdb_id": 248488,
+      "game_name": "Robots",
+      "file": "missing/R/248488-robots.json"
+    },
+    {
+      "igdb_id": 248489,
+      "game_name": "Robots",
+      "file": "missing/R/248489-robots.json"
+    },
+    {
+      "igdb_id": 248490,
+      "game_name": "Robots",
+      "file": "missing/R/248490-robots.json"
     },
     {
       "igdb_id": 105369,
@@ -851335,6 +851495,11 @@
       "igdb_id": 263353,
       "game_name": "Sega Soccer",
       "file": "missing/S/263353-sega-soccer.json"
+    },
+    {
+      "igdb_id": 248470,
+      "game_name": "Sega Soccer Slam",
+      "file": "missing/S/248470-sega-soccer-slam.json"
     },
     {
       "igdb_id": 4102,
@@ -885567,6 +885732,11 @@
       "file": "missing/S/414872-smashing-bottles.json"
     },
     {
+      "igdb_id": 248444,
+      "game_name": "Smashing Drive",
+      "file": "missing/S/248444-smashing-drive.json"
+    },
+    {
       "igdb_id": 2743,
       "game_name": "Smashing Drive",
       "file": "missing/S/2743-smashing-drive.json"
@@ -915347,6 +915517,21 @@
       "file": "missing/S/285586-spongebob-squarepants-clash-of-triton.json"
     },
     {
+      "igdb_id": 248482,
+      "game_name": "SpongeBob SquarePants: Creature From the Krusty Krab",
+      "file": "missing/S/248482-spongebob-squarepants-creature-from-the-krusty-krab.json"
+    },
+    {
+      "igdb_id": 248483,
+      "game_name": "SpongeBob SquarePants: Creature From the Krusty Krab",
+      "file": "missing/S/248483-spongebob-squarepants-creature-from-the-krusty-krab.json"
+    },
+    {
+      "igdb_id": 248484,
+      "game_name": "SpongeBob SquarePants: Creature From the Krusty Krab",
+      "file": "missing/S/248484-spongebob-squarepants-creature-from-the-krusty-krab.json"
+    },
+    {
       "igdb_id": 228487,
       "game_name": "SpongeBob SquarePants: Defending the Secret Formula",
       "file": "missing/S/228487-spongebob-squarepants-defending-the-secret-formula.json"
@@ -917965,6 +918150,11 @@
       "igdb_id": 330294,
       "game_name": "SpyHunt",
       "file": "missing/S/330294-spyhunt.json"
+    },
+    {
+      "igdb_id": 248443,
+      "game_name": "SpyHunter",
+      "file": "missing/S/248443-spyhunter.json"
     },
     {
       "igdb_id": 4166,
@@ -946175,6 +946365,11 @@
       "igdb_id": 70327,
       "game_name": "Super Bubble Bobble",
       "file": "missing/S/70327-super-bubble-bobble.json"
+    },
+    {
+      "igdb_id": 248454,
+      "game_name": "Super Bubble Pop",
+      "file": "missing/S/248454-super-bubble-pop.json"
     },
     {
       "igdb_id": 4187,
@@ -987932,6 +988127,11 @@
       "file": "missing/T/233613-the-adventures-of-jerry-mouse-the-rescue-of-nibbles.json"
     },
     {
+      "igdb_id": 248496,
+      "game_name": "The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies",
+      "file": "missing/T/248496-the-adventures-of-jimmy-neutron-boy-genius-attack-of-the-twonkies.json"
+    },
+    {
       "igdb_id": 3779,
       "game_name": "The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies",
       "file": "missing/T/3779-the-adventures-of-jimmy-neutron-boy-genius-attack-of-the-twonkies.json"
@@ -1006867,6 +1007067,11 @@
       "file": "missing/T/95385-the-hive.json"
     },
     {
+      "igdb_id": 248450,
+      "game_name": "The Hobbit",
+      "file": "missing/T/248450-the-hobbit.json"
+    },
+    {
       "igdb_id": 3946,
       "game_name": "The Hobbit",
       "file": "missing/T/3946-the-hobbit.json"
@@ -1016297,6 +1016502,11 @@
       "file": "missing/T/127953-the-lord-of-the-rings-the-third-age.json"
     },
     {
+      "igdb_id": 248460,
+      "game_name": "The Lord of the Rings: The Two Towers",
+      "file": "missing/T/248460-the-lord-of-the-rings-the-two-towers.json"
+    },
+    {
       "igdb_id": 356262,
       "game_name": "The Lord of the Rings: Total War",
       "file": "missing/T/356262-the-lord-of-the-rings-total-war.json"
@@ -1022595,6 +1022805,11 @@
       "igdb_id": 142789,
       "game_name": "The Picture in the House",
       "file": "missing/T/142789-the-picture-in-the-house.json"
+    },
+    {
+      "igdb_id": 248442,
+      "game_name": "The Picture of Cafe au Lait",
+      "file": "missing/T/248442-the-picture-of-cafe-au-lait.json"
     },
     {
       "igdb_id": 276812,
@@ -1030725,6 +1030940,11 @@
       "igdb_id": 210725,
       "game_name": "The SpongeBob SquarePants Movie",
       "file": "missing/T/210725-the-spongebob-squarepants-movie.json"
+    },
+    {
+      "igdb_id": 248491,
+      "game_name": "The SpongeBob SquarePants Movie",
+      "file": "missing/T/248491-the-spongebob-squarepants-movie.json"
     },
     {
       "igdb_id": 253744,
@@ -1051137,6 +1051357,16 @@
       "file": "missing/T/248495-tiger-woods-pga-tour.json"
     },
     {
+      "igdb_id": 248474,
+      "game_name": "Tiger Woods PGA Tour 06",
+      "file": "missing/T/248474-tiger-woods-pga-tour-06.json"
+    },
+    {
+      "igdb_id": 248475,
+      "game_name": "Tiger Woods PGA Tour 06",
+      "file": "missing/T/248475-tiger-woods-pga-tour-06.json"
+    },
+    {
       "igdb_id": 903,
       "game_name": "Tiger Woods PGA Tour 06",
       "file": "missing/T/903-tiger-woods-pga-tour-06.json"
@@ -1051230,6 +1051460,11 @@
       "igdb_id": 905,
       "game_name": "Tiger Woods PGA Tour 2004",
       "file": "missing/T/905-tiger-woods-pga-tour-2004.json"
+    },
+    {
+      "igdb_id": 248494,
+      "game_name": "Tiger Woods PGA Tour 2005",
+      "file": "missing/T/248494-tiger-woods-pga-tour-2005.json"
     },
     {
       "igdb_id": 42805,
@@ -1154487,6 +1154722,11 @@
       "file": "missing/W/132069-worms-battle-wormageddon.json"
     },
     {
+      "igdb_id": 248469,
+      "game_name": "Worms Blast",
+      "file": "missing/W/248469-worms-blast.json"
+    },
+    {
       "igdb_id": 7082,
       "game_name": "Worms Clan Wars",
       "file": "missing/W/7082-worms-clan-wars.json"
@@ -1158965,6 +1159205,11 @@
       "igdb_id": 220197,
       "game_name": "X2 Blocks",
       "file": "missing/X/220197-x2-blocks.json"
+    },
+    {
+      "igdb_id": 248452,
+      "game_name": "X2: Wolverine's Revenge",
+      "file": "missing/X/248452-x2-wolverines-revenge.json"
     },
     {
       "igdb_id": 4579,
@@ -1177765,6 +1178010,11 @@
       "igdb_id": 394137,
       "game_name": "Zooclan",
       "file": "missing/Z/394137-zooclan.json"
+    },
+    {
+      "igdb_id": 248468,
+      "game_name": "Zoocube",
+      "file": "missing/Z/248468-zoocube.json"
     },
     {
       "igdb_id": 2627,
