@@ -3410,6 +3410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Love Temple | 368534 | [368534-secret-love-temple.json](./368534-secret-love-temple.json) |
 | Secret Manga Girlfriend | 252803 | [252803-secret-manga-girlfriend.json](./252803-secret-manga-girlfriend.json) |
 | Secret Maryo Chronicles | 134076 | [134076-secret-maryo-chronicles.json](./134076-secret-maryo-chronicles.json) |
+| Secret Meadow | 216662 | [216662-secret-meadow.json](./216662-secret-meadow.json) |
 | Secret Mission | 18513 | [18513-secret-mission.json](./18513-secret-mission.json) |
 | Secret Mission Escape Room | 162248 | [162248-secret-mission-escape-room.json](./162248-secret-mission-escape-room.json) |
 | Secret Mission: Produce For President | 171475 | [171475-secret-mission-produce-for-president.json](./171475-secret-mission-produce-for-president.json) |
@@ -7005,6 +7006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Mall Girl | 86826 | [86826-shopping-mall-girl.json](./86826-shopping-mall-girl.json) |
 | Shopping Mall Girl: Sunny Edition | 356819 | [356819-shopping-mall-girl-sunny-edition.json](./356819-shopping-mall-girl-sunny-edition.json) |
 | Shopping Mall Parking | 233757 | [233757-shopping-mall-parking.json](./233757-shopping-mall-parking.json) |
+| Shopping Mall Renovator | 216671 | [216671-shopping-mall-renovator.json](./216671-shopping-mall-renovator.json) |
 | Shopping Mall Smart Taxi: Family Car Taxi Games | 104619 | [104619-shopping-mall-smart-taxi-family-car-taxi-games.json](./104619-shopping-mall-smart-taxi-family-car-taxi-games.json) |
 | Shopping Manager | 255761 | [255761-shopping-manager.json](./255761-shopping-manager.json) |
 | Shopping Match | 264014 | [264014-shopping-match.json](./264014-shopping-match.json) |
@@ -9850,6 +9852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slaves to Armok: God of Blood | 60084 | [60084-slaves-to-armok-god-of-blood.json](./60084-slaves-to-armok-god-of-blood.json) |
 | Slavic Gods Rodnoverie | 298304 | [298304-slavic-gods-rodnoverie.json](./298304-slavic-gods-rodnoverie.json) |
 | Slavic Mythology Creatures | 297650 | [297650-slavic-mythology-creatures.json](./297650-slavic-mythology-creatures.json) |
+| Slavic Tales | 216687 | [216687-slavic-tales.json](./216687-slavic-tales.json) |
 | SlavicPunk: Oldtimer | 239657 | [239657-slavicpunk-oldtimer.json](./239657-slavicpunk-oldtimer.json) |
 | Slavistan | 32152 | [32152-slavistan.json](./32152-slavistan.json) |
 | Slavistan 2 | 110828 | [110828-slavistan-2.json](./110828-slavistan-2.json) |
@@ -21937,6 +21940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subway Train Simulator 2D | 88647 | [88647-subway-train-simulator-2d.json](./88647-subway-train-simulator-2d.json) |
 | Subwaydle | 228717 | [228717-subwaydle.json](./228717-subwaydle.json) |
 | SubwaySim 2 | 314444 | [314444-subwaysim-2.json](./314444-subwaysim-2.json) |
+| SubwaySim Hamburg | 216655 | [216655-subwaysim-hamburg.json](./216655-subwaysim-hamburg.json) |
 | Subwords | 173801 | [173801-subwords.json](./173801-subwords.json) |
 | SubZero | 373212 | [373212-subzero.json](./373212-subzero.json) |
 | Subzero Tides | 275712 | [275712-subzero-tides.json](./275712-subzero-tides.json) |
