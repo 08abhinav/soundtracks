@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saira | 67328 | [67328-saira.json](./67328-saira.json) |
 | Sairento VR | 30522 | [30522-sairento-vr.json](./30522-sairento-vr.json) |
 | Sairento VR: Untethered | 193695 | [193695-sairento-vr-untethered.json](./193695-sairento-vr-untethered.json) |
+| Saisen Meikyuu | 206547 | [206547-saisen-meikyuu.json](./206547-saisen-meikyuu.json) |
 | Saishuu Heiki Kanojo | 74055 | [74055-saishuu-heiki-kanojo.json](./74055-saishuu-heiki-kanojo.json) |
 | Saitama Zombie Parade | 314852 | [314852-saitama-zombie-parade.json](./314852-saitama-zombie-parade.json) |
 | Saitekikai Spy Simulator | 284323 | [284323-saitekikai-spy-simulator.json](./284323-saitekikai-spy-simulator.json) |
@@ -6714,6 +6715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoal | 172039 | [172039-shoal.json](./172039-shoal.json) |
 | Shoalroot | 225492 | [225492-shoalroot.json](./225492-shoalroot.json) |
 | Shobon no Action | 78662 | [78662-shobon-no-action.json](./78662-shobon-no-action.json) |
+| Shobon no Rukimin! DX: Shobomi to Yuki no Tiara | 206541 | [206541-shobon-no-rukimin-dx-shobomi-to-yuki-no-tiara.json](./206541-shobon-no-rukimin-dx-shobomi-to-yuki-no-tiara.json) |
 | Shock | 287552 | [287552-shock.json](./287552-shock.json) |
 | Shock Hop | 243089 | [243089-shock-hop.json](./243089-shock-hop.json) |
 | Shock Lobster | 220781 | [220781-shock-lobster.json](./220781-shock-lobster.json) |
@@ -13786,6 +13788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorgina: A Tale of Witches | 36460 | [36460-sorgina-a-tale-of-witches.json](./36460-sorgina-a-tale-of-witches.json) |
 | Soroban Anzan Flash Anzan Kanzenban | 222472 | [222472-soroban-anzan-flash-anzan-kanzenban.json](./222472-soroban-anzan-flash-anzan-kanzenban.json) |
 | Soroban Gu | 37318 | [37318-soroban-gu.json](./37318-soroban-gu.json) |
+| Soroekes Addictive Puzzle | 206560 | [206560-soroekes-addictive-puzzle.json](./206560-soroekes-addictive-puzzle.json) |
 | Sorority Panty Raid | 337138 | [337138-sorority-panty-raid.json](./337138-sorority-panty-raid.json) |
 | Sorrow | 328854 | [328854-sorrow.json](./328854-sorrow.json) |
 | Sorrow Asylum | 259621 | [259621-sorrow-asylum.json](./259621-sorrow-asylum.json) |
@@ -26057,6 +26060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Dojo | 359915 | [359915-sushi-dojo.json](./359915-sushi-dojo.json) |
 | Sushi Drop | 240115 | [240115-sushi-drop.json](./240115-sushi-drop.json) |
 | Sushi Factory | 241199 | [241199-sushi-factory.json](./241199-sushi-factory.json) |
+| Sushi Food Cart | 206561 | [206561-sushi-food-cart.json](./206561-sushi-food-cart.json) |
 | Sushi for Robots | 177320 | [177320-sushi-for-robots.json](./177320-sushi-for-robots.json) |
 | Sushi Frenzy | 53694 | [53694-sushi-frenzy.json](./53694-sushi-frenzy.json) |
 | Sushi Fun | 219111 | [219111-sushi-fun.json](./219111-sushi-fun.json) |
