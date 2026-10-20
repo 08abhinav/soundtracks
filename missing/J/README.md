@@ -1438,6 +1438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzles Free by WallpaperFusion | 90937 | [90937-jigsaw-puzzles-free-by-wallpaperfusion.json](./90937-jigsaw-puzzles-free-by-wallpaperfusion.json) |
 | Jigsaw Puzzles Infinite: Cats & Dogs Puzzle Pack | 286238 | [286238-jigsaw-puzzles-infinite-cats-and-dogs-puzzle-pack.json](./286238-jigsaw-puzzles-infinite-cats-and-dogs-puzzle-pack.json) |
 | Jigsaw Puzzles: Fantasy Landscapes | 240098 | [240098-jigsaw-puzzles-fantasy-landscapes.json](./240098-jigsaw-puzzles-fantasy-landscapes.json) |
+| Jigsaw Puzzles: Photo Puzzles | 232304 | [232304-jigsaw-puzzles-photo-puzzles.json](./232304-jigsaw-puzzles-photo-puzzles.json) |
 | Jigsaw Puzzles: Puzzle Game | 223946 | [223946-jigsaw-puzzles-puzzle-game.json](./223946-jigsaw-puzzles-puzzle-game.json) |
 | Jigsaw Realms: Nature | 386369 | [386369-jigsaw-realms-nature.json](./386369-jigsaw-realms-nature.json) |
 | Jigsaw Realms: Oasis | 389066 | [389066-jigsaw-realms-oasis.json](./389066-jigsaw-realms-oasis.json) |
@@ -1895,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johny Explorer | 231358 | [231358-johny-explorer.json](./231358-johny-explorer.json) |
 | Johou Battle | 274147 | [274147-johou-battle.json](./274147-johou-battle.json) |
 | JoiLab VR | 309755 | [309755-joilab-vr.json](./309755-joilab-vr.json) |
+| Join 4 | 232301 | [232301-join-4.json](./232301-join-4.json) |
 | Join It | 256246 | [256246-join-it.json](./256246-join-it.json) |
 | Join Tiles: Anatolian Game to Play | 260720 | [260720-join-tiles-anatolian-game-to-play.json](./260720-join-tiles-anatolian-game-to-play.json) |
 | Join Us | 370723 | [370723-join-us.json](./370723-join-us.json) |
