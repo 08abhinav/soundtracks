@@ -1545,6 +1545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On the Other Side | 247927 | [247927-on-the-other-side.json](./247927-on-the-other-side.json) |
 | On the Peril of Parrots | 216968 | [216968-on-the-peril-of-parrots.json](./216968-on-the-peril-of-parrots.json) |
 | On the Road | 179664 | [179664-on-the-road.json](./179664-on-the-road.json) |
+| On the Road | 225522 | [225522-on-the-road.json](./225522-on-the-road.json) |
 | On the Run | 361697 | [361697-on-the-run.json](./361697-on-the-run.json) |
 | On the Trail of the Whitetail | 127993 | [127993-on-the-trail-of-the-whitetail.json](./127993-on-the-trail-of-the-whitetail.json) |
 | On the Train | 392124 | [392124-on-the-train.json](./392124-on-the-train.json) |
