@@ -1558,6 +1558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TankFall Arena | 406845 | [406845-tankfall-arena.json](./406845-tankfall-arena.json) |
 | Tankfight | 159537 | [159537-tankfight.json](./159537-tankfight.json) |
 | TankHead | 324944 | [324944-tankhead.json](./324944-tankhead.json) |
+| TankHero | 254313 | [254313-tankhero.json](./254313-tankhero.json) |
 | Tanki 2.0 | 344902 | [344902-tanki-2-0.json](./344902-tanki-2-0.json) |
 | Tanki 2011 | 298833 | [298833-tanki-2011.json](./298833-tanki-2011.json) |
 | Tanki Classic | 335640 | [335640-tanki-classic.json](./335640-tanki-classic.json) |
@@ -1907,6 +1908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Target Earth | 93087 | [93087-target-earth.json](./93087-target-earth.json) |
 | Target G | 238619 | [238619-target-g.json](./238619-target-g.json) |
 | Target of Desire: Episode 1 | 52745 | [52745-target-of-desire-episode-1.json](./52745-target-of-desire-episode-1.json) |
+| Target Party | 254302 | [254302-target-party.json](./254302-target-party.json) |
 | Target Pinball | 307399 | [307399-target-pinball.json](./307399-target-pinball.json) |
 | Target Practice | 167303 | [167303-target-practice.json](./167303-target-practice.json) |
 | Target Runner | 149690 | [149690-target-runner.json](./149690-target-runner.json) |
@@ -3339,6 +3341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Termo99 | 417342 | [417342-termo99.json](./417342-termo99.json) |
 | Ternion | 236757 | [236757-ternion.json](./236757-ternion.json) |
 | Ternox Games 4-in-1 Bundle | 362379 | [362379-ternox-games-4-in-1-bundle.json](./362379-ternox-games-4-in-1-bundle.json) |
+| Tero: Terror Hour | 254312 | [254312-tero-terror-hour.json](./254312-tero-terror-hour.json) |
 | Terpaling Legend | 339406 | [339406-terpaling-legend.json](./339406-terpaling-legend.json) |
 | Terra | 183439 | [183439-terra.json](./183439-terra.json) |
 | Terra | 196634 | [196634-terra.json](./196634-terra.json) |
@@ -3483,6 +3486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Territory | 57897 | [57897-territory.json](./57897-territory.json) |
 | Territory Control 2 | 204844 | [204844-territory-control-2.json](./204844-territory-control-2.json) |
 | Territory War 3 | 234156 | [234156-territory-war-3.json](./234156-territory-war-3.json) |
+| Territory War Online | 254299 | [254299-territory-war-online.json](./254299-territory-war-online.json) |
 | Territory: Farming and Fighting | 230944 | [230944-territory-farming-and-fighting.json](./230944-territory-farming-and-fighting.json) |
 | Terro bot | 108360 | [108360-terro-bot.json](./108360-terro-bot.json) |
 | Terro Eliminator | 309023 | [309023-terro-eliminator.json](./309023-terro-eliminator.json) |
@@ -7689,6 +7693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Waldo Search | 275020 | [275020-the-great-waldo-search.json](./275020-the-great-waldo-search.json) |
 | The Great Waldo Search | 48158 | [48158-the-great-waldo-search.json](./48158-the-great-waldo-search.json) |
 | The Great War 3032 | 247368 | [247368-the-great-war-3032.json](./247368-the-great-war-3032.json) |
+| The Great War of Prefectures | 254348 | [254348-the-great-war-of-prefectures.json](./254348-the-great-war-of-prefectures.json) |
 | The Great War: 1914 | 75115 | [75115-the-great-war-1914.json](./75115-the-great-war-1914.json) |
 | The Great War: Western Front | 214505 | [214505-the-great-war-western-front.json](./214505-the-great-war-western-front.json) |
 | The Great Whale Road | 19788 | [19788-the-great-whale-road.json](./19788-the-great-whale-road.json) |
@@ -8957,6 +8962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Hero | 343592 | [343592-the-last-hero.json](./343592-the-last-hero.json) |
 | The Last Hero | 343593 | [343593-the-last-hero.json](./343593-the-last-hero.json) |
 | The Last Hero of Nostalgaia | 214707 | [214707-the-last-hero-of-nostalgaia.json](./214707-the-last-hero-of-nostalgaia.json) |
+| The Last Hero of Nostalgaia: Deluxe Edition | 254283 | [254283-the-last-hero-of-nostalgaia-deluxe-edition.json](./254283-the-last-hero-of-nostalgaia-deluxe-edition.json) |
 | The Last Heroine | 351777 | [351777-the-last-heroine.json](./351777-the-last-heroine.json) |
 | The Last Hex | 105231 | [105231-the-last-hex.json](./105231-the-last-hex.json) |
 | The Last Hike | 236267 | [236267-the-last-hike.json](./236267-the-last-hike.json) |
@@ -14398,6 +14404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The X-Fools: The Spoof Is Out There | 66971 | [66971-the-x-fools-the-spoof-is-out-there.json](./66971-the-x-fools-the-spoof-is-out-there.json) |
 | The Xeno Project | 221659 | [221659-the-xeno-project.json](./221659-the-xeno-project.json) |
 | The Yakutsu Noroi Game | 124641 | [124641-the-yakutsu-noroi-game.json](./124641-the-yakutsu-noroi-game.json) |
+| The Yakuza Bundle | 254291 | [254291-the-yakuza-bundle.json](./254291-the-yakuza-bundle.json) |
 | The Yakyuken Special | 280652 | [280652-the-yakyuken-special.json](./280652-the-yakyuken-special.json) |
 | The Yakyuken: Blonde-hen | 251083 | [251083-the-yakyuken-blonde-hen.json](./251083-the-yakyuken-blonde-hen.json) |
 | The Yakyuken: Bodicon | 251082 | [251082-the-yakyuken-bodicon.json](./251082-the-yakyuken-bodicon.json) |
