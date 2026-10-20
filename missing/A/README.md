@@ -11724,6 +11724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astlan | 184270 | [184270-astlan.json](./184270-astlan.json) |
 | Astlibra Gaiden: The Cave of Phantom Mist | 395862 | [395862-astlibra-gaiden-the-cave-of-phantom-mist.json](./395862-astlibra-gaiden-the-cave-of-phantom-mist.json) |
 | Astoaria | 226227 | [226227-astoaria.json](./226227-astoaria.json) |
+| Aston May Die | 206576 | [206576-aston-may-die.json](./206576-aston-may-die.json) |
 | Aston Villa Club Football | 267891 | [267891-aston-villa-club-football.json](./267891-aston-villa-club-football.json) |
 | Aston Villa Club Football 2005 | 267895 | [267895-aston-villa-club-football-2005.json](./267895-aston-villa-club-football-2005.json) |
 | Astonia 3 | 57661 | [57661-astonia-3.json](./57661-astonia-3.json) |
@@ -13086,6 +13087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autumn war | 331289 | [331289-autumn-war.json](./331289-autumn-war.json) |
 | Autumn War: Survivor | 378005 | [378005-autumn-war-survivor.json](./378005-autumn-war-survivor.json) |
 | Autumn War: Survivor 2 | 378010 | [378010-autumn-war-survivor-2.json](./378010-autumn-war-survivor-2.json) |
+| Autumn Wish | 206577 | [206577-autumn-wish.json](./206577-autumn-wish.json) |
 | Autumn with the Shiba Inu | 236292 | [236292-autumn-with-the-shiba-inu.json](./236292-autumn-with-the-shiba-inu.json) |
 | Autumn-Chess | 150492 | [150492-autumn-chess.json](./150492-autumn-chess.json) |
 | Autumn-Time Trade-Up | 238463 | [238463-autumn-time-trade-up.json](./238463-autumn-time-trade-up.json) |
@@ -13654,6 +13656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azorius | 261729 | [261729-azorius.json](./261729-azorius.json) |
 | Azoth | 338723 | [338723-azoth.json](./338723-azoth.json) |
 | Azrael | 192457 | [192457-azrael.json](./192457-azrael.json) |
+| Azrael | 206572 | [206572-azrael.json](./206572-azrael.json) |
 | Azrael | 209697 | [209697-azrael.json](./209697-azrael.json) |
 | Aztaka | 16067 | [16067-aztaka.json](./16067-aztaka.json) |
 | Aztec Adventure | 45668 | [45668-aztec-adventure.json](./45668-aztec-adventure.json) |
