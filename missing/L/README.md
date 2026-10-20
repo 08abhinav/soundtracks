@@ -3937,6 +3937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limita Luminii | 188892 | [188892-limita-luminii.json](./188892-limita-luminii.json) |
 | Limited Express | 423259 | [423259-limited-express.json](./423259-limited-express.json) |
 | Limited Lifetime Corp | 208653 | [208653-limited-lifetime-corp.json](./208653-limited-lifetime-corp.json) |
+| Limited Rescue | 235039 | [235039-limited-rescue.json](./235039-limited-rescue.json) |
 | Limitless Hunger | 190986 | [190986-limitless-hunger.json](./190986-limitless-hunger.json) |
 | Limitless Runner | 359085 | [359085-limitless-runner.json](./359085-limitless-runner.json) |
 | Limitless Survivor | 407171 | [407171-limitless-survivor.json](./407171-limitless-survivor.json) |
