@@ -1203,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Monster: Tower Defense | 138787 | [138787-idle-monster-tower-defense.json](./138787-idle-monster-tower-defense.json) |
 | Idle Monsters | 151815 | [151815-idle-monsters.json](./151815-idle-monsters.json) |
 | Idle Moon Rabbit: AFK RPG | 204487 | [204487-idle-moon-rabbit-afk-rpg.json](./204487-idle-moon-rabbit-afk-rpg.json) |
+| Idle Mortician Tycoon | 216069 | [216069-idle-mortician-tycoon.json](./216069-idle-mortician-tycoon.json) |
 | Idle Muscle Up | 389714 | [389714-idle-muscle-up.json](./389714-idle-muscle-up.json) |
 | Idle Museum Tycoon: Art Empire | 290288 | [290288-idle-museum-tycoon-art-empire.json](./290288-idle-museum-tycoon-art-empire.json) |
 | Idle Mythical Beasts | 387327 | [387327-idle-mythical-beasts.json](./387327-idle-mythical-beasts.json) |
@@ -1303,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Ultimate | 368509 | [368509-idle-ultimate.json](./368509-idle-ultimate.json) |
 | Idle Universe Creator | 351606 | [351606-idle-universe-creator.json](./351606-idle-universe-creator.json) |
 | Idle Universe: Planet Miner | 231925 | [231925-idle-universe-planet-miner.json](./231925-idle-universe-planet-miner.json) |
+| Idle University | 216124 | [216124-idle-university.json](./216124-idle-university.json) |
 | Idle Vikings Clicker | 215343 | [215343-idle-vikings-clicker.json](./215343-idle-vikings-clicker.json) |
 | Idle War Camp | 200548 | [200548-idle-war-camp.json](./200548-idle-war-camp.json) |
 | Idle Warrior | 129679 | [129679-idle-warrior.json](./129679-idle-warrior.json) |
@@ -1870,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Heroes | 75712 | [75712-immortal-heroes.json](./75712-immortal-heroes.json) |
 | Immortal Hunters | 250757 | [250757-immortal-hunters.json](./250757-immortal-hunters.json) |
 | Immortal Immanuel | 360196 | [360196-immortal-immanuel.json](./360196-immortal-immanuel.json) |
+| Immortal King | 216074 | [216074-immortal-king.json](./216074-immortal-king.json) |
 | Immortal Legacy: The Jade Cipher | 116010 | [116010-immortal-legacy-the-jade-cipher.json](./116010-immortal-legacy-the-jade-cipher.json) |
 | Immortal Legacy: The Jade Cipher - Console Edition | 132851 | [132851-immortal-legacy-the-jade-cipher-console-edition.json](./132851-immortal-legacy-the-jade-cipher-console-edition.json) |
 | Immortal Life | 151738 | [151738-immortal-life.json](./151738-immortal-life.json) |
@@ -1899,6 +1902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Realms: Vampire Wars - Fangs and Bones | 238480 | [238480-immortal-realms-vampire-wars-fangs-and-bones.json](./238480-immortal-realms-vampire-wars-fangs-and-bones.json) |
 | Immortal Rebirth | 382764 | [382764-immortal-rebirth.json](./382764-immortal-rebirth.json) |
 | Immortal Redneck: Deluxe Edition | 53223 | [53223-immortal-redneck-deluxe-edition.json](./53223-immortal-redneck-deluxe-edition.json) |
+| Immortal Rising | 216102 | [216102-immortal-rising.json](./216102-immortal-rising.json) |
 | Immortal Road Battle | 284266 | [284266-immortal-road-battle.json](./284266-immortal-road-battle.json) |
 | Immortal Rogue | 113638 | [113638-immortal-rogue.json](./113638-immortal-rogue.json) |
 | Immortal Seeker | 370882 | [370882-immortal-seeker.json](./370882-immortal-seeker.json) |
