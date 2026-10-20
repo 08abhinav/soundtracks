@@ -203,6 +203,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b27350381fe8b7c52e1fd1647bab" width="60" /> | [Beacon Pines](https://ostdb.net/games/beacon-pines) | **Beacon Pines (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6y7o9exRIYp0hqyUzFK6B1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b9fa84dd2ce0046bb4f26d00" width="60" /> | [Beat Cop](https://ostdb.net/games/beat-cop) | **Beat Cop (Official Soundtrack)** · [Spotify](https://open.spotify.com/album/7MgvqnDlv01LmKSmx5Qgi6) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/14/e0/ab/14e0abf7-8cb5-419b-796c-bde930618f54/dj.nkieyhiv.jpg/600x600bb.jpg" width="60" /> | [Beat Saber](https://ostdb.net/games/beat-saber) | **Beat Saber (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1htHMnxonxmyHdKE2uDFMR) · [Apple Music](https://music.apple.com/us/album/beat-saber-original-game-soundtrack/1371680509) · [Album](https://album.link/i/1371680509) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733032e582210e6265f7d6fac9" width="60" /> | [Bee Simulator](https://ostdb.net/games/bee-simulator) | **Bee Simulator (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5L2uctqhgpo49KdO3goZb7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27356be423307778a7a3a2996a3" width="60" /> | [Before We Leave](https://ostdb.net/games/before-we-leave) | **Before We Leave (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/21CZZNzNXN4l1ygm7vpBaI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bd149ebe3e76d2f35642184f" width="60" /> | [Before Your Eyes](https://ostdb.net/games/before-your-eyes) | **Before Your Eyes (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0n2i8bOgOuc9EjaSRd8wY7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27329cceffa764c75e20e4114ac" width="60" /> | [Behind the Frame: The Finest Scenery](https://ostdb.net/games/behind-the-frame-the-finest-scenery) | **Behind the Frame: The Finest Scenery (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5wiZTpK1QbdEorANrQYOuV) |
@@ -2011,4 +2012,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2328 soundtracks · last updated 2026-10-20T22:10:38.354Z_
+_2329 soundtracks · last updated 2026-10-20T22:10:49.590Z_
