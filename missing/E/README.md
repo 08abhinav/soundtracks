@@ -1992,6 +1992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ellisar | 197072 | [197072-ellisar.json](./197072-ellisar.json) |
 | Ellixir's Dream | 348376 | [348376-ellixirs-dream.json](./348376-ellixirs-dream.json) |
 | EllrLand | 229801 | [229801-ellrland.json](./229801-ellrland.json) |
+| Ellrland Tales | 234459 | [234459-ellrland-tales.json](./234459-ellrland-tales.json) |
 | Ells Tales: Chairbound | 358388 | [358388-ells-tales-chairbound.json](./358388-ells-tales-chairbound.json) |
 | Ells Tales: Egg | 302053 | [302053-ells-tales-egg.json](./302053-ells-tales-egg.json) |
 | Ellsydia | 378416 | [378416-ellsydia.json](./378416-ellsydia.json) |
@@ -6017,6 +6018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Angler | 72051 | [72051-extreme-angler.json](./72051-extreme-angler.json) |
 | Extreme Bankikki | 204247 | [204247-extreme-bankikki.json](./204247-extreme-bankikki.json) |
 | Extreme Basketball | 86104 | [86104-extreme-basketball.json](./86104-extreme-basketball.json) |
+| Extreme Bikers | 234473 | [234473-extreme-bikers.json](./234473-extreme-bikers.json) |
 | Extreme Bus Driver Simulator | 261763 | [261763-extreme-bus-driver-simulator.json](./261763-extreme-bus-driver-simulator.json) |
 | Extreme Car Drift Simulator | 234197 | [234197-extreme-car-drift-simulator.json](./234197-extreme-car-drift-simulator.json) |
 | Extreme Car Driver | 165608 | [165608-extreme-car-driver.json](./165608-extreme-car-driver.json) |
