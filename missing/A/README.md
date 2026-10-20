@@ -7131,6 +7131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry King | 301121 | [301121-angry-king.json](./301121-angry-king.json) |
 | Angry Mother Earth | 265562 | [265562-angry-mother-earth.json](./265562-angry-mother-earth.json) |
 | Angry Mountain Gods | 183440 | [183440-angry-mountain-gods.json](./183440-angry-mountain-gods.json) |
+| Angry Neighbor: The Strange House | 241833 | [241833-angry-neighbor-the-strange-house.json](./241833-angry-neighbor-the-strange-house.json) |
 | Angry Neighbor: The Temporary Neighbor | 241838 | [241838-angry-neighbor-the-temporary-neighbor.json](./241838-angry-neighbor-the-temporary-neighbor.json) |
 | Angry Penguin | 294597 | [294597-angry-penguin.json](./294597-angry-penguin.json) |
 | Angry Peppa | 320890 | [320890-angry-peppa.json](./320890-angry-peppa.json) |
@@ -11783,6 +11784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Spider: Between Threads and Stars | 364067 | [364067-astro-spider-between-threads-and-stars.json](./364067-astro-spider-between-threads-and-stars.json) |
 | Astro Tripper | 16265 | [16265-astro-tripper.json](./16265-astro-tripper.json) |
 | Astro Universe | 140969 | [140969-astro-universe.json](./140969-astro-universe.json) |
+| Astro Volleyball | 241823 | [241823-astro-volleyball.json](./241823-astro-volleyball.json) |
 | Astro Warrior | 37176 | [37176-astro-warrior.json](./37176-astro-warrior.json) |
 | Astro Warrior/Pit Pot | 93584 | [93584-astro-warrior-pit-pot.json](./93584-astro-warrior-pit-pot.json) |
 | Astro Warriors | 284212 | [284212-astro-warriors.json](./284212-astro-warriors.json) |
@@ -12891,6 +12893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autopsy Simulator | 132385 | [132385-autopsy-simulator.json](./132385-autopsy-simulator.json) |
 | Autos | 197392 | [197392-autos.json](./197392-autos.json) |
 | AutoSim 2 | 235860 | [235860-autosim-2.json](./235860-autosim-2.json) |
+| Autosplit | 241818 | [241818-autosplit.json](./241818-autosplit.json) |
 | AutoSquad | 390017 | [390017-autosquad.json](./390017-autosquad.json) |
 | Autostereocade | 277719 | [277719-autostereocade.json](./277719-autostereocade.json) |
 | Autotag | 296717 | [296717-autotag.json](./296717-autotag.json) |
