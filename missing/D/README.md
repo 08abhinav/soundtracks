@@ -12267,6 +12267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Island | 243590 | [243590-drift-island.json](./243590-drift-island.json) |
 | Drift Island | 332871 | [332871-drift-island.json](./332871-drift-island.json) |
 | Drift It! | 87013 | [87013-drift-it.json](./87013-drift-it.json) |
+| Drift Journey | 213232 | [213232-drift-journey.json](./213232-drift-journey.json) |
 | Drift Journey: Nitro | 214499 | [214499-drift-journey-nitro.json](./214499-drift-journey-nitro.json) |
 | Drift King Shuto-kou Battle 2: Tsuchiya Keiichi & Bandou Masaaki | 46582 | [46582-drift-king-shuto-kou-battle-2-tsuchiya-keiichi-and-bandou-masaaki.json](./46582-drift-king-shuto-kou-battle-2-tsuchiya-keiichi-and-bandou-masaaki.json) |
 | Drift King: Survival | 30601 | [30601-drift-king-survival.json](./30601-drift-king-survival.json) |
