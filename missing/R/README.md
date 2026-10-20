@@ -1977,6 +1977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Call | 92486 | [92486-re-call.json](./92486-re-call.json) |
 | Re:Connect | 306064 | [306064-re-connect.json](./306064-re-connect.json) |
 | Re:cord Noah: Fractal of Oblivion | 402327 | [402327-re-cord-noah-fractal-of-oblivion.json](./402327-re-cord-noah-fractal-of-oblivion.json) |
+| Re:Curse | 247352 | [247352-re-curse.json](./247352-re-curse.json) |
 | Re:D Cherish! | 273298 | [273298-re-d-cherish.json](./273298-re-d-cherish.json) |
 | Re:D Cherish! SS: Desperado's One Operation | 370696 | [370696-re-d-cherish-ss-desperados-one-operation.json](./370696-re-d-cherish-ss-desperados-one-operation.json) |
 | Re:D Cherish! SS: Rouge's One Operation | 370697 | [370697-re-d-cherish-ss-rouges-one-operation.json](./370697-re-d-cherish-ss-rouges-one-operation.json) |
@@ -9160,6 +9161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run the Fan | 122361 | [122361-run-the-fan.json](./122361-run-the-fan.json) |
 | Run the Gamut | 32880 | [32880-run-the-gamut.json](./32880-run-the-gamut.json) |
 | Run the Gauntlet | 47203 | [47203-run-the-gauntlet.json](./47203-run-the-gauntlet.json) |
+| Run the Race | 247327 | [247327-run-the-race.json](./247327-run-the-race.json) |
 | Run the Rings | 323520 | [323520-run-the-rings.json](./323520-run-the-rings.json) |
 | Run The Words | 310275 | [310275-run-the-words.json](./310275-run-the-words.json) |
 | Run Thief | 121467 | [121467-run-thief.json](./121467-run-thief.json) |
