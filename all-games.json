@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T22:15:38.352Z",
-  "total_soundtracks": 2339,
+  "generated_at": "2026-10-20T22:15:50.762Z",
+  "total_soundtracks": 2340,
   "games": [
     {
       "igdb_id": 7522,
@@ -3521,6 +3521,20 @@
         {
           "album_name": "Bramble: The Mountain King (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4HyeqcMHnJhYm7kQSrfwiJ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 36312,
+      "game_name": "Brave",
+      "game_url": "https://ostdb.net/games/brave",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738ce48a7507eab97d87c70687",
+      "albums": [
+        {
+          "album_name": "Brave (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7vSvdmI0szfMcn7LyVjp0R",
           "apple_music_url": "",
           "album_link_url": ""
         }
