@@ -3475,6 +3475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helly-Drop | 354758 | [354758-helly-drop.json](./354758-helly-drop.json) |
 | Hellycoaster | 177453 | [177453-hellycoaster.json](./177453-hellycoaster.json) |
 | Helm Realm | 126497 | [126497-helm-realm.json](./126497-helm-realm.json) |
+| Helmet | 231727 | [231727-helmet.json](./231727-helmet.json) |
 | Helmet Head | 391662 | [391662-helmet-head.json](./391662-helmet-head.json) |
 | Helmet Heroes | 31383 | [31383-helmet-heroes.json](./31383-helmet-heroes.json) |
 | HelmetFire | 351265 | [351265-helmetfire.json](./351265-helmetfire.json) |
@@ -5451,6 +5452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Portals: Eternal Balance | 416701 | [416701-hidden-portals-eternal-balance.json](./416701-hidden-portals-eternal-balance.json) |
 | Hidden Portals: Eternal Balance - Collector's Edition | 349476 | [349476-hidden-portals-eternal-balance-collectors-edition.json](./349476-hidden-portals-eternal-balance-collectors-edition.json) |
 | Hidden Post-Apocalyptic 2 Top-Down 3D | 237811 | [237811-hidden-post-apocalyptic-2-top-down-3d.json](./237811-hidden-post-apocalyptic-2-top-down-3d.json) |
+| Hidden Post-Apocalyptic 4 Top-Down 3D | 231718 | [231718-hidden-post-apocalyptic-4-top-down-3d.json](./231718-hidden-post-apocalyptic-4-top-down-3d.json) |
 | Hidden Protector | 112714 | [112714-hidden-protector.json](./112714-hidden-protector.json) |
 | Hidden Rabbit | 397033 | [397033-hidden-rabbit.json](./397033-hidden-rabbit.json) |
 | Hidden Rabbit 2 | 412386 | [412386-hidden-rabbit-2.json](./412386-hidden-rabbit-2.json) |
@@ -7230,6 +7232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hood: Outlaws & Legends | 136512 | [136512-hood-outlaws-and-legends.json](./136512-hood-outlaws-and-legends.json) |
 | Hood: Outlaws & Legends - Year 1 Edition | 169193 | [169193-hood-outlaws-and-legends-year-1-edition.json](./169193-hood-outlaws-and-legends-year-1-edition.json) |
 | Hoodbound | 394478 | [394478-hoodbound.json](./394478-hoodbound.json) |
+| Hooded Horse 4X Strategy Bundle | 231755 | [231755-hooded-horse-4x-strategy-bundle.json](./231755-hooded-horse-4x-strategy-bundle.json) |
 | Hoodies Squad: Alcoholypse | 298115 | [298115-hoodies-squad-alcoholypse.json](./298115-hoodies-squad-alcoholypse.json) |
 | Hoodoo Voodoo | 13879 | [13879-hoodoo-voodoo.json](./13879-hoodoo-voodoo.json) |
 | Hoodsters | 259536 | [259536-hoodsters.json](./259536-hoodsters.json) |
