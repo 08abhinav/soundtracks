@@ -857,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campus | 24998 | [24998-campus.json](./24998-campus.json) |
 | Campus Confidential | 384175 | [384175-campus-confidential.json](./384175-campus-confidential.json) |
 | Campus Fantasy | 329338 | [329338-campus-fantasy.json](./329338-campus-fantasy.json) |
+| Campus Romance 101 | 232851 | [232851-campus-romance-101.json](./232851-campus-romance-101.json) |
 | Campwood | 395096 | [395096-campwood.json](./395096-campwood.json) |
 | Camundongo Miguel na Ilha dos Novo Pogos | 298411 | [298411-camundongo-miguel-na-ilha-dos-novo-pogos.json](./298411-camundongo-miguel-na-ilha-dos-novo-pogos.json) |
 | Can Androids Pray: Blue | 125388 | [125388-can-androids-pray-blue.json](./125388-can-androids-pray-blue.json) |
@@ -8253,6 +8254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CocoRally Ultimate | 220824 | [220824-cocorally-ultimate.json](./220824-cocorally-ultimate.json) |
 | Cocoricó: Brincando de Pega-Pega | 417542 | [417542-cocorico-brincando-de-pega-pega.json](./417542-cocorico-brincando-de-pega-pega.json) |
 | Cocoro | 317333 | [317333-cocoro.json](./317333-cocoro.json) |
+| Cocoro no Cocoron | 232836 | [232836-cocoro-no-cocoron.json](./232836-cocoro-no-cocoron.json) |
 | Cocoron | 48644 | [48644-cocoron.json](./48644-cocoron.json) |
 | Cocosic: On Pirates' Trail | 417696 | [417696-cocosic-on-pirates-trail.json](./417696-cocosic-on-pirates-trail.json) |
 | Cocoto Alien Brick Breaker | 63857 | [63857-cocoto-alien-brick-breaker.json](./63857-cocoto-alien-brick-breaker.json) |
@@ -14094,6 +14096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ctesiphon | 349420 | [349420-ctesiphon.json](./349420-ctesiphon.json) |
 | CTGP Deluxe | 311038 | [311038-ctgp-deluxe.json](./311038-ctgp-deluxe.json) |
 | CTGP-7 | 209549 | [209549-ctgp-7.json](./209549-ctgp-7.json) |
+| CTGP-Universe | 232873 | [232873-ctgp-universe.json](./232873-ctgp-universe.json) |
 | Cthulhu 1920 | 386242 | [386242-cthulhu-1920.json](./386242-cthulhu-1920.json) |
 | Cthulhu Clicker | 58162 | [58162-cthulhu-clicker.json](./58162-cthulhu-clicker.json) |
 | Cthulhu Go Teaching | 405091 | [405091-cthulhu-go-teaching.json](./405091-cthulhu-go-teaching.json) |
