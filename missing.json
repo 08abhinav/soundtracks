@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T22:02:53.857Z",
-  "total_missing": 239386,
+  "generated_at": "2026-10-20T22:07:18.907Z",
+  "total_missing": 239380,
   "games": [
     {
       "igdb_id": 191680,
@@ -32995,11 +32995,6 @@
       "igdb_id": 321533,
       "game_name": "Airborne Justice",
       "file": "missing/A/321533-airborne-justice.json"
-    },
-    {
-      "igdb_id": 115473,
-      "game_name": "Airborne Kingdom",
-      "file": "missing/A/115473-airborne-kingdom.json"
     },
     {
       "igdb_id": 216228,
@@ -94595,11 +94590,6 @@
       "igdb_id": 41611,
       "game_name": "Batman: Arkham Knight - Special Edition Steelbook",
       "file": "missing/B/41611-batman-arkham-knight-special-edition-steelbook.json"
-    },
-    {
-      "igdb_id": 83899,
-      "game_name": "Batman: Arkham Origins",
-      "file": "missing/B/83899-batman-arkham-origins.json"
     },
     {
       "igdb_id": 10028,
@@ -713962,11 +713952,6 @@
       "file": "missing/O/123534-other-her-loving-embrace.json"
     },
     {
-      "igdb_id": 107140,
-      "game_name": "Othercide",
-      "file": "missing/O/107140-othercide.json"
-    },
-    {
       "igdb_id": 23637,
       "game_name": "Otherland",
       "file": "missing/O/23637-otherland.json"
@@ -764750,11 +764735,6 @@
       "igdb_id": 288150,
       "game_name": "Poly Beats",
       "file": "missing/P/288150-poly-beats.json"
-    },
-    {
-      "igdb_id": 132002,
-      "game_name": "Poly Bridge 2",
-      "file": "missing/P/132002-poly-bridge-2.json"
     },
     {
       "igdb_id": 243400,
@@ -823230,11 +823210,6 @@
       "igdb_id": 107012,
       "game_name": "Ridge Racer Mobile",
       "file": "missing/R/107012-ridge-racer-mobile.json"
-    },
-    {
-      "igdb_id": 18697,
-      "game_name": "Ridge Racer Revolution",
-      "file": "missing/R/18697-ridge-racer-revolution.json"
     },
     {
       "igdb_id": 541,
@@ -1141845,11 +1141820,6 @@
       "igdb_id": 268933,
       "game_name": "Wanted Wizard 2",
       "file": "missing/W/268933-wanted-wizard-2.json"
-    },
-    {
-      "igdb_id": 173091,
-      "game_name": "Wanted: Dead",
-      "file": "missing/W/173091-wanted-dead.json"
     },
     {
       "igdb_id": 228736,
