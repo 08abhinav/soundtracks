@@ -2360,6 +2360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basket Battle | 208910 | [208910-basket-battle.json](./208910-basket-battle.json) |
 | Basket Bowling + | 47309 | [47309-basket-bowling.json](./47309-basket-bowling.json) |
 | Basket Bros | 133727 | [133727-basket-bros.json](./133727-basket-bros.json) |
+| Basket Catch | 206567 | [206567-basket-catch.json](./206567-basket-catch.json) |
 | Basket Legends | 188017 | [188017-basket-legends.json](./188017-basket-legends.json) |
 | Basket Random | 204351 | [204351-basket-random.json](./204351-basket-random.json) |
 | Basket Wall | 102714 | [102714-basket-wall.json](./102714-basket-wall.json) |
@@ -9354,6 +9355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bokura no Keshigomu Otoshi Shingakki 3 | 247744 | [247744-bokura-no-keshigomu-otoshi-shingakki-3.json](./247744-bokura-no-keshigomu-otoshi-shingakki-3.json) |
 | Bokura no Keshigum Otoshi 3: Sekai-hen | 251608 | [251608-bokura-no-keshigum-otoshi-3-sekai-hen.json](./251608-bokura-no-keshigum-otoshi-3-sekai-hen.json) |
 | Bokura no Nanokakan Sensou: Yuujou Adventure | 222509 | [222509-bokura-no-nanokakan-sensou-yuujou-adventure.json](./222509-bokura-no-nanokakan-sensou-yuujou-adventure.json) |
+| Bokura no Ninja World | 206564 | [206564-bokura-no-ninja-world.json](./206564-bokura-no-ninja-world.json) |
 | Bokura no Terebi Game Kentei | 69296 | [69296-bokura-no-terebi-game-kentei.json](./69296-bokura-no-terebi-game-kentei.json) |
 | Bokura: Planet | 318275 | [318275-bokura-planet.json](./318275-bokura-planet.json) |
 | Bola | 92445 | [92445-bola.json](./92445-bola.json) |
