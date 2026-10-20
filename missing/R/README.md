@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.E.E.L. | 133367 | [133367-r-e-e-l.json](./133367-r-e-e-l.json) |
 | R.E.M. scape | 178432 | [178432-r-e-m-scape.json](./178432-r-e-m-scape.json) |
 | R.I.C.A | 115013 | [115013-r-i-c-a.json](./115013-r-i-c-a.json) |
+| R.I.P | 240076 | [240076-r-i-p.json](./240076-r-i-p.json) |
 | R.I.P. | 381005 | [381005-r-i-p.json](./381005-r-i-p.json) |
 | R.I.P. | 77984 | [77984-r-i-p.json](./77984-r-i-p.json) |
 | R.I.P. Curl | 291613 | [291613-r-i-p-curl.json](./291613-r-i-p-curl.json) |
@@ -279,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Master 3D | 421332 | [421332-race-master-3d.json](./421332-race-master-3d.json) |
 | Race Max Pro | 392152 | [392152-race-max-pro.json](./392152-race-max-pro.json) |
 | Race me now | 154385 | [154385-race-me-now.json](./154385-race-me-now.json) |
+| Race of Life | 240079 | [240079-race-of-life.json](./240079-race-of-life.json) |
 | Race of the Nine Worlds | 352411 | [352411-race-of-the-nine-worlds.json](./352411-race-of-the-nine-worlds.json) |
 | Race On | 19363 | [19363-race-on.json](./19363-race-on.json) |
 | Race or Crash: Secret Racer League | 341314 | [341314-race-or-crash-secret-racer-league.json](./341314-race-or-crash-secret-racer-league.json) |
