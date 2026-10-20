@@ -6932,6 +6932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucifer's Spell | 268635 | [268635-lucifers-spell.json](./268635-lucifers-spell.json) |
 | Luciferian: The Conjuring Book | 345654 | [345654-luciferian-the-conjuring-book.json](./345654-luciferian-the-conjuring-book.json) |
 | Luciform | 130208 | [130208-luciform.json](./130208-luciform.json) |
+| Lucilla in the Dark | 228933 | [228933-lucilla-in-the-dark.json](./228933-lucilla-in-the-dark.json) |
 | Lucinda | 217821 | [217821-lucinda.json](./217821-lucinda.json) |
 | Lucinda Green's Equestrian Challenge | 43254 | [43254-lucinda-greens-equestrian-challenge.json](./43254-lucinda-greens-equestrian-challenge.json) |
 | Lucipurr | 346603 | [346603-lucipurr.json](./346603-lucipurr.json) |
