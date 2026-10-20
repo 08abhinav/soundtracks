@@ -480,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: Ultimate Attack | 285388 | [285388-half-life-ultimate-attack.json](./285388-half-life-ultimate-attack.json) |
 | Half-Life: Uplink | 93071 | [93071-half-life-uplink.json](./93071-half-life-uplink.json) |
 | Half-Life: Uplinked | 221790 | [221790-half-life-uplinked.json](./221790-half-life-uplinked.json) |
+| Half-Life: Urbicide | 214935 | [214935-half-life-urbicide.json](./214935-half-life-urbicide.json) |
 | Half-Life: Visitors | 221854 | [221854-half-life-visitors.json](./221854-half-life-visitors.json) |
 | Half-Life: VR Mod | 221166 | [221166-half-life-vr-mod.json](./221166-half-life-vr-mod.json) |
 | Half-Life: Weapon Edition | 221907 | [221907-half-life-weapon-edition.json](./221907-half-life-weapon-edition.json) |
