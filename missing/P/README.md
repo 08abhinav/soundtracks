@@ -7772,6 +7772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Pro Wrestling: Perfect Wrestler | 50036 | [50036-pocket-pro-wrestling-perfect-wrestler.json](./50036-pocket-pro-wrestling-perfect-wrestler.json) |
 | Pocket Pro Yakyuu | 270080 | [270080-pocket-pro-yakyuu.json](./270080-pocket-pro-yakyuu.json) |
 | Pocket Professor: Kwik Notes Volume 1 | 300979 | [300979-pocket-professor-kwik-notes-volume-1.json](./300979-pocket-professor-kwik-notes-volume-1.json) |
+| Pocket Pugilism | 241210 | [241210-pocket-pugilism.json](./241210-pocket-pugilism.json) |
 | Pocket Pursuit | 113200 | [113200-pocket-pursuit.json](./113200-pocket-pursuit.json) |
 | Pocket Pusher | 293003 | [293003-pocket-pusher.json](./293003-pocket-pusher.json) |
 | Pocket Pusher: The Citadel | 316387 | [316387-pocket-pusher-the-citadel.json](./316387-pocket-pusher-the-citadel.json) |
@@ -11206,6 +11207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Cycling Manager 2013 | 10722 | [10722-pro-cycling-manager-2013.json](./10722-pro-cycling-manager-2013.json) |
 | Pro Cycling Manager 2014 | 8251 | [8251-pro-cycling-manager-2014.json](./8251-pro-cycling-manager-2014.json) |
 | Pro Cycling Manager 2019 | 119029 | [119029-pro-cycling-manager-2019.json](./119029-pro-cycling-manager-2019.json) |
+| Pro Cycling Manager 2023 | 241245 | [241245-pro-cycling-manager-2023.json](./241245-pro-cycling-manager-2023.json) |
 | Pro Cycling Manager 2024 | 288856 | [288856-pro-cycling-manager-2024.json](./288856-pro-cycling-manager-2024.json) |
 | Pro Cycling Manager 25 | 347190 | [347190-pro-cycling-manager-25.json](./347190-pro-cycling-manager-25.json) |
 | Pro Darts | 49953 | [49953-pro-darts.json](./49953-pro-darts.json) |
