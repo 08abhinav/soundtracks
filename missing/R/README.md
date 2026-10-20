@@ -2852,6 +2852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Embrace: Paradisus | 186332 | [186332-red-embrace-paradisus.json](./186332-red-embrace-paradisus.json) |
 | Red End | 292233 | [292233-red-end.json](./292233-red-end.json) |
 | Red Entity | 181917 | [181917-red-entity.json](./181917-red-entity.json) |
+| Red Entropy | 250788 | [250788-red-entropy.json](./250788-red-entropy.json) |
 | Red Escape Bundle | 215318 | [215318-red-escape-bundle.json](./215318-red-escape-bundle.json) |
 | Red Exit Is a Lie | 392714 | [392714-red-exit-is-a-lie.json](./392714-red-exit-is-a-lie.json) |
 | Red Eye | 274378 | [274378-red-eye.json](./274378-red-eye.json) |
@@ -5797,6 +5798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise Eterna War | 290503 | [290503-rise-eterna-war.json](./290503-rise-eterna-war.json) |
 | Rise for the Fight | 253514 | [253514-rise-for-the-fight.json](./253514-rise-for-the-fight.json) |
 | Rise from Disaster | 245212 | [245212-rise-from-disaster.json](./245212-rise-from-disaster.json) |
+| Rise From the Ashes: A Fantasy World Simulator | 250768 | [250768-rise-from-the-ashes-a-fantasy-world-simulator.json](./250768-rise-from-the-ashes-a-fantasy-world-simulator.json) |
 | Rise High | 81240 | [81240-rise-high.json](./81240-rise-high.json) |
 | Rise of a Legend | 319094 | [319094-rise-of-a-legend.json](./319094-rise-of-a-legend.json) |
 | Rise of Ages | 111564 | [111564-rise-of-ages.json](./111564-rise-of-ages.json) |
