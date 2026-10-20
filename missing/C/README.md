@@ -5870,6 +5870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chopper X | 404195 | [404195-chopper-x.json](./404195-chopper-x.json) |
 | Chopper: Lethal darkness | 31281 | [31281-chopper-lethal-darkness.json](./31281-chopper-lethal-darkness.json) |
 | Chopper: Lethal darkness - Deluxe Edition | 52740 | [52740-chopper-lethal-darkness-deluxe-edition.json](./52740-chopper-lethal-darkness-deluxe-edition.json) |
+| Choppertchi | 230117 | [230117-choppertchi.json](./230117-choppertchi.json) |
 | Choppie's | 236541 | [236541-choppies.json](./236541-choppies.json) |
 | Chopping Together | 389581 | [389581-chopping-together.json](./389581-chopping-together.json) |
 | Choppy Cuts | 349383 | [349383-choppy-cuts.json](./349383-choppy-cuts.json) |
@@ -7248,6 +7249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash-Road | 46863 | [46863-clash-road.json](./46863-clash-road.json) |
 | Clash: Artifacts of Chaos - Lone Fighter Pack | 336141 | [336141-clash-artifacts-of-chaos-lone-fighter-pack.json](./336141-clash-artifacts-of-chaos-lone-fighter-pack.json) |
 | Clash: Artifacts of Chaos - Supporter Pack | 336137 | [336137-clash-artifacts-of-chaos-supporter-pack.json](./336137-clash-artifacts-of-chaos-supporter-pack.json) |
+| Clash: Artifacts of Chaos - Zeno Edition | 230125 | [230125-clash-artifacts-of-chaos-zeno-edition.json](./230125-clash-artifacts-of-chaos-zeno-edition.json) |
 | Clash: Blue Mirage | 238942 | [238942-clash-blue-mirage.json](./238942-clash-blue-mirage.json) |
 | Clash: Heroes of Feralia Terra | 269107 | [269107-clash-heroes-of-feralia-terra.json](./269107-clash-heroes-of-feralia-terra.json) |
 | Clash: Mutants Vs Pirates | 93769 | [93769-clash-mutants-vs-pirates.json](./93769-clash-mutants-vs-pirates.json) |
@@ -15160,6 +15162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Factories | 156006 | [156006-cyber-factories.json](./156006-cyber-factories.json) |
 | Cyber Fight | 194916 | [194916-cyber-fight.json](./194916-cyber-fight.json) |
 | Cyber Flyer | 180580 | [180580-cyber-flyer.json](./180580-cyber-flyer.json) |
+| Cyber Furry Girl | 230138 | [230138-cyber-furry-girl.json](./230138-cyber-furry-girl.json) |
 | Cyber Girl 1.0: Booting | 154585 | [154585-cyber-girl-1-0-booting.json](./154585-cyber-girl-1-0-booting.json) |
 | Cyber Girls | 376754 | [376754-cyber-girls.json](./376754-cyber-girls.json) |
 | Cyber Grannies | 307383 | [307383-cyber-grannies.json](./307383-cyber-grannies.json) |
