@@ -1367,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnussoft's Colossus Chess | 91540 | [91540-magnussofts-colossus-chess.json](./91540-magnussofts-colossus-chess.json) |
 | Mago | 120365 | [120365-mago.json](./120365-mago.json) |
 | Magocracy | 70339 | [70339-magocracy.json](./70339-magocracy.json) |
+| Magocracy: Experimentation | 223342 | [223342-magocracy-experimentation.json](./223342-magocracy-experimentation.json) |
 | Magpie | 302162 | [302162-magpie.json](./302162-magpie.json) |
 | Magret & FaceDeBouc | 274574 | [274574-magret-and-facedebouc.json](./274574-magret-and-facedebouc.json) |
 | MaguMagu Pro | 165074 | [165074-magumagu-pro.json](./165074-magumagu-pro.json) |
@@ -6603,6 +6604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories of Loneliness | 173219 | [173219-memories-of-loneliness.json](./173219-memories-of-loneliness.json) |
 | Memories of Mir | 215837 | [215837-memories-of-mir.json](./215837-memories-of-mir.json) |
 | Memories of Misery | 297345 | [297345-memories-of-misery.json](./297345-memories-of-misery.json) |
+| Memories of Planet | 223324 | [223324-memories-of-planet.json](./223324-memories-of-planet.json) |
 | Memories of War: Undead Decimation | 169456 | [169456-memories-of-war-undead-decimation.json](./169456-memories-of-war-undead-decimation.json) |
 | Memories of Wilderness | 208081 | [208081-memories-of-wilderness.json](./208081-memories-of-wilderness.json) |
 | Memories Off | 288774 | [288774-memories-off.json](./288774-memories-off.json) |
@@ -9033,6 +9035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Maze | 154978 | [154978-mind-maze.json](./154978-mind-maze.json) |
 | Mind Medley | 209509 | [209509-mind-medley.json](./209509-mind-medley.json) |
 | Mind Muscle VR | 150531 | [150531-mind-muscle-vr.json](./150531-mind-muscle-vr.json) |
+| Mind of the Eyes | 223339 | [223339-mind-of-the-eyes.json](./223339-mind-of-the-eyes.json) |
 | Mind Over Magic | 211357 | [211357-mind-over-magic.json](./211357-mind-over-magic.json) |
 | Mind Over Magnet | 247310 | [247310-mind-over-magnet.json](./247310-mind-over-magnet.json) |
 | Mind Over Matter | 209508 | [209508-mind-over-matter.json](./209508-mind-over-matter.json) |
