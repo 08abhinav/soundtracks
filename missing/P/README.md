@@ -1980,6 +1980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Man | 321431 | [321431-party-man.json](./321431-party-man.json) |
 | Party Management | 360067 | [360067-party-management.json](./360067-party-management.json) |
 | Party Mashup | 137613 | [137613-party-mashup.json](./137613-party-mashup.json) |
+| Party Minigames 2 3 4 players | 232309 | [232309-party-minigames-2-3-4-players.json](./232309-party-minigames-2-3-4-players.json) |
 | Party Mix | 40660 | [40660-party-mix.json](./40660-party-mix.json) |
 | Party Panic | 31936 | [31936-party-panic.json](./31936-party-panic.json) |
 | Party Paradise | 186749 | [186749-party-paradise.json](./186749-party-paradise.json) |
@@ -5363,6 +5364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pine Hearts | 204528 | [204528-pine-hearts.json](./204528-pine-hearts.json) |
 | Pine Point: Insomniac | 334011 | [334011-pine-point-insomniac.json](./334011-pine-point-insomniac.json) |
 | Pine Racer | 244808 | [244808-pine-racer.json](./244808-pine-racer.json) |
+| Pine Tar Poker | 232311 | [232311-pine-tar-poker.json](./232311-pine-tar-poker.json) |
 | Pine: A Story of Loss | 300365 | [300365-pine-a-story-of-loss.json](./300365-pine-a-story-of-loss.json) |
 | Pine: Segment_01 | 358642 | [358642-pine-segment-01.json](./358642-pine-segment-01.json) |
 | Pineapple | 311242 | [311242-pineapple.json](./311242-pineapple.json) |
@@ -8745,6 +8747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Town | 398819 | [398819-poker-town.json](./398819-poker-town.json) |
 | Poker Train | 320148 | [320148-poker-train.json](./320148-poker-train.json) |
 | Poker With Bob | 22102 | [22102-poker-with-bob.json](./22102-poker-with-bob.json) |
+| Poker with Words | 232279 | [232279-poker-with-words.json](./232279-poker-with-words.json) |
 | Poker World | 55683 | [55683-poker-world.json](./55683-poker-world.json) |
 | Poker World: Casino Game | 219292 | [219292-poker-world-casino-game.json](./219292-poker-world-casino-game.json) |
 | Poker: Panther Chameleon | 326154 | [326154-poker-panther-chameleon.json](./326154-poker-panther-chameleon.json) |
