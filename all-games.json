@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:06:57.930Z",
-  "total_soundtracks": 2226,
+  "generated_at": "2026-10-20T21:07:09.729Z",
+  "total_soundtracks": 2227,
   "games": [
     {
       "igdb_id": 7522,
@@ -10771,6 +10771,20 @@
         {
           "album_name": "Hard West (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5AaJEEiXLiq8H8fnSxO2Xb",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 116014,
+      "game_name": "Hard West 2",
+      "game_url": "https://ostdb.net/games/hard-west-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273365bb5831d4d8b332bbf11f0",
+      "albums": [
+        {
+          "album_name": "Hard West 2 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6jiZNwJ8s2WCKA20XDyEUy",
           "apple_music_url": "",
           "album_link_url": ""
         }
