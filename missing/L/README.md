@@ -2537,6 +2537,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemonhunter | 185124 | [185124-lemonhunter.json](./185124-lemonhunter.json) |
 | Lemonia The Last Castle | 384217 | [384217-lemonia-the-last-castle.json](./384217-lemonia-the-last-castle.json) |
 | Lemons Must Die | 70408 | [70408-lemons-must-die.json](./70408-lemons-must-die.json) |
+| Lemony Snicket's A Series of Unfortunate Events | 248492 | [248492-lemony-snickets-a-series-of-unfortunate-events.json](./248492-lemony-snickets-a-series-of-unfortunate-events.json) |
+| Lemony Snicket's A Series of Unfortunate Events | 248493 | [248493-lemony-snickets-a-series-of-unfortunate-events.json](./248493-lemony-snickets-a-series-of-unfortunate-events.json) |
 | Lempo | 214175 | [214175-lempo.json](./214175-lempo.json) |
 | Lems | 102975 | [102975-lems.json](./102975-lems.json) |
 | Lemures Blue's 2 A.M. | 137068 | [137068-lemures-blues-2-a-m.json](./137068-lemures-blues-2-a-m.json) |
@@ -6298,6 +6300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotus | 105745 | [105745-lotus.json](./105745-lotus.json) |
 | Lotus | 45249 | [45249-lotus.json](./45249-lotus.json) |
 | Lotus Bloom | 149724 | [149724-lotus-bloom.json](./149724-lotus-bloom.json) |
+| Lotus Challenge | 248446 | [248446-lotus-challenge.json](./248446-lotus-challenge.json) |
 | Lotus Challenge | 3983 | [3983-lotus-challenge.json](./3983-lotus-challenge.json) |
 | Lotus Digital | 90973 | [90973-lotus-digital.json](./90973-lotus-digital.json) |
 | Lotus F3 | 373025 | [373025-lotus-f3.json](./373025-lotus-f3.json) |
