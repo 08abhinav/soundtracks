@@ -4266,6 +4266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math World VR | 254919 | [254919-math-world-vr.json](./254919-math-world-vr.json) |
 | Math-A-Thon 2: The Mystery of the Missing Laboratory | 209547 | [209547-math-a-thon-2-the-mystery-of-the-missing-laboratory.json](./209547-math-a-thon-2-the-mystery-of-the-missing-laboratory.json) |
 | Math, BFF, and Notes | 276962 | [276962-math-bff-and-notes.json](./276962-math-bff-and-notes.json) |
+| Math+Sticks: Coffee Break Club | 238874 | [238874-math-sticks-coffee-break-club.json](./238874-math-sticks-coffee-break-club.json) |
 | Mathable | 232533 | [232533-mathable.json](./232533-mathable.json) |
 | Mathbits | 360568 | [360568-mathbits.json](./360568-mathbits.json) |
 | Mathe Pfiffikus | 85859 | [85859-mathe-pfiffikus.json](./85859-mathe-pfiffikus.json) |
@@ -12589,6 +12590,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mordheim: City of the Damned | 8209 | [8209-mordheim-city-of-the-damned.json](./8209-mordheim-city-of-the-damned.json) |
 | Mordheim: City of the Damned - Complete Edition | 121424 | [121424-mordheim-city-of-the-damned-complete-edition.json](./121424-mordheim-city-of-the-damned-complete-edition.json) |
 | Mordheim: City of the Damned - Doomweaver | 53373 | [53373-mordheim-city-of-the-damned-doomweaver.json](./53373-mordheim-city-of-the-damned-doomweaver.json) |
+| Mordheim: City of the Damned - Hired Swords Bundle 1 | 238873 | [238873-mordheim-city-of-the-damned-hired-swords-bundle-1.json](./238873-mordheim-city-of-the-damned-hired-swords-bundle-1.json) |
+| Mordheim: City of the Damned - Hired Swords Bundle 2 | 238872 | [238872-mordheim-city-of-the-damned-hired-swords-bundle-2.json](./238872-mordheim-city-of-the-damned-hired-swords-bundle-2.json) |
 | Mordheim: City of the Damned - The Poison Wind Globadier | 53372 | [53372-mordheim-city-of-the-damned-the-poison-wind-globadier.json](./53372-mordheim-city-of-the-damned-the-poison-wind-globadier.json) |
 | Mordheim: City of the Damned - The Smuggler | 53371 | [53371-mordheim-city-of-the-damned-the-smuggler.json](./53371-mordheim-city-of-the-damned-the-smuggler.json) |
 | Mordheim: City of the Damned - Undead | 53370 | [53370-mordheim-city-of-the-damned-undead.json](./53370-mordheim-city-of-the-damned-undead.json) |
