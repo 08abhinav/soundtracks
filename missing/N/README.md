@@ -1577,6 +1577,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko-Nin ExHeart +Plus Saiha | 75913 | [75913-neko-nin-exheart-plus-saiha.json](./75913-neko-nin-exheart-plus-saiha.json) |
 | Neko-Nin ExHeart 2 Love +Plus | 116863 | [116863-neko-nin-exheart-2-love-plus.json](./116863-neko-nin-exheart-2-love-plus.json) |
 | Neko-Nin ExHeart 3 | 126911 | [126911-neko-nin-exheart-3.json](./126911-neko-nin-exheart-3.json) |
+| Neko-nin ExHeart Spin! | 255547 | [255547-neko-nin-exheart-spin.json](./255547-neko-nin-exheart-spin.json) |
+| Neko-nin ExHeart Spin! | 255548 | [255548-neko-nin-exheart-spin.json](./255548-neko-nin-exheart-spin.json) |
 | Neko-Nin exHeart Spin! Love+Plus | 384234 | [384234-neko-nin-exheart-spin-love-plus.json](./384234-neko-nin-exheart-spin-love-plus.json) |
 | Neko-sama no Karaguri: Garden kara no Dasshutsu | 240231 | [240231-neko-sama-no-karaguri-garden-kara-no-dasshutsu.json](./240231-neko-sama-no-karaguri-garden-kara-no-dasshutsu.json) |
 | Neko-sama no Kominka kara no Dasshutsu | 260689 | [260689-neko-sama-no-kominka-kara-no-dasshutsu.json](./260689-neko-sama-no-kominka-kara-no-dasshutsu.json) |
@@ -2061,11 +2063,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeptuneGL | 83563 | [83563-neptunegl.json](./83563-neptunegl.json) |
 | Neptunia | 69908 | [69908-neptunia.json](./69908-neptunia.json) |
 | Neptunia GameMaker R:Evolution | 247467 | [247467-neptunia-gamemaker-r-evolution.json](./247467-neptunia-gamemaker-r-evolution.json) |
+| Neptunia GameMaker R:Evolution - Digital Deluxe Edition | 255521 | [255521-neptunia-gamemaker-r-evolution-digital-deluxe-edition.json](./255521-neptunia-gamemaker-r-evolution-digital-deluxe-edition.json) |
 | Neptunia reVerse | 139072 | [139072-neptunia-reverse.json](./139072-neptunia-reverse.json) |
 | Neptunia reVerse: Day One Edition | 142370 | [142370-neptunia-reverse-day-one-edition.json](./142370-neptunia-reverse-day-one-edition.json) |
 | Neptunia Riders vs. Dogoos | 317845 | [317845-neptunia-riders-vs-dogoos.json](./317845-neptunia-riders-vs-dogoos.json) |
 | Neptunia Riders vs. Dogoos: Deluxe Edition | 330203 | [330203-neptunia-riders-vs-dogoos-deluxe-edition.json](./330203-neptunia-riders-vs-dogoos-deluxe-edition.json) |
 | Neptunia Shooter | 117193 | [117193-neptunia-shooter.json](./117193-neptunia-shooter.json) |
+| Neptunia: Sisters vs. Sisters - Digital Deluxe Edition | 255520 | [255520-neptunia-sisters-vs-sisters-digital-deluxe-edition.json](./255520-neptunia-sisters-vs-sisters-digital-deluxe-edition.json) |
 | Neptunia: Sisters vs. Sisters - Special Limited Edition | 185985 | [185985-neptunia-sisters-vs-sisters-special-limited-edition.json](./185985-neptunia-sisters-vs-sisters-special-limited-edition.json) |
 | Neptunia: Virtual Stars | 135338 | [135338-neptunia-virtual-stars.json](./135338-neptunia-virtual-stars.json) |
 | Neptunia: Virtual Stars - Emotional Limited Edition | 167057 | [167057-neptunia-virtual-stars-emotional-limited-edition.json](./167057-neptunia-virtual-stars-emotional-limited-edition.json) |
