@@ -10319,6 +10319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerSlave | 188071 | [188071-powerslave.json](./188071-powerslave.json) |
 | PowerSlave | 8338 | [8338-powerslave.json](./8338-powerslave.json) |
 | PowerSlave: Exhumed | 165054 | [165054-powerslave-exhumed.json](./165054-powerslave-exhumed.json) |
+| Powerslide | 214976 | [214976-powerslide.json](./214976-powerslide.json) |
 | Powerslide Legends | 152652 | [152652-powerslide-legends.json](./152652-powerslide-legends.json) |
 | PowerSpinners | 58687 | [58687-powerspinners.json](./58687-powerspinners.json) |
 | Powerstar Golf: Burning Sands | 256747 | [256747-powerstar-golf-burning-sands.json](./256747-powerstar-golf-burning-sands.json) |
@@ -10775,6 +10776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primary Exit | 371541 | [371541-primary-exit.json](./371541-primary-exit.json) |
 | Primate: Father of Universe | 215329 | [215329-primate-father-of-universe.json](./215329-primate-father-of-universe.json) |
 | Primavera Lihbor | 295538 | [295538-primavera-lihbor.json](./295538-primavera-lihbor.json) |
+| Prime | 214977 | [214977-prime.json](./214977-prime.json) |
 | Prime | 291783 | [291783-prime.json](./291783-prime.json) |
 | Prime Arena | 67874 | [67874-prime-arena.json](./67874-prime-arena.json) |
 | Prime Elements | 99403 | [99403-prime-elements.json](./99403-prime-elements.json) |
@@ -12314,8 +12316,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Summer Ice - Bowling: Story Six - Pammy Version | 226311 | [226311-project-summer-ice-bowling-story-six-pammy-version.json](./226311-project-summer-ice-bowling-story-six-pammy-version.json) |
 | Project: Summer Ice - Bowling: Story Three - Jane Version | 215352 | [215352-project-summer-ice-bowling-story-three-jane-version.json](./215352-project-summer-ice-bowling-story-three-jane-version.json) |
 | Project: Summer Ice - Bowling: Story Three - Mark Version | 215111 | [215111-project-summer-ice-bowling-story-three-mark-version.json](./215111-project-summer-ice-bowling-story-three-mark-version.json) |
+| Project: Summer Ice - Bowling: Story Three - Pammy Version | 214942 | [214942-project-summer-ice-bowling-story-three-pammy-version.json](./214942-project-summer-ice-bowling-story-three-pammy-version.json) |
 | Project: Summer Ice - Bowling: Story Two - Jane Version | 215357 | [215357-project-summer-ice-bowling-story-two-jane-version.json](./215357-project-summer-ice-bowling-story-two-jane-version.json) |
 | Project: Summer Ice - Bowling: Story Two - Mark Version | 215124 | [215124-project-summer-ice-bowling-story-two-mark-version.json](./215124-project-summer-ice-bowling-story-two-mark-version.json) |
+| Project: Summer Ice - Bowling: Story Two - Pammy Version | 214941 | [214941-project-summer-ice-bowling-story-two-pammy-version.json](./214941-project-summer-ice-bowling-story-two-pammy-version.json) |
 | Project: Summer Ice - Pinball: Jane | 233034 | [233034-project-summer-ice-pinball-jane.json](./233034-project-summer-ice-pinball-jane.json) |
 | Project: Summer Ice - Pinball: Pammy | 229079 | [229079-project-summer-ice-pinball-pammy.json](./229079-project-summer-ice-pinball-pammy.json) |
 | Project: SX | 331712 | [331712-project-sx.json](./331712-project-sx.json) |
@@ -13131,6 +13135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pungolo: A Prickly Adventure | 247964 | [247964-pungolo-a-prickly-adventure.json](./247964-pungolo-a-prickly-adventure.json) |
 | Puni the Florist | 347831 | [347831-puni-the-florist.json](./347831-puni-the-florist.json) |
 | Punihi Loader | 195983 | [195983-punihi-loader.json](./195983-punihi-loader.json) |
+| Punihi Loader 2 | 214985 | [214985-punihi-loader-2.json](./214985-punihi-loader-2.json) |
 | Puniru ha Kawaii Slime no Game wo "Ano Game" de Tsukuttemita Keredo, Hatashite Anata ha Clear Dekirunoka? | 326577 | [326577-puniru-ha-kawaii-slime-no-game-wo-ano-game-de-tsukuttemita-keredo-hatashite-anata-ha-clear-dekirunoka.json](./326577-puniru-ha-kawaii-slime-no-game-wo-ano-game-de-tsukuttemita-keredo-hatashite-anata-ha-clear-dekirunoka.json) |
 | Punirunes | 370299 | [370299-punirunes.json](./370299-punirunes.json) |
 | Punish Me | 385255 | [385255-punish-me.json](./385255-punish-me.json) |
