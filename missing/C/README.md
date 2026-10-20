@@ -4822,6 +4822,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheetahmen II | 8062 | [8062-cheetahmen-ii.json](./8062-cheetahmen-ii.json) |
 | Cheezure | 316094 | [316094-cheezure.json](./316094-cheezure.json) |
 | Chef | 128575 | [128575-chef.json](./128575-chef.json) |
+| Chef | 231729 | [231729-chef.json](./231729-chef.json) |
+| Chef | 231730 | [231730-chef.json](./231730-chef.json) |
 | Chef | 247482 | [247482-chef.json](./247482-chef.json) |
 | Chef | 247653 | [247653-chef.json](./247653-chef.json) |
 | Chef Bacon | 420571 | [420571-chef-bacon.json](./420571-chef-bacon.json) |
