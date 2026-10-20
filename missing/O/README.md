@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oath of peak | 231920 | [231920-oath-of-peak.json](./231920-oath-of-peak.json) |
 | Oath of the Necromancer | 328330 | [328330-oath-of-the-necromancer.json](./328330-oath-of-the-necromancer.json) |
 | Oath: There is a You That Remains | 375414 | [375414-oath-there-is-a-you-that-remains.json](./375414-oath-there-is-a-you-that-remains.json) |
+| Oathbreakers | 221072 | [221072-oathbreakers.json](./221072-oathbreakers.json) |
 | Oatmeal | 159257 | [159257-oatmeal.json](./159257-oatmeal.json) |
 | Oba Doba | 238633 | [238633-oba-doba.json](./238633-oba-doba.json) |
 | Obake Nante Kowakunai JK vs. Gakkou Meikyuu | 397945 | [397945-obake-nante-kowakunai-jk-vs-gakkou-meikyuu.json](./397945-obake-nante-kowakunai-jk-vs-gakkou-meikyuu.json) |
