@@ -1946,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo Transport Simulator | 383134 | [383134-cargo-transport-simulator.json](./383134-cargo-transport-simulator.json) |
 | Cargo Transportation: Low Poly | 144914 | [144914-cargo-transportation-low-poly.json](./144914-cargo-transportation-low-poly.json) |
 | Cargo Truck Parking | 220191 | [220191-cargo-truck-parking.json](./220191-cargo-truck-parking.json) |
+| Cargo Truck Racer | 249043 | [249043-cargo-truck-racer.json](./249043-cargo-truck-racer.json) |
 | Cargo-Bot | 318204 | [318204-cargo-bot.json](./318204-cargo-bot.json) |
 | Cargo, Please! | 395719 | [395719-cargo-please.json](./395719-cargo-please.json) |
 | Cargo: Co-Op Delivery Simulator in Post Apocalyptic World | 362761 | [362761-cargo-co-op-delivery-simulator-in-post-apocalyptic-world.json](./362761-cargo-co-op-delivery-simulator-in-post-apocalyptic-world.json) |
@@ -6776,6 +6777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citizen Zein | 278738 | [278738-citizen-zein.json](./278738-citizen-zein.json) |
 | Citizens of Earth | 8598 | [8598-citizens-of-earth.json](./8598-citizens-of-earth.json) |
 | Citizens Unite!: Earth x Space | 139994 | [139994-citizens-unite-earth-x-space.json](./139994-citizens-unite-earth-x-space.json) |
+| Citizens: On Mars | 249037 | [249037-citizens-on-mars.json](./249037-citizens-on-mars.json) |
 | Citres | 274515 | [274515-citres.json](./274515-citres.json) |
 | Citri Plays Noirwood | 220635 | [220635-citri-plays-noirwood.json](./220635-citri-plays-noirwood.json) |
 | Citron World Forward: Zero | 260330 | [260330-citron-world-forward-zero.json](./260330-citron-world-forward-zero.json) |
@@ -6832,6 +6834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Defence | 53158 | [53158-city-defence.json](./53158-city-defence.json) |
 | City Defense | 221999 | [221999-city-defense.json](./221999-city-defense.json) |
 | City Defense Z | 284974 | [284974-city-defense-z.json](./284974-city-defense-z.json) |
+| City Demolish | 249055 | [249055-city-demolish.json](./249055-city-demolish.json) |
 | City Destructor | 132442 | [132442-city-destructor.json](./132442-city-destructor.json) |
 | City Driver | 270595 | [270595-city-driver.json](./270595-city-driver.json) |
 | City Driver: Car Parking Simulator | 277726 | [277726-city-driver-car-parking-simulator.json](./277726-city-driver-car-parking-simulator.json) |
@@ -11182,6 +11185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Outpost | 303738 | [303738-cosmic-outpost.json](./303738-cosmic-outpost.json) |
 | Cosmic Paradox: Noire | 290621 | [290621-cosmic-paradox-noire.json](./290621-cosmic-paradox-noire.json) |
 | Cosmic Payback | 318230 | [318230-cosmic-payback.json](./318230-cosmic-payback.json) |
+| Cosmic Pebble | 249032 | [249032-cosmic-pebble.json](./249032-cosmic-pebble.json) |
 | Cosmic Pioneer | 38986 | [38986-cosmic-pioneer.json](./38986-cosmic-pioneer.json) |
 | Cosmic Pool | 238404 | [238404-cosmic-pool.json](./238404-cosmic-pool.json) |
 | Cosmic Purge | 201224 | [201224-cosmic-purge.json](./201224-cosmic-purge.json) |
