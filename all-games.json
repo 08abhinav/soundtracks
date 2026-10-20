@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:36:55.168Z",
-  "total_soundtracks": 2250,
+  "generated_at": "2026-10-20T21:37:06.002Z",
+  "total_soundtracks": 2251,
   "games": [
     {
       "igdb_id": 7522,
@@ -11140,6 +11140,20 @@
           "album_name": "Hellblade: Senua's Sacrifice (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1ihHcMdKtZ3qY5eRXYxcl8",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 228522,
+      "game_name": "Hellboy: Web of Wyrd",
+      "game_url": "https://ostdb.net/games/hellboy-web-of-wyrd",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731e8d0bf0b7cbf17359ec392e",
+      "albums": [
+        {
+          "album_name": "Hellboy Web Of Wyrd Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/5Clwh6UMSiz6O0AxCDIfZe",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
