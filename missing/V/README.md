@@ -2779,6 +2779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vox Battles | 282026 | [282026-vox-battles.json](./282026-vox-battles.json) |
 | Vox in Tenebris | 349314 | [349314-vox-in-tenebris.json](./349314-vox-in-tenebris.json) |
 | Vox Populi Vox Dei 2 | 35892 | [35892-vox-populi-vox-dei-2.json](./35892-vox-populi-vox-dei-2.json) |
+| Vox Populi: Brazil 2022 | 220522 | [220522-vox-populi-brazil-2022.json](./220522-vox-populi-brazil-2022.json) |
 | Vox Populi: Canada 2025 | 347173 | [347173-vox-populi-canada-2025.json](./347173-vox-populi-canada-2025.json) |
 | Vox Populi: Poland 2023 | 267678 | [267678-vox-populi-poland-2023.json](./267678-vox-populi-poland-2023.json) |
 | Vox Populi: Spain 2023 | 258042 | [258042-vox-populi-spain-2023.json](./258042-vox-populi-spain-2023.json) |
@@ -2855,6 +2856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voyage: A Sorceress' Vacation | 146629 | [146629-voyage-a-sorceress-vacation.json](./146629-voyage-a-sorceress-vacation.json) |
 | Voyager | 12930 | [12930-voyager.json](./12930-voyager.json) |
 | Voyager | 131492 | [131492-voyager.json](./131492-voyager.json) |
+| Voyager | 220523 | [220523-voyager.json](./220523-voyager.json) |
 | Voyager | 284566 | [284566-voyager.json](./284566-voyager.json) |
 | Voyager | 346075 | [346075-voyager.json](./346075-voyager.json) |
 | Voyager I: Sabotage of the Robot Ship | 24848 | [24848-voyager-i-sabotage-of-the-robot-ship.json](./24848-voyager-i-sabotage-of-the-robot-ship.json) |
@@ -3003,6 +3005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Retro Snake on Girls | 163292 | [163292-vr-retro-snake-on-girls.json](./163292-vr-retro-snake-on-girls.json) |
 | VR Rhythm Action Seiya | 76522 | [76522-vr-rhythm-action-seiya.json](./76522-vr-rhythm-action-seiya.json) |
 | VR Robinhood Archery | 209390 | [209390-vr-robinhood-archery.json](./209390-vr-robinhood-archery.json) |
+| VR Rock Climbing | 220524 | [220524-vr-rock-climbing.json](./220524-vr-rock-climbing.json) |
 | VR Roller Coaster - Cave Depths | 75659 | [75659-vr-roller-coaster-cave-depths.json](./75659-vr-roller-coaster-cave-depths.json) |
 | VR Roller Coaster at Global Wonders | 166195 | [166195-vr-roller-coaster-at-global-wonders.json](./166195-vr-roller-coaster-at-global-wonders.json) |
 | VR Rome | 111385 | [111385-vr-rome.json](./111385-vr-rome.json) |
