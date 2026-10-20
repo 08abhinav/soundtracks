@@ -3171,7 +3171,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterglow: A New World Rising | 272126 | [272126-afterglow-a-new-world-rising.json](./272126-afterglow-a-new-world-rising.json) |
 | Aftergreen | 416832 | [416832-aftergreen.json](./416832-aftergreen.json) |
 | Aftergrinder | 28900 | [28900-aftergrinder.json](./28900-aftergrinder.json) |
-| Afterimage | 185642 | [185642-afterimage.json](./185642-afterimage.json) |
 | Afterimage: Deluxe Edition | 234215 | [234215-afterimage-deluxe-edition.json](./234215-afterimage-deluxe-edition.json) |
 | Afterinfection | 153013 | [153013-afterinfection.json](./153013-afterinfection.json) |
 | Afterlands | 268893 | [268893-afterlands.json](./268893-afterlands.json) |
