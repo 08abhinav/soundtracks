@@ -9274,6 +9274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Adidas Adventures Add-On | 347687 | [347687-minecraft-adidas-adventures-add-on.json](./347687-minecraft-adidas-adventures-add-on.json) |
 | Minecraft: Adventure Time Mash-up | 235324 | [235324-minecraft-adventure-time-mash-up.json](./235324-minecraft-adventure-time-mash-up.json) |
 | Minecraft: Aether Legends | 410286 | [410286-minecraft-aether-legends.json](./410286-minecraft-aether-legends.json) |
+| Minecraft: Angry Birds | 214370 | [214370-minecraft-angry-birds.json](./214370-minecraft-angry-birds.json) |
 | Minecraft: Annoying Difficulty | 298310 | [298310-minecraft-annoying-difficulty.json](./298310-minecraft-annoying-difficulty.json) |
 | Minecraft: Armored Paws | 299217 | [299217-minecraft-armored-paws.json](./299217-minecraft-armored-paws.json) |
 | Minecraft: Armored Paws | 299218 | [299218-minecraft-armored-paws.json](./299218-minecraft-armored-paws.json) |
@@ -11144,6 +11145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moeru! Onii-san | 48327 | [48327-moeru-onii-san.json](./48327-moeru-onii-san.json) |
 | Moetan DS | 94002 | [94002-moetan-ds.json](./94002-moetan-ds.json) |
 | Moeyo Butaman!? | 305987 | [305987-moeyo-butaman.json](./305987-moeyo-butaman.json) |
+| Moff Pac-Man | 214362 | [214362-moff-pac-man.json](./214362-moff-pac-man.json) |
 | Mofina Island | 230889 | [230889-mofina-island.json](./230889-mofina-island.json) |
 | Mofumofu Sensen | 205013 | [205013-mofumofu-sensen.json](./205013-mofumofu-sensen.json) |
 | Mogeko Castle | 213382 | [213382-mogeko-castle.json](./213382-mogeko-castle.json) |
@@ -15207,6 +15209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My City | 206767 | [206767-my-city.json](./206767-my-city.json) |
 | My City - Entertainment Tycoon | 105926 | [105926-my-city-entertainment-tycoon.json](./105926-my-city-entertainment-tycoon.json) |
 | My City and Army | 155985 | [155985-my-city-and-army.json](./155985-my-city-and-army.json) |
+| My City: Newborn Baby | 214328 | [214328-my-city-newborn-baby.json](./214328-my-city-newborn-baby.json) |
 | My Clinical Death | 414168 | [414168-my-clinical-death.json](./414168-my-clinical-death.json) |
 | My Clone Army: Me, Myself & I | 224010 | [224010-my-clone-army-me-myself-and-i.json](./224010-my-clone-army-me-myself-and-i.json) |
 | My College Picture with Them | 316652 | [316652-my-college-picture-with-them.json](./316652-my-college-picture-with-them.json) |
