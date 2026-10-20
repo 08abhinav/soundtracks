@@ -11574,6 +11574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Breaker Ultimate | 65800 | [65800-brick-breaker-ultimate.json](./65800-brick-breaker-ultimate.json) |
 | Brick Breaker Unicorn | 151199 | [151199-brick-breaker-unicorn.json](./151199-brick-breaker-unicorn.json) |
 | Brick Breaker X: Deluxe | 180130 | [180130-brick-breaker-x-deluxe.json](./180130-brick-breaker-x-deluxe.json) |
+| Brick Breaker: Ball Shooter | 219479 | [219479-brick-breaker-ball-shooter.json](./219479-brick-breaker-ball-shooter.json) |
 | Brick Breaker: Infinity | 331353 | [331353-brick-breaker-infinity.json](./331353-brick-breaker-infinity.json) |
 | Brick Breaker: Space Outlaw | 140555 | [140555-brick-breaker-space-outlaw.json](./140555-brick-breaker-space-outlaw.json) |
 | Brick Buddies | 272274 | [272274-brick-buddies.json](./272274-brick-buddies.json) |
