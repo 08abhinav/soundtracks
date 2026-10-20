@@ -4499,6 +4499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little League World Series Baseball 2009 | 51067 | [51067-little-league-world-series-baseball-2009.json](./51067-little-league-world-series-baseball-2009.json) |
 | Little League World Series Baseball 2010 | 66621 | [66621-little-league-world-series-baseball-2010.json](./66621-little-league-world-series-baseball-2010.json) |
 | Little League World Series Double Play | 51071 | [51071-little-league-world-series-double-play.json](./51071-little-league-world-series-double-play.json) |
+| Little Legends | 216103 | [216103-little-legends.json](./216103-little-legends.json) |
 | Little Legion | 212978 | [212978-little-legion.json](./212978-little-legion.json) |
 | Little Legs | 301002 | [301002-little-legs.json](./301002-little-legs.json) |
 | Little Leonardo | 395715 | [395715-little-leonardo.json](./395715-little-leonardo.json) |
