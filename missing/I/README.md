@@ -3028,6 +3028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Party Battle | 224034 | [224034-infinity-party-battle.json](./224034-infinity-party-battle.json) |
 | Infinity Pinball | 142871 | [142871-infinity-pinball.json](./142871-infinity-pinball.json) |
 | Infinity Pipe | 120843 | [120843-infinity-pipe.json](./120843-infinity-pipe.json) |
+| Infinity Project: Patterns | 211042 | [211042-infinity-project-patterns.json](./211042-infinity-project-patterns.json) |
 | Infinity R | 340752 | [340752-infinity-r.json](./340752-infinity-r.json) |
 | Infinity Racer | 105235 | [105235-infinity-racer.json](./105235-infinity-racer.json) |
 | Infinity Rising | 315056 | [315056-infinity-rising.json](./315056-infinity-rising.json) |
