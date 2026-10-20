@@ -431,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octoshield VR | 32392 | [32392-octoshield-vr.json](./32392-octoshield-vr.json) |
 | Octov | 25754 | [25754-octov.json](./25754-octov.json) |
 | Oculant | 275717 | [275717-oculant.json](./275717-oculant.json) |
+| Ocular Deprivation | 211615 | [211615-ocular-deprivation.json](./211615-ocular-deprivation.json) |
 | Oculto | 111231 | [111231-oculto.json](./111231-oculto.json) |
 | Oculus Arcade | 213949 | [213949-oculus-arcade.json](./213949-oculus-arcade.json) |
 | Oculus Malus | 269664 | [269664-oculus-malus.json](./269664-oculus-malus.json) |
@@ -3253,6 +3254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orrin's Chessboard | 377758 | [377758-orrins-chessboard.json](./377758-orrins-chessboard.json) |
 | Orrstead | 191513 | [191513-orrstead.json](./191513-orrstead.json) |
 | Orso | 390200 | [390200-orso.json](./390200-orso.json) |
+| Orten Was the Case | 211596 | [211596-orten-was-the-case.json](./211596-orten-was-the-case.json) |
 | Orthanc | 146634 | [146634-orthanc.json](./146634-orthanc.json) |
 | Ortharion Project | 122065 | [122065-ortharion-project.json](./122065-ortharion-project.json) |
 | Ortharion: The Last Battle | 193444 | [193444-ortharion-the-last-battle.json](./193444-ortharion-the-last-battle.json) |
@@ -3947,6 +3949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outl1ned | 341522 | [341522-outl1ned.json](./341522-outl1ned.json) |
 | Outland | 8371 | [8371-outland.json](./8371-outland.json) |
 | Outland 17 | 60997 | [60997-outland-17.json](./60997-outland-17.json) |
+| Outland Kingdoms | 211610 | [211610-outland-kingdoms.json](./211610-outland-kingdoms.json) |
 | Outland Odyssey | 214172 | [214172-outland-odyssey.json](./214172-outland-odyssey.json) |
 | Outland Peak | 383662 | [383662-outland-peak.json](./383662-outland-peak.json) |
 | Outland Rapture | 169475 | [169475-outland-rapture.json](./169475-outland-rapture.json) |
@@ -4417,6 +4420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Owaru Sekai to Birthday | 144629 | [144629-owaru-sekai-to-birthday.json](./144629-owaru-sekai-to-birthday.json) |
 | Owe Money Pay Money | 301251 | [301251-owe-money-pay-money.json](./301251-owe-money-pay-money.json) |
 | Owen to have fun! | 101363 | [101363-owen-to-have-fun.json](./101363-owen-to-have-fun.json) |
+| Owinka Shooter | 211614 | [211614-owinka-shooter.json](./211614-owinka-shooter.json) |
 | Owl and Pals Preschool Lessons | 87274 | [87274-owl-and-pals-preschool-lessons.json](./87274-owl-and-pals-preschool-lessons.json) |
 | Owl Bounce | 378912 | [378912-owl-bounce.json](./378912-owl-bounce.json) |
 | Owl Country | 71729 | [71729-owl-country.json](./71729-owl-country.json) |
