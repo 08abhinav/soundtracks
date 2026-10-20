@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dad Left Me in the Car | 343318 | [343318-dad-left-me-in-the-car.json](./343318-dad-left-me-in-the-car.json) |
 | Dad Quest | 27145 | [27145-dad-quest.json](./27145-dad-quest.json) |
 | Dad's co-worker | 81605 | [81605-dads-co-worker.json](./81605-dads-co-worker.json) |
+| Dad's Coming | 212671 | [212671-dads-coming.json](./212671-dads-coming.json) |
 | Dad's Dice: History of Legends | 217461 | [217461-dads-dice-history-of-legends.json](./217461-dads-dice-history-of-legends.json) |
 | Daddy Long Legs | 89289 | [89289-daddy-long-legs.json](./89289-daddy-long-legs.json) |
 | Daddy Moto Racing | 255063 | [255063-daddy-moto-racing.json](./255063-daddy-moto-racing.json) |
@@ -2495,6 +2496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Resident Evil - Chris Redfield | 358419 | [358419-dead-by-daylight-resident-evil-chris-redfield.json](./358419-dead-by-daylight-resident-evil-chris-redfield.json) |
 | Dead by Daylight: Resident Evil - Claire Redfield | 358416 | [358416-dead-by-daylight-resident-evil-claire-redfield.json](./358416-dead-by-daylight-resident-evil-claire-redfield.json) |
 | Dead by Daylight: Resident Evil - Hunk | 358421 | [358421-dead-by-daylight-resident-evil-hunk.json](./358421-dead-by-daylight-resident-evil-hunk.json) |
+| Dead by Daylight: Resident Evil - Project W | 212662 | [212662-dead-by-daylight-resident-evil-project-w.json](./212662-dead-by-daylight-resident-evil-project-w.json) |
 | Dead by Daylight: Resident Evil - Sheva Alomar | 358418 | [358418-dead-by-daylight-resident-evil-sheva-alomar.json](./358418-dead-by-daylight-resident-evil-sheva-alomar.json) |
 | Dead by Daylight: Resident Evil Chapter | 152483 | [152483-dead-by-daylight-resident-evil-chapter.json](./152483-dead-by-daylight-resident-evil-chapter.json) |
 | Dead By Daylight: Resident Evil Collaboration Bundle | 212876 | [212876-dead-by-daylight-resident-evil-collaboration-bundle.json](./212876-dead-by-daylight-resident-evil-collaboration-bundle.json) |
@@ -8957,6 +8959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolphin Simulator | 107007 | [107007-dolphin-simulator.json](./107007-dolphin-simulator.json) |
 | Dolphin Splash! | 272475 | [272475-dolphin-splash.json](./272475-dolphin-splash.json) |
 | Dolphin Trainer | 269739 | [269739-dolphin-trainer.json](./269739-dolphin-trainer.json) |
+| Dolphin Wave | 212640 | [212640-dolphin-wave.json](./212640-dolphin-wave.json) |
 | Dolphin's Dream | 74704 | [74704-dolphins-dream.json](./74704-dolphins-dream.json) |
 | Dolphins-Cyborgs and open space | 81756 | [81756-dolphins-cyborgs-and-open-space.json](./81756-dolphins-cyborgs-and-open-space.json) |
 | Dolphy Dash | 104003 | [104003-dolphy-dash.json](./104003-dolphy-dash.json) |
@@ -13866,6 +13869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons 3: Evil of the Caribbean | 124825 | [124825-dungeons-3-evil-of-the-caribbean.json](./124825-dungeons-3-evil-of-the-caribbean.json) |
 | Dungeons 3: Extremely Evil Edition | 323413 | [323413-dungeons-3-extremely-evil-edition.json](./323413-dungeons-3-extremely-evil-edition.json) |
 | Dungeons 3: Nintendo Switch Complete Collection | 283207 | [283207-dungeons-3-nintendo-switch-complete-collection.json](./283207-dungeons-3-nintendo-switch-complete-collection.json) |
+| Dungeons 3: Nintendo Switch Edition | 212632 | [212632-dungeons-3-nintendo-switch-edition.json](./212632-dungeons-3-nintendo-switch-edition.json) |
 | Dungeons 4 | 215915 | [215915-dungeons-4.json](./215915-dungeons-4.json) |
 | Dungeons 4: Nintendo Switch Edition | 319321 | [319321-dungeons-4-nintendo-switch-edition.json](./319321-dungeons-4-nintendo-switch-edition.json) |
 | Dungeons 4: The Good, the Bad and the Evil | 309104 | [309104-dungeons-4-the-good-the-bad-and-the-evil.json](./309104-dungeons-4-the-good-the-bad-and-the-evil.json) |
