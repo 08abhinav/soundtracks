@@ -953,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain Project | 90855 | [90855-rain-project.json](./90855-rain-project.json) |
 | Rain reader | 176313 | [176313-rain-reader.json](./176313-rain-reader.json) |
 | Rain Ruin | 207358 | [207358-rain-ruin.json](./207358-rain-ruin.json) |
+| Rain Shower | 231745 | [231745-rain-shower.json](./231745-rain-shower.json) |
 | Rain Station Z | 410414 | [410414-rain-station-z.json](./410414-rain-station-z.json) |
 | Rain Tactics | 274384 | [274384-rain-tactics.json](./274384-rain-tactics.json) |
 | Rain Wonder Trip | 273833 | [273833-rain-wonder-trip.json](./273833-rain-wonder-trip.json) |
@@ -5798,6 +5799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ripped/Apart | 133397 | [133397-ripped-apart.json](./133397-ripped-apart.json) |
 | Ripper Ribbit | 130899 | [130899-ripper-ribbit.json](./130899-ripper-ribbit.json) |
 | Ripple | 198510 | [198510-ripple.json](./198510-ripple.json) |
+| Ripple Dot Zero | 231714 | [231714-ripple-dot-zero.json](./231714-ripple-dot-zero.json) |
 | Ripple Effect | 36961 | [36961-ripple-effect.json](./36961-ripple-effect.json) |
 | Ripple in Dirac Sea | 253861 | [253861-ripple-in-dirac-sea.json](./253861-ripple-in-dirac-sea.json) |
 | Ripple Island | 48791 | [48791-ripple-island.json](./48791-ripple-island.json) |
