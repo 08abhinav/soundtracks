@@ -3471,6 +3471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Box | 68657 | [68657-fighting-box.json](./68657-fighting-box.json) |
 | Fighting breakthrough | 287779 | [287779-fighting-breakthrough.json](./287779-fighting-breakthrough.json) |
 | Fighting Bujutsu | 58733 | [58733-fighting-bujutsu.json](./58733-fighting-bujutsu.json) |
+| Fighting Chance | 244083 | [244083-fighting-chance.json](./244083-fighting-chance.json) |
 | Fighting Clans | 130224 | [130224-fighting-clans.json](./130224-fighting-clans.json) |
 | Fighting cop | 265346 | [265346-fighting-cop.json](./265346-fighting-cop.json) |
 | Fighting Edition | 54913 | [54913-fighting-edition.json](./54913-fighting-edition.json) |
@@ -6838,6 +6839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Director DS | 21474 | [21474-football-director-ds.json](./21474-football-director-ds.json) |
 | Football Director II | 83202 | [83202-football-director-ii.json](./83202-football-director-ii.json) |
 | Football Drama | 105592 | [105592-football-drama.json](./105592-football-drama.json) |
+| Football Fan: Run Team Run! | 244094 | [244094-football-fan-run-team-run.json](./244094-football-fan-run-team-run.json) |
 | Football for the TRS-80 CoCo | 131494 | [131494-football-for-the-trs-80-coco.json](./131494-football-for-the-trs-80-coco.json) |
 | Football Fred | 104468 | [104468-football-fred.json](./104468-football-fred.json) |
 | Football Frenzy | 39649 | [39649-football-frenzy.json](./39649-football-frenzy.json) |
