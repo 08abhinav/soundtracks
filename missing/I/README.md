@@ -318,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Love Finding Cats!: Collector's Edition | 186697 | [186697-i-love-finding-cats-collectors-edition.json](./186697-i-love-finding-cats-collectors-edition.json) |
 | I Love Finding Critters | 195177 | [195177-i-love-finding-critters.json](./195177-i-love-finding-critters.json) |
 | I Love Finding Critters!: Collector's Edition | 204974 | [204974-i-love-finding-critters-collectors-edition.json](./204974-i-love-finding-critters-collectors-edition.json) |
+| I Love Finding Furbabies | 242959 | [242959-i-love-finding-furbabies.json](./242959-i-love-finding-furbabies.json) |
 | I Love Finding Furbabies: Collector's Edition | 277576 | [277576-i-love-finding-furbabies-collectors-edition.json](./277576-i-love-finding-furbabies-collectors-edition.json) |
 | I Love Finding More Cats | 190729 | [190729-i-love-finding-more-cats.json](./190729-i-love-finding-more-cats.json) |
 | I Love Finding More Cats!: Collector's Edition | 205224 | [205224-i-love-finding-more-cats-collectors-edition.json](./205224-i-love-finding-more-cats-collectors-edition.json) |
