@@ -4697,6 +4697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Party | 150487 | [150487-maze-party.json](./150487-maze-party.json) |
 | Maze Pursuit | 298376 | [298376-maze-pursuit.json](./298376-maze-pursuit.json) |
 | Maze Puzzle | 277868 | [277868-maze-puzzle.json](./277868-maze-puzzle.json) |
+| Maze Quest | 240057 | [240057-maze-quest.json](./240057-maze-quest.json) |
 | Maze Quest 1: The Forest | 107739 | [107739-maze-quest-1-the-forest.json](./107739-maze-quest-1-the-forest.json) |
 | Maze Quest 2: The Desert | 119587 | [119587-maze-quest-2-the-desert.json](./119587-maze-quest-2-the-desert.json) |
 | Maze Quest Master | 270186 | [270186-maze-quest-master.json](./270186-maze-quest-master.json) |
@@ -6176,6 +6177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megatack | 38576 | [38576-megatack.json](./38576-megatack.json) |
 | Megatect | 35256 | [35256-megatect.json](./35256-megatect.json) |
 | Megaton | 322080 | [322080-megaton.json](./322080-megaton.json) |
+| Megaton Musashi | 240085 | [240085-megaton-musashi.json](./240085-megaton-musashi.json) |
 | Megaton Musashi W: Fashionable Pack Vol. 1 | 300939 | [300939-megaton-musashi-w-fashionable-pack-vol-1.json](./300939-megaton-musashi-w-fashionable-pack-vol-1.json) |
 | Megaton Musashi W: Fashionable Pack Vol. 2 | 300940 | [300940-megaton-musashi-w-fashionable-pack-vol-2.json](./300940-megaton-musashi-w-fashionable-pack-vol-2.json) |
 | Megaton Musashi W: Fashionable Pack Vol. 3 | 300942 | [300942-megaton-musashi-w-fashionable-pack-vol-3.json](./300942-megaton-musashi-w-fashionable-pack-vol-3.json) |
@@ -11071,6 +11073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Molang: A Happy Day | 101010 | [101010-molang-a-happy-day.json](./101010-molang-a-happy-day.json) |
 | Molar: Underground | 266609 | [266609-molar-underground.json](./266609-molar-underground.json) |
 | Mold | 239558 | [239558-mold.json](./239558-mold.json) |
+| Mold 2: Origin | 240073 | [240073-mold-2-origin.json](./240073-mold-2-origin.json) |
 | Mold From Outer Space | 344915 | [344915-mold-from-outer-space.json](./344915-mold-from-outer-space.json) |
 | Mold on Pizza | 34817 | [34817-mold-on-pizza.json](./34817-mold-on-pizza.json) |
 | Moldbreaker: Rise of the Loaf | 325305 | [325305-moldbreaker-rise-of-the-loaf.json](./325305-moldbreaker-rise-of-the-loaf.json) |
