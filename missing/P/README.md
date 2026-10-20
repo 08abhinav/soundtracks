@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-In-Time | 242404 | [242404-pac-in-time.json](./242404-pac-in-time.json) |
 | Pac-In-Time | 242407 | [242407-pac-in-time.json](./242407-pac-in-time.json) |
 | Pac-Laby 3D | 266250 | [266250-pac-laby-3d.json](./266250-pac-laby-3d.json) |
+| Pac-Land | 218351 | [218351-pac-land.json](./218351-pac-land.json) |
 | Pac-Land | 6822 | [6822-pac-land.json](./6822-pac-land.json) |
 | Pac-Maine | 79229 | [79229-pac-maine.json](./79229-pac-maine.json) |
 | Pac-Man | 198842 | [198842-pac-man.json](./198842-pac-man.json) |
