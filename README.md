@@ -230,6 +230,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273d6a54da5a7a6b26f90066d61" width="60" /> | [Blasphemous](https://ostdb.net/games/blasphemous) | **Blasphemous (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1oGyVpRrssPhtz23UDTYYS) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5e/2f/16/5e2f16fa-8d12-254e-86ff-f2b1671f34bb/artwork.jpg/600x600bb.jpg" width="60" /> | [Bleak Faith: Forsaken](https://ostdb.net/games/bleak-faith-forsaken) | **Übermensch (from Bleak Faith: Forsaken) - Single** · [Spotify](https://music.apple.com/us/album/%C3%BCbermensch-from-bleak-faith-forsaken-single/1570538934?uo=4) · [Album](https://album.link/i/1570538934) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273351eee714a7f4c2ff64d64d8" width="60" /> | [Bleeding Edge](https://ostdb.net/games/bleeding-edge) | **Bleeding Edge (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3KZW4dRXly7eniSQK2lYH7) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d3959aff5d1dd8a1e342be58" width="60" /> | [Blood & Truth](https://ostdb.net/games/blood-and-truth) | **Blood & Truth (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4uZmHjC20S6TUOkFbF54Pd) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273350b6f6f28c11896eb576298" width="60" /> | [Blood West](https://ostdb.net/games/blood-west) | **Blood West (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0fPXZGO2dsL5ojHEXNkkB7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732472601180911ff89445cbc8" width="60" /> | [Bloodborne](https://ostdb.net/games/bloodborne) | **Bloodborne Original Soundtrack** · [Spotify](https://open.spotify.com/album/5nRwiGsiEtrFN847UULpzL)<br>**Bloodborne the Old Hunters Original Soundtrack** · [Spotify](https://open.spotify.com/album/6XSHziwWFxrUiO7oEmBya1) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/d4/b2/01/d4b2010f-2b3c-e163-b171-bffca7c053c0/BBTOH_soundtrack.jpg/600x600bb.jpg" width="60" /> | [Bloodborne: The Old Hunters](https://ostdb.net/games/bloodborne-the-old-hunters) | **Bloodborne the Old Hunters Original Soundtrack** · [Spotify](https://open.spotify.com/album/6XSHziwWFxrUiO7oEmBya1) · [Apple Music](https://music.apple.com/us/album/bloodborne-the-old-hunters-original-soundtrack-ep/1087350318) · [Album](https://album.link/i/1087350318) |
@@ -2012,4 +2013,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2329 soundtracks · last updated 2026-10-20T22:10:49.590Z_
+_2330 soundtracks · last updated 2026-10-20T22:11:01.127Z_
