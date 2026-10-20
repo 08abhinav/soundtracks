@@ -937,6 +937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanata-Kadaka!? | 59993 | [59993-hanata-kadaka.json](./59993-hanata-kadaka.json) |
 | Hanayaka Nari, Waga Ichizoku | 61640 | [61640-hanayaka-nari-waga-ichizoku.json](./61640-hanayaka-nari-waga-ichizoku.json) |
 | Hanayaka Nari, Waga Ichizoku Gentou Nostalgie | 60347 | [60347-hanayaka-nari-waga-ichizoku-gentou-nostalgie.json](./60347-hanayaka-nari-waga-ichizoku-gentou-nostalgie.json) |
+| Hanayaka Nari, Waga Ichizoku Kinema Mosaic | 224447 | [224447-hanayaka-nari-waga-ichizoku-kinema-mosaic.json](./224447-hanayaka-nari-waga-ichizoku-kinema-mosaic.json) |
 | Hanayaka Nari, Waga Ichizoku Modern Nostalgie | 136796 | [136796-hanayaka-nari-waga-ichizoku-modern-nostalgie.json](./136796-hanayaka-nari-waga-ichizoku-modern-nostalgie.json) |
 | Hanayaka Nari, Waga Ichizoku Tasogare Polar Star | 224448 | [224448-hanayaka-nari-waga-ichizoku-tasogare-polar-star.json](./224448-hanayaka-nari-waga-ichizoku-tasogare-polar-star.json) |
 | Hanayome: The Sacrificial Bride | 284611 | [284611-hanayome-the-sacrificial-bride.json](./284611-hanayome-the-sacrificial-bride.json) |
@@ -6239,6 +6240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit the Light: Neon Shooter | 129165 | [129165-hit-the-light-neon-shooter.json](./129165-hit-the-light-neon-shooter.json) |
 | Hit the Pillar | 232339 | [232339-hit-the-pillar.json](./232339-hit-the-pillar.json) |
 | HIT: Heroes of Incredible Tales | 79317 | [79317-hit-heroes-of-incredible-tales.json](./79317-hit-heroes-of-incredible-tales.json) |
+| Hit: Reboot | 224397 | [224397-hit-reboot.json](./224397-hit-reboot.json) |
 | Hit! Spin! Watermelon Party | 358658 | [358658-hit-spin-watermelon-party.json](./358658-hit-spin-watermelon-party.json) |
 | HitagiDrops | 286601 | [286601-hitagidrops.json](./286601-hitagidrops.json) |
 | Hitalick Challenge | 257576 | [257576-hitalick-challenge.json](./257576-hitalick-challenge.json) |
