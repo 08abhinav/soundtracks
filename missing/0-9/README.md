@@ -2080,6 +2080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4x4 Russian SUVs Off-Road | 348958 | [348958-4x4-russian-suvs-off-road.json](./348958-4x4-russian-suvs-off-road.json) |
 | 5 Arcade Gems | 51054 | [51054-5-arcade-gems.json](./51054-5-arcade-gems.json) |
 | 5 Card Slingo | 321768 | [321768-5-card-slingo.json](./321768-5-card-slingo.json) |
+| 5 Days | 226096 | [226096-5-days.json](./226096-5-days.json) |
 | 5 Days, Minimum Wage. | 308953 | [308953-5-days-minimum-wage.json](./308953-5-days-minimum-wage.json) |
 | 5 ft. 10 Pak: Award Winning Collection | 401082 | [401082-5-ft-10-pak-award-winning-collection.json](./401082-5-ft-10-pak-award-winning-collection.json) |
 | 5 ft. 10 Pak: Vol. I | 401081 | [401081-5-ft-10-pak-vol-i.json](./401081-5-ft-10-pak-vol-i.json) |
@@ -2131,6 +2132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5-Step Steve | 251585 | [251585-5-step-steve.json](./251585-5-step-steve.json) |
 | 5:48AM | 277038 | [277038-5-48am.json](./277038-5-48am.json) |
 | 5.0 | 230142 | [230142-5-0.json](./230142-5-0.json) |
+| 5.5 Rooms | 226095 | [226095-5-5-rooms.json](./226095-5-5-rooms.json) |
 | 5.84 Wing | 115517 | [115517-5-84-wing.json](./115517-5-84-wing.json) |
 | 50 | 186671 | [186671-50.json](./186671-50.json) |
 | 50 Blockbuster Games Volume 1 | 259410 | [259410-50-blockbuster-games-volume-1.json](./259410-50-blockbuster-games-volume-1.json) |
