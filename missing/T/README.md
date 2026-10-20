@@ -1221,6 +1221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talking Cactus | 358423 | [358423-talking-cactus.json](./358423-talking-cactus.json) |
 | Talking Caillou | 325678 | [325678-talking-caillou.json](./325678-talking-caillou.json) |
 | Talking Ghostbusters II | 218434 | [218434-talking-ghostbusters-ii.json](./218434-talking-ghostbusters-ii.json) |
+| Talking Gina | 214350 | [214350-talking-gina.json](./214350-talking-gina.json) |
 | Talking Ginger 2 | 344922 | [344922-talking-ginger-2.json](./344922-talking-ginger-2.json) |
 | Talking in Circles | 302491 | [302491-talking-in-circles.json](./302491-talking-in-circles.json) |
 | Talking in the Distance | 179159 | [179159-talking-in-the-distance.json](./179159-talking-in-the-distance.json) |
@@ -9468,6 +9469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Lumina | 302360 | [302360-the-legend-of-lumina.json](./302360-the-legend-of-lumina.json) |
 | The Legend of Mala Tokmachka | 414149 | [414149-the-legend-of-mala-tokmachka.json](./414149-the-legend-of-mala-tokmachka.json) |
 | The Legend of Maya | 78324 | [78324-the-legend-of-maya.json](./78324-the-legend-of-maya.json) |
+| The Legend of Mir 2 | 214343 | [214343-the-legend-of-mir-2.json](./214343-the-legend-of-mir-2.json) |
 | The Legend of Mir 2 | 51204 | [51204-the-legend-of-mir-2.json](./51204-the-legend-of-mir-2.json) |
 | The Legend of Monster Mountain | 106490 | [106490-the-legend-of-monster-mountain.json](./106490-the-legend-of-monster-mountain.json) |
 | The Legend of Monsters | 179521 | [179521-the-legend-of-monsters.json](./179521-the-legend-of-monsters.json) |
@@ -20017,6 +20019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Fuumaroku: The Story of Eastern Wind | 375562 | [375562-touhou-fuumaroku-the-story-of-eastern-wind.json](./375562-touhou-fuumaroku-the-story-of-eastern-wind.json) |
 | Touhou Gaiden | 404961 | [404961-touhou-gaiden.json](./404961-touhou-gaiden.json) |
 | Touhou Gakuen Ki: Shippuu no Shou | 201176 | [201176-touhou-gakuen-ki-shippuu-no-shou.json](./201176-touhou-gakuen-ki-shippuu-no-shou.json) |
+| Touhou Gekkatan | 214352 | [214352-touhou-gekkatan.json](./214352-touhou-gekkatan.json) |
 | Touhou Gendanshou X: Unlimited Heroes | 207229 | [207229-touhou-gendanshou-x-unlimited-heroes.json](./207229-touhou-gendanshou-x-unlimited-heroes.json) |
 | Touhou Gendanshou Y: Unlimited Heroes | 207231 | [207231-touhou-gendanshou-y-unlimited-heroes.json](./207231-touhou-gendanshou-y-unlimited-heroes.json) |
 | Touhou Gendanshou: Unlimited Heroes | 207228 | [207228-touhou-gendanshou-unlimited-heroes.json](./207228-touhou-gendanshou-unlimited-heroes.json) |
@@ -20081,6 +20084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Kobuto V: Burst Battle - Youmu Konpaku | 238035 | [238035-touhou-kobuto-v-burst-battle-youmu-konpaku.json](./238035-touhou-kobuto-v-burst-battle-youmu-konpaku.json) |
 | Touhou Komakyou | 262184 | [262184-touhou-komakyou.json](./262184-touhou-komakyou.json) |
 | Touhou Kosuzu no Butsuri Game! | 256898 | [256898-touhou-kosuzu-no-butsuri-game.json](./256898-touhou-kosuzu-no-butsuri-game.json) |
+| Touhou Kouhentan | 214371 | [214371-touhou-kouhentan.json](./214371-touhou-kouhentan.json) |
 | Touhou Koukayaku The Game | 293322 | [293322-touhou-koukayaku-the-game.json](./293322-touhou-koukayaku-the-game.json) |
 | Touhou Koumadan | 377364 | [377364-touhou-koumadan.json](./377364-touhou-koumadan.json) |
 | Touhou Koumakyou: New Classic - The Embodiment of Scarlet Devil | 405461 | [405461-touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil.json](./405461-touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil.json) |
@@ -20358,6 +20362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Defense Ultimate | 32900 | [32900-tower-defense-ultimate.json](./32900-tower-defense-ultimate.json) |
 | Tower Defense: Defender of the Kingdom | 122130 | [122130-tower-defense-defender-of-the-kingdom.json](./122130-tower-defense-defender-of-the-kingdom.json) |
 | Tower Defense: Goblin Wars | 384204 | [384204-tower-defense-goblin-wars.json](./384204-tower-defense-goblin-wars.json) |
+| Tower Defense: Infinite War | 214330 | [214330-tower-defense-infinite-war.json](./214330-tower-defense-infinite-war.json) |
 | Tower Defense: Infinite War - Infinite Starter Package | 296247 | [296247-tower-defense-infinite-war-infinite-starter-package.json](./296247-tower-defense-infinite-war-infinite-starter-package.json) |
 | Tower Dominion | 328027 | [328027-tower-dominion.json](./328027-tower-dominion.json) |
 | Tower Doomer | 289934 | [289934-tower-doomer.json](./289934-tower-doomer.json) |
