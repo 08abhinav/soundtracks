@@ -7877,6 +7877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gumball | 25612 | [25612-gumball.json](./25612-gumball.json) |
 | Gumball 3000 | 300795 | [300795-gumball-3000.json](./300795-gumball-3000.json) |
 | Gumball Hero | 407353 | [407353-gumball-hero.json](./407353-gumball-hero.json) |
+| Gumball Rainbow Ruckus | 232856 | [232856-gumball-rainbow-ruckus.json](./232856-gumball-rainbow-ruckus.json) |
 | GumBall Warrior | 160100 | [160100-gumball-warrior.json](./160100-gumball-warrior.json) |
 | Gumball: School House Rush | 203209 | [203209-gumball-school-house-rush.json](./203209-gumball-school-house-rush.json) |
 | Gumbo | 40153 | [40153-gumbo.json](./40153-gumbo.json) |
