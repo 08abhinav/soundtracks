@@ -1777,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left by Angels | 350948 | [350948-left-by-angels.json](./350948-left-by-angels.json) |
 | Left Dex | 158109 | [158109-left-dex.json](./158109-left-dex.json) |
 | Left Drift Right Shift Orbit | 108640 | [108640-left-drift-right-shift-orbit.json](./108640-left-drift-right-shift-orbit.json) |
+| Left for Dead | 233399 | [233399-left-for-dead.json](./233399-left-for-dead.json) |
 | Left Fore Dead: Zombie Battle Golf | 406646 | [406646-left-fore-dead-zombie-battle-golf.json](./406646-left-fore-dead-zombie-battle-golf.json) |
 | Left in the Dark: No One on Board | 17144 | [17144-left-in-the-dark-no-one-on-board.json](./17144-left-in-the-dark-no-one-on-board.json) |
 | Left on Read | 137527 | [137527-left-on-read.json](./137527-left-on-read.json) |
@@ -4515,6 +4516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Mouse's Encyclopedia: Complete Edition | 241398 | [241398-little-mouses-encyclopedia-complete-edition.json](./241398-little-mouses-encyclopedia-complete-edition.json) |
 | Little Mouse's Encyclopedia: Definitive Edition | 251510 | [251510-little-mouses-encyclopedia-definitive-edition.json](./251510-little-mouses-encyclopedia-definitive-edition.json) |
 | Little Mouse's Encyclopedia: Extended Edition | 231266 | [231266-little-mouses-encyclopedia-extended-edition.json](./231266-little-mouses-encyclopedia-extended-edition.json) |
+| Little Mouse's Encyclopedia: Premium Edition | 233358 | [233358-little-mouses-encyclopedia-premium-edition.json](./233358-little-mouses-encyclopedia-premium-edition.json) |
 | Little Mouse's Encyclopedia: Special Edition | 231267 | [231267-little-mouses-encyclopedia-special-edition.json](./231267-little-mouses-encyclopedia-special-edition.json) |
 | Little Mouse's Encyclopedia: Ultimate Edition | 231268 | [231268-little-mouses-encyclopedia-ultimate-edition.json](./231268-little-mouses-encyclopedia-ultimate-edition.json) |
 | Little My Maid | 70480 | [70480-little-my-maid.json](./70480-little-my-maid.json) |
@@ -5280,6 +5282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lokapala | 224018 | [224018-lokapala.json](./224018-lokapala.json) |
 | Loki | 19358 | [19358-loki.json](./19358-loki.json) |
 | Loki the Lynx | 364499 | [364499-loki-the-lynx.json](./364499-loki-the-lynx.json) |
+| Loki's Castle | 233387 | [233387-lokis-castle.json](./233387-lokis-castle.json) |
 | Loki's Minions Capture the Flag | 306187 | [306187-lokis-minions-capture-the-flag.json](./306187-lokis-minions-capture-the-flag.json) |
 | Loki's Revenge | 312154 | [312154-lokis-revenge.json](./312154-lokis-revenge.json) |
 | Lokko | 374427 | [374427-lokko.json](./374427-lokko.json) |
