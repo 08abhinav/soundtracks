@@ -10722,6 +10722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smiley Dusty | 325697 | [325697-smiley-dusty.json](./325697-smiley-dusty.json) |
 | Smiley World: Island Challenge | 51131 | [51131-smiley-world-island-challenge.json](./51131-smiley-world-island-challenge.json) |
 | Smiley's Revenge | 140533 | [140533-smileys-revenge.json](./140533-smileys-revenge.json) |
+| Smiley's Way Out | 246263 | [246263-smileys-way-out.json](./246263-smileys-way-out.json) |
 | Smileys War | 234901 | [234901-smileys-war.json](./234901-smileys-war.json) |
 | Smiling Girls | 257001 | [257001-smiling-girls.json](./257001-smiling-girls.json) |
 | Smiling Misery | 333103 | [333103-smiling-misery.json](./333103-smiling-misery.json) |
@@ -19098,6 +19099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State Z | 406836 | [406836-state-z.json](./406836-state-z.json) |
 | State.io | 304954 | [304954-state-io.json](./304954-state-io.json) |
 | Statecraft | 365852 | [365852-statecraft.json](./365852-statecraft.json) |
+| Statele | 246240 | [246240-statele.json](./246240-statele.json) |
 | States and Capitals | 71737 | [71737-states-and-capitals.json](./71737-states-and-capitals.json) |
 | States Map Tutor | 87542 | [87542-states-map-tutor.json](./87542-states-map-tutor.json) |
 | States of Power | 391110 | [391110-states-of-power.json](./391110-states-of-power.json) |
