@@ -3105,6 +3105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vroom | 12813 | [12813-vroom.json](./12813-vroom.json) |
 | Vroom Data Disk | 330763 | [330763-vroom-data-disk.json](./330763-vroom-data-disk.json) |
 | Vroom Kaboom | 96847 | [96847-vroom-kaboom.json](./96847-vroom-kaboom.json) |
+| Vroom Racing | 230156 | [230156-vroom-racing.json](./230156-vroom-racing.json) |
 | Vroom Vroom !!! | 87527 | [87527-vroom-vroom.json](./87527-vroom-vroom.json) |
 | Vroom Vroom Valley | 253444 | [253444-vroom-vroom-valley.json](./253444-vroom-vroom-valley.json) |
 | Vroomies | 296734 | [296734-vroomies.json](./296734-vroomies.json) |
