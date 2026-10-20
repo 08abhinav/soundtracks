@@ -707,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Taisen Online: Teito no Nagai Hibi | 63132 | [63132-sakura-taisen-online-teito-no-nagai-hibi.json](./63132-sakura-taisen-online-teito-no-nagai-hibi.json) |
 | Sakura Taisen Steam Radio Show | 62125 | [62125-sakura-taisen-steam-radio-show.json](./62125-sakura-taisen-steam-radio-show.json) |
 | Sakura Taisen: Kinematron Hanagumi Mail | 62122 | [62122-sakura-taisen-kinematron-hanagumi-mail.json](./62122-sakura-taisen-kinematron-hanagumi-mail.json) |
+| Sakura Tempest | 223857 | [223857-sakura-tempest.json](./223857-sakura-tempest.json) |
 | Sakura Trick | 231838 | [231838-sakura-trick.json](./231838-sakura-trick.json) |
 | Sakura Trick: Special Edition | 191564 | [191564-sakura-trick-special-edition.json](./191564-sakura-trick-special-edition.json) |
 | Sakura Tsuushin: Remaking Memories | 209624 | [209624-sakura-tsuushin-remaking-memories.json](./209624-sakura-tsuushin-remaking-memories.json) |
@@ -13450,6 +13451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Velocity | 330679 | [330679-sonic-velocity.json](./330679-sonic-velocity.json) |
 | Sonic Velocity | 330682 | [330682-sonic-velocity.json](./330682-sonic-velocity.json) |
 | Sonic Vex | 330520 | [330520-sonic-vex.json](./330520-sonic-vex.json) |
+| Sonic VR | 223848 | [223848-sonic-vr.json](./223848-sonic-vr.json) |
 | Sonic VR | 397132 | [397132-sonic-vr.json](./397132-sonic-vr.json) |
 | Sonic VS. Darkness: True Nightmare Revived | 140402 | [140402-sonic-vs-darkness-true-nightmare-revived.json](./140402-sonic-vs-darkness-true-nightmare-revived.json) |
 | Sonic vs. Dogs | 315038 | [315038-sonic-vs-dogs.json](./315038-sonic-vs-dogs.json) |
@@ -23838,6 +23840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. 35 | 138235 | [138235-super-mario-bros-35.json](./138235-super-mario-bros-35.json) |
 | Super Mario Bros. 3Mix | 144986 | [144986-super-mario-bros-3mix.json](./144986-super-mario-bros-3mix.json) |
 | Super Mario Bros. 5 | 318552 | [318552-super-mario-bros-5.json](./318552-super-mario-bros-5.json) |
+| Super Mario Bros. 5: Reborn | 223847 | [223847-super-mario-bros-5-reborn.json](./223847-super-mario-bros-5-reborn.json) |
 | Super Mario Bros. 64 | 135232 | [135232-super-mario-bros-64.json](./135232-super-mario-bros-64.json) |
 | Super Mario Bros. 64 | 150101 | [150101-super-mario-bros-64.json](./150101-super-mario-bros-64.json) |
 | Super Mario Bros. All-Star Quest | 135132 | [135132-super-mario-bros-all-star-quest.json](./135132-super-mario-bros-all-star-quest.json) |
@@ -25641,6 +25644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Escape Room | 156180 | [156180-survival-escape-room.json](./156180-survival-escape-room.json) |
 | Survival Express | 232154 | [232154-survival-express.json](./232154-survival-express.json) |
 | Survival EXtreme | 248915 | [248915-survival-extreme.json](./248915-survival-extreme.json) |
+| Survival Fish.io: Hunger Game | 223898 | [223898-survival-fish-io-hunger-game.json](./223898-survival-fish-io-hunger-game.json) |
 | Survival Float Simulator: Crocodile Waters Craft, Raft, Build | 317453 | [317453-survival-float-simulator-crocodile-waters-craft-raft-build.json](./317453-survival-float-simulator-crocodile-waters-craft-raft-build.json) |
 | Survival Fort | 233416 | [233416-survival-fort.json](./233416-survival-fort.json) |
 | Survival Game Master | 212477 | [212477-survival-game-master.json](./212477-survival-game-master.json) |
@@ -25824,6 +25828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor Girls | 277367 | [277367-survivor-girls.json](./277367-survivor-girls.json) |
 | Survivor Heroes | 313222 | [313222-survivor-heroes.json](./313222-survivor-heroes.json) |
 | Survivor Idle Run | 248124 | [248124-survivor-idle-run.json](./248124-survivor-idle-run.json) |
+| Survivor In Rainbow Monster | 223897 | [223897-survivor-in-rainbow-monster.json](./223897-survivor-in-rainbow-monster.json) |
 | Survivor in Summer | 108059 | [108059-survivor-in-summer.json](./108059-survivor-in-summer.json) |
 | Survivor in the Forest | 310166 | [310166-survivor-in-the-forest.json](./310166-survivor-in-the-forest.json) |
 | Survivor Island | 89419 | [89419-survivor-island.json](./89419-survivor-island.json) |
