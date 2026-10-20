@@ -4686,6 +4686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Knives | 337587 | [337587-demon-knives.json](./337587-demon-knives.json) |
 | Demon Legacy | 124536 | [124536-demon-legacy.json](./124536-demon-legacy.json) |
 | Demon Lily and the Noir Maid | 397055 | [397055-demon-lily-and-the-noir-maid.json](./397055-demon-lily-and-the-noir-maid.json) |
+| Demon Loop | 252578 | [252578-demon-loop.json](./252578-demon-loop.json) |
 | Demon Lord | 29776 | [29776-demon-lord.json](./29776-demon-lord.json) |
 | Demon Lord Reincarnation Gaiden | 286046 | [286046-demon-lord-reincarnation-gaiden.json](./286046-demon-lord-reincarnation-gaiden.json) |
 | Demon Lord: Clicker | 312739 | [312739-demon-lord-clicker.json](./312739-demon-lord-clicker.json) |
@@ -8968,6 +8969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don King Boxing | 21289 | [21289-don-king-boxing.json](./21289-don-king-boxing.json) |
 | Don King Presents: Prizefighter | 6970 | [6970-don-king-presents-prizefighter.json](./6970-don-king-presents-prizefighter.json) |
 | Don Memo | 388704 | [388704-don-memo.json](./388704-don-memo.json) |
+| Don Orlo's Magazine: Issue #1 | 252545 | [252545-don-orlos-magazine-issue-1.json](./252545-don-orlos-magazine-issue-1.json) |
 | Don Pan | 55860 | [55860-don-pan.json](./55860-don-pan.json) |
 | Don Quijote | 51440 | [51440-don-quijote.json](./51440-don-quijote.json) |
 | Don Quixote: A Dream in Seven Crystals | 273124 | [273124-don-quixote-a-dream-in-seven-crystals.json](./273124-don-quixote-a-dream-in-seven-crystals.json) |
