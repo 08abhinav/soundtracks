@@ -438,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RackJacker | 163981 | [163981-rackjacker.json](./163981-rackjacker.json) |
 | Racoon the Thief | 256187 | [256187-racoon-the-thief.json](./256187-racoon-the-thief.json) |
 | Racoonfeast | 326971 | [326971-racoonfeast.json](./326971-racoonfeast.json) |
+| Racoonie: Legend of the Spirits | 216667 | [216667-racoonie-legend-of-the-spirits.json](./216667-racoonie-legend-of-the-spirits.json) |
 | Racquet Sports | 51060 | [51060-racquet-sports.json](./51060-racquet-sports.json) |
 | Racter | 26406 | [26406-racter.json](./26406-racter.json) |
 | Rad Blaster | 130883 | [130883-rad-blaster.json](./130883-rad-blaster.json) |
@@ -1224,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally TS | 406194 | [406194-rally-ts.json](./406194-rally-ts.json) |
 | Rally-X | 18620 | [18620-rally-x.json](./18620-rally-x.json) |
 | Rally-X Rumble | 62035 | [62035-rally-x-rumble.json](./62035-rally-x-rumble.json) |
+| Rally: The Final Round of the World Rally Championship | 214983 | [214983-rally-the-final-round-of-the-world-rally-championship.json](./214983-rally-the-final-round-of-the-world-rally-championship.json) |
 | Rally45 | 89279 | [89279-rally45.json](./89279-rally45.json) |
 | Rallyallyally | 211136 | [211136-rallyallyally.json](./211136-rallyallyally.json) |
 | Rallycross Simulator | 75504 | [75504-rallycross-simulator.json](./75504-rallycross-simulator.json) |
@@ -2881,6 +2883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Dungeon | 184902 | [184902-red-dungeon.json](./184902-red-dungeon.json) |
 | Red Dusk | 356062 | [356062-red-dusk.json](./356062-red-dusk.json) |
 | Red Dust | 148674 | [148674-red-dust.json](./148674-red-dust.json) |
+| Red Dwarf | 214964 | [214964-red-dwarf.json](./214964-red-dwarf.json) |
 | Red Echo | 270941 | [270941-red-echo.json](./270941-red-echo.json) |
 | Red Egg: High Protein Gluten Free Adventure | 256353 | [256353-red-egg-high-protein-gluten-free-adventure.json](./256353-red-egg-high-protein-gluten-free-adventure.json) |
 | Red Embrace | 86440 | [86440-red-embrace.json](./86440-red-embrace.json) |
@@ -8255,6 +8258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooms: The Toymaker's Mansion | 193678 | [193678-rooms-the-toymakers-mansion.json](./193678-rooms-the-toymakers-mansion.json) |
 | Rooms: The Unsolvable Puzzle | 19018 | [19018-rooms-the-unsolvable-puzzle.json](./19018-rooms-the-unsolvable-puzzle.json) |
 | Roomscale Tower | 31984 | [31984-roomscale-tower.json](./31984-roomscale-tower.json) |
+| Rooniverse | 214984 | [214984-rooniverse.json](./214984-rooniverse.json) |
 | Roopocket | 122171 | [122171-roopocket.json](./122171-roopocket.json) |
 | Roost | 220147 | [220147-roost.json](./220147-roost.json) |
 | Roost | 329111 | [329111-roost.json](./329111-roost.json) |
@@ -9432,6 +9436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runflexio | 133144 | [133144-runflexio.json](./133144-runflexio.json) |
 | Runflexio: Exhibition Version | 183330 | [183330-runflexio-exhibition-version.json](./183330-runflexio-exhibition-version.json) |
 | Rungore | 220488 | [220488-rungore.json](./220488-rungore.json) |
+| Rungore: Beginner Experience | 214974 | [214974-rungore-beginner-experience.json](./214974-rungore-beginner-experience.json) |
 | RunGX mini | 391011 | [391011-rungx-mini.json](./391011-rungx-mini.json) |
 | Runi's Math Castle | 306337 | [306337-runis-math-castle.json](./306337-runis-math-castle.json) |
 | Runic | 215881 | [215881-runic.json](./215881-runic.json) |
