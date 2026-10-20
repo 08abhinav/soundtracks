@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natural Selection 2 - Deluxe DLC | 93808 | [93808-natural-selection-2-deluxe-dlc.json](./93808-natural-selection-2-deluxe-dlc.json) |
 | Natural Selection 2: Combat | 17566 | [17566-natural-selection-2-combat.json](./17566-natural-selection-2-combat.json) |
 | Natural Selection University | 335390 | [335390-natural-selection-university.json](./335390-natural-selection-university.json) |
+| Natural Spirit | 217192 | [217192-natural-spirit.json](./217192-natural-spirit.json) |
 | Natural Threat 2 | 53401 | [53401-natural-threat-2.json](./53401-natural-threat-2.json) |
 | Natural Threat: Ominous Shores | 54248 | [54248-natural-threat-ominous-shores.json](./54248-natural-threat-ominous-shores.json) |
 | Natural Unintelligence: Zueirama 2 | 345042 | [345042-natural-unintelligence-zueirama-2.json](./345042-natural-unintelligence-zueirama-2.json) |
@@ -1258,6 +1259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necrobrood | 270845 | [270845-necrobrood.json](./270845-necrobrood.json) |
 | Necrocat | 318009 | [318009-necrocat.json](./318009-necrocat.json) |
 | NecroCatic Clicker | 341362 | [341362-necrocatic-clicker.json](./341362-necrocatic-clicker.json) |
+| NecroCity | 217166 | [217166-necrocity.json](./217166-necrocity.json) |
 | Necrocrisis | 208427 | [208427-necrocrisis.json](./208427-necrocrisis.json) |
 | Necrodome | 8694 | [8694-necrodome.json](./8694-necrodome.json) |
 | Necrodungeon | 358278 | [358278-necrodungeon.json](./358278-necrodungeon.json) |
