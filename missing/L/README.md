@@ -379,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lagrange Point | 48576 | [48576-lagrange-point.json](./48576-lagrange-point.json) |
 | Lagsters | 109185 | [109185-lagsters.json](./109185-lagsters.json) |
 | Laguna Racer | 170525 | [170525-laguna-racer.json](./170525-laguna-racer.json) |
+| Lagunita | 228275 | [228275-lagunita.json](./228275-lagunita.json) |
 | Lái Shàng Dàxué ba! | 130149 | [130149-lai-shang-daxue-ba.json](./130149-lai-shang-daxue-ba.json) |
 | Laid-Back Camp All-in-one!! | 255095 | [255095-laid-back-camp-all-in-one.json](./255095-laid-back-camp-all-in-one.json) |
 | Laid-Back Camp: Camping Cook-Off! | 402936 | [402936-laid-back-camp-camping-cook-off.json](./402936-laid-back-camp-camping-cook-off.json) |
