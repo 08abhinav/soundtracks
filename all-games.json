@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T10:41:24.870Z",
-  "total_soundtracks": 2208,
+  "generated_at": "2026-10-20T10:41:38.378Z",
+  "total_soundtracks": 2209,
   "games": [
     {
       "igdb_id": 7522,
@@ -24236,6 +24236,20 @@
           "album_name": "Titanfall 2 (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6obLTHdJ6Dt2fubk4iP9QB",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 118044,
+      "game_name": "Tohu",
+      "game_url": "https://ostdb.net/games/tohu",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27326e53263f674a70cd21e398a",
+      "albums": [
+        {
+          "album_name": "Tohu (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0AuScMm1i44hdTvRIDjgF5",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
