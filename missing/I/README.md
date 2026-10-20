@@ -1320,6 +1320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IdleDiablo | 406143 | [406143-idlediablo.json](./406143-idlediablo.json) |
 | IdleDragon | 379011 | [379011-idledragon.json](./379011-idledragon.json) |
 | Idlemon | 390637 | [390637-idlemon.json](./390637-idlemon.json) |
+| Idlenetics | 233886 | [233886-idlenetics.json](./233886-idlenetics.json) |
 | IdleOn | 143440 | [143440-idleon.json](./143440-idleon.json) |
 | Idleplex | 261270 | [261270-idleplex.json](./261270-idleplex.json) |
 | Idlescape | 139325 | [139325-idlescape.json](./139325-idlescape.json) |
@@ -4252,6 +4253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ioretin | 349848 | [349848-ioretin.json](./349848-ioretin.json) |
 | Iosis | 224634 | [224634-iosis.json](./224634-iosis.json) |
 | IOSoccer | 82994 | [82994-iosoccer.json](./82994-iosoccer.json) |
+| IOUA | 233888 | [233888-ioua.json](./233888-ioua.json) |
 | Ipad Baby | 282808 | [282808-ipad-baby.json](./282808-ipad-baby.json) |
 | iPitch | 92081 | [92081-ipitch.json](./92081-ipitch.json) |
 | IPollute | 302754 | [302754-ipollute.json](./302754-ipollute.json) |
