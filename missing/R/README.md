@@ -5184,6 +5184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm of Earth | 375289 | [375289-rhythm-of-earth.json](./375289-rhythm-of-earth.json) |
 | Rhythm Overdrive | 114527 | [114527-rhythm-overdrive.json](./114527-rhythm-overdrive.json) |
 | Rhythm Party | 20232 | [20232-rhythm-party.json](./20232-rhythm-party.json) |
+| Rhythm Plus | 207148 | [207148-rhythm-plus.json](./207148-rhythm-plus.json) |
 | Rhythm Producer | 275708 | [275708-rhythm-producer.json](./275708-rhythm-producer.json) |
 | Rhythm Racer | 406108 | [406108-rhythm-racer.json](./406108-rhythm-racer.json) |
 | Rhythm Racer 2 | 235075 | [235075-rhythm-racer-2.json](./235075-rhythm-racer-2.json) |
