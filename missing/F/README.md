@@ -1821,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faraway 6: Galactic Escape | 140391 | [140391-faraway-6-galactic-escape.json](./140391-faraway-6-galactic-escape.json) |
 | Faraway Feathers | 388759 | [388759-faraway-feathers.json](./388759-faraway-feathers.json) |
 | Faraway Islands | 29885 | [29885-faraway-islands.json](./29885-faraway-islands.json) |
+| Faraway Proximity | 215566 | [215566-faraway-proximity.json](./215566-faraway-proximity.json) |
 | Faraway Story | 125409 | [125409-faraway-story.json](./125409-faraway-story.json) |
 | Faraway: Jungle Escape | 192883 | [192883-faraway-jungle-escape.json](./192883-faraway-jungle-escape.json) |
 | Faraway: Puzzle Escape | 101737 | [101737-faraway-puzzle-escape.json](./101737-faraway-puzzle-escape.json) |
@@ -1987,6 +1988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Up | 87693 | [87693-farm-up.json](./87693-farm-up.json) |
 | Farm Vet | 357386 | [357386-farm-vet.json](./357386-farm-vet.json) |
 | Farm Wars | 219291 | [219291-farm-wars.json](./219291-farm-wars.json) |
+| Farm Wars: The Farmer's Wrath | 215567 | [215567-farm-wars-the-farmers-wrath.json](./215567-farm-wars-the-farmers-wrath.json) |
 | Farm World | 36062 | [36062-farm-world.json](./36062-farm-world.json) |
 | Farm Your Friends | 132276 | [132276-farm-your-friends.json](./132276-farm-your-friends.json) |
 | Farm2 + | 406082 | [406082-farm2.json](./406082-farm2.json) |
@@ -2267,6 +2269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Lane Bowling | 198739 | [198739-fast-lane-bowling.json](./198739-fast-lane-bowling.json) |
 | Fast Lanes Bowling | 23782 | [23782-fast-lanes-bowling.json](./23782-fast-lanes-bowling.json) |
 | Fast Like A Fox | 55973 | [55973-fast-like-a-fox.json](./55973-fast-like-a-fox.json) |
+| Fast or Dead VR | 215568 | [215568-fast-or-dead-vr.json](./215568-fast-or-dead-vr.json) |
 | Fast Racing 3D | 380549 | [380549-fast-racing-3d.json](./380549-fast-racing-3d.json) |
 | Fast Rolling | 77178 | [77178-fast-rolling.json](./77178-fast-rolling.json) |
 | Fast Running | 311183 | [311183-fast-running.json](./311183-fast-running.json) |
@@ -4027,6 +4030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Project | 249676 | [249676-final-project.json](./249676-final-project.json) |
 | Final Quest | 31732 | [31732-final-quest.json](./31732-final-quest.json) |
 | Final Racing | 206761 | [206761-final-racing.json](./206761-final-racing.json) |
+| Final Recurrence | 215570 | [215570-final-recurrence.json](./215570-final-recurrence.json) |
 | Final Redoubt: Zombie Apocalypse | 329590 | [329590-final-redoubt-zombie-apocalypse.json](./329590-final-redoubt-zombie-apocalypse.json) |
 | Final Remedy | 236778 | [236778-final-remedy.json](./236778-final-remedy.json) |
 | Final Response | 323987 | [323987-final-response.json](./323987-final-response.json) |
@@ -5093,6 +5097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishmonger | 185539 | [185539-fishmonger.json](./185539-fishmonger.json) |
 | FishOmatic | 407332 | [407332-fishomatic.json](./407332-fishomatic.json) |
 | FishOnMC | 349950 | [349950-fishonmc.json](./349950-fishonmc.json) |
+| Fishori | 215571 | [215571-fishori.json](./215571-fishori.json) |
 | Fishos | 180763 | [180763-fishos.json](./180763-fishos.json) |
 | Fisht Fight | 367937 | [367937-fisht-fight.json](./367937-fisht-fight.json) |
 | Fishtank: Reality TV Simulator | 351159 | [351159-fishtank-reality-tv-simulator.json](./351159-fishtank-reality-tv-simulator.json) |
@@ -5404,8 +5409,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fix Me Fix You | 29301 | [29301-fix-me-fix-you.json](./29301-fix-me-fix-you.json) |
 | Fix My Car: Classic Muscle | 96833 | [96833-fix-my-car-classic-muscle.json](./96833-fix-my-car-classic-muscle.json) |
 | Fix My Car: Garage Wars - Furious Street Mechanics! | 70406 | [70406-fix-my-car-garage-wars-furious-street-mechanics.json](./70406-fix-my-car-garage-wars-furious-street-mechanics.json) |
+| Fix My Cat Doc | 215572 | [215572-fix-my-cat-doc.json](./215572-fix-my-cat-doc.json) |
 | Fix My Hand Doc | 219789 | [219789-fix-my-hand-doc.json](./219789-fix-my-hand-doc.json) |
 | Fix My Heart | 184835 | [184835-fix-my-heart.json](./184835-fix-my-heart.json) |
+| Fix My Legs Doc | 215573 | [215573-fix-my-legs-doc.json](./215573-fix-my-legs-doc.json) |
 | Fix My Truck: Offroad Pickup | 104670 | [104670-fix-my-truck-offroad-pickup.json](./104670-fix-my-truck-offroad-pickup.json) |
 | Fix Race | 90187 | [90187-fix-race.json](./90187-fix-race.json) |
 | Fix the Lab! | 265929 | [265929-fix-the-lab.json](./265929-fix-the-lab.json) |
@@ -5457,6 +5464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flagfights | 127721 | [127721-flagfights.json](./127721-flagfights.json) |
 | Flagged Down | 297076 | [297076-flagged-down.json](./297076-flagged-down.json) |
 | Flaghead | 400219 | [400219-flaghead.json](./400219-flaghead.json) |
+| Flagi | 215574 | [215574-flagi.json](./215574-flagi.json) |
 | Flagle | 246245 | [246245-flagle.json](./246245-flagle.json) |
 | Flagle | 246246 | [246246-flagle.json](./246246-flagle.json) |
 | Flagman | 76972 | [76972-flagman.json](./76972-flagman.json) |
@@ -5765,6 +5773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flekkia | 415300 | [415300-flekkia.json](./415300-flekkia.json) |
 | Flem | 35960 | [35960-flem.json](./35960-flem.json) |
 | Flempire | 224248 | [224248-flempire.json](./224248-flempire.json) |
+| Flerp | 215575 | [215575-flerp.json](./215575-flerp.json) |
 | Flesh | 216244 | [216244-flesh.json](./216244-flesh.json) |
 | Flesh & Spirit | 383365 | [383365-flesh-and-spirit.json](./383365-flesh-and-spirit.json) |
 | Flesh & Wire | 392820 | [392820-flesh-and-wire.json](./392820-flesh-and-wire.json) |
@@ -6702,6 +6711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fold | 115403 | [115403-fold.json](./115403-fold.json) |
 | Fold | 263926 | [263926-fold.json](./263926-fold.json) |
 | Fold & Cut | 255744 | [255744-fold-and-cut.json](./255744-fold-and-cut.json) |
+| Fold Stories | 215576 | [215576-fold-stories.json](./215576-fold-stories.json) |
 | Fold the World | 348800 | [348800-fold-the-world.json](./348800-fold-the-world.json) |
 | Folded Fables: Tidy Up The Dragon Hoard | 420591 | [420591-folded-fables-tidy-up-the-dragon-hoard.json](./420591-folded-fables-tidy-up-the-dragon-hoard.json) |
 | Folder Dungeon | 267357 | [267357-folder-dungeon.json](./267357-folder-dungeon.json) |
@@ -7329,6 +7339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Survival | 109382 | [109382-forest-survival.json](./109382-forest-survival.json) |
 | Forest Survival | 381032 | [381032-forest-survival.json](./381032-forest-survival.json) |
 | Forest Time | 373517 | [373517-forest-time.json](./373517-forest-time.json) |
+| Forest Tower Defense | 215578 | [215578-forest-tower-defense.json](./215578-forest-tower-defense.json) |
 | Forest Walk | 311142 | [311142-forest-walk.json](./311142-forest-walk.json) |
 | Forest Warden | 347496 | [347496-forest-warden.json](./347496-forest-warden.json) |
 | Forest Whiskers | 383948 | [383948-forest-whiskers.json](./383948-forest-whiskers.json) |
@@ -7345,6 +7356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forestry: The Simulation | 147858 | [147858-forestry-the-simulation.json](./147858-forestry-the-simulation.json) |
 | Forests Are For Trees | 107021 | [107021-forests-are-for-trees.json](./107021-forests-are-for-trees.json) |
 | Forests of Augusta | 104035 | [104035-forests-of-augusta.json](./104035-forests-of-augusta.json) |
+| Forests, Fields and Fortresses | 215577 | [215577-forests-fields-and-fortresses.json](./215577-forests-fields-and-fortresses.json) |
 | Forêt de Nuages | 218302 | [218302-foret-de-nuages.json](./218302-foret-de-nuages.json) |
 | Forêt Éternelle | 187362 | [187362-foret-eternelle.json](./187362-foret-eternelle.json) |
 | Foretales | 195096 | [195096-foretales.json](./195096-foretales.json) |
@@ -7955,6 +7967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forward Assault | 140491 | [140491-forward-assault.json](./140491-forward-assault.json) |
 | Forward March: Attack! Deluxe | 25106 | [25106-forward-march-attack-deluxe.json](./25106-forward-march-attack-deluxe.json) |
 | Forward Motion | 366378 | [366378-forward-motion.json](./366378-forward-motion.json) |
+| Forward Team | 215579 | [215579-forward-team.json](./215579-forward-team.json) |
 | Forward to the Past | 396034 | [396034-forward-to-the-past.json](./396034-forward-to-the-past.json) |
 | Forward Toward Uranus X | 401897 | [401897-forward-toward-uranus-x.json](./401897-forward-toward-uranus-x.json) |
 | Forward Winds | 206594 | [206594-forward-winds.json](./206594-forward-winds.json) |
@@ -8275,6 +8288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foxy Go Go Go! | 397232 | [397232-foxy-go-go-go.json](./397232-foxy-go-go-go.json) |
 | Foxy Jumper 2 | 255647 | [255647-foxy-jumper-2.json](./255647-foxy-jumper-2.json) |
 | Foxy Jumper 2: Winter Adventures | 255648 | [255648-foxy-jumper-2-winter-adventures.json](./255648-foxy-jumper-2-winter-adventures.json) |
+| Foxy Land 2 | 215554 | [215554-foxy-land-2.json](./215554-foxy-land-2.json) |
 | Foxy Tales | 276674 | [276674-foxy-tales.json](./276674-foxy-tales.json) |
 | Foxy the First Steps | 409412 | [409412-foxy-the-first-steps.json](./409412-foxy-the-first-steps.json) |
 | Foxy Trouble | 374444 | [374444-foxy-trouble.json](./374444-foxy-trouble.json) |
