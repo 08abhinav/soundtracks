@@ -1969,6 +1969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makoto Mobius | 150152 | [150152-makoto-mobius.json](./150152-makoto-mobius.json) |
 | Makoto Wakaido's Case Files: Executioner's Wedge | 245045 | [245045-makoto-wakaidos-case-files-executioners-wedge.json](./245045-makoto-wakaidos-case-files-executioners-wedge.json) |
 | Makoto Wakaido's Case Files: Phantom's Foot | 151811 | [151811-makoto-wakaidos-case-files-phantoms-foot.json](./151811-makoto-wakaidos-case-files-phantoms-foot.json) |
+| Maku | 209341 | [209341-maku.json](./209341-maku.json) |
 | Makutsu no Liliane | 310120 | [310120-makutsu-no-liliane.json](./310120-makutsu-no-liliane.json) |
 | Makyou Densetsu | 37674 | [37674-makyou-densetsu.json](./37674-makyou-densetsu.json) |
 | Makyouden | 92122 | [92122-makyouden.json](./92122-makyouden.json) |
