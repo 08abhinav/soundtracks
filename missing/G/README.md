@@ -669,6 +669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Fräulein Yuna Remix | 216420 | [216420-galaxy-fraulein-yuna-remix.json](./216420-galaxy-fraulein-yuna-remix.json) |
 | Galaxy Fräulein Yuna: Final Edition | 280845 | [280845-galaxy-fraulein-yuna-final-edition.json](./280845-galaxy-fraulein-yuna-final-edition.json) |
 | Galaxy Game | 11396 | [11396-galaxy-game.json](./11396-galaxy-game.json) |
+| Galaxy Games StarPak 2 | 219439 | [219439-galaxy-games-starpak-2.json](./219439-galaxy-games-starpak-2.json) |
 | Galaxy Genome | 174279 | [174279-galaxy-genome.json](./174279-galaxy-genome.json) |
 | Galaxy Girls | 30394 | [30394-galaxy-girls.json](./30394-galaxy-girls.json) |
 | Galaxy Glory | 176184 | [176184-galaxy-glory.json](./176184-galaxy-glory.json) |
