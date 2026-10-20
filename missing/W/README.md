@@ -2881,6 +2881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's in the Attic? | 140593 | [140593-whats-in-the-attic.json](./140593-whats-in-the-attic.json) |
 | What's in the Picture: Animals | 23983 | [23983-whats-in-the-picture-animals.json](./23983-whats-in-the-picture-animals.json) |
 | What's Inside?? | 149467 | [149467-whats-inside.json](./149467-whats-inside.json) |
+| What's it? Flags | 241194 | [241194-whats-it-flags.json](./241194-whats-it-flags.json) |
 | What's left of Rave Rough | 316468 | [316468-whats-left-of-rave-rough.json](./316468-whats-left-of-rave-rough.json) |
 | What's Michael? | 91763 | [91763-whats-michael.json](./91763-whats-michael.json) |
 | What's Missing? | 204981 | [204981-whats-missing.json](./204981-whats-missing.json) |
@@ -5552,6 +5553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Bump | 148291 | [148291-word-bump.json](./148291-word-bump.json) |
 | Word Cafe 21 | 232065 | [232065-word-cafe-21.json](./232065-word-cafe-21.json) |
 | Word Carnivale | 112210 | [112210-word-carnivale.json](./112210-word-carnivale.json) |
+| Word Cats | 241195 | [241195-word-cats.json](./241195-word-cats.json) |
 | Word Challenge | 342250 | [342250-word-challenge.json](./342250-word-challenge.json) |
 | Word Chaos | 217984 | [217984-word-chaos.json](./217984-word-chaos.json) |
 | Word Charades | 396009 | [396009-word-charades.json](./396009-word-charades.json) |
@@ -5603,6 +5605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Mesh | 120072 | [120072-word-mesh.json](./120072-word-mesh.json) |
 | Word Mess | 91982 | [91982-word-mess.json](./91982-word-mess.json) |
 | Word Monaco | 205881 | [205881-word-monaco.json](./205881-word-monaco.json) |
+| Word Monsters | 241196 | [241196-word-monsters.json](./241196-word-monsters.json) |
 | Word Munchers | 82151 | [82151-word-munchers.json](./82151-word-munchers.json) |
 | Word of Kitchen | 190702 | [190702-word-of-kitchen.json](./190702-word-of-kitchen.json) |
 | Word of Mouth Stories | 152991 | [152991-word-of-mouth-stories.json](./152991-word-of-mouth-stories.json) |
@@ -5688,6 +5691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Tropics - Free Word Games and Puzzles | 106656 | [106656-word-tropics-free-word-games-and-puzzles.json](./106656-word-tropics-free-word-games-and-puzzles.json) |
 | Word Tuah | 338303 | [338303-word-tuah.json](./338303-word-tuah.json) |
 | Word Turtle Island | 301082 | [301082-word-turtle-island.json](./301082-word-turtle-island.json) |
+| Word Twist! | 241197 | [241197-word-twist.json](./241197-word-twist.json) |
 | Word U | 104600 | [104600-word-u.json](./104600-word-u.json) |
 | Word Vs Picture | 232478 | [232478-word-vs-picture.json](./232478-word-vs-picture.json) |
 | Word Waffle - Word Swipe Game | 107048 | [107048-word-waffle-word-swipe-game.json](./107048-word-waffle-word-swipe-game.json) |
