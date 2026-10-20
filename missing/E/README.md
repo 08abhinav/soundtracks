@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earl Mansin: The Breakout | 70021 | [70021-earl-mansin-the-breakout.json](./70021-earl-mansin-the-breakout.json) |
 | Earl vs. the Mutants | 267803 | [267803-earl-vs-the-mutants.json](./267803-earl-vs-the-mutants.json) |
 | Earl Weaver Baseball II | 66097 | [66097-earl-weaver-baseball-ii.json](./66097-earl-weaver-baseball-ii.json) |
+| Earl's Minecart Adventures | 237218 | [237218-earls-minecart-adventures.json](./237218-earls-minecart-adventures.json) |
 | Early Bird | 368229 | [368229-early-bird.json](./368229-early-bird.json) |
 | Early Kingdom | 363411 | [363411-early-kingdom.json](./363411-early-kingdom.json) |
 | Early Mellow | 296394 | [296394-early-mellow.json](./296394-early-mellow.json) |
@@ -2697,6 +2698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ending Way | 189198 | [189198-ending-way.json](./189198-ending-way.json) |
 | Endings | 165668 | [165668-endings.json](./165668-endings.json) |
 | Endless Ages | 69777 | [69777-endless-ages.json](./69777-endless-ages.json) |
+| Endless Alice | 237223 | [237223-endless-alice.json](./237223-endless-alice.json) |
 | Endless Alice Crysis: Ai to Dokuyaku | 204988 | [204988-endless-alice-crysis-ai-to-dokuyaku.json](./204988-endless-alice-crysis-ai-to-dokuyaku.json) |
 | Endless Alice: Nana-iro Mahoutsukai Kiki Ippatsu! | 204986 | [204986-endless-alice-nana-iro-mahoutsukai-kiki-ippatsu.json](./204986-endless-alice-nana-iro-mahoutsukai-kiki-ippatsu.json) |
 | Endless Anime Golf | 245773 | [245773-endless-anime-golf.json](./245773-endless-anime-golf.json) |
@@ -4207,6 +4209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape! | 89659 | [89659-escape.json](./89659-escape.json) |
 | Escape! Skeleton.J | 254409 | [254409-escape-skeleton-j.json](./254409-escape-skeleton-j.json) |
 | Escape! Sloths and Palm Trees Island | 174625 | [174625-escape-sloths-and-palm-trees-island.json](./174625-escape-sloths-and-palm-trees-island.json) |
+| Escape!! | 237219 | [237219-escape.json](./237219-escape.json) |
 | Escape!!! | 213526 | [213526-escape.json](./213526-escape.json) |
 | Escape30DayCircle | 360650 | [360650-escape30daycircle.json](./360650-escape30daycircle.json) |
 | Escaped Chasm | 116988 | [116988-escaped-chasm.json](./116988-escaped-chasm.json) |
