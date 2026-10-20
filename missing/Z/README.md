@@ -1008,6 +1008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZombFarm | 315936 | [315936-zombfarm.json](./315936-zombfarm.json) |
 | Zombi | 2279 | [2279-zombi.json](./2279-zombi.json) |
 | Zombi Rockstar | 245844 | [245844-zombi-rockstar.json](./245844-zombi-rockstar.json) |
+| Zombiax Evil | 249600 | [249600-zombiax-evil.json](./249600-zombiax-evil.json) |
 | Zombidle | 70384 | [70384-zombidle.json](./70384-zombidle.json) |
 | Zombidle: Remonstered | 36968 | [36968-zombidle-remonstered.json](./36968-zombidle-remonstered.json) |
 | Zombie | 26894 | [26894-zombie.json](./26894-zombie.json) |
