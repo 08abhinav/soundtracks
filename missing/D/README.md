@@ -1378,6 +1378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Side of the Moon: A Sci-Fi Adventure | 68744 | [68744-dark-side-of-the-moon-a-sci-fi-adventure.json](./68744-dark-side-of-the-moon-a-sci-fi-adventure.json) |
 | Dark Side of War | 150599 | [150599-dark-side-of-war.json](./150599-dark-side-of-war.json) |
 | Dark Siege: The First Knight | 192677 | [192677-dark-siege-the-first-knight.json](./192677-dark-siege-the-first-knight.json) |
+| Dark Siren | 227716 | [227716-dark-siren.json](./227716-dark-siren.json) |
 | Dark Skies 2: Keepers of Nemansk | 296689 | [296689-dark-skies-2-keepers-of-nemansk.json](./296689-dark-skies-2-keepers-of-nemansk.json) |
 | Dark Skies: The Nemansk Incident | 126971 | [126971-dark-skies-the-nemansk-incident.json](./126971-dark-skies-the-nemansk-incident.json) |
 | Dark Sky | 290393 | [290393-dark-sky.json](./290393-dark-sky.json) |
@@ -9528,6 +9529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donuts in Space | 254060 | [254060-donuts-in-space.json](./254060-donuts-in-space.json) |
 | Donuts Runner | 251839 | [251839-donuts-runner.json](./251839-donuts-runner.json) |
 | Donuts! | 344801 | [344801-donuts.json](./344801-donuts.json) |
+| Doobi's Adventure | 227694 | [227694-doobis-adventure.json](./227694-doobis-adventure.json) |
 | Doobie | 341112 | [341112-doobie.json](./341112-doobie.json) |
 | Dooblets | 302657 | [302657-dooblets.json](./302657-dooblets.json) |
 | Dood's Big Adventure | 18255 | [18255-doods-big-adventure.json](./18255-doods-big-adventure.json) |
@@ -10283,6 +10285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doug The Digger | 347187 | [347187-doug-the-digger.json](./347187-doug-the-digger.json) |
 | Doug's Nightmare | 236397 | [236397-dougs-nightmare.json](./236397-dougs-nightmare.json) |
 | Douga de Kiku Ano Kyoku no Rhythm Game | 301980 | [301980-douga-de-kiku-ano-kyoku-no-rhythm-game.json](./301980-douga-de-kiku-ano-kyoku-no-rhythm-game.json) |
+| Douga de Puzzle da! Puppukupuu | 227681 | [227681-douga-de-puzzle-da-puppukupuu.json](./227681-douga-de-puzzle-da-puppukupuu.json) |
 | DougDoug's Basement: How I Got a Sea Otter A Promotion! | 326757 | [326757-dougdougs-basement-how-i-got-a-sea-otter-a-promotion.json](./326757-dougdougs-basement-how-i-got-a-sea-otter-a-promotion.json) |
 | Dough Boy | 40956 | [40956-dough-boy.json](./40956-dough-boy.json) |
 | Dough Slapping: A Touch to Desire | 341165 | [341165-dough-slapping-a-touch-to-desire.json](./341165-dough-slapping-a-touch-to-desire.json) |
@@ -10822,6 +10825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Infinite World | 2570 | [2570-dragon-ball-z-infinite-world.json](./2570-dragon-ball-z-infinite-world.json) |
 | Dragon Ball Z: Kakarot | 114009 | [114009-dragon-ball-z-kakarot.json](./114009-dragon-ball-z-kakarot.json) |
 | Dragon Ball Z: Kakarot - A New Power Awakens: Part 2 | 141042 | [141042-dragon-ball-z-kakarot-a-new-power-awakens-part-2.json](./141042-dragon-ball-z-kakarot-a-new-power-awakens-part-2.json) |
+| Dragon Ball Z: Kakarot - Bardock: Alone Against Fate | 227674 | [227674-dragon-ball-z-kakarot-bardock-alone-against-fate.json](./227674-dragon-ball-z-kakarot-bardock-alone-against-fate.json) |
 | Dragon Ball Z: Kakarot - Daima Edition | 386957 | [386957-dragon-ball-z-kakarot-daima-edition.json](./386957-dragon-ball-z-kakarot-daima-edition.json) |
 | Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Bonus Pack | 333619 | [333619-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-bonus-pack.json](./333619-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-bonus-pack.json) |
 | Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Pack | 333616 | [333616-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-pack.json](./333616-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-pack.json) |
