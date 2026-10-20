@@ -2729,7 +2729,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screamboat Willie | 291464 | [291464-screamboat-willie.json](./291464-screamboat-willie.json) |
 | ScreamCap | 190723 | [190723-screamcap.json](./190723-screamcap.json) |
 | Screamdown | 265098 | [265098-screamdown.json](./265098-screamdown.json) |
-| Screamer | 7140 | [7140-screamer.json](./7140-screamer.json) |
 | Screamer 2 | 7141 | [7141-screamer-2.json](./7141-screamer-2.json) |
 | Screamer Rally | 7142 | [7142-screamer-rally.json](./7142-screamer-rally.json) |
 | Screaming Abdabs | 137425 | [137425-screaming-abdabs.json](./137425-screaming-abdabs.json) |
