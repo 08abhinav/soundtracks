@@ -6145,6 +6145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromb | 316398 | [316398-chromb.json](./316398-chromb.json) |
 | Chrome Carnage | 398345 | [398345-chrome-carnage.json](./398345-chrome-carnage.json) |
 | Chrome Death | 259247 | [259247-chrome-death.json](./259247-chrome-death.json) |
+| Chrome Sweat | 251975 | [251975-chrome-sweat.json](./251975-chrome-sweat.json) |
 | Chrome Switcher | 148490 | [148490-chrome-switcher.json](./148490-chrome-switcher.json) |
 | Chrome Wars | 235244 | [235244-chrome-wars.json](./235244-chrome-wars.json) |
 | ChromeRivals | 179983 | [179983-chromerivals.json](./179983-chromerivals.json) |
@@ -11828,6 +11829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cracked | 265432 | [265432-cracked.json](./265432-cracked.json) |
 | Cracked Up | 164961 | [164961-cracked-up.json](./164961-cracked-up.json) |
 | Crackheads | 396342 | [396342-crackheads.json](./396342-crackheads.json) |
+| Crackin' Smackin | 251960 | [251960-crackin-smackin.json](./251960-crackin-smackin.json) |
 | Cracking Sands | 64481 | [64481-cracking-sands.json](./64481-cracking-sands.json) |
 | Cracking the Cryptic | 211958 | [211958-cracking-the-cryptic.json](./211958-cracking-the-cryptic.json) |
 | Cracking the Cryptic: GAS Volume #1 | 280875 | [280875-cracking-the-cryptic-gas-volume-1.json](./280875-cracking-the-cryptic-gas-volume-1.json) |
@@ -12640,6 +12642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creatures of Aether | 139140 | [139140-creatures-of-aether.json](./139140-creatures-of-aether.json) |
 | Creatures of Ava: Deluxe Edition | 312976 | [312976-creatures-of-ava-deluxe-edition.json](./312976-creatures-of-ava-deluxe-edition.json) |
 | Creatures of Ava: WDC Charity Backpack Trinkets Set | 312835 | [312835-creatures-of-ava-wdc-charity-backpack-trinkets-set.json](./312835-creatures-of-ava-wdc-charity-backpack-trinkets-set.json) |
+| Creatures of Ravenwood | 251969 | [251969-creatures-of-ravenwood.json](./251969-creatures-of-ravenwood.json) |
 | Creatures of the Night | 335391 | [335391-creatures-of-the-night.json](./335391-creatures-of-the-night.json) |
 | Creatures of War | 217338 | [217338-creatures-of-war.json](./217338-creatures-of-war.json) |
 | Creatures Playground | 11378 | [11378-creatures-playground.json](./11378-creatures-playground.json) |
@@ -13927,6 +13930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Story: The Hero and the Evil Witch | 133357 | [133357-crystal-story-the-hero-and-the-evil-witch.json](./133357-crystal-story-the-hero-and-the-evil-witch.json) |
 | Crystal Survivor | 297882 | [297882-crystal-survivor.json](./297882-crystal-survivor.json) |
 | Crystal the Witch | 133705 | [133705-crystal-the-witch.json](./133705-crystal-the-witch.json) |
+| Crystal Tower Defense | 251998 | [251998-crystal-tower-defense.json](./251998-crystal-tower-defense.json) |
 | Crystal Towers | 73164 | [73164-crystal-towers.json](./73164-crystal-towers.json) |
 | Crystal Towers 2 XL | 46642 | [46642-crystal-towers-2-xl.json](./46642-crystal-towers-2-xl.json) |
 | Crystal Vale: Dino Escape | 387662 | [387662-crystal-vale-dino-escape.json](./387662-crystal-vale-dino-escape.json) |
@@ -14079,6 +14083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Battler: Debugger Shou-hen | 70874 | [70874-cube-battler-debugger-shou-hen.json](./70874-cube-battler-debugger-shou-hen.json) |
 | Cube Burst 3D | 387740 | [387740-cube-burst-3d.json](./387740-cube-burst-3d.json) |
 | Cube Chase | 129202 | [129202-cube-chase.json](./129202-cube-chase.json) |
+| Cube Clash: Rumble and Smash | 251966 | [251966-cube-clash-rumble-and-smash.json](./251966-cube-clash-rumble-and-smash.json) |
 | Cube Clones | 151681 | [151681-cube-clones.json](./151681-cube-clones.json) |
 | Cube Color | 75658 | [75658-cube-color.json](./75658-cube-color.json) |
 | Cube Conflict | 167569 | [167569-cube-conflict.json](./167569-cube-conflict.json) |
