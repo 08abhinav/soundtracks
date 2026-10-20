@@ -2233,6 +2233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Bros | 336068 | [336068-baseball-bros.json](./336068-baseball-bros.json) |
 | Baseball Card Shop Simulator | 349428 | [349428-baseball-card-shop-simulator.json](./349428-baseball-card-shop-simulator.json) |
 | Baseball Champion League 2019 | 220204 | [220204-baseball-champion-league-2019.json](./220204-baseball-champion-league-2019.json) |
+| Baseball Clash | 234457 | [234457-baseball-clash.json](./234457-baseball-clash.json) |
 | Baseball Dreams VR | 376270 | [376270-baseball-dreams-vr.json](./376270-baseball-dreams-vr.json) |
 | Baseball Fighter | 48615 | [48615-baseball-fighter.json](./48615-baseball-fighter.json) |
 | Baseball for the Tomy Tutor | 131456 | [131456-baseball-for-the-tomy-tutor.json](./131456-baseball-for-the-tomy-tutor.json) |
@@ -2995,6 +2996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Recruits | 252564 | [252564-battle-recruits.json](./252564-battle-recruits.json) |
 | Battle Riders | 28281 | [28281-battle-riders.json](./28281-battle-riders.json) |
 | Battle Rift | 211428 | [211428-battle-rift.json](./211428-battle-rift.json) |
+| Battle Rivals | 234453 | [234453-battle-rivals.json](./234453-battle-rivals.json) |
 | Battle Robot Damashii | 63833 | [63833-battle-robot-damashii.json](./63833-battle-robot-damashii.json) |
 | Battle Robot Retsuden | 44424 | [44424-battle-robot-retsuden.json](./44424-battle-robot-retsuden.json) |
 | Battle Robots | 226256 | [226256-battle-robots.json](./226256-battle-robots.json) |
@@ -3005,6 +3007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Royale | 8938 | [8938-battle-royale.json](./8938-battle-royale.json) |
 | Battle Royale : Survival.io Zombie | 100800 | [100800-battle-royale-survival-io-zombie.json](./100800-battle-royale-survival-io-zombie.json) |
 | Battle Royale Manager | 365253 | [365253-battle-royale-manager.json](./365253-battle-royale-manager.json) |
+| Battle Royale Run | 234478 | [234478-battle-royale-run.json](./234478-battle-royale-run.json) |
 | Battle Royale Survival | 107811 | [107811-battle-royale-survival.json](./107811-battle-royale-survival.json) |
 | Battle Royale Trainer | 80451 | [80451-battle-royale-trainer.json](./80451-battle-royale-trainer.json) |
 | Battle Royale Tycoon | 103608 | [103608-battle-royale-tycoon.json](./103608-battle-royale-tycoon.json) |
@@ -8020,6 +8023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocks and Bones | 270028 | [270028-blocks-and-bones.json](./270028-blocks-and-bones.json) |
 | Blocks and Ropes | 224092 | [224092-blocks-and-ropes.json](./224092-blocks-and-ropes.json) |
 | Blocks Challenge | 315771 | [315771-blocks-challenge.json](./315771-blocks-challenge.json) |
+| Blocks Crush | 234458 | [234458-blocks-crush.json](./234458-blocks-crush.json) |
 | Blocks for Babies | 284014 | [284014-blocks-for-babies.json](./284014-blocks-for-babies.json) |
 | Blocks Mania | 66385 | [66385-blocks-mania.json](./66385-blocks-mania.json) |
 | Blocks Must Fall! | 190410 | [190410-blocks-must-fall.json](./190410-blocks-must-fall.json) |
@@ -9378,6 +9382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber 95 | 106506 | [106506-bomber-95.json](./106506-bomber-95.json) |
 | Bomber Barn | 113497 | [113497-bomber-barn.json](./113497-bomber-barn.json) |
 | Bomber Baron | 15683 | [15683-bomber-baron.json](./15683-bomber-baron.json) |
+| Bomber Battle : Bomb Man Arena | 234440 | [234440-bomber-battle-bomb-man-arena.json](./234440-bomber-battle-bomb-man-arena.json) |
 | Bomber Bob | 14331 | [14331-bomber-bob.json](./14331-bomber-bob.json) |
 | Bomber Bother | 123950 | [123950-bomber-bother.json](./123950-bomber-bother.json) |
 | Bomber Cat Run | 317860 | [317860-bomber-cat-run.json](./317860-bomber-cat-run.json) |
