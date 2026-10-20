@@ -980,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic School Bus Lands on Mars | 74082 | [74082-magic-school-bus-lands-on-mars.json](./74082-magic-school-bus-lands-on-mars.json) |
 | Magic School Bus Volcano Adventure | 69818 | [69818-magic-school-bus-volcano-adventure.json](./69818-magic-school-bus-volcano-adventure.json) |
 | Magic School Bus Whales and Dolphins | 71579 | [71579-magic-school-bus-whales-and-dolphins.json](./71579-magic-school-bus-whales-and-dolphins.json) |
+| Magic School Story | 241811 | [241811-magic-school-story.json](./241811-magic-school-story.json) |
 | Magic Scroll | 278543 | [278543-magic-scroll.json](./278543-magic-scroll.json) |
 | Magic Scroll Tactics | 96946 | [96946-magic-scroll-tactics.json](./96946-magic-scroll-tactics.json) |
 | Magic Seeker: A Mimic's Odyssey - Chapter 1 | 291718 | [291718-magic-seeker-a-mimics-odyssey-chapter-1.json](./291718-magic-seeker-a-mimics-odyssey-chapter-1.json) |
@@ -6994,6 +6995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Wood | 220181 | [220181-merge-wood.json](./220181-merge-wood.json) |
 | Merge Your Room: Extended Edition | 231259 | [231259-merge-your-room-extended-edition.json](./231259-merge-your-room-extended-edition.json) |
 | Merge Zoo | 224105 | [224105-merge-zoo.json](./224105-merge-zoo.json) |
+| Merged Gravity Redux | 241790 | [241790-merged-gravity-redux.json](./241790-merged-gravity-redux.json) |
 | Merger 3D | 31338 | [31338-merger-3d.json](./31338-merger-3d.json) |
 | Mergery | 358354 | [358354-mergery.json](./358354-mergery.json) |
 | MergeZ | 300849 | [300849-mergez.json](./300849-mergez.json) |
@@ -8848,6 +8850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimi | 202315 | [202315-mimi.json](./202315-mimi.json) |
 | Mimi & The Mites | 73870 | [73870-mimi-and-the-mites.json](./73870-mimi-and-the-mites.json) |
 | Mimi and animals | 229008 | [229008-mimi-and-animals.json](./229008-mimi-and-animals.json) |
+| Mimi and Lisa | 241787 | [241787-mimi-and-lisa.json](./241787-mimi-and-lisa.json) |
 | Mimi in Meowndering House | 385290 | [385290-mimi-in-meowndering-house.json](./385290-mimi-in-meowndering-house.json) |
 | Mimi in The Sky | 267374 | [267374-mimi-in-the-sky.json](./267374-mimi-in-the-sky.json) |
 | Mimi the Cat: Meow Together | 264783 | [264783-mimi-the-cat-meow-together.json](./264783-mimi-the-cat-meow-together.json) |
@@ -14071,6 +14074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MTV's Beavis and Butt-Head: Wiener Takes All | 66094 | [66094-mtvs-beavis-and-butt-head-wiener-takes-all.json](./66094-mtvs-beavis-and-butt-head-wiener-takes-all.json) |
 | MTV's Club Dead | 69773 | [69773-mtvs-club-dead.json](./69773-mtvs-club-dead.json) |
 | MTX Mototrax | 5935 | [5935-mtx-mototrax.json](./5935-mtx-mototrax.json) |
+| Mu Jiang | 241211 | [241211-mu-jiang.json](./241211-mu-jiang.json) |
 | MU Legend | 57366 | [57366-mu-legend.json](./57366-mu-legend.json) |
 | Mu Old Times | 331948 | [331948-mu-old-times.json](./331948-mu-old-times.json) |
 | Mu Origin 2 | 118923 | [118923-mu-origin-2.json](./118923-mu-origin-2.json) |
@@ -15004,6 +15008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Cat Club: Collect Kittens | 259971 | [259971-my-cat-club-collect-kittens.json](./259971-my-cat-club-collect-kittens.json) |
 | My Cat Girlfriend | 299598 | [299598-my-cat-girlfriend.json](./299598-my-cat-girlfriend.json) |
 | My Cat Town | 299208 | [299208-my-cat-town.json](./299208-my-cat-town.json) |
+| My Cat-Grandma vs. Vampire | 241821 | [241821-my-cat-grandma-vs-vampire.json](./241821-my-cat-grandma-vs-vampire.json) |
 | My Cat: Virtual Pet Simulator | 331358 | [331358-my-cat-virtual-pet-simulator.json](./331358-my-cat-virtual-pet-simulator.json) |
 | My Catgirl Maid Thinks She Runs the Place | 152298 | [152298-my-catgirl-maid-thinks-she-runs-the-place.json](./152298-my-catgirl-maid-thinks-she-runs-the-place.json) |
 | My Chameleon Girlfriend | 223691 | [223691-my-chameleon-girlfriend.json](./223691-my-chameleon-girlfriend.json) |
