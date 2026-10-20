@@ -20099,6 +20099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Healing Nature | 255135 | [255135-touhou-healing-nature.json](./255135-touhou-healing-nature.json) |
 | Touhou Heardle | 205617 | [205617-touhou-heardle.json](./205617-touhou-heardle.json) |
 | Touhou Heisatsu Yuugi | 294407 | [294407-touhou-heisatsu-yuugi.json](./294407-touhou-heisatsu-yuugi.json) |
+| Touhou Hero of Ice Fairy | 207662 | [207662-touhou-hero-of-ice-fairy.json](./207662-touhou-hero-of-ice-fairy.json) |
 | Touhou Hero of Ice Fairy: Immortal Phoenix And Lunarian Princess | 402554 | [402554-touhou-hero-of-ice-fairy-immortal-phoenix-and-lunarian-princess.json](./402554-touhou-hero-of-ice-fairy-immortal-phoenix-and-lunarian-princess.json) |
 | Touhou Hisouten: Scarlet Weather Rhapsody | 27160 | [27160-touhou-hisouten-scarlet-weather-rhapsody.json](./27160-touhou-hisouten-scarlet-weather-rhapsody.json) |
 | Touhou Hisoutensoku: Choudokyuu Ginyoru no Nazo wo Oe | 27157 | [27157-touhou-hisoutensoku-choudokyuu-ginyoru-no-nazo-wo-oe.json](./27157-touhou-hisoutensoku-choudokyuu-ginyoru-no-nazo-wo-oe.json) |
@@ -24462,6 +24463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Kids | 240348 | [240348-turbo-kids.json](./240348-turbo-kids.json) |
 | Turbo Leaper | 266204 | [266204-turbo-leaper.json](./266204-turbo-leaper.json) |
 | Turbo Learning: Mega Math | 148128 | [148128-turbo-learning-mega-math.json](./148128-turbo-learning-mega-math.json) |
+| Turbo Light Rush | 207707 | [207707-turbo-light-rush.json](./207707-turbo-light-rush.json) |
 | Turbo Live | 318765 | [318765-turbo-live.json](./318765-turbo-live.json) |
 | Turbo Loop | 406952 | [406952-turbo-loop.json](./406952-turbo-loop.json) |
 | Turbo OutRun | 2053 | [2053-turbo-outrun.json](./2053-turbo-outrun.json) |
