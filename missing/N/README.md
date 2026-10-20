@@ -949,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nazono-Jikenbo: Senjou no Shoushitsu Jiken | 349500 | [349500-nazono-jikenbo-senjou-no-shoushitsu-jiken.json](./349500-nazono-jikenbo-senjou-no-shoushitsu-jiken.json) |
 | Nazono-Jikenbo: Shinjuku Renzoku Quiz Jiken | 349506 | [349506-nazono-jikenbo-shinjuku-renzoku-quiz-jiken.json](./349506-nazono-jikenbo-shinjuku-renzoku-quiz-jiken.json) |
 | Nazono-Jikenbo: The Composer Murder Case. | 349510 | [349510-nazono-jikenbo-the-composer-murder-case.json](./349510-nazono-jikenbo-the-composer-murder-case.json) |
+| Nazoritas Addictive Puzzle | 206558 | [206558-nazoritas-addictive-puzzle.json](./206558-nazoritas-addictive-puzzle.json) |
 | Nazotoki IQ Quiz | 261372 | [261372-nazotoki-iq-quiz.json](./261372-nazotoki-iq-quiz.json) |
 | Nazotoki Mail | 218986 | [218986-nazotoki-mail.json](./218986-nazotoki-mail.json) |
 | Nazotoki Mail 2 | 222239 | [222239-nazotoki-mail-2.json](./222239-nazotoki-mail-2.json) |
