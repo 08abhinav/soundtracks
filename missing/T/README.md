@@ -5069,6 +5069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Booty Creek Cheek Freak | 303318 | [303318-the-booty-creek-cheek-freak.json](./303318-the-booty-creek-cheek-freak.json) |
 | The Booze of Monkey Island | 321206 | [321206-the-booze-of-monkey-island.json](./321206-the-booze-of-monkey-island.json) |
 | The Borderless | 406117 | [406117-the-borderless.json](./406117-the-borderless.json) |
+| The Boss | 245161 | [245161-the-boss.json](./245161-the-boss.json) |
 | The Boss Baby: Get That Baby! | 256853 | [256853-the-boss-baby-get-that-baby.json](./256853-the-boss-baby-get-that-baby.json) |
 | The Boss Gangster: Criminal Empire - From the Streets | 400956 | [400956-the-boss-gangster-criminal-empire-from-the-streets.json](./400956-the-boss-gangster-criminal-empire-from-the-streets.json) |
 | The Boss: A Jacksepticeye Fan Game | 184294 | [184294-the-boss-a-jacksepticeye-fan-game.json](./184294-the-boss-a-jacksepticeye-fan-game.json) |
@@ -11441,6 +11442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quest: Hero of Lukomorye V | 200205 | [200205-the-quest-hero-of-lukomorye-v.json](./200205-the-quest-hero-of-lukomorye-v.json) |
 | The Quest: Islands of Ice and Fire | 154509 | [154509-the-quest-islands-of-ice-and-fire.json](./154509-the-quest-islands-of-ice-and-fire.json) |
 | The Quest: Macha's Curse | 90810 | [90810-the-quest-machas-curse.json](./90810-the-quest-machas-curse.json) |
+| The Quest: Mithril Horde II | 245179 | [245179-the-quest-mithril-horde-ii.json](./245179-the-quest-mithril-horde-ii.json) |
 | The Quest: Thor's Hammer | 36959 | [36959-the-quest-thors-hammer.json](./36959-the-quest-thors-hammer.json) |
 | The Question | 170529 | [170529-the-question.json](./170529-the-question.json) |
 | The Question's Quest of Sin | 322370 | [322370-the-questions-quest-of-sin.json](./322370-the-questions-quest-of-sin.json) |
