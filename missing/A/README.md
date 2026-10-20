@@ -7024,6 +7024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angkor: Runefall | 149229 | [149229-angkor-runefall.json](./149229-angkor-runefall.json) |
 | Angkot d Game | 214753 | [214753-angkot-d-game.json](./214753-angkot-d-game.json) |
 | AngL | 104526 | [104526-angl.json](./104526-angl.json) |
+| Angle | 246236 | [246236-angle.json](./246236-angle.json) |
 | Angle | 396218 | [396218-angle.json](./396218-angle.json) |
 | Angle Me | 232390 | [232390-angle-me.json](./232390-angle-me.json) |
 | Angle of Attack | 16064 | [16064-angle-of-attack.json](./16064-angle-of-attack.json) |
