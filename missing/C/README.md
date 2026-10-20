@@ -11230,6 +11230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Armada | 269983 | [269983-cosmic-armada.json](./269983-cosmic-armada.json) |
 | Cosmic Avenger | 18504 | [18504-cosmic-avenger.json](./18504-cosmic-avenger.json) |
 | Cosmic Badger | 197746 | [197746-cosmic-badger.json](./197746-cosmic-badger.json) |
+| Cosmic Batter Defense | 205993 | [205993-cosmic-batter-defense.json](./205993-cosmic-batter-defense.json) |
 | Cosmic Blastards | 275873 | [275873-cosmic-blastards.json](./275873-cosmic-blastards.json) |
 | Cosmic Bouncer | 15918 | [15918-cosmic-bouncer.json](./15918-cosmic-bouncer.json) |
 | Cosmic Bowling | 100275 | [100275-cosmic-bowling.json](./100275-cosmic-bowling.json) |
