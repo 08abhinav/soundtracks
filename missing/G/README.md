@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| G Fighter | 245150 | [245150-g-fighter.json](./245150-g-fighter.json) |
 | G Press | 394476 | [394476-g-press.json](./394476-g-press.json) |
 | G Prime into the Rain | 32201 | [32201-g-prime-into-the-rain.json](./32201-g-prime-into-the-rain.json) |
 | G Sides | 324399 | [324399-g-sides.json](./324399-g-sides.json) |
