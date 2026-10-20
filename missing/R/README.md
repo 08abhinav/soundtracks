@@ -1210,6 +1210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Racer: Offroad Racing Car Game | 153822 | [153822-rally-racer-offroad-racing-car-game.json](./153822-rally-racer-offroad-racing-car-game.json) |
 | Rally Racers | 76648 | [76648-rally-racers.json](./76648-rally-racers.json) |
 | Rally Racing | 186867 | [186867-rally-racing.json](./186867-rally-racing.json) |
+| Rally Racing 2 | 222733 | [222733-rally-racing-2.json](./222733-rally-racing-2.json) |
 | Rally Racing Drift 2024 | 315900 | [315900-rally-racing-drift-2024.json](./315900-rally-racing-drift-2024.json) |
 | Rally Racing: Cars & Drift Mania | 265711 | [265711-rally-racing-cars-and-drift-mania.json](./265711-rally-racing-cars-and-drift-mania.json) |
 | Rally Rock 'N Racing | 119517 | [119517-rally-rock-n-racing.json](./119517-rally-rock-n-racing.json) |
