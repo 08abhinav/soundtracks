@@ -1279,6 +1279,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b2733cdba9222c50ef9b36ee27bd" width="60" /> | [Rakuen](https://ostdb.net/games/rakuen) | **Rakuen (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0BrrIB8bpGkm1H3aVBvVyo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ba764b2e68b094130b33aef" width="60" /> | [Ratchet & Clank](https://ostdb.net/games/ratchet-and-clank) | **Ratchet & Clank (Original Soundtrack Album)** · [Spotify](https://open.spotify.com/album/03XFveYzT5twRw5M8fbBey) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ba764b2e68b094130b33aef" width="60" /> | [Ratchet & Clank](https://ostdb.net/games/ratchet-and-clank) | **Ratchet & Clank (Original Soundtrack Album)** · [Spotify](https://open.spotify.com/album/03XFveYzT5twRw5M8fbBey) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732ba764b2e68b094130b33aef" width="60" /> | [Ratchet & Clank](https://ostdb.net/games/ratchet-and-clank) | **Ratchet & Clank (Original Soundtrack Album)** · [Spotify](https://open.spotify.com/album/03XFveYzT5twRw5M8fbBey) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d0bcbd48a1aad365fac7c7e" width="60" /> | [Ratchet & Clank: Rift Apart](https://ostdb.net/games/ratchet-and-clank-rift-apart) | **Ratchet & Clank: Rift Apart (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4Dq65Lwt50IB0eAKuT10nC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d7130646551e8168a12371d8" width="60" /> | [Ravenlok](https://ostdb.net/games/ravenlok) | **Ravenlok (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3rSW7SVByri73jaeqLMOrh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27379801a545943d9948ddf453b" width="60" /> | [Rayman Legends](https://ostdb.net/games/rayman-legends) | **Rayman Legends (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1XdgIQg5BoYpPkLTEB1uHp) |
@@ -1972,4 +1973,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2289 soundtracks · last updated 2026-10-20T21:46:41.584Z_
+_2290 soundtracks · last updated 2026-10-20T21:46:52.734Z_
