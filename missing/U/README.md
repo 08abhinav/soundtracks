@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ukraine War 2022 | 287734 | [287734-ukraine-war-2022.json](./287734-ukraine-war-2022.json) |
 | Ukrainian ball in search of gas | 91409 | [91409-ukrainian-ball-in-search-of-gas.json](./91409-ukrainian-ball-in-search-of-gas.json) |
 | Ukrainian Warfare: Gostomel Heroes | 391787 | [391787-ukrainian-warfare-gostomel-heroes.json](./391787-ukrainian-warfare-gostomel-heroes.json) |
+| Ukrainien Agent | 207682 | [207682-ukrainien-agent.json](./207682-ukrainien-agent.json) |
 | Uktena | 150596 | [150596-uktena.json](./150596-uktena.json) |
 | Uktena 64 | 392159 | [392159-uktena-64.json](./392159-uktena-64.json) |
 | Ukubata Tei no Roku Tengu | 221039 | [221039-ukubata-tei-no-roku-tengu.json](./221039-ukubata-tei-no-roku-tengu.json) |
@@ -362,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Car Company Tycoon | 390108 | [390108-ultimate-car-company-tycoon.json](./390108-ultimate-car-company-tycoon.json) |
 | Ultimate Car Driving: Classics | 96775 | [96775-ultimate-car-driving-classics.json](./96775-ultimate-car-driving-classics.json) |
 | Ultimate Cards | 14519 | [14519-ultimate-cards.json](./14519-ultimate-cards.json) |
+| Ultimate Cartridge Collection Deluxe | 207709 | [207709-ultimate-cartridge-collection-deluxe.json](./207709-ultimate-cartridge-collection-deluxe.json) |
 | Ultimate Casino | 203349 | [203349-ultimate-casino.json](./203349-ultimate-casino.json) |
 | Ultimate Casino 3 Pack | 69246 | [69246-ultimate-casino-3-pack.json](./69246-ultimate-casino-3-pack.json) |
 | Ultimate Chess 3D | 91895 | [91895-ultimate-chess-3d.json](./91895-ultimate-chess-3d.json) |
