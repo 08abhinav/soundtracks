@@ -6562,10 +6562,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms Rumble: Armageddon Weapon Skin Pack | 301561 | [301561-worms-rumble-armageddon-weapon-skin-pack.json](./301561-worms-rumble-armageddon-weapon-skin-pack.json) |
 | Worms Rumble: Bank Heist Double Pack | 225086 | [225086-worms-rumble-bank-heist-double-pack.json](./225086-worms-rumble-bank-heist-double-pack.json) |
 | Worms Rumble: Captain & Shark Double Pack | 225087 | [225087-worms-rumble-captain-and-shark-double-pack.json](./225087-worms-rumble-captain-and-shark-double-pack.json) |
+| Worms Rumble: Cats & Dogs Double Pack | 246781 | [246781-worms-rumble-cats-and-dogs-double-pack.json](./246781-worms-rumble-cats-and-dogs-double-pack.json) |
 | Worms Rumble: Emote Pack | 301562 | [301562-worms-rumble-emote-pack.json](./301562-worms-rumble-emote-pack.json) |
 | Worms Rumble: Fully Loaded Edition | 146164 | [146164-worms-rumble-fully-loaded-edition.json](./146164-worms-rumble-fully-loaded-edition.json) |
 | Worms Rumble: Honor & Death Pack | 225089 | [225089-worms-rumble-honor-and-death-pack.json](./225089-worms-rumble-honor-and-death-pack.json) |
 | Worms Rumble: Legends Pack | 227318 | [227318-worms-rumble-legends-pack.json](./227318-worms-rumble-legends-pack.json) |
+| Worms Rumble: Spaceworm and Alien Double Pack | 246782 | [246782-worms-rumble-spaceworm-and-alien-double-pack.json](./246782-worms-rumble-spaceworm-and-alien-double-pack.json) |
 | Worms United | 47081 | [47081-worms-united.json](./47081-worms-united.json) |
 | Worms W.M.D Mobilize | 245960 | [245960-worms-w-m-d-mobilize.json](./245960-worms-w-m-d-mobilize.json) |
 | Worms World Party | 6294 | [6294-worms-world-party.json](./6294-worms-world-party.json) |
