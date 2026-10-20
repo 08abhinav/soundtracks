@@ -443,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rad Rocket | 138516 | [138516-rad-rocket.json](./138516-rad-rocket.json) |
 | Rad Rodgers: Radical Edition | 113422 | [113422-rad-rodgers-radical-edition.json](./113422-rad-rodgers-radical-edition.json) |
 | RAD Soldiers | 64100 | [64100-rad-soldiers.json](./64100-rad-soldiers.json) |
+| Rad Survivor | 240642 | [240642-rad-survivor.json](./240642-rad-survivor.json) |
 | Rad TV | 120431 | [120431-rad-tv.json](./120431-rad-tv.json) |
 | Rad Venture | 215204 | [215204-rad-venture.json](./215204-rad-venture.json) |
 | Rad Warrior | 26408 | [26408-rad-warrior.json](./26408-rad-warrior.json) |
@@ -908,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway Mogul | 91548 | [91548-railway-mogul.json](./91548-railway-mogul.json) |
 | Railway Operation Simulator | 214615 | [214615-railway-operation-simulator.json](./214615-railway-operation-simulator.json) |
 | Railway: Koko ni Aru Yume | 271418 | [271418-railway-koko-ni-aru-yume.json](./271418-railway-koko-ni-aru-yume.json) |
+| Railways: Train Simulator | 240650 | [240650-railways-train-simulator.json](./240650-railways-train-simulator.json) |
 | Railworks 2: Train Simulator | 5548 | [5548-railworks-2-train-simulator.json](./5548-railworks-2-train-simulator.json) |
 | Railworks 3: Train Simulator 2012 | 51271 | [51271-railworks-3-train-simulator-2012.json](./51271-railworks-3-train-simulator-2012.json) |
 | Railworks 3: Train Simulator 2012 - Bristol to Avonmouth | 136479 | [136479-railworks-3-train-simulator-2012-bristol-to-avonmouth.json](./136479-railworks-3-train-simulator-2012-bristol-to-avonmouth.json) |
@@ -1894,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC Fun City | 80975 | [80975-rc-fun-city.json](./80975-rc-fun-city.json) |
 | RC Heli 3 | 240862 | [240862-rc-heli-3.json](./240862-rc-heli-3.json) |
 | RC Helicopter Indoor Adventure | 78279 | [78279-rc-helicopter-indoor-adventure.json](./78279-rc-helicopter-indoor-adventure.json) |
+| RC Match 3 | 240648 | [240648-rc-match-3.json](./240648-rc-match-3.json) |
 | RC Overdrive | 393799 | [393799-rc-overdrive.json](./393799-rc-overdrive.json) |
 | RC Plane | 249652 | [249652-rc-plane.json](./249652-rc-plane.json) |
 | Rc Plane 2 | 260654 | [260654-rc-plane-2.json](./260654-rc-plane-2.json) |
@@ -2910,6 +2913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Island | 120393 | [120393-red-island.json](./120393-red-island.json) |
 | Red Johnson's Chronicles: 1+2 - Steam Special Edition | 90489 | [90489-red-johnsons-chronicles-1-2-steam-special-edition.json](./90489-red-johnsons-chronicles-1-2-steam-special-edition.json) |
 | Red Johnson's Chronicles: One Against All | 25177 | [25177-red-johnsons-chronicles-one-against-all.json](./25177-red-johnsons-chronicles-one-against-all.json) |
+| Red Knight: Light RPG | 240677 | [240677-red-knight-light-rpg.json](./240677-red-knight-light-rpg.json) |
 | Red Lake | 35589 | [35589-red-lake.json](./35589-red-lake.json) |
 | Red Land | 372671 | [372671-red-land.json](./372671-red-land.json) |
 | Red Lands | 244679 | [244679-red-lands.json](./244679-red-lands.json) |
@@ -9201,6 +9205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Willy! | 215866 | [215866-run-willy.json](./215866-run-willy.json) |
 | Run Witch | 281327 | [281327-run-witch.json](./281327-run-witch.json) |
 | Run x Gun | 275543 | [275543-run-x-gun.json](./275543-run-x-gun.json) |
+| Run-Gunners' Revenge | 240663 | [240663-run-gunners-revenge.json](./240663-run-gunners-revenge.json) |
 | Run, chicken, run! | 113885 | [113885-run-chicken-run.json](./113885-run-chicken-run.json) |
 | Run, Doodleguy! | 211293 | [211293-run-doodleguy.json](./211293-run-doodleguy.json) |
 | Run, Kitty! | 192771 | [192771-run-kitty.json](./192771-run-kitty.json) |
