@@ -1603,6 +1603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jimmy White's 'Whirlwind' Snooker | 12159 | [12159-jimmy-whites-whirlwind-snooker.json](./12159-jimmy-whites-whirlwind-snooker.json) |
 | Jimmy White's 2: Cueball | 45852 | [45852-jimmy-whites-2-cueball.json](./45852-jimmy-whites-2-cueball.json) |
 | Jimmy White's Cue Ball | 50029 | [50029-jimmy-whites-cue-ball.json](./50029-jimmy-whites-cue-ball.json) |
+| Jimmy White's Cueball World | 208809 | [208809-jimmy-whites-cueball-world.json](./208809-jimmy-whites-cueball-world.json) |
 | Jimmy's Agony | 266777 | [266777-jimmys-agony.json](./266777-jimmys-agony.json) |
 | Jimmy's Journey | 121492 | [121492-jimmys-journey.json](./121492-jimmys-journey.json) |
 | Jimmy's Lost Fruits Journey 2: Veggocalypse | 265695 | [265695-jimmys-lost-fruits-journey-2-veggocalypse.json](./265695-jimmys-lost-fruits-journey-2-veggocalypse.json) |
