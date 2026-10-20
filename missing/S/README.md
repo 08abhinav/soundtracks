@@ -25941,6 +25941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Dream | 172106 | [172106-sweet-dream.json](./172106-sweet-dream.json) |
 | Sweet Dream | 229597 | [229597-sweet-dream.json](./229597-sweet-dream.json) |
 | Sweet Dream Succubus: Nightmare Edition | 214407 | [214407-sweet-dream-succubus-nightmare-edition.json](./214407-sweet-dream-succubus-nightmare-edition.json) |
+| Sweet Dreams | 251404 | [251404-sweet-dreams.json](./251404-sweet-dreams.json) |
 | Sweet Dreams Alex | 157545 | [157545-sweet-dreams-alex.json](./157545-sweet-dreams-alex.json) |
 | Sweet Dreams Alex: Full Moon Edition | 273931 | [273931-sweet-dreams-alex-full-moon-edition.json](./273931-sweet-dreams-alex-full-moon-edition.json) |
 | Sweet Dreams Bear | 181151 | [181151-sweet-dreams-bear.json](./181151-sweet-dreams-bear.json) |
