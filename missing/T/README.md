@@ -11419,6 +11419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Puzzle Trouble | 53769 | [53769-the-puzzle-trouble.json](./53769-the-puzzle-trouble.json) |
 | The Puzzler | 365866 | [365866-the-puzzler.json](./365866-the-puzzler.json) |
 | The Pyramid | 45362 | [45362-the-pyramid.json](./45362-the-pyramid.json) |
+| The Pyramid of Bones | 235053 | [235053-the-pyramid-of-bones.json](./235053-the-pyramid-of-bones.json) |
 | The Pyramid Of Peril | 112211 | [112211-the-pyramid-of-peril.json](./112211-the-pyramid-of-peril.json) |
 | The Pyramid Prison | 127236 | [127236-the-pyramid-prison.json](./127236-the-pyramid-prison.json) |
 | The Pyramids of Egypt | 62671 | [62671-the-pyramids-of-egypt.json](./62671-the-pyramids-of-egypt.json) |
@@ -17301,6 +17302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Warrior | 221900 | [221900-time-warrior.json](./221900-time-warrior.json) |
 | Time Warrior Z VR | 116775 | [116775-time-warrior-z-vr.json](./116775-time-warrior-z-vr.json) |
 | Time Warriors | 10859 | [10859-time-warriors.json](./10859-time-warriors.json) |
+| Time Wasters | 235056 | [235056-time-wasters.json](./235056-time-wasters.json) |
 | Time Witch | 412201 | [412201-time-witch.json](./412201-time-witch.json) |
 | Time Wiza | 364675 | [364675-time-wiza.json](./364675-time-wiza.json) |
 | Time Zone | 14574 | [14574-time-zone.json](./14574-time-zone.json) |
@@ -20566,6 +20568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Empires | 284600 | [284600-toy-empires.json](./284600-toy-empires.json) |
 | Toy Escape | 344530 | [344530-toy-escape.json](./344530-toy-escape.json) |
 | Toy Factory | 206712 | [206712-toy-factory.json](./206712-toy-factory.json) |
+| Toy Flying Car | 235046 | [235046-toy-flying-car.json](./235046-toy-flying-car.json) |
 | Toy Goblins | 57035 | [57035-toy-goblins.json](./57035-toy-goblins.json) |
 | Toy Golf Extreme | 50400 | [50400-toy-golf-extreme.json](./50400-toy-golf-extreme.json) |
 | Toy Gun Office Simulator | 108433 | [108433-toy-gun-office-simulator.json](./108433-toy-gun-office-simulator.json) |
