@@ -3643,6 +3643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Private Homeroom | 239204 | [239204-our-private-homeroom.json](./239204-our-private-homeroom.json) |
 | Our Red String | 150023 | [150023-our-red-string.json](./150023-our-red-string.json) |
 | Our Secret Below | 115570 | [115570-our-secret-below.json](./115570-our-secret-below.json) |
+| Our Shared Lie | 232840 | [232840-our-shared-lie.json](./232840-our-shared-lie.json) |
 | Our Story in Spring | 254471 | [254471-our-story-in-spring.json](./254471-our-story-in-spring.json) |
 | Our Summer Crush | 327990 | [327990-our-summer-crush.json](./327990-our-summer-crush.json) |
 | Our Summer Festival | 186696 | [186696-our-summer-festival.json](./186696-our-summer-festival.json) |
