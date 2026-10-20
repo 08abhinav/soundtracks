@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:41:32.615Z",
-  "total_soundtracks": 2268,
+  "generated_at": "2026-10-20T21:41:43.932Z",
+  "total_soundtracks": 2269,
   "games": [
     {
       "igdb_id": 7522,
@@ -20431,6 +20431,20 @@
         {
           "album_name": "SIREN ORIGINAL SOUNDTRACK (2023 Remaster)",
           "spotify_url": "https://open.spotify.com/album/2gLdyc8Y3sFqqPdmo1GCvi",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 139605,
+      "game_name": "Sizeable",
+      "game_url": "https://ostdb.net/games/sizeable",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730fb4f39e3e932a472abc3544",
+      "albums": [
+        {
+          "album_name": "Sizeable (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/66w4l0W8GGNpMALd75O4m0",
           "apple_music_url": "",
           "album_link_url": ""
         }
