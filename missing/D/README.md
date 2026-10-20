@@ -1176,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Harvest: Ascension | 224577 | [224577-dark-harvest-ascension.json](./224577-dark-harvest-ascension.json) |
 | Dark Haunting | 192225 | [192225-dark-haunting.json](./192225-dark-haunting.json) |
 | Dark Heart Mansion | 156994 | [156994-dark-heart-mansion.json](./156994-dark-heart-mansion.json) |
+| Dark Hero | 234480 | [234480-dark-hero.json](./234480-dark-hero.json) |
 | Dark Hero Dash | 214105 | [214105-dark-hero-dash.json](./214105-dark-hero-dash.json) |
 | Dark Hill Museum of Death | 99248 | [99248-dark-hill-museum-of-death.json](./99248-dark-hill-museum-of-death.json) |
 | Dark History | 375504 | [375504-dark-history.json](./375504-dark-history.json) |
@@ -4639,6 +4640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolition Company: Gold Edition | 23397 | [23397-demolition-company-gold-edition.json](./23397-demolition-company-gold-edition.json) |
 | Demolition Crew | 119568 | [119568-demolition-crew.json](./119568-demolition-crew.json) |
 | Demolition Derby | 110847 | [110847-demolition-derby.json](./110847-demolition-derby.json) |
+| Demolition Derby 2: Circuit | 234481 | [234481-demolition-derby-2-circuit.json](./234481-demolition-derby-2-circuit.json) |
 | Demolition Derby 3 | 184283 | [184283-demolition-derby-3.json](./184283-demolition-derby-3.json) |
 | Demolition Derby 4 | 200752 | [200752-demolition-derby-4.json](./200752-demolition-derby-4.json) |
 | Demolition Derby Multiplayer | 269087 | [269087-demolition-derby-multiplayer.json](./269087-demolition-derby-multiplayer.json) |
@@ -5891,6 +5893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Gate | 403692 | [403692-devil-gate.json](./403692-devil-gate.json) |
 | Devil Girl | 153728 | [153728-devil-girl.json](./153728-devil-girl.json) |
 | Devil Girl Needs Massages | 111183 | [111183-devil-girl-needs-massages.json](./111183-devil-girl-needs-massages.json) |
+| Devil Hunter Idle | 234486 | [234486-devil-hunter-idle.json](./234486-devil-hunter-idle.json) |
 | Devil Hunter: Raider | 357372 | [357372-devil-hunter-raider.json](./357372-devil-hunter-raider.json) |
 | Devil Hunters | 240714 | [240714-devil-hunters.json](./240714-devil-hunters.json) |
 | Devil In My House | 311781 | [311781-devil-in-my-house.json](./311781-devil-in-my-house.json) |
@@ -6705,6 +6708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Audio Wasteland | 297818 | [297818-digital-audio-wasteland.json](./297818-digital-audio-wasteland.json) |
 | Digital Bird Playground | 124255 | [124255-digital-bird-playground.json](./124255-digital-bird-playground.json) |
 | Digital Bojangles Saga HD Remaster | 245255 | [245255-digital-bojangles-saga-hd-remaster.json](./245255-digital-bojangles-saga-hd-remaster.json) |
+| Digital Chaos | 234488 | [234488-digital-chaos.json](./234488-digital-chaos.json) |
 | Digital Circus Shooter | 276482 | [276482-digital-circus-shooter.json](./276482-digital-circus-shooter.json) |
 | Digital Circus: Obby Parkour | 276485 | [276485-digital-circus-obby-parkour.json](./276485-digital-circus-obby-parkour.json) |
 | Digital City | 260209 | [260209-digital-city.json](./260209-digital-city.json) |
