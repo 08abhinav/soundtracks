@@ -1581,6 +1581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electric Crayon Deluxe: Teenage Mutant Hero Turtles - World Tour | 78007 | [78007-electric-crayon-deluxe-teenage-mutant-hero-turtles-world-tour.json](./78007-electric-crayon-deluxe-teenage-mutant-hero-turtles-world-tour.json) |
 | Electric Crayon: Fun on the Farm | 73265 | [73265-electric-crayon-fun-on-the-farm.json](./73265-electric-crayon-fun-on-the-farm.json) |
 | Electric Crayon: This Land Is Your Land | 70335 | [70335-electric-crayon-this-land-is-your-land.json](./70335-electric-crayon-this-land-is-your-land.json) |
+| Electric Device Marian | 250206 | [250206-electric-device-marian.json](./250206-electric-device-marian.json) |
 | Electric Dreams | 313124 | [313124-electric-dreams.json](./313124-electric-dreams.json) |
 | Electric Fairyland | 314922 | [314922-electric-fairyland.json](./314922-electric-fairyland.json) |
 | Electric Racing Car | 59770 | [59770-electric-racing-car.json](./59770-electric-racing-car.json) |
