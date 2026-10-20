@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:55:49.846Z",
-  "total_soundtracks": 2302,
+  "generated_at": "2026-10-20T21:56:00.803Z",
+  "total_soundtracks": 2303,
   "games": [
     {
       "igdb_id": 7522,
@@ -7609,6 +7609,20 @@
           "spotify_url": "https://open.spotify.com/album/505922VpdI0wTf9a7hyWkb",
           "apple_music_url": "https://music.apple.com/us/album/elite-dangerous-original-soundtrack/976843287",
           "album_link_url": "https://album.link/i/976843287"
+        }
+      ]
+    },
+    {
+      "igdb_id": 92919,
+      "game_name": "Eliza",
+      "game_url": "https://ostdb.net/games/eliza",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27353e981e3be06da5df60b305f",
+      "albums": [
+        {
+          "album_name": "Eliza (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2pU2QtVoCj3P1vha0xZvZF",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
