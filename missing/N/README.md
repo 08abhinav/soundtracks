@@ -4217,6 +4217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niteline | 304722 | [304722-niteline.json](./304722-niteline.json) |
 | Nitemare | 276393 | [276393-nitemare.json](./276393-nitemare.json) |
 | Nitemare 3D | 50139 | [50139-nitemare-3d.json](./50139-nitemare-3d.json) |
+| Nith Realms | 235628 | [235628-nith-realms.json](./235628-nith-realms.json) |
 | Nitori Dungeon | 216460 | [216460-nitori-dungeon.json](./216460-nitori-dungeon.json) |
 | Nitori-chan Dash | 208396 | [208396-nitori-chan-dash.json](./208396-nitori-chan-dash.json) |
 | Nitro | 12188 | [12188-nitro.json](./12188-nitro.json) |
@@ -4367,6 +4368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Longer Home: Friary Road | 213359 | [213359-no-longer-home-friary-road.json](./213359-no-longer-home-friary-road.json) |
 | No Loose Threads | 301918 | [301918-no-loose-threads.json](./301918-no-loose-threads.json) |
 | No Love | 115048 | [115048-no-love.json](./115048-no-love.json) |
+| No Love Lost | 235600 | [235600-no-love-lost.json](./235600-no-love-lost.json) |
 | No Love Lost: Founders Pack | 290779 | [290779-no-love-lost-founders-pack.json](./290779-no-love-lost-founders-pack.json) |
 | No Love: 2009 | 399069 | [399069-no-love-2009.json](./399069-no-love-2009.json) |
 | No Luca No | 92496 | [92496-no-luca-no.json](./92496-no-luca-no.json) |
