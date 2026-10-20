@@ -2121,6 +2121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man Vs. Missiles | 83195 | [83195-man-vs-missiles.json](./83195-man-vs-missiles.json) |
 | Man vs. Wild With Bear Grylls | 4995 | [4995-man-vs-wild-with-bear-grylls.json](./4995-man-vs-wild-with-bear-grylls.json) |
 | Man Without Clothes Runner | 368469 | [368469-man-without-clothes-runner.json](./368469-man-without-clothes-runner.json) |
+| Man, I Hate That Indie Game! | 233379 | [233379-man-i-hate-that-indie-game.json](./233379-man-i-hate-that-indie-game.json) |
 | Man, I Love Terraria Fishing | 383611 | [383611-man-i-love-terraria-fishing.json](./383611-man-i-love-terraria-fishing.json) |
 | Man's Body: For Adults | 385312 | [385312-mans-body-for-adults.json](./385312-mans-body-for-adults.json) |
 | Man's Last Friends | 397200 | [397200-mans-last-friends.json](./397200-mans-last-friends.json) |
@@ -6771,6 +6772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mental | 130347 | [130347-mental.json](./130347-mental.json) |
 | Mental Drift | 64643 | [64643-mental-drift.json](./64643-mental-drift.json) |
 | Mental Harm | 235751 | [235751-mental-harm.json](./235751-mental-harm.json) |
+| Mental Hero: Bipolar | 233392 | [233392-mental-hero-bipolar.json](./233392-mental-hero-bipolar.json) |
 | Mental Hospital II HD | 175302 | [175302-mental-hospital-ii-hd.json](./175302-mental-hospital-ii-hd.json) |
 | Mental Hospital III HD | 212783 | [212783-mental-hospital-iii-hd.json](./212783-mental-hospital-iii-hd.json) |
 | Mental Hospital IV | 292817 | [292817-mental-hospital-iv.json](./292817-mental-hospital-iv.json) |
@@ -6984,6 +6986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Magic! | 139297 | [139297-merge-magic.json](./139297-merge-magic.json) |
 | Merge Mansion | 196866 | [196866-merge-mansion.json](./196866-merge-mansion.json) |
 | Merge Marbles | 309337 | [309337-merge-marbles.json](./309337-merge-marbles.json) |
+| Merge Master: Super Dragon | 233378 | [233378-merge-master-super-dragon.json](./233378-merge-master-super-dragon.json) |
 | Merge Match March | 361798 | [361798-merge-match-march.json](./361798-merge-match-march.json) |
 | Merge Mayor | 212482 | [212482-merge-mayor.json](./212482-merge-mayor.json) |
 | Merge Me! | 234534 | [234534-merge-me.json](./234534-merge-me.json) |
@@ -12216,6 +12219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Montezuma's Quest | 146738 | [146738-montezumas-quest.json](./146738-montezumas-quest.json) |
 | Montezuma's Return! | 135103 | [135103-montezumas-return.json](./135103-montezumas-return.json) |
 | Montezuma's Return! | 36903 | [36903-montezumas-return.json](./36903-montezumas-return.json) |
+| Montezuma's Revenge | 233359 | [233359-montezumas-revenge.json](./233359-montezumas-revenge.json) |
 | Montezuma's Revenge featuring Panama Joe | 12297 | [12297-montezumas-revenge-featuring-panama-joe.json](./12297-montezumas-revenge-featuring-panama-joe.json) |
 | Montezuma's Revenge Featuring Panama Joe | 46138 | [46138-montezumas-revenge-featuring-panama-joe.json](./46138-montezumas-revenge-featuring-panama-joe.json) |
 | Montezuma's Revenge: 8-Bit Edition | 234623 | [234623-montezumas-revenge-8-bit-edition.json](./234623-montezumas-revenge-8-bit-edition.json) |
@@ -14913,6 +14917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX vs. ATV: Legends - Customization Pack | 350651 | [350651-mx-vs-atv-legends-customization-pack.json](./350651-mx-vs-atv-legends-customization-pack.json) |
 | MX vs. ATV: Legends - GASGAS Pack 2023 | 274741 | [274741-mx-vs-atv-legends-gasgas-pack-2023.json](./274741-mx-vs-atv-legends-gasgas-pack-2023.json) |
 | MX vs. ATV: Legends - GASGAS Pack 2025 | 356699 | [356699-mx-vs-atv-legends-gasgas-pack-2025.json](./356699-mx-vs-atv-legends-gasgas-pack-2025.json) |
+| MX vs. ATV: Legends - Honda Pack | 233356 | [233356-mx-vs-atv-legends-honda-pack.json](./233356-mx-vs-atv-legends-honda-pack.json) |
 | MX vs. ATV: Legends - Honda Pack 2025 | 350637 | [350637-mx-vs-atv-legends-honda-pack-2025.json](./350637-mx-vs-atv-legends-honda-pack-2025.json) |
 | MX vs. ATV: Legends - Husqvarna Pack | 350648 | [350648-mx-vs-atv-legends-husqvarna-pack.json](./350648-mx-vs-atv-legends-husqvarna-pack.json) |
 | MX vs. ATV: Legends - Husqvarna Pack 2025 | 356698 | [356698-mx-vs-atv-legends-husqvarna-pack-2025.json](./356698-mx-vs-atv-legends-husqvarna-pack-2025.json) |
@@ -14929,6 +14934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX vs. ATV: Legends - Suzuki Pack 2025 | 350644 | [350644-mx-vs-atv-legends-suzuki-pack-2025.json](./350644-mx-vs-atv-legends-suzuki-pack-2025.json) |
 | MX vs. ATV: Legends - Throwback Tracks | 271613 | [271613-mx-vs-atv-legends-throwback-tracks.json](./271613-mx-vs-atv-legends-throwback-tracks.json) |
 | MX vs. ATV: Legends - Track Pass 2024 | 302035 | [302035-mx-vs-atv-legends-track-pass-2024.json](./302035-mx-vs-atv-legends-track-pass-2024.json) |
+| MX vs. ATV: Legends - Yamaha Pack | 233355 | [233355-mx-vs-atv-legends-yamaha-pack.json](./233355-mx-vs-atv-legends-yamaha-pack.json) |
 | MX vs. ATV: Legends - Yamaha Pack 2025 | 350642 | [350642-mx-vs-atv-legends-yamaha-pack-2025.json](./350642-mx-vs-atv-legends-yamaha-pack-2025.json) |
 | MX vs. ATV: On the Edge | 18267 | [18267-mx-vs-atv-on-the-edge.json](./18267-mx-vs-atv-on-the-edge.json) |
 | MX vs. ATV: Reflex | 248570 | [248570-mx-vs-atv-reflex.json](./248570-mx-vs-atv-reflex.json) |
