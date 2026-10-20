@@ -3100,6 +3100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeadWire | 332252 | [332252-deadwire.json](./332252-deadwire.json) |
 | Deadwood Drive | 385302 | [385302-deadwood-drive.json](./385302-deadwood-drive.json) |
 | Deadwood: The Forgotten Curse | 22738 | [22738-deadwood-the-forgotten-curse.json](./22738-deadwood-the-forgotten-curse.json) |
+| Deadword | 238301 | [238301-deadword.json](./238301-deadword.json) |
 | Deadzone Blackout | 297920 | [297920-deadzone-blackout.json](./297920-deadzone-blackout.json) |
 | Deadzone Haunt | 332390 | [332390-deadzone-haunt.json](./332390-deadzone-haunt.json) |
 | Deadzone Rogue 2 | 403822 | [403822-deadzone-rogue-2.json](./403822-deadzone-rogue-2.json) |
@@ -3360,6 +3361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Plunder | 311174 | [311174-death-plunder.json](./311174-death-plunder.json) |
 | Death Point | 55813 | [55813-death-point.json](./55813-death-point.json) |
 | Death Pong | 390585 | [390585-death-pong.json](./390585-death-pong.json) |
+| Death Pool | 238306 | [238306-death-pool.json](./238306-death-pool.json) |
 | Death Rabbit | 271655 | [271655-death-rabbit.json](./271655-death-rabbit.json) |
 | Death Rabbit Arena | 250867 | [250867-death-rabbit-arena.json](./250867-death-rabbit-arena.json) |
 | Death Race | 110376 | [110376-death-race.json](./110376-death-race.json) |
@@ -7476,6 +7478,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea 5: Alliance of Vengeance - Limited Edition | 167058 | [167058-disgaea-5-alliance-of-vengeance-limited-edition.json](./167058-disgaea-5-alliance-of-vengeance-limited-edition.json) |
 | Disgaea 6 Complete | 191497 | [191497-disgaea-6-complete.json](./191497-disgaea-6-complete.json) |
 | Disgaea 6 Complete: Deluxe Edition | 191498 | [191498-disgaea-6-complete-deluxe-edition.json](./191498-disgaea-6-complete-deluxe-edition.json) |
+| Disgaea 6: Defiance of Destiny - Desco | 238319 | [238319-disgaea-6-defiance-of-destiny-desco.json](./238319-disgaea-6-defiance-of-destiny-desco.json) |
+| Disgaea 6: Defiance of Destiny - Fuka | 238312 | [238312-disgaea-6-defiance-of-destiny-fuka.json](./238312-disgaea-6-defiance-of-destiny-fuka.json) |
+| Disgaea 6: Defiance of Destiny - Killia | 238318 | [238318-disgaea-6-defiance-of-destiny-killia.json](./238318-disgaea-6-defiance-of-destiny-killia.json) |
+| Disgaea 6: Defiance of Destiny - Mao | 238314 | [238314-disgaea-6-defiance-of-destiny-mao.json](./238314-disgaea-6-defiance-of-destiny-mao.json) |
+| Disgaea 6: Defiance of Destiny - Pleinair | 238313 | [238313-disgaea-6-defiance-of-destiny-pleinair.json](./238313-disgaea-6-defiance-of-destiny-pleinair.json) |
+| Disgaea 6: Defiance of Destiny - Raspberyl | 238315 | [238315-disgaea-6-defiance-of-destiny-raspberyl.json](./238315-disgaea-6-defiance-of-destiny-raspberyl.json) |
+| Disgaea 6: Defiance of Destiny - Usalia | 238316 | [238316-disgaea-6-defiance-of-destiny-usalia.json](./238316-disgaea-6-defiance-of-destiny-usalia.json) |
+| Disgaea 6: Defiance of Destiny - Valvatorez | 238317 | [238317-disgaea-6-defiance-of-destiny-valvatorez.json](./238317-disgaea-6-defiance-of-destiny-valvatorez.json) |
 | Disgaea 7 Complete | 295622 | [295622-disgaea-7-complete.json](./295622-disgaea-7-complete.json) |
 | Disgaea 7: Glasses Costumes Set | 268541 | [268541-disgaea-7-glasses-costumes-set.json](./268541-disgaea-7-glasses-costumes-set.json) |
 | Disgaea 7: Vows of the Virtueless | 214530 | [214530-disgaea-7-vows-of-the-virtueless.json](./214530-disgaea-7-vows-of-the-virtueless.json) |
@@ -9515,6 +9525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle God: 8-bit Mania | 31000 | [31000-doodle-god-8-bit-mania.json](./31000-doodle-god-8-bit-mania.json) |
 | Doodle God: Alchemy Jam | 80911 | [80911-doodle-god-alchemy-jam.json](./80911-doodle-god-alchemy-jam.json) |
 | Doodle God: Evolution | 114180 | [114180-doodle-god-evolution.json](./114180-doodle-god-evolution.json) |
+| Doodle God: Evolution - Doodle Mafia Pack | 238329 | [238329-doodle-god-evolution-doodle-mafia-pack.json](./238329-doodle-god-evolution-doodle-mafia-pack.json) |
 | Doodle God: Fantasy World of Magic | 186346 | [186346-doodle-god-fantasy-world-of-magic.json](./186346-doodle-god-fantasy-world-of-magic.json) |
 | Doodle God: Genesis Secrets | 99617 | [99617-doodle-god-genesis-secrets.json](./99617-doodle-god-genesis-secrets.json) |
 | Doodle God: Merge Evolution | 334699 | [334699-doodle-god-merge-evolution.json](./334699-doodle-god-merge-evolution.json) |
@@ -13871,6 +13882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusk '82 | 152265 | [152265-dusk-82.json](./152265-dusk-82.json) |
 | Dusk 12: Deadly Zone | 17738 | [17738-dusk-12-deadly-zone.json](./17738-dusk-12-deadly-zone.json) |
 | Dusk Child | 134498 | [134498-dusk-child.json](./134498-dusk-child.json) |
+| Dusk Diver 2: Digital Deluxe Edition | 238328 | [238328-dusk-diver-2-digital-deluxe-edition.json](./238328-dusk-diver-2-digital-deluxe-edition.json) |
 | Dusk Diver: Special Limited Edition | 167119 | [167119-dusk-diver-special-limited-edition.json](./167119-dusk-diver-special-limited-edition.json) |
 | Dusk Golem's Anthology of Horror | 124193 | [124193-dusk-golems-anthology-of-horror.json](./124193-dusk-golems-anthology-of-horror.json) |
 | Dusk HD | 269503 | [269503-dusk-hd.json](./269503-dusk-hd.json) |
