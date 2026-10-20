@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F2 Grand Prix | 138522 | [138522-f2-grand-prix.json](./138522-f2-grand-prix.json) |
 | F22 | 287508 | [287508-f22.json](./287508-f22.json) |
 | F22 Air Dominance Fighter: Red Sea Operations | 59926 | [59926-f22-air-dominance-fighter-red-sea-operations.json](./59926-f22-air-dominance-fighter-red-sea-operations.json) |
+| F2oggy | 231752 | [231752-f2oggy.json](./231752-f2oggy.json) |
 | F40 Pursuit Simulator | 47217 | [47217-f40-pursuit-simulator.json](./47217-f40-pursuit-simulator.json) |
 | F8S | 114519 | [114519-f8s.json](./114519-f8s.json) |
 | Fa Jin | 288054 | [288054-fa-jin.json](./288054-fa-jin.json) |
@@ -4343,6 +4344,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firby | 400101 | [400101-firby.json](./400101-firby.json) |
 | Fire | 10321 | [10321-fire.json](./10321-fire.json) |
 | Fire | 152137 | [152137-fire.json](./152137-fire.json) |
+| Fire | 231720 | [231720-fire.json](./231720-fire.json) |
+| Fire | 231721 | [231721-fire.json](./231721-fire.json) |
 | Fire | 371569 | [371569-fire.json](./371569-fire.json) |
 | Fire 'n Ice | 48671 | [48671-fire-n-ice.json](./48671-fire-n-ice.json) |
 | Fire & Brimstone | 336714 | [336714-fire-and-brimstone.json](./336714-fire-and-brimstone.json) |
@@ -4364,6 +4367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire and Maneuver: Expansion - Boshin War | 246828 | [246828-fire-and-maneuver-expansion-boshin-war.json](./246828-fire-and-maneuver-expansion-boshin-war.json) |
 | Fire and Rescue | 287760 | [287760-fire-and-rescue.json](./287760-fire-and-rescue.json) |
 | Fire Ant | 93077 | [93077-fire-ant.json](./93077-fire-ant.json) |
+| Fire Attack | 231749 | [231749-fire-attack.json](./231749-fire-attack.json) |
 | Fire Ball | 161775 | [161775-fire-ball.json](./161775-fire-ball.json) |
 | Fire Ball | 40136 | [40136-fire-ball.json](./40136-fire-ball.json) |
 | Fire Bam | 41267 | [41267-fire-bam.json](./41267-fire-bam.json) |
@@ -8977,6 +8981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friend Hunt | 276777 | [276777-friend-hunt.json](./276777-friend-hunt.json) |
 | Friend Network | 52229 | [52229-friend-network.json](./52229-friend-network.json) |
 | Friend on the Go | 217243 | [217243-friend-on-the-go.json](./217243-friend-on-the-go.json) |
+| Friend or Foe | 231728 | [231728-friend-or-foe.json](./231728-friend-or-foe.json) |
 | Friend Ship | 270043 | [270043-friend-ship.json](./270043-friend-ship.json) |
 | Friend Sighting | 129662 | [129662-friend-sighting.json](./129662-friend-sighting.json) |
 | Friendly | 202253 | [202253-friendly.json](./202253-friendly.json) |
