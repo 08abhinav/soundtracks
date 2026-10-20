@@ -6619,6 +6619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bittersweet Blossoms | 346214 | [346214-bittersweet-blossoms.json](./346214-bittersweet-blossoms.json) |
 | BitterSweet Detectives' Tea Party | 256111 | [256111-bittersweet-detectives-tea-party.json](./256111-bittersweet-detectives-tea-party.json) |
 | Bittersweet Dream | 229672 | [229672-bittersweet-dream.json](./229672-bittersweet-dream.json) |
+| Bittersweet Starlight | 225514 | [225514-bittersweet-starlight.json](./225514-bittersweet-starlight.json) |
 | Bittos | 91418 | [91418-bittos.json](./91418-bittos.json) |
 | Bitty Knight | 284006 | [284006-bitty-knight.json](./284006-bitty-knight.json) |
 | BitVault | 129682 | [129682-bitvault.json](./129682-bitvault.json) |
@@ -11347,6 +11348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakfast Bar Tycoon: Complete Edition | 199897 | [199897-breakfast-bar-tycoon-complete-edition.json](./199897-breakfast-bar-tycoon-complete-edition.json) |
 | Breakfast Bar Tycoon: Couch Co-op Edition | 260049 | [260049-breakfast-bar-tycoon-couch-co-op-edition.json](./260049-breakfast-bar-tycoon-couch-co-op-edition.json) |
 | Breakfast Bar Tycoon: Definitive Edition | 333719 | [333719-breakfast-bar-tycoon-definitive-edition.json](./333719-breakfast-bar-tycoon-definitive-edition.json) |
+| Breakfast Bar Tycoon: Deluxe Edition | 225506 | [225506-breakfast-bar-tycoon-deluxe-edition.json](./225506-breakfast-bar-tycoon-deluxe-edition.json) |
 | Breakfast Bar Tycoon: Expansion Pack | 238017 | [238017-breakfast-bar-tycoon-expansion-pack.json](./238017-breakfast-bar-tycoon-expansion-pack.json) |
 | Breakfast Bar Tycoon: Expansion Pack 2 | 199829 | [199829-breakfast-bar-tycoon-expansion-pack-2.json](./199829-breakfast-bar-tycoon-expansion-pack-2.json) |
 | Breakfast Bar Tycoon: Premium Edition | 231220 | [231220-breakfast-bar-tycoon-premium-edition.json](./231220-breakfast-bar-tycoon-premium-edition.json) |
