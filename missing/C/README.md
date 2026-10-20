@@ -6801,6 +6801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Content Creator Pack: Skyscrapers | 226302 | [226302-cities-skylines-content-creator-pack-skyscrapers.json](./226302-cities-skylines-content-creator-pack-skyscrapers.json) |
 | Cities: Skylines - Content Creator Pack: Sports Venues | 241800 | [241800-cities-skylines-content-creator-pack-sports-venues.json](./241800-cities-skylines-content-creator-pack-sports-venues.json) |
 | Cities: Skylines - Content Creator Pack: Train Stations | 149998 | [149998-cities-skylines-content-creator-pack-train-stations.json](./149998-cities-skylines-content-creator-pack-train-stations.json) |
+| Cities: Skylines - Downtown Bundle | 215563 | [215563-cities-skylines-downtown-bundle.json](./215563-cities-skylines-downtown-bundle.json) |
 | Cities: Skylines - Financial Districts | 226303 | [226303-cities-skylines-financial-districts.json](./226303-cities-skylines-financial-districts.json) |
 | Cities: Skylines - Hotels & Retreats | 249189 | [249189-cities-skylines-hotels-and-retreats.json](./249189-cities-skylines-hotels-and-retreats.json) |
 | Cities: Skylines - Hotels & Retreats Bundle | 252592 | [252592-cities-skylines-hotels-and-retreats-bundle.json](./252592-cities-skylines-hotels-and-retreats-bundle.json) |
@@ -6819,6 +6820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Snowfall | 16602 | [16602-cities-skylines-snowfall.json](./16602-cities-skylines-snowfall.json) |
 | Cities: Skylines - Sunny Breeze Radio | 149997 | [149997-cities-skylines-sunny-breeze-radio.json](./149997-cities-skylines-sunny-breeze-radio.json) |
 | Cities: Skylines - Sunset Harbor | 142107 | [142107-cities-skylines-sunset-harbor.json](./142107-cities-skylines-sunset-harbor.json) |
+| Cities: Skylines - Ultimate Content Bundle | 215562 | [215562-cities-skylines-ultimate-content-bundle.json](./215562-cities-skylines-ultimate-content-bundle.json) |
 | Cities: Skylines - World Tour Bundle | 240904 | [240904-cities-skylines-world-tour-bundle.json](./240904-cities-skylines-world-tour-bundle.json) |
 | Cities: Skylines - World Tour Bundle 2 | 243292 | [243292-cities-skylines-world-tour-bundle-2.json](./243292-cities-skylines-world-tour-bundle-2.json) |
 | Cities: Skylines II | 240902 | [240902-cities-skylines-ii.json](./240902-cities-skylines-ii.json) |
@@ -13767,6 +13769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader Kings III: Crowns of the World | 352848 | [352848-crusader-kings-iii-crowns-of-the-world.json](./352848-crusader-kings-iii-crowns-of-the-world.json) |
 | Crusader Kings III: Fashion of the Abbasid Court | 286097 | [286097-crusader-kings-iii-fashion-of-the-abbasid-court.json](./286097-crusader-kings-iii-fashion-of-the-abbasid-court.json) |
 | Crusader Kings III: Fate of Iberia | 203964 | [203964-crusader-kings-iii-fate-of-iberia.json](./203964-crusader-kings-iii-fate-of-iberia.json) |
+| Crusader Kings III: Friends & Foes | 215534 | [215534-crusader-kings-iii-friends-and-foes.json](./215534-crusader-kings-iii-friends-and-foes.json) |
 | Crusader Kings III: Khans of the Steppe | 343945 | [343945-crusader-kings-iii-khans-of-the-steppe.json](./343945-crusader-kings-iii-khans-of-the-steppe.json) |
 | Crusader Kings III: Legends of the Dead | 289167 | [289167-crusader-kings-iii-legends-of-the-dead.json](./289167-crusader-kings-iii-legends-of-the-dead.json) |
 | Crusader Kings III: Northern Lords | 164510 | [164510-crusader-kings-iii-northern-lords.json](./164510-crusader-kings-iii-northern-lords.json) |
@@ -15176,6 +15179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Arena | 74481 | [74481-cyber-arena.json](./74481-cyber-arena.json) |
 | Cyber Assault | 257899 | [257899-cyber-assault.json](./257899-cyber-assault.json) |
 | Cyber Attack | 157205 | [157205-cyber-attack.json](./157205-cyber-attack.json) |
+| Cyber Attack | 215535 | [215535-cyber-attack.json](./215535-cyber-attack.json) |
 | Cyber Avenger | 267467 | [267467-cyber-avenger.json](./267467-cyber-avenger.json) |
 | Cyber Badminton 2020 | 164051 | [164051-cyber-badminton-2020.json](./164051-cyber-badminton-2020.json) |
 | Cyber Battle 69 | 131608 | [131608-cyber-battle-69.json](./131608-cyber-battle-69.json) |
@@ -15257,6 +15261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Parkour | 317387 | [317387-cyber-parkour.json](./317387-cyber-parkour.json) |
 | Cyber Photographer | 68036 | [68036-cyber-photographer.json](./68036-cyber-photographer.json) |
 | Cyber Prison Management | 259505 | [259505-cyber-prison-management.json](./259505-cyber-prison-management.json) |
+| Cyber Protocol + Clumsy Rush + Brawl Chess | 215558 | [215558-cyber-protocol-clumsy-rush-brawl-chess.json](./215558-cyber-protocol-clumsy-rush-brawl-chess.json) |
 | Cyber Protocol Prologue | 213340 | [213340-cyber-protocol-prologue.json](./213340-cyber-protocol-prologue.json) |
 | Cyber Protocol: Retro Arcade | 219467 | [219467-cyber-protocol-retro-arcade.json](./219467-cyber-protocol-retro-arcade.json) |
 | Cyber Puncake | 276680 | [276680-cyber-puncake.json](./276680-cyber-puncake.json) |
