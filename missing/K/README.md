@@ -916,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katjepult | 182536 | [182536-katjepult.json](./182536-katjepult.json) |
 | Kato | 161225 | [161225-kato.json](./161225-kato.json) |
 | Kato Pirato | 340785 | [340785-kato-pirato.json](./340785-kato-pirato.json) |
+| Katoa | 248438 | [248438-katoa.json](./248438-katoa.json) |
 | Katou Hifumi Kudan Kanshuu Hifumin No Shogi Dojo | 136881 | [136881-katou-hifumi-kudan-kanshuu-hifumin-no-shogi-dojo.json](./136881-katou-hifumi-kudan-kanshuu-hifumin-no-shogi-dojo.json) |
 | Katou Hifumi Kudan no Shogi Kyoushitsu | 97858 | [97858-katou-hifumi-kudan-no-shogi-kyoushitsu.json](./97858-katou-hifumi-kudan-no-shogi-kyoushitsu.json) |
 | Katou Hifumi Kudan Shogi Club | 37742 | [37742-katou-hifumi-kudan-shogi-club.json](./37742-katou-hifumi-kudan-shogi-club.json) |
