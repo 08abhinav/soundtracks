@@ -2217,6 +2217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball | 11412 | [11412-baseball.json](./11412-baseball.json) |
 | Baseball | 128484 | [128484-baseball.json](./128484-baseball.json) |
 | Baseball | 131527 | [131527-baseball.json](./131527-baseball.json) |
+| Baseball | 217727 | [217727-baseball.json](./217727-baseball.json) |
 | Baseball | 217826 | [217826-baseball.json](./217826-baseball.json) |
 | Baseball | 217827 | [217827-baseball.json](./217827-baseball.json) |
 | Baseball | 245560 | [245560-baseball.json](./245560-baseball.json) |
@@ -4445,6 +4446,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beep Boop | 249744 | [249744-beep-boop.json](./249744-beep-boop.json) |
 | Beep Boop | 319000 | [319000-beep-boop.json](./319000-beep-boop.json) |
 | Beep-Beeb | 15670 | [15670-beep-beeb.json](./15670-beep-beeb.json) |
+| Beepers: All Pro Basketball | 217726 | [217726-beepers-all-pro-basketball.json](./217726-beepers-all-pro-basketball.json) |
+| Beepers: MVP Baseball | 217738 | [217738-beepers-mvp-baseball.json](./217738-beepers-mvp-baseball.json) |
 | Beepertron | 84239 | [84239-beepertron.json](./84239-beepertron.json) |
 | Beeps | 255511 | [255511-beeps.json](./255511-beeps.json) |
 | Beer & Plunder | 320868 | [320868-beer-and-plunder.json](./320868-beer-and-plunder.json) |
@@ -5835,6 +5838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikeout | 244505 | [244505-bikeout.json](./244505-bikeout.json) |
 | Biker Garage | 113048 | [113048-biker-garage.json](./113048-biker-garage.json) |
 | Biker Mice from Mars | 100294 | [100294-biker-mice-from-mars.json](./100294-biker-mice-from-mars.json) |
+| Biker Mice from Mars | 217747 | [217747-biker-mice-from-mars.json](./217747-biker-mice-from-mars.json) |
 | Biker Mice From Mars | 15915 | [15915-biker-mice-from-mars.json](./15915-biker-mice-from-mars.json) |
 | Bikerz | 119018 | [119018-bikerz.json](./119018-bikerz.json) |
 | biketerra | 316177 | [316177-biketerra.json](./316177-biketerra.json) |
