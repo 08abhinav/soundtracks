@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T22:22:19.084Z",
-  "total_missing": 239357,
+  "generated_at": "2026-10-20T22:26:26.500Z",
+  "total_missing": 239356,
   "games": [
     {
       "igdb_id": 191680,
@@ -889815,11 +889815,6 @@
       "igdb_id": 45329,
       "game_name": "Skateball",
       "file": "missing/S/45329-skateball.json"
-    },
-    {
-      "igdb_id": 111813,
-      "game_name": "Skatebird",
-      "file": "missing/S/111813-skatebird.json"
     },
     {
       "igdb_id": 89059,
