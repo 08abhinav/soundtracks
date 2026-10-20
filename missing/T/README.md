@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Gun | 191092 | [191092-table-gun.json](./191092-table-gun.json) |
 | Table Ice Hockey | 64348 | [64348-table-ice-hockey.json](./64348-table-ice-hockey.json) |
 | Table Letters | 283837 | [283837-table-letters.json](./283837-table-letters.json) |
+| Table Magic | 230707 | [230707-table-magic.json](./230707-table-magic.json) |
 | Table of Tales: The Crooked Crown | 103347 | [103347-table-of-tales-the-crooked-crown.json](./103347-table-of-tales-the-crooked-crown.json) |
 | Table Party | 276641 | [276641-table-party.json](./276641-table-party.json) |
 | Table Soccer | 94130 | [94130-table-soccer.json](./94130-table-soccer.json) |
@@ -8768,6 +8769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King's Courier | 335242 | [335242-the-kings-courier.json](./335242-the-kings-courier.json) |
 | The King's Crown | 231431 | [231431-the-kings-crown.json](./231431-the-kings-crown.json) |
 | The King's Dilemma: Chronicles | 216750 | [216750-the-kings-dilemma-chronicles.json](./216750-the-kings-dilemma-chronicles.json) |
+| The King's Dungeon | 230723 | [230723-the-kings-dungeon.json](./230723-the-kings-dungeon.json) |
 | The King's Feast | 232930 | [232930-the-kings-feast.json](./232930-the-kings-feast.json) |
 | The King's League | 294419 | [294419-the-kings-league.json](./294419-the-kings-league.json) |
 | The King's League: Emblems | 294421 | [294421-the-kings-league-emblems.json](./294421-the-kings-league-emblems.json) |
@@ -22616,6 +22618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Guardian: Collector Shift Defender's Saga | 301536 | [301536-treasure-guardian-collector-shift-defenders-saga.json](./301536-treasure-guardian-collector-shift-defenders-saga.json) |
 | Treasure Hunt | 12969 | [12969-treasure-hunt.json](./12969-treasure-hunt.json) |
 | Treasure Hunt | 208892 | [208892-treasure-hunt.json](./208892-treasure-hunt.json) |
+| Treasure Hunt | 230708 | [230708-treasure-hunt.json](./230708-treasure-hunt.json) |
 | Treasure Hunt | 246370 | [246370-treasure-hunt.json](./246370-treasure-hunt.json) |
 | Treasure Hunt | 293981 | [293981-treasure-hunt.json](./293981-treasure-hunt.json) |
 | Treasure Hunt | 366840 | [366840-treasure-hunt.json](./366840-treasure-hunt.json) |
