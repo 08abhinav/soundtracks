@@ -6612,6 +6612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitten! | 146235 | [146235-bitten.json](./146235-bitten.json) |
 | Bitter | 217336 | [217336-bitter.json](./217336-bitter.json) |
 | Bitter | 312848 | [312848-bitter.json](./312848-bitter.json) |
+| Bitter Belief | 223350 | [223350-bitter-belief.json](./223350-bitter-belief.json) |
 | Bitter Dream | 319660 | [319660-bitter-dream.json](./319660-bitter-dream.json) |
 | Bitter End | 175682 | [175682-bitter-end.json](./175682-bitter-end.json) |
 | Bitter Sweet Memories | 177906 | [177906-bitter-sweet-memories.json](./177906-bitter-sweet-memories.json) |
@@ -6756,6 +6757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Dust | 318211 | [318211-black-dust.json](./318211-black-dust.json) |
 | Black Eagle 2 | 63690 | [63690-black-eagle-2.json](./63690-black-eagle-2.json) |
 | Black Emperor | 125471 | [125471-black-emperor.json](./125471-black-emperor.json) |
+| Black Emperor | 223319 | [223319-black-emperor.json](./223319-black-emperor.json) |
 | Black Equation | 398296 | [398296-black-equation.json](./398296-black-equation.json) |
 | Black Eyes | 229102 | [229102-black-eyes.json](./229102-black-eyes.json) |
 | Black Fairy | 325841 | [325841-black-fairy.json](./325841-black-fairy.json) |
@@ -9216,6 +9218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boil Noodles at Night | 270733 | [270733-boil-noodles-at-night.json](./270733-boil-noodles-at-night.json) |
 | Boin | 394455 | [394455-boin.json](./394455-boin.json) |
 | Boing | 13886 | [13886-boing.json](./13886-boing.json) |
+| Boing | 223338 | [223338-boing.json](./223338-boing.json) |
 | Boing Boing | 303866 | [303866-boing-boing.json](./303866-boing-boing.json) |
 | Boing Boing Bros | 404976 | [404976-boing-boing-bros.json](./404976-boing-boing-bros.json) |
 | Boing Noir | 140356 | [140356-boing-noir.json](./140356-boing-noir.json) |
@@ -11265,6 +11268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breadman | 273591 | [273591-breadman.json](./273591-breadman.json) |
 | Breadskate | 192780 | [192780-breadskate.json](./192780-breadskate.json) |
 | Breadskate Forever | 350543 | [350543-breadskate-forever.json](./350543-breadskate-forever.json) |
+| Breadsticks | 223335 | [223335-breadsticks.json](./223335-breadsticks.json) |
 | Breadwinner VR | 55493 | [55493-breadwinner-vr.json](./55493-breadwinner-vr.json) |
 | Break 'Em All | 20534 | [20534-break-em-all.json](./20534-break-em-all.json) |
 | Break a Leg | 307054 | [307054-break-a-leg.json](./307054-break-a-leg.json) |
@@ -11455,6 +11459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breath of Light | 100615 | [100615-breath-of-light.json](./100615-breath-of-light.json) |
 | Breath of Spirits | 152736 | [152736-breath-of-spirits.json](./152736-breath-of-spirits.json) |
 | Breath of the Depth | 265483 | [265483-breath-of-the-depth.json](./265483-breath-of-the-depth.json) |
+| Breath of the Gods | 223310 | [223310-breath-of-the-gods.json](./223310-breath-of-the-gods.json) |
 | Breath of the NES | 402394 | [402394-breath-of-the-nes.json](./402394-breath-of-the-nes.json) |
 | Breath of the Pasture | 368821 | [368821-breath-of-the-pasture.json](./368821-breath-of-the-pasture.json) |
 | Breath of the Waters: The Angler | 410937 | [410937-breath-of-the-waters-the-angler.json](./410937-breath-of-the-waters-the-angler.json) |
