@@ -876,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dante's Inferno | 28854 | [28854-dantes-inferno.json](./28854-dantes-inferno.json) |
 | Dante's Inferno: Dark Forest Pack | 172772 | [172772-dantes-inferno-dark-forest-pack.json](./172772-dantes-inferno-dark-forest-pack.json) |
 | Dante's Inferno: Divine Edition | 44610 | [44610-dantes-inferno-divine-edition.json](./44610-dantes-inferno-divine-edition.json) |
+| Dante's Inferno: St. Lucia Edition | 232832 | [232832-dantes-inferno-st-lucia-edition.json](./232832-dantes-inferno-st-lucia-edition.json) |
 | Dante's Inferno: Trials of St. Lucia | 21747 | [21747-dantes-inferno-trials-of-st-lucia.json](./21747-dantes-inferno-trials-of-st-lucia.json) |
 | Dante's Infernya | 175841 | [175841-dantes-infernya.json](./175841-dantes-infernya.json) |
 | Dante's Rumba | 412188 | [412188-dantes-rumba.json](./412188-dantes-rumba.json) |
@@ -5992,6 +5993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devilish Candy House | 230324 | [230324-devilish-candy-house.json](./230324-devilish-candy-house.json) |
 | Devilish Cat | 230325 | [230325-devilish-cat.json](./230325-devilish-cat.json) |
 | Devilish Charms | 227946 | [227946-devilish-charms.json](./227946-devilish-charms.json) |
+| Devilish Christmas | 232844 | [232844-devilish-christmas.json](./232844-devilish-christmas.json) |
 | Devilish Cooking | 230321 | [230321-devilish-cooking.json](./230321-devilish-cooking.json) |
 | Devilish Girl | 261885 | [261885-devilish-girl.json](./261885-devilish-girl.json) |
 | Devilish Kisses | 240090 | [240090-devilish-kisses.json](./240090-devilish-kisses.json) |
@@ -5999,6 +6001,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devilish Mahjong Tower | 45537 | [45537-devilish-mahjong-tower.json](./45537-devilish-mahjong-tower.json) |
 | Devilish Pet Salon | 230317 | [230317-devilish-pet-salon.json](./230317-devilish-pet-salon.json) |
 | Devilish Stylist | 230318 | [230318-devilish-stylist.json](./230318-devilish-stylist.json) |
+| Devilish Trick | 232843 | [232843-devilish-trick.json](./232843-devilish-trick.json) |
+| Devilish Valentine | 232842 | [232842-devilish-valentine.json](./232842-devilish-valentine.json) |
 | Devilish: The Next Possession | 46222 | [46222-devilish-the-next-possession.json](./46222-devilish-the-next-possession.json) |
 | Devilition | 318597 | [318597-devilition.json](./318597-devilition.json) |
 | Devilman | 43896 | [43896-devilman.json](./43896-devilman.json) |
@@ -8434,6 +8438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: The Edge of Reality - Digital Deluxe Edition | 237903 | [237903-doctor-who-the-edge-of-reality-digital-deluxe-edition.json](./237903-doctor-who-the-edge-of-reality-digital-deluxe-edition.json) |
 | Doctor Who: The Edge of Time | 118784 | [118784-doctor-who-the-edge-of-time.json](./118784-doctor-who-the-edge-of-time.json) |
 | Doctor Who: The First Adventure | 66678 | [66678-doctor-who-the-first-adventure.json](./66678-doctor-who-the-first-adventure.json) |
+| Doctor Who: The Last Dalek | 232823 | [232823-doctor-who-the-last-dalek.json](./232823-doctor-who-the-last-dalek.json) |
 | Doctor Who: The Lonely Assassins | 144782 | [144782-doctor-who-the-lonely-assassins.json](./144782-doctor-who-the-lonely-assassins.json) |
 | Doctor Who: Thirteen | 240494 | [240494-doctor-who-thirteen.json](./240494-doctor-who-thirteen.json) |
 | Doctor Who: Time Vortex 360 | 263342 | [263342-doctor-who-time-vortex-360.json](./263342-doctor-who-time-vortex-360.json) |
