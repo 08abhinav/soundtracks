@@ -7778,6 +7778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Galaxy | 116454 | [116454-pocket-galaxy.json](./116454-pocket-galaxy.json) |
 | Pocket Garden | 367505 | [367505-pocket-garden.json](./367505-pocket-garden.json) |
 | Pocket GI Stable | 282470 | [282470-pocket-gi-stable.json](./282470-pocket-gi-stable.json) |
+| Pocket Girl: Uketsugareshi Kibou | 206543 | [206543-pocket-girl-uketsugareshi-kibou.json](./206543-pocket-girl-uketsugareshi-kibou.json) |
 | Pocket God | 46743 | [46743-pocket-god.json](./46743-pocket-god.json) |
 | Pocket God vs Desert Ashes | 17866 | [17866-pocket-god-vs-desert-ashes.json](./17866-pocket-god-vs-desert-ashes.json) |
 | Pocket GT | 225807 | [225807-pocket-gt.json](./225807-pocket-gt.json) |
@@ -9868,6 +9869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portland 2024 | 323214 | [323214-portland-2024.json](./323214-portland-2024.json) |
 | Portobello Beat | 228954 | [228954-portobello-beat.json](./228954-portobello-beat.json) |
 | Portobugia | 217377 | [217377-portobugia.json](./217377-portobugia.json) |
+| Porton Make a Sandwich: An Edible Adventure | 206535 | [206535-porton-make-a-sandwich-an-edible-adventure.json](./206535-porton-make-a-sandwich-an-edible-adventure.json) |
 | Portrait | 329036 | [329036-portrait.json](./329036-portrait.json) |
 | Portrait of a Cornish Woman | 319137 | [319137-portrait-of-a-cornish-woman.json](./319137-portrait-of-a-cornish-woman.json) |
 | Portrait of a Ghost | 320911 | [320911-portrait-of-a-ghost.json](./320911-portrait-of-a-ghost.json) |
@@ -12281,6 +12283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Winter: Blackout | 164817 | [164817-project-winter-blackout.json](./164817-project-winter-blackout.json) |
 | Project Worth: Forgather | 211812 | [211812-project-worth-forgather.json](./211812-project-worth-forgather.json) |
 | Project Wunderwaffe | 151085 | [151085-project-wunderwaffe.json](./151085-project-wunderwaffe.json) |
+| Project X | 206539 | [206539-project-x.json](./206539-project-x.json) |
 | Project X | 377577 | [377577-project-x.json](./377577-project-x.json) |
 | Project X | 54994 | [54994-project-x.json](./54994-project-x.json) |
 | Project X Zone | 6864 | [6864-project-x-zone.json](./6864-project-x-zone.json) |
