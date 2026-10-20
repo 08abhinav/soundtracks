@@ -575,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo | 136715 | [136715-echo.json](./136715-echo.json) |
 | Echo | 177546 | [177546-echo.json](./177546-echo.json) |
 | Echo | 19448 | [19448-echo.json](./19448-echo.json) |
+| Echo | 245135 | [245135-echo.json](./245135-echo.json) |
 | Echo | 388923 | [388923-echo.json](./388923-echo.json) |
 | Echo | 388934 | [388934-echo.json](./388934-echo.json) |
 | Echo | 84104 | [84104-echo.json](./84104-echo.json) |
@@ -1830,6 +1831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eleven Eleven | 118433 | [118433-eleven-eleven.json](./118433-eleven-eleven.json) |
 | Eleven Pickleball | 341121 | [341121-eleven-pickleball.json](./341121-eleven-pickleball.json) |
 | Eleven: Table Tennis VR | 32889 | [32889-eleven-table-tennis-vr.json](./32889-eleven-table-tennis-vr.json) |
+| Eleven's Quest | 245183 | [245183-elevens-quest.json](./245183-elevens-quest.json) |
 | Elevenses: The Flask | 123974 | [123974-elevenses-the-flask.json](./123974-elevenses-the-flask.json) |
 | Eleventh: Unsacred | 255165 | [255165-eleventh-unsacred.json](./255165-eleventh-unsacred.json) |
 | Elevral | 393044 | [393044-elevral.json](./393044-elevral.json) |
@@ -3196,6 +3198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entropy graze | 378919 | [378919-entropy-graze.json](./378919-entropy-graze.json) |
 | Entropy Scramble: Cats Doing Science! | 402535 | [402535-entropy-scramble-cats-doing-science.json](./402535-entropy-scramble-cats-doing-science.json) |
 | Entropy: Zero | 127887 | [127887-entropy-zero.json](./127887-entropy-zero.json) |
+| Entropy: Zero - Uprising | 245170 | [245170-entropy-zero-uprising.json](./245170-entropy-zero-uprising.json) |
 | Entropy: Zero 2 | 188671 | [188671-entropy-zero-2.json](./188671-entropy-zero-2.json) |
 | Entropy's Fall | 27592 | [27592-entropys-fall.json](./27592-entropys-fall.json) |
 | Entry | 207567 | [207567-entry.json](./207567-entry.json) |
