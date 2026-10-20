@@ -5877,6 +5877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitch Patter | 273657 | [273657-pitch-patter.json](./273657-pitch-patter.json) |
 | Pitch Perfect Ear Training | 104839 | [104839-pitch-perfect-ear-training.json](./104839-pitch-perfect-ear-training.json) |
 | Pitch Shift | 180676 | [180676-pitch-shift.json](./180676-pitch-shift.json) |
+| Pitch Silent | 230154 | [230154-pitch-silent.json](./230154-pitch-silent.json) |
 | Pitch-Hit | 57710 | [57710-pitch-hit.json](./57710-pitch-hit.json) |
 | Pitch-Hit: Baseball | 31347 | [31347-pitch-hit-baseball.json](./31347-pitch-hit-baseball.json) |
 | Pitcher and the Whale | 153355 | [153355-pitcher-and-the-whale.json](./153355-pitcher-and-the-whale.json) |
@@ -7845,6 +7846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Tarneeb | 317051 | [317051-pocket-tarneeb.json](./317051-pocket-tarneeb.json) |
 | Pocket Thief | 337501 | [337501-pocket-thief.json](./337501-pocket-thief.json) |
 | Pocket Troops | 102236 | [102236-pocket-troops.json](./102236-pocket-troops.json) |
+| Pocket Usatama Easter 2019 Edition | 230130 | [230130-pocket-usatama-easter-2019-edition.json](./230130-pocket-usatama-easter-2019-edition.json) |
 | Pocket Volleyball | 180494 | [180494-pocket-volleyball.json](./180494-pocket-volleyball.json) |
 | Pocket Warriors | 152162 | [152162-pocket-warriors.json](./152162-pocket-warriors.json) |
 | Pocket Wars: Protect or Destroy | 109541 | [109541-pocket-wars-protect-or-destroy.json](./109541-pocket-wars-protect-or-destroy.json) |
@@ -12869,6 +12871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pugnite | 385992 | [385992-pugnite.json](./385992-pugnite.json) |
 | Pugovki | 177051 | [177051-pugovki.json](./177051-pugovki.json) |
 | Pui Pui Molcar Let's! Molcar Party! | 175849 | [175849-pui-pui-molcar-lets-molcar-party.json](./175849-pui-pui-molcar-lets-molcar-party.json) |
+| Pui Pui Molcartchi Driving School ver. | 230159 | [230159-pui-pui-molcartchi-driving-school-ver.json](./230159-pui-pui-molcartchi-driving-school-ver.json) |
 | PUIQ: Demons | 298053 | [298053-puiq-demons.json](./298053-puiq-demons.json) |
 | Puk | 195985 | [195985-puk.json](./195985-puk.json) |
 | Puke | 277256 | [277256-puke.json](./277256-puke.json) |
