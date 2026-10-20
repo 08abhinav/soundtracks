@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T11:18:48.121Z",
-  "total_missing": 237478,
+  "generated_at": "2026-10-20T11:33:40.836Z",
+  "total_missing": 237528,
   "games": [
     {
       "igdb_id": 191680,
@@ -7330,6 +7330,11 @@
       "igdb_id": 99572,
       "game_name": "3 BigEggs",
       "file": "missing/0-9/99572-3-bigeggs.json"
+    },
+    {
+      "igdb_id": 229539,
+      "game_name": "3 Billion Dreams for a Forgiveness Machine",
+      "file": "missing/0-9/229539-3-billion-dreams-for-a-forgiveness-machine.json"
     },
     {
       "igdb_id": 413590,
@@ -49352,6 +49357,16 @@
       "file": "missing/A/341895-animal-crossing-city-folk-deluxe.json"
     },
     {
+      "igdb_id": 229500,
+      "game_name": "Animal Crossing: Classic Game Card - Ice Climber",
+      "file": "missing/A/229500-animal-crossing-classic-game-card-ice-climber.json"
+    },
+    {
+      "igdb_id": 229501,
+      "game_name": "Animal Crossing: Classic Game Card - Mario Bros.",
+      "file": "missing/A/229501-animal-crossing-classic-game-card-mario-bros.json"
+    },
+    {
       "igdb_id": 176552,
       "game_name": "Animal Crossing: New Horizons - Happy Home Paradise",
       "file": "missing/A/176552-animal-crossing-new-horizons-happy-home-paradise.json"
@@ -49567,6 +49582,16 @@
       "file": "missing/A/247971-animal-jigsaw-vr.json"
     },
     {
+      "igdb_id": 229503,
+      "game_name": "Animal Jumprope A",
+      "file": "missing/A/229503-animal-jumprope-a.json"
+    },
+    {
+      "igdb_id": 229505,
+      "game_name": "Animal Jumprope B",
+      "file": "missing/A/229505-animal-jumprope-b.json"
+    },
+    {
       "igdb_id": 56998,
       "game_name": "Animal Kaiser: The King of Animals",
       "file": "missing/A/56998-animal-kaiser-the-king-of-animals.json"
@@ -49715,6 +49740,16 @@
       "igdb_id": 303155,
       "game_name": "Animal Race Run VR",
       "file": "missing/A/303155-animal-race-run-vr.json"
+    },
+    {
+      "igdb_id": 229502,
+      "game_name": "Animal Relay A",
+      "file": "missing/A/229502-animal-relay-a.json"
+    },
+    {
+      "igdb_id": 229504,
+      "game_name": "Animal Relay B",
+      "file": "missing/A/229504-animal-relay-b.json"
     },
     {
       "igdb_id": 169407,
@@ -52215,6 +52250,11 @@
       "igdb_id": 293094,
       "game_name": "Anomalytics: From the Files of the Arcane Statistics Authority",
       "file": "missing/A/293094-anomalytics-from-the-files-of-the-arcane-statistics-authority.json"
+    },
+    {
+      "igdb_id": 229553,
+      "game_name": "Anomiac.",
+      "file": "missing/A/229553-anomiac.json"
     },
     {
       "igdb_id": 397103,
@@ -106950,6 +106990,11 @@
       "igdb_id": 114497,
       "game_name": "Bewildebots",
       "file": "missing/B/114497-bewildebots.json"
+    },
+    {
+      "igdb_id": 229534,
+      "game_name": "Bewilder House",
+      "file": "missing/B/229534-bewilder-house.json"
     },
     {
       "igdb_id": 192640,
@@ -196097,6 +196142,11 @@
       "file": "missing/C/354395-colorwood-words.json"
     },
     {
+      "igdb_id": 229532,
+      "game_name": "ColorWorld",
+      "file": "missing/C/229532-colorworld.json"
+    },
+    {
       "igdb_id": 21043,
       "game_name": "ColorZ",
       "file": "missing/C/21043-colorz.json"
@@ -224217,6 +224267,11 @@
       "file": "missing/C/352828-curtain-drop.json"
     },
     {
+      "igdb_id": 229554,
+      "game_name": "Curtained Moon",
+      "file": "missing/C/229554-curtained-moon.json"
+    },
+    {
       "igdb_id": 367613,
       "game_name": "Curtainfall",
       "file": "missing/C/367613-curtainfall.json"
@@ -239047,6 +239102,11 @@
       "file": "missing/D/164803-dayz-livonia-edition.json"
     },
     {
+      "igdb_id": 229555,
+      "game_name": "Daze",
+      "file": "missing/D/229555-daze.json"
+    },
+    {
       "igdb_id": 7662,
       "game_name": "Daze Before Christmas",
       "file": "missing/D/7662-daze-before-christmas.json"
@@ -240455,6 +240515,11 @@
       "igdb_id": 95953,
       "game_name": "Dead Detective vs Nine Deaths Cat",
       "file": "missing/D/95953-dead-detective-vs-nine-deaths-cat.json"
+    },
+    {
+      "igdb_id": 229535,
+      "game_name": "Dead Dimension",
+      "file": "missing/D/229535-dead-dimension.json"
     },
     {
       "igdb_id": 209479,
@@ -327127,6 +327192,11 @@
       "file": "missing/E/82595-excave.json"
     },
     {
+      "igdb_id": 229550,
+      "game_name": "eXceed 2nd: Vampire",
+      "file": "missing/E/229550-exceed-2nd-vampire.json"
+    },
+    {
       "igdb_id": 80380,
       "game_name": "Exceed 3rd Jade Penetrate",
       "file": "missing/E/80380-exceed-3rd-jade-penetrate.json"
@@ -339445,6 +339515,11 @@
       "igdb_id": 284318,
       "game_name": "Far Cry 3: High Tides",
       "file": "missing/F/284318-far-cry-3-high-tides.json"
+    },
+    {
+      "igdb_id": 229538,
+      "game_name": "Far Cry 3: Monkey Business",
+      "file": "missing/F/229538-far-cry-3-monkey-business.json"
     },
     {
       "igdb_id": 142159,
@@ -353545,6 +353620,11 @@
       "igdb_id": 206762,
       "game_name": "Firearm",
       "file": "missing/F/206762-firearm.json"
+    },
+    {
+      "igdb_id": 229495,
+      "game_name": "Firearms",
+      "file": "missing/F/229495-firearms.json"
     },
     {
       "igdb_id": 335326,
@@ -494232,6 +494312,11 @@
       "file": "missing/I/199644-into-the-dark.json"
     },
     {
+      "igdb_id": 229514,
+      "game_name": "Into the Dark",
+      "file": "missing/I/229514-into-the-dark.json"
+    },
+    {
       "igdb_id": 6613,
       "game_name": "Into the Dark",
       "file": "missing/I/6613-into-the-dark.json"
@@ -495085,6 +495170,11 @@
       "igdb_id": 299473,
       "game_name": "Invasão",
       "file": "missing/I/299473-invasao.json"
+    },
+    {
+      "igdb_id": 229525,
+      "game_name": "Invaseave",
+      "file": "missing/I/229525-invaseave.json"
     },
     {
       "igdb_id": 414161,
@@ -508212,14 +508302,29 @@
       "file": "missing/J/229574-jikkyou-pawafuru-puroyakyu-99-kettei-ban.json"
     },
     {
+      "igdb_id": 229545,
+      "game_name": "Jikkyou Pawafuru Puroyakyu 12: Kettei-ban",
+      "file": "missing/J/229545-jikkyou-pawafuru-puroyakyu-12-kettei-ban.json"
+    },
+    {
       "igdb_id": 78581,
       "game_name": "Jikkyou Pawafuru Puroyakyu 13",
       "file": "missing/J/78581-jikkyou-pawafuru-puroyakyu-13.json"
     },
     {
+      "igdb_id": 229546,
+      "game_name": "Jikkyou Pawafuru Puroyakyu 13: Kettei-ban",
+      "file": "missing/J/229546-jikkyou-pawafuru-puroyakyu-13-kettei-ban.json"
+    },
+    {
       "igdb_id": 69203,
       "game_name": "Jikkyou Pawafuru Puroyakyu 14",
       "file": "missing/J/69203-jikkyou-pawafuru-puroyakyu-14.json"
+    },
+    {
+      "igdb_id": 229547,
+      "game_name": "Jikkyou Pawafuru Puroyakyu 14: Kettei-ban",
+      "file": "missing/J/229547-jikkyou-pawafuru-puroyakyu-14-kettei-ban.json"
     },
     {
       "igdb_id": 69204,
@@ -508235,6 +508340,11 @@
       "igdb_id": 229575,
       "game_name": "Jikkyou Pawafuru Puroyakyu 2000: Kaimaku-ban",
       "file": "missing/J/229575-jikkyou-pawafuru-puroyakyu-2000-kaimaku-ban.json"
+    },
+    {
+      "igdb_id": 229542,
+      "game_name": "Jikkyou Pawafuru Puroyakyu 2000: Kettei-ban",
+      "file": "missing/J/229542-jikkyou-pawafuru-puroyakyu-2000-kettei-ban.json"
     },
     {
       "igdb_id": 229579,
@@ -508317,9 +508427,19 @@
       "file": "missing/J/136734-jikkyou-pawafuru-puroyakyu-6.json"
     },
     {
+      "igdb_id": 229541,
+      "game_name": "Jikkyou Pawafuru Puroyakyu 7: Kettei-ban",
+      "file": "missing/J/229541-jikkyou-pawafuru-puroyakyu-7-kettei-ban.json"
+    },
+    {
       "igdb_id": 74702,
       "game_name": "Jikkyou Pawafuru Puroyakyu 8",
       "file": "missing/J/74702-jikkyou-pawafuru-puroyakyu-8.json"
+    },
+    {
+      "igdb_id": 229543,
+      "game_name": "Jikkyou Pawafuru Puroyakyu 8: Kettei-ban",
+      "file": "missing/J/229543-jikkyou-pawafuru-puroyakyu-8-kettei-ban.json"
     },
     {
       "igdb_id": 98511,
@@ -508360,6 +508480,11 @@
       "igdb_id": 229183,
       "game_name": "Jikkyou Pawafuru Puroyakyu Wii",
       "file": "missing/J/229183-jikkyou-pawafuru-puroyakyu-wii.json"
+    },
+    {
+      "igdb_id": 229540,
+      "game_name": "Jikkyou Pawafuru Puroyakyu Wii: Kettei-ban",
+      "file": "missing/J/229540-jikkyou-pawafuru-puroyakyu-wii-kettei-ban.json"
     },
     {
       "igdb_id": 136732,
@@ -511117,6 +511242,11 @@
       "file": "missing/J/72621-journey-from-darkness-strider-returns.json"
     },
     {
+      "igdb_id": 229528,
+      "game_name": "Journey Home",
+      "file": "missing/J/229528-journey-home.json"
+    },
+    {
       "igdb_id": 243122,
       "game_name": "Journey Into Darkness",
       "file": "missing/J/243122-journey-into-darkness.json"
@@ -511965,6 +512095,11 @@
       "igdb_id": 79960,
       "game_name": "Jubeat",
       "file": "missing/J/79960-jubeat.json"
+    },
+    {
+      "igdb_id": 229537,
+      "game_name": "Jubeat Ave.",
+      "file": "missing/J/229537-jubeat-ave.json"
     },
     {
       "igdb_id": 125280,
@@ -559507,6 +559642,11 @@
       "file": "missing/L/339998-liliths-game.json"
     },
     {
+      "igdb_id": 229508,
+      "game_name": "Lilith's Hunger",
+      "file": "missing/L/229508-liliths-hunger.json"
+    },
+    {
       "igdb_id": 327235,
       "game_name": "Lilith's Lair",
       "file": "missing/L/327235-liliths-lair.json"
@@ -572985,6 +573125,11 @@
       "igdb_id": 259479,
       "game_name": "Love in Lockdown: Ella version",
       "file": "missing/L/259479-love-in-lockdown-ella-version.json"
+    },
+    {
+      "igdb_id": 229512,
+      "game_name": "Love in Login",
+      "file": "missing/L/229512-love-in-login.json"
     },
     {
       "igdb_id": 288898,
@@ -592987,6 +593132,56 @@
       "file": "missing/M/45160-mario-kart-arcade-gp.json"
     },
     {
+      "igdb_id": 229513,
+      "game_name": "Mario Kart Arcade GP DX",
+      "file": "missing/M/229513-mario-kart-arcade-gp-dx.json"
+    },
+    {
+      "igdb_id": 229517,
+      "game_name": "Mario Kart Arcade GP DX: Baby Mario",
+      "file": "missing/M/229517-mario-kart-arcade-gp-dx-baby-mario.json"
+    },
+    {
+      "igdb_id": 229518,
+      "game_name": "Mario Kart Arcade GP DX: Baby Peach",
+      "file": "missing/M/229518-mario-kart-arcade-gp-dx-baby-peach.json"
+    },
+    {
+      "igdb_id": 229519,
+      "game_name": "Mario Kart Arcade GP DX: Daisy",
+      "file": "missing/M/229519-mario-kart-arcade-gp-dx-daisy.json"
+    },
+    {
+      "igdb_id": 229524,
+      "game_name": "Mario Kart Arcade GP DX: Donkey Kong Cup Update",
+      "file": "missing/M/229524-mario-kart-arcade-gp-dx-donkey-kong-cup-update.json"
+    },
+    {
+      "igdb_id": 229521,
+      "game_name": "Mario Kart Arcade GP DX: Jugem",
+      "file": "missing/M/229521-mario-kart-arcade-gp-dx-jugem.json"
+    },
+    {
+      "igdb_id": 229520,
+      "game_name": "Mario Kart Arcade GP DX: King Teresa",
+      "file": "missing/M/229520-mario-kart-arcade-gp-dx-king-teresa.json"
+    },
+    {
+      "igdb_id": 229516,
+      "game_name": "Mario Kart Arcade GP DX: Metal Mario",
+      "file": "missing/M/229516-mario-kart-arcade-gp-dx-metal-mario.json"
+    },
+    {
+      "igdb_id": 229523,
+      "game_name": "Mario Kart Arcade GP DX: Pac-Man Cup Update",
+      "file": "missing/M/229523-mario-kart-arcade-gp-dx-pac-man-cup-update.json"
+    },
+    {
+      "igdb_id": 229515,
+      "game_name": "Mario Kart Arcade GP DX: Rosalina",
+      "file": "missing/M/229515-mario-kart-arcade-gp-dx-rosalina.json"
+    },
+    {
       "igdb_id": 48711,
       "game_name": "Mario Kart Arcade GP VR",
       "file": "missing/M/48711-mario-kart-arcade-gp-vr.json"
@@ -593010,6 +593205,11 @@
       "igdb_id": 313347,
       "game_name": "Mario Kart DS: GameCube Grand Prix",
       "file": "missing/M/313347-mario-kart-ds-gamecube-grand-prix.json"
+    },
+    {
+      "igdb_id": 229509,
+      "game_name": "Mario Kart Midnight",
+      "file": "missing/M/229509-mario-kart-midnight.json"
     },
     {
       "igdb_id": 294712,
@@ -626695,6 +626895,11 @@
       "igdb_id": 380796,
       "game_name": "Mini Running Ant",
       "file": "missing/M/380796-mini-running-ant.json"
+    },
+    {
+      "igdb_id": 229511,
+      "game_name": "Mini Scientist",
+      "file": "missing/M/229511-mini-scientist.json"
     },
     {
       "igdb_id": 155468,
@@ -705375,6 +705580,11 @@
       "igdb_id": 192331,
       "game_name": "Oraxum Trials",
       "file": "missing/O/192331-oraxum-trials.json"
+    },
+    {
+      "igdb_id": 229551,
+      "game_name": "Orb",
+      "file": "missing/O/229551-orb.json"
     },
     {
       "igdb_id": 408650,
@@ -858317,6 +858527,11 @@
       "file": "missing/S/10816-selknam-defense.json"
     },
     {
+      "igdb_id": 229507,
+      "game_name": "Selkö",
+      "file": "missing/S/229507-selko.json"
+    },
+    {
       "igdb_id": 283244,
       "game_name": "Selling Souls",
       "file": "missing/S/283244-selling-souls.json"
@@ -903777,6 +903992,11 @@
       "file": "missing/S/25684-sonic-mania-collectors-edition.json"
     },
     {
+      "igdb_id": 229527,
+      "game_name": "Sonic Mars",
+      "file": "missing/S/229527-sonic-mars.json"
+    },
+    {
       "igdb_id": 332576,
       "game_name": "Sonic Mars Remake",
       "file": "missing/S/332576-sonic-mars-remake.json"
@@ -907820,6 +908040,11 @@
       "igdb_id": 263992,
       "game_name": "Soul of War: Legions",
       "file": "missing/S/263992-soul-of-war-legions.json"
+    },
+    {
+      "igdb_id": 229529,
+      "game_name": "Soul of Yokai",
+      "file": "missing/S/229529-soul-of-yokai.json"
     },
     {
       "igdb_id": 9650,
@@ -933905,6 +934130,11 @@
       "igdb_id": 127867,
       "game_name": "Starship Inspector",
       "file": "missing/S/127867-starship-inspector.json"
+    },
+    {
+      "igdb_id": 229531,
+      "game_name": "Starship Iwamachi",
+      "file": "missing/S/229531-starship-iwamachi.json"
     },
     {
       "igdb_id": 73732,
@@ -975842,6 +976072,11 @@
       "file": "missing/T/336904-tag-war-vr.json"
     },
     {
+      "igdb_id": 229530,
+      "game_name": "Tag with Ryan",
+      "file": "missing/T/229530-tag-with-ryan.json"
+    },
+    {
       "igdb_id": 311703,
       "game_name": "Tag-Along Todd",
       "file": "missing/T/311703-tag-along-todd.json"
@@ -980575,6 +980810,11 @@
       "igdb_id": 77580,
       "game_name": "Tamagotchi no Puchi Puchi Omisecchi: Ninko no Omise Atsumemashita",
       "file": "missing/T/77580-tamagotchi-no-puchi-puchi-omisecchi-ninko-no-omise-atsumemashita.json"
+    },
+    {
+      "igdb_id": 229510,
+      "game_name": "Tamagotchi Ocean",
+      "file": "missing/T/229510-tamagotchi-ocean.json"
     },
     {
       "igdb_id": 229842,
@@ -1178942,6 +1179182,11 @@
       "file": "missing/Z/46083-zanac-x-zanac.json"
     },
     {
+      "igdb_id": 229496,
+      "game_name": "Zandronum",
+      "file": "missing/Z/229496-zandronum.json"
+    },
+    {
       "igdb_id": 233734,
       "game_name": "Zane",
       "file": "missing/Z/233734-zane.json"
@@ -1181370,6 +1181615,11 @@
       "igdb_id": 176984,
       "game_name": "Zero Velocity",
       "file": "missing/Z/176984-zero-velocity.json"
+    },
+    {
+      "igdb_id": 229506,
+      "game_name": "Zero Visibility",
+      "file": "missing/Z/229506-zero-visibility.json"
     },
     {
       "igdb_id": 176960,
