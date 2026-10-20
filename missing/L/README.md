@@ -1690,7 +1690,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn Kana the Fun Way! | 65805 | [65805-learn-kana-the-fun-way.json](./65805-learn-kana-the-fun-way.json) |
 | Learn Katakana!! | 252697 | [252697-learn-katakana.json](./252697-learn-katakana.json) |
 | Learn Math | 92664 | [92664-learn-math.json](./92664-learn-math.json) |
+| Learn Math Advanced | 209894 | [209894-learn-math-advanced.json](./209894-learn-math-advanced.json) |
 | Learn Programming: Python - Retro | 367998 | [367998-learn-programming-python-retro.json](./367998-learn-programming-python-retro.json) |
+| Learn Science | 209895 | [209895-learn-science.json](./209895-learn-science.json) |
 | Learn Shapes | 106006 | [106006-learn-shapes.json](./106006-learn-shapes.json) |
 | Learn Spanish VR | 292690 | [292690-learn-spanish-vr.json](./292690-learn-spanish-vr.json) |
 | Learn Spanish! Easy Vocabulary | 371919 | [371919-learn-spanish-easy-vocabulary.json](./371919-learn-spanish-easy-vocabulary.json) |
@@ -1721,6 +1723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learning Land | 231859 | [231859-learning-land.json](./231859-learning-land.json) |
 | Learning Life: Mysteeri 24/7 | 193434 | [193434-learning-life-mysteeri-24-7.json](./193434-learning-life-mysteeri-24-7.json) |
 | Learning the Ropes | 364673 | [364673-learning-the-ropes.json](./364673-learning-the-ropes.json) |
+| Learning to Spell | 209892 | [209892-learning-to-spell.json](./209892-learning-to-spell.json) |
 | Learning with FuzzyWomp | 72030 | [72030-learning-with-fuzzywomp.json](./72030-learning-with-fuzzywomp.json) |
 | Learning with Leap | 230433 | [230433-learning-with-leap.json](./230433-learning-with-leap.json) |
 | Learning With the PooYoos: Episode 1 | 67206 | [67206-learning-with-the-pooyoos-episode-1.json](./67206-learning-with-the-pooyoos-episode-1.json) |
@@ -2859,6 +2862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Puzzle: Verdant Realms Pack | 303671 | [303671-lets-puzzle-verdant-realms-pack.json](./303671-lets-puzzle-verdant-realms-pack.json) |
 | Let's Quip | 61896 | [61896-lets-quip.json](./61896-lets-quip.json) |
 | Let's Return Home Together | 350967 | [350967-lets-return-home-together.json](./350967-lets-return-home-together.json) |
+| Let's Ride: Horse & Pony | 209883 | [209883-lets-ride-horse-and-pony.json](./209883-lets-ride-horse-and-pony.json) |
 | Let's Ride! Championship Dreams | 72136 | [72136-lets-ride-championship-dreams.json](./72136-lets-ride-championship-dreams.json) |
 | Let's Ride! Silver Buckle Stables | 43522 | [43522-lets-ride-silver-buckle-stables.json](./43522-lets-ride-silver-buckle-stables.json) |
 | Let's Ride!: Dreamer | 49396 | [49396-lets-ride-dreamer.json](./49396-lets-ride-dreamer.json) |
