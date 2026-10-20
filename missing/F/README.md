@@ -1851,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FarKae City | 183835 | [183835-farkae-city.json](./183835-farkae-city.json) |
 | Farkas: the Last Redhaft | 301088 | [301088-farkas-the-last-redhaft.json](./301088-farkas-the-last-redhaft.json) |
 | Farkle King | 243745 | [243745-farkle-king.json](./243745-farkle-king.json) |
+| Farkle mania | 232290 | [232290-farkle-mania.json](./232290-farkle-mania.json) |
 | Farkle with Friends | 338774 | [338774-farkle-with-friends.json](./338774-farkle-with-friends.json) |
 | Farland Saga | 80838 | [80838-farland-saga.json](./80838-farland-saga.json) |
 | Farland Saga I & II: Saturn Tribute | 360013 | [360013-farland-saga-i-and-ii-saturn-tribute.json](./360013-farland-saga-i-and-ii-saturn-tribute.json) |
@@ -4870,6 +4871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishbowl | 68629 | [68629-fishbowl.json](./68629-fishbowl.json) |
 | Fishbowl Kid | 235787 | [235787-fishbowl-kid.json](./235787-fishbowl-kid.json) |
 | FishCo | 206764 | [206764-fishco.json](./206764-fishco.json) |
+| Fishdom Solitaire | 232297 | [232297-fishdom-solitaire.json](./232297-fishdom-solitaire.json) |
 | Fishdom: Deep Dive | 197359 | [197359-fishdom-deep-dive.json](./197359-fishdom-deep-dive.json) |
 | Fishdom: Seasons Under the Sea | 294387 | [294387-fishdom-seasons-under-the-sea.json](./294387-fishdom-seasons-under-the-sea.json) |
 | Fisher Birds HD | 257010 | [257010-fisher-birds-hd.json](./257010-fisher-birds-hd.json) |
@@ -5973,6 +5975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipper Hazard 2 | 54483 | [54483-flipper-hazard-2.json](./54483-flipper-hazard-2.json) |
 | Flipper Hazard 4 | 55239 | [55239-flipper-hazard-4.json](./55239-flipper-hazard-4.json) |
 | Flipper Hazard 5 | 55442 | [55442-flipper-hazard-5.json](./55442-flipper-hazard-5.json) |
+| Flipper Island | 232296 | [232296-flipper-island.json](./232296-flipper-island.json) |
 | Flipper Mechanic | 117798 | [117798-flipper-mechanic.json](./117798-flipper-mechanic.json) |
 | Flipper Mechanic Simulator | 244789 | [244789-flipper-mechanic-simulator.json](./244789-flipper-mechanic-simulator.json) |
 | Flipper on Recoil | 391227 | [391227-flipper-on-recoil.json](./391227-flipper-on-recoil.json) |
