@@ -876,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edelweiss | 184303 | [184303-edelweiss.json](./184303-edelweiss.json) |
 | Edelweiss Eidenjima Complete Pack | 126326 | [126326-edelweiss-eidenjima-complete-pack.json](./126326-edelweiss-eidenjima-complete-pack.json) |
 | Edelweiss Knights | 386867 | [386867-edelweiss-knights.json](./386867-edelweiss-knights.json) |
+| Edemn | 240634 | [240634-edemn.json](./240634-edemn.json) |
 | Edemn: Cyborg Skeleton | 249718 | [249718-edemn-cyborg-skeleton.json](./249718-edemn-cyborg-skeleton.json) |
 | Eden | 170276 | [170276-eden.json](./170276-eden.json) |
 | Eden | 185365 | [185365-eden.json](./185365-eden.json) |
@@ -2123,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emazing Mazes | 209200 | [209200-emazing-mazes.json](./209200-emazing-mazes.json) |
 | Embark | 83286 | [83286-embark.json](./83286-embark.json) |
 | Embark Untitled Game | 115446 | [115446-embark-untitled-game.json](./115446-embark-untitled-game.json) |
+| Embarrassed Shina-chan: The Naked Wandering College Girl | 240630 | [240630-embarrassed-shina-chan-the-naked-wandering-college-girl.json](./240630-embarrassed-shina-chan-the-naked-wandering-college-girl.json) |
 | Embassy Assault | 12935 | [12935-embassy-assault.json](./12935-embassy-assault.json) |
 | Embattled | 261872 | [261872-embattled.json](./261872-embattled.json) |
 | Ember & Blade | 340741 | [340741-ember-and-blade.json](./340741-ember-and-blade.json) |
@@ -5141,6 +5143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everybody's RPG: Reborn | 147318 | [147318-everybodys-rpg-reborn.json](./147318-everybodys-rpg-reborn.json) |
 | Everybody's Sad | 113672 | [113672-everybodys-sad.json](./113672-everybodys-sad.json) |
 | Everybody's Solitary | 183817 | [183817-everybodys-solitary.json](./183817-everybodys-solitary.json) |
+| Everybody's Stranger | 240641 | [240641-everybodys-stranger.json](./240641-everybodys-stranger.json) |
 | Everyday Baseball VR | 107415 | [107415-everyday-baseball-vr.json](./107415-everyday-baseball-vr.json) |
 | Everyday Devil | 380839 | [380839-everyday-devil.json](./380839-everyday-devil.json) |
 | Everyday Heroines: 3 in 1 | 332012 | [332012-everyday-heroines-3-in-1.json](./332012-everyday-heroines-3-in-1.json) |
@@ -5616,6 +5619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit 3: Painter | 75497 | [75497-exit-3-painter.json](./75497-exit-3-painter.json) |
 | Exit 8 / Platform 8 | 404112 | [404112-exit-8-platform-8.json](./404112-exit-8-platform-8.json) |
 | Exit Control | 368486 | [368486-exit-control.json](./368486-exit-control.json) |
+| Exit Doors | 240639 | [240639-exit-doors.json](./240639-exit-doors.json) |
 | Exit DS | 21471 | [21471-exit-ds.json](./21471-exit-ds.json) |
 | Exit Fate | 124555 | [124555-exit-fate.json](./124555-exit-fate.json) |
 | Exit From | 119692 | [119692-exit-from.json](./119692-exit-from.json) |
