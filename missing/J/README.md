@@ -2929,6 +2929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Another Guild Day | 414156 | [414156-just-another-guild-day.json](./414156-just-another-guild-day.json) |
 | Just Another Jump and Run | 195554 | [195554-just-another-jump-and-run.json](./195554-just-another-jump-and-run.json) |
 | Just Another Memory | 120914 | [120914-just-another-memory.json](./120914-just-another-memory.json) |
+| Just Another Night Shift | 249063 | [249063-just-another-night-shift.json](./249063-just-another-night-shift.json) |
 | Just Another Platformer | 316052 | [316052-just-another-platformer.json](./316052-just-another-platformer.json) |
 | Just Another Point n Click Adventure | 170042 | [170042-just-another-point-n-click-adventure.json](./170042-just-another-point-n-click-adventure.json) |
 | Just Another Pong Clone | 361736 | [361736-just-another-pong-clone.json](./361736-just-another-pong-clone.json) |
