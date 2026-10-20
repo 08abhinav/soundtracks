@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labor Power | 312301 | [312301-labor-power.json](./312301-labor-power.json) |
 | Labor Rights Funeral in Ukraine | 379962 | [379962-labor-rights-funeral-in-ukraine.json](./379962-labor-rights-funeral-in-ukraine.json) |
 | Laboratory X-29 | 258550 | [258550-laboratory-x-29.json](./258550-laboratory-x-29.json) |
+| LaborSurviveManual | 246825 | [246825-laborsurvivemanual.json](./246825-laborsurvivemanual.json) |
 | LabRat | 139925 | [139925-labrat.json](./139925-labrat.json) |
 | LabTrainingVR: Personal Protective - Equipment Edition | 174091 | [174091-labtrainingvr-personal-protective-equipment-edition.json](./174091-labtrainingvr-personal-protective-equipment-edition.json) |
 | Labublas: Battle Royale Shooter | 359987 | [359987-labublas-battle-royale-shooter.json](./359987-labublas-battle-royale-shooter.json) |
@@ -726,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laruaville 6 | 265537 | [265537-laruaville-6.json](./265537-laruaville-6.json) |
 | Laruaville 8 | 270079 | [270079-laruaville-8.json](./270079-laruaville-8.json) |
 | Laruaville 9 | 270047 | [270047-laruaville-9.json](./270047-laruaville-9.json) |
+| Laruaville Match 3 Puzzle | 246812 | [246812-laruaville-match-3-puzzle.json](./246812-laruaville-match-3-puzzle.json) |
 | Larut | 318824 | [318824-larut.json](./318824-larut.json) |
 | Larva Mortus | 15780 | [15780-larva-mortus.json](./15780-larva-mortus.json) |
 | Las Aventuras de Frank el Enano | 317098 | [317098-las-aventuras-de-frank-el-enano.json](./317098-las-aventuras-de-frank-el-enano.json) |
@@ -3238,6 +3240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lichenia | 138271 | [138271-lichenia.json](./138271-lichenia.json) |
 | Lichess | 122008 | [122008-lichess.json](./122008-lichess.json) |
 | Lichgate: Tower Survivor | 357846 | [357846-lichgate-tower-survivor.json](./357846-lichgate-tower-survivor.json) |
+| Lichkeeper | 246813 | [246813-lichkeeper.json](./246813-lichkeeper.json) |
 | Licht plus for Playdate | 230791 | [230791-licht-plus-for-playdate.json](./230791-licht-plus-for-playdate.json) |
 | Lichtreich: Willa | 230780 | [230780-lichtreich-willa.json](./230780-lichtreich-willa.json) |
 | Lichtung | 415105 | [415105-lichtung.json](./415105-lichtung.json) |
