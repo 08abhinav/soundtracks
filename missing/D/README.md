@@ -6076,6 +6076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dia Horizon | 149966 | [149966-dia-horizon.json](./149966-dia-horizon.json) |
 | Diaball | 176485 | [176485-diaball.json](./176485-diaball.json) |
 | Diabetor & The Sugar Monsters | 278736 | [278736-diabetor-and-the-sugar-monsters.json](./278736-diabetor-and-the-sugar-monsters.json) |
+| Diablo | 247342 | [247342-diablo.json](./247342-diablo.json) |
 | Diablo II: Resurrected | 142803 | [142803-diablo-ii-resurrected.json](./142803-diablo-ii-resurrected.json) |
 | Diablo II: Resurrected - Prime Evil Collection | 155099 | [155099-diablo-ii-resurrected-prime-evil-collection.json](./155099-diablo-ii-resurrected-prime-evil-collection.json) |
 | Diablo II: Resurrected - Reign of the Warlock | 389355 | [389355-diablo-ii-resurrected-reign-of-the-warlock.json](./389355-diablo-ii-resurrected-reign-of-the-warlock.json) |
@@ -8270,6 +8271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do-Konjou Shougakusei: Bon Bita - Hadaka no Choujou Ketsusen!! Bita vs. Dokuro Dei! | 269574 | [269574-do-konjou-shougakusei-bon-bita-hadaka-no-choujou-ketsusen-bita-vs-dokuro-dei.json](./269574-do-konjou-shougakusei-bon-bita-hadaka-no-choujou-ketsusen-bita-vs-dokuro-dei.json) |
 | Do-M Imouto O-nedari Kojin Lesson: Watashi no Sex Katei-kyoushi Oniichan | 108917 | [108917-do-m-imouto-o-nedari-kojin-lesson-watashi-no-sex-katei-kyoushi-oniichan.json](./108917-do-m-imouto-o-nedari-kojin-lesson-watashi-no-sex-katei-kyoushi-oniichan.json) |
 | Do! Run Run | 12729 | [12729-do-run-run.json](./12729-do-run-run.json) |
+| Do.It! | 247323 | [247323-do-it.json](./247323-do-it.json) |
 | Doala de Wii | 81237 | [81237-doala-de-wii.json](./81237-doala-de-wii.json) |
 | Doamari | 412340 | [412340-doamari.json](./412340-doamari.json) |
 | Doashime | 274538 | [274538-doashime.json](./274538-doashime.json) |
@@ -12104,6 +12106,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift King: Survival | 30601 | [30601-drift-king-survival.json](./30601-drift-king-survival.json) |
 | Drift Legends | 89647 | [89647-drift-legends.json](./89647-drift-legends.json) |
 | Drift Legends 2 | 266258 | [266258-drift-legends-2.json](./266258-drift-legends-2.json) |
+| Drift Long Racing: CyberCity | 247335 | [247335-drift-long-racing-cybercity.json](./247335-drift-long-racing-cybercity.json) |
+| Drift Long Racing: JapaneseCity | 247338 | [247338-drift-long-racing-japanesecity.json](./247338-drift-long-racing-japanesecity.json) |
+| Drift Long Racing: JapaneseNightCity | 247336 | [247336-drift-long-racing-japanesenightcity.json](./247336-drift-long-racing-japanesenightcity.json) |
+| Drift Long Racing: JapaneseStreet | 247339 | [247339-drift-long-racing-japanesestreet.json](./247339-drift-long-racing-japanesestreet.json) |
+| Drift Long Racing: SovietCity | 247337 | [247337-drift-long-racing-sovietcity.json](./247337-drift-long-racing-sovietcity.json) |
 | Drift Mania | 161412 | [161412-drift-mania.json](./161412-drift-mania.json) |
 | Drift Mania Championship | 88226 | [88226-drift-mania-championship.json](./88226-drift-mania-championship.json) |
 | Drift Mania Championship 2 | 104521 | [104521-drift-mania-championship-2.json](./104521-drift-mania-championship-2.json) |
