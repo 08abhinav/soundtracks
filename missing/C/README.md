@@ -6708,6 +6708,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities of the World Jigsaw Puzzles - New York | 248711 | [248711-cities-of-the-world-jigsaw-puzzles-new-york.json](./248711-cities-of-the-world-jigsaw-puzzles-new-york.json) |
 | Cities of the World Jigsaw Puzzles - Paris | 248710 | [248710-cities-of-the-world-jigsaw-puzzles-paris.json](./248710-cities-of-the-world-jigsaw-puzzles-paris.json) |
 | Cities of the World Jigsaw Puzzles - Sydney | 248709 | [248709-cities-of-the-world-jigsaw-puzzles-sydney.json](./248709-cities-of-the-world-jigsaw-puzzles-sydney.json) |
+| Cities of the World Jigsaw Puzzles: Mexico City | 249604 | [249604-cities-of-the-world-jigsaw-puzzles-mexico-city.json](./249604-cities-of-the-world-jigsaw-puzzles-mexico-city.json) |
+| Cities of the World Jigsaw Puzzles: Rio de Janeiro | 249603 | [249603-cities-of-the-world-jigsaw-puzzles-rio-de-janeiro.json](./249603-cities-of-the-world-jigsaw-puzzles-rio-de-janeiro.json) |
 | Cities of the World Jigsaw Puzzles: Sao Paulo | 249298 | [249298-cities-of-the-world-jigsaw-puzzles-sao-paulo.json](./249298-cities-of-the-world-jigsaw-puzzles-sao-paulo.json) |
 | Cities of the World Jigsaw Puzzles: Venice | 249297 | [249297-cities-of-the-world-jigsaw-puzzles-venice.json](./249297-cities-of-the-world-jigsaw-puzzles-venice.json) |
 | Cities Restored | 211995 | [211995-cities-restored.json](./211995-cities-restored.json) |
@@ -6723,11 +6725,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Coast to Coast Radio | 149996 | [149996-cities-skylines-coast-to-coast-radio.json](./149996-cities-skylines-coast-to-coast-radio.json) |
 | Cities: Skylines - Content Creator Pack | 241073 | [241073-cities-skylines-content-creator-pack.json](./241073-cities-skylines-content-creator-pack.json) |
 | Cities: Skylines - Content Creator Pack: Bridges & Piers | 149999 | [149999-cities-skylines-content-creator-pack-bridges-and-piers.json](./149999-cities-skylines-content-creator-pack-bridges-and-piers.json) |
+| Cities: Skylines - Content Creator Pack: Brooklyn & Queens | 249602 | [249602-cities-skylines-content-creator-pack-brooklyn-and-queens.json](./249602-cities-skylines-content-creator-pack-brooklyn-and-queens.json) |
 | Cities: Skylines - Content Creator Pack: Heart of Korea | 240928 | [240928-cities-skylines-content-creator-pack-heart-of-korea.json](./240928-cities-skylines-content-creator-pack-heart-of-korea.json) |
+| Cities: Skylines - Content Creator Pack: Industrial Evolution | 249606 | [249606-cities-skylines-content-creator-pack-industrial-evolution.json](./249606-cities-skylines-content-creator-pack-industrial-evolution.json) |
 | Cities: Skylines - Content Creator Pack: Map Pack 2 | 227400 | [227400-cities-skylines-content-creator-pack-map-pack-2.json](./227400-cities-skylines-content-creator-pack-map-pack-2.json) |
 | Cities: Skylines - Content Creator Pack: Mid-Century Modern | 227396 | [227396-cities-skylines-content-creator-pack-mid-century-modern.json](./227396-cities-skylines-content-creator-pack-mid-century-modern.json) |
 | Cities: Skylines - Content Creator Pack: Modern City Center | 149993 | [149993-cities-skylines-content-creator-pack-modern-city-center.json](./149993-cities-skylines-content-creator-pack-modern-city-center.json) |
 | Cities: Skylines - Content Creator Pack: Modern Japan | 149995 | [149995-cities-skylines-content-creator-pack-modern-japan.json](./149995-cities-skylines-content-creator-pack-modern-japan.json) |
+| Cities: Skylines - Content Creator Pack: Railroads of Japan | 249598 | [249598-cities-skylines-content-creator-pack-railroads-of-japan.json](./249598-cities-skylines-content-creator-pack-railroads-of-japan.json) |
 | Cities: Skylines - Content Creator Pack: Seaside Resorts | 241037 | [241037-cities-skylines-content-creator-pack-seaside-resorts.json](./241037-cities-skylines-content-creator-pack-seaside-resorts.json) |
 | Cities: Skylines - Content Creator Pack: Skyscrapers | 226302 | [226302-cities-skylines-content-creator-pack-skyscrapers.json](./226302-cities-skylines-content-creator-pack-skyscrapers.json) |
 | Cities: Skylines - Content Creator Pack: Train Stations | 149998 | [149998-cities-skylines-content-creator-pack-train-stations.json](./149998-cities-skylines-content-creator-pack-train-stations.json) |
@@ -7333,6 +7338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classified: France '44: Overlord Edition | 289415 | [289415-classified-france-44-overlord-edition.json](./289415-classified-france-44-overlord-edition.json) |
 | Classified: The Sentinel Crisis | 5777 | [5777-classified-the-sentinel-crisis.json](./5777-classified-the-sentinel-crisis.json) |
 | ClasSimVR | 219738 | [219738-classimvr.json](./219738-classimvr.json) |
+| Classmates | 249614 | [249614-classmates.json](./249614-classmates.json) |
 | Classroom 0 | 377960 | [377960-classroom-0.json](./377960-classroom-0.json) |
 | Classroom 3B | 423252 | [423252-classroom-3b.json](./423252-classroom-3b.json) |
 | Classroom Mystery Secrets Behind the Lessons | 420681 | [420681-classroom-mystery-secrets-behind-the-lessons.json](./420681-classroom-mystery-secrets-behind-the-lessons.json) |
