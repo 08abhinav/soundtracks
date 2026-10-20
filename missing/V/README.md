@@ -1432,6 +1432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victoria 3: American Buildings Pack | 258895 | [258895-victoria-3-american-buildings-pack.json](./258895-victoria-3-american-buildings-pack.json) |
 | Victoria 3: Colossus of the South | 273972 | [273972-victoria-3-colossus-of-the-south.json](./273972-victoria-3-colossus-of-the-south.json) |
 | Victoria 3: Dawn of Wonder | 258894 | [258894-victoria-3-dawn-of-wonder.json](./258894-victoria-3-dawn-of-wonder.json) |
+| Victoria 3: Day One Edition | 218886 | [218886-victoria-3-day-one-edition.json](./218886-victoria-3-day-one-edition.json) |
 | Victoria 3: Melodies for the Masses Music Pack | 258892 | [258892-victoria-3-melodies-for-the-masses-music-pack.json](./258892-victoria-3-melodies-for-the-masses-music-pack.json) |
 | Victoria 3: Pivot of Empire | 419167 | [419167-victoria-3-pivot-of-empire.json](./419167-victoria-3-pivot-of-empire.json) |
 | Victoria 3: Sphere of Influence | 258893 | [258893-victoria-3-sphere-of-influence.json](./258893-victoria-3-sphere-of-influence.json) |
