@@ -8968,7 +8968,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate Wars | 15368 | [15368-skate-wars.json](./15368-skate-wars.json) |
 | Skate3DRPG | 327045 | [327045-skate3drpg.json](./327045-skate3drpg.json) |
 | Skateball | 45329 | [45329-skateball.json](./45329-skateball.json) |
-| Skatebird | 111813 | [111813-skatebird.json](./111813-skatebird.json) |
 | Skateboard | 89059 | [89059-skateboard.json](./89059-skateboard.json) |
 | Skateboard 3D - Skater Die Hard Skate Boarding Game | 98901 | [98901-skateboard-3d-skater-die-hard-skate-boarding-game.json](./98901-skateboard-3d-skater-die-hard-skate-boarding-game.json) |
 | Skateboard Crazy | 57599 | [57599-skateboard-crazy.json](./57599-skateboard-crazy.json) |
