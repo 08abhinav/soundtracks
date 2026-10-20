@@ -1404,6 +1404,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b2737582b1edfeac005f53f1a49d" width="60" /> | [Shin Megami Tensei V: Vengeance](https://ostdb.net/games/shin-megami-tensei-v-vengeance) | **Shin Megami Tensei V: Vengeance Original Soundtrack** · [Spotify](https://open.spotify.com/album/1zO2V5WtzAHLulAiRUoUcS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738deeb206f36e202570b34a1c" width="60" /> | [Shin Megami Tensei: Devil Survivor Overclocked](https://ostdb.net/games/shin-megami-tensei-devil-survivor-overclocked) | **Shin Megami Tensei: Devil Survivor Overclocked Original SoundTrack** · [Spotify](https://open.spotify.com/album/7v3zzoshkuibcTqvN1a2hW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27337bb627de26af58f737c30c6" width="60" /> | [Shinobi](https://ostdb.net/games/shinobi) | **Shinobi Original Soundtrack** · [Spotify](https://open.spotify.com/album/41QgZ8doUjuQkAkvsYFlp1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27354ede71c7b456aeaf85e1f96" width="60" /> | [Ship of Fools](https://ostdb.net/games/ship-of-fools) | **Ship of Fools (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3AlAfHHR6XjWCvgS8dsrJS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733759235f0bba18d3051dca54" width="60" /> | [Shovel Knight](https://ostdb.net/games/shovel-knight) | **Shovel Knight The Definitive Soundtrack** · [Spotify](https://open.spotify.com/album/0mDSPMGVdWORtoEuxhyMJx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27332eaaf5e0282f4605d34536f" width="60" /> | [Sid Meier's Civilization VI](https://ostdb.net/games/sid-meiers-civilization-vi) | **Sid Meier's Civilization VI (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1JCtcMqTcc3WAP3NuXOIv2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27388a8d6db048ec4364c56583f" width="60" /> | [Sid Meier's Civilization VII](https://ostdb.net/games/sid-meiers-civilization-vii) | **Sid Meier's Civilization VII (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/17m1NgqYE9s4b2MYAdu0hA) |
@@ -1950,4 +1951,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2267 soundtracks · last updated 2026-10-20T21:41:22.201Z_
+_2268 soundtracks · last updated 2026-10-20T21:41:32.615Z_
