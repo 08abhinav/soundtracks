@@ -10378,7 +10378,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SlipSlop | 119736 | [119736-slipslop.json](./119736-slipslop.json) |
 | SlipSpeed | 132818 | [132818-slipspeed.json](./132818-slipspeed.json) |
 | Slipstream | 358437 | [358437-slipstream.json](./358437-slipstream.json) |
-| Slipstream | 75096 | [75096-slipstream.json](./75096-slipstream.json) |
 | Sliptime Sleuth | 132698 | [132698-sliptime-sleuth.json](./132698-sliptime-sleuth.json) |
 | Slipuzzle | 175225 | [175225-slipuzzle.json](./175225-slipuzzle.json) |
 | SlipVector | 412342 | [412342-slipvector.json](./412342-slipvector.json) |
@@ -17450,7 +17449,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squabble | 346738 | [346738-squabble.json](./346738-squabble.json) |
 | Squad | 9495 | [9495-squad.json](./9495-squad.json) |
 | Squad 22: ZOV | 368503 | [368503-squad-22-zov.json](./368503-squad-22-zov.json) |
-| Squad 44 | 81141 | [81141-squad-44.json](./81141-squad-44.json) |
 | Squad 51 vs. the Flying Saucers | 143161 | [143161-squad-51-vs-the-flying-saucers.json](./143161-squad-51-vs-the-flying-saucers.json) |
 | Squad Arcade | 372801 | [372801-squad-arcade.json](./372801-squad-arcade.json) |
 | Squad Assault | 54395 | [54395-squad-assault.json](./54395-squad-assault.json) |
@@ -21189,7 +21187,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter V: Capcom Pro Tour 2020 Premier Pass | 332664 | [332664-street-fighter-v-capcom-pro-tour-2020-premier-pass.json](./332664-street-fighter-v-capcom-pro-tour-2020-premier-pass.json) |
 | Street Fighter V: Capcom Pro Tour 2021 Premier Pass | 332658 | [332658-street-fighter-v-capcom-pro-tour-2021-premier-pass.json](./332658-street-fighter-v-capcom-pro-tour-2021-premier-pass.json) |
 | Street Fighter V: Capcom Pro Tour 2022 Premier Pass | 332661 | [332661-street-fighter-v-capcom-pro-tour-2022-premier-pass.json](./332661-street-fighter-v-capcom-pro-tour-2022-premier-pass.json) |
-| Street Fighter V: Champion Edition | 126095 | [126095-street-fighter-v-champion-edition.json](./126095-street-fighter-v-champion-edition.json) |
 | Street Fighter V: Champion Edition - All Character Pack | 201034 | [201034-street-fighter-v-champion-edition-all-character-pack.json](./201034-street-fighter-v-champion-edition-all-character-pack.json) |
 | Street Fighter V: Cody Travers | 322209 | [322209-street-fighter-v-cody-travers.json](./322209-street-fighter-v-cody-travers.json) |
 | Street Fighter V: Cyber Akuma Skin | 318196 | [318196-street-fighter-v-cyber-akuma-skin.json](./318196-street-fighter-v-cyber-akuma-skin.json) |
@@ -22040,7 +22037,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubers! Dark Covenant | 320229 | [320229-succubers-dark-covenant.json](./320229-succubers-dark-covenant.json) |
 | Succubi Domini | 401043 | [401043-succubi-domini.json](./401043-succubi-domini.json) |
 | SuccuBoss | 367057 | [367057-succuboss.json](./367057-succuboss.json) |
-| Succubus | 114156 | [114156-succubus.json](./114156-succubus.json) |
 | Succubus 2069 | 278897 | [278897-succubus-2069.json](./278897-succubus-2069.json) |
 | Succubus Challenge | 339651 | [339651-succubus-challenge.json](./339651-succubus-challenge.json) |
 | Succubus Connect! | 147388 | [147388-succubus-connect.json](./147388-succubus-connect.json) |
