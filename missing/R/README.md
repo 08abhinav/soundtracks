@@ -3192,6 +3192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redout: V.E.R.T.E.X. Pack | 226974 | [226974-redout-v-e-r-t-e-x-pack.json](./226974-redout-v-e-r-t-e-x-pack.json) |
 | ReDraft: The Fantasy Football Simulator | 414361 | [414361-redraft-the-fantasy-football-simulator.json](./414361-redraft-the-fantasy-football-simulator.json) |
 | ReDrawn: The Painted Tower | 188035 | [188035-redrawn-the-painted-tower.json](./188035-redrawn-the-painted-tower.json) |
+| Redriver 2 | 232854 | [232854-redriver-2.json](./232854-redriver-2.json) |
 | Redrock | 270721 | [270721-redrock.json](./270721-redrock.json) |
 | Redroom | 367532 | [367532-redroom.json](./367532-redroom.json) |
 | ReDrop | 347773 | [347773-redrop.json](./347773-redrop.json) |
