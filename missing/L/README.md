@@ -1758,6 +1758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lèdòng Dárén HD | 101473 | [101473-ledong-daren-hd.json](./101473-ledong-daren-hd.json) |
 | Lee Carvallo's Putting Challenge | 180781 | [180781-lee-carvallos-putting-challenge.json](./180781-lee-carvallos-putting-challenge.json) |
 | Lee Carvallo's Putting Challenge 2 | 308411 | [308411-lee-carvallos-putting-challenge-2.json](./308411-lee-carvallos-putting-challenge-2.json) |
+| Lee Trevino's Fighting Golf | 217735 | [217735-lee-trevinos-fighting-golf.json](./217735-lee-trevinos-fighting-golf.json) |
 | Leedmees | 20158 | [20158-leedmees.json](./20158-leedmees.json) |
 | Leeds United Club Football | 267889 | [267889-leeds-united-club-football.json](./267889-leeds-united-club-football.json) |
 | Leek Factory Tycoon | 297613 | [297613-leek-factory-tycoon.json](./297613-leek-factory-tycoon.json) |
