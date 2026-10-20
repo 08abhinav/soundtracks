@@ -4539,6 +4539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Avengers | 86108 | [86108-the-avengers.json](./86108-the-avengers.json) |
 | The Avengers Pinball | 314916 | [314916-the-avengers-pinball.json](./314916-the-avengers-pinball.json) |
 | The Avengers United Battle Force | 297544 | [297544-the-avengers-united-battle-force.json](./297544-the-avengers-united-battle-force.json) |
+| The Avengers: The Mobile Game | 251377 | [251377-the-avengers-the-mobile-game.json](./251377-the-avengers-the-mobile-game.json) |
 | The Average Everyday Adventures of Samantha Browne | 16984 | [16984-the-average-everyday-adventures-of-samantha-browne.json](./16984-the-average-everyday-adventures-of-samantha-browne.json) |
 | The Aviator Escape | 315788 | [315788-the-aviator-escape.json](./315788-the-aviator-escape.json) |
 | The Avoider | 178976 | [178976-the-avoider.json](./178976-the-avoider.json) |
@@ -6520,6 +6521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Online: Necrom | 233587 | [233587-the-elder-scrolls-online-necrom.json](./233587-the-elder-scrolls-online-necrom.json) |
 | The Elder Scrolls Online: Premium Edition | 136165 | [136165-the-elder-scrolls-online-premium-edition.json](./136165-the-elder-scrolls-online-premium-edition.json) |
 | The Elder Scrolls Online: Scions of Ithelia | 296825 | [296825-the-elder-scrolls-online-scions-of-ithelia.json](./296825-the-elder-scrolls-online-scions-of-ithelia.json) |
+| The Elder Scrolls Online: Scribes of Fate | 251417 | [251417-the-elder-scrolls-online-scribes-of-fate.json](./251417-the-elder-scrolls-online-scribes-of-fate.json) |
 | The Elder Scrolls Online: Season One - Return of the Thieves Guild | 405082 | [405082-the-elder-scrolls-online-season-one-return-of-the-thieves-guild.json](./405082-the-elder-scrolls-online-season-one-return-of-the-thieves-guild.json) |
 | The Elder Scrolls Online: Shadows of the Hist | 128476 | [128476-the-elder-scrolls-online-shadows-of-the-hist.json](./128476-the-elder-scrolls-online-shadows-of-the-hist.json) |
 | The Elder Scrolls Online: Stonethorn | 135827 | [135827-the-elder-scrolls-online-stonethorn.json](./135827-the-elder-scrolls-online-stonethorn.json) |
@@ -9042,6 +9044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last of Us Part II Remastered: Chronological Experience | 382539 | [382539-the-last-of-us-part-ii-remastered-chronological-experience.json](./382539-the-last-of-us-part-ii-remastered-chronological-experience.json) |
 | The Last of Us Part II Remastered: Patch 2.0.0 | 382537 | [382537-the-last-of-us-part-ii-remastered-patch-2-0-0.json](./382537-the-last-of-us-part-ii-remastered-patch-2-0-0.json) |
 | The Last of Us Part II Remastered: W.L.F. Edition | 279776 | [279776-the-last-of-us-part-ii-remastered-w-l-f-edition.json](./279776-the-last-of-us-part-ii-remastered-w-l-f-edition.json) |
+| The Last of Us Part II: Grounded Update | 251381 | [251381-the-last-of-us-part-ii-grounded-update.json](./251381-the-last-of-us-part-ii-grounded-update.json) |
 | The Last of Us Remastered: Day 1 Edition | 89931 | [89931-the-last-of-us-remastered-day-1-edition.json](./89931-the-last-of-us-remastered-day-1-edition.json) |
 | The Last of Us: Between The Years | 305372 | [305372-the-last-of-us-between-the-years.json](./305372-the-last-of-us-between-the-years.json) |
 | The Last of Us: Ellie Edition | 101462 | [101462-the-last-of-us-ellie-edition.json](./101462-the-last-of-us-ellie-edition.json) |
@@ -10956,6 +10959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Owlman of Mawnan Smith | 61084 | [61084-the-owlman-of-mawnan-smith.json](./61084-the-owlman-of-mawnan-smith.json) |
 | The Pack | 113678 | [113678-the-pack.json](./113678-the-pack.json) |
 | The Packages | 212916 | [212916-the-packages.json](./212916-the-packages.json) |
+| The Pact | 251374 | [251374-the-pact.json](./251374-the-pact.json) |
 | The Paddy Field | 328934 | [328934-the-paddy-field.json](./328934-the-paddy-field.json) |
 | The Padre | 74907 | [74907-the-padre.json](./74907-the-padre.json) |
 | The Pagemaster | 209009 | [209009-the-pagemaster.json](./209009-the-pagemaster.json) |
@@ -11165,6 +11169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Planet Crafter: Toxicity | 373883 | [373883-the-planet-crafter-toxicity.json](./373883-the-planet-crafter-toxicity.json) |
 | The Planetarian | 377887 | [377887-the-planetarian.json](./377887-the-planetarian.json) |
 | The Planetary Archive | 406744 | [406744-the-planetary-archive.json](./406744-the-planetary-archive.json) |
+| The Planets | 251367 | [251367-the-planets.json](./251367-the-planets.json) |
 | The Planner: Farming | 53764 | [53764-the-planner-farming.json](./53764-the-planner-farming.json) |
 | The Plant | 105135 | [105135-the-plant.json](./105135-the-plant.json) |
 | The Play's the Thing | 154017 | [154017-the-plays-the-thing.json](./154017-the-plays-the-thing.json) |
@@ -17279,6 +17284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timeout Bistro | 279534 | [279534-timeout-bistro.json](./279534-timeout-bistro.json) |
 | Timepiece Ensemble | 216242 | [216242-timepiece-ensemble.json](./216242-timepiece-ensemble.json) |
 | Timepunk | 220697 | [220697-timepunk.json](./220697-timepunk.json) |
+| TimeQuake | 251370 | [251370-timequake.json](./251370-timequake.json) |
 | Timeray | 288604 | [288604-timeray.json](./288604-timeray.json) |
 | Timerift Raiders: The Past Awakens | 338268 | [338268-timerift-raiders-the-past-awakens.json](./338268-timerift-raiders-the-past-awakens.json) |
 | Timerunner | 161900 | [161900-timerunner.json](./161900-timerunner.json) |
@@ -22834,6 +22840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribulation Knights | 67176 | [67176-tribulation-knights.json](./67176-tribulation-knights.json) |
 | Tribulum | 410983 | [410983-tribulum.json](./410983-tribulum.json) |
 | Tribunal 45 | 381978 | [381978-tribunal-45.json](./381978-tribunal-45.json) |
+| Tribute | 251362 | [251362-tribute.json](./251362-tribute.json) |
 | Tribute | 293387 | [293387-tribute.json](./293387-tribute.json) |
 | Tribute | 338609 | [338609-tribute.json](./338609-tribute.json) |
 | Tribute to Shadow of the Colossus | 310656 | [310656-tribute-to-shadow-of-the-colossus.json](./310656-tribute-to-shadow-of-the-colossus.json) |
