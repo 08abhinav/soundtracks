@@ -2136,7 +2136,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kind Gals | 41325 | [41325-kind-gals.json](./41325-kind-gals.json) |
 | Kind Heart Defenders | 221104 | [221104-kind-heart-defenders.json](./221104-kind-heart-defenders.json) |
 | Kind Nature | 250958 | [250958-kind-nature.json](./250958-kind-nature.json) |
-| Kind Words | 120646 | [120646-kind-words.json](./120646-kind-words.json) |
 | KINDa | 261195 | [261195-kinda.json](./261195-kinda.json) |
 | Kinda Heroes | 172107 | [172107-kinda-heroes.json](./172107-kinda-heroes.json) |
 | Kindai Mahjong Special | 37960 | [37960-kindai-mahjong-special.json](./37960-kindai-mahjong-special.json) |
