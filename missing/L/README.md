@@ -4467,6 +4467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Knight | 341170 | [341170-little-knight.json](./341170-little-knight.json) |
 | Little Knight 2: Old Dreams | 341171 | [341171-little-knight-2-old-dreams.json](./341171-little-knight-2-old-dreams.json) |
 | Little Kong: Jungle Fun | 219285 | [219285-little-kong-jungle-fun.json](./219285-little-kong-jungle-fun.json) |
+| Little Kong: Jungle Fun - Deluxe Edition | 227672 | [227672-little-kong-jungle-fun-deluxe-edition.json](./227672-little-kong-jungle-fun-deluxe-edition.json) |
 | Little Kong: Jungle Fun - Extended Edition | 231264 | [231264-little-kong-jungle-fun-extended-edition.json](./231264-little-kong-jungle-fun-extended-edition.json) |
 | Little Kong: Jungle Fun - Premium Edition | 239481 | [239481-little-kong-jungle-fun-premium-edition.json](./239481-little-kong-jungle-fun-premium-edition.json) |
 | Little Kong: Jungle Fun - Ultimate Edition | 231265 | [231265-little-kong-jungle-fun-ultimate-edition.json](./231265-little-kong-jungle-fun-ultimate-edition.json) |
