@@ -3677,6 +3677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai CyberGirl | 236134 | [236134-hentai-cybergirl.json](./236134-hentai-cybergirl.json) |
 | Hentai Cyberpunk Sci-Fi | 365421 | [365421-hentai-cyberpunk-sci-fi.json](./365421-hentai-cyberpunk-sci-fi.json) |
 | Hentai Dance | 365422 | [365422-hentai-dance.json](./365422-hentai-dance.json) |
+| Hentai DarkElf | 224978 | [224978-hentai-darkelf.json](./224978-hentai-darkelf.json) |
 | Hentai Darts | 165529 | [165529-hentai-darts.json](./165529-hentai-darts.json) |
 | Hentai Dates | 150439 | [150439-hentai-dates.json](./150439-hentai-dates.json) |
 | Hentai Dating Stories: Brazil | 300943 | [300943-hentai-dating-stories-brazil.json](./300943-hentai-dating-stories-brazil.json) |
@@ -7571,6 +7572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Villa | 301642 | [301642-horny-villa.json](./301642-horny-villa.json) |
 | Horny Warp: Hentai Fantasy | 343372 | [343372-horny-warp-hentai-fantasy.json](./343372-horny-warp-hentai-fantasy.json) |
 | Horny Witch Hunt | 212200 | [212200-horny-witch-hunt.json](./212200-horny-witch-hunt.json) |
+| Horny Witch: Crusade | 224960 | [224960-horny-witch-crusade.json](./224960-horny-witch-crusade.json) |
 | Horny Wives' Yoga Class | 393797 | [393797-horny-wives-yoga-class.json](./393797-horny-wives-yoga-class.json) |
 | Horobi Kuchiru Sekai ni Tsuioku no Hanataba wo | 198365 | [198365-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo.json](./198365-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo.json) |
 | Horobi Kuchiru Sekai ni Tsuioku no Hanataba wo: Present For You | 401167 | [401167-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo-present-for-you.json](./401167-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo-present-for-you.json) |
@@ -8625,6 +8627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HubWorld | 135608 | [135608-hubworld.json](./135608-hubworld.json) |
 | Huckleberry Falls | 99125 | [99125-huckleberry-falls.json](./99125-huckleberry-falls.json) |
 | Huckleberry Hound in Hollywood Capers | 73530 | [73530-huckleberry-hound-in-hollywood-capers.json](./73530-huckleberry-hound-in-hollywood-capers.json) |
+| Hüddam | 224956 | [224956-huddam.json](./224956-huddam.json) |
 | Huddam 2 Berzah | 307770 | [307770-huddam-2-berzah.json](./307770-huddam-2-berzah.json) |
 | Hudson 3D Golf | 97679 | [97679-hudson-3d-golf.json](./97679-hudson-3d-golf.json) |
 | Hudson Best Collection Vol. 1: Bomberman Collection | 49496 | [49496-hudson-best-collection-vol-1-bomberman-collection.json](./49496-hudson-best-collection-vol-1-bomberman-collection.json) |
@@ -9119,6 +9122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Clash: Hunter Games | 235294 | [235294-hunting-clash-hunter-games.json](./235294-hunting-clash-hunter-games.json) |
 | Hunting fields of Jackals | 114966 | [114966-hunting-fields-of-jackals.json](./114966-hunting-fields-of-jackals.json) |
 | Hunting Grounds: Whispers Of The Woods | 328323 | [328323-hunting-grounds-whispers-of-the-woods.json](./328323-hunting-grounds-whispers-of-the-woods.json) |
+| Hunting Life VR: Dove Season | 224953 | [224953-hunting-life-vr-dove-season.json](./224953-hunting-life-vr-dove-season.json) |
 | Hunting Moon | 168150 | [168150-hunting-moon.json](./168150-hunting-moon.json) |
 | Hunting Moon vol.2 | 165022 | [165022-hunting-moon-vol-2.json](./165022-hunting-moon-vol-2.json) |
 | Hunting Pack | 373309 | [373309-hunting-pack.json](./373309-hunting-pack.json) |
@@ -9194,6 +9198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hustle Cat | 33277 | [33277-hustle-cat.json](./33277-hustle-cat.json) |
 | Hustle City | 142224 | [142224-hustle-city.json](./142224-hustle-city.json) |
 | Hustle Quest: Historia of Urth | 299155 | [299155-hustle-quest-historia-of-urth.json](./299155-hustle-quest-historia-of-urth.json) |
+| Hustle Simulator | 224980 | [224980-hustle-simulator.json](./224980-hustle-simulator.json) |
 | Hustler | 92282 | [92282-hustler.json](./92282-hustler.json) |
 | Hustomten | 167564 | [167564-hustomten.json](./167564-hustomten.json) |
 | Hutaoriji: Emoji Girl Menhera | 188360 | [188360-hutaoriji-emoji-girl-menhera.json](./188360-hutaoriji-emoji-girl-menhera.json) |
