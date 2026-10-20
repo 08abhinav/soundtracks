@@ -3228,6 +3228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel Horror | 386387 | [386387-reel-horror.json](./386387-reel-horror.json) |
 | Reel it! Ocean Fishing | 362350 | [362350-reel-it-ocean-fishing.json](./362350-reel-it-ocean-fishing.json) |
 | Reel it! World Fishing | 403749 | [403749-reel-it-world-fishing.json](./403749-reel-it-world-fishing.json) |
+| Reel Life | 251963 | [251963-reel-life.json](./251963-reel-life.json) |
 | Reel Me In | 316949 | [316949-reel-me-in.json](./316949-reel-me-in.json) |
 | Reel Run | 367743 | [367743-reel-run.json](./367743-reel-run.json) |
 | Reel Talk: A Thoughtful Fishcussion | 408172 | [408172-reel-talk-a-thoughtful-fishcussion.json](./408172-reel-talk-a-thoughtful-fishcussion.json) |
@@ -8042,6 +8043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ronshade | 264639 | [264639-ronshade.json](./264639-ronshade.json) |
 | Rontgard | 398553 | [398553-rontgard.json](./398553-rontgard.json) |
 | Ronza | 370781 | [370781-ronza.json](./370781-ronza.json) |
+| Roober | 251993 | [251993-roober.json](./251993-roober.json) |
 | Roof Genocide | 193492 | [193492-roof-genocide.json](./193492-roof-genocide.json) |
 | Roof Jump Stunt Driver | 231054 | [231054-roof-jump-stunt-driver.json](./231054-roof-jump-stunt-driver.json) |
 | Roof Jumping: Stunt Driver Sim | 104087 | [104087-roof-jumping-stunt-driver-sim.json](./104087-roof-jumping-stunt-driver-sim.json) |
