@@ -804,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Christmas Escape 3 | 315638 | [315638-magic-christmas-escape-3.json](./315638-magic-christmas-escape-3.json) |
 | Magic Christmas Escape 4 | 315639 | [315639-magic-christmas-escape-4.json](./315639-magic-christmas-escape-4.json) |
 | Magic Circle | 309334 | [309334-magic-circle.json](./309334-magic-circle.json) |
+| Magic City Detective: Rage Under Moon - Collector's Edition | 243546 | [243546-magic-city-detective-rage-under-moon-collectors-edition.json](./243546-magic-city-detective-rage-under-moon-collectors-edition.json) |
 | Magic City Detective: The Carnival Begins - Collector's Edition | 304859 | [304859-magic-city-detective-the-carnival-begins-collectors-edition.json](./304859-magic-city-detective-the-carnival-begins-collectors-edition.json) |
 | Magic City Detective: The Carnival Begins DLC | 361772 | [361772-magic-city-detective-the-carnival-begins-dlc.json](./361772-magic-city-detective-the-carnival-begins-dlc.json) |
 | Magic City Detective: Wings of Revenge - Collector's Edition | 188023 | [188023-magic-city-detective-wings-of-revenge-collectors-edition.json](./188023-magic-city-detective-wings-of-revenge-collectors-edition.json) |
@@ -3264,6 +3265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Blade | 245228 | [245228-mars-blade.json](./245228-mars-blade.json) |
 | Mars Cars | 22498 | [22498-mars-cars.json](./22498-mars-cars.json) |
 | Mars Chaos Madness | 111452 | [111452-mars-chaos-madness.json](./111452-mars-chaos-madness.json) |
+| Mars Colonization | 243548 | [243548-mars-colonization.json](./243548-mars-colonization.json) |
 | Mars Colonization: Survival Simulator | 269995 | [269995-mars-colonization-survival-simulator.json](./269995-mars-colonization-survival-simulator.json) |
 | Mars Colony Builder | 151145 | [151145-mars-colony-builder.json](./151145-mars-colony-builder.json) |
 | Mars Colony: Challenger | 17066 | [17066-mars-colony-challenger.json](./17066-mars-colony-challenger.json) |
@@ -6597,6 +6599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Illusions | 157199 | [157199-memory-illusions.json](./157199-memory-illusions.json) |
 | Memory Kara | 112802 | [112802-memory-kara.json](./112802-memory-kara.json) |
 | Memory Kong | 328596 | [328596-memory-kong.json](./328596-memory-kong.json) |
+| Memory Land Extreme | 243547 | [243547-memory-land-extreme.json](./243547-memory-land-extreme.json) |
 | Memory Lane | 171451 | [171451-memory-lane.json](./171451-memory-lane.json) |
 | Memory Lane | 304178 | [304178-memory-lane.json](./304178-memory-lane.json) |
 | Memory Lane | 62065 | [62065-memory-lane.json](./62065-memory-lane.json) |
@@ -6994,6 +6997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mergical Fun: Match Island | 220199 | [220199-mergical-fun-match-island.json](./220199-mergical-fun-match-island.json) |
 | Mergimals | 98793 | [98793-mergimals.json](./98793-mergimals.json) |
 | Merging City | 266981 | [266981-merging-city.json](./266981-merging-city.json) |
+| Merging Cubes | 243524 | [243524-merging-cubes.json](./243524-merging-cubes.json) |
 | Meria and the Island of Orcs | 195643 | [195643-meria-and-the-island-of-orcs.json](./195643-meria-and-the-island-of-orcs.json) |
 | Merica Tale | 367500 | [367500-merica-tale.json](./367500-merica-tale.json) |
 | Meridian | 312177 | [312177-meridian.json](./312177-meridian.json) |
@@ -11676,6 +11680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Garage | 76139 | [76139-monster-garage.json](./76139-monster-garage.json) |
 | Monster Garden | 75026 | [75026-monster-garden.json](./75026-monster-garden.json) |
 | Monster Girl * Fusion | 82764 | [82764-monster-girl-fusion.json](./82764-monster-girl-fusion.json) |
+| Monster Girl 1,000 | 243531 | [243531-monster-girl-1-000.json](./243531-monster-girl-1-000.json) |
 | Monster Girl 2 | 237291 | [237291-monster-girl-2.json](./237291-monster-girl-2.json) |
 | Monster Girl Clinic | 412305 | [412305-monster-girl-clinic.json](./412305-monster-girl-clinic.json) |
 | Monster Girl Dormitory | 212973 | [212973-monster-girl-dormitory.json](./212973-monster-girl-dormitory.json) |
@@ -14212,6 +14217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiplayer Obby | 274533 | [274533-multiplayer-obby.json](./274533-multiplayer-obby.json) |
 | Multiplayer Platform Golf | 264583 | [264583-multiplayer-platform-golf.json](./264583-multiplayer-platform-golf.json) |
 | Multiplayer RPG | 307737 | [307737-multiplayer-rpg.json](./307737-multiplayer-rpg.json) |
+| Multiplayer Shooter FPS | 243530 | [243530-multiplayer-shooter-fps.json](./243530-multiplayer-shooter-fps.json) |
 | Multiplayer Spiders | 296362 | [296362-multiplayer-spiders.json](./296362-multiplayer-spiders.json) |
 | Multiplayer Survivors | 307738 | [307738-multiplayer-survivors.json](./307738-multiplayer-survivors.json) |
 | Multiplayer Table Football | 182159 | [182159-multiplayer-table-football.json](./182159-multiplayer-table-football.json) |
@@ -15054,6 +15060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dear Boss | 286570 | [286570-my-dear-boss.json](./286570-my-dear-boss.json) |
 | My Dear Brother Jeff | 268660 | [268660-my-dear-brother-jeff.json](./268660-my-dear-brother-jeff.json) |
 | My Dear Can't Speak | 350486 | [350486-my-dear-cant-speak.json](./350486-my-dear-cant-speak.json) |
+| My Dear Dad | 243529 | [243529-my-dear-dad.json](./243529-my-dear-dad.json) |
 | My Dear Delirium | 341349 | [341349-my-dear-delirium.json](./341349-my-dear-delirium.json) |
 | My Dear Farm | 199968 | [199968-my-dear-farm.json](./199968-my-dear-farm.json) |
 | My Dear Hatchet Man | 251074 | [251074-my-dear-hatchet-man.json](./251074-my-dear-hatchet-man.json) |
