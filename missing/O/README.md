@@ -2486,6 +2486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opai Puzzle | 106431 | [106431-opai-puzzle.json](./106431-opai-puzzle.json) |
 | Opal's Quest | 64917 | [64917-opals-quest.json](./64917-opals-quest.json) |
 | Opaldune | 288787 | [288787-opaldune.json](./288787-opaldune.json) |
+| Opalescence | 211049 | [211049-opalescence.json](./211049-opalescence.json) |
 | Opaline | 35246 | [35246-opaline.json](./35246-opaline.json) |
 | Open Bar | 58804 | [58804-open-bar.json](./58804-open-bar.json) |
 | Open Day | 214622 | [214622-open-day.json](./214622-open-day.json) |
