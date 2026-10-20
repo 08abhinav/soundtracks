@@ -4420,7 +4420,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bee Movie Game | 372566 | [372566-bee-movie-game.json](./372566-bee-movie-game.json) |
 | Bee Movie: Pollenation Practice | 325146 | [325146-bee-movie-pollenation-practice.json](./325146-bee-movie-pollenation-practice.json) |
 | Bee my Bloom | 400884 | [400884-bee-my-bloom.json](./400884-bee-my-bloom.json) |
-| Bee Simulator | 106790 | [106790-bee-simulator.json](./106790-bee-simulator.json) |
 | Bee Simulator: The Hive | 335301 | [335301-bee-simulator-the-hive.json](./335301-bee-simulator-the-hive.json) |
 | Bee Streamer Idler | 392773 | [392773-bee-streamer-idler.json](./392773-bee-streamer-idler.json) |
 | Bee Welcome! | 291595 | [291595-bee-welcome.json](./291595-bee-welcome.json) |
@@ -8217,7 +8216,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood & Laurels | 141556 | [141556-blood-and-laurels.json](./141556-blood-and-laurels.json) |
 | Blood & Lust | 338256 | [338256-blood-and-lust.json](./338256-blood-and-lust.json) |
 | Blood & Play: Consultation | 364359 | [364359-blood-and-play-consultation.json](./364359-blood-and-play-consultation.json) |
-| Blood & Truth | 75242 | [75242-blood-and-truth.json](./75242-blood-and-truth.json) |
 | Blood Accord | 338336 | [338336-blood-accord.json](./338336-blood-accord.json) |
 | Blood Alloy: Reborn | 17454 | [17454-blood-alloy-reborn.json](./17454-blood-alloy-reborn.json) |
 | Blood Ancestors | 68712 | [68712-blood-ancestors.json](./68712-blood-ancestors.json) |
