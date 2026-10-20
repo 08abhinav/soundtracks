@@ -8632,6 +8632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Math Carnival Countdown | 129156 | [129156-mighty-math-carnival-countdown.json](./129156-mighty-math-carnival-countdown.json) |
 | Mighty Math Zoo Zillions | 313286 | [313286-mighty-math-zoo-zillions.json](./313286-mighty-math-zoo-zillions.json) |
 | Mighty Math: Calculating Crew | 313278 | [313278-mighty-math-calculating-crew.json](./313278-mighty-math-calculating-crew.json) |
+| Mighty Max | 217719 | [217719-mighty-max.json](./217719-mighty-max.json) |
 | Mighty Max | 218349 | [218349-mighty-max.json](./218349-mighty-max.json) |
 | Mighty Metas | 316467 | [316467-mighty-metas.json](./316467-mighty-metas.json) |
 | Mighty Mighty Missile! | 128890 | [128890-mighty-mighty-missile.json](./128890-mighty-mighty-missile.json) |
