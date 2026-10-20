@@ -2592,6 +2592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebound Balls | 240210 | [240210-rebound-balls.json](./240210-rebound-balls.json) |
 | Rebound Dodgeball Evolved | 117181 | [117181-rebound-dodgeball-evolved.json](./117181-rebound-dodgeball-evolved.json) |
 | Rebound Gun | 247914 | [247914-rebound-gun.json](./247914-rebound-gun.json) |
+| Rebound Hockey | 232325 | [232325-rebound-hockey.json](./232325-rebound-hockey.json) |
 | Rebound Raver | 147363 | [147363-rebound-raver.json](./147363-rebound-raver.json) |
 | Rebound Rivals | 311120 | [311120-rebound-rivals.json](./311120-rebound-rivals.json) |
 | RebreatheR | 373203 | [373203-rebreather.json](./373203-rebreather.json) |
@@ -6901,6 +6902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roccio Quest | 326104 | [326104-roccio-quest.json](./326104-roccio-quest.json) |
 | Rocco | 78015 | [78015-rocco.json](./78015-rocco.json) |
 | Rocco's Inferno | 197147 | [197147-roccos-inferno.json](./197147-roccos-inferno.json) |
+| Rocco's Island: Pocket Edition | 232321 | [232321-roccos-island-pocket-edition.json](./232321-roccos-island-pocket-edition.json) |
 | Roch Island | 270695 | [270695-roch-island.json](./270695-roch-island.json) |
 | Roch Series | 270664 | [270664-roch-series.json](./270664-roch-series.json) |
 | Rocha's Golem | 156627 | [156627-rochas-golem.json](./156627-rochas-golem.json) |
