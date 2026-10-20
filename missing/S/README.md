@@ -3794,6 +3794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Smash Pack 2 | 74302 | [74302-sega-smash-pack-2.json](./74302-sega-smash-pack-2.json) |
 | Sega Smash Pack: Twin Pack | 136874 | [136874-sega-smash-pack-twin-pack.json](./136874-sega-smash-pack-twin-pack.json) |
 | Sega Soccer | 263353 | [263353-sega-soccer.json](./263353-sega-soccer.json) |
+| Sega Soccer Slam | 248470 | [248470-sega-soccer-slam.json](./248470-sega-soccer-slam.json) |
 | Sega Soccer Slam | 4102 | [4102-sega-soccer-slam.json](./4102-sega-soccer-slam.json) |
 | Sega Splash! Golf | 136872 | [136872-sega-splash-golf.json](./136872-sega-splash-golf.json) |
 | Sega Strike Fighter | 112506 | [112506-sega-strike-fighter.json](./112506-sega-strike-fighter.json) |
@@ -10640,6 +10641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashie | 23952 | [23952-smashie.json](./23952-smashie.json) |
 | Smashing | 259765 | [259765-smashing.json](./259765-smashing.json) |
 | Smashing Bottles | 414872 | [414872-smashing-bottles.json](./414872-smashing-bottles.json) |
+| Smashing Drive | 248444 | [248444-smashing-drive.json](./248444-smashing-drive.json) |
 | Smashing Drive | 2743 | [2743-smashing-drive.json](./2743-smashing-drive.json) |
 | Smashing Four | 69372 | [69372-smashing-four.json](./69372-smashing-four.json) |
 | Smashing Healthy VR | 132248 | [132248-smashing-healthy-vr.json](./132248-smashing-healthy-vr.json) |
@@ -16595,6 +16597,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Bikini Bottom Bust Up | 403626 | [403626-spongebob-squarepants-bikini-bottom-bust-up.json](./403626-spongebob-squarepants-bikini-bottom-bust-up.json) |
 | SpongeBob SquarePants: Bundle | 286514 | [286514-spongebob-squarepants-bundle.json](./286514-spongebob-squarepants-bundle.json) |
 | Spongebob Squarepants: Clash of Triton | 285586 | [285586-spongebob-squarepants-clash-of-triton.json](./285586-spongebob-squarepants-clash-of-triton.json) |
+| SpongeBob SquarePants: Creature From the Krusty Krab | 248482 | [248482-spongebob-squarepants-creature-from-the-krusty-krab.json](./248482-spongebob-squarepants-creature-from-the-krusty-krab.json) |
+| SpongeBob SquarePants: Creature From the Krusty Krab | 248483 | [248483-spongebob-squarepants-creature-from-the-krusty-krab.json](./248483-spongebob-squarepants-creature-from-the-krusty-krab.json) |
+| SpongeBob SquarePants: Creature From the Krusty Krab | 248484 | [248484-spongebob-squarepants-creature-from-the-krusty-krab.json](./248484-spongebob-squarepants-creature-from-the-krusty-krab.json) |
 | SpongeBob SquarePants: Defending the Secret Formula | 228487 | [228487-spongebob-squarepants-defending-the-secret-formula.json](./228487-spongebob-squarepants-defending-the-secret-formula.json) |
 | SpongeBob SquarePants: Dilly Dabber | 220119 | [220119-spongebob-squarepants-dilly-dabber.json](./220119-spongebob-squarepants-dilly-dabber.json) |
 | SpongeBob SquarePants: Diner Dash | 64860 | [64860-spongebob-squarepants-diner-dash.json](./64860-spongebob-squarepants-diner-dash.json) |
@@ -17119,6 +17124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spyder | 93470 | [93470-spyder.json](./93470-spyder.json) |
 | Spyhack | 90138 | [90138-spyhack.json](./90138-spyhack.json) |
 | SpyHunt | 330294 | [330294-spyhunt.json](./330294-spyhunt.json) |
+| SpyHunter | 248443 | [248443-spyhunter.json](./248443-spyhunter.json) |
 | SpyHunter | 4166 | [4166-spyhunter.json](./4166-spyhunter.json) |
 | Spykebots | 113706 | [113706-spykebots.json](./113706-spykebots.json) |
 | SpyLens: Sex in focus | 368622 | [368622-spylens-sex-in-focus.json](./368622-spylens-sex-in-focus.json) |
@@ -22760,6 +22766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bub Contest | 221786 | [221786-super-bub-contest.json](./221786-super-bub-contest.json) |
 | Super Bubble 2003 | 267979 | [267979-super-bubble-2003.json](./267979-super-bubble-2003.json) |
 | Super Bubble Bobble | 70327 | [70327-super-bubble-bobble.json](./70327-super-bubble-bobble.json) |
+| Super Bubble Pop | 248454 | [248454-super-bubble-pop.json](./248454-super-bubble-pop.json) |
 | Super Bubble Pop | 4187 | [4187-super-bubble-pop.json](./4187-super-bubble-pop.json) |
 | Super Bug | 40431 | [40431-super-bug.json](./40431-super-bug.json) |
 | Super Build | 120727 | [120727-super-build.json](./120727-super-build.json) |
