@@ -1041,6 +1041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaze Kiri: Ninja Action | 37612 | [37612-kaze-kiri-ninja-action.json](./37612-kaze-kiri-ninja-action.json) |
 | Kaze no Keishousha | 408763 | [408763-kaze-no-keishousha.json](./408763-kaze-no-keishousha.json) |
 | Kaze no Oka Kouen nite | 139117 | [139117-kaze-no-oka-kouen-nite.json](./139117-kaze-no-oka-kouen-nite.json) |
+| Kaze no Satsui: It's a Long Way Round | 221031 | [221031-kaze-no-satsui-its-a-long-way-round.json](./221031-kaze-no-satsui-its-a-long-way-round.json) |
 | Kaze no Tansakusha 2: Shadow Kingdom | 270633 | [270633-kaze-no-tansakusha-2-shadow-kingdom.json](./270633-kaze-no-tansakusha-2-shadow-kingdom.json) |
 | Kaze no Tansakusha: Grand Slam | 270630 | [270630-kaze-no-tansakusha-grand-slam.json](./270630-kaze-no-tansakusha-grand-slam.json) |
 | Kaze no Tayori | 402849 | [402849-kaze-no-tayori.json](./402849-kaze-no-tayori.json) |
