@@ -532,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto to Boruto: Shinobi Striker - Character Training Pack: Konohamaru Sarutobi | 265542 | [265542-naruto-to-boruto-shinobi-striker-character-training-pack-konohamaru-sarutobi.json](./265542-naruto-to-boruto-shinobi-striker-character-training-pack-konohamaru-sarutobi.json) |
 | Naruto to Boruto: Shinobi Striker - Deluxe Edition | 164790 | [164790-naruto-to-boruto-shinobi-striker-deluxe-edition.json](./164790-naruto-to-boruto-shinobi-striker-deluxe-edition.json) |
 | Naruto to Boruto: Shinobi Striker - Master Character Training Pack - Kawaki: Karma Progression | 307760 | [307760-naruto-to-boruto-shinobi-striker-master-character-training-pack-kawaki-karma-progression.json](./307760-naruto-to-boruto-shinobi-striker-master-character-training-pack-kawaki-karma-progression.json) |
+| Naruto to Boruto: Shinobi Striker - Master Character Training Pack - Minato Namikaze (Reanimation) | 246810 | [246810-naruto-to-boruto-shinobi-striker-master-character-training-pack-minato-namikaze-reanimation.json](./246810-naruto-to-boruto-shinobi-striker-master-character-training-pack-minato-namikaze-reanimation.json) |
 | Naruto to Boruto: Shinobi Striker - Master Character Training Pack: Boruto Uzumaki (Karma) | 265248 | [265248-naruto-to-boruto-shinobi-striker-master-character-training-pack-boruto-uzumaki-karma.json](./265248-naruto-to-boruto-shinobi-striker-master-character-training-pack-boruto-uzumaki-karma.json) |
 | Naruto to Boruto: Shinobi Striker - Master Character Training Pack: Isshiki Otsutsuki | 234632 | [234632-naruto-to-boruto-shinobi-striker-master-character-training-pack-isshiki-otsutsuki.json](./234632-naruto-to-boruto-shinobi-striker-master-character-training-pack-isshiki-otsutsuki.json) |
 | Naruto to Boruto: Shinobi Striker - Master Character Training Pack: Kaguya Otsutsuki | 263509 | [263509-naruto-to-boruto-shinobi-striker-master-character-training-pack-kaguya-otsutsuki.json](./263509-naruto-to-boruto-shinobi-striker-master-character-training-pack-kaguya-otsutsuki.json) |
@@ -4749,6 +4750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noel the Mortal Fate: Season 11 | 237539 | [237539-noel-the-mortal-fate-season-11.json](./237539-noel-the-mortal-fate-season-11.json) |
 | Noel the Mortal Fate: Season 12 | 243374 | [243374-noel-the-mortal-fate-season-12.json](./243374-noel-the-mortal-fate-season-12.json) |
 | Noel the Mortal Fate: Season 3.5 - Revenger's Vacation | 258205 | [258205-noel-the-mortal-fate-season-3-5-revengers-vacation.json](./258205-noel-the-mortal-fate-season-3-5-revengers-vacation.json) |
+| Noel the Mortal Fate: Season Final Part 1 | 246811 | [246811-noel-the-mortal-fate-season-final-part-1.json](./246811-noel-the-mortal-fate-season-final-part-1.json) |
 | Noel the Mortal Fate: Season Final Part 2 | 259092 | [259092-noel-the-mortal-fate-season-final-part-2.json](./259092-noel-the-mortal-fate-season-final-part-2.json) |
 | Noël: La Neige | 107619 | [107619-noel-la-neige.json](./107619-noel-la-neige.json) |
 | Noël: La Niege Special | 377947 | [377947-noel-la-niege-special.json](./377947-noel-la-niege-special.json) |
@@ -5673,6 +5675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Tower | 341490 | [341490-number-tower.json](./341490-number-tower.json) |
 | Number Wars | 193474 | [193474-number-wars.json](./193474-number-wars.json) |
 | Number's Addict | 94187 | [94187-numbers-addict.json](./94187-numbers-addict.json) |
+| Number8 | 246794 | [246794-number8.json](./246794-number8.json) |
 | Numberful | 58109 | [58109-numberful.json](./58109-numberful.json) |
 | Numberic Puzzle 2018 | 103154 | [103154-numberic-puzzle-2018.json](./103154-numberic-puzzle-2018.json) |
 | Numberic Puzzle Blue | 107133 | [107133-numberic-puzzle-blue.json](./107133-numberic-puzzle-blue.json) |
