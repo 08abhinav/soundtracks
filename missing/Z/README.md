@@ -280,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ze VR | 29958 | [29958-ze-vr.json](./29958-ze-vr.json) |
 | Zeal | 74746 | [74746-zeal.json](./74746-zeal.json) |
 | Zeal-X2 | 281289 | [281289-zeal-x2.json](./281289-zeal-x2.json) |
+| Zealot | 233354 | [233354-zealot.json](./233354-zealot.json) |
 | Zealot's Curse | 296150 | [296150-zealots-curse.json](./296150-zealots-curse.json) |
 | Zeba | 389027 | [389027-zeba.json](./389027-zeba.json) |
 | Zebco Pro Fishing 3D: Tournament Edition | 202178 | [202178-zebco-pro-fishing-3d-tournament-edition.json](./202178-zebco-pro-fishing-3d-tournament-edition.json) |
@@ -957,6 +958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoey: Nightclub Secrets | 343691 | [343691-zoey-nightclub-secrets.json](./343691-zoey-nightclub-secrets.json) |
 | Zof | 140261 | [140261-zof.json](./140261-zof.json) |
 | Zofia | 118098 | [118098-zofia.json](./118098-zofia.json) |
+| Zog Moonbuckle: The Mysterious Planet | 233374 | [233374-zog-moonbuckle-the-mysterious-planet.json](./233374-zog-moonbuckle-the-mysterious-planet.json) |
 | Zoid Zoid Tetsoidea | 247957 | [247957-zoid-zoid-tetsoidea.json](./247957-zoid-zoid-tetsoidea.json) |
 | Zoids | 26301 | [26301-zoids.json](./26301-zoids.json) |
 | Zoids 2: Herikku Kyouwakoku vs. Gairosu Teikoku | 241430 | [241430-zoids-2-herikku-kyouwakoku-vs-gairosu-teikoku.json](./241430-zoids-2-herikku-kyouwakoku-vs-gairosu-teikoku.json) |
@@ -1335,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Survival 3D | 409578 | [409578-zombie-survival-3d.json](./409578-zombie-survival-3d.json) |
 | Zombie Survival Online | 157491 | [157491-zombie-survival-online.json](./157491-zombie-survival-online.json) |
 | Zombie Survival: The Walking Pandemic | 300830 | [300830-zombie-survival-the-walking-pandemic.json](./300830-zombie-survival-the-walking-pandemic.json) |
+| Zombie Survival: Wasteland | 233397 | [233397-zombie-survival-wasteland.json](./233397-zombie-survival-wasteland.json) |
 | Zombie Survivor | 261414 | [261414-zombie-survivor.json](./261414-zombie-survivor.json) |
 | Zombie Survivor | 360682 | [360682-zombie-survivor.json](./360682-zombie-survivor.json) |
 | Zombie Survivor: Undead City Attack | 262002 | [262002-zombie-survivor-undead-city-attack.json](./262002-zombie-survivor-undead-city-attack.json) |
