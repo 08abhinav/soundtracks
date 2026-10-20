@@ -993,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Crisis | 265261 | [265261-candy-crisis.json](./265261-candy-crisis.json) |
 | Candy Crush Friends Saga | 125288 | [125288-candy-crush-friends-saga.json](./125288-candy-crush-friends-saga.json) |
 | Candy Crush Jelly Saga | 46503 | [46503-candy-crush-jelly-saga.json](./46503-candy-crush-jelly-saga.json) |
+| Candy Crush Saga | 251430 | [251430-candy-crush-saga.json](./251430-candy-crush-saga.json) |
 | Candy Crush Saga Ticket Model | 229352 | [229352-candy-crush-saga-ticket-model.json](./229352-candy-crush-saga-ticket-model.json) |
 | Candy Crush Solitaire | 350067 | [350067-candy-crush-solitaire.json](./350067-candy-crush-solitaire.json) |
 | Candy Crush Solitare | 383749 | [383749-candy-crush-solitare.json](./383749-candy-crush-solitare.json) |
@@ -14735,6 +14736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Station | 343025 | [343025-cursed-station.json](./343025-cursed-station.json) |
 | Cursed Swamp Escape 3 | 315470 | [315470-cursed-swamp-escape-3.json](./315470-cursed-swamp-escape-3.json) |
 | Cursed Theatre Escape | 315583 | [315583-cursed-theatre-escape.json](./315583-cursed-theatre-escape.json) |
+| Cursed to Golf | 251390 | [251390-cursed-to-golf.json](./251390-cursed-to-golf.json) |
 | Cursed Toy | 387650 | [387650-cursed-toy.json](./387650-cursed-toy.json) |
 | Cursed Travels: Flame of the Banshee | 177872 | [177872-cursed-travels-flame-of-the-banshee.json](./177872-cursed-travels-flame-of-the-banshee.json) |
 | Cursed Travels: Sunken City | 202421 | [202421-cursed-travels-sunken-city.json](./202421-cursed-travels-sunken-city.json) |
