@@ -4149,6 +4149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Darkness | 95166 | [95166-escape-the-darkness.json](./95166-escape-the-darkness.json) |
 | Escape the Dead | 217212 | [217212-escape-the-dead.json](./217212-escape-the-dead.json) |
 | Escape the Dynasty | 389719 | [389719-escape-the-dynasty.json](./389719-escape-the-dynasty.json) |
+| Escape the Emerald Star | 205994 | [205994-escape-the-emerald-star.json](./205994-escape-the-emerald-star.json) |
 | Escape the Enterprise | 110552 | [110552-escape-the-enterprise.json](./110552-escape-the-enterprise.json) |
 | Escape The Escape Rooms | 237066 | [237066-escape-the-escape-rooms.json](./237066-escape-the-escape-rooms.json) |
 | Escape The Evil | 297093 | [297093-escape-the-evil.json](./297093-escape-the-evil.json) |
