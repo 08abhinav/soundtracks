@@ -492,6 +492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddwings Escape | 345263 | [345263-oddwings-escape.json](./345263-oddwings-escape.json) |
 | Oddworld Adventures 2 | 49865 | [49865-oddworld-adventures-2.json](./49865-oddworld-adventures-2.json) |
 | Oddworld Collection | 145454 | [145454-oddworld-collection.json](./145454-oddworld-collection.json) |
+| Oddworld Soulstorm: Limited Oddition | 210461 | [210461-oddworld-soulstorm-limited-oddition.json](./210461-oddworld-soulstorm-limited-oddition.json) |
 | Oddworld: Abe's Exoddus | 1000 | [1000-oddworld-abes-exoddus.json](./1000-oddworld-abes-exoddus.json) |
 | Oddworld: Abe's Exoddus | 306055 | [306055-oddworld-abes-exoddus.json](./306055-oddworld-abes-exoddus.json) |
 | Oddworld: Hand of Odd | 66007 | [66007-oddworld-hand-of-odd.json](./66007-oddworld-hand-of-odd.json) |
