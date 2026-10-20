@@ -3476,7 +3476,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight with WWE Champion | 196583 | [196583-fight-with-wwe-champion.json](./196583-fight-with-wwe-champion.json) |
 | Fight-Quest | 349445 | [349445-fight-quest.json](./349445-fight-quest.json) |
 | Fight,to the last | 127869 | [127869-fight-to-the-last.json](./127869-fight-to-the-last.json) |
-| Fight'N Rage | 59573 | [59573-fightn-rage.json](./59573-fightn-rage.json) |
 | Fight'n Rage: 5th Anniversary Limited Edition | 242370 | [242370-fightn-rage-5th-anniversary-limited-edition.json](./242370-fightn-rage-5th-anniversary-limited-edition.json) |
 | Fightback | 63357 | [63357-fightback.json](./63357-fightback.json) |
 | FightBit | 250956 | [250956-fightbit.json](./250956-fightbit.json) |
@@ -5321,7 +5320,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's: NES | 366102 | [366102-five-nights-at-freddys-nes.json](./366102-five-nights-at-freddys-nes.json) |
 | Five Nights At Freddy's: Nightshift | 275905 | [275905-five-nights-at-freddys-nightshift.json](./275905-five-nights-at-freddys-nightshift.json) |
 | Five Nights at Freddy's: Pocket Horror | 275568 | [275568-five-nights-at-freddys-pocket-horror.json](./275568-five-nights-at-freddys-pocket-horror.json) |
-| Five Nights at Freddy's: Secret of the Mimic | 312859 | [312859-five-nights-at-freddys-secret-of-the-mimic.json](./312859-five-nights-at-freddys-secret-of-the-mimic.json) |
 | Five Nights at Freddy's: Security Breach | 300353 | [300353-five-nights-at-freddys-security-breach.json](./300353-five-nights-at-freddys-security-breach.json) |
 | Five Nights at Freddy's: Security Breach - Chaos Mod | 263898 | [263898-five-nights-at-freddys-security-breach-chaos-mod.json](./263898-five-nights-at-freddys-security-breach-chaos-mod.json) |
 | Five Nights at Freddy's: Security Breach - Collector's Edition | 198389 | [198389-five-nights-at-freddys-security-breach-collectors-edition.json](./198389-five-nights-at-freddys-security-breach-collectors-edition.json) |
