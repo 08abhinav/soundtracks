@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:07:33.377Z",
-  "total_soundtracks": 2229,
+  "generated_at": "2026-10-20T21:07:45.617Z",
+  "total_soundtracks": 2230,
   "games": [
     {
       "igdb_id": 7522,
@@ -15780,6 +15780,20 @@
           "album_name": "New World: Aeternum (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3Nt9XtDZCJmzzG4BDsyI59",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 196851,
+      "game_name": "News Tower",
+      "game_url": "https://ostdb.net/games/news-tower",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27319ddc3a4be023b260b9f054e",
+      "albums": [
+        {
+          "album_name": "News Tower Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/5mGutUnO2RCsvgw6H4H4fs",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
