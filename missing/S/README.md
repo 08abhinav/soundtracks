@@ -5682,6 +5682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shàshí Qíngyīn | 107401 | [107401-shashi-qingyin.json](./107401-shashi-qingyin.json) |
 | Shashingo: Learn Japanese with Photography - Additional Camera Filters | 298044 | [298044-shashingo-learn-japanese-with-photography-additional-camera-filters.json](./298044-shashingo-learn-japanese-with-photography-additional-camera-filters.json) |
 | Shatter | 137083 | [137083-shatter.json](./137083-shatter.json) |
+| Shatter | 237200 | [237200-shatter.json](./237200-shatter.json) |
 | Shatter | 358281 | [358281-shatter.json](./358281-shatter.json) |
 | Shatter and Spin | 293383 | [293383-shatter-and-spin.json](./293383-shatter-and-spin.json) |
 | Shatter Bot | 242084 | [242084-shatter-bot.json](./242084-shatter-bot.json) |
@@ -18724,6 +18725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight | 181804 | [181804-starlight.json](./181804-starlight.json) |
 | Starlight | 247552 | [247552-starlight.json](./247552-starlight.json) |
 | StarLight | 267312 | [267312-starlight.json](./267312-starlight.json) |
+| Starlight and the Silver Key | 237211 | [237211-starlight-and-the-silver-key.json](./237211-starlight-and-the-silver-key.json) |
 | Starlight Attack | 198520 | [198520-starlight-attack.json](./198520-starlight-attack.json) |
 | Starlight Cove | 415987 | [415987-starlight-cove.json](./415987-starlight-cove.json) |
 | Starlight Explorers | 179204 | [179204-starlight-explorers.json](./179204-starlight-explorers.json) |
@@ -20196,6 +20198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Age | 346714 | [346714-stone-age.json](./346714-stone-age.json) |
 | Stone Age Meteor Rush | 337981 | [337981-stone-age-meteor-rush.json](./337981-stone-age-meteor-rush.json) |
 | Stone Age Taxi | 146897 | [146897-stone-age-taxi.json](./146897-stone-age-taxi.json) |
+| Stone Age: Digital Edition | 237210 | [237210-stone-age-digital-edition.json](./237210-stone-age-digital-edition.json) |
 | Stone Age: The Board Game | 89702 | [89702-stone-age-the-board-game.json](./89702-stone-age-the-board-game.json) |
 | Stone Arena | 106098 | [106098-stone-arena.json](./106098-stone-arena.json) |
 | Stone Ball | 39587 | [39587-stone-ball.json](./39587-stone-ball.json) |
@@ -24500,6 +24503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sized Rescue Squad | 305764 | [305764-super-sized-rescue-squad.json](./305764-super-sized-rescue-squad.json) |
 | Super Skateboardin' | 12341 | [12341-super-skateboardin.json](./12341-super-skateboardin.json) |
 | Super Skelemania | 74875 | [74875-super-skelemania.json](./74875-super-skelemania.json) |
+| Super Skeleton Butler | 237191 | [237191-super-skeleton-butler.json](./237191-super-skeleton-butler.json) |
 | Super Skelly Belly | 184929 | [184929-super-skelly-belly.json](./184929-super-skelly-belly.json) |
 | Super Sketchy Party | 167294 | [167294-super-sketchy-party.json](./167294-super-sketchy-party.json) |
 | Super Skidmarks Data Disks | 78315 | [78315-super-skidmarks-data-disks.json](./78315-super-skidmarks-data-disks.json) |
@@ -25544,6 +25548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival RPG: The Lost Treasure | 167295 | [167295-survival-rpg-the-lost-treasure.json](./167295-survival-rpg-the-lost-treasure.json) |
 | Survival Shelter | 383686 | [383686-survival-shelter.json](./383686-survival-shelter.json) |
 | Survival Shooter | 246776 | [246776-survival-shooter.json](./246776-survival-shooter.json) |
+| Survival Shot | 237205 | [237205-survival-shot.json](./237205-survival-shot.json) |
 | Survival Simulator | 166203 | [166203-survival-simulator.json](./166203-survival-simulator.json) |
 | Survival Simulator | 175714 | [175714-survival-simulator.json](./175714-survival-simulator.json) |
 | Survival Sisters | 195693 | [195693-survival-sisters.json](./195693-survival-sisters.json) |
