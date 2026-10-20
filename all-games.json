@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:56:11.273Z",
-  "total_soundtracks": 2304,
+  "generated_at": "2026-10-20T21:56:22.033Z",
+  "total_soundtracks": 2305,
   "games": [
     {
       "igdb_id": 7522,
@@ -8924,6 +8924,20 @@
           "album_name": "Firewatch (Original Score)",
           "spotify_url": "https://open.spotify.com/album/6t4gSUaC3GZoUac8gpOFtn",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 312859,
+      "game_name": "Five Nights at Freddy's: Secret of the Mimic",
+      "game_url": "https://ostdb.net/games/five-nights-at-freddys-secret-of-the-mimic",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27390d625bc3f7ac09d552fde93",
+      "albums": [
+        {
+          "album_name": "Five Nights at Freddy's: Secret of the Mimic Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/3R1x1Tm3yC6eXejAA7scmb",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
