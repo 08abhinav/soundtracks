@@ -3710,10 +3710,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nikolai's Mysteries | 205128 | [205128-nikolais-mysteries.json](./205128-nikolais-mysteries.json) |
 | Nikoli no Puzzle 4: Hashi wo Kakero | 218989 | [218989-nikoli-no-puzzle-4-hashi-wo-kakero.json](./218989-nikoli-no-puzzle-4-hashi-wo-kakero.json) |
 | Nikoli no Puzzle 4: Heyawake | 218990 | [218990-nikoli-no-puzzle-4-heyawake.json](./218990-nikoli-no-puzzle-4-heyawake.json) |
+| Nikoli no Puzzle 4: Hitori ni Shitekure | 218899 | [218899-nikoli-no-puzzle-4-hitori-ni-shitekure.json](./218899-nikoli-no-puzzle-4-hitori-ni-shitekure.json) |
+| Nikoli no Puzzle 4: Masyu | 218898 | [218898-nikoli-no-puzzle-4-masyu.json](./218898-nikoli-no-puzzle-4-masyu.json) |
 | Nikoli no Puzzle 4: Museum | 58615 | [58615-nikoli-no-puzzle-4-museum.json](./58615-nikoli-no-puzzle-4-museum.json) |
+| Nikoli no Puzzle 4: Numberlink | 218901 | [218901-nikoli-no-puzzle-4-numberlink.json](./218901-nikoli-no-puzzle-4-numberlink.json) |
+| Nikoli no Puzzle 4: Nurikabe | 218900 | [218900-nikoli-no-puzzle-4-nurikabe.json](./218900-nikoli-no-puzzle-4-nurikabe.json) |
 | Nikoli no Puzzle 4: Shikaku ni Kire | 219025 | [219025-nikoli-no-puzzle-4-shikaku-ni-kire.json](./219025-nikoli-no-puzzle-4-shikaku-ni-kire.json) |
 | Nikoli no Puzzle 4: Slither Link | 218987 | [218987-nikoli-no-puzzle-4-slither-link.json](./218987-nikoli-no-puzzle-4-slither-link.json) |
 | Nikoli no Puzzle 4: Sudoku | 62164 | [62164-nikoli-no-puzzle-4-sudoku.json](./62164-nikoli-no-puzzle-4-sudoku.json) |
+| Nikoli no Puzzle 4: Yajilin | 218897 | [218897-nikoli-no-puzzle-4-yajilin.json](./218897-nikoli-no-puzzle-4-yajilin.json) |
 | Nikoli no Puzzle V: Akari | 64934 | [64934-nikoli-no-puzzle-v-akari.json](./64934-nikoli-no-puzzle-v-akari.json) |
 | Nikoli no Puzzle V: Heyawake | 64937 | [64937-nikoli-no-puzzle-v-heyawake.json](./64937-nikoli-no-puzzle-v-heyawake.json) |
 | Nikoli no Puzzle V: Hitori ni Shitekure | 64935 | [64935-nikoli-no-puzzle-v-hitori-ni-shitekure.json](./64935-nikoli-no-puzzle-v-hitori-ni-shitekure.json) |
@@ -4667,6 +4672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition II | 48287 | [48287-nobunagas-ambition-ii.json](./48287-nobunagas-ambition-ii.json) |
 | Nobunaga's Ambition Mobile | 131367 | [131367-nobunagas-ambition-mobile.json](./131367-nobunagas-ambition-mobile.json) |
 | Nobunaga's Ambition Online: Chapter Nova | 78308 | [78308-nobunagas-ambition-online-chapter-nova.json](./78308-nobunagas-ambition-online-chapter-nova.json) |
+| Nobunaga's Ambition Online: Chapter of Heaven | 218893 | [218893-nobunagas-ambition-online-chapter-of-heaven.json](./218893-nobunagas-ambition-online-chapter-of-heaven.json) |
 | Nobunaga's Ambition Online: Kakusei no Shou | 167063 | [167063-nobunagas-ambition-online-kakusei-no-shou.json](./167063-nobunagas-ambition-online-kakusei-no-shou.json) |
 | Nobunaga's Ambition Online: Kakusei no Shou - Treasure Box | 167064 | [167064-nobunagas-ambition-online-kakusei-no-shou-treasure-box.json](./167064-nobunagas-ambition-online-kakusei-no-shou-treasure-box.json) |
 | Nobunaga's Ambition Returns | 289749 | [289749-nobunagas-ambition-returns.json](./289749-nobunagas-ambition-returns.json) |
