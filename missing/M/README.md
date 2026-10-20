@@ -2011,6 +2011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mall Tycoon - Billionaires Club Game | 106773 | [106773-mall-tycoon-billionaires-club-game.json](./106773-mall-tycoon-billionaires-club-game.json) |
 | Mall Tycoon 3 | 69181 | [69181-mall-tycoon-3.json](./69181-mall-tycoon-3.json) |
 | Mall-A-Palooza | 54213 | [54213-mall-a-palooza.json](./54213-mall-a-palooza.json) |
+| Mallard Hunt | 228276 | [228276-mallard-hunt.json](./228276-mallard-hunt.json) |
 | Mallet Mania | 308063 | [308063-mallet-mania.json](./308063-mallet-mania.json) |
 | Malleus Cocconum: The Heiress | 328106 | [328106-malleus-cocconum-the-heiress.json](./328106-malleus-cocconum-the-heiress.json) |
 | Malleus Maleficarum | 373104 | [373104-malleus-maleficarum.json](./373104-malleus-maleficarum.json) |
@@ -3669,6 +3670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mary-Kate and Ashley: Sweet 16 - Licensed to Drive | 242426 | [242426-mary-kate-and-ashley-sweet-16-licensed-to-drive.json](./242426-mary-kate-and-ashley-sweet-16-licensed-to-drive.json) |
 | Mary-Kate and Ashley: Winners Circle | 49966 | [49966-mary-kate-and-ashley-winners-circle.json](./49966-mary-kate-and-ashley-winners-circle.json) |
 | Mary's Adventure | 82758 | [82758-marys-adventure.json](./82758-marys-adventure.json) |
+| Mary's Arcade | 228291 | [228291-marys-arcade.json](./228291-marys-arcade.json) |
 | Mary's Arcade: Service Pack | 288832 | [288832-marys-arcade-service-pack.json](./288832-marys-arcade-service-pack.json) |
 | Mary's Quest | 385338 | [385338-marys-quest.json](./385338-marys-quest.json) |
 | MaryAnneEtte | 250833 | [250833-maryanneette.json](./250833-maryanneette.json) |
@@ -7944,6 +7946,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Smash | 220184 | [220184-micro-smash.json](./220184-micro-smash.json) |
 | Micro Stream RPG | 291907 | [291907-micro-stream-rpg.json](./291907-micro-stream-rpg.json) |
 | Micro Stunt Machina | 195485 | [195485-micro-stunt-machina.json](./195485-micro-stunt-machina.json) |
+| Micro Tank | 228277 | [228277-micro-tank.json](./228277-micro-tank.json) |
+| Micro TD | 228278 | [228278-micro-td.json](./228278-micro-td.json) |
 | Micro Titans Wrestling | 364877 | [364877-micro-titans-wrestling.json](./364877-micro-titans-wrestling.json) |
 | Micro Trans Actions | 176938 | [176938-micro-trans-actions.json](./176938-micro-trans-actions.json) |
 | Micro Vendor Adventures | 110796 | [110796-micro-vendor-adventures.json](./110796-micro-vendor-adventures.json) |
@@ -8453,6 +8457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Watch | 310097 | [310097-midnight-watch.json](./310097-midnight-watch.json) |
 | Midnight Watcher: Village | 403685 | [403685-midnight-watcher-village.json](./403685-midnight-watcher-village.json) |
 | Midnight Wave | 109669 | [109669-midnight-wave.json](./109669-midnight-wave.json) |
+| Midnight Wild | 228279 | [228279-midnight-wild.json](./228279-midnight-wild.json) |
 | Midnight Witch | 244228 | [244228-midnight-witch.json](./244228-midnight-witch.json) |
 | Midnight Witch Starlight | 261090 | [261090-midnight-witch-starlight.json](./261090-midnight-witch-starlight.json) |
 | Midnight: Submersion | 181111 | [181111-midnight-submersion.json](./181111-midnight-submersion.json) |
@@ -14069,6 +14074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | mr.Vegan | 103639 | [103639-mr-vegan.json](./103639-mr-vegan.json) |
 | Mr.Welder's Pinball Defence | 278146 | [278146-mr-welders-pinball-defence.json](./278146-mr-welders-pinball-defence.json) |
 | Mr.Wise | 236844 | [236844-mr-wise.json](./236844-mr-wise.json) |
+| MrBeast: TeamSeas | 228316 | [228316-mrbeast-teamseas.json](./228316-mrbeast-teamseas.json) |
 | MRC: Multi-Racing Championship | 3544 | [3544-mrc-multi-racing-championship.json](./3544-mrc-multi-racing-championship.json) |
 | MrClean.exe | 249097 | [249097-mrclean-exe.json](./249097-mrclean-exe.json) |
 | MrFox | 207770 | [207770-mrfox.json](./207770-mrfox.json) |
