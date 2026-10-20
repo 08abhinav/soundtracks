@@ -1095,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Finder | 360457 | [360457-egg-finder.json](./360457-egg-finder.json) |
 | Egg Fried Rice | 307268 | [307268-egg-fried-rice.json](./307268-egg-fried-rice.json) |
 | Egg Harvester | 409637 | [409637-egg-harvester.json](./409637-egg-harvester.json) |
+| Egg Head in Space | 232317 | [232317-egg-head-in-space.json](./232317-egg-head-in-space.json) |
 | Egg Hunt | 110375 | [110375-egg-hunt.json](./110375-egg-hunt.json) |
 | Egg Hunt | 46846 | [46846-egg-hunt.json](./46846-egg-hunt.json) |
 | Egg Hunt 2026: The Grand Eggspress | 412312 | [412312-egg-hunt-2026-the-grand-eggspress.json](./412312-egg-hunt-2026-the-grand-eggspress.json) |
@@ -4073,11 +4074,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Room: Bank Robbery Gone Wrong | 244246 | [244246-escape-room-bank-robbery-gone-wrong.json](./244246-escape-room-bank-robbery-gone-wrong.json) |
 | Escape Room: Beyond Mystery | 315265 | [315265-escape-room-beyond-mystery.json](./315265-escape-room-beyond-mystery.json) |
 | Escape Room: Christmas Quest | 241345 | [241345-escape-room-christmas-quest.json](./241345-escape-room-christmas-quest.json) |
+| Escape Room: Haunted Mystery | 232322 | [232322-escape-room-haunted-mystery.json](./232322-escape-room-haunted-mystery.json) |
 | Escape Room: Mystery Tales | 261317 | [261317-escape-room-mystery-tales.json](./261317-escape-room-mystery-tales.json) |
 | Escape Room: Reality | 51455 | [51455-escape-room-reality.json](./51455-escape-room-reality.json) |
 | Escape Room: Romy Project | 264766 | [264766-escape-room-romy-project.json](./264766-escape-room-romy-project.json) |
 | Escape Room: The Secret Portal Puzzle | 415389 | [415389-escape-room-the-secret-portal-puzzle.json](./415389-escape-room-the-secret-portal-puzzle.json) |
 | Escape Room: The Sorcerer's Curse | 190030 | [190030-escape-room-the-sorcerers-curse.json](./190030-escape-room-the-sorcerers-curse.json) |
+| Escape Room: Uncharted Myth | 232327 | [232327-escape-room-uncharted-myth.json](./232327-escape-room-uncharted-myth.json) |
 | Escape Roomble | 346705 | [346705-escape-roomble.json](./346705-escape-roomble.json) |
 | Escape Rooms Bundle | 241806 | [241806-escape-rooms-bundle.json](./241806-escape-rooms-bundle.json) |
 | Escape Rooms Pack 1 | 299899 | [299899-escape-rooms-pack-1.json](./299899-escape-rooms-pack-1.json) |
