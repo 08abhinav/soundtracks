@@ -4452,6 +4452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beetle Barrage | 369466 | [369466-beetle-barrage.json](./369466-beetle-barrage.json) |
 | Beetle Bomp | 52632 | [52632-beetle-bomp.json](./52632-beetle-bomp.json) |
 | Beetle Ju | 117668 | [117668-beetle-ju.json](./117668-beetle-ju.json) |
+| Beetle Ju 2 | 239500 | [239500-beetle-ju-2.json](./239500-beetle-ju-2.json) |
 | Beetle Ju 3 | 117669 | [117669-beetle-ju-3.json](./117669-beetle-ju-3.json) |
 | Beetle Junior DS | 92471 | [92471-beetle-junior-ds.json](./92471-beetle-junior-ds.json) |
 | Beetle King | 18540 | [18540-beetle-king.json](./18540-beetle-king.json) |
@@ -7794,6 +7795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Breaker | 338246 | [338246-block-breaker.json](./338246-block-breaker.json) |
 | Block Breaker | 384648 | [384648-block-breaker.json](./384648-block-breaker.json) |
 | Block Breaker 2 | 200568 | [200568-block-breaker-2.json](./200568-block-breaker-2.json) |
+| Block Breaker 3 Unlimited | 239471 | [239471-block-breaker-3-unlimited.json](./239471-block-breaker-3-unlimited.json) |
 | Block Breaker Deluxe | 243748 | [243748-block-breaker-deluxe.json](./243748-block-breaker-deluxe.json) |
 | Block Breaker Deluxe 2 | 85718 | [85718-block-breaker-deluxe-2.json](./85718-block-breaker-deluxe-2.json) |
 | Block Breaker Ninja | 158917 | [158917-block-breaker-ninja.json](./158917-block-breaker-ninja.json) |
