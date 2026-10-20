@@ -9481,6 +9481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcas Champions | 336158 | [336158-arcas-champions.json](./336158-arcas-champions.json) |
 | Arcatera: The Dark Brotherhood | 24134 | [24134-arcatera-the-dark-brotherhood.json](./24134-arcatera-the-dark-brotherhood.json) |
 | Arcatopia | 194014 | [194014-arcatopia.json](./194014-arcatopia.json) |
+| Arcatron-Z | 252596 | [252596-arcatron-z.json](./252596-arcatron-z.json) |
 | Arcaxer | 145565 | [145565-arcaxer.json](./145565-arcaxer.json) |
 | Arcazoid | 248339 | [248339-arcazoid.json](./248339-arcazoid.json) |
 | ArcBall 2 | 99424 | [99424-arcball-2.json](./99424-arcball-2.json) |
@@ -10788,6 +10789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As We Know It | 99094 | [99094-as-we-know-it.json](./99094-as-we-know-it.json) |
 | As We Unite | 365081 | [365081-as-we-unite.json](./365081-as-we-unite.json) |
 | As You Wish | 301961 | [301961-as-you-wish.json](./301961-as-you-wish.json) |
+| AS: Angelic Serenade | 252593 | [252593-as-angelic-serenade.json](./252593-as-angelic-serenade.json) |
 | As:9-nine- Arteisia | 383122 | [383122-as-9-nine-arteisia.json](./383122-as-9-nine-arteisia.json) |
 | AS+CEND | 69521 | [69521-as-cend.json](./69521-as-cend.json) |
 | Asa-Chan Wants to Go Home! | 272283 | [272283-asa-chan-wants-to-go-home.json](./272283-asa-chan-wants-to-go-home.json) |
