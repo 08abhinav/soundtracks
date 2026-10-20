@@ -6536,6 +6536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms Armageddon | 409027 | [409027-worms-armageddon.json](./409027-worms-armageddon.json) |
 | Worms Armageddon: Anniversary Edition | 314938 | [314938-worms-armageddon-anniversary-edition.json](./314938-worms-armageddon-anniversary-edition.json) |
 | Worms Battle: Wormageddon | 132069 | [132069-worms-battle-wormageddon.json](./132069-worms-battle-wormageddon.json) |
+| Worms Blast | 248469 | [248469-worms-blast.json](./248469-worms-blast.json) |
 | Worms Clan Wars | 7082 | [7082-worms-clan-wars.json](./7082-worms-clan-wars.json) |
 | Worms Collection 1 | 145833 | [145833-worms-collection-1.json](./145833-worms-collection-1.json) |
 | Worms Crazy Golf | 15070 | [15070-worms-crazy-golf.json](./15070-worms-crazy-golf.json) |
