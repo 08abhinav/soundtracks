@@ -12016,6 +12016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Second Reality Room: Unspoken Truths | 390782 | [390782-the-second-reality-room-unspoken-truths.json](./390782-the-second-reality-room-unspoken-truths.json) |
 | The Second Reproduction: Reunion | 383596 | [383596-the-second-reproduction-reunion.json](./383596-the-second-reproduction-reunion.json) |
 | The Second Sight: Dead Reckoning | 331138 | [331138-the-second-sight-dead-reckoning.json](./331138-the-second-sight-dead-reckoning.json) |
+| The Second Word: Crossword | 232312 | [232312-the-second-word-crossword.json](./232312-the-second-word-crossword.json) |
 | The Secret Atelier | 288991 | [288991-the-secret-atelier.json](./288991-the-secret-atelier.json) |
 | The Secret Behind the Exam Paper | 314610 | [314610-the-secret-behind-the-exam-paper.json](./314610-the-secret-behind-the-exam-paper.json) |
 | The Secret Blue Forest | 155971 | [155971-the-secret-blue-forest.json](./155971-the-secret-blue-forest.json) |
@@ -23646,6 +23647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck World: Australia | 227320 | [227320-truck-world-australia.json](./227320-truck-world-australia.json) |
 | Truck World: Driving School | 211709 | [211709-truck-world-driving-school.json](./211709-truck-world-driving-school.json) |
 | Truck Zombie | 109920 | [109920-truck-zombie.json](./109920-truck-zombie.json) |
+| Trucked | 232292 | [232292-trucked.json](./232292-trucked.json) |
 | Trucker | 25425 | [25425-trucker.json](./25425-trucker.json) |
 | Trucker 2 | 25506 | [25506-trucker-2.json](./25506-trucker-2.json) |
 | Trucker Horror | 336499 | [336499-trucker-horror.json](./336499-trucker-horror.json) |
@@ -24156,6 +24158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnel Boat Terror | 258544 | [258544-tunnel-boat-terror.json](./258544-tunnel-boat-terror.json) |
 | Tunnel Divers | 41953 | [41953-tunnel-divers.json](./41953-tunnel-divers.json) |
 | Tunnel Escape | 302803 | [302803-tunnel-escape.json](./302803-tunnel-escape.json) |
+| Tunnel Hero 3D | 232328 | [232328-tunnel-hero-3d.json](./232328-tunnel-hero-3d.json) |
 | Tunnel Racer | 176383 | [176383-tunnel-racer.json](./176383-tunnel-racer.json) |
 | Tunnel Run | 87226 | [87226-tunnel-run.json](./87226-tunnel-run.json) |
 | Tunnel Runner | 22757 | [22757-tunnel-runner.json](./22757-tunnel-runner.json) |
@@ -24651,6 +24654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Stick Tennis | 244689 | [244689-twin-stick-tennis.json](./244689-twin-stick-tennis.json) |
 | Twin Stones: The Journey of Bukka | 153729 | [153729-twin-stones-the-journey-of-bukka.json](./153729-twin-stones-the-journey-of-bukka.json) |
 | Twin Tornado | 363889 | [363889-twin-tornado.json](./363889-twin-tornado.json) |
+| Twin Towers 3D | 232291 | [232291-twin-towers-3d.json](./232291-twin-towers-3d.json) |
 | Twin Trials | 357165 | [357165-twin-trials.json](./357165-twin-trials.json) |
 | Twin Turbo V8 | 13042 | [13042-twin-turbo-v8.json](./13042-twin-turbo-v8.json) |
 | Twin Unconscious | 229657 | [229657-twin-unconscious.json](./229657-twin-unconscious.json) |
