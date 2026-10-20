@@ -5029,6 +5029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien vs Predator: The Last of His Clan | 48965 | [48965-alien-vs-predator-the-last-of-his-clan.json](./48965-alien-vs-predator-the-last-of-his-clan.json) |
 | Alien Wall | 169152 | [169152-alien-wall.json](./169152-alien-wall.json) |
 | Alien War Girl | 111072 | [111072-alien-war-girl.json](./111072-alien-war-girl.json) |
+| Alien Wars | 241241 | [241241-alien-wars.json](./241241-alien-wars.json) |
 | Alien Weapon Test Grounds | 310209 | [310209-alien-weapon-test-grounds.json](./310209-alien-weapon-test-grounds.json) |
 | Alien Worlds | 93075 | [93075-alien-worlds.json](./93075-alien-worlds.json) |
 | Alien Worm | 192757 | [192757-alien-worm.json](./192757-alien-worm.json) |
