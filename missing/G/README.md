@@ -4280,6 +4280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin's Die | 272767 | [272767-goblins-die.json](./272767-goblins-die.json) |
 | Goblin's Expedition | 217014 | [217014-goblins-expedition.json](./217014-goblins-expedition.json) |
 | Goblin's Gamble 24 | 395045 | [395045-goblins-gamble-24.json](./395045-goblins-gamble-24.json) |
+| Goblin's Journey | 240635 | [240635-goblins-journey.json](./240635-goblins-journey.json) |
 | Goblin's WAY Jigsaw Challenge | 110198 | [110198-goblins-way-jigsaw-challenge.json](./110198-goblins-way-jigsaw-challenge.json) |
 | Goblin's Workshop | 248168 | [248168-goblins-workshop.json](./248168-goblins-workshop.json) |
 | GoblinAmerica | 271228 | [271228-goblinamerica.json](./271228-goblinamerica.json) |
@@ -6980,6 +6981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GrimmVeil | 387628 | [387628-grimmveil.json](./387628-grimmveil.json) |
 | Grimmwald Dungeon RPG | 98904 | [98904-grimmwald-dungeon-rpg.json](./98904-grimmwald-dungeon-rpg.json) |
 | Grimmwood | 100580 | [100580-grimmwood.json](./100580-grimmwood.json) |
+| Grimmy Tales | 240675 | [240675-grimmy-tales.json](./240675-grimmy-tales.json) |
 | Grimoire | 296799 | [296799-grimoire.json](./296799-grimoire.json) |
 | Grimoire | 296800 | [296800-grimoire.json](./296800-grimoire.json) |
 | Grimoire | 86187 | [86187-grimoire.json](./86187-grimoire.json) |
