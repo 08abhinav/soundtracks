@@ -1953,6 +1953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon River | 277814 | [277814-neon-river.json](./277814-neon-river.json) |
 | Neon Road | 221368 | [221368-neon-road.json](./221368-neon-road.json) |
 | Neon Rumble | 292829 | [292829-neon-rumble.json](./292829-neon-rumble.json) |
+| Neon Run! | 249653 | [249653-neon-run.json](./249653-neon-run.json) |
 | Neon Runner | 259156 | [259156-neon-runner.json](./259156-neon-runner.json) |
 | Neon Runner - Gravity Dash | 55166 | [55166-neon-runner-gravity-dash.json](./55166-neon-runner-gravity-dash.json) |
 | Neon Runners | 288831 | [288831-neon-runners.json](./288831-neon-runners.json) |
@@ -2977,6 +2978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nia in Mushroom World | 185511 | [185511-nia-in-mushroom-world.json](./185511-nia-in-mushroom-world.json) |
 | Nia: Jewel Hunter | 358299 | [358299-nia-jewel-hunter.json](./358299-nia-jewel-hunter.json) |
 | Niaki | 262065 | [262065-niaki.json](./262065-niaki.json) |
+| Niatang | 249643 | [249643-niatang.json](./249643-niatang.json) |
 | Nib, the Pen is Mightier AS a Sword | 141011 | [141011-nib-the-pen-is-mightier-as-a-sword.json](./141011-nib-the-pen-is-mightier-as-a-sword.json) |
 | Nibansen Plus | 295470 | [295470-nibansen-plus.json](./295470-nibansen-plus.json) |
 | Nibble Quest | 410235 | [410235-nibble-quest.json](./410235-nibble-quest.json) |
@@ -4886,6 +4888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonogram - The Greatest Painter | 87774 | [87774-nonogram-the-greatest-painter.json](./87774-nonogram-the-greatest-painter.json) |
 | Nonogram 3D: Mega Puzzle | 289449 | [289449-nonogram-3d-mega-puzzle.json](./289449-nonogram-3d-mega-puzzle.json) |
 | Nonogram Animals | 305913 | [305913-nonogram-animals.json](./305913-nonogram-animals.json) |
+| Nonogram Color | 249635 | [249635-nonogram-color.json](./249635-nonogram-color.json) |
 | Nonogram Desserts | 347759 | [347759-nonogram-desserts.json](./347759-nonogram-desserts.json) |
 | Nonogram Galaxy 2 | 212699 | [212699-nonogram-galaxy-2.json](./212699-nonogram-galaxy-2.json) |
 | Nonogram Kingdom | 368247 | [368247-nonogram-kingdom.json](./368247-nonogram-kingdom.json) |
