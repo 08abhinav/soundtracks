@@ -4282,7 +4282,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Summer Camp | 130132 | [130132-goblin-summer-camp.json](./130132-goblin-summer-camp.json) |
 | Goblin Survivors | 261783 | [261783-goblin-survivors.json](./261783-goblin-survivors.json) |
 | Goblin Sushi | 361792 | [361792-goblin-sushi.json](./361792-goblin-sushi.json) |
-| Goblin Sword | 88973 | [88973-goblin-sword.json](./88973-goblin-sword.json) |
 | Goblin Takes No Argument[s] | 172163 | [172163-goblin-takes-no-argument-s.json](./172163-goblin-takes-no-argument-s.json) |
 | Goblin Times | 127378 | [127378-goblin-times.json](./127378-goblin-times.json) |
 | Goblin Traders | 344014 | [344014-goblin-traders.json](./344014-goblin-traders.json) |
