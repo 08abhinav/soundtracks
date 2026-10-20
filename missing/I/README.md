@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Your Beast: Cold Sweat Update | 335994 | [335994-i-am-your-beast-cold-sweat-update.json](./335994-i-am-your-beast-cold-sweat-update.json) |
 | I Am Your Beast: Quitting Time | 418506 | [418506-i-am-your-beast-quitting-time.json](./418506-i-am-your-beast-quitting-time.json) |
 | I Am Your Beast: Support Group Update | 334704 | [334704-i-am-your-beast-support-group-update.json](./334704-i-am-your-beast-support-group-update.json) |
+| I am your President: Prove Yourself Scenario | 249042 | [249042-i-am-your-president-prove-yourself-scenario.json](./249042-i-am-your-president-prove-yourself-scenario.json) |
 | I Am Zombie | 266098 | [266098-i-am-zombie.json](./266098-i-am-zombie.json) |
 | I Am: A Story of Awakenings | 154993 | [154993-i-am-a-story-of-awakenings.json](./154993-i-am-a-story-of-awakenings.json) |
 | I and Me | 34511 | [34511-i-and-me.json](./34511-i-and-me.json) |
@@ -4001,6 +4002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inugami: Doggy Dojo! | 284241 | [284241-inugami-doggy-dojo.json](./284241-inugami-doggy-dojo.json) |
 | Inugamike no Ichizoku | 130701 | [130701-inugamike-no-ichizoku.json](./130701-inugamike-no-ichizoku.json) |
 | Inuit Uppirijatuqangit | 293689 | [293689-inuit-uppirijatuqangit.json](./293689-inuit-uppirijatuqangit.json) |
+| Inukari: Fateful Detour | 249031 | [249031-inukari-fateful-detour.json](./249031-inukari-fateful-detour.json) |
 | Inumeda | 263113 | [263113-inumeda.json](./263113-inumeda.json) |
 | Inunaki Tunnel | 126348 | [126348-inunaki-tunnel.json](./126348-inunaki-tunnel.json) |
 | Inuwashi: Urabure Tantei to Ojou-sama Keiji no Ikebukuro Jiken File | 130237 | [130237-inuwashi-urabure-tantei-to-ojou-sama-keiji-no-ikebukuro-jiken-file.json](./130237-inuwashi-urabure-tantei-to-ojou-sama-keiji-no-ikebukuro-jiken-file.json) |
