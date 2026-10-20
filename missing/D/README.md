@@ -562,6 +562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Factory | 20560 | [20560-dance-factory.json](./20560-dance-factory.json) |
 | Dance Fantasy | 40899 | [40899-dance-fantasy.json](./40899-dance-fantasy.json) |
 | Dance Fever HD | 232150 | [232150-dance-fever-hd.json](./232150-dance-fever-hd.json) |
+| Dance Fight | 239510 | [239510-dance-fight.json](./239510-dance-fight.json) |
 | Dance Floor | 47937 | [47937-dance-floor.json](./47937-dance-floor.json) |
 | Dance Gangnam Style | 310669 | [310669-dance-gangnam-style.json](./310669-dance-gangnam-style.json) |
 | Dance Hime: Rhythm Matching | 211754 | [211754-dance-hime-rhythm-matching.json](./211754-dance-hime-rhythm-matching.json) |
@@ -4660,6 +4661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Corporation: Onboarding | 333944 | [333944-demon-corporation-onboarding.json](./333944-demon-corporation-onboarding.json) |
 | Demon Crisis | 415900 | [415900-demon-crisis.json](./415900-demon-crisis.json) |
 | Demon Crush | 303469 | [303469-demon-crush.json](./303469-demon-crush.json) |
+| Demon Dash | 239530 | [239530-demon-dash.json](./239530-demon-dash.json) |
 | Demon Demon | 341678 | [341678-demon-demon.json](./341678-demon-demon.json) |
 | Demon Dodger | 255249 | [255249-demon-dodger.json](./255249-demon-dodger.json) |
 | Demon Driver | 47283 | [47283-demon-driver.json](./47283-demon-driver.json) |
@@ -6984,6 +6986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Party | 382519 | [382519-dino-party.json](./382519-dino-party.json) |
 | Dino Pet Walker | 394535 | [394535-dino-pet-walker.json](./394535-dino-pet-walker.json) |
 | Dino Precision Platformer | 303476 | [303476-dino-precision-platformer.json](./303476-dino-precision-platformer.json) |
+| Dino Puzzler World | 239497 | [239497-dino-puzzler-world.json](./239497-dino-puzzler-world.json) |
 | Dino Quake | 372038 | [372038-dino-quake.json](./372038-dino-quake.json) |
 | Dino Quest | 392472 | [392472-dino-quest.json](./392472-dino-quest.json) |
 | Dino R-r-age Defense | 88103 | [88103-dino-r-r-age-defense.json](./88103-dino-r-r-age-defense.json) |
@@ -11441,6 +11444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Action: Freestyle Fight | 281241 | [281241-draw-action-freestyle-fight.json](./281241-draw-action-freestyle-fight.json) |
 | Draw and Color | 276130 | [276130-draw-and-color.json](./276130-draw-and-color.json) |
 | Draw and Color: Kawaii - Complete Edition | 242047 | [242047-draw-and-color-kawaii-complete-edition.json](./242047-draw-and-color-kawaii-complete-edition.json) |
+| Draw and Color: Kawaii - Definitive Edition | 239480 | [239480-draw-and-color-kawaii-definitive-edition.json](./239480-draw-and-color-kawaii-definitive-edition.json) |
 | Draw and Color: Kawaii - Deluxe Edition | 237851 | [237851-draw-and-color-kawaii-deluxe-edition.json](./237851-draw-and-color-kawaii-deluxe-edition.json) |
 | Draw and Color: Kawaii - Director's Cut | 250361 | [250361-draw-and-color-kawaii-directors-cut.json](./250361-draw-and-color-kawaii-directors-cut.json) |
 | Draw and Color: Kawaii - Extended Edition | 231281 | [231281-draw-and-color-kawaii-extended-edition.json](./231281-draw-and-color-kawaii-extended-edition.json) |
