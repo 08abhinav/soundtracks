@@ -4130,6 +4130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LinkIt! | 26506 | [26506-linkit.json](./26506-linkit.json) |
 | Linkle Liver Story | 94005 | [94005-linkle-liver-story.json](./94005-linkle-liver-story.json) |
 | Linkling | 390061 | [390061-linkling.json](./390061-linkling.json) |
+| Linko: Relaxing Loop | 232310 | [232310-linko-relaxing-loop.json](./232310-linko-relaxing-loop.json) |
 | Linkrealms | 34467 | [34467-linkrealms.json](./34467-linkrealms.json) |
 | Links 2001 | 770 | [770-links-2001.json](./770-links-2001.json) |
 | Links 2003 | 22068 | [22068-links-2003.json](./22068-links-2003.json) |
@@ -7268,6 +7269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumos | 295613 | [295613-lumos.json](./295613-lumos.json) |
 | Lump Jump | 204994 | [204994-lump-jump.json](./204994-lump-jump.json) |
 | Lumpy | 158407 | [158407-lumpy.json](./158407-lumpy.json) |
+| Lumz | 232288 | [232288-lumz.json](./232288-lumz.json) |
 | Luna | 120154 | [120154-luna.json](./120154-luna.json) |
 | Luna | 172058 | [172058-luna.json](./172058-luna.json) |
 | Luna | 197624 | [197624-luna.json](./197624-luna.json) |
