@@ -5441,6 +5441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Portals: Chronicles of the Sunbound - Collector's Edition | 396600 | [396600-hidden-portals-chronicles-of-the-sunbound-collectors-edition.json](./396600-hidden-portals-chronicles-of-the-sunbound-collectors-edition.json) |
 | Hidden Portals: Eternal Balance | 416701 | [416701-hidden-portals-eternal-balance.json](./416701-hidden-portals-eternal-balance.json) |
 | Hidden Portals: Eternal Balance - Collector's Edition | 349476 | [349476-hidden-portals-eternal-balance-collectors-edition.json](./349476-hidden-portals-eternal-balance-collectors-edition.json) |
+| Hidden Post-Apocalyptic 2 Top-Down 3D | 237811 | [237811-hidden-post-apocalyptic-2-top-down-3d.json](./237811-hidden-post-apocalyptic-2-top-down-3d.json) |
 | Hidden Protector | 112714 | [112714-hidden-protector.json](./112714-hidden-protector.json) |
 | Hidden Rabbit | 397033 | [397033-hidden-rabbit.json](./397033-hidden-rabbit.json) |
 | Hidden Rabbit 2 | 412386 | [412386-hidden-rabbit-2.json](./412386-hidden-rabbit-2.json) |
@@ -5503,6 +5504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden World | 407904 | [407904-hidden-world.json](./407904-hidden-world.json) |
 | Hidden World | 54089 | [54089-hidden-world.json](./54089-hidden-world.json) |
 | Hidden World 10 Top-Down 3D | 277826 | [277826-hidden-world-10-top-down-3d.json](./277826-hidden-world-10-top-down-3d.json) |
+| Hidden World 3 Top-Down 3D | 237810 | [237810-hidden-world-3-top-down-3d.json](./237810-hidden-world-3-top-down-3d.json) |
 | Hidden World 4 Top-Down 3D | 241531 | [241531-hidden-world-4-top-down-3d.json](./241531-hidden-world-4-top-down-3d.json) |
 | Hidden World of Art | 143381 | [143381-hidden-world-of-art.json](./143381-hidden-world-of-art.json) |
 | Hidden World of Art 2 | 126667 | [126667-hidden-world-of-art-2.json](./126667-hidden-world-of-art-2.json) |
@@ -7844,6 +7846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Girls | 344570 | [344570-hot-girls.json](./344570-hot-girls.json) |
 | Hot Girls Delivery Club | 253932 | [253932-hot-girls-delivery-club.json](./253932-hot-girls-delivery-club.json) |
 | Hot Girls VR | 110945 | [110945-hot-girls-vr.json](./110945-hot-girls-vr.json) |
+| Hot Goths Murder Mystery Dating Sim | 237825 | [237825-hot-goths-murder-mystery-dating-sim.json](./237825-hot-goths-murder-mystery-dating-sim.json) |
 | Hot Guns: International Missions | 213967 | [213967-hot-guns-international-missions.json](./213967-hot-guns-international-missions.json) |
 | Hot Hands! | 87171 | [87171-hot-hands.json](./87171-hot-hands.json) |
 | Hot Hatch Adventure | 278640 | [278640-hot-hatch-adventure.json](./278640-hot-hatch-adventure.json) |
@@ -8952,6 +8955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt: Showdown - The Prescient Night | 256741 | [256741-hunt-showdown-the-prescient-night.json](./256741-hunt-showdown-the-prescient-night.json) |
 | Hunt: Showdown - Through the Bone Briar | 166069 | [166069-hunt-showdown-through-the-bone-briar.json](./166069-hunt-showdown-through-the-bone-briar.json) |
 | Hunt: Showdown 1896 - Biatatá: Still Waters Run Deep | 241309 | [241309-hunt-showdown-1896-biatata-still-waters-run-deep.json](./241309-hunt-showdown-1896-biatata-still-waters-run-deep.json) |
+| Hunt: Showdown 1896 - Commedia Della Morte | 237805 | [237805-hunt-showdown-1896-commedia-della-morte.json](./237805-hunt-showdown-1896-commedia-della-morte.json) |
 | Hunt: Showdown 1896 - Deluxe Edition | 313779 | [313779-hunt-showdown-1896-deluxe-edition.json](./313779-hunt-showdown-1896-deluxe-edition.json) |
 | Hunt: Showdown 1896 - La Luz Mala | 231342 | [231342-hunt-showdown-1896-la-luz-mala.json](./231342-hunt-showdown-1896-la-luz-mala.json) |
 | Hunt: Showdown 1896 - Law of Salvage | 276197 | [276197-hunt-showdown-1896-law-of-salvage.json](./276197-hunt-showdown-1896-law-of-salvage.json) |
