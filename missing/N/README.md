@@ -1591,6 +1591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko-Nin exHeart Spin! Love+Plus | 384234 | [384234-neko-nin-exheart-spin-love-plus.json](./384234-neko-nin-exheart-spin-love-plus.json) |
 | Neko-sama no Karaguri: Garden kara no Dasshutsu | 240231 | [240231-neko-sama-no-karaguri-garden-kara-no-dasshutsu.json](./240231-neko-sama-no-karaguri-garden-kara-no-dasshutsu.json) |
 | Neko-sama no Kominka kara no Dasshutsu | 260689 | [260689-neko-sama-no-kominka-kara-no-dasshutsu.json](./260689-neko-sama-no-kominka-kara-no-dasshutsu.json) |
+| Neko-sama no Nichijou | 227701 | [227701-neko-sama-no-nichijou.json](./227701-neko-sama-no-nichijou.json) |
 | Neko-sama to Outlaws | 222371 | [222371-neko-sama-to-outlaws.json](./222371-neko-sama-to-outlaws.json) |
 | Neko: The Black Cat | 176245 | [176245-neko-the-black-cat.json](./176245-neko-the-black-cat.json) |
 | Neko's Rage | 251840 | [251840-nekos-rage.json](./251840-nekos-rage.json) |
