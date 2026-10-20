@@ -350,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kalpa: Cosmic Symphony - Mass Recall Omega Pack | 397595 | [397595-kalpa-cosmic-symphony-mass-recall-omega-pack.json](./397595-kalpa-cosmic-symphony-mass-recall-omega-pack.json) |
 | Kalpa: Cosmic Symphony - Origin Vol. 1 | 405002 | [405002-kalpa-cosmic-symphony-origin-vol-1.json](./405002-kalpa-cosmic-symphony-origin-vol-1.json) |
 | Kalpa: Cosmic Symphony - Origin Vol. 2 Pack | 405003 | [405003-kalpa-cosmic-symphony-origin-vol-2-pack.json](./405003-kalpa-cosmic-symphony-origin-vol-2-pack.json) |
+| Kalpa: The Sign of Omen | 238918 | [238918-kalpa-the-sign-of-omen.json](./238918-kalpa-the-sign-of-omen.json) |
 | Kalterkrieg | 356057 | [356057-kalterkrieg.json](./356057-kalterkrieg.json) |
 | Kalyzmyr | 191807 | [191807-kalyzmyr.json](./191807-kalyzmyr.json) |
 | Kalzoon | 226450 | [226450-kalzoon.json](./226450-kalzoon.json) |
@@ -2909,6 +2910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiss in Hell | 298298 | [298298-kiss-in-hell.json](./298298-kiss-in-hell.json) |
 | Kiss Kara Hajimaru Gyaru no Koi: Kurumi no Uwasa to Honto no Kimochi | 186229 | [186229-kiss-kara-hajimaru-gyaru-no-koi-kurumi-no-uwasa-to-honto-no-kimochi.json](./186229-kiss-kara-hajimaru-gyaru-no-koi-kurumi-no-uwasa-to-honto-no-kimochi.json) |
 | Kiss Kara Hajimaru Gyaru no Koi: Kurumi no Uwasa to Honto no Kimochi - Premium Edition | 186230 | [186230-kiss-kara-hajimaru-gyaru-no-koi-kurumi-no-uwasa-to-honto-no-kimochi-premium-edition.json](./186230-kiss-kara-hajimaru-gyaru-no-koi-kurumi-no-uwasa-to-honto-no-kimochi-premium-edition.json) |
+| Kiss Me on Clover Hill | 238895 | [238895-kiss-me-on-clover-hill.json](./238895-kiss-me-on-clover-hill.json) |
 | Kiss Me, Kill Me | 298919 | [298919-kiss-me-kill-me.json](./298919-kiss-me-kill-me.json) |
 | Kiss Monster | 366906 | [366906-kiss-monster.json](./366906-kiss-monster.json) |
 | Kiss Monster 2 | 366915 | [366915-kiss-monster-2.json](./366915-kiss-monster-2.json) |
