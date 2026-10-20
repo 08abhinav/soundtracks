@@ -1430,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzles for Kids and Adults: Islands | 162231 | [162231-jigsaw-puzzles-for-kids-and-adults-islands.json](./162231-jigsaw-puzzles-for-kids-and-adults-islands.json) |
 | Jigsaw Puzzles Free by WallpaperFusion | 90937 | [90937-jigsaw-puzzles-free-by-wallpaperfusion.json](./90937-jigsaw-puzzles-free-by-wallpaperfusion.json) |
 | Jigsaw Puzzles Infinite: Cats & Dogs Puzzle Pack | 286238 | [286238-jigsaw-puzzles-infinite-cats-and-dogs-puzzle-pack.json](./286238-jigsaw-puzzles-infinite-cats-and-dogs-puzzle-pack.json) |
+| Jigsaw Puzzles: Fantasy Landscapes | 240098 | [240098-jigsaw-puzzles-fantasy-landscapes.json](./240098-jigsaw-puzzles-fantasy-landscapes.json) |
 | Jigsaw Puzzles: Puzzle Game | 223946 | [223946-jigsaw-puzzles-puzzle-game.json](./223946-jigsaw-puzzles-puzzle-game.json) |
 | Jigsaw Realms: Nature | 386369 | [386369-jigsaw-realms-nature.json](./386369-jigsaw-realms-nature.json) |
 | Jigsaw Realms: Oasis | 389066 | [389066-jigsaw-realms-oasis.json](./389066-jigsaw-realms-oasis.json) |
@@ -2391,6 +2392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump & Fall | 369168 | [369168-jump-and-fall.json](./369168-jump-and-fall.json) |
 | Jump & Splash | 87129 | [87129-jump-and-splash.json](./87129-jump-and-splash.json) |
 | Jump 1/2 | 215761 | [215761-jump-1-2.json](./215761-jump-1-2.json) |
+| Jump 2: Mr.Q Adventure | 241817 | [241817-jump-2-mr-q-adventure.json](./241817-jump-2-mr-q-adventure.json) |
 | Jump Among Stars | 211828 | [211828-jump-among-stars.json](./211828-jump-among-stars.json) |
 | Jump and Roll | 243102 | [243102-jump-and-roll.json](./243102-jump-and-roll.json) |
 | Jump and Run: Don't Fall | 107939 | [107939-jump-and-run-dont-fall.json](./107939-jump-and-run-dont-fall.json) |
