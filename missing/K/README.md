@@ -3900,6 +3900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konkwest | 277599 | [277599-konkwest.json](./277599-konkwest.json) |
 | KonMari Spark Joy! | 174292 | [174292-konmari-spark-joy.json](./174292-konmari-spark-joy.json) |
 | Konna | 275598 | [275598-konna.json](./275598-konna.json) |
+| Konna Tokoro ni? Mitsuketa! | 253231 | [253231-konna-tokoro-ni-mitsuketa.json](./253231-konna-tokoro-ni-mitsuketa.json) |
 | Konneko: Keep A Memory Green | 56747 | [56747-konneko-keep-a-memory-green.json](./56747-konneko-keep-a-memory-green.json) |
 | Kono Aozora ni Yakusoku wo | 324662 | [324662-kono-aozora-ni-yakusoku-wo.json](./324662-kono-aozora-ni-yakusoku-wo.json) |
 | Kono Aozora ni Yakusoku wo: Melody of the Sun and Sea | 324668 | [324668-kono-aozora-ni-yakusoku-wo-melody-of-the-sun-and-sea.json](./324668-kono-aozora-ni-yakusoku-wo-melody-of-the-sun-and-sea.json) |
