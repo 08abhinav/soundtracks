@@ -3997,7 +3997,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airborne Empires | 31748 | [31748-airborne-empires.json](./31748-airborne-empires.json) |
 | Airborne Grannies | 325895 | [325895-airborne-grannies.json](./325895-airborne-grannies.json) |
 | Airborne Justice | 321533 | [321533-airborne-justice.json](./321533-airborne-justice.json) |
-| Airborne Kingdom | 115473 | [115473-airborne-kingdom.json](./115473-airborne-kingdom.json) |
 | Airborne Kingdom: Deluxe Edition | 216228 | [216228-airborne-kingdom-deluxe-edition.json](./216228-airborne-kingdom-deluxe-edition.json) |
 | Airborne Motocross | 196639 | [196639-airborne-motocross.json](./196639-airborne-motocross.json) |
 | Airborne Ranger | 11891 | [11891-airborne-ranger.json](./11891-airborne-ranger.json) |
