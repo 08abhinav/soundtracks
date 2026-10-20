@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T22:01:22.873Z",
-  "total_soundtracks": 2318,
+  "generated_at": "2026-10-20T22:01:32.961Z",
+  "total_soundtracks": 2319,
   "games": [
     {
       "igdb_id": 7522,
@@ -12789,6 +12789,20 @@
         {
           "album_name": "Killzone: Mercenary (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2H5bDSXlhW6X3lRxA2Bpb0",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 120646,
+      "game_name": "Kind Words",
+      "game_url": "https://ostdb.net/games/kind-words",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f6675a0d7520e07300258e56",
+      "albums": [
+        {
+          "album_name": "Kind Words (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0dbOknL5rOAjW665YaVp7n",
           "apple_music_url": "",
           "album_link_url": ""
         }
