@@ -6382,6 +6382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dragon, Thyme | 280779 | [280779-the-dragon-thyme.json](./280779-the-dragon-thyme.json) |
 | The Dragon's Intern | 312642 | [312642-the-dragons-intern.json](./312642-the-dragons-intern.json) |
 | The Dragon's Prize | 180518 | [180518-the-dragons-prize.json](./180518-the-dragons-prize.json) |
+| The Dragon's Prophecy | 223320 | [223320-the-dragons-prophecy.json](./223320-the-dragons-prophecy.json) |
 | The Dragon's Turnabout | 303025 | [303025-the-dragons-turnabout.json](./303025-the-dragons-turnabout.json) |
 | The Dragoness: Command of the Flame | 211984 | [211984-the-dragoness-command-of-the-flame.json](./211984-the-dragoness-command-of-the-flame.json) |
 | The Dragons' Twilight II | 121010 | [121010-the-dragons-twilight-ii.json](./121010-the-dragons-twilight-ii.json) |
@@ -6980,6 +6981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fantastic Adventures of Mr. Don and Friends | 372982 | [372982-the-fantastic-adventures-of-mr-don-and-friends.json](./372982-the-fantastic-adventures-of-mr-don-and-friends.json) |
 | The Fantastic Fivesome | 303015 | [303015-the-fantastic-fivesome.json](./303015-the-fantastic-fivesome.json) |
 | The Fantastic Game | 230520 | [230520-the-fantastic-game.json](./230520-the-fantastic-game.json) |
+| The Fantastic Kitty Rue | 223354 | [223354-the-fantastic-kitty-rue.json](./223354-the-fantastic-kitty-rue.json) |
 | The Fantastic Voyage | 39145 | [39145-the-fantastic-voyage.json](./39145-the-fantastic-voyage.json) |
 | The Fantasy Village | 108268 | [108268-the-fantasy-village.json](./108268-the-fantasy-village.json) |
 | The Far Kingdoms: Awakening Solitaire | 115527 | [115527-the-far-kingdoms-awakening-solitaire.json](./115527-the-far-kingdoms-awakening-solitaire.json) |
@@ -11103,6 +11105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Particle of Infinite Free Will | 402531 | [402531-the-particle-of-infinite-free-will.json](./402531-the-particle-of-infinite-free-will.json) |
 | The Partners | 27621 | [27621-the-partners.json](./27621-the-partners.json) |
 | The Party | 135782 | [135782-the-party.json](./135782-the-party.json) |
+| The Parvificent Seven | 223305 | [223305-the-parvificent-seven.json](./223305-the-parvificent-seven.json) |
 | The Passage of Time | 155869 | [155869-the-passage-of-time.json](./155869-the-passage-of-time.json) |
 | The Passenger | 266393 | [266393-the-passenger.json](./266393-the-passenger.json) |
 | The Past | 236225 | [236225-the-past.json](./236225-the-past.json) |
@@ -12048,6 +12051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Search for Elsoliado | 69503 | [69503-the-search-for-elsoliado.json](./69503-the-search-for-elsoliado.json) |
 | The Search for Fran 2 | 203778 | [203778-the-search-for-fran-2.json](./203778-the-search-for-fran-2.json) |
 | The Search for MR Fimple | 189003 | [189003-the-search-for-mr-fimple.json](./189003-the-search-for-mr-fimple.json) |
+| The Search For Paradisus | 223307 | [223307-the-search-for-paradisus.json](./223307-the-search-for-paradisus.json) |
 | The Search for Salmon | 315637 | [315637-the-search-for-salmon.json](./315637-the-search-for-salmon.json) |
 | The Search For Sonic Mania 2 | 352175 | [352175-the-search-for-sonic-mania-2.json](./352175-the-search-for-sonic-mania-2.json) |
 | The Search for Tikiman | 265679 | [265679-the-search-for-tikiman.json](./265679-the-search-for-tikiman.json) |
@@ -23823,6 +23827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Wishes | 102622 | [102622-true-wishes.json](./102622-true-wishes.json) |
 | True World: Shinjitsu no Sekai | 382570 | [382570-true-world-shinjitsu-no-sekai.json](./382570-true-world-shinjitsu-no-sekai.json) |
 | Truefish | 120412 | [120412-truefish.json](./120412-truefish.json) |
+| Truer than You | 223316 | [223316-truer-than-you.json](./223316-truer-than-you.json) |
 | TrueScale | 105891 | [105891-truescale.json](./105891-truescale.json) |
 | Truffle Hogs | 159651 | [159651-truffle-hogs.json](./159651-truffle-hogs.json) |
 | Truffle Saga | 17416 | [17416-truffle-saga.json](./17416-truffle-saga.json) |
