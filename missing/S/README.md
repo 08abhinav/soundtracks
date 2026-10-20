@@ -7397,6 +7397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shutter Evidence | 375501 | [375501-shutter-evidence.json](./375501-shutter-evidence.json) |
 | Shutter Heist | 154065 | [154065-shutter-heist.json](./154065-shutter-heist.json) |
 | Shutter Island | 76992 | [76992-shutter-island.json](./76992-shutter-island.json) |
+| Shutter Labs | 211045 | [211045-shutter-labs.json](./211045-shutter-labs.json) |
 | Shutter Story | 358396 | [358396-shutter-story.json](./358396-shutter-story.json) |
 | Shutter Stroll | 134671 | [134671-shutter-stroll.json](./134671-shutter-stroll.json) |
 | Shutterbuds | 341475 | [341475-shutterbuds.json](./341475-shutterbuds.json) |
@@ -20538,6 +20539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stories of Submission: Learn Your Place | 169677 | [169677-stories-of-submission-learn-your-place.json](./169677-stories-of-submission-learn-your-place.json) |
 | Stories of the Dreaming World | 303009 | [303009-stories-of-the-dreaming-world.json](./303009-stories-of-the-dreaming-world.json) |
 | Stories One | 264678 | [264678-stories-one.json](./264678-stories-one.json) |
+| Stories School | 211073 | [211073-stories-school.json](./211073-stories-school.json) |
 | Stories to Tell: Downhill Cemetery | 295534 | [295534-stories-to-tell-downhill-cemetery.json](./295534-stories-to-tell-downhill-cemetery.json) |
 | Stories to Tell: Greyville Stay | 327935 | [327935-stories-to-tell-greyville-stay.json](./327935-stories-to-tell-greyville-stay.json) |
 | Stories to Tell: Run Away | 290477 | [290477-stories-to-tell-run-away.json](./290477-stories-to-tell-run-away.json) |
