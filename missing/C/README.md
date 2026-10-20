@@ -5424,6 +5424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiki-Chiki Boxy Pro Wrestling | 119429 | [119429-chiki-chiki-boxy-pro-wrestling.json](./119429-chiki-chiki-boxy-pro-wrestling.json) |
 | Chiki-Chiki Boxy Racers | 107229 | [107229-chiki-chiki-boxy-racers.json](./107229-chiki-chiki-boxy-racers.json) |
 | Chiki-chiki Machine Mou Race: Kenken to Black Maou no Ijiwaru Daisakusen | 245250 | [245250-chiki-chiki-machine-mou-race-kenken-to-black-maou-no-ijiwaru-daisakusen.json](./245250-chiki-chiki-machine-mou-race-kenken-to-black-maou-no-ijiwaru-daisakusen.json) |
+| Chiki's Chase | 204918 | [204918-chikis-chase.json](./204918-chikis-chase.json) |
 | Chikn Nuggit Nightmare Fwiends | 275929 | [275929-chikn-nuggit-nightmare-fwiends.json](./275929-chikn-nuggit-nightmare-fwiends.json) |
 | Chiko-chan no Noukatsu Kenkyuujo | 251520 | [251520-chiko-chan-no-noukatsu-kenkyuujo.json](./251520-chiko-chan-no-noukatsu-kenkyuujo.json) |
 | Chikoku no Mokushiroku | 150555 | [150555-chikoku-no-mokushiroku.json](./150555-chikoku-no-mokushiroku.json) |
