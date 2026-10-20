@@ -10927,7 +10927,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copy The Line | 328438 | [328438-copy-the-line.json](./328438-copy-the-line.json) |
 | Copy: Two Man Too Many | 359010 | [359010-copy-two-man-too-many.json](./359010-copy-two-man-too-many.json) |
 | Copy! Right? | 280734 | [280734-copy-right.json](./280734-copy-right.json) |
-| Copycat | 171650 | [171650-copycat.json](./171650-copycat.json) |
 | Copycat | 255631 | [255631-copycat.json](./255631-copycat.json) |
 | Copycat: Cee Ann | 185480 | [185480-copycat-cee-ann.json](./185480-copycat-cee-ann.json) |
 | CopyPasta with Cheese | 282094 | [282094-copypasta-with-cheese.json](./282094-copypasta-with-cheese.json) |
