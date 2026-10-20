@@ -6628,6 +6628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Enchanted Kingdom: Elisa's Adventure | 54440 | [54440-the-enchanted-kingdom-elisas-adventure.json](./54440-the-enchanted-kingdom-elisas-adventure.json) |
 | The Enchanted Turnabout | 306619 | [306619-the-enchanted-turnabout.json](./306619-the-enchanted-turnabout.json) |
 | The Enchanted Worlds | 290020 | [290020-the-enchanted-worlds.json](./290020-the-enchanted-worlds.json) |
+| The Enchanted Worlds 2 | 238917 | [238917-the-enchanted-worlds-2.json](./238917-the-enchanted-worlds-2.json) |
 | The Enchanting Islands | 54441 | [54441-the-enchanting-islands.json](./54441-the-enchanting-islands.json) |
 | The End | 329067 | [329067-the-end.json](./329067-the-end.json) |
 | The End | 38578 | [38578-the-end.json](./38578-the-end.json) |
@@ -19046,6 +19047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Bouncy? | 263340 | [263340-too-bouncy.json](./263340-too-bouncy.json) |
 | Too Deep To Quit | 397820 | [397820-too-deep-to-quit.json](./397820-too-deep-to-quit.json) |
 | Too Different | 150974 | [150974-too-different.json](./150974-too-different.json) |
+| Too Easy | 238881 | [238881-too-easy.json](./238881-too-easy.json) |
 | Too Far Too Late | 295550 | [295550-too-far-too-late.json](./295550-too-far-too-late.json) |
 | Too Fast | 183913 | [183913-too-fast.json](./183913-too-fast.json) |
 | Too Fast RPG | 240277 | [240277-too-fast-rpg.json](./240277-too-fast-rpg.json) |
@@ -23662,6 +23664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Love For Her | 297042 | [297042-true-love-for-her.json](./297042-true-love-for-her.json) |
 | True Love Story 3 | 138012 | [138012-true-love-story-3.json](./138012-true-love-story-3.json) |
 | True Love Story: Summer Days, and yet... | 137979 | [137979-true-love-story-summer-days-and-yet.json](./137979-true-love-story-summer-days-and-yet.json) |
+| True Love Sweet Lies | 238887 | [238887-true-love-sweet-lies.json](./238887-true-love-sweet-lies.json) |
 | True Love: Confide to the Maple | 32266 | [32266-true-love-confide-to-the-maple.json](./32266-true-love-confide-to-the-maple.json) |
 | True Lover's Knot | 34095 | [34095-true-lovers-knot.json](./34095-true-lovers-knot.json) |
 | True Matrix Total Conversion | 218654 | [218654-true-matrix-total-conversion.json](./218654-true-matrix-total-conversion.json) |
