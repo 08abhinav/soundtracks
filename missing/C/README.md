@@ -1118,6 +1118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Keep | 381198 | [381198-cannon-keep.json](./381198-cannon-keep.json) |
 | Cannon Master: Military Sport | 280154 | [280154-cannon-master-military-sport.json](./280154-cannon-master-military-sport.json) |
 | Cannon Momento | 179577 | [179577-cannon-momento.json](./179577-cannon-momento.json) |
+| Cannon Rats | 239470 | [239470-cannon-rats.json](./239470-cannon-rats.json) |
 | Cannon Royale | 223503 | [223503-cannon-royale.json](./223503-cannon-royale.json) |
 | Cannon Shoot Plane | 219735 | [219735-cannon-shoot-plane.json](./219735-cannon-shoot-plane.json) |
 | Cannon Spike | 6719 | [6719-cannon-spike.json](./6719-cannon-spike.json) |
@@ -7253,6 +7254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Class of Heroes: Anniversary Edition | 220942 | [220942-class-of-heroes-anniversary-edition.json](./220942-class-of-heroes-anniversary-edition.json) |
 | Class of Heroes: The Ultimate Trilogy | 368772 | [368772-class-of-heroes-the-ultimate-trilogy.json](./368772-class-of-heroes-the-ultimate-trilogy.json) |
 | Class of the Living Dead | 231428 | [231428-class-of-the-living-dead.json](./231428-class-of-the-living-dead.json) |
+| Class Reunion Chat Room | 239501 | [239501-class-reunion-chat-room.json](./239501-class-reunion-chat-room.json) |
 | Class Trip Crush | 238411 | [238411-class-trip-crush.json](./238411-class-trip-crush.json) |
 | Class4 (working title) | 131466 | [131466-class4-working-title.json](./131466-class4-working-title.json) |
 | ClassBoom | 372748 | [372748-classboom.json](./372748-classboom.json) |
