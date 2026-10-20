@@ -4067,6 +4067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senity: The Game | 116329 | [116329-senity-the-game.json](./116329-senity-the-game.json) |
 | Senjin Aleste | 165428 | [165428-senjin-aleste.json](./165428-senjin-aleste.json) |
 | Senjo no Valkyria Duel | 77367 | [77367-senjo-no-valkyria-duel.json](./77367-senjo-no-valkyria-duel.json) |
+| Senjou no Waltz for Nintendo Switch: Limited Edition | 253740 | [253740-senjou-no-waltz-for-nintendo-switch-limited-edition.json](./253740-senjou-no-waltz-for-nintendo-switch-limited-edition.json) |
 | Senkai Livin' | 392345 | [392345-senkai-livin.json](./392345-senkai-livin.json) |
 | Senkaiden Ni: TV Animation Senkaiden Houshin Engi Yori | 37313 | [37313-senkaiden-ni-tv-animation-senkaiden-houshin-engi-yori.json](./37313-senkaiden-ni-tv-animation-senkaiden-houshin-engi-yori.json) |
 | Senko no Ronde 2 | 29137 | [29137-senko-no-ronde-2.json](./29137-senko-no-ronde-2.json) |
@@ -4315,6 +4316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serial World | 301328 | [301328-serial-world.json](./301328-serial-world.json) |
 | Series Makers Tycoon | 173806 | [173806-series-makers-tycoon.json](./173806-series-makers-tycoon.json) |
 | Series: Your Story Universe | 144197 | [144197-series-your-story-universe.json](./144197-series-your-story-universe.json) |
+| Serilly's Happy Birthday | 253723 | [253723-serillys-happy-birthday.json](./253723-serillys-happy-birthday.json) |
 | Serin Fate | 118235 | [118235-serin-fate.json](./118235-serin-fate.json) |
 | Serious Breakdown | 191223 | [191223-serious-breakdown.json](./191223-serious-breakdown.json) |
 | Serious Carnage: Adrenaline Shooter | 403731 | [403731-serious-carnage-adrenaline-shooter.json](./403731-serious-carnage-adrenaline-shooter.json) |
@@ -6350,6 +6352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi Slash | 264055 | [264055-shinobi-slash.json](./264055-shinobi-slash.json) |
 | Shinobi Spirits S: Legend of Heroes | 121046 | [121046-shinobi-spirits-s-legend-of-heroes.json](./121046-shinobi-spirits-s-legend-of-heroes.json) |
 | Shinobi, Koi Utsutsu | 61665 | [61665-shinobi-koi-utsutsu.json](./61665-shinobi-koi-utsutsu.json) |
+| Shinobi, Koi Utsutsu for Nintendo Switch | 253739 | [253739-shinobi-koi-utsutsu-for-nintendo-switch.json](./253739-shinobi-koi-utsutsu-for-nintendo-switch.json) |
 | Shinobi, Koi Utsutsu: Banka Aya Emaki | 76232 | [76232-shinobi-koi-utsutsu-banka-aya-emaki.json](./76232-shinobi-koi-utsutsu-banka-aya-emaki.json) |
 | Shinobi, Koi Utsutsu: Banka Aya Emaki - Limited Edition | 205269 | [205269-shinobi-koi-utsutsu-banka-aya-emaki-limited-edition.json](./205269-shinobi-koi-utsutsu-banka-aya-emaki-limited-edition.json) |
 | Shinobi: Art of Vengeance | 279630 | [279630-shinobi-art-of-vengeance.json](./279630-shinobi-art-of-vengeance.json) |
@@ -7292,6 +7295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuttle Shuffle: Aliens Panic | 56393 | [56393-shuttle-shuffle-aliens-panic.json](./56393-shuttle-shuffle-aliens-panic.json) |
 | Shuttle World | 242541 | [242541-shuttle-world.json](./242541-shuttle-world.json) |
 | Shuttle: The Space Flight Simulator | 12766 | [12766-shuttle-the-space-flight-simulator.json](./12766-shuttle-the-space-flight-simulator.json) |
+| Shuttlecock Carbuncle | 253766 | [253766-shuttlecock-carbuncle.json](./253766-shuttlecock-carbuncle.json) |
 | Shuttlecock-H | 232559 | [232559-shuttlecock-h.json](./232559-shuttlecock-h.json) |
 | Shuttlecock-H | 344464 | [344464-shuttlecock-h.json](./344464-shuttlecock-h.json) |
 | Shuttlecock-H: Covered Rematch | 390169 | [390169-shuttlecock-h-covered-rematch.json](./390169-shuttlecock-h-covered-rematch.json) |
@@ -7969,6 +7973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver State | 396245 | [396245-silver-state.json](./396245-silver-state.json) |
 | Silver Strike Bowling | 72780 | [72780-silver-strike-bowling.json](./72780-silver-strike-bowling.json) |
 | Silver Surfer | 198884 | [198884-silver-surfer.json](./198884-silver-surfer.json) |
+| Silver the Hedgehog: World's Collide | 253786 | [253786-silver-the-hedgehog-worlds-collide.json](./253786-silver-the-hedgehog-worlds-collide.json) |
 | Silver Thread | 202227 | [202227-silver-thread.json](./202227-silver-thread.json) |
 | Silver Thread: Deux | 298809 | [298809-silver-thread-deux.json](./298809-silver-thread-deux.json) |
 | Silver Valley | 267976 | [267976-silver-valley.json](./267976-silver-valley.json) |
@@ -24040,6 +24045,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ninja Noodle Chef | 185598 | [185598-super-ninja-noodle-chef.json](./185598-super-ninja-noodle-chef.json) |
 | Super Ninja Square Attack | 87695 | [87695-super-ninja-square-attack.json](./87695-super-ninja-square-attack.json) |
 | Super Ninja-kun | 38271 | [38271-super-ninja-kun.json](./38271-super-ninja-kun.json) |
+| Super Ninji Land | 253793 | [253793-super-ninji-land.json](./253793-super-ninji-land.json) |
+| Super Ninji Land 2: A Ninji's Journey | 253794 | [253794-super-ninji-land-2-a-ninjis-journey.json](./253794-super-ninji-land-2-a-ninjis-journey.json) |
 | Super Ninji Land Reawakened | 373554 | [373554-super-ninji-land-reawakened.json](./373554-super-ninji-land-reawakened.json) |
 | Super Nisqually | 73273 | [73273-super-nisqually.json](./73273-super-nisqually.json) |
 | Super Nitrous Zoomer | 114982 | [114982-super-nitrous-zoomer.json](./114982-super-nitrous-zoomer.json) |
@@ -26589,6 +26596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symmodance | 263756 | [263756-symmodance.json](./263756-symmodance.json) |
 | Sympathia | 277608 | [277608-sympathia.json](./277608-sympathia.json) |
 | Sympathy Kiss | 222359 | [222359-sympathy-kiss.json](./222359-sympathy-kiss.json) |
+| SympathyKiss: Special Edition | 253727 | [253727-sympathykiss-special-edition.json](./253727-sympathykiss-special-edition.json) |
 | Symphone | 339425 | [339425-symphone.json](./339425-symphone.json) |
 | Symphoni | 334890 | [334890-symphoni.json](./334890-symphoni.json) |
 | Symphonia | 263008 | [263008-symphonia.json](./263008-symphonia.json) |
