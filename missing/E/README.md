@@ -4046,6 +4046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Initiative | 132659 | [132659-escape-initiative.json](./132659-escape-initiative.json) |
 | Escape Into Infinity | 186588 | [186588-escape-into-infinity.json](./186588-escape-into-infinity.json) |
 | Escape Island | 290915 | [290915-escape-island.json](./290915-escape-island.json) |
+| Escape It | 212645 | [212645-escape-it.json](./212645-escape-it.json) |
 | Escape It! | 283621 | [283621-escape-it.json](./283621-escape-it.json) |
 | Escape IV - Prison Break | 90665 | [90665-escape-iv-prison-break.json](./90665-escape-iv-prison-break.json) |
 | Escape Kids | 39867 | [39867-escape-kids.json](./39867-escape-kids.json) |
