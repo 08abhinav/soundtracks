@@ -822,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raids Inc. | 244851 | [244851-raids-inc.json](./244851-raids-inc.json) |
 | Raids of Nohosphere | 116395 | [116395-raids-of-nohosphere.json](./116395-raids-of-nohosphere.json) |
 | RaidTitans | 128910 | [128910-raidtitans.json](./128910-raidtitans.json) |
+| Raifu Wars: Puska Character | 207678 | [207678-raifu-wars-puska-character.json](./207678-raifu-wars-puska-character.json) |
 | Raige | 156044 | [156044-raige.json](./156044-raige.json) |
 | Raik | 135688 | [135688-raik.json](./135688-raik.json) |
 | Rail Adventures | 19063 | [19063-rail-adventures.json](./19063-rail-adventures.json) |
@@ -1546,6 +1547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rasen no Sora | 116337 | [116337-rasen-no-sora.json](./116337-rasen-no-sora.json) |
 | Rasen Reijoh Spiral Ojosama: Chohatsu no Makina | 265945 | [265945-rasen-reijoh-spiral-ojosama-chohatsu-no-makina.json](./265945-rasen-reijoh-spiral-ojosama-chohatsu-no-makina.json) |
 | Rasetsu 2 | 374684 | [374684-rasetsu-2.json](./374684-rasetsu-2.json) |
+| Rasetsu Fumaden | 207676 | [207676-rasetsu-fumaden.json](./207676-rasetsu-fumaden.json) |
 | Rashlander | 116832 | [116832-rashlander.json](./116832-rashlander.json) |
 | Rashness | 185390 | [185390-rashness.json](./185390-rashness.json) |
 | Rashomon | 135602 | [135602-rashomon.json](./135602-rashomon.json) |
@@ -3065,6 +3067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Tide | 391177 | [391177-red-tide.json](./391177-red-tide.json) |
 | Red Tie Runner | 265720 | [265720-red-tie-runner.json](./265720-red-tie-runner.json) |
 | Red Titans | 259638 | [259638-red-titans.json](./259638-red-titans.json) |
+| Red Tower | 207704 | [207704-red-tower.json](./207704-red-tower.json) |
 | Red Trees Rail. CO | 305925 | [305925-red-trees-rail-co.json](./305925-red-trees-rail-co.json) |
 | Red Triangle Super Collection | 192154 | [192154-red-triangle-super-collection.json](./192154-red-triangle-super-collection.json) |
 | Red Turn: The Road to Berlin 1943-45 | 22646 | [22646-red-turn-the-road-to-berlin-1943-45.json](./22646-red-turn-the-road-to-berlin-1943-45.json) |
@@ -4358,6 +4361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resta um | 230716 | [230716-resta-um.json](./230716-resta-um.json) |
 | Restart | 240774 | [240774-restart.json](./240774-restart.json) |
 | Restart Heart | 341858 | [341858-restart-heart.json](./341858-restart-heart.json) |
+| Restart Your Life Adventures of Tylenol | 207668 | [207668-restart-your-life-adventures-of-tylenol.json](./207668-restart-your-life-adventures-of-tylenol.json) |
 | Restarting Systems: Smoke's Bizarre Adventure | 378799 | [378799-restarting-systems-smokes-bizarre-adventure.json](./378799-restarting-systems-smokes-bizarre-adventure.json) |
 | Restaurant at the End of Time | 257880 | [257880-restaurant-at-the-end-of-time.json](./257880-restaurant-at-the-end-of-time.json) |
 | Restaurant Builder | 238462 | [238462-restaurant-builder.json](./238462-restaurant-builder.json) |
@@ -4738,6 +4742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Sector 9 | 73778 | [73778-return-to-sector-9.json](./73778-return-to-sector-9.json) |
 | Return to Sender | 241224 | [241224-return-to-sender.json](./241224-return-to-sender.json) |
 | Return to Sender | 336560 | [336560-return-to-sender.json](./336560-return-to-sender.json) |
+| Return to the Skyway | 207660 | [207660-return-to-the-skyway.json](./207660-return-to-the-skyway.json) |
 | Return to Trahulara | 359007 | [359007-return-to-trahulara.json](./359007-return-to-trahulara.json) |
 | Return to Wonderland | 356844 | [356844-return-to-wonderland.json](./356844-return-to-wonderland.json) |
 | Return to Yoshi's Island 64 | 159255 | [159255-return-to-yoshis-island-64.json](./159255-return-to-yoshis-island-64.json) |
