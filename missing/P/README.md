@@ -3881,6 +3881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PGA Tour 96 | 4285 | [4285-pga-tour-96.json](./4285-pga-tour-96.json) |
 | PGA Tour 96 TPC at Sawgrass Championship Course | 209982 | [209982-pga-tour-96-tpc-at-sawgrass-championship-course.json](./209982-pga-tour-96-tpc-at-sawgrass-championship-course.json) |
 | PGA Tour 96: Wentworth | 209981 | [209981-pga-tour-96-wentworth.json](./209981-pga-tour-96-wentworth.json) |
+| PGA Tour Golf | 217729 | [217729-pga-tour-golf.json](./217729-pga-tour-golf.json) |
 | PGA Tour Golf | 245425 | [245425-pga-tour-golf.json](./245425-pga-tour-golf.json) |
 | PGA Tour Golf 486 | 94530 | [94530-pga-tour-golf-486.json](./94530-pga-tour-golf-486.json) |
 | PGA Tour Golf II | 368635 | [368635-pga-tour-golf-ii.json](./368635-pga-tour-golf-ii.json) |
@@ -4973,6 +4974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilam Sky | 38503 | [38503-pilam-sky.json](./38503-pilam-sky.json) |
 | Pilapa Boom | 186325 | [186325-pilapa-boom.json](./186325-pilapa-boom.json) |
 | Pilapila | 296109 | [296109-pilapila.json](./296109-pilapila.json) |
+| Pile | 217722 | [217722-pile.json](./217722-pile.json) |
 | Pile of Cards | 71014 | [71014-pile-of-cards.json](./71014-pile-of-cards.json) |
 | Pile the Box | 246476 | [246476-pile-the-box.json](./246476-pile-the-box.json) |
 | Pile Up! | 220152 | [220152-pile-up.json](./220152-pile-up.json) |
@@ -10740,6 +10742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Omen | 216950 | [216950-primal-omen.json](./216950-primal-omen.json) |
 | Primal Planet | 243924 | [243924-primal-planet.json](./243924-primal-planet.json) |
 | Primal Rage | 199013 | [199013-primal-rage.json](./199013-primal-rage.json) |
+| Primal Rage | 217721 | [217721-primal-rage.json](./217721-primal-rage.json) |
 | Primal Rage | 259731 | [259731-primal-rage.json](./259731-primal-rage.json) |
 | Primal Rage | 370309 | [370309-primal-rage.json](./370309-primal-rage.json) |
 | Primal Rage | 4271 | [4271-primal-rage.json](./4271-primal-rage.json) |
@@ -11670,6 +11673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Aftershock | 94753 | [94753-project-aftershock.json](./94753-project-aftershock.json) |
 | Project Agora | 140326 | [140326-project-agora.json](./140326-project-agora.json) |
 | Project Alex | 216400 | [216400-project-alex.json](./216400-project-alex.json) |
+| Project Alien | 217743 | [217743-project-alien.json](./217743-project-alien.json) |
 | Project Alpha | 324347 | [324347-project-alpha.json](./324347-project-alpha.json) |
 | Project Alpha 002 | 30943 | [30943-project-alpha-002.json](./30943-project-alpha-002.json) |
 | Project Amaranth | 103925 | [103925-project-amaranth.json](./103925-project-amaranth.json) |
