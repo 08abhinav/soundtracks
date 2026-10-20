@@ -1688,6 +1688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemunai | 374824 | [374824-nemunai.json](./374824-nemunai.json) |
 | Nemurenai Yoru, Kimi wo Sagashite | 395494 | [395494-nemurenai-yoru-kimi-wo-sagashite.json](./395494-nemurenai-yoru-kimi-wo-sagashite.json) |
 | Nemurenu Yoru no Chiisana Ohanashi | 254494 | [254494-nemurenu-yoru-no-chiisana-ohanashi.json](./254494-nemurenu-yoru-no-chiisana-ohanashi.json) |
+| Nemurenu Yoru no Mikaketsu Mystery | 254925 | [254925-nemurenu-yoru-no-mikaketsu-mystery.json](./254925-nemurenu-yoru-no-mikaketsu-mystery.json) |
 | Nemuri Uri no | 233479 | [233479-nemuri-uri-no.json](./233479-nemuri-uri-no.json) |
 | Nemuru Mayu | 141028 | [141028-nemuru-mayu.json](./141028-nemuru-mayu.json) |
 | Nendoroid Generation | 44485 | [44485-nendoroid-generation.json](./44485-nendoroid-generation.json) |
