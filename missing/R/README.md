@@ -6298,6 +6298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roach Invasion | 246802 | [246802-roach-invasion.json](./246802-roach-invasion.json) |
 | Roach Killer | 116904 | [116904-roach-killer.json](./116904-roach-killer.json) |
 | Roach Race | 215843 | [215843-roach-race.json](./215843-roach-race.json) |
+| Roach Raid | 217177 | [217177-roach-raid.json](./217177-roach-raid.json) |
 | Roach Royale | 275331 | [275331-roach-royale.json](./275331-roach-royale.json) |
 | Roach's Room ~Horror Experience Series~ | 107210 | [107210-roachs-room-horror-experience-series.json](./107210-roachs-room-horror-experience-series.json) |
 | Roaches: The Birthday Party | 297869 | [297869-roaches-the-birthday-party.json](./297869-roaches-the-birthday-party.json) |
