@@ -3647,7 +3647,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Last Dayz | 249711 | [249711-our-last-dayz.json](./249711-our-last-dayz.json) |
 | Our Last Stand: A way home | 179937 | [179937-our-last-stand-a-way-home.json](./179937-our-last-stand-a-way-home.json) |
 | Our Life on Water | 276186 | [276186-our-life-on-water.json](./276186-our-life-on-water.json) |
-| Our Life: Beginnings & Always | 122028 | [122028-our-life-beginnings-and-always.json](./122028-our-life-beginnings-and-always.json) |
 | Our Life: Beginnings & Always - Baxter's Story | 248049 | [248049-our-life-beginnings-and-always-baxters-story.json](./248049-our-life-beginnings-and-always-baxters-story.json) |
 | Our Life: Beginnings & Always - Derek's Story | 216140 | [216140-our-life-beginnings-and-always-dereks-story.json](./216140-our-life-beginnings-and-always-dereks-story.json) |
 | Our Life: Now & Forever | 187392 | [187392-our-life-now-and-forever.json](./187392-our-life-now-and-forever.json) |
