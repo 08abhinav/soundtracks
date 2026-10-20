@@ -3538,6 +3538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light the Backrooms | 232441 | [232441-light-the-backrooms.json](./232441-light-the-backrooms.json) |
 | Light the Candles in Hell | 340920 | [340920-light-the-candles-in-hell.json](./340920-light-the-candles-in-hell.json) |
 | Light the Lamp Hockey | 197120 | [197120-light-the-lamp-hockey.json](./197120-light-the-lamp-hockey.json) |
+| Light the Night | 253243 | [253243-light-the-night.json](./253243-light-the-night.json) |
 | Light the Way | 114238 | [114238-light-the-way.json](./114238-light-the-way.json) |
 | Light the Way | 248286 | [248286-light-the-way.json](./248286-light-the-way.json) |
 | Light the Way: 10th Anniversary | 232403 | [232403-light-the-way-10th-anniversary.json](./232403-light-the-way-10th-anniversary.json) |
@@ -6376,6 +6377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Collection 4-in-1 | 404259 | [404259-love-collection-4-in-1.json](./404259-love-collection-4-in-1.json) |
 | Love Colors: Everyday Pixels | 195230 | [195230-love-colors-everyday-pixels.json](./195230-love-colors-everyday-pixels.json) |
 | Love Colors: Pixel Seasons | 195229 | [195229-love-colors-pixel-seasons.json](./195229-love-colors-pixel-seasons.json) |
+| Love Com: Punch de Cont. | 253239 | [253239-love-com-punch-de-cont.json](./253239-love-com-punch-de-cont.json) |
 | Love Com: Punch de Konto | 61443 | [61443-love-com-punch-de-konto.json](./61443-love-com-punch-de-konto.json) |
 | Love Confessions on the Adventure | 349271 | [349271-love-confessions-on-the-adventure.json](./349271-love-confessions-on-the-adventure.json) |
 | Love Connect | 268992 | [268992-love-connect.json](./268992-love-connect.json) |
