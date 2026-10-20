@@ -732,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall In Love - My Billionaire Boss | 120870 | [120870-fall-in-love-my-billionaire-boss.json](./120870-fall-in-love-my-billionaire-boss.json) |
 | Fall in the Rift | 199342 | [199342-fall-in-the-rift.json](./199342-fall-in-the-rift.json) |
 | Fall into Decay | 253507 | [253507-fall-into-decay.json](./253507-fall-into-decay.json) |
+| Fall Into Insanity | 253746 | [253746-fall-into-insanity.json](./253746-fall-into-insanity.json) |
 | Fall Jo! | 232047 | [232047-fall-jo.json](./232047-fall-jo.json) |
 | Fall Ninja | 268450 | [268450-fall-ninja.json](./268450-fall-ninja.json) |
 | Fall of Gods | 240763 | [240763-fall-of-gods.json](./240763-fall-of-gods.json) |
@@ -1783,6 +1784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far-Out | 34792 | [34792-far-out.json](./34792-far-out.json) |
 | Far: Changing Tides | 152259 | [152259-far-changing-tides.json](./152259-far-changing-tides.json) |
 | FAR: Changing Tides - Deluxe Edition | 187823 | [187823-far-changing-tides-deluxe-edition.json](./187823-far-changing-tides-deluxe-edition.json) |
+| FAR: Universe Bundle | 253791 | [253791-far-universe-bundle.json](./253791-far-universe-bundle.json) |
 | Farabel | 24965 | [24965-farabel.json](./24965-farabel.json) |
 | Faraday's Flaw | 310583 | [310583-faradays-flaw.json](./310583-faradays-flaw.json) |
 | Farafalla | 225285 | [225285-farafalla.json](./225285-farafalla.json) |
@@ -2514,6 +2516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatimopolis | 409636 | [409636-fatimopolis.json](./409636-fatimopolis.json) |
 | Fatman Adventures | 250229 | [250229-fatman-adventures.json](./250229-fatman-adventures.json) |
 | Fatman: The Caped Consumer | 92951 | [92951-fatman-the-caped-consumer.json](./92951-fatman-the-caped-consumer.json) |
+| Fatpets | 253778 | [253778-fatpets.json](./253778-fatpets.json) |
 | Fatrifice | 244496 | [244496-fatrifice.json](./244496-fatrifice.json) |
 | Fatrifice 2 | 262941 | [262941-fatrifice-2.json](./262941-fatrifice-2.json) |
 | Fatrifice 3 | 334211 | [334211-fatrifice-3.json](./334211-fatrifice-3.json) |
