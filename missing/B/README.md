@@ -798,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bag Hero | 345985 | [345985-bag-hero.json](./345985-bag-hero.json) |
 | Bagarre | 386970 | [386970-bagarre.json](./386970-bagarre.json) |
 | Bagasaurus | 147213 | [147213-bagasaurus.json](./147213-bagasaurus.json) |
+| Bagdex | 237832 | [237832-bagdex.json](./237832-bagdex.json) |
 | Bagel Love Story | 298691 | [298691-bagel-love-story.json](./298691-bagel-love-story.json) |
 | Bagelball | 341300 | [341300-bagelball.json](./341300-bagelball.json) |
 | Baggage Inspector | 293854 | [293854-baggage-inspector.json](./293854-baggage-inspector.json) |
