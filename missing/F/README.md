@@ -3506,6 +3506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Basketball | 40134 | [40134-fighting-basketball.json](./40134-fighting-basketball.json) |
 | Fighting Block | 156218 | [156218-fighting-block.json](./156218-fighting-block.json) |
 | Fighting Box | 68657 | [68657-fighting-box.json](./68657-fighting-box.json) |
+| Fighting Boxer | 218336 | [218336-fighting-boxer.json](./218336-fighting-boxer.json) |
 | Fighting breakthrough | 287779 | [287779-fighting-breakthrough.json](./287779-fighting-breakthrough.json) |
 | Fighting Bujutsu | 58733 | [58733-fighting-bujutsu.json](./58733-fighting-bujutsu.json) |
 | Fighting Chance | 244083 | [244083-fighting-chance.json](./244083-fighting-chance.json) |
@@ -7336,6 +7337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forestry: The Simulation | 147858 | [147858-forestry-the-simulation.json](./147858-forestry-the-simulation.json) |
 | Forests Are For Trees | 107021 | [107021-forests-are-for-trees.json](./107021-forests-are-for-trees.json) |
 | Forests of Augusta | 104035 | [104035-forests-of-augusta.json](./104035-forests-of-augusta.json) |
+| Forêt de Nuages | 218302 | [218302-foret-de-nuages.json](./218302-foret-de-nuages.json) |
 | Forêt Éternelle | 187362 | [187362-foret-eternelle.json](./187362-foret-eternelle.json) |
 | Foretales | 195096 | [195096-foretales.json](./195096-foretales.json) |
 | Foretales: Deluxe Edition | 218690 | [218690-foretales-deluxe-edition.json](./218690-foretales-deluxe-edition.json) |
@@ -7557,6 +7559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Form / Twilight Path | 142779 | [142779-form-twilight-path.json](./142779-form-twilight-path.json) |
 | Form Fitting | 243567 | [243567-form-fitting.json](./243567-form-fitting.json) |
 | Form of a Legend | 132800 | [132800-form-of-a-legend.json](./132800-form-of-a-legend.json) |
+| Form of Being | 218303 | [218303-form-of-being.json](./218303-form-of-being.json) |
 | Forma | 326941 | [326941-forma.json](./326941-forma.json) |
 | Forma.8 | 27277 | [27277-forma-8.json](./27277-forma-8.json) |
 | Formaggio 2 | 327365 | [327365-formaggio-2.json](./327365-formaggio-2.json) |
@@ -9104,6 +9107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frisbros | 163871 | [163871-frisbros.json](./163871-frisbros.json) |
 | Frisia: Tales & Tides | 280303 | [280303-frisia-tales-and-tides.json](./280303-frisia-tales-and-tides.json) |
 | Frisky Business | 27986 | [27986-frisky-business.json](./27986-frisky-business.json) |
+| Frisky Tom | 218323 | [218323-frisky-tom.json](./218323-frisky-tom.json) |
 | Frisky Tom | 240117 | [240117-frisky-tom.json](./240117-frisky-tom.json) |
 | Frisky Tom | 282833 | [282833-frisky-tom.json](./282833-frisky-tom.json) |
 | Frisson | 197226 | [197226-frisson.json](./197226-frisson.json) |
@@ -9221,6 +9225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger | 198744 | [198744-frogger.json](./198744-frogger.json) |
 | Frogger | 199426 | [199426-frogger.json](./199426-frogger.json) |
 | Frogger | 203243 | [203243-frogger.json](./203243-frogger.json) |
+| Frogger | 218320 | [218320-frogger.json](./218320-frogger.json) |
 | Frogger | 218437 | [218437-frogger.json](./218437-frogger.json) |
 | Frogger | 218439 | [218439-frogger.json](./218439-frogger.json) |
 | Frogger | 218554 | [218554-frogger.json](./218554-frogger.json) |
