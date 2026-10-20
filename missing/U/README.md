@@ -540,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Sim | 91425 | [91425-ultimate-sim.json](./91425-ultimate-sim.json) |
 | Ultimate Simplicity | 256815 | [256815-ultimate-simplicity.json](./256815-ultimate-simplicity.json) |
 | Ultimate Ski Jumping 2020 | 131979 | [131979-ultimate-ski-jumping-2020.json](./131979-ultimate-ski-jumping-2020.json) |
+| Ultimate Ski Jumping 2020 + Glaive: Brick Breaker Bundle | 225477 | [225477-ultimate-ski-jumping-2020-glaive-brick-breaker-bundle.json](./225477-ultimate-ski-jumping-2020-glaive-brick-breaker-bundle.json) |
 | Ultimate Skyrim | 132068 | [132068-ultimate-skyrim.json](./132068-ultimate-skyrim.json) |
 | Ultimate Sliding Puzzle: Arcade Pack | 270391 | [270391-ultimate-sliding-puzzle-arcade-pack.json](./270391-ultimate-sliding-puzzle-arcade-pack.json) |
 | Ultimate Sliding Puzzle: Ecchi Pack | 270392 | [270392-ultimate-sliding-puzzle-ecchi-pack.json](./270392-ultimate-sliding-puzzle-ecchi-pack.json) |
