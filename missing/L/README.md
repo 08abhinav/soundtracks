@@ -1004,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Joy | 126591 | [126591-last-joy.json](./126591-last-joy.json) |
 | Last Kid on the Bus | 409712 | [409712-last-kid-on-the-bus.json](./409712-last-kid-on-the-bus.json) |
 | Last King of Africa | 47883 | [47883-last-king-of-africa.json](./47883-last-king-of-africa.json) |
+| Last King: Tower Defense | 224938 | [224938-last-king-tower-defense.json](./224938-last-king-tower-defense.json) |
 | Last Kingdom | 361305 | [361305-last-kingdom.json](./361305-last-kingdom.json) |
 | Last Kingdom: The Card Game | 156910 | [156910-last-kingdom-the-card-game.json](./156910-last-kingdom-the-card-game.json) |
 | Last Kings | 123894 | [123894-last-kings.json](./123894-last-kings.json) |
@@ -2458,6 +2459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Stunt Rally | 265050 | [265050-lego-stunt-rally.json](./265050-lego-stunt-rally.json) |
 | LEGO Stunt Rally | 4112 | [4112-lego-stunt-rally.json](./4112-lego-stunt-rally.json) |
 | LEGO Super Heroes: Thor | 228414 | [228414-lego-super-heroes-thor.json](./228414-lego-super-heroes-thor.json) |
+| LEGO Super Heroes: Ultimate Spider-Man | 224947 | [224947-lego-super-heroes-ultimate-spider-man.json](./224947-lego-super-heroes-ultimate-spider-man.json) |
 | LEGO Super Mario Goal | 328610 | [328610-lego-super-mario-goal.json](./328610-lego-super-mario-goal.json) |
 | LEGO Super Mario Jigsaw Puzzle | 328607 | [328607-lego-super-mario-jigsaw-puzzle.json](./328607-lego-super-mario-jigsaw-puzzle.json) |
 | LEGO Supersonic RC | 250613 | [250613-lego-supersonic-rc.json](./250613-lego-supersonic-rc.json) |
@@ -3193,6 +3195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liar’s Line | 382762 | [382762-liar-s-line.json](./382762-liar-s-line.json) |
 | Liar's Lounge | 325003 | [325003-liars-lounge.json](./325003-liars-lounge.json) |
 | Liar's Pub | 327440 | [327440-liars-pub.json](./327440-liars-pub.json) |
+| Liars Race in Lost Ruins | 224968 | [224968-liars-race-in-lost-ruins.json](./224968-liars-race-in-lost-ruins.json) |
 | Libble Rabble | 37945 | [37945-libble-rabble.json](./37945-libble-rabble.json) |
 | Libe | 332854 | [332854-libe.json](./332854-libe.json) |
 | Liber | 163198 | [163198-liber.json](./163198-liber.json) |
@@ -3680,6 +3683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LightPoint | 350601 | [350601-lightpoint.json](./350601-lightpoint.json) |
 | LightQb | 374799 | [374799-lightqb.json](./374799-lightqb.json) |
 | LightQuest | 180123 | [180123-lightquest.json](./180123-lightquest.json) |
+| Lightracer Spark | 224981 | [224981-lightracer-spark.json](./224981-lightracer-spark.json) |
 | Lightracer Spark: Stars Will | 276640 | [276640-lightracer-spark-stars-will.json](./276640-lightracer-spark-stars-will.json) |
 | Lightracer: For Judge | 309845 | [309845-lightracer-for-judge.json](./309845-lightracer-for-judge.json) |
 | Lightracer: Ignition | 234477 | [234477-lightracer-ignition.json](./234477-lightracer-ignition.json) |
@@ -4214,6 +4218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lipsync Killers | 256888 | [256888-lipsync-killers.json](./256888-lipsync-killers.json) |
 | LipTrip: My Boss is My Heat Suppressant | 271985 | [271985-liptrip-my-boss-is-my-heat-suppressant.json](./271985-liptrip-my-boss-is-my-heat-suppressant.json) |
 | LipTrip: My Boss Is My Heat Suppressant?! | 397215 | [397215-liptrip-my-boss-is-my-heat-suppressant.json](./397215-liptrip-my-boss-is-my-heat-suppressant.json) |
+| Liquid | 224964 | [224964-liquid.json](./224964-liquid.json) |
 | Liquid Abyss: The Melted Jelly | 331883 | [331883-liquid-abyss-the-melted-jelly.json](./331883-liquid-abyss-the-melted-jelly.json) |
 | Liquid Defense | 91281 | [91281-liquid-defense.json](./91281-liquid-defense.json) |
 | Liquid Kids | 16750 | [16750-liquid-kids.json](./16750-liquid-kids.json) |
@@ -7285,6 +7290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna | 197624 | [197624-luna.json](./197624-luna.json) |
 | Luna | 43166 | [43166-luna.json](./43166-luna.json) |
 | Luna : The Dimemsion Watcher | 130917 | [130917-luna-the-dimemsion-watcher.json](./130917-luna-the-dimemsion-watcher.json) |
+| Luna & Monsters TD: The Deprived Magical Kingdom | 224952 | [224952-luna-and-monsters-td-the-deprived-magical-kingdom.json](./224952-luna-and-monsters-td-the-deprived-magical-kingdom.json) |
 | Luna & Sol: Nightmare Ward | 368819 | [368819-luna-and-sol-nightmare-ward.json](./368819-luna-and-sol-nightmare-ward.json) |
 | Luna and the Crystal of Light | 342426 | [342426-luna-and-the-crystal-of-light.json](./342426-luna-and-the-crystal-of-light.json) |
 | Luna and the Dreams | 387563 | [387563-luna-and-the-dreams.json](./387563-luna-and-the-dreams.json) |
