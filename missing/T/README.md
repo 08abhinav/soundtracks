@@ -11291,6 +11291,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Premiership | 71787 | [71787-the-premiership.json](./71787-the-premiership.json) |
 | The Preschoolers: Season 1 | 221085 | [221085-the-preschoolers-season-1.json](./221085-the-preschoolers-season-1.json) |
 | The Preschoolers: Season 1 - Extended Edition | 233006 | [233006-the-preschoolers-season-1-extended-edition.json](./233006-the-preschoolers-season-1-extended-edition.json) |
+| The Preschoolers: Season 1 Christmas Edition | 231233 | [231233-the-preschoolers-season-1-christmas-edition.json](./231233-the-preschoolers-season-1-christmas-edition.json) |
+| The Preschoolers: Season 1 Ultimate Edition | 231227 | [231227-the-preschoolers-season-1-ultimate-edition.json](./231227-the-preschoolers-season-1-ultimate-edition.json) |
 | The Present | 288079 | [288079-the-present.json](./288079-the-present.json) |
 | The Preservation Project | 204415 | [204415-the-preservation-project.json](./204415-the-preservation-project.json) |
 | The President | 200476 | [200476-the-president.json](./200476-the-president.json) |
@@ -24074,6 +24076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuiterland 5: El Fin de las Redes Sociales | 342704 | [342704-tuiterland-5-el-fin-de-las-redes-sociales.json](./342704-tuiterland-5-el-fin-de-las-redes-sociales.json) |
 | Tuk Ruk | 286426 | [286426-tuk-ruk.json](./286426-tuk-ruk.json) |
 | Tuk Tuk Extreme Simulator | 199367 | [199367-tuk-tuk-extreme-simulator.json](./199367-tuk-tuk-extreme-simulator.json) |
+| Tuk Tuk Extreme: Real Car Driving Simulator & Parking 2023 Car Games 3D Vehicle | 231230 | [231230-tuk-tuk-extreme-real-car-driving-simulator-and-parking-2023-car-games-3d-vehicle.json](./231230-tuk-tuk-extreme-real-car-driving-simulator-and-parking-2023-car-games-3d-vehicle.json) |
 | Tuk Tuk Go! | 416172 | [416172-tuk-tuk-go.json](./416172-tuk-tuk-go.json) |
 | Tuk Tuk Taxi | 272573 | [272573-tuk-tuk-taxi.json](./272573-tuk-tuk-taxi.json) |
 | Tuk Tuk Trials | 109502 | [109502-tuk-tuk-trials.json](./109502-tuk-tuk-trials.json) |
