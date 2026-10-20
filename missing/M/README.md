@@ -4866,6 +4866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mbembe Radio | 300988 | [300988-mbembe-radio.json](./300988-mbembe-radio.json) |
 | MBOS | 315509 | [315509-mbos.json](./315509-mbos.json) |
 | Mc Coy | 92960 | [92960-mc-coy.json](./92960-mc-coy.json) |
+| MC Eternal | 205976 | [205976-mc-eternal.json](./205976-mc-eternal.json) |
 | MC Eternal 2 | 350988 | [350988-mc-eternal-2.json](./350988-mc-eternal-2.json) |
 | MC Groovz Dance Craze | 50581 | [50581-mc-groovz-dance-craze.json](./50581-mc-groovz-dance-craze.json) |
 | MC Hammer: U Can't Touch This | 198811 | [198811-mc-hammer-u-cant-touch-this.json](./198811-mc-hammer-u-cant-touch-this.json) |
@@ -15481,6 +15482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Giant Sexy Sensei Bullies Me 9 | 384735 | [384735-my-giant-sexy-sensei-bullies-me-9.json](./384735-my-giant-sexy-sensei-bullies-me-9.json) |
 | My Girl: Love Story | 119603 | [119603-my-girl-love-story.json](./119603-my-girl-love-story.json) |
 | My Girlfriend | 81184 | [81184-my-girlfriend.json](./81184-my-girlfriend.json) |
+| My Girlfriend is a Cat Girl?! | 205996 | [205996-my-girlfriend-is-a-cat-girl.json](./205996-my-girlfriend-is-a-cat-girl.json) |
 | My Girlfriend is a Mermaid!? | 212712 | [212712-my-girlfriend-is-a-mermaid.json](./212712-my-girlfriend-is-a-mermaid.json) |
 | My Girlfriend is a Mermaid!? Refine | 188642 | [188642-my-girlfriend-is-a-mermaid-refine.json](./188642-my-girlfriend-is-a-mermaid-refine.json) |
 | My Girlfriend is a Mermaid!? Refine: Limited Edition | 188645 | [188645-my-girlfriend-is-a-mermaid-refine-limited-edition.json](./188645-my-girlfriend-is-a-mermaid-refine-limited-edition.json) |
@@ -15679,6 +15681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Kitty Cat | 99001 | [99001-my-little-kitty-cat.json](./99001-my-little-kitty-cat.json) |
 | My Little MILF | 341351 | [341351-my-little-milf.json](./341351-my-little-milf.json) |
 | My Little Miniatures | 226175 | [226175-my-little-miniatures.json](./226175-my-little-miniatures.json) |
+| My Little Pet Girlfriend | 205997 | [205997-my-little-pet-girlfriend.json](./205997-my-little-pet-girlfriend.json) |
 | My Little Pony | 206776 | [206776-my-little-pony.json](./206776-my-little-pony.json) |
 | My Little Pony Celebration | 138466 | [138466-my-little-pony-celebration.json](./138466-my-little-pony-celebration.json) |
 | My Little Pony Crystal Princess: The Runaway Rainbow | 49389 | [49389-my-little-pony-crystal-princess-the-runaway-rainbow.json](./49389-my-little-pony-crystal-princess-the-runaway-rainbow.json) |
@@ -15814,6 +15817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Night Sun All Games | 276308 | [276308-my-night-sun-all-games.json](./276308-my-night-sun-all-games.json) |
 | My Nights at Singing Monsters | 367563 | [367563-my-nights-at-singing-monsters.json](./367563-my-nights-at-singing-monsters.json) |
 | My Ninja Destiny | 228359 | [228359-my-ninja-destiny.json](./228359-my-ninja-destiny.json) |
+| My Ninja Girlfriend | 206002 | [206002-my-ninja-girlfriend.json](./206002-my-ninja-girlfriend.json) |
 | My Ninja Romance | 299520 | [299520-my-ninja-romance.json](./299520-my-ninja-romance.json) |
 | My Nintendo Picross: The Legend of Zelda Twilight Princess | 58782 | [58782-my-nintendo-picross-the-legend-of-zelda-twilight-princess.json](./58782-my-nintendo-picross-the-legend-of-zelda-twilight-princess.json) |
 | My Nonogram Waifu: Forbidden Love | 262367 | [262367-my-nonogram-waifu-forbidden-love.json](./262367-my-nonogram-waifu-forbidden-love.json) |
@@ -16002,6 +16006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sweet Herbivore High | 231421 | [231421-my-sweet-herbivore-high.json](./231421-my-sweet-herbivore-high.json) |
 | My Sweet Puppy Love | 208280 | [208280-my-sweet-puppy-love.json](./208280-my-sweet-puppy-love.json) |
 | My Sweet Roomies | 378198 | [378198-my-sweet-roomies.json](./378198-my-sweet-roomies.json) |
+| My Sweet Stalker | 205998 | [205998-my-sweet-stalker.json](./205998-my-sweet-stalker.json) |
 | My Sweet Stepsisters | 205896 | [205896-my-sweet-stepsisters.json](./205896-my-sweet-stepsisters.json) |
 | My Sweet Summer Oni | 213279 | [213279-my-sweet-summer-oni.json](./213279-my-sweet-summer-oni.json) |
 | My Sweet Waifu | 88120 | [88120-my-sweet-waifu.json](./88120-my-sweet-waifu.json) |
@@ -16104,6 +16109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Very Hungry Caterpillar | 321784 | [321784-my-very-hungry-caterpillar.json](./321784-my-very-hungry-caterpillar.json) |
 | My Very Hungry Caterpillar AR | 109544 | [109544-my-very-hungry-caterpillar-ar.json](./109544-my-very-hungry-caterpillar-ar.json) |
 | My Very Own Lair | 158563 | [158563-my-very-own-lair.json](./158563-my-very-own-lair.json) |
+| My Video Game Girlfriend | 206000 | [206000-my-video-game-girlfriend.json](./206000-my-video-game-girlfriend.json) |
 | My Village Life | 166506 | [166506-my-village-life.json](./166506-my-village-life.json) |
 | My Vineyard | 92440 | [92440-my-vineyard.json](./92440-my-vineyard.json) |
 | My Virgin Roommate | 264800 | [264800-my-virgin-roommate.json](./264800-my-virgin-roommate.json) |
