@@ -5045,6 +5045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi-Ten Bomberman | 77942 | [77942-hi-ten-bomberman.json](./77942-hi-ten-bomberman.json) |
 | Hi-Ten Chara Bom | 64335 | [64335-hi-ten-chara-bom.json](./64335-hi-ten-chara-bom.json) |
 | Hi-way | 18201 | [18201-hi-way.json](./18201-hi-way.json) |
+| Hi, How Are You | 251426 | [251426-hi-how-are-you.json](./251426-hi-how-are-you.json) |
 | Hi! Hamtaro: Ham-Ham Challenge | 77875 | [77875-hi-hamtaro-ham-ham-challenge.json](./77875-hi-hamtaro-ham-ham-challenge.json) |
 | Hiatari Ryoukou! | 258850 | [258850-hiatari-ryoukou.json](./258850-hiatari-ryoukou.json) |
 | Hibachi Hero | 395015 | [395015-hibachi-hero.json](./395015-hibachi-hero.json) |
@@ -6542,6 +6543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday Adventures: Hawaii | 296819 | [296819-holiday-adventures-hawaii.json](./296819-holiday-adventures-hawaii.json) |
 | Holiday After Special | 310965 | [310965-holiday-after-special.json](./310965-holiday-after-special.json) |
 | Holiday Bonus Gold | 29929 | [29929-holiday-bonus-gold.json](./29929-holiday-bonus-gold.json) |
+| Holiday Dash! | 251357 | [251357-holiday-dash.json](./251357-holiday-dash.json) |
 | Holiday Express | 54088 | [54088-holiday-express.json](./54088-holiday-express.json) |
 | Holiday Eye Spy 2 | 391337 | [391337-holiday-eye-spy-2.json](./391337-holiday-eye-spy-2.json) |
 | Holiday Flight Simulator | 32112 | [32112-holiday-flight-simulator.json](./32112-holiday-flight-simulator.json) |
@@ -8620,6 +8622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugo: The Evil Mirror | 6438 | [6438-hugo-the-evil-mirror.json](./6438-hugo-the-evil-mirror.json) |
 | Hugo: The Forces of Nature | 15538 | [15538-hugo-the-forces-of-nature.json](./15538-hugo-the-forces-of-nature.json) |
 | Hugo: The Magic Journey | 135561 | [135561-hugo-the-magic-journey.json](./135561-hugo-the-magic-journey.json) |
+| Hugo: The Magic Oak | 251394 | [251394-hugo-the-magic-oak.json](./251394-hugo-the-magic-oak.json) |
 | Hugo: The Quest for the Sunstones | 44743 | [44743-hugo-the-quest-for-the-sunstones.json](./44743-hugo-the-quest-for-the-sunstones.json) |
 | Hugo: Wild River | 210623 | [210623-hugo-wild-river.json](./210623-hugo-wild-river.json) |
 | Hugo: Winter Games | 337756 | [337756-hugo-winter-games.json](./337756-hugo-winter-games.json) |
