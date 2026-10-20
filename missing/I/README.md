@@ -5059,6 +5059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itazura Tenshi | 224946 | [224946-itazura-tenshi.json](./224946-itazura-tenshi.json) |
 | Itch! | 143745 | [143745-itch.json](./143745-itch.json) |
 | Itchana Tchones Zombie Terror | 285139 | [285139-itchana-tchones-zombie-terror.json](./285139-itchana-tchones-zombie-terror.json) |
+| Itchy Scratchy | 215547 | [215547-itchy-scratchy.json](./215547-itchy-scratchy.json) |
 | Item Collector: Pirates | 369338 | [369338-item-collector-pirates.json](./369338-item-collector-pirates.json) |
 | Item Frenzy | 328516 | [328516-item-frenzy.json](./328516-item-frenzy.json) |
 | Item Shop Simulator | 406226 | [406226-item-shop-simulator.json](./406226-item-shop-simulator.json) |
