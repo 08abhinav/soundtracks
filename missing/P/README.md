@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacremental | 398410 | [398410-pacremental.json](./398410-pacremental.json) |
 | PACS: Post Apocalypse Courier Service | 323035 | [323035-pacs-post-apocalypse-courier-service.json](./323035-pacs-post-apocalypse-courier-service.json) |
 | Pact of Blood | 351487 | [351487-pact-of-blood.json](./351487-pact-of-blood.json) |
+| Pact of Darkness | 217188 | [217188-pact-of-darkness.json](./217188-pact-of-darkness.json) |
 | Pact of Joy | 211619 | [211619-pact-of-joy.json](./211619-pact-of-joy.json) |
 | Pact of Steel | 235724 | [235724-pact-of-steel.json](./235724-pact-of-steel.json) |
 | Pact of the Black Tide | 409077 | [409077-pact-of-the-black-tide.json](./409077-pact-of-the-black-tide.json) |
@@ -5873,6 +5874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pit Rush | 183382 | [183382-pit-rush.json](./183382-pit-rush.json) |
 | Pit Stop Racing: Club Vs. Club | 251662 | [251662-pit-stop-racing-club-vs-club.json](./251662-pit-stop-racing-club-vs-club.json) |
 | Pit Stop Racing: Manager | 234612 | [234612-pit-stop-racing-manager.json](./234612-pit-stop-racing-manager.json) |
+| Pit Stoppers | 217155 | [217155-pit-stoppers.json](./217155-pit-stoppers.json) |
 | Pit-Fighter | 307835 | [307835-pit-fighter.json](./307835-pit-fighter.json) |
 | Pit-Fighter | 307836 | [307836-pit-fighter.json](./307836-pit-fighter.json) |
 | Pit-Fighter | 374980 | [374980-pit-fighter.json](./374980-pit-fighter.json) |
