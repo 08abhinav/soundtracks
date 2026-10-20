@@ -746,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of the Vikings | 5678 | [5678-war-of-the-vikings.json](./5678-war-of-the-vikings.json) |
 | War of the Visions: Final Fantasy Brave Exvius | 112885 | [112885-war-of-the-visions-final-fantasy-brave-exvius.json](./112885-war-of-the-visions-final-fantasy-brave-exvius.json) |
 | War of the Western Deep | 310069 | [310069-war-of-the-western-deep.json](./310069-war-of-the-western-deep.json) |
+| War of the Worlds | 232866 | [232866-war-of-the-worlds.json](./232866-war-of-the-worlds.json) |
 | War of the Worlds | 333949 | [333949-war-of-the-worlds.json](./333949-war-of-the-worlds.json) |
 | War of the Worlds | 39425 | [39425-war-of-the-worlds.json](./39425-war-of-the-worlds.json) |
 | War of the Wormholes: Janitor Duty | 397991 | [397991-war-of-the-wormholes-janitor-duty.json](./397991-war-of-the-wormholes-janitor-duty.json) |
