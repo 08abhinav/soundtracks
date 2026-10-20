@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T22:20:38.075Z",
-  "total_soundtracks": 2348,
+  "generated_at": "2026-10-20T22:20:48.626Z",
+  "total_soundtracks": 2349,
   "games": [
     {
       "igdb_id": 7522,
@@ -4094,6 +4094,20 @@
           "album_name": "Castle Crashers Themes",
           "spotify_url": "https://open.spotify.com/album/3vt3TNtonZPc8us4MABj4o",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 19136,
+      "game_name": "CastleStorm",
+      "game_url": "https://ostdb.net/games/castlestorm",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732f9b6a4838508ef24336cdb6",
+      "albums": [
+        {
+          "album_name": "Castlestorm (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6BhfTe5WZ6HDBWfCWXhac4",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
