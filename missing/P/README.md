@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pact of Darkness | 217188 | [217188-pact-of-darkness.json](./217188-pact-of-darkness.json) |
 | Pact of Joy | 211619 | [211619-pact-of-joy.json](./211619-pact-of-joy.json) |
 | Pact of Steel | 235724 | [235724-pact-of-steel.json](./235724-pact-of-steel.json) |
+| Pact of the Ancients | 212142 | [212142-pact-of-the-ancients.json](./212142-pact-of-the-ancients.json) |
 | Pact of the Black Tide | 409077 | [409077-pact-of-the-black-tide.json](./409077-pact-of-the-black-tide.json) |
 | Pact With a Demon | 345105 | [345105-pact-with-a-demon.json](./345105-pact-with-a-demon.json) |
 | Pact with a Demon EP01 | 378993 | [378993-pact-with-a-demon-ep01.json](./378993-pact-with-a-demon-ep01.json) |
@@ -1585,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paramedium: A Noise in the Attic | 82485 | [82485-paramedium-a-noise-in-the-attic.json](./82485-paramedium-a-noise-in-the-attic.json) |
 | Paramelancholia | 332654 | [332654-paramelancholia.json](./332654-paramelancholia.json) |
 | Parametric Engine | 240698 | [240698-parametric-engine.json](./240698-parametric-engine.json) |
+| Paramnesia | 212123 | [212123-paramnesia.json](./212123-paramnesia.json) |
 | Paramnesia: Escape Together | 244489 | [244489-paramnesia-escape-together.json](./244489-paramnesia-escape-together.json) |
 | Paramon Clash | 105819 | [105819-paramon-clash.json](./105819-paramon-clash.json) |
 | Paramorfosi | 274369 | [274369-paramorfosi.json](./274369-paramorfosi.json) |
@@ -10609,6 +10611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Press Any Key | 295563 | [295563-press-any-key.json](./295563-press-any-key.json) |
 | Press Axe | 252000 | [252000-press-axe.json](./252000-press-axe.json) |
 | Press Inc. | 108275 | [108275-press-inc.json](./108275-press-inc.json) |
+| Press Lex to Metaverx | 212097 | [212097-press-lex-to-metaverx.json](./212097-press-lex-to-metaverx.json) |
 | Press Play | 229568 | [229568-press-play.json](./229568-press-play.json) |
 | Press the alphabetically first letter | 207222 | [207222-press-the-alphabetically-first-letter.json](./207222-press-the-alphabetically-first-letter.json) |
 | Press W to Move Forward | 222823 | [222823-press-w-to-move-forward.json](./222823-press-w-to-move-forward.json) |
@@ -12810,6 +12813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pteroglider | 93590 | [93590-pteroglider.json](./93590-pteroglider.json) |
 | Ptolem's Singing Catacombs | 374177 | [374177-ptolems-singing-catacombs.json](./374177-ptolems-singing-catacombs.json) |
 | Ptolomaea | 318541 | [318541-ptolomaea.json](./318541-ptolomaea.json) |
+| PTRL Stockcar Edition | 212136 | [212136-ptrl-stockcar-edition.json](./212136-ptrl-stockcar-edition.json) |
 | PTS: Coach | 383395 | [383395-pts-coach.json](./383395-pts-coach.json) |
 | Pual Blarp Ghoul Cop | 327945 | [327945-pual-blarp-ghoul-cop.json](./327945-pual-blarp-ghoul-cop.json) |
 | Pub Encounter | 33397 | [33397-pub-encounter.json](./33397-pub-encounter.json) |
@@ -13133,6 +13137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch'Em Up | 307605 | [307605-punchem-up.json](./307605-punchem-up.json) |
 | Punchball | 326107 | [326107-punchball.json](./326107-punchball.json) |
 | Punchball | 350054 | [350054-punchball.json](./350054-punchball.json) |
+| PunchBots | 212109 | [212109-punchbots.json](./212109-punchbots.json) |
 | Punched | 190465 | [190465-punched.json](./190465-punched.json) |
 | Puncherman!: First Day | 246799 | [246799-puncherman-first-day.json](./246799-puncherman-first-day.json) |
 | Punchgolf | 291035 | [291035-punchgolf.json](./291035-punchgolf.json) |
