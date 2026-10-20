@@ -406,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laira Cut Me Open | 408179 | [408179-laira-cut-me-open.json](./408179-laira-cut-me-open.json) |
 | Lairchitect | 136729 | [136729-lairchitect.json](./136729-lairchitect.json) |
 | LAIzy Picture Phone | 307217 | [307217-laizy-picture-phone.json](./307217-laizy-picture-phone.json) |
+| Lakatos | 240662 | [240662-lakatos.json](./240662-lakatos.json) |
 | Lake Adventure | 279780 | [279780-lake-adventure.json](./279780-lake-adventure.json) |
 | Lake Hero | 412959 | [412959-lake-hero.json](./412959-lake-hero.json) |
 | Lake House: Children of Silence | 40967 | [40967-lake-house-children-of-silence.json](./40967-lake-house-children-of-silence.json) |
@@ -2105,6 +2106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Boom | 319743 | [319743-legends-of-boom.json](./319743-legends-of-boom.json) |
 | Legends of Callasia | 20349 | [20349-legends-of-callasia.json](./20349-legends-of-callasia.json) |
 | Legends of Callasia: The Stoneborne | 25628 | [25628-legends-of-callasia-the-stoneborne.json](./25628-legends-of-callasia-the-stoneborne.json) |
+| Legends of Castile | 240636 | [240636-legends-of-castile.json](./240636-legends-of-castile.json) |
 | Legends of Dawn | 6858 | [6858-legends-of-dawn.json](./6858-legends-of-dawn.json) |
 | Legends of Destiny | 208390 | [208390-legends-of-destiny.json](./208390-legends-of-destiny.json) |
 | Legends of Dragaea: Idle Dungeons | 295264 | [295264-legends-of-dragaea-idle-dungeons.json](./295264-legends-of-dragaea-idle-dungeons.json) |
@@ -2807,6 +2809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Play Jigsaw Puzzles: Flowers | 240766 | [240766-lets-play-jigsaw-puzzles-flowers.json](./240766-lets-play-jigsaw-puzzles-flowers.json) |
 | Let's Play Jigsaw Puzzles: France | 240750 | [240750-lets-play-jigsaw-puzzles-france.json](./240750-lets-play-jigsaw-puzzles-france.json) |
 | Let's Play Jigsaw Puzzles: Happy Holidays 2023 | 279543 | [279543-lets-play-jigsaw-puzzles-happy-holidays-2023.json](./279543-lets-play-jigsaw-puzzles-happy-holidays-2023.json) |
+| Let's Play Jigsaw Puzzles: Nordics | 240651 | [240651-lets-play-jigsaw-puzzles-nordics.json](./240651-lets-play-jigsaw-puzzles-nordics.json) |
 | Let's Play Jigsaw Puzzles: On the Farm | 240811 | [240811-lets-play-jigsaw-puzzles-on-the-farm.json](./240811-lets-play-jigsaw-puzzles-on-the-farm.json) |
 | Let's Play Jigsaw Puzzles: Thailand and Cambodia | 239765 | [239765-lets-play-jigsaw-puzzles-thailand-and-cambodia.json](./239765-lets-play-jigsaw-puzzles-thailand-and-cambodia.json) |
 | Let's Play Jigsaw Puzzles: Underwater | 236821 | [236821-lets-play-jigsaw-puzzles-underwater.json](./236821-lets-play-jigsaw-puzzles-underwater.json) |
