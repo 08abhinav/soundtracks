@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T10:48:53.005Z",
-  "total_missing": 237386,
+  "generated_at": "2026-10-20T10:53:07.897Z",
+  "total_missing": 237378,
   "games": [
     {
       "igdb_id": 191680,
@@ -128545,11 +128545,6 @@
       "igdb_id": 245548,
       "game_name": "Bombs Away!",
       "file": "missing/B/245548-bombs-away.json"
-    },
-    {
-      "igdb_id": 6810,
-      "game_name": "Bombshell",
-      "file": "missing/B/6810-bombshell.json"
     },
     {
       "igdb_id": 258195,
@@ -405087,11 +405082,6 @@
       "file": "missing/G/361792-goblin-sushi.json"
     },
     {
-      "igdb_id": 88973,
-      "game_name": "Goblin Sword",
-      "file": "missing/G/88973-goblin-sword.json"
-    },
-    {
       "igdb_id": 172163,
       "game_name": "Goblin Takes No Argument[s]",
       "file": "missing/G/172163-goblin-takes-no-argument-s.json"
@@ -571742,11 +571732,6 @@
       "file": "missing/L/23959-lost-within.json"
     },
     {
-      "igdb_id": 110586,
-      "game_name": "Lost Words: Beyond the Page",
-      "file": "missing/L/110586-lost-words-beyond-the-page.json"
-    },
-    {
       "igdb_id": 226183,
       "game_name": "Lost World",
       "file": "missing/L/226183-lost-world.json"
@@ -615600,11 +615585,6 @@
       "igdb_id": 259461,
       "game_name": "Metamorphism",
       "file": "missing/M/259461-metamorphism.json"
-    },
-    {
-      "igdb_id": 115657,
-      "game_name": "Metamorphosis",
-      "file": "missing/M/115657-metamorphosis.json"
     },
     {
       "igdb_id": 131990,
@@ -812867,11 +812847,6 @@
       "file": "missing/R/46516-revector.json"
     },
     {
-      "igdb_id": 90409,
-      "game_name": "Reveil",
-      "file": "missing/R/90409-reveil.json"
-    },
-    {
       "igdb_id": 290112,
       "game_name": "Reveil: Funhouse Edition",
       "file": "missing/R/290112-reveil-funhouse-edition.json"
@@ -818500,11 +818475,6 @@
       "igdb_id": 310731,
       "game_name": "Rise of Kenshin",
       "file": "missing/R/310731-rise-of-kenshin.json"
-    },
-    {
-      "igdb_id": 113201,
-      "game_name": "Rise of Kingdoms",
-      "file": "missing/R/113201-rise-of-kingdoms.json"
     },
     {
       "igdb_id": 199634,
@@ -851775,11 +851745,6 @@
       "igdb_id": 265098,
       "game_name": "Screamdown",
       "file": "missing/S/265098-screamdown.json"
-    },
-    {
-      "igdb_id": 7140,
-      "game_name": "Screamer",
-      "file": "missing/S/7140-screamer.json"
     },
     {
       "igdb_id": 7141,
@@ -1025370,11 +1025335,6 @@
       "igdb_id": 217796,
       "game_name": "The Mighty Quest for Epic Loot",
       "file": "missing/T/217796-the-mighty-quest-for-epic-loot.json"
-    },
-    {
-      "igdb_id": 2726,
-      "game_name": "The Mighty Quest for Epic Loot",
-      "file": "missing/T/2726-the-mighty-quest-for-epic-loot.json"
     },
     {
       "igdb_id": 199080,
