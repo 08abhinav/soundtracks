@@ -2530,6 +2530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthwater | 412947 | [412947-hearthwater.json](./412947-hearthwater.json) |
 | Heartium | 265197 | [265197-heartium.json](./265197-heartium.json) |
 | Heartland | 23046 | [23046-heartland.json](./23046-heartland.json) |
+| Heartland | 249049 | [249049-heartland.json](./249049-heartland.json) |
 | Heartland Deluxe | 73756 | [73756-heartland-deluxe.json](./73756-heartland-deluxe.json) |
 | Heartless | 183969 | [183969-heartless.json](./183969-heartless.json) |
 | Heartless | 219824 | [219824-heartless.json](./219824-heartless.json) |
