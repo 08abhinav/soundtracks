@@ -1812,6 +1812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Ninja Clan | 27299 | [27299-save-the-ninja-clan.json](./27299-save-the-ninja-clan.json) |
 | Save the Ninja! | 410969 | [410969-save-the-ninja.json](./410969-save-the-ninja.json) |
 | Save the Octo | 156225 | [156225-save-the-octo.json](./156225-save-the-octo.json) |
+| Save the Pencil | 216118 | [216118-save-the-pencil.json](./216118-save-the-pencil.json) |
 | Save the Pencil 2 | 175141 | [175141-save-the-pencil-2.json](./175141-save-the-pencil-2.json) |
 | Save the Pet: Draw to Save | 223921 | [223921-save-the-pet-draw-to-save.json](./223921-save-the-pet-draw-to-save.json) |
 | Save the Pirate: Sea Story | 166764 | [166764-save-the-pirate-sea-story.json](./166764-save-the-pirate-sea-story.json) |
@@ -7454,6 +7455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siberian Experiment | 341448 | [341448-siberian-experiment.json](./341448-siberian-experiment.json) |
 | Siberian Run VR | 118099 | [118099-siberian-run-vr.json](./118099-siberian-run-vr.json) |
 | Siberian Strike | 91888 | [91888-siberian-strike.json](./91888-siberian-strike.json) |
+| Siberian Survival: Cold Winter | 216117 | [216117-siberian-survival-cold-winter.json](./216117-siberian-survival-cold-winter.json) |
 | Siberian Way | 333237 | [333237-siberian-way.json](./333237-siberian-way.json) |
 | Sibijicheon M | 233547 | [233547-sibijicheon-m.json](./233547-sibijicheon-m.json) |
 | Sibilla | 405005 | [405005-sibilla.json](./405005-sibilla.json) |
@@ -19603,6 +19605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel & Bone | 157984 | [157984-steel-and-bone.json](./157984-steel-and-bone.json) |
 | Steel & Steam: Episode 1 | 10927 | [10927-steel-and-steam-episode-1.json](./10927-steel-and-steam-episode-1.json) |
 | Steel and Flesh | 174850 | [174850-steel-and-flesh.json](./174850-steel-and-flesh.json) |
+| Steel and Flesh 2: New Lands | 216097 | [216097-steel-and-flesh-2-new-lands.json](./216097-steel-and-flesh-2-new-lands.json) |
 | Steel Arena: Robot War | 90080 | [90080-steel-arena-robot-war.json](./90080-steel-arena-robot-war.json) |
 | Steel Ark | 361847 | [361847-steel-ark.json](./361847-steel-ark.json) |
 | Steel Artery: Train City Builder | 371311 | [371311-steel-artery-train-city-builder.json](./371311-steel-artery-train-city-builder.json) |
@@ -20136,6 +20139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Hero | 227944 | [227944-stickman-hero.json](./227944-stickman-hero.json) |
 | Stickman Hero Fighting Game | 254749 | [254749-stickman-hero-fighting-game.json](./254749-stickman-hero-fighting-game.json) |
 | Stickman Hide and Seek | 220823 | [220823-stickman-hide-and-seek.json](./220823-stickman-hide-and-seek.json) |
+| Stickman Hook | 216093 | [216093-stickman-hook.json](./216093-stickman-hook.json) |
 | Stickman Ice Hockey | 142741 | [142741-stickman-ice-hockey.json](./142741-stickman-ice-hockey.json) |
 | Stickman in the portal | 108401 | [108401-stickman-in-the-portal.json](./108401-stickman-in-the-portal.json) |
 | Stickman Insane Bullet | 324976 | [324976-stickman-insane-bullet.json](./324976-stickman-insane-bullet.json) |
@@ -20177,6 +20181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Warriors | 260057 | [260057-stickman-warriors.json](./260057-stickman-warriors.json) |
 | Stickman Warriors | 323203 | [323203-stickman-warriors.json](./323203-stickman-warriors.json) |
 | Stickman Warriors Craft | 100834 | [100834-stickman-warriors-craft.json](./100834-stickman-warriors-craft.json) |
+| Stickman Warriors: Super Dragon Shadow Fight | 216101 | [216101-stickman-warriors-super-dragon-shadow-fight.json](./216101-stickman-warriors-super-dragon-shadow-fight.json) |
 | Stickman Wars | 51987 | [51987-stickman-wars.json](./51987-stickman-wars.json) |
 | Stickman World | 87250 | [87250-stickman-world.json](./87250-stickman-world.json) |
 | Stickman World Battle | 287231 | [287231-stickman-world-battle.json](./287231-stickman-world-battle.json) |
@@ -21971,6 +21976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus Farm | 151166 | [151166-succubus-farm.json](./151166-succubus-farm.json) |
 | Succubus Girl Story | 192443 | [192443-succubus-girl-story.json](./192443-succubus-girl-story.json) |
 | Succubus Hearts: Demon Love Redemption | 386560 | [386560-succubus-hearts-demon-love-redemption.json](./386560-succubus-hearts-demon-love-redemption.json) |
+| Succubus Idle | 216072 | [216072-succubus-idle.json](./216072-succubus-idle.json) |
 | Succubus Imprisoned | 83258 | [83258-succubus-imprisoned.json](./83258-succubus-imprisoned.json) |
 | Succubus Memories | 374785 | [374785-succubus-memories.json](./374785-succubus-memories.json) |
 | Succubus Puttel | 385845 | [385845-succubus-puttel.json](./385845-succubus-puttel.json) |
@@ -24697,6 +24703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Shogi 2 | 42224 | [42224-super-shogi-2.json](./42224-super-shogi-2.json) |
 | Super Shogi 3: Kitaihei | 42223 | [42223-super-shogi-3-kitaihei.json](./42223-super-shogi-3-kitaihei.json) |
 | Super Shoot Owl | 75664 | [75664-super-shoot-owl.json](./75664-super-shoot-owl.json) |
+| Super Shoot: Red Hot | 216100 | [216100-super-shoot-red-hot.json](./216100-super-shoot-red-hot.json) |
 | Super Shootout | 360582 | [360582-super-shootout.json](./360582-super-shootout.json) |
 | Super Shopper | 107809 | [107809-super-shopper.json](./107809-super-shopper.json) |
 | Super Sidekicks | 52191 | [52191-super-sidekicks.json](./52191-super-sidekicks.json) |
