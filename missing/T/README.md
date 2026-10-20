@@ -12722,6 +12722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Splatters | 21145 | [21145-the-splatters.json](./21145-the-splatters.json) |
 | The Split | 229015 | [229015-the-split.json](./229015-the-split.json) |
 | The SpongeBob SquarePants Movie | 210725 | [210725-the-spongebob-squarepants-movie.json](./210725-the-spongebob-squarepants-movie.json) |
+| The SpongeBob SquarePants Movie | 253744 | [253744-the-spongebob-squarepants-movie.json](./253744-the-spongebob-squarepants-movie.json) |
 | The SpongeBob SquarePants Movie | 2767 | [2767-the-spongebob-squarepants-movie.json](./2767-the-spongebob-squarepants-movie.json) |
 | The SpongeBob SquarePants Movie 3D | 135811 | [135811-the-spongebob-squarepants-movie-3d.json](./135811-the-spongebob-squarepants-movie-3d.json) |
 | The Spookening | 34602 | [34602-the-spookening.json](./34602-the-spookening.json) |
@@ -12785,6 +12786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Still | 373826 | [373826-the-still.json](./373826-the-still.json) |
 | The Stillness of the Wind | 96275 | [96275-the-stillness-of-the-wind.json](./96275-the-stillness-of-the-wind.json) |
 | The Sting! | 11851 | [11851-the-sting.json](./11851-the-sting.json) |
+| The Stockpile | 253770 | [253770-the-stockpile.json](./253770-the-stockpile.json) |
 | The Stoevi Curse | 247476 | [247476-the-stoevi-curse.json](./247476-the-stoevi-curse.json) |
 | The Stomping Land | 6731 | [6731-the-stomping-land.json](./6731-the-stomping-land.json) |
 | The Stone | 55448 | [55448-the-stone.json](./55448-the-stone.json) |
