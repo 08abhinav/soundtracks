@@ -8952,6 +8952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Picker | 60903 | [60903-color-picker.json](./60903-color-picker.json) |
 | Color Pixel Heroes: Expansion Pack 1 | 225006 | [225006-color-pixel-heroes-expansion-pack-1.json](./225006-color-pixel-heroes-expansion-pack-1.json) |
 | Color Pixel Heroes: Expansion Pack 2 | 225007 | [225007-color-pixel-heroes-expansion-pack-2.json](./225007-color-pixel-heroes-expansion-pack-2.json) |
+| Color Puzzle | 230686 | [230686-color-puzzle.json](./230686-color-puzzle.json) |
 | Color Reflex Challenge | 253018 | [253018-color-reflex-challenge.json](./253018-color-reflex-challenge.json) |
 | Color Retro Racer: Miles Challenge | 81790 | [81790-color-retro-racer-miles-challenge.json](./81790-color-retro-racer-miles-challenge.json) |
 | Color Rings Puzzle | 104652 | [104652-color-rings-puzzle.json](./104652-color-rings-puzzle.json) |
@@ -10725,6 +10726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking: Green Dragon Set | 324424 | [324424-cooking-green-dragon-set.json](./324424-cooking-green-dragon-set.json) |
 | Cooking: Pizzeria Edition | 362375 | [362375-cooking-pizzeria-edition.json](./362375-cooking-pizzeria-edition.json) |
 | Cooking: Viva la Pizza! | 362380 | [362380-cooking-viva-la-pizza.json](./362380-cooking-viva-la-pizza.json) |
+| Cooking! Recipes on the Road | 230712 | [230712-cooking-recipes-on-the-road.json](./230712-cooking-recipes-on-the-road.json) |
 | Cookingo | 403623 | [403623-cookingo.json](./403623-cookingo.json) |
 | Cooks Girls | 367835 | [367835-cooks-girls.json](./367835-cooks-girls.json) |
 | Cookulo | 325017 | [325017-cookulo.json](./325017-cookulo.json) |
@@ -13303,6 +13305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross the Maze World | 290471 | [290471-cross-the-maze-world.json](./290471-cross-the-maze-world.json) |
 | Cross the Red Line | 113859 | [113859-cross-the-red-line.json](./113859-cross-the-red-line.json) |
 | Cross the Road | 186057 | [186057-cross-the-road.json](./186057-cross-the-road.json) |
+| Cross the Road | 230687 | [230687-cross-the-road.json](./230687-cross-the-road.json) |
 | Cross The World | 383627 | [383627-cross-the-world.json](./383627-cross-the-world.json) |
 | Cross Word | 89514 | [89514-cross-word.json](./89514-cross-word.json) |
 | Cross Words | 417427 | [417427-cross-words.json](./417427-cross-words.json) |
@@ -14672,6 +14675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curley Laboratory | 196691 | [196691-curley-laboratory.json](./196691-curley-laboratory.json) |
 | Curling | 147856 | [147856-curling.json](./147856-curling.json) |
 | Curling | 359188 | [359188-curling.json](./359188-curling.json) |
+| Curling 2010 | 230688 | [230688-curling-2010.json](./230688-curling-2010.json) |
 | Curling 2010 | 66570 | [66570-curling-2010.json](./66570-curling-2010.json) |
 | Curling in the Dungeon | 292365 | [292365-curling-in-the-dungeon.json](./292365-curling-in-the-dungeon.json) |
 | Curling on Line | 166769 | [166769-curling-on-line.json](./166769-curling-on-line.json) |
