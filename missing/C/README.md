@@ -1466,6 +1466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captive Love Melty Holic | 416078 | [416078-captive-love-melty-holic.json](./416078-captive-love-melty-holic.json) |
 | Captive of Fortune | 81137 | [81137-captive-of-fortune.json](./81137-captive-of-fortune.json) |
 | CaptMeow | 385832 | [385832-captmeow.json](./385832-captmeow.json) |
+| Captroon | 213248 | [213248-captroon.json](./213248-captroon.json) |
 | Capture | 104672 | [104672-capture.json](./104672-capture.json) |
 | Capture | 72369 | [72369-capture.json](./72369-capture.json) |
 | Capture Corps: Archipelago | 217867 | [217867-capture-corps-archipelago.json](./217867-capture-corps-archipelago.json) |
