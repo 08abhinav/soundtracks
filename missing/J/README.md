@@ -561,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japanese Nekosama Escape: The Mountain Cottage | 200460 | [200460-japanese-nekosama-escape-the-mountain-cottage.json](./200460-japanese-nekosama-escape-the-mountain-cottage.json) |
 | Japanese Nekosama Escape: The Old Inn | 197921 | [197921-japanese-nekosama-escape-the-old-inn.json](./197921-japanese-nekosama-escape-the-old-inn.json) |
 | Japanese Nekosama Escape: The Sweets Shop | 251050 | [251050-japanese-nekosama-escape-the-sweets-shop.json](./251050-japanese-nekosama-escape-the-sweets-shop.json) |
+| Japanese Nekosama: Escape the Sento | 212629 | [212629-japanese-nekosama-escape-the-sento.json](./212629-japanese-nekosama-escape-the-sento.json) |
 | Japanese Prime Minister: Yamato Soichiro | 97535 | [97535-japanese-prime-minister-yamato-soichiro.json](./97535-japanese-prime-minister-yamato-soichiro.json) |
 | Japanese Psycho | 340766 | [340766-japanese-psycho.json](./340766-japanese-psycho.json) |
 | Japanese Puzzle | 152874 | [152874-japanese-puzzle.json](./152874-japanese-puzzle.json) |
@@ -846,6 +847,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeopardy! New Sports Edition | 79544 | [79544-jeopardy-new-sports-edition.json](./79544-jeopardy-new-sports-edition.json) |
 | Jeopardy! Platinum Edition | 48978 | [48978-jeopardy-platinum-edition.json](./48978-jeopardy-platinum-edition.json) |
 | Jeopardy! PlayShow | 140551 | [140551-jeopardy-playshow.json](./140551-jeopardy-playshow.json) |
+| Jeopardy! PlayShow: All-Star Captains Classics | 212624 | [212624-jeopardy-playshow-all-star-captains-classics.json](./212624-jeopardy-playshow-all-star-captains-classics.json) |
+| Jeopardy! PlayShow: College Championship | 212623 | [212623-jeopardy-playshow-college-championship.json](./212623-jeopardy-playshow-college-championship.json) |
+| Jeopardy! PlayShow: The Road to the All-Star Games | 212626 | [212626-jeopardy-playshow-the-road-to-the-all-star-games.json](./212626-jeopardy-playshow-the-road-to-the-all-star-games.json) |
+| Jeopardy! PlayShow: Tournament of Champions | 212625 | [212625-jeopardy-playshow-tournament-of-champions.json](./212625-jeopardy-playshow-tournament-of-champions.json) |
 | Jeopardy! Sports Edition | 348214 | [348214-jeopardy-sports-edition.json](./348214-jeopardy-sports-edition.json) |
 | Jeopardy! Sports Edition | 348219 | [348219-jeopardy-sports-edition.json](./348219-jeopardy-sports-edition.json) |
 | Jeopardy! Sports Edition | 48977 | [48977-jeopardy-sports-edition.json](./48977-jeopardy-sports-edition.json) |
