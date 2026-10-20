@@ -2522,6 +2522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemmings | 239079 | [239079-lemmings.json](./239079-lemmings.json) |
 | Lemmings | 239128 | [239128-lemmings.json](./239128-lemmings.json) |
 | Lemmings | 239310 | [239310-lemmings.json](./239310-lemmings.json) |
+| Lemmings | 239476 | [239476-lemmings.json](./239476-lemmings.json) |
 | Lemmings | 240086 | [240086-lemmings.json](./240086-lemmings.json) |
 | Lemmings | 240087 | [240087-lemmings.json](./240087-lemmings.json) |
 | Lemmings | 240089 | [240089-lemmings.json](./240089-lemmings.json) |
@@ -4450,6 +4451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Knight 2: Old Dreams | 341171 | [341171-little-knight-2-old-dreams.json](./341171-little-knight-2-old-dreams.json) |
 | Little Kong: Jungle Fun | 219285 | [219285-little-kong-jungle-fun.json](./219285-little-kong-jungle-fun.json) |
 | Little Kong: Jungle Fun - Extended Edition | 231264 | [231264-little-kong-jungle-fun-extended-edition.json](./231264-little-kong-jungle-fun-extended-edition.json) |
+| Little Kong: Jungle Fun - Premium Edition | 239481 | [239481-little-kong-jungle-fun-premium-edition.json](./239481-little-kong-jungle-fun-premium-edition.json) |
 | Little Kong: Jungle Fun - Ultimate Edition | 231265 | [231265-little-kong-jungle-fun-ultimate-edition.json](./231265-little-kong-jungle-fun-ultimate-edition.json) |
 | Little Lamb | 262429 | [262429-little-lamb.json](./262429-little-lamb.json) |
 | Little Lands | 177932 | [177932-little-lands.json](./177932-little-lands.json) |
