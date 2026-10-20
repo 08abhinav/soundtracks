@@ -3561,6 +3561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tesco: Delivery Dash | 274995 | [274995-tesco-delivery-dash.json](./274995-tesco-delivery-dash.json) |
 | TESD: Into the Vortex | 289808 | [289808-tesd-into-the-vortex.json](./289808-tesd-into-the-vortex.json) |
 | Tesla Asteroids | 178643 | [178643-tesla-asteroids.json](./178643-tesla-asteroids.json) |
+| Tesla Boy: Robot Time Traveller | 241826 | [241826-tesla-boy-robot-time-traveller.json](./241826-tesla-boy-robot-time-traveller.json) |
 | Tesla Breaks the World! | 17652 | [17652-tesla-breaks-the-world.json](./17652-tesla-breaks-the-world.json) |
 | Tesla Force | 124029 | [124029-tesla-force.json](./124029-tesla-force.json) |
 | Tesla Legacy | 209190 | [209190-tesla-legacy.json](./209190-tesla-legacy.json) |
@@ -7566,6 +7567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Golden Compass | 4892 | [4892-the-golden-compass.json](./4892-the-golden-compass.json) |
 | The Golden Cross | 150752 | [150752-the-golden-cross.json](./150752-the-golden-cross.json) |
 | The Golden Eyed Ghosts | 200521 | [200521-the-golden-eyed-ghosts.json](./200521-the-golden-eyed-ghosts.json) |
+| The Golden Girls Take Manhattan DX | 241237 | [241237-the-golden-girls-take-manhattan-dx.json](./241237-the-golden-girls-take-manhattan-dx.json) |
 | The Golden Harp | 176784 | [176784-the-golden-harp.json](./176784-the-golden-harp.json) |
 | The Golden Horde | 21482 | [21482-the-golden-horde.json](./21482-the-golden-horde.json) |
 | The Golden Mare | 364663 | [364663-the-golden-mare.json](./364663-the-golden-mare.json) |
@@ -9512,6 +9514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Link's Awakening DX Randomizer | 242028 | [242028-the-legend-of-zelda-links-awakening-dx-randomizer.json](./242028-the-legend-of-zelda-links-awakening-dx-randomizer.json) |
 | The Legend of Zelda: Link's Awakening Redux | 219081 | [219081-the-legend-of-zelda-links-awakening-redux.json](./219081-the-legend-of-zelda-links-awakening-redux.json) |
 | The Legend of Zelda: Link's Initiation | 330688 | [330688-the-legend-of-zelda-links-initiation.json](./330688-the-legend-of-zelda-links-initiation.json) |
+| The Legend of Zelda: Link's Journey Deluxe | 241229 | [241229-the-legend-of-zelda-links-journey-deluxe.json](./241229-the-legend-of-zelda-links-journey-deluxe.json) |
 | The Legend of Zelda: Link's Shadow | 269867 | [269867-the-legend-of-zelda-links-shadow.json](./269867-the-legend-of-zelda-links-shadow.json) |
 | The Legend of Zelda: Majora's Mask - Masked Quest | 172482 | [172482-the-legend-of-zelda-majoras-mask-masked-quest.json](./172482-the-legend-of-zelda-majoras-mask-masked-quest.json) |
 | The Legend of Zelda: Majora's Mask 3D | 8593 | [8593-the-legend-of-zelda-majoras-mask-3d.json](./8593-the-legend-of-zelda-majoras-mask-3d.json) |
@@ -9589,6 +9592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Time Walker | 323277 | [323277-the-legend-of-zelda-time-walker.json](./323277-the-legend-of-zelda-time-walker.json) |
 | The Legend of Zelda: Tri Force Heroes | 11194 | [11194-the-legend-of-zelda-tri-force-heroes.json](./11194-the-legend-of-zelda-tri-force-heroes.json) |
 | The Legend of Zelda: Trident of Power | 262254 | [262254-the-legend-of-zelda-trident-of-power.json](./262254-the-legend-of-zelda-trident-of-power.json) |
+| The Legend of Zelda: Triforce Duo | 241230 | [241230-the-legend-of-zelda-triforce-duo.json](./241230-the-legend-of-zelda-triforce-duo.json) |
 | The Legend of Zelda: Triforce Power | 359011 | [359011-the-legend-of-zelda-triforce-power.json](./359011-the-legend-of-zelda-triforce-power.json) |
 | The Legend of Zelda: Twilight Princess HD | 18017 | [18017-the-legend-of-zelda-twilight-princess-hd.json](./18017-the-legend-of-zelda-twilight-princess-hd.json) |
 | The Legend of Zelda: Twilight Princess HD - Special Edition | 45134 | [45134-the-legend-of-zelda-twilight-princess-hd-special-edition.json](./45134-the-legend-of-zelda-twilight-princess-hd-special-edition.json) |
@@ -10049,6 +10053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lunatic | 181197 | [181197-the-lunatic.json](./181197-the-lunatic.json) |
 | The Lurking Fear | 374242 | [374242-the-lurking-fear.json](./374242-the-lurking-fear.json) |
 | The Lurking Horror | 12180 | [12180-the-lurking-horror.json](./12180-the-lurking-horror.json) |
+| The Lushes Land | 241803 | [241803-the-lushes-land.json](./241803-the-lushes-land.json) |
 | The Lust City | 319070 | [319070-the-lust-city.json](./319070-the-lust-city.json) |
 | The Lust City 2 | 297356 | [297356-the-lust-city-2.json](./297356-the-lust-city-2.json) |
 | The Lust Voyage | 353091 | [353091-the-lust-voyage.json](./353091-the-lust-voyage.json) |
@@ -11388,6 +11393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Purring Quest | 14566 | [14566-the-purring-quest.json](./14566-the-purring-quest.json) |
 | The Putrid Pumps | 271203 | [271203-the-putrid-pumps.json](./271203-the-putrid-pumps.json) |
 | The Puzzle 11 | 90827 | [90827-the-puzzle-11.json](./90827-the-puzzle-11.json) |
+| The Puzzle Factory | 241783 | [241783-the-puzzle-factory.json](./241783-the-puzzle-factory.json) |
 | The Puzzle Maker: Cebba's Odyssey | 275112 | [275112-the-puzzle-maker-cebbas-odyssey.json](./275112-the-puzzle-maker-cebbas-odyssey.json) |
 | The Puzzle of Blocks | 268214 | [268214-the-puzzle-of-blocks.json](./268214-the-puzzle-of-blocks.json) |
 | The Puzzle Story | 113491 | [113491-the-puzzle-story.json](./113491-the-puzzle-story.json) |
@@ -15580,6 +15586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tic | 100258 | [100258-tic.json](./100258-tic.json) |
 | Tic Cat Dog | 366294 | [366294-tic-cat-dog.json](./366294-tic-cat-dog.json) |
 | Tic Tac | 362822 | [362822-tic-tac.json](./362822-tic-tac.json) |
+| Tic Tac Bow | 241226 | [241226-tic-tac-bow.json](./241226-tic-tac-bow.json) |
 | Tic Tac Math Algebra | 109020 | [109020-tic-tac-math-algebra.json](./109020-tic-tac-math-algebra.json) |
 | Tic Tac Rogue | 376103 | [376103-tic-tac-rogue.json](./376103-tic-tac-rogue.json) |
 | Tic Tac Toe | 321433 | [321433-tic-tac-toe.json](./321433-tic-tac-toe.json) |
@@ -15701,6 +15708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tie Dye | 237634 | [237634-tie-dye.json](./237634-tie-dye.json) |
 | Tie-Break | 37284 | [37284-tie-break.json](./37284-tie-break.json) |
 | Tie: A Game About Depression | 326716 | [326716-tie-a-game-about-depression.json](./326716-tie-a-game-about-depression.json) |
+| Tiebreak | 241244 | [241244-tiebreak.json](./241244-tiebreak.json) |
 | Tiebreak: Ace Edition | 314602 | [314602-tiebreak-ace-edition.json](./314602-tiebreak-ace-edition.json) |
 | Tiebreak+ | 334667 | [334667-tiebreak.json](./334667-tiebreak.json) |
 | Tiebreaker | 93017 | [93017-tiebreaker.json](./93017-tiebreaker.json) |
@@ -17035,6 +17043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tim Burton's The Nightmare Before Christmas | 198942 | [198942-tim-burtons-the-nightmare-before-christmas.json](./198942-tim-burtons-the-nightmare-before-christmas.json) |
 | Tim Love's Cricket | 63184 | [63184-tim-loves-cricket.json](./63184-tim-loves-cricket.json) |
 | Tim Stockdale's Riding Star | 339889 | [339889-tim-stockdales-riding-star.json](./339889-tim-stockdales-riding-star.json) |
+| Tim the Timber | 241198 | [241198-tim-the-timber.json](./241198-tim-the-timber.json) |
 | Tim Tooth | 204204 | [204204-tim-tooth.json](./204204-tim-tooth.json) |
 | Tim's Birthday | 150126 | [150126-tims-birthday.json](./150126-tims-birthday.json) |
 | Timagi | 268941 | [268941-timagi.json](./268941-timagi.json) |
@@ -19583,6 +19592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer II: Steps of Isha | 167631 | [167631-total-war-warhammer-ii-steps-of-isha.json](./167631-total-war-warhammer-ii-steps-of-isha.json) |
 | Total War: Warhammer III - Bhashiva | 402510 | [402510-total-war-warhammer-iii-bhashiva.json](./402510-total-war-warhammer-iii-bhashiva.json) |
 | Total War: Warhammer III - Blood for the Blood God III | 227239 | [227239-total-war-warhammer-iii-blood-for-the-blood-god-iii.json](./227239-total-war-warhammer-iii-blood-for-the-blood-god-iii.json) |
+| Total War: Warhammer III - Forge of the Chaos Dwarfs | 241802 | [241802-total-war-warhammer-iii-forge-of-the-chaos-dwarfs.json](./241802-total-war-warhammer-iii-forge-of-the-chaos-dwarfs.json) |
 | Total War: Warhammer III - Immortal Empires | 203268 | [203268-total-war-warhammer-iii-immortal-empires.json](./203268-total-war-warhammer-iii-immortal-empires.json) |
 | Total War: Warhammer III - Limited Edition | 146143 | [146143-total-war-warhammer-iii-limited-edition.json](./146143-total-war-warhammer-iii-limited-edition.json) |
 | Total War: Warhammer III - Ogre Kingdoms | 194428 | [194428-total-war-warhammer-iii-ogre-kingdoms.json](./194428-total-war-warhammer-iii-ogre-kingdoms.json) |
@@ -20061,6 +20071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tour de France 2019 | 119526 | [119526-tour-de-france-2019.json](./119526-tour-de-france-2019.json) |
 | Tour de France 2020 | 133775 | [133775-tour-de-france-2020.json](./133775-tour-de-france-2020.json) |
 | Tour de France 2021 | 145311 | [145311-tour-de-france-2021.json](./145311-tour-de-france-2021.json) |
+| Tour de France 2023 | 241243 | [241243-tour-de-france-2023.json](./241243-tour-de-france-2023.json) |
 | Tour de France 2024 | 288855 | [288855-tour-de-france-2024.json](./288855-tour-de-france-2024.json) |
 | Tour de France 2024: Cycling Kit Pack | 316373 | [316373-tour-de-france-2024-cycling-kit-pack.json](./316373-tour-de-france-2024-cycling-kit-pack.json) |
 | Tour de France 2025 | 336720 | [336720-tour-de-france-2025.json](./336720-tour-de-france-2025.json) |
@@ -20128,6 +20139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towelket: One More Time 3 Karaage Tanpopo | 146554 | [146554-towelket-one-more-time-3-karaage-tanpopo.json](./146554-towelket-one-more-time-3-karaage-tanpopo.json) |
 | Towelket: One More Time 5 - Gaugau's Bride | 147250 | [147250-towelket-one-more-time-5-gaugaus-bride.json](./147250-towelket-one-more-time-5-gaugaus-bride.json) |
 | Tower | 162583 | [162583-tower.json](./162583-tower.json) |
+| Tower | 241242 | [241242-tower.json](./241242-tower.json) |
 | Tower | 287566 | [287566-tower.json](./287566-tower.json) |
 | Tower | 315714 | [315714-tower.json](./315714-tower.json) |
 | Tower 22 | 79383 | [79383-tower-22.json](./79383-tower-22.json) |
@@ -23187,6 +23199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tristone | 112314 | [112314-tristone.json](./112314-tristone.json) |
 | Tristoy | 17443 | [17443-tristoy.json](./17443-tristoy.json) |
 | Tritime Space | 310718 | [310718-tritime-space.json](./310718-tritime-space.json) |
+| Trito's Adventure | 241815 | [241815-tritos-adventure.json](./241815-tritos-adventure.json) |
 | Triton Survival | 114566 | [114566-triton-survival.json](./114566-triton-survival.json) |
 | Triton's Travels | 246525 | [246525-tritons-travels.json](./246525-tritons-travels.json) |
 | Tritorn | 150027 | [150027-tritorn.json](./150027-tritorn.json) |
