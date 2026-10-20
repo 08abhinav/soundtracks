@@ -6353,6 +6353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birdwatcher | 314969 | [314969-birdwatcher.json](./314969-birdwatcher.json) |
 | Birdwatching | 390738 | [390738-birdwatching.json](./390738-birdwatching.json) |
 | Birdwatching Notebook | 377414 | [377414-birdwatching-notebook.json](./377414-birdwatching-notebook.json) |
+| Birger's Tale | 235608 | [235608-birgers-tale.json](./235608-birgers-tale.json) |
 | BiriBiriBeat | 227995 | [227995-biribiribeat.json](./227995-biribiribeat.json) |
 | Birk's Adventure | 145408 | [145408-birks-adventure.json](./145408-birks-adventure.json) |
 | Birkanoid | 178547 | [178547-birkanoid.json](./178547-birkanoid.json) |
