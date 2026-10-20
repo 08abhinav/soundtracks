@@ -8311,6 +8311,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Train Simulator 2 | 10739 | [10739-microsoft-train-simulator-2.json](./10739-microsoft-train-simulator-2.json) |
 | Microsoft Train Simulator: German Railroads Volume One: The Seventies - Along the Bigge Lake | 85987 | [85987-microsoft-train-simulator-german-railroads-volume-one-the-seventies-along-the-bigge-lake.json](./85987-microsoft-train-simulator-german-railroads-volume-one-the-seventies-along-the-bigge-lake.json) |
 | Microsoft Train Simulator: German Railroads Volume Two - Fast Railcars on the Runway | 78055 | [78055-microsoft-train-simulator-german-railroads-volume-two-fast-railcars-on-the-runway.json](./78055-microsoft-train-simulator-german-railroads-volume-two-fast-railcars-on-the-runway.json) |
+| Microsoft Train Simulator: Pro Train | 209869 | [209869-microsoft-train-simulator-pro-train.json](./209869-microsoft-train-simulator-pro-train.json) |
+| Microsoft Train Simulator: Pro Train II | 209868 | [209868-microsoft-train-simulator-pro-train-ii.json](./209868-microsoft-train-simulator-pro-train-ii.json) |
 | Microsoft Train Simulator: Sandpatch | 206666 | [206666-microsoft-train-simulator-sandpatch.json](./206666-microsoft-train-simulator-sandpatch.json) |
 | Microsoft Ultimate Word Games | 55994 | [55994-microsoft-ultimate-word-games.json](./55994-microsoft-ultimate-word-games.json) |
 | Microsoft Wordament | 7085 | [7085-microsoft-wordament.json](./7085-microsoft-wordament.json) |
@@ -13235,6 +13237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mossbound | 385219 | [385219-mossbound.json](./385219-mossbound.json) |
 | Mossfield Origins | 204536 | [204536-mossfield-origins.json](./204536-mossfield-origins.json) |
 | Mossroot | 250966 | [250966-mossroot.json](./250966-mossroot.json) |
+| Mossy Oak: Hooks & Horns | 209880 | [209880-mossy-oak-hooks-and-horns.json](./209880-mossy-oak-hooks-and-horns.json) |
 | Mossy Pixels | 270183 | [270183-mossy-pixels.json](./270183-mossy-pixels.json) |
 | Most Authentic Trench Warfare Simulator | 241511 | [241511-most-authentic-trench-warfare-simulator.json](./241511-most-authentic-trench-warfare-simulator.json) |
 | Most Correct Football Simulator | 118338 | [118338-most-correct-football-simulator.json](./118338-most-correct-football-simulator.json) |
