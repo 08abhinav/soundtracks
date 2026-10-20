@@ -750,6 +750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cambria Sword: Life of Wonder | 105541 | [105541-cambria-sword-life-of-wonder.json](./105541-cambria-sword-life-of-wonder.json) |
 | Cambrian Crawl | 404981 | [404981-cambrian-crawl.json](./404981-cambrian-crawl.json) |
 | Cambrian Dawn | 226280 | [226280-cambrian-dawn.json](./226280-cambrian-dawn.json) |
+| Cambrian Dawn: Biceratopsidae DLC | 253207 | [253207-cambrian-dawn-biceratopsidae-dlc.json](./253207-cambrian-dawn-biceratopsidae-dlc.json) |
 | Camega | 202808 | [202808-camega.json](./202808-camega.json) |
 | Camel | 169914 | [169914-camel.json](./169914-camel.json) |
 | Camel Up | 197715 | [197715-camel-up.json](./197715-camel-up.json) |
@@ -1509,6 +1510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Detailing Cleaner Simulator | 288761 | [288761-car-detailing-cleaner-simulator.json](./288761-car-detailing-cleaner-simulator.json) |
 | Car Detailing Simulator | 182487 | [182487-car-detailing-simulator.json](./182487-car-detailing-simulator.json) |
 | Car Down | 405038 | [405038-car-down.json](./405038-car-down.json) |
+| Car Drag Racing Simulator | 253227 | [253227-car-drag-racing-simulator.json](./253227-car-drag-racing-simulator.json) |
 | Car Drawing Game | 181806 | [181806-car-drawing-game.json](./181806-car-drawing-game.json) |
 | Car Driver 5 | 414471 | [414471-car-driver-5.json](./414471-car-driver-5.json) |
 | Car Driving School Simulator | 90233 | [90233-car-driving-school-simulator.json](./90233-car-driving-school-simulator.json) |
@@ -2500,6 +2502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Come | 307043 | [307043-castle-come.json](./307043-castle-come.json) |
 | Castle Corp | 280332 | [280332-castle-corp.json](./280332-castle-corp.json) |
 | Castle Craft | 250250 | [250250-castle-craft.json](./250250-castle-craft.json) |
+| Castle Crafter | 253208 | [253208-castle-crafter.json](./253208-castle-crafter.json) |
 | Castle Crashers: Blacksmith Pack | 170863 | [170863-castle-crashers-blacksmith-pack.json](./170863-castle-crashers-blacksmith-pack.json) |
 | Castle Crashers: Painter Boss Paradise | 310640 | [310640-castle-crashers-painter-boss-paradise.json](./310640-castle-crashers-painter-boss-paradise.json) |
 | Castle Crashers: Pink Knight Pack | 170864 | [170864-castle-crashers-pink-knight-pack.json](./170864-castle-crashers-pink-knight-pack.json) |
@@ -6237,6 +6240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Cross | 335488 | [335488-chrono-cross.json](./335488-chrono-cross.json) |
 | Chrono Crystal: Factory DLC | 253497 | [253497-chrono-crystal-factory-dlc.json](./253497-chrono-crystal-factory-dlc.json) |
 | Chrono Crystal: Giant Gate DLC | 253386 | [253386-chrono-crystal-giant-gate-dlc.json](./253386-chrono-crystal-giant-gate-dlc.json) |
+| Chrono Hunter | 253190 | [253190-chrono-hunter.json](./253190-chrono-hunter.json) |
 | Chrono Impact | 369095 | [369095-chrono-impact.json](./369095-chrono-impact.json) |
 | Chrono Knight | 305315 | [305315-chrono-knight.json](./305315-chrono-knight.json) |
 | Chrono Ma:Gia | 86680 | [86680-chrono-ma-gia.json](./86680-chrono-ma-gia.json) |
@@ -8835,6 +8839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Defense | 103671 | [103671-color-defense.json](./103671-color-defense.json) |
 | Color DJ | 265418 | [265418-color-dj.json](./265418-color-dj.json) |
 | Color Dodge | 311053 | [311053-color-dodge.json](./311053-color-dodge.json) |
+| Color Dots | 253244 | [253244-color-dots.json](./253244-color-dots.json) |
 | Color Dots Connect | 148569 | [148569-color-dots-connect.json](./148569-color-dots-connect.json) |
 | Color Dots! | 65572 | [65572-color-dots.json](./65572-color-dots.json) |
 | Color Energy: Blow the monster! | 323223 | [323223-color-energy-blow-the-monster.json](./323223-color-energy-blow-the-monster.json) |
@@ -9341,6 +9346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combatant | 193407 | [193407-combatant.json](./193407-combatant.json) |
 | CombatArms: Reloaded | 110906 | [110906-combatarms-reloaded.json](./110906-combatarms-reloaded.json) |
 | Combate Monero | 117622 | [117622-combate-monero.json](./117622-combate-monero.json) |
+| Combats | 253238 | [253238-combats.json](./253238-combats.json) |
 | Combi Pool | 291603 | [291603-combi-pool.json](./291603-combi-pool.json) |
 | Combi Ring Advanced | 326129 | [326129-combi-ring-advanced.json](./326129-combi-ring-advanced.json) |
 | Combination Lock | 70436 | [70436-combination-lock.json](./70436-combination-lock.json) |
