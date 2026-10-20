@@ -1593,6 +1593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unexpected Consequences | 268218 | [268218-unexpected-consequences.json](./268218-unexpected-consequences.json) |
 | Unexpected Day | 29553 | [29553-unexpected-day.json](./29553-unexpected-day.json) |
 | Unexpected End | 75807 | [75807-unexpected-end.json](./75807-unexpected-end.json) |
+| Unexpected Futa Corruption | 236123 | [236123-unexpected-futa-corruption.json](./236123-unexpected-futa-corruption.json) |
 | Unexpected Journey | 361585 | [361585-unexpected-journey.json](./361585-unexpected-journey.json) |
 | Unexpected Pigeon Race | 324722 | [324722-unexpected-pigeon-race.json](./324722-unexpected-pigeon-race.json) |
 | Unexpected Visitors | 265128 | [265128-unexpected-visitors.json](./265128-unexpected-visitors.json) |
