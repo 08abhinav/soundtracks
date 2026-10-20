@@ -1554,6 +1554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikenie | 31798 | [31798-ikenie.json](./31798-ikenie.json) |
 | Ikibago | 85185 | [85185-ikibago.json](./85185-ikibago.json) |
 | Ikimono High: The Visual Novel | 180510 | [180510-ikimono-high-the-visual-novel.json](./180510-ikimono-high-the-visual-novel.json) |
+| Ikisugi!? Before After | 241191 | [241191-ikisugi-before-after.json](./241191-ikisugi-before-after.json) |
 | Ikkarus and the Prince of Sin | 211804 | [211804-ikkarus-and-the-prince-of-sin.json](./211804-ikkarus-and-the-prince-of-sin.json) |
 | Ikki | 12915 | [12915-ikki.json](./12915-ikki.json) |
 | Ikki Tousen: Eloquent Fist | 38475 | [38475-ikki-tousen-eloquent-fist.json](./38475-ikki-tousen-eloquent-fist.json) |
