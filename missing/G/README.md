@@ -2352,6 +2352,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genso Chronicles | 286881 | [286881-genso-chronicles.json](./286881-genso-chronicles.json) |
 | Genso Flood Front | 214768 | [214768-genso-flood-front.json](./214768-genso-flood-front.json) |
 | Genso Manège | 306084 | [306084-genso-manege.json](./306084-genso-manege.json) |
+| Genso Rondo: Additional character "Aya Shameimaru" | 212665 | [212665-genso-rondo-additional-character-aya-shameimaru.json](./212665-genso-rondo-additional-character-aya-shameimaru.json) |
+| Genso Rondo: Additional character "Flandre Scarlet" | 212666 | [212666-genso-rondo-additional-character-flandre-scarlet.json](./212666-genso-rondo-additional-character-flandre-scarlet.json) |
+| Genso Rondo: Additional character "Yukari Yakumo" | 212663 | [212663-genso-rondo-additional-character-yukari-yakumo.json](./212663-genso-rondo-additional-character-yukari-yakumo.json) |
 | Genso Skydrift Reborn | 114541 | [114541-genso-skydrift-reborn.json](./114541-genso-skydrift-reborn.json) |
 | Genso Suikoden Card Stories | 1451 | [1451-genso-suikoden-card-stories.json](./1451-genso-suikoden-card-stories.json) |
 | Genso Suikoden I & II | 81120 | [81120-genso-suikoden-i-and-ii.json](./81120-genso-suikoden-i-and-ii.json) |
