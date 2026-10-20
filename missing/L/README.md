@@ -2834,6 +2834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Play! Oink Games: Make the Difference | 255277 | [255277-lets-play-oink-games-make-the-difference.json](./255277-lets-play-oink-games-make-the-difference.json) |
 | Let's Play! Oink Games: Nine Tiles | 241310 | [241310-lets-play-oink-games-nine-tiles.json](./241310-lets-play-oink-games-nine-tiles.json) |
 | Let's Play! Oink Games: Rafter Five | 275559 | [275559-lets-play-oink-games-rafter-five.json](./275559-lets-play-oink-games-rafter-five.json) |
+| Let's Play! Oink Games: Scout | 231238 | [231238-lets-play-oink-games-scout.json](./231238-lets-play-oink-games-scout.json) |
 | Let's Puzzle: Celestial Wonders Pack | 298256 | [298256-lets-puzzle-celestial-wonders-pack.json](./298256-lets-puzzle-celestial-wonders-pack.json) |
 | Let's Puzzle: Verdant Realms Pack | 303671 | [303671-lets-puzzle-verdant-realms-pack.json](./303671-lets-puzzle-verdant-realms-pack.json) |
 | Let's Quip | 61896 | [61896-lets-quip.json](./61896-lets-quip.json) |
