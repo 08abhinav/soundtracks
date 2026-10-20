@@ -6756,6 +6756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plain Tic Tac Toe | 89281 | [89281-plain-tic-tac-toe.json](./89281-plain-tic-tac-toe.json) |
 | Plain Video Poker | 84814 | [84814-plain-video-poker.json](./84814-plain-video-poker.json) |
 | Plains of Havoc | 289306 | [289306-plains-of-havoc.json](./289306-plains-of-havoc.json) |
+| Plains of Pain | 235621 | [235621-plains-of-pain.json](./235621-plains-of-pain.json) |
 | Plambra Dash: The Parkour Game Part II | 361605 | [361605-plambra-dash-the-parkour-game-part-ii.json](./361605-plambra-dash-the-parkour-game-part-ii.json) |
 | Plan 9 From Outer Space | 12717 | [12717-plan-9-from-outer-space.json](./12717-plan-9-from-outer-space.json) |
 | Plan 9 From Planet Kr1x | 301114 | [301114-plan-9-from-planet-kr1x.json](./301114-plan-9-from-planet-kr1x.json) |
@@ -9035,6 +9036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Pirates | 149500 | [149500-poly-pirates.json](./149500-poly-pirates.json) |
 | Poly Plaza | 307204 | [307204-poly-plaza.json](./307204-poly-plaza.json) |
 | Poly Plaza 2 | 377755 | [377755-poly-plaza-2.json](./377755-poly-plaza-2.json) |
+| Poly Puzzle: Animals | 235619 | [235619-poly-puzzle-animals.json](./235619-poly-puzzle-animals.json) |
 | Poly Puzzle: Dinosaurs | 221133 | [221133-poly-puzzle-dinosaurs.json](./221133-poly-puzzle-dinosaurs.json) |
 | Poly Puzzle: Dogs | 286418 | [286418-poly-puzzle-dogs.json](./286418-poly-puzzle-dogs.json) |
 | Poly Puzzle: Furries | 170229 | [170229-poly-puzzle-furries.json](./170229-poly-puzzle-furries.json) |
