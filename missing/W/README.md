@@ -2814,6 +2814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What is Older? | 374674 | [374674-what-is-older.json](./374674-what-is-older.json) |
 | What is schlo? | 152010 | [152010-what-is-schlo.json](./152010-what-is-schlo.json) |
 | What is Sleeping in My Room? | 244096 | [244096-what-is-sleeping-in-my-room.json](./244096-what-is-sleeping-in-my-room.json) |
+| What is Snowman Made of? | 231715 | [231715-what-is-snowman-made-of.json](./231715-what-is-snowman-made-of.json) |
 | What is That Outside | 343233 | [343233-what-is-that-outside.json](./343233-what-is-that-outside.json) |
 | What Is The Ghost | 363512 | [363512-what-is-the-ghost.json](./363512-what-is-the-ghost.json) |
 | What Is This Sorcery | 328451 | [328451-what-is-this-sorcery.json](./328451-what-is-this-sorcery.json) |
@@ -7000,6 +7001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K22: Most Wanted Pack | 230986 | [230986-wwe-2k22-most-wanted-pack.json](./230986-wwe-2k22-most-wanted-pack.json) |
 | WWE 2K22: nWo 4-Life - Bonus Pack | 226115 | [226115-wwe-2k22-nwo-4-life-bonus-pack.json](./226115-wwe-2k22-nwo-4-life-bonus-pack.json) |
 | WWE 2K22: Season Pass | 293720 | [293720-wwe-2k22-season-pass.json](./293720-wwe-2k22-season-pass.json) |
+| WWE 2K22: Stand Back Pack | 231764 | [231764-wwe-2k22-stand-back-pack.json](./231764-wwe-2k22-stand-back-pack.json) |
 | WWE 2K22: The Whole Dam Pack | 230988 | [230988-wwe-2k22-the-whole-dam-pack.json](./230988-wwe-2k22-the-whole-dam-pack.json) |
 | WWE 2K22: Undertaker Immortal Pack | 230987 | [230987-wwe-2k22-undertaker-immortal-pack.json](./230987-wwe-2k22-undertaker-immortal-pack.json) |
 | WWE 2K23 | 233028 | [233028-wwe-2k23.json](./233028-wwe-2k23.json) |
