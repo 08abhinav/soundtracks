@@ -732,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa: Live or Die | 270679 | [270679-danganronpa-live-or-die.json](./270679-danganronpa-live-or-die.json) |
 | Danganronpa: Monokuma Strikes Back | 299839 | [299839-danganronpa-monokuma-strikes-back.json](./299839-danganronpa-monokuma-strikes-back.json) |
 | Danganronpa: New World Order | 339399 | [339399-danganronpa-new-world-order.json](./339399-danganronpa-new-world-order.json) |
+| Danganronpa: Resort Killing | 228264 | [228264-danganronpa-resort-killing.json](./228264-danganronpa-resort-killing.json) |
 | Danganronpa: Salvation's Fears | 338840 | [338840-danganronpa-salvations-fears.json](./338840-danganronpa-salvations-fears.json) |
 | Danganronpa: Survivor's Guilt | 341080 | [341080-danganronpa-survivors-guilt.json](./341080-danganronpa-survivors-guilt.json) |
 | Danger and Deadlier | 336700 | [336700-danger-and-deadlier.json](./336700-danger-and-deadlier.json) |
@@ -1985,6 +1986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | David Crane's Amazing Tennis | 46534 | [46534-david-cranes-amazing-tennis.json](./46534-david-cranes-amazing-tennis.json) |
 | David Crane's The Rescue of Princess Blobette | 48959 | [48959-david-cranes-the-rescue-of-princess-blobette.json](./48959-david-cranes-the-rescue-of-princess-blobette.json) |
 | David Douillet Judo | 57609 | [57609-david-douillet-judo.json](./57609-david-douillet-judo.json) |
+| David Get Keen | 228289 | [228289-david-get-keen.json](./228289-david-get-keen.json) |
 | David Leadbetter's Greens | 71545 | [71545-david-leadbetters-greens.json](./71545-david-leadbetters-greens.json) |
 | David Robinson's Supreme Court | 46533 | [46533-david-robinsons-supreme-court.json](./46533-david-robinsons-supreme-court.json) |
 | David Wolf: Secret Agent | 57575 | [57575-david-wolf-secret-agent.json](./57575-david-wolf-secret-agent.json) |
@@ -3208,6 +3210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Angel Trial | 284334 | [284334-death-angel-trial.json](./284334-death-angel-trial.json) |
 | Death Animal Parade | 260210 | [260210-death-animal-parade.json](./260210-death-animal-parade.json) |
 | Death Architect | 215070 | [215070-death-architect.json](./215070-death-architect.json) |
+| Death at Cape Porto: A Dana Knightstone Novel - Collector's Edition | 228254 | [228254-death-at-cape-porto-a-dana-knightstone-novel-collectors-edition.json](./228254-death-at-cape-porto-a-dana-knightstone-novel-collectors-edition.json) |
 | Death at Sycamore Hall | 388250 | [388250-death-at-sycamore-hall.json](./388250-death-at-sycamore-hall.json) |
 | Death Becomes You | 153884 | [153884-death-becomes-you.json](./153884-death-becomes-you.json) |
 | Death Becomes You: Yuri Onsen Vacation | 339370 | [339370-death-becomes-you-yuri-onsen-vacation.json](./339370-death-becomes-you-yuri-onsen-vacation.json) |
