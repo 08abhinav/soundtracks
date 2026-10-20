@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taco Break: Head to Head | 214527 | [214527-taco-break-head-to-head.json](./214527-taco-break-head-to-head.json) |
 | Taco Cat Jump Game | 96935 | [96935-taco-cat-jump-game.json](./96935-taco-cat-jump-game.json) |
 | Taco Cat Taco | 100759 | [100759-taco-cat-taco.json](./100759-taco-cat-taco.json) |
+| Taco Fun | 213229 | [213229-taco-fun.json](./213229-taco-fun.json) |
 | Taco Gun | 99152 | [99152-taco-gun.json](./99152-taco-gun.json) |
 | Taco Joe: Endless Taco Tosser | 268451 | [268451-taco-joe-endless-taco-tosser.json](./268451-taco-joe-endless-taco-tosser.json) |
 | Taco Loco: Horror Game | 342274 | [342274-taco-loco-horror-game.json](./342274-taco-loco-horror-game.json) |
@@ -4022,6 +4023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Village | 337740 | [337740-that-village.json](./337740-that-village.json) |
 | That Which Surrounds | 321660 | [321660-that-which-surrounds.json](./321660-that-which-surrounds.json) |
 | That Which Was Lost | 201478 | [201478-that-which-was-lost.json](./201478-that-which-was-lost.json) |
+| That's a Cow | 213220 | [213220-thats-a-cow.json](./213220-thats-a-cow.json) |
 | That's a Cow: Banana | 403422 | [403422-thats-a-cow-banana.json](./403422-thats-a-cow-banana.json) |
 | That's a Cow: Crown | 403423 | [403423-thats-a-cow-crown.json](./403423-thats-a-cow-crown.json) |
 | That's a Cow: Deluxe Edition | 232994 | [232994-thats-a-cow-deluxe-edition.json](./232994-thats-a-cow-deluxe-edition.json) |
@@ -4156,6 +4158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Academy | 302947 | [302947-the-academy.json](./302947-the-academy.json) |
 | The Academy of the Cosmic Realm | 385421 | [385421-the-academy-of-the-cosmic-realm.json](./385421-the-academy-of-the-cosmic-realm.json) |
 | The Academy: Love Potions | 112282 | [112282-the-academy-love-potions.json](./112282-the-academy-love-potions.json) |
+| The Accursed Crown | 213221 | [213221-the-accursed-crown.json](./213221-the-accursed-crown.json) |
 | The Accursed Crown of the Giant King: Chapter 2 - The Duchy of Despair | 207774 | [207774-the-accursed-crown-of-the-giant-king-chapter-2-the-duchy-of-despair.json](./207774-the-accursed-crown-of-the-giant-king-chapter-2-the-duchy-of-despair.json) |
 | The Accursed Crown of the Giant King: Chapter 3 - Citadel on the Wilderlands | 207775 | [207775-the-accursed-crown-of-the-giant-king-chapter-3-citadel-on-the-wilderlands.json](./207775-the-accursed-crown-of-the-giant-king-chapter-3-citadel-on-the-wilderlands.json) |
 | The Accursed Crown of the Giant King: Chapter 4 - The Fallen Giant Kingdom | 207776 | [207776-the-accursed-crown-of-the-giant-king-chapter-4-the-fallen-giant-kingdom.json](./207776-the-accursed-crown-of-the-giant-king-chapter-4-the-fallen-giant-kingdom.json) |
@@ -8641,6 +8644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Ice Cream | 216357 | [216357-the-jumping-ice-cream.json](./216357-the-jumping-ice-cream.json) |
 | The Jumping Ice Cream: Turbo | 217808 | [217808-the-jumping-ice-cream-turbo.json](./217808-the-jumping-ice-cream-turbo.json) |
 | The Jumping Ice Cube | 315941 | [315941-the-jumping-ice-cube.json](./315941-the-jumping-ice-cube.json) |
+| The Jumping Kebab | 213230 | [213230-the-jumping-kebab.json](./213230-the-jumping-kebab.json) |
 | The Jumping Kebab: Turbo | 213350 | [213350-the-jumping-kebab-turbo.json](./213350-the-jumping-kebab-turbo.json) |
 | The Jumping Melon Rush | 330937 | [330937-the-jumping-melon-rush.json](./330937-the-jumping-melon-rush.json) |
 | The Jumping Melon Rush 2 | 345362 | [345362-the-jumping-melon-rush-2.json](./345362-the-jumping-melon-rush-2.json) |
@@ -9847,6 +9851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Mermaid: Wonder Puzzles | 314881 | [314881-the-little-mermaid-wonder-puzzles.json](./314881-the-little-mermaid-wonder-puzzles.json) |
 | The Little Mermaid's Friend | 252386 | [252386-the-little-mermaids-friend.json](./252386-the-little-mermaids-friend.json) |
 | The Little Moon | 329410 | [329410-the-little-moon.json](./329410-the-little-moon.json) |
+| The Little Plane That Could | 213216 | [213216-the-little-plane-that-could.json](./213216-the-little-plane-that-could.json) |
 | The Little Raven & Friends: The Tricycle Story | 71971 | [71971-the-little-raven-and-friends-the-tricycle-story.json](./71971-the-little-raven-and-friends-the-tricycle-story.json) |
 | The Little Red Lie | 145541 | [145541-the-little-red-lie.json](./145541-the-little-red-lie.json) |
 | The Little Slime | 83536 | [83536-the-little-slime.json](./83536-the-little-slime.json) |
@@ -17596,6 +17601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tin Tandem | 152396 | [152396-tin-tandem.json](./152396-tin-tandem.json) |
 | Tin Toy | 80787 | [80787-tin-toy.json](./80787-tin-toy.json) |
 | Tin-Heart: The Game | 104243 | [104243-tin-heart-the-game.json](./104243-tin-heart-the-game.json) |
+| Tina & Rook! Cookie Quest! | 213206 | [213206-tina-and-rook-cookie-quest.json](./213206-tina-and-rook-cookie-quest.json) |
 | Tina wa Seirei Tsukai | 194925 | [194925-tina-wa-seirei-tsukai.json](./194925-tina-wa-seirei-tsukai.json) |
 | Tina: Swordswoman of the Scarlet Prison | 115490 | [115490-tina-swordswoman-of-the-scarlet-prison.json](./115490-tina-swordswoman-of-the-scarlet-prison.json) |
 | Tina's Toy Factory | 59900 | [59900-tinas-toy-factory.json](./59900-tinas-toy-factory.json) |
@@ -20081,6 +20087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Kimono Blast | 219543 | [219543-touhou-kimono-blast.json](./219543-touhou-kimono-blast.json) |
 | Touhou Kinjoukyou: Fossilized Wonders | 339856 | [339856-touhou-kinjoukyou-fossilized-wonders.json](./339856-touhou-kinjoukyou-fossilized-wonders.json) |
 | Touhou Kishinjou: Double Dealing Character | 119606 | [119606-touhou-kishinjou-double-dealing-character.json](./119606-touhou-kishinjou-double-dealing-character.json) |
+| Touhou Kisouken: Infinite Blade Pavilion | 213251 | [213251-touhou-kisouken-infinite-blade-pavilion.json](./213251-touhou-kisouken-infinite-blade-pavilion.json) |
 | Touhou Kobuto V: Burst Battle | 27261 | [27261-touhou-kobuto-v-burst-battle.json](./27261-touhou-kobuto-v-burst-battle.json) |
 | Touhou Kobuto V: Burst Battle - Chibi-Chara | 238038 | [238038-touhou-kobuto-v-burst-battle-chibi-chara.json](./238038-touhou-kobuto-v-burst-battle-chibi-chara.json) |
 | Touhou Kobuto V: Burst Battle - Koishi Komeiji | 238037 | [238037-touhou-kobuto-v-burst-battle-koishi-komeiji.json](./238037-touhou-kobuto-v-burst-battle-koishi-komeiji.json) |
@@ -21713,6 +21720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainee Death Simulator | 319810 | [319810-trainee-death-simulator.json](./319810-trainee-death-simulator.json) |
 | Trainer Canyon | 196526 | [196526-trainer-canyon.json](./196526-trainer-canyon.json) |
 | Trainer Eyes | 338952 | [338952-trainer-eyes.json](./338952-trainer-eyes.json) |
+| TrainFormation | 213204 | [213204-trainformation.json](./213204-trainformation.json) |
 | Trainfort | 345442 | [345442-trainfort.json](./345442-trainfort.json) |
 | Training aim | 88239 | [88239-training-aim.json](./88239-training-aim.json) |
 | Training Elves | 288901 | [288901-training-elves.json](./288901-training-elves.json) |
