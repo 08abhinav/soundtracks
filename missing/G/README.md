@@ -493,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galador: The Prince and the Coward | 26484 | [26484-galador-the-prince-and-the-coward.json](./26484-galador-the-prince-and-the-coward.json) |
 | Galaforce | 13719 | [13719-galaforce.json](./13719-galaforce.json) |
 | Galaga | 239156 | [239156-galaga.json](./239156-galaga.json) |
+| Galaga | 254287 | [254287-galaga.json](./254287-galaga.json) |
 | Galaga '91 | 218364 | [218364-galaga-91.json](./218364-galaga-91.json) |
 | Galaga & Galaxian DX | 280708 | [280708-galaga-and-galaxian-dx.json](./280708-galaga-and-galaxian-dx.json) |
 | Galaga 2000 | 218365 | [218365-galaga-2000.json](./218365-galaga-2000.json) |
@@ -1331,6 +1332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Cleanup Simulator | 407366 | [407366-garden-cleanup-simulator.json](./407366-garden-cleanup-simulator.json) |
 | Garden Defense | 53086 | [53086-garden-defense.json](./53086-garden-defense.json) |
 | Garden Door | 387727 | [387727-garden-door.json](./387727-garden-door.json) |
+| Garden Dreams | 254323 | [254323-garden-dreams.json](./254323-garden-dreams.json) |
 | Garden Eternal | 406903 | [406903-garden-eternal.json](./406903-garden-eternal.json) |
 | Garden for Glory: Collector's Edition | 337241 | [337241-garden-for-glory-collectors-edition.json](./337241-garden-for-glory-collectors-edition.json) |
 | Garden Gingdom | 386993 | [386993-garden-gingdom.json](./386993-garden-gingdom.json) |
