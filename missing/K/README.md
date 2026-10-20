@@ -3965,6 +3965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kono Uta ga Owattara: When This Song Is Over | 282811 | [282811-kono-uta-ga-owattara-when-this-song-is-over.json](./282811-kono-uta-ga-owattara-when-this-song-is-over.json) |
 | Kono Warui Koneko-chan-me! | 202228 | [202228-kono-warui-koneko-chan-me.json](./202228-kono-warui-koneko-chan-me.json) |
 | Konoha Challenge | 131378 | [131378-konoha-challenge.json](./131378-konoha-challenge.json) |
+| Konohana 2: Todokanai Requiem | 213827 | [213827-konohana-2-todokanai-requiem.json](./213827-konohana-2-todokanai-requiem.json) |
 | Konohana 3: Itsuwari no Kage no Mukou ni | 213868 | [213868-konohana-3-itsuwari-no-kage-no-mukou-ni.json](./213868-konohana-3-itsuwari-no-kage-no-mukou-ni.json) |
 | Konohana 4: Yami wo Harau Inori | 213933 | [213933-konohana-4-yami-wo-harau-inori.json](./213933-konohana-4-yami-wo-harau-inori.json) |
 | Konon: Zew Choroszczy | 304433 | [304433-konon-zew-choroszczy.json](./304433-konon-zew-choroszczy.json) |
@@ -4348,6 +4349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krosmaster Arena | 17964 | [17964-krosmaster-arena.json](./17964-krosmaster-arena.json) |
 | KRTL: Jay Und Die Spielzeugdiebe | 94155 | [94155-krtl-jay-und-die-spielzeugdiebe.json](./94155-krtl-jay-und-die-spielzeugdiebe.json) |
 | Kruger | 202773 | [202773-kruger.json](./202773-kruger.json) |
+| Kruger 2 | 213795 | [213795-kruger-2.json](./213795-kruger-2.json) |
 | Krull | 292096 | [292096-krull.json](./292096-krull.json) |
 | Krum: Battle Arena | 157562 | [157562-krum-battle-arena.json](./157562-krum-battle-arena.json) |
 | Krum: Edge of Darkness | 34056 | [34056-krum-edge-of-darkness.json](./34056-krum-edge-of-darkness.json) |
