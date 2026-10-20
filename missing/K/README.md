@@ -694,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karate Joe | 50062 | [50062-karate-joe.json](./50062-karate-joe.json) |
 | Karate Kamil vs. Ninja Nejat | 165491 | [165491-karate-kamil-vs-ninja-nejat.json](./165491-karate-kamil-vs-ninja-nejat.json) |
 | Karate Kat Times Tables | 102608 | [102608-karate-kat-times-tables.json](./102608-karate-kat-times-tables.json) |
+| Karate Kid | 218348 | [218348-karate-kid.json](./218348-karate-kid.json) |
 | Karate King | 67651 | [67651-karate-king.json](./67651-karate-king.json) |
 | Karate Krab | 76650 | [76650-karate-krab.json](./76650-karate-krab.json) |
 | Karate Krab: Karate Krab In Space | 172051 | [172051-karate-krab-karate-krab-in-space.json](./172051-karate-krab-karate-krab-in-space.json) |
@@ -3341,6 +3342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Party | 283058 | [283058-knight-party.json](./283058-knight-party.json) |
 | Knight Quest | 48968 | [48968-knight-quest.json](./48968-knight-quest.json) |
 | Knight Raider | 239105 | [239105-knight-raider.json](./239105-knight-raider.json) |
+| Knight Rider | 218335 | [218335-knight-rider.json](./218335-knight-rider.json) |
 | Knight Rider | 26290 | [26290-knight-rider.json](./26290-knight-rider.json) |
 | Knight Rider | 72808 | [72808-knight-rider.json](./72808-knight-rider.json) |
 | Knight Rider 2: The Game | 22370 | [22370-knight-rider-2-the-game.json](./22370-knight-rider-2-the-game.json) |
