@@ -7373,6 +7373,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocksmith 2014: Thirty Seconds to Mars Song Pack | 226642 | [226642-rocksmith-2014-thirty-seconds-to-mars-song-pack.json](./226642-rocksmith-2014-thirty-seconds-to-mars-song-pack.json) |
 | Rocksmith 2014: Three Days Grace Song Pack | 226643 | [226643-rocksmith-2014-three-days-grace-song-pack.json](./226643-rocksmith-2014-three-days-grace-song-pack.json) |
 | Rocksmith 2014: Tom Petty Song Pack | 226644 | [226644-rocksmith-2014-tom-petty-song-pack.json](./226644-rocksmith-2014-tom-petty-song-pack.json) |
+| Rocksmith 2014: Variety Song Pack IV | 226634 | [226634-rocksmith-2014-variety-song-pack-iv.json](./226634-rocksmith-2014-variety-song-pack-iv.json) |
+| Rocksmith 2014: Volbeat Song Pack | 226633 | [226633-rocksmith-2014-volbeat-song-pack.json](./226633-rocksmith-2014-volbeat-song-pack.json) |
 | Rocksmith 2014: Weezer Song Pack | 226635 | [226635-rocksmith-2014-weezer-song-pack.json](./226635-rocksmith-2014-weezer-song-pack.json) |
 | Rocksmith 2014: Women Who Rock Song Pack | 226636 | [226636-rocksmith-2014-women-who-rock-song-pack.json](./226636-rocksmith-2014-women-who-rock-song-pack.json) |
 | Rocksmith: Fall Out Boy Song-Pack | 226711 | [226711-rocksmith-fall-out-boy-song-pack.json](./226711-rocksmith-fall-out-boy-song-pack.json) |
@@ -7892,6 +7894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Macho: Tumbling to Earth | 330148 | [330148-rolling-macho-tumbling-to-earth.json](./330148-rolling-macho-tumbling-to-earth.json) |
 | Rolling Madness 3D | 54957 | [54957-rolling-madness-3d.json](./54957-rolling-madness-3d.json) |
 | Rolling Over It | 191834 | [191834-rolling-over-it.json](./191834-rolling-over-it.json) |
+| Rolling Realms | 226632 | [226632-rolling-realms.json](./226632-rolling-realms.json) |
 | Rolling Red Ball Rush Up Sky | 104451 | [104451-rolling-red-ball-rush-up-sky.json](./104451-rolling-red-ball-rush-up-sky.json) |
 | Rolling Revolt | 244500 | [244500-rolling-revolt.json](./244500-rolling-revolt.json) |
 | Rolling Ronny | 12752 | [12752-rolling-ronny.json](./12752-rolling-ronny.json) |
@@ -9026,6 +9029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruins of Blackspire | 388787 | [388787-ruins-of-blackspire.json](./388787-ruins-of-blackspire.json) |
 | Ruins of Dawnseeker | 318251 | [318251-ruins-of-dawnseeker.json](./318251-ruins-of-dawnseeker.json) |
 | Ruins of Endoth | 310000 | [310000-ruins-of-endoth.json](./310000-ruins-of-endoth.json) |
+| Ruins of Istanbul | 226631 | [226631-ruins-of-istanbul.json](./226631-ruins-of-istanbul.json) |
 | Ruins of Majika | 211747 | [211747-ruins-of-majika.json](./211747-ruins-of-majika.json) |
 | Ruins of Mitriom | 186320 | [186320-ruins-of-mitriom.json](./186320-ruins-of-mitriom.json) |
 | Ruins of Pantheon | 313548 | [313548-ruins-of-pantheon.json](./313548-ruins-of-pantheon.json) |
