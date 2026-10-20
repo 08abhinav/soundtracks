@@ -3077,6 +3077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Levis Umbra | 241419 | [241419-levis-umbra.json](./241419-levis-umbra.json) |
 | Levitation Simulator 2 | 339382 | [339382-levitation-simulator-2.json](./339382-levitation-simulator-2.json) |
 | Lew Pulsipher's Doomstar | 32151 | [32151-lew-pulsiphers-doomstar.json](./32151-lew-pulsiphers-doomstar.json) |
+| Lewandowski: Football Star | 247324 | [247324-lewandowski-football-star.json](./247324-lewandowski-football-star.json) |
 | Lewd & Nude: Anime Collector | 368112 | [368112-lewd-and-nude-anime-collector.json](./368112-lewd-and-nude-anime-collector.json) |
 | Lewd Anime Racing | 235725 | [235725-lewd-anime-racing.json](./235725-lewd-anime-racing.json) |
 | Lewd Beach | 367201 | [367201-lewd-beach.json](./367201-lewd-beach.json) |
