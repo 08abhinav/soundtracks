@@ -5302,6 +5302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Fantasy Land | 98363 | [98363-hidden-object-fantasy-land.json](./98363-hidden-object-fantasy-land.json) |
 | Hidden Object: Faries Trail | 98387 | [98387-hidden-object-faries-trail.json](./98387-hidden-object-faries-trail.json) |
 | Hidden Object: Farm Adventure | 83637 | [83637-hidden-object-farm-adventure.json](./83637-hidden-object-farm-adventure.json) |
+| Hidden Object: Find a Diamond Eye - Atlantida Adventure Gold | 238299 | [238299-hidden-object-find-a-diamond-eye-atlantida-adventure-gold.json](./238299-hidden-object-find-a-diamond-eye-atlantida-adventure-gold.json) |
 | Hidden Object: Food | 65782 | [65782-hidden-object-food.json](./65782-hidden-object-food.json) |
 | Hidden Object: Forest Haven | 98364 | [98364-hidden-object-forest-haven.json](./98364-hidden-object-forest-haven.json) |
 | Hidden Object: Furball Adventures | 83634 | [83634-hidden-object-furball-adventures.json](./83634-hidden-object-furball-adventures.json) |
