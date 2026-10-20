@@ -4474,6 +4474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Settlands | 271593 | [271593-settlands.json](./271593-settlands.json) |
 | Settle | 397075 | [397075-settle.json](./397075-settle.json) |
 | Settle and Battle: New Empires | 324295 | [324295-settle-and-battle-new-empires.json](./324295-settle-and-battle-new-empires.json) |
+| Settle Gliese | 249046 | [249046-settle-gliese.json](./249046-settle-gliese.json) |
 | Settled | 33480 | [33480-settled.json](./33480-settled.json) |
 | Settlement Survival | 158413 | [158413-settlement-survival.json](./158413-settlement-survival.json) |
 | Settlement: Colossus | 53589 | [53589-settlement-colossus.json](./53589-settlement-colossus.json) |
@@ -5932,6 +5933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheol no Mori: Tasogare no Majuuzukai | 381108 | [381108-sheol-no-mori-tasogare-no-majuuzukai.json](./381108-sheol-no-mori-tasogare-no-majuuzukai.json) |
 | Shepard Fairey VR: Damaged | 110899 | [110899-shepard-fairey-vr-damaged.json](./110899-shepard-fairey-vr-damaged.json) |
 | Shepherd | 192319 | [192319-shepherd.json](./192319-shepherd.json) |
+| Shepherd Dog | 249021 | [249021-shepherd-dog.json](./249021-shepherd-dog.json) |
 | Shepherd Knight | 372123 | [372123-shepherd-knight.json](./372123-shepherd-knight.json) |
 | Shepherd of Light | 121594 | [121594-shepherd-of-light.json](./121594-shepherd-of-light.json) |
 | Shepherd Planet | 280124 | [280124-shepherd-planet.json](./280124-shepherd-planet.json) |
@@ -18526,6 +18528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfall | 99376 | [99376-starfall.json](./99376-starfall.json) |
 | Starfall Arena | 227170 | [227170-starfall-arena.json](./227170-starfall-arena.json) |
 | Starfall Defenders | 350433 | [350433-starfall-defenders.json](./350433-starfall-defenders.json) |
+| Starfall Fantasy: Neverland | 249056 | [249056-starfall-fantasy-neverland.json](./249056-starfall-fantasy-neverland.json) |
 | Starfall Numbers | 74753 | [74753-starfall-numbers.json](./74753-starfall-numbers.json) |
 | Starfall Online | 131612 | [131612-starfall-online.json](./131612-starfall-online.json) |
 | Starfall Serenity | 278366 | [278366-starfall-serenity.json](./278366-starfall-serenity.json) |
@@ -19245,6 +19248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam and Silk | 115396 | [115396-steam-and-silk.json](./115396-steam-and-silk.json) |
 | Steam Bandits: Outpost | 30368 | [30368-steam-bandits-outpost.json](./30368-steam-bandits-outpost.json) |
 | Steam Chain | 135567 | [135567-steam-chain.json](./135567-steam-chain.json) |
+| Steam Engine Simulator | 249057 | [249057-steam-engine-simulator.json](./249057-steam-engine-simulator.json) |
 | Steam Engine Simulator: Power Generation | 276602 | [276602-steam-engine-simulator-power-generation.json](./276602-steam-engine-simulator-power-generation.json) |
 | Steam Girls | 410406 | [410406-steam-girls.json](./410406-steam-girls.json) |
 | Steam Heroes | 10926 | [10926-steam-heroes.json](./10926-steam-heroes.json) |
