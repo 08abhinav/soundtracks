@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game & Watch Manhole | 84549 | [84549-game-and-watch-manhole.json](./84549-game-and-watch-manhole.json) |
 | Game & Watch Mario's Cement Factory | 206933 | [206933-game-and-watch-marios-cement-factory.json](./206933-game-and-watch-marios-cement-factory.json) |
 | Game & Watch Mario's Cement Factory | 339262 | [339262-game-and-watch-marios-cement-factory.json](./339262-game-and-watch-marios-cement-factory.json) |
+| Game & Watch-e Collection | 231716 | [231716-game-and-watch-e-collection.json](./231716-game-and-watch-e-collection.json) |
 | Game & Watch-e: Fire | 232892 | [232892-game-and-watch-e-fire.json](./232892-game-and-watch-e-fire.json) |
 | Game & Watch-e: Fire | 232893 | [232893-game-and-watch-e-fire.json](./232893-game-and-watch-e-fire.json) |
 | Game & Watch-e: Flagman | 261805 | [261805-game-and-watch-e-flagman.json](./261805-game-and-watch-e-flagman.json) |
@@ -6649,6 +6650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greengrocer Simulator 2024 | 326419 | [326419-greengrocer-simulator-2024.json](./326419-greengrocer-simulator-2024.json) |
 | Greengrocer's | 311631 | [311631-greengrocers.json](./311631-greengrocers.json) |
 | GreenHill Again | 336339 | [336339-greenhill-again.json](./336339-greenhill-again.json) |
+| Greenhouse | 231738 | [231738-greenhouse.json](./231738-greenhouse.json) |
 | Greenhouse | 295073 | [295073-greenhouse.json](./295073-greenhouse.json) |
 | Greenhouse | 332315 | [332315-greenhouse.json](./332315-greenhouse.json) |
 | Greenhouse: Schism | 377269 | [377269-greenhouse-schism.json](./377269-greenhouse-schism.json) |
