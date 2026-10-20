@@ -6219,6 +6219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyewitness Virtual Reality: Cat | 361603 | [361603-eyewitness-virtual-reality-cat.json](./361603-eyewitness-virtual-reality-cat.json) |
 | Eyewitness Virtual Reality: Dinosaur Hunter | 198384 | [198384-eyewitness-virtual-reality-dinosaur-hunter.json](./198384-eyewitness-virtual-reality-dinosaur-hunter.json) |
 | Eyo: Jump 'n' Run RPG | 220022 | [220022-eyo-jump-n-run-rpg.json](./220022-eyo-jump-n-run-rpg.json) |
+| EZ Knight | 233390 | [233390-ez-knight.json](./233390-ez-knight.json) |
 | EZ Message Sender | 85964 | [85964-ez-message-sender.json](./85964-ez-message-sender.json) |
 | EZ Muze: Hamst3r Edition | 92651 | [92651-ez-muze-hamst3r-edition.json](./92651-ez-muze-hamst3r-edition.json) |
 | EZ-Talk Shokyuu-hen 4 | 334245 | [334245-ez-talk-shokyuu-hen-4.json](./334245-ez-talk-shokyuu-hen-4.json) |
