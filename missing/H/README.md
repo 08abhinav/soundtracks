@@ -578,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Sex Party | 175794 | [175794-halloween-sex-party.json](./175794-halloween-sex-party.json) |
 | Halloween Shooter | 222395 | [222395-halloween-shooter.json](./222395-halloween-shooter.json) |
 | Halloween Sinister Trivia | 274488 | [274488-halloween-sinister-trivia.json](./274488-halloween-sinister-trivia.json) |
+| Halloween Stories: Defying Death - Collector’s Edition | 228252 | [228252-halloween-stories-defying-death-collector-s-edition.json](./228252-halloween-stories-defying-death-collector-s-edition.json) |
 | Halloween Stories: Horror Movie | 187953 | [187953-halloween-stories-horror-movie.json](./187953-halloween-stories-horror-movie.json) |
 | Halloween Stories: Horror Movie - Collector's Edition | 173175 | [173175-halloween-stories-horror-movie-collectors-edition.json](./173175-halloween-stories-horror-movie-collectors-edition.json) |
 | Halloween Stories: Inspiration's Spark - Collector's Edition | 362849 | [362849-halloween-stories-inspirations-spark-collectors-edition.json](./362849-halloween-stories-inspirations-spark-collectors-edition.json) |
@@ -1046,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangeki | 17697 | [17697-hangeki.json](./17697-hangeki.json) |
 | Hangler | 388728 | [388728-hangler.json](./388728-hangler.json) |
 | Hangman | 17259 | [17259-hangman.json](./17259-hangman.json) |
+| Hangman | 228272 | [228272-hangman.json](./228272-hangman.json) |
 | Hangman | 230850 | [230850-hangman.json](./230850-hangman.json) |
 | Hangman | 259633 | [259633-hangman.json](./259633-hangman.json) |
 | Hangman | 285157 | [285157-hangman.json](./285157-hangman.json) |
@@ -1413,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Reset | 532 | [532-hard-reset.json](./532-hard-reset.json) |
 | Hard Reset: Extended Edition - Exile | 171405 | [171405-hard-reset-extended-edition-exile.json](./171405-hard-reset-extended-edition-exile.json) |
 | Hard Rock Casino | 21386 | [21386-hard-rock-casino.json](./21386-hard-rock-casino.json) |
+| Hard Rock Dice Party | 228298 | [228298-hard-rock-dice-party.json](./228298-hard-rock-dice-party.json) |
 | Hard Rock Pinball | 133434 | [133434-hard-rock-pinball.json](./133434-hard-rock-pinball.json) |
 | Hard Rock Racing | 103878 | [103878-hard-rock-racing.json](./103878-hard-rock-racing.json) |
 | Hard Rock Zombie Truck | 54337 | [54337-hard-rock-zombie-truck.json](./54337-hard-rock-zombie-truck.json) |
