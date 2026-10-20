@@ -857,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandarunium | 291343 | [291343-pandarunium.json](./291343-pandarunium.json) |
 | PandaSG | 157122 | [157122-pandasg.json](./157122-pandasg.json) |
 | Pandash | 248913 | [248913-pandash.json](./248913-pandash.json) |
+| Pandaty | 215552 | [215552-pandaty.json](./215552-pandaty.json) |
 | Pandecrown | 215908 | [215908-pandecrown.json](./215908-pandecrown.json) |
 | Pandemia | 149517 | [149517-pandemia.json](./149517-pandemia.json) |
 | Pandemic | 147934 | [147934-pandemic.json](./147934-pandemic.json) |
@@ -2045,6 +2046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PartyIcons | 336943 | [336943-partyicons.json](./336943-partyicons.json) |
 | Partymasters | 90769 | [90769-partymasters.json](./90769-partymasters.json) |
 | PartySaur: Dino Mayhem | 261731 | [261731-partysaur-dino-mayhem.json](./261731-partysaur-dino-mayhem.json) |
+| PartyToons | 215555 | [215555-partytoons.json](./215555-partytoons.json) |
 | Pas's restaurant | 346618 | [346618-pass-restaurant.json](./346618-pass-restaurant.json) |
 | Pasajeros | 192426 | [192426-pasajeros.json](./192426-pasajeros.json) |
 | Pasapalabra | 302728 | [302728-pasapalabra.json](./302728-pasapalabra.json) |
@@ -11089,6 +11091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Architect: All Day and a Night Edition | 82440 | [82440-prison-architect-all-day-and-a-night-edition.json](./82440-prison-architect-all-day-and-a-night-edition.json) |
 | Prison Architect: All Day and a Psych | 118834 | [118834-prison-architect-all-day-and-a-psych.json](./118834-prison-architect-all-day-and-a-psych.json) |
 | Prison Architect: Cleared for Transfer | 148528 | [148528-prison-architect-cleared-for-transfer.json](./148528-prison-architect-cleared-for-transfer.json) |
+| Prison Architect: Escape Mode | 215561 | [215561-prison-architect-escape-mode.json](./215561-prison-architect-escape-mode.json) |
 | Prison Architect: Free for life | 220655 | [220655-prison-architect-free-for-life.json](./220655-prison-architect-free-for-life.json) |
 | Prison Architect: Future Tech Pack | 227356 | [227356-prison-architect-future-tech-pack.json](./227356-prison-architect-future-tech-pack.json) |
 | Prison Architect: Gangs | 203348 | [203348-prison-architect-gangs.json](./203348-prison-architect-gangs.json) |
