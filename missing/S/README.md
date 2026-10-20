@@ -3582,6 +3582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seduce Me: The Complete Story | 134665 | [134665-seduce-me-the-complete-story.json](./134665-seduce-me-the-complete-story.json) |
 | Seduce, Breed, Conquer | 376448 | [376448-seduce-breed-conquer.json](./376448-seduce-breed-conquer.json) |
 | Seduced in the Sleepless City | 220877 | [220877-seduced-in-the-sleepless-city.json](./220877-seduced-in-the-sleepless-city.json) |
+| Seducing the Devil | 236113 | [236113-seducing-the-devil.json](./236113-seducing-the-devil.json) |
 | Seduction | 172708 | [172708-seduction.json](./172708-seduction.json) |
 | Seduction of Beauty | 292622 | [292622-seduction-of-beauty.json](./292622-seduction-of-beauty.json) |
 | Seductive Shadows | 288916 | [288916-seductive-shadows.json](./288916-seductive-shadows.json) |
@@ -8741,6 +8742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sitting around the world on a hot air balloon | 121576 | [121576-sitting-around-the-world-on-a-hot-air-balloon.json](./121576-sitting-around-the-world-on-a-hot-air-balloon.json) |
 | Sitting Ducks | 210727 | [210727-sitting-ducks.json](./210727-sitting-ducks.json) |
 | Sitting Ducks | 402482 | [402482-sitting-ducks.json](./402482-sitting-ducks.json) |
+| Situation Normal | 236149 | [236149-situation-normal.json](./236149-situation-normal.json) |
 | Situation Outbreak | 91456 | [91456-situation-outbreak.json](./91456-situation-outbreak.json) |
 | Situation Tarfu | 249599 | [249599-situation-tarfu.json](./249599-situation-tarfu.json) |
 | SituationCovid | 149416 | [149416-situationcovid.json](./149416-situationcovid.json) |
@@ -15604,6 +15606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Limit | 117106 | [117106-speed-limit.json](./117106-speed-limit.json) |
 | Speed Limit: Stage 2 | 79144 | [79144-speed-limit-stage-2.json](./79144-speed-limit-stage-2.json) |
 | Speed Liner | 379878 | [379878-speed-liner.json](./379878-speed-liner.json) |
+| Speed Madness | 236136 | [236136-speed-madness.json](./236136-speed-madness.json) |
 | Speed Master | 211977 | [211977-speed-master.json](./211977-speed-master.json) |
 | Speed Master | 274136 | [274136-speed-master.json](./274136-speed-master.json) |
 | Speed Masters ASD | 130971 | [130971-speed-masters-asd.json](./130971-speed-masters-asd.json) |
