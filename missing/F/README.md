@@ -5220,6 +5220,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Finger Discount | 297077 | [297077-five-finger-discount.json](./297077-five-finger-discount.json) |
 | Five Fold Tower | 311819 | [311819-five-fold-tower.json](./311819-five-fold-tower.json) |
 | Five Generations | 178356 | [178356-five-generations.json](./178356-five-generations.json) |
+| Five Golden Nights at Freddy's | 217750 | [217750-five-golden-nights-at-freddys.json](./217750-five-golden-nights-at-freddys.json) |
+| Five Golden Nights at Freddy's 2 | 217751 | [217751-five-golden-nights-at-freddys-2.json](./217751-five-golden-nights-at-freddys-2.json) |
+| Five Golden Nights at Freddy's 3: Storage | 217752 | [217752-five-golden-nights-at-freddys-3-storage.json](./217752-five-golden-nights-at-freddys-3-storage.json) |
 | Five Heads | 347338 | [347338-five-heads.json](./347338-five-heads.json) |
 | Five Hearts Under One Roof | 318806 | [318806-five-hearts-under-one-roof.json](./318806-five-hearts-under-one-roof.json) |
 | Five Hundred | 287910 | [287910-five-hundred.json](./287910-five-hundred.json) |
