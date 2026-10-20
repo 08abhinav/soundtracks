@@ -12589,6 +12589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morbius Heardle | 203829 | [203829-morbius-heardle.json](./203829-morbius-heardle.json) |
 | Morbius: The Utopia Conspiracy | 90226 | [90226-morbius-the-utopia-conspiracy.json](./90226-morbius-the-utopia-conspiracy.json) |
 | Morbus | 382593 | [382593-morbus.json](./382593-morbus.json) |
+| Mordath | 236143 | [236143-mordath.json](./236143-mordath.json) |
 | Mordecai Saw Game | 385050 | [385050-mordecai-saw-game.json](./385050-mordecai-saw-game.json) |
 | Mordeny | 356804 | [356804-mordeny.json](./356804-mordeny.json) |
 | Morder | 111565 | [111565-morder.json](./111565-morder.json) |
