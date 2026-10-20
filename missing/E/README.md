@@ -1626,6 +1626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electrocardioground FX | 298951 | [298951-electrocardioground-fx.json](./298951-electrocardioground-fx.json) |
 | Electrodash | 159725 | [159725-electrodash.json](./159725-electrodash.json) |
 | Electrogical | 262107 | [262107-electrogical.json](./262107-electrogical.json) |
+| Electrokinetic | 228286 | [228286-electrokinetic.json](./228286-electrokinetic.json) |
 | Electrolight | 319192 | [319192-electrolight.json](./319192-electrolight.json) |
 | Electromagnetism | 184319 | [184319-electromagnetism.json](./184319-electromagnetism.json) |
 | Electromaze Defense | 81803 | [81803-electromaze-defense.json](./81803-electromaze-defense.json) |
@@ -4814,6 +4815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europe Empire 2027 | 220017 | [220017-europe-empire-2027.json](./220017-europe-empire-2027.json) |
 | Europe Front II | 200741 | [200741-europe-front-ii.json](./200741-europe-front-ii.json) |
 | Europe Front Remastered | 357399 | [357399-europe-front-remastered.json](./357399-europe-front-remastered.json) |
+| Europe Geography | 228290 | [228290-europe-geography.json](./228290-europe-geography.json) |
 | Europe Heatwave Simulator | 409396 | [409396-europe-heatwave-simulator.json](./409396-europe-heatwave-simulator.json) |
 | European 2 | 70128 | [70128-european-2.json](./70128-european-2.json) |
 | European 5-A-Side | 92935 | [92935-european-5-a-side.json](./92935-european-5-a-side.json) |
