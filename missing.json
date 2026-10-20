@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T20:18:55.968Z",
-  "total_missing": 239257,
+  "generated_at": "2026-10-20T20:33:14.656Z",
+  "total_missing": 239307,
   "games": [
     {
       "igdb_id": 191680,
@@ -267982,6 +267982,11 @@
       "file": "missing/D/230556-disney-princess.json"
     },
     {
+      "igdb_id": 209891,
+      "game_name": "Disney Princess Fashion Boutique",
+      "file": "missing/D/209891-disney-princess-fashion-boutique.json"
+    },
+    {
       "igdb_id": 350331,
       "game_name": "Disney Princess Jewelry Box Collection",
       "file": "missing/D/350331-disney-princess-jewelry-box-collection.json"
@@ -378842,6 +378847,11 @@
       "file": "missing/F/356723-fritz-and-chesster-chess-for-aliens.json"
     },
     {
+      "igdb_id": 209896,
+      "game_name": "Fritz & Chesster: Learn to Play Chess Vol. 1",
+      "file": "missing/F/209896-fritz-and-chesster-learn-to-play-chess-vol-1.json"
+    },
+    {
       "igdb_id": 84182,
       "game_name": "Fritz & Chesster's Chess for Winners",
       "file": "missing/F/84182-fritz-and-chessters-chess-for-winners.json"
@@ -437707,6 +437717,11 @@
       "file": "missing/H/332393-harpys-curse.json"
     },
     {
+      "igdb_id": 209862,
+      "game_name": "Harrier 2001",
+      "file": "missing/H/209862-harrier-2001.json"
+    },
+    {
       "igdb_id": 94412,
       "game_name": "Harrier 7",
       "file": "missing/H/94412-harrier-7.json"
@@ -438397,6 +438412,11 @@
       "file": "missing/H/361644-harvest-mall.json"
     },
     {
+      "igdb_id": 209863,
+      "game_name": "Harvest Mania",
+      "file": "missing/H/209863-harvest-mania.json"
+    },
+    {
       "igdb_id": 320522,
       "game_name": "Harvest Master",
       "file": "missing/H/320522-harvest-master.json"
@@ -439000,6 +439020,11 @@
       "igdb_id": 11818,
       "game_name": "Hatfall",
       "file": "missing/H/11818-hatfall.json"
+    },
+    {
+      "igdb_id": 209864,
+      "game_name": "Hatfields and McCoys",
+      "file": "missing/H/209864-hatfields-and-mccoys.json"
     },
     {
       "igdb_id": 247970,
@@ -442962,6 +442987,11 @@
       "file": "missing/H/111713-heaven-and-hell-the-last-war.json"
     },
     {
+      "igdb_id": 209866,
+      "game_name": "Heaven Bound",
+      "file": "missing/H/209866-heaven-bound.json"
+    },
+    {
       "igdb_id": 317215,
       "game_name": "Heaven Dust Collection",
       "file": "missing/H/317215-heaven-dust-collection.json"
@@ -443000,6 +443030,11 @@
       "igdb_id": 304029,
       "game_name": "Heaven Over It",
       "file": "missing/H/304029-heaven-over-it.json"
+    },
+    {
+      "igdb_id": 209867,
+      "game_name": "Heaven Quest",
+      "file": "missing/H/209867-heaven-quest.json"
     },
     {
       "igdb_id": 139372,
@@ -446442,9 +446477,19 @@
       "file": "missing/H/3686-hello-kitty-big-city-dreams.json"
     },
     {
+      "igdb_id": 209878,
+      "game_name": "Hello Kitty: Bubblegum Girlfriends",
+      "file": "missing/H/209878-hello-kitty-bubblegum-girlfriends.json"
+    },
+    {
       "igdb_id": 206192,
       "game_name": "Hello Kitty: Carrot Story",
       "file": "missing/H/206192-hello-kitty-carrot-story.json"
+    },
+    {
+      "igdb_id": 209879,
+      "game_name": "Hello Kitty: Dream Carnival",
+      "file": "missing/H/209879-hello-kitty-dream-carnival.json"
     },
     {
       "igdb_id": 83209,
@@ -451957,6 +452002,11 @@
       "file": "missing/H/64359-hero-u-rogue-to-redemption.json"
     },
     {
+      "igdb_id": 209873,
+      "game_name": "Hero: 108 Online",
+      "file": "missing/H/209873-hero-108-online.json"
+    },
+    {
       "igdb_id": 118428,
       "game_name": "Hero: Flood Rescue",
       "file": "missing/H/118428-hero-flood-rescue.json"
@@ -452300,6 +452350,11 @@
       "igdb_id": 8139,
       "game_name": "Heroes Chronicles: Revolt of the Beastmasters",
       "file": "missing/H/8139-heroes-chronicles-revolt-of-the-beastmasters.json"
+    },
+    {
+      "igdb_id": 209872,
+      "game_name": "Heroes Chronicles: The Final Chapters",
+      "file": "missing/H/209872-heroes-chronicles-the-final-chapters.json"
     },
     {
       "igdb_id": 8140,
@@ -452657,6 +452712,11 @@
       "file": "missing/H/7742-heroes-of-might-and-magic-ii-the-price-of-loyalty.json"
     },
     {
+      "igdb_id": 209871,
+      "game_name": "Heroes of Might and Magic II: The Succession Wars",
+      "file": "missing/H/209871-heroes-of-might-and-magic-ii-the-succession-wars.json"
+    },
+    {
       "igdb_id": 365,
       "game_name": "Heroes of Might and Magic III: Armageddon's Blade",
       "file": "missing/H/365-heroes-of-might-and-magic-iii-armageddons-blade.json"
@@ -452845,6 +452905,11 @@
       "igdb_id": 195162,
       "game_name": "Heroes of the Galaxy",
       "file": "missing/H/195162-heroes-of-the-galaxy.json"
+    },
+    {
+      "igdb_id": 209870,
+      "game_name": "Heroes of the Indianapolis 500",
+      "file": "missing/H/209870-heroes-of-the-indianapolis-500.json"
     },
     {
       "igdb_id": 32360,
@@ -453150,6 +453215,11 @@
       "igdb_id": 224633,
       "game_name": "Herogue",
       "file": "missing/H/224633-herogue.json"
+    },
+    {
+      "igdb_id": 209906,
+      "game_name": "Herohero-kun",
+      "file": "missing/H/209906-herohero-kun.json"
     },
     {
       "igdb_id": 155701,
@@ -455997,6 +456067,11 @@
       "file": "missing/H/34842-hidden-mysteries-civil-war.json"
     },
     {
+      "igdb_id": 209899,
+      "game_name": "Hidden Mysteries: Forbidden City",
+      "file": "missing/H/209899-hidden-mysteries-forbidden-city.json"
+    },
+    {
       "igdb_id": 54092,
       "game_name": "Hidden Mysteries: Gates of Graceland",
       "file": "missing/H/54092-hidden-mysteries-gates-of-graceland.json"
@@ -457057,6 +457132,11 @@
       "file": "missing/H/369162-hidden-realm-of-the-enchantress.json"
     },
     {
+      "igdb_id": 209900,
+      "game_name": "Hidden Relics",
+      "file": "missing/H/209900-hidden-relics.json"
+    },
+    {
       "igdb_id": 383726,
       "game_name": "Hidden Riddles: Glaciers Mysteries",
       "file": "missing/H/383726-hidden-riddles-glaciers-mysteries.json"
@@ -457090,6 +457170,11 @@
       "igdb_id": 257110,
       "game_name": "Hidden SciFi City Top-Down 3D",
       "file": "missing/H/257110-hidden-scifi-city-top-down-3d.json"
+    },
+    {
+      "igdb_id": 209901,
+      "game_name": "Hidden Secrets: The Nightmare",
+      "file": "missing/H/209901-hidden-secrets-the-nightmare.json"
     },
     {
       "igdb_id": 258194,
@@ -457155,6 +457240,16 @@
       "igdb_id": 320548,
       "game_name": "Hidden Storehouse Top-Down 3D",
       "file": "missing/H/320548-hidden-storehouse-top-down-3d.json"
+    },
+    {
+      "igdb_id": 209903,
+      "game_name": "Hidden Stroke II: APRM",
+      "file": "missing/H/209903-hidden-stroke-ii-aprm.json"
+    },
+    {
+      "igdb_id": 209902,
+      "game_name": "Hidden Stroke: APRM",
+      "file": "missing/H/209902-hidden-stroke-aprm.json"
     },
     {
       "igdb_id": 296509,
@@ -458072,6 +458167,11 @@
       "file": "missing/H/399737-high-rollers-dice-drop-duel.json"
     },
     {
+      "igdb_id": 209911,
+      "game_name": "High Rollerz",
+      "file": "missing/H/209911-high-rollerz.json"
+    },
+    {
       "igdb_id": 311651,
       "game_name": "High School Adventure",
       "file": "missing/H/311651-high-school-adventure.json"
@@ -458427,6 +458527,11 @@
       "file": "missing/H/248077-highland-panic.json"
     },
     {
+      "igdb_id": 209908,
+      "game_name": "Highland Solitaire",
+      "file": "missing/H/209908-highland-solitaire.json"
+    },
+    {
       "igdb_id": 9356,
       "game_name": "Highland Warriors",
       "file": "missing/H/9356-highland-warriors.json"
@@ -458460,6 +458565,11 @@
       "igdb_id": 291851,
       "game_name": "Highlighters: Cosmic Puzzle Action",
       "file": "missing/H/291851-highlighters-cosmic-puzzle-action.json"
+    },
+    {
+      "igdb_id": 209909,
+      "game_name": "Highlights Puzzlemania",
+      "file": "missing/H/209909-highlights-puzzlemania.json"
     },
     {
       "igdb_id": 315316,
@@ -462882,6 +462992,11 @@
       "file": "missing/H/215683-holiday-jigsaw-thanksgiving-day-3.json"
     },
     {
+      "igdb_id": 209912,
+      "game_name": "Holiday Lemmings",
+      "file": "missing/H/209912-holiday-lemmings.json"
+    },
+    {
       "igdb_id": 92819,
       "game_name": "Holiday Lemmings",
       "file": "missing/H/92819-holiday-lemmings.json"
@@ -466927,6 +467042,11 @@
       "file": "missing/H/336402-hoppis-adventure.json"
     },
     {
+      "igdb_id": 209882,
+      "game_name": "Hoppie",
+      "file": "missing/H/209882-hoppie.json"
+    },
+    {
       "igdb_id": 235765,
       "game_name": "Hoppin",
       "file": "missing/H/235765-hoppin.json"
@@ -468157,6 +468277,11 @@
       "file": "missing/H/100719-horse-blocks-puzzle-games.json"
     },
     {
+      "igdb_id": 209884,
+      "game_name": "Horse Camp",
+      "file": "missing/H/209884-horse-camp.json"
+    },
+    {
       "igdb_id": 252625,
       "game_name": "Horse Club Adventures 2: Gold Edition",
       "file": "missing/H/252625-horse-club-adventures-2-gold-edition.json"
@@ -468675,6 +468800,11 @@
       "igdb_id": 257881,
       "game_name": "Hospital Doctor: Fix me up for Kids (Boys & Girls)",
       "file": "missing/H/257881-hospital-doctor-fix-me-up-for-kids-boys-and-girls.json"
+    },
+    {
+      "igdb_id": 209887,
+      "game_name": "Hospital Giant",
+      "file": "missing/H/209887-hospital-giant.json"
     },
     {
       "igdb_id": 54084,
@@ -470040,6 +470170,11 @@
       "igdb_id": 264656,
       "game_name": "HotDog TD",
       "file": "missing/H/264656-hotdog-td.json"
+    },
+    {
+      "igdb_id": 209888,
+      "game_name": "HotDogs HotGals",
+      "file": "missing/H/209888-hotdogs-hotgals.json"
     },
     {
       "igdb_id": 317970,
@@ -552712,9 +552847,19 @@
       "file": "missing/L/92664-learn-math.json"
     },
     {
+      "igdb_id": 209894,
+      "game_name": "Learn Math Advanced",
+      "file": "missing/L/209894-learn-math-advanced.json"
+    },
+    {
       "igdb_id": 367998,
       "game_name": "Learn Programming: Python - Retro",
       "file": "missing/L/367998-learn-programming-python-retro.json"
+    },
+    {
+      "igdb_id": 209895,
+      "game_name": "Learn Science",
+      "file": "missing/L/209895-learn-science.json"
     },
     {
       "igdb_id": 106006,
@@ -552865,6 +553010,11 @@
       "igdb_id": 364673,
       "game_name": "Learning the Ropes",
       "file": "missing/L/364673-learning-the-ropes.json"
+    },
+    {
+      "igdb_id": 209892,
+      "game_name": "Learning to Spell",
+      "file": "missing/L/209892-learning-to-spell.json"
     },
     {
       "igdb_id": 72030,
@@ -558555,6 +558705,11 @@
       "igdb_id": 350967,
       "game_name": "Let's Return Home Together",
       "file": "missing/L/350967-lets-return-home-together.json"
+    },
+    {
+      "igdb_id": 209883,
+      "game_name": "Let's Ride: Horse & Pony",
+      "file": "missing/L/209883-lets-ride-horse-and-pony.json"
     },
     {
       "igdb_id": 72136,
@@ -624272,6 +624427,16 @@
       "file": "missing/M/78055-microsoft-train-simulator-german-railroads-volume-two-fast-railcars-on-the-runway.json"
     },
     {
+      "igdb_id": 209869,
+      "game_name": "Microsoft Train Simulator: Pro Train",
+      "file": "missing/M/209869-microsoft-train-simulator-pro-train.json"
+    },
+    {
+      "igdb_id": 209868,
+      "game_name": "Microsoft Train Simulator: Pro Train II",
+      "file": "missing/M/209868-microsoft-train-simulator-pro-train-ii.json"
+    },
+    {
       "igdb_id": 206666,
       "game_name": "Microsoft Train Simulator: Sandpatch",
       "file": "missing/M/206666-microsoft-train-simulator-sandpatch.json"
@@ -648890,6 +649055,11 @@
       "igdb_id": 250966,
       "game_name": "Mossroot",
       "file": "missing/M/250966-mossroot.json"
+    },
+    {
+      "igdb_id": 209880,
+      "game_name": "Mossy Oak: Hooks & Horns",
+      "file": "missing/M/209880-mossy-oak-hooks-and-horns.json"
     },
     {
       "igdb_id": 270183,
@@ -769497,6 +769667,11 @@
       "file": "missing/P/382344-power-chips.json"
     },
     {
+      "igdb_id": 209910,
+      "game_name": "Power Chips & High Roller",
+      "file": "missing/P/209910-power-chips-and-high-roller.json"
+    },
+    {
       "igdb_id": 332860,
       "game_name": "Power Crisis",
       "file": "missing/P/332860-power-crisis.json"
@@ -769737,6 +769912,11 @@
       "file": "missing/P/40924-power-lords-quest-for-volcan.json"
     },
     {
+      "igdb_id": 209898,
+      "game_name": "Power Math",
+      "file": "missing/P/209898-power-math.json"
+    },
+    {
       "igdb_id": 341464,
       "game_name": "Power Meter",
       "file": "missing/P/341464-power-meter.json"
@@ -769885,6 +770065,11 @@
       "igdb_id": 335080,
       "game_name": "Power Pointer",
       "file": "missing/P/335080-power-pointer.json"
+    },
+    {
+      "igdb_id": 209897,
+      "game_name": "Power Poker",
+      "file": "missing/P/209897-power-poker.json"
     },
     {
       "igdb_id": 76590,
@@ -772392,6 +772577,11 @@
       "file": "missing/P/105554-pretzl-land.json"
     },
     {
+      "igdb_id": 209904,
+      "game_name": "Pretzel Pete",
+      "file": "missing/P/209904-pretzel-pete.json"
+    },
+    {
       "igdb_id": 75194,
       "game_name": "Preventive Strike",
       "file": "missing/P/75194-preventive-strike.json"
@@ -773367,6 +773557,11 @@
       "file": "missing/P/248927-prince-of-persia-classic.json"
     },
     {
+      "igdb_id": 209893,
+      "game_name": "Prince of Persia Collection: Limited Edition",
+      "file": "missing/P/209893-prince-of-persia-collection-limited-edition.json"
+    },
+    {
       "igdb_id": 284854,
       "game_name": "Prince of Persia Retro",
       "file": "missing/P/284854-prince-of-persia-retro.json"
@@ -773760,6 +773955,11 @@
       "igdb_id": 107881,
       "game_name": "Princess Lili",
       "file": "missing/P/107881-princess-lili.json"
+    },
+    {
+      "igdb_id": 209890,
+      "game_name": "Princess Lillifee's Magic Fairy",
+      "file": "missing/P/209890-princess-lillifees-magic-fairy.json"
     },
     {
       "igdb_id": 387346,
@@ -774375,6 +774575,11 @@
       "igdb_id": 382404,
       "game_name": "Prism Wilds",
       "file": "missing/P/382404-prism-wilds.json"
+    },
+    {
+      "igdb_id": 209889,
+      "game_name": "Prism: Guard Shield",
+      "file": "missing/P/209889-prism-guard-shield.json"
     },
     {
       "igdb_id": 20765,
@@ -775457,6 +775662,11 @@
       "file": "missing/P/371609-pro-basketball-manager-2026.json"
     },
     {
+      "igdb_id": 209886,
+      "game_name": "Pro Bass Fishing",
+      "file": "missing/P/209886-pro-bass-fishing.json"
+    },
+    {
       "igdb_id": 27599,
       "game_name": "Pro Bass Fishing 2003",
       "file": "missing/P/27599-pro-bass-fishing-2003.json"
@@ -775470,6 +775680,11 @@
       "igdb_id": 414185,
       "game_name": "Pro Birder",
       "file": "missing/P/414185-pro-birder.json"
+    },
+    {
+      "igdb_id": 209885,
+      "game_name": "Pro Body Boarding",
+      "file": "missing/P/209885-pro-body-boarding.json"
     },
     {
       "igdb_id": 385781,
@@ -776772,6 +776987,21 @@
       "file": "missing/P/16175-professor-fizzwizzle-and-the-molten-mystery.json"
     },
     {
+      "igdb_id": 209877,
+      "game_name": "Professor Fuji's Kakuro",
+      "file": "missing/P/209877-professor-fujis-kakuro.json"
+    },
+    {
+      "igdb_id": 209876,
+      "game_name": "Professor Fuji's Sudoku",
+      "file": "missing/P/209876-professor-fujis-sudoku.json"
+    },
+    {
+      "igdb_id": 209875,
+      "game_name": "Professor Fuji's Sudoku Deluxe",
+      "file": "missing/P/209875-professor-fujis-sudoku-deluxe.json"
+    },
+    {
       "igdb_id": 383156,
       "game_name": "Professor Galaktionov Dawn of the Robopocalypse",
       "file": "missing/P/383156-professor-galaktionov-dawn-of-the-robopocalypse.json"
@@ -776785,6 +777015,16 @@
       "igdb_id": 5109,
       "game_name": "Professor Heinz Wolff's Gravity",
       "file": "missing/P/5109-professor-heinz-wolffs-gravity.json"
+    },
+    {
+      "igdb_id": 209905,
+      "game_name": "Professor Iris' Fun Field Trip: Animal Safari",
+      "file": "missing/P/209905-professor-iris-fun-field-trip-animal-safari.json"
+    },
+    {
+      "igdb_id": 209874,
+      "game_name": "Professor Iris' Fun Field Trip: Seaside Adventure",
+      "file": "missing/P/209874-professor-iris-fun-field-trip-seaside-adventure.json"
     },
     {
       "igdb_id": 1403,
@@ -776930,6 +777170,11 @@
       "igdb_id": 50760,
       "game_name": "Professor Watts: Memory Match",
       "file": "missing/P/50760-professor-watts-memory-match.json"
+    },
+    {
+      "igdb_id": 209907,
+      "game_name": "Professor Wise and His X-Ray Eyes",
+      "file": "missing/P/209907-professor-wise-and-his-x-ray-eyes.json"
     },
     {
       "igdb_id": 294437,
@@ -782175,6 +782420,11 @@
       "igdb_id": 276964,
       "game_name": "PSI: Pressure Climbing",
       "file": "missing/P/276964-psi-pressure-climbing.json"
+    },
+    {
+      "igdb_id": 209865,
+      "game_name": "PSI: Syberian Conflict",
+      "file": "missing/P/209865-psi-syberian-conflict.json"
     },
     {
       "igdb_id": 85352,
