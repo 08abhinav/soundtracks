@@ -5637,6 +5637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nucleuz Underground | 309369 | [309369-nucleuz-underground.json](./309369-nucleuz-underground.json) |
 | Nuclien | 56279 | [56279-nuclien.json](./56279-nuclien.json) |
 | Nude and Afraid: 11 Day Challenge | 270962 | [270962-nude-and-afraid-11-day-challenge.json](./270962-nude-and-afraid-11-day-challenge.json) |
+| Nude Crisis | 211603 | [211603-nude-crisis.json](./211603-nude-crisis.json) |
 | Nudel Tag | 270113 | [270113-nudel-tag.json](./270113-nudel-tag.json) |
 | NudGirls | 298413 | [298413-nudgirls.json](./298413-nudgirls.json) |
 | Nudist Beach Survival Simulator 2 | 171465 | [171465-nudist-beach-survival-simulator-2.json](./171465-nudist-beach-survival-simulator-2.json) |
