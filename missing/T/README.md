@@ -2040,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tatara Kogasa's Surprise Operation | 273948 | [273948-tatara-kogasas-surprise-operation.json](./273948-tatara-kogasas-surprise-operation.json) |
 | Tatari: Curse Road | 293382 | [293382-tatari-curse-road.json](./293382-tatari-curse-road.json) |
 | Tatari: The Arrival | 267101 | [267101-tatari-the-arrival.json](./267101-tatari-the-arrival.json) |
+| Tate's Journey | 253232 | [253232-tates-journey.json](./253232-tates-journey.json) |
 | Tatlone | 415066 | [415066-tatlone.json](./415066-tatlone.json) |
 | Tatoe Sore ga Unmei de Atte mo | 329978 | [329978-tatoe-sore-ga-unmei-de-atte-mo.json](./329978-tatoe-sore-ga-unmei-de-atte-mo.json) |
 | TatouPho Redact | 104546 | [104546-tatoupho-redact.json](./104546-tatoupho-redact.json) |
@@ -5165,6 +5166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Buried Pillars | 397841 | [397841-the-buried-pillars.json](./397841-the-buried-pillars.json) |
 | The Burned Ground | 115701 | [115701-the-burned-ground.json](./115701-the-burned-ground.json) |
 | The Burnt School | 147978 | [147978-the-burnt-school.json](./147978-the-burnt-school.json) |
+| The Burst | 253186 | [253186-the-burst.json](./253186-the-burst.json) |
 | The Bus: Hamburg City | 371245 | [371245-the-bus-hamburg-city.json](./371245-the-bus-hamburg-city.json) |
 | The Busker | 197268 | [197268-the-busker.json](./197268-the-busker.json) |
 | The Bustling World | 286659 | [286659-the-bustling-world.json](./286659-the-bustling-world.json) |
@@ -14529,6 +14531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheFirstClass VR | 74538 | [74538-thefirstclass-vr.json](./74538-thefirstclass-vr.json) |
 | theFisher Online | 120472 | [120472-thefisher-online.json](./120472-thefisher-online.json) |
 | Theft Ride Legacy | 250391 | [250391-theft-ride-legacy.json](./250391-theft-ride-legacy.json) |
+| Theft Ride Legacy: Extended Edition | 253220 | [253220-theft-ride-legacy-extended-edition.json](./253220-theft-ride-legacy-extended-edition.json) |
 | Theft Ride Legacy: Gold Edition | 283160 | [283160-theft-ride-legacy-gold-edition.json](./283160-theft-ride-legacy-gold-edition.json) |
 | TheGunRunner | 89952 | [89952-thegunrunner.json](./89952-thegunrunner.json) |
 | TheHunter Classic | 23636 | [23636-thehunter-classic.json](./23636-thehunter-classic.json) |
