@@ -2806,6 +2806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What is My Name | 305538 | [305538-what-is-my-name.json](./305538-what-is-my-name.json) |
 | What is Older? | 374674 | [374674-what-is-older.json](./374674-what-is-older.json) |
 | What is schlo? | 152010 | [152010-what-is-schlo.json](./152010-what-is-schlo.json) |
+| What is Sleeping in My Room? | 244096 | [244096-what-is-sleeping-in-my-room.json](./244096-what-is-sleeping-in-my-room.json) |
 | What is That Outside | 343233 | [343233-what-is-that-outside.json](./343233-what-is-that-outside.json) |
 | What Is The Ghost | 363512 | [363512-what-is-the-ghost.json](./363512-what-is-the-ghost.json) |
 | What Is This Sorcery | 328451 | [328451-what-is-this-sorcery.json](./328451-what-is-this-sorcery.json) |
@@ -3304,6 +3305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whisker Wanderlust: The Wondrous Journey | 349100 | [349100-whisker-wanderlust-the-wondrous-journey.json](./349100-whisker-wanderlust-the-wondrous-journey.json) |
 | Whisker Wanderlust: Unwritten Chapter | 391183 | [391183-whisker-wanderlust-unwritten-chapter.json](./391183-whisker-wanderlust-unwritten-chapter.json) |
 | Whisker Waters | 266497 | [266497-whisker-waters.json](./266497-whisker-waters.json) |
+| Whisker Witchery | 244098 | [244098-whisker-witchery.json](./244098-whisker-witchery.json) |
 | Whiskered Away | 105385 | [105385-whiskered-away.json](./105385-whiskered-away.json) |
 | Whiskered Away | 196888 | [196888-whiskered-away.json](./196888-whiskered-away.json) |
 | Whiskers | 180237 | [180237-whiskers.json](./180237-whiskers.json) |
@@ -5333,6 +5335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Wickets | 27042 | [27042-wonder-wickets.json](./27042-wonder-wickets.json) |
 | Wonder Witches | 266149 | [266149-wonder-witches.json](./266149-wonder-witches.json) |
 | Wonder Wonder Punch | 273386 | [273386-wonder-wonder-punch.json](./273386-wonder-wonder-punch.json) |
+| Wonder Wool | 244104 | [244104-wonder-wool.json](./244104-wonder-wool.json) |
 | Wonder World | 312547 | [312547-wonder-world.json](./312547-wonder-world.json) |
 | Wonder World Amusement Park | 5286 | [5286-wonder-world-amusement-park.json](./5286-wonder-world-amusement-park.json) |
 | Wonder World Walkers | 173079 | [173079-wonder-world-walkers.json](./173079-wonder-world-walkers.json) |
@@ -5446,6 +5449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wooden Sen'SeY | 10341 | [10341-wooden-sensey.json](./10341-wooden-sensey.json) |
 | WoodHeart | 160160 | [160160-woodheart.json](./160160-woodheart.json) |
 | Woodla: The Tower | 251199 | [251199-woodla-the-tower.json](./251199-woodla-the-tower.json) |
+| Woodland Hike | 244117 | [244117-woodland-hike.json](./244117-woodland-hike.json) |
 | Woodland Isle | 265103 | [265103-woodland-isle.json](./265103-woodland-isle.json) |
 | Woodland Rebels | 385604 | [385604-woodland-rebels.json](./385604-woodland-rebels.json) |
 | Woodland Saga | 136727 | [136727-woodland-saga.json](./136727-woodland-saga.json) |
