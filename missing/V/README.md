@@ -2897,6 +2897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Fight Covid-19 | 147352 | [147352-vr-fight-covid-19.json](./147352-vr-fight-covid-19.json) |
 | VR Fire Emergency Simulation System | 76699 | [76699-vr-fire-emergency-simulation-system.json](./76699-vr-fire-emergency-simulation-system.json) |
 | VR Fishtank | 244772 | [244772-vr-fishtank.json](./244772-vr-fishtank.json) |
+| VR Fitness | 245713 | [245713-vr-fitness.json](./245713-vr-fitness.json) |
 | VR Fitness | 52093 | [52093-vr-fitness.json](./52093-vr-fitness.json) |
 | VR Fitness: R18 DLC | 275820 | [275820-vr-fitness-r18-dlc.json](./275820-vr-fitness-r18-dlc.json) |
 | VR Flush | 104134 | [104134-vr-flush.json](./104134-vr-flush.json) |
