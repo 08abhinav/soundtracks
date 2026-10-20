@@ -341,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jam League Basketball | 237375 | [237375-jam-league-basketball.json](./237375-jam-league-basketball.json) |
 | JAM Live Music Arcade | 98873 | [98873-jam-live-music-arcade.json](./98873-jam-live-music-arcade.json) |
 | Jam Scrapz Collection | 226853 | [226853-jam-scrapz-collection.json](./226853-jam-scrapz-collection.json) |
+| Jam Scrapz Collection: Gene-Soldier | 237802 | [237802-jam-scrapz-collection-gene-soldier.json](./237802-jam-scrapz-collection-gene-soldier.json) |
 | Jam Scrapz Collection: Valentide! II | 289920 | [289920-jam-scrapz-collection-valentide-ii.json](./289920-jam-scrapz-collection-valentide-ii.json) |
 | Jam Session VR | 75822 | [75822-jam-session-vr.json](./75822-jam-session-vr.json) |
 | JAM sessions | 47925 | [47925-jam-sessions.json](./47925-jam-sessions.json) |
