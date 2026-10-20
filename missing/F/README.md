@@ -8316,6 +8316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragor Portum | 274432 | [274432-fragor-portum.json](./274432-fragor-portum.json) |
 | Fragport | 260956 | [260956-fragport.json](./260956-fragport.json) |
 | FragPunk: Toys Awaken - Season 2: Chapter 2 | 362276 | [362276-fragpunk-toys-awaken-season-2-chapter-2.json](./362276-fragpunk-toys-awaken-season-2-chapter-2.json) |
+| Fragrance Point | 252543 | [252543-fragrance-point.json](./252543-fragrance-point.json) |
 | Fragrance Tale | 58175 | [58175-fragrance-tale.json](./58175-fragrance-tale.json) |
 | Fragrant Story | 198257 | [198257-fragrant-story.json](./198257-fragrant-story.json) |
 | Fragrant Story and Papaya's Path | 315832 | [315832-fragrant-story-and-papayas-path.json](./315832-fragrant-story-and-papayas-path.json) |
