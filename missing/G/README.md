@@ -3964,6 +3964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomes Garden: Mask of the Rat King | 420582 | [420582-gnomes-garden-mask-of-the-rat-king.json](./420582-gnomes-garden-mask-of-the-rat-king.json) |
 | Gnomes Garden: Mask of the Rat King - Collector's Edition | 383042 | [383042-gnomes-garden-mask-of-the-rat-king-collectors-edition.json](./383042-gnomes-garden-mask-of-the-rat-king-collectors-edition.json) |
 | Gnomes Garden: Return of the Queen | 163832 | [163832-gnomes-garden-return-of-the-queen.json](./163832-gnomes-garden-return-of-the-queen.json) |
+| Gnomes Garden: The Lost King | 244101 | [244101-gnomes-garden-the-lost-king.json](./244101-gnomes-garden-the-lost-king.json) |
 | Gnomes Solitaire | 195589 | [195589-gnomes-solitaire.json](./195589-gnomes-solitaire.json) |
 | Gnomes Vs. Fairies | 34349 | [34349-gnomes-vs-fairies.json](./34349-gnomes-vs-fairies.json) |
 | Gnomes Vs. Fairies: Greckel's Quest | 53078 | [53078-gnomes-vs-fairies-greckels-quest.json](./53078-gnomes-vs-fairies-greckels-quest.json) |
@@ -4896,6 +4897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Guys: Party | 277902 | [277902-golf-guys-party.json](./277902-golf-guys-party.json) |
 | Golf Guys: Party Edition | 297300 | [297300-golf-guys-party-edition.json](./297300-golf-guys-party-edition.json) |
 | Golf Guys: Space | 277901 | [277901-golf-guys-space.json](./277901-golf-guys-space.json) |
+| Golf Hero | 244106 | [244106-golf-hero.json](./244106-golf-hero.json) |
 | Golf in Paper | 117115 | [117115-golf-in-paper.json](./117115-golf-in-paper.json) |
 | Golf In Wonderland | 320024 | [320024-golf-in-wonderland.json](./320024-golf-in-wonderland.json) |
 | Golf is Hard | 237963 | [237963-golf-is-hard.json](./237963-golf-is-hard.json) |
