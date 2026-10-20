@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D-Virus: Devilnitive Edition | 259847 | [259847-d-virus-devilnitive-edition.json](./259847-d-virus-devilnitive-edition.json) |
 | D-Virus: Evil Menance | 259846 | [259846-d-virus-evil-menance.json](./259846-d-virus-evil-menance.json) |
 | D-War | 252133 | [252133-d-war.json](./252133-d-war.json) |
+| D-World Gate | 247881 | [247881-d-world-gate.json](./247881-d-world-gate.json) |
 | D-Xhird | 46668 | [46668-d-xhird.json](./46668-d-xhird.json) |
 | D. D. Crew | 39864 | [39864-d-d-crew.json](./39864-d-d-crew.json) |
 | D. Jump | 91952 | [91952-d-jump.json](./91952-d-jump.json) |
@@ -4529,6 +4530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delusion | 127698 | [127698-delusion.json](./127698-delusion.json) |
 | Delusion | 302735 | [302735-delusion.json](./302735-delusion.json) |
 | Delusion Gallery | 178607 | [178607-delusion-gallery.json](./178607-delusion-gallery.json) |
+| Delusion Out of Space | 247891 | [247891-delusion-out-of-space.json](./247891-delusion-out-of-space.json) |
 | Delusional | 377584 | [377584-delusional.json](./377584-delusional.json) |
 | Deluxe Free Cell Solitaire | 86899 | [86899-deluxe-free-cell-solitaire.json](./86899-deluxe-free-cell-solitaire.json) |
 | Deluxe Galaga | 39026 | [39026-deluxe-galaga.json](./39026-deluxe-galaga.json) |
@@ -12380,6 +12382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Gladiator | 154057 | [154057-drone-gladiator.json](./154057-drone-gladiator.json) |
 | Drone Investigations | 127866 | [127866-drone-investigations.json](./127866-drone-investigations.json) |
 | Drone Lander | 23859 | [23859-drone-lander.json](./23859-drone-lander.json) |
+| Drone Operator | 247902 | [247902-drone-operator.json](./247902-drone-operator.json) |
 | Drone Perspective | 285941 | [285941-drone-perspective.json](./285941-drone-perspective.json) |
 | Drone Race Simulator | 228018 | [228018-drone-race-simulator.json](./228018-drone-race-simulator.json) |
 | Drone Race Simulator Pilot Flight School Airplane Games Jet 2023 | 227515 | [227515-drone-race-simulator-pilot-flight-school-airplane-games-jet-2023.json](./227515-drone-race-simulator-pilot-flight-school-airplane-games-jet-2023.json) |
