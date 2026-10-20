@@ -3943,6 +3943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Party: Secret Garden | 371251 | [371251-hentai-party-secret-garden.json](./371251-hentai-party-secret-garden.json) |
 | Hentai Party: Summer Paradise | 371249 | [371249-hentai-party-summer-paradise.json](./371249-hentai-party-summer-paradise.json) |
 | Hentai Pazu | 219039 | [219039-hentai-pazu.json](./219039-hentai-pazu.json) |
+| Hentai Petting Simulator | 230135 | [230135-hentai-petting-simulator.json](./230135-hentai-petting-simulator.json) |
 | Hentai Phoebe | 340443 | [340443-hentai-phoebe.json](./340443-hentai-phoebe.json) |
 | Hentai Photo: Ajisai | 362210 | [362210-hentai-photo-ajisai.json](./362210-hentai-photo-ajisai.json) |
 | Hentai Photo: Kaneshon | 362368 | [362368-hentai-photo-kaneshon.json](./362368-hentai-photo-kaneshon.json) |
@@ -8203,6 +8204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Flipper 2: Scooby-Doo | 347894 | [347894-house-flipper-2-scooby-doo.json](./347894-house-flipper-2-scooby-doo.json) |
 | House Flipper 2: Special Edition | 282056 | [282056-house-flipper-2-special-edition.json](./282056-house-flipper-2-special-edition.json) |
 | House Flipper Hairdreser Bundle | 312839 | [312839-house-flipper-hairdreser-bundle.json](./312839-house-flipper-hairdreser-bundle.json) |
+| House Flipper Pets VR | 230153 | [230153-house-flipper-pets-vr.json](./230153-house-flipper-pets-vr.json) |
 | House Flipper Simulator | 174666 | [174666-house-flipper-simulator.json](./174666-house-flipper-simulator.json) |
 | House Flipper VR | 129209 | [129209-house-flipper-vr.json](./129209-house-flipper-vr.json) |
 | House Flipper: Apocalypse | 165990 | [165990-house-flipper-apocalypse.json](./165990-house-flipper-apocalypse.json) |
@@ -9354,6 +9356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Mega 256-in-1 | 332211 | [332211-hyper-mega-256-in-1.json](./332211-hyper-mega-256-in-1.json) |
 | Hyper Metroid Super | 349938 | [349938-hyper-metroid-super.json](./349938-hyper-metroid-super.json) |
 | Hyper Mirror Run | 275088 | [275088-hyper-mirror-run.json](./275088-hyper-mirror-run.json) |
+| Hyper Mum Ft Adult Gaming | 230122 | [230122-hyper-mum-ft-adult-gaming.json](./230122-hyper-mum-ft-adult-gaming.json) |
 | Hyper Olympic | 278484 | [278484-hyper-olympic.json](./278484-hyper-olympic.json) |
 | Hyper Olympic '84 Vol. 1 | 98245 | [98245-hyper-olympic-84-vol-1.json](./98245-hyper-olympic-84-vol-1.json) |
 | Hyper Olympic '84 Vol. 2 | 98246 | [98246-hyper-olympic-84-vol-2.json](./98246-hyper-olympic-84-vol-2.json) |
