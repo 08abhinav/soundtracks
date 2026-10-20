@@ -1205,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys DS | 112195 | [112195-ys-ds.json](./112195-ys-ds.json) |
 | Ys Foliage Ocean in Celceta: Kai | 288377 | [288377-ys-foliage-ocean-in-celceta-kai.json](./288377-ys-foliage-ocean-in-celceta-kai.json) |
 | Ys I Chronicals | 410166 | [410166-ys-i-chronicals.json](./410166-ys-i-chronicals.json) |
+| Ys II | 206537 | [206537-ys-ii.json](./206537-ys-ii.json) |
 | Ys II Chronicals | 410167 | [410167-ys-ii-chronicals.json](./410167-ys-ii-chronicals.json) |
 | Ys II DS | 112196 | [112196-ys-ii-ds.json](./112196-ys-ii-ds.json) |
 | Ys II: Ancient Ys Vanished - The Final Chapter | 15449 | [15449-ys-ii-ancient-ys-vanished-the-final-chapter.json](./15449-ys-ii-ancient-ys-vanished-the-final-chapter.json) |
@@ -1547,6 +1548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yunoia | 249649 | [249649-yunoia.json](./249649-yunoia.json) |
 | Yunyun Syndrome!?: Rhythm Psychosis | 302655 | [302655-yunyun-syndrome-rhythm-psychosis.json](./302655-yunyun-syndrome-rhythm-psychosis.json) |
 | Yuoni | 146806 | [146806-yuoni.json](./146806-yuoni.json) |
+| Yuoni | 206573 | [206573-yuoni.json](./206573-yuoni.json) |
 | Yupi | 153394 | [153394-yupi.json](./153394-yupi.json) |
 | Yupitergrad | 142438 | [142438-yupitergrad.json](./142438-yupitergrad.json) |
 | Yupitergrad 2: The Lost Station | 202106 | [202106-yupitergrad-2-the-lost-station.json](./202106-yupitergrad-2-the-lost-station.json) |
