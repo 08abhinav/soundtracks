@@ -5506,6 +5506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide and Seek | 361342 | [361342-hide-and-seek.json](./361342-hide-and-seek.json) |
 | Hide and Seek | 57570 | [57570-hide-and-seek.json](./57570-hide-and-seek.json) |
 | Hide And Seek | 296416 | [296416-hide-and-seek.json](./296416-hide-and-seek.json) |
+| Hide and Seek 2: Story of Demian | 254293 | [254293-hide-and-seek-2-story-of-demian.json](./254293-hide-and-seek-2-story-of-demian.json) |
 | Hide and Seek: Story of Dorothy | 151578 | [151578-hide-and-seek-story-of-dorothy.json](./151578-hide-and-seek-story-of-dorothy.json) |
 | Hide and Seek: Toilet Monster | 273949 | [273949-hide-and-seek-toilet-monster.json](./273949-hide-and-seek-toilet-monster.json) |
 | Hide and Sink | 410928 | [410928-hide-and-sink.json](./410928-hide-and-sink.json) |
@@ -7934,6 +7935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels: Extreme Racing | 45058 | [45058-hot-wheels-extreme-racing.json](./45058-hot-wheels-extreme-racing.json) |
 | Hot Wheels: Jetz | 166206 | [166206-hot-wheels-jetz.json](./166206-hot-wheels-jetz.json) |
 | Hot Wheels: Mechanix | 70991 | [70991-hot-wheels-mechanix.json](./70991-hot-wheels-mechanix.json) |
+| Hot Wheels: Rift Rally | 254347 | [254347-hot-wheels-rift-rally.json](./254347-hot-wheels-rift-rally.json) |
 | Hot Wheels: Stunt Track Challenge | 248755 | [248755-hot-wheels-stunt-track-challenge.json](./248755-hot-wheels-stunt-track-challenge.json) |
 | Hot Wheels: Track Attack | 328299 | [328299-hot-wheels-track-attack.json](./328299-hot-wheels-track-attack.json) |
 | Hot Wheels: Ultimate Racing | 44482 | [44482-hot-wheels-ultimate-racing.json](./44482-hot-wheels-ultimate-racing.json) |
