@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walk Your Friends Back Home | 208267 | [208267-walk-your-friends-back-home.json](./208267-walk-your-friends-back-home.json) |
 | Walk Zero1 | 329364 | [329364-walk-zero1.json](./329364-walk-zero1.json) |
 | Walkabout Mini Golf | 142095 | [142095-walkabout-mini-golf.json](./142095-walkabout-mini-golf.json) |
+| Walkabout Mini Golf: 20,000 Leagues Under the Sea | 220525 | [220525-walkabout-mini-golf-20-000-leagues-under-the-sea.json](./220525-walkabout-mini-golf-20-000-leagues-under-the-sea.json) |
 | Walkabout Mini Golf: Alice's Adventures in Wonderland | 380577 | [380577-walkabout-mini-golf-alices-adventures-in-wonderland.json](./380577-walkabout-mini-golf-alices-adventures-in-wonderland.json) |
 | Walkabout Mini Golf: Atlantis | 232952 | [232952-walkabout-mini-golf-atlantis.json](./232952-walkabout-mini-golf-atlantis.json) |
 | Walkabout Mini Golf: Blokhaven | 408259 | [408259-walkabout-mini-golf-blokhaven.json](./408259-walkabout-mini-golf-blokhaven.json) |
@@ -465,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wander in Wonder | 272494 | [272494-wander-in-wonder.json](./272494-wander-in-wonder.json) |
 | Wander Scoop | 384335 | [384335-wander-scoop.json](./384335-wander-scoop.json) |
 | Wander Vehicles: Doggybone Daisakusen | 208853 | [208853-wander-vehicles-doggybone-daisakusen.json](./208853-wander-vehicles-doggybone-daisakusen.json) |
+| Wander Vyrosa | 220527 | [220527-wander-vyrosa.json](./220527-wander-vyrosa.json) |
 | Wander Wonder | 237514 | [237514-wander-wonder.json](./237514-wander-wonder.json) |
 | Wanderburg | 348047 | [348047-wanderburg.json](./348047-wanderburg.json) |
 | Wanderdawn | 407164 | [407164-wanderdawn.json](./407164-wanderdawn.json) |
@@ -522,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanderlust: The Magnificent Journey | 346600 | [346600-wanderlust-the-magnificent-journey.json](./346600-wanderlust-the-magnificent-journey.json) |
 | Wanderlust: Transsiberian | 132503 | [132503-wanderlust-transsiberian.json](./132503-wanderlust-transsiberian.json) |
 | Wandersky | 383709 | [383709-wandersky.json](./383709-wandersky.json) |
+| WanderVR | 220526 | [220526-wandervr.json](./220526-wandervr.json) |
 | Wandfall | 377247 | [377247-wandfall.json](./377247-wandfall.json) |
 | Wandness | 298158 | [298158-wandness.json](./298158-wandness.json) |
 | Wandrill | 348789 | [348789-wandrill.json](./348789-wandrill.json) |
@@ -611,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Along the Mohawk | 62246 | [62246-war-along-the-mohawk.json](./62246-war-along-the-mohawk.json) |
 | War and Empires | 187264 | [187264-war-and-empires.json](./187264-war-and-empires.json) |
 | War and Magic | 125354 | [125354-war-and-magic.json](./125354-war-and-magic.json) |
+| War and Peace | 220528 | [220528-war-and-peace.json](./220528-war-and-peace.json) |
 | War and Peace | 253332 | [253332-war-and-peace.json](./253332-war-and-peace.json) |
 | War and Peace: 1796 - 1815 | 205915 | [205915-war-and-peace-1796-1815.json](./205915-war-and-peace-1796-1815.json) |
 | War and Politics | 374806 | [374806-war-and-politics.json](./374806-war-and-politics.json) |
@@ -759,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Zanzor III: Birth of Unity | 301825 | [301825-war-of-zanzor-iii-birth-of-unity.json](./301825-war-of-zanzor-iii-birth-of-unity.json) |
 | War on Drugs VR | 96513 | [96513-war-on-drugs-vr.json](./96513-war-on-drugs-vr.json) |
 | War on the Street | 238369 | [238369-war-on-the-street.json](./238369-war-on-the-street.json) |
+| War Operation: Full Contact | 220530 | [220530-war-operation-full-contact.json](./220530-war-operation-full-contact.json) |
 | War Operations | 17715 | [17715-war-operations.json](./17715-war-operations.json) |
 | War Over the Mideast | 59309 | [59309-war-over-the-mideast.json](./59309-war-over-the-mideast.json) |
 | War Over Vietnam | 59306 | [59306-war-over-vietnam.json](./59306-war-over-vietnam.json) |
@@ -1295,6 +1300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warkanoid | 61429 | [61429-warkanoid.json](./61429-warkanoid.json) |
 | Warkanoid II: Wildlife | 122851 | [122851-warkanoid-ii-wildlife.json](./122851-warkanoid-ii-wildlife.json) |
 | Warkestra | 275336 | [275336-warkestra.json](./275336-warkestra.json) |
+| WarKind | 220529 | [220529-warkind.json](./220529-warkind.json) |
 | Warlander | 116684 | [116684-warlander.json](./116684-warlander.json) |
 | Warlander | 215835 | [215835-warlander.json](./215835-warlander.json) |
 | Warlanes | 301264 | [301264-warlanes.json](./301264-warlanes.json) |
@@ -1670,7 +1676,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waste Cleaner | 61614 | [61614-waste-cleaner.json](./61614-waste-cleaner.json) |
 | Waste Eater | 231791 | [231791-waste-eater.json](./231791-waste-eater.json) |
 | Waste in Space | 248651 | [248651-waste-in-space.json](./248651-waste-in-space.json) |
+| Waste It | 220531 | [220531-waste-it.json](./220531-waste-it.json) |
 | Waste Labs | 256704 | [256704-waste-labs.json](./256704-waste-labs.json) |
+| Waste Life 1 | 220532 | [220532-waste-life-1.json](./220532-waste-life-1.json) |
 | Waste recycling | 183368 | [183368-waste-recycling.json](./183368-waste-recycling.json) |
 | Waste The Fallen | 413735 | [413735-waste-the-fallen.json](./413735-waste-the-fallen.json) |
 | Waste Time Lotto | 338391 | [338391-waste-time-lotto.json](./338391-waste-time-lotto.json) |
