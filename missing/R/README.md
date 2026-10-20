@@ -3123,6 +3123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redd War: Turnabout | 318805 | [318805-redd-war-turnabout.json](./318805-redd-war-turnabout.json) |
 | Redden | 83576 | [83576-redden.json](./83576-redden.json) |
 | Reddie and the Redirected Walker: Module 01 - Alpha | 267261 | [267261-reddie-and-the-redirected-walker-module-01-alpha.json](./267261-reddie-and-the-redirected-walker-module-01-alpha.json) |
+| Reddoor | 213205 | [213205-reddoor.json](./213205-reddoor.json) |
 | Redeemart: A Convenient Apocalypse | 226448 | [226448-redeemart-a-convenient-apocalypse.json](./226448-redeemart-a-convenient-apocalypse.json) |
 | Redeemer's Run | 264562 | [264562-redeemers-run.json](./264562-redeemers-run.json) |
 | Redemption | 301064 | [301064-redemption.json](./301064-redemption.json) |
@@ -4521,6 +4522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Garbage | 62675 | [62675-retro-garbage.json](./62675-retro-garbage.json) |
 | Retro Geek Shop Simulator | 348968 | [348968-retro-geek-shop-simulator.json](./348968-retro-geek-shop-simulator.json) |
 | Retro Glitch | 364636 | [364636-retro-glitch.json](./364636-retro-glitch.json) |
+| Retro Goal | 213252 | [213252-retro-goal.json](./213252-retro-goal.json) |
 | Retro Golden Age: Goody | 241856 | [241856-retro-golden-age-goody.json](./241856-retro-golden-age-goody.json) |
 | Retro Golden Age: Livingstone I Presume | 196052 | [196052-retro-golden-age-livingstone-i-presume.json](./196052-retro-golden-age-livingstone-i-presume.json) |
 | Retro Golden Age: Operation Alexandra | 235110 | [235110-retro-golden-age-operation-alexandra.json](./235110-retro-golden-age-operation-alexandra.json) |
@@ -6409,6 +6411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road to Mechalopolis | 413009 | [413009-road-to-mechalopolis.json](./413009-road-to-mechalopolis.json) |
 | Road to Morrow | 172669 | [172669-road-to-morrow.json](./172669-road-to-morrow.json) |
 | Road to Moscow | 25613 | [25613-road-to-moscow.json](./25613-road-to-moscow.json) |
+| Road to Newtopia | 213250 | [213250-road-to-newtopia.json](./213250-road-to-newtopia.json) |
 | Road to Olympus | 345974 | [345974-road-to-olympus.json](./345974-road-to-olympus.json) |
 | Road to Salvation | 245742 | [245742-road-to-salvation.json](./245742-road-to-salvation.json) |
 | Road to Scrubville: A Bijuu Mike Fangame | 230254 | [230254-road-to-scrubville-a-bijuu-mike-fangame.json](./230254-road-to-scrubville-a-bijuu-mike-fangame.json) |
@@ -8536,6 +8539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roulette VIP | 256252 | [256252-roulette-vip.json](./256252-roulette-vip.json) |
 | Round 99 | 140300 | [140300-round-99.json](./140300-round-99.json) |
 | Round About | 25858 | [25858-round-about.json](./25858-round-about.json) |
+| Round Invaders Red | 213231 | [213231-round-invaders-red.json](./213231-round-invaders-red.json) |
 | Round Invaders Rush | 209918 | [209918-round-invaders-rush.json](./209918-round-invaders-rush.json) |
 | Round Invaders Rush 2 | 214039 | [214039-round-invaders-rush-2.json](./214039-round-invaders-rush-2.json) |
 | Round Mars | 93783 | [93783-round-mars.json](./93783-round-mars.json) |
