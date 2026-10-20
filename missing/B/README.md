@@ -4876,6 +4876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Benefitship | 264022 | [264022-benefitship.json](./264022-benefitship.json) |
 | Bengal | 205121 | [205121-bengal.json](./205121-bengal.json) |
 | Bengan Box | 383598 | [383598-bengan-box.json](./383598-bengan-box.json) |
+| Bengan Yes | 228939 | [228939-bengan-yes.json](./228939-bengan-yes.json) |
 | Bengarachou Hakubutsushi | 254611 | [254611-bengarachou-hakubutsushi.json](./254611-bengarachou-hakubutsushi.json) |
 | Bengbo | 257104 | [257104-bengbo.json](./257104-bengbo.json) |
 | Benighted | 226251 | [226251-benighted.json](./226251-benighted.json) |
@@ -7032,6 +7033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacklode | 416674 | [416674-blacklode.json](./416674-blacklode.json) |
 | Blackmoon Prophecy II | 222977 | [222977-blackmoon-prophecy-ii.json](./222977-blackmoon-prophecy-ii.json) |
 | Blackmoor 2: The Traitor King | 130791 | [130791-blackmoor-2-the-traitor-king.json](./130791-blackmoor-2-the-traitor-king.json) |
+| BlackMUD | 228900 | [228900-blackmud.json](./228900-blackmud.json) |
 | Blackout | 148342 | [148342-blackout.json](./148342-blackout.json) |
 | Blackout | 162428 | [162428-blackout.json](./162428-blackout.json) |
 | Blackout | 221817 | [221817-blackout.json](./221817-blackout.json) |
@@ -11935,6 +11937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Thorns: West Gate | 158058 | [158058-broken-thorns-west-gate.json](./158058-broken-thorns-west-gate.json) |
 | Broken Ties | 96684 | [96684-broken-ties.json](./96684-broken-ties.json) |
 | Broken Universe + Brawl Chess | 231362 | [231362-broken-universe-brawl-chess.json](./231362-broken-universe-brawl-chess.json) |
+| Broken Universe + Clumsy Rush | 228938 | [228938-broken-universe-clumsy-rush.json](./228938-broken-universe-clumsy-rush.json) |
 | Broken Voyage | 405471 | [405471-broken-voyage.json](./405471-broken-voyage.json) |
 | Broken War | 309136 | [309136-broken-war.json](./309136-broken-war.json) |
 | Broken World | 170244 | [170244-broken-world.json](./170244-broken-world.json) |
