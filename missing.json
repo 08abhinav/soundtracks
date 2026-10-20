@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:39:58.342Z",
-  "total_missing": 239438,
+  "generated_at": "2026-10-20T21:45:06.559Z",
+  "total_missing": 239420,
   "games": [
     {
       "igdb_id": 191680,
@@ -28865,11 +28865,6 @@
       "igdb_id": 28900,
       "game_name": "Aftergrinder",
       "file": "missing/A/28900-aftergrinder.json"
-    },
-    {
-      "igdb_id": 185642,
-      "game_name": "Afterimage",
-      "file": "missing/A/185642-afterimage.json"
     },
     {
       "igdb_id": 234215,
@@ -232962,11 +232957,6 @@
       "file": "missing/D/155057-dandara-trials-of-fear-enhanced-edition.json"
     },
     {
-      "igdb_id": 129536,
-      "game_name": "Dandara: Trials of Fear Edition",
-      "file": "missing/D/129536-dandara-trials-of-fear-edition.json"
-    },
-    {
       "igdb_id": 181343,
       "game_name": "Dandelion",
       "file": "missing/D/181343-dandelion.json"
@@ -256535,11 +256525,6 @@
       "igdb_id": 410454,
       "game_name": "Desktop Driller",
       "file": "missing/D/410454-desktop-driller.json"
-    },
-    {
-      "igdb_id": 8998,
-      "game_name": "Desktop Dungeons",
-      "file": "missing/D/8998-desktop-dungeons.json"
     },
     {
       "igdb_id": 213510,
@@ -815712,11 +815697,6 @@
       "file": "missing/R/10236-republic-the-revolution.json"
     },
     {
-      "igdb_id": 17719,
-      "game_name": "République",
-      "file": "missing/R/17719-republique.json"
-    },
-    {
       "igdb_id": 159154,
       "game_name": "République VR",
       "file": "missing/R/159154-republique-vr.json"
@@ -838670,11 +838650,6 @@
       "igdb_id": 253608,
       "game_name": "RoundRunners Playground",
       "file": "missing/R/253608-roundrunners-playground.json"
-    },
-    {
-      "igdb_id": 145341,
-      "game_name": "Rounds",
-      "file": "missing/R/145341-rounds.json"
     },
     {
       "igdb_id": 230794,
@@ -877932,11 +877907,6 @@
       "file": "missing/S/313892-ship-of-dreams.json"
     },
     {
-      "igdb_id": 194741,
-      "game_name": "Ship of Fools",
-      "file": "missing/S/194741-ship-of-fools.json"
-    },
-    {
       "igdb_id": 277906,
       "game_name": "Ship of Fools: Aquapocalypse Edition",
       "file": "missing/S/277906-ship-of-fools-aquapocalypse-edition.json"
@@ -889750,11 +889720,6 @@
       "igdb_id": 331709,
       "game_name": "Size Matters!",
       "file": "missing/S/331709-size-matters.json"
-    },
-    {
-      "igdb_id": 139605,
-      "game_name": "Sizeable",
-      "file": "missing/S/139605-sizeable.json"
     },
     {
       "igdb_id": 257433,
@@ -946897,19 +946862,9 @@
       "file": "missing/S/67258-still-sword-for-adult.json"
     },
     {
-      "igdb_id": 119886,
-      "game_name": "Still There",
-      "file": "missing/S/119886-still-there.json"
-    },
-    {
       "igdb_id": 69244,
       "game_name": "Still Time",
       "file": "missing/S/69244-still-time.json"
-    },
-    {
-      "igdb_id": 349523,
-      "game_name": "Still Wakes the Deep: Siren's Rest",
-      "file": "missing/S/349523-still-wakes-the-deep-sirens-rest.json"
     },
     {
       "igdb_id": 405745,
@@ -986727,11 +986682,6 @@
       "file": "missing/T/170367-tales-of-glory-2-retaliation.json"
     },
     {
-      "igdb_id": 1211,
-      "game_name": "Tales of Graces",
-      "file": "missing/T/1211-tales-of-graces.json"
-    },
-    {
       "igdb_id": 20444,
       "game_name": "Tales of Graces f",
       "file": "missing/T/20444-tales-of-graces-f.json"
@@ -995460,11 +995410,6 @@
       "igdb_id": 1234,
       "game_name": "Tekken 5: Dark Resurrection Online",
       "file": "missing/T/1234-tekken-5-dark-resurrection-online.json"
-    },
-    {
-      "igdb_id": 1236,
-      "game_name": "Tekken 6",
-      "file": "missing/T/1236-tekken-6.json"
     },
     {
       "igdb_id": 272551,
@@ -1022842,11 +1022787,6 @@
       "file": "missing/T/188677-the-house-of-big-people.json"
     },
     {
-      "igdb_id": 132542,
-      "game_name": "The House of Da Vinci 2",
-      "file": "missing/T/132542-the-house-of-da-vinci-2.json"
-    },
-    {
       "igdb_id": 197081,
       "game_name": "The House of Da Vinci 3",
       "file": "missing/T/197081-the-house-of-da-vinci-3.json"
@@ -1023880,11 +1023820,6 @@
       "igdb_id": 4928,
       "game_name": "The Incredible Hulk",
       "file": "missing/T/4928-the-incredible-hulk.json"
-    },
-    {
-      "igdb_id": 94829,
-      "game_name": "The Incredible Hulk",
-      "file": "missing/T/94829-the-incredible-hulk.json"
     },
     {
       "igdb_id": 45512,
@@ -1028280,11 +1028215,6 @@
       "igdb_id": 287643,
       "game_name": "The Last Sorrow",
       "file": "missing/T/287643-the-last-sorrow.json"
-    },
-    {
-      "igdb_id": 121501,
-      "game_name": "The Last Spell",
-      "file": "missing/T/121501-the-last-spell.json"
     },
     {
       "igdb_id": 111473,
@@ -1095407,11 +1095337,6 @@
       "file": "missing/T/1525-trauma-center-new-blood.json"
     },
     {
-      "igdb_id": 1524,
-      "game_name": "Trauma Center: Second Opinion",
-      "file": "missing/T/1524-trauma-center-second-opinion.json"
-    },
-    {
       "igdb_id": 409415,
       "game_name": "Trauma Pets",
       "file": "missing/T/409415-trauma-pets.json"
@@ -1124310,11 +1124235,6 @@
       "igdb_id": 130226,
       "game_name": "Valiant Gears",
       "file": "missing/V/130226-valiant-gears.json"
-    },
-    {
-      "igdb_id": 228521,
-      "game_name": "Valiant Hearts: Coming Home",
-      "file": "missing/V/228521-valiant-hearts-coming-home.json"
     },
     {
       "igdb_id": 290111,
@@ -1157552,11 +1157472,6 @@
       "file": "missing/W/336393-whos-who-2-0.json"
     },
     {
-      "igdb_id": 15746,
-      "game_name": "Who's Your Daddy",
-      "file": "missing/W/15746-whos-your-daddy.json"
-    },
-    {
       "igdb_id": 181664,
       "game_name": "Who's Your Weapon",
       "file": "missing/W/181664-whos-your-weapon.json"
@@ -1164480,11 +1164395,6 @@
       "igdb_id": 71038,
       "game_name": "Wizard Willy",
       "file": "missing/W/71038-wizard-willy.json"
-    },
-    {
-      "igdb_id": 152204,
-      "game_name": "Wizard With a Gun",
-      "file": "missing/W/152204-wizard-with-a-gun.json"
     },
     {
       "igdb_id": 293391,
