@@ -2089,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Past Apparitions | 383499 | [383499-past-apparitions.json](./383499-past-apparitions.json) |
 | Past Due | 96232 | [96232-past-due.json](./96232-past-due.json) |
 | Past Fate | 123029 | [123029-past-fate.json](./123029-past-fate.json) |
+| Past For Future | 244110 | [244110-past-for-future.json](./244110-past-for-future.json) |
 | Past Hope | 326672 | [326672-past-hope.json](./326672-past-hope.json) |
 | Past Memories | 266830 | [266830-past-memories.json](./266830-past-memories.json) |
 | Past Memos | 267827 | [267827-past-memos.json](./267827-past-memos.json) |
@@ -12654,6 +12655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pteranodon | 260700 | [260700-pteranodon.json](./260700-pteranodon.json) |
 | Pteranodon 2: Primal Island | 275722 | [275722-pteranodon-2-primal-island.json](./275722-pteranodon-2-primal-island.json) |
 | Pteranodon's Flight: The Flying Dinosaur Game | 151012 | [151012-pteranodons-flight-the-flying-dinosaur-game.json](./151012-pteranodons-flight-the-flying-dinosaur-game.json) |
+| Ptero Pursuit | 244099 | [244099-ptero-pursuit.json](./244099-ptero-pursuit.json) |
 | Pterodactyl Attack | 284910 | [284910-pterodactyl-attack.json](./284910-pterodactyl-attack.json) |
 | Pteroglider | 93590 | [93590-pteroglider.json](./93590-pteroglider.json) |
 | Ptolem's Singing Catacombs | 374177 | [374177-ptolems-singing-catacombs.json](./374177-ptolems-singing-catacombs.json) |
