@@ -4773,6 +4773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Réussir: Code de la Route - Nouvelle Edition: French Highway Code | 227127 | [227127-reussir-code-de-la-route-nouvelle-edition-french-highway-code.json](./227127-reussir-code-de-la-route-nouvelle-edition-french-highway-code.json) |
 | Rev Grav | 322065 | [322065-rev-grav.json](./322065-rev-grav.json) |
 | Rev Limit | 231509 | [231509-rev-limit.json](./231509-rev-limit.json) |
+| Rev to Vertex | 211604 | [211604-rev-to-vertex.json](./211604-rev-to-vertex.json) |
 | Rev. Noir | 389436 | [389436-rev-noir.json](./389436-rev-noir.json) |
 | Rev'd Up Racing | 312195 | [312195-revd-up-racing.json](./312195-revd-up-racing.json) |
 | Revamped | 260216 | [260216-revamped.json](./260216-revamped.json) |
@@ -5933,6 +5934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Queendom | 255119 | [255119-rise-of-queendom.json](./255119-rise-of-queendom.json) |
 | Rise of Ragnarok - Asunder | 83884 | [83884-rise-of-ragnarok-asunder.json](./83884-rise-of-ragnarok-asunder.json) |
 | Rise of Rana | 362359 | [362359-rise-of-rana.json](./362359-rise-of-rana.json) |
+| Rise of Rebellion | 211568 | [211568-rise-of-rebellion.json](./211568-rise-of-rebellion.json) |
 | Rise of Robots | 301043 | [301043-rise-of-robots.json](./301043-rise-of-robots.json) |
 | Rise of SamuraizerzZz | 156664 | [156664-rise-of-samuraizerzzz.json](./156664-rise-of-samuraizerzzz.json) |
 | Rise of Stars Re:Verse | 226769 | [226769-rise-of-stars-re-verse.json](./226769-rise-of-stars-re-verse.json) |
@@ -6715,6 +6717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robokill | 361334 | [361334-robokill.json](./361334-robokill.json) |
 | Robokill 2: Leviathan Five | 143455 | [143455-robokill-2-leviathan-five.json](./143455-robokill-2-leviathan-five.json) |
 | RoboKong | 137571 | [137571-robokong.json](./137571-robokong.json) |
+| Robolife2: Nova Duty | 211585 | [211585-robolife2-nova-duty.json](./211585-robolife2-nova-duty.json) |
 | Robolifter | 227850 | [227850-robolifter.json](./227850-robolifter.json) |
 | Roboloop | 295776 | [295776-roboloop.json](./295776-roboloop.json) |
 | Robolt | 249306 | [249306-robolt.json](./249306-robolt.json) |
@@ -7473,6 +7476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rody & Mastico IV: Noël | 15359 | [15359-rody-and-mastico-iv-noel.json](./15359-rody-and-mastico-iv-noel.json) |
 | RoFish: Prelude | 217471 | [217471-rofish-prelude.json](./217471-rofish-prelude.json) |
 | Rog & Roll | 139401 | [139401-rog-and-roll.json](./139401-rog-and-roll.json) |
+| Rog n' Mon | 211588 | [211588-rog-n-mon.json](./211588-rog-n-mon.json) |
 | Rogalia | 31300 | [31300-rogalia.json](./31300-rogalia.json) |
 | Rogalik | 99654 | [99654-rogalik.json](./99654-rogalik.json) |
 | Rogan: The Thief in the Castle | 117269 | [117269-rogan-the-thief-in-the-castle.json](./117269-rogan-the-thief-in-the-castle.json) |
@@ -8409,6 +8413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roses and Gems | 34359 | [34359-roses-and-gems.json](./34359-roses-and-gems.json) |
 | Roses Shoot Red, Violets Shoot Blue | 334167 | [334167-roses-shoot-red-violets-shoot-blue.json](./334167-roses-shoot-red-violets-shoot-blue.json) |
 | Roses&Heart | 104262 | [104262-roses-and-heart.json](./104262-roses-and-heart.json) |
+| Rosetia: A First Contact Simulation | 211616 | [211616-rosetia-a-first-contact-simulation.json](./211616-rosetia-a-first-contact-simulation.json) |
 | Rosetta | 228013 | [228013-rosetta.json](./228013-rosetta.json) |
 | Rosetta | 249110 | [249110-rosetta.json](./249110-rosetta.json) |
 | Rosetta and the Well | 301989 | [301989-rosetta-and-the-well.json](./301989-rosetta-and-the-well.json) |
