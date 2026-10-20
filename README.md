@@ -1944,6 +1944,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8f37a24d3f9d1be798afd96" width="60" /> | [Yesterday Origins](https://ostdb.net/games/yesterday-origins) | **Yesterday Origins Soundtrack** · [Spotify](https://open.spotify.com/album/0vAIJbhCkr6WGMEa58HVxA) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f8/ad/9e/f8ad9efa-9067-9520-dce1-55db47365143/811576033183.png/600x600bb.jpg" width="60" /> | [Yooka-Laylee](https://ostdb.net/games/yooka-laylee) | **Yooka-Laylee (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/yooka-laylee-original-game-soundtrack/1501664719?uo=4) · [Album](https://album.link/i/1501664719) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bb40f14d6e9825306c0e629d" width="60" /> | [Yooka-Laylee and the Impossible Lair](https://ostdb.net/games/yooka-laylee-and-the-impossible-lair) | **Yooka-Laylee and the Impossible Lair (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5RcPDRFhmsAJV3it1klETs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2732db9f826bda991f9618b55a4" width="60" /> | [You Will (Not) Remain](https://ostdb.net/games/you-will-not-remain) | **You Will (Not) Remain (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0Jr42Fk07D3chUPbngQEQk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737976445935151c72a174076b" width="60" /> | [Ys I & II Chronicles](https://ostdb.net/games/ys-i-and-ii-chronicles) | **Ys I&II Chronicles Original Soundtrack** · [Spotify](https://open.spotify.com/album/22jEkrUnflpu6FZ2bz46VG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273203f5d32d6b4eab5c8cde1fe" width="60" /> | [Ys Seven](https://ostdb.net/games/ys-seven) | **Ys Seven Original Soundtrack** · [Spotify](https://open.spotify.com/album/5SHnJNeYBDmfZllqumNM2i) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273441b6c1a9bebf622b15e7581" width="60" /> | [Ys VI: The Ark of Napishtim](https://ostdb.net/games/ys-vi-the-ark-of-napishtim) | **Ys VI - the Ark of Napishtim - Original Soundtrack** · [Spotify](https://open.spotify.com/album/243abdc5kJkLqCupxJzWj1) |
@@ -1977,4 +1978,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2294 soundtracks · last updated 2026-10-20T21:47:36.289Z_
+_2295 soundtracks · last updated 2026-10-20T21:47:46.150Z_
