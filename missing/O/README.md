@@ -1182,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olteus II | 266890 | [266890-olteus-ii.json](./266890-olteus-ii.json) |
 | Olympia Rising | 17311 | [17311-olympia-rising.json](./17311-olympia-rising.json) |
 | Olympia: Festival of the Gods | 341504 | [341504-olympia-festival-of-the-gods.json](./341504-olympia-festival-of-the-gods.json) |
+| Olympian Wars | 235610 | [235610-olympian-wars.json](./235610-olympian-wars.json) |
 | Olympians: Darius | 411128 | [411128-olympians-darius.json](./411128-olympians-darius.json) |
 | Olympic 2024 Journey | 315925 | [315925-olympic-2024-journey.json](./315925-olympic-2024-journey.json) |
 | Olympic Basketball | 147463 | [147463-olympic-basketball.json](./147463-olympic-basketball.json) |
@@ -3929,6 +3930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlander: Fantastic Princess | 261798 | [261798-outlander-fantastic-princess.json](./261798-outlander-fantastic-princess.json) |
 | Outlanders | 127983 | [127983-outlanders.json](./127983-outlanders.json) |
 | Outlanders | 328052 | [328052-outlanders.json](./328052-outlanders.json) |
+| Outlanders: Flood and Fire | 235589 | [235589-outlanders-flood-and-fire.json](./235589-outlanders-flood-and-fire.json) |
 | Outlanders: Heir of the Roads | 236879 | [236879-outlanders-heir-of-the-roads.json](./236879-outlanders-heir-of-the-roads.json) |
 | Outlanders: Home is Where the Heart is | 277431 | [277431-outlanders-home-is-where-the-heart-is.json](./277431-outlanders-home-is-where-the-heart-is.json) |
 | Outlanders: Hunt and Survive | 348854 | [348854-outlanders-hunt-and-survive.json](./348854-outlanders-hunt-and-survive.json) |
