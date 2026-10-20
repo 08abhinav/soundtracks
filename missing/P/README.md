@@ -962,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic in the Woods | 315508 | [315508-panic-in-the-woods.json](./315508-panic-in-the-woods.json) |
 | Panic Invaders | 70957 | [70957-panic-invaders.json](./70957-panic-invaders.json) |
 | Panic Lane | 247767 | [247767-panic-lane.json](./247767-panic-lane.json) |
+| Panic Lift | 230703 | [230703-panic-lift.json](./230703-panic-lift.json) |
 | Panic Mansion | 26726 | [26726-panic-mansion.json](./26726-panic-mansion.json) |
 | Panic Museum | 245707 | [245707-panic-museum.json](./245707-panic-museum.json) |
 | Panic on Ice | 239559 | [239559-panic-on-ice.json](./239559-panic-on-ice.json) |
@@ -2852,6 +2853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pedal-Olli 3D | 114800 | [114800-pedal-olli-3d.json](./114800-pedal-olli-3d.json) |
 | Pedals in Panic | 410168 | [410168-pedals-in-panic.json](./410168-pedals-in-panic.json) |
 | Peddlers Between Pulsars | 349399 | [349399-peddlers-between-pulsars.json](./349399-peddlers-between-pulsars.json) |
+| Pedreiro polar | 230715 | [230715-pedreiro-polar.json](./230715-pedreiro-polar.json) |
 | Pedro | 314289 | [314289-pedro.json](./314289-pedro.json) |
 | Pedro | 52008 | [52008-pedro.json](./52008-pedro.json) |
 | Pedro Kicks Back | 108932 | [108932-pedro-kicks-back.json](./108932-pedro-kicks-back.json) |
