@@ -474,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanderer | 95426 | [95426-wanderer.json](./95426-wanderer.json) |
 | Wanderer 2: The Seas of Fortune | 305549 | [305549-wanderer-2-the-seas-of-fortune.json](./305549-wanderer-2-the-seas-of-fortune.json) |
 | Wanderer: Broken Bed | 260327 | [260327-wanderer-broken-bed.json](./260327-wanderer-broken-bed.json) |
+| Wanderer: The Fragments of Fate | 253728 | [253728-wanderer-the-fragments-of-fate.json](./253728-wanderer-the-fragments-of-fate.json) |
 | Wanderer's Guide to Ocean and Islands | 300486 | [300486-wanderers-guide-to-ocean-and-islands.json](./300486-wanderers-guide-to-ocean-and-islands.json) |
 | Wanderer's Shade | 310183 | [310183-wanderers-shade.json](./310183-wanderers-shade.json) |
 | Wanderers | 185030 | [185030-wanderers.json](./185030-wanderers.json) |
@@ -1764,6 +1765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watcher From the Void | 374796 | [374796-watcher-from-the-void.json](./374796-watcher-from-the-void.json) |
 | Watchers: Batter Up Pack | 161186 | [161186-watchers-batter-up-pack.json](./161186-watchers-batter-up-pack.json) |
 | Watchers: Perfectly Calm Pack | 225572 | [225572-watchers-perfectly-calm-pack.json](./225572-watchers-perfectly-calm-pack.json) |
+| Watching Blade Runner on a Rainy Night | 253780 | [253780-watching-blade-runner-on-a-rainy-night.json](./253780-watching-blade-runner-on-a-rainy-night.json) |
 | Watching Delusion | 105386 | [105386-watching-delusion.json](./105386-watching-delusion.json) |
 | Watching from Afar | 361044 | [361044-watching-from-afar.json](./361044-watching-from-afar.json) |
 | Watching Grass Grow In VR - The Game | 32226 | [32226-watching-grass-grow-in-vr-the-game.json](./32226-watching-grass-grow-in-vr-the-game.json) |
@@ -2692,6 +2694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wetware | 142259 | [142259-wetware.json](./142259-wetware.json) |
 | Wetware | 62828 | [62828-wetware.json](./62828-wetware.json) |
 | Wex | 415847 | [415847-wex.json](./415847-wex.json) |
+| Wexew Mexem | 253783 | [253783-wexew-mexem.json](./253783-wexew-mexem.json) |
 | Weyrdlets: Fishing & Friends - Summer Update | 347863 | [347863-weyrdlets-fishing-and-friends-summer-update.json](./347863-weyrdlets-fishing-and-friends-summer-update.json) |
 | Weyrwood | 112923 | [112923-weyrwood.json](./112923-weyrwood.json) |
 | WFD | 272567 | [272567-wfd.json](./272567-wfd.json) |
