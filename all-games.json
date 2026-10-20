@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:46:10.922Z",
-  "total_soundtracks": 2286,
+  "generated_at": "2026-10-20T21:46:20.944Z",
+  "total_soundtracks": 2287,
   "games": [
     {
       "igdb_id": 7522,
@@ -12443,6 +12443,20 @@
         {
           "album_name": "KAMIKO ORIGINAL SOUNDTRACK",
           "spotify_url": "https://open.spotify.com/album/1LJdNct41ToL28ZTFQkDMl",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 134528,
+      "game_name": "Kao the Kangaroo",
+      "game_url": "https://ostdb.net/games/kao-the-kangaroo",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273eb70c201142bebc2853acfd3",
+      "albums": [
+        {
+          "album_name": "Kao the Kangaroo Original Game Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2nT2n4q87Ktp8Kxu5MHwfB",
           "apple_music_url": "",
           "album_link_url": ""
         }
