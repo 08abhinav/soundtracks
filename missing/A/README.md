@@ -10877,6 +10877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AS: Angelic Serenade | 252593 | [252593-as-angelic-serenade.json](./252593-as-angelic-serenade.json) |
 | As:9-nine- Arteisia | 383122 | [383122-as-9-nine-arteisia.json](./383122-as-9-nine-arteisia.json) |
 | AS+CEND | 69521 | [69521-as-cend.json](./69521-as-cend.json) |
+| Asa Delta | 230675 | [230675-asa-delta.json](./230675-asa-delta.json) |
 | Asa-Chan Wants to Go Home! | 272283 | [272283-asa-chan-wants-to-go-home.json](./272283-asa-chan-wants-to-go-home.json) |
 | Asagao Academy: Normal Boots Club | 46579 | [46579-asagao-academy-normal-boots-club.json](./46579-asagao-academy-normal-boots-club.json) |
 | Asagao ha Ai wo Shiranai | 411685 | [411685-asagao-ha-ai-wo-shiranai.json](./411685-asagao-ha-ai-wo-shiranai.json) |
@@ -11211,6 +11212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin: Special Edition | 14601 | [14601-assassin-special-edition.json](./14601-assassin-special-edition.json) |
 | Assassin's Alliance | 304680 | [304680-assassins-alliance.json](./304680-assassins-alliance.json) |
 | Assassin's Creed American History Pack | 219000 | [219000-assassins-creed-american-history-pack.json](./219000-assassins-creed-american-history-pack.json) |
+| Assassin's Creed Animus Pack | 230702 | [230702-assassins-creed-animus-pack.json](./230702-assassins-creed-animus-pack.json) |
 | Assassin's Creed Antiquity Pack | 164782 | [164782-assassins-creed-antiquity-pack.json](./164782-assassins-creed-antiquity-pack.json) |
 | Assassin’s Creed Black Flag Resynced: Collector’s Edition | 412816 | [412816-assassin-s-creed-black-flag-resynced-collector-s-edition.json](./412816-assassin-s-creed-black-flag-resynced-collector-s-edition.json) |
 | Assassin's Creed Black Flag Resynced: Deluxe Edition | 409613 | [409613-assassins-creed-black-flag-resynced-deluxe-edition.json](./409613-assassins-creed-black-flag-resynced-deluxe-edition.json) |
