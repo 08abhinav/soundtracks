@@ -980,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Editarrr | 270519 | [270519-editarrr.json](./270519-editarrr.json) |
 | Editor in Chief: Beginning 1 | 108594 | [108594-editor-in-chief-beginning-1.json](./108594-editor-in-chief-beginning-1.json) |
 | Editor's Hell | 221176 | [221176-editors-hell.json](./221176-editors-hell.json) |
+| Edmund and Eliza | 251994 | [251994-edmund-and-eliza.json](./251994-edmund-and-eliza.json) |
 | Edmund Puzzle and The Mystery of the Sacred Relics | 269268 | [269268-edmund-puzzle-and-the-mystery-of-the-sacred-relics.json](./269268-edmund-puzzle-and-the-mystery-of-the-sacred-relics.json) |
 | Edna | 367597 | [367597-edna.json](./367597-edna.json) |
 | Edna & Harvey Bundle | 272332 | [272332-edna-and-harvey-bundle.json](./272332-edna-and-harvey-bundle.json) |
@@ -3462,6 +3463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equaland | 104251 | [104251-equaland.json](./104251-equaland.json) |
 | Equality | 339761 | [339761-equality.json](./339761-equality.json) |
 | Equalizer | 55498 | [55498-equalizer.json](./55498-equalizer.json) |
+| Equan the Watchful Guardian | 251997 | [251997-equan-the-watchful-guardian.json](./251997-equan-the-watchful-guardian.json) |
 | Equestria | 128563 | [128563-equestria.json](./128563-equestria.json) |
 | EquestriaBound: Return of the Nightmare | 205642 | [205642-equestriabound-return-of-the-nightmare.json](./205642-equestriabound-return-of-the-nightmare.json) |
 | Equestrian Simulator: Saddle Royale | 137576 | [137576-equestrian-simulator-saddle-royale.json](./137576-equestrian-simulator-saddle-royale.json) |
@@ -5690,6 +5692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exographer | 295106 | [295106-exographer.json](./295106-exographer.json) |
 | Exojet + | 41546 | [41546-exojet.json](./41546-exojet.json) |
 | ExolonFX | 298956 | [298956-exolonfx.json](./298956-exolonfx.json) |
+| Exolotl: Zian | 251995 | [251995-exolotl-zian.json](./251995-exolotl-zian.json) |
 | Exomoon | 257419 | [257419-exomoon.json](./257419-exomoon.json) |
 | Exophilie | 271947 | [271947-exophilie.json](./271947-exophilie.json) |
 | Exophobia | 126756 | [126756-exophobia.json](./126756-exophobia.json) |
@@ -5732,6 +5735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exorcizamuste | 258537 | [258537-exorcizamuste.json](./258537-exorcizamuste.json) |
 | Exorder | 69440 | [69440-exorder.json](./69440-exorder.json) |
 | Exoria | 408199 | [408199-exoria.json](./408199-exoria.json) |
+| Exorsite | 251973 | [251973-exorsite.json](./251973-exorsite.json) |
 | ExorSYS | 335245 | [335245-exorsys.json](./335245-exorsys.json) |
 | Exorun | 172534 | [172534-exorun.json](./172534-exorun.json) |
 | Exorzine | 194651 | [194651-exorzine.json](./194651-exorzine.json) |
