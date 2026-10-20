@@ -467,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wander Hero | 173009 | [173009-wander-hero.json](./173009-wander-hero.json) |
 | Wander in Wonder | 272494 | [272494-wander-in-wonder.json](./272494-wander-in-wonder.json) |
 | Wander Scoop | 384335 | [384335-wander-scoop.json](./384335-wander-scoop.json) |
+| Wander Stars | 211607 | [211607-wander-stars.json](./211607-wander-stars.json) |
 | Wander Vehicles: Doggybone Daisakusen | 208853 | [208853-wander-vehicles-doggybone-daisakusen.json](./208853-wander-vehicles-doggybone-daisakusen.json) |
 | Wander Vyrosa | 220527 | [220527-wander-vyrosa.json](./220527-wander-vyrosa.json) |
 | Wander Wonder | 237514 | [237514-wander-wonder.json](./237514-wander-wonder.json) |
@@ -5208,6 +5209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wobbly Life | 133344 | [133344-wobbly-life.json](./133344-wobbly-life.json) |
 | Wobbuffet's Puzzle Pack | 233984 | [233984-wobbuffets-puzzle-pack.json](./233984-wobbuffets-puzzle-pack.json) |
 | Wodopom | 315677 | [315677-wodopom.json](./315677-wodopom.json) |
+| Woe | 211577 | [211577-woe.json](./211577-woe.json) |
 | Woebegone Woods | 149897 | [149897-woebegone-woods.json](./149897-woebegone-woods.json) |
 | Woeful Woebots | 37019 | [37019-woeful-woebots.json](./37019-woeful-woebots.json) |
 | Woim | 404431 | [404431-woim.json](./404431-woim.json) |
@@ -5798,6 +5800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordatro! | 331665 | [331665-wordatro.json](./331665-wordatro.json) |
 | Wordban | 319358 | [319358-wordban.json](./319358-wordban.json) |
 | Wordbase | 86060 | [86060-wordbase.json](./86060-wordbase.json) |
+| WordBed | 211598 | [211598-wordbed.json](./211598-wordbed.json) |
 | Wordbound | 344158 | [344158-wordbound.json](./344158-wordbound.json) |
 | WordBrain | 58214 | [58214-wordbrain.json](./58214-wordbrain.json) |
 | Wordbreaker by Powgi | 196176 | [196176-wordbreaker-by-powgi.json](./196176-wordbreaker-by-powgi.json) |
