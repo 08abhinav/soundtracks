@@ -7899,6 +7899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microgames Jam Pack | 267222 | [267222-microgames-jam-pack.json](./267222-microgames-jam-pack.json) |
 | MicroGradient | 311072 | [311072-microgradient.json](./311072-microgradient.json) |
 | MicroHorrorArcade Trilogy I - Andy's Story | 135703 | [135703-microhorrorarcade-trilogy-i-andys-story.json](./135703-microhorrorarcade-trilogy-i-andys-story.json) |
+| Microids Indie Bundle | 247359 | [247359-microids-indie-bundle.json](./247359-microids-indie-bundle.json) |
 | MicroJam | 371358 | [371358-microjam.json](./371358-microjam.json) |
 | Microjob | 149564 | [149564-microjob.json](./149564-microjob.json) |
 | MicroLeague Baseball | 50383 | [50383-microleague-baseball.json](./50383-microleague-baseball.json) |
@@ -8921,6 +8922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Medley | 209509 | [209509-mind-medley.json](./209509-mind-medley.json) |
 | Mind Muscle VR | 150531 | [150531-mind-muscle-vr.json](./150531-mind-muscle-vr.json) |
 | Mind Over Magic | 211357 | [211357-mind-over-magic.json](./211357-mind-over-magic.json) |
+| Mind Over Magnet | 247310 | [247310-mind-over-magnet.json](./247310-mind-over-magnet.json) |
 | Mind Over Matter | 209508 | [209508-mind-over-matter.json](./209508-mind-over-matter.json) |
 | Mind Over Melee Radio | 169768 | [169768-mind-over-melee-radio.json](./169768-mind-over-melee-radio.json) |
 | Mind Over Monarchy | 347339 | [347339-mind-over-monarchy.json](./347339-mind-over-monarchy.json) |
@@ -9558,6 +9560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Switcher | 412213 | [412213-mini-switcher.json](./412213-mini-switcher.json) |
 | Mini Tank | 123897 | [123897-mini-tank.json](./123897-mini-tank.json) |
 | Mini Tank Mayhem | 327166 | [327166-mini-tank-mayhem.json](./327166-mini-tank-mayhem.json) |
+| Mini Taoism | 247318 | [247318-mini-taoism.json](./247318-mini-taoism.json) |
 | Mini TD | 358424 | [358424-mini-td.json](./358424-mini-td.json) |
 | Mini TD 2: Relax Tower Defense | 305272 | [305272-mini-td-2-relax-tower-defense.json](./305272-mini-td-2-relax-tower-defense.json) |
 | Mini TD 3 | 360499 | [360499-mini-td-3.json](./360499-mini-td-3.json) |
