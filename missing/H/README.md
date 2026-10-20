@@ -1507,6 +1507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardwired | 346551 | [346551-hardwired.json](./346551-hardwired.json) |
 | Hardwood Backgammon | 20501 | [20501-hardwood-backgammon.json](./20501-hardwood-backgammon.json) |
 | Hardwood Hearts | 20507 | [20507-hardwood-hearts.json](./20507-hardwood-hearts.json) |
+| Hardwood Rivals | 246260 | [246260-hardwood-rivals.json](./246260-hardwood-rivals.json) |
 | Hardy Boyz Stunt Challenge | 261205 | [261205-hardy-boyz-stunt-challenge.json](./261205-hardy-boyz-stunt-challenge.json) |
 | Hare | 83584 | [83584-hare.json](./83584-hare.json) |
 | Hare 136 | 340414 | [340414-hare-136.json](./340414-hare-136.json) |
@@ -6168,6 +6169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit Ninja | 85183 | [85183-hit-ninja.json](./85183-hit-ninja.json) |
 | Hit Single | 299720 | [299720-hit-single.json](./299720-hit-single.json) |
 | Hit Tank PRO | 57129 | [57129-hit-tank-pro.json](./57129-hit-tank-pro.json) |
+| Hit Tennis 3 | 246268 | [246268-hit-tennis-3.json](./246268-hit-tennis-3.json) |
 | Hit The Beat | 305164 | [305164-hit-the-beat.json](./305164-hit-the-beat.json) |
 | Hit the Brakes | 178496 | [178496-hit-the-brakes.json](./178496-hit-the-brakes.json) |
 | Hit the Button RPG | 58876 | [58876-hit-the-button-rpg.json](./58876-hit-the-button-rpg.json) |
@@ -7533,6 +7535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Clash | 319969 | [319969-horror-clash.json](./319969-horror-clash.json) |
 | Horror Cliche | 412115 | [412115-horror-cliche.json](./412115-horror-cliche.json) |
 | Horror Drift | 187531 | [187531-horror-drift.json](./187531-horror-drift.json) |
+| Horror em Amityville | 246249 | [246249-horror-em-amityville.json](./246249-horror-em-amityville.json) |
 | Horror Fun | 214666 | [214666-horror-fun.json](./214666-horror-fun.json) |
 | Horror Gallery | 262908 | [262908-horror-gallery.json](./262908-horror-gallery.json) |
 | Horror Game Collection | 184595 | [184595-horror-game-collection.json](./184595-horror-game-collection.json) |
