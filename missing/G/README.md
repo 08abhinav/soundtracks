@@ -3807,6 +3807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glory of Thrones: War of Conquest | 100785 | [100785-glory-of-thrones-war-of-conquest.json](./100785-glory-of-thrones-war-of-conquest.json) |
 | Glory of War | 209664 | [209664-glory-of-war.json](./209664-glory-of-war.json) |
 | Glory On Pluto | 336126 | [336126-glory-on-pluto.json](./336126-glory-on-pluto.json) |
+| Glory Room | 242393 | [242393-glory-room.json](./242393-glory-room.json) |
 | Glory to the Heroes | 240744 | [240744-glory-to-the-heroes.json](./240744-glory-to-the-heroes.json) |
 | Glory to the Heroes | 363972 | [363972-glory-to-the-heroes.json](./363972-glory-to-the-heroes.json) |
 | Glory Wall! | 393838 | [393838-glory-wall.json](./393838-glory-wall.json) |
