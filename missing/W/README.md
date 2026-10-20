@@ -5806,6 +5806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words in Pics - Drawing Puzzle | 106948 | [106948-words-in-pics-drawing-puzzle.json](./106948-words-in-pics-drawing-puzzle.json) |
 | Words In Progress | 286596 | [286596-words-in-progress.json](./286596-words-in-progress.json) |
 | Words in Space | 63557 | [63557-words-in-space.json](./63557-words-in-space.json) |
+| Words in Word | 231223 | [231223-words-in-word.json](./231223-words-in-word.json) |
 | Words Inc - Endless Vocabulary Definition Competition | 99411 | [99411-words-inc-endless-vocabulary-definition-competition.json](./99411-words-inc-endless-vocabulary-definition-competition.json) |
 | Words N Words | 240345 | [240345-words-n-words.json](./240345-words-n-words.json) |
 | Words of Fate | 83259 | [83259-words-of-fate.json](./83259-words-of-fate.json) |
@@ -6742,6 +6743,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WRC 9: Deluxe Edition | 136246 | [136246-wrc-9-deluxe-edition.json](./136246-wrc-9-deluxe-edition.json) |
 | WRC Collection | 275038 | [275038-wrc-collection.json](./275038-wrc-collection.json) |
 | WRC Collection Vol. 2 | 199929 | [199929-wrc-collection-vol-2.json](./199929-wrc-collection-vol-2.json) |
+| WRC Generations: Citroën C4 WRC 2010 | 231225 | [231225-wrc-generations-citroen-c4-wrc-2010.json](./231225-wrc-generations-citroen-c4-wrc-2010.json) |
+| WRC Generations: Peugeot 206 WRC 2002 | 231224 | [231224-wrc-generations-peugeot-206-wrc-2002.json](./231224-wrc-generations-peugeot-206-wrc-2002.json) |
 | WRC II Extreme | 8314 | [8314-wrc-ii-extreme.json](./8314-wrc-ii-extreme.json) |
 | WRC Powerslide | 19972 | [19972-wrc-powerslide.json](./19972-wrc-powerslide.json) |
 | WRC: FIA World Rally Championship | 7250 | [7250-wrc-fia-world-rally-championship.json](./7250-wrc-fia-world-rally-championship.json) |
