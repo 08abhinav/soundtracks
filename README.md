@@ -291,6 +291,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000aa54ecb2fb7c13ee6c803dc8bc72" width="60" /> | [Cat Quest II](https://ostdb.net/games/cat-quest-ii) | **Cat Quest II (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5hXEC1qKPge3bb6oC4kx4a) · [Apple Music](https://music.apple.com/cz/album/cat-quest-ii-original-game-soundtrack/1764883986?l=cs) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/8e/d2/3f8ed2cb-6e2f-515d-903d-bfa096fd0d48/artwork.jpg/600x600bb.jpg" width="60" /> | [Cat Quest III](https://ostdb.net/games/cat-quest-iii) | **Cat Quest III (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/cat-quest-iii-original-game-soundtrack/1762343344?uo=4) · [Album](https://album.link/i/1762343344) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b351fafcb334009c3216a039" width="60" /> | [Celeste](https://ostdb.net/games/celeste) | **Celeste (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1ZfETfec0U02KrKNI8w3Gf)<br>**Celeste B-Sides (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3lRqLudF94UtGUmTM2bjfd)<br>**Celeste: Farewell (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2AdTRKcovqwu73wltc4ufs) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273efa2e247ff5b9cb4783d9e00" width="60" /> | [Century: Age of Ashes](https://ostdb.net/games/century-age-of-ashes) | **Century: Age of Ashes (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/585Btyo2jbgjL2svkOsmWC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e1c8a34ac5ab5109cd6a0e63" width="60" /> | [Chained Echoes](https://ostdb.net/games/chained-echoes) | **Chained Echoes (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1ZfNvXO4HsYcklqiRWpD1p) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273cb66c56533e2add22df4b03f" width="60" /> | [Charlie Murder](https://ostdb.net/games/charlie-murder) | **Charlie Murder: Original Soundtrack** · [Spotify](https://open.spotify.com/album/6A0OBzWtSYt6Rd2yxtjscm) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/57/8d/6b/578d6b4d-5555-f1b0-3153-a8868cf68c61/artwork.jpg/1000x1000bb.jpg" width="60" /> | [Chasm](https://ostdb.net/games/chasm) | **Chasm (Original Sountrack)** · [Apple Music](https://music.apple.com/us/album/chasm-original-sountrack/1445715659?uo=4) · [Album](https://album.link/i/1445715659) |
@@ -549,7 +550,6 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/99/58/1f/99581f3c-8e40-58c1-b866-61b3356ca4e5/cover.jpg/600x600bb.jpg" width="60" /> | [Evil Genius 2: World Domination](https://ostdb.net/games/evil-genius-2-world-domination) | **Evil Genius 2: World Domination** · [Spotify](https://music.apple.com/us/album/evil-genius-2-world-domination/1635588885?uo=4) · [Album](https://album.link/i/1635588885) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737e82e159ad5bd396e40d9392" width="60" /> | [Evoland 2](https://ostdb.net/games/evoland-2) | **Evoland 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4oYc3Uq0TJPBV5ENCOwiE8) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/76/4f/10/764f1049-7a4b-170d-4c94-ba6783f69e44/5059806675030_cover.jpg/1000x1000bb.jpg" width="60" /> | [ExeKiller](https://ostdb.net/games/exekiller) | **I Am Exekiller (Original Game Soundtrack) - Single** · [Apple Music](https://music.apple.com/us/album/i-am-exekiller-original-game-soundtrack-single/1598151208?uo=4) · [Album](https://album.link/i/1598151208) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273f83fbc85ae1128dcdd139b6f" width="60" /> | [Expeditions: A MudRunner Game](https://ostdb.net/games/expeditions-a-mudrunner-game) | **Expeditions: A MudRunner Game (Game Trailer Soundtrack)** · [Spotify](https://open.spotify.com/album/6KYfRbuWIRjzXUNPnrvf0b) |
 
 ### F
 
@@ -1926,4 +1926,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2243 soundtracks · last updated 2026-10-20T21:25:37.706Z_
+_2243 soundtracks · last updated 2026-10-20T21:30:37.922Z_
