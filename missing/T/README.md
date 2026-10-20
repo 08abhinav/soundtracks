@@ -7099,6 +7099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fight for Glorton | 196797 | [196797-the-fight-for-glorton.json](./196797-the-fight-for-glorton.json) |
 | The Fight of the Sumo-Hoppers | 314465 | [314465-the-fight-of-the-sumo-hoppers.json](./314465-the-fight-of-the-sumo-hoppers.json) |
 | The Fight: Aftermath | 311173 | [311173-the-fight-aftermath.json](./311173-the-fight-aftermath.json) |
+| The Fighters Online | 211071 | [211071-the-fighters-online.json](./211071-the-fighters-online.json) |
 | The Fighting Cubes | 181748 | [181748-the-fighting-cubes.json](./181748-the-fighting-cubes.json) |
 | The Fighting Wolf AT | 268897 | [268897-the-fighting-wolf-at.json](./268897-the-fighting-wolf-at.json) |
 | The Filfth of Us | 284280 | [284280-the-filfth-of-us.json](./284280-the-filfth-of-us.json) |
@@ -10962,6 +10963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The One Chapter 1 | 211578 | [211578-the-one-chapter-1.json](./211578-the-one-chapter-1.json) |
 | The One Fish | 410892 | [410892-the-one-fish.json](./410892-the-one-fish.json) |
 | The One Fork Restaurant | 175255 | [175255-the-one-fork-restaurant.json](./175255-the-one-fork-restaurant.json) |
+| The One Penny Adventure | 211039 | [211039-the-one-penny-adventure.json](./211039-the-one-penny-adventure.json) |
 | The One Way Challenge | 259413 | [259413-the-one-way-challenge.json](./259413-the-one-way-challenge.json) |
 | The One Who Knows | 416695 | [416695-the-one-who-knows.json](./416695-the-one-who-knows.json) |
 | The One Who Pulls Out the Sword Will Be Crowned King | 191888 | [191888-the-one-who-pulls-out-the-sword-will-be-crowned-king.json](./191888-the-one-who-pulls-out-the-sword-will-be-crowned-king.json) |
@@ -11157,6 +11159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Passage of Time | 155869 | [155869-the-passage-of-time.json](./155869-the-passage-of-time.json) |
 | The Passenger | 266393 | [266393-the-passenger.json](./266393-the-passenger.json) |
 | The Past | 236225 | [236225-the-past.json](./236225-the-past.json) |
+| The Past Rhapsody | 211056 | [211056-the-past-rhapsody.json](./211056-the-past-rhapsody.json) |
 | The Patashnik Parable | 176434 | [176434-the-patashnik-parable.json](./176434-the-patashnik-parable.json) |
 | The Path | 10199 | [10199-the-path.json](./10199-the-path.json) |
 | The Path of Blades | 367484 | [367484-the-path-of-blades.json](./367484-the-path-of-blades.json) |
@@ -17622,6 +17625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinge 2 | 68882 | [68882-tinge-2.json](./68882-tinge-2.json) |
 | Tingus Goose | 285342 | [285342-tingus-goose.json](./285342-tingus-goose.json) |
 | Tinhead | 46593 | [46593-tinhead.json](./46593-tinhead.json) |
+| Tinheung & Sayuri | 211061 | [211061-tinheung-and-sayuri.json](./211061-tinheung-and-sayuri.json) |
 | Tinicraft | 184381 | [184381-tinicraft.json](./184381-tinicraft.json) |
 | Tinier Me | 327215 | [327215-tinier-me.json](./327215-tinier-me.json) |
 | Tinies Farter | 403704 | [403704-tinies-farter.json](./403704-tinies-farter.json) |
