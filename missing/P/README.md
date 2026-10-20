@@ -794,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pancake Bar Tycoon: Expansion Pack 1 | 237915 | [237915-pancake-bar-tycoon-expansion-pack-1.json](./237915-pancake-bar-tycoon-expansion-pack-1.json) |
 | Pancake Bar Tycoon: Expansion Pack 2 | 237916 | [237916-pancake-bar-tycoon-expansion-pack-2.json](./237916-pancake-bar-tycoon-expansion-pack-2.json) |
 | Pancake Bar Tycoon: Extended Edition | 207902 | [207902-pancake-bar-tycoon-extended-edition.json](./207902-pancake-bar-tycoon-extended-edition.json) |
+| Pancake Bar Tycoon: Premium Edition | 231253 | [231253-pancake-bar-tycoon-premium-edition.json](./231253-pancake-bar-tycoon-premium-edition.json) |
 | Pancake House | 156698 | [156698-pancake-house.json](./156698-pancake-house.json) |
 | Pancake Patrol | 268967 | [268967-pancake-patrol.json](./268967-pancake-patrol.json) |
 | Panchin is Frustrated | 258875 | [258875-panchin-is-frustrated.json](./258875-panchin-is-frustrated.json) |
@@ -2428,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paw Patrol: Grand Prix | 202417 | [202417-paw-patrol-grand-prix.json](./202417-paw-patrol-grand-prix.json) |
 | Paw Patrol: Grand Prix - Complete Edition | 283585 | [283585-paw-patrol-grand-prix-complete-edition.json](./283585-paw-patrol-grand-prix-complete-edition.json) |
 | Paw Patrol: Grand Prix - Pup Treat Arena | 241408 | [241408-paw-patrol-grand-prix-pup-treat-arena.json](./241408-paw-patrol-grand-prix-pup-treat-arena.json) |
+| Paw Patrol: Grand Prix - Race in Barkingburg | 231249 | [231249-paw-patrol-grand-prix-race-in-barkingburg.json](./231249-paw-patrol-grand-prix-race-in-barkingburg.json) |
 | Paw Patrol: Laptop Infantil | 294467 | [294467-paw-patrol-laptop-infantil.json](./294467-paw-patrol-laptop-infantil.json) |
 | Paw Patrol: Rescue Wheels - Championship | 351133 | [351133-paw-patrol-rescue-wheels-championship.json](./351133-paw-patrol-rescue-wheels-championship.json) |
 | PAW Patrol: Storm Rescuers | 230328 | [230328-paw-patrol-storm-rescuers.json](./230328-paw-patrol-storm-rescuers.json) |
@@ -3465,6 +3467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 3 FES Append-han | 358383 | [358383-persona-3-fes-append-han.json](./358383-persona-3-fes-append-han.json) |
 | Persona 3 FES: Limited Edition | 41865 | [41865-persona-3-fes-limited-edition.json](./41865-persona-3-fes-limited-edition.json) |
 | Persona 3 Illust Puzzle | 289391 | [289391-persona-3-illust-puzzle.json](./289391-persona-3-illust-puzzle.json) |
+| Persona 3 Portable & Persona 4 Golden Bundle | 231247 | [231247-persona-3-portable-and-persona-4-golden-bundle.json](./231247-persona-3-portable-and-persona-4-golden-bundle.json) |
 | Persona 3 Portable: Kotone Cutscenes Project - PSP Version | 313996 | [313996-persona-3-portable-kotone-cutscenes-project-psp-version.json](./313996-persona-3-portable-kotone-cutscenes-project-psp-version.json) |
 | Persona 3 Portable: Kotone Cutscenes Project - Steam Version | 313978 | [313978-persona-3-portable-kotone-cutscenes-project-steam-version.json](./313978-persona-3-portable-kotone-cutscenes-project-steam-version.json) |
 | Persona 3 Reload: Aigis Edition | 262640 | [262640-persona-3-reload-aigis-edition.json](./262640-persona-3-reload-aigis-edition.json) |
@@ -4689,6 +4692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piczle Puzzle Pack 3-in-1 | 136960 | [136960-piczle-puzzle-pack-3-in-1.json](./136960-piczle-puzzle-pack-3-in-1.json) |
 | Pid | 1892 | [1892-pid.json](./1892-pid.json) |
 | Pid | 225890 | [225890-pid.json](./225890-pid.json) |
+| Pid: Deluxe Edition | 231248 | [231248-pid-deluxe-edition.json](./231248-pid-deluxe-edition.json) |
 | Pidgeon Pocket | 409879 | [409879-pidgeon-pocket.json](./409879-pidgeon-pocket.json) |
 | Pido1 | 105367 | [105367-pido1.json](./105367-pido1.json) |
 | Pie Die: Pewdiepie Edition | 88444 | [88444-pie-die-pewdiepie-edition.json](./88444-pie-die-pewdiepie-edition.json) |
@@ -5951,6 +5955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Boy | 62783 | [62783-pixel-boy.json](./62783-pixel-boy.json) |
 | Pixel Boy 2: The Castle Revenge | 315090 | [315090-pixel-boy-2-the-castle-revenge.json](./315090-pixel-boy-2-the-castle-revenge.json) |
 | Pixel Boy and the Ever Expanding Dungeon | 16836 | [16836-pixel-boy-and-the-ever-expanding-dungeon.json](./16836-pixel-boy-and-the-ever-expanding-dungeon.json) |
+| Pixel Boy: Lost in the Castle | 231250 | [231250-pixel-boy-lost-in-the-castle.json](./231250-pixel-boy-lost-in-the-castle.json) |
 | Pixel Boy: The Legend of Tain | 219674 | [219674-pixel-boy-the-legend-of-tain.json](./219674-pixel-boy-the-legend-of-tain.json) |
 | Pixel Brave | 396944 | [396944-pixel-brave.json](./396944-pixel-brave.json) |
 | Pixel Builder | 105962 | [105962-pixel-builder.json](./105962-pixel-builder.json) |
@@ -6039,6 +6044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Galaxy | 24615 | [24615-pixel-galaxy.json](./24615-pixel-galaxy.json) |
 | Pixel Game Maker MV | 105410 | [105410-pixel-game-maker-mv.json](./105410-pixel-game-maker-mv.json) |
 | Pixel Game Maker Series Arcanion: The Mekanos Invasion | 409551 | [409551-pixel-game-maker-series-arcanion-the-mekanos-invasion.json](./409551-pixel-game-maker-series-arcanion-the-mekanos-invasion.json) |
+| Pixel Game Maker Series BombMachine Gunzohg | 231251 | [231251-pixel-game-maker-series-bombmachine-gunzohg.json](./231251-pixel-game-maker-series-bombmachine-gunzohg.json) |
 | Pixel Game Maker Series LAB | 201085 | [201085-pixel-game-maker-series-lab.json](./201085-pixel-game-maker-series-lab.json) |
 | Pixel Game Maker Series MessiahEnd Refrain | 199930 | [199930-pixel-game-maker-series-messiahend-refrain.json](./199930-pixel-game-maker-series-messiahend-refrain.json) |
 | Pixel Game Maker Series Ninja Sneaking vs: Battle on the Couch | 264904 | [264904-pixel-game-maker-series-ninja-sneaking-vs-battle-on-the-couch.json](./264904-pixel-game-maker-series-ninja-sneaking-vs-battle-on-the-couch.json) |
@@ -13615,6 +13621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Bundle: Inbento & Golf Peaks | 203710 | [203710-puzzle-bundle-inbento-and-golf-peaks.json](./203710-puzzle-bundle-inbento-and-golf-peaks.json) |
 | Puzzle by Nikoli S Akari | 223561 | [223561-puzzle-by-nikoli-s-akari.json](./223561-puzzle-by-nikoli-s-akari.json) |
 | Puzzle by Nikoli S Hashiwokakero | 237357 | [237357-puzzle-by-nikoli-s-hashiwokakero.json](./237357-puzzle-by-nikoli-s-hashiwokakero.json) |
+| Puzzle by Nikoli S Heyawake | 231252 | [231252-puzzle-by-nikoli-s-heyawake.json](./231252-puzzle-by-nikoli-s-heyawake.json) |
 | Puzzle by Nikoli S Slitherlink | 225545 | [225545-puzzle-by-nikoli-s-slitherlink.json](./225545-puzzle-by-nikoli-s-slitherlink.json) |
 | Puzzle by Nikoli S Sudoku | 219293 | [219293-puzzle-by-nikoli-s-sudoku.json](./219293-puzzle-by-nikoli-s-sudoku.json) |
 | Puzzle by Nikoli S Yajilin | 252622 | [252622-puzzle-by-nikoli-s-yajilin.json](./252622-puzzle-by-nikoli-s-yajilin.json) |
