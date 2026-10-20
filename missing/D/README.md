@@ -7063,6 +7063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DinoFense | 30169 | [30169-dinofense.json](./30169-dinofense.json) |
 | Dinofurie | 332417 | [332417-dinofurie.json](./332417-dinofurie.json) |
 | Dinogen | 101706 | [101706-dinogen.json](./101706-dinogen.json) |
+| Dinogen Online | 233364 | [233364-dinogen-online.json](./233364-dinogen-online.json) |
 | Dinogen Online: Commando Bundle | 253468 | [253468-dinogen-online-commando-bundle.json](./253468-dinogen-online-commando-bundle.json) |
 | DinoGore | 358348 | [358348-dinogore.json](./358348-dinogore.json) |
 | Dinogotchi | 173311 | [173311-dinogotchi.json](./173311-dinogotchi.json) |
@@ -12291,6 +12292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drink Bar Maid | 134608 | [134608-drink-bar-maid.json](./134608-drink-bar-maid.json) |
 | Drink Bar Maid: Regression | 134609 | [134609-drink-bar-maid-regression.json](./134609-drink-bar-maid-regression.json) |
 | Drink Beer, Neglect Family | 185673 | [185673-drink-beer-neglect-family.json](./185673-drink-beer-neglect-family.json) |
+| Drink Clicker: Idle Tycoon | 233384 | [233384-drink-clicker-idle-tycoon.json](./233384-drink-clicker-idle-tycoon.json) |
 | Drink Human Beans | 274571 | [274571-drink-human-beans.json](./274571-drink-human-beans.json) |
 | Drink Inc. | 90280 | [90280-drink-inc.json](./90280-drink-inc.json) |
 | Drink More Glurp | 117180 | [117180-drink-more-glurp.json](./117180-drink-more-glurp.json) |
@@ -13398,6 +13400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Girl | 271115 | [271115-dungeon-girl.json](./271115-dungeon-girl.json) |
 | Dungeon Girl Scouts | 210693 | [210693-dungeon-girl-scouts.json](./210693-dungeon-girl-scouts.json) |
 | Dungeon Golf | 244507 | [244507-dungeon-golf.json](./244507-dungeon-golf.json) |
+| Dungeon Gunner | 233391 | [233391-dungeon-gunner.json](./233391-dungeon-gunner.json) |
 | Dungeon Hack | 2529 | [2529-dungeon-hack.json](./2529-dungeon-hack.json) |
 | Dungeon Hearts DX | 85103 | [85103-dungeon-hearts-dx.json](./85103-dungeon-hearts-dx.json) |
 | Dungeon Hero | 18788 | [18788-dungeon-hero.json](./18788-dungeon-hero.json) |
@@ -13495,6 +13498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of the Damned | 200585 | [200585-dungeon-of-the-damned.json](./200585-dungeon-of-the-damned.json) |
 | Dungeon of the Devourer | 334073 | [334073-dungeon-of-the-devourer.json](./334073-dungeon-of-the-devourer.json) |
 | Dungeon of the Endless: Deep Freeze | 168244 | [168244-dungeon-of-the-endless-deep-freeze.json](./168244-dungeon-of-the-endless-deep-freeze.json) |
+| Dungeon of the Endless: Definitive Edition | 233351 | [233351-dungeon-of-the-endless-definitive-edition.json](./233351-dungeon-of-the-endless-definitive-edition.json) |
 | Dungeon of the Endless: Rescue Team | 168245 | [168245-dungeon-of-the-endless-rescue-team.json](./168245-dungeon-of-the-endless-rescue-team.json) |
 | Dungeon of the Forgotten King | 257981 | [257981-dungeon-of-the-forgotten-king.json](./257981-dungeon-of-the-forgotten-king.json) |
 | Dungeon of the Gods | 184875 | [184875-dungeon-of-the-gods.json](./184875-dungeon-of-the-gods.json) |
