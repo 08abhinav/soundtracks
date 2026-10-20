@@ -1096,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted Ocean 2 | 231293 | [231293-uncharted-ocean-2.json](./231293-uncharted-ocean-2.json) |
 | Uncharted Ocean: Adventures at the Poles | 262097 | [262097-uncharted-ocean-adventures-at-the-poles.json](./262097-uncharted-ocean-adventures-at-the-poles.json) |
 | Uncharted Sectors | 375254 | [375254-uncharted-sectors.json](./375254-uncharted-sectors.json) |
+| Uncharted Space: Project 3062 | 204891 | [204891-uncharted-space-project-3062.json](./204891-uncharted-space-project-3062.json) |
 | Uncharted Tides: Port Royal | 121450 | [121450-uncharted-tides-port-royal.json](./121450-uncharted-tides-port-royal.json) |
 | Uncharted Tides: Port Royal | 400940 | [400940-uncharted-tides-port-royal.json](./400940-uncharted-tides-port-royal.json) |
 | Uncharted Waters | 340800 | [340800-uncharted-waters.json](./340800-uncharted-waters.json) |
@@ -1298,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Shelter | 146550 | [146550-under-shelter.json](./146550-under-shelter.json) |
 | Under Siege | 383347 | [383347-under-siege.json](./383347-under-siege.json) |
 | Under Siege | 95467 | [95467-under-siege.json](./95467-under-siege.json) |
+| Under Siege 2 | 204897 | [204897-under-siege-2.json](./204897-under-siege-2.json) |
 | Under Southern Skies | 25035 | [25035-under-southern-skies.json](./25035-under-southern-skies.json) |
 | Under Spire | 117686 | [117686-under-spire.json](./117686-under-spire.json) |
 | Under the bed | 179728 | [179728-under-the-bed.json](./179728-under-the-bed.json) |
