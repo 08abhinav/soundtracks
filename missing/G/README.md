@@ -409,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Gladiators | 186342 | [186342-galactic-gladiators.json](./186342-galactic-gladiators.json) |
 | Galactic Gladiators | 22488 | [22488-galactic-gladiators.json](./22488-galactic-gladiators.json) |
 | Galactic Gladiators | 5473 | [5473-galactic-gladiators.json](./5473-galactic-gladiators.json) |
+| Galactic Glitch | 250761 | [250761-galactic-glitch.json](./250761-galactic-glitch.json) |
 | Galactic Glitch: Prologue | 211690 | [211690-galactic-glitch-prologue.json](./211690-galactic-glitch-prologue.json) |
 | Galactic Guardian | 316807 | [316807-galactic-guardian.json](./316807-galactic-guardian.json) |
 | Galactic Gym: Fitness Center Management | 199610 | [199610-galactic-gym-fitness-center-management.json](./199610-galactic-gym-fitness-center-management.json) |
@@ -2591,6 +2592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Rektorized | 207522 | [207522-get-rektorized.json](./207522-get-rektorized.json) |
 | Get Rich | 311645 | [311645-get-rich.json](./311645-get-rich.json) |
 | Get Rich or Die Gaming | 34627 | [34627-get-rich-or-die-gaming.json](./34627-get-rich-or-die-gaming.json) |
+| Get Rich Slow | 250779 | [250779-get-rich-slow.json](./250779-get-rich-slow.json) |
 | Get Rich! | 180704 | [180704-get-rich.json](./180704-get-rich.json) |
 | Get Rid Of Those Corners | 401523 | [401523-get-rid-of-those-corners.json](./401523-get-rid-of-those-corners.json) |
 | Get Ride! AM Driver: Soukoku no Shinjitsu | 191488 | [191488-get-ride-am-driver-soukoku-no-shinjitsu.json](./191488-get-ride-am-driver-soukoku-no-shinjitsu.json) |
