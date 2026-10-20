@@ -1692,6 +1692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darling, Darling... Dead? | 363680 | [363680-darling-darling-dead.json](./363680-darling-darling-dead.json) |
 | Darn Guy Adventures | 365183 | [365183-darn-guy-adventures.json](./365183-darn-guy-adventures.json) |
 | Darok | 309447 | [309447-darok.json](./309447-darok.json) |
+| Darold the Doomer: Back 2 Reality | 220004 | [220004-darold-the-doomer-back-2-reality.json](./220004-darold-the-doomer-back-2-reality.json) |
 | Darq: The Crypt | 167767 | [167767-darq-the-crypt.json](./167767-darq-the-crypt.json) |
 | Darrell 3D | 416678 | [416678-darrell-3d.json](./416678-darrell-3d.json) |
 | Darso Roads | 325815 | [325815-darso-roads.json](./325815-darso-roads.json) |
@@ -1891,6 +1892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Datamine | 85074 | [85074-datamine.json](./85074-datamine.json) |
 | Dataminer | 183876 | [183876-dataminer.json](./183876-dataminer.json) |
 | Datascape | 96128 | [96128-datascape.json](./96128-datascape.json) |
+| Datasight | 220005 | [220005-datasight.json](./220005-datasight.json) |
 | Datbyel's Nebula | 309744 | [309744-datbyels-nebula.json](./309744-datbyels-nebula.json) |
 | Date A Live: Arusu Install - Limited Edition | 86225 | [86225-date-a-live-arusu-install-limited-edition.json](./86225-date-a-live-arusu-install-limited-edition.json) |
 | Date A Live: Ren Dystopia | 114150 | [114150-date-a-live-ren-dystopia.json](./114150-date-a-live-ren-dystopia.json) |
@@ -2026,6 +2028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Anarchy | 274773 | [274773-dawn-of-anarchy.json](./274773-dawn-of-anarchy.json) |
 | Dawn of Andromeda | 28533 | [28533-dawn-of-andromeda.json](./28533-dawn-of-andromeda.json) |
 | Dawn of Andromeda: Subterfuge | 172120 | [172120-dawn-of-andromeda-subterfuge.json](./172120-dawn-of-andromeda-subterfuge.json) |
+| Dawn of Arba | 220007 | [220007-dawn-of-arba.json](./220007-dawn-of-arba.json) |
 | Dawn of Dark Blood | 229210 | [229210-dawn-of-dark-blood.json](./229210-dawn-of-dark-blood.json) |
 | Dawn of Darkness | 275204 | [275204-dawn-of-darkness.json](./275204-dawn-of-darkness.json) |
 | Dawn of Defense | 310733 | [310733-dawn-of-defense.json](./310733-dawn-of-defense.json) |
@@ -2045,6 +2048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Insolence | 271110 | [271110-dawn-of-insolence.json](./271110-dawn-of-insolence.json) |
 | Dawn of Kagura: Hatsuka's Story | 325310 | [325310-dawn-of-kagura-hatsukas-story.json](./325310-dawn-of-kagura-hatsukas-story.json) |
 | Dawn of Kagura: Keika's Story | 325309 | [325309-dawn-of-kagura-keikas-story.json](./325309-dawn-of-kagura-keikas-story.json) |
+| Dawn of Kagura: Maika's Story - The Dragon's Wrath | 220008 | [220008-dawn-of-kagura-maikas-story-the-dragons-wrath.json](./220008-dawn-of-kagura-maikas-story-the-dragons-wrath.json) |
 | Dawn of Mages | 241855 | [241855-dawn-of-mages.json](./241855-dawn-of-mages.json) |
 | Dawn of Magic | 11024 | [11024-dawn-of-magic.json](./11024-dawn-of-magic.json) |
 | Dawn of Magic 2 | 11025 | [11025-dawn-of-magic-2.json](./11025-dawn-of-magic-2.json) |
@@ -2992,6 +2996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Delivery | 344162 | [344162-deadly-delivery.json](./344162-deadly-delivery.json) |
 | Deadly Delivery | 99499 | [99499-deadly-delivery.json](./99499-deadly-delivery.json) |
 | Deadly Delivery: Goldmoon Update | 400668 | [400668-deadly-delivery-goldmoon-update.json](./400668-deadly-delivery-goldmoon-update.json) |
+| Deadly Desert | 220009 | [220009-deadly-desert.json](./220009-deadly-desert.json) |
 | Deadly Desire | 232915 | [232915-deadly-desire.json](./232915-deadly-desire.json) |
 | Deadly Dozen | 27479 | [27479-deadly-dozen.json](./27479-deadly-dozen.json) |
 | Deadly Dozen Reloaded | 193753 | [193753-deadly-dozen-reloaded.json](./193753-deadly-dozen-reloaded.json) |
@@ -3629,6 +3634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deceptiive Love Ballad The Blasphemer | 386840 | [386840-deceptiive-love-ballad-the-blasphemer.json](./386840-deceptiive-love-ballad-the-blasphemer.json) |
 | Deception | 171413 | [171413-deception.json](./171413-deception.json) |
 | Deception IV: The Nightmare Princess | 44650 | [44650-deception-iv-the-nightmare-princess.json](./44650-deception-iv-the-nightmare-princess.json) |
+| Deceptus | 220011 | [220011-deceptus.json](./220011-deceptus.json) |
 | Deceptus Map Pack + Bonus Items | 230934 | [230934-deceptus-map-pack-bonus-items.json](./230934-deceptus-map-pack-bonus-items.json) |
 | Decide 4 God | 173046 | [173046-decide-4-god.json](./173046-decide-4-god.json) |
 | Decide in 5 Seconds: Who Is the Culprit? | 409665 | [409665-decide-in-5-seconds-who-is-the-culprit.json](./409665-decide-in-5-seconds-who-is-the-culprit.json) |
@@ -3732,6 +3738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deconstruction Lab | 111228 | [111228-deconstruction-lab.json](./111228-deconstruction-lab.json) |
 | Deconstuctor | 102367 | [102367-deconstuctor.json](./102367-deconstuctor.json) |
 | Decontamination | 335879 | [335879-decontamination.json](./335879-decontamination.json) |
+| Decopins: Asset Fighters Series | 220012 | [220012-decopins-asset-fighters-series.json](./220012-decopins-asset-fighters-series.json) |
 | Decopins2 | 268320 | [268320-decopins2.json](./268320-decopins2.json) |
 | Decor Dream | 305845 | [305845-decor-dream.json](./305845-decor-dream.json) |
 | Decoration Disorder Disconnection 1 | 375544 | [375544-decoration-disorder-disconnection-1.json](./375544-decoration-disorder-disconnection-1.json) |
