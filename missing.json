@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T13:34:01.869Z",
-  "total_missing": 237928,
+  "generated_at": "2026-10-20T13:49:38.017Z",
+  "total_missing": 237978,
   "games": [
     {
       "igdb_id": 191680,
@@ -37172,6 +37172,11 @@
       "file": "missing/A/25132-alien.json"
     },
     {
+      "igdb_id": 224408,
+      "game_name": "Alien 3",
+      "file": "missing/A/224408-alien-3.json"
+    },
+    {
       "igdb_id": 273014,
       "game_name": "Alien 3",
       "file": "missing/A/273014-alien-3.json"
@@ -52550,6 +52555,11 @@
       "igdb_id": 326043,
       "game_name": "Another Christmas Game",
       "file": "missing/A/326043-another-christmas-game.json"
+    },
+    {
+      "igdb_id": 224401,
+      "game_name": "Another City: Sigongui Teum",
+      "file": "missing/A/224401-another-city-sigongui-teum.json"
     },
     {
       "igdb_id": 266696,
@@ -74817,6 +74827,11 @@
       "file": "missing/A/52430-atlas-reactor-all-freelancers-pack.json"
     },
     {
+      "igdb_id": 224436,
+      "game_name": "Atlas Reactor: Necrolancer Freelancer Six Pack",
+      "file": "missing/A/224436-atlas-reactor-necrolancer-freelancer-six-pack.json"
+    },
+    {
       "igdb_id": 52429,
       "game_name": "Atlas Reactor: Ultimate Reactor Pack",
       "file": "missing/A/52429-atlas-reactor-ultimate-reactor-pack.json"
@@ -74960,6 +74975,11 @@
       "igdb_id": 183961,
       "game_name": "Atom OI",
       "file": "missing/A/183961-atom-oi.json"
+    },
+    {
+      "igdb_id": 224437,
+      "game_name": "Atom RPG: Trudograd - War Supply Pack",
+      "file": "missing/A/224437-atom-rpg-trudograd-war-supply-pack.json"
     },
     {
       "igdb_id": 227181,
@@ -75277,6 +75297,11 @@
       "file": "missing/A/76954-atomicrops.json"
     },
     {
+      "igdb_id": 224435,
+      "game_name": "Atomicrops: Deerly Beloved",
+      "file": "missing/A/224435-atomicrops-deerly-beloved.json"
+    },
+    {
       "igdb_id": 154542,
       "game_name": "Atomicrops: Deluxe Edition",
       "file": "missing/A/154542-atomicrops-deluxe-edition.json"
@@ -75495,6 +75520,11 @@
       "igdb_id": 73551,
       "game_name": "Atrox",
       "file": "missing/A/73551-atrox.json"
+    },
+    {
+      "igdb_id": 224440,
+      "game_name": "ATSF Wagon Pack 01",
+      "file": "missing/A/224440-atsf-wagon-pack-01.json"
     },
     {
       "igdb_id": 224100,
@@ -77777,6 +77807,11 @@
       "file": "missing/A/352740-automobilista-2-lamborghini-dream-pack-pt1.json"
     },
     {
+      "igdb_id": 224441,
+      "game_name": "Automobilista 2: Monza Pack",
+      "file": "missing/A/224441-automobilista-2-monza-pack.json"
+    },
+    {
       "igdb_id": 371520,
       "game_name": "Automobilista 2: Nürburgring 2025",
       "file": "missing/A/371520-automobilista-2-nurburgring-2025.json"
@@ -77792,9 +77827,24 @@
       "file": "missing/A/169333-automobilista-2-racin-usa.json"
     },
     {
+      "igdb_id": 224442,
+      "game_name": "Automobilista 2: Racin' USA Pack Pt.1",
+      "file": "missing/A/224442-automobilista-2-racin-usa-pack-pt-1.json"
+    },
+    {
+      "igdb_id": 224443,
+      "game_name": "Automobilista 2: Racin' USA Pack Pt.2",
+      "file": "missing/A/224443-automobilista-2-racin-usa-pack-pt-2.json"
+    },
+    {
       "igdb_id": 227517,
       "game_name": "Automobilista 2: Racin' USA Pack Pt3",
       "file": "missing/A/227517-automobilista-2-racin-usa-pack-pt3.json"
+    },
+    {
+      "igdb_id": 224444,
+      "game_name": "Automobilista 2: Silverstone Pack",
+      "file": "missing/A/224444-automobilista-2-silverstone-pack.json"
     },
     {
       "igdb_id": 171084,
@@ -79105,6 +79155,16 @@
       "igdb_id": 75245,
       "game_name": "Avicii Invector",
       "file": "missing/A/75245-avicii-invector.json"
+    },
+    {
+      "igdb_id": 224445,
+      "game_name": "Avicii Invector: Magma Track Pack",
+      "file": "missing/A/224445-avicii-invector-magma-track-pack.json"
+    },
+    {
+      "igdb_id": 224446,
+      "game_name": "Avicii Invector: Tim Track Pack",
+      "file": "missing/A/224446-avicii-invector-tim-track-pack.json"
     },
     {
       "igdb_id": 108980,
@@ -111105,6 +111165,11 @@
       "igdb_id": 369690,
       "game_name": "Binarycurse",
       "file": "missing/B/369690-binarycurse.json"
+    },
+    {
+      "igdb_id": 224417,
+      "game_name": "BinaryDefense",
+      "file": "missing/B/224417-binarydefense.json"
     },
     {
       "igdb_id": 130724,
@@ -213882,6 +213947,11 @@
       "file": "missing/C/251969-creatures-of-ravenwood.json"
     },
     {
+      "igdb_id": 224418,
+      "game_name": "Creatures of the Deep",
+      "file": "missing/C/224418-creatures-of-the-deep.json"
+    },
+    {
       "igdb_id": 335391,
       "game_name": "Creatures of the Night",
       "file": "missing/C/335391-creatures-of-the-night.json"
@@ -267752,6 +267822,21 @@
       "file": "missing/D/41848-dissidia-duodecim-prologus-final-fantasy.json"
     },
     {
+      "igdb_id": 224425,
+      "game_name": "Dissidia Final Fantasy NT: 3rd Appearance Special Set for Warrior of Light and Y'shtola",
+      "file": "missing/D/224425-dissidia-final-fantasy-nt-3rd-appearance-special-set-for-warrior-of-light-and-yshtola.json"
+    },
+    {
+      "igdb_id": 224427,
+      "game_name": "Dissidia Final Fantasy NT: Samurai App. Set & 5th Weapon for Bartz Klauser",
+      "file": "missing/D/224427-dissidia-final-fantasy-nt-samurai-app-set-and-5th-weapon-for-bartz-klauser.json"
+    },
+    {
+      "igdb_id": 224429,
+      "game_name": "Dissidia Final Fantasy NT: Songstress's Garb Appearance Set & 5th Weapon for Yuna",
+      "file": "missing/D/224429-dissidia-final-fantasy-nt-songstresss-garb-appearance-set-and-5th-weapon-for-yuna.json"
+    },
+    {
       "igdb_id": 386253,
       "game_name": "Dissidia Final Fantasy NT: Special Steelbook Edition",
       "file": "missing/D/386253-dissidia-final-fantasy-nt-special-steelbook-edition.json"
@@ -272495,6 +272580,11 @@
       "igdb_id": 34721,
       "game_name": "Dolguth",
       "file": "missing/D/34721-dolguth.json"
+    },
+    {
+      "igdb_id": 224402,
+      "game_name": "Dolgyeogyongsa Kiugi: Bangchihyeong RPG",
+      "file": "missing/D/224402-dolgyeogyongsa-kiugi-bangchihyeong-rpg.json"
     },
     {
       "igdb_id": 97852,
@@ -281590,6 +281680,11 @@
       "igdb_id": 67273,
       "game_name": "Drag Me Home",
       "file": "missing/D/67273-drag-me-home.json"
+    },
+    {
+      "igdb_id": 224420,
+      "game_name": "Drag n Merge Hexagons",
+      "file": "missing/D/224420-drag-n-merge-hexagons.json"
     },
     {
       "igdb_id": 127788,
@@ -350977,6 +351072,11 @@
       "file": "missing/F/80877-final-fantasy-xv-royal-edition.json"
     },
     {
+      "igdb_id": 224410,
+      "game_name": "Final Fantasy XV: Royal Pack",
+      "file": "missing/F/224410-final-fantasy-xv-royal-pack.json"
+    },
+    {
       "igdb_id": 205260,
       "game_name": "Final Fantasy XV: Special Edition",
       "file": "missing/F/205260-final-fantasy-xv-special-edition.json"
@@ -376125,6 +376225,11 @@
       "igdb_id": 198346,
       "game_name": "Friday Night Funkin': Vs Shitass Full Week",
       "file": "missing/F/198346-friday-night-funkin-vs-shitass-full-week.json"
+    },
+    {
+      "igdb_id": 224396,
+      "game_name": "Friday Night Funkin': VS Shy-Girl",
+      "file": "missing/F/224396-friday-night-funkin-vs-shy-girl.json"
     },
     {
       "igdb_id": 225302,
@@ -431882,6 +431987,11 @@
       "file": "missing/H/60347-hanayaka-nari-waga-ichizoku-gentou-nostalgie.json"
     },
     {
+      "igdb_id": 224447,
+      "game_name": "Hanayaka Nari, Waga Ichizoku Kinema Mosaic",
+      "file": "missing/H/224447-hanayaka-nari-waga-ichizoku-kinema-mosaic.json"
+    },
+    {
       "igdb_id": 136796,
       "game_name": "Hanayaka Nari, Waga Ichizoku Modern Nostalgie",
       "file": "missing/H/136796-hanayaka-nari-waga-ichizoku-modern-nostalgie.json"
@@ -458390,6 +458500,11 @@
       "igdb_id": 79317,
       "game_name": "HIT: Heroes of Incredible Tales",
       "file": "missing/H/79317-hit-heroes-of-incredible-tales.json"
+    },
+    {
+      "igdb_id": 224397,
+      "game_name": "Hit: Reboot",
+      "file": "missing/H/224397-hit-reboot.json"
     },
     {
       "igdb_id": 358658,
@@ -509765,6 +509880,11 @@
       "igdb_id": 33203,
       "game_name": "JiPS",
       "file": "missing/J/33203-jips.json"
+    },
+    {
+      "igdb_id": 224403,
+      "game_name": "Jipsaya Bap Jwo!",
+      "file": "missing/J/224403-jipsaya-bap-jwo.json"
     },
     {
       "igdb_id": 333798,
@@ -585592,6 +585712,11 @@
       "file": "missing/M/257857-magicbeans.json"
     },
     {
+      "igdb_id": 224409,
+      "game_name": "MagicCraft",
+      "file": "missing/M/224409-magiccraft.json"
+    },
+    {
       "igdb_id": 319093,
       "game_name": "Magician",
       "file": "missing/M/319093-magician.json"
@@ -630602,6 +630727,11 @@
       "file": "missing/M/185373-misled-puzzled.json"
     },
     {
+      "igdb_id": 224411,
+      "game_name": "Mislight",
+      "file": "missing/M/224411-mislight.json"
+    },
+    {
       "igdb_id": 166586,
       "game_name": "Miso Nikki",
       "file": "missing/M/166586-miso-nikki.json"
@@ -654250,6 +654380,11 @@
       "igdb_id": 407990,
       "game_name": "Muv-Luv: Tactics Kalidasa at Nightmare",
       "file": "missing/M/407990-muv-luv-tactics-kalidasa-at-nightmare.json"
+    },
+    {
+      "igdb_id": 224405,
+      "game_name": "Muyagangho",
+      "file": "missing/M/224405-muyagangho.json"
     },
     {
       "igdb_id": 67230,
@@ -688082,6 +688217,11 @@
       "file": "missing/N/144947-nordicandia.json"
     },
     {
+      "igdb_id": 224419,
+      "game_name": "Nordland Mahjongg",
+      "file": "missing/N/224419-nordland-mahjongg.json"
+    },
+    {
       "igdb_id": 119776,
       "game_name": "Nordlicht",
       "file": "missing/N/119776-nordlicht.json"
@@ -719935,6 +720075,11 @@
       "igdb_id": 204090,
       "game_name": "Panta Rhei",
       "file": "missing/P/204090-panta-rhei.json"
+    },
+    {
+      "igdb_id": 224404,
+      "game_name": "Pantaji Yeodongsaeng : Sujipyeong Bangchi RPG",
+      "file": "missing/P/224404-pantaji-yeodongsaeng-sujipyeong-bangchi-rpg.json"
     },
     {
       "igdb_id": 221681,
@@ -799097,6 +799242,11 @@
       "file": "missing/R/74002-raven-chapter-1-the-commands-of-eurybia.json"
     },
     {
+      "igdb_id": 224406,
+      "game_name": "Raven: The Rise",
+      "file": "missing/R/224406-raven-the-rise.json"
+    },
+    {
       "igdb_id": 7686,
       "game_name": "Raven's Cry",
       "file": "missing/R/7686-ravens-cry.json"
@@ -830852,6 +831002,11 @@
       "file": "missing/R/164493-romance-of-the-three-kingdoms-xiii-sun-ce-pushing-forward-event-set.json"
     },
     {
+      "igdb_id": 224424,
+      "game_name": "Romance of the Three Kingdoms XIII: The Subjugation of Southern Jing Province Event Set",
+      "file": "missing/R/224424-romance-of-the-three-kingdoms-xiii-the-subjugation-of-southern-jing-province-event-set.json"
+    },
+    {
       "igdb_id": 164502,
       "game_name": "Romance of the Three Kingdoms XIII: Zhuge Liang's Northern Campaign Event Set",
       "file": "missing/R/164502-romance-of-the-three-kingdoms-xiii-zhuge-liangs-northern-campaign-event-set.json"
@@ -837447,6 +837602,11 @@
       "file": "missing/R/202215-rune-ii-god-slayer-edition.json"
     },
     {
+      "igdb_id": 224423,
+      "game_name": "Rune II: Wolf Armor + Weapon Set",
+      "file": "missing/R/224423-rune-ii-wolf-armor-weapon-set.json"
+    },
+    {
       "igdb_id": 278674,
       "game_name": "Rune in the Three Kingdoms",
       "file": "missing/R/278674-rune-in-the-three-kingdoms.json"
@@ -840275,6 +840435,11 @@
       "igdb_id": 381977,
       "game_name": "S.O.R.T.",
       "file": "missing/S/381977-s-o-r-t.json"
+    },
+    {
+      "igdb_id": 224399,
+      "game_name": "S.O.S: State of Survival",
+      "file": "missing/S/224399-s-o-s-state-of-survival.json"
     },
     {
       "igdb_id": 152976,
@@ -883177,6 +883342,11 @@
       "file": "missing/S/396479-sinuca-de-bar.json"
     },
     {
+      "igdb_id": 224400,
+      "game_name": "Sinui Yeongyeok",
+      "file": "missing/S/224400-sinui-yeongyeok.json"
+    },
+    {
       "igdb_id": 320457,
       "game_name": "Sinvers on Wheels",
       "file": "missing/S/320457-sinvers-on-wheels.json"
@@ -886010,6 +886180,11 @@
       "igdb_id": 172129,
       "game_name": "Skirmish Line: Mad Jack",
       "file": "missing/S/172129-skirmish-line-mad-jack.json"
+    },
+    {
+      "igdb_id": 224428,
+      "game_name": "Skirmish Mayhem",
+      "file": "missing/S/224428-skirmish-mayhem.json"
     },
     {
       "igdb_id": 223368,
@@ -929415,6 +929590,11 @@
       "igdb_id": 354436,
       "game_name": "Star Conflict: Pirate Weapons Pack",
       "file": "missing/S/354436-star-conflict-pirate-weapons-pack.json"
+    },
+    {
+      "igdb_id": 224421,
+      "game_name": "Star Conflict: Plague Doctor",
+      "file": "missing/S/224421-star-conflict-plague-doctor.json"
     },
     {
       "igdb_id": 297340,
@@ -980907,6 +981087,11 @@
       "file": "missing/T/95925-tales-of-nebezem-mind-trial.json"
     },
     {
+      "igdb_id": 224398,
+      "game_name": "Tales of Pantheon: Summoners Arena",
+      "file": "missing/T/224398-tales-of-pantheon-summoners-arena.json"
+    },
+    {
       "igdb_id": 1200,
       "game_name": "Tales of Phantasia",
       "file": "missing/T/1200-tales-of-phantasia.json"
@@ -1022837,6 +1023022,11 @@
       "file": "missing/T/167067-the-legend-of-heroes-trails-of-cold-steel-iii-limited-kiseki-box.json"
     },
     {
+      "igdb_id": 224426,
+      "game_name": "The Legend of Heroes: Trails of Cold Steel IV - Attachment Set",
+      "file": "missing/T/224426-the-legend-of-heroes-trails-of-cold-steel-iv-attachment-set.json"
+    },
+    {
       "igdb_id": 169218,
       "game_name": "The Legend of Heroes: Trails of Cold Steel IV - Digital Deluxe Edition",
       "file": "missing/T/169218-the-legend-of-heroes-trails-of-cold-steel-iv-digital-deluxe-edition.json"
@@ -1041820,6 +1042010,11 @@
       "igdb_id": 292549,
       "game_name": "The Temple",
       "file": "missing/T/292549-the-temple.json"
+    },
+    {
+      "igdb_id": 224414,
+      "game_name": "The Temple Of",
+      "file": "missing/T/224414-the-temple-of.json"
     },
     {
       "igdb_id": 165406,
@@ -1069345,6 +1069540,11 @@
       "igdb_id": 1841,
       "game_name": "Tom Clancy's Rainbow Six Mission Pack: Eagle Watch",
       "file": "missing/T/1841-tom-clancys-rainbow-six-mission-pack-eagle-watch.json"
+    },
+    {
+      "igdb_id": 224422,
+      "game_name": "Tom Clancy's Rainbow Six Siege - Pro League Clash Set",
+      "file": "missing/T/224422-tom-clancys-rainbow-six-siege-pro-league-clash-set.json"
     },
     {
       "igdb_id": 144734,
@@ -1137457,9 +1137657,19 @@
       "file": "missing/W/7630-warhammer-40-000-eternal-crusade.json"
     },
     {
+      "igdb_id": 224431,
+      "game_name": "Warhammer 40,000: Eternal Crusade - Abaddon War Pack",
+      "file": "missing/W/224431-warhammer-40-000-eternal-crusade-abaddon-war-pack.json"
+    },
+    {
       "igdb_id": 225868,
       "game_name": "Warhammer 40,000: Eternal Crusade - Belial War Pack",
       "file": "missing/W/225868-warhammer-40-000-eternal-crusade-belial-war-pack.json"
+    },
+    {
+      "igdb_id": 224433,
+      "game_name": "Warhammer 40,000: Eternal Crusade - Champion Weapon Pack",
+      "file": "missing/W/224433-warhammer-40-000-eternal-crusade-champion-weapon-pack.json"
     },
     {
       "igdb_id": 53902,
@@ -1137467,9 +1137677,24 @@
       "file": "missing/W/53902-warhammer-40-000-eternal-crusade-imperium-edition.json"
     },
     {
+      "igdb_id": 224434,
+      "game_name": "Warhammer 40,000: Eternal Crusade - Mael Dannan Weapon Pack",
+      "file": "missing/W/224434-warhammer-40-000-eternal-crusade-mael-dannan-weapon-pack.json"
+    },
+    {
       "igdb_id": 53901,
       "game_name": "Warhammer 40,000: Eternal Crusade - Squadron Edition",
       "file": "missing/W/53901-warhammer-40-000-eternal-crusade-squadron-edition.json"
+    },
+    {
+      "igdb_id": 224432,
+      "game_name": "Warhammer 40,000: Eternal Crusade - Waaagh! Weapon Pack",
+      "file": "missing/W/224432-warhammer-40-000-eternal-crusade-waaagh-weapon-pack.json"
+    },
+    {
+      "igdb_id": 224430,
+      "game_name": "Warhammer 40,000: Eternal Crusade - Zealot Weapon Pack",
+      "file": "missing/W/224430-warhammer-40-000-eternal-crusade-zealot-weapon-pack.json"
     },
     {
       "igdb_id": 9550,
@@ -1164057,6 +1164282,11 @@
       "file": "missing/W/332045-world-war-z-victory-lap-weapons-skin-pack.json"
     },
     {
+      "igdb_id": 224394,
+      "game_name": "World War Z: Zeke Hunter Weapons Pack",
+      "file": "missing/W/224394-world-war-z-zeke-hunter-weapons-pack.json"
+    },
+    {
       "igdb_id": 127176,
       "game_name": "World War Zero",
       "file": "missing/W/127176-world-war-zero.json"
@@ -1169442,6 +1169672,11 @@
       "file": "missing/X/9321-x3-albion-prelude.json"
     },
     {
+      "igdb_id": 224391,
+      "game_name": "X3: Albion Prelude - Bonus Package",
+      "file": "missing/X/224391-x3-albion-prelude-bonus-package.json"
+    },
+    {
       "igdb_id": 145483,
       "game_name": "X3: Farnham's Legacy",
       "file": "missing/X/145483-x3-farnhams-legacy.json"
@@ -1169452,9 +1169687,19 @@
       "file": "missing/X/53102-x3-goldbox.json"
     },
     {
+      "igdb_id": 224392,
+      "game_name": "X3: Reunion - Bonus Package",
+      "file": "missing/X/224392-x3-reunion-bonus-package.json"
+    },
+    {
       "igdb_id": 9320,
       "game_name": "X3: Terran Conflict",
       "file": "missing/X/9320-x3-terran-conflict.json"
+    },
+    {
+      "igdb_id": 224393,
+      "game_name": "X3: Terran Conflict - Bonus Package",
+      "file": "missing/X/224393-x3-terran-conflict-bonus-package.json"
     },
     {
       "igdb_id": 369445,
@@ -1174045,6 +1174290,11 @@
       "igdb_id": 236885,
       "game_name": "YesterSol",
       "file": "missing/Y/236885-yestersol.json"
+    },
+    {
+      "igdb_id": 224416,
+      "game_name": "Yestertide",
+      "file": "missing/Y/224416-yestertide.json"
     },
     {
       "igdb_id": 412978,
