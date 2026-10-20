@@ -14228,6 +14228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Ace Assassin: Capital Galaxy | 401885 | [401885-space-ace-assassin-capital-galaxy.json](./401885-space-ace-assassin-capital-galaxy.json) |
 | Space Aces | 385895 | [385895-space-aces.json](./385895-space-aces.json) |
 | Space Adventure | 100187 | [100187-space-adventure.json](./100187-space-adventure.json) |
+| Space Adventure | 233389 | [233389-space-adventure.json](./233389-space-adventure.json) |
 | Space Adventure | 297239 | [297239-space-adventure.json](./297239-space-adventure.json) |
 | Space Adventure | 390112 | [390112-space-adventure.json](./390112-space-adventure.json) |
 | Space Adventure Cobra: Galaxy Nights | 209726 | [209726-space-adventure-cobra-galaxy-nights.json](./209726-space-adventure-cobra-galaxy-nights.json) |
@@ -17332,6 +17333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Jump | 106377 | [106377-square-jump.json](./106377-square-jump.json) |
 | Square Jump | 340175 | [340175-square-jump.json](./340175-square-jump.json) |
 | Square Keeper | 201481 | [201481-square-keeper.json](./201481-square-keeper.json) |
+| Square Life | 233367 | [233367-square-life.json](./233367-square-life.json) |
 | Square Logic | 269206 | [269206-square-logic.json](./269206-square-logic.json) |
 | Square Love | 359554 | [359554-square-love.json](./359554-square-love.json) |
 | Square Massacre | 76526 | [76526-square-massacre.json](./76526-square-massacre.json) |
