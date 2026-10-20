@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaapelipeli: The Cable Game | 138260 | [138260-kaapelipeli-the-cable-game.json](./138260-kaapelipeli-the-cable-game.json) |
 | Kaardik | 253500 | [253500-kaardik.json](./253500-kaardik.json) |
 | Kabaneri of the Iron Fortress: Ran - Hajimaru Michiato | 89983 | [89983-kabaneri-of-the-iron-fortress-ran-hajimaru-michiato.json](./89983-kabaneri-of-the-iron-fortress-ran-hajimaru-michiato.json) |
+| Kabe wo Norikoete | 206562 | [206562-kabe-wo-norikoete.json](./206562-kabe-wo-norikoete.json) |
 | Kabedon Kareshi: Manatsu no Charao | 240227 | [240227-kabedon-kareshi-manatsu-no-charao.json](./240227-kabedon-kareshi-manatsu-no-charao.json) |
 | Kabenaguri | 367724 | [367724-kabenaguri.json](./367724-kabenaguri.json) |
 | Kabitis | 32615 | [32615-kabitis.json](./32615-kabitis.json) |
@@ -548,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanji Industry | 240667 | [240667-kanji-industry.json](./240667-kanji-industry.json) |
 | Kanji Kitchen: Learn Japanese | 266760 | [266760-kanji-kitchen-learn-japanese.json](./266760-kanji-kitchen-learn-japanese.json) |
 | Kanji no Owari! | 56450 | [56450-kanji-no-owari.json](./56450-kanji-no-owari.json) |
+| Kanji Parkour | 206556 | [206556-kanji-parkour.json](./206556-kanji-parkour.json) |
 | Kanji Searcher | 151710 | [151710-kanji-searcher.json](./151710-kanji-searcher.json) |
 | Kanji Swipe: Sliding Puzzle | 174293 | [174293-kanji-swipe-sliding-puzzle.json](./174293-kanji-swipe-sliding-puzzle.json) |
 | Kanji Trainer Portable | 56749 | [56749-kanji-trainer-portable.json](./56749-kanji-trainer-portable.json) |
@@ -1696,6 +1698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidnappers | 301610 | [301610-kidnappers.json](./301610-kidnappers.json) |
 | Kidney Stone Clicker | 369630 | [369630-kidney-stone-clicker.json](./369630-kidney-stone-clicker.json) |
 | Kido Keisatstsu Patlabor: Griffon-hen | 75897 | [75897-kido-keisatstsu-patlabor-griffon-hen.json](./75897-kido-keisatstsu-patlabor-griffon-hen.json) |
+| Kidou Club G: Braver Burst | 206549 | [206549-kidou-club-g-braver-burst.json](./206549-kidou-club-g-braver-burst.json) |
 | Kidou Gekidan Haro Ichiza: Gundam Mahjong + Z: Sara ni Deki Ruyouni Nattana! | 79185 | [79185-kidou-gekidan-haro-ichiza-gundam-mahjong-z-sara-ni-deki-ruyouni-nattana.json](./79185-kidou-gekidan-haro-ichiza-gundam-mahjong-z-sara-ni-deki-ruyouni-nattana.json) |
 | Kidou Keisatsu Patlabor | 44435 | [44435-kidou-keisatsu-patlabor.json](./44435-kidou-keisatsu-patlabor.json) |
 | Kidou Keisatsu Patlabor: 98-Shiki Kidou Seyo! | 46075 | [46075-kidou-keisatsu-patlabor-98-shiki-kidou-seyo.json](./46075-kidou-keisatsu-patlabor-98-shiki-kidou-seyo.json) |
@@ -2817,6 +2820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirakira Stars Idol Project Ai | 151604 | [151604-kirakira-stars-idol-project-ai.json](./151604-kirakira-stars-idol-project-ai.json) |
 | Kirakira Stars Idol Project Reika | 153830 | [153830-kirakira-stars-idol-project-reika.json](./153830-kirakira-stars-idol-project-reika.json) |
 | Kirari Nangoku Komugiiro: Shiofuki Paradise he Youkoso! | 194584 | [194584-kirari-nangoku-komugiiro-shiofuki-paradise-he-youkoso.json](./194584-kirari-nangoku-komugiiro-shiofuki-paradise-he-youkoso.json) |
+| Kirarin Dash | 206582 | [206582-kirarin-dash.json](./206582-kirarin-dash.json) |
 | Kirarin Revolution: Atsumete Change! Qurukira Coord | 70417 | [70417-kirarin-revolution-atsumete-change-qurukira-coord.json](./70417-kirarin-revolution-atsumete-change-qurukira-coord.json) |
 | Kirarin Revolution: Kira-kira Idol Audition | 70677 | [70677-kirarin-revolution-kira-kira-idol-audition.json](./70677-kirarin-revolution-kira-kira-idol-audition.json) |
 | Kirarin Revolution: Minna de Odorou Furi Furi Debut! | 70663 | [70663-kirarin-revolution-minna-de-odorou-furi-furi-debut.json](./70663-kirarin-revolution-minna-de-odorou-furi-furi-debut.json) |
@@ -3718,6 +3722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koffi Yellow Copter | 40797 | [40797-koffi-yellow-copter.json](./40797-koffi-yellow-copter.json) |
 | Kofi Quest | 212631 | [212631-kofi-quest.json](./212631-kofi-quest.json) |
 | Kofoin: Swarm Defense | 374821 | [374821-kofoin-swarm-defense.json](./374821-kofoin-swarm-defense.json) |
+| Kofun ha Ikiteiru: Maholova Club no Shitai Sagashi | 206563 | [206563-kofun-ha-ikiteiru-maholova-club-no-shitai-sagashi.json](./206563-kofun-ha-ikiteiru-maholova-club-no-shitai-sagashi.json) |
 | Kogent Defender | 102916 | [102916-kogent-defender.json](./102916-kogent-defender.json) |
 | Kogepan: Pan mo Game wo Yaru-rashii | 267588 | [267588-kogepan-pan-mo-game-wo-yaru-rashii.json](./267588-kogepan-pan-mo-game-wo-yaru-rashii.json) |
 | Koguma-Chan no Daibouken | 286586 | [286586-koguma-chan-no-daibouken.json](./286586-koguma-chan-no-daibouken.json) |
@@ -4697,6 +4702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyivan Rus | 214197 | [214197-kyivan-rus.json](./214197-kyivan-rus.json) |
 | Kyle is Famous: Complete Edition | 173138 | [173138-kyle-is-famous-complete-edition.json](./173138-kyle-is-famous-complete-edition.json) |
 | Kyle Petty's No Fear Racing | 42505 | [42505-kyle-pettys-no-fear-racing.json](./42505-kyle-pettys-no-fear-racing.json) |
+| Kyle Rittenhouse's Turkey Shoot | 206540 | [206540-kyle-rittenhouses-turkey-shoot.json](./206540-kyle-rittenhouses-turkey-shoot.json) |
 | Kyle Simulator | 120133 | [120133-kyle-simulator.json](./120133-kyle-simulator.json) |
 | Kyle's Monster Adventure | 180696 | [180696-kyles-monster-adventure.json](./180696-kyles-monster-adventure.json) |
 | Kylie Minogue: Breathe (1998).mp3 | 287876 | [287876-kylie-minogue-breathe-1998-mp3.json](./287876-kylie-minogue-breathe-1998-mp3.json) |
@@ -4751,6 +4757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyra's Light | 327797 | [327797-kyras-light.json](./327797-kyras-light.json) |
 | Kyrie and Terra | 327182 | [327182-kyrie-and-terra.json](./327182-kyrie-and-terra.json) |
 | Kyro | 50156 | [50156-kyro.json](./50156-kyro.json) |
+| Kyua | 206548 | [206548-kyua.json](./206548-kyua.json) |
 | Kyub Crazy Colors | 265431 | [265431-kyub-crazy-colors.json](./265431-kyub-crazy-colors.json) |
 | Kyubu Kyubu Dice | 215336 | [215336-kyubu-kyubu-dice.json](./215336-kyubu-kyubu-dice.json) |
 | Kyuiin | 78524 | [78524-kyuiin.json](./78524-kyuiin.json) |
