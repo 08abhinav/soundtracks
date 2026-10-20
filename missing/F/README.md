@@ -692,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall | 34073 | [34073-fall.json](./34073-fall.json) |
 | Fall | 364999 | [364999-fall.json](./364999-fall.json) |
 | Fall | 380756 | [380756-fall.json](./380756-fall.json) |
+| Fall and Destroy | 233891 | [233891-fall-and-destroy.json](./233891-fall-and-destroy.json) |
 | Fall Apartment | 183825 | [183825-fall-apartment.json](./183825-fall-apartment.json) |
 | Fall Asleep | 331465 | [331465-fall-asleep.json](./331465-fall-asleep.json) |
 | Fall Asleep | 381010 | [381010-fall-asleep.json](./381010-fall-asleep.json) |
@@ -6247,6 +6248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower Knight Girl | 109196 | [109196-flower-knight-girl.json](./109196-flower-knight-girl.json) |
 | Flower Lines | 69880 | [69880-flower-lines.json](./69880-flower-lines.json) |
 | Flower Magic | 108457 | [108457-flower-magic.json](./108457-flower-magic.json) |
+| Flower Memories | 233892 | [233892-flower-memories.json](./233892-flower-memories.json) |
 | Flower of Anarchy | 380218 | [380218-flower-of-anarchy.json](./380218-flower-of-anarchy.json) |
 | Flower of Ice Blossoming Under the Moon | 82918 | [82918-flower-of-ice-blossoming-under-the-moon.json](./82918-flower-of-ice-blossoming-under-the-moon.json) |
 | Flower Power | 354058 | [354058-flower-power.json](./354058-flower-power.json) |
@@ -9623,6 +9625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Language Opinions | 128637 | [128637-fruit-language-opinions.json](./128637-fruit-language-opinions.json) |
 | Fruit Link Go 3 | 89585 | [89585-fruit-link-go-3.json](./89585-fruit-link-go-3.json) |
 | Fruit Lockers Reborn! 2 | 114318 | [114318-fruit-lockers-reborn-2.json](./114318-fruit-lockers-reborn-2.json) |
+| Fruit Logic | 233923 | [233923-fruit-logic.json](./233923-fruit-logic.json) |
 | Fruit Loops | 271999 | [271999-fruit-loops.json](./271999-fruit-loops.json) |
 | Fruit Machine | 12999 | [12999-fruit-machine.json](./12999-fruit-machine.json) |
 | Fruit Machine | 315276 | [315276-fruit-machine.json](./315276-fruit-machine.json) |
