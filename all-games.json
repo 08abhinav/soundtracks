@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:47:46.150Z",
-  "total_soundtracks": 2295,
+  "generated_at": "2026-10-20T21:47:55.759Z",
+  "total_soundtracks": 2296,
   "games": [
     {
       "igdb_id": 7522,
@@ -28261,6 +28261,20 @@
         {
           "album_name": "Zombie Army 4: Dead War (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3CqXiVrkvWxbjhddXWz4jn",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 9546,
+      "game_name": "Zombie Night Terror",
+      "game_url": "https://ostdb.net/games/zombie-night-terror",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27326b41e085c5ad707c2c17c08",
+      "albums": [
+        {
+          "album_name": "Zombie Night Terror (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7CZhMNaXECulLmDZN1ZCgA",
           "apple_music_url": "",
           "album_link_url": ""
         }
