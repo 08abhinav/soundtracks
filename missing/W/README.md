@@ -2540,6 +2540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Well to Hell | 319214 | [319214-well-to-hell.json](./319214-well-to-hell.json) |
 | Well-Beings: Wellness for Kids | 192083 | [192083-well-beings-wellness-for-kids.json](./192083-well-beings-wellness-for-kids.json) |
 | Well, Fuck You Too | 352755 | [352755-well-fuck-you-too.json](./352755-well-fuck-you-too.json) |
+| Well... | 240082 | [240082-well.json](./240082-well.json) |
 | Wellington's Victory | 106728 | [106728-wellingtons-victory.json](./106728-wellingtons-victory.json) |
 | Wells | 31298 | [31298-wells.json](./31298-wells.json) |
 | Wellspring: Altar of Roots | 76984 | [76984-wellspring-altar-of-roots.json](./76984-wellspring-altar-of-roots.json) |
@@ -4251,6 +4252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windjammers | 11222 | [11222-windjammers.json](./11222-windjammers.json) |
 | Windlands | 15932 | [15932-windlands.json](./15932-windlands.json) |
 | Windosill | 15002 | [15002-windosill.json](./15002-windosill.json) |
+| Windosill: Steam Deck Edition | 240095 | [240095-windosill-steam-deck-edition.json](./240095-windosill-steam-deck-edition.json) |
 | Window Aquarista | 373679 | [373679-window-aquarista.json](./373679-window-aquarista.json) |
 | Window of Perspectives | 343966 | [343966-window-of-perspectives.json](./343966-window-of-perspectives.json) |
 | Window Seat | 409643 | [409643-window-seat.json](./409643-window-seat.json) |
@@ -4891,6 +4893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Withering Way | 253807 | [253807-withering-way.json](./253807-withering-way.json) |
 | Withers | 166570 | [166570-withers.json](./166570-withers.json) |
 | Witherspring Wilds | 391858 | [391858-witherspring-wilds.json](./391858-witherspring-wilds.json) |
+| Within | 240050 | [240050-within.json](./240050-within.json) |
 | Within | 377145 | [377145-within.json](./377145-within.json) |
 | Within | 391217 | [391217-within.json](./391217-within.json) |
 | Within | 415248 | [415248-within.json](./415248-within.json) |
