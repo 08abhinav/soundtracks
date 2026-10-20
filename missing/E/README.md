@@ -5451,6 +5451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ewoks | 373198 | [373198-ewoks.json](./373198-ewoks.json) |
 | EWorlds | 257404 | [257404-eworlds.json](./257404-eworlds.json) |
 | Ewwe | 106498 | [106498-ewwe.json](./106498-ewwe.json) |
+| Ex Angelus | 235622 | [235622-ex-angelus.json](./235622-ex-angelus.json) |
 | Ex Astris | 174610 | [174610-ex-astris.json](./174610-ex-astris.json) |
 | Ex Change | 406293 | [406293-ex-change.json](./406293-ex-change.json) |
 | Ex Libris | 403221 | [403221-ex-libris.json](./403221-ex-libris.json) |
