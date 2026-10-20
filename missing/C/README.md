@@ -2561,6 +2561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Formers | 154026 | [154026-castle-formers.json](./154026-castle-formers.json) |
 | Castle Grimholt | 142252 | [142252-castle-grimholt.json](./142252-castle-grimholt.json) |
 | Castle Guard | 42152 | [42152-castle-guard.json](./42152-castle-guard.json) |
+| Castle Guard: Tower Defence | 212637 | [212637-castle-guard-tower-defence.json](./212637-castle-guard-tower-defence.json) |
 | Castle Guardian | 264785 | [264785-castle-guardian.json](./264785-castle-guardian.json) |
 | Castle Hassle | 59452 | [59452-castle-hassle.json](./59452-castle-hassle.json) |
 | Castle Helios | 212741 | [212741-castle-helios.json](./212741-castle-helios.json) |
@@ -3858,6 +3859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial-World 2.0 | 130805 | [130805-celestial-world-2-0.json](./130805-celestial-world-2-0.json) |
 | Celestials Door | 310287 | [310287-celestials-door.json](./310287-celestials-door.json) |
 | Celestials Door | 380070 | [380070-celestials-door.json](./380070-celestials-door.json) |
+| Celestian Tales | 212635 | [212635-celestian-tales.json](./212635-celestian-tales.json) |
 | Celestian Tales: Old North | 17693 | [17693-celestian-tales-old-north.json](./17693-celestian-tales-old-north.json) |
 | Celestian Tales: Old North - Howl of the Ravager | 124779 | [124779-celestian-tales-old-north-howl-of-the-ravager.json](./124779-celestian-tales-old-north-howl-of-the-ravager.json) |
 | Celestian Tales: Realms Beyond | 55252 | [55252-celestian-tales-realms-beyond.json](./55252-celestian-tales-realms-beyond.json) |
