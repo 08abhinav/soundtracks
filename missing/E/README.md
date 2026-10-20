@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth, Fire, And Wind | 286044 | [286044-earth-fire-and-wind.json](./286044-earth-fire-and-wind.json) |
 | Earth: Revival | 215230 | [215230-earth-revival.json](./215230-earth-revival.json) |
 | Earth's Center of Gravity | 209667 | [209667-earths-center-of-gravity.json](./209667-earths-center-of-gravity.json) |
+| Earth's Greatest Defender | 244619 | [244619-earths-greatest-defender.json](./244619-earths-greatest-defender.json) |
 | Earth's Last Defense | 182535 | [182535-earths-last-defense.json](./182535-earths-last-defense.json) |
 | Earth's Shadow | 164078 | [164078-earths-shadow.json](./164078-earths-shadow.json) |
 | Earthborne | 303054 | [303054-earthborne.json](./303054-earthborne.json) |
@@ -3580,6 +3581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erika America | 351008 | [351008-erika-america.json](./351008-erika-america.json) |
 | Erika to Satoru no Yume Bouken | 48508 | [48508-erika-to-satoru-no-yume-bouken.json](./48508-erika-to-satoru-no-yume-bouken.json) |
 | Eriksholm: The Stolen Dream | 305107 | [305107-eriksholm-the-stolen-dream.json](./305107-eriksholm-the-stolen-dream.json) |
+| Erin and the Otherworld | 244632 | [244632-erin-and-the-otherworld.json](./244632-erin-and-the-otherworld.json) |
 | Erina & A Mansao Rosaria | 219253 | [219253-erina-and-a-mansao-rosaria.json](./219253-erina-and-a-mansao-rosaria.json) |
 | Erina to Kima no Miyako | 304137 | [304137-erina-to-kima-no-miyako.json](./304137-erina-to-kima-no-miyako.json) |
 | Erinaceinae Griminance | 309987 | [309987-erinaceinae-griminance.json](./309987-erinaceinae-griminance.json) |
@@ -4078,6 +4080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Simulator: Spy | 365719 | [365719-escape-simulator-spy.json](./365719-escape-simulator-spy.json) |
 | Escape Simulator: The Talos Principle DLC | 321346 | [321346-escape-simulator-the-talos-principle-dlc.json](./321346-escape-simulator-the-talos-principle-dlc.json) |
 | Escape Simulator: Wild West | 221903 | [221903-escape-simulator-wild-west.json](./221903-escape-simulator-wild-west.json) |
+| Escape Space | 244625 | [244625-escape-space.json](./244625-escape-space.json) |
 | Escape Stories: Virtual Reality | 258319 | [258319-escape-stories-virtual-reality.json](./258319-escape-stories-virtual-reality.json) |
 | Escape Tales: The Awakening | 304829 | [304829-escape-tales-the-awakening.json](./304829-escape-tales-the-awakening.json) |
 | Escape Team | 339770 | [339770-escape-team.json](./339770-escape-team.json) |
