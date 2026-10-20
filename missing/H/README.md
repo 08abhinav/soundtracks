@@ -3310,6 +3310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello inc VR | 28941 | [28941-hello-inc-vr.json](./28941-hello-inc-vr.json) |
 | Hello Kitty & Friends: Rock n' World Tour | 83210 | [83210-hello-kitty-and-friends-rock-n-world-tour.json](./83210-hello-kitty-and-friends-rock-n-world-tour.json) |
 | Hello Kitty and Friends: Happiness Parade | 204458 | [204458-hello-kitty-and-friends-happiness-parade.json](./204458-hello-kitty-and-friends-happiness-parade.json) |
+| Hello Kitty Asobi no Omochabako | 226076 | [226076-hello-kitty-asobi-no-omochabako.json](./226076-hello-kitty-asobi-no-omochabako.json) |
 | Hello Kitty Birthday Party | 231386 | [231386-hello-kitty-birthday-party.json](./231386-hello-kitty-birthday-party.json) |
 | Hello Kitty Carnival | 268673 | [268673-hello-kitty-carnival.json](./268673-hello-kitty-carnival.json) |
 | Hello Kitty Cutie World | 78586 | [78586-hello-kitty-cutie-world.json](./78586-hello-kitty-cutie-world.json) |
