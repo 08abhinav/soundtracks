@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P4st3l | 297357 | [297357-p4st3l.json](./297357-p4st3l.json) |
 | P9: The GateAway | 129093 | [129093-p9-the-gateaway.json](./129093-p9-the-gateaway.json) |
 | På Ekspedition i Bibelen | 129775 | [129775-pa-ekspedition-i-bibelen.json](./129775-pa-ekspedition-i-bibelen.json) |
+| PA-3 X Pac-Man Special Game | 219446 | [219446-pa-3-x-pac-man-special-game.json](./219446-pa-3-x-pac-man-special-game.json) |
 | Pa-nap | 257072 | [257072-pa-nap.json](./257072-pa-nap.json) |
 | PABG: Player Anime Battlegrounds | 393107 | [393107-pabg-player-anime-battlegrounds.json](./393107-pabg-player-anime-battlegrounds.json) |
 | Pablo Let's Go Bar | 169433 | [169433-pablo-lets-go-bar.json](./169433-pablo-lets-go-bar.json) |
@@ -139,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man | 88904 | [88904-pac-man.json](./88904-pac-man.json) |
 | Pac-Man & Galaga Dimensions | 6861 | [6861-pac-man-and-galaga-dimensions.json](./6861-pac-man-and-galaga-dimensions.json) |
 | Pac-Man 256 | 14701 | [14701-pac-man-256.json](./14701-pac-man-256.json) |
+| Pac-Man 256 | 219438 | [219438-pac-man-256.json](./219438-pac-man-256.json) |
 | Pac-Man 3D: White House Edition | 364837 | [364837-pac-man-3d-white-house-edition.json](./364837-pac-man-3d-white-house-edition.json) |
 | Pac-Man 4K | 277412 | [277412-pac-man-4k.json](./277412-pac-man-4k.json) |
 | Pac-Man 4K | 40655 | [40655-pac-man-4k.json](./40655-pac-man-4k.json) |
@@ -10654,6 +10656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty x Cation 2 | 333415 | [333415-pretty-x-cation-2.json](./333415-pretty-x-cation-2.json) |
 | Pretty: Exotic | 385803 | [385803-pretty-exotic.json](./385803-pretty-exotic.json) |
 | Prettyboy Inc. is Hiring! | 318858 | [318858-prettyboy-inc-is-hiring.json](./318858-prettyboy-inc-is-hiring.json) |
+| Pretz Pac-Man | 219443 | [219443-pretz-pac-man.json](./219443-pretz-pac-man.json) |
 | Pretz'l Land | 105554 | [105554-pretzl-land.json](./105554-pretzl-land.json) |
 | Preventive Strike | 75194 | [75194-preventive-strike.json](./75194-preventive-strike.json) |
 | Previous Tenant | 152208 | [152208-previous-tenant.json](./152208-previous-tenant.json) |
