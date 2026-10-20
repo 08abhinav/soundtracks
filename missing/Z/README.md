@@ -941,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zodiakalik | 161363 | [161363-zodiakalik.json](./161363-zodiakalik.json) |
 | Zodiarc | 331135 | [331135-zodiarc.json](./331135-zodiarc.json) |
 | Zodiarc Ring | 331146 | [331146-zodiarc-ring.json](./331146-zodiarc-ring.json) |
+| Zodiark Reform: Bandage Rewind | 252001 | [252001-zodiark-reform-bandage-rewind.json](./252001-zodiark-reform-bandage-rewind.json) |
 | Zodiax | 383378 | [383378-zodiax.json](./383378-zodiax.json) |
 | ZodiaX | 259849 | [259849-zodiax.json](./259849-zodiax.json) |
 | Zodicat | 107752 | [107752-zodicat.json](./107752-zodicat.json) |
