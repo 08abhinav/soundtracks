@@ -7053,6 +7053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaid Splash! | 146522 | [146522-mermaid-splash.json](./146522-mermaid-splash.json) |
 | Mermaid Stories: Book 1 - The Lost Gift | 339377 | [339377-mermaid-stories-book-1-the-lost-gift.json](./339377-mermaid-stories-book-1-the-lost-gift.json) |
 | Mermaid Story | 219289 | [219289-mermaid-story.json](./219289-mermaid-story.json) |
+| Mermaid Story: Pack of Friends | 237817 | [237817-mermaid-story-pack-of-friends.json](./237817-mermaid-story-pack-of-friends.json) |
 | Mermaid Swamp | 287635 | [287635-mermaid-swamp.json](./287635-mermaid-swamp.json) |
 | Mermaid Swamp | 62117 | [62117-mermaid-swamp.json](./62117-mermaid-swamp.json) |
 | Mermaid Tail | 302132 | [302132-mermaid-tail.json](./302132-mermaid-tail.json) |
@@ -7886,6 +7887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Olympics | 261175 | [261175-micro-olympics.json](./261175-micro-olympics.json) |
 | Micro Olympics on Mars | 261456 | [261456-micro-olympics-on-mars.json](./261456-micro-olympics-on-mars.json) |
 | Micro Overdrive: Home Tour | 383068 | [383068-micro-overdrive-home-tour.json](./383068-micro-overdrive-home-tour.json) |
+| Micro Pico | 237777 | [237777-micro-pico.json](./237777-micro-pico.json) |
 | Micro Pico Racers | 96665 | [96665-micro-pico-racers.json](./96665-micro-pico-racers.json) |
 | Micro Pinball | 421193 | [421193-micro-pinball.json](./421193-micro-pinball.json) |
 | Micro Platformer | 142136 | [142136-micro-platformer.json](./142136-micro-platformer.json) |
@@ -10500,6 +10502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixolumia | 136536 | [136536-mixolumia.json](./136536-mixolumia.json) |
 | Mixolydia Fringes | 412885 | [412885-mixolydia-fringes.json](./412885-mixolydia-fringes.json) |
 | Mixtape Fever | 177004 | [177004-mixtape-fever.json](./177004-mixtape-fever.json) |
+| Mixture | 237776 | [237776-mixture.json](./237776-mixture.json) |
 | Mixups by POWGI | 118158 | [118158-mixups-by-powgi.json](./118158-mixups-by-powgi.json) |
 | Mixx Island | 169668 | [169668-mixx-island.json](./169668-mixx-island.json) |
 | Mixx Island: Remix | 142199 | [142199-mixx-island-remix.json](./142199-mixx-island-remix.json) |
@@ -12573,6 +12576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morbid | 219628 | [219628-morbid.json](./219628-morbid.json) |
 | Morbid Catastrophe | 248313 | [248313-morbid-catastrophe.json](./248313-morbid-catastrophe.json) |
 | Morbid Land | 62826 | [62826-morbid-land.json](./62826-morbid-land.json) |
+| Morbid: The Lords of Ire | 237772 | [237772-morbid-the-lords-of-ire.json](./237772-morbid-the-lords-of-ire.json) |
 | Morbid: The Seven Acolytes | 134817 | [134817-morbid-the-seven-acolytes.json](./134817-morbid-the-seven-acolytes.json) |
 | Morbidity: 1 | 271757 | [271757-morbidity-1.json](./271757-morbidity-1.json) |
 | Morbidity: 2 | 271758 | [271758-morbidity-2.json](./271758-morbidity-2.json) |
@@ -13222,6 +13226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT: Definitive Edition | 283139 | [283139-moto-rush-gt-definitive-edition.json](./283139-moto-rush-gt-definitive-edition.json) |
 | Moto Rush GT: Essentials Edition | 387679 | [387679-moto-rush-gt-essentials-edition.json](./387679-moto-rush-gt-essentials-edition.json) |
 | Moto Rush GT: Extended Edition | 261346 | [261346-moto-rush-gt-extended-edition.json](./261346-moto-rush-gt-extended-edition.json) |
+| Moto Rush GT: Full Garage | 237818 | [237818-moto-rush-gt-full-garage.json](./237818-moto-rush-gt-full-garage.json) |
 | Moto Rush GT: Gold Edition | 259546 | [259546-moto-rush-gt-gold-edition.json](./259546-moto-rush-gt-gold-edition.json) |
 | Moto Rush GT: Grand Edition | 315869 | [315869-moto-rush-gt-grand-edition.json](./315869-moto-rush-gt-grand-edition.json) |
 | Moto Rush GT: Hyper Edition | 338005 | [338005-moto-rush-gt-hyper-edition.json](./338005-moto-rush-gt-hyper-edition.json) |
@@ -14234,6 +14239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiplayer BattleTech: 3025 | 284781 | [284781-multiplayer-battletech-3025.json](./284781-multiplayer-battletech-3025.json) |
 | Multiplayer Bots | 275848 | [275848-multiplayer-bots.json](./275848-multiplayer-bots.json) |
 | Multiplayer Citizens | 384206 | [384206-multiplayer-citizens.json](./384206-multiplayer-citizens.json) |
+| Multiplayer Cowboys | 237781 | [237781-multiplayer-cowboys.json](./237781-multiplayer-cowboys.json) |
 | Multiplayer Drone Simulator | 267839 | [267839-multiplayer-drone-simulator.json](./267839-multiplayer-drone-simulator.json) |
 | Multiplayer Game Maker | 335445 | [335445-multiplayer-game-maker.json](./335445-multiplayer-game-maker.json) |
 | Multiplayer Knights | 235193 | [235193-multiplayer-knights.json](./235193-multiplayer-knights.json) |
