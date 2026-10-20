@@ -4641,6 +4641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Adventures: The Naughty Maid | 226627 | [226627-sex-adventures-the-naughty-maid.json](./226627-sex-adventures-the-naughty-maid.json) |
 | Sex Adventures: The Pool Party | 213459 | [213459-sex-adventures-the-pool-party.json](./213459-sex-adventures-the-pool-party.json) |
 | Sex Adventures: The Secret Club | 286472 | [286472-sex-adventures-the-secret-club.json](./286472-sex-adventures-the-secret-club.json) |
+| Sex Adventures: Vampire Express Train | 224966 | [224966-sex-adventures-vampire-express-train.json](./224966-sex-adventures-vampire-express-train.json) |
 | Sex Advice Succubus | 239526 | [239526-sex-advice-succubus.json](./239526-sex-advice-succubus.json) |
 | Sex Airlines | 311576 | [311576-sex-airlines.json](./311576-sex-airlines.json) |
 | Sex and the Furry Titty 2: Sins of the City - Love Stories Episodes | 173846 | [173846-sex-and-the-furry-titty-2-sins-of-the-city-love-stories-episodes.json](./173846-sex-and-the-furry-titty-2-sins-of-the-city-love-stories-episodes.json) |
@@ -5294,6 +5295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of Soldiers | 264143 | [264143-shadows-of-soldiers.json](./264143-shadows-of-soldiers.json) |
 | Shadows of Souls | 290116 | [290116-shadows-of-souls.json](./290116-shadows-of-souls.json) |
 | Shadows of Steam | 328499 | [328499-shadows-of-steam.json](./328499-shadows-of-steam.json) |
+| Shadows of Steel Moons | 224941 | [224941-shadows-of-steel-moons.json](./224941-shadows-of-steel-moons.json) |
 | Shadows of Taumiel | 207378 | [207378-shadows-of-taumiel.json](./207378-shadows-of-taumiel.json) |
 | Shadows of the Afterland | 269067 | [269067-shadows-of-the-afterland.json](./269067-shadows-of-the-afterland.json) |
 | Shadows of the Damned | 264883 | [264883-shadows-of-the-damned.json](./264883-shadows-of-the-damned.json) |
@@ -16175,6 +16177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man 3 | 220112 | [220112-spider-man-3.json](./220112-spider-man-3.json) |
 | Spider-Man 3 | 247535 | [247535-spider-man-3.json](./247535-spider-man-3.json) |
 | Spider-Man 3 Action | 225298 | [225298-spider-man-3-action.json](./225298-spider-man-3-action.json) |
+| Spider-Man 3 Puzzle | 224948 | [224948-spider-man-3-puzzle.json](./224948-spider-man-3-puzzle.json) |
 | Spider-Man 3: Collector's Edition | 21616 | [21616-spider-man-3-collectors-edition.json](./21616-spider-man-3-collectors-edition.json) |
 | Spider-Man 3: Escape the Sandman | 245399 | [245399-spider-man-3-escape-the-sandman.json](./245399-spider-man-3-escape-the-sandman.json) |
 | Spider-Man 3: High-Rise Hysteria | 245398 | [245398-spider-man-3-high-rise-hysteria.json](./245398-spider-man-3-high-rise-hysteria.json) |
@@ -16586,6 +16589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spitting Image | 13081 | [13081-spitting-image.json](./13081-spitting-image.json) |
 | Spitting Z | 156517 | [156517-spitting-z.json](./156517-spitting-z.json) |
 | Splash | 170363 | [170363-splash.json](./170363-splash.json) |
+| Splash | 224940 | [224940-splash.json](./224940-splash.json) |
 | Splash Adventure: The Maze of Morla | 83524 | [83524-splash-adventure-the-maze-of-morla.json](./83524-splash-adventure-the-maze-of-morla.json) |
 | Splash Basketball Online | 116443 | [116443-splash-basketball-online.json](./116443-splash-basketball-online.json) |
 | Splash Damage: Survive if you can | 41504 | [41504-splash-damage-survive-if-you-can.json](./41504-splash-damage-survive-if-you-can.json) |
@@ -22317,6 +22321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sulfur | 261285 | [261285-sulfur.json](./261285-sulfur.json) |
 | Sulfur Ignition | 352224 | [352224-sulfur-ignition.json](./352224-sulfur-ignition.json) |
 | Sulka | 186667 | [186667-sulka.json](./186667-sulka.json) |
+| Sulky Manager | 224975 | [224975-sulky-manager.json](./224975-sulky-manager.json) |
 | Sulkyland | 214529 | [214529-sulkyland.json](./214529-sulkyland.json) |
 | Sullen | 30809 | [30809-sullen.json](./30809-sullen.json) |
 | Sully | 63552 | [63552-sully.json](./63552-sully.json) |
@@ -22690,6 +22695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunny Girl | 252265 | [252265-sunny-girl.json](./252265-sunny-girl.json) |
 | Sunny Love | 367618 | [367618-sunny-love.json](./367618-sunny-love.json) |
 | Sunny Memories | 226353 | [226353-sunny-memories.json](./226353-sunny-memories.json) |
+| Sunny Place 2 | 224955 | [224955-sunny-place-2.json](./224955-sunny-place-2.json) |
 | Sunny School Stories | 100843 | [100843-sunny-school-stories.json](./100843-sunny-school-stories.json) |
 | Sunny Shine Funland! | 107818 | [107818-sunny-shine-funland.json](./107818-sunny-shine-funland.json) |
 | Sunny Shine on the Funny Side of Life | 123605 | [123605-sunny-shine-on-the-funny-side-of-life.json](./123605-sunny-shine-on-the-funny-side-of-life.json) |
@@ -26674,6 +26680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of the Stars: The Pit Gold Edition - Juggernaut | 51932 | [51932-sword-of-the-stars-the-pit-gold-edition-juggernaut.json](./51932-sword-of-the-stars-the-pit-gold-edition-juggernaut.json) |
 | Sword of the Stars: The Pit Gold Edition - Necromancer | 51931 | [51931-sword-of-the-stars-the-pit-gold-edition-necromancer.json](./51931-sword-of-the-stars-the-pit-gold-edition-necromancer.json) |
 | Sword of the Vagrant | 225891 | [225891-sword-of-the-vagrant.json](./225891-sword-of-the-vagrant.json) |
+| Sword of Wonder: It's Good to be a King | 224962 | [224962-sword-of-wonder-its-good-to-be-a-king.json](./224962-sword-of-wonder-its-good-to-be-a-king.json) |
 | Sword of Xolan | 18931 | [18931-sword-of-xolan.json](./18931-sword-of-xolan.json) |
 | Sword Phantom | 305761 | [305761-sword-phantom.json](./305761-sword-phantom.json) |
 | Sword Play! Ninja Slice Runner | 323313 | [323313-sword-play-ninja-slice-runner.json](./323313-sword-play-ninja-slice-runner.json) |
