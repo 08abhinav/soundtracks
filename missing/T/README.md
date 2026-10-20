@@ -2367,6 +2367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teardown: Time Campers | 276809 | [276809-teardown-time-campers.json](./276809-teardown-time-campers.json) |
 | Teared | 287186 | [287186-teared.json](./287186-teared.json) |
 | Tearfallen | 298635 | [298635-tearfallen.json](./298635-tearfallen.json) |
+| Tearing Spaces | 236651 | [236651-tearing-spaces.json](./236651-tearing-spaces.json) |
 | Tearoom of Terror | 398590 | [398590-tearoom-of-terror.json](./398590-tearoom-of-terror.json) |
 | Tears Apart | 400422 | [400422-tears-apart.json](./400422-tears-apart.json) |
 | Tears Fall Low | 245919 | [245919-tears-fall-low.json](./245919-tears-fall-low.json) |
@@ -10221,6 +10222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Master | 70106 | [70106-the-master.json](./70106-the-master.json) |
 | The Master | 81625 | [81625-the-master.json](./81625-the-master.json) |
 | The Master Club | 111524 | [111524-the-master-club.json](./111524-the-master-club.json) |
+| The Master of Puzzles | 236654 | [236654-the-master-of-puzzles.json](./236654-the-master-of-puzzles.json) |
 | The Master of the Land | 362278 | [362278-the-master-of-the-land.json](./362278-the-master-of-the-land.json) |
 | The Master's Pupil | 211813 | [211813-the-masters-pupil.json](./211813-the-masters-pupil.json) |
 | The Masterplan | 10995 | [10995-the-masterplan.json](./10995-the-masterplan.json) |
@@ -11328,6 +11330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Principals Bimbofication | 388954 | [388954-the-principals-bimbofication.json](./388954-the-principals-bimbofication.json) |
 | The Prior Challenge | 350209 | [350209-the-prior-challenge.json](./350209-the-prior-challenge.json) |
 | The Prison | 117089 | [117089-the-prison.json](./117089-the-prison.json) |
+| The Prison | 236692 | [236692-the-prison.json](./236692-the-prison.json) |
 | The Prison Boys | 54962 | [54962-the-prison-boys.json](./54962-the-prison-boys.json) |
 | The Prisonbreak | 346373 | [346373-the-prisonbreak.json](./346373-the-prisonbreak.json) |
 | The Prisoning: Fletcher's Quest | 284895 | [284895-the-prisoning-fletchers-quest.json](./284895-the-prisoning-fletchers-quest.json) |
