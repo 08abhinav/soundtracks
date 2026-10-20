@@ -198,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gachinko Pro Yakyuu | 49567 | [49567-gachinko-pro-yakyuu.json](./49567-gachinko-pro-yakyuu.json) |
 | GachiTora! Abarenbou Kyoushi in High School | 58051 | [58051-gachitora-abarenbou-kyoushi-in-high-school.json](./58051-gachitora-abarenbou-kyoushi-in-high-school.json) |
 | Gadd Warp | 314572 | [314572-gadd-warp.json](./314572-gadd-warp.json) |
+| Gadget 3 | 255524 | [255524-gadget-3.json](./255524-gadget-3.json) |
 | Gadget Racers | 250446 | [250446-gadget-racers.json](./250446-gadget-racers.json) |
 | Gadget Racers | 4088 | [4088-gadget-racers.json](./4088-gadget-racers.json) |
 | Gadget Tycoon | 77189 | [77189-gadget-tycoon.json](./77189-gadget-tycoon.json) |
@@ -1839,6 +1840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geenius: Cupid Dough | 395196 | [395196-geenius-cupid-dough.json](./395196-geenius-cupid-dough.json) |
 | Geese vs. Cthulhu | 123915 | [123915-geese-vs-cthulhu.json](./123915-geese-vs-cthulhu.json) |
 | Geeste | 99667 | [99667-geeste.json](./99667-geeste.json) |
+| Gefangen in der Drachenfestung | 255553 | [255553-gefangen-in-der-drachenfestung.json](./255553-gefangen-in-der-drachenfestung.json) |
 | Geflect | 181908 | [181908-geflect.json](./181908-geflect.json) |
 | Geg 2: Nazad v Budushchee | 303242 | [303242-geg-2-nazad-v-budushchee.json](./303242-geg-2-nazad-v-budushchee.json) |
 | GeGeGe no Kitaro | 166545 | [166545-gegege-no-kitaro.json](./166545-gegege-no-kitaro.json) |
