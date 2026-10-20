@@ -6585,6 +6585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Automaton's Journey | 385433 | [385433-an-automatons-journey.json](./385433-an-automatons-journey.json) |
 | An Autumn With You | 181846 | [181846-an-autumn-with-you.json](./181846-an-autumn-with-you.json) |
 | An Average Day at the Cat Cafe | 227732 | [227732-an-average-day-at-the-cat-cafe.json](./227732-an-average-day-at-the-cat-cafe.json) |
+| An Average Day at the Cat Café | 221024 | [221024-an-average-day-at-the-cat-cafe.json](./221024-an-average-day-at-the-cat-cafe.json) |
 | An Aware Guy in the Past | 185621 | [185621-an-aware-guy-in-the-past.json](./185621-an-aware-guy-in-the-past.json) |
 | An Easter to Remember | 375298 | [375298-an-easter-to-remember.json](./375298-an-easter-to-remember.json) |
 | An Easy Lay | 178476 | [178476-an-easy-lay.json](./178476-an-easy-lay.json) |
@@ -6696,6 +6697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anata dake no Private Lesson: DS de Hajimeru Tipness no Yoga | 269550 | [269550-anata-dake-no-private-lesson-ds-de-hajimeru-tipness-no-yoga.json](./269550-anata-dake-no-private-lesson-ds-de-hajimeru-tipness-no-yoga.json) |
 | Anata no Shiranai Kangofu: Seiteki Byoutou 24 Ji | 77922 | [77922-anata-no-shiranai-kangofu-seiteki-byoutou-24-ji.json](./77922-anata-no-shiranai-kangofu-seiteki-byoutou-24-ji.json) |
 | Anata o Yurusanai | 59396 | [59396-anata-o-yurusanai.json](./59396-anata-o-yurusanai.json) |
+| Anata wa Akumade Watashi no Mono | 221034 | [221034-anata-wa-akumade-watashi-no-mono.json](./221034-anata-wa-akumade-watashi-no-mono.json) |
 | Anata wa Watashi no Danna-sama | 163233 | [163233-anata-wa-watashi-no-danna-sama.json](./163233-anata-wa-watashi-no-danna-sama.json) |
 | Anathema | 411408 | [411408-anathema.json](./411408-anathema.json) |
 | Anathema | 54688 | [54688-anathema.json](./54688-anathema.json) |
@@ -7322,6 +7324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Farm Jigsaw Games for Toddlers, Babys and Kids | 295265 | [295265-animal-farm-jigsaw-games-for-toddlers-babys-and-kids.json](./295265-animal-farm-jigsaw-games-for-toddlers-babys-and-kids.json) |
 | Animal Farm Parking: Extended Edition | 283156 | [283156-animal-farm-parking-extended-edition.json](./283156-animal-farm-parking-extended-edition.json) |
 | Animal Farmland | 312652 | [312652-animal-farmland.json](./312652-animal-farmland.json) |
+| Animal Fight Club: Australia Export | 221022 | [221022-animal-fight-club-australia-export.json](./221022-animal-fight-club-australia-export.json) |
 | Animal Football | 208375 | [208375-animal-football.json](./208375-animal-football.json) |
 | Animal Force | 104271 | [104271-animal-force.json](./104271-animal-force.json) |
 | Animal Frenzy | 256374 | [256374-animal-frenzy.json](./256374-animal-frenzy.json) |
@@ -8094,6 +8097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AntCity | 318137 | [318137-antcity.json](./318137-antcity.json) |
 | Antcopter | 306036 | [306036-antcopter.json](./306036-antcopter.json) |
 | Ante | 148868 | [148868-ante.json](./148868-ante.json) |
+| Ante Holic | 221027 | [221027-ante-holic.json](./221027-ante-holic.json) |
 | Ante Mortem | 269461 | [269461-ante-mortem.json](./269461-ante-mortem.json) |
 | Ante Mortem | 401716 | [401716-ante-mortem.json](./401716-ante-mortem.json) |
 | Ante Up: Texas Hold'em | 84760 | [84760-ante-up-texas-holdem.json](./84760-ante-up-texas-holdem.json) |
@@ -11204,7 +11208,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aspen Lane VR | 182827 | [182827-aspen-lane-vr.json](./182827-aspen-lane-vr.json) |
 | Aspen Ski! | 315332 | [315332-aspen-ski.json](./315332-aspen-ski.json) |
 | Asphalt | 36920 | [36920-asphalt.json](./36920-asphalt.json) |
+| Asphalt 3: Street Rules 3D HD | 221065 | [221065-asphalt-3-street-rules-3d-hd.json](./221065-asphalt-3-street-rules-3d-hd.json) |
 | Asphalt 3D | 6746 | [6746-asphalt-3d.json](./6746-asphalt-3d.json) |
+| Asphalt 4: Elite Racing | 221067 | [221067-asphalt-4-elite-racing.json](./221067-asphalt-4-elite-racing.json) |
 | Asphalt 6: Adrenaline | 23304 | [23304-asphalt-6-adrenaline.json](./23304-asphalt-6-adrenaline.json) |
 | Asphalt 7: Heat | 23305 | [23305-asphalt-7-heat.json](./23305-asphalt-7-heat.json) |
 | Asphalt 9 Legends Arcade | 242473 | [242473-asphalt-9-legends-arcade.json](./242473-asphalt-9-legends-arcade.json) |
