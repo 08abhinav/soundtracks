@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives+: Kishinden Strike-G- | 412402 | [412402-g-mode-archives-kishinden-strike-g.json](./412402-g-mode-archives-kishinden-strike-g.json) |
 | G-Mode Archives+: Lost Chronicle | 410819 | [410819-g-mode-archives-lost-chronicle.json](./410819-g-mode-archives-lost-chronicle.json) |
 | G-Mode Archives+: Majin Tensei - Blind Thinker | 274663 | [274663-g-mode-archives-majin-tensei-blind-thinker.json](./274663-g-mode-archives-majin-tensei-blind-thinker.json) |
+| G-Mode Archives+: Megami Tensei Gaiden - Shinyaku Last Bible III - Mugen no Eiyuu | 227706 | [227706-g-mode-archives-megami-tensei-gaiden-shinyaku-last-bible-iii-mugen-no-eiyuu.json](./227706-g-mode-archives-megami-tensei-gaiden-shinyaku-last-bible-iii-mugen-no-eiyuu.json) |
 | G-Mode Archives+: Moe Pro - Moero!! Pro Yakyuu | 260682 | [260682-g-mode-archives-moe-pro-moero-pro-yakyuu.json](./260682-g-mode-archives-moe-pro-moero-pro-yakyuu.json) |
 | G-Mode Archives+: Momoko no Kasei Bowling - La Mars Cup | 266172 | [266172-g-mode-archives-momoko-no-kasei-bowling-la-mars-cup.json](./266172-g-mode-archives-momoko-no-kasei-bowling-la-mars-cup.json) |
 | G-Mode Archives+: Monstre Waltz | 388382 | [388382-g-mode-archives-monstre-waltz.json](./388382-g-mode-archives-monstre-waltz.json) |
