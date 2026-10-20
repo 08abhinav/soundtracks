@@ -1056,6 +1056,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1b/58/43/1b5843c3-0df3-e3f9-58a3-51158d264fbb/5054227028885_1.jpg/600x600bb.jpg" width="60" /> | [Monument Valley](https://ostdb.net/games/monument-valley) | **Monument Valley (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1DVCNAcMAd2eCgOmC84m2P) · [Apple Music](https://music.apple.com/us/album/monument-valley-original-soundtrack/887804425) · [Album](https://album.link/i/887804425) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739f8af001b0e4a0e3d367ad8e" width="60" /> | [Moonlighter](https://ostdb.net/games/moonlighter) | **Moonlighter (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4tTuU0u3qLeB6DjJPv2jY1) · [Album](https://album.link/s/4tTuU0u3qLeB6DjJPv2jY1) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273885956ec800a5b26da371cf0" width="60" /> | [Moons of Madness](https://ostdb.net/games/moons-of-madness) | **Moons of Madness (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0XB1SujKZMXHHnmmT1yVse) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739459c4f733bdd79402fc54cc" width="60" /> | [Moonstone Island](https://ostdb.net/games/moonstone-island) | **Moonstone Island (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1uuoYpM7p3IPOws3M8EWEt) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/8d/14/148d14a3-1fbc-ec63-b293-4dfe8c091f1a/3663729404442_cover.jpg/600x600bb.jpg" width="60" /> | [Morbid Metal](https://ostdb.net/games/morbid-metal) | **Saru (From Morbid Metal) - Single** · [Spotify](https://music.apple.com/us/album/saru-from-morbid-metal-single/1840670106?uo=4) · [Album](https://album.link/i/1840670106) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dacb023115cac021e3b6c4f4" width="60" /> | [Mordhau](https://ostdb.net/games/mordhau) | **Mordhau (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3ZND2W4JhgMCy14xpED0LC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a4b22ef71aecbb2f41c764fc" width="60" /> | [Mordheim: City of the Damned](https://ostdb.net/games/mordheim-city-of-the-damned) | **Mordheim: City of the Damned (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5qVZBwKiHMRIG1X75kzb8R) |
@@ -1937,4 +1938,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2254 soundtracks · last updated 2026-10-20T21:37:36.109Z_
+_2255 soundtracks · last updated 2026-10-20T21:37:47.125Z_
