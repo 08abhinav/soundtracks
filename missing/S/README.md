@@ -9419,7 +9419,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Flight | 110968 | [110968-sky-flight.json](./110968-sky-flight.json) |
 | Sky Flowers | 404449 | [404449-sky-flowers.json](./404449-sky-flowers.json) |
 | Sky Force Bundle | 118869 | [118869-sky-force-bundle.json](./118869-sky-force-bundle.json) |
-| Sky Force Reloaded | 19469 | [19469-sky-force-reloaded.json](./19469-sky-force-reloaded.json) |
 | Sky Fortress: Odyssey | 277033 | [277033-sky-fortress-odyssey.json](./277033-sky-fortress-odyssey.json) |
 | Sky Fury | 274469 | [274469-sky-fury.json](./274469-sky-fury.json) |
 | Sky Gamblers - Infinite Jets | 86688 | [86688-sky-gamblers-infinite-jets.json](./86688-sky-gamblers-infinite-jets.json) |
@@ -21902,7 +21901,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submerged Gallery | 290299 | [290299-submerged-gallery.json](./290299-submerged-gallery.json) |
 | Submerged Lights | 392156 | [392156-submerged-lights.json](./392156-submerged-lights.json) |
 | Submerged Mystery: Takodachi | 327399 | [327399-submerged-mystery-takodachi.json](./327399-submerged-mystery-takodachi.json) |
-| Submerged: Hidden Depths | 141373 | [141373-submerged-hidden-depths.json](./141373-submerged-hidden-depths.json) |
 | Submeris | 341931 | [341931-submeris.json](./341931-submeris.json) |
 | Submersa | 386144 | [386144-submersa.json](./386144-submersa.json) |
 | Submersed | 128303 | [128303-submersed.json](./128303-submersed.json) |
