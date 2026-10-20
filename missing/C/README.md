@@ -3992,7 +3992,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Century City | 243743 | [243743-century-city.json](./243743-century-city.json) |
 | Century of Anticipation | 265481 | [265481-century-of-anticipation.json](./265481-century-of-anticipation.json) |
 | Century of Steam | 260250 | [260250-century-of-steam.json](./260250-century-of-steam.json) |
-| Century: Age of Ashes | 141536 | [141536-century-age-of-ashes.json](./141536-century-age-of-ashes.json) |
 | Century: Age of Ashes - Bloodshed Edition | 202760 | [202760-century-age-of-ashes-bloodshed-edition.json](./202760-century-age-of-ashes-bloodshed-edition.json) |
 | Century: Age of Ashes - Colossus Deluxe Edition | 199636 | [199636-century-age-of-ashes-colossus-deluxe-edition.json](./199636-century-age-of-ashes-colossus-deluxe-edition.json) |
 | Century: Age of Ashes - Dark Goliath Pack | 226301 | [226301-century-age-of-ashes-dark-goliath-pack.json](./226301-century-age-of-ashes-dark-goliath-pack.json) |
