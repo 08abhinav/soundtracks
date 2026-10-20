@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:56:54.178Z",
-  "total_soundtracks": 2308,
+  "generated_at": "2026-10-20T21:57:05.378Z",
+  "total_soundtracks": 2309,
   "games": [
     {
       "igdb_id": 7522,
@@ -20133,6 +20133,20 @@
           "spotify_url": "https://open.spotify.com/album/6M9aWlXAbhmldOntn8Z46I",
           "apple_music_url": "https://music.apple.com/us/album/%E8%81%96%E5%89%A3%E4%BC%9D%E8%AA%AC2-secret-of-mana-original-soundtrack/1345280355",
           "album_link_url": "https://album.link/i/1345280355"
+        }
+      ]
+    },
+    {
+      "igdb_id": 55173,
+      "game_name": "Semblance",
+      "game_url": "https://ostdb.net/games/semblance",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c7dcd7a76fe84a9337cf1cdd",
+      "albums": [
+        {
+          "album_name": "Semblance (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0xGuiy6cKowH6e18bkkPXq",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
