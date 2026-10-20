@@ -1532,6 +1532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Dai Suki! | 45257 | [45257-neko-dai-suki.json](./45257-neko-dai-suki.json) |
 | Neko Daisuki! | 19668 | [19668-neko-daisuki.json](./19668-neko-daisuki.json) |
 | Neko Dating Sim | 223395 | [223395-neko-dating-sim.json](./223395-neko-dating-sim.json) |
+| Neko Doll | 248437 | [248437-neko-doll.json](./248437-neko-doll.json) |
 | Neko Don Don! | 385332 | [385332-neko-don-don.json](./385332-neko-don-don.json) |
 | Neko Dungeon | 108309 | [108309-neko-dungeon.json](./108309-neko-dungeon.json) |
 | Neko Gacha | 228543 | [228543-neko-gacha.json](./228543-neko-gacha.json) |
@@ -2801,6 +2802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Blitz 2000 | 249126 | [249126-nfl-blitz-2000.json](./249126-nfl-blitz-2000.json) |
 | NFL Blitz 2000 | 4366 | [4366-nfl-blitz-2000.json](./4366-nfl-blitz-2000.json) |
 | NFL Blitz 2000: Gold Edition | 39598 | [39598-nfl-blitz-2000-gold-edition.json](./39598-nfl-blitz-2000-gold-edition.json) |
+| NFL Blitz 2003 | 248464 | [248464-nfl-blitz-2003.json](./248464-nfl-blitz-2003.json) |
 | NFL Blitz 2003 | 47365 | [47365-nfl-blitz-2003.json](./47365-nfl-blitz-2003.json) |
 | NFL Blitz 99 | 39599 | [39599-nfl-blitz-99.json](./39599-nfl-blitz-99.json) |
 | NFL Blitz Pro | 47337 | [47337-nfl-blitz-pro.json](./47337-nfl-blitz-pro.json) |
@@ -3768,6 +3770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine-Tailed Okitsune Tale | 248023 | [248023-nine-tailed-okitsune-tale.json](./248023-nine-tailed-okitsune-tale.json) |
 | Ninefold Promise | 377966 | [377966-ninefold-promise.json](./377966-ninefold-promise.json) |
 | NineHells | 291401 | [291401-ninehells.json](./291401-ninehells.json) |
+| Ninehouse | 248439 | [248439-ninehouse.json](./248439-ninehouse.json) |
 | NineLives | 273449 | [273449-ninelives.json](./273449-ninelives.json) |
 | Ninepin Bowling | 54251 | [54251-ninepin-bowling.json](./54251-ninepin-bowling.json) |
 | Nineteen | 128654 | [128654-nineteen.json](./128654-nineteen.json) |
