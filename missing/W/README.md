@@ -3986,6 +3986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West Saloon | 279481 | [279481-wild-west-saloon.json](./279481-wild-west-saloon.json) |
 | Wild West Seymour | 18575 | [18575-wild-west-seymour.json](./18575-wild-west-seymour.json) |
 | Wild West Shooter | 371137 | [371137-wild-west-shooter.json](./371137-wild-west-shooter.json) |
+| Wild West Showdown | 217739 | [217739-wild-west-showdown.json](./217739-wild-west-showdown.json) |
 | Wild West Steam Loco | 132737 | [132737-wild-west-steam-loco.json](./132737-wild-west-steam-loco.json) |
 | Wild West Story: The Beginnings | 215032 | [215032-wild-west-story-the-beginnings.json](./215032-wild-west-story-the-beginnings.json) |
 | Wild West Supermarket Simulator | 345511 | [345511-wild-west-supermarket-simulator.json](./345511-wild-west-supermarket-simulator.json) |
@@ -4458,6 +4459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winner IV | 170845 | [170845-winner-iv.json](./170845-winner-iv.json) |
 | Winner vs. Loser | 182455 | [182455-winner-vs-loser.json](./182455-winner-vs-loser.json) |
 | Winner's Circle | 269662 | [269662-winners-circle.json](./269662-winners-circle.json) |
+| Winner's Circle: Rusty Wallace | 217720 | [217720-winners-circle-rusty-wallace.json](./217720-winners-circle-rusty-wallace.json) |
 | Winner's Soccer Evolution | 233045 | [233045-winners-soccer-evolution.json](./233045-winners-soccer-evolution.json) |
 | Winners and Losers | 179466 | [179466-winners-and-losers.json](./179466-winners-and-losers.json) |
 | Winnie the Bear | 326698 | [326698-winnie-the-bear.json](./326698-winnie-the-bear.json) |
