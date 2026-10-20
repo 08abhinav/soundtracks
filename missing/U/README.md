@@ -2065,6 +2065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | unPredictable | 90728 | [90728-unpredictable.json](./90728-unpredictable.json) |
 | Unpredictable Star | 364967 | [364967-unpredictable-star.json](./364967-unpredictable-star.json) |
 | Unpredictable Storyline Twists 2 | 128632 | [128632-unpredictable-storyline-twists-2.json](./128632-unpredictable-storyline-twists-2.json) |
+| Unprompted | 242365 | [242365-unprompted.json](./242365-unprompted.json) |
 | Unprotected | 323515 | [323515-unprotected.json](./323515-unprotected.json) |
 | Unpunished | 324753 | [324753-unpunished.json](./324753-unpunished.json) |
 | Unpuzzle 2 | 95924 | [95924-unpuzzle-2.json](./95924-unpuzzle-2.json) |
