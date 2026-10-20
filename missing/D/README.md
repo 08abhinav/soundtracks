@@ -3185,6 +3185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Red: Extended | 33250 | [33250-dear-red-extended.json](./33250-dear-red-extended.json) |
 | Dear Toki | 122972 | [122972-dear-toki.json](./122972-dear-toki.json) |
 | Dear world Re. | 386252 | [386252-dear-world-re.json](./386252-dear-world-re.json) |
+| Dear, Ella | 232298 | [232298-dear-ella.json](./232298-dear-ella.json) |
 | Dear, Virginia | 265478 | [265478-dear-virginia.json](./265478-dear-virginia.json) |
 | Dearbnb | 405361 | [405361-dearbnb.json](./405361-dearbnb.json) |
 | DearCraft | 96653 | [96653-dearcraft.json](./96653-dearcraft.json) |
@@ -6330,6 +6331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice With Death | 328406 | [328406-dice-with-death.json](./328406-dice-with-death.json) |
 | Dice with the Devil: Rerolled | 333015 | [333015-dice-with-the-devil-rerolled.json](./333015-dice-with-the-devil-rerolled.json) |
 | Dice World | 250832 | [250832-dice-world.json](./250832-dice-world.json) |
+| Dice World: 6 Fun Games | 232282 | [232282-dice-world-6-fun-games.json](./232282-dice-world-6-fun-games.json) |
 | Dice x Deck | 374394 | [374394-dice-x-deck.json](./374394-dice-x-deck.json) |
 | Dice-Zee!: Dice Pak - "Autumn Auras" | 291087 | [291087-dice-zee-dice-pak-autumn-auras.json](./291087-dice-zee-dice-pak-autumn-auras.json) |
 | Dice-Zee!: Dice Pak - "Contemporary Cool" | 291086 | [291086-dice-zee-dice-pak-contemporary-cool.json](./291086-dice-zee-dice-pak-contemporary-cool.json) |
@@ -10021,6 +10023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot Horror Story: Double Pack | 222262 | [222262-dot-horror-story-double-pack.json](./222262-dot-horror-story-double-pack.json) |
 | Dot Kareshi: We're 8bit Lovers! II - Tenku no Kissu | 206234 | [206234-dot-kareshi-were-8bit-lovers-ii-tenku-no-kissu.json](./206234-dot-kareshi-were-8bit-lovers-ii-tenku-no-kissu.json) |
 | Dot Kareshi: We're 8bit Lovers! III - Yami no Hanayome | 206232 | [206232-dot-kareshi-were-8bit-lovers-iii-yami-no-hanayome.json](./206232-dot-kareshi-were-8bit-lovers-iii-yami-no-hanayome.json) |
+| Dot Line Link | 232305 | [232305-dot-line-link.json](./232305-dot-line-link.json) |
 | Dot Man | 124511 | [124511-dot-man.json](./124511-dot-man.json) |
 | Dot Net | 388902 | [388902-dot-net.json](./388902-dot-net.json) |
 | Dot Ninja | 179183 | [179183-dot-ninja.json](./179183-dot-ninja.json) |
