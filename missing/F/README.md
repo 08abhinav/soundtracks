@@ -3433,6 +3433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight-Quest | 349445 | [349445-fight-quest.json](./349445-fight-quest.json) |
 | Fight,to the last | 127869 | [127869-fight-to-the-last.json](./127869-fight-to-the-last.json) |
 | Fight'N Rage | 59573 | [59573-fightn-rage.json](./59573-fightn-rage.json) |
+| Fight'n Rage: 5th Anniversary Limited Edition | 242370 | [242370-fightn-rage-5th-anniversary-limited-edition.json](./242370-fightn-rage-5th-anniversary-limited-edition.json) |
 | Fightback | 63357 | [63357-fightback.json](./63357-fightback.json) |
 | FightBit | 250956 | [250956-fightbit.json](./250956-fightbit.json) |
 | FightBots | 259859 | [259859-fightbots.json](./259859-fightbots.json) |
@@ -6363,6 +6364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Dangerous | 175784 | [175784-fly-dangerous.json](./175784-fly-dangerous.json) |
 | Fly Destroyer | 74344 | [74344-fly-destroyer.json](./74344-fly-destroyer.json) |
 | Fly Fish | 148949 | [148949-fly-fish.json](./148949-fly-fish.json) |
+| Fly Fishing 3D II | 242392 | [242392-fly-fishing-3d-ii.json](./242392-fly-fishing-3d-ii.json) |
 | Fly Fly | 311057 | [311057-fly-fly.json](./311057-fly-fly.json) |
 | Fly Fly Dragon! | 255123 | [255123-fly-fly-dragon.json](./255123-fly-fly-dragon.json) |
 | Fly Fly Tank | 129735 | [129735-fly-fly-tank.json](./129735-fly-fly-tank.json) |
@@ -6701,6 +6703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Devils | 301330 | [301330-food-devils.json](./301330-food-devils.json) |
 | Food Diary | 201625 | [201625-food-diary.json](./201625-food-diary.json) |
 | Food Drive | 109721 | [109721-food-drive.json](./109721-food-drive.json) |
+| Food Dude | 242385 | [242385-food-dude.json](./242385-food-dude.json) |
 | Food Empire | 216743 | [216743-food-empire.json](./216743-food-empire.json) |
 | Food Factory VR | 127020 | [127020-food-factory-vr.json](./127020-food-factory-vr.json) |
 | Food Fantasy | 104253 | [104253-food-fantasy.json](./104253-food-fantasy.json) |
