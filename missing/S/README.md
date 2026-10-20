@@ -442,6 +442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saikyou Ginsei Shogi 4 | 83446 | [83446-saikyou-ginsei-shogi-4.json](./83446-saikyou-ginsei-shogi-4.json) |
 | Saikyou Ginsei Shogi Go | 83435 | [83435-saikyou-ginsei-shogi-go.json](./83435-saikyou-ginsei-shogi-go.json) |
 | Saikyou Ginsei Shogi Go: New Standard | 83436 | [83436-saikyou-ginsei-shogi-go-new-standard.json](./83436-saikyou-ginsei-shogi-go-new-standard.json) |
+| Saikyou Horror Akumu no Tobira: imi ga Wakaru to Kowai Nazotoki Toshidensetsu Kaidan Suiri Game | 254926 | [254926-saikyou-horror-akumu-no-tobira-imi-ga-wakaru-to-kowai-nazotoki-toshidensetsu-kaidan-suiri-game.json](./254926-saikyou-horror-akumu-no-tobira-imi-ga-wakaru-to-kowai-nazotoki-toshidensetsu-kaidan-suiri-game.json) |
 | Saikyou Retsuden: Jidai Hashiru | 225658 | [225658-saikyou-retsuden-jidai-hashiru.json](./225658-saikyou-retsuden-jidai-hashiru.json) |
 | Saikyou Todai Shogi | 203548 | [203548-saikyou-todai-shogi.json](./203548-saikyou-todai-shogi.json) |
 | Saikyou Todai Shogi 2 | 203549 | [203549-saikyou-todai-shogi-2.json](./203549-saikyou-todai-shogi-2.json) |
@@ -6094,6 +6095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shikigami no Shiro EX & II Pack | 64332 | [64332-shikigami-no-shiro-ex-and-ii-pack.json](./64332-shikigami-no-shiro-ex-and-ii-pack.json) |
 | Shikinjoh | 231545 | [231545-shikinjoh.json](./231545-shikinjoh.json) |
 | Shikinjou | 231346 | [231346-shikinjou.json](./231346-shikinjou.json) |
+| Shikisai Kankaku Test Art na Kyouyou Nou-tre Joushiki IQ Check | 254927 | [254927-shikisai-kankaku-test-art-na-kyouyou-nou-tre-joushiki-iq-check.json](./254927-shikisai-kankaku-test-art-na-kyouyou-nou-tre-joushiki-iq-check.json) |
 | Shikkoku no Sharnoth: What a beautiful tomorrow | 186285 | [186285-shikkoku-no-sharnoth-what-a-beautiful-tomorrow.json](./186285-shikkoku-no-sharnoth-what-a-beautiful-tomorrow.json) |
 | Shikoku Kororozashi Deluxe: Sake Jidori Udon Senki | 163760 | [163760-shikoku-kororozashi-deluxe-sake-jidori-udon-senki.json](./163760-shikoku-kororozashi-deluxe-sake-jidori-udon-senki.json) |
 | Shikoutei no Michi he | 223963 | [223963-shikoutei-no-michi-he.json](./223963-shikoutei-no-michi-he.json) |
@@ -7491,6 +7493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Side to Side | 128569 | [128569-side-to-side.json](./128569-side-to-side.json) |
 | Side Trak | 39517 | [39517-side-trak.json](./39517-side-trak.json) |
 | Side Whoop | 390656 | [390656-side-whoop.json](./390656-side-whoop.json) |
+| Sidecar Evolution 2024 | 254900 | [254900-sidecar-evolution-2024.json](./254900-sidecar-evolution-2024.json) |
 | Sidecar Evolution 2025 | 385834 | [385834-sidecar-evolution-2025.json](./385834-sidecar-evolution-2025.json) |
 | Sidekick Cycle | 238929 | [238929-sidekick-cycle.json](./238929-sidekick-cycle.json) |
 | Sidekick High | 185070 | [185070-sidekick-high.json](./185070-sidekick-high.json) |
@@ -22305,11 +22308,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sun Haven: Flames and Ashes Pack | 389575 | [389575-sun-haven-flames-and-ashes-pack.json](./389575-sun-haven-flames-and-ashes-pack.json) |
 | Sun Haven: Garden Party Pack | 389561 | [389561-sun-haven-garden-party-pack.json](./389561-sun-haven-garden-party-pack.json) |
 | Sun Haven: Gearwork Glamour Pack | 389564 | [389564-sun-haven-gearwork-glamour-pack.json](./389564-sun-haven-gearwork-glamour-pack.json) |
+| Sun Haven: Mushy Pack | 254912 | [254912-sun-haven-mushy-pack.json](./254912-sun-haven-mushy-pack.json) |
 | Sun Haven: Myths and Muses Pack | 389567 | [389567-sun-haven-myths-and-muses-pack.json](./389567-sun-haven-myths-and-muses-pack.json) |
+| Sun Haven: Ocean Shores Pack | 254913 | [254913-sun-haven-ocean-shores-pack.json](./254913-sun-haven-ocean-shores-pack.json) |
 | Sun Haven: Once Upon a Time Pack | 389569 | [389569-sun-haven-once-upon-a-time-pack.json](./389569-sun-haven-once-upon-a-time-pack.json) |
 | Sun Haven: Pop Sensation Pack | 306503 | [306503-sun-haven-pop-sensation-pack.json](./306503-sun-haven-pop-sensation-pack.json) |
 | Sun Haven: Radiant Royalty Pack | 389568 | [389568-sun-haven-radiant-royalty-pack.json](./389568-sun-haven-radiant-royalty-pack.json) |
 | Sun Haven: Rock 'n' Roll Pack | 272916 | [272916-sun-haven-rock-n-roll-pack.json](./272916-sun-haven-rock-n-roll-pack.json) |
+| Sun Haven: Set Sail Pack | 254914 | [254914-sun-haven-set-sail-pack.json](./254914-sun-haven-set-sail-pack.json) |
 | Sun Haven: Snow Day Pack | 306510 | [306510-sun-haven-snow-day-pack.json](./306510-sun-haven-snow-day-pack.json) |
 | Sun Haven: Snow Yeti Pack | 389571 | [389571-sun-haven-snow-yeti-pack.json](./389571-sun-haven-snow-yeti-pack.json) |
 | Sun Haven: Spirit Petal Pack | 272918 | [272918-sun-haven-spirit-petal-pack.json](./272918-sun-haven-spirit-petal-pack.json) |
@@ -23312,6 +23318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Laser Fury | 240697 | [240697-super-laser-fury.json](./240697-super-laser-fury.json) |
 | Super Laser: The Alien Fighter | 66190 | [66190-super-laser-the-alien-fighter.json](./66190-super-laser-the-alien-fighter.json) |
 | Super Laura Up | 276163 | [276163-super-laura-up.json](./276163-super-laura-up.json) |
+| Super Lava Bros. | 254938 | [254938-super-lava-bros.json](./254938-super-lava-bros.json) |
 | Super Laydock: Mission Striker | 72144 | [72144-super-laydock-mission-striker.json](./72144-super-laydock-mission-striker.json) |
 | Super League | 415935 | [415935-super-league.json](./415935-super-league.json) |
 | Super League Pro Rugby | 80239 | [80239-super-league-pro-rugby.json](./80239-super-league-pro-rugby.json) |
@@ -23349,6 +23356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Luigi Sunburn | 313428 | [313428-super-luigi-sunburn.json](./313428-super-luigi-sunburn.json) |
 | Super Luigi Trick or Treat | 314278 | [314278-super-luigi-trick-or-treat.json](./314278-super-luigi-trick-or-treat.json) |
 | Super Luigi Wii: The Emissary | 259276 | [259276-super-luigi-wii-the-emissary.json](./259276-super-luigi-wii-the-emissary.json) |
+| Super Luigi! The Forgotten Adventure! | 254946 | [254946-super-luigi-the-forgotten-adventure.json](./254946-super-luigi-the-forgotten-adventure.json) |
 | Super Lumberjack | 371341 | [371341-super-lumberjack.json](./371341-super-lumberjack.json) |
 | Super Lumi Live | 27490 | [27490-super-lumi-live.json](./27490-super-lumi-live.json) |
 | Super Lunch-Out 2 Turbo | 371530 | [371530-super-lunch-out-2-turbo.json](./371530-super-lunch-out-2-turbo.json) |
