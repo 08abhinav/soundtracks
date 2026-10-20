@@ -7914,6 +7914,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dissida Final Fantsy NT: Tifa Lockhart Starter Pack | 383762 | [383762-dissida-final-fantsy-nt-tifa-lockhart-starter-pack.json](./383762-dissida-final-fantsy-nt-tifa-lockhart-starter-pack.json) |
 | Dissidia 012 Final Fantasy | 24288 | [24288-dissidia-012-final-fantasy.json](./24288-dissidia-012-final-fantasy.json) |
 | Dissidia Duodecim Prologus: Final Fantasy | 41848 | [41848-dissidia-duodecim-prologus-final-fantasy.json](./41848-dissidia-duodecim-prologus-final-fantasy.json) |
+| Dissidia Final Fantasy NT: 3rd Appearance Special Set for Warrior of Light and Y'shtola | 224425 | [224425-dissidia-final-fantasy-nt-3rd-appearance-special-set-for-warrior-of-light-and-yshtola.json](./224425-dissidia-final-fantasy-nt-3rd-appearance-special-set-for-warrior-of-light-and-yshtola.json) |
+| Dissidia Final Fantasy NT: Samurai App. Set & 5th Weapon for Bartz Klauser | 224427 | [224427-dissidia-final-fantasy-nt-samurai-app-set-and-5th-weapon-for-bartz-klauser.json](./224427-dissidia-final-fantasy-nt-samurai-app-set-and-5th-weapon-for-bartz-klauser.json) |
+| Dissidia Final Fantasy NT: Songstress's Garb Appearance Set & 5th Weapon for Yuna | 224429 | [224429-dissidia-final-fantasy-nt-songstresss-garb-appearance-set-and-5th-weapon-for-yuna.json](./224429-dissidia-final-fantasy-nt-songstresss-garb-appearance-set-and-5th-weapon-for-yuna.json) |
 | Dissidia Final Fantasy NT: Special Steelbook Edition | 386253 | [386253-dissidia-final-fantasy-nt-special-steelbook-edition.json](./386253-dissidia-final-fantasy-nt-special-steelbook-edition.json) |
 | Dissidia Final Fantasy NT: Steelbook Brawler Edition | 136333 | [136333-dissidia-final-fantasy-nt-steelbook-brawler-edition.json](./136333-dissidia-final-fantasy-nt-steelbook-brawler-edition.json) |
 | Dissimilar | 293516 | [293516-dissimilar.json](./293516-dissimilar.json) |
@@ -8863,6 +8866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolce | 229972 | [229972-dolce.json](./229972-dolce.json) |
 | Dole: 5 A Day Adventures | 210113 | [210113-dole-5-a-day-adventures.json](./210113-dole-5-a-day-adventures.json) |
 | Dolguth | 34721 | [34721-dolguth.json](./34721-dolguth.json) |
+| Dolgyeogyongsa Kiugi: Bangchihyeong RPG | 224402 | [224402-dolgyeogyongsa-kiugi-bangchihyeong-rpg.json](./224402-dolgyeogyongsa-kiugi-bangchihyeong-rpg.json) |
 | Doll | 97852 | [97852-doll.json](./97852-doll.json) |
 | Doll Catching Simulator | 326440 | [326440-doll-catching-simulator.json](./326440-doll-catching-simulator.json) |
 | Doll Date | 395202 | [395202-doll-date.json](./395202-doll-date.json) |
@@ -10682,6 +10686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drag Journey | 215113 | [215113-drag-journey.json](./215113-drag-journey.json) |
 | Drag Journey: Nitro | 219113 | [219113-drag-journey-nitro.json](./219113-drag-journey-nitro.json) |
 | Drag Me Home | 67273 | [67273-drag-me-home.json](./67273-drag-me-home.json) |
+| Drag n Merge Hexagons | 224420 | [224420-drag-n-merge-hexagons.json](./224420-drag-n-merge-hexagons.json) |
 | Drag n Merge Numbers | 127788 | [127788-drag-n-merge-numbers.json](./127788-drag-n-merge-numbers.json) |
 | Drag Race | 18104 | [18104-drag-race.json](./18104-drag-race.json) |
 | Drag Race: Reaction Trainer | 87257 | [87257-drag-race-reaction-trainer.json](./87257-drag-race-reaction-trainer.json) |
