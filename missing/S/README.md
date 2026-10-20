@@ -11555,6 +11555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Moto Racing | 63837 | [63837-snow-moto-racing.json](./63837-snow-moto-racing.json) |
 | Snow Moto Racing Freedom | 29593 | [29593-snow-moto-racing-freedom.json](./29593-snow-moto-racing-freedom.json) |
 | Snow Moto: Racing Adventure | 283810 | [283810-snow-moto-racing-adventure.json](./283810-snow-moto-racing-adventure.json) |
+| Snow of Spirit | 215546 | [215546-snow-of-spirit.json](./215546-snow-of-spirit.json) |
 | Snow Pinball: Santa's Christmas Factory! | 104476 | [104476-snow-pinball-santas-christmas-factory.json](./104476-snow-pinball-santas-christmas-factory.json) |
 | Snow Plow | 192872 | [192872-snow-plow.json](./192872-snow-plow.json) |
 | Snow Plow Train Simulator 3D - Russia | 87104 | [87104-snow-plow-train-simulator-3d-russia.json](./87104-snow-plow-train-simulator-3d-russia.json) |
