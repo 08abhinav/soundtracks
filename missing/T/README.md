@@ -5437,6 +5437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chatters Show | 151465 | [151465-the-chatters-show.json](./151465-the-chatters-show.json) |
 | The Cheese Chase: Pizza Madness | 319772 | [319772-the-cheese-chase-pizza-madness.json](./319772-the-cheese-chase-pizza-madness.json) |
 | The Cheetah Girls | 49367 | [49367-the-cheetah-girls.json](./49367-the-cheetah-girls.json) |
+| The Cheetah Girls: Passport to Fame | 220541 | [220541-the-cheetah-girls-passport-to-fame.json](./220541-the-cheetah-girls-passport-to-fame.json) |
 | The Cheetah Girls: Passport to Stardom | 117498 | [117498-the-cheetah-girls-passport-to-stardom.json](./117498-the-cheetah-girls-passport-to-stardom.json) |
 | The Cheetahmen: The Creation | 63348 | [63348-the-cheetahmen-the-creation.json](./63348-the-cheetahmen-the-creation.json) |
 | The Chef | 71238 | [71238-the-chef.json](./71238-the-chef.json) |
@@ -11155,6 +11156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Penguins of Madagascar: Mission Madness | 231385 | [231385-the-penguins-of-madagascar-mission-madness.json](./231385-the-penguins-of-madagascar-mission-madness.json) |
 | The Penguins of Madagascar: Operation Plushy Rescue | 230396 | [230396-the-penguins-of-madagascar-operation-plushy-rescue.json](./230396-the-penguins-of-madagascar-operation-plushy-rescue.json) |
 | The Penjikent Creature | 288036 | [288036-the-penjikent-creature.json](./288036-the-penjikent-creature.json) |
+| The Pentest | 220509 | [220509-the-pentest.json](./220509-the-pentest.json) |
 | The Penumbra Collection | 51891 | [51891-the-penumbra-collection.json](./51891-the-penumbra-collection.json) |
 | The People of Sea, Sun & Salt | 359040 | [359040-the-people-of-sea-sun-and-salt.json](./359040-the-people-of-sea-sun-and-salt.json) |
 | The People's House | 396900 | [396900-the-peoples-house.json](./396900-the-peoples-house.json) |
@@ -11782,6 +11784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rift | 343276 | [343276-the-rift.json](./343276-the-rift.json) |
 | The Rift Between Us | 258606 | [258606-the-rift-between-us.json](./258606-the-rift-between-us.json) |
 | The Riftbreaker: Heart of the Swamp | 263033 | [263033-the-riftbreaker-heart-of-the-swamp.json](./263033-the-riftbreaker-heart-of-the-swamp.json) |
+| The Riftbreaker: World Expansion II | 220511 | [220511-the-riftbreaker-world-expansion-ii.json](./220511-the-riftbreaker-world-expansion-ii.json) |
 | The Rifted Skies | 407986 | [407986-the-rifted-skies.json](./407986-the-rifted-skies.json) |
 | The Right Side of Town | 185408 | [185408-the-right-side-of-town.json](./185408-the-right-side-of-town.json) |
 | The Right Todd | 177365 | [177365-the-right-todd.json](./177365-the-right-todd.json) |
@@ -11837,6 +11840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Roast: Coffee Shop Simulator | 350012 | [350012-the-roast-coffee-shop-simulator.json](./350012-the-roast-coffee-shop-simulator.json) |
 | The Robolovers | 172707 | [172707-the-robolovers.json](./172707-the-robolovers.json) |
 | THE Robot Tsukurou Ze! | 69149 | [69149-the-robot-tsukurou-ze.json](./69149-the-robot-tsukurou-ze.json) |
+| The Roc | 220512 | [220512-the-roc.json](./220512-the-roc.json) |
 | The Rock | 308461 | [308461-the-rock.json](./308461-the-rock.json) |
 | The Rock | 308462 | [308462-the-rock.json](./308462-the-rock.json) |
 | The Rock and the Rose | 353996 | [353996-the-rock-and-the-rose.json](./353996-the-rock-and-the-rose.json) |
@@ -12154,6 +12158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Segment Twins | 239782 | [239782-the-segment-twins.json](./239782-the-segment-twins.json) |
 | The Sekimeiya: Spun Glass | 141500 | [141500-the-sekimeiya-spun-glass.json](./141500-the-sekimeiya-spun-glass.json) |
 | The Seller | 84956 | [84956-the-seller.json](./84956-the-seller.json) |
+| The Senex Bird | 220513 | [220513-the-senex-bird.json](./220513-the-senex-bird.json) |
 | The Senpai | 230521 | [230521-the-senpai.json](./230521-the-senpai.json) |
 | The Sensational December Machine | 321623 | [321623-the-sensational-december-machine.json](./321623-the-sensational-december-machine.json) |
 | The Sense Point | 174577 | [174577-the-sense-point.json](./174577-the-sense-point.json) |
@@ -13758,6 +13763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trotties Adventure | 273315 | [273315-the-trotties-adventure.json](./273315-the-trotties-adventure.json) |
 | The Truck Game | 114250 | [114250-the-truck-game.json](./114250-the-truck-game.json) |
 | The True Arena | 271412 | [271412-the-true-arena.json](./271412-the-true-arena.json) |
+| The True Love Rings | 220514 | [220514-the-true-love-rings.json](./220514-the-true-love-rings.json) |
 | The True Slime King | 97974 | [97974-the-true-slime-king.json](./97974-the-true-slime-king.json) |
 | The True Tales of Bloodstreet 13 | 112848 | [112848-the-true-tales-of-bloodstreet-13.json](./112848-the-true-tales-of-bloodstreet-13.json) |
 | The Trump | 124087 | [124087-the-trump.json](./124087-the-trump.json) |
@@ -13783,6 +13789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The TV Show | 54891 | [54891-the-tv-show.json](./54891-the-tv-show.json) |
 | The Twelve Slot Saloon | 311782 | [311782-the-twelve-slot-saloon.json](./311782-the-twelve-slot-saloon.json) |
 | The Twenty One | 210894 | [210894-the-twenty-one.json](./210894-the-twenty-one.json) |
+| The Twilight of Infinity Episode 5: Flight into Yesterday - The Disappearance of Amelia Earhart | 220515 | [220515-the-twilight-of-infinity-episode-5-flight-into-yesterday-the-disappearance-of-amelia-earhart.json](./220515-the-twilight-of-infinity-episode-5-flight-into-yesterday-the-disappearance-of-amelia-earhart.json) |
 | The Twilight of Infinity: Episode 4 - Therefore I Am | 215724 | [215724-the-twilight-of-infinity-episode-4-therefore-i-am.json](./215724-the-twilight-of-infinity-episode-4-therefore-i-am.json) |
 | The Twilight Witch | 287709 | [287709-the-twilight-witch.json](./287709-the-twilight-witch.json) |
 | The Twilight Zone | 12804 | [12804-the-twilight-zone.json](./12804-the-twilight-zone.json) |
@@ -14223,6 +14230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Water Horse: Legend of the Deep | 27629 | [27629-the-water-horse-legend-of-the-deep.json](./27629-the-water-horse-legend-of-the-deep.json) |
 | The Water Horse: Legend of the Deep | 43258 | [43258-the-water-horse-legend-of-the-deep.json](./43258-the-water-horse-legend-of-the-deep.json) |
 | The Water is Wide | 225702 | [225702-the-water-is-wide.json](./225702-the-water-is-wide.json) |
+| The Waterflame Brothers | 220516 | [220516-the-waterflame-brothers.json](./220516-the-waterflame-brothers.json) |
 | The Waterfront | 274226 | [274226-the-waterfront.json](./274226-the-waterfront.json) |
 | The Waters Above: Prelude | 104826 | [104826-the-waters-above-prelude.json](./104826-the-waters-above-prelude.json) |
 | The Waters of Fertility | 147312 | [147312-the-waters-of-fertility.json](./147312-the-waters-of-fertility.json) |
@@ -14481,6 +14489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Woods Have Horns | 310676 | [310676-the-woods-have-horns.json](./310676-the-woods-have-horns.json) |
 | The Woods: VR Escape the Room | 114975 | [114975-the-woods-vr-escape-the-room.json](./114975-the-woods-vr-escape-the-room.json) |
 | The Woodsman | 225558 | [225558-the-woodsman.json](./225558-the-woodsman.json) |
+| The Woodworker | 220517 | [220517-the-woodworker.json](./220517-the-woodworker.json) |
 | The Word is Not the Thing | 74468 | [74468-the-word-is-not-the-thing.json](./74468-the-word-is-not-the-thing.json) |
 | The Wordland Scape | 183807 | [183807-the-wordland-scape.json](./183807-the-wordland-scape.json) |
 | The Words Within | 191657 | [191657-the-words-within.json](./191657-the-words-within.json) |
@@ -15384,6 +15393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three of a Fish | 123546 | [123546-three-of-a-fish.json](./123546-three-of-a-fish.json) |
 | Three of Cards | 159564 | [159564-three-of-cards.json](./159564-three-of-cards.json) |
 | Three of Us | 181753 | [181753-three-of-us.json](./181753-three-of-us.json) |
+| Three Quarters Space Station | 220518 | [220518-three-quarters-space-station.json](./220518-three-quarters-space-station.json) |
 | Three Random Archives | 265114 | [265114-three-random-archives.json](./265114-three-random-archives.json) |
 | Three Six Nine | 362985 | [362985-three-six-nine.json](./362985-three-six-nine.json) |
 | Three Skies | 207736 | [207736-three-skies.json](./207736-three-skies.json) |
@@ -17068,6 +17078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Tale | 412942 | [412942-tile-tale.json](./412942-tile-tale.json) |
 | Tile Tales: Pirate | 325250 | [325250-tile-tales-pirate.json](./325250-tile-tales-pirate.json) |
 | Tile Tempest | 373338 | [373338-tile-tempest.json](./373338-tile-tempest.json) |
+| Tile Town | 220519 | [220519-tile-town.json](./220519-tile-town.json) |
 | Tile Trials | 392196 | [392196-tile-trials.json](./392196-tile-trials.json) |
 | Tile Triple 3D | 227509 | [227509-tile-triple-3d.json](./227509-tile-triple-3d.json) |
 | Tile Typer | 81673 | [81673-tile-typer.json](./81673-tile-typer.json) |
@@ -17282,6 +17293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Navigator | 152022 | [152022-time-navigator.json](./152022-time-navigator.json) |
 | Time O'Clock: The Mask of Crime | 423245 | [423245-time-oclock-the-mask-of-crime.json](./423245-time-oclock-the-mask-of-crime.json) |
 | Time Ocean | 244467 | [244467-time-ocean.json](./244467-time-ocean.json) |
+| Time of Ashes | 220521 | [220521-time-of-ashes.json](./220521-time-of-ashes.json) |
 | Time of Fury | 17486 | [17486-time-of-fury.json](./17486-time-of-fury.json) |
 | Time of Heroes | 341087 | [341087-time-of-heroes.json](./341087-time-of-heroes.json) |
 | Time of Heroes | 341375 | [341375-time-of-heroes.json](./341375-time-of-heroes.json) |
@@ -17385,6 +17397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Twist: Rekishi no Katasumi de... - Kouhen | 41360 | [41360-time-twist-rekishi-no-katasumi-de-kouhen.json](./41360-time-twist-rekishi-no-katasumi-de-kouhen.json) |
 | Time Twist: Rekishi no Katasumi de... - Zenpen | 41361 | [41361-time-twist-rekishi-no-katasumi-de-zenpen.json](./41361-time-twist-rekishi-no-katasumi-de-zenpen.json) |
 | Time Up | 68597 | [68597-time-up.json](./68597-time-up.json) |
+| Time Walker: Dark World | 220520 | [220520-time-walker-dark-world.json](./220520-time-walker-dark-world.json) |
 | Time Warp | 116770 | [116770-time-warp.json](./116770-time-warp.json) |
 | Time Warpers | 110073 | [110073-time-warpers.json](./110073-time-warpers.json) |
 | Time Warrior | 221900 | [221900-time-warrior.json](./221900-time-warrior.json) |
