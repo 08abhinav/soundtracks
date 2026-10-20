@@ -297,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valis IV | 37603 | [37603-valis-iv.json](./37603-valis-iv.json) |
 | Valis: The Fantasm Soldier | 278476 | [278476-valis-the-fantasm-soldier.json](./278476-valis-the-fantasm-soldier.json) |
 | Valis: The Fantasm Soldier | 278478 | [278478-valis-the-fantasm-soldier.json](./278478-valis-the-fantasm-soldier.json) |
+| Valis: The Fantasm Soldier Collection II | 221583 | [221583-valis-the-fantasm-soldier-collection-ii.json](./221583-valis-the-fantasm-soldier-collection-ii.json) |
 | Valis: The Fantasm Soldier Collection III | 276457 | [276457-valis-the-fantasm-soldier-collection-iii.json](./276457-valis-the-fantasm-soldier-collection-iii.json) |
 | Valist Leznalt | 206377 | [206377-valist-leznalt.json](./206377-valist-leznalt.json) |
 | Valkalim | 192983 | [192983-valkalim.json](./192983-valkalim.json) |
