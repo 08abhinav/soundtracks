@@ -4657,6 +4657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolish & Build | 135607 | [135607-demolish-and-build.json](./135607-demolish-and-build.json) |
 | Demolish & Build 2017 | 24941 | [24941-demolish-and-build-2017.json](./24941-demolish-and-build-2017.json) |
 | Demolish & Build 2018 | 90102 | [90102-demolish-and-build-2018.json](./90102-demolish-and-build-2018.json) |
+| Demolish Derby: Nitro-Battle | 219471 | [219471-demolish-derby-nitro-battle.json](./219471-demolish-derby-nitro-battle.json) |
 | Demolish Fist | 39445 | [39445-demolish-fist.json](./39445-demolish-fist.json) |
 | Demolish or Die | 219239 | [219239-demolish-or-die.json](./219239-demolish-or-die.json) |
 | Demolition | 125341 | [125341-demolition.json](./125341-demolition.json) |
@@ -11170,6 +11171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest Monsters: The Withered World | 403174 | [403174-dragon-quest-monsters-the-withered-world.json](./403174-dragon-quest-monsters-the-withered-world.json) |
 | Dragon Quest Monsters: The Withered World - Digital Deluxe Edition | 418330 | [418330-dragon-quest-monsters-the-withered-world-digital-deluxe-edition.json](./418330-dragon-quest-monsters-the-withered-world-digital-deluxe-edition.json) |
 | Dragon Quest of the Stars | 131686 | [131686-dragon-quest-of-the-stars.json](./131686-dragon-quest-of-the-stars.json) |
+| Dragon Quest Treasures: Digital Deluxe Edition | 219485 | [219485-dragon-quest-treasures-digital-deluxe-edition.json](./219485-dragon-quest-treasures-digital-deluxe-edition.json) |
 | Dragon Quest V: Tenkuu no Hanayome | 205595 | [205595-dragon-quest-v-tenkuu-no-hanayome.json](./205595-dragon-quest-v-tenkuu-no-hanayome.json) |
 | Dragon Quest VI: Realms of Revelation | 1817 | [1817-dragon-quest-vi-realms-of-revelation.json](./1817-dragon-quest-vi-realms-of-revelation.json) |
 | Dragon Quest VII Reimagined | 366884 | [366884-dragon-quest-vii-reimagined.json](./366884-dragon-quest-vii-reimagined.json) |
@@ -11542,6 +11544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw A Stickman: Episode 2 | 99999 | [99999-draw-a-stickman-episode-2.json](./99999-draw-a-stickman-episode-2.json) |
 | Draw Action: Freestyle Fight | 281241 | [281241-draw-action-freestyle-fight.json](./281241-draw-action-freestyle-fight.json) |
 | Draw and Color | 276130 | [276130-draw-and-color.json](./276130-draw-and-color.json) |
+| Draw and Color: Kawaii | 219461 | [219461-draw-and-color-kawaii.json](./219461-draw-and-color-kawaii.json) |
 | Draw and Color: Kawaii - Complete Edition | 242047 | [242047-draw-and-color-kawaii-complete-edition.json](./242047-draw-and-color-kawaii-complete-edition.json) |
 | Draw and Color: Kawaii - Definitive Edition | 239480 | [239480-draw-and-color-kawaii-definitive-edition.json](./239480-draw-and-color-kawaii-definitive-edition.json) |
 | Draw and Color: Kawaii - Deluxe Edition | 237851 | [237851-draw-and-color-kawaii-deluxe-edition.json](./237851-draw-and-color-kawaii-deluxe-edition.json) |
@@ -12234,6 +12237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Girls | 58786 | [58786-drift-girls.json](./58786-drift-girls.json) |
 | Drift Go | 211770 | [211770-drift-go.json](./211770-drift-go.json) |
 | Drift Highway: Retro Console Edition | 365855 | [365855-drift-highway-retro-console-edition.json](./365855-drift-highway-retro-console-edition.json) |
+| Drift Horizon: Racing, Driving & Parking Trial Simulator Games | 219453 | [219453-drift-horizon-racing-driving-and-parking-trial-simulator-games.json](./219453-drift-horizon-racing-driving-and-parking-trial-simulator-games.json) |
 | Drift Hunters | 145530 | [145530-drift-hunters.json](./145530-drift-hunters.json) |
 | Drift Island | 243590 | [243590-drift-island.json](./243590-drift-island.json) |
 | Drift Island | 332871 | [332871-drift-island.json](./332871-drift-island.json) |
