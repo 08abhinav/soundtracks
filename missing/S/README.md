@@ -21117,6 +21117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strikers 2020 | 118840 | [118840-strikers-2020.json](./118840-strikers-2020.json) |
 | Strikers Club | 343323 | [343323-strikers-club.json](./343323-strikers-club.json) |
 | Strikers1945: RE | 267316 | [267316-strikers1945-re.json](./267316-strikers1945-re.json) |
+| Strikethrough | 252577 | [252577-strikethrough.json](./252577-strikethrough.json) |
 | Strikewave: Nightly Underground Fighter | 349945 | [349945-strikewave-nightly-underground-fighter.json](./349945-strikewave-nightly-underground-fighter.json) |
 | Striking Wine | 372815 | [372815-striking-wine.json](./372815-striking-wine.json) |
 | Strimko | 54408 | [54408-strimko.json](./54408-strimko.json) |
@@ -22592,6 +22593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ant Art Tycoon | 391603 | [391603-super-ant-art-tycoon.json](./391603-super-ant-art-tycoon.json) |
 | Super Antonio | 313180 | [313180-super-antonio.json](./313180-super-antonio.json) |
 | Super Arabian | 48665 | [48665-super-arabian.json](./48665-super-arabian.json) |
+| Super Arcade Boy in Goodbye Greenies | 252599 | [252599-super-arcade-boy-in-goodbye-greenies.json](./252599-super-arcade-boy-in-goodbye-greenies.json) |
 | Super Arcade Football | 19084 | [19084-super-arcade-football.json](./19084-super-arcade-football.json) |
 | Super Arcade Pinball | 217980 | [217980-super-arcade-pinball.json](./217980-super-arcade-pinball.json) |
 | Super Arcade Soccer | 115136 | [115136-super-arcade-soccer.json](./115136-super-arcade-soccer.json) |
