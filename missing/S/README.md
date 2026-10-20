@@ -692,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura School Simulator | 208944 | [208944-sakura-school-simulator.json](./208944-sakura-school-simulator.json) |
 | Sakura Scramble! | 205897 | [205897-sakura-scramble.json](./205897-sakura-scramble.json) |
 | Sakura Shrine Girls | 31619 | [31619-sakura-shrine-girls.json](./31619-sakura-shrine-girls.json) |
+| Sakura Spirit | 204868 | [204868-sakura-spirit.json](./204868-sakura-spirit.json) |
 | Sakura Stars | 132662 | [132662-sakura-stars.json](./132662-sakura-stars.json) |
 | Sakura Street: Tycoon | 296786 | [296786-sakura-street-tycoon.json](./296786-sakura-street-tycoon.json) |
 | Sakura Succubus | 129707 | [129707-sakura-succubus.json](./129707-sakura-succubus.json) |
@@ -2634,6 +2635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Rulebreaker | 279770 | [279770-scp-rulebreaker.json](./279770-scp-rulebreaker.json) |
 | SCP: Run For Freedom | 338266 | [338266-scp-run-for-freedom.json](./338266-scp-run-for-freedom.json) |
 | SCP: Secret Facility | 336353 | [336353-scp-secret-facility.json](./336353-scp-secret-facility.json) |
+| SCP: Secret Files | 204886 | [204886-scp-secret-files.json](./204886-scp-secret-files.json) |
 | SCP: Secret Laboratory | 70385 | [70385-scp-secret-laboratory.json](./70385-scp-secret-laboratory.json) |
 | SCP: Site-19 | 242246 | [242246-scp-site-19.json](./242246-scp-site-19.json) |
 | SCP: The Beginning | 390659 | [390659-scp-the-beginning.json](./390659-scp-the-beginning.json) |
@@ -10997,6 +10999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smush | 119028 | [119028-smush.json](./119028-smush.json) |
 | Smush.TV | 111707 | [111707-smush-tv.json](./111707-smush-tv.json) |
 | Smuta | 294643 | [294643-smuta.json](./294643-smuta.json) |
+| Smuta: Inception | 204892 | [204892-smuta-inception.json](./204892-smuta-inception.json) |
 | Smuta: Zov serdtsa | 366715 | [366715-smuta-zov-serdtsa.json](./366715-smuta-zov-serdtsa.json) |
 | SMW | 250505 | [250505-smw.json](./250505-smw.json) |
 | SMW Quest for Gaming | 267950 | [267950-smw-quest-for-gaming.json](./267950-smw-quest-for-gaming.json) |
@@ -13946,6 +13949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Hackers 2: Bonus Story Arc - The Lost Numbers | 214346 | [214346-soul-hackers-2-bonus-story-arc-the-lost-numbers.json](./214346-soul-hackers-2-bonus-story-arc-the-lost-numbers.json) |
 | Soul Hackers 2: Digital Deluxe Edition | 213330 | [213330-soul-hackers-2-digital-deluxe-edition.json](./213330-soul-hackers-2-digital-deluxe-edition.json) |
 | Soul Hackers 2: Digital Premium Edition | 213331 | [213331-soul-hackers-2-digital-premium-edition.json](./213331-soul-hackers-2-digital-premium-edition.json) |
+| Soul Hackers 2: Launch Edition | 204915 | [204915-soul-hackers-2-launch-edition.json](./204915-soul-hackers-2-launch-edition.json) |
 | Soul Hero Adventure | 291306 | [291306-soul-hero-adventure.json](./291306-soul-hero-adventure.json) |
 | Soul Historica | 118181 | [118181-soul-historica.json](./118181-soul-historica.json) |
 | Soul Hunter | 383680 | [383680-soul-hunter.json](./383680-soul-hunter.json) |
@@ -19698,6 +19702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Division 2: Men of Steel | 260599 | [260599-steel-division-2-men-of-steel.json](./260599-steel-division-2-men-of-steel.json) |
 | Steel Division 2: Nemesis - Battle of Rimini | 143080 | [143080-steel-division-2-nemesis-battle-of-rimini.json](./143080-steel-division-2-nemesis-battle-of-rimini.json) |
 | Steel Division 2: Nemesis #4 - Storming Toulon | 157535 | [157535-steel-division-2-nemesis-4-storming-toulon.json](./157535-steel-division-2-nemesis-4-storming-toulon.json) |
+| Steel Division 2: Nemesis #5 - Raid on Drvar | 204890 | [204890-steel-division-2-nemesis-5-raid-on-drvar.json](./204890-steel-division-2-nemesis-5-raid-on-drvar.json) |
 | Steel Division 2: Reinforcement Pack #11 | 157542 | [157542-steel-division-2-reinforcement-pack-11.json](./157542-steel-division-2-reinforcement-pack-11.json) |
 | Steel Division 2: Reinforcement Pack #14 - Aces | 318438 | [318438-steel-division-2-reinforcement-pack-14-aces.json](./318438-steel-division-2-reinforcement-pack-14-aces.json) |
 | Steel Division 2: Tribute to Normandy '44 | 293542 | [293542-steel-division-2-tribute-to-normandy-44.json](./293542-steel-division-2-tribute-to-normandy-44.json) |
@@ -22990,6 +22995,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Angry Birds | 163212 | [163212-super-angry-birds.json](./163212-super-angry-birds.json) |
 | Super Animal Royale: Season 0 | 204696 | [204696-super-animal-royale-season-0.json](./204696-super-animal-royale-season-0.json) |
 | Super Animal Royale: Season 0.5 | 204698 | [204698-super-animal-royale-season-0-5.json](./204698-super-animal-royale-season-0-5.json) |
+| Super Animal Royale: Season 1 | 204882 | [204882-super-animal-royale-season-1.json](./204882-super-animal-royale-season-1.json) |
+| Super Animal Royale: Season 2 | 204883 | [204883-super-animal-royale-season-2.json](./204883-super-animal-royale-season-2.json) |
+| Super Animal Royale: Season 3 | 204884 | [204884-super-animal-royale-season-3.json](./204884-super-animal-royale-season-3.json) |
 | Super Animal Royale: Starter Pack Bundle - Seasons 0-4 | 375198 | [375198-super-animal-royale-starter-pack-bundle-seasons-0-4.json](./375198-super-animal-royale-starter-pack-bundle-seasons-0-4.json) |
 | Super Animal Royale: Starter Pack Bundle - Seasons 5-9 | 375199 | [375199-super-animal-royale-starter-pack-bundle-seasons-5-9.json](./375199-super-animal-royale-starter-pack-bundle-seasons-5-9.json) |
 | Super Animal Soccer | 382536 | [382536-super-animal-soccer.json](./382536-super-animal-soccer.json) |
@@ -26991,6 +26999,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syberia Trilogy | 125404 | [125404-syberia-trilogy.json](./125404-syberia-trilogy.json) |
 | Syberia: 20th Anniversary Bundle | 202126 | [202126-syberia-20th-anniversary-bundle.json](./202126-syberia-20th-anniversary-bundle.json) |
 | Syberia: Remastered | 344050 | [344050-syberia-remastered.json](./344050-syberia-remastered.json) |
+| Syberia: The World Before - 20 Years Edition | 204908 | [204908-syberia-the-world-before-20-years-edition.json](./204908-syberia-the-world-before-20-years-edition.json) |
+| Syberia: The World Before - Collector's Edition | 204907 | [204907-syberia-the-world-before-collectors-edition.json](./204907-syberia-the-world-before-collectors-edition.json) |
 | Syberia: The World Before - Deluxe Edition | 169167 | [169167-syberia-the-world-before-deluxe-edition.json](./169167-syberia-the-world-before-deluxe-edition.json) |
 | Sybil's Tail | 179657 | [179657-sybils-tail.json](./179657-sybils-tail.json) |
 | Sycamore | 186618 | [186618-sycamore.json](./186618-sycamore.json) |
