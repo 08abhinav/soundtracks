@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:07:56.637Z",
-  "total_soundtracks": 2231,
+  "generated_at": "2026-10-20T21:08:09.528Z",
+  "total_soundtracks": 2232,
   "games": [
     {
       "igdb_id": 7522,
@@ -21525,6 +21525,20 @@
           "spotify_url": "https://music.apple.com/us/album/street-fighter-v-arcade-edition-original-soundtrack/1341577409?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1341577409"
+        }
+      ]
+    },
+    {
+      "igdb_id": 126095,
+      "game_name": "Street Fighter V: Champion Edition",
+      "game_url": "https://ostdb.net/games/street-fighter-v-champion-edition",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e1a91ef9969e1a5bd88f7736",
+      "albums": [
+        {
+          "album_name": "Street Fighter V Champion Edition Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1mGirt9gvSXDEfqb8wEgwm",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
