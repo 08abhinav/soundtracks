@@ -2159,6 +2159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OneShot: Fading Memory | 166079 | [166079-oneshot-fading-memory.json](./166079-oneshot-fading-memory.json) |
 | OneShot: Frostide | 327023 | [327023-oneshot-frostide.json](./327023-oneshot-frostide.json) |
 | OneShot: The Pancake Episode | 307795 | [307795-oneshot-the-pancake-episode.json](./307795-oneshot-the-pancake-episode.json) |
+| OneShot: The Tarion Machine | 222764 | [222764-oneshot-the-tarion-machine.json](./222764-oneshot-the-tarion-machine.json) |
 | OneShot: World Machine Edition | 200905 | [200905-oneshot-world-machine-edition.json](./200905-oneshot-world-machine-edition.json) |
 | Onesimus: A Quest for Freedom | 68971 | [68971-onesimus-a-quest-for-freedom.json](./68971-onesimus-a-quest-for-freedom.json) |
 | Onet 3D | 231921 | [231921-onet-3d.json](./231921-onet-3d.json) |
