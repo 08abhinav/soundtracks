@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:10:38.184Z",
-  "total_soundtracks": 2236,
+  "generated_at": "2026-10-20T21:10:50.481Z",
+  "total_soundtracks": 2237,
   "games": [
     {
       "igdb_id": 7522,
@@ -20201,6 +20201,20 @@
           "spotify_url": "https://open.spotify.com/album/5PDF3HjzryejKoNNCxOSs8",
           "apple_music_url": "https://music.apple.com/us/album/slime-rancher-original-game-soundtrack/1292182475",
           "album_link_url": "https://album.link/i/1292182475"
+        }
+      ]
+    },
+    {
+      "igdb_id": 75096,
+      "game_name": "Slipstream",
+      "game_url": "https://ostdb.net/games/slipstream",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273952704b383e8ad674106e9d2",
+      "albums": [
+        {
+          "album_name": "Slipstream (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5zLJ0D7spbWzfK5lRByDwv",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
