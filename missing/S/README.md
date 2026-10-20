@@ -2502,6 +2502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scorn | 19817 | [19817-scorn.json](./19817-scorn.json) |
 | Scorn | 262084 | [262084-scorn.json](./262084-scorn.json) |
 | Scorn: Deluxe Edition | 205002 | [205002-scorn-deluxe-edition.json](./205002-scorn-deluxe-edition.json) |
+| Scorphius | 213782 | [213782-scorphius.json](./213782-scorphius.json) |
 | Scorpion | 22729 | [22729-scorpion.json](./22729-scorpion.json) |
 | Scorpion Champions: Island Warfare | 397719 | [397719-scorpion-champions-island-warfare.json](./397719-scorpion-champions-island-warfare.json) |
 | Scorpion Garrison | 280227 | [280227-scorpion-garrison.json](./280227-scorpion-garrison.json) |
@@ -7139,6 +7140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shovel Knight: Pocket Dungeon - Puzzler's Pack DLC | 246405 | [246405-shovel-knight-pocket-dungeon-puzzlers-pack-dlc.json](./246405-shovel-knight-pocket-dungeon-puzzlers-pack-dlc.json) |
 | Shovel Knight: Shovel of Hope DX | 305757 | [305757-shovel-knight-shovel-of-hope-dx.json](./305757-shovel-knight-shovel-of-hope-dx.json) |
 | Shovel Knight: Treasure Trove | 26848 | [26848-shovel-knight-treasure-trove.json](./26848-shovel-knight-treasure-trove.json) |
+| Shovel Software Insurance Claim | 213809 | [213809-shovel-software-insurance-claim.json](./213809-shovel-software-insurance-claim.json) |
 | Shovelboy | 246789 | [246789-shovelboy.json](./246789-shovelboy.json) |
 | Shovelboy: Zone X | 290114 | [290114-shovelboy-zone-x.json](./290114-shovelboy-zone-x.json) |
 | ShovelFall | 241784 | [241784-shovelfall.json](./241784-shovelfall.json) |
@@ -10943,6 +10945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smosh Fighter | 325567 | [325567-smosh-fighter.json](./325567-smosh-fighter.json) |
 | Smothered Hope | 273549 | [273549-smothered-hope.json](./273549-smothered-hope.json) |
 | Smove | 58502 | [58502-smove.json](./58502-smove.json) |
+| SmRPG: The Basic | 213820 | [213820-smrpg-the-basic.json](./213820-smrpg-the-basic.json) |
 | SMS 207 | 420490 | [420490-sms-207.json](./420490-sms-207.json) |
 | SMS Returns | 421213 | [421213-sms-returns.json](./421213-sms-returns.json) |
 | Smuc's | 93477 | [93477-smucs.json](./93477-smucs.json) |
@@ -19463,6 +19466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steadfast | 417535 | [417535-steadfast.json](./417535-steadfast.json) |
 | Steady, Steady, Steady! | 348254 | [348254-steady-steady-steady.json](./348254-steady-steady-steady.json) |
 | Steak Stacker | 350597 | [350597-steak-stacker.json](./350597-steak-stacker.json) |
+| Steal | 213784 | [213784-steal.json](./213784-steal.json) |
 | Steal & Sell Simulator | 413173 | [413173-steal-and-sell-simulator.json](./413173-steal-and-sell-simulator.json) |
 | Steal a Monke | 370849 | [370849-steal-a-monke.json](./370849-steal-a-monke.json) |
 | Steal Deal | 301095 | [301095-steal-deal.json](./301095-steal-deal.json) |
@@ -19552,6 +19556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steambots | 296655 | [296655-steambots.json](./296655-steambots.json) |
 | Steamburg | 74585 | [74585-steamburg.json](./74585-steamburg.json) |
 | SteamCity Chronicles: Rise of the Rose | 123959 | [123959-steamcity-chronicles-rise-of-the-rose.json](./123959-steamcity-chronicles-rise-of-the-rose.json) |
+| Steamcore | 213821 | [213821-steamcore.json](./213821-steamcore.json) |
 | Steamdle | 362034 | [362034-steamdle.json](./362034-steamdle.json) |
 | SteamDolls | 33028 | [33028-steamdolls.json](./33028-steamdolls.json) |
 | SteamDolls: Order of Chaos | 124261 | [124261-steamdolls-order-of-chaos.json](./124261-steamdolls-order-of-chaos.json) |
@@ -24290,8 +24295,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid: Darkholme Hospital | 213039 | [213039-super-metroid-darkholme-hospital.json](./213039-super-metroid-darkholme-hospital.json) |
 | Super Metroid: Digital Cube | 255369 | [255369-super-metroid-digital-cube.json](./255369-super-metroid-digital-cube.json) |
 | Super Metroid: Eris | 42209 | [42209-super-metroid-eris.json](./42209-super-metroid-eris.json) |
+| Super Metroid: Escape II | 213828 | [213828-super-metroid-escape-ii.json](./213828-super-metroid-escape-ii.json) |
 | Super Metroid: Fear | 255370 | [255370-super-metroid-fear.json](./255370-super-metroid-fear.json) |
 | Super Metroid: GBA Edition | 222919 | [222919-super-metroid-gba-edition.json](./222919-super-metroid-gba-edition.json) |
+| Super Metroid: Global Warming | 213829 | [213829-super-metroid-global-warming.json](./213829-super-metroid-global-warming.json) |
 | Super Metroid: Green Peace | 268411 | [268411-super-metroid-green-peace.json](./268411-super-metroid-green-peace.json) |
 | Super Metroid: Harvest | 268412 | [268412-super-metroid-harvest.json](./268412-super-metroid-harvest.json) |
 | Super Metroid: Hotlands | 222749 | [222749-super-metroid-hotlands.json](./222749-super-metroid-hotlands.json) |
@@ -26381,6 +26388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Hunt | 339455 | [339455-sweet-hunt.json](./339455-sweet-hunt.json) |
 | Sweet Ice-Cream | 339454 | [339454-sweet-ice-cream.json](./339454-sweet-ice-cream.json) |
 | Sweet Idol | 371243 | [371243-sweet-idol.json](./371243-sweet-idol.json) |
+| Sweet In the Mountains | 213785 | [213785-sweet-in-the-mountains.json](./213785-sweet-in-the-mountains.json) |
 | Sweet Island | 392924 | [392924-sweet-island.json](./392924-sweet-island.json) |
 | Sweet Jewels | 359404 | [359404-sweet-jewels.json](./359404-sweet-jewels.json) |
 | Sweet Kimono | 367311 | [367311-sweet-kimono.json](./367311-sweet-kimono.json) |
@@ -26582,6 +26590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swingmania | 304039 | [304039-swingmania.json](./304039-swingmania.json) |
 | SwingShot | 185384 | [185384-swingshot.json](./185384-swingshot.json) |
 | Swingularity | 333566 | [333566-swingularity.json](./333566-swingularity.json) |
+| Swingworm | 213791 | [213791-swingworm.json](./213791-swingworm.json) |
 | Swingy boy | 150444 | [150444-swingy-boy.json](./150444-swingy-boy.json) |
 | Swingy Sword | 90210 | [90210-swingy-sword.json](./90210-swingy-sword.json) |
 | Swinth | 58154 | [58154-swinth.json](./58154-swinth.json) |
