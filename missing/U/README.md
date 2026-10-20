@@ -414,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Fishing Simulator: VR DLC | 164523 | [164523-ultimate-fishing-simulator-vr-dlc.json](./164523-ultimate-fishing-simulator-vr-dlc.json) |
 | Ultimate Fishing Supermarket Simulator 3D | 309637 | [309637-ultimate-fishing-supermarket-simulator-3d.json](./309637-ultimate-fishing-supermarket-simulator-3d.json) |
 | Ultimate Flash Sonic | 140408 | [140408-ultimate-flash-sonic.json](./140408-ultimate-flash-sonic.json) |
+| Ultimate Flight Simulator Pro | 233895 | [233895-ultimate-flight-simulator-pro.json](./233895-ultimate-flight-simulator-pro.json) |
 | Ultimate Flying Car | 233618 | [233618-ultimate-flying-car.json](./233618-ultimate-flying-car.json) |
 | Ultimate Flying Cars | 215401 | [215401-ultimate-flying-cars.json](./215401-ultimate-flying-cars.json) |
 | Ultimate Football '95 | 69803 | [69803-ultimate-football-95.json](./69803-ultimate-football-95.json) |
@@ -2451,6 +2452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uppercute | 336613 | [336613-uppercute.json](./336613-uppercute.json) |
 | Upperz | 102794 | [102794-upperz.json](./102794-upperz.json) |
 | Uppies! | 364588 | [364588-uppies.json](./364588-uppies.json) |
+| Uppy Cup | 233918 | [233918-uppy-cup.json](./233918-uppy-cup.json) |
 | Uprising | 257422 | [257422-uprising.json](./257422-uprising.json) |
 | Uprising Complete | 53878 | [53878-uprising-complete.json](./53878-uprising-complete.json) |
 | Uprising: Humanum | 248903 | [248903-uprising-humanum.json](./248903-uprising-humanum.json) |
