@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T10:41:50.286Z",
-  "total_soundtracks": 2210,
+  "generated_at": "2026-10-20T10:50:38.102Z",
+  "total_soundtracks": 2211,
   "games": [
     {
       "igdb_id": 7522,
@@ -3159,6 +3159,20 @@
         {
           "album_name": "Bodycam (Official Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5QlIkL0n8DCBq785usYFrM",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 6810,
+      "game_name": "Bombshell",
+      "game_url": "https://ostdb.net/games/bombshell",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ae629dfe1a4e6d48834eeaa1",
+      "albums": [
+        {
+          "album_name": "Bombshell (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7IZruAzyxuCzXTQVfdVoaH",
           "apple_music_url": "",
           "album_link_url": ""
         }
