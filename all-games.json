@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:36:20.809Z",
-  "total_soundtracks": 2247,
+  "generated_at": "2026-10-20T21:36:33.086Z",
+  "total_soundtracks": 2248,
   "games": [
     {
       "igdb_id": 7522,
@@ -8827,6 +8827,20 @@
           "spotify_url": "https://music.apple.com/us/album/floatlands/1381096859?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1381096859"
+        }
+      ]
+    },
+    {
+      "igdb_id": 210625,
+      "game_name": "Flock",
+      "game_url": "https://ostdb.net/games/flock",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f95f6a27337143d3374c6a68",
+      "albums": [
+        {
+          "album_name": "Flock (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0XpvYZjr8lHD04NdOEcN85",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
