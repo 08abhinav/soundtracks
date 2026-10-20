@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of the Dead Trees | 389490 | [389490-land-of-the-dead-trees.json](./389490-land-of-the-dead-trees.json) |
 | Land of the Dead: Road to Fiddler's Green | 5900 | [5900-land-of-the-dead-road-to-fiddlers-green.json](./5900-land-of-the-dead-road-to-fiddlers-green.json) |
 | Land of the Lost: Crystal Adventure | 68042 | [68042-land-of-the-lost-crystal-adventure.json](./68042-land-of-the-lost-crystal-adventure.json) |
+| Land of the Survivors | 249028 | [249028-land-of-the-survivors.json](./249028-land-of-the-survivors.json) |
 | Land of the Vikings | 211376 | [211376-land-of-the-vikings.json](./211376-land-of-the-vikings.json) |
 | Land of the Vikings: Dage Island | 316374 | [316374-land-of-the-vikings-dage-island.json](./316374-land-of-the-vikings-dage-island.json) |
 | Land of the Vikings: Thralls | 321832 | [321832-land-of-the-vikings-thralls.json](./321832-land-of-the-vikings-thralls.json) |
@@ -4265,6 +4266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Amazon | 356196 | [356196-little-amazon.json](./356196-little-amazon.json) |
 | Little Animals: The Wild Race | 328505 | [328505-little-animals-the-wild-race.json](./328505-little-animals-the-wild-race.json) |
 | Little Aquarium | 373863 | [373863-little-aquarium.json](./373863-little-aquarium.json) |
+| Little Army | 249045 | [249045-little-army.json](./249045-little-army.json) |
 | Little Artist - Drawing and Coloring Book | 104598 | [104598-little-artist-drawing-and-coloring-book.json](./104598-little-artist-drawing-and-coloring-book.json) |
 | Little Astronaut | 199133 | [199133-little-astronaut.json](./199133-little-astronaut.json) |
 | Little Backpack | 407408 | [407408-little-backpack.json](./407408-little-backpack.json) |
