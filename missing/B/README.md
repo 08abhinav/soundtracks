@@ -3825,6 +3825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Saga Saikyou Gekiotsu Coliseum | 222442 | [222442-beast-saga-saikyou-gekiotsu-coliseum.json](./222442-beast-saga-saikyou-gekiotsu-coliseum.json) |
 | Beast Survivor | 374792 | [374792-beast-survivor.json](./374792-beast-survivor.json) |
 | Beast Unleashed | 349460 | [349460-beast-unleashed.json](./349460-beast-unleashed.json) |
+| Beast vs. Legends | 244614 | [244614-beast-vs-legends.json](./244614-beast-vs-legends.json) |
 | Beast Wars: Transformers | 8018 | [8018-beast-wars-transformers.json](./8018-beast-wars-transformers.json) |
 | Beast Whalers | 192685 | [192685-beast-whalers.json](./192685-beast-whalers.json) |
 | Beast Wrestler | 46239 | [46239-beast-wrestler.json](./46239-beast-wrestler.json) |
@@ -9799,6 +9800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomerang Fu: Deluxe Edition | 324381 | [324381-boomerang-fu-deluxe-edition.json](./324381-boomerang-fu-deluxe-edition.json) |
 | Boomerang Fu: Fresh Flavors Pack | 226265 | [226265-boomerang-fu-fresh-flavors-pack.json](./226265-boomerang-fu-fresh-flavors-pack.json) |
 | Boomerang Fu: Just Desserts DLC | 305614 | [305614-boomerang-fu-just-desserts-dlc.json](./305614-boomerang-fu-just-desserts-dlc.json) |
+| Boomerang Jack | 244617 | [244617-boomerang-jack.json](./244617-boomerang-jack.json) |
 | Boomerang Of Destruction | 325882 | [325882-boomerang-of-destruction.json](./325882-boomerang-of-destruction.json) |
 | Boomerang RPG | 297248 | [297248-boomerang-rpg.json](./297248-boomerang-rpg.json) |
 | Boomerang Survivor 3 | 386550 | [386550-boomerang-survivor-3.json](./386550-boomerang-survivor-3.json) |
@@ -11915,6 +11917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broth Bounty | 349099 | [349099-broth-bounty.json](./349099-broth-bounty.json) |
 | Brothel Secrets | 280329 | [280329-brothel-secrets.json](./280329-brothel-secrets.json) |
 | Brothel Simulator | 237452 | [237452-brothel-simulator.json](./237452-brothel-simulator.json) |
+| Brothel Simulator II | 244605 | [244605-brothel-simulator-ii.json](./244605-brothel-simulator-ii.json) |
 | BrothelManager | 18109 | [18109-brothelmanager.json](./18109-brothelmanager.json) |
 | Brother | 340545 | [340545-brother.json](./340545-brother.json) |
 | Brother & Sister | 116080 | [116080-brother-and-sister.json](./116080-brother-and-sister.json) |
