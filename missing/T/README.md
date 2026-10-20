@@ -7408,6 +7408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Life 2: Haunted Hills world | 171398 | [171398-the-game-of-life-2-haunted-hills-world.json](./171398-the-game-of-life-2-haunted-hills-world.json) |
 | The Game of Life 2: Sandy Shores World | 171592 | [171592-the-game-of-life-2-sandy-shores-world.json](./171592-the-game-of-life-2-sandy-shores-world.json) |
 | The Game of Life 2: Sweet Haven World | 207800 | [207800-the-game-of-life-2-sweet-haven-world.json](./207800-the-game-of-life-2-sweet-haven-world.json) |
+| The Game of Life 2: Ultimate Life Collection | 228888 | [228888-the-game-of-life-2-ultimate-life-collection.json](./228888-the-game-of-life-2-ultimate-life-collection.json) |
 | The Game of Life 2: Under the Sea | 227729 | [227729-the-game-of-life-2-under-the-sea.json](./227729-the-game-of-life-2-under-the-sea.json) |
 | The Game of Life: DX Jinsei Game | 93455 | [93455-the-game-of-life-dx-jinsei-game.json](./93455-the-game-of-life-dx-jinsei-game.json) |
 | The Game of Life: Path to Success | 207002 | [207002-the-game-of-life-path-to-success.json](./207002-the-game-of-life-path-to-success.json) |
@@ -7827,6 +7828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gutter | 415997 | [415997-the-gutter.json](./415997-the-gutter.json) |
 | The Guy Game | 5859 | [5859-the-guy-game.json](./5859-the-guy-game.json) |
 | The Hacker | 13724 | [13724-the-hacker.json](./13724-the-hacker.json) |
+| The Hacker | 228885 | [228885-the-hacker.json](./228885-the-hacker.json) |
 | The Hacker 2.0 | 234051 | [234051-the-hacker-2-0.json](./234051-the-hacker-2-0.json) |
 | The Hacking Intern | 53743 | [53743-the-hacking-intern.json](./53743-the-hacking-intern.json) |
 | The Haioku Byoutou | 124076 | [124076-the-haioku-byoutou.json](./124076-the-haioku-byoutou.json) |
@@ -8368,6 +8370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Inner World: The Puzzle | 10971 | [10971-the-inner-world-the-puzzle.json](./10971-the-inner-world-the-puzzle.json) |
 | The Innsmouth Case | 129197 | [129197-the-innsmouth-case.json](./129197-the-innsmouth-case.json) |
 | The Ino Chronicles: Ascension | 75017 | [75017-the-ino-chronicles-ascension.json](./75017-the-ino-chronicles-ascension.json) |
+| The Inquisition: Legacy | 228922 | [228922-the-inquisition-legacy.json](./228922-the-inquisition-legacy.json) |
 | The Inquisitor | 202718 | [202718-the-inquisitor.json](./202718-the-inquisitor.json) |
 | The Inquisitor | 83820 | [83820-the-inquisitor.json](./83820-the-inquisitor.json) |
 | The Inquisitor 3D | 202846 | [202846-the-inquisitor-3d.json](./202846-the-inquisitor-3d.json) |
@@ -8811,6 +8814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Knight of Nephiart | 151700 | [151700-the-knight-of-nephiart.json](./151700-the-knight-of-nephiart.json) |
 | The Knight of Niraking | 392162 | [392162-the-knight-of-niraking.json](./392162-the-knight-of-niraking.json) |
 | The Knight of the Castles | 184453 | [184453-the-knight-of-the-castles.json](./184453-the-knight-of-the-castles.json) |
+| The Knight of the Crimson Tower | 228895 | [228895-the-knight-of-the-crimson-tower.json](./228895-the-knight-of-the-crimson-tower.json) |
 | The Knight of Turn | 192667 | [192667-the-knight-of-turn.json](./192667-the-knight-of-turn.json) |
 | The Knight Witch | 201483 | [201483-the-knight-witch.json](./201483-the-knight-witch.json) |
 | The Knight's Challenge | 350369 | [350369-the-knights-challenge.json](./350369-the-knights-challenge.json) |
