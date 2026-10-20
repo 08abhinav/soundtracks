@@ -2462,6 +2462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Deal or No Deal | 242375 | [242375-new-deal-or-no-deal.json](./242375-new-deal-or-no-deal.json) |
 | New Dungeons | 268777 | [268777-new-dungeons.json](./268777-new-dungeons.json) |
 | New Earth | 275716 | [275716-new-earth.json](./275716-new-earth.json) |
+| New Eden | 228905 | [228905-new-eden.json](./228905-new-eden.json) |
 | New Eitango Target 1900 DS | 186732 | [186732-new-eitango-target-1900-ds.json](./186732-new-eitango-target-1900-ds.json) |
 | New Empire of Angels | 56123 | [56123-new-empire-of-angels.json](./56123-new-empire-of-angels.json) |
 | New England Detective: Breakfast in Boston | 119002 | [119002-new-england-detective-breakfast-in-boston.json](./119002-new-england-detective-breakfast-in-boston.json) |
@@ -2700,6 +2701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newspaper Day | 319833 | [319833-newspaper-day.json](./319833-newspaper-day.json) |
 | Newspaper Puzzle Challenge: Sudoku Edition | 210035 | [210035-newspaper-puzzle-challenge-sudoku-edition.json](./210035-newspaper-puzzle-challenge-sudoku-edition.json) |
 | Newsun | 324519 | [324519-newsun.json](./324519-newsun.json) |
+| Newt | 228901 | [228901-newt.json](./228901-newt.json) |
 | Newt One | 98145 | [98145-newt-one.json](./98145-newt-one.json) |
 | Newton / Apple Tree | 312263 | [312263-newton-apple-tree.json](./312263-newton-apple-tree.json) |
 | Newton Going Home | 187388 | [187388-newton-going-home.json](./187388-newton-going-home.json) |
