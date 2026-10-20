@@ -1747,6 +1747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Crush Jewels | 90679 | [90679-tap-crush-jewels.json](./90679-tap-crush-jewels.json) |
 | Tap Dash | 252140 | [252140-tap-dash.json](./252140-tap-dash.json) |
 | Tap Derby | 327876 | [327876-tap-derby.json](./327876-tap-derby.json) |
+| Tap Dragon: Little Knight Luna | 247329 | [247329-tap-dragon-little-knight-luna.json](./247329-tap-dragon-little-knight-luna.json) |
 | Tap Drift Car | 290846 | [290846-tap-drift-car.json](./290846-tap-drift-car.json) |
 | Tap Drift: Wild Run Car Racing | 257006 | [257006-tap-drift-wild-run-car-racing.json](./257006-tap-drift-wild-run-car-racing.json) |
 | Tap Force | 214671 | [214671-tap-force.json](./214671-tap-force.json) |
@@ -4201,6 +4202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Liam | 264605 | [264605-the-adventures-of-liam.json](./264605-the-adventures-of-liam.json) |
 | The Adventures of Lily & Leo | 298638 | [298638-the-adventures-of-lily-and-leo.json](./298638-the-adventures-of-lily-and-leo.json) |
 | The Adventures of LinShanHai | 234311 | [234311-the-adventures-of-linshanhai.json](./234311-the-adventures-of-linshanhai.json) |
+| The Adventures of LinShanHai: Chapter 4 - Vanishing Masterpiece | 247320 | [247320-the-adventures-of-linshanhai-chapter-4-vanishing-masterpiece.json](./247320-the-adventures-of-linshanhai-chapter-4-vanishing-masterpiece.json) |
 | The Adventures of LinShanHai: Chapter 5 - Three Trees | 368020 | [368020-the-adventures-of-linshanhai-chapter-5-three-trees.json](./368020-the-adventures-of-linshanhai-chapter-5-three-trees.json) |
 | The Adventures of LinShanHai: Chapter3 - The Headless Woman | 243154 | [243154-the-adventures-of-linshanhai-chapter3-the-headless-woman.json](./243154-the-adventures-of-linshanhai-chapter3-the-headless-woman.json) |
 | The Adventures of Little Miss Scatterbrain | 73559 | [73559-the-adventures-of-little-miss-scatterbrain.json](./73559-the-adventures-of-little-miss-scatterbrain.json) |
@@ -13756,6 +13758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unexpected Heiress | 313854 | [313854-the-unexpected-heiress.json](./313854-the-unexpected-heiress.json) |
 | The Unexplained | 215731 | [215731-the-unexplained.json](./215731-the-unexplained.json) |
 | The Unfair Platformer | 250494 | [250494-the-unfair-platformer.json](./250494-the-unfair-platformer.json) |
+| The Unfallens: Awakening | 247345 | [247345-the-unfallens-awakening.json](./247345-the-unfallens-awakening.json) |
 | The Unfettered | 223163 | [223163-the-unfettered.json](./223163-the-unfettered.json) |
 | The Unfinished Swan | 8352 | [8352-the-unfinished-swan.json](./8352-the-unfinished-swan.json) |
 | The Unfound Soul | 231403 | [231403-the-unfound-soul.json](./231403-the-unfound-soul.json) |
