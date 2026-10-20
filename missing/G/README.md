@@ -8463,6 +8463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GX Monsters | 257005 | [257005-gx-monsters.json](./257005-gx-monsters.json) |
 | GX Sudoku | 272200 | [272200-gx-sudoku.json](./272200-gx-sudoku.json) |
 | Gyaku Katei Kyoushi: Kanojo wa Boku no Sensei ni Shite Dorei | 411593 | [411593-gyaku-katei-kyoushi-kanojo-wa-boku-no-sensei-ni-shite-dorei.json](./411593-gyaku-katei-kyoushi-kanojo-wa-boku-no-sensei-ni-shite-dorei.json) |
+| Gyaku Shaun Sai Hanri | 228262 | [228262-gyaku-shaun-sai-hanri.json](./228262-gyaku-shaun-sai-hanri.json) |
 | Gyakujoku Hiai: Mistress | 77856 | [77856-gyakujoku-hiai-mistress.json](./77856-gyakujoku-hiai-mistress.json) |
 | Gyakuten Hanafuda | 256331 | [256331-gyakuten-hanafuda.json](./256331-gyakuten-hanafuda.json) |
 | Gyakuten Higurashi Saiban: Curry Naru Gyakuten | 257231 | [257231-gyakuten-higurashi-saiban-curry-naru-gyakuten.json](./257231-gyakuten-higurashi-saiban-curry-naru-gyakuten.json) |
