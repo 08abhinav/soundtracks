@@ -609,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000: The All-Mother's Embrace | 326044 | [326044-1000-the-all-mothers-embrace.json](./326044-1000-the-all-mothers-embrace.json) |
 | 10000000 | 9705 | [9705-10000000.json](./9705-10000000.json) |
 | 1000cc Turbo | 12347 | [12347-1000cc-turbo.json](./12347-1000cc-turbo.json) |
+| 1000m Zombie Escape! | 222202 | [222202-1000m-zombie-escape.json](./222202-1000m-zombie-escape.json) |
 | 1000xResist | 218282 | [218282-1000xresist.json](./218282-1000xresist.json) |
 | 1001 BC: A Mediterranean Odyssey | 12353 | [12353-1001-bc-a-mediterranean-odyssey.json](./12353-1001-bc-a-mediterranean-odyssey.json) |
 | 1001 Black Raven Jigsaw | 199356 | [199356-1001-black-raven-jigsaw.json](./199356-1001-black-raven-jigsaw.json) |
@@ -1001,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1943 Deadly Desert | 101450 | [101450-1943-deadly-desert.json](./101450-1943-deadly-desert.json) |
 | 1943 Megami Strike | 33580 | [33580-1943-megami-strike.json](./33580-1943-megami-strike.json) |
 | 1943: One Year After | 145414 | [145414-1943-one-year-after.json](./145414-1943-one-year-after.json) |
+| 1943: The Battle of Midway | 218334 | [218334-1943-the-battle-of-midway.json](./218334-1943-the-battle-of-midway.json) |
 | 1943: The Battle of Midway | 272545 | [272545-1943-the-battle-of-midway.json](./272545-1943-the-battle-of-midway.json) |
 | 1943: The Battle of Midway | 6076 | [6076-1943-the-battle-of-midway.json](./6076-1943-the-battle-of-midway.json) |
 | 1944 Burning Bridges | 56464 | [56464-1944-burning-bridges.json](./56464-1944-burning-bridges.json) |
