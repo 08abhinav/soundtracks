@@ -893,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 15 Defense | 90474 | [90474-15-defense.json](./90474-15-defense.json) |
 | 15 in 1 Family Games Mega Collection | 332488 | [332488-15-in-1-family-games-mega-collection.json](./332488-15-in-1-family-games-mega-collection.json) |
 | 15 in 1 Solitaire | 187457 | [187457-15-in-1-solitaire.json](./187457-15-in-1-solitaire.json) |
+| 15 Levels | 235060 | [235060-15-levels.json](./235060-15-levels.json) |
 | 15 Minutes | 308342 | [308342-15-minutes.json](./308342-15-minutes.json) |
 | 15 Minutes | 355071 | [355071-15-minutes.json](./355071-15-minutes.json) |
 | 15 Minutes At The World's End | 265616 | [265616-15-minutes-at-the-worlds-end.json](./265616-15-minutes-at-the-worlds-end.json) |
