@@ -1665,6 +1665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saucy Boy Adventures | 210095 | [210095-saucy-boy-adventures.json](./210095-saucy-boy-adventures.json) |
 | Saucy Devil Gordon | 310660 | [310660-saucy-devil-gordon.json](./310660-saucy-devil-gordon.json) |
 | Saucy Devil Gordon 2 | 310661 | [310661-saucy-devil-gordon-2.json](./310661-saucy-devil-gordon-2.json) |
+| Saudi Drift | 214938 | [214938-saudi-drift.json](./214938-saudi-drift.json) |
 | Sauk Mind | 326600 | [326600-sauk-mind.json](./326600-sauk-mind.json) |
 | Sauna | 178039 | [178039-sauna.json](./178039-sauna.json) |
 | Sauna 2000 | 210586 | [210586-sauna-2000.json](./210586-sauna-2000.json) |
@@ -6367,6 +6368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Arena | 174789 | [174789-shining-arena.json](./174789-shining-arena.json) |
 | Shining Ark | 64460 | [64460-shining-ark.json](./64460-shining-ark.json) |
 | Shining Beyond | 138608 | [138608-shining-beyond.json](./138608-shining-beyond.json) |
+| Shining Core | 214947 | [214947-shining-core.json](./214947-shining-core.json) |
 | Shining Flower: HikaruHana | 172040 | [172040-shining-flower-hikaruhana.json](./172040-shining-flower-hikaruhana.json) |
 | Shining Force | 3041 | [3041-shining-force.json](./3041-shining-force.json) |
 | Shining Force CD | 3198 | [3198-shining-force-cd.json](./3198-shining-force-cd.json) |
@@ -11574,6 +11576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Trial | 88125 | [88125-snow-trial.json](./88125-snow-trial.json) |
 | Snow Vale | 220599 | [220599-snow-vale.json](./220599-snow-vale.json) |
 | Snow War | 211160 | [211160-snow-war.json](./211160-snow-war.json) |
+| Snow War | 214934 | [214934-snow-war.json](./214934-snow-war.json) |
 | Snow Wars | 150785 | [150785-snow-wars.json](./150785-snow-wars.json) |
 | Snow Wave | 91551 | [91551-snow-wave.json](./91551-snow-wave.json) |
 | Snow Wave 2 | 401717 | [401717-snow-wave-2.json](./401717-snow-wave-2.json) |
@@ -13034,6 +13037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Fighter | 359736 | [359736-sonic-fighter.json](./359736-sonic-fighter.json) |
 | Sonic Fighting Heroes: King of The Ring | 316344 | [316344-sonic-fighting-heroes-king-of-the-ring.json](./316344-sonic-fighting-heroes-king-of-the-ring.json) |
 | Sonic Fishing | 249646 | [249646-sonic-fishing.json](./249646-sonic-fishing.json) |
+| Sonic Flash | 214936 | [214936-sonic-flash.json](./214936-sonic-flash.json) |
 | Sonic Forces + Super Monkey Ball: Banana Blitz HD Double Pack | 139951 | [139951-sonic-forces-super-monkey-ball-banana-blitz-hd-double-pack.json](./139951-sonic-forces-super-monkey-ball-banana-blitz-hd-double-pack.json) |
 | Sonic Forces Adventure | 317359 | [317359-sonic-forces-adventure.json](./317359-sonic-forces-adventure.json) |
 | Sonic Forces Overclocked | 280749 | [280749-sonic-forces-overclocked.json](./280749-sonic-forces-overclocked.json) |
@@ -13299,6 +13303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Runners Adventure | 76844 | [76844-sonic-runners-adventure.json](./76844-sonic-runners-adventure.json) |
 | Sonic Runners Revival | 205607 | [205607-sonic-runners-revival.json](./205607-sonic-runners-revival.json) |
 | Sonic Rush | 19258 | [19258-sonic-rush.json](./19258-sonic-rush.json) |
+| Sonic Rush 3D | 214972 | [214972-sonic-rush-3d.json](./214972-sonic-rush-3d.json) |
 | Sonic Rush Adventure Flash | 272921 | [272921-sonic-rush-adventure-flash.json](./272921-sonic-rush-adventure-flash.json) |
 | Sonic Rush Rerun | 365772 | [365772-sonic-rush-rerun.json](./365772-sonic-rush-rerun.json) |
 | Sonic RX | 331725 | [331725-sonic-rx.json](./331725-sonic-rx.json) |
@@ -14444,6 +14449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Cats Saga: Chapter II | 196024 | [196024-space-cats-saga-chapter-ii.json](./196024-space-cats-saga-chapter-ii.json) |
 | Space Cavern | 18502 | [18502-space-cavern.json](./18502-space-cavern.json) |
 | Space Challenge | 96640 | [96640-space-challenge.json](./96640-space-challenge.json) |
+| Space Channel 5 Game App | 214953 | [214953-space-channel-5-game-app.json](./214953-space-channel-5-game-app.json) |
 | Space Channel 5: Ulala's Cosmic Attack | 23716 | [23716-space-channel-5-ulalas-cosmic-attack.json](./23716-space-channel-5-ulalas-cosmic-attack.json) |
 | Space Chaos | 374354 | [374354-space-chaos.json](./374354-space-chaos.json) |
 | Space Chase: Odyssey | 333599 | [333599-space-chase-odyssey.json](./333599-space-chase-odyssey.json) |
@@ -20875,6 +20881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strawberry Shortcake: Berry Rush | 259535 | [259535-strawberry-shortcake-berry-rush.json](./259535-strawberry-shortcake-berry-rush.json) |
 | Strawberry Shortcake: Summertime Adventure - Special Edition | 49501 | [49501-strawberry-shortcake-summertime-adventure-special-edition.json](./49501-strawberry-shortcake-summertime-adventure-special-edition.json) |
 | Strawberry Shortcake: Sweet Dreams | 49366 | [49366-strawberry-shortcake-sweet-dreams.json](./49366-strawberry-shortcake-sweet-dreams.json) |
+| Strawberry Sweet Pop | 214960 | [214960-strawberry-sweet-pop.json](./214960-strawberry-sweet-pop.json) |
 | Strawberry Vinegar | 34341 | [34341-strawberry-vinegar.json](./34341-strawberry-vinegar.json) |
 | Strawhart | 123365 | [123365-strawhart.json](./123365-strawhart.json) |
 | Stray | 177394 | [177394-stray.json](./177394-stray.json) |
@@ -21682,6 +21689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stupid Raft Battle Simulator | 29375 | [29375-stupid-raft-battle-simulator.json](./29375-stupid-raft-battle-simulator.json) |
 | Stupid Space Shooter | 310759 | [310759-stupid-space-shooter.json](./310759-stupid-space-shooter.json) |
 | Stupid Spaceships | 390622 | [390622-stupid-spaceships.json](./390622-stupid-spaceships.json) |
+| Stupid Squad | 214987 | [214987-stupid-squad.json](./214987-stupid-squad.json) |
 | Stupid Stories | 149689 | [149689-stupid-stories.json](./149689-stupid-stories.json) |
 | Stupid Survivor | 114740 | [114740-stupid-survivor.json](./114740-stupid-survivor.json) |
 | Stupid Teammates | 288428 | [288428-stupid-teammates.json](./288428-stupid-teammates.json) |
@@ -23380,6 +23388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Froppings | 418700 | [418700-super-froppings.json](./418700-super-froppings.json) |
 | Super Fruit Fall | 5198 | [5198-super-fruit-fall.json](./5198-super-fruit-fall.json) |
 | Super Fruit Ninja | 287353 | [287353-super-fruit-ninja.json](./287353-super-fruit-ninja.json) |
+| Super Full Metal | 214979 | [214979-super-full-metal.json](./214979-super-full-metal.json) |
 | Super Fun Soccer | 182167 | [182167-super-fun-soccer.json](./182167-super-fun-soccer.json) |
 | Super Funky Ball! | 152044 | [152044-super-funky-ball.json](./152044-super-funky-ball.json) |
 | Super Furi Puzzles | 334833 | [334833-super-furi-puzzles.json](./334833-super-furi-puzzles.json) |
