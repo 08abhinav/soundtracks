@@ -10614,6 +10614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ConversationalRumblings | 300340 | [300340-conversationalrumblings.json](./300340-conversationalrumblings.json) |
 | Conversations We Have In My Head | 181750 | [181750-conversations-we-have-in-my-head.json](./181750-conversations-we-have-in-my-head.json) |
 | Conversations With My Anxiety | 134993 | [134993-conversations-with-my-anxiety.json](./134993-conversations-with-my-anxiety.json) |
+| Converse Hardcore Hoops | 208790 | [208790-converse-hardcore-hoops.json](./208790-converse-hardcore-hoops.json) |
 | Convertible Wop | 104442 | [104442-convertible-wop.json](./104442-convertible-wop.json) |
 | Conveyor Belt Sushi Simulator | 334129 | [334129-conveyor-belt-sushi-simulator.json](./334129-conveyor-belt-sushi-simulator.json) |
 | Conveyor Con-fusion | 302166 | [302166-conveyor-con-fusion.json](./302166-conveyor-con-fusion.json) |
@@ -10670,6 +10671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Collector 2 | 58734 | [58734-cookie-collector-2.json](./58734-cookie-collector-2.json) |
 | Cookie Crisp City | 330362 | [330362-cookie-crisp-city.json](./330362-cookie-crisp-city.json) |
 | Cookie Cutter | 205700 | [205700-cookie-cutter.json](./205700-cookie-cutter.json) |
+| Cookie Domination | 208791 | [208791-cookie-domination.json](./208791-cookie-domination.json) |
 | Cookie Dozer | 92068 | [92068-cookie-dozer.json](./92068-cookie-dozer.json) |
 | Cookie Flipper | 391628 | [391628-cookie-flipper.json](./391628-cookie-flipper.json) |
 | Cookie Game | 266299 | [266299-cookie-game.json](./266299-cookie-game.json) |
@@ -10702,6 +10704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookiesaner | 417483 | [417483-cookiesaner.json](./417483-cookiesaner.json) |
 | Cookin' Idol I! My! Main! Game de Hirameki! Kirameki Cooking | 123019 | [123019-cookin-idol-i-my-main-game-de-hirameki-kirameki-cooking.json](./123019-cookin-idol-i-my-main-game-de-hirameki-kirameki-cooking.json) |
 | Cooking | 314874 | [314874-cooking.json](./314874-cooking.json) |
+| Cooking Academy | 208792 | [208792-cooking-academy.json](./208792-cooking-academy.json) |
 | Cooking Academy 2: World Cuisine | 208483 | [208483-cooking-academy-2-world-cuisine.json](./208483-cooking-academy-2-world-cuisine.json) |
 | Cooking Academy 3: Recipe for Success | 292064 | [292064-cooking-academy-3-recipe-for-success.json](./292064-cooking-academy-3-recipe-for-success.json) |
 | Cooking Academy Fire and Knives | 17826 | [17826-cooking-academy-fire-and-knives.json](./17826-cooking-academy-fire-and-knives.json) |
@@ -10966,6 +10969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core | 400887 | [400887-core.json](./400887-core.json) |
 | Core Awaken: The Yuka | 104814 | [104814-core-awaken-the-yuka.json](./104814-core-awaken-the-yuka.json) |
 | Core Awakening | 290504 | [290504-core-awakening.json](./290504-core-awakening.json) |
+| Core Blaster | 208794 | [208794-core-blaster.json](./208794-core-blaster.json) |
 | Core Blaze | 28130 | [28130-core-blaze.json](./28130-core-blaze.json) |
 | Core Breach | 292991 | [292991-core-breach.json](./292991-core-breach.json) |
 | Core Decay | 132771 | [132771-core-decay.json](./132771-core-decay.json) |
@@ -11402,6 +11406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo's Delivery and Logistics | 269037 | [269037-cosmos-delivery-and-logistics.json](./269037-cosmos-delivery-and-logistics.json) |
 | Cosmo's Industry | 374841 | [374841-cosmos-industry.json](./374841-cosmos-industry.json) |
 | Cosmo's Pizzarama | 239788 | [239788-cosmos-pizzarama.json](./239788-cosmos-pizzarama.json) |
+| Cosmo's Rocket | 208795 | [208795-cosmos-rocket.json](./208795-cosmos-rocket.json) |
 | Cosmoblaster Exodia | 192939 | [192939-cosmoblaster-exodia.json](./192939-cosmoblaster-exodia.json) |
 | Cosmochoria | 17230 | [17230-cosmochoria.json](./17230-cosmochoria.json) |
 | Cosmodread | 144994 | [144994-cosmodread.json](./144994-cosmodread.json) |
@@ -12441,6 +12446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Brain | 254381 | [254381-crazy-brain.json](./254381-crazy-brain.json) |
 | Crazy Buggy Racing | 29107 | [29107-crazy-buggy-racing.json](./29107-crazy-buggy-racing.json) |
 | Crazy Bugs! | 248572 | [248572-crazy-bugs.json](./248572-crazy-bugs.json) |
+| Crazy Burger | 208796 | [208796-crazy-burger.json](./208796-crazy-burger.json) |
 | Crazy Bus | 268477 | [268477-crazy-bus.json](./268477-crazy-bus.json) |
 | Crazy Cakes | 366415 | [366415-crazy-cakes.json](./366415-crazy-cakes.json) |
 | Crazy Cakes 2 | 354969 | [354969-crazy-cakes-2.json](./354969-crazy-cakes-2.json) |
@@ -13004,6 +13010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Simulator: Ashen Creek DLC | 404705 | [404705-crime-simulator-ashen-creek-dlc.json](./404705-crime-simulator-ashen-creek-dlc.json) |
 | Crime Simulator: Playgrounds | 415075 | [415075-crime-simulator-playgrounds.json](./415075-crime-simulator-playgrounds.json) |
 | Crime Solitaire 2: The Smoking Gun | 22125 | [22125-crime-solitaire-2-the-smoking-gun.json](./22125-crime-solitaire-2-the-smoking-gun.json) |
+| Crime Solvers | 208798 | [208798-crime-solvers.json](./208798-crime-solvers.json) |
 | Crime Spree | 42771 | [42771-crime-spree.json](./42771-crime-spree.json) |
 | Crime Stories: Days of Vengeance | 105247 | [105247-crime-stories-days-of-vengeance.json](./105247-crime-stories-days-of-vengeance.json) |
 | Crime Thief Simulator | 390489 | [390489-crime-thief-simulator.json](./390489-crime-thief-simulator.json) |
@@ -13550,15 +13557,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossword Explorer | 406089 | [406089-crossword-explorer.json](./406089-crossword-explorer.json) |
 | Crossword Go | 303106 | [303106-crossword-go.json](./303106-crossword-go.json) |
 | Crossword Light | 88640 | [88640-crossword-light.json](./88640-crossword-light.json) |
+| Crossword Maker | 208800 | [208800-crossword-maker.json](./208800-crossword-maker.json) |
 | Crossword Master | 381272 | [381272-crossword-master.json](./381272-crossword-master.json) |
 | Crossword Puzzle | 286096 | [286096-crossword-puzzle.json](./286096-crossword-puzzle.json) |
 | Crossword Safari: Word Hunt | 108630 | [108630-crossword-safari-word-hunt.json](./108630-crossword-safari-word-hunt.json) |
 | Crossworders' Dictionary and Gazetteer 4 | 88651 | [88651-crossworders-dictionary-and-gazetteer-4.json](./88651-crossworders-dictionary-and-gazetteer-4.json) |
 | Crosswords | 89675 | [89675-crosswords.json](./89675-crosswords.json) |
 | Crosswords & More for Windows | 94638 | [94638-crosswords-and-more-for-windows.json](./94638-crosswords-and-more-for-windows.json) |
+| Crosswords & Puzzles | 208802 | [208802-crosswords-and-puzzles.json](./208802-crosswords-and-puzzles.json) |
 | Crosswords & Word Games | 79165 | [79165-crosswords-and-word-games.json](./79165-crosswords-and-word-games.json) |
 | Crosswords and More | 282843 | [282843-crosswords-and-more.json](./282843-crosswords-and-more.json) |
 | Crosswords Classic | 97301 | [97301-crosswords-classic.json](./97301-crosswords-classic.json) |
+| Crosswords For Dummies | 208801 | [208801-crosswords-for-dummies.json](./208801-crosswords-for-dummies.json) |
 | Crosswords With Friends | 90063 | [90063-crosswords-with-friends.json](./90063-crosswords-with-friends.json) |
 | CrossWorlds: Escape | 31810 | [31810-crossworlds-escape.json](./31810-crossworlds-escape.json) |
 | Crossy Crash | 98779 | [98779-crossy-crash.json](./98779-crossy-crash.json) |
@@ -13935,6 +13945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptic Caverns | 173810 | [173810-cryptic-caverns.json](./173810-cryptic-caverns.json) |
 | Cryptic Clash | 182907 | [182907-cryptic-clash.json](./182907-cryptic-clash.json) |
 | Cryptic Crawlz | 321478 | [321478-cryptic-crawlz.json](./321478-cryptic-crawlz.json) |
+| Cryptic Encounters | 208803 | [208803-cryptic-encounters.json](./208803-cryptic-encounters.json) |
 | Cryptic Glaze Mirror | 391174 | [391174-cryptic-glaze-mirror.json](./391174-cryptic-glaze-mirror.json) |
 | Cryptic Passage for Blood | 18499 | [18499-cryptic-passage-for-blood.json](./18499-cryptic-passage-for-blood.json) |
 | Cryptic Sea EP | 61710 | [61710-cryptic-sea-ep.json](./61710-cryptic-sea-ep.json) |
@@ -14126,6 +14137,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystalis Descendant | 258643 | [258643-crystalis-descendant.json](./258643-crystalis-descendant.json) |
 | Crystalish | 266093 | [266093-crystalish.json](./266093-crystalish.json) |
 | Crystalix | 73466 | [73466-crystalix.json](./73466-crystalix.json) |
+| Crystalize! | 208804 | [208804-crystalize.json](./208804-crystalize.json) |
+| Crystalize! 2: Quest for the Jewel Crown | 208805 | [208805-crystalize-2-quest-for-the-jewel-crown.json](./208805-crystalize-2-quest-for-the-jewel-crown.json) |
 | CrystalKeepers Tower Defense | 276849 | [276849-crystalkeepers-tower-defense.json](./276849-crystalkeepers-tower-defense.json) |
 | Crystalline | 221235 | [221235-crystalline.json](./221235-crystalline.json) |
 | Crystalline | 28944 | [28944-crystalline.json](./28944-crystalline.json) |
@@ -14489,6 +14502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubis | 251044 | [251044-cubis.json](./251044-cubis.json) |
 | Cubis 2 | 93220 | [93220-cubis-2.json](./93220-cubis-2.json) |
 | Cubis Creatures | 253017 | [253017-cubis-creatures.json](./253017-cubis-creatures.json) |
+| Cubis Gold 2 | 208807 | [208807-cubis-gold-2.json](./208807-cubis-gold-2.json) |
 | Cubis Kingdoms | 74403 | [74403-cubis-kingdoms.json](./74403-cubis-kingdoms.json) |
 | Cubiscape | 207824 | [207824-cubiscape.json](./207824-cubiscape.json) |
 | Cubiscape 2: First Expansion Pack | 169308 | [169308-cubiscape-2-first-expansion-pack.json](./169308-cubiscape-2-first-expansion-pack.json) |
