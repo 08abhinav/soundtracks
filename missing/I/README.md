@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wanna Kill the Guy | 80532 | [80532-i-wanna-kill-the-guy.json](./80532-i-wanna-kill-the-guy.json) |
 | I Wanna Kill the Kamilia 3 | 113466 | [113466-i-wanna-kill-the-kamilia-3.json](./113466-i-wanna-kill-the-kamilia-3.json) |
 | I Wanna Lap Around | 329182 | [329182-i-wanna-lap-around.json](./329182-i-wanna-lap-around.json) |
+| I Wanna Lockpick | 231726 | [231726-i-wanna-lockpick.json](./231726-i-wanna-lockpick.json) |
 | I Wanna Make a Dragon Game | 349291 | [349291-i-wanna-make-a-dragon-game.json](./349291-i-wanna-make-a-dragon-game.json) |
 | I Wanna Maker | 125410 | [125410-i-wanna-maker.json](./125410-i-wanna-maker.json) |
 | I Wanna Play That Picture Puzzle with Numbers All Day! | 360520 | [360520-i-wanna-play-that-picture-puzzle-with-numbers-all-day.json](./360520-i-wanna-play-that-picture-puzzle-with-numbers-all-day.json) |
@@ -3780,6 +3781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Internet Cafe Mini Games 10 in 1 | 267852 | [267852-internet-cafe-mini-games-10-in-1.json](./267852-internet-cafe-mini-games-10-in-1.json) |
 | Internet Cafe Simulator 2025 | 324999 | [324999-internet-cafe-simulator-2025.json](./324999-internet-cafe-simulator-2025.json) |
 | Internet Cafe Tycoon | 410715 | [410715-internet-cafe-tycoon.json](./410715-internet-cafe-tycoon.json) |
+| Internet City | 231753 | [231753-internet-city.json](./231753-internet-city.json) |
 | Internet Club & Cafe Simulator | 342410 | [342410-internet-club-and-cafe-simulator.json](./342410-internet-club-and-cafe-simulator.json) |
 | Internet Entrepreneurship Simulator | 348781 | [348781-internet-entrepreneurship-simulator.json](./348781-internet-entrepreneurship-simulator.json) |
 | Internet Exploring | 404368 | [404368-internet-exploring.json](./404368-internet-exploring.json) |
