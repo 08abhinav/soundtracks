@@ -3040,6 +3040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order of the Sinking Star | 381222 | [381222-order-of-the-sinking-star.json](./381222-order-of-the-sinking-star.json) |
 | Order of the Thorne: The King's Challenge | 51860 | [51860-order-of-the-thorne-the-kings-challenge.json](./51860-order-of-the-thorne-the-kings-challenge.json) |
 | Order of War: Challenge | 66900 | [66900-order-of-war-challenge.json](./66900-order-of-war-challenge.json) |
+| Order please! | 216108 | [216108-order-please.json](./216108-order-please.json) |
 | Order Road | 162849 | [162849-order-road.json](./162849-order-road.json) |
 | Order Up VR! | 75093 | [75093-order-up-vr.json](./75093-order-up-vr.json) |
 | Order Us! | 264031 | [264031-order-us.json](./264031-order-us.json) |
@@ -3119,6 +3120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Organic Engine Escape | 315675 | [315675-organic-engine-escape.json](./315675-organic-engine-escape.json) |
 | Organic Panic | 36418 | [36418-organic-panic.json](./36418-organic-panic.json) |
 | Organism 8 | 107749 | [107749-organism-8.json](./107749-organism-8.json) |
+| Organization Master | 216098 | [216098-organization-master.json](./216098-organization-master.json) |
 | Organize My Drawer | 408270 | [408270-organize-my-drawer.json](./408270-organize-my-drawer.json) |
 | Organize My Shop | 405541 | [405541-organize-my-shop.json](./405541-organize-my-shop.json) |
 | Organized Inside | 346555 | [346555-organized-inside.json](./346555-organized-inside.json) |
