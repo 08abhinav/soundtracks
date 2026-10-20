@@ -3625,6 +3625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intellivision Lives! | 3956 | [3956-intellivision-lives.json](./3956-intellivision-lives.json) |
 | Intellivision Rocks | 73321 | [73321-intellivision-rocks.json](./73321-intellivision-rocks.json) |
 | Intellivision Shark! Shark! Gen2 | 61858 | [61858-intellivision-shark-shark-gen2.json](./61858-intellivision-shark-shark-gen2.json) |
+| Intellivision Skiing | 228882 | [228882-intellivision-skiing.json](./228882-intellivision-skiing.json) |
 | Intemporel | 132537 | [132537-intemporel.json](./132537-intemporel.json) |
 | Intense! Miyu-chan and Teacher's Rock-Paper-Scissors Battle! | 340756 | [340756-intense-miyu-chan-and-teachers-rock-paper-scissors-battle.json](./340756-intense-miyu-chan-and-teachers-rock-paper-scissors-battle.json) |
 | Intensive Care ( Hospital Interactive Story ) | 101104 | [101104-intensive-care-hospital-interactive-story.json](./101104-intensive-care-hospital-interactive-story.json) |
