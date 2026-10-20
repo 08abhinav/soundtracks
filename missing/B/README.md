@@ -8100,6 +8100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blodia Land | 48542 | [48542-blodia-land.json](./48542-blodia-land.json) |
 | Blofeld X | 269108 | [269108-blofeld-x.json](./269108-blofeld-x.json) |
 | bLogic Blox | 110767 | [110767-blogic-blox.json](./110767-blogic-blox.json) |
+| Blogick | 232324 | [232324-blogick.json](./232324-blogick.json) |
 | Blok Copy | 63783 | [63783-blok-copy.json](./63783-blok-copy.json) |
 | Blok Shot VR | 309608 | [309608-blok-shot-vr.json](./309608-blok-shot-vr.json) |
 | Blokdodge | 68327 | [68327-blokdodge.json](./68327-blokdodge.json) |
@@ -8905,6 +8906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BMX Bastards | 273834 | [273834-bmx-bastards.json](./273834-bmx-bastards.json) |
 | BMX Burner | 349261 | [349261-bmx-burner.json](./349261-bmx-burner.json) |
 | BMX Challenge | 220189 | [220189-bmx-challenge.json](./220189-bmx-challenge.json) |
+| BMX Champions Cartoon Network | 232329 | [232329-bmx-champions-cartoon-network.json](./232329-bmx-champions-cartoon-network.json) |
 | BMX City Run | 345464 | [345464-bmx-city-run.json](./345464-bmx-city-run.json) |
 | BMX for Life | 331375 | [331375-bmx-for-life.json](./331375-bmx-for-life.json) |
 | BMX Freestyle | 323850 | [323850-bmx-freestyle.json](./323850-bmx-freestyle.json) |
