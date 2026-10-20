@@ -2470,6 +2470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome Park | 93498 | [93498-welcome-park.json](./93498-welcome-park.json) |
 | Welcome Teacher | 266798 | [266798-welcome-teacher.json](./266798-welcome-teacher.json) |
 | Welcome to a Sexy, Open World! | 194551 | [194551-welcome-to-a-sexy-open-world.json](./194551-welcome-to-a-sexy-open-world.json) |
+| Welcome to Albion! | 204893 | [204893-welcome-to-albion.json](./204893-welcome-to-albion.json) |
 | Welcome to Amsoft Side A | 39128 | [39128-welcome-to-amsoft-side-a.json](./39128-welcome-to-amsoft-side-a.json) |
 | Welcome to Amsoft Side B | 39129 | [39129-welcome-to-amsoft-side-b.json](./39129-welcome-to-amsoft-side-b.json) |
 | Welcome to Brightville | 339224 | [339224-welcome-to-brightville.json](./339224-welcome-to-brightville.json) |
@@ -6816,6 +6817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreck | 288453 | [288453-wreck.json](./288453-wreck.json) |
 | Wreck League | 275240 | [275240-wreck-league.json](./275240-wreck-league.json) |
 | Wreck Race | 194192 | [194192-wreck-race.json](./194192-wreck-race.json) |
+| Wreck the Fed | 204898 | [204898-wreck-the-fed.json](./204898-wreck-the-fed.json) |
 | Wreck the Party: Christmas Edition | 230785 | [230785-wreck-the-party-christmas-edition.json](./230785-wreck-the-party-christmas-edition.json) |
 | Wreck-It Ralph | 23586 | [23586-wreck-it-ralph.json](./23586-wreck-it-ralph.json) |
 | Wreck-It Ralph | 299871 | [299871-wreck-it-ralph.json](./299871-wreck-it-ralph.json) |
