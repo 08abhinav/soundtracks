@@ -732,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakuya-san Crisis & SakuTaku | 210549 | [210549-sakuya-san-crisis-and-sakutaku.json](./210549-sakuya-san-crisis-and-sakutaku.json) |
 | Sakuya-san Crisis 2: The Linkage Of Servant Trial | 210553 | [210553-sakuya-san-crisis-2-the-linkage-of-servant-trial.json](./210553-sakuya-san-crisis-2-the-linkage-of-servant-trial.json) |
 | Sakuya-san Crisis: The Perfect Elegant Skill | 210534 | [210534-sakuya-san-crisis-the-perfect-elegant-skill.json](./210534-sakuya-san-crisis-the-perfect-elegant-skill.json) |
+| Sakuya-san Tactics | 210473 | [210473-sakuya-san-tactics.json](./210473-sakuya-san-tactics.json) |
 | Sal Terrae: in search of SALT | 414150 | [414150-sal-terrae-in-search-of-salt.json](./414150-sal-terrae-in-search-of-salt.json) |
 | Sal. | 266231 | [266231-sal.json](./266231-sal.json) |
 | Sala de Juegos 3D | 414507 | [414507-sala-de-juegos-3d.json](./414507-sala-de-juegos-3d.json) |
@@ -7227,6 +7228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek 2: Castle Run | 230273 | [230273-shrek-2-castle-run.json](./230273-shrek-2-castle-run.json) |
 | Shrek 2: Ogre Bowler | 208995 | [208995-shrek-2-ogre-bowler.json](./208995-shrek-2-ogre-bowler.json) |
 | Shrek Extra Large | 3675 | [3675-shrek-extra-large.json](./3675-shrek-extra-large.json) |
+| Shrek Forever After | 210458 | [210458-shrek-forever-after.json](./210458-shrek-forever-after.json) |
 | Shrek Forever After | 243271 | [243271-shrek-forever-after.json](./243271-shrek-forever-after.json) |
 | Shrek Game Land Activity Center | 9208 | [9208-shrek-game-land-activity-center.json](./9208-shrek-game-land-activity-center.json) |
 | Shrek Kart | 395759 | [395759-shrek-kart.json](./395759-shrek-kart.json) |
@@ -7593,6 +7595,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization: Beyond Earth - Exoplanets Map Pack | 170843 | [170843-sid-meiers-civilization-beyond-earth-exoplanets-map-pack.json](./170843-sid-meiers-civilization-beyond-earth-exoplanets-map-pack.json) |
 | Sid Meier's Civilization: Beyond Earth - Rising Tide | 10502 | [10502-sid-meiers-civilization-beyond-earth-rising-tide.json](./10502-sid-meiers-civilization-beyond-earth-rising-tide.json) |
 | Sid Meier's CivNet | 21930 | [21930-sid-meiers-civnet.json](./21930-sid-meiers-civnet.json) |
+| Sid Meier's Pirates! | 210477 | [210477-sid-meiers-pirates.json](./210477-sid-meiers-pirates.json) |
+| Sid Meier's Pirates! | 210478 | [210478-sid-meiers-pirates.json](./210478-sid-meiers-pirates.json) |
+| Sid Meier's Pirates! | 210479 | [210479-sid-meiers-pirates.json](./210479-sid-meiers-pirates.json) |
 | Sid Meier's Pirates! | 868 | [868-sid-meiers-pirates.json](./868-sid-meiers-pirates.json) |
 | Sid Meier's Railroads! | 10743 | [10743-sid-meiers-railroads.json](./10743-sid-meiers-railroads.json) |
 | Sid Meier's Starships | 8714 | [8714-sid-meiers-starships.json](./8714-sid-meiers-starships.json) |
@@ -10986,6 +10991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smurfs Balls Adventure | 343825 | [343825-smurfs-balls-adventure.json](./343825-smurfs-balls-adventure.json) |
 | Smurfs Bubble Story | 109176 | [109176-smurfs-bubble-story.json](./109176-smurfs-bubble-story.json) |
 | Smurfs Kart | 206680 | [206680-smurfs-kart.json](./206680-smurfs-kart.json) |
+| Smurfs Kart: Day 1 Edition | 210462 | [210462-smurfs-kart-day-1-edition.json](./210462-smurfs-kart-day-1-edition.json) |
 | Smurfs Kart: Turbo Edition | 219444 | [219444-smurfs-kart-turbo-edition.json](./219444-smurfs-kart-turbo-edition.json) |
 | Smurfs Save the Day: Greedy Smurf | 65988 | [65988-smurfs-save-the-day-greedy-smurf.json](./65988-smurfs-save-the-day-greedy-smurf.json) |
 | Smurfs Save the Day: Handy Smurf | 65990 | [65990-smurfs-save-the-day-handy-smurf.json](./65990-smurfs-save-the-day-handy-smurf.json) |
@@ -12819,6 +12825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonia and the Hypnotic City | 150420 | [150420-sonia-and-the-hypnotic-city.json](./150420-sonia-and-the-hypnotic-city.json) |
 | Sonia no Daibouken: Mittsu no Hihou no Kakusareta Nazo! | 279509 | [279509-sonia-no-daibouken-mittsu-no-hihou-no-kakusareta-nazo.json](./279509-sonia-no-daibouken-mittsu-no-hihou-no-kakusareta-nazo.json) |
 | Sonic [Unl] | 308656 | [308656-sonic-unl.json](./308656-sonic-unl.json) |
+| Sonic & All-Stars Racing Transformed | 210448 | [210448-sonic-and-all-stars-racing-transformed.json](./210448-sonic-and-all-stars-racing-transformed.json) |
 | Sonic & All-Stars Racing Transformed: Bonus Edition | 23826 | [23826-sonic-and-all-stars-racing-transformed-bonus-edition.json](./23826-sonic-and-all-stars-racing-transformed-bonus-edition.json) |
 | Sonic & All-Stars Racing Transformed: Ryo Hazuki DLC | 139690 | [139690-sonic-and-all-stars-racing-transformed-ryo-hazuki-dlc.json](./139690-sonic-and-all-stars-racing-transformed-ryo-hazuki-dlc.json) |
 | Sonic & All-Stars Racing Transformed: Yogscast DLC | 361488 | [361488-sonic-and-all-stars-racing-transformed-yogscast-dlc.json](./361488-sonic-and-all-stars-racing-transformed-yogscast-dlc.json) |
