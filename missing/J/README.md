@@ -1093,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Master: Cradle of Egypt 2 | 23677 | [23677-jewel-master-cradle-of-egypt-2.json](./23677-jewel-master-cradle-of-egypt-2.json) |
 | Jewel Master: Cradle of Rome | 4774 | [4774-jewel-master-cradle-of-rome.json](./4774-jewel-master-cradle-of-rome.json) |
 | Jewel Master: Cradle of Rome 2 | 47830 | [47830-jewel-master-cradle-of-rome-2.json](./47830-jewel-master-cradle-of-rome-2.json) |
+| Jewel Match | 204872 | [204872-jewel-match.json](./204872-jewel-match.json) |
 | Jewel Match | 53251 | [53251-jewel-match.json](./53251-jewel-match.json) |
 | Jewel Match | 88713 | [88713-jewel-match.json](./88713-jewel-match.json) |
 | Jewel Match 2 | 60481 | [60481-jewel-match-2.json](./60481-jewel-match-2.json) |
@@ -1297,12 +1298,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Masterpieces: Cats and Friends on the Suetoshi Farm / Kenta Igarashi | 238309 | [238309-jigsaw-masterpieces-cats-and-friends-on-the-suetoshi-farm-kenta-igarashi.json](./238309-jigsaw-masterpieces-cats-and-friends-on-the-suetoshi-farm-kenta-igarashi.json) |
 | Jigsaw Masterpieces: Colorful Sweets | 226332 | [226332-jigsaw-masterpieces-colorful-sweets.json](./226332-jigsaw-masterpieces-colorful-sweets.json) |
 | Jigsaw Masterpieces: Fantastical Waterfalls | 199837 | [199837-jigsaw-masterpieces-fantastical-waterfalls.json](./199837-jigsaw-masterpieces-fantastical-waterfalls.json) |
+| Jigsaw Masterpieces: Flowers & Organisms | 204870 | [204870-jigsaw-masterpieces-flowers-and-organisms.json](./204870-jigsaw-masterpieces-flowers-and-organisms.json) |
 | Jigsaw Masterpieces: Hawaii - Most Beautiful Places in the World | 199836 | [199836-jigsaw-masterpieces-hawaii-most-beautiful-places-in-the-world.json](./199836-jigsaw-masterpieces-hawaii-most-beautiful-places-in-the-world.json) |
 | Jigsaw Masterpieces: Hokkaido - Most beautiful places in Japan | 199835 | [199835-jigsaw-masterpieces-hokkaido-most-beautiful-places-in-japan.json](./199835-jigsaw-masterpieces-hokkaido-most-beautiful-places-in-japan.json) |
 | Jigsaw Masterpieces: Iceland - Most Beautiful Places in the World | 231271 | [231271-jigsaw-masterpieces-iceland-most-beautiful-places-in-the-world.json](./231271-jigsaw-masterpieces-iceland-most-beautiful-places-in-the-world.json) |
+| Jigsaw Masterpieces: Japan's Most Scenic Train Trips | 204869 | [204869-jigsaw-masterpieces-japans-most-scenic-train-trips.json](./204869-jigsaw-masterpieces-japans-most-scenic-train-trips.json) |
 | Jigsaw Masterpieces: Japanese Summer Scene | 237871 | [237871-jigsaw-masterpieces-japanese-summer-scene.json](./237871-jigsaw-masterpieces-japanese-summer-scene.json) |
 | Jigsaw Masterpieces: Juicy Fruits | 238230 | [238230-jigsaw-masterpieces-juicy-fruits.json](./238230-jigsaw-masterpieces-juicy-fruits.json) |
 | Jigsaw Masterpieces: Kyoto - Most Beautiful Places in Japan | 231262 | [231262-jigsaw-masterpieces-kyoto-most-beautiful-places-in-japan.json](./231262-jigsaw-masterpieces-kyoto-most-beautiful-places-in-japan.json) |
+| Jigsaw Masterpieces: Landscapes with Flags of the World - Americas vol.1 | 204871 | [204871-jigsaw-masterpieces-landscapes-with-flags-of-the-world-americas-vol-1.json](./204871-jigsaw-masterpieces-landscapes-with-flags-of-the-world-americas-vol-1.json) |
 | Jigsaw Masterpieces: Landscapes with Flags of the World - Asia vol.1 | 201024 | [201024-jigsaw-masterpieces-landscapes-with-flags-of-the-world-asia-vol-1.json](./201024-jigsaw-masterpieces-landscapes-with-flags-of-the-world-asia-vol-1.json) |
 | Jigsaw Masterpieces: Little Animals | 199832 | [199832-jigsaw-masterpieces-little-animals.json](./199832-jigsaw-masterpieces-little-animals.json) |
 | Jigsaw Masterpieces: Masterpieces of World - Dogs and Cats in the Painting | 226323 | [226323-jigsaw-masterpieces-masterpieces-of-world-dogs-and-cats-in-the-painting.json](./226323-jigsaw-masterpieces-masterpieces-of-world-dogs-and-cats-in-the-painting.json) |
