@@ -1819,6 +1819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hashi Infinite | 404055 | [404055-hashi-infinite.json](./404055-hashi-infinite.json) |
 | Hashi: Bridges | 391842 | [391842-hashi-bridges.json](./391842-hashi-bridges.json) |
 | Hashire Hebereke: EX | 325670 | [325670-hashire-hebereke-ex.json](./325670-hashire-hebereke-ex.json) |
+| Hashire! Chuukan Kanrishoku | 254930 | [254930-hashire-chuukan-kanrishoku.json](./254930-hashire-chuukan-kanrishoku.json) |
 | Hashiriya Drifter | 186282 | [186282-hashiriya-drifter.json](./186282-hashiriya-drifter.json) |
 | Hashtag Dungeon | 35942 | [35942-hashtag-dungeon.json](./35942-hashtag-dungeon.json) |
 | Hasicontent | 135041 | [135041-hasicontent.json](./135041-hasicontent.json) |
@@ -3966,6 +3967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Sally | 340449 | [340449-hentai-sally.json](./340449-hentai-sally.json) |
 | Hentai Secrets | 286392 | [286392-hentai-secrets.json](./286392-hentai-secrets.json) |
 | Hentai Senpai: Apocalypse Girls | 301669 | [301669-hentai-senpai-apocalypse-girls.json](./301669-hentai-senpai-apocalypse-girls.json) |
+| Hentai Senpai: Cosmic Beauties | 254905 | [254905-hentai-senpai-cosmic-beauties.json](./254905-hentai-senpai-cosmic-beauties.json) |
 | Hentai Senpai: Cosmic Beauties - Premium Pack | 291057 | [291057-hentai-senpai-cosmic-beauties-premium-pack.json](./291057-hentai-senpai-cosmic-beauties-premium-pack.json) |
 | Hentai Senpai: Cyberpussy 2069 | 244392 | [244392-hentai-senpai-cyberpussy-2069.json](./244392-hentai-senpai-cyberpussy-2069.json) |
 | Hentai Senpai: Goth Feet | 340450 | [340450-hentai-senpai-goth-feet.json](./340450-hentai-senpai-goth-feet.json) |
