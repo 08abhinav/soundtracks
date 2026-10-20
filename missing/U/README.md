@@ -788,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraman Club: Supokon Fight! | 48516 | [48516-ultraman-club-supokon-fight.json](./48516-ultraman-club-supokon-fight.json) |
 | Ultraman Club: Teki Kaijuu wo Hakken se yo! | 260082 | [260082-ultraman-club-teki-kaijuu-wo-hakken-se-yo.json](./260082-ultraman-club-teki-kaijuu-wo-hakken-se-yo.json) |
 | Ultraman Club: Ultra Schwatch | 385840 | [385840-ultraman-club-ultra-schwatch.json](./385840-ultraman-club-ultra-schwatch.json) |
+| Ultraman Episode 1: The Taro Adventure | 205987 | [205987-ultraman-episode-1-the-taro-adventure.json](./205987-ultraman-episode-1-the-taro-adventure.json) |
 | Ultraman Fighting Evolution | 78940 | [78940-ultraman-fighting-evolution.json](./78940-ultraman-fighting-evolution.json) |
 | Ultraman Fighting Evolution 0 | 64212 | [64212-ultraman-fighting-evolution-0.json](./64212-ultraman-fighting-evolution-0.json) |
 | Ultraman Fighting Evolution 2 | 72608 | [72608-ultraman-fighting-evolution-2.json](./72608-ultraman-fighting-evolution-2.json) |
@@ -798,10 +799,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraman Quiz King | 289761 | [289761-ultraman-quiz-king.json](./289761-ultraman-quiz-king.json) |
 | Ultraman Tiga & Ultraman Dyna: New Generations | 66409 | [66409-ultraman-tiga-and-ultraman-dyna-new-generations.json](./66409-ultraman-tiga-and-ultraman-dyna-new-generations.json) |
 | Ultraman: Alphabet TV he Youkoso | 63951 | [63951-ultraman-alphabet-tv-he-youkoso.json](./63951-ultraman-alphabet-tv-he-youkoso.json) |
+| Ultraman: Galaxy Alert | 205985 | [205985-ultraman-galaxy-alert.json](./205985-ultraman-galaxy-alert.json) |
 | Ultraman: Hiragana Daisakusen | 63950 | [63950-ultraman-hiragana-daisakusen.json](./63950-ultraman-hiragana-daisakusen.json) |
 | Ultraman: Kaijuu Daikessen | 385839 | [385839-ultraman-kaijuu-daikessen.json](./385839-ultraman-kaijuu-daikessen.json) |
 | Ultraman: Kaijuu Teikoku no Gyakushuu | 41333 | [41333-ultraman-kaijuu-teikoku-no-gyakushuu.json](./41333-ultraman-kaijuu-teikoku-no-gyakushuu.json) |
 | Ultraman: Legend of Heroes | 223886 | [223886-ultraman-legend-of-heroes.json](./223886-ultraman-legend-of-heroes.json) |
+| Ultraman: Monster Crisis | 205986 | [205986-ultraman-monster-crisis.json](./205986-ultraman-monster-crisis.json) |
 | Ultraman: Oide yo! Ultra Youchien | 63947 | [63947-ultraman-oide-yo-ultra-youchien.json](./63947-ultraman-oide-yo-ultra-youchien.json) |
 | Ultraman: Suuji de Asobou Ultra Land | 63940 | [63940-ultraman-suuji-de-asobou-ultra-land.json](./63940-ultraman-suuji-de-asobou-ultra-land.json) |
 | Ultraman: The Digital Board Game | 289760 | [289760-ultraman-the-digital-board-game.json](./289760-ultraman-the-digital-board-game.json) |
@@ -1553,6 +1556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underworld Unfinished Business 3: The Plain of Jars | 252293 | [252293-underworld-unfinished-business-3-the-plain-of-jars.json](./252293-underworld-unfinished-business-3-the-plain-of-jars.json) |
 | Underworld Unfinished Business 4: Taking Care of Business | 252294 | [252294-underworld-unfinished-business-4-taking-care-of-business.json](./252294-underworld-unfinished-business-4-taking-care-of-business.json) |
 | Underworld: Allied Expedition | 358515 | [358515-underworld-allied-expedition.json](./358515-underworld-allied-expedition.json) |
+| Underworld: Bloodline | 205988 | [205988-underworld-bloodline.json](./205988-underworld-bloodline.json) |
 | Underwurlde | 14588 | [14588-underwurlde.json](./14588-underwurlde.json) |
 | Undesirable Elements | 272129 | [272129-undesirable-elements.json](./272129-undesirable-elements.json) |
 | Undesired Catch | 316947 | [316947-undesired-catch.json](./316947-undesired-catch.json) |
