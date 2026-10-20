@@ -1673,6 +1673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy World | 68687 | [68687-fantasy-world.json](./68687-fantasy-world.json) |
 | Fantasy World Online Tycoon | 132209 | [132209-fantasy-world-online-tycoon.json](./132209-fantasy-world-online-tycoon.json) |
 | Fantasy World Simulator | 312458 | [312458-fantasy-world-simulator.json](./312458-fantasy-world-simulator.json) |
+| Fantasy World Souls | 235035 | [235035-fantasy-world-souls.json](./235035-fantasy-world-souls.json) |
 | Fantasy World: A Land Torn Asunder | 90069 | [90069-fantasy-world-a-land-torn-asunder.json](./90069-fantasy-world-a-land-torn-asunder.json) |
 | Fantasy Worlds Bundle | 125134 | [125134-fantasy-worlds-bundle.json](./125134-fantasy-worlds-bundle.json) |
 | Fantasy Zone | 18292 | [18292-fantasy-zone.json](./18292-fantasy-zone.json) |
@@ -4806,6 +4807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish For Reel | 87185 | [87185-fish-for-reel.json](./87185-fish-for-reel.json) |
 | Fish Game | 269021 | [269021-fish-game.json](./269021-fish-game.json) |
 | Fish Game | 381020 | [381020-fish-game.json](./381020-fish-game.json) |
+| Fish Go.io | 235058 | [235058-fish-go-io.json](./235058-fish-go-io.json) |
 | Fish Heads | 163902 | [163902-fish-heads.json](./163902-fish-heads.json) |
 | Fish Heroes | 237367 | [237367-fish-heroes.json](./237367-fish-heroes.json) |
 | Fish Hooks | 299867 | [299867-fish-hooks.json](./299867-fish-hooks.json) |
@@ -9615,6 +9617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Hoop 2 | 358311 | [358311-fruit-hoop-2.json](./358311-fruit-hoop-2.json) |
 | Fruit Jammin' | 245807 | [245807-fruit-jammin.json](./245807-fruit-jammin.json) |
 | Fruit Juice | 168648 | [168648-fruit-juice.json](./168648-fruit-juice.json) |
+| Fruit Juice Rody Shop | 235061 | [235061-fruit-juice-rody-shop.json](./235061-fruit-juice-rody-shop.json) |
 | Fruit Killer | 246448 | [246448-fruit-killer.json](./246448-fruit-killer.json) |
 | Fruit Language Opinions | 128637 | [128637-fruit-language-opinions.json](./128637-fruit-language-opinions.json) |
 | Fruit Link Go 3 | 89585 | [89585-fruit-link-go-3.json](./89585-fruit-link-go-3.json) |
