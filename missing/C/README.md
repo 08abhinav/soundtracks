@@ -8218,6 +8218,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cocosic: On Pirates' Trail | 417696 | [417696-cocosic-on-pirates-trail.json](./417696-cocosic-on-pirates-trail.json) |
 | Cocoto Alien Brick Breaker | 63857 | [63857-cocoto-alien-brick-breaker.json](./63857-cocoto-alien-brick-breaker.json) |
 | Cocoto Fishing Master | 19677 | [19677-cocoto-fishing-master.json](./19677-cocoto-fishing-master.json) |
+| Cocoto Kart Online | 248487 | [248487-cocoto-kart-online.json](./248487-cocoto-kart-online.json) |
+| Cocoto Kart Racer | 248485 | [248485-cocoto-kart-racer.json](./248485-cocoto-kart-racer.json) |
+| Cocoto Kart Racer | 248486 | [248486-cocoto-kart-racer.json](./248486-cocoto-kart-racer.json) |
 | Cocoto Magic Circus 2 | 61861 | [61861-cocoto-magic-circus-2.json](./61861-cocoto-magic-circus-2.json) |
 | Cocoto Platform Jumper | 248499 | [248499-cocoto-platform-jumper.json](./248499-cocoto-platform-jumper.json) |
 | Cocoto Tennis Master | 80476 | [80476-cocoto-tennis-master.json](./80476-cocoto-tennis-master.json) |
