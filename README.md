@@ -549,6 +549,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/99/58/1f/99581f3c-8e40-58c1-b866-61b3356ca4e5/cover.jpg/600x600bb.jpg" width="60" /> | [Evil Genius 2: World Domination](https://ostdb.net/games/evil-genius-2-world-domination) | **Evil Genius 2: World Domination** · [Spotify](https://music.apple.com/us/album/evil-genius-2-world-domination/1635588885?uo=4) · [Album](https://album.link/i/1635588885) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737e82e159ad5bd396e40d9392" width="60" /> | [Evoland 2](https://ostdb.net/games/evoland-2) | **Evoland 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4oYc3Uq0TJPBV5ENCOwiE8) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/76/4f/10/764f1049-7a4b-170d-4c94-ba6783f69e44/5059806675030_cover.jpg/1000x1000bb.jpg" width="60" /> | [ExeKiller](https://ostdb.net/games/exekiller) | **I Am Exekiller (Original Game Soundtrack) - Single** · [Apple Music](https://music.apple.com/us/album/i-am-exekiller-original-game-soundtrack-single/1598151208?uo=4) · [Album](https://album.link/i/1598151208) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f83fbc85ae1128dcdd139b6f" width="60" /> | [Expeditions: A MudRunner Game](https://ostdb.net/games/expeditions-a-mudrunner-game) | **Expeditions: A MudRunner Game (Game Trailer Soundtrack)** · [Spotify](https://open.spotify.com/album/6KYfRbuWIRjzXUNPnrvf0b) |
 
 ### F
 
@@ -577,7 +578,6 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b2736004c2d859115b2c948aeb86" width="60" /> | [Farthest Frontier](https://ostdb.net/games/farthest-frontier) | **Farthest Frontier (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/46vaDiXVRntcCwKLEf0ntU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734cd0e5fe9a331b092c3dc573" width="60" /> | [Fatal Frame](https://ostdb.net/games/fatal-frame) | **Fatal Frame Soundtrack** · [Spotify](https://open.spotify.com/album/1h7LZfDNbsdnkwk0OqNXC6) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d1/42/25/d142254d-310d-6421-2bd8-36ba83e0ba38/4896004157910.jpg/1000x1000bb.jpg" width="60" /> | [Fate Trigger](https://ostdb.net/games/fate-trigger) | **Coming Like Fire (游戏《命运扳机》先觉测试主题曲) - Single** · [Apple Music](https://music.apple.com/us/album/coming-like-fire-%E6%B8%B8%E6%88%8F-%E5%91%BD%E8%BF%90%E6%89%B3%E6%9C%BA-%E5%85%88%E8%A7%89%E6%B5%8B%E8%AF%95%E4%B8%BB%E9%A2%98%E6%9B%B2-single/1831474095?uo=4) · [Album](https://album.link/i/1831474095) |
-| <img src="https://i.scdn.co/image/ab67616d0000b273e95596464f77fb9b99a789aa" width="60" /> | [Fate/Samurai Remnant](https://ostdb.net/games/fate-samurai-remnant) | **Fate/Samurai Remnant Original Soundtrack** · [Spotify](https://open.spotify.com/album/3OhWJjVLvW6yhzanYZIY86) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c859a79d1da50b8c4d52fb0" width="60" /> | [Fear & Hunger 2: Termina](https://ostdb.net/games/fear-and-hunger-2-termina) | **Fear & Hunger 2: Termina (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6URkC6A121abdpBuFaC0FK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731b6ee7ddafdb8eacf585592c" width="60" /> | [Felix the Cat](https://ostdb.net/games/felix-the-cat) | **Felix The Cat Soundtrack** · [Spotify](https://open.spotify.com/album/1YI2weWObKavGsUdCkdVir) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da94d7bae8ec028ae1770816" width="60" /> | [Figment 2: Creed Valley](https://ostdb.net/games/figment-2-creed-valley) | **Figment 2: Creed Valley (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5R8DEMbMahVe9NdwWc38LL) |
@@ -1926,4 +1926,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2243 soundtracks · last updated 2026-10-20T21:21:23.391Z_
+_2243 soundtracks · last updated 2026-10-20T21:25:37.706Z_
