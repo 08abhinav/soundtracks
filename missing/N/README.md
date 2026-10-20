@@ -5702,6 +5702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numberline | 29724 | [29724-numberline.json](./29724-numberline.json) |
 | Numberline 2 | 43517 | [43517-numberline-2.json](./43517-numberline-2.json) |
 | Numberline 3 | 106580 | [106580-numberline-3.json](./106580-numberline-3.json) |
+| NumberMaze | 238348 | [238348-numbermaze.json](./238348-numbermaze.json) |
 | Numbers & Letters | 220612 | [220612-numbers-and-letters.json](./220612-numbers-and-letters.json) |
 | Numbers & Nodes | 329017 | [329017-numbers-and-nodes.json](./329017-numbers-and-nodes.json) |
 | Numbers Destiny | 341489 | [341489-numbers-destiny.json](./341489-numbers-destiny.json) |
