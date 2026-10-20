@@ -3541,6 +3541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help Yourself | 153993 | [153993-help-yourself.json](./153993-help-yourself.json) |
 | Help, I cast the wrong spell! | 180802 | [180802-help-i-cast-the-wrong-spell.json](./180802-help-i-cast-the-wrong-spell.json) |
 | Help: The Game | 32624 | [32624-help-the-game.json](./32624-help-the-game.json) |
+| Help! I Need to Stretch Out for Valentines Day! | 210472 | [210472-help-i-need-to-stretch-out-for-valentines-day.json](./210472-help-i-need-to-stretch-out-for-valentines-day.json) |
 | Help! I'm Haunted | 111442 | [111442-help-im-haunted.json](./111442-help-im-haunted.json) |
 | Help! I'm Turning Into a Mermaid! | 407892 | [407892-help-im-turning-into-a-mermaid.json](./407892-help-im-turning-into-a-mermaid.json) |
 | Help! I've Been Cursed With A Bubble Butt | 337469 | [337469-help-ive-been-cursed-with-a-bubble-butt.json](./337469-help-ive-been-cursed-with-a-bubble-butt.json) |
@@ -7921,6 +7922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Girls | 344570 | [344570-hot-girls.json](./344570-hot-girls.json) |
 | Hot Girls Delivery Club | 253932 | [253932-hot-girls-delivery-club.json](./253932-hot-girls-delivery-club.json) |
 | Hot Girls VR | 110945 | [110945-hot-girls-vr.json](./110945-hot-girls-vr.json) |
+| Hot Glue | 210469 | [210469-hot-glue.json](./210469-hot-glue.json) |
 | Hot Goths Murder Mystery Dating Sim | 237825 | [237825-hot-goths-murder-mystery-dating-sim.json](./237825-hot-goths-murder-mystery-dating-sim.json) |
 | Hot Guns: International Missions | 213967 | [213967-hot-guns-international-missions.json](./213967-hot-guns-international-missions.json) |
 | Hot Hands! | 87171 | [87171-hot-hands.json](./87171-hot-hands.json) |
