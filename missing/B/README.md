@@ -2677,6 +2677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Blues | 145616 | [145616-battle-blues.json](./145616-battle-blues.json) |
 | Battle Boom | 89526 | [89526-battle-boom.json](./89526-battle-boom.json) |
 | Battle Bouncers | 134572 | [134572-battle-bouncers.json](./134572-battle-bouncers.json) |
+| Battle Bows | 253192 | [253192-battle-bows.json](./253192-battle-bows.json) |
 | Battle Breakers | 27431 | [27431-battle-breakers.json](./27431-battle-breakers.json) |
 | Battle Brigade | 166167 | [166167-battle-brigade.json](./166167-battle-brigade.json) |
 | Battle Brothers: Blazing Deserts | 155069 | [155069-battle-brothers-blazing-deserts.json](./155069-battle-brothers-blazing-deserts.json) |
@@ -12850,6 +12851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bump Jump | 246319 | [246319-bump-jump.json](./246319-bump-jump.json) |
 | Bump N' Run | 221896 | [221896-bump-n-run.json](./221896-bump-n-run.json) |
 | Bump Over | 94655 | [94655-bump-over.json](./94655-bump-over.json) |
+| Bump Sheep | 253202 | [253202-bump-sheep.json](./253202-bump-sheep.json) |
 | Bump.io: Arena of Bumper | 106960 | [106960-bump-io-arena-of-bumper.json](./106960-bump-io-arena-of-bumper.json) |
 | Bump+Smack | 38762 | [38762-bump-smack.json](./38762-bump-smack.json) |
 | Bumparound | 181673 | [181673-bumparound.json](./181673-bumparound.json) |
