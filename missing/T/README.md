@@ -4410,6 +4410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Spider-Man Franchise Pack | 99796 | [99796-the-amazing-spider-man-franchise-pack.json](./99796-the-amazing-spider-man-franchise-pack.json) |
 | The Amazing Spider-Man in the Villain Round-Up | 220113 | [220113-the-amazing-spider-man-in-the-villain-round-up.json](./220113-the-amazing-spider-man-in-the-villain-round-up.json) |
 | The Amazing Spider-Man: Countdown to Doom | 230280 | [230280-the-amazing-spider-man-countdown-to-doom.json](./230280-the-amazing-spider-man-countdown-to-doom.json) |
+| The Amazing Spider-Man: Creative Studio | 208783 | [208783-the-amazing-spider-man-creative-studio.json](./208783-the-amazing-spider-man-creative-studio.json) |
 | The Amazing Spider-Man: Lethal Foes | 42403 | [42403-the-amazing-spider-man-lethal-foes.json](./42403-the-amazing-spider-man-lethal-foes.json) |
 | The Amazing Spider-Man: Web of Fire | 45882 | [45882-the-amazing-spider-man-web-of-fire.json](./45882-the-amazing-spider-man-web-of-fire.json) |
 | The Amazing Universe of the Psychotrons | 315610 | [315610-the-amazing-universe-of-the-psychotrons.json](./315610-the-amazing-universe-of-the-psychotrons.json) |
@@ -9140,6 +9141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Maverick: Survival Raft Adventure | 95876 | [95876-the-last-maverick-survival-raft-adventure.json](./95876-the-last-maverick-survival-raft-adventure.json) |
 | The Last Meadow | 337897 | [337897-the-last-meadow.json](./337897-the-last-meadow.json) |
 | The Last Memory of a Burning Thought | 335655 | [335655-the-last-memory-of-a-burning-thought.json](./335655-the-last-memory-of-a-burning-thought.json) |
+| The Last Metal Shooter | 208815 | [208815-the-last-metal-shooter.json](./208815-the-last-metal-shooter.json) |
 | The Last Mile | 344793 | [344793-the-last-mile.json](./344793-the-last-mile.json) |
 | The Last Mission | 298633 | [298633-the-last-mission.json](./298633-the-last-mission.json) |
 | The Last Mission | 41798 | [41798-the-last-mission.json](./41798-the-last-mission.json) |
@@ -10370,6 +10372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mean Craps Machine | 69507 | [69507-the-mean-craps-machine.json](./69507-the-mean-craps-machine.json) |
 | The Mean Green | 263415 | [263415-the-mean-green.json](./263415-the-mean-green.json) |
 | The Mean Green 2 | 263416 | [263416-the-mean-green-2.json](./263416-the-mean-green-2.json) |
+| The Mean Greens: Plastic Warfare - Vampiro | 208812 | [208812-the-mean-greens-plastic-warfare-vampiro.json](./208812-the-mean-greens-plastic-warfare-vampiro.json) |
 | The Meaning | 203303 | [203303-the-meaning.json](./203303-the-meaning.json) |
 | The Meaning of Auri | 349310 | [349310-the-meaning-of-auri.json](./349310-the-meaning-of-auri.json) |
 | The Meaning of Life | 379154 | [379154-the-meaning-of-life.json](./379154-the-meaning-of-life.json) |
@@ -21219,6 +21222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 2: Hauptstrecke München - Augsburg Route Add-On | 156504 | [156504-train-sim-world-2-hauptstrecke-munchen-augsburg-route-add-on.json](./156504-train-sim-world-2-hauptstrecke-munchen-augsburg-route-add-on.json) |
 | Train Sim World 2: Hauptstrecke Rhein-Ruhr: Duisburg - Bochum Route Add-On | 156498 | [156498-train-sim-world-2-hauptstrecke-rhein-ruhr-duisburg-bochum-route-add-on.json](./156498-train-sim-world-2-hauptstrecke-rhein-ruhr-duisburg-bochum-route-add-on.json) |
 | Train Sim World 2: Horseshoe Curve: Altoona - Johnstown & South Fork Route | 196039 | [196039-train-sim-world-2-horseshoe-curve-altoona-johnstown-and-south-fork-route.json](./196039-train-sim-world-2-horseshoe-curve-altoona-johnstown-and-south-fork-route.json) |
+| Train Sim World 2: Island Line 2022 - BR Class 484 EMU | 208813 | [208813-train-sim-world-2-island-line-2022-br-class-484-emu.json](./208813-train-sim-world-2-island-line-2022-br-class-484-emu.json) |
 | Train Sim World 2: Isle of Wight - Ryde: Shanklin Route | 156493 | [156493-train-sim-world-2-isle-of-wight-ryde-shanklin-route.json](./156493-train-sim-world-2-isle-of-wight-ryde-shanklin-route.json) |
 | Train Sim World 2: Köln - Aachen & S-Bahn BR 423 | 227670 | [227670-train-sim-world-2-koln-aachen-and-s-bahn-br-423.json](./227670-train-sim-world-2-koln-aachen-and-s-bahn-br-423.json) |
 | Train Sim World 2: LGV Méditerranée: Marseille - Avignon Route Add-On | 156496 | [156496-train-sim-world-2-lgv-mediterranee-marseille-avignon-route-add-on.json](./156496-train-sim-world-2-lgv-mediterranee-marseille-avignon-route-add-on.json) |
