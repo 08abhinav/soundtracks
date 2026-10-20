@@ -1726,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majestic | 94676 | [94676-majestic.json](./94676-majestic.json) |
 | Majestic Aristocrat | 294935 | [294935-majestic-aristocrat.json](./294935-majestic-aristocrat.json) |
 | Majestic Hero Pin | 205026 | [205026-majestic-hero-pin.json](./205026-majestic-hero-pin.json) |
+| Majestic Majolical | 227709 | [227709-majestic-majolical.json](./227709-majestic-majolical.json) |
 | Majestic Majolical vol. 1 | 240523 | [240523-majestic-majolical-vol-1.json](./240523-majestic-majolical-vol-1.json) |
 | Majestic Trials | 59792 | [59792-majestic-trials.json](./59792-majestic-trials.json) |
 | Majestic: Special Edition | 137479 | [137479-majestic-special-edition.json](./137479-majestic-special-edition.json) |
@@ -9595,6 +9596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Maze: Online | 298712 | [298712-mini-maze-online.json](./298712-mini-maze-online.json) |
 | Mini Merchant | 333455 | [333455-mini-merchant.json](./333455-mini-merchant.json) |
 | Mini Micro Racing | 298386 | [298386-mini-micro-racing.json](./298386-mini-micro-racing.json) |
+| Mini Miners | 227683 | [227683-mini-miners.json](./227683-mini-miners.json) |
 | Mini Mini Farm | 209934 | [209934-mini-mini-farm.json](./209934-mini-mini-farm.json) |
 | Mini Mini-Golf | 188109 | [188109-mini-mini-golf.json](./188109-mini-mini-golf.json) |
 | Mini Monsters | 343907 | [343907-mini-monsters.json](./343907-mini-monsters.json) |
@@ -12095,6 +12097,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Truck Drive | 96518 | [96518-monster-truck-drive.json](./96518-monster-truck-drive.json) |
 | Monster Truck Freestyle | 283279 | [283279-monster-truck-freestyle.json](./283279-monster-truck-freestyle.json) |
 | Monster Truck Fury | 70032 | [70032-monster-truck-fury.json](./70032-monster-truck-fury.json) |
+| Monster Truck Journey | 227691 | [227691-monster-truck-journey.json](./227691-monster-truck-journey.json) |
+| Monster Truck Journey: Nitro | 227710 | [227710-monster-truck-journey-nitro.json](./227710-monster-truck-journey-nitro.json) |
 | Monster Truck Madness | 146887 | [146887-monster-truck-madness.json](./146887-monster-truck-madness.json) |
 | Monster Truck Madness | 6513 | [6513-monster-truck-madness.json](./6513-monster-truck-madness.json) |
 | Monster Truck Madness 2 | 3542 | [3542-monster-truck-madness-2.json](./3542-monster-truck-madness-2.json) |
