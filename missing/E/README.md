@@ -5205,6 +5205,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everyone's a Wally | 13649 | [13649-everyones-a-wally.json](./13649-everyones-a-wally.json) |
 | Everyone's A Wally: A Day in the Life of Wally | 73998 | [73998-everyones-a-wally-a-day-in-the-life-of-wally.json](./73998-everyones-a-wally-a-day-in-the-life-of-wally.json) |
 | Everyone's Idol Yumeru-chan! Escape from the Uninvited Pervert | 82772 | [82772-everyones-idol-yumeru-chan-escape-from-the-uninvited-pervert.json](./82772-everyones-idol-yumeru-chan-escape-from-the-uninvited-pervert.json) |
+| Everyone's Tsume Shogi: Intermediate 1 | 218895 | [218895-everyones-tsume-shogi-intermediate-1.json](./218895-everyones-tsume-shogi-intermediate-1.json) |
+| Everyone's Tsume Shogi: Intermediate 2 | 218894 | [218894-everyones-tsume-shogi-intermediate-2.json](./218894-everyones-tsume-shogi-intermediate-2.json) |
 | Everything Else | 177575 | [177575-everything-else.json](./177575-everything-else.json) |
 | Everything Explosive | 137594 | [137594-everything-explosive.json](./137594-everything-explosive.json) |
 | Everything Has Arms | 211131 | [211131-everything-has-arms.json](./211131-everything-has-arms.json) |
