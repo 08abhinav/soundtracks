@@ -1978,6 +1978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achtung, die Kurve! | 11251 | [11251-achtung-die-kurve.json](./11251-achtung-die-kurve.json) |
 | Achtung! Cthulhu Tactics | 106562 | [106562-achtung-cthulhu-tactics.json](./106562-achtung-cthulhu-tactics.json) |
 | Acia | 94639 | [94639-acia.json](./94639-acia.json) |
+| Acid | 222775 | [222775-acid.json](./222775-acid.json) |
 | Acid Ball | 213058 | [213058-acid-ball.json](./213058-acid-ball.json) |
 | Acid Drop | 11111 | [11111-acid-drop.json](./11111-acid-drop.json) |
 | Acid Drops | 15588 | [15588-acid-drops.json](./15588-acid-drops.json) |
@@ -7207,6 +7208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Zombies | 88844 | [88844-angry-zombies.json](./88844-angry-zombies.json) |
 | Angrymals | 178364 | [178364-angrymals.json](./178364-angrymals.json) |
 | Angst | 216203 | [216203-angst.json](./216203-angst.json) |
+| Angst: A Game of Urban Survival | 222743 | [222743-angst-a-game-of-urban-survival.json](./222743-angst-a-game-of-urban-survival.json) |
 | Angst: A Tale of Survival | 320716 | [320716-angst-a-tale-of-survival.json](./320716-angst-a-tale-of-survival.json) |
 | Angstrom Station VR | 132669 | [132669-angstrom-station-vr.json](./132669-angstrom-station-vr.json) |
 | Anguished | 30614 | [30614-anguished.json](./30614-anguished.json) |
