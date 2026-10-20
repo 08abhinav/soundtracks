@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultrafun | 211908 | [211908-ultrafun.json](./211908-ultrafun.json) |
 | UltraGoodness | 36966 | [36966-ultragoodness.json](./36966-ultragoodness.json) |
 | UltraGoodness 2 | 121539 | [121539-ultragoodness-2.json](./121539-ultragoodness-2.json) |
+| UltraGoodness Franchise Bundle | 227118 | [227118-ultragoodness-franchise-bundle.json](./227118-ultragoodness-franchise-bundle.json) |
 | Ultragun Dreamland | 138728 | [138728-ultragun-dreamland.json](./138728-ultragun-dreamland.json) |
 | Ultrakanoid | 310179 | [310179-ultrakanoid.json](./310179-ultrakanoid.json) |
 | Ultrakill | 124333 | [124333-ultrakill.json](./124333-ultrakill.json) |
