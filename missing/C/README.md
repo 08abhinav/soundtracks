@@ -1996,6 +1996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carlos Haunted House | 343835 | [343835-carlos-haunted-house.json](./343835-carlos-haunted-house.json) |
 | Carlos III y La Difusión de la Antigüedad | 90491 | [90491-carlos-iii-y-la-difusion-de-la-antiguedad.json](./90491-carlos-iii-y-la-difusion-de-la-antiguedad.json) |
 | Carlos Klauss: Episode Zero | 258701 | [258701-carlos-klauss-episode-zero.json](./258701-carlos-klauss-episode-zero.json) |
+| Carlos the Taco | 231203 | [231203-carlos-the-taco.json](./231203-carlos-the-taco.json) |
 | Carlton | 83477 | [83477-carlton.json](./83477-carlton.json) |
 | Carma | 172153 | [172153-carma.json](./172153-carma.json) |
 | Carmageddon | 246743 | [246743-carmageddon.json](./246743-carmageddon.json) |
@@ -5010,6 +5011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Master | 245540 | [245540-chess-master.json](./245540-chess-master.json) |
 | Chess Master | 247054 | [247054-chess-master.json](./247054-chess-master.json) |
 | Chess Master | 346114 | [346114-chess-master.json](./346114-chess-master.json) |
+| Chess Match | 231202 | [231202-chess-match.json](./231202-chess-match.json) |
 | Chess Mega Bundle | 152872 | [152872-chess-mega-bundle.json](./152872-chess-mega-bundle.json) |
 | Chess Mess | 353772 | [353772-chess-mess.json](./353772-chess-mess.json) |
 | Chess Minimal | 147955 | [147955-chess-minimal.json](./147955-chess-minimal.json) |
@@ -11055,6 +11057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corr | 245924 | [245924-corr.json](./245924-corr.json) |
 | Corral | 67525 | [67525-corral.json](./67525-corral.json) |
 | Correction | 271394 | [271394-correction.json](./271394-correction.json) |
+| Corrida da pesada | 231207 | [231207-corrida-da-pesada.json](./231207-corrida-da-pesada.json) |
 | Corrida das Blogueiras 6: A Maldição dos Zumbis | 319027 | [319027-corrida-das-blogueiras-6-a-maldicao-dos-zumbis.json](./319027-corrida-das-blogueiras-6-a-maldicao-dos-zumbis.json) |
 | Corrida Nebososa | 311339 | [311339-corrida-nebososa.json](./311339-corrida-nebososa.json) |
 | Corrida Nebososa 2 | 311340 | [311340-corrida-nebososa-2.json](./311340-corrida-nebososa-2.json) |
