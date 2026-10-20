@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T23:18:43.996Z",
-  "total_missing": 239556,
+  "generated_at": "2026-10-20T23:32:51.074Z",
+  "total_missing": 239606,
   "games": [
     {
       "igdb_id": 191680,
@@ -1091897,6 +1091897,11 @@
       "file": "missing/T/205499-trainz-plus-china-d38-schnabel-car-gray.json"
     },
     {
+      "igdb_id": 205405,
+      "game_name": "Trainz Plus: China D38 Schnabel Car - Red",
+      "file": "missing/T/205405-trainz-plus-china-d38-schnabel-car-red.json"
+    },
+    {
       "igdb_id": 205513,
       "game_name": "Trainz Plus: Chiyoda Branch Line",
       "file": "missing/T/205513-trainz-plus-chiyoda-branch-line.json"
@@ -1092015,6 +1092020,11 @@
       "igdb_id": 205502,
       "game_name": "Trainz Plus: DR/DB DBmtrue/DBmu748",
       "file": "missing/T/205502-trainz-plus-dr-db-dbmtrue-dbmu748.json"
+    },
+    {
+      "igdb_id": 205444,
+      "game_name": "Trainz Plus: DRG Class 05 Steam",
+      "file": "missing/T/205444-trainz-plus-drg-class-05-steam.json"
     },
     {
       "igdb_id": 205560,
@@ -1092385,6 +1092395,11 @@
       "igdb_id": 205454,
       "game_name": "Trainz Plus: Route - Beavermouth to Ottertail",
       "file": "missing/T/205454-trainz-plus-route-beavermouth-to-ottertail.json"
+    },
+    {
+      "igdb_id": 205443,
+      "game_name": "Trainz Plus: Route - Belarusian Woodland",
+      "file": "missing/T/205443-trainz-plus-route-belarusian-woodland.json"
     },
     {
       "igdb_id": 205484,
@@ -1093412,6 +1093427,16 @@
       "file": "missing/T/205351-trainz-railroad-simulator-2022-amtrak-p42dc-phase-iii.json"
     },
     {
+      "igdb_id": 205418,
+      "game_name": "Trainz Railroad Simulator 2022: Amtrak P42DC - Phase IV",
+      "file": "missing/T/205418-trainz-railroad-simulator-2022-amtrak-p42dc-phase-iv.json"
+    },
+    {
+      "igdb_id": 205441,
+      "game_name": "Trainz Railroad Simulator 2022: Amtrak P42DC - Phase V",
+      "file": "missing/T/205441-trainz-railroad-simulator-2022-amtrak-p42dc-phase-v.json"
+    },
+    {
       "igdb_id": 205356,
       "game_name": "Trainz Railroad Simulator 2022: Andrushivka - Vinnitsa UZ",
       "file": "missing/T/205356-trainz-railroad-simulator-2022-andrushivka-vinnitsa-uz.json"
@@ -1093437,9 +1093462,24 @@
       "file": "missing/T/205332-trainz-railroad-simulator-2022-avery-drexel-route.json"
     },
     {
+      "igdb_id": 205428,
+      "game_name": "Trainz Railroad Simulator 2022: Balezino Mosti Sessions - Lichachove to Mosti",
+      "file": "missing/T/205428-trainz-railroad-simulator-2022-balezino-mosti-sessions-lichachove-to-mosti.json"
+    },
+    {
+      "igdb_id": 205437,
+      "game_name": "Trainz Railroad Simulator 2022: Bea-Dawe Model Railway",
+      "file": "missing/T/205437-trainz-railroad-simulator-2022-bea-dawe-model-railway.json"
+    },
+    {
       "igdb_id": 205334,
       "game_name": "Trainz Railroad Simulator 2022: BNSF GE Dash-9 44CW Warbonnet",
       "file": "missing/T/205334-trainz-railroad-simulator-2022-bnsf-ge-dash-9-44cw-warbonnet.json"
+    },
+    {
+      "igdb_id": 205399,
+      "game_name": "Trainz Railroad Simulator 2022: BNSF Railway EMD SD70MAC Executive Patch",
+      "file": "missing/T/205399-trainz-railroad-simulator-2022-bnsf-railway-emd-sd70mac-executive-patch.json"
     },
     {
       "igdb_id": 302207,
@@ -1093457,9 +1093497,24 @@
       "file": "missing/T/205336-trainz-railroad-simulator-2022-burlington-northern-railroad-emd-sd70mac.json"
     },
     {
+      "igdb_id": 205414,
+      "game_name": "Trainz Railroad Simulator 2022: C&O 2-6-6-6 H8 - New River Mining Coal Run",
+      "file": "missing/T/205414-trainz-railroad-simulator-2022-c-and-o-2-6-6-6-h8-new-river-mining-coal-run.json"
+    },
+    {
+      "igdb_id": 205423,
+      "game_name": "Trainz Railroad Simulator 2022: C&O Hinton Division",
+      "file": "missing/T/205423-trainz-railroad-simulator-2022-c-and-o-hinton-division.json"
+    },
+    {
       "igdb_id": 205343,
       "game_name": "Trainz Railroad Simulator 2022: Canadian Rocky Mountains - Rogers Pass",
       "file": "missing/T/205343-trainz-railroad-simulator-2022-canadian-rocky-mountains-rogers-pass.json"
+    },
+    {
+      "igdb_id": 205434,
+      "game_name": "Trainz Railroad Simulator 2022: Canadian Rocky Mountains Ottertail to Castle Jct",
+      "file": "missing/T/205434-trainz-railroad-simulator-2022-canadian-rocky-mountains-ottertail-to-castle-jct.json"
     },
     {
       "igdb_id": 205340,
@@ -1093522,14 +1093577,69 @@
       "file": "missing/T/205350-trainz-railroad-simulator-2022-chesapeake-and-ohio-k2-2-8-2.json"
     },
     {
+      "igdb_id": 205403,
+      "game_name": "Trainz Railroad Simulator 2022: Chesapeake & Ohio K3-K3a 2-8-2",
+      "file": "missing/T/205403-trainz-railroad-simulator-2022-chesapeake-and-ohio-k3-k3a-2-8-2.json"
+    },
+    {
+      "igdb_id": 205398,
+      "game_name": "Trainz Railroad Simulator 2022: Chicago North Western GE Dash 9 44CW",
+      "file": "missing/T/205398-trainz-railroad-simulator-2022-chicago-north-western-ge-dash-9-44cw.json"
+    },
+    {
       "igdb_id": 205377,
       "game_name": "Trainz Railroad Simulator 2022: China D38 Schnabel Car - Gray",
       "file": "missing/T/205377-trainz-railroad-simulator-2022-china-d38-schnabel-car-gray.json"
     },
     {
+      "igdb_id": 205439,
+      "game_name": "Trainz Railroad Simulator 2022: Chinese Electric SS4 Locomotive Pack",
+      "file": "missing/T/205439-trainz-railroad-simulator-2022-chinese-electric-ss4-locomotive-pack.json"
+    },
+    {
       "igdb_id": 205368,
       "game_name": "Trainz Railroad Simulator 2022: Cilie Oldphartz Railroad",
       "file": "missing/T/205368-trainz-railroad-simulator-2022-cilie-oldphartz-railroad.json"
+    },
+    {
+      "igdb_id": 205429,
+      "game_name": "Trainz Railroad Simulator 2022: CO17-1471",
+      "file": "missing/T/205429-trainz-railroad-simulator-2022-co17-1471.json"
+    },
+    {
+      "igdb_id": 205395,
+      "game_name": "Trainz Railroad Simulator 2022: CO17-3173",
+      "file": "missing/T/205395-trainz-railroad-simulator-2022-co17-3173.json"
+    },
+    {
+      "igdb_id": 205415,
+      "game_name": "Trainz Railroad Simulator 2022: CO17-3373",
+      "file": "missing/T/205415-trainz-railroad-simulator-2022-co17-3373.json"
+    },
+    {
+      "igdb_id": 205411,
+      "game_name": "Trainz Railroad Simulator 2022: CO17-4173",
+      "file": "missing/T/205411-trainz-railroad-simulator-2022-co17-4173.json"
+    },
+    {
+      "igdb_id": 205430,
+      "game_name": "Trainz Railroad Simulator 2022: CO17-4174",
+      "file": "missing/T/205430-trainz-railroad-simulator-2022-co17-4174.json"
+    },
+    {
+      "igdb_id": 205401,
+      "game_name": "Trainz Railroad Simulator 2022: CO17-4373",
+      "file": "missing/T/205401-trainz-railroad-simulator-2022-co17-4373.json"
+    },
+    {
+      "igdb_id": 205432,
+      "game_name": "Trainz Railroad Simulator 2022: Coalmint Mountains Railroad",
+      "file": "missing/T/205432-trainz-railroad-simulator-2022-coalmint-mountains-railroad.json"
+    },
+    {
+      "igdb_id": 205404,
+      "game_name": "Trainz Railroad Simulator 2022: CONTZ Pack - Standard Edition",
+      "file": "missing/T/205404-trainz-railroad-simulator-2022-contz-pack-standard-edition.json"
     },
     {
       "igdb_id": 205339,
@@ -1093540,6 +1093650,11 @@
       "igdb_id": 276315,
       "game_name": "Trainz Railroad Simulator 2022: CSD Bap 117",
       "file": "missing/T/276315-trainz-railroad-simulator-2022-csd-bap-117.json"
+    },
+    {
+      "igdb_id": 205407,
+      "game_name": "Trainz Railroad Simulator 2022: CSX EMD SD60",
+      "file": "missing/T/205407-trainz-railroad-simulator-2022-csx-emd-sd60.json"
     },
     {
       "igdb_id": 205361,
@@ -1093557,9 +1093672,19 @@
       "file": "missing/T/205365-trainz-railroad-simulator-2022-dr-db-dbmtrue-dbmu748-pack.json"
     },
     {
+      "igdb_id": 205422,
+      "game_name": "Trainz Railroad Simulator 2022: DRG Class 05 Steam",
+      "file": "missing/T/205422-trainz-railroad-simulator-2022-drg-class-05-steam.json"
+    },
+    {
       "igdb_id": 205331,
       "game_name": "Trainz Railroad Simulator 2022: ECML Edinburgh - Dundee",
       "file": "missing/T/205331-trainz-railroad-simulator-2022-ecml-edinburgh-dundee.json"
+    },
+    {
+      "igdb_id": 205426,
+      "game_name": "Trainz Railroad Simulator 2022: ECML Kings Cross - Edinburgh 1976",
+      "file": "missing/T/205426-trainz-railroad-simulator-2022-ecml-kings-cross-edinburgh-1976.json"
     },
     {
       "igdb_id": 214678,
@@ -1093590,6 +1093715,11 @@
       "igdb_id": 219538,
       "game_name": "Trainz Railroad Simulator 2022: Industrial Mayhem",
       "file": "missing/T/219538-trainz-railroad-simulator-2022-industrial-mayhem.json"
+    },
+    {
+      "igdb_id": 205396,
+      "game_name": "Trainz Railroad Simulator 2022: ITC GP7 Phase I & II",
+      "file": "missing/T/205396-trainz-railroad-simulator-2022-itc-gp7-phase-i-and-ii.json"
     },
     {
       "igdb_id": 205348,
@@ -1093627,6 +1093757,11 @@
       "file": "missing/T/237220-trainz-railroad-simulator-2022-midwestern-rails.json"
     },
     {
+      "igdb_id": 205438,
+      "game_name": "Trainz Railroad Simulator 2022: Model Trainz - New South Wales Region",
+      "file": "missing/T/205438-trainz-railroad-simulator-2022-model-trainz-new-south-wales-region.json"
+    },
+    {
       "igdb_id": 262335,
       "game_name": "Trainz Railroad Simulator 2022: Model Trainz - UZ-Gbox",
       "file": "missing/T/262335-trainz-railroad-simulator-2022-model-trainz-uz-gbox.json"
@@ -1093652,6 +1093787,11 @@
       "file": "missing/T/284917-trainz-railroad-simulator-2022-nr-class-locomotive-jbr-indian-pacific-pack.json"
     },
     {
+      "igdb_id": 205417,
+      "game_name": "Trainz Railroad Simulator 2022: NS SD60E - 6920 Veterans Unit",
+      "file": "missing/T/205417-trainz-railroad-simulator-2022-ns-sd60e-6920-veterans-unit.json"
+    },
+    {
       "igdb_id": 205363,
       "game_name": "Trainz Railroad Simulator 2022: NS SD60E - 6963 GoRail",
       "file": "missing/T/205363-trainz-railroad-simulator-2022-ns-sd60e-6963-gorail.json"
@@ -1093665,6 +1093805,16 @@
       "igdb_id": 205364,
       "game_name": "Trainz Railroad Simulator 2022: Orient Express Trainset",
       "file": "missing/T/205364-trainz-railroad-simulator-2022-orient-express-trainset.json"
+    },
+    {
+      "igdb_id": 205425,
+      "game_name": "Trainz Railroad Simulator 2022: PKP/PREG Bdhpumn/B16mnopux Pack",
+      "file": "missing/T/205425-trainz-railroad-simulator-2022-pkp-preg-bdhpumn-b16mnopux-pack.json"
+    },
+    {
+      "igdb_id": 205406,
+      "game_name": "Trainz Railroad Simulator 2022: PKP/PREG/PolRegio Bdhpumn/B16mnopux Pack",
+      "file": "missing/T/205406-trainz-railroad-simulator-2022-pkp-preg-polregio-bdhpumn-b16mnopux-pack.json"
     },
     {
       "igdb_id": 288211,
@@ -1093682,14 +1093832,49 @@
       "file": "missing/T/205040-trainz-railroad-simulator-2022-potteries-loop-line.json"
     },
     {
+      "igdb_id": 205420,
+      "game_name": "Trainz Railroad Simulator 2022: PREG B16mnopux 039",
+      "file": "missing/T/205420-trainz-railroad-simulator-2022-preg-b16mnopux-039.json"
+    },
+    {
       "igdb_id": 205369,
       "game_name": "Trainz Railroad Simulator 2022: PREG B16mnopux 064",
       "file": "missing/T/205369-trainz-railroad-simulator-2022-preg-b16mnopux-064.json"
     },
     {
+      "igdb_id": 205419,
+      "game_name": "Trainz Railroad Simulator 2022: PREG B16mnopux 066",
+      "file": "missing/T/205419-trainz-railroad-simulator-2022-preg-b16mnopux-066.json"
+    },
+    {
+      "igdb_id": 205413,
+      "game_name": "Trainz Railroad Simulator 2022: PREG B16mnopux 087",
+      "file": "missing/T/205413-trainz-railroad-simulator-2022-preg-b16mnopux-087.json"
+    },
+    {
+      "igdb_id": 205440,
+      "game_name": "Trainz Railroad Simulator 2022: PREG B16mnopux 106",
+      "file": "missing/T/205440-trainz-railroad-simulator-2022-preg-b16mnopux-106.json"
+    },
+    {
+      "igdb_id": 205421,
+      "game_name": "Trainz Railroad Simulator 2022: PREG Bmnopux 003",
+      "file": "missing/T/205421-trainz-railroad-simulator-2022-preg-bmnopux-003.json"
+    },
+    {
+      "igdb_id": 205400,
+      "game_name": "Trainz Railroad Simulator 2022: Pro Train - Class 68 Chiltern Railways",
+      "file": "missing/T/205400-trainz-railroad-simulator-2022-pro-train-class-68-chiltern-railways.json"
+    },
+    {
       "igdb_id": 208340,
       "game_name": "Trainz Railroad Simulator 2022: Pro Train - Class 68 ScotRail",
       "file": "missing/T/208340-trainz-railroad-simulator-2022-pro-train-class-68-scotrail.json"
+    },
+    {
+      "igdb_id": 205410,
+      "game_name": "Trainz Railroad Simulator 2022: Pro Train - Class 68 TPN TRS",
+      "file": "missing/T/205410-trainz-railroad-simulator-2022-pro-train-class-68-tpn-trs.json"
     },
     {
       "igdb_id": 227275,
@@ -1093737,6 +1093922,16 @@
       "file": "missing/T/393725-trainz-railroad-simulator-2022-pro-train-csx-loco-bundle-1.json"
     },
     {
+      "igdb_id": 205435,
+      "game_name": "Trainz Railroad Simulator 2022: Pro Trainz TEE Rheingold",
+      "file": "missing/T/205435-trainz-railroad-simulator-2022-pro-trainz-tee-rheingold.json"
+    },
+    {
+      "igdb_id": 205409,
+      "game_name": "Trainz Railroad Simulator 2022: PRR GP9",
+      "file": "missing/T/205409-trainz-railroad-simulator-2022-prr-gp9.json"
+    },
+    {
       "igdb_id": 205355,
       "game_name": "Trainz Railroad Simulator 2022: PRR T1",
       "file": "missing/T/205355-trainz-railroad-simulator-2022-prr-t1.json"
@@ -1093752,6 +1093947,21 @@
       "file": "missing/T/233360-trainz-railroad-simulator-2022-qube-ge-c44aci-pack.json"
     },
     {
+      "igdb_id": 205416,
+      "game_name": "Trainz Railroad Simulator 2022: Rheingold 1962",
+      "file": "missing/T/205416-trainz-railroad-simulator-2022-rheingold-1962.json"
+    },
+    {
+      "igdb_id": 205436,
+      "game_name": "Trainz Railroad Simulator 2022: Route - Beavermouth to Ottertail",
+      "file": "missing/T/205436-trainz-railroad-simulator-2022-route-beavermouth-to-ottertail.json"
+    },
+    {
+      "igdb_id": 205427,
+      "game_name": "Trainz Railroad Simulator 2022: Route - Belarusian Woodland",
+      "file": "missing/T/205427-trainz-railroad-simulator-2022-route-belarusian-woodland.json"
+    },
+    {
       "igdb_id": 205378,
       "game_name": "Trainz Railroad Simulator 2022: Route - Tidewater Point Railroad 2.0",
       "file": "missing/T/205378-trainz-railroad-simulator-2022-route-tidewater-point-railroad-2-0.json"
@@ -1093760,6 +1093970,11 @@
       "igdb_id": 205367,
       "game_name": "Trainz Railroad Simulator 2022: RZD-UZ-RIC Wagons",
       "file": "missing/T/205367-trainz-railroad-simulator-2022-rzd-uz-ric-wagons.json"
+    },
+    {
+      "igdb_id": 205442,
+      "game_name": "Trainz Railroad Simulator 2022: RZD-UZ-RIC Wagons Praha",
+      "file": "missing/T/205442-trainz-railroad-simulator-2022-rzd-uz-ric-wagons-praha.json"
     },
     {
       "igdb_id": 296253,
@@ -1093775,6 +1093990,16 @@
       "igdb_id": 205346,
       "game_name": "Trainz Railroad Simulator 2022: Settle and Carlisle",
       "file": "missing/T/205346-trainz-railroad-simulator-2022-settle-and-carlisle.json"
+    },
+    {
+      "igdb_id": 205431,
+      "game_name": "Trainz Railroad Simulator 2022: Shortline Railroad",
+      "file": "missing/T/205431-trainz-railroad-simulator-2022-shortline-railroad.json"
+    },
+    {
+      "igdb_id": 205412,
+      "game_name": "Trainz Railroad Simulator 2022: SNCF - AGC Languedoc",
+      "file": "missing/T/205412-trainz-railroad-simulator-2022-sncf-agc-languedoc.json"
     },
     {
       "igdb_id": 205357,
@@ -1093832,6 +1094057,11 @@
       "file": "missing/T/205358-trainz-railroad-simulator-2022-tnfrhs-refrigerator-wagon.json"
     },
     {
+      "igdb_id": 205433,
+      "game_name": "Trainz Railroad Simulator 2022: Union Pacific GE C40-8",
+      "file": "missing/T/205433-trainz-railroad-simulator-2022-union-pacific-ge-c40-8.json"
+    },
+    {
       "igdb_id": 205335,
       "game_name": "Trainz Railroad Simulator 2022: US ATC Class S 160 Steam",
       "file": "missing/T/205335-trainz-railroad-simulator-2022-us-atc-class-s-160-steam.json"
@@ -1093842,6 +1094072,21 @@
       "file": "missing/T/227131-trainz-railroad-simulator-2022-usa-route-forest-industry.json"
     },
     {
+      "igdb_id": 205402,
+      "game_name": "Trainz Railroad Simulator 2022: Victorian Railways Type 4 DD Class Pack - Canadian Red",
+      "file": "missing/T/205402-trainz-railroad-simulator-2022-victorian-railways-type-4-dd-class-pack-canadian-red.json"
+    },
+    {
+      "igdb_id": 205408,
+      "game_name": "Trainz Railroad Simulator 2022: Victorian Railways V class FL Black",
+      "file": "missing/T/205408-trainz-railroad-simulator-2022-victorian-railways-v-class-fl-black.json"
+    },
+    {
+      "igdb_id": 205397,
+      "game_name": "Trainz Railroad Simulator 2022: Victorian Railways V499 - Baldwin Built",
+      "file": "missing/T/205397-trainz-railroad-simulator-2022-victorian-railways-v499-baldwin-built.json"
+    },
+    {
       "igdb_id": 205330,
       "game_name": "Trainz Railroad Simulator 2022: VR Healesville 1913-1920 TRS19",
       "file": "missing/T/205330-trainz-railroad-simulator-2022-vr-healesville-1913-1920-trs19.json"
@@ -1093850,6 +1094095,11 @@
       "igdb_id": 205353,
       "game_name": "Trainz Railroad Simulator 2022: VR M Class 4-4-0 - Early 2 Tone Green",
       "file": "missing/T/205353-trainz-railroad-simulator-2022-vr-m-class-4-4-0-early-2-tone-green.json"
+    },
+    {
+      "igdb_id": 205424,
+      "game_name": "Trainz Railroad Simulator 2022: ZecRail 2017 Christmas Train",
+      "file": "missing/T/205424-trainz-railroad-simulator-2022-zecrail-2017-christmas-train.json"
     },
     {
       "igdb_id": 205329,
