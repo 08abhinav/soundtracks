@@ -6958,6 +6958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Rush Z | 299408 | [299408-merge-rush-z.json](./299408-merge-rush-z.json) |
 | Merge Studio: Fashion Makeover | 315111 | [315111-merge-studio-fashion-makeover.json](./315111-merge-studio-fashion-makeover.json) |
 | Merge Surge | 392426 | [392426-merge-surge.json](./392426-merge-surge.json) |
+| Merge Survival: Wasteland | 250175 | [250175-merge-survival-wasteland.json](./250175-merge-survival-wasteland.json) |
 | Merge Tales | 240861 | [240861-merge-tales.json](./240861-merge-tales.json) |
 | Merge Together | 323340 | [323340-merge-together.json](./323340-merge-together.json) |
 | Merge Towers | 127775 | [127775-merge-towers.json](./127775-merge-towers.json) |
