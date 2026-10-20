@@ -1494,6 +1494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Odyssey | 414550 | [414550-tank-odyssey.json](./414550-tank-odyssey.json) |
 | Tank Off | 137554 | [137554-tank-off.json](./137554-tank-off.json) |
 | Tank on Tank Digital: Bundle West - East Front | 53720 | [53720-tank-on-tank-digital-bundle-west-east-front.json](./53720-tank-on-tank-digital-bundle-west-east-front.json) |
+| Tank Online: War Shooting Simulator | 240094 | [240094-tank-online-war-shooting-simulator.json](./240094-tank-online-war-shooting-simulator.json) |
 | Tank Onslaught | 147811 | [147811-tank-onslaught.json](./147811-tank-onslaught.json) |
 | Tank Operations: Diary of the War | 342845 | [342845-tank-operations-diary-of-the-war.json](./342845-tank-operations-diary-of-the-war.json) |
 | Tank POV | 402526 | [402526-tank-pov.json](./402526-tank-pov.json) |
@@ -4206,6 +4207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Liam | 264605 | [264605-the-adventures-of-liam.json](./264605-the-adventures-of-liam.json) |
 | The Adventures of Lily & Leo | 298638 | [298638-the-adventures-of-lily-and-leo.json](./298638-the-adventures-of-lily-and-leo.json) |
 | The Adventures of LinShanHai | 234311 | [234311-the-adventures-of-linshanhai.json](./234311-the-adventures-of-linshanhai.json) |
+| The Adventures of LinShanHai: Chapter 2 - Bus Bombing | 240048 | [240048-the-adventures-of-linshanhai-chapter-2-bus-bombing.json](./240048-the-adventures-of-linshanhai-chapter-2-bus-bombing.json) |
 | The Adventures of LinShanHai: Chapter 4 - Vanishing Masterpiece | 247320 | [247320-the-adventures-of-linshanhai-chapter-4-vanishing-masterpiece.json](./247320-the-adventures-of-linshanhai-chapter-4-vanishing-masterpiece.json) |
 | The Adventures of LinShanHai: Chapter 5 - Three Trees | 368020 | [368020-the-adventures-of-linshanhai-chapter-5-three-trees.json](./368020-the-adventures-of-linshanhai-chapter-5-three-trees.json) |
 | The Adventures of LinShanHai: Chapter3 - The Headless Woman | 243154 | [243154-the-adventures-of-linshanhai-chapter3-the-headless-woman.json](./243154-the-adventures-of-linshanhai-chapter3-the-headless-woman.json) |
@@ -4573,6 +4575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Awesome Adventures of Victor Vector & Yondo: The Last Dinosaur Egg | 73364 | [73364-the-awesome-adventures-of-victor-vector-and-yondo-the-last-dinosaur-egg.json](./73364-the-awesome-adventures-of-victor-vector-and-yondo-the-last-dinosaur-egg.json) |
 | The Axis Unseen | 217404 | [217404-the-axis-unseen.json](./217404-the-axis-unseen.json) |
 | The Axolotl Project | 60022 | [60022-the-axolotl-project.json](./60022-the-axolotl-project.json) |
+| The Azmodeus Project | 240096 | [240096-the-azmodeus-project.json](./240096-the-azmodeus-project.json) |
 | The Aztec Ruins | 308328 | [308328-the-aztec-ruins.json](./308328-the-aztec-ruins.json) |
 | The Azure One | 402373 | [402373-the-azure-one.json](./402373-the-azure-one.json) |
 | The B.L.O.O.M Initiative | 368371 | [368371-the-b-l-o-o-m-initiative.json](./368371-the-b-l-o-o-m-initiative.json) |
@@ -17419,6 +17422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timruk | 191816 | [191816-timruk.json](./191816-timruk.json) |
 | Tims Word Challenge | 406241 | [406241-tims-word-challenge.json](./406241-tims-word-challenge.json) |
 | Tin Can: Original Tracks | 293774 | [293774-tin-can-original-tracks.json](./293774-tin-can-original-tracks.json) |
+| Tin Knight | 240093 | [240093-tin-knight.json](./240093-tin-knight.json) |
 | Tin Soldiers: Alexander the Great | 72757 | [72757-tin-soldiers-alexander-the-great.json](./72757-tin-soldiers-alexander-the-great.json) |
 | Tin Soldiers: Julius Caesar | 72758 | [72758-tin-soldiers-julius-caesar.json](./72758-tin-soldiers-julius-caesar.json) |
 | Tin Star | 104677 | [104677-tin-star.json](./104677-tin-star.json) |
@@ -18085,6 +18089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Rescue! 3 | 96038 | [96038-to-the-rescue-3.json](./96038-to-the-rescue-3.json) |
 | To the Rescue! 4 | 95684 | [95684-to-the-rescue-4.json](./95684-to-the-rescue-4.json) |
 | To the Rescue! 5 | 87221 | [87221-to-the-rescue-5.json](./87221-to-the-rescue-5.json) |
+| To The Rescue!: Deluxe Edition | 240054 | [240054-to-the-rescue-deluxe-edition.json](./240054-to-the-rescue-deluxe-edition.json) |
 | To the Snowland | 167372 | [167372-to-the-snowland.json](./167372-to-the-snowland.json) |
 | To the Stars | 211235 | [211235-to-the-stars.json](./211235-to-the-stars.json) |
 | To the Stars | 336917 | [336917-to-the-stars.json](./336917-to-the-stars.json) |
