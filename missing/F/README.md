@@ -2279,6 +2279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Travel: Loot Delivery Service | 117050 | [117050-fast-travel-loot-delivery-service.json](./117050-fast-travel-loot-delivery-service.json) |
 | Fast Typing Master | 161614 | [161614-fast-typing-master.json](./161614-fast-typing-master.json) |
 | Fast Wings | 156060 | [156060-fast-wings.json](./156060-fast-wings.json) |
+| Fast-Ball | 211576 | [211576-fast-ball.json](./211576-fast-ball.json) |
 | Fast:Run | 320392 | [320392-fast-run.json](./320392-fast-run.json) |
 | Fastar: Fantasy Fairy Story | 233468 | [233468-fastar-fantasy-fairy-story.json](./233468-fastar-fantasy-fairy-story.json) |
 | FastBall 2 | 257370 | [257370-fastball-2.json](./257370-fastball-2.json) |
@@ -3986,6 +3987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Forge | 244296 | [244296-final-forge.json](./244296-final-forge.json) |
 | Final Frame | 133159 | [133159-final-frame.json](./133159-final-frame.json) |
 | Final Freeway | 257369 | [257369-final-freeway.json](./257369-final-freeway.json) |
+| Final Fright | 211592 | [211592-final-fright.json](./211592-final-fright.json) |
 | Final Frog | 301399 | [301399-final-frog.json](./301399-final-frog.json) |
 | Final Front: Enobetta | 174690 | [174690-final-front-enobetta.json](./174690-final-front-enobetta.json) |
 | Final Frontier Story | 360084 | [360084-final-frontier-story.json](./360084-final-frontier-story.json) |
@@ -4067,6 +4069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Theosis | 29882 | [29882-final-theosis.json](./29882-final-theosis.json) |
 | Final Three Kingdoms 2 | 242236 | [242236-final-three-kingdoms-2.json](./242236-final-three-kingdoms-2.json) |
 | Final Upgrade | 132584 | [132584-final-upgrade.json](./132584-final-upgrade.json) |
+| Final Vanguard | 211580 | [211580-final-vanguard.json](./211580-final-vanguard.json) |
 | Final Vendetta | 191756 | [191756-final-vendetta.json](./191756-final-vendetta.json) |
 | Final Vendetta: Super Limited Edition | 198129 | [198129-final-vendetta-super-limited-edition.json](./198129-final-vendetta-super-limited-edition.json) |
 | Final War | 368510 | [368510-final-war.json](./368510-final-war.json) |
@@ -7581,6 +7584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forlorn Memories | 214761 | [214761-forlorn-memories.json](./214761-forlorn-memories.json) |
 | Forlorn Outcast | 260226 | [260226-forlorn-outcast.json](./260226-forlorn-outcast.json) |
 | Forlorn Screams of Agony Echoing Forevermore | 374233 | [374233-forlorn-screams-of-agony-echoing-forevermore.json](./374233-forlorn-screams-of-agony-echoing-forevermore.json) |
+| Forlorn: The mysteries of Highshadowland | 211605 | [211605-forlorn-the-mysteries-of-highshadowland.json](./211605-forlorn-the-mysteries-of-highshadowland.json) |
 | Form | 187761 | [187761-form.json](./187761-form.json) |
 | Form | 28446 | [28446-form.json](./28446-form.json) |
 | Form / Twilight Path | 142779 | [142779-form-twilight-path.json](./142779-form-twilight-path.json) |
