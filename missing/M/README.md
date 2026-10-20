@@ -15471,6 +15471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Pony: Grand Puzzleventure | 220097 | [220097-my-little-pony-grand-puzzleventure.json](./220097-my-little-pony-grand-puzzleventure.json) |
 | My Little Pony: Harmony Quest | 138462 | [138462-my-little-pony-harmony-quest.json](./138462-my-little-pony-harmony-quest.json) |
 | My Little Pony: Magic Garden | 282122 | [282122-my-little-pony-magic-garden.json](./282122-my-little-pony-magic-garden.json) |
+| My Little Pony: Mane Merge | 242387 | [242387-my-little-pony-mane-merge.json](./242387-my-little-pony-mane-merge.json) |
 | My Little Pony: Pinkie Pie's Party Parade | 76474 | [76474-my-little-pony-pinkie-pies-party-parade.json](./76474-my-little-pony-pinkie-pies-party-parade.json) |
 | My Little Pony: Pocket Ponies | 138461 | [138461-my-little-pony-pocket-ponies.json](./138461-my-little-pony-pocket-ponies.json) |
 | My Little Pony: Puzzle Party | 70864 | [70864-my-little-pony-puzzle-party.json](./70864-my-little-pony-puzzle-party.json) |
