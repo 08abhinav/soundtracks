@@ -112,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R3: The Art of Rocketry | 231834 | [231834-r3-the-art-of-rocketry.json](./231834-r3-the-art-of-rocketry.json) |
 | R3wind | 183395 | [183395-r3wind.json](./183395-r3wind.json) |
 | R4: Ridge Racer Type 4 | 18699 | [18699-r4-ridge-racer-type-4.json](./18699-r4-ridge-racer-type-4.json) |
+| R4: Ridge Racer Type 4 | 242360 | [242360-r4-ridge-racer-type-4.json](./242360-r4-ridge-racer-type-4.json) |
 | R42 | 130900 | [130900-r42.json](./130900-r42.json) |
 | R4YL: Run for your life! | 253879 | [253879-r4yl-run-for-your-life.json](./253879-r4yl-run-for-your-life.json) |
 | R5Reloaded | 229750 | [229750-r5reloaded.json](./229750-r5reloaded.json) |
