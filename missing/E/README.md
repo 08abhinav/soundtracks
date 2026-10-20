@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defense Force: World Brothers - Additional Mission Pack: Another Rescube | 168237 | [168237-earth-defense-force-world-brothers-additional-mission-pack-another-rescube.json](./168237-earth-defense-force-world-brothers-additional-mission-pack-another-rescube.json) |
 | Earth Defense Force: World Brothers - Aya, the Calm Big Sister Swordswoman from "OneeChanbara" | 168225 | [168225-earth-defense-force-world-brothers-aya-the-calm-big-sister-swordswoman-from-oneechanbara.json](./168225-earth-defense-force-world-brothers-aya-the-calm-big-sister-swordswoman-from-oneechanbara.json) |
 | Earth Defense Force: World Brothers - Colonist: "We'll Help, If It Means Saving the Planet"!? | 168229 | [168229-earth-defense-force-world-brothers-colonist-well-help-if-it-means-saving-the-planet.json](./168229-earth-defense-force-world-brothers-colonist-well-help-if-it-means-saving-the-planet.json) |
+| Earth Defense Force: World Brothers - Cosmonaut: We'll Take the Planet as is! | 238322 | [238322-earth-defense-force-world-brothers-cosmonaut-well-take-the-planet-as-is.json](./238322-earth-defense-force-world-brothers-cosmonaut-well-take-the-planet-as-is.json) |
 | Earth Defense Force: World Brothers - Deluxe Edition | 222503 | [222503-earth-defense-force-world-brothers-deluxe-edition.json](./222503-earth-defense-force-world-brothers-deluxe-edition.json) |
 | Earth Defense Force: World Brothers - Hostess ILI from Dream Club, Giving the EDF a Try!? | 168234 | [168234-earth-defense-force-world-brothers-hostess-ili-from-dream-club-giving-the-edf-a-try.json](./168234-earth-defense-force-world-brothers-hostess-ili-from-dream-club-giving-the-edf-a-try.json) |
 | Earth Defense Force: World Brothers - Hostess Mian from Dream Club, Giving the EDF a Try!? | 168231 | [168231-earth-defense-force-world-brothers-hostess-mian-from-dream-club-giving-the-edf-a-try.json](./168231-earth-defense-force-world-brothers-hostess-mian-from-dream-club-giving-the-edf-a-try.json) |
@@ -329,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthbreakers | 126458 | [126458-earthbreakers.json](./126458-earthbreakers.json) |
 | EarthCraft 2: World Exploration & Survival | 99705 | [99705-earthcraft-2-world-exploration-and-survival.json](./99705-earthcraft-2-world-exploration-and-survival.json) |
 | Earthfall: Alien Horde | 122651 | [122651-earthfall-alien-horde.json](./122651-earthfall-alien-horde.json) |
+| Earthfall: Alien Horde Deluxe | 238334 | [238334-earthfall-alien-horde-deluxe.json](./238334-earthfall-alien-horde-deluxe.json) |
 | Earthfall: Deluxe Edition | 136297 | [136297-earthfall-deluxe-edition.json](./136297-earthfall-deluxe-edition.json) |
 | Earthflow: Fate of the Stargazer | 52205 | [52205-earthflow-fate-of-the-stargazer.json](./52205-earthflow-fate-of-the-stargazer.json) |
 | EarthGang: Mirrorland | 234503 | [234503-earthgang-mirrorland.json](./234503-earthgang-mirrorland.json) |
