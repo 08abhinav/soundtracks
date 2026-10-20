@@ -653,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off the Shelf! | 339649 | [339649-off-the-shelf.json](./339649-off-the-shelf.json) |
 | Off the Table | 174327 | [174327-off-the-table.json](./174327-off-the-table.json) |
 | Off the Text | 372680 | [372680-off-the-text.json](./372680-off-the-text.json) |
+| Off the Tracks | 236120 | [236120-off-the-tracks.json](./236120-off-the-tracks.json) |
 | Off the Wall | 12894 | [12894-off-the-wall.json](./12894-off-the-wall.json) |
 | Off the Wall | 282504 | [282504-off-the-wall.json](./282504-off-the-wall.json) |
 | Off the Wall | 282505 | [282505-off-the-wall.json](./282505-off-the-wall.json) |
@@ -3907,6 +3908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outer Zone | 350505 | [350505-outer-zone.json](./350505-outer-zone.json) |
 | Outer-Rim Pod Digger | 66058 | [66058-outer-rim-pod-digger.json](./66058-outer-rim-pod-digger.json) |
 | Outergalactic Aliens Pinball | 173237 | [173237-outergalactic-aliens-pinball.json](./173237-outergalactic-aliens-pinball.json) |
+| Outerlands Guilds | 236140 | [236140-outerlands-guilds.json](./236140-outerlands-guilds.json) |
 | Outerplane | 188368 | [188368-outerplane.json](./188368-outerplane.json) |
 | OuterRealm | 285888 | [285888-outerrealm.json](./285888-outerrealm.json) |
 | Outerstellar | 258630 | [258630-outerstellar.json](./258630-outerstellar.json) |
