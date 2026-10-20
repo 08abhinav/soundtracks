@@ -1003,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FallMan | 60560 | [60560-fallman.json](./60560-fallman.json) |
 | FallNation | 217213 | [217213-fallnation.json](./217213-fallnation.json) |
 | FallNation Lost Stories | 294941 | [294941-fallnation-lost-stories.json](./294941-fallnation-lost-stories.json) |
+| Fallout 1.5: Resurrection | 237828 | [237828-fallout-1-5-resurrection.json](./237828-fallout-1-5-resurrection.json) |
 | Fallout 2 Restoration Project Updated | 416640 | [416640-fallout-2-restoration-project-updated.json](./416640-fallout-2-restoration-project-updated.json) |
 | Fallout 3: Broken Steel and Point Lookout | 202169 | [202169-fallout-3-broken-steel-and-point-lookout.json](./202169-fallout-3-broken-steel-and-point-lookout.json) |
 | Fallout 3: Game of the Year Edition | 21892 | [21892-fallout-3-game-of-the-year-edition.json](./21892-fallout-3-game-of-the-year-edition.json) |
@@ -1064,6 +1065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout: Bakersfield | 356437 | [356437-fallout-bakersfield.json](./356437-fallout-bakersfield.json) |
 | Fallout: Dust | 243647 | [243647-fallout-dust.json](./243647-fallout-dust.json) |
 | Fallout: Empire Wastes | 322274 | [322274-fallout-empire-wastes.json](./322274-fallout-empire-wastes.json) |
+| Fallout: Nevada | 237830 | [237830-fallout-nevada.json](./237830-fallout-nevada.json) |
 | Fallout: New Vegas - Collector's Edition | 45129 | [45129-fallout-new-vegas-collectors-edition.json](./45129-fallout-new-vegas-collectors-edition.json) |
 | Fallout: New Vegas - Courier's Stash | 45127 | [45127-fallout-new-vegas-couriers-stash.json](./45127-fallout-new-vegas-couriers-stash.json) |
 | Fallout: New Vegas - Dead Money | 10304 | [10304-fallout-new-vegas-dead-money.json](./10304-fallout-new-vegas-dead-money.json) |
@@ -1071,6 +1073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout: New Vegas - Old World Blues | 10306 | [10306-fallout-new-vegas-old-world-blues.json](./10306-fallout-new-vegas-old-world-blues.json) |
 | Fallout: New Vegas - Ultimate Edition | 25532 | [25532-fallout-new-vegas-ultimate-edition.json](./25532-fallout-new-vegas-ultimate-edition.json) |
 | Fallout: New Vegas Remaster | 410463 | [410463-fallout-new-vegas-remaster.json](./410463-fallout-new-vegas-remaster.json) |
+| Fallout: Sonora | 237831 | [237831-fallout-sonora.json](./237831-fallout-sonora.json) |
 | Fallout: Sonora Dayglow | 333655 | [333655-fallout-sonora-dayglow.json](./333655-fallout-sonora-dayglow.json) |
 | Fallout: The Frontier | 25878 | [25878-fallout-the-frontier.json](./25878-fallout-the-frontier.json) |
 | Fallout: Yesterday | 290277 | [290277-fallout-yesterday.json](./290277-fallout-yesterday.json) |
@@ -1522,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Jigsaw Puzzles | 231992 | [231992-fantasy-jigsaw-puzzles.json](./231992-fantasy-jigsaw-puzzles.json) |
 | Fantasy Jigsaw Puzzles: Dragons | 236825 | [236825-fantasy-jigsaw-puzzles-dragons.json](./236825-fantasy-jigsaw-puzzles-dragons.json) |
 | Fantasy Jigsaw Puzzles: Dwarves | 235467 | [235467-fantasy-jigsaw-puzzles-dwarves.json](./235467-fantasy-jigsaw-puzzles-dwarves.json) |
+| Fantasy Jigsaw Puzzles: Forests | 237812 | [237812-fantasy-jigsaw-puzzles-forests.json](./237812-fantasy-jigsaw-puzzles-forests.json) |
 | Fantasy Jigsaw Puzzles: High Seas | 244172 | [244172-fantasy-jigsaw-puzzles-high-seas.json](./244172-fantasy-jigsaw-puzzles-high-seas.json) |
 | Fantasy Jigsaw Puzzles: Lost Empires | 296423 | [296423-fantasy-jigsaw-puzzles-lost-empires.json](./296423-fantasy-jigsaw-puzzles-lost-empires.json) |
 | Fantasy Jigsaw Puzzles: Magic | 231869 | [231869-fantasy-jigsaw-puzzles-magic.json](./231869-fantasy-jigsaw-puzzles-magic.json) |
