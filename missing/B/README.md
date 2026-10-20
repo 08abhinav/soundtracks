@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badass | 29536 | [29536-badass.json](./29536-badass.json) |
 | Badass Brigade | 376209 | [376209-badass-brigade.json](./376209-badass-brigade.json) |
 | Badass Inc. | 133271 | [133271-badass-inc.json](./133271-badass-inc.json) |
+| Badass Tennis | 214968 | [214968-badass-tennis.json](./214968-badass-tennis.json) |
 | Badd Bunny Breakout | 410068 | [410068-badd-bunny-breakout.json](./410068-badd-bunny-breakout.json) |
 | BadDool | 279899 | [279899-baddool.json](./279899-baddool.json) |
 | Baderna: Um Conto de Barro | 283974 | [283974-baderna-um-conto-de-barro.json](./283974-baderna-um-conto-de-barro.json) |
@@ -4728,6 +4729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Below the Surface: Uncovering the Truth in the Sewers | 372074 | [372074-below-the-surface-uncovering-the-truth-in-the-sewers.json](./372074-below-the-surface-uncovering-the-truth-in-the-sewers.json) |
 | Below Zero: Prologue | 317326 | [317326-below-zero-prologue.json](./317326-below-zero-prologue.json) |
 | Below, Rusted Gods | 304148 | [304148-below-rusted-gods.json](./304148-below-rusted-gods.json) |
+| Belt Colony | 214951 | [214951-belt-colony.json](./214951-belt-colony.json) |
 | Beltlife: Prospector | 391084 | [391084-beltlife-prospector.json](./391084-beltlife-prospector.json) |
 | Beltmatic | 281960 | [281960-beltmatic.json](./281960-beltmatic.json) |
 | Belts of Iron | 374243 | [374243-belts-of-iron.json](./374243-belts-of-iron.json) |
@@ -6961,6 +6963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Stallion Cabaret | 208575 | [208575-black-stallion-cabaret.json](./208575-black-stallion-cabaret.json) |
 | Black Star | 319571 | [319571-black-star.json](./319571-black-star.json) |
 | Black State | 308029 | [308029-black-state.json](./308029-black-state.json) |
+| Black Stigma | 214971 | [214971-black-stigma.json](./214971-black-stigma.json) |
 | Black stone | 284000 | [284000-black-stone.json](./284000-black-stone.json) |
 | Black Stone | 283059 | [283059-black-stone.json](./283059-black-stone.json) |
 | Black Stone: Magic & Steel | 5750 | [5750-black-stone-magic-and-steel.json](./5750-black-stone-magic-and-steel.json) |
