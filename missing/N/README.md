@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Heat Evolution: Toyota Challenge Pack 4 | 156195 | [156195-nascar-heat-evolution-toyota-challenge-pack-4.json](./156195-nascar-heat-evolution-toyota-challenge-pack-4.json) |
 | NASCAR Kart Racing | 5053 | [5053-nascar-kart-racing.json](./5053-nascar-kart-racing.json) |
 | NASCAR Manager | 233912 | [233912-nascar-manager.json](./233912-nascar-manager.json) |
+| Nascar Racers | 217748 | [217748-nascar-racers.json](./217748-nascar-racers.json) |
 | NASCAR Racers | 26815 | [26815-nascar-racers.json](./26815-nascar-racers.json) |
 | NASCAR Racers | 370458 | [370458-nascar-racers.json](./370458-nascar-racers.json) |
 | Nascar Racing | 199011 | [199011-nascar-racing.json](./199011-nascar-racing.json) |
@@ -1036,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Elite 11 | 52625 | [52625-nba-elite-11.json](./52625-nba-elite-11.json) |
 | NBA Fastbreak '98 | 43780 | [43780-nba-fastbreak-98.json](./43780-nba-fastbreak-98.json) |
 | NBA Give 'n Go | 42482 | [42482-nba-give-n-go.json](./42482-nba-give-n-go.json) |
+| NBA Hangtime | 217716 | [217716-nba-hangtime.json](./217716-nba-hangtime.json) |
 | NBA Hangtime | 3550 | [3550-nba-hangtime.json](./3550-nba-hangtime.json) |
 | NBA Hoopz | 10634 | [10634-nba-hoopz.json](./10634-nba-hoopz.json) |
 | NBA in the Zone | 20639 | [20639-nba-in-the-zone.json](./20639-nba-in-the-zone.json) |
@@ -1086,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Live 21 | 125191 | [125191-nba-live-21.json](./125191-nba-live-21.json) |
 | NBA Live 95 | 37285 | [37285-nba-live-95.json](./37285-nba-live-95.json) |
 | NBA Live 96 | 809 | [809-nba-live-96.json](./809-nba-live-96.json) |
+| NBA Live 98 | 217742 | [217742-nba-live-98.json](./217742-nba-live-98.json) |
 | NBA Live 99 | 811 | [811-nba-live-99.json](./811-nba-live-99.json) |
 | NBA Live Mobile | 36874 | [36874-nba-live-mobile.json](./36874-nba-live-mobile.json) |
 | NBA Maximum Hangtime | 39596 | [39596-nba-maximum-hangtime.json](./39596-nba-maximum-hangtime.json) |
