@@ -381,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Doomed | 252366 | [252366-half-doomed.json](./252366-half-doomed.json) |
 | Half-Earth Socialism | 208329 | [208329-half-earth-socialism.json](./208329-half-earth-socialism.json) |
 | Half-Inch Heist | 63919 | [63919-half-inch-heist.json](./63919-half-inch-heist.json) |
+| Half-Life | 228891 | [228891-half-life.json](./228891-half-life.json) |
 | Half-Life | 401474 | [401474-half-life.json](./401474-half-life.json) |
 | Half-Life 1 Anthology | 400309 | [400309-half-life-1-anthology.json](./400309-half-life-1-anthology.json) |
 | Half-Life 2 Classic | 128657 | [128657-half-life-2-classic.json](./128657-half-life-2-classic.json) |
@@ -658,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo Beats! | 129018 | [129018-halo-beats.json](./129018-halo-beats.json) |
 | Halo CE+ | 276775 | [276775-halo-ce.json](./276775-halo-ce.json) |
 | Halo Chaotic Edition | 271760 | [271760-halo-chaotic-edition.json](./271760-halo-chaotic-edition.json) |
+| Halo DS | 228921 | [228921-halo-ds.json](./228921-halo-ds.json) |
 | Halo Infinite: Operation - Champions | 335851 | [335851-halo-infinite-operation-champions.json](./335851-halo-infinite-operation-champions.json) |
 | Halo Infinite: Operation - Forerunner | 339393 | [339393-halo-infinite-operation-forerunner.json](./339393-halo-infinite-operation-forerunner.json) |
 | Halo Infinite: Operation - Great Journey | 335849 | [335849-halo-infinite-operation-great-journey.json](./335849-halo-infinite-operation-great-journey.json) |
@@ -839,6 +841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Playground: Fun & Challenge Games Pack | 332019 | [332019-hamster-playground-fun-and-challenge-games-pack.json](./332019-hamster-playground-fun-and-challenge-games-pack.json) |
 | Hamster Playground: Spooky Hamster House | 226708 | [226708-hamster-playground-spooky-hamster-house.json](./226708-hamster-playground-spooky-hamster-house.json) |
 | Hamster Scramble | 125655 | [125655-hamster-scramble.json](./125655-hamster-scramble.json) |
+| Hamster Survival | 228898 | [228898-hamster-survival.json](./228898-hamster-survival.json) |
 | Hamster Town | 222833 | [222833-hamster-town.json](./222833-hamster-town.json) |
 | Hamster Tycoon: Cake Maker | 294037 | [294037-hamster-tycoon-cake-maker.json](./294037-hamster-tycoon-cake-maker.json) |
 | Hamster, Eat, Run | 406668 | [406668-hamster-eat-run.json](./406668-hamster-eat-run.json) |
@@ -1362,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard as Nails | 371636 | [371636-hard-as-nails.json](./371636-hard-as-nails.json) |
 | Hard Ball Wikie | 196890 | [196890-hard-ball-wikie.json](./196890-hard-ball-wikie.json) |
 | Hard Battle | 268903 | [268903-hard-battle.json](./268903-hard-battle.json) |
+| Hard Boiled | 228883 | [228883-hard-boiled.json](./228883-hard-boiled.json) |
 | Hard Brain | 266882 | [266882-hard-brain.json](./266882-hard-brain.json) |
 | Hard Bullet | 139702 | [139702-hard-bullet.json](./139702-hard-bullet.json) |
 | Hard Core Puzzle | 335449 | [335449-hard-core-puzzle.json](./335449-hard-core-puzzle.json) |
@@ -1682,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harrys Restaurant | 66388 | [66388-harrys-restaurant.json](./66388-harrys-restaurant.json) |
 | Harsh | 81994 | [81994-harsh.json](./81994-harsh.json) |
 | Harsh. | 294363 | [294363-harsh.json](./294363-harsh.json) |
+| Harshlands | 228879 | [228879-harshlands.json](./228879-harshlands.json) |
 | Hartacon Tactics | 21983 | [21983-hartacon-tactics.json](./21983-hartacon-tactics.json) |
 | Harts | 80920 | [80920-harts.json](./80920-harts.json) |
 | Harts Island | 153492 | [153492-harts-island.json](./153492-harts-island.json) |
