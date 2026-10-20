@@ -11980,6 +11980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamcore: Playrooms | 347846 | [347846-dreamcore-playrooms.json](./347846-dreamcore-playrooms.json) |
 | Dreamcore95 Idle | 322138 | [322138-dreamcore95-idle.json](./322138-dreamcore95-idle.json) |
 | Dreamcutter: Steelbook Limited Edition | 300476 | [300476-dreamcutter-steelbook-limited-edition.json](./300476-dreamcutter-steelbook-limited-edition.json) |
+| Dreamdale: Fairy Adventure | 216070 | [216070-dreamdale-fairy-adventure.json](./216070-dreamdale-fairy-adventure.json) |
 | DreamDayKi | 202355 | [202355-dreamdayki.json](./202355-dreamdayki.json) |
 | Dreamdisc | 177796 | [177796-dreamdisc.json](./177796-dreamdisc.json) |
 | DreamEcho | 374358 | [374358-dreamecho.json](./374358-dreamecho.json) |
