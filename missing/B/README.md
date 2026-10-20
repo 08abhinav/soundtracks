@@ -8700,7 +8700,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blossom Breeze | 347356 | [347356-blossom-breeze.json](./347356-blossom-breeze.json) |
 | Blossom Sort | 385285 | [385285-blossom-sort.json](./385285-blossom-sort.json) |
 | Blossom Tales 2: The Minotaur Prince | 172489 | [172489-blossom-tales-2-the-minotaur-prince.json](./172489-blossom-tales-2-the-minotaur-prince.json) |
-| Blossom Tales: The Sleeping King | 27994 | [27994-blossom-tales-the-sleeping-king.json](./27994-blossom-tales-the-sleeping-king.json) |
 | Blossom Voyage | 403740 | [403740-blossom-voyage.json](./403740-blossom-voyage.json) |
 | Blossoms of Eternity | 339815 | [339815-blossoms-of-eternity.json](./339815-blossoms-of-eternity.json) |
 | Blow Away | 244885 | [244885-blow-away.json](./244885-blow-away.json) |
