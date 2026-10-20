@@ -2048,6 +2048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TastyPlanet Back for SecondsHD | 88644 | [88644-tastyplanet-back-for-secondshd.json](./88644-tastyplanet-back-for-secondshd.json) |
 | Tasu Bowl | 349101 | [349101-tasu-bowl.json](./349101-tasu-bowl.json) |
 | Tasukemono | 250766 | [250766-tasukemono.json](./250766-tasukemono.json) |
+| Tatakae Butasan | 221579 | [221579-tatakae-butasan.json](./221579-tatakae-butasan.json) |
 | Tatakae! Draft Redder | 385811 | [385811-tatakae-draft-redder.json](./385811-tatakae-draft-redder.json) |
 | Tatakae! KitadeMan | 173078 | [173078-tatakae-kitademan.json](./173078-tatakae-kitademan.json) |
 | Tatakae! Pro Yakyuu Twin League | 209780 | [209780-tatakae-pro-yakyuu-twin-league.json](./209780-tatakae-pro-yakyuu-twin-league.json) |
@@ -3202,6 +3203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tensai Bit-Kun: Gramon Battle | 4198 | [4198-tensai-bit-kun-gramon-battle.json](./4198-tensai-bit-kun-gramon-battle.json) |
 | Tense Parking | 392755 | [392755-tense-parking.json](./392755-tense-parking.json) |
 | Tensei | 264610 | [264610-tensei.json](./264610-tensei.json) |
+| Tensei Hakkenshi Fuumaroku | 221604 | [221604-tensei-hakkenshi-fuumaroku.json](./221604-tensei-hakkenshi-fuumaroku.json) |
 | Tensei Shitara Slime Datta Ken: Lord of Tempest | 90112 | [90112-tensei-shitara-slime-datta-ken-lord-of-tempest.json](./90112-tensei-shitara-slime-datta-ken-lord-of-tempest.json) |
 | Tensei Shitara Slime Datta Ken: Tempest Stories | 306195 | [306195-tensei-shitara-slime-datta-ken-tempest-stories.json](./306195-tensei-shitara-slime-datta-ken-tempest-stories.json) |
 | Tensen Nyannyan: Gekigyouban | 166149 | [166149-tensen-nyannyan-gekigyouban.json](./166149-tensen-nyannyan-gekigyouban.json) |
@@ -6075,6 +6077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkest Files | 214233 | [214233-the-darkest-files.json](./214233-the-darkest-files.json) |
 | The Darkest Paths: Missing Files | 235985 | [235985-the-darkest-paths-missing-files.json](./235985-the-darkest-paths-missing-files.json) |
 | The Darkest Tales | 138874 | [138874-the-darkest-tales.json](./138874-the-darkest-tales.json) |
+| The Darkest Tales: Extended Edition | 221630 | [221630-the-darkest-tales-extended-edition.json](./221630-the-darkest-tales-extended-edition.json) |
 | The Darkest Woods | 103762 | [103762-the-darkest-woods.json](./103762-the-darkest-woods.json) |
 | The Darkest Woods 2 | 111711 | [111711-the-darkest-woods-2.json](./111711-the-darkest-woods-2.json) |
 | The Darkness | 281559 | [281559-the-darkness.json](./281559-the-darkness.json) |
@@ -6415,6 +6418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dream of Shadowlands | 142170 | [142170-the-dream-of-shadowlands.json](./142170-the-dream-of-shadowlands.json) |
 | The Dream of Shadowlands: Episode 2 | 174071 | [174071-the-dream-of-shadowlands-episode-2.json](./174071-the-dream-of-shadowlands-episode-2.json) |
 | The Dream of the Limbo | 298601 | [298601-the-dream-of-the-limbo.json](./298601-the-dream-of-the-limbo.json) |
+| The Dream Sequences | 221586 | [221586-the-dream-sequences.json](./221586-the-dream-sequences.json) |
 | The Dream Team | 196872 | [196872-the-dream-team.json](./196872-the-dream-team.json) |
 | The Dream Where Even Though You’ve Been Done With School for Years You Have to Go Back to School Because of a Class You Forgot About | 239211 | [239211-the-dream-where-even-though-you-ve-been-done-with-school-for-years-you-have-to-go-back-to-school-because-of-a-class-you-forgot-about.json](./239211-the-dream-where-even-though-you-ve-been-done-with-school-for-years-you-have-to-go-back-to-school-because-of-a-class-you-forgot-about.json) |
 | The Dreambox | 150103 | [150103-the-dreambox.json](./150103-the-dreambox.json) |
@@ -14564,6 +14568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The X-Files: Deep State | 76429 | [76429-the-x-files-deep-state.json](./76429-the-x-files-deep-state.json) |
 | The X-Fools: The Spoof Is Out There | 66971 | [66971-the-x-fools-the-spoof-is-out-there.json](./66971-the-x-fools-the-spoof-is-out-there.json) |
 | The Xeno Project | 221659 | [221659-the-xeno-project.json](./221659-the-xeno-project.json) |
+| The Xeno Project II | 222193 | [222193-the-xeno-project-ii.json](./222193-the-xeno-project-ii.json) |
 | The Yakutsu Noroi Game | 124641 | [124641-the-yakutsu-noroi-game.json](./124641-the-yakutsu-noroi-game.json) |
 | The Yakuza Bundle | 254291 | [254291-the-yakuza-bundle.json](./254291-the-yakuza-bundle.json) |
 | The Yakyuken Special | 280652 | [280652-the-yakyuken-special.json](./280652-the-yakyuken-special.json) |
@@ -18493,6 +18498,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokigeon | 398399 | [398399-tokigeon.json](./398399-tokigeon.json) |
 | Tokimeki Card Paradise: Koi no Royal Straight Flush | 310969 | [310969-tokimeki-card-paradise-koi-no-royal-straight-flush.json](./310969-tokimeki-card-paradise-koi-no-royal-straight-flush.json) |
 | Tokimeki Dream Series 1: Ohanaya-san ni Narou! | 49845 | [49845-tokimeki-dream-series-1-ohanaya-san-ni-narou.json](./49845-tokimeki-dream-series-1-ohanaya-san-ni-narou.json) |
+| Tokimeki Factory Complete Box: Tokimeki Memorial Girl's Side | 221602 | [221602-tokimeki-factory-complete-box-tokimeki-memorial-girls-side.json](./221602-tokimeki-factory-complete-box-tokimeki-memorial-girls-side.json) |
+| Tokimeki Factory Vol.1 | 221600 | [221600-tokimeki-factory-vol-1.json](./221600-tokimeki-factory-vol-1.json) |
+| Tokimeki Factory Vol.2 | 221601 | [221601-tokimeki-factory-vol-2.json](./221601-tokimeki-factory-vol-2.json) |
 | Tokimeki Memorial | 72984 | [72984-tokimeki-memorial.json](./72984-tokimeki-memorial.json) |
 | Tokimeki Memorial 2: EVS Append Disc | 369848 | [369848-tokimeki-memorial-2-evs-append-disc.json](./369848-tokimeki-memorial-2-evs-append-disc.json) |
 | Tokimeki Memorial 4 | 67379 | [67379-tokimeki-memorial-4.json](./67379-tokimeki-memorial-4.json) |
@@ -18506,6 +18514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokimeki Memorial: Forever with You - Emotional | 314954 | [314954-tokimeki-memorial-forever-with-you-emotional.json](./314954-tokimeki-memorial-forever-with-you-emotional.json) |
 | Tokimeki Memorial: Taisen Tokkaedama | 71021 | [71021-tokimeki-memorial-taisen-tokkaedama.json](./71021-tokimeki-memorial-taisen-tokkaedama.json) |
 | Tokimeki Restaurant | 140385 | [140385-tokimeki-restaurant.json](./140385-tokimeki-restaurant.json) |
+| Tokimeki Restaurant: Project TriStars | 221599 | [221599-tokimeki-restaurant-project-tristars.json](./221599-tokimeki-restaurant-project-tristars.json) |
 | Tokimeki RunRuns | 208257 | [208257-tokimeki-runruns.json](./208257-tokimeki-runruns.json) |
 | Tokimeki Taisen | 191861 | [191861-tokimeki-taisen.json](./191861-tokimeki-taisen.json) |
 | Tokimeter | 322951 | [322951-tokimeter.json](./322951-tokimeter.json) |
@@ -24639,6 +24648,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twenty, in Total | 204424 | [204424-twenty-in-total.json](./204424-twenty-in-total.json) |
 | Twerk it Girl! | 238510 | [238510-twerk-it-girl.json](./238510-twerk-it-girl.json) |
 | Twerps | 24935 | [24935-twerps.json](./24935-twerps.json) |
+| TWHL Tower | 222197 | [222197-twhl-tower.json](./222197-twhl-tower.json) |
+| TWHL Tower 2 | 222198 | [222198-twhl-tower-2.json](./222198-twhl-tower-2.json) |
 | TWHL Tower: Source | 309161 | [309161-twhl-tower-source.json](./309161-twhl-tower-source.json) |
 | Twhols | 377717 | [377717-twhols.json](./377717-twhols.json) |
 | Twice Dead | 349082 | [349082-twice-dead.json](./349082-twice-dead.json) |
