@@ -2389,7 +2389,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverputt | 51246 | [51246-neverputt.json](./51246-neverputt.json) |
 | NeverRage | 266973 | [266973-neverrage.json](./266973-neverrage.json) |
 | Neverseas | 301808 | [301808-neverseas.json](./301808-neverseas.json) |
-| Neversong | 133261 | [133261-neversong.json](./133261-neversong.json) |
 | Neversong & Pinstripe | 144728 | [144728-neversong-and-pinstripe.json](./144728-neversong-and-pinstripe.json) |
 | Neversong: Collector's Edition | 139840 | [139840-neversong-collectors-edition.json](./139840-neversong-collectors-edition.json) |
 | Neverspring Chronicles | 188894 | [188894-neverspring-chronicles.json](./188894-neverspring-chronicles.json) |
