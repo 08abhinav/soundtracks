@@ -4211,6 +4211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her Love Just Washed Away | 261957 | [261957-her-love-just-washed-away.json](./261957-her-love-just-washed-away.json) |
 | Her Love, Like Poison | 332442 | [332442-her-love-like-poison.json](./332442-her-love-like-poison.json) |
 | Her Majesty's Apathy Bomb | 180709 | [180709-her-majestys-apathy-bomb.json](./180709-her-majestys-apathy-bomb.json) |
+| Her Name | 222756 | [222756-her-name.json](./222756-her-name.json) |
 | Her Name Was Fire | 209779 | [209779-her-name-was-fire.json](./209779-her-name-was-fire.json) |
 | Her New Memory | 152295 | [152295-her-new-memory.json](./152295-her-new-memory.json) |
 | Her New Memory: BDSM | 217541 | [217541-her-new-memory-bdsm.json](./217541-her-new-memory-bdsm.json) |
@@ -7614,6 +7615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Girls | 382287 | [382287-horror-girls.json](./382287-horror-girls.json) |
 | Horror Hospital | 29915 | [29915-horror-hospital.json](./29915-horror-hospital.json) |
 | Horror Hospital 2: Survival | 294536 | [294536-horror-hospital-2-survival.json](./294536-horror-hospital-2-survival.json) |
+| Horror Hotel | 222734 | [222734-horror-hotel.json](./222734-horror-hotel.json) |
 | Horror Hotel: Mystery Quest | 206726 | [206726-horror-hotel-mystery-quest.json](./206726-horror-hotel-mystery-quest.json) |
 | Horror House | 112161 | [112161-horror-house.json](./112161-horror-house.json) |
 | Horror House | 230762 | [230762-horror-house.json](./230762-horror-house.json) |
