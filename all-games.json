@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T22:16:39.703Z",
-  "total_soundtracks": 2344,
+  "generated_at": "2026-10-20T22:16:51.819Z",
+  "total_soundtracks": 2345,
   "games": [
     {
       "igdb_id": 7522,
@@ -22895,6 +22895,20 @@
         {
           "album_name": "Styx: Shards of Darkness (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2FIdNPQXr8K3uoCfFdlgs2",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 141373,
+      "game_name": "Submerged: Hidden Depths",
+      "game_url": "https://ostdb.net/games/submerged-hidden-depths",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c5c3ff22f301905f052ed7c1",
+      "albums": [
+        {
+          "album_name": "Submerged : Hidden Depths (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5OIIM73rc9TG9ET9BRizbf",
           "apple_music_url": "",
           "album_link_url": ""
         }
