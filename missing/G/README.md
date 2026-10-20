@@ -784,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galf Streem | 386936 | [386936-galf-streem.json](./386936-galf-streem.json) |
 | Galga | 227882 | [227882-galga.json](./227882-galga.json) |
 | Galge Masque:Rade | 416881 | [416881-galge-masque-rade.json](./416881-galge-masque-rade.json) |
+| Galidor Quest | 214944 | [214944-galidor-quest.json](./214944-galidor-quest.json) |
 | Galidor: Defenders of the Outer Dimension | 316808 | [316808-galidor-defenders-of-the-outer-dimension.json](./316808-galidor-defenders-of-the-outer-dimension.json) |
 | Galileo Mystery: The Crown of Midas | 268118 | [268118-galileo-mystery-the-crown-of-midas.json](./268118-galileo-mystery-the-crown-of-midas.json) |
 | Galimulator | 89971 | [89971-galimulator.json](./89971-galimulator.json) |
@@ -5481,6 +5482,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorytale | 111798 | [111798-gorytale.json](./111798-gorytale.json) |
 | Goryuujin Electro | 384780 | [384780-goryuujin-electro.json](./384780-goryuujin-electro.json) |
 | GOS: Gain Of Squad | 295854 | [295854-gos-gain-of-squad.json](./295854-gos-gain-of-squad.json) |
+| Gosaku ga Horu Mon | 214955 | [214955-gosaku-ga-horu-mon.json](./214955-gosaku-ga-horu-mon.json) |
+| Gosaku ga Horu Mon 2: Yoru no Jugyou Sankan Hen | 214958 | [214958-gosaku-ga-horu-mon-2-yoru-no-jugyou-sankan-hen.json](./214958-gosaku-ga-horu-mon-2-yoru-no-jugyou-sankan-hen.json) |
 | Gosdooma | 292427 | [292427-gosdooma.json](./292427-gosdooma.json) |
 | Gosen-sou | 221413 | [221413-gosen-sou.json](./221413-gosen-sou.json) |
 | Gosick Rogue | 341909 | [341909-gosick-rogue.json](./341909-gosick-rogue.json) |
