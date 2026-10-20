@@ -722,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calm Skies | 318295 | [318295-calm-skies.json](./318295-calm-skies.json) |
 | Calm Time | 122999 | [122999-calm-time.json](./122999-calm-time.json) |
 | Calmaria: Wild Growth | 422495 | [422495-calmaria-wild-growth.json](./422495-calmaria-wild-growth.json) |
+| Calme | 217182 | [217182-calme.json](./217182-calme.json) |
 | Calmed by the Dark Re:Boot | 282443 | [282443-calmed-by-the-dark-re-boot.json](./282443-calmed-by-the-dark-re-boot.json) |
 | Calmed by the Dark: Leviathan | 153967 | [153967-calmed-by-the-dark-leviathan.json](./153967-calmed-by-the-dark-leviathan.json) |
 | Calmed by the Dαrk | 388788 | [388788-calmed-by-the-d-rk.json](./388788-calmed-by-the-d-rk.json) |
@@ -4410,6 +4411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos CompleXX | 261125 | [261125-chaos-complexx.json](./261125-chaos-complexx.json) |
 | Chaos Control | 325843 | [325843-chaos-control.json](./325843-chaos-control.json) |
 | Chaos Crafters | 265399 | [265399-chaos-crafters.json](./265399-chaos-crafters.json) |
+| Chaos Crown | 217190 | [217190-chaos-crown.json](./217190-chaos-crown.json) |
 | Chaos Dream: Retribution | 119450 | [119450-chaos-dream-retribution.json](./119450-chaos-dream-retribution.json) |
 | Chaos Edge | 29090 | [29090-chaos-edge.json](./29090-chaos-edge.json) |
 | Chaos Entropy | 320559 | [320559-chaos-entropy.json](./320559-chaos-entropy.json) |
@@ -10504,6 +10506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contract J.A.C.K. | 1336 | [1336-contract-j-a-c-k.json](./1336-contract-j-a-c-k.json) |
 | Contract Killer | 162258 | [162258-contract-killer.json](./162258-contract-killer.json) |
 | Contract Killer 2: Shadow Conspiracy | 63917 | [63917-contract-killer-2-shadow-conspiracy.json](./63917-contract-killer-2-shadow-conspiracy.json) |
+| Contract Killer Simulator: Mafia Edition | 217196 | [217196-contract-killer-simulator-mafia-edition.json](./217196-contract-killer-simulator-mafia-edition.json) |
 | Contract Killer: Sniper | 127049 | [127049-contract-killer-sniper.json](./127049-contract-killer-sniper.json) |
 | Contract Killer: Zombies | 127050 | [127050-contract-killer-zombies.json](./127050-contract-killer-zombies.json) |
 | Contract Killers | 132218 | [132218-contract-killers.json](./132218-contract-killers.json) |
@@ -10860,6 +10863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copa Petrobras de Marcas | 90609 | [90609-copa-petrobras-de-marcas.json](./90609-copa-petrobras-de-marcas.json) |
 | Copa Toon 2010 | 344709 | [344709-copa-toon-2010.json](./344709-copa-toon-2010.json) |
 | Copa Toon: Superestrellas | 334930 | [334930-copa-toon-superestrellas.json](./334930-copa-toon-superestrellas.json) |
+| Copcore | 217193 | [217193-copcore.json](./217193-copcore.json) |
 | Cope Island: Adrift | 113755 | [113755-cope-island-adrift.json](./113755-cope-island-adrift.json) |
 | Cope: Shodown | 165108 | [165108-cope-shodown.json](./165108-cope-shodown.json) |
 | Copernicus | 72907 | [72907-copernicus.json](./72907-copernicus.json) |
@@ -15244,6 +15248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Nations | 63777 | [63777-cyber-nations.json](./63777-cyber-nations.json) |
 | Cyber Neon Bundle | 246880 | [246880-cyber-neon-bundle.json](./246880-cyber-neon-bundle.json) |
 | Cyber Noah | 156015 | [156015-cyber-noah.json](./156015-cyber-noah.json) |
+| Cyber Noir Stories: The Trunk | 217207 | [217207-cyber-noir-stories-the-trunk.json](./217207-cyber-noir-stories-the-trunk.json) |
 | Cyber Org | 72900 | [72900-cyber-org.json](./72900-cyber-org.json) |
 | Cyber Paranoia | 408058 | [408058-cyber-paranoia.json](./408058-cyber-paranoia.json) |
 | Cyber Parkour | 317387 | [317387-cyber-parkour.json](./317387-cyber-parkour.json) |
