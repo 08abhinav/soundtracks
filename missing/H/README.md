@@ -3237,6 +3237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellgate: London FPS | 191504 | [191504-hellgate-london-fps.json](./191504-hellgate-london-fps.json) |
 | Hellgate: Redemption | 294051 | [294051-hellgate-redemption.json](./294051-hellgate-redemption.json) |
 | Hellgate: Tokyo | 67279 | [67279-hellgate-tokyo.json](./67279-hellgate-tokyo.json) |
+| Hellgrinder | 236110 | [236110-hellgrinder.json](./236110-hellgrinder.json) |
 | HellGunner | 28765 | [28765-hellgunner.json](./28765-hellgunner.json) |
 | HellHeart Breaker | 351687 | [351687-hellheart-breaker.json](./351687-hellheart-breaker.json) |
 | Hellhole | 186266 | [186266-hellhole.json](./186266-hellhole.json) |
@@ -3659,6 +3660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Cute | 365420 | [365420-hentai-cute.json](./365420-hentai-cute.json) |
 | Hentai Cute Pazzle | 301674 | [301674-hentai-cute-pazzle.json](./301674-hentai-cute-pazzle.json) |
 | Hentai Cyber | 368099 | [368099-hentai-cyber.json](./368099-hentai-cyber.json) |
+| Hentai CyberGirl | 236134 | [236134-hentai-cybergirl.json](./236134-hentai-cybergirl.json) |
 | Hentai Cyberpunk Sci-Fi | 365421 | [365421-hentai-cyberpunk-sci-fi.json](./365421-hentai-cyberpunk-sci-fi.json) |
 | Hentai Dance | 365422 | [365422-hentai-dance.json](./365422-hentai-dance.json) |
 | Hentai Darts | 165529 | [165529-hentai-darts.json](./165529-hentai-darts.json) |
@@ -5605,6 +5607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higgs Boson: Timed Puzzle | 173238 | [173238-higgs-boson-timed-puzzle.json](./173238-higgs-boson-timed-puzzle.json) |
 | High $take$ by Dick Francis | 79887 | [79887-high-take-by-dick-francis.json](./79887-high-take-by-dick-francis.json) |
 | High Above | 336155 | [336155-high-above.json](./336155-high-above.json) |
+| High and Dry | 236116 | [236116-high-and-dry.json](./236116-high-and-dry.json) |
 | High Burger | 256257 | [256257-high-burger.json](./256257-high-burger.json) |
 | High Cars | 271269 | [271269-high-cars.json](./271269-high-cars.json) |
 | High Cars 2 | 325014 | [325014-high-cars-2.json](./325014-high-cars-2.json) |
