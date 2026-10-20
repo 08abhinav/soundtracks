@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camelbirds | 318978 | [318978-camelbirds.json](./318978-camelbirds.json) |
 | Camelia | 125144 | [125144-camelia.json](./125144-camelia.json) |
 | Camellia Train | 200530 | [200530-camellia-train.json](./200530-camellia-train.json) |
+| Camellia VR | 236131 | [236131-camellia-vr.json](./236131-camellia-vr.json) |
 | Camelot | 141242 | [141242-camelot.json](./141242-camelot.json) |
 | Camelot | 260089 | [260089-camelot.json](./260089-camelot.json) |
 | Camelot 10000CE | 374244 | [374244-camelot-10000ce.json](./374244-camelot-10000ce.json) |
@@ -8910,6 +8911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Island: Pixel Art | 280221 | [280221-color-island-pixel-art.json](./280221-color-island-pixel-art.json) |
 | Color Knight | 112792 | [112792-color-knight.json](./112792-color-knight.json) |
 | Color Lab | 192973 | [192973-color-lab.json](./192973-color-lab.json) |
+| Color Lim | 236141 | [236141-color-lim.json](./236141-color-lim.json) |
 | Color Lines | 50119 | [50119-color-lines.json](./50119-color-lines.json) |
 | Color Madness | 367049 | [367049-color-madness.json](./367049-color-madness.json) |
 | Color Matching | 234168 | [234168-color-matching.json](./234168-color-matching.json) |
@@ -10784,6 +10786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoopValor WW2 Battle of the Bulge | 263522 | [263522-coopvalor-ww2-battle-of-the-bulge.json](./263522-coopvalor-ww2-battle-of-the-bulge.json) |
 | Cooties | 279887 | [279887-cooties.json](./279887-cooties.json) |
 | Cop Car Police Simulator Chase | 187469 | [187469-cop-car-police-simulator-chase.json](./187469-cop-car-police-simulator-chase.json) |
+| Cop City | 236109 | [236109-cop-city.json](./236109-cop-city.json) |
 | Cop Drop | 329419 | [329419-cop-drop.json](./329419-cop-drop.json) |
 | Cop Duty Police Car Simulator | 102761 | [102761-cop-duty-police-car-simulator.json](./102761-cop-duty-police-car-simulator.json) |
 | Cop Officers: Police Simulator of NYPD City | 302239 | [302239-cop-officers-police-simulator-of-nypd-city.json](./302239-cop-officers-police-simulator-of-nypd-city.json) |
