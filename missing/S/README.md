@@ -921,6 +921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SamoQ - Quiz Hyoryu Kyoushitsu | 98063 | [98063-samoq-quiz-hyoryu-kyoushitsu.json](./98063-samoq-quiz-hyoryu-kyoushitsu.json) |
 | Samorost | 15731 | [15731-samorost.json](./15731-samorost.json) |
 | Samorost 1 | 148352 | [148352-samorost-1.json](./148352-samorost-1.json) |
+| Samosa: Runner Gunner | 254319 | [254319-samosa-runner-gunner.json](./254319-samosa-runner-gunner.json) |
 | Samosbor | 130179 | [130179-samosbor.json](./130179-samosbor.json) |
 | Samosbor 2D | 120986 | [120986-samosbor-2d.json](./120986-samosbor-2d.json) |
 | Samozbor ID:Heaven | 129231 | [129231-samozbor-id-heaven.json](./129231-samozbor-id-heaven.json) |
@@ -1025,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Shodown: Oborozuki Densetsu | 112917 | [112917-samurai-shodown-oborozuki-densetsu.json](./112917-samurai-shodown-oborozuki-densetsu.json) |
 | Samurai Shoguns Heart: Romance Among the Cherry Blossoms | 378783 | [378783-samurai-shoguns-heart-romance-among-the-cherry-blossoms.json](./378783-samurai-shoguns-heart-romance-among-the-cherry-blossoms.json) |
 | Samurai Siege | 38868 | [38868-samurai-siege.json](./38868-samurai-siege.json) |
+| Samurai Slash | 254326 | [254326-samurai-slash.json](./254326-samurai-slash.json) |
 | Samurai Solitaire: Return of the Ronin | 204103 | [204103-samurai-solitaire-return-of-the-ronin.json](./204103-samurai-solitaire-return-of-the-ronin.json) |
 | Samurai Solitaire: Threads of Fate | 195694 | [195694-samurai-solitaire-threads-of-fate.json](./195694-samurai-solitaire-threads-of-fate.json) |
 | Samurai Spirits Zero Special (Fixed) | 75446 | [75446-samurai-spirits-zero-special-fixed.json](./75446-samurai-spirits-zero-special-fixed.json) |
@@ -4567,6 +4569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Severity | 93615 | [93615-severity.json](./93615-severity.json) |
 | Sevgilim Olur musun ? | 92423 | [92423-sevgilim-olur-musun.json](./92423-sevgilim-olur-musun.json) |
 | Sevn | 232486 | [232486-sevn.json](./232486-sevn.json) |
+| Sevyal | 254321 | [254321-sevyal.json](./254321-sevyal.json) |
 | Sew in Love | 184903 | [184903-sew-in-love.json](./184903-sew-in-love.json) |
 | Sewage | 202329 | [202329-sewage.json](./202329-sewage.json) |
 | Sewage Devastation | 271780 | [271780-sewage-devastation.json](./271780-sewage-devastation.json) |
@@ -5748,6 +5751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Sees Red | 118645 | [118645-she-sees-red.json](./118645-she-sees-red.json) |
 | She Sings, but She’s Not a Skylark, Not Even a Nightingale. | 412445 | [412445-she-sings-but-she-s-not-a-skylark-not-even-a-nightingale.json](./412445-she-sings-but-she-s-not-a-skylark-not-even-a-nightingale.json) |
 | She Tells Her Story | 383592 | [383592-she-tells-her-story.json](./383592-she-tells-her-story.json) |
+| She Wants to Suck My Blood? | 254324 | [254324-she-wants-to-suck-my-blood.json](./254324-she-wants-to-suck-my-blood.json) |
 | She Was 98 | 385327 | [385327-she-was-98.json](./385327-she-was-98.json) |
 | She Who Fights Monsters: Choice Edition | 186168 | [186168-she-who-fights-monsters-choice-edition.json](./186168-she-who-fights-monsters-choice-edition.json) |
 | She Will Shoot | 173250 | [173250-she-will-shoot.json](./173250-she-will-shoot.json) |
@@ -14057,6 +14061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Southern Monsters | 139315 | [139315-southern-monsters.json](./139315-southern-monsters.json) |
 | Southern Princesses | 212801 | [212801-southern-princesses.json](./212801-southern-princesses.json) |
 | SouthernCross | 145955 | [145955-southerncross.json](./145955-southerncross.json) |
+| Southernmost Combine | 254296 | [254296-southernmost-combine.json](./254296-southernmost-combine.json) |
 | Southside Racing | 329202 | [329202-southside-racing.json](./329202-southside-racing.json) |
 | Souvenir | 295509 | [295509-souvenir.json](./295509-souvenir.json) |
 | Souzou Cliff | 181400 | [181400-souzou-cliff.json](./181400-souzou-cliff.json) |
@@ -25487,6 +25492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving Mars: Mysteries Resupply Pack | 154446 | [154446-surviving-mars-mysteries-resupply-pack.json](./154446-surviving-mars-mysteries-resupply-pack.json) |
 | Surviving Mars: Pioneer | 335133 | [335133-surviving-mars-pioneer.json](./335133-surviving-mars-pioneer.json) |
 | Surviving Mars: Relaunched - Feeding the Future | 414770 | [414770-surviving-mars-relaunched-feeding-the-future.json](./414770-surviving-mars-relaunched-feeding-the-future.json) |
+| Surviving Mars: Starter Bundle | 254284 | [254284-surviving-mars-starter-bundle.json](./254284-surviving-mars-starter-bundle.json) |
 | Surviving Medieval | 118402 | [118402-surviving-medieval.json](./118402-surviving-medieval.json) |
 | Surviving Purge | 380770 | [380770-surviving-purge.json](./380770-surviving-purge.json) |
 | Surviving Skeleton Island | 262968 | [262968-surviving-skeleton-island.json](./262968-surviving-skeleton-island.json) |
@@ -26059,6 +26065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SweeTARTS 3D | 373551 | [373551-sweetarts-3d.json](./373551-sweetarts-3d.json) |
 | SweetCanvas | 354760 | [354760-sweetcanvas.json](./354760-sweetcanvas.json) |
 | SweetCat | 327675 | [327675-sweetcat.json](./327675-sweetcat.json) |
+| Sweetcore Brews | 254288 | [254288-sweetcore-brews.json](./254288-sweetcore-brews.json) |
 | Sweetest Monster | 300720 | [300720-sweetest-monster.json](./300720-sweetest-monster.json) |
 | Sweetest Thing | 85412 | [85412-sweetest-thing.json](./85412-sweetest-thing.json) |
 | Sweetheart | 415166 | [415166-sweetheart.json](./415166-sweetheart.json) |
