@@ -1068,6 +1068,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273e3f1811f7b2bdb71614bffea" width="60" /> | [Mosaic](https://ostdb.net/games/mosaic) | **Mosaic (Official Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3QNtQNAcKrlmV7IMlfB0MU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731ee1e664029dbbe5934534a8" width="60" /> | [Mouse: P.I. For Hire](https://ostdb.net/games/mouse-p-i-for-hire) | **Good Mouse (From the MOUSE: P.I. FOR HIRE Soundtrack)** · [Spotify](https://open.spotify.com/album/5zcY4YuuZjZTjmAwsgnvaa) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731057b6e4f6bbe88791ffff94" width="60" /> | [Move or Die](https://ostdb.net/games/move-or-die) | **Move or Die (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/68oVc6mzPE7SCH20hjU9DJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273da42390e354c7b5bb9907285" width="60" /> | [Moving Out 2](https://ostdb.net/games/moving-out-2) | **Moving Out 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1w9tj0XtqARue3oDLioW9M) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736f620fe048d86040e524e098" width="60" /> | [Mullet Madjack](https://ostdb.net/games/mullet-madjack) | **MULLET MADJACK (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5Jix2124Gc7frIqVp7m7v8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734e88728b93e115e8e82d1d4b" width="60" /> | [Murder by Numbers](https://ostdb.net/games/murder-by-numbers) | **Murder by Numbers (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3TexCZRxFJK1rrGkkZITcp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27358d37cd29f65fd81bdfa25de" width="60" /> | [Mutazione](https://ostdb.net/games/mutazione) | **Mutazione (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1HWxyoTah0smeJHdiLh3K4) |
@@ -1938,4 +1939,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2255 soundtracks · last updated 2026-10-20T21:37:47.125Z_
+_2256 soundtracks · last updated 2026-10-20T21:37:58.154Z_
