@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ma vie en rogue | 328978 | [328978-ma-vie-en-rogue.json](./328978-ma-vie-en-rogue.json) |
 | Ma3 | 252667 | [252667-ma3.json](./252667-ma3.json) |
 | MAAA | 112978 | [112978-maaa.json](./112978-maaa.json) |
+| Maanu: Academic Version | 254908 | [254908-maanu-academic-version.json](./254908-maanu-academic-version.json) |
 | Mabel's Mansion | 24780 | [24780-mabels-mansion.json](./24780-mabels-mansion.json) |
 | Mabeop Cheonjamun DS | 124789 | [124789-mabeop-cheonjamun-ds.json](./124789-mabeop-cheonjamun-ds.json) |
 | Mabeop Cheonjamun DS 2: The Final Hanja Magic | 124788 | [124788-mabeop-cheonjamun-ds-2-the-final-hanja-magic.json](./124788-mabeop-cheonjamun-ds-2-the-final-hanja-magic.json) |
@@ -4239,6 +4240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math the Question | 130840 | [130840-math-the-question.json](./130840-math-the-question.json) |
 | Math Tile | 82352 | [82352-math-tile.json](./82352-math-tile.json) |
 | Math Workshop | 94384 | [94384-math-workshop.json](./94384-math-workshop.json) |
+| Math World VR | 254919 | [254919-math-world-vr.json](./254919-math-world-vr.json) |
 | Math-A-Thon 2: The Mystery of the Missing Laboratory | 209547 | [209547-math-a-thon-2-the-mystery-of-the-missing-laboratory.json](./209547-math-a-thon-2-the-mystery-of-the-missing-laboratory.json) |
 | Math, BFF, and Notes | 276962 | [276962-math-bff-and-notes.json](./276962-math-bff-and-notes.json) |
 | Mathable | 232533 | [232533-mathable.json](./232533-mathable.json) |
@@ -5384,6 +5386,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet Your Maker | 212710 | [212710-meet-your-maker.json](./212710-meet-your-maker.json) |
 | Meet Your Maker: Deluxe Edition | 243798 | [243798-meet-your-maker-deluxe-edition.json](./243798-meet-your-maker-deluxe-edition.json) |
 | Meet Your Maker: Scorched Necropolis | 248093 | [248093-meet-your-maker-scorched-necropolis.json](./248093-meet-your-maker-scorched-necropolis.json) |
+| Meet Your Maker: Sector 1 Arsenal Pack | 254897 | [254897-meet-your-maker-sector-1-arsenal-pack.json](./254897-meet-your-maker-sector-1-arsenal-pack.json) |
+| Meet Your Maker: Sector 1 Cosmetic Collection | 254896 | [254896-meet-your-maker-sector-1-cosmetic-collection.json](./254896-meet-your-maker-sector-1-cosmetic-collection.json) |
 | Meet Your Maker: Sector 2 Arsenal Pack | 267277 | [267277-meet-your-maker-sector-2-arsenal-pack.json](./267277-meet-your-maker-sector-2-arsenal-pack.json) |
 | Meet Your Maker: Sector 2 Cosmetic Collection | 267293 | [267293-meet-your-maker-sector-2-cosmetic-collection.json](./267293-meet-your-maker-sector-2-cosmetic-collection.json) |
 | Meet Your Maker: Sector 3 Arsenal Pack | 284882 | [284882-meet-your-maker-sector-3-arsenal-pack.json](./284882-meet-your-maker-sector-3-arsenal-pack.json) |
@@ -9297,6 +9301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mineroids | 413614 | [413614-mineroids.json](./413614-mineroids.json) |
 | Miners and Machines | 211120 | [211120-miners-and-machines.json](./211120-miners-and-machines.json) |
 | Miners in the Mountain | 358512 | [358512-miners-in-the-mountain.json](./358512-miners-in-the-mountain.json) |
+| Miners Settlement | 254903 | [254903-miners-settlement.json](./254903-miners-settlement.json) |
 | Miners Settlement: Idle RPG | 245343 | [245343-miners-settlement-idle-rpg.json](./245343-miners-settlement-idle-rpg.json) |
 | Miners' Union | 391065 | [391065-miners-union.json](./391065-miners-union.json) |
 | Minerva | 10129 | [10129-minerva.json](./10129-minerva.json) |
@@ -10977,6 +10982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mojito the Cat: Christmas | 403424 | [403424-mojito-the-cat-christmas.json](./403424-mojito-the-cat-christmas.json) |
 | Mojito the Cat: Christmas Edition | 231256 | [231256-mojito-the-cat-christmas-edition.json](./231256-mojito-the-cat-christmas-edition.json) |
 | Mojito the Cat: Christmas Skins | 309642 | [309642-mojito-the-cat-christmas-skins.json](./309642-mojito-the-cat-christmas-skins.json) |
+| Mojito the Cat: Complete Edition | 254924 | [254924-mojito-the-cat-complete-edition.json](./254924-mojito-the-cat-complete-edition.json) |
 | Mojito the Cat: Definitive Edition | 251600 | [251600-mojito-the-cat-definitive-edition.json](./251600-mojito-the-cat-definitive-edition.json) |
 | Mojito the Cat: Deluxe Edition | 226780 | [226780-mojito-the-cat-deluxe-edition.json](./226780-mojito-the-cat-deluxe-edition.json) |
 | Mojito the Cat: Director's Cut | 267233 | [267233-mojito-the-cat-directors-cut.json](./267233-mojito-the-cat-directors-cut.json) |
@@ -11998,6 +12004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster-Man | 137911 | [137911-monster-man.json](./137911-monster-man.json) |
 | Monster: Titan's Playground | 302927 | [302927-monster-titans-playground.json](./302927-monster-titans-playground.json) |
 | Monster! Bass Fishing | 49324 | [49324-monster-bass-fishing.json](./49324-monster-bass-fishing.json) |
+| Monster’s First Love | 254945 | [254945-monster-s-first-love.json](./254945-monster-s-first-love.json) |
 | Monster's Inc. Peek A Boo Boo's Door Game | 343341 | [343341-monsters-inc-peek-a-boo-boos-door-game.json](./343341-monsters-inc-peek-a-boo-boos-door-game.json) |
 | Monster+Connect! | 181396 | [181396-monster-connect.json](./181396-monster-connect.json) |
 | Monsterbag | 60535 | [60535-monsterbag.json](./60535-monsterbag.json) |
@@ -13258,6 +13265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorball | 137599 | [137599-motorball.json](./137599-motorball.json) |
 | Motorbike | 35923 | [35923-motorbike.json](./35923-motorbike.json) |
 | Motorbike Clicker | 337625 | [337625-motorbike-clicker.json](./337625-motorbike-clicker.json) |
+| Motorbike Evolution 2024 | 254902 | [254902-motorbike-evolution-2024.json](./254902-motorbike-evolution-2024.json) |
 | Motorbike King | 43235 | [43235-motorbike-king.json](./43235-motorbike-king.json) |
 | Motorbike Madness | 45244 | [45244-motorbike-madness.json](./45244-motorbike-madness.json) |
 | Motorbike Racing | 217965 | [217965-motorbike-racing.json](./217965-motorbike-racing.json) |
