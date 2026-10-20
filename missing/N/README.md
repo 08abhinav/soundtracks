@@ -2742,6 +2742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Stop Zombie | 72364 | [72364-next-stop-zombie.json](./72364-next-stop-zombie.json) |
 | Next Sweetstop | 253884 | [253884-next-sweetstop.json](./253884-next-sweetstop.json) |
 | Next Up Hero | 45026 | [45026-next-up-hero.json](./45026-next-up-hero.json) |
+| Next: Merger with Power of 2 | 252562 | [252562-next-merger-with-power-of-2.json](./252562-next-merger-with-power-of-2.json) |
 | Nextbots In Backrooms: Obunga | 221228 | [221228-nextbots-in-backrooms-obunga.json](./221228-nextbots-in-backrooms-obunga.json) |
 | Nextbots In The Backrooms | 265729 | [265729-nextbots-in-the-backrooms.json](./265729-nextbots-in-the-backrooms.json) |
 | Nextera | 173017 | [173017-nextera.json](./173017-nextera.json) |
