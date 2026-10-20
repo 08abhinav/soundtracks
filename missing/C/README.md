@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cake Duel | 134401 | [134401-cake-duel.json](./134401-cake-duel.json) |
 | Cake Invaders | 151611 | [151611-cake-invaders.json](./151611-cake-invaders.json) |
 | Cake Kills Candy | 184988 | [184988-cake-kills-candy.json](./184988-cake-kills-candy.json) |
+| Cake Kingdom Story | 238296 | [238296-cake-kingdom-story.json](./238296-cake-kingdom-story.json) |
 | Cake Laboratory | 114184 | [114184-cake-laboratory.json](./114184-cake-laboratory.json) |
 | Cake Maker Deluxe | 103151 | [103151-cake-maker-deluxe.json](./103151-cake-maker-deluxe.json) |
 | Cake Master | 313251 | [313251-cake-master.json](./313251-cake-master.json) |
@@ -2088,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carperation | 163973 | [163973-carperation.json](./163973-carperation.json) |
 | Carpet Cleaning Simulator | 407474 | [407474-carpet-cleaning-simulator.json](./407474-carpet-cleaning-simulator.json) |
 | Carpet Gallery | 320314 | [320314-carpet-gallery.json](./320314-carpet-gallery.json) |
+| Carpet Kitty | 238295 | [238295-carpet-kitty.json](./238295-carpet-kitty.json) |
 | Carpet Shark | 214513 | [214513-carpet-shark.json](./214513-carpet-shark.json) |
 | Carpieces | 369127 | [369127-carpieces.json](./369127-carpieces.json) |
 | Carpocalypse | 179123 | [179123-carpocalypse.json](./179123-carpocalypse.json) |
