@@ -3987,6 +3987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Introspectus | 398353 | [398353-introspectus.json](./398353-introspectus.json) |
 | Introvert | 337573 | [337573-introvert.json](./337573-introvert.json) |
 | Introvert Quest | 30327 | [30327-introvert-quest.json](./30327-introvert-quest.json) |
+| Intruder | 245134 | [245134-intruder.json](./245134-intruder.json) |
 | Intruder | 292079 | [292079-intruder.json](./292079-intruder.json) |
 | Intruder | 313504 | [313504-intruder.json](./313504-intruder.json) |
 | Intruder | 378208 | [378208-intruder.json](./378208-intruder.json) |
@@ -4822,6 +4823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isotower | 114217 | [114217-isotower.json](./114217-isotower.json) |
 | Isowords | 238397 | [238397-isowords.json](./238397-isowords.json) |
 | IsoWords | 254170 | [254170-isowords.json](./254170-isowords.json) |
+| Ispherical | 245178 | [245178-ispherical.json](./245178-ispherical.json) |
 | iSpot Japan | 85197 | [85197-ispot-japan.json](./85197-ispot-japan.json) |
 | Israel vs. Iran: Iron Dome | 377080 | [377080-israel-vs-iran-iron-dome.json](./377080-israel-vs-iran-iron-dome.json) |
 | ISS Pro Evolution | 28403 | [28403-iss-pro-evolution.json](./28403-iss-pro-evolution.json) |
