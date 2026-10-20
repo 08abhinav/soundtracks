@@ -873,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katana Dragon | 326631 | [326631-katana-dragon.json](./326631-katana-dragon.json) |
 | Katana Kami: A Way of the Samurai Story | 125296 | [125296-katana-kami-a-way-of-the-samurai-story.json](./125296-katana-kami-a-way-of-the-samurai-story.json) |
 | Katana Of Rin | 297223 | [297223-katana-of-rin.json](./297223-katana-of-rin.json) |
+| Katana Rama | 207666 | [207666-katana-rama.json](./207666-katana-rama.json) |
 | Katana Robo: RTA | 278546 | [278546-katana-robo-rta.json](./278546-katana-robo-rta.json) |
 | Katana Soul | 115074 | [115074-katana-soul.json](./115074-katana-soul.json) |
 | Katana Zero DLC | 339625 | [339625-katana-zero-dlc.json](./339625-katana-zero-dlc.json) |
@@ -2740,6 +2741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiniro no Corda: La Corda d'Oro | 57705 | [57705-kiniro-no-corda-la-corda-doro.json](./57705-kiniro-no-corda-la-corda-doro.json) |
 | Kiniro no Korda Starlight Orchestra | 220314 | [220314-kiniro-no-korda-starlight-orchestra.json](./220314-kiniro-no-korda-starlight-orchestra.json) |
 | Kinkey Dong | 275225 | [275225-kinkey-dong.json](./275225-kinkey-dong.json) |
+| Kinkoi: Golden Time | 207708 | [207708-kinkoi-golden-time.json](./207708-kinkoi-golden-time.json) |
 | Kinkshamed | 105181 | [105181-kinkshamed.json](./105181-kinkshamed.json) |
 | Kinky Cosplay Heroes | 275727 | [275727-kinky-cosplay-heroes.json](./275727-kinky-cosplay-heroes.json) |
 | Kinky Fight Club 2 | 267000 | [267000-kinky-fight-club-2.json](./267000-kinky-fight-club-2.json) |
@@ -3512,6 +3514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of the Fall | 236213 | [236213-knights-of-the-fall.json](./236213-knights-of-the-fall.json) |
 | Knights of the Flexbox Table | 213965 | [213965-knights-of-the-flexbox-table.json](./213965-knights-of-the-flexbox-table.json) |
 | Knights of the Holy Loop | 183957 | [183957-knights-of-the-holy-loop.json](./183957-knights-of-the-holy-loop.json) |
+| Knights of the Kitchen Table | 207681 | [207681-knights-of-the-kitchen-table.json](./207681-knights-of-the-kitchen-table.json) |
 | Knights of the Road | 243213 | [243213-knights-of-the-road.json](./243213-knights-of-the-road.json) |
 | Knights of the Rogue Dungeon | 283273 | [283273-knights-of-the-rogue-dungeon.json](./283273-knights-of-the-rogue-dungeon.json) |
 | Knights of the Round | 224023 | [224023-knights-of-the-round.json](./224023-knights-of-the-round.json) |
