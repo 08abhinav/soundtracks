@@ -2804,6 +2804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Soul Light Solitaire | 169867 | [169867-endless-soul-light-solitaire.json](./169867-endless-soul-light-solitaire.json) |
 | Endless Space 2 | 11550 | [11550-endless-space-2.json](./11550-endless-space-2.json) |
 | Endless Space 2: Celestial Worlds | 148837 | [148837-endless-space-2-celestial-worlds.json](./148837-endless-space-2-celestial-worlds.json) |
+| Endless Space 2: Definitive Edition | 255506 | [255506-endless-space-2-definitive-edition.json](./255506-endless-space-2-definitive-edition.json) |
 | Endless Space 2: Deluxe Edition | 187986 | [187986-endless-space-2-deluxe-edition.json](./187986-endless-space-2-deluxe-edition.json) |
 | Endless Space 2: Harmonic Memories | 355694 | [355694-endless-space-2-harmonic-memories.json](./355694-endless-space-2-harmonic-memories.json) |
 | Endless Space 2: Lost Symphony | 355686 | [355686-endless-space-2-lost-symphony.json](./355686-endless-space-2-lost-symphony.json) |
