@@ -8746,6 +8746,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokermon | 346016 | [346016-pokermon.json](./346016-pokermon.json) |
 | PokéRogue | 295252 | [295252-pokerogue.json](./295252-pokerogue.json) |
 | PokeRoku | 227817 | [227817-pokeroku.json](./227817-pokeroku.json) |
+| PokeRoku 2 | 236714 | [236714-pokeroku-2.json](./236714-pokeroku-2.json) |
+| PokeRoku 3 | 236715 | [236715-pokeroku-3.json](./236715-pokeroku-3.json) |
+| PokeRoku 4 | 236716 | [236716-pokeroku-4.json](./236716-pokeroku-4.json) |
+| PokeRoku 5 | 236717 | [236717-pokeroku-5.json](./236717-pokeroku-5.json) |
+| PokeRoku 6 | 236718 | [236718-pokeroku-6.json](./236718-pokeroku-6.json) |
 | PokéROM: Mew | 218523 | [218523-pokerom-mew.json](./218523-pokerom-mew.json) |
 | PokéROM: Pikachu | 212725 | [212725-pokerom-pikachu.json](./212725-pokerom-pikachu.json) |
 | PokéROM: Psyduck | 218524 | [218524-pokerom-psyduck.json](./218524-pokerom-psyduck.json) |
@@ -11302,6 +11307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Mahjong Tsuwamono GB | 97870 | [97870-pro-mahjong-tsuwamono-gb.json](./97870-pro-mahjong-tsuwamono-gb.json) |
 | Pro Mahjong Tsuwamono GB 2 | 97868 | [97868-pro-mahjong-tsuwamono-gb-2.json](./97868-pro-mahjong-tsuwamono-gb-2.json) |
 | Pro Mahjong Tsuwamono GBA | 97866 | [97866-pro-mahjong-tsuwamono-gba.json](./97866-pro-mahjong-tsuwamono-gba.json) |
+| Pro Mahjong Tsuwamono: Renka-ban | 236671 | [236671-pro-mahjong-tsuwamono-renka-ban.json](./236671-pro-mahjong-tsuwamono-renka-ban.json) |
 | Pro Mountain Bike Simulator | 354589 | [354589-pro-mountain-bike-simulator.json](./354589-pro-mountain-bike-simulator.json) |
 | Pro Moves Soccer | 222830 | [222830-pro-moves-soccer.json](./222830-pro-moves-soccer.json) |
 | Pro My Happy Wheel Farm Phonics Animals & Puppies | 102615 | [102615-pro-my-happy-wheel-farm-phonics-animals-and-puppies.json](./102615-pro-my-happy-wheel-farm-phonics-animals-and-puppies.json) |
@@ -11481,6 +11487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Layton and the Last Specter | 1400 | [1400-professor-layton-and-the-last-specter.json](./1400-professor-layton-and-the-last-specter.json) |
 | Professor Layton and the Mansion of the Deathly Mirror | 276490 | [276490-professor-layton-and-the-mansion-of-the-deathly-mirror.json](./276490-professor-layton-and-the-mansion-of-the-deathly-mirror.json) |
 | Professor Layton and the Miracle Mask | 1401 | [1401-professor-layton-and-the-miracle-mask.json](./1401-professor-layton-and-the-miracle-mask.json) |
+| Professor Layton and the New World of Steam | 236665 | [236665-professor-layton-and-the-new-world-of-steam.json](./236665-professor-layton-and-the-new-world-of-steam.json) |
 | Professor Layton and the Phantom Thieves | 276491 | [276491-professor-layton-and-the-phantom-thieves.json](./276491-professor-layton-and-the-phantom-thieves.json) |
 | Professor Layton and the Turnabout of the Golden Witch | 303037 | [303037-professor-layton-and-the-turnabout-of-the-golden-witch.json](./303037-professor-layton-and-the-turnabout-of-the-golden-witch.json) |
 | Professor Layton and the Unwound Future | 1399 | [1399-professor-layton-and-the-unwound-future.json](./1399-professor-layton-and-the-unwound-future.json) |
