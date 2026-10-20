@@ -3191,6 +3191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield Supremacy | 107770 | [107770-battlefield-supremacy.json](./107770-battlefield-supremacy.json) |
 | Battlefield V: Year 2 Edition | 134372 | [134372-battlefield-v-year-2-edition.json](./134372-battlefield-v-year-2-edition.json) |
 | Battlefield Vietnam | 335 | [335-battlefield-vietnam.json](./335-battlefield-vietnam.json) |
+| Battlefield Waltz | 253726 | [253726-battlefield-waltz.json](./253726-battlefield-waltz.json) |
 | Battlefield World War Bundle | 112914 | [112914-battlefield-world-war-bundle.json](./112914-battlefield-world-war-bundle.json) |
 | Battlefield: Bad Company 2 - Digital Deluxe Edition | 202187 | [202187-battlefield-bad-company-2-digital-deluxe-edition.json](./202187-battlefield-bad-company-2-digital-deluxe-edition.json) |
 | Battlefield: Bad Company 2 - Limited Edition | 41890 | [41890-battlefield-bad-company-2-limited-edition.json](./41890-battlefield-bad-company-2-limited-edition.json) |
@@ -3701,6 +3702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beanotown Racing | 57608 | [57608-beanotown-racing.json](./57608-beanotown-racing.json) |
 | Beanrise | 322273 | [322273-beanrise.json](./322273-beanrise.json) |
 | Beans Dash | 256255 | [256255-beans-dash.json](./256255-beans-dash.json) |
+| Beans or Bones | 253775 | [253775-beans-or-bones.json](./253775-beans-or-bones.json) |
 | Beans: The Coffee Shop Simulator | 28866 | [28866-beans-the-coffee-shop-simulator.json](./28866-beans-the-coffee-shop-simulator.json) |
 | BeanShooter | 256359 | [256359-beanshooter.json](./256359-beanshooter.json) |
 | Beanstalker | 94648 | [94648-beanstalker.json](./94648-beanstalker.json) |
@@ -11516,6 +11518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bride into the Cave | 273378 | [273378-bride-into-the-cave.json](./273378-bride-into-the-cave.json) |
 | Bride of Frankenstein | 39118 | [39118-bride-of-frankenstein.json](./39118-bride-of-frankenstein.json) |
 | Bride of the Full Moon | 254616 | [254616-bride-of-the-full-moon.json](./254616-bride-of-the-full-moon.json) |
+| Bride of the Nightmare | 253757 | [253757-bride-of-the-nightmare.json](./253757-bride-of-the-nightmare.json) |
 | Bride of the Robot | 14347 | [14347-bride-of-the-robot.json](./14347-bride-of-the-robot.json) |
 | Bride of the Twilight | 254610 | [254610-bride-of-the-twilight.json](./254610-bride-of-the-twilight.json) |
 | Brides of Dracula | 14348 | [14348-brides-of-dracula.json](./14348-brides-of-dracula.json) |
