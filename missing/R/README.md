@@ -3648,7 +3648,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relics: Dark Hours | 92494 | [92494-relics-dark-hours.json](./92494-relics-dark-hours.json) |
 | Relics: The 2nd Birth | 281393 | [281393-relics-the-2nd-birth.json](./281393-relics-the-2nd-birth.json) |
 | Relics: The Recur of Origin | 281392 | [281392-relics-the-recur-of-origin.json](./281392-relics-the-recur-of-origin.json) |
-| Relicta | 109742 | [109742-relicta.json](./109742-relicta.json) |
 | Relief | 404831 | [404831-relief.json](./404831-relief.json) |
 | Relief Pitcher | 39507 | [39507-relief-pitcher.json](./39507-relief-pitcher.json) |
 | Reliefs The Time of the Lemures | 95210 | [95210-reliefs-the-time-of-the-lemures.json](./95210-reliefs-the-time-of-the-lemures.json) |
