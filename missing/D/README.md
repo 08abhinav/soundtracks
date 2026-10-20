@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D'lirium: The Golden Rogue | 111433 | [111433-dlirium-the-golden-rogue.json](./111433-dlirium-the-golden-rogue.json) |
 | D's Diner: The Director's Cut | 245311 | [245311-ds-diner-the-directors-cut.json](./245311-ds-diner-the-directors-cut.json) |
 | D'Spirali Hideout | 268873 | [268873-dspirali-hideout.json](./268873-dspirali-hideout.json) |
+| D*Fuzed | 218911 | [218911-d-fuzed.json](./218911-d-fuzed.json) |
 | D*sco Ep | 210511 | [210511-d-sco-ep.json](./210511-d-sco-ep.json) |
 | D/Generation | 12028 | [12028-d-generation.json](./12028-d-generation.json) |
 | D/Generation HD | 21318 | [21318-d-generation-hd.json](./21318-d-generation-hd.json) |
