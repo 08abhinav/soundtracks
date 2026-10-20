@@ -5377,6 +5377,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flagfights | 127721 | [127721-flagfights.json](./127721-flagfights.json) |
 | Flagged Down | 297076 | [297076-flagged-down.json](./297076-flagged-down.json) |
 | Flaghead | 400219 | [400219-flaghead.json](./400219-flaghead.json) |
+| Flagle | 246245 | [246245-flagle.json](./246245-flagle.json) |
+| Flagle | 246246 | [246246-flagle.json](./246246-flagle.json) |
 | Flagman | 76972 | [76972-flagman.json](./76972-flagman.json) |
 | Flags For Friends | 177882 | [177882-flags-for-friends.json](./177882-flags-for-friends.json) |
 | Flagship | 61563 | [61563-flagship.json](./61563-flagship.json) |
@@ -6953,6 +6955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FootSkull | 182174 | [182174-footskull.json](./182174-footskull.json) |
 | Footsy | 311139 | [311139-footsy.json](./311139-footsy.json) |
 | Footy Ball Tournament 2018 | 104050 | [104050-footy-ball-tournament-2018.json](./104050-footy-ball-tournament-2018.json) |
+| Footy Ball: Pass Pass Soccer | 246271 | [246271-footy-ball-pass-pass-soccer.json](./246271-footy-ball-pass-pass-soccer.json) |
 | Footy Bash | 271909 | [271909-footy-bash.json](./271909-footy-bash.json) |
 | FootyKitDle | 304250 | [304250-footykitdle.json](./304250-footykitdle.json) |
 | Foqus | 46609 | [46609-foqus.json](./46609-foqus.json) |
@@ -9645,6 +9648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frutiger Home | 368055 | [368055-frutiger-home.json](./368055-frutiger-home.json) |
 | Frutiger Space | 366227 | [366227-frutiger-space.json](./366227-frutiger-space.json) |
 | Frutz | 405530 | [405530-frutz.json](./405530-frutz.json) |
+| Fry Egg | 246274 | [246274-fry-egg.json](./246274-fry-egg.json) |
 | Fry Me Omelettes | 95969 | [95969-fry-me-omelettes.json](./95969-fry-me-omelettes.json) |
 | FSR: French Street Racing | 208480 | [208480-fsr-french-street-racing.json](./208480-fsr-french-street-racing.json) |
 | FT Nibbles | 137379 | [137379-ft-nibbles.json](./137379-ft-nibbles.json) |
