@@ -3800,6 +3800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Combat Pilot: WW2 Pacific | 102581 | [102581-air-combat-pilot-ww2-pacific.json](./102581-air-combat-pilot-ww2-pacific.json) |
 | Air Combat Revolution | 61062 | [61062-air-combat-revolution.json](./61062-air-combat-revolution.json) |
 | Air Combat XF | 113151 | [113151-air-combat-xf.json](./113151-air-combat-xf.json) |
+| Air Command | 245145 | [245145-air-command.json](./245145-air-command.json) |
 | Air Command 3.0 | 59491 | [59491-air-command-3-0.json](./59491-air-command-3-0.json) |
 | Air Command 3.0: Airport Expansion Set | 144186 | [144186-air-command-3-0-airport-expansion-set.json](./144186-air-command-3-0-airport-expansion-set.json) |
 | Air Conflicts | 1490 | [1490-air-conflicts.json](./1490-air-conflicts.json) |
@@ -8274,6 +8275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aotu World | 241502 | [241502-aotu-world.json](./241502-aotu-world.json) |
 | Aozora Under Girls: Karsome Irony | 119755 | [119755-aozora-under-girls-karsome-irony.json](./119755-aozora-under-girls-karsome-irony.json) |
 | Aozora Under Girls! | 54933 | [54933-aozora-under-girls.json](./54933-aozora-under-girls.json) |
+| Apache | 245155 | [245155-apache.json](./245155-apache.json) |
 | Apache | 600 | [600-apache.json](./600-apache.json) |
 | Apache 3D Sim Flight Simulator | 223635 | [223635-apache-3d-sim-flight-simulator.json](./223635-apache-3d-sim-flight-simulator.json) |
 | Apache Flight | 14166 | [14166-apache-flight.json](./14166-apache-flight.json) |
@@ -8599,6 +8601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apples Busy Day | 302085 | [302085-apples-busy-day.json](./302085-apples-busy-day.json) |
 | Apples in the Abyss | 379088 | [379088-apples-in-the-abyss.json](./379088-apples-in-the-abyss.json) |
 | Apples in the Tree | 380028 | [380028-apples-in-the-tree.json](./380028-apples-in-the-tree.json) |
+| Appleseed | 245142 | [245142-appleseed.json](./245142-appleseed.json) |
 | Appleseed EX | 90931 | [90931-appleseed-ex.json](./90931-appleseed-ex.json) |
 | Appleseed: Prometheus no Shintaku | 38370 | [38370-appleseed-prometheus-no-shintaku.json](./38370-appleseed-prometheus-no-shintaku.json) |
 | AppleSnake | 51989 | [51989-applesnake.json](./51989-applesnake.json) |
@@ -10263,6 +10266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armor Ambush | 11126 | [11126-armor-ambush.json](./11126-armor-ambush.json) |
 | Armor Assault | 24898 | [24898-armor-assault.json](./24898-armor-assault.json) |
 | Armor Attack | 382918 | [382918-armor-attack.json](./382918-armor-attack.json) |
+| Armor Battle | 245153 | [245153-armor-battle.json](./245153-armor-battle.json) |
 | Armor Battle | 245574 | [245574-armor-battle.json](./245574-armor-battle.json) |
 | Armor Battle | 305274 | [305274-armor-battle.json](./305274-armor-battle.json) |
 | Armor Blitz | 276698 | [276698-armor-blitz.json](./276698-armor-blitz.json) |
