@@ -2089,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 2014 | 3181 | [3181-farming-simulator-2014.json](./3181-farming-simulator-2014.json) |
 | Farming Simulator 22 | 146112 | [146112-farming-simulator-22.json](./146112-farming-simulator-22.json) |
 | Farming Simulator 22: Case IH Farmall Anniversary Pack | 276271 | [276271-farming-simulator-22-case-ih-farmall-anniversary-pack.json](./276271-farming-simulator-22-case-ih-farmall-anniversary-pack.json) |
+| Farming Simulator 22: ERO Grapeliner Series 7000 | 214366 | [214366-farming-simulator-22-ero-grapeliner-series-7000.json](./214366-farming-simulator-22-ero-grapeliner-series-7000.json) |
 | Farming Simulator 22: Farm Production Pack | 296643 | [296643-farming-simulator-22-farm-production-pack.json](./296643-farming-simulator-22-farm-production-pack.json) |
 | Farming Simulator 22: Göweil Pack | 239013 | [239013-farming-simulator-22-goweil-pack.json](./239013-farming-simulator-22-goweil-pack.json) |
 | Farming Simulator 22: Platinum Edition | 209191 | [209191-farming-simulator-22-platinum-edition.json](./209191-farming-simulator-22-platinum-edition.json) |
@@ -3390,6 +3391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fifty Words by Powgi | 123311 | [123311-fifty-words-by-powgi.json](./123311-fifty-words-by-powgi.json) |
 | Fig: The Game for Depression | 395113 | [395113-fig-the-game-for-depression.json](./395113-fig-the-game-for-depression.json) |
 | Figaro | 364631 | [364631-figaro.json](./364631-figaro.json) |
+| Figgerits | 214333 | [214333-figgerits.json](./214333-figgerits.json) |
 | Fight | 147425 | [147425-fight.json](./147425-fight.json) |
 | Fight | 150650 | [150650-fight.json](./150650-fight.json) |
 | Fight | 330366 | [330366-fight.json](./330366-fight.json) |
@@ -4161,6 +4163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find someone else | 95237 | [95237-find-someone-else.json](./95237-find-someone-else.json) |
 | Find Sort Match | 358351 | [358351-find-sort-match.json](./358351-find-sort-match.json) |
 | Find Teddy | 78519 | [78519-find-teddy.json](./78519-find-teddy.json) |
+| Find the Alien | 214325 | [214325-find-the-alien.json](./214325-find-the-alien.json) |
 | Find The Backdoor | 290493 | [290493-find-the-backdoor.json](./290493-find-the-backdoor.json) |
 | Find the Beer | 409198 | [409198-find-the-beer.json](./409198-find-the-beer.json) |
 | Find the Birds | 230912 | [230912-find-the-birds.json](./230912-find-the-birds.json) |
