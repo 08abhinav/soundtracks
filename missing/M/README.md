@@ -342,6 +342,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MAD: Global Thermonuclear Warfare | 69534 | [69534-mad-global-thermonuclear-warfare.json](./69534-mad-global-thermonuclear-warfare.json) |
 | MAD: Mutually Assured Destruction | 101727 | [101727-mad-mutually-assured-destruction.json](./101727-mad-mutually-assured-destruction.json) |
 | Madagascar | 230436 | [230436-madagascar.json](./230436-madagascar.json) |
+| Madagascar | 248476 | [248476-madagascar.json](./248476-madagascar.json) |
+| Madagascar | 248477 | [248477-madagascar.json](./248477-madagascar.json) |
 | Madagascar | 3764 | [3764-madagascar.json](./3764-madagascar.json) |
 | Madagascar 3: Europe's Most Wanted | 243270 | [243270-madagascar-3-europes-most-wanted.json](./243270-madagascar-3-europes-most-wanted.json) |
 | Madagascar 3: The Video Game | 19648 | [19648-madagascar-3-the-video-game.json](./19648-madagascar-3-the-video-game.json) |
@@ -1133,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Greenhouse | 372182 | [372182-magical-greenhouse.json](./372182-magical-greenhouse.json) |
 | Magical Harvest | 197156 | [197156-magical-harvest.json](./197156-magical-harvest.json) |
 | Magical Hike | 264592 | [264592-magical-hike.json](./264592-magical-hike.json) |
+| Magical Houshin | 248471 | [248471-magical-houshin.json](./248471-magical-houshin.json) |
 | Magical Jewelry | 48670 | [48670-magical-jewelry.json](./48670-magical-jewelry.json) |
 | Magical Kids Doropie | 48333 | [48333-magical-kids-doropie.json](./48333-magical-kids-doropie.json) |
 | Magical Literary Heroine Natsuki Saves The Literature Club! | 334273 | [334273-magical-literary-heroine-natsuki-saves-the-literature-club.json](./334273-magical-literary-heroine-natsuki-saves-the-literature-club.json) |
@@ -9817,6 +9820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minor Planet Miner | 184396 | [184396-minor-planet-miner.json](./184396-minor-planet-miner.json) |
 | Minor Scale | 245827 | [245827-minor-scale.json](./245827-minor-scale.json) |
 | Minoria | 110121 | [110121-minoria.json](./110121-minoria.json) |
+| Minority Report: Everybody Runs | 248459 | [248459-minority-report-everybody-runs.json](./248459-minority-report-everybody-runs.json) |
 | Minos | 370704 | [370704-minos.json](./370704-minos.json) |
 | Minos Dungeon | 349426 | [349426-minos-dungeon.json](./349426-minos-dungeon.json) |
 | Minos Starfighter VR | 104639 | [104639-minos-starfighter-vr.json](./104639-minos-starfighter-vr.json) |
