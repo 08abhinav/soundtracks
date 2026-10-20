@@ -9057,6 +9057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Mat Mania Exciting Hour | 99793 | [99793-arcade-archives-mat-mania-exciting-hour.json](./99793-arcade-archives-mat-mania-exciting-hour.json) |
 | Arcade Archives: Mazinger Z | 249490 | [249490-arcade-archives-mazinger-z.json](./249490-arcade-archives-mazinger-z.json) |
 | Arcade Archives: Mega Zone | 390482 | [390482-arcade-archives-mega-zone.json](./390482-arcade-archives-mega-zone.json) |
+| Arcade Archives: Megablast | 253224 | [253224-arcade-archives-megablast.json](./253224-arcade-archives-megablast.json) |
 | Arcade Archives: Metal Black | 225889 | [225889-arcade-archives-metal-black.json](./225889-arcade-archives-metal-black.json) |
 | Arcade Archives: Metamorphic Force | 320940 | [320940-arcade-archives-metamorphic-force.json](./320940-arcade-archives-metamorphic-force.json) |
 | Arcade Archives: Midnight Landing | 375404 | [375404-arcade-archives-midnight-landing.json](./375404-arcade-archives-midnight-landing.json) |
@@ -9469,6 +9470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcanora | 272789 | [272789-arcanora.json](./272789-arcanora.json) |
 | Arcanorum | 335300 | [335300-arcanorum.json](./335300-arcanorum.json) |
 | Arcanorum 231 | 359601 | [359601-arcanorum-231.json](./359601-arcanorum-231.json) |
+| Arcanox | 253200 | [253200-arcanox.json](./253200-arcanox.json) |
 | Arcante | 140486 | [140486-arcante.json](./140486-arcante.json) |
 | Arcanterra | 303346 | [303346-arcanterra.json](./303346-arcanterra.json) |
 | Arcanum | 258506 | [258506-arcanum.json](./258506-arcanum.json) |
