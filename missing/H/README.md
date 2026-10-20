@@ -5505,6 +5505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Series 1 | 258194 | [258194-hidden-series-1.json](./258194-hidden-series-1.json) |
 | Hidden Series 2 | 274371 | [274371-hidden-series-2.json](./274371-hidden-series-2.json) |
 | Hidden Shapes: Animals + Lovely Cats | 194437 | [194437-hidden-shapes-animals-lovely-cats.json](./194437-hidden-shapes-animals-lovely-cats.json) |
+| Hidden Shapes: Black Skull + Old West | 213794 | [213794-hidden-shapes-black-skull-old-west.json](./213794-hidden-shapes-black-skull-old-west.json) |
 | Hidden Shapes: Cat Realm | 220037 | [220037-hidden-shapes-cat-realm.json](./220037-hidden-shapes-cat-realm.json) |
 | Hidden Shapes: Lovely Cats | 148466 | [148466-hidden-shapes-lovely-cats.json](./148466-hidden-shapes-lovely-cats.json) |
 | Hidden Sheep Puzzle | 395839 | [395839-hidden-sheep-puzzle.json](./395839-hidden-sheep-puzzle.json) |
@@ -8335,6 +8336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Shadows | 285695 | [285695-house-of-shadows.json](./285695-house-of-shadows.json) |
 | House of Sin | 189967 | [189967-house-of-sin.json](./189967-house-of-sin.json) |
 | House of Slender-Man | 64425 | [64425-house-of-slender-man.json](./64425-house-of-slender-man.json) |
+| House of Specters | 213786 | [213786-house-of-specters.json](./213786-house-of-specters.json) |
 | House of Spikes | 271786 | [271786-house-of-spikes.json](./271786-house-of-spikes.json) |
 | House of Terror | 338328 | [338328-house-of-terror.json](./338328-house-of-terror.json) |
 | House of Terror VR | 23336 | [23336-house-of-terror-vr.json](./23336-house-of-terror-vr.json) |
