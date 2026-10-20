@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Gummy's Life | 29662 | [29662-a-gummys-life.json](./29662-a-gummys-life.json) |
 | A Gunshot in Room 37 | 311660 | [311660-a-gunshot-in-room-37.json](./311660-a-gunshot-in-room-37.json) |
 | A Gypsy's Tale: The Tower of Secrets | 109193 | [109193-a-gypsys-tale-the-tower-of-secrets.json](./109193-a-gypsys-tale-the-tower-of-secrets.json) |
+| A Halloween Valentine | 219975 | [219975-a-halloween-valentine.json](./219975-a-halloween-valentine.json) |
 | A Hand in the Darkness | 28800 | [28800-a-hand-in-the-darkness.json](./28800-a-hand-in-the-darkness.json) |
 | A Handful of Keflings | 83948 | [83948-a-handful-of-keflings.json](./83948-a-handful-of-keflings.json) |
 | A Handful of Lewd Games | 337801 | [337801-a-handful-of-lewd-games.json](./337801-a-handful-of-lewd-games.json) |
@@ -3050,6 +3051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afro Frog | 185378 | [185378-afro-frog.json](./185378-afro-frog.json) |
 | Afro Samurai 2: Revenge of Kuma | 20030 | [20030-afro-samurai-2-revenge-of-kuma.json](./20030-afro-samurai-2-revenge-of-kuma.json) |
 | AfroPenguin & The Forbidden Ramen | 244866 | [244866-afropenguin-and-the-forbidden-ramen.json](./244866-afropenguin-and-the-forbidden-ramen.json) |
+| After | 219966 | [219966-after.json](./219966-after.json) |
 | After | 237551 | [237551-after.json](./237551-after.json) |
 | After a While | 298816 | [298816-after-a-while.json](./298816-after-a-while.json) |
 | After All Enema Masochist Daughter Miki | 82932 | [82932-after-all-enema-masochist-daughter-miki.json](./82932-after-all-enema-masochist-daughter-miki.json) |
@@ -3125,6 +3127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After the Fall: Frontrunner Edition | 191495 | [191495-after-the-fall-frontrunner-edition.json](./191495-after-the-fall-frontrunner-edition.json) |
 | After the Fall: Frontrunner Season | 204497 | [204497-after-the-fall-frontrunner-season.json](./204497-after-the-fall-frontrunner-season.json) |
 | After the Fall: Launch Edition | 196313 | [196313-after-the-fall-launch-edition.json](./196313-after-the-fall-launch-edition.json) |
+| After the Flood | 219968 | [219968-after-the-flood.json](./219968-after-the-flood.json) |
 | After the Inferno | 211423 | [211423-after-the-inferno.json](./211423-after-the-inferno.json) |
 | After the Melodrama Novel | 379500 | [379500-after-the-melodrama-novel.json](./379500-after-the-melodrama-novel.json) |
 | After the Meteor Shower | 230940 | [230940-after-the-meteor-shower.json](./230940-after-the-meteor-shower.json) |
@@ -3227,6 +3230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Again? | 106503 | [106503-again.json](./106503-again.json) |
 | Against | 152211 | [152211-against.json](./152211-against.json) |
 | Against All Odds | 174102 | [174102-against-all-odds.json](./174102-against-all-odds.json) |
+| Against All Odds | 219971 | [219971-against-all-odds.json](./219971-against-all-odds.json) |
 | Against All Odds | 228719 | [228719-against-all-odds.json](./228719-against-all-odds.json) |
 | Against All Odds | 238378 | [238378-against-all-odds.json](./238378-against-all-odds.json) |
 | Against All Skies | 379502 | [379502-against-all-skies.json](./379502-against-all-skies.json) |
@@ -3444,6 +3448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agence | 135115 | [135115-agence.json](./135115-agence.json) |
 | Agency: The Deckbuilding Card Game | 182775 | [182775-agency-the-deckbuilding-card-game.json](./182775-agency-the-deckbuilding-card-game.json) |
 | Agenda | 31784 | [31784-agenda.json](./31784-agenda.json) |
+| Agenda 21 | 219973 | [219973-agenda-21.json](./219973-agenda-21.json) |
 | Agent | 283400 | [283400-agent.json](./283400-agent.json) |
 | Agent 00111 | 120100 | [120100-agent-00111.json](./120100-agent-00111.json) |
 | Agent 01 | 199400 | [199400-agent-01.json](./199400-agent-01.json) |
@@ -3684,6 +3689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ai Yori Aoshi | 72668 | [72668-ai-yori-aoshi.json](./72668-ai-yori-aoshi.json) |
 | Ai Yu Ming De Bi Duan | 151021 | [151021-ai-yu-ming-de-bi-duan.json](./151021-ai-yu-ming-de-bi-duan.json) |
 | Ai-(Onic) | 197878 | [197878-ai-onic.json](./197878-ai-onic.json) |
+| AI: Art Impostor | 219980 | [219980-ai-art-impostor.json](./219980-ai-art-impostor.json) |
 | AI: Rampage | 33611 | [33611-ai-rampage.json](./33611-ai-rampage.json) |
 | AI: The Somnium Files | 104971 | [104971-ai-the-somnium-files.json](./104971-ai-the-somnium-files.json) |
 | AI: The Somnium Files - Limited Edition | 136219 | [136219-ai-the-somnium-files-limited-edition.json](./136219-ai-the-somnium-files-limited-edition.json) |
@@ -3855,6 +3861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Dasher | 198318 | [198318-air-dasher.json](./198318-air-dasher.json) |
 | Air Defence | 250902 | [250902-air-defence.json](./250902-air-defence.json) |
 | Air Defender | 379164 | [379164-air-defender.json](./379164-air-defender.json) |
+| Air Defenders | 219981 | [219981-air-defenders.json](./219981-air-defenders.json) |
 | Air Delivery | 285591 | [285591-air-delivery.json](./285591-air-delivery.json) |
 | Air Duel | 10445 | [10445-air-duel.json](./10445-air-duel.json) |
 | Air Field Hockey | 175157 | [175157-air-field-hockey.json](./175157-air-field-hockey.json) |
@@ -4510,6 +4517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemist Shop Simulator | 312149 | [312149-alchemist-shop-simulator.json](./312149-alchemist-shop-simulator.json) |
 | Alchemist Simulator | 120110 | [120110-alchemist-simulator.json](./120110-alchemist-simulator.json) |
 | Alchemist Tris's Desire | 211417 | [211417-alchemist-triss-desire.json](./211417-alchemist-triss-desire.json) |
+| Alchemist: The Potion Monger | 219987 | [219987-alchemist-the-potion-monger.json](./219987-alchemist-the-potion-monger.json) |
 | Alchemist's Alcove | 372798 | [372798-alchemists-alcove.json](./372798-alchemists-alcove.json) |
 | Alchemist's Apprentice | 341889 | [341889-alchemists-apprentice.json](./341889-alchemists-apprentice.json) |
 | Alchemist's Apprentice 2: Strength of Stones | 341901 | [341901-alchemists-apprentice-2-strength-of-stones.json](./341901-alchemists-apprentice-2-strength-of-stones.json) |
@@ -4797,6 +4805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice Trapped Beyond Wonderland | 165057 | [165057-alice-trapped-beyond-wonderland.json](./165057-alice-trapped-beyond-wonderland.json) |
 | Alice Trapped in Wonderland | 90668 | [90668-alice-trapped-in-wonderland.json](./90668-alice-trapped-in-wonderland.json) |
 | Alice VR: Roboto Factory | 171386 | [171386-alice-vr-roboto-factory.json](./171386-alice-vr-roboto-factory.json) |
+| Alice with Gatling | 219989 | [219989-alice-with-gatling.json](./219989-alice-with-gatling.json) |
 | Alice: Adventures in Wonderland | 66129 | [66129-alice-adventures-in-wonderland.json](./66129-alice-adventures-in-wonderland.json) |
 | Alice: An Interactive Museum | 74064 | [74064-alice-an-interactive-museum.json](./74064-alice-an-interactive-museum.json) |
 | Alice: Asylum | 82393 | [82393-alice-asylum.json](./82393-alice-asylum.json) |
@@ -4965,6 +4974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Invader | 92417 | [92417-alien-invader.json](./92417-alien-invader.json) |
 | Alien Invaders from the Planet Plorth | 77167 | [77167-alien-invaders-from-the-planet-plorth.json](./77167-alien-invaders-from-the-planet-plorth.json) |
 | Alien Invaders Plus | 41533 | [41533-alien-invaders-plus.json](./41533-alien-invaders-plus.json) |
+| Alien Invasion | 219991 | [219991-alien-invasion.json](./219991-alien-invasion.json) |
 | Alien Invasion | 273129 | [273129-alien-invasion.json](./273129-alien-invasion.json) |
 | Alien Invasion | 295468 | [295468-alien-invasion.json](./295468-alien-invasion.json) |
 | Alien Invasion | 94885 | [94885-alien-invasion.json](./94885-alien-invasion.json) |
@@ -5685,6 +5695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphabets Machine | 89695 | [89695-alphabets-machine.json](./89695-alphabets-machine.json) |
 | Alphabetto's | 411622 | [411622-alphabettos.json](./411622-alphabettos.json) |
 | Alphabetty Saga | 116974 | [116974-alphabetty-saga.json](./116974-alphabetty-saga.json) |
+| AlphaBlue | 219992 | [219992-alphablue.json](./219992-alphablue.json) |
 | AlphaBounce | 66781 | [66781-alphabounce.json](./66781-alphabounce.json) |
 | Alphacity | 270722 | [270722-alphacity.json](./270722-alphacity.json) |
 | Alphadia | 19872 | [19872-alphadia.json](./19872-alphadia.json) |
