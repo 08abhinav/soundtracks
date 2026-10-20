@@ -3162,6 +3162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch Bus | 232033 | [232033-catch-bus.json](./232033-catch-bus.json) |
 | Catch Canvas | 33095 | [33095-catch-canvas.json](./33095-catch-canvas.json) |
 | Catch Driver | 112145 | [112145-catch-driver.json](./112145-catch-driver.json) |
+| Catch Fish | 246272 | [246272-catch-fish.json](./246272-catch-fish.json) |
 | Catch Flex: AI Dance Game | 280164 | [280164-catch-flex-ai-dance-game.json](./280164-catch-flex-ai-dance-game.json) |
 | Catch Flex: Quest | 347722 | [347722-catch-flex-quest.json](./347722-catch-flex-quest.json) |
 | Catch Hina | 185590 | [185590-catch-hina.json](./185590-catch-hina.json) |
@@ -9423,6 +9424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Come on Picot | 47559 | [47559-come-on-picot.json](./47559-come-on-picot.json) |
 | Come on Up | 182161 | [182161-come-on-up.json](./182161-come-on-up.json) |
 | Come on,Fantasy baby! | 325730 | [325730-come-on-fantasy-baby.json](./325730-come-on-fantasy-baby.json) |
+| Come On! | 246275 | [246275-come-on.json](./246275-come-on.json) |
 | Come Out Guys | 389680 | [389680-come-out-guys.json](./389680-come-out-guys.json) |
 | Come Out, Cat | 363947 | [363947-come-out-cat.json](./363947-come-out-cat.json) |
 | Come To Dust | 283730 | [283730-come-to-dust.json](./283730-come-to-dust.json) |
@@ -12305,6 +12307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Bike | 412995 | [412995-crazy-bike.json](./412995-crazy-bike.json) |
 | Crazy Bike Hill Racing | 310283 | [310283-crazy-bike-hill-racing.json](./310283-crazy-bike-hill-racing.json) |
 | Crazy Bikers 2 | 94883 | [94883-crazy-bikers-2.json](./94883-crazy-bikers-2.json) |
+| Crazy Bikers 3 | 246254 | [246254-crazy-bikers-3.json](./246254-crazy-bikers-3.json) |
 | Crazy Bill: Smashing Zelebrities at the Zombie Stars Hotel | 175875 | [175875-crazy-bill-smashing-zelebrities-at-the-zombie-stars-hotel.json](./175875-crazy-bill-smashing-zelebrities-at-the-zombie-stars-hotel.json) |
 | Crazy BMX World | 147780 | [147780-crazy-bmx-world.json](./147780-crazy-bmx-world.json) |
 | Crazy Boom | 147386 | [147386-crazy-boom.json](./147386-crazy-boom.json) |
@@ -12513,6 +12516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Race | 166846 | [166846-crazy-race.json](./166846-crazy-race.json) |
 | Crazy Rails | 179481 | [179481-crazy-rails.json](./179481-crazy-rails.json) |
 | Crazy Road | 90189 | [90189-crazy-road.json](./90189-crazy-road.json) |
+| Crazy Road: Trouble Racer | 246251 | [246251-crazy-road-trouble-racer.json](./246251-crazy-road-trouble-racer.json) |
 | Crazy Roads | 399693 | [399693-crazy-roads.json](./399693-crazy-roads.json) |
 | Crazy Robot Ball | 356206 | [356206-crazy-robot-ball.json](./356206-crazy-robot-ball.json) |
 | Crazy Sapper 3D: Classic Mode | 170963 | [170963-crazy-sapper-3d-classic-mode.json](./170963-crazy-sapper-3d-classic-mode.json) |
