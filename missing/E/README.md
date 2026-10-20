@@ -4737,6 +4737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis IV: Emperor | 133911 | [133911-europa-universalis-iv-emperor.json](./133911-europa-universalis-iv-emperor.json) |
 | Europa Universalis IV: Emperor Content Pack | 227344 | [227344-europa-universalis-iv-emperor-content-pack.json](./227344-europa-universalis-iv-emperor-content-pack.json) |
 | Europa Universalis IV: Golden Century - Immersion Pack | 169310 | [169310-europa-universalis-iv-golden-century-immersion-pack.json](./169310-europa-universalis-iv-golden-century-immersion-pack.json) |
+| Europa Universalis IV: History Lessons Bundle | 254292 | [254292-europa-universalis-iv-history-lessons-bundle.json](./254292-europa-universalis-iv-history-lessons-bundle.json) |
 | Europa Universalis IV: Leviathan | 149954 | [149954-europa-universalis-iv-leviathan.json](./149954-europa-universalis-iv-leviathan.json) |
 | Europa Universalis IV: Lions of the North | 215925 | [215925-europa-universalis-iv-lions-of-the-north.json](./215925-europa-universalis-iv-lions-of-the-north.json) |
 | Europa Universalis IV: Mandate of Heaven | 27520 | [27520-europa-universalis-iv-mandate-of-heaven.json](./27520-europa-universalis-iv-mandate-of-heaven.json) |
