@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:41:22.201Z",
-  "total_soundtracks": 2267,
+  "generated_at": "2026-10-20T21:41:32.615Z",
+  "total_soundtracks": 2268,
   "games": [
     {
       "igdb_id": 7522,
@@ -20187,6 +20187,20 @@
         {
           "album_name": "Shinobi Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/41QgZ8doUjuQkAkvsYFlp1",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 194741,
+      "game_name": "Ship of Fools",
+      "game_url": "https://ostdb.net/games/ship-of-fools",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27354ede71c7b456aeaf85e1f96",
+      "albums": [
+        {
+          "album_name": "Ship of Fools (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3AlAfHHR6XjWCvgS8dsrJS",
           "apple_music_url": "",
           "album_link_url": ""
         }
