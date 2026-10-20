@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T22:15:50.762Z",
-  "total_soundtracks": 2340,
+  "generated_at": "2026-10-20T22:16:02.344Z",
+  "total_soundtracks": 2341,
   "games": [
     {
       "igdb_id": 7522,
@@ -12957,6 +12957,20 @@
         {
           "album_name": "Kind Words (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0dbOknL5rOAjW665YaVp7n",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 28048,
+      "game_name": "King's Quest: Chapter 1 - A Knight to Remember",
+      "game_url": "https://ostdb.net/games/kings-quest-chapter-1-a-knight-to-remember",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b08fbac426f12797537ca9e8",
+      "albums": [
+        {
+          "album_name": "King's Quest: Chapter 1 - A Knight to Remember (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/47km49moQrmKk4O55HbbY6",
           "apple_music_url": "",
           "album_link_url": ""
         }
