@@ -2471,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bat Blitz | 248323 | [248323-bat-blitz.json](./248323-bat-blitz.json) |
 | Bat Cage | 319570 | [319570-bat-cage.json](./319570-bat-cage.json) |
 | Bat Egg | 165556 | [165556-bat-egg.json](./165556-bat-egg.json) |
+| Bat Enchanter Witch | 228284 | [228284-bat-enchanter-witch.json](./228284-bat-enchanter-witch.json) |
 | Bat Fizz | 343936 | [343936-bat-fizz.json](./343936-bat-fizz.json) |
 | Bat Galaxy | 326779 | [326779-bat-galaxy.json](./326779-bat-galaxy.json) |
 | Bat Hero | 236388 | [236388-bat-hero.json](./236388-bat-hero.json) |
@@ -5120,6 +5121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Betsy's Hospital | 159067 | [159067-betsys-hospital.json](./159067-betsys-hospital.json) |
 | Better Boyfriend | 130234 | [130234-better-boyfriend.json](./130234-better-boyfriend.json) |
 | Better Call Saul | 221831 | [221831-better-call-saul.json](./221831-better-call-saul.json) |
+| Better Call Saul Kart | 228261 | [228261-better-call-saul-kart.json](./228261-better-call-saul-kart.json) |
 | Better Days | 341862 | [341862-better-days.json](./341862-better-days.json) |
 | Better Days | 376835 | [376835-better-days.json](./376835-better-days.json) |
 | Better Dead Than Alien! | 11955 | [11955-better-dead-than-alien.json](./11955-better-dead-than-alien.json) |
@@ -5372,6 +5374,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond: Fire & Ice | 386301 | [386301-beyond-fire-and-ice.json](./386301-beyond-fire-and-ice.json) |
 | Beyond: Light Advent | 140286 | [140286-beyond-light-advent.json](./140286-beyond-light-advent.json) |
 | Beyond: Light Advent - Collector's Edition | 36464 | [36464-beyond-light-advent-collectors-edition.json](./36464-beyond-light-advent-collectors-edition.json) |
+| Beyond: Star Descendant - Collector’s Edition | 228255 | [228255-beyond-star-descendant-collector-s-edition.json](./228255-beyond-star-descendant-collector-s-edition.json) |
+| Beyond: The Fading Signal - Collector’s Edition | 228256 | [228256-beyond-the-fading-signal-collector-s-edition.json](./228256-beyond-the-fading-signal-collector-s-edition.json) |
 | Beyond: The Static | 108901 | [108901-beyond-the-static.json](./108901-beyond-the-static.json) |
 | Beyond.Frontiers | 316733 | [316733-beyond-frontiers.json](./316733-beyond-frontiers.json) |
 | Beyonders | 408275 | [408275-beyonders.json](./408275-beyonders.json) |
@@ -12818,6 +12822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Grinder | 190952 | [190952-bullet-grinder.json](./190952-bullet-grinder.json) |
 | Bullet Head | 393531 | [393531-bullet-head.json](./393531-bullet-head.json) |
 | Bullet Heat | 166836 | [166836-bullet-heat.json](./166836-bullet-heat.json) |
+| Bullet Heaven | 228297 | [228297-bullet-heaven.json](./228297-bullet-heaven.json) |
 | Bullet Heck | 245790 | [245790-bullet-heck.json](./245790-bullet-heck.json) |
 | Bullet Heli | 176463 | [176463-bullet-heli.json](./176463-bullet-heli.json) |
 | Bullet Hell Action Roguelites | 333753 | [333753-bullet-hell-action-roguelites.json](./333753-bullet-hell-action-roguelites.json) |
