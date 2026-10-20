@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:36:44.431Z",
-  "total_soundtracks": 2249,
+  "generated_at": "2026-10-20T21:36:55.168Z",
+  "total_soundtracks": 2250,
   "games": [
     {
       "igdb_id": 7522,
@@ -9301,6 +9301,20 @@
           "spotify_url": "https://open.spotify.com/album/3UV3ajyl0B6xcXXPDlsXud",
           "apple_music_url": "https://music.apple.com/us/album/gang-beasts-original-soundtrack/1322845244",
           "album_link_url": "https://album.link/i/1322845244"
+        }
+      ]
+    },
+    {
+      "igdb_id": 230468,
+      "game_name": "Garten of Banban",
+      "game_url": "https://ostdb.net/games/garten-of-banban",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735eb3614ace4d42b3137e4b83",
+      "albums": [
+        {
+          "album_name": "Garten of Banban (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/31BRVeLCSPec0eRIfpOwBg",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
