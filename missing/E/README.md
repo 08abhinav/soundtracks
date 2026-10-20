@@ -1086,6 +1086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egaint | 79760 | [79760-egaint.json](./79760-egaint.json) |
 | Egao no Renkinjutsu | 238099 | [238099-egao-no-renkinjutsu.json](./238099-egao-no-renkinjutsu.json) |
 | Egg | 108799 | [108799-egg.json](./108799-egg.json) |
+| Egg | 231737 | [231737-egg.json](./231737-egg.json) |
 | Egg | 285669 | [285669-egg.json](./285669-egg.json) |
 | Egg | 305447 | [305447-egg.json](./305447-egg.json) |
 | Egg Bunny 2 | 199387 | [199387-egg-bunny-2.json](./199387-egg-bunny-2.json) |
@@ -2840,6 +2841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Space 2: Vaulters | 82431 | [82431-endless-space-2-vaulters.json](./82431-endless-space-2-vaulters.json) |
 | Endless Space: Definitive Edition | 231650 | [231650-endless-space-definitive-edition.json](./231650-endless-space-definitive-edition.json) |
 | Endless Space: Emperor Edition | 28083 | [28083-endless-space-emperor-edition.json](./28083-endless-space-emperor-edition.json) |
+| Endless Stars | 231750 | [231750-endless-stars.json](./231750-endless-stars.json) |
 | Endless Suburbia | 255700 | [255700-endless-suburbia.json](./255700-endless-suburbia.json) |
 | Endless Summer: Book 1 | 313747 | [313747-endless-summer-book-1.json](./313747-endless-summer-book-1.json) |
 | Endless Summer: Book 2 | 313748 | [313748-endless-summer-book-2.json](./313748-endless-summer-book-2.json) |
@@ -3364,6 +3366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Prose | 28169 | [28169-epic-prose.json](./28169-epic-prose.json) |
 | Epic Prose: Special Edition | 52020 | [52020-epic-prose-special-edition.json](./52020-epic-prose-special-edition.json) |
 | Epic Quest of the 4 Crystals | 34695 | [34695-epic-quest-of-the-4-crystals.json](./34695-epic-quest-of-the-4-crystals.json) |
+| Epic Race: The Stadium | 231751 | [231751-epic-race-the-stadium.json](./231751-epic-race-the-stadium.json) |
 | Epic Racers | 198460 | [198460-epic-racers.json](./198460-epic-racers.json) |
 | Epic Racers | 233642 | [233642-epic-racers.json](./233642-epic-racers.json) |
 | Epic Rogue | 288050 | [288050-epic-rogue.json](./288050-epic-rogue.json) |
