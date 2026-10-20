@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O Conde de Monte Cristo | 293914 | [293914-o-conde-de-monte-cristo.json](./293914-o-conde-de-monte-cristo.json) |
 | O Conto de Ada | 307229 | [307229-o-conto-de-ada.json](./307229-o-conto-de-ada.json) |
 | O Horror Amarelo | 338939 | [338939-o-horror-amarelo.json](./338939-o-horror-amarelo.json) |
+| O Jardim Magico 3 | 251380 | [251380-o-jardim-magico-3.json](./251380-o-jardim-magico-3.json) |
 | O Livro Mágico | 290084 | [290084-o-livro-magico.json](./290084-o-livro-magico.json) |
 | O Queijorcista | 298408 | [298408-o-queijorcista.json](./298408-o-queijorcista.json) |
 | O Rei | 121649 | [121649-o-rei.json](./121649-o-rei.json) |
