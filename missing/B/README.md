@@ -6895,6 +6895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Shadow | 365197 | [365197-black-shadow.json](./365197-black-shadow.json) |
 | Black Sheep | 172703 | [172703-black-sheep.json](./172703-black-sheep.json) |
 | Black Sheep | 202262 | [202262-black-sheep.json](./202262-black-sheep.json) |
+| Black Sheep | 230681 | [230681-black-sheep.json](./230681-black-sheep.json) |
 | Black Sheep | 272215 | [272215-black-sheep.json](./272215-black-sheep.json) |
 | Black Sheep Town | 217805 | [217805-black-sheep-town.json](./217805-black-sheep-town.json) |
 | Black Sigil: Blade of the Exiled | 21124 | [21124-black-sigil-blade-of-the-exiled.json](./21124-black-sigil-blade-of-the-exiled.json) |
@@ -6957,6 +6958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlackberryNova: Sports Club | 221759 | [221759-blackberrynova-sports-club.json](./221759-blackberrynova-sports-club.json) |
 | Blackblade Revenant | 327178 | [327178-blackblade-revenant.json](./327178-blackblade-revenant.json) |
 | Blackbody Theory of Motion | 149357 | [149357-blackbody-theory-of-motion.json](./149357-blackbody-theory-of-motion.json) |
+| Blackbox | 230722 | [230722-blackbox.json](./230722-blackbox.json) |
 | Blackbox | 328240 | [328240-blackbox.json](./328240-blackbox.json) |
 | Blackbox | 37056 | [37056-blackbox.json](./37056-blackbox.json) |
 | BlackBox | 130951 | [130951-blackbox.json](./130951-blackbox.json) |
@@ -9394,6 +9396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombe | 230363 | [230363-bombe.json](./230363-bombe.json) |
 | Bombeiro Mascarado | 183966 | [183966-bombeiro-mascarado.json](./183966-bombeiro-mascarado.json) |
 | Bomber | 171464 | [171464-bomber.json](./171464-bomber.json) |
+| Bomber | 230682 | [230682-bomber.json](./230682-bomber.json) |
 | Bomber | 249775 | [249775-bomber.json](./249775-bomber.json) |
 | Bomber | 270399 | [270399-bomber.json](./270399-bomber.json) |
 | Bomber | 401914 | [401914-bomber.json](./401914-bomber.json) |
@@ -10180,6 +10183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottle of Sickness | 386216 | [386216-bottle-of-sickness.json](./386216-bottle-of-sickness.json) |
 | Bottle Rockets | 177447 | [177447-bottle-rockets.json](./177447-bottle-rockets.json) |
 | Bottle Tap | 289767 | [289767-bottle-tap.json](./289767-bottle-tap.json) |
+| Bottle Taps Race | 230679 | [230679-bottle-taps-race.json](./230679-bottle-taps-race.json) |
 | Bottle Target Shoot | 102249 | [102249-bottle-target-shoot.json](./102249-bottle-target-shoot.json) |
 | Bottle_Shooter | 55240 | [55240-bottle-shooter.json](./55240-bottle-shooter.json) |
 | Bottle: Pilgrim | 74638 | [74638-bottle-pilgrim.json](./74638-bottle-pilgrim.json) |
@@ -10827,6 +10831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Show | 247976 | [247976-brain-show.json](./247976-brain-show.json) |
 | Brain Spa | 69207 | [69207-brain-spa.json](./69207-brain-spa.json) |
 | Brain Storm: Tower Bombarde | 47131 | [47131-brain-storm-tower-bombarde.json](./47131-brain-storm-tower-bombarde.json) |
+| Brain Switch | 230684 | [230684-brain-switch.json](./230684-brain-switch.json) |
 | Brain Teaser Bundle | 231073 | [231073-brain-teaser-bundle.json](./231073-brain-teaser-bundle.json) |
 | Brain Teaser: Memory Limit | 117762 | [117762-brain-teaser-memory-limit.json](./117762-brain-teaser-memory-limit.json) |
 | Brain Teasers & Math Puzzles | 101975 | [101975-brain-teasers-and-math-puzzles.json](./101975-brain-teasers-and-math-puzzles.json) |
@@ -11149,6 +11154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawler Friends | 58186 | [58186-brawler-friends.json](./58186-brawler-friends.json) |
 | Brawlers | 266240 | [266240-brawlers.json](./266240-brawlers.json) |
 | Brawlers of Duality | 310500 | [310500-brawlers-of-duality.json](./310500-brawlers-of-duality.json) |
+| Brawlhalla BCX 2022 Pack | 230714 | [230714-brawlhalla-bcx-2022-pack.json](./230714-brawlhalla-bcx-2022-pack.json) |
 | Brawlhalla x Guacamelee Crossover | 342146 | [342146-brawlhalla-x-guacamelee-crossover.json](./342146-brawlhalla-x-guacamelee-crossover.json) |
 | Brawlhalla X Lara Croft Bundle | 381166 | [381166-brawlhalla-x-lara-croft-bundle.json](./381166-brawlhalla-x-lara-croft-bundle.json) |
 | Brawlhalla X Year of Shadow Launch | 342153 | [342153-brawlhalla-x-year-of-shadow-launch.json](./342153-brawlhalla-x-year-of-shadow-launch.json) |
@@ -12887,6 +12893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullring | 281373 | [281373-bullring.json](./281373-bullring.json) |
 | Bulls and Bears | 92154 | [92154-bulls-and-bears.json](./92154-bulls-and-bears.json) |
 | Bulls and Cows | 210592 | [210592-bulls-and-cows.json](./210592-bulls-and-cows.json) |
+| Bulls and Cows | 230685 | [230685-bulls-and-cows.json](./230685-bulls-and-cows.json) |
 | Bulls town | 112749 | [112749-bulls-town.json](./112749-bulls-town.json) |
 | Bulls Vs Blazers and the NBA Playoffs | 42638 | [42638-bulls-vs-blazers-and-the-nba-playoffs.json](./42638-bulls-vs-blazers-and-the-nba-playoffs.json) |
 | Bullseye | 152485 | [152485-bullseye.json](./152485-bullseye.json) |
