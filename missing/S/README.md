@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.M.A.R.T.: Adventures Mission Math - Sabotage at the Space Station | 85385 | [85385-s-m-a-r-t-adventures-mission-math-sabotage-at-the-space-station.json](./85385-s-m-a-r-t-adventures-mission-math-sabotage-at-the-space-station.json) |
 | S.M.A.S.H.E.D. | 55108 | [55108-s-m-a-s-h-e-d.json](./55108-s-m-a-s-h-e-d.json) |
 | S.M.P.C.U.: Special Monster Pest Control Unit | 381279 | [381279-s-m-p-c-u-special-monster-pest-control-unit.json](./381279-s-m-p-c-u-special-monster-pest-control-unit.json) |
+| S.M.S | 240075 | [240075-s-m-s.json](./240075-s-m-s.json) |
 | S.N.A.P. | 390475 | [390475-s-n-a-p.json](./390475-s-n-a-p.json) |
 | S.N.I.P.E.R: Hunter Scope - Hero's Edition | 387680 | [387680-s-n-i-p-e-r-hunter-scope-heros-edition.json](./387680-s-n-i-p-e-r-hunter-scope-heros-edition.json) |
 | S.N.I.P.E.R: Hunter Scope - Tactical Arsenal | 306551 | [306551-s-n-i-p-e-r-hunter-scope-tactical-arsenal.json](./306551-s-n-i-p-e-r-hunter-scope-tactical-arsenal.json) |
@@ -4509,6 +4510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Cities | 188589 | [188589-seven-cities.json](./188589-seven-cities.json) |
 | Seven Days | 219619 | [219619-seven-days.json](./219619-seven-days.json) |
 | Seven days with the Ghost | 110935 | [110935-seven-days-with-the-ghost.json](./110935-seven-days-with-the-ghost.json) |
+| Seven Days: Anata to Sugosu Nanokakan | 240072 | [240072-seven-days-anata-to-sugosu-nanokakan.json](./240072-seven-days-anata-to-sugosu-nanokakan.json) |
 | Seven Deadly Sins | 269851 | [269851-seven-deadly-sins.json](./269851-seven-deadly-sins.json) |
 | Seven Deadly Sins: Anime Girls Fantasy Love | 410405 | [410405-seven-deadly-sins-anime-girls-fantasy-love.json](./410405-seven-deadly-sins-anime-girls-fantasy-love.json) |
 | Seven Doorways | 209632 | [209632-seven-doorways.json](./209632-seven-doorways.json) |
@@ -4826,6 +4828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Milfs | 230905 | [230905-sexy-milfs.json](./230905-sexy-milfs.json) |
 | Sexy Miss | 116264 | [116264-sexy-miss.json](./116264-sexy-miss.json) |
 | Sexy Mystic Survivors | 199508 | [199508-sexy-mystic-survivors.json](./199508-sexy-mystic-survivors.json) |
+| Sexy New Year | 240041 | [240041-sexy-new-year.json](./240041-sexy-new-year.json) |
 | Sexy Nurse Puzzle | 367288 | [367288-sexy-nurse-puzzle.json](./367288-sexy-nurse-puzzle.json) |
 | Sexy Pussies | 384875 | [384875-sexy-pussies.json](./384875-sexy-pussies.json) |
 | Sexy Puzzle | 335443 | [335443-sexy-puzzle.json](./335443-sexy-puzzle.json) |
@@ -12206,6 +12209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solenars Edge Rebirth | 50759 | [50759-solenars-edge-rebirth.json](./50759-solenars-edge-rebirth.json) |
 | Solenars Edge Rebirth: After Story | 174173 | [174173-solenars-edge-rebirth-after-story.json](./174173-solenars-edge-rebirth-after-story.json) |
 | Soletrando: Nova Ortografia | 181940 | [181940-soletrando-nova-ortografia.json](./181940-soletrando-nova-ortografia.json) |
+| Solfege | 240067 | [240067-solfege.json](./240067-solfege.json) |
 | SolForge | 16487 | [16487-solforge.json](./16487-solforge.json) |
 | Solheim | 397830 | [397830-solheim.json](./397830-solheim.json) |
 | Soli-tair-ror | 382969 | [382969-soli-tair-ror.json](./382969-soli-tair-ror.json) |
