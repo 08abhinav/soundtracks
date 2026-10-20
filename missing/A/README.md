@@ -8295,6 +8295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aoki Ookami to Shiroki Mejika | 30922 | [30922-aoki-ookami-to-shiroki-mejika.json](./30922-aoki-ookami-to-shiroki-mejika.json) |
 | Aoki Ookami to Shiroki Mejika: Genchou Hishi | 86001 | [86001-aoki-ookami-to-shiroki-mejika-genchou-hishi.json](./86001-aoki-ookami-to-shiroki-mejika-genchou-hishi.json) |
 | Aoki Shinjuku | 305866 | [305866-aoki-shinjuku.json](./305866-aoki-shinjuku.json) |
+| Aoki Tsubasa no Chevalier | 233903 | [233903-aoki-tsubasa-no-chevalier.json](./233903-aoki-tsubasa-no-chevalier.json) |
 | AOL Girls Museum | 313758 | [313758-aol-girls-museum.json](./313758-aol-girls-museum.json) |
 | Aonar | 259292 | [259292-aonar.json](./259292-aonar.json) |
 | Aonatsu Line | 214547 | [214547-aonatsu-line.json](./214547-aonatsu-line.json) |
