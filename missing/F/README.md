@@ -8300,6 +8300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractal Block World | 152744 | [152744-fractal-block-world.json](./152744-fractal-block-world.json) |
 | Fractal Chicken | 105220 | [105220-fractal-chicken.json](./105220-fractal-chicken.json) |
 | Fractal City | 200933 | [200933-fractal-city.json](./200933-fractal-city.json) |
+| Fractal Combat | 227721 | [227721-fractal-combat.json](./227721-fractal-combat.json) |
 | Fractal Craft | 364635 | [364635-fractal-craft.json](./364635-fractal-craft.json) |
 | Fractal Evolution | 190453 | [190453-fractal-evolution.json](./190453-fractal-evolution.json) |
 | Fractal Factory | 302163 | [302163-fractal-factory.json](./302163-fractal-factory.json) |
