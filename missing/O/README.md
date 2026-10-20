@@ -250,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obstacles Race | 288356 | [288356-obstacles-race.json](./288356-obstacles-race.json) |
 | Obstruction | 107692 | [107692-obstruction.json](./107692-obstruction.json) |
 | Obsurity | 121322 | [121322-obsurity.json](./121322-obsurity.json) |
+| Obunga | 213225 | [213225-obunga.json](./213225-obunga.json) |
 | Obversion | 120388 | [120388-obversion.json](./120388-obversion.json) |
 | Ocarina of Time + Majora's Mask Crossover Randomizer | 231548 | [231548-ocarina-of-time-majoras-mask-crossover-randomizer.json](./231548-ocarina-of-time-majoras-mask-crossover-randomizer.json) |
 | Ocarina of Time Redux | 172478 | [172478-ocarina-of-time-redux.json](./172478-ocarina-of-time-redux.json) |
