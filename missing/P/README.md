@@ -3843,6 +3843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PGA Tour 2K23: Deluxe Edition | 214136 | [214136-pga-tour-2k23-deluxe-edition.json](./214136-pga-tour-2k23-deluxe-edition.json) |
 | PGA Tour 2K23: Style & Swing Pack | 307973 | [307973-pga-tour-2k23-style-and-swing-pack.json](./307973-pga-tour-2k23-style-and-swing-pack.json) |
 | PGA Tour 2K23: Tiger Woods Edition | 221421 | [221421-pga-tour-2k23-tiger-woods-edition.json](./221421-pga-tour-2k23-tiger-woods-edition.json) |
+| PGA Tour 2K23: Tiger Woods Signature Sunday Pack | 237813 | [237813-pga-tour-2k23-tiger-woods-signature-sunday-pack.json](./237813-pga-tour-2k23-tiger-woods-signature-sunday-pack.json) |
 | PGA Tour 2K25 | 328079 | [328079-pga-tour-2k25.json](./328079-pga-tour-2k25.json) |
 | PGA Tour 2K25: Deluxe Edition | 328081 | [328081-pga-tour-2k25-deluxe-edition.json](./328081-pga-tour-2k25-deluxe-edition.json) |
 | PGA Tour 2K25: Legend Edition | 328082 | [328082-pga-tour-2k25-legend-edition.json](./328082-pga-tour-2k25-legend-edition.json) |
@@ -4963,6 +4964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pill Box | 277535 | [277535-pill-box.json](./277535-pill-box.json) |
 | Pill Cosbi | 74359 | [74359-pill-cosbi.json](./74359-pill-cosbi.json) |
 | Pill Fight | 345017 | [345017-pill-fight.json](./345017-pill-fight.json) |
+| Pill Game | 237778 | [237778-pill-game.json](./237778-pill-game.json) |
 | Pill Mania | 101074 | [101074-pill-mania.json](./101074-pill-mania.json) |
 | Pill Puzzle | 156080 | [156080-pill-puzzle.json](./156080-pill-puzzle.json) |
 | Pill Puzzle | 241868 | [241868-pill-puzzle.json](./241868-pill-puzzle.json) |
@@ -8837,6 +8839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polegli | 57115 | [57115-polegli.json](./57115-polegli.json) |
 | Polemista | 404403 | [404403-polemista.json](./404403-polemista.json) |
 | Polestar | 220145 | [220145-polestar.json](./220145-polestar.json) |
+| Polestar | 237834 | [237834-polestar.json](./237834-polestar.json) |
 | Polgar: Magic Detective | 191175 | [191175-polgar-magic-detective.json](./191175-polgar-magic-detective.json) |
 | Poli Díaz | 112871 | [112871-poli-diaz.json](./112871-poli-diaz.json) |
 | Poliana Cake Crush | 248801 | [248801-poliana-cake-crush.json](./248801-poliana-cake-crush.json) |
