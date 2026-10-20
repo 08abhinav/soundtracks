@@ -364,6 +364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madcap Grotto | 330290 | [330290-madcap-grotto.json](./330290-madcap-grotto.json) |
 | Madcap Mosaic | 212746 | [212746-madcap-mosaic.json](./212746-madcap-mosaic.json) |
 | Madcap's Plane | 367621 | [367621-madcaps-plane.json](./367621-madcaps-plane.json) |
+| Madcar F-1 Multiplayer | 252590 | [252590-madcar-f-1-multiplayer.json](./252590-madcar-f-1-multiplayer.json) |
 | Madcoaster | 22324 | [22324-madcoaster.json](./22324-madcoaster.json) |
 | MadCowBalls2 | 367153 | [367153-madcowballs2.json](./367153-madcowballs2.json) |
 | MaDD Bomber | 91545 | [91545-madd-bomber.json](./91545-madd-bomber.json) |
@@ -1614,6 +1615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maiden Voyage | 299770 | [299770-maiden-voyage.json](./299770-maiden-voyage.json) |
 | Maiden's Exhibition: Shoujo-tachi no Danmaku Tenrankai | 278867 | [278867-maidens-exhibition-shoujo-tachi-no-danmaku-tenrankai.json](./278867-maidens-exhibition-shoujo-tachi-no-danmaku-tenrankai.json) |
 | Maiden's Extreme Fist 'Bun-ga-rua' | 360112 | [360112-maidens-extreme-fist-bun-ga-rua.json](./360112-maidens-extreme-fist-bun-ga-rua.json) |
+| Maiden's Reception: Shoujo-tachi no Danmaku Hirouen | 252579 | [252579-maidens-reception-shoujo-tachi-no-danmaku-hirouen.json](./252579-maidens-reception-shoujo-tachi-no-danmaku-hirouen.json) |
 | Maidens of a Hollow Dream | 90257 | [90257-maidens-of-a-hollow-dream.json](./90257-maidens-of-a-hollow-dream.json) |
 | Maidens of the Ocean Solitaire | 164926 | [164926-maidens-of-the-ocean-solitaire.json](./164926-maidens-of-the-ocean-solitaire.json) |
 | MaidGardener | 253904 | [253904-maidgardener.json](./253904-maidgardener.json) |
