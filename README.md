@@ -654,6 +654,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b27305e76a4367d9a79472eeeb14" width="60" /> | [Giana Sisters: Twisted Dreams](https://ostdb.net/games/giana-sisters-twisted-dreams) | **Giana Sisters: Twisted Dreams - Original Soundtrack** · [Spotify](https://open.spotify.com/album/2N1TZDls2IwO2Ythp3htG9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d1fb777e163ee5ea29c659b9" width="60" /> | [Gitaroo Man](https://ostdb.net/games/gitaroo-man) | **“GITAROO-MAN” ORIGINAL SOUNDTRACK** · [Spotify](https://open.spotify.com/album/5OKe383gL2uOrvtEYO8h5o) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739746e12f73acef159f6156b6" width="60" /> | [Gnog](https://ostdb.net/games/gnog) | **Gnog (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7qaWGfwuLl1L1V4FG8khFm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f34feafdeec2dcf06691e609" width="60" /> | [Goblin Sword](https://ostdb.net/games/goblin-sword) | **Goblin Sword (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5ne9b1LaJWwu33L0mnzWWo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27348e23bab9ae3e5bdcda9e5db" width="60" /> | [God Eater 3](https://ostdb.net/games/god-eater-3) | **GOD EATER 3 ORIGINAL SOUNDTRACK** · [Spotify](https://open.spotify.com/album/2f2DWVR0yOHotIUg1WvyKC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8308515e3a4e530fd4c7b6f" width="60" /> | [God of War](https://ostdb.net/games/god-of-war) | **God of War (2005) (Original Soundtrack from the Video Game)** · [Spotify](https://open.spotify.com/album/4tZGORVhBzO0Kzj5oaOOMn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27395cee0cbfd697f89f4b624e1" width="60" /> | [God of War](https://ostdb.net/games/god-of-war) | **God of War (PlayStation Soundtrack)** · [Spotify](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) |
@@ -1894,4 +1895,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2211 soundtracks · last updated 2026-10-20T10:50:38.102Z_
+_2212 soundtracks · last updated 2026-10-20T10:50:52.215Z_
