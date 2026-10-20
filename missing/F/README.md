@@ -1277,6 +1277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Tennis | 239162 | [239162-family-tennis.json](./239162-family-tennis.json) |
 | Family Tennis | 80651 | [80651-family-tennis.json](./80651-family-tennis.json) |
 | Family Tennis Advance | 49581 | [49581-family-tennis-advance.json](./49581-family-tennis-advance.json) |
+| Family Tetris | 251359 | [251359-family-tetris.json](./251359-family-tetris.json) |
 | Family Town | 219265 | [219265-family-town.json](./219265-family-town.json) |
 | Family Trainer | 142814 | [142814-family-trainer.json](./142814-family-trainer.json) |
 | Family Trainer: Fuuun! Takeshi-jou 2 | 64499 | [64499-family-trainer-fuuun-takeshi-jou-2.json](./64499-family-trainer-fuuun-takeshi-jou-2.json) |
@@ -9002,6 +9003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fritz Chess 17 Steam Edition | 162708 | [162708-fritz-chess-17-steam-edition.json](./162708-fritz-chess-17-steam-edition.json) |
 | Fritz for Fun 13 | 17949 | [17949-fritz-for-fun-13.json](./17949-fritz-for-fun-13.json) |
 | Fritz Mobile | 60385 | [60385-fritz-mobile.json](./60385-fritz-mobile.json) |
+| Fritz: Don't Call Me a Chess Bot | 251396 | [251396-fritz-dont-call-me-a-chess-bot.json](./251396-fritz-dont-call-me-a-chess-bot.json) |
 | Fritz: Your Chess Coach | 262648 | [262648-fritz-your-chess-coach.json](./262648-fritz-your-chess-coach.json) |
 | Frizzle | 319194 | [319194-frizzle.json](./319194-frizzle.json) |
 | Frizzy | 34764 | [34764-frizzy.json](./34764-frizzy.json) |
