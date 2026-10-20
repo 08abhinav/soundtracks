@@ -8177,6 +8177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Root Connections | 249911 | [249911-root-connections.json](./249911-root-connections.json) |
 | Root Double: Before Crime * After Days | 79295 | [79295-root-double-before-crime-after-days.json](./79295-root-double-before-crime-after-days.json) |
 | Root Double: Before Crime * After Days - Xtend Edition | 33617 | [33617-root-double-before-crime-after-days-xtend-edition.json](./33617-root-double-before-crime-after-days-xtend-edition.json) |
+| Root Down | 250158 | [250158-root-down.json](./250158-root-down.json) |
 | Root Infinity Rexx | 61660 | [61660-root-infinity-rexx.json](./61660-root-infinity-rexx.json) |
 | Root Infinity Rexx: Limited Edition | 254365 | [254365-root-infinity-rexx-limited-edition.json](./254365-root-infinity-rexx-limited-edition.json) |
 | Root Letter: Last Answer | 106807 | [106807-root-letter-last-answer.json](./106807-root-letter-last-answer.json) |
