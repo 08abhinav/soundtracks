@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B-17 Squadron | 171924 | [171924-b-17-squadron.json](./171924-b-17-squadron.json) |
 | B-24 | 44127 | [44127-b-24.json](./44127-b-24.json) |
 | B-Air Micro | 315357 | [315357-b-air-micro.json](./315357-b-air-micro.json) |
+| B-B0 The Delivery Bot | 249051 | [249051-b-b0-the-delivery-bot.json](./249051-b-b0-the-delivery-bot.json) |
 | B-Bobs | 41205 | [41205-b-bobs.json](./41205-b-bobs.json) |
 | B-Boy | 20565 | [20565-b-boy.json](./20565-b-boy.json) |
 | B-Cubed | 159169 | [159169-b-cubed.json](./159169-b-cubed.json) |
@@ -1442,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Sbang | 271179 | [271179-banana-sbang.json](./271179-banana-sbang.json) |
 | Banana Simulator | 312450 | [312450-banana-simulator.json](./312450-banana-simulator.json) |
 | Banana Tap | 314875 | [314875-banana-tap.json](./314875-banana-tap.json) |
+| Banana Yetti | 249054 | [249054-banana-yetti.json](./249054-banana-yetti.json) |
 | Banana-Clicker | 322657 | [322657-banana-clicker.json](./322657-banana-clicker.json) |
 | Banana-Shaped | 309490 | [309490-banana-shaped.json](./309490-banana-shaped.json) |
 | Bananaganza | 366736 | [366736-bananaganza.json](./366736-bananaganza.json) |
@@ -4056,6 +4058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat the House 2 | 71503 | [71503-beat-the-house-2.json](./71503-beat-the-house-2.json) |
 | Beat the Humans | 239793 | [239793-beat-the-humans.json](./239793-beat-the-humans.json) |
 | Beat the Machine: Rebooted | 135767 | [135767-beat-the-machine-rebooted.json](./135767-beat-the-machine-rebooted.json) |
+| Beat the Machine: Rebooted - Invasion | 249023 | [249023-beat-the-machine-rebooted-invasion.json](./249023-beat-the-machine-rebooted-invasion.json) |
 | Beat the Markets | 348262 | [348262-beat-the-markets.json](./348262-beat-the-markets.json) |
 | Beat the Moles | 157023 | [157023-beat-the-moles.json](./157023-beat-the-moles.json) |
 | Beat the Mons! | 153135 | [153135-beat-the-mons.json](./153135-beat-the-mons.json) |
@@ -11516,6 +11519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricks Breaker Quest | 105516 | [105516-bricks-breaker-quest.json](./105516-bricks-breaker-quest.json) |
 | Bricks Breaker Shot | 96821 | [96821-bricks-breaker-shot.json](./96821-bricks-breaker-shot.json) |
 | Bricks Breaker: Manga Girls | 205575 | [205575-bricks-breaker-manga-girls.json](./205575-bricks-breaker-manga-girls.json) |
+| Bricks Crusher Breaker Ball | 249020 | [249020-bricks-crusher-breaker-ball.json](./249020-bricks-crusher-breaker-ball.json) |
 | Bricks King | 255756 | [255756-bricks-king.json](./255756-bricks-king.json) |
 | Bricks Kingdom | 321510 | [321510-bricks-kingdom.json](./321510-bricks-kingdom.json) |
 | Bricks n Balls | 89246 | [89246-bricks-n-balls.json](./89246-bricks-n-balls.json) |
