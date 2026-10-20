@@ -2207,6 +2207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unstrong Legacy | 187458 | [187458-unstrong-legacy.json](./187458-unstrong-legacy.json) |
 | Unsubscribed: The Game | 117913 | [117913-unsubscribed-the-game.json](./117913-unsubscribed-the-game.json) |
 | UnSummoning: the Spectral Horde | 34058 | [34058-unsummoning-the-spectral-horde.json](./34058-unsummoning-the-spectral-horde.json) |
+| Unsung Ballads | 244618 | [244618-unsung-ballads.json](./244618-unsung-ballads.json) |
 | Unsung Empires: The Cholas | 244379 | [244379-unsung-empires-the-cholas.json](./244379-unsung-empires-the-cholas.json) |
 | Unsung Escape | 356830 | [356830-unsung-escape.json](./356830-unsung-escape.json) |
 | Unsung Heroes 1898 | 352886 | [352886-unsung-heroes-1898.json](./352886-unsung-heroes-1898.json) |
@@ -2755,6 +2756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utsusemi no Meguri | 69323 | [69323-utsusemi-no-meguri.json](./69323-utsusemi-no-meguri.json) |
 | Utter a Name | 326216 | [326216-utter-a-name.json](./326216-utter-a-name.json) |
 | Utter Inverse | 213415 | [213415-utter-inverse.json](./213415-utter-inverse.json) |
+| Utter Takedown | 244607 | [244607-utter-takedown.json](./244607-utter-takedown.json) |
 | Utterance | 410721 | [410721-utterance.json](./410721-utterance.json) |
 | UtuRoom | 416648 | [416648-uturoom.json](./416648-uturoom.json) |
 | Uuno Turhapuro muuttaa maalle | 9074 | [9074-uuno-turhapuro-muuttaa-maalle.json](./9074-uuno-turhapuro-muuttaa-maalle.json) |
