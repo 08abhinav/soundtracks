@@ -4101,6 +4101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senpai ga Imouto no Saigo no Natsu | 406199 | [406199-senpai-ga-imouto-no-saigo-no-natsu.json](./406199-senpai-ga-imouto-no-saigo-no-natsu.json) |
 | Senpai Puzzle: Waifu Summer | 322839 | [322839-senpai-puzzle-waifu-summer.json](./322839-senpai-puzzle-waifu-summer.json) |
 | Senpai Simulator | 180539 | [180539-senpai-simulator.json](./180539-senpai-simulator.json) |
+| Senpai Teaches Me Japanese | 230123 | [230123-senpai-teaches-me-japanese.json](./230123-senpai-teaches-me-japanese.json) |
 | Senpai, Suki Desu...... Osu!: Boku o Shitatte Kureru Kouhai wa Chibikko Bishoujo de...... Yankee!? | 409418 | [409418-senpai-suki-desu-osu-boku-o-shitatte-kureru-kouhai-wa-chibikko-bishoujo-de-yankee.json](./409418-senpai-suki-desu-osu-boku-o-shitatte-kureru-kouhai-wa-chibikko-bishoujo-de-yankee.json) |
 | Senpie | 374048 | [374048-senpie.json](./374048-senpie.json) |
 | Senpon | 295998 | [295998-senpon.json](./295998-senpon.json) |
@@ -6655,6 +6656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shmup Love Boom | 34831 | [34831-shmup-love-boom.json](./34831-shmup-love-boom.json) |
 | Shmup Mania | 201130 | [201130-shmup-mania.json](./201130-shmup-mania.json) |
 | Shmup! | 408773 | [408773-shmup.json](./408773-shmup.json) |
+| Shmups Pack 2x1 | 230129 | [230129-shmups-pack-2x1.json](./230129-shmups-pack-2x1.json) |
 | Shmups Skill Test | 33834 | [33834-shmups-skill-test.json](./33834-shmups-skill-test.json) |
 | Shnipers | 56484 | [56484-shnipers.json](./56484-shnipers.json) |
 | Sho Chiku Bai Pachinko | 41526 | [41526-sho-chiku-bai-pachinko.json](./41526-sho-chiku-bai-pachinko.json) |
@@ -13241,6 +13243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Slider | 233042 | [233042-sonic-slider.json](./233042-sonic-slider.json) |
 | Sonic Smackdown | 134575 | [134575-sonic-smackdown.json](./134575-sonic-smackdown.json) |
 | Sonic Small World | 332453 | [332453-sonic-small-world.json](./332453-sonic-small-world.json) |
+| Sonic Smash Brothers | 230160 | [230160-sonic-smash-brothers.json](./230160-sonic-smash-brothers.json) |
 | Sonic Smash Revived | 317348 | [317348-sonic-smash-revived.json](./317348-sonic-smash-revived.json) |
 | Sonic SMS Remake | 227798 | [227798-sonic-sms-remake.json](./227798-sonic-sms-remake.json) |
 | Sonic Souls | 314901 | [314901-sonic-souls.json](./314901-sonic-souls.json) |
@@ -16585,12 +16588,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splatoon | 7335 | [7335-splatoon.json](./7335-splatoon.json) |
 | Splatoon 2 | 26761 | [26761-splatoon-2.json](./26761-splatoon-2.json) |
 | Splatoon 2 + Splatoon 2 Octo Expansion Bundle | 136382 | [136382-splatoon-2-splatoon-2-octo-expansion-bundle.json](./136382-splatoon-2-splatoon-2-octo-expansion-bundle.json) |
+| Splatoon 2: Version 2.0.0 | 230108 | [230108-splatoon-2-version-2-0-0.json](./230108-splatoon-2-version-2-0-0.json) |
+| Splatoon 2: Version 3.0.0 | 230109 | [230109-splatoon-2-version-3-0-0.json](./230109-splatoon-2-version-3-0-0.json) |
+| Splatoon 2: Version 4.0.0 | 230110 | [230110-splatoon-2-version-4-0-0.json](./230110-splatoon-2-version-4-0-0.json) |
+| Splatoon 2: Version 4.1.0 | 230113 | [230113-splatoon-2-version-4-1-0.json](./230113-splatoon-2-version-4-1-0.json) |
+| Splatoon 2: Version 5.0.0 | 230111 | [230111-splatoon-2-version-5-0-0.json](./230111-splatoon-2-version-5-0-0.json) |
+| Splatoon 3: Chill Season 2022 | 230115 | [230115-splatoon-3-chill-season-2022.json](./230115-splatoon-3-chill-season-2022.json) |
+| Splatoon 3: Drizzle Season 2022 | 230114 | [230114-splatoon-3-drizzle-season-2022.json](./230114-splatoon-3-drizzle-season-2022.json) |
 | Splatoon 3: Expansion Pass | 236681 | [236681-splatoon-3-expansion-pass.json](./236681-splatoon-3-expansion-pass.json) |
 | Splatoon 3: Inkopolis | 236677 | [236677-splatoon-3-inkopolis.json](./236677-splatoon-3-inkopolis.json) |
 | Splatoon 3: Rainbow Alterna | 358239 | [358239-splatoon-3-rainbow-alterna.json](./358239-splatoon-3-rainbow-alterna.json) |
 | Splatoon 3: Sizzle Season | 306191 | [306191-splatoon-3-sizzle-season.json](./306191-splatoon-3-sizzle-season.json) |
 | Splatoon Raiders | 348977 | [348977-splatoon-raiders.json](./348977-splatoon-raiders.json) |
 | Splatoon: Torrential Climb | 316713 | [316713-splatoon-torrential-climb.json](./316713-splatoon-torrential-climb.json) |
+| Splatoon: Version 2.0.0 | 230106 | [230106-splatoon-version-2-0-0.json](./230106-splatoon-version-2-0-0.json) |
 | Splatt Curling | 261224 | [261224-splatt-curling.json](./261224-splatt-curling.json) |
 | Splatter | 173134 | [173134-splatter.json](./173134-splatter.json) |
 | Splatter: Zombiecalypse Now + The Hong Kong Massacre | 226337 | [226337-splatter-zombiecalypse-now-the-hong-kong-massacre.json](./226337-splatter-zombiecalypse-now-the-hong-kong-massacre.json) |
@@ -19812,6 +19823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellarune | 272221 | [272221-stellarune.json](./272221-stellarune.json) |
 | Stellifier | 317018 | [317018-stellifier.json](./317018-stellifier.json) |
 | Stellights | 102102 | [102102-stellights.json](./102102-stellights.json) |
+| Stellinavra | 230155 | [230155-stellinavra.json](./230155-stellinavra.json) |
 | Stellona | 152861 | [152861-stellona.json](./152861-stellona.json) |
 | Stelloop | 232818 | [232818-stelloop.json](./232818-stelloop.json) |
 | Stem | 24944 | [24944-stem.json](./24944-stem.json) |
@@ -23908,6 +23920,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Lost Worlds: Crusade | 313348 | [313348-super-mario-lost-worlds-crusade.json](./313348-super-mario-lost-worlds-crusade.json) |
 | Super Mario Maker | 7339 | [7339-super-mario-maker.json](./7339-super-mario-maker.json) |
 | Super Mario Maker 2 | 115276 | [115276-super-mario-maker-2.json](./115276-super-mario-maker-2.json) |
+| Super Mario Maker 2: A Legendary Update | 230104 | [230104-super-mario-maker-2-a-legendary-update.json](./230104-super-mario-maker-2-a-legendary-update.json) |
+| Super Mario Maker 2: World Maker Update | 230105 | [230105-super-mario-maker-2-world-maker-update.json](./230105-super-mario-maker-2-world-maker-update.json) |
 | Super Mario Maker for Nintendo 3DS | 26157 | [26157-super-mario-maker-for-nintendo-3ds.json](./26157-super-mario-maker-for-nintendo-3ds.json) |
 | Super Mario Maker for Nspire | 262660 | [262660-super-mario-maker-for-nspire.json](./262660-super-mario-maker-for-nspire.json) |
 | Super Mario Maker: Key Update! | 364580 | [364580-super-mario-maker-key-update.json](./364580-super-mario-maker-key-update.json) |
