@@ -3901,6 +3901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Feet | 369635 | [369635-beat-feet.json](./369635-beat-feet.json) |
 | Beat Fever: Music Tap Rhythm Game | 82995 | [82995-beat-fever-music-tap-rhythm-game.json](./82995-beat-fever-music-tap-rhythm-game.json) |
 | Beat Flip | 166848 | [166848-beat-flip.json](./166848-beat-flip.json) |
+| Beat Game | 245701 | [245701-beat-game.json](./245701-beat-game.json) |
 | Beat Guru | 121488 | [121488-beat-guru.json](./121488-beat-guru.json) |
 | Beat Hazard | 7404 | [7404-beat-hazard.json](./7404-beat-hazard.json) |
 | Beat Hazard 3 | 199447 | [199447-beat-hazard-3.json](./199447-beat-hazard-3.json) |
@@ -5139,6 +5140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Betweenside | 102357 | [102357-betweenside.json](./102357-betweenside.json) |
 | Beulah and the Hundred Birds | 60456 | [60456-beulah-and-the-hundred-birds.json](./60456-beulah-and-the-hundred-birds.json) |
 | Bevel's Painting | 121030 | [121030-bevels-painting.json](./121030-bevels-painting.json) |
+| Beverage Craft | 245718 | [245718-beverage-craft.json](./245718-beverage-craft.json) |
 | Beverage Hills | 219203 | [219203-beverage-hills.json](./219203-beverage-hills.json) |
 | Beverly Hills Cop | 11956 | [11956-beverly-hills-cop.json](./11956-beverly-hills-cop.json) |
 | Beverly Hills Cop | 77002 | [77002-beverly-hills-cop.json](./77002-beverly-hills-cop.json) |
@@ -8678,6 +8680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Fire: Void of Sorrows | 223954 | [223954-blue-fire-void-of-sorrows.json](./223954-blue-fire-void-of-sorrows.json) |
 | Blue Fish and Underwater Worlds | 146275 | [146275-blue-fish-and-underwater-worlds.json](./146275-blue-fish-and-underwater-worlds.json) |
 | Blue Fish Yokohama | 212824 | [212824-blue-fish-yokohama.json](./212824-blue-fish-yokohama.json) |
+| Blue Flow | 245680 | [245680-blue-flow.json](./245680-blue-flow.json) |
 | Blue Flow | 380033 | [380033-blue-flow.json](./380033-blue-flow.json) |
 | Blue Flow Fandisc | 408309 | [408309-blue-flow-fandisc.json](./408309-blue-flow-fandisc.json) |
 | Blue Forest Story: Kaze no Fuuin | 37204 | [37204-blue-forest-story-kaze-no-fuuin.json](./37204-blue-forest-story-kaze-no-fuuin.json) |
@@ -12192,6 +12195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble: Return of Great Dragon | 321668 | [321668-bubble-bobble-return-of-great-dragon.json](./321668-bubble-bobble-return-of-great-dragon.json) |
 | Bubble Bobble: Sugar Dungeons | 351212 | [351212-bubble-bobble-sugar-dungeons.json](./351212-bubble-bobble-sugar-dungeons.json) |
 | Bubble Bobble: Sugar Dungeons - Deluxe Edition | 376241 | [376241-bubble-bobble-sugar-dungeons-deluxe-edition.json](./376241-bubble-bobble-sugar-dungeons-deluxe-edition.json) |
+| Bubble Bop | 245702 | [245702-bubble-bop.json](./245702-bubble-bop.json) |
 | Bubble Box: 6 In 1 | 253257 | [253257-bubble-box-6-in-1.json](./253257-bubble-box-6-in-1.json) |
 | Bubble Boy | 59804 | [59804-bubble-boy.json](./59804-bubble-boy.json) |
 | Bubble Breaking | 168337 | [168337-bubble-breaking.json](./168337-bubble-breaking.json) |
