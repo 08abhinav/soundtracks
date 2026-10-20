@@ -4459,6 +4459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seterra | 130072 | [130072-seterra.json](./130072-seterra.json) |
 | Seth | 278380 | [278380-seth.json](./278380-seth.json) |
 | Seth Johnson's Sink or Skim | 82144 | [82144-seth-johnsons-sink-or-skim.json](./82144-seth-johnsons-sink-or-skim.json) |
+| Setheria: A Quest for Moonaris | 251974 | [251974-setheria-a-quest-for-moonaris.json](./251974-setheria-a-quest-for-moonaris.json) |
 | Sethi and the Inca Wizard | 321857 | [321857-sethi-and-the-inca-wizard.json](./321857-sethi-and-the-inca-wizard.json) |
 | Sethian | 26160 | [26160-sethian.json](./26160-sethian.json) |
 | SetPoint Volleyball | 422498 | [422498-setpoint-volleyball.json](./422498-setpoint-volleyball.json) |
@@ -11559,6 +11560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowRunner: Season 7 - Compete & Conquer | 148144 | [148144-snowrunner-season-7-compete-and-conquer.json](./148144-snowrunner-season-7-compete-and-conquer.json) |
 | SnowRunner: Season 8 - Grand Harvest | 148145 | [148145-snowrunner-season-8-grand-harvest.json](./148145-snowrunner-season-8-grand-harvest.json) |
 | SnowRunner: Tatra Dual Pack | 214469 | [214469-snowrunner-tatra-dual-pack.json](./214469-snowrunner-tatra-dual-pack.json) |
+| SnowRunner: The Mastodon | 251989 | [251989-snowrunner-the-mastodon.json](./251989-snowrunner-the-mastodon.json) |
 | SnowRunner: True Colors Vinyl Wrap | 148153 | [148153-snowrunner-true-colors-vinyl-wrap.json](./148153-snowrunner-true-colors-vinyl-wrap.json) |
 | SnowRunner: Western Star 49X | 148147 | [148147-snowrunner-western-star-49x.json](./148147-snowrunner-western-star-49x.json) |
 | SnowRunner: Year 1 Pass + Year 2 Pass + Year 3 Pass + Year 4 Pass | 284962 | [284962-snowrunner-year-1-pass-year-2-pass-year-3-pass-year-4-pass.json](./284962-snowrunner-year-1-pass-year-2-pass-year-3-pass-year-4-pass.json) |
@@ -18492,6 +18494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardust | 318797 | [318797-stardust.json](./318797-stardust.json) |
 | Stardust | 372069 | [372069-stardust.json](./372069-stardust.json) |
 | Stardust Arena | 202582 | [202582-stardust-arena.json](./202582-stardust-arena.json) |
+| Stardust Defenders | 251970 | [251970-stardust-defenders.json](./251970-stardust-defenders.json) |
 | Stardust Demon | 291687 | [291687-stardust-demon.json](./291687-stardust-demon.json) |
 | Stardust Escape | 373158 | [373158-stardust-escape.json](./373158-stardust-escape.json) |
 | Stardust League | 222391 | [222391-stardust-league.json](./222391-stardust-league.json) |
@@ -19082,6 +19085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Static: The Beginning | 337744 | [337744-static-the-beginning.json](./337744-static-the-beginning.json) |
 | Statik | 169678 | [169678-statik.json](./169678-statik.json) |
 | Station 117 | 224644 | [224644-station-117.json](./224644-station-117.json) |
+| Station 13 | 252003 | [252003-station-13.json](./252003-station-13.json) |
 | Station 17 | 165629 | [165629-station-17.json](./165629-station-17.json) |
 | Station 21 - Space Station Simulator | 28883 | [28883-station-21-space-station-simulator.json](./28883-station-21-space-station-simulator.json) |
 | Station 228 | 75786 | [75786-station-228.json](./75786-station-228.json) |
@@ -20531,6 +20535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategy Battles​ | 221753 | [221753-strategy-battles.json](./221753-strategy-battles.json) |
 | Strategy Challenges Collection 1 | 134475 | [134475-strategy-challenges-collection-1.json](./134475-strategy-challenges-collection-1.json) |
 | Strategy Challenges Collection 2 | 80846 | [80846-strategy-challenges-collection-2.json](./80846-strategy-challenges-collection-2.json) |
+| Strategy Game but With a Penguin Who Has a Sword | 251959 | [251959-strategy-game-but-with-a-penguin-who-has-a-sword.json](./251959-strategy-game-but-with-a-penguin-who-has-a-sword.json) |
 | Strategy Game Pack Volume 1 | 71718 | [71718-strategy-game-pack-volume-1.json](./71718-strategy-game-pack-volume-1.json) |
 | Strategy Games | 84213 | [84213-strategy-games.json](./84213-strategy-games.json) |
 | Strategy Master | 320832 | [320832-strategy-master.json](./320832-strategy-master.json) |
