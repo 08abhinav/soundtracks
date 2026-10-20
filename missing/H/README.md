@@ -8772,6 +8772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugo på nye Eventyr | 300687 | [300687-hugo-pa-nye-eventyr.json](./300687-hugo-pa-nye-eventyr.json) |
 | Hugo Safari | 64500 | [64500-hugo-safari.json](./64500-hugo-safari.json) |
 | Hugo Troll Race | 64496 | [64496-hugo-troll-race.json](./64496-hugo-troll-race.json) |
+| Hugo XL | 204888 | [204888-hugo-xl.json](./204888-hugo-xl.json) |
 | Hugo: Black Diamond Fever | 230878 | [230878-hugo-black-diamond-fever.json](./230878-hugo-black-diamond-fever.json) |
 | Hugo: Black Diamond Fever | 23556 | [23556-hugo-black-diamond-fever.json](./23556-hugo-black-diamond-fever.json) |
 | Hugo: Bukkazoom | 165052 | [165052-hugo-bukkazoom.json](./165052-hugo-bukkazoom.json) |
@@ -8888,6 +8889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humankind: Day One Edition | 139935 | [139935-humankind-day-one-edition.json](./139935-humankind-day-one-edition.json) |
 | Humankind: Definitive Edition | 283778 | [283778-humankind-definitive-edition.json](./283778-humankind-definitive-edition.json) |
 | Humankind: Deluxe Edition | 169173 | [169173-humankind-deluxe-edition.json](./169173-humankind-deluxe-edition.json) |
+| Humankind: Heritage Edition | 204916 | [204916-humankind-heritage-edition.json](./204916-humankind-heritage-edition.json) |
 | Humankind: Together We Rule | 220818 | [220818-humankind-together-we-rule.json](./220818-humankind-together-we-rule.json) |
 | Humanoid | 263788 | [263788-humanoid.json](./263788-humanoid.json) |
 | Humanoid | 393495 | [393495-humanoid.json](./393495-humanoid.json) |
