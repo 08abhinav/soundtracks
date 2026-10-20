@@ -4432,6 +4432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Shot | 43190 | [43190-winning-shot.json](./43190-winning-shot.json) |
 | Winning Solution | 47545 | [47545-winning-solution.json](./47545-winning-solution.json) |
 | Winning Tactics | 368492 | [368492-winning-tactics.json](./368492-winning-tactics.json) |
+| Winnose | 254305 | [254305-winnose.json](./254305-winnose.json) |
 | Winoa Wizard's Witchy Quest to Womanhood vs. the Botanical Bitches | 344524 | [344524-winoa-wizards-witchy-quest-to-womanhood-vs-the-botanical-bitches.json](./344524-winoa-wizards-witchy-quest-to-womanhood-vs-the-botanical-bitches.json) |
 | WinPlex | 94723 | [94723-winplex.json](./94723-winplex.json) |
 | WinRisk | 92815 | [92815-winrisk.json](./92815-winrisk.json) |
