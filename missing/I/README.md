@@ -2703,6 +2703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infected: Super Soldier Project | 270088 | [270088-infected-super-soldier-project.json](./270088-infected-super-soldier-project.json) |
 | Infected: The Twin Vaccine | 62424 | [62424-infected-the-twin-vaccine.json](./62424-infected-the-twin-vaccine.json) |
 | Infected: The Twin Vaccine - Collector's Edition | 125309 | [125309-infected-the-twin-vaccine-collectors-edition.json](./125309-infected-the-twin-vaccine-collectors-edition.json) |
+| Infected: Zombie Apocalypse Survival Story | 236152 | [236152-infected-zombie-apocalypse-survival-story.json](./236152-infected-zombie-apocalypse-survival-story.json) |
 | Infection | 129082 | [129082-infection.json](./129082-infection.json) |
 | Infection | 142474 | [142474-infection.json](./142474-infection.json) |
 | Infection | 259494 | [259494-infection.json](./259494-infection.json) |
@@ -3951,6 +3952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Radius | 115062 | [115062-into-the-radius.json](./115062-into-the-radius.json) |
 | Into the Radius 2 | 279128 | [279128-into-the-radius-2.json](./279128-into-the-radius-2.json) |
 | Into the Restless Ruins | 295885 | [295885-into-the-restless-ruins.json](./295885-into-the-restless-ruins.json) |
+| Into the Sky | 236142 | [236142-into-the-sky.json](./236142-into-the-sky.json) |
 | Into the Slimy Mines | 391764 | [391764-into-the-slimy-mines.json](./391764-into-the-slimy-mines.json) |
 | Into the Soup | 126554 | [126554-into-the-soup.json](./126554-into-the-soup.json) |
 | Into the Stars | 21564 | [21564-into-the-stars.json](./21564-into-the-stars.json) |
