@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:38:08.608Z",
-  "total_soundtracks": 2257,
+  "generated_at": "2026-10-20T21:38:18.737Z",
+  "total_soundtracks": 2258,
   "games": [
     {
       "igdb_id": 7522,
@@ -16266,6 +16266,20 @@
           "album_name": "Nioh 3 Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/0Gia74LV7RF9JGdQTWeWxi",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 275392,
+      "game_name": "No Case Should Remain Unsolved",
+      "game_url": "https://ostdb.net/games/no-case-should-remain-unsolved",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273433f4cc69ff94204d0d39165",
+      "albums": [
+        {
+          "album_name": "No Case Should Remain Unsolved (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1HG3880k5Qiforw4SPy9Gc",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
