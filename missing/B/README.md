@@ -2579,6 +2579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: The Enemy Within - Episode 3: Fractured Mask | 80910 | [80910-batman-the-enemy-within-episode-3-fractured-mask.json](./80910-batman-the-enemy-within-episode-3-fractured-mask.json) |
 | Batman: The Enemy Within - Episode 4: What Ails You | 81123 | [81123-batman-the-enemy-within-episode-4-what-ails-you.json](./81123-batman-the-enemy-within-episode-4-what-ails-you.json) |
 | Batman: The Enemy Within - Episode 5: Same Stitch | 96066 | [96066-batman-the-enemy-within-episode-5-same-stitch.json](./96066-batman-the-enemy-within-episode-5-same-stitch.json) |
+| Batman: The Enemy Within - Shadows Edition | 238332 | [238332-batman-the-enemy-within-shadows-edition.json](./238332-batman-the-enemy-within-shadows-edition.json) |
 | Batman: The Junkyard Challenge | 298937 | [298937-batman-the-junkyard-challenge.json](./298937-batman-the-junkyard-challenge.json) |
 | Batman: The Telltale Series - Episode 2: Children of Arkham | 26964 | [26964-batman-the-telltale-series-episode-2-children-of-arkham.json](./26964-batman-the-telltale-series-episode-2-children-of-arkham.json) |
 | Batman: The Video Game | 10510 | [10510-batman-the-video-game.json](./10510-batman-the-video-game.json) |
