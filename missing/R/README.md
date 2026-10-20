@@ -7180,6 +7180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocketfella | 58660 | [58660-rocketfella.json](./58660-rocketfella.json) |
 | RocketGirl | 76709 | [76709-rocketgirl.json](./76709-rocketgirl.json) |
 | Rocketing | 142223 | [142223-rocketing.json](./142223-rocketing.json) |
+| Rocketio 3 | 228925 | [228925-rocketio-3.json](./228925-rocketio-3.json) |
 | Rocketman | 261663 | [261663-rocketman.json](./261663-rocketman.json) |
 | Rocketman | 287548 | [287548-rocketman.json](./287548-rocketman.json) |
 | Rocketmen: Axis of Evil | 20273 | [20273-rocketmen-axis-of-evil.json](./20273-rocketmen-axis-of-evil.json) |
