@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Pals | 91753 | [91753-baby-pals.json](./91753-baby-pals.json) |
 | Baby Panda World | 231968 | [231968-baby-panda-world.json](./231968-baby-panda-world.json) |
 | Baby Panda's Airport | 105968 | [105968-baby-pandas-airport.json](./105968-baby-pandas-airport.json) |
+| Baby Panda's Birthday Party | 233381 | [233381-baby-pandas-birthday-party.json](./233381-baby-pandas-birthday-party.json) |
 | Baby Panda's Forest Feast: Party Fun | 105846 | [105846-baby-pandas-forest-feast-party-fun.json](./105846-baby-pandas-forest-feast-party-fun.json) |
 | Baby Panda's Vacation | 106599 | [106599-baby-pandas-vacation.json](./106599-baby-pandas-vacation.json) |
 | Baby Princess Phone | 101656 | [101656-baby-princess-phone.json](./101656-baby-princess-phone.json) |
@@ -460,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Untold | 409746 | [409746-backrooms-untold.json](./409746-backrooms-untold.json) |
 | Backrooms VS | 250942 | [250942-backrooms-vs.json](./250942-backrooms-vs.json) |
 | BackRooms X | 337438 | [337438-backrooms-x.json](./337438-backrooms-x.json) |
+| Backrooms: Apprehension | 233366 | [233366-backrooms-apprehension.json](./233366-backrooms-apprehension.json) |
 | Backrooms: Between Lost Dimension | 304101 | [304101-backrooms-between-lost-dimension.json](./304101-backrooms-between-lost-dimension.json) |
 | Backrooms: Beyond One Year | 289230 | [289230-backrooms-beyond-one-year.json](./289230-backrooms-beyond-one-year.json) |
 | Backrooms: Blackhole | 404886 | [404886-backrooms-blackhole.json](./404886-backrooms-blackhole.json) |
@@ -646,6 +648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Cards | 360446 | [360446-bad-cards.json](./360446-bad-cards.json) |
 | Bad Cat | 12398 | [12398-bad-cat.json](./12398-bad-cat.json) |
 | Bad Cat Angry Granny | 391256 | [391256-bad-cat-angry-granny.json](./391256-bad-cat-angry-granny.json) |
+| Bad Cat Sam | 233372 | [233372-bad-cat-sam.json](./233372-bad-cat-sam.json) |
 | Bad Caterpillar | 33411 | [33411-bad-caterpillar.json](./33411-bad-caterpillar.json) |
 | Bad Cheese | 320146 | [320146-bad-cheese.json](./320146-bad-cheese.json) |
 | Bad Chicken | 212906 | [212906-bad-chicken.json](./212906-bad-chicken.json) |
@@ -2351,6 +2354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball | 346079 | [346079-basketball.json](./346079-basketball.json) |
 | Basketball | 347704 | [347704-basketball.json](./347704-basketball.json) |
 | Basketball | 5689 | [5689-basketball.json](./5689-basketball.json) |
+| Basketball 1v1 | 233383 | [233383-basketball-1v1.json](./233383-basketball-1v1.json) |
 | Basketball 2 | 245559 | [245559-basketball-2.json](./245559-basketball-2.json) |
 | Basketball Arcade | 278491 | [278491-basketball-arcade.json](./278491-basketball-arcade.json) |
 | Basketball Arcade Stars | 250660 | [250660-basketball-arcade-stars.json](./250660-basketball-arcade-stars.json) |
@@ -2915,6 +2919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Empires: 1914-1918 - Skirmish Pack | 168296 | [168296-battle-of-empires-1914-1918-skirmish-pack.json](./168296-battle-of-empires-1914-1918-skirmish-pack.json) |
 | Battle of Fate | 279010 | [279010-battle-of-fate.json](./279010-battle-of-fate.json) |
 | Battle of Fate Awakening | 196534 | [196534-battle-of-fate-awakening.json](./196534-battle-of-fate-awakening.json) |
+| Battle of Figures | 233400 | [233400-battle-of-figures.json](./233400-battle-of-figures.json) |
 | Battle of Finland: Winter War | 193483 | [193483-battle-of-finland-winter-war.json](./193483-battle-of-finland-winter-war.json) |
 | Battle of Frigates | 61595 | [61595-battle-of-frigates.json](./61595-battle-of-frigates.json) |
 | Battle of Genesis | 269045 | [269045-battle-of-genesis.json](./269045-battle-of-genesis.json) |
@@ -10375,6 +10380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boundary Gate: Daughter of Kingdom | 45949 | [45949-boundary-gate-daughter-of-kingdom.json](./45949-boundary-gate-daughter-of-kingdom.json) |
 | Boundary Master | 311268 | [311268-boundary-master.json](./311268-boundary-master.json) |
 | Boundary Pusher | 394469 | [394469-boundary-pusher.json](./394469-boundary-pusher.json) |
+| Boundary Walls | 233371 | [233371-boundary-walls.json](./233371-boundary-walls.json) |
 | Boundary: Elite Cosmetic Bundle Founders Pack | 263047 | [263047-boundary-elite-cosmetic-bundle-founders-pack.json](./263047-boundary-elite-cosmetic-bundle-founders-pack.json) |
 | Bounded Box | 176426 | [176426-bounded-box.json](./176426-bounded-box.json) |
 | Boundel | 33230 | [33230-boundel.json](./33230-boundel.json) |
