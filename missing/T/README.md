@@ -3260,6 +3260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terebikko Ultra Hero Series: Ultraman | 293985 | [293985-terebikko-ultra-hero-series-ultraman.json](./293985-terebikko-ultra-hero-series-ultraman.json) |
 | Terebikko Ultra Hero Series: Ultraseven | 293986 | [293986-terebikko-ultra-hero-series-ultraseven.json](./293986-terebikko-ultra-hero-series-ultraseven.json) |
 | Terebron | 165681 | [165681-terebron.json](./165681-terebron.json) |
+| Teredor | 255529 | [255529-teredor.json](./255529-teredor.json) |
 | Terezi Pyrope: Ace Attorney | 304032 | [304032-terezi-pyrope-ace-attorney.json](./304032-terezi-pyrope-ace-attorney.json) |
 | Terfenstein 3D | 224571 | [224571-terfenstein-3d.json](./224571-terfenstein-3d.json) |
 | Teri Mix | 77951 | [77951-teri-mix.json](./77951-teri-mix.json) |
@@ -8960,6 +8961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Hope | 25627 | [25627-the-last-hope.json](./25627-the-last-hope.json) |
 | The Last Hope | 368609 | [368609-the-last-hope.json](./368609-the-last-hope.json) |
 | The Last Hope: Atomic Bomb - Crypto War | 88195 | [88195-the-last-hope-atomic-bomb-crypto-war.json](./88195-the-last-hope-atomic-bomb-crypto-war.json) |
+| The Last Hope: Dead Zone Survival | 255502 | [255502-the-last-hope-dead-zone-survival.json](./255502-the-last-hope-dead-zone-survival.json) |
 | The Last Horseman | 397189 | [397189-the-last-horseman.json](./397189-the-last-horseman.json) |
 | The Last Hospital | 292997 | [292997-the-last-hospital.json](./292997-the-last-hospital.json) |
 | The Last Human: Go! | 278942 | [278942-the-last-human-go.json](./278942-the-last-human-go.json) |
@@ -12510,6 +12512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Slaverian Trucker | 185636 | [185636-the-slaverian-trucker.json](./185636-the-slaverian-trucker.json) |
 | The Slaying of Sandy Hook Elementary | 238966 | [238966-the-slaying-of-sandy-hook-elementary.json](./238966-the-slaying-of-sandy-hook-elementary.json) |
 | The Sledge of Rahmul and Merlin's Treasure | 69479 | [69479-the-sledge-of-rahmul-and-merlins-treasure.json](./69479-the-sledge-of-rahmul-and-merlins-treasure.json) |
+| The Sleeping Light | 255513 | [255513-the-sleeping-light.json](./255513-the-sleeping-light.json) |
 | The Slime | 195476 | [195476-the-slime.json](./195476-the-slime.json) |
 | The Slime Plague | 244203 | [244203-the-slime-plague.json](./244203-the-slime-plague.json) |
 | The Slime Sanctuary | 280894 | [280894-the-slime-sanctuary.json](./280894-the-slime-sanctuary.json) |
@@ -17605,6 +17608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Toon Adventures: Plucky Duck in Hollywood Hijinks | 270276 | [270276-tiny-toon-adventures-plucky-duck-in-hollywood-hijinks.json](./270276-tiny-toon-adventures-plucky-duck-in-hollywood-hijinks.json) |
 | Tiny Toon Adventures: Plucky's Big Adventure | 8056 | [8056-tiny-toon-adventures-pluckys-big-adventure.json](./8056-tiny-toon-adventures-pluckys-big-adventure.json) |
 | Tiny Toon Adventures: Toonenstein - Dare to Scare! | 8055 | [8055-tiny-toon-adventures-toonenstein-dare-to-scare.json](./8055-tiny-toon-adventures-toonenstein-dare-to-scare.json) |
+| Tiny Toon Adventures: Wacky Sports | 255549 | [255549-tiny-toon-adventures-wacky-sports.json](./255549-tiny-toon-adventures-wacky-sports.json) |
 | Tiny Toon Adventures: Wacky Sports Challenge | 8051 | [8051-tiny-toon-adventures-wacky-sports-challenge.json](./8051-tiny-toon-adventures-wacky-sports-challenge.json) |
 | Tiny Tots | 360719 | [360719-tiny-tots.json](./360719-tiny-tots.json) |
 | Tiny Touchdown | 241058 | [241058-tiny-touchdown.json](./241058-tiny-touchdown.json) |
