@@ -5597,6 +5597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grackon's Curse | 117020 | [117020-grackons-curse.json](./117020-grackons-curse.json) |
 | Grade Sword | 245883 | [245883-grade-sword.json](./245883-grade-sword.json) |
 | Grader Simulator: Road Work | 231948 | [231948-grader-simulator-road-work.json](./231948-grader-simulator-road-work.json) |
+| Gradient | 237809 | [237809-gradient.json](./237809-gradient.json) |
 | Gradient Flow | 273827 | [273827-gradient-flow.json](./273827-gradient-flow.json) |
 | Gradiently | 142702 | [142702-gradiently.json](./142702-gradiently.json) |
 | Gradius | 1476 | [1476-gradius.json](./1476-gradius.json) |
