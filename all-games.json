@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:43:55.759Z",
-  "total_soundtracks": 2280,
+  "generated_at": "2026-10-20T21:44:06.737Z",
+  "total_soundtracks": 2281,
   "games": [
     {
       "igdb_id": 7522,
@@ -27147,6 +27147,20 @@
         {
           "album_name": "Whispering Willows (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5D9kzbHR6KNFpUHY0Zf4pF",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 15746,
+      "game_name": "Who's Your Daddy",
+      "game_url": "https://ostdb.net/games/whos-your-daddy",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c97914ca1a57615ed6a83d14",
+      "albums": [
+        {
+          "album_name": "Who's Your Daddy?! (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7mBpXqCGsVLMnz7dfAqzm1",
           "apple_music_url": "",
           "album_link_url": ""
         }
