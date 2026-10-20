@@ -1809,6 +1809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eleutheria | 177344 | [177344-eleutheria.json](./177344-eleutheria.json) |
 | Elevate | 312715 | [312715-elevate.json](./312715-elevate.json) |
 | Elevated | 155027 | [155027-elevated.json](./155027-elevated.json) |
+| Elevated Dread | 232820 | [232820-elevated-dread.json](./232820-elevated-dread.json) |
 | Elevating Experience: The Game | 102673 | [102673-elevating-experience-the-game.json](./102673-elevating-experience-the-game.json) |
 | Elevation | 384134 | [384134-elevation.json](./384134-elevation.json) |
 | Elevatium: Puzzle of Atlantis | 185436 | [185436-elevatium-puzzle-of-atlantis.json](./185436-elevatium-puzzle-of-atlantis.json) |
