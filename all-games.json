@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:41:01.108Z",
-  "total_soundtracks": 2265,
+  "generated_at": "2026-10-20T21:41:11.623Z",
+  "total_soundtracks": 2266,
   "games": [
     {
       "igdb_id": 7522,
@@ -19384,6 +19384,20 @@
           "album_name": "Rome Total War (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6rBrMTjROx03uL5oz8boX8",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 145341,
+      "game_name": "Rounds",
+      "game_url": "https://ostdb.net/games/rounds",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ed6414f9323c181c93eede0c",
+      "albums": [
+        {
+          "album_name": "Rounds (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2BgeyU7HV1iOjKKeMvYChh",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
