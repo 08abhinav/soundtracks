@@ -4001,6 +4001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of the Manor | 388164 | [388164-master-of-the-manor.json](./388164-master-of-the-manor.json) |
 | Master of the Monster Lair | 21276 | [21276-master-of-the-monster-lair.json](./21276-master-of-the-monster-lair.json) |
 | Master of the Skies: The Red Ace | 63183 | [63183-master-of-the-skies-the-red-ace.json](./63183-master-of-the-skies-the-red-ace.json) |
+| Master of the Tattooverse | 208823 | [208823-master-of-the-tattooverse.json](./208823-master-of-the-tattooverse.json) |
 | Master of the Wind | 123642 | [123642-master-of-the-wind.json](./123642-master-of-the-wind.json) |
 | Master of Vtuber | 267452 | [267452-master-of-vtuber.json](./267452-master-of-vtuber.json) |
 | Master of War: Rule of Power | 199451 | [199451-master-of-war-rule-of-power.json](./199451-master-of-war-rule-of-power.json) |
@@ -4163,6 +4164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match! The 12 CZ Wars | 372064 | [372064-match-the-12-cz-wars.json](./372064-match-the-12-cz-wars.json) |
 | Matcha | 211159 | [211159-matcha.json](./211159-matcha.json) |
 | Matchblocks | 74741 | [74741-matchblocks.json](./74741-matchblocks.json) |
+| Matchbox Caterpillar Construction Zone 2: Gold Mining | 208789 | [208789-matchbox-caterpillar-construction-zone-2-gold-mining.json](./208789-matchbox-caterpillar-construction-zone-2-gold-mining.json) |
 | Matchbox Missions: Air, Land and Sea Rescue / Emergency Response | 137696 | [137696-matchbox-missions-air-land-and-sea-rescue-emergency-response.json](./137696-matchbox-missions-air-land-and-sea-rescue-emergency-response.json) |
 | Matchbox Rescue Rigs | 209551 | [209551-matchbox-rescue-rigs.json](./209551-matchbox-rescue-rigs.json) |
 | Matchbox: Cross Town Heroes | 49329 | [49329-matchbox-cross-town-heroes.json](./49329-matchbox-cross-town-heroes.json) |
@@ -16387,6 +16389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Masters: Found Fortunes | 200961 | [200961-mystery-masters-found-fortunes.json](./200961-mystery-masters-found-fortunes.json) |
 | Mystery Masters: Mysteries of Ancient Inventors - Atlantis | 54242 | [54242-mystery-masters-mysteries-of-ancient-inventors-atlantis.json](./54242-mystery-masters-mysteries-of-ancient-inventors-atlantis.json) |
 | Mystery Masters: Mysteries of the Heart | 201812 | [201812-mystery-masters-mysteries-of-the-heart.json](./201812-mystery-masters-mysteries-of-the-heart.json) |
+| Mystery Masters: Mystery 6 Pack | 208806 | [208806-mystery-masters-mystery-6-pack.json](./208806-mystery-masters-mystery-6-pack.json) |
 | Mystery Masters: Psycho Train - Deluxe Edition | 35884 | [35884-mystery-masters-psycho-train-deluxe-edition.json](./35884-mystery-masters-psycho-train-deluxe-edition.json) |
 | Mystery Masters: Supernatural Stories | 200962 | [200962-mystery-masters-supernatural-stories.json](./200962-mystery-masters-supernatural-stories.json) |
 | Mystery Masters: Treasures of Mystery Collection | 206747 | [206747-mystery-masters-treasures-of-mystery-collection.json](./206747-mystery-masters-treasures-of-mystery-collection.json) |
@@ -16446,6 +16449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Solitaire: Dreamcatcher 2 | 213317 | [213317-mystery-solitaire-dreamcatcher-2.json](./213317-mystery-solitaire-dreamcatcher-2.json) |
 | Mystery Solitaire: Dreamcatcher 3 | 237255 | [237255-mystery-solitaire-dreamcatcher-3.json](./237255-mystery-solitaire-dreamcatcher-3.json) |
 | Mystery Solitaire: Grimm's Tales 2 | 122367 | [122367-mystery-solitaire-grimms-tales-2.json](./122367-mystery-solitaire-grimms-tales-2.json) |
+| Mystery Solitaire: Grimm's Tales 6 | 208822 | [208822-mystery-solitaire-grimms-tales-6.json](./208822-mystery-solitaire-grimms-tales-6.json) |
 | Mystery Solitaire: Grimm's Tales 7 | 231817 | [231817-mystery-solitaire-grimms-tales-7.json](./231817-mystery-solitaire-grimms-tales-7.json) |
 | Mystery Solitaire: Grimm's Tales 9 | 262586 | [262586-mystery-solitaire-grimms-tales-9.json](./262586-mystery-solitaire-grimms-tales-9.json) |
 | Mystery Solitaire: Powerful Alchemist 3 | 214006 | [214006-mystery-solitaire-powerful-alchemist-3.json](./214006-mystery-solitaire-powerful-alchemist-3.json) |
