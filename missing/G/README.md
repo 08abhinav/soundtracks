@@ -2835,7 +2835,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Hunting Journal | 399212 | [399212-ghost-hunting-journal.json](./399212-ghost-hunting-journal.json) |
 | Ghost in the Brain | 263224 | [263224-ghost-in-the-brain.json](./263224-ghost-in-the-brain.json) |
 | Ghost in the Machine | 35475 | [35475-ghost-in-the-machine.json](./35475-ghost-in-the-machine.json) |
-| Ghost in the Shell | 8336 | [8336-ghost-in-the-shell.json](./8336-ghost-in-the-shell.json) |
 | Ghost in the Shell GBC | 400490 | [400490-ghost-in-the-shell-gbc.json](./400490-ghost-in-the-shell-gbc.json) |
 | Ghost in the Shell: Arise - Stealth Hounds | 52005 | [52005-ghost-in-the-shell-arise-stealth-hounds.json](./52005-ghost-in-the-shell-arise-stealth-hounds.json) |
 | Ghost in the Shell: Stand Alone Complex | 114138 | [114138-ghost-in-the-shell-stand-alone-complex.json](./114138-ghost-in-the-shell-stand-alone-complex.json) |
@@ -5777,7 +5776,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granblue Fantasy Versus Rising: Color Set 2 | 332821 | [332821-granblue-fantasy-versus-rising-color-set-2.json](./332821-granblue-fantasy-versus-rising-color-set-2.json) |
 | Granblue Fantasy Versus Rising: Color Set 3 | 332822 | [332822-granblue-fantasy-versus-rising-color-set-3.json](./332822-granblue-fantasy-versus-rising-color-set-3.json) |
 | Granblue Fantasy Versus Rising: Premium Avatar Set Zombie Land Saga Movie | 373632 | [373632-granblue-fantasy-versus-rising-premium-avatar-set-zombie-land-saga-movie.json](./373632-granblue-fantasy-versus-rising-premium-avatar-set-zombie-land-saga-movie.json) |
-| Granblue Fantasy Versus: Rising | 232699 | [232699-granblue-fantasy-versus-rising.json](./232699-granblue-fantasy-versus-rising.json) |
 | Granblue Fantasy Versus: Rising - Additional Character 2B | 293496 | [293496-granblue-fantasy-versus-rising-additional-character-2b.json](./293496-granblue-fantasy-versus-rising-additional-character-2b.json) |
 | Granblue Fantasy Versus: Rising - Additional Character Set - Sandalphon | 339965 | [339965-granblue-fantasy-versus-rising-additional-character-set-sandalphon.json](./339965-granblue-fantasy-versus-rising-additional-character-set-sandalphon.json) |
 | Granblue Fantasy Versus: Rising - Additional Character Vane | 294977 | [294977-granblue-fantasy-versus-rising-additional-character-vane.json](./294977-granblue-fantasy-versus-rising-additional-character-vane.json) |
