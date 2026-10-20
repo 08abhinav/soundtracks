@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO: Alien Invasion | 47271 | [47271-ufo-alien-invasion.json](./47271-ufo-alien-invasion.json) |
 | UFO: Extraterrestrials | 9437 | [9437-ufo-extraterrestrials.json](./9437-ufo-extraterrestrials.json) |
 | UFO: Extraterrestrials - Gold Edition | 29204 | [29204-ufo-extraterrestrials-gold-edition.json](./29204-ufo-extraterrestrials-gold-edition.json) |
+| UFO: Extraterrestrials Platinum | 251984 | [251984-ufo-extraterrestrials-platinum.json](./251984-ufo-extraterrestrials-platinum.json) |
 | UFO: Henfield | 277974 | [277974-ufo-henfield.json](./277974-ufo-henfield.json) |
 | UFO: The Ranch | 248886 | [248886-ufo-the-ranch.json](./248886-ufo-the-ranch.json) |
 | UFO/Sea Monsters/Break It Down/Rebuild/Shoot | 137926 | [137926-ufo-sea-monsters-break-it-down-rebuild-shoot.json](./137926-ufo-sea-monsters-break-it-down-rebuild-shoot.json) |
@@ -1050,6 +1051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncanny Tales: The Watcher | 390221 | [390221-uncanny-tales-the-watcher.json](./390221-uncanny-tales-the-watcher.json) |
 | Uncanny Valley: Checkpoint | 404186 | [404186-uncanny-valley-checkpoint.json](./404186-uncanny-valley-checkpoint.json) |
 | Uncanyon | 416106 | [416106-uncanyon.json](./416106-uncanyon.json) |
+| Uncaptive | 251999 | [251999-uncaptive.json](./251999-uncaptive.json) |
 | Uncarta | 57757 | [57757-uncarta.json](./57757-uncarta.json) |
 | Uncatchable Homers Master | 211772 | [211772-uncatchable-homers-master.json](./211772-uncatchable-homers-master.json) |
 | Uncensor Quest | 261773 | [261773-uncensor-quest.json](./261773-uncensor-quest.json) |
