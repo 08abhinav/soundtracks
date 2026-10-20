@@ -1150,6 +1150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vermillion Watch: Order Zero | 74312 | [74312-vermillion-watch-order-zero.json](./74312-vermillion-watch-order-zero.json) |
 | Vermillion Watch: Parisian Pursuit | 140263 | [140263-vermillion-watch-parisian-pursuit.json](./140263-vermillion-watch-parisian-pursuit.json) |
 | Vermillion Watch: Parisian Pursuit - Collector's Edition | 120670 | [120670-vermillion-watch-parisian-pursuit-collectors-edition.json](./120670-vermillion-watch-parisian-pursuit-collectors-edition.json) |
+| Vermin | 231732 | [231732-vermin.json](./231732-vermin.json) |
 | Vermin | 232696 | [232696-vermin.json](./232696-vermin.json) |
 | Vermin | 78072 | [78072-vermin.json](./78072-vermin.json) |
 | Vermin Control | 334483 | [334483-vermin-control.json](./334483-vermin-control.json) |
