@@ -3393,6 +3393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls Life: Strass & Diamonds | 68073 | [68073-girls-life-strass-and-diamonds.json](./68073-girls-life-strass-and-diamonds.json) |
 | Girls Love Toys | 241286 | [241286-girls-love-toys.json](./241286-girls-love-toys.json) |
 | Girls of DOA Blackjack: The Kasumi Version | 1394 | [1394-girls-of-doa-blackjack-the-kasumi-version.json](./1394-girls-of-doa-blackjack-the-kasumi-version.json) |
+| Girls of Hentai Mosaic | 230140 | [230140-girls-of-hentai-mosaic.json](./230140-girls-of-hentai-mosaic.json) |
 | Girls of the Tower | 279532 | [279532-girls-of-the-tower.json](./279532-girls-of-the-tower.json) |
 | Girls of The Tower: Journey To Chaos | 305772 | [305772-girls-of-the-tower-journey-to-chaos.json](./305772-girls-of-the-tower-journey-to-chaos.json) |
 | Girls on Campus, from Freshmen to Faculty, All Fall for Me! | 313536 | [313536-girls-on-campus-from-freshmen-to-faculty-all-fall-for-me.json](./313536-girls-on-campus-from-freshmen-to-faculty-all-fall-for-me.json) |
