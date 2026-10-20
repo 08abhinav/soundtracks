@@ -1424,6 +1424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Ministerio del Tiempo VR: El tiempo en tus manos | 72345 | [72345-el-ministerio-del-tiempo-vr-el-tiempo-en-tus-manos.json](./72345-el-ministerio-del-tiempo-vr-el-tiempo-en-tus-manos.json) |
 | El Ministerio del Tiempo VR: Salva el tiempo | 74294 | [74294-el-ministerio-del-tiempo-vr-salva-el-tiempo.json](./74294-el-ministerio-del-tiempo-vr-salva-el-tiempo.json) |
 | El Misterio del Nilo | 104590 | [104590-el-misterio-del-nilo.json](./104590-el-misterio-del-nilo.json) |
+| El Monstruo de los Globos | 238900 | [238900-el-monstruo-de-los-globos.json](./238900-el-monstruo-de-los-globos.json) |
 | El Narco | 321170 | [321170-el-narco.json](./321170-el-narco.json) |
 | El Ne Rue | 232943 | [232943-el-ne-rue.json](./232943-el-ne-rue.json) |
 | El Notas | 414382 | [414382-el-notas.json](./414382-el-notas.json) |
@@ -4676,6 +4677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EULA | 406557 | [406557-eula.json](./406557-eula.json) |
 | Euler Wars | 130166 | [130166-euler-wars.json](./130166-euler-wars.json) |
 | Eulogy for Nonno | 374813 | [374813-eulogy-for-nonno.json](./374813-eulogy-for-nonno.json) |
+| Eulogy of an Insect | 238876 | [238876-eulogy-of-an-insect.json](./238876-eulogy-of-an-insect.json) |
 | Eumel | 91584 | [91584-eumel.json](./91584-eumel.json) |
 | Eunae Liaro in: Fowl Play | 293334 | [293334-eunae-liaro-in-fowl-play.json](./293334-eunae-liaro-in-fowl-play.json) |
 | EunHye DS | 217839 | [217839-eunhye-ds.json](./217839-eunhye-ds.json) |
