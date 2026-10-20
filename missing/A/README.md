@@ -2897,6 +2897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aery: Stone Age | 283895 | [283895-aery-stone-age.json](./283895-aery-stone-age.json) |
 | Aery: Surreal World | 411807 | [411807-aery-surreal-world.json](./411807-aery-surreal-world.json) |
 | Aery: The King's Messenger | 393040 | [393040-aery-the-kings-messenger.json](./393040-aery-the-kings-messenger.json) |
+| Aery: The Lost Hero | 235601 | [235601-aery-the-lost-hero.json](./235601-aery-the-lost-hero.json) |
 | Aery: Time Traveller Bundle | 308583 | [308583-aery-time-traveller-bundle.json](./308583-aery-time-traveller-bundle.json) |
 | Aery: Viking Saga | 364086 | [364086-aery-viking-saga.json](./364086-aery-viking-saga.json) |
 | Aery: Winter Wonderland | 378997 | [378997-aery-winter-wonderland.json](./378997-aery-winter-wonderland.json) |
@@ -4958,6 +4959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Nations | 11259 | [11259-alien-nations.json](./11259-alien-nations.json) |
 | Alien Nations Mission Pack | 73810 | [73810-alien-nations-mission-pack.json](./73810-alien-nations-mission-pack.json) |
 | Alien Olympics | 73317 | [73317-alien-olympics.json](./73317-alien-olympics.json) |
+| Alien on the Radar | 235609 | [235609-alien-on-the-radar.json](./235609-alien-on-the-radar.json) |
 | Alien on the Run | 61537 | [61537-alien-on-the-run.json](./61537-alien-on-the-run.json) |
 | Alien Outbreak | 57602 | [57602-alien-outbreak.json](./57602-alien-outbreak.json) |
 | Alien Panic! | 222524 | [222524-alien-panic.json](./222524-alien-panic.json) |
