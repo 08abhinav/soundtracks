@@ -2754,6 +2754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Deliverer | 350393 | [350393-ghost-deliverer.json](./350393-ghost-deliverer.json) |
 | Ghost Dimension | 126403 | [126403-ghost-dimension.json](./126403-ghost-dimension.json) |
 | Ghost Dragon III | 384304 | [384304-ghost-dragon-iii.json](./384304-ghost-dragon-iii.json) |
+| Ghost Driver | 235059 | [235059-ghost-driver.json](./235059-ghost-driver.json) |
 | Ghost Eater | 278997 | [278997-ghost-eater.json](./278997-ghost-eater.json) |
 | Ghost Encounters | 59453 | [59453-ghost-encounters.json](./59453-ghost-encounters.json) |
 | Ghost Encounters: Deadwood | 140254 | [140254-ghost-encounters-deadwood.json](./140254-ghost-encounters-deadwood.json) |
@@ -2962,6 +2963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GhostHunter | 189052 | [189052-ghosthunter.json](./189052-ghosthunter.json) |
 | Ghostie Quest | 51854 | [51854-ghostie-quest.json](./51854-ghostie-quest.json) |
 | Ghostie Town | 423257 | [423257-ghostie-town.json](./423257-ghostie-town.json) |
+| Ghosting Vandal | 235036 | [235036-ghosting-vandal.json](./235036-ghosting-vandal.json) |
 | Ghostkeeper | 210859 | [210859-ghostkeeper.json](./210859-ghostkeeper.json) |
 | Ghostland | 322673 | [322673-ghostland.json](./322673-ghostland.json) |
 | Ghostless | 404399 | [404399-ghostless.json](./404399-ghostless.json) |
@@ -4242,6 +4244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Commander: Unleash the Horde | 3934 | [3934-goblin-commander-unleash-the-horde.json](./3934-goblin-commander-unleash-the-horde.json) |
 | Goblin Company | 386855 | [386855-goblin-company.json](./386855-goblin-company.json) |
 | Goblin Daily Life | 263131 | [263131-goblin-daily-life.json](./263131-goblin-daily-life.json) |
+| Goblin Dash | 235042 | [235042-goblin-dash.json](./235042-goblin-dash.json) |
 | Goblin Defenders: Steel 'n' Wood | 53076 | [53076-goblin-defenders-steel-n-wood.json](./53076-goblin-defenders-steel-n-wood.json) |
 | Goblin Dice and Cleave | 370140 | [370140-goblin-dice-and-cleave.json](./370140-goblin-dice-and-cleave.json) |
 | Goblin Dish | 413454 | [413454-goblin-dish.json](./413454-goblin-dish.json) |
