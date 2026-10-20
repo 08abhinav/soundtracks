@@ -4079,6 +4079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildwood: Graveyard Defense | 217539 | [217539-wildwood-graveyard-defense.json](./217539-wildwood-graveyard-defense.json) |
 | Wildwood: Hearth & Horizon | 287693 | [287693-wildwood-hearth-and-horizon.json](./287693-wildwood-hearth-and-horizon.json) |
 | WildWorlds: Zyxaranth's Domain | 418738 | [418738-wildworlds-zyxaranths-domain.json](./418738-wildworlds-zyxaranths-domain.json) |
+| Wilful Kitty | 241816 | [241816-wilful-kitty.json](./241816-wilful-kitty.json) |
 | Will | 333636 | [333636-will.json](./333636-will.json) |
 | Will & Dewitt: Pad-Hop Adventure | 330032 | [330032-will-and-dewitt-pad-hop-adventure.json](./330032-will-and-dewitt-pad-hop-adventure.json) |
 | Will Die Alone | 177398 | [177398-will-die-alone.json](./177398-will-die-alone.json) |
@@ -5154,6 +5155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woke Quest | 415914 | [415914-woke-quest.json](./415914-woke-quest.json) |
 | Woke up in a Dark Nightmare | 405726 | [405726-woke-up-in-a-dark-nightmare.json](./405726-woke-up-in-a-dark-nightmare.json) |
 | Woks | 262190 | [262190-woks.json](./262190-woks.json) |
+| Wolcen: Lords of Mayhem - Deluxe Edition | 241835 | [241835-wolcen-lords-of-mayhem-deluxe-edition.json](./241835-wolcen-lords-of-mayhem-deluxe-edition.json) |
 | Wolf | 232000 | [232000-wolf.json](./232000-wolf.json) |
 | Wolf | 9573 | [9573-wolf.json](./9573-wolf.json) |
 | Wolf & Eggs! | 178532 | [178532-wolf-and-eggs.json](./178532-wolf-and-eggs.json) |
