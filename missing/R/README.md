@@ -790,6 +790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiden Trad | 46211 | [46211-raiden-trad.json](./46211-raiden-trad.json) |
 | Raiden V | 19848 | [19848-raiden-v.json](./19848-raiden-v.json) |
 | Raiden V: Director's Cut - Limited Edition | 136319 | [136319-raiden-v-directors-cut-limited-edition.json](./136319-raiden-v-directors-cut-limited-edition.json) |
+| Raiden X | 206583 | [206583-raiden-x.json](./206583-raiden-x.json) |
 | Raiden: 30th Anniversary | 229121 | [229121-raiden-30th-anniversary.json](./229121-raiden-30th-anniversary.json) |
 | Raider | 319597 | [319597-raider.json](./319597-raider.json) |
 | Raider | 351801 | [351801-raider.json](./351801-raider.json) |
@@ -9132,6 +9133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rules! | 80537 | [80537-rules.json](./80537-rules.json) |
 | Ruling Horsestown | 357858 | [357858-ruling-horsestown.json](./357858-ruling-horsestown.json) |
 | Rum N' Gold Royale | 306376 | [306376-rum-n-gold-royale.json](./306376-rum-n-gold-royale.json) |
+| Rum no Izumi Dungeon | 206551 | [206551-rum-no-izumi-dungeon.json](./206551-rum-no-izumi-dungeon.json) |
 | Rum Skulls | 294063 | [294063-rum-skulls.json](./294063-rum-skulls.json) |
 | Ruma | 274210 | [274210-ruma.json](./274210-ruma.json) |
 | Rumba Lumber | 272680 | [272680-rumba-lumber.json](./272680-rumba-lumber.json) |
