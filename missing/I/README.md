@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Love Hue | 94971 | [94971-i-love-hue.json](./94971-i-love-hue.json) |
 | I Love Hue Too | 177555 | [177555-i-love-hue-too.json](./177555-i-love-hue-too.json) |
 | I Love Math | 337474 | [337474-i-love-math.json](./337474-i-love-math.json) |
+| I Love Me, I Love Me Not | 222737 | [222737-i-love-me-i-love-me-not.json](./222737-i-love-me-i-love-me-not.json) |
 | I Love Me, I Love Me Not | 313095 | [313095-i-love-me-i-love-me-not.json](./313095-i-love-me-i-love-me-not.json) |
 | I Love my Cats | 84542 | [84542-i-love-my-cats.json](./84542-i-love-my-cats.json) |
 | I Love My Dogs | 84541 | [84541-i-love-my-dogs.json](./84541-i-love-my-dogs.json) |
@@ -928,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iconic | 132253 | [132253-iconic.json](./132253-iconic.json) |
 | Iconic | 356704 | [356704-iconic.json](./356704-iconic.json) |
 | Iconic | 362768 | [362768-iconic.json](./362768-iconic.json) |
+| Icons of Theia | 222741 | [222741-icons-of-theia.json](./222741-icons-of-theia.json) |
 | Icons: Combat Arena | 51449 | [51449-icons-combat-arena.json](./51449-icons-combat-arena.json) |
 | Icontrivia: Guess All Things Christmas | 232050 | [232050-icontrivia-guess-all-things-christmas.json](./232050-icontrivia-guess-all-things-christmas.json) |
 | Icontrivia: Guess the Celebrity | 232473 | [232473-icontrivia-guess-the-celebrity.json](./232473-icontrivia-guess-the-celebrity.json) |
@@ -2227,6 +2229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Dead of Night | 73287 | [73287-in-the-dead-of-night.json](./73287-in-the-dead-of-night.json) |
 | In the Dead of Night: Urszula's Revenge | 34090 | [34090-in-the-dead-of-night-urszulas-revenge.json](./34090-in-the-dead-of-night-urszulas-revenge.json) |
 | In The Disorderly Courtyard | 303588 | [303588-in-the-disorderly-courtyard.json](./303588-in-the-disorderly-courtyard.json) |
+| In the Dog House | 222731 | [222731-in-the-dog-house.json](./222731-in-the-dog-house.json) |
 | In The Dog House | 103996 | [103996-in-the-dog-house.json](./103996-in-the-dog-house.json) |
 | In the Drift | 404847 | [404847-in-the-drift.json](./404847-in-the-drift.json) |
 | In the Drink | 288876 | [288876-in-the-drink.json](./288876-in-the-drink.json) |
