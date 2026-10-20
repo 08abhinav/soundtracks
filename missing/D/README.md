@@ -7642,6 +7642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Sports Skateboarding | 248465 | [248465-disney-sports-skateboarding.json](./248465-disney-sports-skateboarding.json) |
 | Disney Sports Skateboarding | 3881 | [3881-disney-sports-skateboarding.json](./3881-disney-sports-skateboarding.json) |
 | Disney Sports Snowboarding | 49304 | [49304-disney-sports-snowboarding.json](./49304-disney-sports-snowboarding.json) |
+| Disney Sports Soccer | 242927 | [242927-disney-sports-soccer.json](./242927-disney-sports-soccer.json) |
 | Disney Sports Soccer | 3882 | [3882-disney-sports-soccer.json](./3882-disney-sports-soccer.json) |
 | Disney Sports Tennis | 243812 | [243812-disney-sports-tennis.json](./243812-disney-sports-tennis.json) |
 | Disney Step | 335656 | [335656-disney-step.json](./335656-disney-step.json) |
@@ -8288,6 +8289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoBad Inc | 369896 | [369896-dobad-inc.json](./369896-dobad-inc.json) |
 | Dobbel Dungeon | 290612 | [290612-dobbel-dungeon.json](./290612-dobbel-dungeon.json) |
 | DobbyxEscape: Halloween Adventure | 225212 | [225212-dobbyxescape-halloween-adventure.json](./225212-dobbyxescape-halloween-adventure.json) |
+| DobbyxEscape: Pirate Adventure | 242967 | [242967-dobbyxescape-pirate-adventure.json](./242967-dobbyxescape-pirate-adventure.json) |
 | Doblons.io | 126023 | [126023-doblons-io.json](./126023-doblons-io.json) |
 | Dobo's Heroes | 147420 | [147420-dobos-heroes.json](./147420-dobos-heroes.json) |
 | Dobraminhos | 246932 | [246932-dobraminhos.json](./246932-dobraminhos.json) |
@@ -13676,6 +13678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons Online: Vault of Night | 339142 | [339142-dungeons-and-dragons-online-vault-of-night.json](./339142-dungeons-and-dragons-online-vault-of-night.json) |
 | Dungeons & Dragons Online: Vecna Unleashed | 258958 | [258958-dungeons-and-dragons-online-vecna-unleashed.json](./258958-dungeons-and-dragons-online-vecna-unleashed.json) |
 | Dungeons & Dragons: Dark Alliance | 127348 | [127348-dungeons-and-dragons-dark-alliance.json](./127348-dungeons-and-dragons-dark-alliance.json) |
+| Dungeons & Dragons: Dark Alliance - Day One Edition | 242924 | [242924-dungeons-and-dragons-dark-alliance-day-one-edition.json](./242924-dungeons-and-dragons-dark-alliance-day-one-edition.json) |
 | Dungeons & Dragons: Dragonshard | 674 | [674-dungeons-and-dragons-dragonshard.json](./674-dungeons-and-dragons-dragonshard.json) |
 | Dungeons & Dragons: Eye of the Beholder | 49197 | [49197-dungeons-and-dragons-eye-of-the-beholder.json](./49197-dungeons-and-dragons-eye-of-the-beholder.json) |
 | Dungeons & Dragons: Shadow over Mystara | 10253 | [10253-dungeons-and-dragons-shadow-over-mystara.json](./10253-dungeons-and-dragons-shadow-over-mystara.json) |
