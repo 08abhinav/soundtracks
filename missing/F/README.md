@@ -2185,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Friends: Super Edition | 262328 | [262328-fashion-friends-super-edition.json](./262328-fashion-friends-super-edition.json) |
 | Fashion Friends: Super Version | 313512 | [313512-fashion-friends-super-version.json](./313512-fashion-friends-super-version.json) |
 | Fashion Fupa | 397138 | [397138-fashion-fupa.json](./397138-fashion-fupa.json) |
+| Fashion Girls | 213214 | [213214-fashion-girls.json](./213214-fashion-girls.json) |
 | Fashion Girls: All in One Edition | 271502 | [271502-fashion-girls-all-in-one-edition.json](./271502-fashion-girls-all-in-one-edition.json) |
 | Fashion Girls: Silver Edition | 315865 | [315865-fashion-girls-silver-edition.json](./315865-fashion-girls-silver-edition.json) |
 | Fashion Holiday: A Game of Texas Hold 'Em | 252246 | [252246-fashion-holiday-a-game-of-texas-hold-em.json](./252246-fashion-holiday-a-game-of-texas-hold-em.json) |
@@ -4435,6 +4436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Awakening - Future Past Pack | 237423 | [237423-fire-emblem-awakening-future-past-pack.json](./237423-fire-emblem-awakening-future-past-pack.json) |
 | Fire Emblem: Awakening - Golden Pack | 237416 | [237416-fire-emblem-awakening-golden-pack.json](./237416-fire-emblem-awakening-golden-pack.json) |
 | Fire Emblem: Awakening - Lost Bloodlines Pack | 237417 | [237417-fire-emblem-awakening-lost-bloodlines-pack.json](./237417-fire-emblem-awakening-lost-bloodlines-pack.json) |
+| Fire Emblem: Awakening - Project Thabes | 213262 | [213262-fire-emblem-awakening-project-thabes.json](./213262-fire-emblem-awakening-project-thabes.json) |
 | Fire Emblem: Awakening - Rogues Pack | 237419 | [237419-fire-emblem-awakening-rogues-pack.json](./237419-fire-emblem-awakening-rogues-pack.json) |
 | Fire Emblem: Awakening - Scramble Pack | 237422 | [237422-fire-emblem-awakening-scramble-pack.json](./237422-fire-emblem-awakening-scramble-pack.json) |
 | Fire Emblem: Awakening - Smash Pack | 237418 | [237418-fire-emblem-awakening-smash-pack.json](./237418-fire-emblem-awakening-smash-pack.json) |
