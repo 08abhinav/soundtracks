@@ -304,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gal Guardians: Servants of the Dark | 317701 | [317701-gal-guardians-servants-of-the-dark.json](./317701-gal-guardians-servants-of-the-dark.json) |
 | Gal Gunvolt Burst | 92038 | [92038-gal-gunvolt-burst.json](./92038-gal-gunvolt-burst.json) |
 | Gal Metal: Encore Pack | 314025 | [314025-gal-metal-encore-pack.json](./314025-gal-metal-encore-pack.json) |
+| Gal Pani X | 250208 | [250208-gal-pani-x.json](./250208-gal-pani-x.json) |
 | Gal, Geek and Summer | 364078 | [364078-gal-geek-and-summer.json](./364078-gal-geek-and-summer.json) |
 | Gal's Dungeon | 376186 | [376186-gals-dungeon.json](./376186-gals-dungeon.json) |
 | Gal*Gun | 304988 | [304988-gal-gun.json](./304988-gal-gun.json) |
@@ -1085,6 +1086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamedle | 401685 | [401685-gamedle.json](./401685-gamedle.json) |
 | Gamedog | 292842 | [292842-gamedog.json](./292842-gamedog.json) |
 | Gamefest Puzzle Classic | 209592 | [209592-gamefest-puzzle-classic.json](./209592-gamefest-puzzle-classic.json) |
+| GameFutebol | 250211 | [250211-gamefutebol.json](./250211-gamefutebol.json) |
 | GameGuru | 59978 | [59978-gameguru.json](./59978-gameguru.json) |
 | GameGuru: Industrial Sewer Pack | 166190 | [166190-gameguru-industrial-sewer-pack.json](./166190-gameguru-industrial-sewer-pack.json) |
 | Gamehunt | 119768 | [119768-gamehunt.json](./119768-gamehunt.json) |
@@ -3445,6 +3447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Give Me Toilet Paper! | 240369 | [240369-give-me-toilet-paper.json](./240369-give-me-toilet-paper.json) |
 | Give My Regards to Broad Street | 66710 | [66710-give-my-regards-to-broad-street.json](./66710-give-my-regards-to-broad-street.json) |
 | Give the People What They Want | 197189 | [197189-give-the-people-what-they-want.json](./197189-give-the-people-what-they-want.json) |
+| Give Up 2 | 250183 | [250183-give-up-2.json](./250183-give-up-2.json) |
 | Give Up the Ghost: A Puzzle Checklist | 206471 | [206471-give-up-the-ghost-a-puzzle-checklist.json](./206471-give-up-the-ghost-a-puzzle-checklist.json) |
 | Givling | 18319 | [18319-givling.json](./18319-givling.json) |
 | Gizmo | 112825 | [112825-gizmo.json](./112825-gizmo.json) |
@@ -4938,6 +4941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf with the Lads | 250881 | [250881-golf-with-the-lads.json](./250881-golf-with-the-lads.json) |
 | Golf With Your Friends 2 | 325850 | [325850-golf-with-your-friends-2.json](./325850-golf-with-your-friends-2.json) |
 | Golf With Your Friends: Bouncy Castle Course | 204956 | [204956-golf-with-your-friends-bouncy-castle-course.json](./204956-golf-with-your-friends-bouncy-castle-course.json) |
+| Golf With Your Friends: Corrupted Forest Course | 250169 | [250169-golf-with-your-friends-corrupted-forest-course.json](./250169-golf-with-your-friends-corrupted-forest-course.json) |
 | Golf With Your Friends: Critical Hit Pack | 298594 | [298594-golf-with-your-friends-critical-hit-pack.json](./298594-golf-with-your-friends-critical-hit-pack.json) |
 | Golf With Your Friends: Fairytale Fables Pack | 268540 | [268540-golf-with-your-friends-fairytale-fables-pack.json](./268540-golf-with-your-friends-fairytale-fables-pack.json) |
 | Golf With Your Friends: Horrifying Headgear Pack | 336929 | [336929-golf-with-your-friends-horrifying-headgear-pack.json](./336929-golf-with-your-friends-horrifying-headgear-pack.json) |
