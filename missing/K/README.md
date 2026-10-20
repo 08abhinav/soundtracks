@@ -1386,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kero Kero King | 54969 | [54969-kero-kero-king.json](./54969-kero-kero-king.json) |
 | Kero Quest 64 | 326620 | [326620-kero-quest-64.json](./326620-kero-quest-64.json) |
 | Keroro RPG: Kishi to Busha to Densetsu no Kaizoku | 67306 | [67306-keroro-rpg-kishi-to-busha-to-densetsu-no-kaizoku.json](./67306-keroro-rpg-kishi-to-busha-to-densetsu-no-kaizoku.json) |
+| Kerosuke no Kancho Kunren | 240055 | [240055-kerosuke-no-kancho-kunren.json](./240055-kerosuke-no-kancho-kunren.json) |
 | Kerplunk! / Toss Across / Tip It | 137995 | [137995-kerplunk-toss-across-tip-it.json](./137995-kerplunk-toss-across-tip-it.json) |
 | Kerry and Alice Run into Some Trouble | 267550 | [267550-kerry-and-alice-run-into-some-trouble.json](./267550-kerry-and-alice-run-into-some-trouble.json) |
 | Kesenai Boken no Sho | 97693 | [97693-kesenai-boken-no-sho.json](./97693-kesenai-boken-no-sho.json) |
