@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K-Bot | 303610 | [303610-k-bot.json](./303610-k-bot.json) |
 | K-Jo Chases the Cheese | 321653 | [321653-k-jo-chases-the-cheese.json](./321653-k-jo-chases-the-cheese.json) |
 | K-Jo Chases the Cheese | 321655 | [321655-k-jo-chases-the-cheese.json](./321655-k-jo-chases-the-cheese.json) |
+| K-ON Galge!?: Mio to Yui | 206001 | [206001-k-on-galge-mio-to-yui.json](./206001-k-on-galge-mio-to-yui.json) |
 | K-ON! Houkago Live!! | 38485 | [38485-k-on-houkago-live.json](./38485-k-on-houkago-live.json) |
 | K-ON! Houkago Live!! HD Ver. | 206606 | [206606-k-on-houkago-live-hd-ver.json](./206606-k-on-houkago-live-hd-ver.json) |
 | K-ON! Houkago Rhythm Time | 269593 | [269593-k-on-houkago-rhythm-time.json](./269593-k-on-houkago-rhythm-time.json) |
