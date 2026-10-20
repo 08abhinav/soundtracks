@@ -920,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katharsis Project | 117624 | [117624-katharsis-project.json](./117624-katharsis-project.json) |
 | Katharsis: The second act | 82366 | [82366-katharsis-the-second-act.json](./82366-katharsis-the-second-act.json) |
 | Kathy Rain 2: Soothsayer | 322691 | [322691-kathy-rain-2-soothsayer.json](./322691-kathy-rain-2-soothsayer.json) |
+| Kati the Astronaut | 212642 | [212642-kati-the-astronaut.json](./212642-kati-the-astronaut.json) |
 | Katie | 99612 | [99612-katie.json](./99612-katie.json) |
 | Katin Svět | 223679 | [223679-katin-svet.json](./223679-katin-svet.json) |
 | Katja's Abyss: Tactics | 145911 | [145911-katjas-abyss-tactics.json](./145911-katjas-abyss-tactics.json) |
@@ -3709,6 +3710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KOF Chronicle | 117502 | [117502-kof-chronicle.json](./117502-kof-chronicle.json) |
 | KOF X Garou Densetsu | 63832 | [63832-kof-x-garou-densetsu.json](./63832-kof-x-garou-densetsu.json) |
 | Koffi Yellow Copter | 40797 | [40797-koffi-yellow-copter.json](./40797-koffi-yellow-copter.json) |
+| Kofi Quest | 212631 | [212631-kofi-quest.json](./212631-kofi-quest.json) |
 | Kofoin: Swarm Defense | 374821 | [374821-kofoin-swarm-defense.json](./374821-kofoin-swarm-defense.json) |
 | Kogent Defender | 102916 | [102916-kogent-defender.json](./102916-kogent-defender.json) |
 | Kogepan: Pan mo Game wo Yaru-rashii | 267588 | [267588-kogepan-pan-mo-game-wo-yaru-rashii.json](./267588-kogepan-pan-mo-game-wo-yaru-rashii.json) |
