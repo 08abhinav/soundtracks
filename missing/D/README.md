@@ -13090,6 +13090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel | 181915 | [181915-duel.json](./181915-duel.json) |
 | Duel Arms | 100744 | [100744-duel-arms.json](./100744-duel-arms.json) |
 | Duel Champions | 358362 | [358362-duel-champions.json](./358362-duel-champions.json) |
+| Duel Corp. | 214943 | [214943-duel-corp.json](./214943-duel-corp.json) |
 | Duel de Base Stat | 403780 | [403780-duel-de-base-stat.json](./403780-duel-de-base-stat.json) |
 | Duel Draw: Katana Clash | 397862 | [397862-duel-draw-katana-clash.json](./397862-duel-draw-katana-clash.json) |
 | Duel Heroes | 249337 | [249337-duel-heroes.json](./249337-duel-heroes.json) |
