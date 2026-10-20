@@ -3253,6 +3253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epejsodion Dodgeball Speed | 367310 | [367310-epejsodion-dodgeball-speed.json](./367310-epejsodion-dodgeball-speed.json) |
 | Epejsodion Dodgeball Training | 369724 | [369724-epejsodion-dodgeball-training.json](./369724-epejsodion-dodgeball-training.json) |
 | Epejsodion Lodge | 150455 | [150455-epejsodion-lodge.json](./150455-epejsodion-lodge.json) |
+| Eperon Defend | 251447 | [251447-eperon-defend.json](./251447-eperon-defend.json) |
 | Ephemeral | 184354 | [184354-ephemeral.json](./184354-ephemeral.json) |
 | Ephemeral Dreams, Eternal Love | 260116 | [260116-ephemeral-dreams-eternal-love.json](./260116-ephemeral-dreams-eternal-love.json) |
 | Ephemeral Fantasia | 44722 | [44722-ephemeral-fantasia.json](./44722-ephemeral-fantasia.json) |
@@ -3858,6 +3859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Rowei | 200529 | [200529-escape-from-rowei.json](./200529-escape-from-rowei.json) |
 | Escape From Ruby Castle | 149034 | [149034-escape-from-ruby-castle.json](./149034-escape-from-ruby-castle.json) |
 | Escape From Russia | 368672 | [368672-escape-from-russia.json](./368672-escape-from-russia.json) |
+| Escape From Russia: Mobilization | 251361 | [251361-escape-from-russia-mobilization.json](./251361-escape-from-russia-mobilization.json) |
 | Escape from Russia: Mobilization Madness | 260579 | [260579-escape-from-russia-mobilization-madness.json](./260579-escape-from-russia-mobilization-madness.json) |
 | Escape From Sandhill | 324746 | [324746-escape-from-sandhill.json](./324746-escape-from-sandhill.json) |
 | Escape From School | 167681 | [167681-escape-from-school.json](./167681-escape-from-school.json) |
