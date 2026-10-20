@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T22:01:44.111Z",
-  "total_soundtracks": 2320,
+  "generated_at": "2026-10-20T22:02:03.421Z",
+  "total_soundtracks": 2321,
   "games": [
     {
       "igdb_id": 7522,
@@ -26442,6 +26442,20 @@
           "album_name": "Uncharted 2: Among Thieves (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5ZHFLShyZ4XtrQNbPU5F5c",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 214402,
+      "game_name": "Under the Waves",
+      "game_url": "https://ostdb.net/games/under-the-waves",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731276fe88958b65403bb58ab2",
+      "albums": [
+        {
+          "album_name": "Under the Waves (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4tDBqGyomuHKbJT6s9m6zp",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
