@@ -11633,7 +11633,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monobot | 127817 | [127817-monobot.json](./127817-monobot.json) |
 | Monoch Room | 315600 | [315600-monoch-room.json](./315600-monoch-room.json) |
 | Monochro | 150164 | [150164-monochro.json](./150164-monochro.json) |
-| Monochroma | 16873 | [16873-monochroma.json](./16873-monochroma.json) |
 | Monochromality | 346170 | [346170-monochromality.json](./346170-monochromality.json) |
 | Monochromaniacs | 124147 | [124147-monochromaniacs.json](./124147-monochromaniacs.json) |
 | Monochromatic Aberration | 417673 | [417673-monochromatic-aberration.json](./417673-monochromatic-aberration.json) |
