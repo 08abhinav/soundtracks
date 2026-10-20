@@ -4553,6 +4553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind You | 34572 | [34572-behind-you.json](./34572-behind-you.json) |
 | Behind You | 359079 | [359079-behind-you.json](./359079-behind-you.json) |
 | Behoarder | 184617 | [184617-behoarder.json](./184617-behoarder.json) |
+| Behold Battle | 247918 | [247918-behold-battle.json](./247918-behold-battle.json) |
 | Behold the Dark | 151470 | [151470-behold-the-dark.json](./151470-behold-the-dark.json) |
 | Behold the Kickmen | 26188 | [26188-behold-the-kickmen.json](./26188-behold-the-kickmen.json) |
 | Beholder 2: Big Brother Edition | 146131 | [146131-beholder-2-big-brother-edition.json](./146131-beholder-2-big-brother-edition.json) |
@@ -10929,6 +10930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Blades | 224075 | [224075-brave-blades.json](./224075-brave-blades.json) |
 | Brave Bow Archer: Princess Rescue Simulator! | 261108 | [261108-brave-bow-archer-princess-rescue-simulator.json](./261108-brave-bow-archer-princess-rescue-simulator.json) |
 | Brave Brigade | 39176 | [39176-brave-brigade.json](./39176-brave-brigade.json) |
+| Brave Bubble Heart | 247870 | [247870-brave-bubble-heart.json](./247870-brave-bubble-heart.json) |
 | Brave Builder Construct A Climb | 201577 | [201577-brave-builder-construct-a-climb.json](./201577-brave-builder-construct-a-climb.json) |
 | Brave Cano | 174350 | [174350-brave-cano.json](./174350-brave-cano.json) |
 | Brave Deeds of Rescue Team | 157505 | [157505-brave-deeds-of-rescue-team.json](./157505-brave-deeds-of-rescue-team.json) |
