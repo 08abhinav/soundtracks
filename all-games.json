@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:35:59.916Z",
-  "total_soundtracks": 2245,
+  "generated_at": "2026-10-20T21:36:10.446Z",
+  "total_soundtracks": 2246,
   "games": [
     {
       "igdb_id": 7522,
@@ -8255,6 +8255,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/coming-like-fire-%E6%B8%B8%E6%88%8F-%E5%91%BD%E8%BF%90%E6%89%B3%E6%9C%BA-%E5%85%88%E8%A7%89%E6%B5%8B%E8%AF%95%E4%B8%BB%E9%A2%98%E6%9B%B2-single/1831474095?uo=4",
           "album_link_url": "https://album.link/i/1831474095"
+        }
+      ]
+    },
+    {
+      "igdb_id": 229919,
+      "game_name": "Fate/Samurai Remnant",
+      "game_url": "https://ostdb.net/games/fate-samurai-remnant",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e95596464f77fb9b99a789aa",
+      "albums": [
+        {
+          "album_name": "Fate/Samurai Remnant Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/3OhWJjVLvW6yhzanYZIY86",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
