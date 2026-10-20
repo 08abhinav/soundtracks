@@ -7468,6 +7468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunch Lady | 145855 | [145855-lunch-lady.json](./145855-lunch-lady.json) |
 | Lunch Lord: The Doom of Black Philip | 184634 | [184634-lunch-lord-the-doom-of-black-philip.json](./184634-lunch-lord-the-doom-of-black-philip.json) |
 | Lunch Rush HD | 87903 | [87903-lunch-rush-hd.json](./87903-lunch-rush-hd.json) |
+| Lunch Time in Burger Kingdom | 206578 | [206578-lunch-time-in-burger-kingdom.json](./206578-lunch-time-in-burger-kingdom.json) |
 | Lunch Truck Tycoon | 35118 | [35118-lunch-truck-tycoon.json](./35118-lunch-truck-tycoon.json) |
 | Lunch Truck Tycoon 2 | 44220 | [44220-lunch-truck-tycoon-2.json](./44220-lunch-truck-tycoon-2.json) |
 | Lunch with Ronan | 292023 | [292023-lunch-with-ronan.json](./292023-lunch-with-ronan.json) |
