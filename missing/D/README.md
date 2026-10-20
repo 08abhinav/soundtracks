@@ -5584,6 +5584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy Korcity | 264230 | [264230-destroy-korcity.json](./264230-destroy-korcity.json) |
 | Destroy Neighbor House | 102668 | [102668-destroy-neighbor-house.json](./102668-destroy-neighbor-house.json) |
 | Destroy Simulator | 188517 | [188517-destroy-simulator.json](./188517-destroy-simulator.json) |
+| Destroy Simulator VR | 235068 | [235068-destroy-simulator-vr.json](./235068-destroy-simulator-vr.json) |
 | Destroy the Castle | 349843 | [349843-destroy-the-castle.json](./349843-destroy-the-castle.json) |
 | Destroy the Cubes | 156133 | [156133-destroy-the-cubes.json](./156133-destroy-the-cubes.json) |
 | Destroy the Demon Army | 370196 | [370196-destroy-the-demon-army.json](./370196-destroy-the-demon-army.json) |
@@ -7502,6 +7503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea 7: Vows of the Virtueless - Complete Edition | 270296 | [270296-disgaea-7-vows-of-the-virtueless-complete-edition.json](./270296-disgaea-7-vows-of-the-virtueless-complete-edition.json) |
 | Disgaea 7: Vows of the Virtueless - Cosmetic Set | 270298 | [270298-disgaea-7-vows-of-the-virtueless-cosmetic-set.json](./270298-disgaea-7-vows-of-the-virtueless-cosmetic-set.json) |
 | Disgaea 7: Vows of the Virtueless - Costumes Set | 270294 | [270294-disgaea-7-vows-of-the-virtueless-costumes-set.json](./270294-disgaea-7-vows-of-the-virtueless-costumes-set.json) |
+| Disgaea 7: Vows of the Virtueless - Deluxe Edition | 235071 | [235071-disgaea-7-vows-of-the-virtueless-deluxe-edition.json](./235071-disgaea-7-vows-of-the-virtueless-deluxe-edition.json) |
 | Disgaea 7: Vows of the Virtueless - Digital Deluxe Edition | 270295 | [270295-disgaea-7-vows-of-the-virtueless-digital-deluxe-edition.json](./270295-disgaea-7-vows-of-the-virtueless-digital-deluxe-edition.json) |
 | Disgaea 7: Vows of the Virtueless - Limited Edition | 283125 | [283125-disgaea-7-vows-of-the-virtueless-limited-edition.json](./283125-disgaea-7-vows-of-the-virtueless-limited-edition.json) |
 | Disgaea 7: Vows of the Virtueless - Season Pass | 270287 | [270287-disgaea-7-vows-of-the-virtueless-season-pass.json](./270287-disgaea-7-vows-of-the-virtueless-season-pass.json) |
