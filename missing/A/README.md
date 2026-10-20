@@ -6467,6 +6467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among Ass 2: Butt Warfare | 170900 | [170900-among-ass-2-butt-warfare.json](./170900-among-ass-2-butt-warfare.json) |
 | Among Ass: Trilogy | 213432 | [213432-among-ass-trilogy.json](./213432-among-ass-trilogy.json) |
 | Among Dots | 159063 | [159063-among-dots.json](./159063-among-dots.json) |
+| Among Gods! RPG Adventure | 216078 | [216078-among-gods-rpg-adventure.json](./216078-among-gods-rpg-adventure.json) |
 | Among Paws | 390570 | [390570-among-paws.json](./390570-among-paws.json) |
 | Among Ripples 2 | 119637 | [119637-among-ripples-2.json](./119637-among-ripples-2.json) |
 | Among Ripples: Shallow Waters | 133793 | [133793-among-ripples-shallow-waters.json](./133793-among-ripples-shallow-waters.json) |
@@ -7010,6 +7011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Senki | 84334 | [84334-angel-senki.json](./84334-angel-senki.json) |
 | Angel Sex Pet | 158038 | [158038-angel-sex-pet.json](./158038-angel-sex-pet.json) |
 | Angel Spirit | 293088 | [293088-angel-spirit.json](./293088-angel-spirit.json) |
+| Angel Squad | 216082 | [216082-angel-squad.json](./216082-angel-squad.json) |
 | Angel Sweet | 261446 | [261446-angel-sweet.json](./261446-angel-sweet.json) |
 | Angel Symphony | 251051 | [251051-angel-symphony.json](./251051-angel-symphony.json) |
 | Angel Tear: Goddess Betrayed | 291845 | [291845-angel-tear-goddess-betrayed.json](./291845-angel-tear-goddess-betrayed.json) |
@@ -10660,6 +10662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Camion Sugorokuden | 64200 | [64200-art-camion-sugorokuden.json](./64200-art-camion-sugorokuden.json) |
 | Art Challenge | 280897 | [280897-art-challenge.json](./280897-art-challenge.json) |
 | Art Club Challenge | 102891 | [102891-art-club-challenge.json](./102891-art-club-challenge.json) |
+| Art Code Summoner | 216092 | [216092-art-code-summoner.json](./216092-art-code-summoner.json) |
 | Art Dash | 303678 | [303678-art-dash.json](./303678-art-dash.json) |
 | Art Detective: Hidden Through Ancient China | 320327 | [320327-art-detective-hidden-through-ancient-china.json](./320327-art-detective-hidden-through-ancient-china.json) |
 | Art Diff | 303677 | [303677-art-diff.json](./303677-art-diff.json) |
@@ -13424,6 +13427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awol Ahab | 180115 | [180115-awol-ahab.json](./180115-awol-ahab.json) |
 | Awolnation: Megalithic Mayhem | 174228 | [174228-awolnation-megalithic-mayhem.json](./174228-awolnation-megalithic-mayhem.json) |
 | Aworded Crack | 108602 | [108602-aworded-crack.json](./108602-aworded-crack.json) |
+| AWP Mode | 216111 | [216111-awp-mode.json](./216111-awp-mode.json) |
 | Awrak | 348589 | [348589-awrak.json](./348589-awrak.json) |
 | AWS Argentina Wingshooting Simulator | 75032 | [75032-aws-argentina-wingshooting-simulator.json](./75032-aws-argentina-wingshooting-simulator.json) |
 | Awsome Metal Detecting | 74730 | [74730-awsome-metal-detecting.json](./74730-awsome-metal-detecting.json) |
