@@ -7209,6 +7209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platinum Demo: Final Fantasy XV | 299106 | [299106-platinum-demo-final-fantasy-xv.json](./299106-platinum-demo-final-fantasy-xv.json) |
 | Platinum Kill | 112272 | [112272-platinum-kill.json](./112272-platinum-kill.json) |
 | Platinum Pinball | 131266 | [131266-platinum-pinball.json](./131266-platinum-pinball.json) |
+| Platinum Solitaire 3 | 239473 | [239473-platinum-solitaire-3.json](./239473-platinum-solitaire-3.json) |
 | Platinum Sudoku | 263322 | [263322-platinum-sudoku.json](./263322-platinum-sudoku.json) |
 | Platinum White | 307137 | [307137-platinum-white.json](./307137-platinum-white.json) |
 | Plato | 86967 | [86967-plato.json](./86967-plato.json) |
@@ -7555,6 +7556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plunder | 113748 | [113748-plunder.json](./113748-plunder.json) |
 | Plunder & Pillage | 159212 | [159212-plunder-and-pillage.json](./159212-plunder-and-pillage.json) |
 | Plunder Ball | 275838 | [275838-plunder-ball.json](./275838-plunder-ball.json) |
+| Plunder Islands | 239486 | [239486-plunder-islands.json](./239486-plunder-islands.json) |
 | Plunder Kings | 114149 | [114149-plunder-kings.json](./114149-plunder-kings.json) |
 | Plunder Masters | 250789 | [250789-plunder-masters.json](./250789-plunder-masters.json) |
 | Plunder Panic | 97965 | [97965-plunder-panic.json](./97965-plunder-panic.json) |
