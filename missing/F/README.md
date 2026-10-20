@@ -1203,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Farm | 322141 | [322141-family-farm.json](./322141-family-farm.json) |
 | Family Farm Adventure | 216138 | [216138-family-farm-adventure.json](./216138-family-farm-adventure.json) |
 | Family Farm Seaside | 104104 | [104104-family-farm-seaside.json](./104104-family-farm-seaside.json) |
+| Family Farm: Goodfolks | 245177 | [245177-family-farm-goodfolks.json](./245177-family-farm-goodfolks.json) |
 | Family Fest Presents Movie Games | 70671 | [70671-family-fest-presents-movie-games.json](./70671-family-fest-presents-movie-games.json) |
 | Family Feud | 159244 | [159244-family-feud.json](./159244-family-feud.json) |
 | Family Feud | 198736 | [198736-family-feud.json](./198736-family-feud.json) |
@@ -7110,6 +7111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Force of Warships: Battleship | 196550 | [196550-force-of-warships-battleship.json](./196550-force-of-warships-battleship.json) |
 | Force of Will - TCG | 58875 | [58875-force-of-will-tcg.json](./58875-force-of-will-tcg.json) |
 | Force One | 13849 | [13849-force-one.json](./13849-force-one.json) |
+| Force One | 245140 | [245140-force-one.json](./245140-force-one.json) |
 | Force Reboot | 173302 | [173302-force-reboot.json](./173302-force-reboot.json) |
 | Force Restart | 366978 | [366978-force-restart.json](./366978-force-restart.json) |
 | Force Seven | 47232 | [47232-force-seven.json](./47232-force-seven.json) |
