@@ -1207,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Mario TTYD64 | 257636 | [257636-paper-mario-ttyd64.json](./257636-paper-mario-ttyd64.json) |
 | Paper Mario World | 339661 | [339661-paper-mario-world.json](./339661-paper-mario-world.json) |
 | Paper Mario World 2 | 339668 | [339668-paper-mario-world-2.json](./339668-paper-mario-world-2.json) |
+| Paper Mario: All Bosses in the Same Battle | 240080 | [240080-paper-mario-all-bosses-in-the-same-battle.json](./240080-paper-mario-all-bosses-in-the-same-battle.json) |
 | Paper Mario: Black Pit | 159343 | [159343-paper-mario-black-pit.json](./159343-paper-mario-black-pit.json) |
 | Paper Mario: Dark Star Edition | 266504 | [266504-paper-mario-dark-star-edition.json](./266504-paper-mario-dark-star-edition.json) |
 | Paper Mario: Great Star Offensive | 338742 | [338742-paper-mario-great-star-offensive.json](./338742-paper-mario-great-star-offensive.json) |
@@ -8520,6 +8521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Saiph 2 | 272886 | [272886-pokemon-saiph-2.json](./272886-pokemon-saiph-2.json) |
 | Pokémon Sapphire Version | 355533 | [355533-pokemon-sapphire-version.json](./355533-pokemon-sapphire-version.json) |
 | Pokémon Scarlet | 191931 | [191931-pokemon-scarlet.json](./191931-pokemon-scarlet.json) |
+| Pokémon Scarlet + The Hidden Treasure of Area Zero | 240083 | [240083-pokemon-scarlet-the-hidden-treasure-of-area-zero.json](./240083-pokemon-scarlet-the-hidden-treasure-of-area-zero.json) |
 | Pokémon Scarlet and Pokémon Violet Double Pack | 203516 | [203516-pokemon-scarlet-and-pokemon-violet-double-pack.json](./203516-pokemon-scarlet-and-pokemon-violet-double-pack.json) |
 | Pokémon Scarlet: The Hidden Treasure of Area Zero | 239935 | [239935-pokemon-scarlet-the-hidden-treasure-of-area-zero.json](./239935-pokemon-scarlet-the-hidden-treasure-of-area-zero.json) |
 | Pokémon Scarlet: The Hidden Treasure of Area Zero - Part 2: The Indigo Disk | 239932 | [239932-pokemon-scarlet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json](./239932-pokemon-scarlet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json) |
@@ -8609,6 +8611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Velvet: Special Hatenna Edition | 337422 | [337422-pokemon-velvet-special-hatenna-edition.json](./337422-pokemon-velvet-special-hatenna-edition.json) |
 | Pokémon Version Violette | 401803 | [401803-pokemon-version-violette.json](./401803-pokemon-version-violette.json) |
 | Pokémon Villain Jam | 354642 | [354642-pokemon-villain-jam.json](./354642-pokemon-villain-jam.json) |
+| Pokémon Violet + The Hidden Treasure of Area Zero | 240084 | [240084-pokemon-violet-the-hidden-treasure-of-area-zero.json](./240084-pokemon-violet-the-hidden-treasure-of-area-zero.json) |
 | Pokémon Violet: The Hidden Treasure of Area Zero - Part 2: The Indigo Disk | 239933 | [239933-pokemon-violet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json](./239933-pokemon-violet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json) |
 | Pokémon Void | 199996 | [199996-pokemon-void.json](./199996-pokemon-void.json) |
 | Pokémon Volt White | 226415 | [226415-pokemon-volt-white.json](./226415-pokemon-volt-white.json) |
@@ -10255,6 +10258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerWash Simulator: Cruise Ship Sun Deck - Summer 2024 | 312018 | [312018-powerwash-simulator-cruise-ship-sun-deck-summer-2024.json](./312018-powerwash-simulator-cruise-ship-sun-deck-summer-2024.json) |
 | PowerWash Simulator: Halloween Seasonal 2024 | 320757 | [320757-powerwash-simulator-halloween-seasonal-2024.json](./320757-powerwash-simulator-halloween-seasonal-2024.json) |
 | PowerWash Simulator: Ice Rink - Winter 2024 | 324567 | [324567-powerwash-simulator-ice-rink-winter-2024.json](./324567-powerwash-simulator-ice-rink-winter-2024.json) |
+| PowerWash Simulator: Midgar Special Pack | 240049 | [240049-powerwash-simulator-midgar-special-pack.json](./240049-powerwash-simulator-midgar-special-pack.json) |
 | PowerWash Simulator: Muckingham Files - Part 3 | 309064 | [309064-powerwash-simulator-muckingham-files-part-3.json](./309064-powerwash-simulator-muckingham-files-part-3.json) |
 | PowerWash Simulator: Muckingham Files - Part 4 | 312427 | [312427-powerwash-simulator-muckingham-files-part-4.json](./312427-powerwash-simulator-muckingham-files-part-4.json) |
 | PowerWash Simulator: Muckingham Files - Part 5 | 340590 | [340590-powerwash-simulator-muckingham-files-part-5.json](./340590-powerwash-simulator-muckingham-files-part-5.json) |
@@ -11627,6 +11631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Aura: Super Engineer Colonist | 168205 | [168205-project-aura-super-engineer-colonist.json](./168205-project-aura-super-engineer-colonist.json) |
 | Project Aurora | 208106 | [208106-project-aurora.json](./208106-project-aurora.json) |
 | Project Awakening | 22790 | [22790-project-awakening.json](./22790-project-awakening.json) |
+| Project B | 240081 | [240081-project-b.json](./240081-project-b.json) |
 | Project B-Fer | 257651 | [257651-project-b-fer.json](./257651-project-b-fer.json) |
 | Project Backrooms | 236529 | [236529-project-backrooms.json](./236529-project-backrooms.json) |
 | Project Bad Apple's AP400 | 411112 | [411112-project-bad-apples-ap400.json](./411112-project-bad-apples-ap400.json) |
