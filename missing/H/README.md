@@ -4578,6 +4578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Normandie: 21st Panzer Division | 155340 | [155340-heroes-of-normandie-21st-panzer-division.json](./155340-heroes-of-normandie-21st-panzer-division.json) |
 | Heroes of Normandie: Bulletproof Edition | 53190 | [53190-heroes-of-normandie-bulletproof-edition.json](./53190-heroes-of-normandie-bulletproof-edition.json) |
 | Heroes of Normandie: US Rangers | 172010 | [172010-heroes-of-normandie-us-rangers.json](./172010-heroes-of-normandie-us-rangers.json) |
+| Heroes of Olympus | 247321 | [247321-heroes-of-olympus.json](./247321-heroes-of-olympus.json) |
 | Heroes of Order & Chaos | 39181 | [39181-heroes-of-order-and-chaos.json](./39181-heroes-of-order-and-chaos.json) |
 | Heroes of Paragon | 37394 | [37394-heroes-of-paragon.json](./37394-heroes-of-paragon.json) |
 | Heroes of Pure Land | 115801 | [115801-heroes-of-pure-land.json](./115801-heroes-of-pure-land.json) |
@@ -7223,6 +7224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hooked! Again: Real Motion Fishing | 50627 | [50627-hooked-again-real-motion-fishing.json](./50627-hooked-again-real-motion-fishing.json) |
 | Hookeye | 417465 | [417465-hookeye.json](./417465-hookeye.json) |
 | Hooking Season | 211192 | [211192-hooking-season.json](./211192-hooking-season.json) |
+| Hookscrap | 247357 | [247357-hookscrap.json](./247357-hookscrap.json) |
 | Hookshot Runner | 341615 | [341615-hookshot-runner.json](./341615-hookshot-runner.json) |
 | HookShotVR | 143934 | [143934-hookshotvr.json](./143934-hookshotvr.json) |
 | Hooligan Crusoe | 283841 | [283841-hooligan-crusoe.json](./283841-hooligan-crusoe.json) |
@@ -9309,6 +9311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Scape | 100387 | [100387-hyper-scape.json](./100387-hyper-scape.json) |
 | Hyper School Simulator | 303095 | [303095-hyper-school-simulator.json](./303095-hyper-school-simulator.json) |
 | Hyper Scuffle | 114338 | [114338-hyper-scuffle.json](./114338-hyper-scuffle.json) |
+| Hyper Securities S | 247349 | [247349-hyper-securities-s.json](./247349-hyper-securities-s.json) |
 | Hyper Sentinel | 85191 | [85191-hyper-sentinel.json](./85191-hyper-sentinel.json) |
 | Hyper Shapes | 232443 | [232443-hyper-shapes.json](./232443-hyper-shapes.json) |
 | Hyper Simon X | 103438 | [103438-hyper-simon-x.json](./103438-hyper-simon-x.json) |
