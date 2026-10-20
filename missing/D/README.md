@@ -1609,6 +1609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness Flaw | 262286 | [262286-darkness-flaw.json](./262286-darkness-flaw.json) |
 | Darkness Has Eyes | 406857 | [406857-darkness-has-eyes.json](./406857-darkness-has-eyes.json) |
 | Darkness Hour | 116159 | [116159-darkness-hour.json](./116159-darkness-hour.json) |
+| Darkness Inside | 212119 | [212119-darkness-inside.json](./212119-darkness-inside.json) |
 | Darkness Machine | 289868 | [289868-darkness-machine.json](./289868-darkness-machine.json) |
 | Darkness Maze Cube | 130213 | [130213-darkness-maze-cube.json](./130213-darkness-maze-cube.json) |
 | Darkness Maze Cube | 221255 | [221255-darkness-maze-cube.json](./221255-darkness-maze-cube.json) |
