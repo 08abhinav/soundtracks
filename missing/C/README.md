@@ -9255,6 +9255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColorUs : My Coloring Books | 99401 | [99401-colorus-my-coloring-books.json](./99401-colorus-my-coloring-books.json) |
 | Colorway Antics | 235796 | [235796-colorway-antics.json](./235796-colorway-antics.json) |
 | Colorwood Words | 354395 | [354395-colorwood-words.json](./354395-colorwood-words.json) |
+| ColorWorld | 229532 | [229532-colorworld.json](./229532-colorworld.json) |
 | ColorZ | 21043 | [21043-colorz.json](./21043-colorz.json) |
 | ColorZ - 3D Pixel Art | 87007 | [87007-colorz-3d-pixel-art.json](./87007-colorz-3d-pixel-art.json) |
 | Colossal Cave | 215119 | [215119-colossal-cave.json](./215119-colossal-cave.json) |
@@ -14878,6 +14879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curtain Call | 405046 | [405046-curtain-call.json](./405046-curtain-call.json) |
 | Curtain Call Crusade | 255570 | [255570-curtain-call-crusade.json](./255570-curtain-call-crusade.json) |
 | Curtain Drop | 352828 | [352828-curtain-drop.json](./352828-curtain-drop.json) |
+| Curtained Moon | 229554 | [229554-curtained-moon.json](./229554-curtained-moon.json) |
 | Curtainfall | 367613 | [367613-curtainfall.json](./367613-curtainfall.json) |
 | Curtains The Clown | 371559 | [371559-curtains-the-clown.json](./371559-curtains-the-clown.json) |
 | Curtiss | 40739 | [40739-curtiss.json](./40739-curtiss.json) |
