@@ -2496,6 +2496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Age HD | 109065 | [109065-castle-age-hd.json](./109065-castle-age-hd.json) |
 | Castle and Cursor | 374818 | [374818-castle-and-cursor.json](./374818-castle-and-cursor.json) |
 | Castle Away | 396006 | [396006-castle-away.json](./396006-castle-away.json) |
+| Castle Battle: The Game | 237784 | [237784-castle-battle-the-game.json](./237784-castle-battle-the-game.json) |
 | Castle Battles | 29997 | [29997-castle-battles.json](./29997-castle-battles.json) |
 | Castle Blackstar | 28569 | [28569-castle-blackstar.json](./28569-castle-blackstar.json) |
 | Castle Bloodstone | 353905 | [353905-castle-bloodstone.json](./353905-castle-bloodstone.json) |
@@ -7602,6 +7603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicker Climber: Pachinko | 373755 | [373755-clicker-climber-pachinko.json](./373755-clicker-climber-pachinko.json) |
 | Clicker Conquest | 331989 | [331989-clicker-conquest.json](./331989-clicker-conquest.json) |
 | Clicker Fred | 95965 | [95965-clicker-fred.json](./95965-clicker-fred.json) |
+| Clicker Guardians | 237773 | [237773-clicker-guardians.json](./237773-clicker-guardians.json) |
 | Clicker Guild | 30457 | [30457-clicker-guild.json](./30457-clicker-guild.json) |
 | Clicker Heroes | 15563 | [15563-clicker-heroes.json](./15563-clicker-heroes.json) |
 | Clicker Planet: Bluestone Project | 160297 | [160297-clicker-planet-bluestone-project.json](./160297-clicker-planet-bluestone-project.json) |
