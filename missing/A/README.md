@@ -4838,6 +4838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien | 226104 | [226104-alien.json](./226104-alien.json) |
 | Alien | 245251 | [245251-alien.json](./245251-alien.json) |
 | Alien | 25132 | [25132-alien.json](./25132-alien.json) |
+| Alien 3 | 224408 | [224408-alien-3.json](./224408-alien-3.json) |
 | Alien 3 | 273014 | [273014-alien-3.json](./273014-alien-3.json) |
 | Alien 3 | 273017 | [273017-alien-3.json](./273017-alien-3.json) |
 | Alien 3 | 273018 | [273018-alien-3.json](./273018-alien-3.json) |
@@ -7911,6 +7912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Century's Episode: R | 7270 | [7270-another-centurys-episode-r.json](./7270-another-centurys-episode-r.json) |
 | Another Chance | 253484 | [253484-another-chance.json](./253484-another-chance.json) |
 | Another Christmas Game | 326043 | [326043-another-christmas-game.json](./326043-another-christmas-game.json) |
+| Another City: Sigongui Teum | 224401 | [224401-another-city-sigongui-teum.json](./224401-another-city-sigongui-teum.json) |
 | Another Code: R - A Journey into Lost Memories | 266696 | [266696-another-code-r-a-journey-into-lost-memories.json](./266696-another-code-r-a-journey-into-lost-memories.json) |
 | Another Code: Two Memories | 266694 | [266694-another-code-two-memories.json](./266694-another-code-two-memories.json) |
 | Another Crab's Treasure: Year of the Crab | 349894 | [349894-another-crabs-treasure-year-of-the-crab.json](./349894-another-crabs-treasure-year-of-the-crab.json) |
@@ -12357,6 +12359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlas Reactor | 18063 | [18063-atlas-reactor.json](./18063-atlas-reactor.json) |
 | Atlas Reactor VR Character Viewer | 33173 | [33173-atlas-reactor-vr-character-viewer.json](./33173-atlas-reactor-vr-character-viewer.json) |
 | Atlas Reactor: All Freelancers Pack | 52430 | [52430-atlas-reactor-all-freelancers-pack.json](./52430-atlas-reactor-all-freelancers-pack.json) |
+| Atlas Reactor: Necrolancer Freelancer Six Pack | 224436 | [224436-atlas-reactor-necrolancer-freelancer-six-pack.json](./224436-atlas-reactor-necrolancer-freelancer-six-pack.json) |
 | Atlas Reactor: Ultimate Reactor Pack | 52429 | [52429-atlas-reactor-ultimate-reactor-pack.json](./52429-atlas-reactor-ultimate-reactor-pack.json) |
 | Atlas Rogues | 140950 | [140950-atlas-rogues.json](./140950-atlas-rogues.json) |
 | Atlas Wept | 169854 | [169854-atlas-wept.json](./169854-atlas-wept.json) |
@@ -12386,6 +12389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atom Fit | 234169 | [234169-atom-fit.json](./234169-atom-fit.json) |
 | Atom Grrrl!! | 33781 | [33781-atom-grrrl.json](./33781-atom-grrrl.json) |
 | Atom OI | 183961 | [183961-atom-oi.json](./183961-atom-oi.json) |
+| Atom RPG: Trudograd - War Supply Pack | 224437 | [224437-atom-rpg-trudograd-war-supply-pack.json](./224437-atom-rpg-trudograd-war-supply-pack.json) |
 | Atom RPG: Trudograd Deluxe Edition | 227181 | [227181-atom-rpg-trudograd-deluxe-edition.json](./227181-atom-rpg-trudograd-deluxe-edition.json) |
 | Atom Run | 61123 | [61123-atom-run.json](./61123-atom-run.json) |
 | Atom Smasher | 268574 | [268574-atom-smasher.json](./268574-atom-smasher.json) |
@@ -12449,6 +12453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomica | 379989 | [379989-atomica.json](./379989-atomica.json) |
 | Atomical | 364367 | [364367-atomical.json](./364367-atomical.json) |
 | Atomicrops | 76954 | [76954-atomicrops.json](./76954-atomicrops.json) |
+| Atomicrops: Deerly Beloved | 224435 | [224435-atomicrops-deerly-beloved.json](./224435-atomicrops-deerly-beloved.json) |
 | Atomicrops: Deluxe Edition | 154542 | [154542-atomicrops-deluxe-edition.json](./154542-atomicrops-deluxe-edition.json) |
 | Atomicrops: Invasive Species | 167929 | [167929-atomicrops-invasive-species.json](./167929-atomicrops-invasive-species.json) |
 | Atomicrops: Reap What You Crow | 196051 | [196051-atomicrops-reap-what-you-crow.json](./196051-atomicrops-reap-what-you-crow.json) |
@@ -12493,6 +12498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atrophia: Diseased Lands | 401026 | [401026-atrophia-diseased-lands.json](./401026-atrophia-diseased-lands.json) |
 | Atropos | 326240 | [326240-atropos.json](./326240-atropos.json) |
 | Atrox | 73551 | [73551-atrox.json](./73551-atrox.json) |
+| ATSF Wagon Pack 01 | 224440 | [224440-atsf-wagon-pack-01.json](./224440-atsf-wagon-pack-01.json) |
 | ATSS Retribution II | 224100 | [224100-atss-retribution-ii.json](./224100-atss-retribution-ii.json) |
 | Atsumare! Pawapuro-kun no DS Koushien | 98515 | [98515-atsumare-pawapuro-kun-no-ds-koushien.json](./98515-atsumare-pawapuro-kun-no-ds-koushien.json) |
 | Atsumete Asobu Kuma no Pooh-san: Mori no Takaramono | 50018 | [50018-atsumete-asobu-kuma-no-pooh-san-mori-no-takaramono.json](./50018-atsumete-asobu-kuma-no-pooh-san-mori-no-takaramono.json) |
@@ -12949,10 +12955,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automobilista 2: Hockenheimring Pack | 156164 | [156164-automobilista-2-hockenheimring-pack.json](./156164-automobilista-2-hockenheimring-pack.json) |
 | Automobilista 2: IMSA Track Pack | 352742 | [352742-automobilista-2-imsa-track-pack.json](./352742-automobilista-2-imsa-track-pack.json) |
 | Automobilista 2: Lamborghini Dream Pack Pt1 | 352740 | [352740-automobilista-2-lamborghini-dream-pack-pt1.json](./352740-automobilista-2-lamborghini-dream-pack-pt1.json) |
+| Automobilista 2: Monza Pack | 224441 | [224441-automobilista-2-monza-pack.json](./224441-automobilista-2-monza-pack.json) |
 | Automobilista 2: Nürburgring 2025 | 371520 | [371520-automobilista-2-nurburgring-2025.json](./371520-automobilista-2-nurburgring-2025.json) |
 | Automobilista 2: Nurburgring Pack | 156199 | [156199-automobilista-2-nurburgring-pack.json](./156199-automobilista-2-nurburgring-pack.json) |
 | Automobilista 2: Racin' USA | 169333 | [169333-automobilista-2-racin-usa.json](./169333-automobilista-2-racin-usa.json) |
+| Automobilista 2: Racin' USA Pack Pt.1 | 224442 | [224442-automobilista-2-racin-usa-pack-pt-1.json](./224442-automobilista-2-racin-usa-pack-pt-1.json) |
+| Automobilista 2: Racin' USA Pack Pt.2 | 224443 | [224443-automobilista-2-racin-usa-pack-pt-2.json](./224443-automobilista-2-racin-usa-pack-pt-2.json) |
 | Automobilista 2: Racin' USA Pack Pt3 | 227517 | [227517-automobilista-2-racin-usa-pack-pt3.json](./227517-automobilista-2-racin-usa-pack-pt3.json) |
+| Automobilista 2: Silverstone Pack | 224444 | [224444-automobilista-2-silverstone-pack.json](./224444-automobilista-2-silverstone-pack.json) |
 | Automobilista 2: Spa-Francorchamps | 171084 | [171084-automobilista-2-spa-francorchamps.json](./171084-automobilista-2-spa-francorchamps.json) |
 | Automobilista: Brazilian Touring Car Classics | 171086 | [171086-automobilista-brazilian-touring-car-classics.json](./171086-automobilista-brazilian-touring-car-classics.json) |
 | Automobilista: Donington Park | 171082 | [171082-automobilista-donington-park.json](./171082-automobilista-donington-park.json) |
@@ -13215,6 +13225,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avici | 208672 | [208672-avici.json](./208672-avici.json) |
 | AVICI | 348242 | [348242-avici.json](./348242-avici.json) |
 | Avicii Invector | 75245 | [75245-avicii-invector.json](./75245-avicii-invector.json) |
+| Avicii Invector: Magma Track Pack | 224445 | [224445-avicii-invector-magma-track-pack.json](./224445-avicii-invector-magma-track-pack.json) |
+| Avicii Invector: Tim Track Pack | 224446 | [224446-avicii-invector-tim-track-pack.json](./224446-avicii-invector-tim-track-pack.json) |
 | Avicii: Gravity | 108980 | [108980-avicii-gravity.json](./108980-avicii-gravity.json) |
 | Avination | 64490 | [64490-avination.json](./64490-avination.json) |
 | Avis Rapida: Aerobatic Racing | 118384 | [118384-avis-rapida-aerobatic-racing.json](./118384-avis-rapida-aerobatic-racing.json) |
