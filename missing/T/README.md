@@ -6163,6 +6163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Defender: Farm and Castle | 117626 | [117626-the-defender-farm-and-castle.json](./117626-the-defender-farm-and-castle.json) |
 | The Defender: Farm and Castle 2 | 126931 | [126931-the-defender-farm-and-castle-2.json](./126931-the-defender-farm-and-castle-2.json) |
 | The Defenders: The Second Wave | 35708 | [35708-the-defenders-the-second-wave.json](./35708-the-defenders-the-second-wave.json) |
+| The Defense of Trewel Towers | 236112 | [236112-the-defense-of-trewel-towers.json](./236112-the-defense-of-trewel-towers.json) |
 | The Defiant | 375948 | [375948-the-defiant.json](./375948-the-defiant.json) |
 | The Definitive Subsistence Update | 374288 | [374288-the-definitive-subsistence-update.json](./374288-the-definitive-subsistence-update.json) |
 | The Deletion | 34768 | [34768-the-deletion.json](./34768-the-deletion.json) |
@@ -11145,6 +11146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Phantom Thief Stina and 30 Jewels | 85438 | [85438-the-phantom-thief-stina-and-30-jewels.json](./85438-the-phantom-thief-stina-and-30-jewels.json) |
 | The Phantom's Call | 383696 | [383696-the-phantoms-call.json](./383696-the-phantoms-call.json) |
 | The Phantom's Revenge | 25135 | [25135-the-phantoms-revenge.json](./25135-the-phantoms-revenge.json) |
+| The Pharaoh's Labyrinth | 236133 | [236133-the-pharaohs-labyrinth.json](./236133-the-pharaohs-labyrinth.json) |
 | The Pharaoh's Tomb | 143468 | [143468-the-pharaohs-tomb.json](./143468-the-pharaohs-tomb.json) |
 | The Pharaoh's Tomb | 290306 | [290306-the-pharaohs-tomb.json](./290306-the-pharaohs-tomb.json) |
 | The Pharody | 334222 | [334222-the-pharody.json](./334222-the-pharody.json) |
@@ -15443,6 +15445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrust Me Bro | 383654 | [383654-thrust-me-bro.json](./383654-thrust-me-bro.json) |
 | Thrust Platinum | 66784 | [66784-thrust-platinum.json](./66784-thrust-platinum.json) |
 | Thrust Twist + Turn | 85986 | [85986-thrust-twist-turn.json](./85986-thrust-twist-turn.json) |
+| Thrusta X | 236153 | [236153-thrusta-x.json](./236153-thrusta-x.json) |
 | ThrustLander | 150443 | [150443-thrustlander.json](./150443-thrustlander.json) |
 | ThrustMe Too | 333373 | [333373-thrustme-too.json](./333373-thrustme-too.json) |
 | ThrustWorks | 156010 | [156010-thrustworks.json](./156010-thrustworks.json) |
