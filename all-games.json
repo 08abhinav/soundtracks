@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:37:06.002Z",
-  "total_soundtracks": 2251,
+  "generated_at": "2026-10-20T21:37:15.341Z",
+  "total_soundtracks": 2252,
   "games": [
     {
       "igdb_id": 7522,
@@ -11473,6 +11473,20 @@
           "spotify_url": "https://music.apple.com/us/album/homeworld-3-original-soundtrack/1745081505?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1745081505"
+        }
+      ]
+    },
+    {
+      "igdb_id": 186309,
+      "game_name": "Horizon Call of the Mountain",
+      "game_url": "https://ostdb.net/games/horizon-call-of-the-mountain",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e4bbf63350f6dddb30a999bc",
+      "albums": [
+        {
+          "album_name": "Horizon Call of the Mountain (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/45yWDK1rkyOp7B2l7zgFvt",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
