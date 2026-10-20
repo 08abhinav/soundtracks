@@ -7413,6 +7413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playmobil: The Explorers | 103901 | [103901-playmobil-the-explorers.json](./103901-playmobil-the-explorers.json) |
 | Playmobil: The Movie VR Adventures | 128438 | [128438-playmobil-the-movie-vr-adventures.json](./128438-playmobil-the-movie-vr-adventures.json) |
 | Playne | 102937 | [102937-playne.json](./102937-playne.json) |
+| Playnicky | 221068 | [221068-playnicky.json](./221068-playnicky.json) |
 | PlayPark StreetBallers | 249691 | [249691-playpark-streetballers.json](./249691-playpark-streetballers.json) |
 | Playroom Invasion TD | 264646 | [264646-playroom-invasion-td.json](./264646-playroom-invasion-td.json) |
 | Playroom Racer | 268329 | [268329-playroom-racer.json](./268329-playroom-racer.json) |
@@ -8791,9 +8792,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PokeRoku 4 | 236716 | [236716-pokeroku-4.json](./236716-pokeroku-4.json) |
 | PokeRoku 5 | 236717 | [236717-pokeroku-5.json](./236717-pokeroku-5.json) |
 | PokeRoku 6 | 236718 | [236718-pokeroku-6.json](./236718-pokeroku-6.json) |
+| PokéROM: Blissey | 221055 | [221055-pokerom-blissey.json](./221055-pokerom-blissey.json) |
 | PokéROM: Mew | 218523 | [218523-pokerom-mew.json](./218523-pokerom-mew.json) |
 | PokéROM: Pikachu | 212725 | [212725-pokerom-pikachu.json](./212725-pokerom-pikachu.json) |
 | PokéROM: Psyduck | 218524 | [218524-pokerom-psyduck.json](./218524-pokerom-psyduck.json) |
+| PokéROM: Sunflora | 221054 | [221054-pokerom-sunflora.json](./221054-pokerom-sunflora.json) |
 | Pokerrrr 2 | 320179 | [320179-pokerrrr-2.json](./320179-pokerrrr-2.json) |
 | PokerTH | 250379 | [250379-pokerth.json](./250379-pokerth.json) |
 | PokéScape | 342832 | [342832-pokescape.json](./342832-pokescape.json) |
@@ -13027,6 +13030,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpkin Simulator | 374348 | [374348-pumpkin-simulator.json](./374348-pumpkin-simulator.json) |
 | Pumpkin Slasher | 176231 | [176231-pumpkin-slasher.json](./176231-pumpkin-slasher.json) |
 | Pumpkin Smasher VR | 123911 | [123911-pumpkin-smasher-vr.json](./123911-pumpkin-smasher-vr.json) |
+| Pumpkin Spice Paradise | 221063 | [221063-pumpkin-spice-paradise.json](./221063-pumpkin-spice-paradise.json) |
+| Pumpkin Spice Paradise 2 | 221064 | [221064-pumpkin-spice-paradise-2.json](./221064-pumpkin-spice-paradise-2.json) |
 | Pumpkin Story | 201571 | [201571-pumpkin-story.json](./201571-pumpkin-story.json) |
 | Pumpkin Surprise | 246528 | [246528-pumpkin-surprise.json](./246528-pumpkin-surprise.json) |
 | Pumpkin's Revenge | 341435 | [341435-pumpkins-revenge.json](./341435-pumpkins-revenge.json) |
