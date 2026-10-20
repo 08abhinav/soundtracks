@@ -763,6 +763,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VBS2 | 94963 | [94963-vbs2.json](./94963-vbs2.json) |
 | VBS3 | 60994 | [60994-vbs3.json](./60994-vbs3.json) |
 | VC | 24883 | [24883-vc.json](./24883-vc.json) |
+| VC-2 | 246221 | [246221-vc-2.json](./246221-vc-2.json) |
+| VC-3 | 246222 | [246222-vc-3.json](./246222-vc-3.json) |
 | VCB: Why City - The Ballad Of Drunk Khovansky | 69510 | [69510-vcb-why-city-the-ballad-of-drunk-khovansky.json](./69510-vcb-why-city-the-ballad-of-drunk-khovansky.json) |
 | VCB: Why City 4k | 116467 | [116467-vcb-why-city-4k.json](./116467-vcb-why-city-4k.json) |
 | vCoder Hero | 127268 | [127268-vcoder-hero.json](./127268-vcoder-hero.json) |
