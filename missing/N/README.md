@@ -1440,6 +1440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neeko: Your 3D Interactive Monster | 262354 | [262354-neeko-your-3d-interactive-monster.json](./262354-neeko-your-3d-interactive-monster.json) |
 | Neera: Dark Secrets | 79806 | [79806-neera-dark-secrets.json](./79806-neera-dark-secrets.json) |
 | Neeron: The Blade of Nature | 173005 | [173005-neeron-the-blade-of-nature.json](./173005-neeron-the-blade-of-nature.json) |
+| Neet | 207687 | [207687-neet.json](./207687-neet.json) |
 | Neet Girl Rehabilitation Plan: Guutara-ko Saisei Kikaku | 285354 | [285354-neet-girl-rehabilitation-plan-guutara-ko-saisei-kikaku.json](./285354-neet-girl-rehabilitation-plan-guutara-ko-saisei-kikaku.json) |
 | NEET Nectar's Abysmally Small Assortment | 341363 | [341363-neet-nectars-abysmally-small-assortment.json](./341363-neet-nectars-abysmally-small-assortment.json) |
 | NEET Simulator | 113768 | [113768-neet-simulator.json](./113768-neet-simulator.json) |
@@ -3193,6 +3194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Blade | 146122 | [146122-night-blade.json](./146122-night-blade.json) |
 | Night Blights | 33457 | [33457-night-blights.json](./33457-night-blights.json) |
 | Night Blood W: Cutthroat Wolf | 336646 | [336646-night-blood-w-cutthroat-wolf.json](./336646-night-blood-w-cutthroat-wolf.json) |
+| Night Blood: Avenger's Tide | 207706 | [207706-night-blood-avengers-tide.json](./207706-night-blood-avengers-tide.json) |
 | Night Bomber | 92912 | [92912-night-bomber.json](./92912-night-bomber.json) |
 | Night Bound | 313828 | [313828-night-bound.json](./313828-night-bound.json) |
 | Night Bus | 294257 | [294257-night-bus.json](./294257-night-bus.json) |
