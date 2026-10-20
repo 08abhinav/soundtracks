@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kago no Naka no Alicis | 218383 | [218383-kago-no-naka-no-alicis.json](./218383-kago-no-naka-no-alicis.json) |
 | Kagura Douchuuki | 91969 | [91969-kagura-douchuuki.json](./91969-kagura-douchuuki.json) |
 | Kagura Genesis: Kuon's Story | 277258 | [277258-kagura-genesis-kuons-story.json](./277258-kagura-genesis-kuons-story.json) |
+| Kagura Survivors: Endless Night | 243538 | [243538-kagura-survivors-endless-night.json](./243538-kagura-survivors-endless-night.json) |
 | Kaguya-sama: Love Is War | 239005 | [239005-kaguya-sama-love-is-war.json](./239005-kaguya-sama-love-is-war.json) |
 | Kahen Soukou Gunbike | 44756 | [44756-kahen-soukou-gunbike.json](./44756-kahen-soukou-gunbike.json) |
 | Kahogo de Ecchi na Boku no Ane | 97449 | [97449-kahogo-de-ecchi-na-boku-no-ane.json](./97449-kahogo-de-ecchi-na-boku-no-ane.json) |
@@ -1894,6 +1895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill Your Friends | 133190 | [133190-kill-your-friends.json](./133190-kill-your-friends.json) |
 | Kill Your Friends | 407298 | [407298-kill-your-friends.json](./407298-kill-your-friends.json) |
 | Kill Your Heart | 337624 | [337624-kill-your-heart.json](./337624-kill-your-heart.json) |
+| Kill Your Shapes | 243537 | [243537-kill-your-shapes.json](./243537-kill-your-shapes.json) |
 | Kill Yourself | 132690 | [132690-kill-yourself.json](./132690-kill-yourself.json) |
 | Kill Ze Bugs | 363688 | [363688-kill-ze-bugs.json](./363688-kill-ze-bugs.json) |
 | Kill.Switch | 248588 | [248588-kill-switch.json](./248588-kill-switch.json) |
@@ -3424,6 +3426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights & Outlaws | 120917 | [120917-knights-and-outlaws.json](./120917-knights-and-outlaws.json) |
 | Knights & Slimes | 115649 | [115649-knights-and-slimes.json](./115649-knights-and-slimes.json) |
 | Knights and Craftsmen | 223689 | [223689-knights-and-craftsmen.json](./223689-knights-and-craftsmen.json) |
+| Knights and Goblins | 243536 | [243536-knights-and-goblins.json](./243536-knights-and-goblins.json) |
 | Knights and Merchants: The Shattered Kingdom | 3067 | [3067-knights-and-merchants-the-shattered-kingdom.json](./3067-knights-and-merchants-the-shattered-kingdom.json) |
 | Knights and Ogres | 96926 | [96926-knights-and-ogres.json](./96926-knights-and-ogres.json) |
 | Knights College | 142272 | [142272-knights-college.json](./142272-knights-college.json) |
