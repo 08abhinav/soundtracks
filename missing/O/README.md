@@ -3649,6 +3649,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Tribe Above All | 263774 | [263774-our-tribe-above-all.json](./263774-our-tribe-above-all.json) |
 | Our Two Bedroom Story | 134016 | [134016-our-two-bedroom-story.json](./134016-our-two-bedroom-story.json) |
 | Our Two Bedroom Story: After the Crisis - Minato | 238055 | [238055-our-two-bedroom-story-after-the-crisis-minato.json](./238055-our-two-bedroom-story-after-the-crisis-minato.json) |
+| Our Two Bedroom Story: Don't Tell Him I'm Popular! - Minato | 238341 | [238341-our-two-bedroom-story-dont-tell-him-im-popular-minato.json](./238341-our-two-bedroom-story-dont-tell-him-im-popular-minato.json) |
+| Our Two Bedroom Story: Don't Tell Him I'm Popular! - Minato DLC Pack | 238342 | [238342-our-two-bedroom-story-dont-tell-him-im-popular-minato-dlc-pack.json](./238342-our-two-bedroom-story-dont-tell-him-im-popular-minato-dlc-pack.json) |
 | Our Two Bedroom Story: Here's to the Birthday Boy! - Akiyoshi | 238194 | [238194-our-two-bedroom-story-heres-to-the-birthday-boy-akiyoshi.json](./238194-our-two-bedroom-story-heres-to-the-birthday-boy-akiyoshi.json) |
 | Our Two Bedroom Story: Here's to the Birthday Boy! - Kaoru | 238193 | [238193-our-two-bedroom-story-heres-to-the-birthday-boy-kaoru.json](./238193-our-two-bedroom-story-heres-to-the-birthday-boy-kaoru.json) |
 | Our Two Bedroom Story: Here's to the Birthday Boy! - Minato | 238192 | [238192-our-two-bedroom-story-heres-to-the-birthday-boy-minato.json](./238192-our-two-bedroom-story-heres-to-the-birthday-boy-minato.json) |
