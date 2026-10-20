@@ -1588,6 +1588,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/c5/f4/08c5f417-0013-2ea3-0759-29153e818e6d/3663729431554_cover.jpg/600x600bb.jpg" width="60" /> | [Styx: Blades of Greed](https://ostdb.net/games/styx-blades-of-greed) | **Styx: Blades of Greed (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/styx-blades-of-greed-original-game-soundtrack/1878398482?uo=4) · [Album](https://album.link/i/1878398482) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730bb67c0c5a647271cee81720" width="60" /> | [Styx: Master of Shadows](https://ostdb.net/games/styx-master-of-shadows) | **Styx: Master of Shadows (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3D6E3DskBXcO6FbrG8PRcR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27391a37a39419c6a9dcdb43638" width="60" /> | [Styx: Shards of Darkness](https://ostdb.net/games/styx-shards-of-darkness) | **Styx: Shards of Darkness (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2FIdNPQXr8K3uoCfFdlgs2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c5c3ff22f301905f052ed7c1" width="60" /> | [Submerged: Hidden Depths](https://ostdb.net/games/submerged-hidden-depths) | **Submerged : Hidden Depths (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5OIIM73rc9TG9ET9BRizbf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f156d74f3617e3c795ab2dd" width="60" /> | [Subnautica](https://ostdb.net/games/subnautica) | **Subnautica (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6ErjoGBl4xj1AfgPjcAYsk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27312f44e5a13273e3af4c31c38" width="60" /> | [Subsurface Circular](https://ostdb.net/games/subsurface-circular) | **Subsurface Circular (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1R3yOPr5ibP3RkseLwLKCk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273eb078bc6992ab6ad7ca6179a" width="60" /> | [Subway Surfers](https://ostdb.net/games/subway-surfers) | **12 YEARS 12 TRACKS** · [Spotify](https://open.spotify.com/album/3bW6NzfeUmX81nZBMUecOi) |
@@ -2027,4 +2028,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2344 soundtracks · last updated 2026-10-20T22:16:39.703Z_
+_2345 soundtracks · last updated 2026-10-20T22:16:51.819Z_
