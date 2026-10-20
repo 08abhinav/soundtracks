@@ -3746,6 +3746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ceana the Wraithress | 314951 | [314951-ceana-the-wraithress.json](./314951-ceana-the-wraithress.json) |
 | Ceaseless | 207737 | [207737-ceaseless.json](./207737-ceaseless.json) |
 | Ceaseless | 380069 | [380069-ceaseless.json](./380069-ceaseless.json) |
+| Ceaseless Night | 221041 | [221041-ceaseless-night.json](./221041-ceaseless-night.json) |
 | Ceasing to be Her Demise | 57908 | [57908-ceasing-to-be-her-demise.json](./57908-ceasing-to-be-her-demise.json) |
 | Cebolinha & Floquinho | 216292 | [216292-cebolinha-and-floquinho.json](./216292-cebolinha-and-floquinho.json) |
 | Cebolinha Contra o Capitão Feio | 281891 | [281891-cebolinha-contra-o-capitao-feio.json](./281891-cebolinha-contra-o-capitao-feio.json) |
@@ -10473,6 +10474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contra Spirits | 242088 | [242088-contra-spirits.json](./242088-contra-spirits.json) |
 | Contra x Castlevania Bundle | 319315 | [319315-contra-x-castlevania-bundle.json](./319315-contra-x-castlevania-bundle.json) |
 | Contra: Hard Corps | 20192 | [20192-contra-hard-corps.json](./20192-contra-hard-corps.json) |
+| Contra: Locked 'N' Loaded | 221066 | [221066-contra-locked-n-loaded.json](./221066-contra-locked-n-loaded.json) |
 | Contra: Rogue Corps | 119385 | [119385-contra-rogue-corps.json](./119385-contra-rogue-corps.json) |
 | Contra: The War of the Worlds | 216358 | [216358-contra-the-war-of-the-worlds.json](./216358-contra-the-war-of-the-worlds.json) |
 | Contraband | 152240 | [152240-contraband.json](./152240-contraband.json) |
