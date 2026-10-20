@@ -6370,6 +6370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meitantei Holmes: M kara no Chousenjou | 48777 | [48777-meitantei-holmes-m-kara-no-chousenjou.json](./48777-meitantei-holmes-m-kara-no-chousenjou.json) |
 | Meitantei no Nazotoki Suuri: Thrill to Suspence no Jiken Kaiketsu Nazotoki Game | 240223 | [240223-meitantei-no-nazotoki-suuri-thrill-to-suspence-no-jiken-kaiketsu-nazotoki-game.json](./240223-meitantei-no-nazotoki-suuri-thrill-to-suspence-no-jiken-kaiketsu-nazotoki-game.json) |
 | Meitantei Pikachu: Shin Konbi Tanjou | 222360 | [222360-meitantei-pikachu-shin-konbi-tanjou.json](./222360-meitantei-pikachu-shin-konbi-tanjou.json) |
+| Meitantei Shikkaku na Kanojo | 221044 | [221044-meitantei-shikkaku-na-kanojo.json](./221044-meitantei-shikkaku-na-kanojo.json) |
 | Meji Jones y la Última Búsqueda Desesperada | 324144 | [324144-meji-jones-y-la-ultima-busqueda-desesperada.json](./324144-meji-jones-y-la-ultima-busqueda-desesperada.json) |
 | Meka Sigurat | 232931 | [232931-meka-sigurat.json](./232931-meka-sigurat.json) |
 | Mekabolt | 120032 | [120032-mekabolt.json](./120032-mekabolt.json) |
