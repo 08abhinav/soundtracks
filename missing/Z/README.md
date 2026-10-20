@@ -1265,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Pirate Robot Attack | 175261 | [175261-zombie-pirate-robot-attack.json](./175261-zombie-pirate-robot-attack.json) |
 | Zombie Pixel Zombie | 56314 | [56314-zombie-pixel-zombie.json](./56314-zombie-pixel-zombie.json) |
 | Zombie Police: Christmas Dancing with Police Zombies | 288443 | [288443-zombie-police-christmas-dancing-with-police-zombies.json](./288443-zombie-police-christmas-dancing-with-police-zombies.json) |
+| Zombie Poly | 216084 | [216084-zombie-poly.json](./216084-zombie-poly.json) |
 | Zombie Pop | 74981 | [74981-zombie-pop.json](./74981-zombie-pop.json) |
 | Zombie Protocol | 374254 | [374254-zombie-protocol.json](./374254-zombie-protocol.json) |
 | Zombie Quarantine | 43543 | [43543-zombie-quarantine.json](./43543-zombie-quarantine.json) |
@@ -1360,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Tornado Game | 235230 | [235230-zombie-tornado-game.json](./235230-zombie-tornado-game.json) |
 | Zombie Total War | 152876 | [152876-zombie-total-war.json](./152876-zombie-total-war.json) |
 | Zombie Tower Shooting Defense | 351682 | [351682-zombie-tower-shooting-defense.json](./351682-zombie-tower-shooting-defense.json) |
+| Zombie Tower Survival | 216099 | [216099-zombie-tower-survival.json](./216099-zombie-tower-survival.json) |
 | Zombie Tower Survivor | 325311 | [325311-zombie-tower-survivor.json](./325311-zombie-tower-survivor.json) |
 | Zombie Town | 273866 | [273866-zombie-town.json](./273866-zombie-town.json) |
 | Zombie Town | 51432 | [51432-zombie-town.json](./51432-zombie-town.json) |
