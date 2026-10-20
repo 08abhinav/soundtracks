@@ -2453,6 +2453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawperty Damage | 238571 | [238571-pawperty-damage.json](./238571-pawperty-damage.json) |
 | Pawprints Match | 359410 | [359410-pawprints-match.json](./359410-pawprints-match.json) |
 | PawRebuild | 406698 | [406698-pawrebuild.json](./406698-pawrebuild.json) |
+| Paws | 254901 | [254901-paws.json](./254901-paws.json) |
 | Paws | 94253 | [94253-paws.json](./94253-paws.json) |
 | Paws & Circuits: Reboot Earth | 412961 | [412961-paws-and-circuits-reboot-earth.json](./412961-paws-and-circuits-reboot-earth.json) |
 | Paws & Claws Best Friends: Dogs & Cats | 61009 | [61009-paws-and-claws-best-friends-dogs-and-cats.json](./61009-paws-and-claws-best-friends-dogs-and-cats.json) |
@@ -10731,6 +10732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Prussia | 336715 | [336715-prince-of-prussia.json](./336715-prince-of-prussia.json) |
 | Prince of Qin | 51402 | [51402-prince-of-qin.json](./51402-prince-of-qin.json) |
 | Prince of the Resort | 254950 | [254950-prince-of-the-resort.json](./254950-prince-of-the-resort.json) |
+| Prince or Villain | 254898 | [254898-prince-or-villain.json](./254898-prince-or-villain.json) |
 | Prince Rystiya's Starfleet | 341557 | [341557-prince-rystiyas-starfleet.json](./341557-prince-rystiyas-starfleet.json) |
 | Prince Rystiya's Starship | 341556 | [341556-prince-rystiyas-starship.json](./341556-prince-rystiyas-starship.json) |
 | Princes of Darkness | 356034 | [356034-princes-of-darkness.json](./356034-princes-of-darkness.json) |
@@ -10836,6 +10838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Solitaire | 176897 | [176897-princess-solitaire.json](./176897-princess-solitaire.json) |
 | Princess Strike! | 63347 | [63347-princess-strike.json](./63347-princess-strike.json) |
 | Princess Survivors | 244672 | [244672-princess-survivors.json](./244672-princess-survivors.json) |
+| Princess to Be | 254941 | [254941-princess-to-be.json](./254941-princess-to-be.json) |
 | Princess Tomato in the Salad Kingdom | 48221 | [48221-princess-tomato-in-the-salad-kingdom.json](./48221-princess-tomato-in-the-salad-kingdom.json) |
 | Princess Trouble | 362017 | [362017-princess-trouble.json](./362017-princess-trouble.json) |
 | Princess Ursula | 339233 | [339233-princess-ursula.json](./339233-princess-ursula.json) |
