@@ -6544,7 +6544,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship It | 31747 | [31747-ship-it.json](./31747-ship-it.json) |
 | Ship Miner | 402999 | [402999-ship-miner.json](./402999-ship-miner.json) |
 | Ship of Dreams | 313892 | [313892-ship-of-dreams.json](./313892-ship-of-dreams.json) |
-| Ship of Fools | 194741 | [194741-ship-of-fools.json](./194741-ship-of-fools.json) |
 | Ship of Fools: Aquapocalypse Edition | 277906 | [277906-ship-of-fools-aquapocalypse-edition.json](./277906-ship-of-fools-aquapocalypse-edition.json) |
 | Ship of Fools: Deep Sea Duo | 277910 | [277910-ship-of-fools-deep-sea-duo.json](./277910-ship-of-fools-deep-sea-duo.json) |
 | Ship of Fools: Water Garden Duo | 275473 | [275473-ship-of-fools-water-garden-duo.json](./275473-ship-of-fools-water-garden-duo.json) |
@@ -8908,7 +8907,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Size Experiments at Morinomma Tech | 275801 | [275801-size-experiments-at-morinomma-tech.json](./275801-size-experiments-at-morinomma-tech.json) |
 | Size It | 186684 | [186684-size-it.json](./186684-size-it.json) |
 | Size Matters! | 331709 | [331709-size-matters.json](./331709-size-matters.json) |
-| Sizeable | 139605 | [139605-sizeable.json](./139605-sizeable.json) |
 | Sizif | 257433 | [257433-sizif.json](./257433-sizif.json) |
 | Sizzlefist | 396749 | [396749-sizzlefist.json](./396749-sizzlefist.json) |
 | SJ-19 Learns to Love! | 144112 | [144112-sj-19-learns-to-love.json](./144112-sj-19-learns-to-love.json) |
@@ -20335,9 +20333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Sorting | 419995 | [419995-still-sorting.json](./419995-still-sorting.json) |
 | Still Stars Echo | 369703 | [369703-still-stars-echo.json](./369703-still-stars-echo.json) |
 | Still Sword for Adult | 67258 | [67258-still-sword-for-adult.json](./67258-still-sword-for-adult.json) |
-| Still There | 119886 | [119886-still-there.json](./119886-still-there.json) |
 | Still Time | 69244 | [69244-still-time.json](./69244-still-time.json) |
-| Still Wakes the Deep: Siren's Rest | 349523 | [349523-still-wakes-the-deep-sirens-rest.json](./349523-still-wakes-the-deep-sirens-rest.json) |
 | StillAsleep | 405745 | [405745-stillasleep.json](./405745-stillasleep.json) |
 | Stillbone | 395163 | [395163-stillbone.json](./395163-stillbone.json) |
 | Stillborn Slayer | 189039 | [189039-stillborn-slayer.json](./189039-stillborn-slayer.json) |
