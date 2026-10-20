@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Battalion | 20127 | [20127-last-battalion.json](./20127-last-battalion.json) |
 | Last Battleground: Survival | 77422 | [77422-last-battleground-survival.json](./77422-last-battleground-survival.json) |
 | Last Berserker: Endless War | 81132 | [81132-last-berserker-endless-war.json](./81132-last-berserker-endless-war.json) |
+| Last Bet | 221035 | [221035-last-bet.json](./221035-last-bet.json) |
 | Last Bible III | 38354 | [38354-last-bible-iii.json](./38354-last-bible-iii.json) |
 | Last Bloody Snack | 256553 | [256553-last-bloody-snack.json](./256553-last-bloody-snack.json) |
 | Last Blossom | 148337 | [148337-last-blossom.json](./148337-last-blossom.json) |
