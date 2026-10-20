@@ -1151,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Heroes - Idle Games | 87173 | [87173-idle-heroes-idle-games.json](./87173-idle-heroes-idle-games.json) |
 | Idle Heroes: Odyssey | 135099 | [135099-idle-heroes-odyssey.json](./135099-idle-heroes-odyssey.json) |
 | Idle Heroines | 220169 | [220169-idle-heroines.json](./220169-idle-heroines.json) |
+| Idle Home Makeover | 227714 | [227714-idle-home-makeover.json](./227714-idle-home-makeover.json) |
 | Idle Human | 204484 | [204484-idle-human.json](./204484-idle-human.json) |
 | Idle Human 2 | 204486 | [204486-idle-human-2.json](./204486-idle-human-2.json) |
 | Idle Human Evolution | 220165 | [220165-idle-human-evolution.json](./220165-idle-human-evolution.json) |
@@ -1807,6 +1808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IMG_20180226 | 176780 | [176780-img-20180226.json](./176780-img-20180226.json) |
 | Imhotep | 47248 | [47248-imhotep.json](./47248-imhotep.json) |
 | Imhotep, Pyramid Builder | 33357 | [33357-imhotep-pyramid-builder.json](./33357-imhotep-pyramid-builder.json) |
+| Imi ga Wakaru to Kowai Manga Zotto suru Nazotoki Mystery Toshi Densetsu Kaidan Game | 227703 | [227703-imi-ga-wakaru-to-kowai-manga-zotto-suru-nazotoki-mystery-toshi-densetsu-kaidan-game.json](./227703-imi-ga-wakaru-to-kowai-manga-zotto-suru-nazotoki-mystery-toshi-densetsu-kaidan-game.json) |
 | Imi ga Wakaru to Kowai Mystery | 222364 | [222364-imi-ga-wakaru-to-kowai-mystery.json](./222364-imi-ga-wakaru-to-kowai-mystery.json) |
 | Imi ga Wakaru to Kowai Shashin | 251604 | [251604-imi-ga-wakaru-to-kowai-shashin.json](./251604-imi-ga-wakaru-to-kowai-shashin.json) |
 | Imi ga Wakaru to Zotto suru Manga | 266162 | [266162-imi-ga-wakaru-to-zotto-suru-manga.json](./266162-imi-ga-wakaru-to-zotto-suru-manga.json) |
