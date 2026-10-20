@@ -7066,6 +7066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Hippo! | 107392 | [107392-rocket-hippo.json](./107392-rocket-hippo.json) |
 | Rocket Horizon | 256928 | [256928-rocket-horizon.json](./256928-rocket-horizon.json) |
 | Rocket Hunting | 312268 | [312268-rocket-hunting.json](./312268-rocket-hunting.json) |
+| Rocket in Space: Running Games | 233388 | [233388-rocket-in-space-running-games.json](./233388-rocket-in-space-running-games.json) |
 | Rocket Inc | 223426 | [223426-rocket-inc.json](./223426-rocket-inc.json) |
 | Rocket Jockey | 50137 | [50137-rocket-jockey.json](./50137-rocket-jockey.json) |
 | Rocket Joust | 174183 | [174183-rocket-joust.json](./174183-rocket-joust.json) |
@@ -7546,6 +7547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Planet | 397925 | [397925-rogue-planet.json](./397925-rogue-planet.json) |
 | Rogue Planet | 91355 | [91355-rogue-planet.json](./91355-rogue-planet.json) |
 | Rogue Planet 1 | 233583 | [233583-rogue-planet-1.json](./233583-rogue-planet-1.json) |
+| Rogue Planet 1: Consolidation | 233373 | [233373-rogue-planet-1-consolidation.json](./233373-rogue-planet-1-consolidation.json) |
 | Rogue Point | 322111 | [322111-rogue-point.json](./322111-rogue-point.json) |
 | Rogue Pong | 366105 | [366105-rogue-pong.json](./366105-rogue-pong.json) |
 | Rogue Port - Red Nightmare | 32758 | [32758-rogue-port-red-nightmare.json](./32758-rogue-port-red-nightmare.json) |
