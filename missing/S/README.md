@@ -1492,6 +1492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saraab | 386723 | [386723-saraab.json](./386723-saraab.json) |
 | Sarab 2: Thalj Mountains | 312992 | [312992-sarab-2-thalj-mountains.json](./312992-sarab-2-thalj-mountains.json) |
 | Sarab: Duji Tower | 30637 | [30637-sarab-duji-tower.json](./30637-sarab-duji-tower.json) |
+| Saraba Gekiyaki: Encore | 226110 | [226110-saraba-gekiyaki-encore.json](./226110-saraba-gekiyaki-encore.json) |
 | Saraba Kegoorushima | 411632 | [411632-saraba-kegoorushima.json](./411632-saraba-kegoorushima.json) |
 | Sarah and the Lonely Key | 218967 | [218967-sarah-and-the-lonely-key.json](./218967-sarah-and-the-lonely-key.json) |
 | Sarah, you are way too heavy | 118364 | [118364-sarah-you-are-way-too-heavy.json](./118364-sarah-you-are-way-too-heavy.json) |
@@ -26150,6 +26151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweeper | 178436 | [178436-sweeper.json](./178436-sweeper.json) |
 | Sweeper Zero | 107870 | [107870-sweeper-zero.json](./107870-sweeper-zero.json) |
 | Sweepers Mine | 252914 | [252914-sweepers-mine.json](./252914-sweepers-mine.json) |
+| Sweeping the World | 226107 | [226107-sweeping-the-world.json](./226107-sweeping-the-world.json) |
 | Sweepminer | 377044 | [377044-sweepminer.json](./377044-sweepminer.json) |
 | Sweet | 276107 | [276107-sweet.json](./276107-sweet.json) |
 | Sweet Adventure | 392916 | [392916-sweet-adventure.json](./392916-sweet-adventure.json) |
