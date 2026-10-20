@@ -4052,6 +4052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wilderness | 377146 | [377146-wilderness.json](./377146-wilderness.json) |
 | Wilderness Campaign | 24802 | [24802-wilderness-campaign.json](./24802-wilderness-campaign.json) |
 | Wilderness Edge | 342880 | [342880-wilderness-edge.json](./342880-wilderness-edge.json) |
+| Wilderness Game Stalker VR: North America | 211052 | [211052-wilderness-game-stalker-vr-north-america.json](./211052-wilderness-game-stalker-vr-north-america.json) |
 | Wilderness Mosaic 2: Patagonia | 415984 | [415984-wilderness-mosaic-2-patagonia.json](./415984-wilderness-mosaic-2-patagonia.json) |
 | Wilderness Mosaic 3: Photo Safari | 415907 | [415907-wilderness-mosaic-3-photo-safari.json](./415907-wilderness-mosaic-3-photo-safari.json) |
 | Wilderness Mosaic 5: India | 415983 | [415983-wilderness-mosaic-5-india.json](./415983-wilderness-mosaic-5-india.json) |
@@ -6366,6 +6367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Series of Poker Hold'em Legend | 61028 | [61028-world-series-of-poker-holdem-legend.json](./61028-world-series-of-poker-holdem-legend.json) |
 | World Series of Poker: Deluxe Casino Pak | 398918 | [398918-world-series-of-poker-deluxe-casino-pak.json](./398918-world-series-of-poker-deluxe-casino-pak.json) |
 | World Series of Poker: Full House Pro | 19970 | [19970-world-series-of-poker-full-house-pro.json](./19970-world-series-of-poker-full-house-pro.json) |
+| World Serpent | 211064 | [211064-world-serpent.json](./211064-world-serpent.json) |
 | World Snooker Challenge 2007 | 42848 | [42848-world-snooker-challenge-2007.json](./42848-world-snooker-challenge-2007.json) |
 | World Snooker Championship 2007 | 7248 | [7248-world-snooker-championship-2007.json](./7248-world-snooker-championship-2007.json) |
 | World Snooker Championship: Season 2007-08 | 64994 | [64994-world-snooker-championship-season-2007-08.json](./64994-world-snooker-championship-season-2007-08.json) |
