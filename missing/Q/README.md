@@ -764,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quick Quack | 201136 | [201136-quick-quack.json](./201136-quick-quack.json) |
 | Quick Quest | 283404 | [283404-quick-quest.json](./283404-quick-quest.json) |
 | Quick Race | 158925 | [158925-quick-race.json](./158925-quick-race.json) |
+| Quick Rally | 233375 | [233375-quick-rally.json](./233375-quick-rally.json) |
 | Quick Revolver | 180588 | [180588-quick-revolver.json](./180588-quick-revolver.json) |
 | Quick Scrap | 185111 | [185111-quick-scrap.json](./185111-quick-scrap.json) |
 | Quick Shooter | 62796 | [62796-quick-shooter.json](./62796-quick-shooter.json) |
