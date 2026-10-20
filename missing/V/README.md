@@ -1785,6 +1785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vinecard | 272566 | [272566-vinecard.json](./272566-vinecard.json) |
 | Vinegar Mutter | 386237 | [386237-vinegar-mutter.json](./386237-vinegar-mutter.json) |
 | Vinewing | 74434 | [74434-vinewing.json](./74434-vinewing.json) |
+| Vineyard Valley | 247328 | [247328-vineyard-valley.json](./247328-vineyard-valley.json) |
 | Vinios | 118107 | [118107-vinios.json](./118107-vinios.json) |
 | Vinland Tales | 324719 | [324719-vinland-tales.json](./324719-vinland-tales.json) |
 | Vinni Pukh i vse, vse, vse | 325045 | [325045-vinni-pukh-i-vse-vse-vse.json](./325045-vinni-pukh-i-vse-vse-vse.json) |
