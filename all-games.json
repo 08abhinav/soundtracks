@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T22:21:21.375Z",
-  "total_soundtracks": 2352,
+  "generated_at": "2026-10-20T22:21:32.219Z",
+  "total_soundtracks": 2353,
   "games": [
     {
       "igdb_id": 7522,
@@ -24103,6 +24103,20 @@
           "spotify_url": "https://open.spotify.com/album/22hbndfpmPHrxemQ0B8rgt",
           "apple_music_url": "https://music.apple.com/us/album/the-cat-lady-album-music-from-the-video-game/1563562290",
           "album_link_url": "https://album.link/i/1563562290"
+        }
+      ]
+    },
+    {
+      "igdb_id": 51385,
+      "game_name": "The Coma: Recut",
+      "game_url": "https://ostdb.net/games/the-coma-recut",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bff3592adc3695c898394d2e",
+      "albums": [
+        {
+          "album_name": "The Coma: Recut - Original SoundTrack",
+          "spotify_url": "https://open.spotify.com/album/1hIvrKBLWph0V2oBQZHxBM",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
