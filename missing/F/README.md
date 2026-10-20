@@ -9602,6 +9602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Bump | 213354 | [213354-fruit-bump.json](./213354-fruit-bump.json) |
 | Fruit Candypop | 334755 | [334755-fruit-candypop.json](./334755-fruit-candypop.json) |
 | Fruit Catcher | 397067 | [397067-fruit-catcher.json](./397067-fruit-catcher.json) |
+| Fruit Chef | 234448 | [234448-fruit-chef.json](./234448-fruit-chef.json) |
 | Fruit Clicker | 150646 | [150646-fruit-clicker.json](./150646-fruit-clicker.json) |
 | Fruit Cocktail | 257669 | [257669-fruit-cocktail.json](./257669-fruit-cocktail.json) |
 | Fruit Couple | 334798 | [334798-fruit-couple.json](./334798-fruit-couple.json) |
