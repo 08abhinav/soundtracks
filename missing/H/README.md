@@ -2414,6 +2414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headup Multiplayer Bundle | 308620 | [308620-headup-multiplayer-bundle.json](./308620-headup-multiplayer-bundle.json) |
 | Headwaters | 288768 | [288768-headwaters.json](./288768-headwaters.json) |
 | HeadWorms | 141555 | [141555-headworms.json](./141555-headworms.json) |
+| Heal & Hurt | 207710 | [207710-heal-and-hurt.json](./207710-heal-and-hurt.json) |
 | Heal Hitler | 169412 | [169412-heal-hitler.json](./169412-heal-hitler.json) |
 | Heal Plz | 121741 | [121741-heal-plz.json](./121741-heal-plz.json) |
 | Heal Slime | 364383 | [364383-heal-slime.json](./364383-heal-slime.json) |
@@ -2736,6 +2737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Barrel | 412812 | [412812-heavy-barrel.json](./412812-heavy-barrel.json) |
 | Heavy Barrel | 46776 | [46776-heavy-barrel.json](./46776-heavy-barrel.json) |
 | Heavy Blade | 98764 | [98764-heavy-blade.json](./98764-heavy-blade.json) |
+| Heavy Burden | 207672 | [207672-heavy-burden.json](./207672-heavy-burden.json) |
 | Heavy Burden VR | 372459 | [372459-heavy-burden-vr.json](./372459-heavy-burden-vr.json) |
 | Heavy Car Battle: Demolition Derby | 276957 | [276957-heavy-car-battle-demolition-derby.json](./276957-heavy-car-battle-demolition-derby.json) |
 | Heavy Cargo - The Truck Simulator: Heavy South | 411507 | [411507-heavy-cargo-the-truck-simulator-heavy-south.json](./411507-heavy-cargo-the-truck-simulator-heavy-south.json) |
