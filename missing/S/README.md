@@ -2533,6 +2533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP 3008 | 231390 | [231390-scp-3008.json](./231390-scp-3008.json) |
 | SCP Area 8 | 82390 | [82390-scp-area-8.json](./82390-scp-area-8.json) |
 | SCP Clicker | 183859 | [183859-scp-clicker.json](./183859-scp-clicker.json) |
+| SCP Containment Breach | 242403 | [242403-scp-containment-breach.json](./242403-scp-containment-breach.json) |
 | SCP Foundation: ITTLG - Chapter 1 | 196101 | [196101-scp-foundation-ittlg-chapter-1.json](./196101-scp-foundation-ittlg-chapter-1.json) |
 | SCP Horror Series 2 | 273576 | [273576-scp-horror-series-2.json](./273576-scp-horror-series-2.json) |
 | SCP Observer | 188680 | [188680-scp-observer.json](./188680-scp-observer.json) |
@@ -11952,6 +11953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokobond Express | 164896 | [164896-sokobond-express.json](./164896-sokobond-express.json) |
 | Sokobos 2 | 347350 | [347350-sokobos-2.json](./347350-sokobos-2.json) |
 | Sokobot | 189150 | [189150-sokobot.json](./189150-sokobot.json) |
+| Sokoboxes Duo | 242394 | [242394-sokoboxes-duo.json](./242394-sokoboxes-duo.json) |
 | Sokobum | 403153 | [403153-sokobum.json](./403153-sokobum.json) |
 | Sokobundle | 331518 | [331518-sokobundle.json](./331518-sokobundle.json) |
 | Sokocat - Islands | 147449 | [147449-sokocat-islands.json](./147449-sokocat-islands.json) |
@@ -16649,6 +16651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Defending the Secret Formula | 228487 | [228487-spongebob-squarepants-defending-the-secret-formula.json](./228487-spongebob-squarepants-defending-the-secret-formula.json) |
 | SpongeBob SquarePants: Dilly Dabber | 220119 | [220119-spongebob-squarepants-dilly-dabber.json](./220119-spongebob-squarepants-dilly-dabber.json) |
 | SpongeBob SquarePants: Diner Dash | 64860 | [64860-spongebob-squarepants-diner-dash.json](./64860-spongebob-squarepants-diner-dash.json) |
+| SpongeBob SquarePants: Doodlepants | 242366 | [242366-spongebob-squarepants-doodlepants.json](./242366-spongebob-squarepants-doodlepants.json) |
 | SpongeBob SquarePants: Employee of the Month | 2763 | [2763-spongebob-squarepants-employee-of-the-month.json](./2763-spongebob-squarepants-employee-of-the-month.json) |
 | SpongeBob SquarePants: Fists of Foam | 230401 | [230401-spongebob-squarepants-fists-of-foam.json](./230401-spongebob-squarepants-fists-of-foam.json) |
 | SpongeBob SquarePants: Flip or Flop | 273123 | [273123-spongebob-squarepants-flip-or-flop.json](./273123-spongebob-squarepants-flip-or-flop.json) |
@@ -19536,6 +19539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steelrising | 135670 | [135670-steelrising.json](./135670-steelrising.json) |
 | Steelrising: Bastille Edition | 205569 | [205569-steelrising-bastille-edition.json](./205569-steelrising-bastille-edition.json) |
 | Steelrising: Cagliostro's Secrets | 225748 | [225748-steelrising-cagliostros-secrets.json](./225748-steelrising-cagliostros-secrets.json) |
+| Steelrising: Marie-Antoinette Cosmetic Pack | 242402 | [242402-steelrising-marie-antoinette-cosmetic-pack.json](./242402-steelrising-marie-antoinette-cosmetic-pack.json) |
 | Steelwood Private Eye | 245239 | [245239-steelwood-private-eye.json](./245239-steelwood-private-eye.json) |
 | Steep | 19554 | [19554-steep.json](./19554-steep.json) |
 | Steep and the Crew | 82414 | [82414-steep-and-the-crew.json](./82414-steep-and-the-crew.json) |
@@ -20816,6 +20820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter 6: Additional Character - Ingrid & Outfit 2 & Outfit 3 (Sagat, C. Viper, Alex, Ingrid) | 375151 | [375151-street-fighter-6-additional-character-ingrid-and-outfit-2-and-outfit-3-sagat-c-viper-alex-ingrid.json](./375151-street-fighter-6-additional-character-ingrid-and-outfit-2-and-outfit-3-sagat-c-viper-alex-ingrid.json) |
 | Street Fighter 6: Additional Character - Tifa & Outfit 2 | 407144 | [407144-street-fighter-6-additional-character-tifa-and-outfit-2.json](./407144-street-fighter-6-additional-character-tifa-and-outfit-2.json) |
 | Street Fighter 6: Additional Character - Yasmine & Outfit 2 | 407145 | [407145-street-fighter-6-additional-character-yasmine-and-outfit-2.json](./407145-street-fighter-6-additional-character-yasmine-and-outfit-2.json) |
+| Street Fighter 6: Costume Color - Outfit 1 Color 10 | 242367 | [242367-street-fighter-6-costume-color-outfit-1-color-10.json](./242367-street-fighter-6-costume-color-outfit-1-color-10.json) |
 | Street Fighter 6: Deluxe Edition | 228737 | [228737-street-fighter-6-deluxe-edition.json](./228737-street-fighter-6-deluxe-edition.json) |
 | Street Fighter 6: Lenticular Edition | 239145 | [239145-street-fighter-6-lenticular-edition.json](./239145-street-fighter-6-lenticular-edition.json) |
 | Street Fighter 6: Mad Gear Box | 239146 | [239146-street-fighter-6-mad-gear-box.json](./239146-street-fighter-6-mad-gear-box.json) |
@@ -23410,6 +23415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kickers League | 115435 | [115435-super-kickers-league.json](./115435-super-kickers-league.json) |
 | Super Kid | 98431 | [98431-super-kid.json](./98431-super-kid.json) |
 | Super Kids Racing | 88168 | [88168-super-kids-racing.json](./88168-super-kids-racing.json) |
+| Super Kids Racing: Jungle Edition | 242412 | [242412-super-kids-racing-jungle-edition.json](./242412-super-kids-racing-jungle-edition.json) |
 | Super Kids Racing: Snow Edition | 249491 | [249491-super-kids-racing-snow-edition.json](./249491-super-kids-racing-snow-edition.json) |
 | Super Kill-Boi 9000 | 215705 | [215705-super-kill-boi-9000.json](./215705-super-kill-boi-9000.json) |
 | Super Killer Hornets: Resurrection | 54413 | [54413-super-killer-hornets-resurrection.json](./54413-super-killer-hornets-resurrection.json) |
