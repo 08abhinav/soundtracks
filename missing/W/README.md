@@ -1398,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warp Lab | 212896 | [212896-warp-lab.json](./212896-warp-lab.json) |
 | Warp League Basketball | 81238 | [81238-warp-league-basketball.json](./81238-warp-league-basketball.json) |
 | Warp Mania | 382761 | [382761-warp-mania.json](./382761-warp-mania.json) |
+| Warp Nexus | 230150 | [230150-warp-nexus.json](./230150-warp-nexus.json) |
 | Warp Rush | 413007 | [413007-warp-rush.json](./413007-warp-rush.json) |
 | Warp Shift | 95053 | [95053-warp-shift.json](./95053-warp-shift.json) |
 | Warp Soldier | 216486 | [216486-warp-soldier.json](./216486-warp-soldier.json) |
@@ -2727,6 +2728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whack 'em All! | 91750 | [91750-whack-em-all.json](./91750-whack-em-all.json) |
 | Whack 'Em Smack 'Em Byrons | 306459 | [306459-whack-em-smack-em-byrons.json](./306459-whack-em-smack-em-byrons.json) |
 | Whack A Bubble | 45900 | [45900-whack-a-bubble.json](./45900-whack-a-bubble.json) |
+| Whack A Hoe | 230139 | [230139-whack-a-hoe.json](./230139-whack-a-hoe.json) |
 | Whack A Rat VR | 147427 | [147427-whack-a-rat-vr.json](./147427-whack-a-rat-vr.json) |
 | Whack A Tako | 202179 | [202179-whack-a-tako.json](./202179-whack-a-tako.json) |
 | Whack a Vote: Hammering the Polls | 30785 | [30785-whack-a-vote-hammering-the-polls.json](./30785-whack-a-vote-hammering-the-polls.json) |
