@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back 4 Blood: Day One Steelbook Edition | 252174 | [252174-back-4-blood-day-one-steelbook-edition.json](./252174-back-4-blood-day-one-steelbook-edition.json) |
 | Back 4 Blood: Deluxe Edition | 142816 | [142816-back-4-blood-deluxe-edition.json](./142816-back-4-blood-deluxe-edition.json) |
 | Back 4 Blood: Fort Hope Elite Weapon Skins | 323952 | [323952-back-4-blood-fort-hope-elite-weapon-skins.json](./323952-back-4-blood-fort-hope-elite-weapon-skins.json) |
+| Back 4 Blood: River of Blood | 227676 | [227676-back-4-blood-river-of-blood.json](./227676-back-4-blood-river-of-blood.json) |
 | Back 4 Blood: Special Edition | 323953 | [323953-back-4-blood-special-edition.json](./323953-back-4-blood-special-edition.json) |
 | Back 4 Blood: Tunnels of Terror | 197488 | [197488-back-4-blood-tunnels-of-terror.json](./197488-back-4-blood-tunnels-of-terror.json) |
 | Back 4 Blood: Ultimate Edition | 141889 | [141889-back-4-blood-ultimate-edition.json](./141889-back-4-blood-ultimate-edition.json) |
@@ -1323,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls Gone Wild | 343220 | [343220-balls-gone-wild.json](./343220-balls-gone-wild.json) |
 | Balls like a Frog | 290658 | [290658-balls-like-a-frog.json](./290658-balls-like-a-frog.json) |
 | Balls n Blocks | 120255 | [120255-balls-n-blocks.json](./120255-balls-n-blocks.json) |
+| Balls of Fame Holiday Bundle | 227700 | [227700-balls-of-fame-holiday-bundle.json](./227700-balls-of-fame-holiday-bundle.json) |
 | Balls of Glory Pinball | 261803 | [261803-balls-of-glory-pinball.json](./261803-balls-of-glory-pinball.json) |
 | Balls of Life | 313546 | [313546-balls-of-life.json](./313546-balls-of-life.json) |
 | Balls of Steel | 11097 | [11097-balls-of-steel.json](./11097-balls-of-steel.json) |
@@ -2706,6 +2708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Breakers | 27431 | [27431-battle-breakers.json](./27431-battle-breakers.json) |
 | Battle Brigade | 166167 | [166167-battle-brigade.json](./166167-battle-brigade.json) |
 | Battle Brothers: Blazing Deserts | 155069 | [155069-battle-brothers-blazing-deserts.json](./155069-battle-brothers-blazing-deserts.json) |
+| Battle Brothers: DLC Bundle Pack | 227671 | [227671-battle-brothers-dlc-bundle-pack.json](./227671-battle-brothers-dlc-bundle-pack.json) |
 | Battle Brothers: Lindwurm | 155347 | [155347-battle-brothers-lindwurm.json](./155347-battle-brothers-lindwurm.json) |
 | Battle Brothers: Of Flesh and Faith | 193130 | [193130-battle-brothers-of-flesh-and-faith.json](./193130-battle-brothers-of-flesh-and-faith.json) |
 | Battle Bruise | 28320 | [28320-battle-bruise.json](./28320-battle-bruise.json) |
@@ -6504,6 +6507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Orchard: Animal Valley - Halloween Edition | 223567 | [223567-bit-orchard-animal-valley-halloween-edition.json](./223567-bit-orchard-animal-valley-halloween-edition.json) |
 | Bit Orchard: Animal Valley - Magnificent Edition | 260697 | [260697-bit-orchard-animal-valley-magnificent-edition.json](./260697-bit-orchard-animal-valley-magnificent-edition.json) |
 | Bit Orchard: Animal Valley - Premium Edition | 233926 | [233926-bit-orchard-animal-valley-premium-edition.json](./233926-bit-orchard-animal-valley-premium-edition.json) |
+| Bit Orchard: Animal Valley - Special Edition | 227702 | [227702-bit-orchard-animal-valley-special-edition.json](./227702-bit-orchard-animal-valley-special-edition.json) |
 | Bit Orchard: Animal Valley - Ultimate Edition | 208618 | [208618-bit-orchard-animal-valley-ultimate-edition.json](./208618-bit-orchard-animal-valley-ultimate-edition.json) |
 | Bit Orchard: Animal Valley - Ultra Ultimate | 271500 | [271500-bit-orchard-animal-valley-ultra-ultimate.json](./271500-bit-orchard-animal-valley-ultra-ultimate.json) |
 | Bit Pilot | 41514 | [41514-bit-pilot.json](./41514-bit-pilot.json) |
@@ -13187,6 +13191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Chef Tycoon: Elite Edition | 332515 | [332515-burger-chef-tycoon-elite-edition.json](./332515-burger-chef-tycoon-elite-edition.json) |
 | Burger Chef Tycoon: Expansion Pack 1 | 238016 | [238016-burger-chef-tycoon-expansion-pack-1.json](./238016-burger-chef-tycoon-expansion-pack-1.json) |
 | Burger Chef Tycoon: GOTY Edition | 273629 | [273629-burger-chef-tycoon-goty-edition.json](./273629-burger-chef-tycoon-goty-edition.json) |
+| Burger Chef Tycoon: Premium Edition | 227704 | [227704-burger-chef-tycoon-premium-edition.json](./227704-burger-chef-tycoon-premium-edition.json) |
 | Burger Cooking Simulator | 250855 | [250855-burger-cooking-simulator.json](./250855-burger-cooking-simulator.json) |
 | Burger Flipper: A Fast Food Restaurant Simulator | 326480 | [326480-burger-flipper-a-fast-food-restaurant-simulator.json](./326480-burger-flipper-a-fast-food-restaurant-simulator.json) |
 | Burger For Me | 180607 | [180607-burger-for-me.json](./180607-burger-for-me.json) |
@@ -13531,6 +13536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bust A Groove | 4138 | [4138-bust-a-groove.json](./4138-bust-a-groove.json) |
 | Bust A Groove 2 | 4139 | [4139-bust-a-groove-2.json](./4139-bust-a-groove-2.json) |
 | Bust a Move Online | 64298 | [64298-bust-a-move-online.json](./64298-bust-a-move-online.json) |
+| Bust Hillary 3D | 227689 | [227689-bust-hillary-3d.json](./227689-bust-hillary-3d.json) |
 | Bust Out | 174878 | [174878-bust-out.json](./174878-bust-out.json) |
 | Bust-A-Bloc | 43509 | [43509-bust-a-bloc.json](./43509-bust-a-bloc.json) |
 | Bust-A-Move | 246391 | [246391-bust-a-move.json](./246391-bust-a-move.json) |
