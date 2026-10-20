@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:11:02.648Z",
-  "total_soundtracks": 2238,
+  "generated_at": "2026-10-20T21:20:37.934Z",
+  "total_soundtracks": 2239,
   "games": [
     {
       "igdb_id": 7522,
@@ -2856,6 +2856,20 @@
           "album_name": "Beyond: Two Souls (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6SCstolTyQVCCtJEEM6DXR",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 194907,
+      "game_name": "Big Time",
+      "game_url": "https://ostdb.net/games/big-time",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273cfecc09abf79c48f04aff5d4",
+      "albums": [
+        {
+          "album_name": "Big Time (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3cKlMImzaM1xYfkOjRBkQr",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
