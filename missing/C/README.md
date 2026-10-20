@@ -4835,6 +4835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef Life: A Restaurant Simulator - Cooking Lab | 317671 | [317671-chef-life-a-restaurant-simulator-cooking-lab.json](./317671-chef-life-a-restaurant-simulator-cooking-lab.json) |
 | Chef Life: A Restaurant Simulator - Tokyo Delight | 295348 | [295348-chef-life-a-restaurant-simulator-tokyo-delight.json](./295348-chef-life-a-restaurant-simulator-tokyo-delight.json) |
 | Chef Life: Cooking Lab | 288863 | [288863-chef-life-cooking-lab.json](./288863-chef-life-cooking-lab.json) |
+| Chef Master Slot | 232284 | [232284-chef-master-slot.json](./232284-chef-master-slot.json) |
 | Chef of Sherwood | 391845 | [391845-chef-of-sherwood.json](./391845-chef-of-sherwood.json) |
 | Chef Ramsay | 248130 | [248130-chef-ramsay.json](./248130-chef-ramsay.json) |
 | Chef RPG | 191154 | [191154-chef-rpg.json](./191154-chef-rpg.json) |
@@ -6606,6 +6607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circle Up | 344567 | [344567-circle-up.json](./344567-circle-up.json) |
 | Circle vs. Spikes | 103270 | [103270-circle-vs-spikes.json](./103270-circle-vs-spikes.json) |
 | Circle With a Gun | 393543 | [393543-circle-with-a-gun.json](./393543-circle-with-a-gun.json) |
+| Circle: Endless Spinning Game | 232316 | [232316-circle-endless-spinning-game.json](./232316-circle-endless-spinning-game.json) |
 | Circle's End | 27670 | [27670-circles-end.json](./27670-circles-end.json) |
 | Circlebound | 384622 | [384622-circlebound.json](./384622-circlebound.json) |
 | Circlebrix: Falling Bricks | 285530 | [285530-circlebrix-falling-bricks.json](./285530-circlebrix-falling-bricks.json) |
@@ -10473,6 +10475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contractors | 123603 | [123603-contractors.json](./123603-contractors.json) |
 | Contractors VR | 111625 | [111625-contractors-vr.json](./111625-contractors-vr.json) |
 | ContractVille | 285577 | [285577-contractville.json](./285577-contractville.json) |
+| Contradiction | 232320 | [232320-contradiction.json](./232320-contradiction.json) |
 | Contradiction | 76229 | [76229-contradiction.json](./76229-contradiction.json) |
 | Contradiction: Spot the Liar! | 11333 | [11333-contradiction-spot-the-liar.json](./11333-contradiction-spot-the-liar.json) |
 | Contraption | 13513 | [13513-contraption.json](./13513-contraption.json) |
@@ -13261,6 +13264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Dressing Aniki | 99051 | [99051-cross-dressing-aniki.json](./99051-cross-dressing-aniki.json) |
 | Cross Dungeon | 274029 | [274029-cross-dungeon.json](./274029-cross-dungeon.json) |
 | Cross Edge Dash | 320956 | [320956-cross-edge-dash.json](./320956-cross-edge-dash.json) |
+| Cross Fingers | 232300 | [232300-cross-fingers.json](./232300-cross-fingers.json) |
 | Cross Fire 2 | 26982 | [26982-cross-fire-2.json](./26982-cross-fire-2.json) |
 | Cross Force | 18556 | [18556-cross-force.json](./18556-cross-force.json) |
 | Cross Gate | 146072 | [146072-cross-gate.json](./146072-cross-gate.json) |
