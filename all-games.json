@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T22:12:08.682Z",
-  "total_soundtracks": 2336,
+  "generated_at": "2026-10-20T22:12:21.060Z",
+  "total_soundtracks": 2337,
   "games": [
     {
       "igdb_id": 7522,
@@ -22909,6 +22909,20 @@
         {
           "album_name": "Super Animal Royale (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2TiQXeJRWec78Fl38i12GX",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 46768,
+      "game_name": "Super Dodge Ball",
+      "game_url": "https://ostdb.net/games/super-dodge-ball",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732d0eec6a4d1288e1ab170951",
+      "albums": [
+        {
+          "album_name": "Super Dodge Ball Soundtrack: Dodge This! (Extended)",
+          "spotify_url": "https://open.spotify.com/album/2GmlDfMFDym9f5muSXw2qe",
           "apple_music_url": "",
           "album_link_url": ""
         }
