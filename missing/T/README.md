@@ -4501,6 +4501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Aquarium Does Not Dance: Special Edition | 358245 | [358245-the-aquarium-does-not-dance-special-edition.json](./358245-the-aquarium-does-not-dance-special-edition.json) |
 | The Aquarium of Luck | 85434 | [85434-the-aquarium-of-luck.json](./85434-the-aquarium-of-luck.json) |
 | The Aquatic Adventure of the Last Human | 12598 | [12598-the-aquatic-adventure-of-the-last-human.json](./12598-the-aquatic-adventure-of-the-last-human.json) |
+| The Aquatic Messenger | 212118 | [212118-the-aquatic-messenger.json](./212118-the-aquatic-messenger.json) |
 | The Arab League of Misfits | 412531 | [412531-the-arab-league-of-misfits.json](./412531-the-arab-league-of-misfits.json) |
 | The Arcade Tower | 194373 | [194373-the-arcade-tower.json](./194373-the-arcade-tower.json) |
 | The Arcadia of Wulin | 155346 | [155346-the-arcadia-of-wulin.json](./155346-the-arcadia-of-wulin.json) |
@@ -6319,6 +6320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The DioField Chronicle: Digital Deluxe Edition | 212339 | [212339-the-diofield-chronicle-digital-deluxe-edition.json](./212339-the-diofield-chronicle-digital-deluxe-edition.json) |
 | The Diplomat | 183828 | [183828-the-diplomat.json](./183828-the-diplomat.json) |
 | The Directed | 89253 | [89253-the-directed.json](./89253-the-directed.json) |
+| The Director's Disorder: Pilot Episode | 212121 | [212121-the-directors-disorder-pilot-episode.json](./212121-the-directors-disorder-pilot-episode.json) |
 | The Directorate: The Spy Who Killed A Saint | 253469 | [253469-the-directorate-the-spy-who-killed-a-saint.json](./253469-the-directorate-the-spy-who-killed-a-saint.json) |
 | The Dis-United States of America | 126405 | [126405-the-dis-united-states-of-america.json](./126405-the-dis-united-states-of-america.json) |
 | The Disappearance of Emily Crowe | 406859 | [406859-the-disappearance-of-emily-crowe.json](./406859-the-disappearance-of-emily-crowe.json) |
@@ -7671,6 +7673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Good Old Days | 312186 | [312186-the-good-old-days.json](./312186-the-good-old-days.json) |
 | The Good Overlord | 272582 | [272582-the-good-overlord.json](./272582-the-good-overlord.json) |
 | The Good People | 312872 | [312872-the-good-people.json](./312872-the-good-people.json) |
+| The Good People: Na Daoine Maithe | 212138 | [212138-the-good-people-na-daoine-maithe.json](./212138-the-good-people-na-daoine-maithe.json) |
 | The Good Time Garden | 127409 | [127409-the-good-time-garden.json](./127409-the-good-time-garden.json) |
 | The Good Weapon | 286960 | [286960-the-good-weapon.json](./286960-the-good-weapon.json) |
 | The Good, the Bad & the Monkey | 348900 | [348900-the-good-the-bad-and-the-monkey.json](./348900-the-good-the-bad-and-the-monkey.json) |
@@ -20035,6 +20038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Gendanshou: Unlimited Heroes | 207228 | [207228-touhou-gendanshou-unlimited-heroes.json](./207228-touhou-gendanshou-unlimited-heroes.json) |
 | Touhou Genso Kikou: Lost Alchemy | 100555 | [100555-touhou-genso-kikou-lost-alchemy.json](./100555-touhou-genso-kikou-lost-alchemy.json) |
 | Touhou Genso Maroku W: The Devil of Decline - Shikigami Additional Contents | 212243 | [212243-touhou-genso-maroku-w-the-devil-of-decline-shikigami-additional-contents.json](./212243-touhou-genso-maroku-w-the-devil-of-decline-shikigami-additional-contents.json) |
+| Touhou Genso Maroku: Utage | 212096 | [212096-touhou-genso-maroku-utage.json](./212096-touhou-genso-maroku-utage.json) |
 | Touhou Genso Wanderer Lotus Labyrinth R: Complete Edition | 209968 | [209968-touhou-genso-wanderer-lotus-labyrinth-r-complete-edition.json](./209968-touhou-genso-wanderer-lotus-labyrinth-r-complete-edition.json) |
 | Touhou Genso Wanderer Reloaded | 86645 | [86645-touhou-genso-wanderer-reloaded.json](./86645-touhou-genso-wanderer-reloaded.json) |
 | Touhou Genso Wanderer Reloaded: Alice Margatroid | 161746 | [161746-touhou-genso-wanderer-reloaded-alice-margatroid.json](./161746-touhou-genso-wanderer-reloaded-alice-margatroid.json) |
