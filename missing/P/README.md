@@ -1982,6 +1982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Designer | 67398 | [67398-party-designer.json](./67398-party-designer.json) |
 | Party Doodles | 241338 | [241338-party-doodles.json](./241338-party-doodles.json) |
 | Party Down | 209415 | [209415-party-down.json](./209415-party-down.json) |
+| Party Fowl | 204900 | [204900-party-fowl.json](./204900-party-fowl.json) |
 | Party Friends | 215693 | [215693-party-friends.json](./215693-party-friends.json) |
 | Party Friends | 279111 | [279111-party-friends.json](./279111-party-friends.json) |
 | Party Game Box 100 | 268401 | [268401-party-game-box-100.json](./268401-party-game-box-100.json) |
@@ -5776,6 +5777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Tales | 100779 | [100779-pirate-tales.json](./100779-pirate-tales.json) |
 | Pirate Trails | 333525 | [333525-pirate-trails.json](./333525-pirate-trails.json) |
 | Pirate Treasure: Island of Mazes | 187489 | [187489-pirate-treasure-island-of-mazes.json](./187489-pirate-treasure-island-of-mazes.json) |
+| Pirate Treasures: Jewel & Gems | 204874 | [204874-pirate-treasures-jewel-and-gems.json](./204874-pirate-treasures-jewel-and-gems.json) |
 | Pirate Troops | 417939 | [417939-pirate-troops.json](./417939-pirate-troops.json) |
 | Pirate Twist | 415971 | [415971-pirate-twist.json](./415971-pirate-twist.json) |
 | Pirate Year Thousand: The Kraken Piece | 309031 | [309031-pirate-year-thousand-the-kraken-piece.json](./309031-pirate-year-thousand-the-kraken-piece.json) |
@@ -11209,6 +11211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison King | 216658 | [216658-prison-king.json](./216658-prison-king.json) |
 | Prison Life 2 | 216959 | [216959-prison-life-2.json](./216959-prison-life-2.json) |
 | Prison Life RPG | 59736 | [59736-prison-life-rpg.json](./59736-prison-life-rpg.json) |
+| Prison Life Simulator 2022: World Fight Battle GTA Ultimate | 204875 | [204875-prison-life-simulator-2022-world-fight-battle-gta-ultimate.json](./204875-prison-life-simulator-2022-world-fight-battle-gta-ultimate.json) |
 | Prison Life Simulator Jail: Glove Pack Expansion | 317676 | [317676-prison-life-simulator-jail-glove-pack-expansion.json](./317676-prison-life-simulator-jail-glove-pack-expansion.json) |
 | Prison Life: Idle Game | 408750 | [408750-prison-life-idle-game.json](./408750-prison-life-idle-game.json) |
 | Prison Loop | 300350 | [300350-prison-loop.json](./300350-prison-loop.json) |
@@ -13593,6 +13596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putin takes taxes | 86569 | [86569-putin-takes-taxes.json](./86569-putin-takes-taxes.json) |
 | Putin, Boobs and Trump | 96940 | [96940-putin-boobs-and-trump.json](./96940-putin-boobs-and-trump.json) |
 | Putin, Trump and Xin Jinping | 108375 | [108375-putin-trump-and-xin-jinping.json](./108375-putin-trump-and-xin-jinping.json) |
+| Putinist Slayer | 204895 | [204895-putinist-slayer.json](./204895-putinist-slayer.json) |
 | Putinization | 102919 | [102919-putinization.json](./102919-putinization.json) |
 | Putrefaction | 26533 | [26533-putrefaction.json](./26533-putrefaction.json) |
 | Putrefaction 2: Rumble in the Hometown | 68797 | [68797-putrefaction-2-rumble-in-the-hometown.json](./68797-putrefaction-2-rumble-in-the-hometown.json) |
