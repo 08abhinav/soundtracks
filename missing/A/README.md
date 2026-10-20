@@ -722,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Plot Story | 59243 | [59243-a-plot-story.json](./59243-a-plot-story.json) |
 | A Pocket Full of Slagford | 404950 | [404950-a-pocket-full-of-slagford.json](./404950-a-pocket-full-of-slagford.json) |
 | A Pointless Adventure | 213346 | [213346-a-pointless-adventure.json](./213346-a-pointless-adventure.json) |
+| A ponte | 231208 | [231208-a-ponte.json](./231208-a-ponte.json) |
 | A Postcard From Afthonia | 252069 | [252069-a-postcard-from-afthonia.json](./252069-a-postcard-from-afthonia.json) |
 | A Potion For Chamomile | 196859 | [196859-a-potion-for-chamomile.json](./196859-a-potion-for-chamomile.json) |
 | A Prehistoric Tale | 15347 | [15347-a-prehistoric-tale.json](./15347-a-prehistoric-tale.json) |
@@ -2478,12 +2479,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure | 8253 | [8253-adventure.json](./8253-adventure.json) |
 | Adventure 3 | 305193 | [305193-adventure-3.json](./305193-adventure-3.json) |
 | Adventure 3: Mission Impossible | 41189 | [41189-adventure-3-mission-impossible.json](./41189-adventure-3-mission-impossible.json) |
+| Adventure Academia: The Fractured Continent - Additional Content Vol.1 Bundle | 231213 | [231213-adventure-academia-the-fractured-continent-additional-content-vol-1-bundle.json](./231213-adventure-academia-the-fractured-continent-additional-content-vol-1-bundle.json) |
+| Adventure Academia: The Fractured Continent - Additional Content Vol.2 Bundle | 231214 | [231214-adventure-academia-the-fractured-continent-additional-content-vol-2-bundle.json](./231214-adventure-academia-the-fractured-continent-additional-content-vol-2-bundle.json) |
+| Adventure Academia: The Fractured Continent - Additional Content Vol.3 Bundle | 231215 | [231215-adventure-academia-the-fractured-continent-additional-content-vol-3-bundle.json](./231215-adventure-academia-the-fractured-continent-additional-content-vol-3-bundle.json) |
 | Adventure Academia: The Fractured Continent - Class of Heroes 3 Collaboration: Additional Character Dwarf | 231275 | [231275-adventure-academia-the-fractured-continent-class-of-heroes-3-collaboration-additional-character-dwarf.json](./231275-adventure-academia-the-fractured-continent-class-of-heroes-3-collaboration-additional-character-dwarf.json) |
 | Adventure Academia: The Fractured Continent - Class of Heroes 3 Collaboration: Additional Character Felpurr | 231276 | [231276-adventure-academia-the-fractured-continent-class-of-heroes-3-collaboration-additional-character-felpurr.json](./231276-adventure-academia-the-fractured-continent-class-of-heroes-3-collaboration-additional-character-felpurr.json) |
+| Adventure Academia: The Fractured Continent - Freshman's Weapon Set | 231216 | [231216-adventure-academia-the-fractured-continent-freshmans-weapon-set.json](./231216-adventure-academia-the-fractured-continent-freshmans-weapon-set.json) |
 | Adventure Academia: The Fractured Continent - New Adventure Volume 2: Danger Mountain March 1- 3 | 220752 | [220752-adventure-academia-the-fractured-continent-new-adventure-volume-2-danger-mountain-march-1-3.json](./220752-adventure-academia-the-fractured-continent-new-adventure-volume-2-danger-mountain-march-1-3.json) |
 | Adventure Academia: The Fractured Continent - Vol.2 Bonus Unit: Kiesel | 220753 | [220753-adventure-academia-the-fractured-continent-vol-2-bonus-unit-kiesel.json](./220753-adventure-academia-the-fractured-continent-vol-2-bonus-unit-kiesel.json) |
 | Adventure Academia: The Fractured Continent - Vol.2 Bonus Unit: Lazuli | 220754 | [220754-adventure-academia-the-fractured-continent-vol-2-bonus-unit-lazuli.json](./220754-adventure-academia-the-fractured-continent-vol-2-bonus-unit-lazuli.json) |
 | Adventure Academia: The Fractured Continent - Vol.2 Challenge Quest: Danger Mountain March EX | 220755 | [220755-adventure-academia-the-fractured-continent-vol-2-challenge-quest-danger-mountain-march-ex.json](./220755-adventure-academia-the-fractured-continent-vol-2-challenge-quest-danger-mountain-march-ex.json) |
+| Adventure Academia: The Fractured Continent - Vol.3 Additional Character Lapis | 231232 | [231232-adventure-academia-the-fractured-continent-vol-3-additional-character-lapis.json](./231232-adventure-academia-the-fractured-continent-vol-3-additional-character-lapis.json) |
 | Adventure Academy | 118175 | [118175-adventure-academy.json](./118175-adventure-academy.json) |
 | AdVenture Ages | 146547 | [146547-adventure-ages.json](./146547-adventure-ages.json) |
 | Adventure Allies | 316449 | [316449-adventure-allies.json](./316449-adventure-allies.json) |
@@ -9189,6 +9195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Scramble | 75699 | [75699-arcade-archives-scramble.json](./75699-arcade-archives-scramble.json) |
 | Arcade Archives: Scrambled Egg | 364072 | [364072-arcade-archives-scrambled-egg.json](./364072-arcade-archives-scrambled-egg.json) |
 | Arcade Archives: Sea Fighter Poseidon | 154981 | [154981-arcade-archives-sea-fighter-poseidon.json](./154981-arcade-archives-sea-fighter-poseidon.json) |
+| Arcade Archives: Senjyo | 231212 | [231212-arcade-archives-senjyo.json](./231212-arcade-archives-senjyo.json) |
 | Arcade Archives: Shao-Lin's Road | 275809 | [275809-arcade-archives-shao-lins-road.json](./275809-arcade-archives-shao-lins-road.json) |
 | Arcade Archives: Shingen Samurai-Fighter | 153832 | [153832-arcade-archives-shingen-samurai-fighter.json](./153832-arcade-archives-shingen-samurai-fighter.json) |
 | Arcade Archives: Shusse Ozumo | 75706 | [75706-arcade-archives-shusse-ozumo.json](./75706-arcade-archives-shusse-ozumo.json) |
@@ -9356,6 +9363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Nano Sonic | 202868 | [202868-arcade-nano-sonic.json](./202868-arcade-nano-sonic.json) |
 | Arcade Nano Virtua Fighter 2 | 202869 | [202869-arcade-nano-virtua-fighter-2.json](./202869-arcade-nano-virtua-fighter-2.json) |
 | Arcade Pack | 399614 | [399614-arcade-pack.json](./399614-arcade-pack.json) |
+| Arcade Paradise Coin-Op Pack 1 | 231217 | [231217-arcade-paradise-coin-op-pack-1.json](./231217-arcade-paradise-coin-op-pack-1.json) |
 | Arcade Paradise VR | 279379 | [279379-arcade-paradise-vr.json](./279379-arcade-paradise-vr.json) |
 | Arcade Paradise: CyberDance EuroMix | 224999 | [224999-arcade-paradise-cyberdance-euromix.json](./224999-arcade-paradise-cyberdance-euromix.json) |
 | Arcade Paradise: Digital Deluxe Edition | 213329 | [213329-arcade-paradise-digital-deluxe-edition.json](./213329-arcade-paradise-digital-deluxe-edition.json) |
