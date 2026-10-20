@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:08:35.407Z",
-  "total_soundtracks": 2234,
+  "generated_at": "2026-10-20T21:08:48.740Z",
+  "total_soundtracks": 2235,
   "games": [
     {
       "igdb_id": 7522,
@@ -25247,6 +25247,20 @@
           "spotify_url": "https://open.spotify.com/album/6aZJusKpK3tdiUJYaTqbv0",
           "apple_music_url": "https://music.apple.com/us/album/ultimate-chicken-horse-original-soundtrack/1175097476",
           "album_link_url": "https://album.link/i/1175097476"
+        }
+      ]
+    },
+    {
+      "igdb_id": 131631,
+      "game_name": "Umurangi Generation",
+      "game_url": "https://ostdb.net/games/umurangi-generation",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27324b0e205ca5d10a1f41aaba2",
+      "albums": [
+        {
+          "album_name": "Umurangi Generation Official Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/02iIjzyhAlM7b5MlnuUdtb",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
