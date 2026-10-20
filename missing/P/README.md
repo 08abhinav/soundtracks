@@ -1220,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Pilot | 369706 | [369706-paper-pilot.json](./369706-paper-pilot.json) |
 | Paper Pinball | 65588 | [65588-paper-pinball.json](./65588-paper-pinball.json) |
 | Paper Pirates | 130114 | [130114-paper-pirates.json](./130114-paper-pirates.json) |
+| Paper Plane | 254285 | [254285-paper-plane.json](./254285-paper-plane.json) |
 | Paper Plane | 401272 | [401272-paper-plane.json](./401272-paper-plane.json) |
 | Paper Plane Arena: Shamans | 288222 | [288222-paper-plane-arena-shamans.json](./288222-paper-plane-arena-shamans.json) |
 | Paper Planes | 238636 | [238636-paper-planes.json](./238636-paper-planes.json) |
@@ -5018,6 +5019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinata Hunter 2 | 402880 | [402880-pinata-hunter-2.json](./402880-pinata-hunter-2.json) |
 | Pinata Hunter 3 | 402881 | [402881-pinata-hunter-3.json](./402881-pinata-hunter-3.json) |
 | Pinata Hunter 4 | 402886 | [402886-pinata-hunter-4.json](./402886-pinata-hunter-4.json) |
+| Pinata Punishers: Idle Clicker | 254318 | [254318-pinata-punishers-idle-clicker.json](./254318-pinata-punishers-idle-clicker.json) |
 | Piñata Puppy World | 330386 | [330386-pinata-puppy-world.json](./330386-pinata-puppy-world.json) |
 | Pinball | 131467 | [131467-pinball.json](./131467-pinball.json) |
 | Pinball | 131482 | [131482-pinball.json](./131482-pinball.json) |
@@ -13963,6 +13965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyrates! | 176742 | [176742-pyrates.json](./176742-pyrates.json) |
 | Pyre | 18822 | [18822-pyre.json](./18822-pyre.json) |
 | Pyrite Heart | 17860 | [17860-pyrite-heart.json](./17860-pyrite-heart.json) |
+| Pyro | 254353 | [254353-pyro.json](./254353-pyro.json) |
 | Pyro | 373724 | [373724-pyro.json](./373724-pyro.json) |
 | Pyro Complete Bundle | 218460 | [218460-pyro-complete-bundle.json](./218460-pyro-complete-bundle.json) |
 | Pyro Jump Rescue | 293149 | [293149-pyro-jump-rescue.json](./293149-pyro-jump-rescue.json) |
