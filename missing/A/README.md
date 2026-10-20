@@ -1543,6 +1543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abuzittin'in Maceraları II: İz Peşinde | 330333 | [330333-abuzittinin-maceralar-ii-iz-pesinde.json](./330333-abuzittinin-maceralar-ii-iz-pesinde.json) |
 | Abuzittin'in Maceraları: Yüzük Arkadaşlığı | 142120 | [142120-abuzittinin-maceralar-yuzuk-arkadasl-g.json](./142120-abuzittinin-maceralar-yuzuk-arkadasl-g.json) |
 | Aby Escape | 242004 | [242004-aby-escape.json](./242004-aby-escape.json) |
+| Aby's Playground | 237775 | [237775-abys-playground.json](./237775-abys-playground.json) |
 | ABYA: Paint Ball | 312664 | [312664-abya-paint-ball.json](./312664-abya-paint-ball.json) |
 | Abysm 2: Spirit Falcon | 201230 | [201230-abysm-2-spirit-falcon.json](./201230-abysm-2-spirit-falcon.json) |
 | Abysmal Gateway | 312661 | [312661-abysmal-gateway.json](./312661-abysmal-gateway.json) |
@@ -5564,6 +5565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpacapaca Double Dash | 123313 | [123313-alpacapaca-double-dash.json](./123313-alpacapaca-double-dash.json) |
 | Alpacas X Cats Bundle | 331446 | [331446-alpacas-x-cats-bundle.json](./331446-alpacas-x-cats-bundle.json) |
 | Alpamys | 293358 | [293358-alpamys.json](./293358-alpamys.json) |
+| Alpen Ghoul | 237815 | [237815-alpen-ghoul.json](./237815-alpen-ghoul.json) |
 | AlpenCross | 52585 | [52585-alpencross.json](./52585-alpencross.json) |
 | Alpenglow | 384668 | [384668-alpenglow.json](./384668-alpenglow.json) |
 | Alper002's NaNoHexen 2019 | 268889 | [268889-alper002s-nanohexen-2019.json](./268889-alper002s-nanohexen-2019.json) |
@@ -7213,6 +7215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animaddicts 3 | 195704 | [195704-animaddicts-3.json](./195704-animaddicts-3.json) |
 | Animagi | 377681 | [377681-animagi.json](./377681-animagi.json) |
 | Animahjong X | 331189 | [331189-animahjong-x.json](./331189-animahjong-x.json) |
+| Animal Academy | 237806 | [237806-animal-academy.json](./237806-animal-academy.json) |
 | Animal Across: Afrika | 236964 | [236964-animal-across-afrika.json](./236964-animal-across-afrika.json) |
 | Animal Adventure | 337813 | [337813-animal-adventure.json](./337813-animal-adventure.json) |
 | Animal Adventure Downhill Rush | 269084 | [269084-animal-adventure-downhill-rush.json](./269084-animal-adventure-downhill-rush.json) |
@@ -7904,6 +7907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Perspective | 9978 | [9978-another-perspective.json](./9978-another-perspective.json) |
 | Another Piece of Candy: Sweet Fusions | 182856 | [182856-another-piece-of-candy-sweet-fusions.json](./182856-another-piece-of-candy-sweet-fusions.json) |
 | Another Pint | 361865 | [361865-another-pint.json](./361865-another-pint.json) |
+| Another Pokémon Game | 237798 | [237798-another-pokemon-game.json](./237798-another-pokemon-game.json) |
 | Another Prince: A Lost Tale | 191915 | [191915-another-prince-a-lost-tale.json](./191915-another-prince-a-lost-tale.json) |
 | Another Princess is in Our Castle | 228362 | [228362-another-princess-is-in-our-castle.json](./228362-another-princess-is-in-our-castle.json) |
 | Another Realm | 303150 | [303150-another-realm.json](./303150-another-realm.json) |
