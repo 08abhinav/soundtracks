@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakurenbo | 191531 | [191531-kakurenbo.json](./191531-kakurenbo.json) |
 | Kakurenbo no Oto: Hidden Notes | 172741 | [172741-kakurenbo-no-oto-hidden-notes.json](./172741-kakurenbo-no-oto-hidden-notes.json) |
 | Kakurenbo: Hide and Seek | 350963 | [350963-kakurenbo-hide-and-seek.json](./350963-kakurenbo-hide-and-seek.json) |
+| Kakuriyo | 217186 | [217186-kakuriyo.json](./217186-kakuriyo.json) |
 | Kakuriyo | 296270 | [296270-kakuriyo.json](./296270-kakuriyo.json) |
 | Kakuriyo Village: Moratorium of Adolescence | 240730 | [240730-kakuriyo-village-moratorium-of-adolescence.json](./240730-kakuriyo-village-moratorium-of-adolescence.json) |
 | Kakuro | 120959 | [120959-kakuro.json](./120959-kakuro.json) |
@@ -815,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karuizawa Yuukai Annai | 79793 | [79793-karuizawa-yuukai-annai.json](./79793-karuizawa-yuukai-annai.json) |
 | Karumaruka Circle: Limited Edition | 167036 | [167036-karumaruka-circle-limited-edition.json](./167036-karumaruka-circle-limited-edition.json) |
 | Karumaruka Circle: Limited Edition | 339404 | [339404-karumaruka-circle-limited-edition.json](./339404-karumaruka-circle-limited-edition.json) |
+| Karvan | 217187 | [217187-karvan.json](./217187-karvan.json) |
 | Kary | 286958 | [286958-kary.json](./286958-kary.json) |
 | Karyuu Jyou | 62982 | [62982-karyuu-jyou.json](./62982-karyuu-jyou.json) |
 | Kas Mind | 418261 | [418261-kas-mind.json](./418261-kas-mind.json) |
@@ -2379,6 +2381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King War | 240734 | [240734-king-war.json](./240734-king-war.json) |
 | King Wizard, of the Forest Kingdom | 274573 | [274573-king-wizard-of-the-forest-kingdom.json](./274573-king-wizard-of-the-forest-kingdom.json) |
 | King-Dom | 105739 | [105739-king-dom.json](./105739-king-dom.json) |
+| King, Witch and Dragon | 217170 | [217170-king-witch-and-dragon.json](./217170-king-witch-and-dragon.json) |
 | King's Blade | 226868 | [226868-kings-blade.json](./226868-kings-blade.json) |
 | King's Bounty | 9613 | [9613-kings-bounty.json](./9613-kings-bounty.json) |
 | King's Bounty 2 | 74329 | [74329-kings-bounty-2.json](./74329-kings-bounty-2.json) |
@@ -2539,6 +2542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Islands | 236396 | [236396-kingdom-islands.json](./236396-kingdom-islands.json) |
 | Kingdom Isles | 423281 | [423281-kingdom-isles.json](./423281-kingdom-isles.json) |
 | Kingdom Ka | 134601 | [134601-kingdom-ka.json](./134601-kingdom-ka.json) |
+| Kingdom Knights | 217195 | [217195-kingdom-knights.json](./217195-kingdom-knights.json) |
 | Kingdom Loop | 335285 | [335285-kingdom-loop.json](./335285-kingdom-loop.json) |
 | Kingdom Majestic | 136344 | [136344-kingdom-majestic.json](./136344-kingdom-majestic.json) |
 | Kingdom Majestic: Limited Edition | 146040 | [146040-kingdom-majestic-limited-edition.json](./146040-kingdom-majestic-limited-edition.json) |
@@ -4209,6 +4213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kowloon Story 2 | 291741 | [291741-kowloon-story-2.json](./291741-kowloon-story-2.json) |
 | Kowloon Youma Gakuen Ki re:charge | 122278 | [122278-kowloon-youma-gakuen-ki-re-charge.json](./122278-kowloon-youma-gakuen-ki-re-charge.json) |
 | Kowloon Youma Gakuen Ki: Origin of Adventure - Yomigaeru Hihouban | 136880 | [136880-kowloon-youma-gakuen-ki-origin-of-adventure-yomigaeru-hihouban.json](./136880-kowloon-youma-gakuen-ki-origin-of-adventure-yomigaeru-hihouban.json) |
+| Kowloon's Curse: Lost Report | 217159 | [217159-kowloons-curse-lost-report.json](./217159-kowloons-curse-lost-report.json) |
 | Kowloon's Gate | 66177 | [66177-kowloons-gate.json](./66177-kowloons-gate.json) |
 | Kowloon's Gate VR: Suzaku | 49511 | [49511-kowloons-gate-vr-suzaku.json](./49511-kowloons-gate-vr-suzaku.json) |
 | Kowloon's Rhizome: A Day of the Fire - Vol. 1 | 255804 | [255804-kowloons-rhizome-a-day-of-the-fire-vol-1.json](./255804-kowloons-rhizome-a-day-of-the-fire-vol-1.json) |
