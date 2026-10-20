@@ -3565,6 +3565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Kin | 219635 | [219635-light-kin.json](./219635-light-kin.json) |
 | Light Leak | 395170 | [395170-light-leak.json](./395170-light-leak.json) |
 | Light Magic 2 | 316683 | [316683-light-magic-2.json](./316683-light-magic-2.json) |
+| Light Maze | 207679 | [207679-light-maze.json](./207679-light-maze.json) |
 | Light my Fear | 116435 | [116435-light-my-fear.json](./116435-light-my-fear.json) |
 | Light Night Street | 353774 | [353774-light-night-street.json](./353774-light-night-street.json) |
 | Light of Atlantis | 253915 | [253915-light-of-atlantis.json](./253915-light-of-atlantis.json) |
@@ -6030,6 +6031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Dream 1 | 365236 | [365236-lost-dream-1.json](./365236-lost-dream-1.json) |
 | Lost Dream Chronicle | 316632 | [316632-lost-dream-chronicle.json](./316632-lost-dream-chronicle.json) |
 | Lost Dream: Darkness | 240799 | [240799-lost-dream-darkness.json](./240799-lost-dream-darkness.json) |
+| Lost Dream: Memories | 207692 | [207692-lost-dream-memories.json](./207692-lost-dream-memories.json) |
 | Lost Dreams | 194364 | [194364-lost-dreams.json](./194364-lost-dreams.json) |
 | Lost Dungeon | 120734 | [120734-lost-dungeon.json](./120734-lost-dungeon.json) |
 | Lost Dutchman's Gold | 25133 | [25133-lost-dutchmans-gold.json](./25133-lost-dutchmans-gold.json) |
