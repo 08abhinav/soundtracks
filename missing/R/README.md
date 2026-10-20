@@ -2056,6 +2056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReactFuse | 264641 | [264641-reactfuse.json](./264641-reactfuse.json) |
 | Reaction | 152347 | [152347-reaction.json](./152347-reaction.json) |
 | Reaction Game: Hit the Color! | 56764 | [56764-reaction-game-hit-the-color.json](./56764-reaction-game-hit-the-color.json) |
+| Reaction Match | 230704 | [230704-reaction-match.json](./230704-reaction-match.json) |
 | Reaction Quake 3 | 200651 | [200651-reaction-quake-3.json](./200651-reaction-quake-3.json) |
 | Reaction: Block Buster | 61132 | [61132-reaction-block-buster.json](./61132-reaction-block-buster.json) |
 | Reactor | 18545 | [18545-reactor.json](./18545-reactor.json) |
@@ -4329,6 +4330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rest in Paws | 358877 | [358877-rest-in-paws.json](./358877-rest-in-paws.json) |
 | Rest In Peace | 30057 | [30057-rest-in-peace.json](./30057-rest-in-peace.json) |
 | Rest to Landia | 292279 | [292279-rest-to-landia.json](./292279-rest-to-landia.json) |
+| Resta um | 230716 | [230716-resta-um.json](./230716-resta-um.json) |
 | Restart | 240774 | [240774-restart.json](./240774-restart.json) |
 | Restart Heart | 341858 | [341858-restart-heart.json](./341858-restart-heart.json) |
 | Restarting Systems: Smoke's Bizarre Adventure | 378799 | [378799-restarting-systems-smokes-bizarre-adventure.json](./378799-restarting-systems-smokes-bizarre-adventure.json) |
@@ -4907,6 +4909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reversed Rebecca | 235682 | [235682-reversed-rebecca.json](./235682-reversed-rebecca.json) |
 | ReverseRoom | 238511 | [238511-reverseroom.json](./238511-reverseroom.json) |
 | Reversi | 17541 | [17541-reversi.json](./17541-reversi.json) |
+| Reversi | 230720 | [230720-reversi.json](./230720-reversi.json) |
 | Reversi | 288835 | [288835-reversi.json](./288835-reversi.json) |
 | Reversi | 319596 | [319596-reversi.json](./319596-reversi.json) |
 | Reversi | 395796 | [395796-reversi.json](./395796-reversi.json) |
