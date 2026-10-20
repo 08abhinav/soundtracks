@@ -6807,6 +6807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Battle: Touchdown! | 231952 | [231952-football-battle-touchdown.json](./231952-football-battle-touchdown.json) |
 | Football Betting | 167246 | [167246-football-betting.json](./167246-football-betting.json) |
 | Football Blitz | 31639 | [31639-football-blitz.json](./31639-football-blitz.json) |
+| Football Boss: Be The Manager | 250178 | [250178-football-boss-be-the-manager.json](./250178-football-boss-be-the-manager.json) |
 | Football Bus Battle 2021 | 153978 | [153978-football-bus-battle-2021.json](./153978-football-bus-battle-2021.json) |
 | Football Career | 343455 | [343455-football-career.json](./343455-football-career.json) |
 | Football Career Mode 26 | 346582 | [346582-football-career-mode-26.json](./346582-football-career-mode-26.json) |
