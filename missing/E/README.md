@@ -4110,6 +4110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Simulator: Wild West | 221903 | [221903-escape-simulator-wild-west.json](./221903-escape-simulator-wild-west.json) |
 | Escape Space | 244625 | [244625-escape-space.json](./244625-escape-space.json) |
 | Escape Stories: Virtual Reality | 258319 | [258319-escape-stories-virtual-reality.json](./258319-escape-stories-virtual-reality.json) |
+| Escape String | 221589 | [221589-escape-string.json](./221589-escape-string.json) |
 | Escape Tales: The Awakening | 304829 | [304829-escape-tales-the-awakening.json](./304829-escape-tales-the-awakening.json) |
 | Escape Team | 339770 | [339770-escape-team.json](./339770-escape-team.json) |
 | Escape That Level | 95670 | [95670-escape-that-level.json](./95670-escape-that-level.json) |
