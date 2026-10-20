@@ -3981,6 +3981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deeper | 343279 | [343279-deeper.json](./343279-deeper.json) |
 | Deeper and Darker | 341928 | [341928-deeper-and-darker.json](./341928-deeper-and-darker.json) |
 | Deeper Club | 396698 | [396698-deeper-club.json](./396698-deeper-club.json) |
+| Deeper in the Dark | 240047 | [240047-deeper-in-the-dark.json](./240047-deeper-in-the-dark.json) |
 | Deeper Red 2028: We Are Escape | 128345 | [128345-deeper-red-2028-we-are-escape.json](./128345-deeper-red-2028-we-are-escape.json) |
 | Deeper Than Hell | 295792 | [295792-deeper-than-hell.json](./295792-deeper-than-hell.json) |
 | Deeper You Go | 346746 | [346746-deeper-you-go.json](./346746-deeper-you-go.json) |
@@ -5485,7 +5486,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Into The Light | 291624 | [291624-destiny-2-into-the-light.json](./291624-destiny-2-into-the-light.json) |
 | Destiny 2: Launch Edition | 82386 | [82386-destiny-2-launch-edition.json](./82386-destiny-2-launch-edition.json) |
 | Destiny 2: Legacy Collection | 192302 | [192302-destiny-2-legacy-collection.json](./192302-destiny-2-legacy-collection.json) |
+| Destiny 2: Legacy Collection | 240099 | [240099-destiny-2-legacy-collection.json](./240099-destiny-2-legacy-collection.json) |
 | Destiny 2: Legacy Collection | 304472 | [304472-destiny-2-legacy-collection.json](./304472-destiny-2-legacy-collection.json) |
+| Destiny 2: Lightfall - Season of Defiance | 240059 | [240059-destiny-2-lightfall-season-of-defiance.json](./240059-destiny-2-lightfall-season-of-defiance.json) |
 | Destiny 2: Lightfall - Season of the Deep | 250021 | [250021-destiny-2-lightfall-season-of-the-deep.json](./250021-destiny-2-lightfall-season-of-the-deep.json) |
 | Destiny 2: Lightfall - Season of the Wish | 278312 | [278312-destiny-2-lightfall-season-of-the-wish.json](./278312-destiny-2-lightfall-season-of-the-wish.json) |
 | Destiny 2: Limited Edition | 132151 | [132151-destiny-2-limited-edition.json](./132151-destiny-2-limited-edition.json) |
@@ -5974,6 +5977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devilish Charms | 227946 | [227946-devilish-charms.json](./227946-devilish-charms.json) |
 | Devilish Cooking | 230321 | [230321-devilish-cooking.json](./230321-devilish-cooking.json) |
 | Devilish Girl | 261885 | [261885-devilish-girl.json](./261885-devilish-girl.json) |
+| Devilish Kisses | 240090 | [240090-devilish-kisses.json](./240090-devilish-kisses.json) |
 | Devilish League | 285017 | [285017-devilish-league.json](./285017-devilish-league.json) |
 | Devilish Mahjong Tower | 45537 | [45537-devilish-mahjong-tower.json](./45537-devilish-mahjong-tower.json) |
 | Devilish Pet Salon | 230317 | [230317-devilish-pet-salon.json](./230317-devilish-pet-salon.json) |
