@@ -3328,6 +3328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refuge | 110251 | [110251-refuge.json](./110251-refuge.json) |
 | Refuge | 226969 | [226969-refuge.json](./226969-refuge.json) |
 | Refuge For Troubles: Episode 1 - Dear Stranger | 171566 | [171566-refuge-for-troubles-episode-1-dear-stranger.json](./171566-refuge-for-troubles-episode-1-dear-stranger.json) |
+| Refugee: The Second Hearing | 253772 | [253772-refugee-the-second-hearing.json](./253772-refugee-the-second-hearing.json) |
 | Refunct | 13542 | [13542-refunct.json](./13542-refunct.json) |
 | Refund Me If You Can | 204074 | [204074-refund-me-if-you-can.json](./204074-refund-me-if-you-can.json) |
 | Refund Me If You Can: Lexy's Story | 234106 | [234106-refund-me-if-you-can-lexys-story.json](./234106-refund-me-if-you-can-lexys-story.json) |
@@ -4295,6 +4296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restaurant Empire | 10766 | [10766-restaurant-empire.json](./10766-restaurant-empire.json) |
 | Restaurant Empire II | 16015 | [16015-restaurant-empire-ii.json](./16015-restaurant-empire-ii.json) |
 | Restaurant Island: The Fun Family Game! Manage your staff & expand your gourmet paradise! | 88206 | [88206-restaurant-island-the-fun-family-game-manage-your-staff-and-expand-your-gourmet-paradise.json](./88206-restaurant-island-the-fun-family-game-manage-your-staff-and-expand-your-gourmet-paradise.json) |
+| Restaurant King | 253765 | [253765-restaurant-king.json](./253765-restaurant-king.json) |
 | Restaurant Manager | 96321 | [96321-restaurant-manager.json](./96321-restaurant-manager.json) |
 | Restaurant Manager Simulator | 211696 | [211696-restaurant-manager-simulator.json](./211696-restaurant-manager-simulator.json) |
 | Restaurant Owner: A Restaurant Simulator | 324530 | [324530-restaurant-owner-a-restaurant-simulator.json](./324530-restaurant-owner-a-restaurant-simulator.json) |
@@ -4537,6 +4539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RetroCube | 175404 | [175404-retrocube.json](./175404-retrocube.json) |
 | Retrofit: Overload | 66676 | [66676-retrofit-overload.json](./66676-retrofit-overload.json) |
 | RetroFuel | 184108 | [184108-retrofuel.json](./184108-retrofuel.json) |
+| Retrograde | 253749 | [253749-retrograde.json](./253749-retrograde.json) |
 | Retrograde | 40932 | [40932-retrograde.json](./40932-retrograde.json) |
 | Retrograde Arena | 117470 | [117470-retrograde-arena.json](./117470-retrograde-arena.json) |
 | Retrograde Arena: Arms Race Pack | 226966 | [226966-retrograde-arena-arms-race-pack.json](./226966-retrograde-arena-arms-race-pack.json) |
