@@ -8144,7 +8144,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimbaQuest | 243699 | [243699-simbaquest.json](./243699-simbaquest.json) |
 | SimBus | 166815 | [166815-simbus.json](./166815-simbus.json) |
 | SimCasino | 141132 | [141132-simcasino.json](./141132-simcasino.json) |
-| SimCity | 180001 | [180001-simcity.json](./180001-simcity.json) |
 | SimCity | 180002 | [180002-simcity.json](./180002-simcity.json) |
 | SimCity | 208990 | [208990-simcity.json](./208990-simcity.json) |
 | SimCity 2000 | 330 | [330-simcity-2000.json](./330-simcity-2000.json) |
@@ -23312,7 +23311,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super DJ | 233241 | [233241-super-dj.json](./233241-super-dj.json) |
 | Super Dodge Ball | 191662 | [191662-super-dodge-ball.json](./191662-super-dodge-ball.json) |
 | Super Dodge Ball | 40426 | [40426-super-dodge-ball.json](./40426-super-dodge-ball.json) |
-| Super Dodge Ball | 46768 | [46768-super-dodge-ball.json](./46768-super-dodge-ball.json) |
 | Super Dodge Ball SNES Port | 377232 | [377232-super-dodge-ball-snes-port.json](./377232-super-dodge-ball-snes-port.json) |
 | Super Dodgeball Brawlers | 21052 | [21052-super-dodgeball-brawlers.json](./21052-super-dodgeball-brawlers.json) |
 | Super Dog Adventure | 398898 | [398898-super-dog-adventure.json](./398898-super-dog-adventure.json) |
@@ -26171,7 +26169,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swallow | 203871 | [203871-swallow.json](./203871-swallow.json) |
 | Swallow the Blue | 369749 | [369749-swallow-the-blue.json](./369749-swallow-the-blue.json) |
 | Swallow the Dark | 177827 | [177827-swallow-the-dark.json](./177827-swallow-the-dark.json) |
-| Swallow the Sea | 133836 | [133836-swallow-the-sea.json](./133836-swallow-the-sea.json) |
 | Swallow Up | 124065 | [124065-swallow-up.json](./124065-swallow-up.json) |
 | Swallowtail Butterfly Princess of Sexual Techniques | 82887 | [82887-swallowtail-butterfly-princess-of-sexual-techniques.json](./82887-swallowtail-butterfly-princess-of-sexual-techniques.json) |
 | Swallowtail: Ano Hi, Ao wo Koete | 402897 | [402897-swallowtail-ano-hi-ao-wo-koete.json](./402897-swallowtail-ano-hi-ao-wo-koete.json) |
