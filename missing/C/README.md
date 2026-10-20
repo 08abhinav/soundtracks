@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| C | 218903 | [218903-c.json](./218903-c.json) |
 | C | 385380 | [385380-c.json](./385380-c.json) |
 | C out | 37302 | [37302-c-out.json](./37302-c-out.json) |
 | C So! | 6095 | [6095-c-so.json](./6095-c-so.json) |
@@ -14827,6 +14828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Cove | 337056 | [337056-cursed-cove.json](./337056-cursed-cove.json) |
 | Cursed Covenant: The Demonic Pursuit | 338712 | [338712-cursed-covenant-the-demonic-pursuit.json](./338712-cursed-covenant-the-demonic-pursuit.json) |
 | Cursed Crew | 217018 | [217018-cursed-crew.json](./217018-cursed-crew.json) |
+| Cursed Crops | 218889 | [218889-cursed-crops.json](./218889-cursed-crops.json) |
 | Cursed Demons of Wallachia | 365767 | [365767-cursed-demons-of-wallachia.json](./365767-cursed-demons-of-wallachia.json) |
 | Cursed Despair | 293470 | [293470-cursed-despair.json](./293470-cursed-despair.json) |
 | Cursed Diamonds | 285985 | [285985-cursed-diamonds.json](./285985-cursed-diamonds.json) |
