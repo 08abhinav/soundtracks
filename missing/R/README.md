@@ -578,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radirgy Noa Wii | 254476 | [254476-radirgy-noa-wii.json](./254476-radirgy-noa-wii.json) |
 | Radish | 122180 | [122180-radish.json](./122180-radish.json) |
 | Radish Kid Ascension | 180824 | [180824-radish-kid-ascension.json](./180824-radish-kid-ascension.json) |
+| Radium | 209320 | [209320-radium.json](./209320-radium.json) |
 | Radium | 405335 | [405335-radium.json](./405335-radium.json) |
 | Radium Lux | 349392 | [349392-radium-lux.json](./349392-radium-lux.json) |
 | Radix | 221658 | [221658-radix.json](./221658-radix.json) |
@@ -1266,6 +1267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramek: Total Machine Death | 337280 | [337280-ramek-total-machine-death.json](./337280-ramek-total-machine-death.json) |
 | Ramen Bowl Chicken Roll | 101442 | [101442-ramen-bowl-chicken-roll.json](./101442-ramen-bowl-chicken-roll.json) |
 | Ramen Chain | 159345 | [159345-ramen-chain.json](./159345-ramen-chain.json) |
+| Ramen Heaven | 209318 | [209318-ramen-heaven.json](./209318-ramen-heaven.json) |
 | Ramen in the 90's | 141190 | [141190-ramen-in-the-90s.json](./141190-ramen-in-the-90s.json) |
 | Ramen no Megami | 283716 | [283716-ramen-no-megami.json](./283716-ramen-no-megami.json) |
 | Ramen or Jail | 190992 | [190992-ramen-or-jail.json](./190992-ramen-or-jail.json) |
@@ -1377,6 +1379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Random Heroes | 59895 | [59895-random-heroes.json](./59895-random-heroes.json) |
 | Random Heroes 2 | 59892 | [59892-random-heroes-2.json](./59892-random-heroes-2.json) |
 | Random Heroes 3 | 59893 | [59893-random-heroes-3.json](./59893-random-heroes-3.json) |
+| Random House Puzzles & Games: Crosswords & Crostics | 209313 | [209313-random-house-puzzles-and-games-crosswords-and-crostics.json](./209313-random-house-puzzles-and-games-crosswords-and-crostics.json) |
 | Random Isles | 389536 | [389536-random-isles.json](./389536-random-isles.json) |
 | Random Journey | 32261 | [32261-random-journey.json](./32261-random-journey.json) |
 | Random Legion | 293513 | [293513-random-legion.json](./293513-random-legion.json) |
@@ -1714,6 +1717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravensburger Kinderwelt | 288067 | [288067-ravensburger-kinderwelt.json](./288067-ravensburger-kinderwelt.json) |
 | Ravensburger Labyrinth | 200049 | [200049-ravensburger-labyrinth.json](./200049-ravensburger-labyrinth.json) |
 | Ravensburger Puzzle | 25495 | [25495-ravensburger-puzzle.json](./25495-ravensburger-puzzle.json) |
+| Ravensburger Puzzles | 209309 | [209309-ravensburger-puzzles.json](./209309-ravensburger-puzzles.json) |
 | Ravensdale | 47424 | [47424-ravensdale.json](./47424-ravensdale.json) |
 | Ravenshade Asylum | 411825 | [411825-ravenshade-asylum.json](./411825-ravenshade-asylum.json) |
 | Ravensthorn | 316730 | [316730-ravensthorn.json](./316730-ravensthorn.json) |
@@ -1743,6 +1747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raw Element | 341307 | [341307-raw-element.json](./341307-raw-element.json) |
 | Raw Metal | 236316 | [236316-raw-metal.json](./236316-raw-metal.json) |
 | Raw Nerve | 253567 | [253567-raw-nerve.json](./253567-raw-nerve.json) |
+| Raw Pursuit | 209311 | [209311-raw-pursuit.json](./209311-raw-pursuit.json) |
 | Rawbots | 62969 | [62969-rawbots.json](./62969-rawbots.json) |
 | Rawisland | 267449 | [267449-rawisland.json](./267449-rawisland.json) |
 | Rawmen: Sakura Gusoku Cosmetic Set | 370316 | [370316-rawmen-sakura-gusoku-cosmetic-set.json](./370316-rawmen-sakura-gusoku-cosmetic-set.json) |
@@ -2088,6 +2093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reader Rabbit 1st Grade: Capers on Cloud Nine | 139351 | [139351-reader-rabbit-1st-grade-capers-on-cloud-nine.json](./139351-reader-rabbit-1st-grade-capers-on-cloud-nine.json) |
 | Reader Rabbit 2 | 73302 | [73302-reader-rabbit-2.json](./73302-reader-rabbit-2.json) |
 | Reader Rabbit 2nd Grade | 89085 | [89085-reader-rabbit-2nd-grade.json](./89085-reader-rabbit-2nd-grade.json) |
+| Reader Rabbit 2nd Grade: Mis-Cheese-ious Dreamship Adventures! | 209307 | [209307-reader-rabbit-2nd-grade-mis-cheese-ious-dreamship-adventures.json](./209307-reader-rabbit-2nd-grade-mis-cheese-ious-dreamship-adventures.json) |
 | Reader Rabbit Kindergarten | 301429 | [301429-reader-rabbit-kindergarten.json](./301429-reader-rabbit-kindergarten.json) |
 | Reader Rabbit Kindergarten: Bounce Down in Balloon Town | 139350 | [139350-reader-rabbit-kindergarten-bounce-down-in-balloon-town.json](./139350-reader-rabbit-kindergarten-bounce-down-in-balloon-town.json) |
 | Reader Rabbit Math Adventures Ages 4-6 | 313291 | [313291-reader-rabbit-math-adventures-ages-4-6.json](./313291-reader-rabbit-math-adventures-ages-4-6.json) |
