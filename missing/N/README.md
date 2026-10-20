@@ -3257,6 +3257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Monsters | 157554 | [157554-night-monsters.json](./157554-night-monsters.json) |
 | Night Noodles | 408229 | [408229-night-noodles.json](./408229-night-noodles.json) |
 | Night O'Clock | 364565 | [364565-night-oclock.json](./364565-night-oclock.json) |
+| Night of Carnage | 240074 | [240074-night-of-carnage.json](./240074-night-of-carnage.json) |
 | Night of Full Moon | 104096 | [104096-night-of-full-moon.json](./104096-night-of-full-moon.json) |
 | Night of Full Moon: Apothecary's Blessing | 170462 | [170462-night-of-full-moon-apothecarys-blessing.json](./170462-night-of-full-moon-apothecarys-blessing.json) |
 | Night of Full Moon: Choice of Carpenter | 170463 | [170463-night-of-full-moon-choice-of-carpenter.json](./170463-night-of-full-moon-choice-of-carpenter.json) |
@@ -5202,6 +5203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Another Hero | 57498 | [57498-not-another-hero.json](./57498-not-another-hero.json) |
 | Not Another Needle Game | 223051 | [223051-not-another-needle-game.json](./223051-not-another-needle-game.json) |
 | Not Another Weekend | 140388 | [140388-not-another-weekend.json](./140388-not-another-weekend.json) |
+| Not Anyone's Business but My Own | 240100 | [240100-not-anyones-business-but-my-own.json](./240100-not-anyones-business-but-my-own.json) |
 | Not Born to be King | 231842 | [231842-not-born-to-be-king.json](./231842-not-born-to-be-king.json) |
 | Not Burned Evil | 276977 | [276977-not-burned-evil.json](./276977-not-burned-evil.json) |
 | Not Dead Yet | 143500 | [143500-not-dead-yet.json](./143500-not-dead-yet.json) |
