@@ -3077,6 +3077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catacomb Explorers | 30766 | [30766-catacomb-explorers.json](./30766-catacomb-explorers.json) |
 | Catacomb II | 11043 | [11043-catacomb-ii.json](./11043-catacomb-ii.json) |
 | Catacomb Kitties | 224207 | [224207-catacomb-kitties.json](./224207-catacomb-kitties.json) |
+| Catacomb Master | 246783 | [246783-catacomb-master.json](./246783-catacomb-master.json) |
 | Catacomb Snatch | 65388 | [65388-catacomb-snatch.json](./65388-catacomb-snatch.json) |
 | Catacomb Towers | 316075 | [316075-catacomb-towers.json](./316075-catacomb-towers.json) |
 | Catacombs | 142466 | [142466-catacombs.json](./142466-catacombs.json) |
