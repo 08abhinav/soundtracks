@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Broken Halo | 216776 | [216776-a-broken-halo.json](./216776-a-broken-halo.json) |
 | A Broken Tale | 135579 | [135579-a-broken-tale.json](./135579-a-broken-tale.json) |
 | A Bug's Life | 205931 | [205931-a-bugs-life.json](./205931-a-bugs-life.json) |
+| A Bug's Life | 247330 | [247330-a-bugs-life.json](./247330-a-bugs-life.json) |
 | A Bug's Life | 2847 | [2847-a-bugs-life.json](./2847-a-bugs-life.json) |
 | A Bug's Life | 49841 | [49841-a-bugs-life.json](./49841-a-bugs-life.json) |
 | A Bug's Life: Active Play | 311677 | [311677-a-bugs-life-active-play.json](./311677-a-bugs-life-active-play.json) |
@@ -376,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Good Field | 337800 | [337800-a-good-field.json](./337800-a-good-field.json) |
 | A Good Hunch | 219116 | [219116-a-good-hunch.json](./219116-a-good-hunch.json) |
 | A Good Librarian Like a Good Shepherd | 106621 | [106621-a-good-librarian-like-a-good-shepherd.json](./106621-a-good-librarian-like-a-good-shepherd.json) |
+| A Good Place To Die | 247317 | [247317-a-good-place-to-die.json](./247317-a-good-place-to-die.json) |
 | A Gorilla vs. 100 Men Simulator | 359567 | [359567-a-gorilla-vs-100-men-simulator.json](./359567-a-gorilla-vs-100-men-simulator.json) |
 | A Gracewind Tale: Do You Copy? | 97468 | [97468-a-gracewind-tale-do-you-copy.json](./97468-a-gracewind-tale-do-you-copy.json) |
 | A Grain of Truth | 388278 | [388278-a-grain-of-truth.json](./388278-a-grain-of-truth.json) |
@@ -1453,6 +1455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abrix the robot | 33018 | [33018-abrix-the-robot.json](./33018-abrix-the-robot.json) |
 | Abronium Party | 79570 | [79570-abronium-party.json](./79570-abronium-party.json) |
 | Abrupt Valley | 261745 | [261745-abrupt-valley.json](./261745-abrupt-valley.json) |
+| Abscam | 247331 | [247331-abscam.json](./247331-abscam.json) |
 | Absconding Zatwor | 26838 | [26838-absconding-zatwor.json](./26838-absconding-zatwor.json) |
 | Absence Makes... | 242500 | [242500-absence-makes.json](./242500-absence-makes.json) |
 | Absence Request | 76618 | [76618-absence-request.json](./76618-absence-request.json) |
@@ -4350,7 +4353,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alacrity Golf | 246280 | [246280-alacrity-golf.json](./246280-alacrity-golf.json) |
 | Aladdin | 204504 | [204504-aladdin.json](./204504-aladdin.json) |
 | Aladdin | 204505 | [204505-aladdin.json](./204505-aladdin.json) |
+| Aladdin 2 | 247333 | [247333-aladdin-2.json](./247333-aladdin-2.json) |
+| Aladdin 2000 | 247332 | [247332-aladdin-2000.json](./247332-aladdin-2000.json) |
 | Aladdin II | 242085 | [242085-aladdin-ii.json](./242085-aladdin-ii.json) |
+| Aladdin II | 247340 | [247340-aladdin-ii.json](./247340-aladdin-ii.json) |
 | Aladdin Magic Carpet Racing | 296030 | [296030-aladdin-magic-carpet-racing.json](./296030-aladdin-magic-carpet-racing.json) |
 | Aladdin of the Forsaken Lands | 268143 | [268143-aladdin-of-the-forsaken-lands.json](./268143-aladdin-of-the-forsaken-lands.json) |
 | Aladdin Pinball | 127641 | [127641-aladdin-pinball.json](./127641-aladdin-pinball.json) |
@@ -6179,6 +6185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Conquest: Divided Nation | 9361 | [9361-american-conquest-divided-nation.json](./9361-american-conquest-divided-nation.json) |
 | American Cooking Simulator | 330850 | [330850-american-cooking-simulator.json](./330850-american-cooking-simulator.json) |
 | American Cooking Simulator: Multiplayer | 392810 | [392810-american-cooking-simulator-multiplayer.json](./392810-american-cooking-simulator-multiplayer.json) |
+| American Crisis | 247341 | [247341-american-crisis.json](./247341-american-crisis.json) |
 | American Dad vs. Family Guy: Kung-Fu II Turbo! Hyper-Mega Edition | 64478 | [64478-american-dad-vs-family-guy-kung-fu-ii-turbo-hyper-mega-edition.json](./64478-american-dad-vs-family-guy-kung-fu-ii-turbo-hyper-mega-edition.json) |
 | American Dad! Pinball | 88806 | [88806-american-dad-pinball.json](./88806-american-dad-pinball.json) |
 | American Deer Hunter | 206112 | [206112-american-deer-hunter.json](./206112-american-deer-hunter.json) |
@@ -7043,6 +7050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Ball VR | 112961 | [112961-angry-ball-vr.json](./112961-angry-ball-vr.json) |
 | Angry Barry | 67987 | [67987-angry-barry.json](./67987-angry-barry.json) |
 | Angry Battalion | 330191 | [330191-angry-battalion.json](./330191-angry-battalion.json) |
+| Angry Birds | 247343 | [247343-angry-birds.json](./247343-angry-birds.json) |
 | Angry Birds Action! | 19274 | [19274-angry-birds-action.json](./19274-angry-birds-action.json) |
 | Angry Birds AR: Isle of Pigs | 196589 | [196589-angry-birds-ar-isle-of-pigs.json](./196589-angry-birds-ar-isle-of-pigs.json) |
 | Angry Birds Arcade | 231439 | [231439-angry-birds-arcade.json](./231439-angry-birds-arcade.json) |
@@ -7089,6 +7097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds: Dangerous Railroad | 325564 | [325564-angry-birds-dangerous-railroad.json](./325564-angry-birds-dangerous-railroad.json) |
 | Angry Birds: Flock Party | 372088 | [372088-angry-birds-flock-party.json](./372088-angry-birds-flock-party.json) |
 | Angry Birds: Pop! | 60224 | [60224-angry-birds-pop.json](./60224-angry-birds-pop.json) |
+| Angry Birds: Star Wars | 247344 | [247344-angry-birds-star-wars.json](./247344-angry-birds-star-wars.json) |
 | Angry Brainless Bovines | 140607 | [140607-angry-brainless-bovines.json](./140607-angry-brainless-bovines.json) |
 | Angry Brides | 174079 | [174079-angry-brides.json](./174079-angry-brides.json) |
 | Angry Bulls | 209706 | [209706-angry-bulls.json](./209706-angry-bulls.json) |
