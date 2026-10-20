@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Bees 2 | 205245 | [205245-i-commissioned-some-bees-2.json](./205245-i-commissioned-some-bees-2.json) |
 | I Commissioned Some Bees 3 | 207790 | [207790-i-commissioned-some-bees-3.json](./207790-i-commissioned-some-bees-3.json) |
 | I Commissioned Some Bees 4 | 211687 | [211687-i-commissioned-some-bees-4.json](./211687-i-commissioned-some-bees-4.json) |
+| I Commissioned Some Bees 6 | 249617 | [249617-i-commissioned-some-bees-6.json](./249617-i-commissioned-some-bees-6.json) |
 | I Commissioned Some Bees 8 | 221118 | [221118-i-commissioned-some-bees-8.json](./221118-i-commissioned-some-bees-8.json) |
 | I Commissioned Some Bees 9 | 221111 | [221111-i-commissioned-some-bees-9.json](./221111-i-commissioned-some-bees-9.json) |
 | I Commissioned Some Bees Advent | 228084 | [228084-i-commissioned-some-bees-advent.json](./228084-i-commissioned-some-bees-advent.json) |
@@ -970,6 +971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idiom Royale | 392929 | [392929-idiom-royale.json](./392929-idiom-royale.json) |
 | Idiot | 158656 | [158656-idiot.json](./158656-idiot.json) |
 | Idiot Brain Evolution | 368013 | [368013-idiot-brain-evolution.json](./368013-idiot-brain-evolution.json) |
+| Idiot Maiden | 249619 | [249619-idiot-maiden.json](./249619-idiot-maiden.json) |
 | Idiot Squad | 52247 | [52247-idiot-squad.json](./52247-idiot-squad.json) |
 | Idiot Test | 122436 | [122436-idiot-test.json](./122436-idiot-test.json) |
 | Idiotic Dots | 316742 | [316742-idiotic-dots.json](./316742-idiotic-dots.json) |
@@ -2517,6 +2519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiepocalypse #57 | 362705 | [362705-indiepocalypse-57.json](./362705-indiepocalypse-57.json) |
 | Indiepocalypse #58 | 362706 | [362706-indiepocalypse-58.json](./362706-indiepocalypse-58.json) |
 | Indiepocalypse #59 | 362707 | [362707-indiepocalypse-59.json](./362707-indiepocalypse-59.json) |
+| Indiepocalypse #6 | 249645 | [249645-indiepocalypse-6.json](./249645-indiepocalypse-6.json) |
 | Indiepocalypse #60 | 362708 | [362708-indiepocalypse-60.json](./362708-indiepocalypse-60.json) |
 | Indiepocalypse #61 | 336536 | [336536-indiepocalypse-61.json](./336536-indiepocalypse-61.json) |
 | Indiepocalypse #62 | 362709 | [362709-indiepocalypse-62.json](./362709-indiepocalypse-62.json) |
