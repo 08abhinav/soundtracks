@@ -472,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddlly | 114789 | [114789-oddlly.json](./114789-oddlly.json) |
 | Oddly Enough: Pied Piper | 54254 | [54254-oddly-enough-pied-piper.json](./54254-oddly-enough-pied-piper.json) |
 | Oddment | 297169 | [297169-oddment.json](./297169-oddment.json) |
+| Oddnose | 247351 | [247351-oddnose.json](./247351-oddnose.json) |
 | OddPlanet | 32782 | [32782-oddplanet.json](./32782-oddplanet.json) |
 | Odds at Oddity | 389986 | [389986-odds-at-oddity.json](./389986-odds-at-oddity.json) |
 | Oddsmaker | 255718 | [255718-oddsmaker.json](./255718-oddsmaker.json) |
@@ -2056,6 +2057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Week By Car | 209675 | [209675-one-week-by-car.json](./209675-one-week-by-car.json) |
 | One Week With The Mafia | 273435 | [273435-one-week-with-the-mafia.json](./273435-one-week-with-the-mafia.json) |
 | One Week With You | 191128 | [191128-one-week-with-you.json](./191128-one-week-with-you.json) |
+| One Wheel | 247325 | [247325-one-wheel.json](./247325-one-wheel.json) |
 | One Wheel Guy | 227771 | [227771-one-wheel-guy.json](./227771-one-wheel-guy.json) |
 | One With the Unicycleverse | 374375 | [374375-one-with-the-unicycleverse.json](./374375-one-with-the-unicycleverse.json) |
 | One Word 2 by Powgi | 104620 | [104620-one-word-2-by-powgi.json](./104620-one-word-2-by-powgi.json) |
