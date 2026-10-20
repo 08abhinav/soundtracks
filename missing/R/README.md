@@ -1606,7 +1606,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratatouille | 78482 | [78482-ratatouille.json](./78482-ratatouille.json) |
 | Ratatouille: Food Frenzy | 18296 | [18296-ratatouille-food-frenzy.json](./18296-ratatouille-food-frenzy.json) |
 | Ratatouille: Remy's New Recipes | 70688 | [70688-ratatouille-remys-new-recipes.json](./70688-ratatouille-remys-new-recipes.json) |
-| Ratchet & Clank | 253141 | [253141-ratchet-and-clank.json](./253141-ratchet-and-clank.json) |
 | Ratchet & Clank | 416114 | [416114-ratchet-and-clank.json](./416114-ratchet-and-clank.json) |
 | Ratchet & Clank Collection | 19994 | [19994-ratchet-and-clank-collection.json](./19994-ratchet-and-clank-collection.json) |
 | Ratchet & Clank Future: A Crack in Time | 1795 | [1795-ratchet-and-clank-future-a-crack-in-time.json](./1795-ratchet-and-clank-future-a-crack-in-time.json) |
