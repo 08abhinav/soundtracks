@@ -6365,6 +6365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Drawstring Dungeon | 348864 | [348864-the-drawstring-dungeon.json](./348864-the-drawstring-dungeon.json) |
 | The Dreadful Space | 197096 | [197096-the-dreadful-space.json](./197096-the-dreadful-space.json) |
 | The Dreadful Whispers | 121181 | [121181-the-dreadful-whispers.json](./121181-the-dreadful-whispers.json) |
+| The Dreadmill | 238302 | [238302-the-dreadmill.json](./238302-the-dreadmill.json) |
 | The Dreadnaught Factor | 5672 | [5672-the-dreadnaught-factor.json](./5672-the-dreadnaught-factor.json) |
 | The Dreadthorn Therapist | 385423 | [385423-the-dreadthorn-therapist.json](./385423-the-dreadthorn-therapist.json) |
 | The Dream | 178413 | [178413-the-dream.json](./178413-the-dream.json) |
@@ -11015,6 +11016,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Palace on the Hill | 153430 | [153430-the-palace-on-the-hill.json](./153430-the-palace-on-the-hill.json) |
 | The Palaces of The Mind | 389548 | [389548-the-palaces-of-the-mind.json](./389548-the-palaces-of-the-mind.json) |
 | The Paladin & The Succubi Servant | 230896 | [230896-the-paladin-and-the-succubi-servant.json](./230896-the-paladin-and-the-succubi-servant.json) |
+| The Pale Beyond: Collectors Edition | 238307 | [238307-the-pale-beyond-collectors-edition.json](./238307-the-pale-beyond-collectors-edition.json) |
+| The Pale Beyond: Deluxe Edition | 238308 | [238308-the-pale-beyond-deluxe-edition.json](./238308-the-pale-beyond-deluxe-edition.json) |
 | The Pale Man | 232547 | [232547-the-pale-man.json](./232547-the-pale-man.json) |
 | The Pale Piper | 335503 | [335503-the-pale-piper.json](./335503-the-pale-piper.json) |
 | The Pancakes Official Game Show | 176247 | [176247-the-pancakes-official-game-show.json](./176247-the-pancakes-official-game-show.json) |
@@ -15560,6 +15563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thyranya | 329134 | [329134-thyranya.json](./329134-thyranya.json) |
 | Thysiastery | 334695 | [334695-thysiastery.json](./334695-thysiastery.json) |
 | Thystle | 146628 | [146628-thystle.json](./146628-thystle.json) |
+| THZ | 238345 | [238345-thz.json](./238345-thz.json) |
 | TI Puck | 421222 | [421222-ti-puck.json](./421222-ti-puck.json) |
 | TI-Pei | 419895 | [419895-ti-pei.json](./419895-ti-pei.json) |
 | TI-Sweeper | 421191 | [421191-ti-sweeper.json](./421191-ti-sweeper.json) |
