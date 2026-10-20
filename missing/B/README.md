@@ -4087,6 +4087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Saber: Tokyo Machine - "Rad" | 357569 | [357569-beat-saber-tokyo-machine-rad.json](./357569-beat-saber-tokyo-machine-rad.json) |
 | Beat Saber: Tokyo Machine - "Rock It" | 358173 | [358173-beat-saber-tokyo-machine-rock-it.json](./358173-beat-saber-tokyo-machine-rock-it.json) |
 | Beat Shapes | 385585 | [385585-beat-shapes.json](./385585-beat-shapes.json) |
+| Beat Shot | 208220 | [208220-beat-shot.json](./208220-beat-shot.json) |
 | Beat Slash 2 | 216129 | [216129-beat-slash-2.json](./216129-beat-slash-2.json) |
 | Beat Slicer | 410273 | [410273-beat-slicer.json](./410273-beat-slicer.json) |
 | Beat Slug Hyperway | 208030 | [208030-beat-slug-hyperway.json](./208030-beat-slug-hyperway.json) |
@@ -4864,7 +4865,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Benders of Moona | 236728 | [236728-benders-of-moona.json](./236728-benders-of-moona.json) |
 | Bending the Light | 167911 | [167911-bending-the-light.json](./167911-bending-the-light.json) |
 | Bendo | 245981 | [245981-bendo.json](./245981-bendo.json) |
-| Bendy and the Dark Revival | 120163 | [120163-bendy-and-the-dark-revival.json](./120163-bendy-and-the-dark-revival.json) |
 | Bendy and the Ink Machine: Chapter Five | 281029 | [281029-bendy-and-the-ink-machine-chapter-five.json](./281029-bendy-and-the-ink-machine-chapter-five.json) |
 | Bendy Road | 98782 | [98782-bendy-road.json](./98782-bendy-road.json) |
 | Bendy Scary & Ink Machines | 216095 | [216095-bendy-scary-and-ink-machines.json](./216095-bendy-scary-and-ink-machines.json) |
@@ -7141,7 +7141,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackstone | 83927 | [83927-blackstone.json](./83927-blackstone.json) |
 | Blackstorm | 158132 | [158132-blackstorm.json](./158132-blackstorm.json) |
 | Blacksword Games | 109166 | [109166-blacksword-games.json](./109166-blacksword-games.json) |
-| Blacktail | 152129 | [152129-blacktail.json](./152129-blacktail.json) |
 | Blacktea With Moon | 100156 | [100156-blacktea-with-moon.json](./100156-blacktea-with-moon.json) |
 | Blackthorn Arena | 127233 | [127233-blackthorn-arena.json](./127233-blackthorn-arena.json) |
 | Blackthorn Arena: Gods of War | 164333 | [164333-blackthorn-arena-gods-of-war.json](./164333-blackthorn-arena-gods-of-war.json) |
@@ -7210,6 +7209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade of Following | 181778 | [181778-blade-of-following.json](./181778-blade-of-following.json) |
 | Blade of God | 199905 | [199905-blade-of-god.json](./199905-blade-of-god.json) |
 | Blade of God 2 | 174805 | [174805-blade-of-god-2.json](./174805-blade-of-god-2.json) |
+| Blade of God X: Orisols | 208219 | [208219-blade-of-god-x-orisols.json](./208219-blade-of-god-x-orisols.json) |
 | Blade of Jinshu | 364573 | [364573-blade-of-jinshu.json](./364573-blade-of-jinshu.json) |
 | Blade of Mercy: Bloody Countess | 407580 | [407580-blade-of-mercy-bloody-countess.json](./407580-blade-of-mercy-bloody-countess.json) |
 | Blade of Si | 192761 | [192761-blade-of-si.json](./192761-blade-of-si.json) |
@@ -7555,6 +7555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleach: Blade Battlers | 72983 | [72983-bleach-blade-battlers.json](./72983-bleach-blade-battlers.json) |
 | Bleach: Blade Battlers 2nd | 75997 | [75997-bleach-blade-battlers-2nd.json](./75997-bleach-blade-battlers-2nd.json) |
 | Bleach: Erabareshi Tamashi | 43533 | [43533-bleach-erabareshi-tamashi.json](./43533-bleach-erabareshi-tamashi.json) |
+| Bleach: Eternal Soul | 208215 | [208215-bleach-eternal-soul.json](./208215-bleach-eternal-soul.json) |
 | Bleach: Heat the Soul 2 | 44481 | [44481-bleach-heat-the-soul-2.json](./44481-bleach-heat-the-soul-2.json) |
 | Bleach: Heat the Soul 3 | 72793 | [72793-bleach-heat-the-soul-3.json](./72793-bleach-heat-the-soul-3.json) |
 | Bleach: Heat the Soul 4 | 46001 | [46001-bleach-heat-the-soul-4.json](./46001-bleach-heat-the-soul-4.json) |
@@ -8476,6 +8477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodline Champions: Warchief Pack | 27655 | [27655-bloodline-champions-warchief-pack.json](./27655-bloodline-champions-warchief-pack.json) |
 | Bloodline Champions: Warrior Pack | 27656 | [27656-bloodline-champions-warrior-pack.json](./27656-bloodline-champions-warrior-pack.json) |
 | Bloodline: Heroes of Lithas | 216106 | [216106-bloodline-heroes-of-lithas.json](./216106-bloodline-heroes-of-lithas.json) |
+| Bloodline: Last Royal Vampire | 208217 | [208217-bloodline-last-royal-vampire.json](./208217-bloodline-last-royal-vampire.json) |
 | BloodLines | 143363 | [143363-bloodlines.json](./143363-bloodlines.json) |
 | Bloodlines: The Alexa Holmes Chronicles | 65529 | [65529-bloodlines-the-alexa-holmes-chronicles.json](./65529-bloodlines-the-alexa-holmes-chronicles.json) |
 | Bloodlust | 22123 | [22123-bloodlust.json](./22123-bloodlust.json) |
@@ -9599,6 +9601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombs Away! | 245548 | [245548-bombs-away.json](./245548-bombs-away.json) |
 | Bombshell Barista: Speed Dating | 258195 | [258195-bombshell-barista-speed-dating.json](./258195-bombshell-barista-speed-dating.json) |
 | Bombslinger | 32572 | [32572-bombslinger.json](./32572-bombslinger.json) |
+| Bombsquad: Defuse the Bomb | 208216 | [208216-bombsquad-defuse-the-bomb.json](./208216-bombsquad-defuse-the-bomb.json) |
 | BombTag | 84087 | [84087-bombtag.json](./84087-bombtag.json) |
 | BombTrax | 339596 | [339596-bombtrax.json](./339596-bombtrax.json) |
 | Bombun | 349366 | [349366-bombun.json](./349366-bombun.json) |
@@ -10907,11 +10910,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Riddle | 396473 | [396473-brain-riddle.json](./396473-brain-riddle.json) |
 | Brain Rot Excellence | 251062 | [251062-brain-rot-excellence.json](./251062-brain-rot-excellence.json) |
 | Brain Runner: Dreamcore Movement Shooter | 414137 | [414137-brain-runner-dreamcore-movement-shooter.json](./414137-brain-runner-dreamcore-movement-shooter.json) |
+| Brain Rush | 208212 | [208212-brain-rush.json](./208212-brain-rush.json) |
 | Brain Sanguo | 158666 | [158666-brain-sanguo.json](./158666-brain-sanguo.json) |
 | Brain Show | 247976 | [247976-brain-show.json](./247976-brain-show.json) |
 | Brain Spa | 69207 | [69207-brain-spa.json](./69207-brain-spa.json) |
 | Brain Storm: Tower Bombarde | 47131 | [47131-brain-storm-tower-bombarde.json](./47131-brain-storm-tower-bombarde.json) |
 | Brain Switch | 230684 | [230684-brain-switch.json](./230684-brain-switch.json) |
+| Brain Syndrome VR | 208224 | [208224-brain-syndrome-vr.json](./208224-brain-syndrome-vr.json) |
 | Brain Teaser Bundle | 231073 | [231073-brain-teaser-bundle.json](./231073-brain-teaser-bundle.json) |
 | Brain Teaser: Memory Limit | 117762 | [117762-brain-teaser-memory-limit.json](./117762-brain-teaser-memory-limit.json) |
 | Brain Teasers & Math Puzzles | 101975 | [101975-brain-teasers-and-math-puzzles.json](./101975-brain-teasers-and-math-puzzles.json) |
@@ -11193,6 +11198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawl Chess: Gambit + Cyber Protocol | 218453 | [218453-brawl-chess-gambit-cyber-protocol.json](./218453-brawl-chess-gambit-cyber-protocol.json) |
 | Brawl Chess: Ghost | 403427 | [403427-brawl-chess-ghost.json](./403427-brawl-chess-ghost.json) |
 | Brawl Chess: Girl Power | 222240 | [222240-brawl-chess-girl-power.json](./222240-brawl-chess-girl-power.json) |
+| Brawl King | 208214 | [208214-brawl-king.json](./208214-brawl-king.json) |
 | Brawl Minus | 139163 | [139163-brawl-minus.json](./139163-brawl-minus.json) |
 | Brawl Party | 390117 | [390117-brawl-party.json](./390117-brawl-party.json) |
 | Brawl Royale | 269326 | [269326-brawl-royale.json](./269326-brawl-royale.json) |
@@ -11992,7 +11998,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Prism | 346211 | [346211-broken-prism.json](./346211-broken-prism.json) |
 | Broken Puppet | 124607 | [124607-broken-puppet.json](./124607-broken-puppet.json) |
 | Broken Race | 372099 | [372099-broken-race.json](./372099-broken-race.json) |
-| Broken Ranks | 162520 | [162520-broken-ranks.json](./162520-broken-ranks.json) |
 | Broken Reality 2000 | 226272 | [226272-broken-reality-2000.json](./226272-broken-reality-2000.json) |
 | Broken Relic | 342896 | [342896-broken-relic.json](./342896-broken-relic.json) |
 | Broken Roads | 122866 | [122866-broken-roads.json](./122866-broken-roads.json) |
