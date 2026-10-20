@@ -9303,6 +9303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Bound Hero | 311857 | [311857-sky-bound-hero.json](./311857-sky-bound-hero.json) |
 | Sky Brawl | 111179 | [111179-sky-brawl.json](./111179-sky-brawl.json) |
 | Sky Break | 25300 | [25300-sky-break.json](./25300-sky-break.json) |
+| Sky Burger | 233909 | [233909-sky-burger.json](./233909-sky-burger.json) |
 | Sky Captain's Return | 213454 | [213454-sky-captains-return.json](./213454-sky-captains-return.json) |
 | Sky Caravan | 189891 | [189891-sky-caravan.json](./189891-sky-caravan.json) |
 | Sky Champ | 194017 | [194017-sky-champ.json](./194017-sky-champ.json) |
@@ -22373,6 +22374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Sports Party | 23261 | [23261-summer-sports-party.json](./23261-summer-sports-party.json) |
 | Summer Sports: Paradise Island | 5197 | [5197-summer-sports-paradise-island.json](./5197-summer-sports-paradise-island.json) |
 | Summer Stars 2012 | 20233 | [20233-summer-stars-2012.json](./20233-summer-stars-2012.json) |
+| Summer Time Render: Another Horizon | 233927 | [233927-summer-time-render-another-horizon.json](./233927-summer-time-render-another-horizon.json) |
 | Summer Tri-Peaks Solitaire | 319300 | [319300-summer-tri-peaks-solitaire.json](./319300-summer-tri-peaks-solitaire.json) |
 | Summer Trip Cruise | 212823 | [212823-summer-trip-cruise.json](./212823-summer-trip-cruise.json) |
 | Summer Unpacked | 376232 | [376232-summer-unpacked.json](./376232-summer-unpacked.json) |
@@ -23072,6 +23074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Diagonal Mario 2: The Ultimate Meme Machine | 267944 | [267944-super-diagonal-mario-2-the-ultimate-meme-machine.json](./267944-super-diagonal-mario-2-the-ultimate-meme-machine.json) |
 | Super Dig Man Deluxe | 339478 | [339478-super-dig-man-deluxe.json](./339478-super-dig-man-deluxe.json) |
 | Super Dino | 220880 | [220880-super-dino.json](./220880-super-dino.json) |
+| Super Dino: Extended Edition | 233907 | [233907-super-dino-extended-edition.json](./233907-super-dino-extended-edition.json) |
 | Super Disc Soccer | 147462 | [147462-super-disc-soccer.json](./147462-super-disc-soccer.json) |
 | Super Discus | 209446 | [209446-super-discus.json](./209446-super-discus.json) |
 | Super DJ | 233241 | [233241-super-dj.json](./233241-super-dj.json) |
