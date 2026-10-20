@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pact With a Demon | 345105 | [345105-pact-with-a-demon.json](./345105-pact-with-a-demon.json) |
 | Pact with a Demon EP01 | 378993 | [378993-pact-with-a-demon-ep01.json](./378993-pact-with-a-demon-ep01.json) |
 | Pact With a Witch | 118350 | [118350-pact-with-a-witch.json](./118350-pact-with-a-witch.json) |
+| Pactum + Episode 1 | 243532 | [243532-pactum-episode-1.json](./243532-pactum-episode-1.json) |
 | Pacula's Curse | 141478 | [141478-paculas-curse.json](./141478-paculas-curse.json) |
 | PacWorm | 25140 | [25140-pacworm.json](./25140-pacworm.json) |
 | Pacwyn 20 | 130643 | [130643-pacwyn-20.json](./130643-pacwyn-20.json) |
@@ -2693,6 +2694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peace Duke | 93774 | [93774-peace-duke.json](./93774-peace-duke.json) |
 | Peace for Ukraine | 211684 | [211684-peace-for-ukraine.json](./211684-peace-for-ukraine.json) |
 | Peace Incarnate | 404987 | [404987-peace-incarnate.json](./404987-peace-incarnate.json) |
+| Peace Is Your Destiny | 243533 | [243533-peace-is-your-destiny.json](./243533-peace-is-your-destiny.json) |
 | Peace Maker VR | 200717 | [200717-peace-maker-vr.json](./200717-peace-maker-vr.json) |
 | Peace of Evil | 118395 | [118395-peace-of-evil.json](./118395-peace-of-evil.json) |
 | Peace of Mind | 134942 | [134942-peace-of-mind.json](./134942-peace-of-mind.json) |
@@ -4023,6 +4025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Xcape | 304702 | [304702-phantom-xcape.json](./304702-phantom-xcape.json) |
 | Phantom Zone Daimons | 236831 | [236831-phantom-zone-daimons.json](./236831-phantom-zone-daimons.json) |
 | Phantom Zone: Talon Fictions | 210897 | [210897-phantom-zone-talon-fictions.json](./210897-phantom-zone-talon-fictions.json) |
+| Phantom-OS | 243534 | [243534-phantom-os.json](./243534-phantom-os.json) |
 | Phantom: Covert Ops | 118872 | [118872-phantom-covert-ops.json](./118872-phantom-covert-ops.json) |
 | Phantom: Phantom of Inferno - Nitro Archive | 413191 | [413191-phantom-phantom-of-inferno-nitro-archive.json](./413191-phantom-phantom-of-inferno-nitro-archive.json) |
 | Phantom's Call | 262858 | [262858-phantoms-call.json](./262858-phantoms-call.json) |
@@ -7098,6 +7101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plasma | 219093 | [219093-plasma.json](./219093-plasma.json) |
 | Plasma Attack | 158650 | [158650-plasma-attack.json](./158650-plasma-attack.json) |
 | Plasma Ball | 294223 | [294223-plasma-ball.json](./294223-plasma-ball.json) |
+| Plasma Drone | 243512 | [243512-plasma-drone.json](./243512-plasma-drone.json) |
 | Plasma Orb | 293880 | [293880-plasma-orb.json](./293880-plasma-orb.json) |
 | Plasma Sky | 61137 | [61137-plasma-sky.json](./61137-plasma-sky.json) |
 | Plasma Spheres | 69162 | [69162-plasma-spheres.json](./69162-plasma-spheres.json) |
@@ -9562,6 +9566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Populous: The Final Frontier | 8894 | [8894-populous-the-final-frontier.json](./8894-populous-the-final-frontier.json) |
 | Populous: The Promised Lands | 8893 | [8893-populous-the-promised-lands.json](./8893-populous-the-promised-lands.json) |
 | Populus Run | 145513 | [145513-populus-run.json](./145513-populus-run.json) |
+| PoPuP | 243523 | [243523-popup.json](./243523-popup.json) |
 | PopUp Blockers - Block Web Browser Simulator 2k16 | 100994 | [100994-popup-blockers-block-web-browser-simulator-2k16.json](./100994-popup-blockers-block-web-browser-simulator-2k16.json) |
 | Popup.exe | 398504 | [398504-popup-exe.json](./398504-popup-exe.json) |
 | Por um Punhado de Trólares | 298405 | [298405-por-um-punhado-de-trolares.json](./298405-por-um-punhado-de-trolares.json) |
@@ -13684,6 +13689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Page | 91122 | [91122-puzzle-page.json](./91122-puzzle-page.json) |
 | Puzzle Pandemonium | 68544 | [68544-puzzle-pandemonium.json](./68544-puzzle-pandemonium.json) |
 | Puzzle Panic | 92146 | [92146-puzzle-panic.json](./92146-puzzle-panic.json) |
+| Puzzle Panic Island | 243511 | [243511-puzzle-panic-island.json](./243511-puzzle-panic-island.json) |
 | Puzzle Parasite | 366826 | [366826-puzzle-parasite.json](./366826-puzzle-parasite.json) |
 | Puzzle Park | 215882 | [215882-puzzle-park.json](./215882-puzzle-park.json) |
 | Puzzle Park II | 401314 | [401314-puzzle-park-ii.json](./401314-puzzle-park-ii.json) |
