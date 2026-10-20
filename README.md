@@ -1643,6 +1643,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b27361568ed55c0742e6fc381e91" width="60" /> | [The House of Da Vinci](https://ostdb.net/games/the-house-of-da-vinci) | **The House of Da Vinci (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1699gCDSksz7QI4vWtBM3x) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736d543afab3b26e02c86399c7" width="60" /> | [The House of Da Vinci 2](https://ostdb.net/games/the-house-of-da-vinci-2) | **The House of Da Vinci 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7vWep7AYY6sEpNpMMsTGO8) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/98/64/34/986434fa-4a12-6e25-5e55-bd6c987dcc61/4534530163110.jpg/600x600bb.jpg" width="60" /> | [The Hundred Line: Last Defense Academy](https://ostdb.net/games/the-hundred-line-last-defense-academy) | **HUNDRED LINE -最終防衛学園- Original Soundtrack** · [Spotify](https://music.apple.com/us/album/hundred-line-%E6%9C%80%E7%B5%82%E9%98%B2%E8%A1%9B%E5%AD%A6%E5%9C%92-original-soundtrack/1868934594?uo=4) · [Album](https://album.link/i/1868934594) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d500bd145568821dc0ff1627" width="60" /> | [The Incredible Hulk](https://ostdb.net/games/the-incredible-hulk) | **The Incredible Hulk: Music From The Episodes "The First: Pts. 1 & 2"** · [Spotify](https://open.spotify.com/album/4nQFLgLlwwWsBKmehKV3bt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735586a932e7c4af1709bf2e69" width="60" /> | [The Invincible](https://ostdb.net/games/the-invincible) | **The Invincible (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4AKXBlPXLh7DQcV8Jv7KSG) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732b29b02c42bf30d70a99fd99" width="60" /> | [The Jackbox Party Pack 3](https://ostdb.net/games/the-jackbox-party-pack-3) | **The Jackbox Party Pack 3 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5DzFCJ75WhgHrOJGbr3OPx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27367cf5fd8b38da1109caa34bd" width="60" /> | [The Jackbox Party Pack 4](https://ostdb.net/games/the-jackbox-party-pack-4) | **The Jackbox Party Pack 4 Soundtrack** · [Spotify](https://open.spotify.com/album/7xnP8EvhTD2IR4shvrgYSR) |
@@ -1958,4 +1959,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2275 soundtracks · last updated 2026-10-20T21:42:56.446Z_
+_2276 soundtracks · last updated 2026-10-20T21:43:09.003Z_
