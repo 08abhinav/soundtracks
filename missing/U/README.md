@@ -2562,6 +2562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Flow: Epic Edition | 328808 | [328808-urban-flow-epic-edition.json](./328808-urban-flow-epic-edition.json) |
 | Urban Flow: Expansion Pack | 237927 | [237927-urban-flow-expansion-pack.json](./237927-urban-flow-expansion-pack.json) |
 | Urban Flow: Expansion Packs Collection | 237926 | [237926-urban-flow-expansion-packs-collection.json](./237926-urban-flow-expansion-packs-collection.json) |
+| Urban Flow: Extended Edition | 222191 | [222191-urban-flow-extended-edition.json](./222191-urban-flow-extended-edition.json) |
 | Urban Flow: Full Edition | 332506 | [332506-urban-flow-full-edition.json](./332506-urban-flow-full-edition.json) |
 | Urban Flow: GOTY Edition | 278653 | [278653-urban-flow-goty-edition.json](./278653-urban-flow-goty-edition.json) |
 | Urban Flow: Grand Edition | 313215 | [313215-urban-flow-grand-edition.json](./313215-urban-flow-grand-edition.json) |
@@ -2574,6 +2575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Flow: Silver Edition | 250390 | [250390-urban-flow-silver-edition.json](./250390-urban-flow-silver-edition.json) |
 | Urban Flow: Street Symphony | 304788 | [304788-urban-flow-street-symphony.json](./304788-urban-flow-street-symphony.json) |
 | Urban Flow: Winter Expansion Pack | 238353 | [238353-urban-flow-winter-expansion-pack.json](./238353-urban-flow-winter-expansion-pack.json) |
+| Urban Flow: Winter Extended Edition | 222190 | [222190-urban-flow-winter-extended-edition.json](./222190-urban-flow-winter-extended-edition.json) |
 | Urban Flow: X-Mas Edition | 275893 | [275893-urban-flow-x-mas-edition.json](./275893-urban-flow-x-mas-edition.json) |
 | Urban Forest | 285887 | [285887-urban-forest.json](./285887-urban-forest.json) |
 | Urban Golf: Hot Dog Edition | 385446 | [385446-urban-golf-hot-dog-edition.json](./385446-urban-golf-hot-dog-edition.json) |
@@ -2695,6 +2697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Use Your Brainz Edu | 395718 | [395718-use-your-brainz-edu.json](./395718-use-your-brainz-edu.json) |
 | Use Your Mind | 241470 | [241470-use-your-mind.json](./241470-use-your-mind.json) |
 | Use Your Outside Voice, Richie Tozier! | 157520 | [157520-use-your-outside-voice-richie-tozier.json](./157520-use-your-outside-voice-richie-tozier.json) |
+| Use Your Psychic Powers at Applebee's | 222185 | [222185-use-your-psychic-powers-at-applebees.json](./222185-use-your-psychic-powers-at-applebees.json) |
 | Used Car Tycoon Game | 362066 | [362066-used-car-tycoon-game.json](./362066-used-car-tycoon-game.json) |
 | Useless Box | 109608 | [109608-useless-box.json](./109608-useless-box.json) |
 | Useless Box: The Game | 126615 | [126615-useless-box-the-game.json](./126615-useless-box-the-game.json) |
@@ -2746,6 +2749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uta Quta | 404450 | [404450-uta-quta.json](./404450-uta-quta.json) |
 | Utacchi | 80482 | [80482-utacchi.json](./80482-utacchi.json) |
 | Utakata no Alice: Dolls infeRno | 222740 | [222740-utakata-no-alice-dolls-inferno.json](./222740-utakata-no-alice-dolls-inferno.json) |
+| Utakata no R: Houkai | 221605 | [221605-utakata-no-r-houkai.json](./221605-utakata-no-r-houkai.json) |
 | Utakata no R: Kako-hen Awayuki | 221743 | [221743-utakata-no-r-kako-hen-awayuki.json](./221743-utakata-no-r-kako-hen-awayuki.json) |
 | Utakata no Uchronia: Trail | 336571 | [336571-utakata-no-uchronia-trail.json](./336571-utakata-no-uchronia-trail.json) |
 | Utapau Chase | 245968 | [245968-utapau-chase.json](./245968-utapau-chase.json) |
