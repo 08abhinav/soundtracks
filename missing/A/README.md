@@ -831,6 +831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Skyrocket Story | 58800 | [58800-a-skyrocket-story.json](./58800-a-skyrocket-story.json) |
 | A Sleeper's Quest: A Labyrinth to Thee | 144041 | [144041-a-sleepers-quest-a-labyrinth-to-thee.json](./144041-a-sleepers-quest-a-labyrinth-to-thee.json) |
 | A Slice of Lunch | 372799 | [372799-a-slice-of-lunch.json](./372799-a-slice-of-lunch.json) |
+| A Slight Chance of Sawblades | 232313 | [232313-a-slight-chance-of-sawblades.json](./232313-a-slight-chance-of-sawblades.json) |
 | A Slight Chance of Sawblades+ | 296794 | [296794-a-slight-chance-of-sawblades.json](./296794-a-slight-chance-of-sawblades.json) |
 | A Slime and a Civil War | 236502 | [236502-a-slime-and-a-civil-war.json](./236502-a-slime-and-a-civil-war.json) |
 | A Slime's Quest for Freedom | 136181 | [136181-a-slimes-quest-for-freedom.json](./136181-a-slimes-quest-for-freedom.json) |
@@ -6733,6 +6734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Future | 82040 | [82040-ancient-future.json](./82040-ancient-future.json) |
 | Ancient Game Treasures: Mill | 59220 | [59220-ancient-game-treasures-mill.json](./59220-ancient-game-treasures-mill.json) |
 | Ancient Games | 14164 | [14164-ancient-games.json](./14164-ancient-games.json) |
+| Ancient Games Of Nations: The Royal Game Of Ur | 232286 | [232286-ancient-games-of-nations-the-royal-game-of-ur.json](./232286-ancient-games-of-nations-the-royal-game-of-ur.json) |
 | Ancient Gladiators | 187251 | [187251-ancient-gladiators.json](./187251-ancient-gladiators.json) |
 | Ancient Glory | 129129 | [129129-ancient-glory.json](./129129-ancient-glory.json) |
 | Ancient Guardian | 30479 | [30479-ancient-guardian.json](./30479-ancient-guardian.json) |
@@ -12397,6 +12399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Sky | 55226 | [55226-atomic-sky.json](./55226-atomic-sky.json) |
 | Atomic Society | 31679 | [31679-atomic-society.json](./31679-atomic-society.json) |
 | Atomic Space Command | 33475 | [33475-atomic-space-command.json](./33475-atomic-space-command.json) |
+| Atomic Spider | 232315 | [232315-atomic-spider.json](./232315-atomic-spider.json) |
 | Atomic Super Lander Re-Nuked Edition | 392826 | [392826-atomic-super-lander-re-nuked-edition.json](./392826-atomic-super-lander-re-nuked-edition.json) |
 | Atomic Surf | 238641 | [238641-atomic-surf.json](./238641-atomic-surf.json) |
 | Atomic Survivors | 249748 | [249748-atomic-survivors.json](./249748-atomic-survivors.json) |
