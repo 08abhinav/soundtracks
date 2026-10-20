@@ -1068,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Deception: Malicious Mall | 301122 | [301122-dark-deception-malicious-mall.json](./301122-dark-deception-malicious-mall.json) |
 | Dark Deception: Monsters & Mortals - House of Ashes | 292864 | [292864-dark-deception-monsters-and-mortals-house-of-ashes.json](./292864-dark-deception-monsters-and-mortals-house-of-ashes.json) |
 | Dark Deception: Monsters & Mortals - Monstrum | 168923 | [168923-dark-deception-monsters-and-mortals-monstrum.json](./168923-dark-deception-monsters-and-mortals-monstrum.json) |
+| Dark Deception: Monsters & Mortals - Poppy Playtime Panic | 230147 | [230147-dark-deception-monsters-and-mortals-poppy-playtime-panic.json](./230147-dark-deception-monsters-and-mortals-poppy-playtime-panic.json) |
 | Dark Deception: Monsters & Mortals - Silent Hill | 168793 | [168793-dark-deception-monsters-and-mortals-silent-hill.json](./168793-dark-deception-monsters-and-mortals-silent-hill.json) |
 | Dark Deception: Monsters & Mortals - The Coma 2: Vicious Sisters | 292869 | [292869-dark-deception-monsters-and-mortals-the-coma-2-vicious-sisters.json](./292869-dark-deception-monsters-and-mortals-the-coma-2-vicious-sisters.json) |
 | Dark Deception: Monsters & Mortals - UK Creators | 270537 | [270537-dark-deception-monsters-and-mortals-uk-creators.json](./270537-dark-deception-monsters-and-mortals-uk-creators.json) |
@@ -4748,6 +4749,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Tengen Uzui Character Pack | 209695 | [209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json](./209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json) |
 | Demon Slayer Akagi | 158937 | [158937-demon-slayer-akagi.json](./158937-demon-slayer-akagi.json) |
 | Demon Slayer Shion | 266073 | [266073-demon-slayer-shion.json](./266073-demon-slayer-shion.json) |
+| Demon Slayer Tamagotchi Hashira Gathering Version | 230137 | [230137-demon-slayer-tamagotchi-hashira-gathering-version.json](./230137-demon-slayer-tamagotchi-hashira-gathering-version.json) |
+| Demon Slayer Tamagotchi Yukaku Edition | 230141 | [230141-demon-slayer-tamagotchi-yukaku-edition.json](./230141-demon-slayer-tamagotchi-yukaku-edition.json) |
 | Demon Slayer: Kimetsu no Yaiba - Keppuu Kengeki Royale | 131963 | [131963-demon-slayer-kimetsu-no-yaiba-keppuu-kengeki-royale.json](./131963-demon-slayer-kimetsu-no-yaiba-keppuu-kengeki-royale.json) |
 | Demon Slayer: Kimetsu no Yaiba - Sweep the Board! | 266193 | [266193-demon-slayer-kimetsu-no-yaiba-sweep-the-board.json](./266193-demon-slayer-kimetsu-no-yaiba-sweep-the-board.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles | 153054 | [153054-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles.json](./153054-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles.json) |
@@ -8486,6 +8489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodgeball | 51852 | [51852-dodgeball.json](./51852-dodgeball.json) |
 | Dodgeball Blast | 356208 | [356208-dodgeball-blast.json](./356208-dodgeball-blast.json) |
 | DodgeBall Blitz | 31842 | [31842-dodgeball-blitz.json](./31842-dodgeball-blitz.json) |
+| Dodgeball Championship League | 230152 | [230152-dodgeball-championship-league.json](./230152-dodgeball-championship-league.json) |
 | Dodgeball Dino Duel | 112281 | [112281-dodgeball-dino-duel.json](./112281-dodgeball-dino-duel.json) |
 | Dodgeball Dojo | 309062 | [309062-dodgeball-dojo.json](./309062-dodgeball-dojo.json) |
 | Dodgeball Duel | 208063 | [208063-dodgeball-duel.json](./208063-dodgeball-duel.json) |
