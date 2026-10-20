@@ -12668,6 +12668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Siren's Song | 223454 | [223454-the-sirens-song.json](./223454-the-sirens-song.json) |
 | The Six Transgender Lesbian Goddesses of Love Are Having A Petty Argument, So They Try To Settle Things Alongside The Three Transgender Gay Gods of Flavor | 318796 | [318796-the-six-transgender-lesbian-goddesses-of-love-are-having-a-petty-argument-so-they-try-to-settle-things-alongside-the-three-transgender-gay-gods-of-flavor.json](./318796-the-six-transgender-lesbian-goddesses-of-love-are-having-a-petty-argument-so-they-try-to-settle-things-alongside-the-three-transgender-gay-gods-of-flavor.json) |
 | The Sixth Extinction | 391716 | [391716-the-sixth-extinction.json](./391716-the-sixth-extinction.json) |
+| The Sixth Faction | 217169 | [217169-the-sixth-faction.json](./217169-the-sixth-faction.json) |
 | The Sixth Prison | 184077 | [184077-the-sixth-prison.json](./184077-the-sixth-prison.json) |
 | The Sixth Station | 179445 | [179445-the-sixth-station.json](./179445-the-sixth-station.json) |
 | The Skeld | 182824 | [182824-the-skeld.json](./182824-the-skeld.json) |
@@ -14416,6 +14417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch House | 176813 | [176813-the-witch-house.json](./176813-the-witch-house.json) |
 | The Witch in the Forest | 156016 | [156016-the-witch-in-the-forest.json](./156016-the-witch-in-the-forest.json) |
 | The Witch In The Woods | 253355 | [253355-the-witch-in-the-woods.json](./253355-the-witch-in-the-woods.json) |
+| The Witch of Fern Island | 217164 | [217164-the-witch-of-fern-island.json](./217164-the-witch-of-fern-island.json) |
 | The Witch of Fern Island: Spooky Witch Pack | 322728 | [322728-the-witch-of-fern-island-spooky-witch-pack.json](./322728-the-witch-of-fern-island-spooky-witch-pack.json) |
 | The Witch of Fern Island: Wonderful Witch Pack | 289949 | [289949-the-witch-of-fern-island-wonderful-witch-pack.json](./289949-the-witch-of-fern-island-wonderful-witch-pack.json) |
 | The Witch of Sherdorne Forest | 248112 | [248112-the-witch-of-sherdorne-forest.json](./248112-the-witch-of-sherdorne-forest.json) |
@@ -15695,6 +15697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thymesia: Cloud Version | 213562 | [213562-thymesia-cloud-version.json](./213562-thymesia-cloud-version.json) |
 | Thymesia: Digital Deluxe Edition | 213994 | [213994-thymesia-digital-deluxe-edition.json](./213994-thymesia-digital-deluxe-edition.json) |
 | Thyranya | 329134 | [329134-thyranya.json](./329134-thyranya.json) |
+| Thyria | 217174 | [217174-thyria.json](./217174-thyria.json) |
 | Thysiastery | 334695 | [334695-thysiastery.json](./334695-thysiastery.json) |
 | Thystle | 146628 | [146628-thystle.json](./146628-thystle.json) |
 | THZ | 238345 | [238345-thz.json](./238345-thz.json) |
@@ -24542,6 +24545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turning the Page | 328430 | [328430-turning-the-page.json](./328430-turning-the-page.json) |
 | Turnip Boy Commits Tax Evasion: The Sunset Station Update | 196664 | [196664-turnip-boy-commits-tax-evasion-the-sunset-station-update.json](./196664-turnip-boy-commits-tax-evasion-the-sunset-station-update.json) |
 | Turnip Boy Steals the Mail | 342657 | [342657-turnip-boy-steals-the-mail.json](./342657-turnip-boy-steals-the-mail.json) |
+| Turnip Mountain | 217203 | [217203-turnip-mountain.json](./217203-turnip-mountain.json) |
 | TurnOn | 19606 | [19606-turnon.json](./19606-turnon.json) |
 | Turnout | 337760 | [337760-turnout.json](./337760-turnout.json) |
 | Turnover | 35196 | [35196-turnover.json](./35196-turnover.json) |
