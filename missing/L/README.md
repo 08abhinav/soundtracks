@@ -3840,6 +3840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilith's Lair | 327235 | [327235-liliths-lair.json](./327235-liliths-lair.json) |
 | Lilith's Syndrome | 297037 | [297037-liliths-syndrome.json](./297037-liliths-syndrome.json) |
 | Lilium | 128653 | [128653-lilium.json](./128653-lilium.json) |
+| Lilium Reach | 212111 | [212111-lilium-reach.json](./212111-lilium-reach.json) |
 | Lilium: Kiss Me Everyday | 394621 | [394621-lilium-kiss-me-everyday.json](./394621-lilium-kiss-me-everyday.json) |
 | Lillian Night: Exclusive Contract of Succubus | 235592 | [235592-lillian-night-exclusive-contract-of-succubus.json](./235592-lillian-night-exclusive-contract-of-succubus.json) |
 | Lillie is the Keeper | 232396 | [232396-lillie-is-the-keeper.json](./232396-lillie-is-the-keeper.json) |
@@ -4238,6 +4239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liquid | 224964 | [224964-liquid.json](./224964-liquid.json) |
 | Liquid Abyss: The Melted Jelly | 331883 | [331883-liquid-abyss-the-melted-jelly.json](./331883-liquid-abyss-the-melted-jelly.json) |
 | Liquid Defense | 91281 | [91281-liquid-defense.json](./91281-liquid-defense.json) |
+| Liquid Havoc | 212105 | [212105-liquid-havoc.json](./212105-liquid-havoc.json) |
 | Liquid Kids | 16750 | [16750-liquid-kids.json](./16750-liquid-kids.json) |
 | Liquid Light | 286001 | [286001-liquid-light.json](./286001-liquid-light.json) |
 | Liquid Metal: Alien Attack | 56565 | [56565-liquid-metal-alien-attack.json](./56565-liquid-metal-alien-attack.json) |
@@ -5962,6 +5964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost at Sea | 209139 | [209139-lost-at-sea.json](./209139-lost-at-sea.json) |
 | Lost At Sea | 134951 | [134951-lost-at-sea.json](./134951-lost-at-sea.json) |
 | Lost August | 226094 | [226094-lost-august.json](./226094-lost-august.json) |
+| Lost Awakening | 212122 | [212122-lost-awakening.json](./212122-lost-awakening.json) |
 | Lost Away | 191571 | [191571-lost-away.json](./191571-lost-away.json) |
 | Lost Balloons: Airy mates | 260878 | [260878-lost-balloons-airy-mates.json](./260878-lost-balloons-airy-mates.json) |
 | Lost Between | 232914 | [232914-lost-between.json](./232914-lost-between.json) |
@@ -6159,6 +6162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost In Time | 171602 | [171602-lost-in-time.json](./171602-lost-in-time.json) |
 | Lost in Time: Parts 1 & 2 | 80536 | [80536-lost-in-time-parts-1-and-2.json](./80536-lost-in-time-parts-1-and-2.json) |
 | Lost in Time: The Clockwork Tower | 65186 | [65186-lost-in-time-the-clockwork-tower.json](./65186-lost-in-time-the-clockwork-tower.json) |
+| Lost in Tomorrow | 212139 | [212139-lost-in-tomorrow.json](./212139-lost-in-tomorrow.json) |
 | Lost in Transit | 123983 | [123983-lost-in-transit.json](./123983-lost-in-transit.json) |
 | Lost in Transit | 409724 | [409724-lost-in-transit.json](./409724-lost-in-transit.json) |
 | Lost In Transit | 375867 | [375867-lost-in-transit.json](./375867-lost-in-transit.json) |
