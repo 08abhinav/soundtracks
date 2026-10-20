@@ -7436,7 +7436,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metamorphic | 27474 | [27474-metamorphic.json](./27474-metamorphic.json) |
 | MetaMorphic Rippers | 223165 | [223165-metamorphic-rippers.json](./223165-metamorphic-rippers.json) |
 | Metamorphism | 259461 | [259461-metamorphism.json](./259461-metamorphism.json) |
-| Metamorphosis | 115657 | [115657-metamorphosis.json](./115657-metamorphosis.json) |
 | Metamorphosis | 131990 | [131990-metamorphosis.json](./131990-metamorphosis.json) |
 | Metamorphosis | 319216 | [319216-metamorphosis.json](./319216-metamorphosis.json) |
 | Metamorphosis Collection | 346801 | [346801-metamorphosis-collection.json](./346801-metamorphosis-collection.json) |
