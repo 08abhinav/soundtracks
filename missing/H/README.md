@@ -1038,6 +1038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangar 27 | 269121 | [269121-hangar-27.json](./269121-hangar-27.json) |
 | Hangar 51: Classified Investigation | 382276 | [382276-hangar-51-classified-investigation.json](./382276-hangar-51-classified-investigation.json) |
 | Hangaroo | 225814 | [225814-hangaroo.json](./225814-hangaroo.json) |
+| Hangcliff | 252598 | [252598-hangcliff.json](./252598-hangcliff.json) |
 | Hangeki | 17697 | [17697-hangeki.json](./17697-hangeki.json) |
 | Hangler | 388728 | [388728-hangler.json](./388728-hangler.json) |
 | Hangman | 17259 | [17259-hangman.json](./17259-hangman.json) |
@@ -1232,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Hunt | 165625 | [165625-happy-hunt.json](./165625-happy-hunt.json) |
 | Happy Island Fantasy | 369871 | [369871-happy-island-fantasy.json](./369871-happy-island-fantasy.json) |
 | Happy Jump | 112902 | [112902-happy-jump.json](./112902-happy-jump.json) |
+| Happy Lab | 252573 | [252573-happy-lab.json](./252573-happy-lab.json) |
 | Happy Lesson | 78643 | [78643-happy-lesson.json](./78643-happy-lesson.json) |
 | Happy Lesson: First Lesson | 64753 | [64753-happy-lesson-first-lesson.json](./64753-happy-lesson-first-lesson.json) |
 | Happy Live, Show Up! | 194472 | [194472-happy-live-show-up.json](./194472-happy-live-show-up.json) |
@@ -5301,6 +5303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Journey into the Wilderness | 98353 | [98353-hidden-object-journey-into-the-wilderness.json](./98353-hidden-object-journey-into-the-wilderness.json) |
 | Hidden Object: Land of Dreams | 82162 | [82162-hidden-object-land-of-dreams.json](./82162-hidden-object-land-of-dreams.json) |
 | Hidden Object: Let the Dogs Out | 98350 | [98350-hidden-object-let-the-dogs-out.json](./98350-hidden-object-let-the-dogs-out.json) |
+| Hidden Object: Los Angeles Detective Gold | 252568 | [252568-hidden-object-los-angeles-detective-gold.json](./252568-hidden-object-los-angeles-detective-gold.json) |
 | Hidden Object: Lost Princess | 98349 | [98349-hidden-object-lost-princess.json](./98349-hidden-object-lost-princess.json) |
 | Hidden Object: Lucky Leprechaun | 98582 | [98582-hidden-object-lucky-leprechaun.json](./98582-hidden-object-lucky-leprechaun.json) |
 | Hidden Object: Magic of Easter | 83632 | [83632-hidden-object-magic-of-easter.json](./83632-hidden-object-magic-of-easter.json) |
