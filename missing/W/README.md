@@ -2686,6 +2686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wet Nightmares | 158560 | [158560-wet-nightmares.json](./158560-wet-nightmares.json) |
 | Wet Passion | 338382 | [338382-wet-passion.json](./338382-wet-passion.json) |
 | Wet Robot Dreams | 142351 | [142351-wet-robot-dreams.json](./142351-wet-robot-dreams.json) |
+| Wet Sand | 235587 | [235587-wet-sand.json](./235587-wet-sand.json) |
 | Wet Slits | 349277 | [349277-wet-slits.json](./349277-wet-slits.json) |
 | Wet Steps | 158072 | [158072-wet-steps.json](./158072-wet-steps.json) |
 | Wet Waifu | 161367 | [161367-wet-waifu.json](./161367-wet-waifu.json) |
@@ -4113,6 +4114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will You Ever Return? 2 | 120806 | [120806-will-you-ever-return-2.json](./120806-will-you-ever-return-2.json) |
 | Will You Press the Button? | 326717 | [326717-will-you-press-the-button.json](./326717-will-you-press-the-button.json) |
 | Will You Snail? | 120816 | [120816-will-you-snail.json](./120816-will-you-snail.json) |
+| Will-less | 235629 | [235629-will-less.json](./235629-will-less.json) |
 | Will: A Wonderful World | 34657 | [34657-will-a-wonderful-world.json](./34657-will-a-wonderful-world.json) |
 | Will: Follow the Light | 314421 | [314421-will-follow-the-light.json](./314421-will-follow-the-light.json) |
 | Will: The Beginning | 368050 | [368050-will-the-beginning.json](./368050-will-the-beginning.json) |
@@ -5251,6 +5253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfpack | 100177 | [100177-wolfpack.json](./100177-wolfpack.json) |
 | WolfPlay | 144817 | [144817-wolfplay.json](./144817-wolfplay.json) |
 | WolfQuest: Anniversary Edition - Hellroaring Mountain | 296723 | [296723-wolfquest-anniversary-edition-hellroaring-mountain.json](./296723-wolfquest-anniversary-edition-hellroaring-mountain.json) |
+| WolfQuest: Anniversary Edition - Lost River | 235602 | [235602-wolfquest-anniversary-edition-lost-river.json](./235602-wolfquest-anniversary-edition-lost-river.json) |
 | Wolfram | 319118 | [319118-wolfram.json](./319118-wolfram.json) |
 | Wolfriders A Sniper Adventure | 159859 | [159859-wolfriders-a-sniper-adventure.json](./159859-wolfriders-a-sniper-adventure.json) |
 | Wolfsbane | 71702 | [71702-wolfsbane.json](./71702-wolfsbane.json) |
