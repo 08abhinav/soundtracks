@@ -9644,6 +9644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal for TIC-80 | 349495 | [349495-portal-for-tic-80.json](./349495-portal-for-tic-80.json) |
 | Portal Golf | 287361 | [287361-portal-golf.json](./287361-portal-golf.json) |
 | Portal Guardian | 389991 | [389991-portal-guardian.json](./389991-portal-guardian.json) |
+| Portal Guardians | 244622 | [244622-portal-guardians.json](./244622-portal-guardians.json) |
 | Portal Gun in Sonic 2 | 129175 | [129175-portal-gun-in-sonic-2.json](./129175-portal-gun-in-sonic-2.json) |
 | Portal Hopper | 383706 | [383706-portal-hopper.json](./383706-portal-hopper.json) |
 | Portal Hunter | 373623 | [373623-portal-hunter.json](./373623-portal-hunter.json) |
