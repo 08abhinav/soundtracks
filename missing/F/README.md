@@ -1969,6 +1969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Racing | 381014 | [381014-farm-racing.json](./381014-farm-racing.json) |
 | Farm Renovator | 216618 | [216618-farm-renovator.json](./216618-farm-renovator.json) |
 | Farm Rescue | 359407 | [359407-farm-rescue.json](./359407-farm-rescue.json) |
+| Farm RPG | 208184 | [208184-farm-rpg.json](./208184-farm-rpg.json) |
 | Farm Shop: Time Management Game | 235295 | [235295-farm-shop-time-management-game.json](./235295-farm-shop-time-management-game.json) |
 | Farm Simulator: Hay Tycoon | 105811 | [105811-farm-simulator-hay-tycoon.json](./105811-farm-simulator-hay-tycoon.json) |
 | Farm Slam | 241628 | [241628-farm-slam.json](./241628-farm-slam.json) |
@@ -3599,6 +3600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Figure Shop Simulator | 343263 | [343263-figure-shop-simulator.json](./343263-figure-shop-simulator.json) |
 | Figure Simulator War | 122828 | [122828-figure-simulator-war.json](./122828-figure-simulator-war.json) |
 | Figure Skater | 99187 | [99187-figure-skater.json](./99187-figure-skater.json) |
+| Figure Story | 208185 | [208185-figure-story.json](./208185-figure-story.json) |
 | Figure World | 127657 | [127657-figure-world.json](./127657-figure-world.json) |
 | Figureheads | 24931 | [24931-figureheads.json](./24931-figureheads.json) |
 | Figureless | 349620 | [349620-figureless.json](./349620-figureless.json) |
@@ -3762,7 +3764,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy Grandmasters | 84174 | [84174-final-fantasy-grandmasters.json](./84174-final-fantasy-grandmasters.json) |
 | Final Fantasy I & II | 41835 | [41835-final-fantasy-i-and-ii.json](./41835-final-fantasy-i-and-ii.json) |
 | Final Fantasy I+II Premium Package | 323153 | [323153-final-fantasy-i-ii-premium-package.json](./323153-final-fantasy-i-ii-premium-package.json) |
-| Final Fantasy II | 145817 | [145817-final-fantasy-ii.json](./145817-final-fantasy-ii.json) |
 | Final Fantasy II | 271819 | [271819-final-fantasy-ii.json](./271819-final-fantasy-ii.json) |
 | Final Fantasy II | 380633 | [380633-final-fantasy-ii.json](./380633-final-fantasy-ii.json) |
 | Final Fantasy II: 20th Anniversary Edition | 121717 | [121717-final-fantasy-ii-20th-anniversary-edition.json](./121717-final-fantasy-ii-20th-anniversary-edition.json) |
@@ -6617,7 +6618,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flynalny 2018 | 88131 | [88131-flynalny-2018.json](./88131-flynalny-2018.json) |
 | Flynguin Station | 121006 | [121006-flynguin-station.json](./121006-flynguin-station.json) |
 | Flynn & Freckles | 97346 | [97346-flynn-and-freckles.json](./97346-flynn-and-freckles.json) |
-| Flynn: Son of Crimson | 71595 | [71595-flynn-son-of-crimson.json](./71595-flynn-son-of-crimson.json) |
 | Flyon RC | 406173 | [406173-flyon-rc.json](./406173-flyon-rc.json) |
 | Flyonoid | 122971 | [122971-flyonoid.json](./122971-flyonoid.json) |
 | FlyOrDie GemJam | 79952 | [79952-flyordie-gemjam.json](./79952-flyordie-gemjam.json) |
@@ -6710,6 +6710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fog of Life | 176403 | [176403-fog-of-life.json](./176403-fog-of-life.json) |
 | Fog of War: Book One | 278264 | [278264-fog-of-war-book-one.json](./278264-fog-of-war-book-one.json) |
 | Fog of War: Extended Edition | 53038 | [53038-fog-of-war-extended-edition.json](./53038-fog-of-war-extended-edition.json) |
+| Fog: Battle Royale | 208186 | [208186-fog-battle-royale.json](./208186-fog-battle-royale.json) |
 | Fogel and Porki Evil Arcade | 211675 | [211675-fogel-and-porki-evil-arcade.json](./211675-fogel-and-porki-evil-arcade.json) |
 | Foggy Rainfall Escapade | 267265 | [267265-foggy-rainfall-escapade.json](./267265-foggy-rainfall-escapade.json) |
 | Fogrest: The Whisper of Harbingers | 332461 | [332461-fogrest-the-whisper-of-harbingers.json](./332461-fogrest-the-whisper-of-harbingers.json) |
@@ -9691,6 +9692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Basket TV | 196858 | [196858-fruit-basket-tv.json](./196858-fruit-basket-tv.json) |
 | Fruit Battle: Survival | 253276 | [253276-fruit-battle-survival.json](./253276-fruit-battle-survival.json) |
 | Fruit Blade | 268018 | [268018-fruit-blade.json](./268018-fruit-blade.json) |
+| Fruit Block | 208187 | [208187-fruit-block.json](./208187-fruit-block.json) |
 | Fruit Bonanza | 195698 | [195698-fruit-bonanza.json](./195698-fruit-bonanza.json) |
 | Fruit Box | 261223 | [261223-fruit-box.json](./261223-fruit-box.json) |
 | Fruit Box Idle | 391746 | [391746-fruit-box-idle.json](./391746-fruit-box-idle.json) |
