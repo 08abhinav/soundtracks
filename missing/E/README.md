@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | E Nikki | 201836 | [201836-e-nikki.json](./201836-e-nikki.json) |
 | E Quotes Trivia: Movies, TV, Music, Books | 89521 | [89521-e-quotes-trivia-movies-tv-music-books.json](./89521-e-quotes-trivia-movies-tv-music-books.json) |
+| E to Are Sore | 206565 | [206565-e-to-are-sore.json](./206565-e-to-are-sore.json) |
 | E-Ball | 126540 | [126540-e-ball.json](./126540-e-ball.json) |
 | E-circle | 203943 | [203943-e-circle.json](./203943-e-circle.json) |
 | E-commerce Simulator | 303507 | [303507-e-commerce-simulator.json](./303507-e-commerce-simulator.json) |
@@ -3458,6 +3459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epiphany | 181201 | [181201-epiphany.json](./181201-epiphany.json) |
 | Epiphany in Spaaace! | 66356 | [66356-epiphany-in-spaaace.json](./66356-epiphany-in-spaaace.json) |
 | Epiphyllum in Love | 216405 | [216405-epiphyllum-in-love.json](./216405-epiphyllum-in-love.json) |
+| Epiplaphobia | 206533 | [206533-epiplaphobia.json](./206533-epiplaphobia.json) |
 | Episode | 369114 | [369114-episode.json](./369114-episode.json) |
 | Episode 2: The 4 Seasons of Quake #2 | 309583 | [309583-episode-2-the-4-seasons-of-quake-2.json](./309583-episode-2-the-4-seasons-of-quake-2.json) |
 | Episode 666 | 261684 | [261684-episode-666.json](./261684-episode-666.json) |
@@ -5511,6 +5513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ex Shooter: Triple Bundle Pack | 218467 | [218467-ex-shooter-triple-bundle-pack.json](./218467-ex-shooter-triple-bundle-pack.json) |
 | Ex Vitro | 255789 | [255789-ex-vitro.json](./255789-ex-vitro.json) |
 | EX-802 | 330942 | [330942-ex-802.json](./330942-ex-802.json) |
+| Ex-Argent: Menes no Sairyuu | 206566 | [206566-ex-argent-menes-no-sairyuu.json](./206566-ex-argent-menes-no-sairyuu.json) |
 | Ex-Fraktion | 181370 | [181370-ex-fraktion.json](./181370-ex-fraktion.json) |
 | EX-Xdriver | 272339 | [272339-ex-xdriver.json](./272339-ex-xdriver.json) |
 | Ex/l | 376446 | [376446-ex-l.json](./376446-ex-l.json) |
