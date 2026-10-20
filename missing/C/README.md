@@ -12032,6 +12032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft.io | 176850 | [176850-craft-io.json](./176850-craft-io.json) |
 | Craftae | 340345 | [340345-craftae.json](./340345-craftae.json) |
 | Craftaway | 355032 | [355032-craftaway.json](./355032-craftaway.json) |
+| Craftbound | 216119 | [216119-craftbound.json](./216119-craftbound.json) |
 | CraftCraft: Fantasy Merchant Simulator | 249178 | [249178-craftcraft-fantasy-merchant-simulator.json](./249178-craftcraft-fantasy-merchant-simulator.json) |
 | Crafter | 326042 | [326042-crafter.json](./326042-crafter.json) |
 | Crafter Game - Incremental Puzzle RPG Game | 25737 | [25737-crafter-game-incremental-puzzle-rpg-game.json](./25737-crafter-game-incremental-puzzle-rpg-game.json) |
