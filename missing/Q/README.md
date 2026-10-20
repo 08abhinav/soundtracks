@@ -554,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen of the Community | 392199 | [392199-queen-of-the-community.json](./392199-queen-of-the-community.json) |
 | Queen of the Court | 209749 | [209749-queen-of-the-court.json](./209749-queen-of-the-court.json) |
 | Queen of The Hill | 306061 | [306061-queen-of-the-hill.json](./306061-queen-of-the-hill.json) |
+| Queen of the Otaku: There can be Only One | 251992 | [251992-queen-of-the-otaku-there-can-be-only-one.json](./251992-queen-of-the-otaku-there-can-be-only-one.json) |
 | Queen of the Pack | 161577 | [161577-queen-of-the-pack.json](./161577-queen-of-the-pack.json) |
 | Queen Of The Sands | 415079 | [415079-queen-of-the-sands.json](./415079-queen-of-the-sands.json) |
 | Queen of Zarkov | 173288 | [173288-queen-of-zarkov.json](./173288-queen-of-zarkov.json) |
