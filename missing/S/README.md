@@ -415,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saibara Rieko no Dendou Mahjong | 49794 | [49794-saibara-rieko-no-dendou-mahjong.json](./49794-saibara-rieko-no-dendou-mahjong.json) |
 | Saibara Rieko no Mahjong Hourouki | 37866 | [37866-saibara-rieko-no-mahjong-hourouki.json](./37866-saibara-rieko-no-mahjong-hourouki.json) |
 | SaiBorRai | 292674 | [292674-saiborrai.json](./292674-saiborrai.json) |
+| Saicoro-Puzzle Kura:ssic | 228932 | [228932-saicoro-puzzle-kura-ssic.json](./228932-saicoro-puzzle-kura-ssic.json) |
 | Saier's Light | 103177 | [103177-saiers-light.json](./103177-saiers-light.json) |
 | Saigo no Nindou | 265040 | [265040-saigo-no-nindou.json](./265040-saigo-no-nindou.json) |
 | Saigo no Uta | 166588 | [166588-saigo-no-uta.json](./166588-saigo-no-uta.json) |
@@ -2414,6 +2415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby-Doo! Mystery of the Fun Park Phantom | 2857 | [2857-scooby-doo-mystery-of-the-fun-park-phantom.json](./2857-scooby-doo-mystery-of-the-fun-park-phantom.json) |
 | Scooby-Doo! Night of 100 Frights | 2860 | [2860-scooby-doo-night-of-100-frights.json](./2860-scooby-doo-night-of-100-frights.json) |
 | Scooby-Doo! Unmasked | 210729 | [210729-scooby-doo-unmasked.json](./210729-scooby-doo-unmasked.json) |
+| Scooby-Doo! Unmasked | 228909 | [228909-scooby-doo-unmasked.json](./228909-scooby-doo-unmasked.json) |
 | Scooby-Doo!: Big Air | 222811 | [222811-scooby-doo-big-air.json](./222811-scooby-doo-big-air.json) |
 | Scooby-Doo!: Catch Shaggy | 245412 | [245412-scooby-doo-catch-shaggy.json](./245412-scooby-doo-catch-shaggy.json) |
 | Scooby-Doo!: Creepy Run | 401284 | [401284-scooby-doo-creepy-run.json](./401284-scooby-doo-creepy-run.json) |
@@ -4554,6 +4556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Photos | 122945 | [122945-seven-photos.json](./122945-seven-photos.json) |
 | Seven Pirates H | 192281 | [192281-seven-pirates-h.json](./192281-seven-pirates-h.json) |
 | Seven Sacrifices | 107402 | [107402-seven-sacrifices.json](./107402-seven-sacrifices.json) |
+| Seven Scrolls | 228928 | [228928-seven-scrolls.json](./228928-seven-scrolls.json) |
 | Seven Seas Jewels 2: Collector's Edition | 398822 | [398822-seven-seas-jewels-2-collectors-edition.json](./398822-seven-seas-jewels-2-collectors-edition.json) |
 | Seven Seas Jewels: Collector's Edition | 398821 | [398821-seven-seas-jewels-collectors-edition.json](./398821-seven-seas-jewels-collectors-edition.json) |
 | Seven Seas Solitaire | 30505 | [30505-seven-seas-solitaire.json](./30505-seven-seas-solitaire.json) |
@@ -14766,6 +14769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Memory: Predators | 358897 | [358897-space-memory-predators.json](./358897-space-memory-predators.json) |
 | Space Memory: Rodents | 381173 | [381173-space-memory-rodents.json](./381173-space-memory-rodents.json) |
 | Space Menace 2 | 325315 | [325315-space-menace-2.json](./325315-space-menace-2.json) |
+| Space Mercenary Defense Force | 228910 | [228910-space-mercenary-defense-force.json](./228910-space-mercenary-defense-force.json) |
 | Space Merchant | 125813 | [125813-space-merchant.json](./125813-space-merchant.json) |
 | Space Miner | 292838 | [292838-space-miner.json](./292838-space-miner.json) |
 | Space Miner Blast | 120662 | [120662-space-miner-blast.json](./120662-space-miner-blast.json) |
@@ -22582,6 +22586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunday Lawn Seasons | 87206 | [87206-sunday-lawn-seasons.json](./87206-sunday-lawn-seasons.json) |
 | Sunday League Manager: Horse & Spoon | 361731 | [361731-sunday-league-manager-horse-and-spoon.json](./361731-sunday-league-manager-horse-and-spoon.json) |
 | Sunday Morning | 312146 | [312146-sunday-morning.json](./312146-sunday-morning.json) |
+| Sunday Night Suicide | 228923 | [228923-sunday-night-suicide.json](./228923-sunday-night-suicide.json) |
 | Sunday School | 376052 | [376052-sunday-school.json](./376052-sunday-school.json) |
 | Sunday Sundae | 186642 | [186642-sunday-sundae.json](./186642-sunday-sundae.json) |
 | Sunday vs. Magazine: Shuuketsu! Choujou Daikessen | 42841 | [42841-sunday-vs-magazine-shuuketsu-choujou-daikessen.json](./42841-sunday-vs-magazine-shuuketsu-choujou-daikessen.json) |
@@ -23831,6 +23836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros.: The Lost Levels Remastered | 378500 | [378500-super-mario-bros-the-lost-levels-remastered.json](./378500-super-mario-bros-the-lost-levels-remastered.json) |
 | Super Mario Bros.: The New Worlds | 255601 | [255601-super-mario-bros-the-new-worlds.json](./255601-super-mario-bros-the-new-worlds.json) |
 | Super Mario Bros.: Two Players Hack | 162716 | [162716-super-mario-bros-two-players-hack.json](./162716-super-mario-bros-two-players-hack.json) |
+| Super Mario Bros.: Wart's Wonderland | 228889 | [228889-super-mario-bros-warts-wonderland.json](./228889-super-mario-bros-warts-wonderland.json) |
 | Super Mario Buys Bread | 370294 | [370294-super-mario-buys-bread.json](./370294-super-mario-buys-bread.json) |
 | Super Mario Castle 2 | 255603 | [255603-super-mario-castle-2.json](./255603-super-mario-castle-2.json) |
 | Super Mario Castle 3 | 314125 | [314125-super-mario-castle-3.json](./314125-super-mario-castle-3.json) |
@@ -26486,6 +26492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switchy Road DeluX | 147608 | [147608-switchy-road-delux.json](./147608-switchy-road-delux.json) |
 | Switzerland Omelette Deluxe | 351398 | [351398-switzerland-omelette-deluxe.json](./351398-switzerland-omelette-deluxe.json) |
 | SWIV | 12789 | [12789-swiv.json](./12789-swiv.json) |
+| SWmud | 228912 | [228912-swmud.json](./228912-swmud.json) |
 | Swole | 398664 | [398664-swole.json](./398664-swole.json) |
 | Swolemochao 1 & 2: Gym of the Year Edition | 265882 | [265882-swolemochao-1-and-2-gym-of-the-year-edition.json](./265882-swolemochao-1-and-2-gym-of-the-year-edition.json) |
 | Swoon! | 153998 | [153998-swoon.json](./153998-swoon.json) |
