@@ -3687,6 +3687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightrise | 34937 | [34937-lightrise.json](./34937-lightrise.json) |
 | Lightrix | 372989 | [372989-lightrix.json](./372989-lightrix.json) |
 | Lightrock | 205065 | [205065-lightrock.json](./205065-lightrock.json) |
+| Lights | 230119 | [230119-lights.json](./230119-lights.json) |
 | Lights | 232867 | [232867-lights.json](./232867-lights.json) |
 | Lights | 314009 | [314009-lights.json](./314009-lights.json) |
 | Lights and Shadow | 339287 | [339287-lights-and-shadow.json](./339287-lights-and-shadow.json) |
