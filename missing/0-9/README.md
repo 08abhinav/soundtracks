@@ -1260,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2025: Mosaic Retrospective | 396466 | [396466-2025-mosaic-retrospective.json](./396466-2025-mosaic-retrospective.json) |
 | 2029 Online | 27733 | [27733-2029-online.json](./27733-2029-online.json) |
 | 203 Game Pack | 273903 | [273903-203-game-pack.json](./273903-203-game-pack.json) |
+| 2032: A New Threat | 237207 | [237207-2032-a-new-threat.json](./237207-2032-a-new-threat.json) |
 | 2033 The Order | 308940 | [308940-2033-the-order.json](./308940-2033-the-order.json) |
 | 2033: Das Erschwachen der Macht | 166165 | [166165-2033-das-erschwachen-der-macht.json](./166165-2033-das-erschwachen-der-macht.json) |
 | 2044 Moto Racer: Cyber Racing Simulator | 265709 | [265709-2044-moto-racer-cyber-racing-simulator.json](./265709-2044-moto-racer-cyber-racing-simulator.json) |
