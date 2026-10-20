@@ -912,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can't Drive This | 27097 | [27097-cant-drive-this.json](./27097-cant-drive-this.json) |
 | Can't Even See the Sky | 361922 | [361922-cant-even-see-the-sky.json](./361922-cant-even-see-the-sky.json) |
 | Can't Hold My Feelings | 403434 | [403434-cant-hold-my-feelings.json](./403434-cant-hold-my-feelings.json) |
+| Can't Live Without Electricity | 242944 | [242944-cant-live-without-electricity.json](./242944-cant-live-without-electricity.json) |
 | Can't Run Frm Evil | 262294 | [262294-cant-run-frm-evil.json](./262294-cant-run-frm-evil.json) |
 | Can't Sleep! | 333627 | [333627-cant-sleep.json](./333627-cant-sleep.json) |
 | Can't Stand The Heat | 295007 | [295007-cant-stand-the-heat.json](./295007-cant-stand-the-heat.json) |
@@ -4376,6 +4377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Code: Nemesis Experiment | 128906 | [128906-chaos-code-nemesis-experiment.json](./128906-chaos-code-nemesis-experiment.json) |
 | Chaos Code: New Sign of Catastrophe | 27718 | [27718-chaos-code-new-sign-of-catastrophe.json](./27718-chaos-code-new-sign-of-catastrophe.json) |
 | Chaos Coin | 363951 | [363951-chaos-coin.json](./363951-chaos-coin.json) |
+| Chaos Coming | 242966 | [242966-chaos-coming.json](./242966-chaos-coming.json) |
 | Chaos CompleXX | 261125 | [261125-chaos-complexx.json](./261125-chaos-complexx.json) |
 | Chaos Control | 325843 | [325843-chaos-control.json](./325843-chaos-control.json) |
 | Chaos Crafters | 265399 | [265399-chaos-crafters.json](./265399-chaos-crafters.json) |
@@ -14608,6 +14610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curious Expedition 2: Robots of Lux | 216160 | [216160-curious-expedition-2-robots-of-lux.json](./216160-curious-expedition-2-robots-of-lux.json) |
 | Curious Expedition 2: Shores of Taishi | 200928 | [200928-curious-expedition-2-shores-of-taishi.json](./200928-curious-expedition-2-shores-of-taishi.json) |
 | Curious Fishing | 249746 | [249746-curious-fishing.json](./249746-curious-fishing.json) |
+| Curious George | 242930 | [242930-curious-george.json](./242930-curious-george.json) |
 | Curious George Car Driving Challenge | 406629 | [406629-curious-george-car-driving-challenge.json](./406629-curious-george-car-driving-challenge.json) |
 | Curious George Comes Home | 145899 | [145899-curious-george-comes-home.json](./145899-curious-george-comes-home.json) |
 | Curious George Early Learning Adventure | 384220 | [384220-curious-george-early-learning-adventure.json](./384220-curious-george-early-learning-adventure.json) |
