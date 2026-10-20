@@ -6304,7 +6304,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Wing | 75371 | [75371-lost-wing.json](./75371-lost-wing.json) |
 | Lost Wish: In the Desperate World | 195482 | [195482-lost-wish-in-the-desperate-world.json](./195482-lost-wish-in-the-desperate-world.json) |
 | Lost Within | 23959 | [23959-lost-within.json](./23959-lost-within.json) |
-| Lost Words: Beyond the Page | 110586 | [110586-lost-words-beyond-the-page.json](./110586-lost-words-beyond-the-page.json) |
 | Lost World | 226183 | [226183-lost-world.json](./226183-lost-world.json) |
 | Lost World Sudoku | 245673 | [245673-lost-world-sudoku.json](./245673-lost-world-sudoku.json) |
 | Lost World Survivor | 348588 | [348588-lost-world-survivor.json](./348588-lost-world-survivor.json) |
