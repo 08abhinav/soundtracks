@@ -12325,6 +12325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Egypt | 25063 | [25063-solitaire-egypt.json](./25063-solitaire-egypt.json) |
 | Solitaire Epic | 53628 | [53628-solitaire-epic.json](./53628-solitaire-epic.json) |
 | Solitaire Family World | 251734 | [251734-solitaire-family-world.json](./251734-solitaire-family-world.json) |
+| Solitaire Fish | 234454 | [234454-solitaire-fish.json](./234454-solitaire-fish.json) |
 | Solitaire Fish Klondike | 220047 | [220047-solitaire-fish-klondike.json](./220047-solitaire-fish-klondike.json) |
 | Solitaire Flowerscapes | 380227 | [380227-solitaire-flowerscapes.json](./380227-solitaire-flowerscapes.json) |
 | Solitaire Forever | 88573 | [88573-solitaire-forever.json](./88573-solitaire-forever.json) |
