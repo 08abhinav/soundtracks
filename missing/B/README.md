@@ -11540,6 +11540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breeders of the Nephelym: Alpha | 122800 | [122800-breeders-of-the-nephelym-alpha.json](./122800-breeders-of-the-nephelym-alpha.json) |
 | Breekha | 278274 | [278274-breekha.json](./278274-breekha.json) |
 | Breenstein | 252103 | [252103-breenstein.json](./252103-breenstein.json) |
+| Breeze | 211059 | [211059-breeze.json](./211059-breeze.json) |
 | Breeze Contest | 321848 | [321848-breeze-contest.json](./321848-breeze-contest.json) |
 | Breeze Girl | 193991 | [193991-breeze-girl.json](./193991-breeze-girl.json) |
 | Breeze in the Clouds | 198220 | [198220-breeze-in-the-clouds.json](./198220-breeze-in-the-clouds.json) |
@@ -12135,6 +12136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brume | 121093 | [121093-brume.json](./121093-brume.json) |
 | Brume | 405487 | [405487-brume.json](./405487-brume.json) |
 | Brunch Club | 122867 | [122867-brunch-club.json](./122867-brunch-club.json) |
+| Brunch Rush | 211031 | [211031-brunch-rush.json](./211031-brunch-rush.json) |
 | Bruneva | 329052 | [329052-bruneva.json](./329052-bruneva.json) |
 | Brunhilda and the Dark Crystal | 52490 | [52490-brunhilda-and-the-dark-crystal.json](./52490-brunhilda-and-the-dark-crystal.json) |
 | Brunilda | 182334 | [182334-brunilda.json](./182334-brunilda.json) |
