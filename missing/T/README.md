@@ -2762,6 +2762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telepath RPG: Servants of God | 65532 | [65532-telepath-rpg-servants-of-god.json](./65532-telepath-rpg-servants-of-god.json) |
 | Telepathy | 282667 | [282667-telepathy.json](./282667-telepathy.json) |
 | Teleport Master | 332798 | [332798-teleport-master.json](./332798-teleport-master.json) |
+| Teleport VR | 240646 | [240646-teleport-vr.json](./240646-teleport-vr.json) |
 | Teleportal | 323580 | [323580-teleportal.json](./323580-teleportal.json) |
 | Teleportal 2 | 323583 | [323583-teleportal-2.json](./323583-teleportal-2.json) |
 | Teleportal Customer Service | 181374 | [181374-teleportal-customer-service.json](./181374-teleportal-customer-service.json) |
@@ -8013,6 +8014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Holoween collection | 206123 | [206123-the-holoween-collection.json](./206123-the-holoween-collection.json) |
 | The Holy Chalice | 190402 | [190402-the-holy-chalice.json](./190402-the-holy-chalice.json) |
 | The Holy Chalice | 194890 | [194890-the-holy-chalice.json](./194890-the-holy-chalice.json) |
+| The Holy Gosh Darn | 240644 | [240644-the-holy-gosh-darn.json](./240644-the-holy-gosh-darn.json) |
 | The Holy Silence | 169746 | [169746-the-holy-silence.json](./169746-the-holy-silence.json) |
 | The Holyburn Witches | 273783 | [273783-the-holyburn-witches.json](./273783-the-holyburn-witches.json) |
 | The Home County | 359924 | [359924-the-home-county.json](./359924-the-home-county.json) |
@@ -12149,6 +12151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Several Journeys of Reemus Chapter 4: The Beastly Blackhole of Bureaucracy | 404876 | [404876-the-several-journeys-of-reemus-chapter-4-the-beastly-blackhole-of-bureaucracy.json](./404876-the-several-journeys-of-reemus-chapter-4-the-beastly-blackhole-of-bureaucracy.json) |
 | The Severed Gods | 370921 | [370921-the-severed-gods.json](./370921-the-severed-gods.json) |
 | The Sewer Goblet: The Wu-Tang Clan and the Wu-Tang Baby | 93504 | [93504-the-sewer-goblet-the-wu-tang-clan-and-the-wu-tang-baby.json](./93504-the-sewer-goblet-the-wu-tang-clan-and-the-wu-tang-baby.json) |
+| The Sewer Job | 240669 | [240669-the-sewer-job.json](./240669-the-sewer-job.json) |
 | The Sewers of D'Sparil | 268467 | [268467-the-sewers-of-dsparil.json](./268467-the-sewers-of-dsparil.json) |
 | The Sex Adventures of a Gladiator | 367766 | [367766-the-sex-adventures-of-a-gladiator.json](./367766-the-sex-adventures-of-a-gladiator.json) |
 | The Sexorcist | 211723 | [211723-the-sexorcist.json](./211723-the-sexorcist.json) |
@@ -14074,6 +14077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wanderings Dragon | 108025 | [108025-the-wanderings-dragon.json](./108025-the-wanderings-dragon.json) |
 | The Wanted Man's House | 313485 | [313485-the-wanted-mans-house.json](./313485-the-wanted-mans-house.json) |
 | The Wapple Hous | 375363 | [375363-the-wapple-hous.json](./375363-the-wapple-hous.json) |
+| The War | 240676 | [240676-the-war.json](./240676-the-war.json) |
 | The War Between Chu & Han | 239549 | [239549-the-war-between-chu-and-han.json](./239549-the-war-between-chu-and-han.json) |
 | The War College: Universal Military Simulator 3 | 73167 | [73167-the-war-college-universal-military-simulator-3.json](./73167-the-war-college-universal-military-simulator-3.json) |
 | The War Enders: First Strike | 219657 | [219657-the-war-enders-first-strike.json](./219657-the-war-enders-first-strike.json) |
@@ -22100,6 +22104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TramSim Vienna | 140471 | [140471-tramsim-vienna.json](./140471-tramsim-vienna.json) |
 | Trance | 187267 | [187267-trance.json](./187267-trance.json) |
 | Trance-Pacific | 92860 | [92860-trance-pacific.json](./92860-trance-pacific.json) |
+| Trance, Trauma | 240633 | [240633-trance-trauma.json](./240633-trance-trauma.json) |
 | TranceWave Neo | 304467 | [304467-trancewave-neo.json](./304467-trancewave-neo.json) |
 | Tranquil Garden | 121367 | [121367-tranquil-garden.json](./121367-tranquil-garden.json) |
 | Tranquil Garden: Adventurer's Edition | 244156 | [244156-tranquil-garden-adventurers-edition.json](./244156-tranquil-garden-adventurers-edition.json) |
@@ -24589,6 +24594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Souls: The Path of Shadows | 110233 | [110233-twin-souls-the-path-of-shadows.json](./110233-twin-souls-the-path-of-shadows.json) |
 | Twin Stick | 278345 | [278345-twin-stick.json](./278345-twin-stick.json) |
 | Twin Stick Heroes | 141875 | [141875-twin-stick-heroes.json](./141875-twin-stick-heroes.json) |
+| Twin Stick Heroes 2 | 240632 | [240632-twin-stick-heroes-2.json](./240632-twin-stick-heroes-2.json) |
 | Twin Stick Tanks | 157075 | [157075-twin-stick-tanks.json](./157075-twin-stick-tanks.json) |
 | Twin Stick Tennis | 244689 | [244689-twin-stick-tennis.json](./244689-twin-stick-tennis.json) |
 | Twin Stones: The Journey of Bukka | 153729 | [153729-twin-stones-the-journey-of-bukka.json](./153729-twin-stones-the-journey-of-bukka.json) |
