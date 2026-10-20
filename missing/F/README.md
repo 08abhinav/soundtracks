@@ -1609,6 +1609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy of Esula | 292578 | [292578-fantasy-of-esula.json](./292578-fantasy-of-esula.json) |
 | Fantasy of Expedition | 113648 | [113648-fantasy-of-expedition.json](./113648-fantasy-of-expedition.json) |
 | Fantasy of Gun | 287340 | [287340-fantasy-of-gun.json](./287340-fantasy-of-gun.json) |
+| Fantasy of Master | 241228 | [241228-fantasy-of-master.json](./241228-fantasy-of-master.json) |
 | Fantasy Office | 226445 | [226445-fantasy-office.json](./226445-fantasy-office.json) |
 | Fantasy Online 2 | 327624 | [327624-fantasy-online-2.json](./327624-fantasy-online-2.json) |
 | Fantasy Puzzle King | 312697 | [312697-fantasy-puzzle-king.json](./312697-fantasy-puzzle-king.json) |
@@ -4103,6 +4104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find My Weiner | 292292 | [292292-find-my-weiner.json](./292292-find-my-weiner.json) |
 | Find Oann | 335368 | [335368-find-oann.json](./335368-find-oann.json) |
 | Find Objects | 163203 | [163203-find-objects.json](./163203-find-objects.json) |
+| Find Objects in Living Room | 241217 | [241217-find-objects-in-living-room.json](./241217-find-objects-in-living-room.json) |
 | Find or be Found | 327034 | [327034-find-or-be-found.json](./327034-find-or-be-found.json) |
 | Find Out | 33490 | [33490-find-out.json](./33490-find-out.json) |
 | Find Pairs | 246490 | [246490-find-pairs.json](./246490-find-pairs.json) |
@@ -5212,6 +5214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's 3 | 312229 | [312229-five-nights-at-freddys-3.json](./312229-five-nights-at-freddys-3.json) |
 | Five Nights at Freddy's 3D | 271944 | [271944-five-nights-at-freddys-3d.json](./271944-five-nights-at-freddys-3d.json) |
 | Five Nights at Freddy's 4 | 11583 | [11583-five-nights-at-freddys-4.json](./11583-five-nights-at-freddys-4.json) |
+| Five Nights at Freddy's 4 | 241192 | [241192-five-nights-at-freddys-4.json](./241192-five-nights-at-freddys-4.json) |
 | Five Nights at Freddy's 4 | 312230 | [312230-five-nights-at-freddys-4.json](./312230-five-nights-at-freddys-4.json) |
 | Five Nights at Freddy's 4: Halloween Edition | 226410 | [226410-five-nights-at-freddys-4-halloween-edition.json](./226410-five-nights-at-freddys-4-halloween-edition.json) |
 | Five Nights at Freddy's 5 | 271717 | [271717-five-nights-at-freddys-5.json](./271717-five-nights-at-freddys-5.json) |
@@ -6560,6 +6563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FNAF in Psych Engine | 242611 | [242611-fnaf-in-psych-engine.json](./242611-fnaf-in-psych-engine.json) |
 | FNaF Multiplayer: Forgotten Pizzeria | 260060 | [260060-fnaf-multiplayer-forgotten-pizzeria.json](./260060-fnaf-multiplayer-forgotten-pizzeria.json) |
 | FNaF Ultimate Edition | 281319 | [281319-fnaf-ultimate-edition.json](./281319-fnaf-ultimate-edition.json) |
+| FNaF World | 241218 | [241218-fnaf-world.json](./241218-fnaf-world.json) |
 | FNaF World 2 | 412776 | [412776-fnaf-world-2.json](./412776-fnaf-world-2.json) |
 | FNaF World Randomizer | 237325 | [237325-fnaf-world-randomizer.json](./237325-fnaf-world-randomizer.json) |
 | FNaF World Redacted | 362810 | [362810-fnaf-world-redacted.json](./362810-fnaf-world-redacted.json) |
@@ -9905,6 +9909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Fruit Merge | 305388 | [305388-fun-fruit-merge.json](./305388-fun-fruit-merge.json) |
 | Fun Gus | 310159 | [310159-fun-gus.json](./310159-fun-gus.json) |
 | Fun Home | 374298 | [374298-fun-home.json](./374298-fun-home.json) |
+| Fun Hospital | 241814 | [241814-fun-hospital.json](./241814-fun-hospital.json) |
 | Fun House | 200396 | [200396-fun-house.json](./200396-fun-house.json) |
 | Fun Infused Arcade | 260178 | [260178-fun-infused-arcade.json](./260178-fun-infused-arcade.json) |
 | Fun Kid Racing Magic Forest | 175720 | [175720-fun-kid-racing-magic-forest.json](./175720-fun-kid-racing-magic-forest.json) |
