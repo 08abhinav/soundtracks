@@ -2874,6 +2874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What the Pho: restaurant startup stories | 132799 | [132799-what-the-pho-restaurant-startup-stories.json](./132799-what-the-pho-restaurant-startup-stories.json) |
 | What the Stars Forgot | 375983 | [375983-what-the-stars-forgot.json](./375983-what-the-stars-forgot.json) |
 | What The?! Party Trivia Game | 68245 | [68245-what-the-party-trivia-game.json](./68245-what-the-party-trivia-game.json) |
+| What They Don't Sea | 223345 | [223345-what-they-dont-sea.json](./223345-what-they-dont-sea.json) |
 | What They Gave Us | 407391 | [407391-what-they-gave-us.json](./407391-what-they-gave-us.json) |
 | What Time Is It | 168715 | [168715-what-time-is-it.json](./168715-what-time-is-it.json) |
 | What Time is it? | 372192 | [372192-what-time-is-it.json](./372192-what-time-is-it.json) |
@@ -3853,6 +3854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Card Football: Legacy RB Pack | 291703 | [291703-wild-card-football-legacy-rb-pack.json](./291703-wild-card-football-legacy-rb-pack.json) |
 | Wild Card Football: Legacy WR Pack | 304463 | [304463-wild-card-football-legacy-wr-pack.json](./304463-wild-card-football-legacy-wr-pack.json) |
 | Wild Card Football: Ultimate Edition | 260013 | [260013-wild-card-football-ultimate-edition.json](./260013-wild-card-football-ultimate-edition.json) |
+| Wild Castle | 223332 | [223332-wild-castle.json](./223332-wild-castle.json) |
 | Wild Cats | 365662 | [365662-wild-cats.json](./365662-wild-cats.json) |
 | Wild Cats of Wasteland | 117131 | [117131-wild-cats-of-wasteland.json](./117131-wild-cats-of-wasteland.json) |
 | Wild Cheetah Sim 3D | 330725 | [330725-wild-cheetah-sim-3d.json](./330725-wild-cheetah-sim-3d.json) |
@@ -4843,6 +4845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witches Craft | 103956 | [103956-witches-craft.json](./103956-witches-craft.json) |
 | Witches Legacy: Slumbering Darkness & Dark Throne | 201824 | [201824-witches-legacy-slumbering-darkness-and-dark-throne.json](./201824-witches-legacy-slumbering-darkness-and-dark-throne.json) |
 | Witches of the Fourth | 417344 | [417344-witches-of-the-fourth.json](./417344-witches-of-the-fourth.json) |
+| Witches Tavern | 223318 | [223318-witches-tavern.json](./223318-witches-tavern.json) |
 | Witches Weed | 268497 | [268497-witches-weed.json](./268497-witches-weed.json) |
 | Witches X Warlocks: Lawrence's Route | 252913 | [252913-witches-x-warlocks-lawrences-route.json](./252913-witches-x-warlocks-lawrences-route.json) |
 | Witches' Hallow | 270549 | [270549-witches-hallow.json](./270549-witches-hallow.json) |
