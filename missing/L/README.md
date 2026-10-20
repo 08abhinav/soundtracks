@@ -1791,6 +1791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy | 377594 | [377594-legacy.json](./377594-legacy.json) |
 | Legacy | 401477 | [401477-legacy.json](./401477-legacy.json) |
 | Legacy 1917 | 211724 | [211724-legacy-1917.json](./211724-legacy-1917.json) |
+| Legacy 4: Tomb of Secrets | 252563 | [252563-legacy-4-tomb-of-secrets.json](./252563-legacy-4-tomb-of-secrets.json) |
 | Legacy Battle heart 2 | 108505 | [108505-legacy-battle-heart-2.json](./108505-legacy-battle-heart-2.json) |
 | Legacy Bird | 128602 | [128602-legacy-bird.json](./128602-legacy-bird.json) |
 | Legacy Bites | 163852 | [163852-legacy-bites.json](./163852-legacy-bites.json) |
