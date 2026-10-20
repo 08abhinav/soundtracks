@@ -4609,6 +4609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayohiga | 151530 | [151530-mayohiga.json](./151530-mayohiga.json) |
 | Mayoi Shopping Street | 365861 | [365861-mayoi-shopping-street.json](./365861-mayoi-shopping-street.json) |
 | Mayonaka 10 Chome | 301093 | [301093-mayonaka-10-chome.json](./301093-mayonaka-10-chome.json) |
+| Mayonaka no Kanshoku | 233934 | [233934-mayonaka-no-kanshoku.json](./233934-mayonaka-no-kanshoku.json) |
 | Mayonez | 106538 | [106538-mayonez.json](./106538-mayonez.json) |
 | Mayonnaise Hole | 210827 | [210827-mayonnaise-hole.json](./210827-mayonnaise-hole.json) |
 | Mayor May Knott | 249857 | [249857-mayor-may-knott.json](./249857-mayor-may-knott.json) |
@@ -6866,6 +6867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercenaries 2: World Nearly in Flames | 304973 | [304973-mercenaries-2-world-nearly-in-flames.json](./304973-mercenaries-2-world-nearly-in-flames.json) |
 | Mercenaries 3: No Limits | 327016 | [327016-mercenaries-3-no-limits.json](./327016-mercenaries-3-no-limits.json) |
 | Mercenaries Blaze: Dawn of the Twin Dragons | 141648 | [141648-mercenaries-blaze-dawn-of-the-twin-dragons.json](./141648-mercenaries-blaze-dawn-of-the-twin-dragons.json) |
+| Mercenaries Lament: Requiem of the Silver Wolf | 233904 | [233904-mercenaries-lament-requiem-of-the-silver-wolf.json](./233904-mercenaries-lament-requiem-of-the-silver-wolf.json) |
 | Mercenaries of Astonia | 115487 | [115487-mercenaries-of-astonia.json](./115487-mercenaries-of-astonia.json) |
 | Mercenaries of the Kingdom: First Blood | 269481 | [269481-mercenaries-of-the-kingdom-first-blood.json](./269481-mercenaries-of-the-kingdom-first-blood.json) |
 | Mercenaries of War | 323257 | [323257-mercenaries-of-war.json](./323257-mercenaries-of-war.json) |
@@ -7063,6 +7065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaid Splash! | 146522 | [146522-mermaid-splash.json](./146522-mermaid-splash.json) |
 | Mermaid Stories: Book 1 - The Lost Gift | 339377 | [339377-mermaid-stories-book-1-the-lost-gift.json](./339377-mermaid-stories-book-1-the-lost-gift.json) |
 | Mermaid Story | 219289 | [219289-mermaid-story.json](./219289-mermaid-story.json) |
+| Mermaid Story: Extended Edition | 233906 | [233906-mermaid-story-extended-edition.json](./233906-mermaid-story-extended-edition.json) |
 | Mermaid Story: Pack of Friends | 237817 | [237817-mermaid-story-pack-of-friends.json](./237817-mermaid-story-pack-of-friends.json) |
 | Mermaid Swamp | 287635 | [287635-mermaid-swamp.json](./287635-mermaid-swamp.json) |
 | Mermaid Swamp | 62117 | [62117-mermaid-swamp.json](./62117-mermaid-swamp.json) |
@@ -9579,6 +9582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | mini PVP | 118088 | [118088-mini-pvp.json](./118088-mini-pvp.json) |
 | Mini Quests | 207852 | [207852-mini-quests.json](./207852-mini-quests.json) |
 | Mini Racer Car Shop Simulator | 326386 | [326386-mini-racer-car-shop-simulator.json](./326386-mini-racer-car-shop-simulator.json) |
+| Mini Racing Adventures | 233917 | [233917-mini-racing-adventures.json](./233917-mini-racing-adventures.json) |
 | Mini Racing Mania: Multiplayer | 36922 | [36922-mini-racing-mania-multiplayer.json](./36922-mini-racing-mania-multiplayer.json) |
 | Mini Racing World | 152461 | [152461-mini-racing-world.json](./152461-mini-racing-world.json) |
 | Mini Racing: Mini Cars Curling | 233755 | [233755-mini-racing-mini-cars-curling.json](./233755-mini-racing-mini-cars-curling.json) |
@@ -13362,6 +13366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motor Wars | 137592 | [137592-motor-wars.json](./137592-motor-wars.json) |
 | Motor Wars 2 | 97440 | [97440-motor-wars-2.json](./97440-motor-wars-2.json) |
 | Motor World: Bike Factory | 256129 | [256129-motor-world-bike-factory.json](./256129-motor-world-bike-factory.json) |
+| Motor World: Car Factory | 233914 | [233914-motor-world-car-factory.json](./233914-motor-world-car-factory.json) |
 | Motorama: Classic Racing | 10566 | [10566-motorama-classic-racing.json](./10566-motorama-classic-racing.json) |
 | Motorball | 137599 | [137599-motorball.json](./137599-motorball.json) |
 | Motorbike | 35923 | [35923-motorbike.json](./35923-motorbike.json) |
