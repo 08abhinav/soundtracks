@@ -4484,6 +4484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu Do Fighting | 58798 | [58798-kung-fu-do-fighting.json](./58798-kung-fu-do-fighting.json) |
 | Kung Fu Dragon | 78338 | [78338-kung-fu-dragon.json](./78338-kung-fu-dragon.json) |
 | Kung Fu Duel | 336930 | [336930-kung-fu-duel.json](./336930-kung-fu-duel.json) |
+| Kung Fu Er San | 209302 | [209302-kung-fu-er-san.json](./209302-kung-fu-er-san.json) |
 | Kung Fu Fearsome Fists | 333947 | [333947-kung-fu-fearsome-fists.json](./333947-kung-fu-fearsome-fists.json) |
 | Kung Fu Fight! | 58239 | [58239-kung-fu-fight.json](./58239-kung-fu-fight.json) |
 | Kung Fu Fighting | 254058 | [254058-kung-fu-fighting.json](./254058-kung-fu-fighting.json) |
