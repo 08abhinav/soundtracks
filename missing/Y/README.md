@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yami no Ryuuou Hadesu no Monshou | 202322 | [202322-yami-no-ryuuou-hadesu-no-monshou.json](./202322-yami-no-ryuuou-hadesu-no-monshou.json) |
 | Yami-iro no Maju | 242070 | [242070-yami-iro-no-maju.json](./242070-yami-iro-no-maju.json) |
 | Yamigatari: For3st | 391021 | [391021-yamigatari-for3st.json](./391021-yamigatari-for3st.json) |
+| Yamikore Ryousangata Yamika no Collection: Dokitto Mune Kyun Jiraikei Yandere Joshi Rennai Galge | 233930 | [233930-yamikore-ryousangata-yamika-no-collection-dokitto-mune-kyun-jiraikei-yandere-joshi-rennai-galge.json](./233930-yamikore-ryousangata-yamika-no-collection-dokitto-mune-kyun-jiraikei-yandere-joshi-rennai-galge.json) |
 | Yaminabe Aries: Asu e no Chousenjou | 57913 | [57913-yaminabe-aries-asu-e-no-chousenjou.json](./57913-yaminabe-aries-asu-e-no-chousenjou.json) |
 | Yamiyo ni Sasayaku: Tantei Sagara Kyouichirou | 215192 | [215192-yamiyo-ni-sasayaku-tantei-sagara-kyouichirou.json](./215192-yamiyo-ni-sasayaku-tantei-sagara-kyouichirou.json) |
 | Yamizome Liberator | 327834 | [327834-yamizome-liberator.json](./327834-yamizome-liberator.json) |
@@ -1351,6 +1352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuè Lán Chuánqí: Yì Jiè de Fǎngkè | 394179 | [394179-yue-lan-chuanqi-yi-jie-de-fangke.json](./394179-yue-lan-chuanqi-yi-jie-de-fangke.json) |
 | Yuèyálóu Fēngyún | 127172 | [127172-yueyalou-fengyun.json](./127172-yueyalou-fengyun.json) |
 | Yufo | 187891 | [187891-yufo.json](./187891-yufo.json) |
+| Yuganda Hibi no Saiko Horror: Imi ga Wakaru to Kowai Youkai Toshi Densetsu Mystery | 233931 | [233931-yuganda-hibi-no-saiko-horror-imi-ga-wakaru-to-kowai-youkai-toshi-densetsu-mystery.json](./233931-yuganda-hibi-no-saiko-horror-imi-ga-wakaru-to-kowai-youkai-toshi-densetsu-mystery.json) |
 | Yuge | 270321 | [270321-yuge.json](./270321-yuge.json) |
 | Yugekitai Kakuto-hen: Saikyoushin Fukkatsu no Maki | 264326 | [264326-yugekitai-kakuto-hen-saikyoushin-fukkatsu-no-maki.json](./264326-yugekitai-kakuto-hen-saikyoushin-fukkatsu-no-maki.json) |
 | Yugekitai: Saikyoushin Fukkatsu no Maki | 221766 | [221766-yugekitai-saikyoushin-fukkatsu-no-maki.json](./221766-yugekitai-saikyoushin-fukkatsu-no-maki.json) |
