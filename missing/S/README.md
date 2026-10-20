@@ -1222,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandy Beach | 85366 | [85366-sandy-beach.json](./85366-sandy-beach.json) |
 | Sandy's Circus Adventure | 45895 | [45895-sandys-circus-adventure.json](./45895-sandys-circus-adventure.json) |
 | Sandy's Great Escape | 253867 | [253867-sandys-great-escape.json](./253867-sandys-great-escape.json) |
+| Sandy's Surf Adventure | 245703 | [245703-sandys-surf-adventure.json](./245703-sandys-surf-adventure.json) |
 | Sanevol Incident 44 | 285397 | [285397-sanevol-incident-44.json](./285397-sanevol-incident-44.json) |
 | Sang-Froid: Tales of Werewolves | 5446 | [5446-sang-froid-tales-of-werewolves.json](./5446-sang-froid-tales-of-werewolves.json) |
 | Sangeki wo Kuzuse! | 97674 | [97674-sangeki-wo-kuzuse.json](./97674-sangeki-wo-kuzuse.json) |
@@ -3747,6 +3748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages: Puzzle & Action - Shukudai ga Tant-R | 64315 | [64315-sega-ages-puzzle-and-action-shukudai-ga-tant-r.json](./64315-sega-ages-puzzle-and-action-shukudai-ga-tant-r.json) |
 | Sega Ages: Shinobi | 110805 | [110805-sega-ages-shinobi.json](./110805-sega-ages-shinobi.json) |
 | Sega Ages: Sonic the Hedgehog | 96393 | [96393-sega-ages-sonic-the-hedgehog.json](./96393-sega-ages-sonic-the-hedgehog.json) |
+| Sega Astro City Mini V | 245664 | [245664-sega-astro-city-mini-v.json](./245664-sega-astro-city-mini-v.json) |
 | Sega Bass Fishing 2 | 45837 | [45837-sega-bass-fishing-2.json](./45837-sega-bass-fishing-2.json) |
 | Sega Bass Fishing Challenge | 39433 | [39433-sega-bass-fishing-challenge.json](./39433-sega-bass-fishing-challenge.json) |
 | Sega Chess | 19490 | [19490-sega-chess.json](./19490-sega-chess.json) |
@@ -4691,6 +4693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Quest | 167387 | [167387-sex-quest.json](./167387-sex-quest.json) |
 | Sex Restaurant: Kuronekotei | 108938 | [108938-sex-restaurant-kuronekotei.json](./108938-sex-restaurant-kuronekotei.json) |
 | Sex Rhythm: Onsen | 257846 | [257846-sex-rhythm-onsen.json](./257846-sex-rhythm-onsen.json) |
+| Sex Room 2: 18+ | 245725 | [245725-sex-room-2-18.json](./245725-sex-room-2-18.json) |
 | Sex Room: 18+ | 235270 | [235270-sex-room-18.json](./235270-sex-room-18.json) |
 | Sex Search | 230950 | [230950-sex-search.json](./230950-sex-search.json) |
 | Sex Search 2: Ultimate | 204430 | [204430-sex-search-2-ultimate.json](./204430-sex-search-2-ultimate.json) |
@@ -8687,6 +8690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sisyphus Paradox | 277812 | [277812-sisyphus-paradox.json](./277812-sisyphus-paradox.json) |
 | Sisyphus Reborn | 31542 | [31542-sisyphus-reborn.json](./31542-sisyphus-reborn.json) |
 | Sisyphus Simulator | 352151 | [352151-sisyphus-simulator.json](./352151-sisyphus-simulator.json) |
+| Sisyphus.12.20.03 | 245726 | [245726-sisyphus-12-20-03.json](./245726-sisyphus-12-20-03.json) |
 | Sisypush | 236358 | [236358-sisypush.json](./236358-sisypush.json) |
 | Sit 'N Survive | 186113 | [186113-sit-n-survive.json](./186113-sit-n-survive.json) |
 | Sit 'N Survive | 397110 | [397110-sit-n-survive.json](./397110-sit-n-survive.json) |
@@ -8932,6 +8936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeleton Messi | 293858 | [293858-skeleton-messi.json](./293858-skeleton-messi.json) |
 | Skeleton Quest | 415456 | [415456-skeleton-quest.json](./415456-skeleton-quest.json) |
 | Skeleton Rebellion | 279468 | [279468-skeleton-rebellion.json](./279468-skeleton-rebellion.json) |
+| Skeleton Scale | 245676 | [245676-skeleton-scale.json](./245676-skeleton-scale.json) |
 | Skeleton Scramble Deluxe | 192136 | [192136-skeleton-scramble-deluxe.json](./192136-skeleton-scramble-deluxe.json) |
 | Skeleton Sprint | 55675 | [55675-skeleton-sprint.json](./55675-skeleton-sprint.json) |
 | Skeleton Troubles | 166707 | [166707-skeleton-troubles.json](./166707-skeleton-troubles.json) |
@@ -10121,6 +10126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Wars | 292544 | [292544-slime-wars.json](./292544-slime-wars.json) |
 | Slime Weapon Master | 297614 | [297614-slime-weapon-master.json](./297614-slime-weapon-master.json) |
 | Slime World | 41999 | [41999-slime-world.json](./41999-slime-world.json) |
+| Slime-ing | 245728 | [245728-slime-ing.json](./245728-slime-ing.json) |
 | Slime-san | 28069 | [28069-slime-san.json](./28069-slime-san.json) |
 | Slime-san: Content Creator | 112734 | [112734-slime-san-content-creator.json](./112734-slime-san-content-creator.json) |
 | Slime-san: Superslime Edition | 96019 | [96019-slime-san-superslime-edition.json](./96019-slime-san-superslime-edition.json) |
