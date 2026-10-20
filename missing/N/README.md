@@ -444,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narborion 3: The Swamp of Thousand Paths | 175275 | [175275-narborion-3-the-swamp-of-thousand-paths.json](./175275-narborion-3-the-swamp-of-thousand-paths.json) |
 | Narborion by Night | 98479 | [98479-narborion-by-night.json](./98479-narborion-by-night.json) |
 | Narborion Saga | 29735 | [29735-narborion-saga.json](./29735-narborion-saga.json) |
+| Narc | 218331 | [218331-narc.json](./218331-narc.json) |
 | Narc | 307956 | [307956-narc.json](./307956-narc.json) |
 | Narc | 307957 | [307957-narc.json](./307957-narc.json) |
 | Narc | 4010 | [4010-narc.json](./4010-narc.json) |
