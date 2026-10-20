@@ -6435,6 +6435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worlds | 36277 | [36277-worlds.json](./36277-worlds.json) |
 | Worlds | 381007 | [381007-worlds.json](./381007-worlds.json) |
 | Worlds Adrift Island Creator | 36387 | [36387-worlds-adrift-island-creator.json](./36387-worlds-adrift-island-creator.json) |
+| Worlds Align: Beginning - Collector's Edition | 254909 | [254909-worlds-align-beginning-collectors-edition.json](./254909-worlds-align-beginning-collectors-edition.json) |
 | Worlds Align: Deadly Dream | 187945 | [187945-worlds-align-deadly-dream.json](./187945-worlds-align-deadly-dream.json) |
 | Worlds and World's End | 397228 | [397228-worlds-and-worlds-end.json](./397228-worlds-and-worlds-end.json) |
 | Worlds at War: Monitors Only | 117095 | [117095-worlds-at-war-monitors-only.json](./117095-worlds-at-war-monitors-only.json) |
