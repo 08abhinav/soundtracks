@@ -2004,6 +2004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Rite | 402518 | [402518-re-rite.json](./402518-re-rite.json) |
 | Re:Spite | 107644 | [107644-re-spite.json](./107644-re-spite.json) |
 | Re:Take | 151802 | [151802-re-take.json](./151802-re-take.json) |
+| Re:Touring | 244609 | [244609-re-touring.json](./244609-re-touring.json) |
 | Re:Turn - One Way Trip | 138021 | [138021-re-turn-one-way-trip.json](./138021-re-turn-one-way-trip.json) |
 | Re:Vessel | 202321 | [202321-re-vessel.json](./202321-re-vessel.json) |
 | Re:Zero - Infinity | 193944 | [193944-re-zero-infinity.json](./193944-re-zero-infinity.json) |
@@ -2338,6 +2339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm of Mystery | 365288 | [365288-realm-of-mystery.json](./365288-realm-of-mystery.json) |
 | Realm of Night: The Forbidden Knowledge | 148307 | [148307-realm-of-night-the-forbidden-knowledge.json](./148307-realm-of-night-the-forbidden-knowledge.json) |
 | Realm of Rulers | 98222 | [98222-realm-of-rulers.json](./98222-realm-of-rulers.json) |
+| Realm of Simplicity | 244627 | [244627-realm-of-simplicity.json](./244627-realm-of-simplicity.json) |
 | Realm of Taiwu | 359343 | [359343-realm-of-taiwu.json](./359343-realm-of-taiwu.json) |
 | Realm of the Dead | 257898 | [257898-realm-of-the-dead.json](./257898-realm-of-the-dead.json) |
 | Realm of the Dead | 43210 | [43210-realm-of-the-dead.json](./43210-realm-of-the-dead.json) |
@@ -3179,6 +3181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redshift VR | 111067 | [111067-redshift-vr.json](./111067-redshift-vr.json) |
 | RedShip | 188968 | [188968-redship.json](./188968-redship.json) |
 | Redshirt | 9220 | [9220-redshirt.json](./9220-redshirt.json) |
+| RedSpaceOps | 244641 | [244641-redspaceops.json](./244641-redspaceops.json) |
 | RedStory and the Last Glimmer | 244711 | [244711-redstory-and-the-last-glimmer.json](./244711-redstory-and-the-last-glimmer.json) |
 | Redstream | 392134 | [392134-redstream.json](./392134-redstream.json) |
 | Redstream Dispatch | 397059 | [397059-redstream-dispatch.json](./397059-redstream-dispatch.json) |
@@ -4245,6 +4248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resistance: The 8th Wave | 192689 | [192689-resistance-the-8th-wave.json](./192689-resistance-the-8th-wave.json) |
 | Resistor | 252786 | [252786-resistor.json](./252786-resistor.json) |
 | reSnake | 230734 | [230734-resnake.json](./230734-resnake.json) |
+| Reso-Seeker | 244630 | [244630-reso-seeker.json](./244630-reso-seeker.json) |
 | Resobeat | 377046 | [377046-resobeat.json](./377046-resobeat.json) |
 | Resogun: Defenders | 20328 | [20328-resogun-defenders.json](./20328-resogun-defenders.json) |
 | Resogun: Heroes | 20327 | [20327-resogun-heroes.json](./20327-resogun-heroes.json) |
@@ -8217,6 +8221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rootman: Bodycam Horror Footage | 238197 | [238197-rootman-bodycam-horror-footage.json](./238197-rootman-bodycam-horror-footage.json) |
 | Rootmare | 327164 | [327164-rootmare.json](./327164-rootmare.json) |
 | Rootnote | 402529 | [402529-rootnote.json](./402529-rootnote.json) |
+| Rootown | 244626 | [244626-rootown.json](./244626-rootown.json) |
 | Roots | 249440 | [249440-roots.json](./249440-roots.json) |
 | Roots And Sprouts | 401539 | [401539-roots-and-sprouts.json](./401539-roots-and-sprouts.json) |
 | Roots Devour | 331443 | [331443-roots-devour.json](./331443-roots-devour.json) |
@@ -8840,6 +8845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rudolph the Red-Nosed Reindeer | 50717 | [50717-rudolph-the-red-nosed-reindeer.json](./50717-rudolph-the-red-nosed-reindeer.json) |
 | Rudolph the Red-Nosed Reindeer: Holiday Play Edition | 420697 | [420697-rudolph-the-red-nosed-reindeer-holiday-play-edition.json](./420697-rudolph-the-red-nosed-reindeer-holiday-play-edition.json) |
 | Rudra no Hihou | 15838 | [15838-rudra-no-hihou.json](./15838-rudra-no-hihou.json) |
+| Rudra: A Tale of Time | 244616 | [244616-rudra-a-tale-of-time.json](./244616-rudra-a-tale-of-time.json) |
 | Rue | 165663 | [165663-rue.json](./165663-rue.json) |
 | Rue Valley | 217012 | [217012-rue-valley.json](./217012-rue-valley.json) |
 | Ruff 'N' Tumble | 12755 | [12755-ruff-n-tumble.json](./12755-ruff-n-tumble.json) |
