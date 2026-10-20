@@ -2870,11 +2870,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart 8: DLC Pack Two | 22146 | [22146-mario-kart-8-dlc-pack-two.json](./22146-mario-kart-8-dlc-pack-two.json) |
 | Mario Kart 8: Limited Edition | 45161 | [45161-mario-kart-8-limited-edition.json](./45161-mario-kart-8-limited-edition.json) |
 | Mario Kart Arcade GP | 45160 | [45160-mario-kart-arcade-gp.json](./45160-mario-kart-arcade-gp.json) |
+| Mario Kart Arcade GP DX | 229513 | [229513-mario-kart-arcade-gp-dx.json](./229513-mario-kart-arcade-gp-dx.json) |
+| Mario Kart Arcade GP DX: Baby Mario | 229517 | [229517-mario-kart-arcade-gp-dx-baby-mario.json](./229517-mario-kart-arcade-gp-dx-baby-mario.json) |
+| Mario Kart Arcade GP DX: Baby Peach | 229518 | [229518-mario-kart-arcade-gp-dx-baby-peach.json](./229518-mario-kart-arcade-gp-dx-baby-peach.json) |
+| Mario Kart Arcade GP DX: Daisy | 229519 | [229519-mario-kart-arcade-gp-dx-daisy.json](./229519-mario-kart-arcade-gp-dx-daisy.json) |
+| Mario Kart Arcade GP DX: Donkey Kong Cup Update | 229524 | [229524-mario-kart-arcade-gp-dx-donkey-kong-cup-update.json](./229524-mario-kart-arcade-gp-dx-donkey-kong-cup-update.json) |
+| Mario Kart Arcade GP DX: Jugem | 229521 | [229521-mario-kart-arcade-gp-dx-jugem.json](./229521-mario-kart-arcade-gp-dx-jugem.json) |
+| Mario Kart Arcade GP DX: King Teresa | 229520 | [229520-mario-kart-arcade-gp-dx-king-teresa.json](./229520-mario-kart-arcade-gp-dx-king-teresa.json) |
+| Mario Kart Arcade GP DX: Metal Mario | 229516 | [229516-mario-kart-arcade-gp-dx-metal-mario.json](./229516-mario-kart-arcade-gp-dx-metal-mario.json) |
+| Mario Kart Arcade GP DX: Pac-Man Cup Update | 229523 | [229523-mario-kart-arcade-gp-dx-pac-man-cup-update.json](./229523-mario-kart-arcade-gp-dx-pac-man-cup-update.json) |
+| Mario Kart Arcade GP DX: Rosalina | 229515 | [229515-mario-kart-arcade-gp-dx-rosalina.json](./229515-mario-kart-arcade-gp-dx-rosalina.json) |
 | Mario Kart Arcade GP VR | 48711 | [48711-mario-kart-arcade-gp-vr.json](./48711-mario-kart-arcade-gp-vr.json) |
 | Mario Kart Black | 358436 | [358436-mario-kart-black.json](./358436-mario-kart-black.json) |
 | Mario Kart CW | 151835 | [151835-mario-kart-cw.json](./151835-mario-kart-cw.json) |
 | Mario Kart DS N64 Circuit | 242435 | [242435-mario-kart-ds-n64-circuit.json](./242435-mario-kart-ds-n64-circuit.json) |
 | Mario Kart DS: GameCube Grand Prix | 313347 | [313347-mario-kart-ds-gamecube-grand-prix.json](./313347-mario-kart-ds-gamecube-grand-prix.json) |
+| Mario Kart Midnight | 229509 | [229509-mario-kart-midnight.json](./229509-mario-kart-midnight.json) |
 | Mario Kart PC | 294712 | [294712-mario-kart-pc.json](./294712-mario-kart-pc.json) |
 | Mario Kart R | 42204 | [42204-mario-kart-r.json](./42204-mario-kart-r.json) |
 | Mario Kart RiiBalanced | 202370 | [202370-mario-kart-riibalanced.json](./202370-mario-kart-riibalanced.json) |
@@ -9612,6 +9623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Rollers | 36518 | [36518-mini-rollers.json](./36518-mini-rollers.json) |
 | Mini Royale | 201020 | [201020-mini-royale.json](./201020-mini-royale.json) |
 | Mini Running Ant | 380796 | [380796-mini-running-ant.json](./380796-mini-running-ant.json) |
+| Mini Scientist | 229511 | [229511-mini-scientist.json](./229511-mini-scientist.json) |
 | Mini Ship Wars | 155468 | [155468-mini-ship-wars.json](./155468-mini-ship-wars.json) |
 | Mini Soccer Manager | 411494 | [411494-mini-soccer-manager.json](./411494-mini-soccer-manager.json) |
 | Mini Soccer Star | 414515 | [414515-mini-soccer-star.json](./414515-mini-soccer-star.json) |
