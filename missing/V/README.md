@@ -226,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valentine's Day Bikini Femdom | 400903 | [400903-valentines-day-bikini-femdom.json](./400903-valentines-day-bikini-femdom.json) |
 | Valentine's Day Griddlers | 181073 | [181073-valentines-day-griddlers.json](./181073-valentines-day-griddlers.json) |
 | Valentine's Day Griddlers 2 | 199333 | [199333-valentines-day-griddlers-2.json](./199333-valentines-day-griddlers-2.json) |
+| Valentine's Day Virus | 214967 | [214967-valentines-day-virus.json](./214967-valentines-day-virus.json) |
 | Valentine's Venture: True Love Odyssey | 333742 | [333742-valentines-venture-true-love-odyssey.json](./333742-valentines-venture-true-love-odyssey.json) |
 | Valentines Cafe | 114977 | [114977-valentines-cafe.json](./114977-valentines-cafe.json) |
 | Valentines Desire: Steam Edition | 130956 | [130956-valentines-desire-steam-edition.json](./130956-valentines-desire-steam-edition.json) |
@@ -2785,6 +2786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vox Populi: Poland 2023 | 267678 | [267678-vox-populi-poland-2023.json](./267678-vox-populi-poland-2023.json) |
 | Vox Populi: Spain 2023 | 258042 | [258042-vox-populi-spain-2023.json](./258042-vox-populi-spain-2023.json) |
 | Vox Populi: USA 2024 | 309464 | [309464-vox-populi-usa-2024.json](./309464-vox-populi-usa-2024.json) |
+| Vox Siege | 216665 | [216665-vox-siege.json](./216665-vox-siege.json) |
 | Voxatron | 51288 | [51288-voxatron.json](./51288-voxatron.json) |
 | Voxel - 3D Color by Number | 95094 | [95094-voxel-3d-color-by-number.json](./95094-voxel-3d-color-by-number.json) |
 | Voxel Blast | 34652 | [34652-voxel-blast.json](./34652-voxel-blast.json) |
