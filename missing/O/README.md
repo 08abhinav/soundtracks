@@ -1143,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olenveld | 419352 | [419352-olenveld.json](./419352-olenveld.json) |
 | Olga Doesn't Die | 388837 | [388837-olga-doesnt-die.json](./388837-olga-doesnt-die.json) |
 | Olga: Episode 1 | 292954 | [292954-olga-episode-1.json](./292954-olga-episode-1.json) |
+| Olho | 227661 | [227661-olho.json](./227661-olho.json) |
 | Olho Spectral | 265495 | [265495-olho-spectral.json](./265495-olho-spectral.json) |
 | Oli | 192791 | [192791-oli.json](./192791-oli.json) |
 | Oli Boo Chu | 284406 | [284406-oli-boo-chu.json](./284406-oli-boo-chu.json) |
@@ -3607,6 +3608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our End of the World | 36889 | [36889-our-end-of-the-world.json](./36889-our-end-of-the-world.json) |
 | Our Eyes See No Evil | 361841 | [361841-our-eyes-see-no-evil.json](./361841-our-eyes-see-no-evil.json) |
 | Our Fantasy Quest | 221737 | [221737-our-fantasy-quest.json](./221737-our-fantasy-quest.json) |
+| Our Fantasy Quest + More Quests Pack | 227708 | [227708-our-fantasy-quest-more-quests-pack.json](./227708-our-fantasy-quest-more-quests-pack.json) |
 | Our Fate Forsaken | 197411 | [197411-our-fate-forsaken.json](./197411-our-fate-forsaken.json) |
 | Our Favorite Mortal Potter | 414083 | [414083-our-favorite-mortal-potter.json](./414083-our-favorite-mortal-potter.json) |
 | Our Field Trip Adventure | 298582 | [298582-our-field-trip-adventure.json](./298582-our-field-trip-adventure.json) |
