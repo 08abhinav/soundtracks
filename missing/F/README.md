@@ -601,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairyland: Guild | 107689 | [107689-fairyland-guild.json](./107689-fairyland-guild.json) |
 | Fairyland: Incursion | 32301 | [32301-fairyland-incursion.json](./32301-fairyland-incursion.json) |
 | Fairyland: Manuscript | 51431 | [51431-fairyland-manuscript.json](./51431-fairyland-manuscript.json) |
+| Fairyland: Merge and Magic | 227113 | [227113-fairyland-merge-and-magic.json](./227113-fairyland-merge-and-magic.json) |
 | Fairyland: Power Dice | 103473 | [103473-fairyland-power-dice.json](./103473-fairyland-power-dice.json) |
 | Fairyside | 223480 | [223480-fairyside.json](./223480-fairyside.json) |
 | Fairytale | 47246 | [47246-fairytale.json](./47246-fairytale.json) |
@@ -5145,6 +5146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fists of Stone | 219786 | [219786-fists-of-stone.json](./219786-fists-of-stone.json) |
 | Fit | 102731 | [102731-fit.json](./102731-fit.json) |
 | Fit & Fun | 50604 | [50604-fit-and-fun.json](./50604-fit-and-fun.json) |
+| Fit Adventures Bundle | 227109 | [227109-fit-adventures-bundle.json](./227109-fit-adventures-bundle.json) |
 | Fit and Fry | 342148 | [342148-fit-and-fry.json](./342148-fit-and-fry.json) |
 | Fit Cats | 382188 | [382188-fit-cats.json](./382188-fit-cats.json) |
 | Fit Fantasy | 144268 | [144268-fit-fantasy.json](./144268-fit-fantasy.json) |
@@ -7822,7 +7824,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Hexed and Haunted Pack | 363899 | [363899-fortnite-hexed-and-haunted-pack.json](./363899-fortnite-hexed-and-haunted-pack.json) |
 | Fortnite: Infinite Drift Pack | 276292 | [276292-fortnite-infinite-drift-pack.json](./276292-fortnite-infinite-drift-pack.json) |
 | Fortnite: Kyran Aryk Crew Pack | 321446 | [321446-fortnite-kyran-aryk-crew-pack.json](./321446-fortnite-kyran-aryk-crew-pack.json) |
+| Fortnite: Lava Legends Pack | 227107 | [227107-fortnite-lava-legends-pack.json](./227107-fortnite-lava-legends-pack.json) |
 | Fortnite: Luminary Hypatia Starter Pack | 360188 | [360188-fortnite-luminary-hypatia-starter-pack.json](./360188-fortnite-luminary-hypatia-starter-pack.json) |
+| Fortnite: Magma Masters Pack | 227106 | [227106-fortnite-magma-masters-pack.json](./227106-fortnite-magma-masters-pack.json) |
 | Fortnite: May 2024 Fortnite Crew Pack | 303239 | [303239-fortnite-may-2024-fortnite-crew-pack.json](./303239-fortnite-may-2024-fortnite-crew-pack.json) |
 | Fortnite: Minty Legends Pack | 221948 | [221948-fortnite-minty-legends-pack.json](./221948-fortnite-minty-legends-pack.json) |
 | Fortnite: Raptor Royale Pack | 333588 | [333588-fortnite-raptor-royale-pack.json](./333588-fortnite-raptor-royale-pack.json) |
