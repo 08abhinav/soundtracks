@@ -7666,6 +7666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animosity's Duel | 133800 | [133800-animositys-duel.json](./133800-animositys-duel.json) |
 | AnimuJump | 238628 | [238628-animujump.json](./238628-animujump.json) |
 | Animula Nook | 369856 | [369856-animula-nook.json](./369856-animula-nook.json) |
+| Animus Toil | 217753 | [217753-animus-toil.json](./217753-animus-toil.json) |
 | Animus: Harbinger | 125190 | [125190-animus-harbinger.json](./125190-animus-harbinger.json) |
 | Animus: Revenant | 151601 | [151601-animus-revenant.json](./151601-animus-revenant.json) |
 | Anipang | 412781 | [412781-anipang.json](./412781-anipang.json) |
@@ -10933,6 +10934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As Sweetberry Falls | 379882 | [379882-as-sweetberry-falls.json](./379882-as-sweetberry-falls.json) |
 | As Talk as Walk Wayfarer Team: Land of Music | 241303 | [241303-as-talk-as-walk-wayfarer-team-land-of-music.json](./241303-as-talk-as-walk-wayfarer-team-land-of-music.json) |
 | As Talk As Walk Wayfarer Team: One Percent Sleepy | 261417 | [261417-as-talk-as-walk-wayfarer-team-one-percent-sleepy.json](./261417-as-talk-as-walk-wayfarer-team-one-percent-sleepy.json) |
+| As the Light Goes Out | 217717 | [217717-as-the-light-goes-out.json](./217717-as-the-light-goes-out.json) |
 | As We Know It | 99094 | [99094-as-we-know-it.json](./99094-as-we-know-it.json) |
 | As We Unite | 365081 | [365081-as-we-unite.json](./365081-as-we-unite.json) |
 | As You Wish | 301961 | [301961-as-you-wish.json](./301961-as-you-wish.json) |
@@ -10994,6 +10996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascent: Rivals | 288339 | [288339-ascent-rivals.json](./288339-ascent-rivals.json) |
 | Ascention Suvivor | 364960 | [364960-ascention-suvivor.json](./364960-ascention-suvivor.json) |
 | Ascentroid | 137916 | [137916-ascentroid.json](./137916-ascentroid.json) |
+| ASCII and the Argonauts | 217764 | [217764-ascii-and-the-argonauts.json](./217764-ascii-and-the-argonauts.json) |
 | ASCII Attack | 35239 | [35239-ascii-attack.json](./35239-ascii-attack.json) |
 | ASCII Game Series: Beginning | 334774 | [334774-ascii-game-series-beginning.json](./334774-ascii-game-series-beginning.json) |
 | ASCII Game Series: Blocks | 334775 | [334775-ascii-game-series-blocks.json](./334775-ascii-game-series-blocks.json) |
