@@ -5031,6 +5031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best of the Best: Championship Karate | 7783 | [7783-best-of-the-best-championship-karate.json](./7783-best-of-the-best-championship-karate.json) |
 | Best of Tilted Mill | 52466 | [52466-best-of-tilted-mill.json](./52466-best-of-tilted-mill.json) |
 | Best Park in the Universe | 61141 | [61141-best-park-in-the-universe.json](./61141-best-park-in-the-universe.json) |
+| Best Pearl | 240046 | [240046-best-pearl.json](./240046-best-pearl.json) |
 | Best Play Baseball | 242686 | [242686-best-play-baseball.json](./242686-best-play-baseball.json) |
 | Best Plumber | 125397 | [125397-best-plumber.json](./125397-best-plumber.json) |
 | Best Rally | 104247 | [104247-best-rally.json](./104247-best-rally.json) |
@@ -11619,6 +11620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge to Another World: Burnt Dreams - Collector's Edition | 28677 | [28677-bridge-to-another-world-burnt-dreams-collectors-edition.json](./28677-bridge-to-another-world-burnt-dreams-collectors-edition.json) |
 | Bridge to Another World: Burnt Dreams HD | 95659 | [95659-bridge-to-another-world-burnt-dreams-hd.json](./95659-bridge-to-another-world-burnt-dreams-hd.json) |
 | Bridge to Another World: Christmas Flight | 397111 | [397111-bridge-to-another-world-christmas-flight.json](./397111-bridge-to-another-world-christmas-flight.json) |
+| Bridge to Another World: Cursed Clouds | 240053 | [240053-bridge-to-another-world-cursed-clouds.json](./240053-bridge-to-another-world-cursed-clouds.json) |
 | Bridge to Another World: Cursed Clouds - Collector's Edition | 225009 | [225009-bridge-to-another-world-cursed-clouds-collectors-edition.json](./225009-bridge-to-another-world-cursed-clouds-collectors-edition.json) |
 | Bridge to Another World: Endless Game | 187914 | [187914-bridge-to-another-world-endless-game.json](./187914-bridge-to-another-world-endless-game.json) |
 | Bridge to Another World: Escape From Oz | 327367 | [327367-bridge-to-another-world-escape-from-oz.json](./327367-bridge-to-another-world-escape-from-oz.json) |
