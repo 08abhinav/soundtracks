@@ -4619,6 +4619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Adventures: The Job Promotion | 368621 | [368621-sex-adventures-the-job-promotion.json](./368621-sex-adventures-the-job-promotion.json) |
 | Sex Adventures: The Pool Party | 213459 | [213459-sex-adventures-the-pool-party.json](./213459-sex-adventures-the-pool-party.json) |
 | Sex Adventures: The Secret Club | 286472 | [286472-sex-adventures-the-secret-club.json](./286472-sex-adventures-the-secret-club.json) |
+| Sex Advice Succubus | 239526 | [239526-sex-advice-succubus.json](./239526-sex-advice-succubus.json) |
 | Sex Airlines | 311576 | [311576-sex-airlines.json](./311576-sex-airlines.json) |
 | Sex and the Furry Titty 2: Sins of the City - Love Stories Episodes | 173846 | [173846-sex-and-the-furry-titty-2-sins-of-the-city-love-stories-episodes.json](./173846-sex-and-the-furry-titty-2-sins-of-the-city-love-stories-episodes.json) |
 | Sex and the Furry Titty 3: Come Inside, Sweety | 237075 | [237075-sex-and-the-furry-titty-3-come-inside-sweety.json](./237075-sex-and-the-furry-titty-3-come-inside-sweety.json) |
@@ -5775,6 +5776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Sees Red | 118645 | [118645-she-sees-red.json](./118645-she-sees-red.json) |
 | She Sings, but She’s Not a Skylark, Not Even a Nightingale. | 412445 | [412445-she-sings-but-she-s-not-a-skylark-not-even-a-nightingale.json](./412445-she-sings-but-she-s-not-a-skylark-not-even-a-nightingale.json) |
 | She Tells Her Story | 383592 | [383592-she-tells-her-story.json](./383592-she-tells-her-story.json) |
+| She Wants Me Dead: Extended Edition | 239493 | [239493-she-wants-me-dead-extended-edition.json](./239493-she-wants-me-dead-extended-edition.json) |
 | She Wants to Suck My Blood? | 254324 | [254324-she-wants-to-suck-my-blood.json](./254324-she-wants-to-suck-my-blood.json) |
 | She Was 98 | 385327 | [385327-she-was-98.json](./385327-she-was-98.json) |
 | She Who Fights Monsters: Choice Edition | 186168 | [186168-she-who-fights-monsters-choice-edition.json](./186168-she-who-fights-monsters-choice-edition.json) |
@@ -9301,6 +9303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky DarkCrow | 190195 | [190195-sky-darkcrow.json](./190195-sky-darkcrow.json) |
 | Sky Die | 349967 | [349967-sky-die.json](./349967-sky-die.json) |
 | Sky Diver | 16970 | [16970-sky-diver.json](./16970-sky-diver.json) |
+| Sky Diver | 239491 | [239491-sky-diver.json](./239491-sky-diver.json) |
 | Sky Diving: Parachute Flight Simulator | 329431 | [329431-sky-diving-parachute-flight-simulator.json](./329431-sky-diving-parachute-flight-simulator.json) |
 | Sky Division | 246786 | [246786-sky-division.json](./246786-sky-division.json) |
 | Sky Dunk | 304265 | [304265-sky-dunk.json](./304265-sky-dunk.json) |
@@ -18006,6 +18009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Racer | 270085 | [270085-star-racer.json](./270085-star-racer.json) |
 | Star Rage VR | 68697 | [68697-star-rage-vr.json](./68697-star-rage-vr.json) |
 | Star Raiders | 2217 | [2217-star-raiders.json](./2217-star-raiders.json) |
+| Star Raiders | 239518 | [239518-star-raiders.json](./239518-star-raiders.json) |
 | Star Raiders | 25925 | [25925-star-raiders.json](./25925-star-raiders.json) |
 | Star Raiders II | 28713 | [28713-star-raiders-ii.json](./28713-star-raiders-ii.json) |
 | Star Rangers | 70074 | [70074-star-rangers.json](./70074-star-rangers.json) |
@@ -22844,6 +22848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Brawl Universe | 125347 | [125347-super-brawl-universe.json](./125347-super-brawl-universe.json) |
 | Super Brawl World | 71180 | [71180-super-brawl-world.json](./71180-super-brawl-world.json) |
 | Super Breakout | 239502 | [239502-super-breakout.json](./239502-super-breakout.json) |
+| Super Breakout | 239520 | [239520-super-breakout.json](./239520-super-breakout.json) |
 | Super Breakout Ultra | 64401 | [64401-super-breakout-ultra.json](./64401-super-breakout-ultra.json) |
 | Super Breakout: Evolved | 329632 | [329632-super-breakout-evolved.json](./329632-super-breakout-evolved.json) |
 | Super Bros. 8 | 163222 | [163222-super-bros-8.json](./163222-super-bros-8.json) |
@@ -25238,6 +25243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supertan Marioner 3D Infinity World Adventures | 198180 | [198180-supertan-marioner-3d-infinity-world-adventures.json](./198180-supertan-marioner-3d-infinity-world-adventures.json) |
 | SuperTanks | 149939 | [149939-supertanks.json](./149939-supertanks.json) |
 | SuperTotalCarnage! | 230356 | [230356-supertotalcarnage.json](./230356-supertotalcarnage.json) |
+| SuperTripLand | 239504 | [239504-supertripland.json](./239504-supertripland.json) |
 | SuperTrucks Offroad Racing | 237384 | [237384-supertrucks-offroad-racing.json](./237384-supertrucks-offroad-racing.json) |
 | Supertrumpman: Patriot Fists of Truth | 114744 | [114744-supertrumpman-patriot-fists-of-truth.json](./114744-supertrumpman-patriot-fists-of-truth.json) |
 | SuperTux Advance | 194198 | [194198-supertux-advance.json](./194198-supertux-advance.json) |
@@ -26572,6 +26578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords & Bones 5 | 360592 | [360592-swords-and-bones-5.json](./360592-swords-and-bones-5.json) |
 | Swords & Bones: Complete Edition | 250365 | [250365-swords-and-bones-complete-edition.json](./250365-swords-and-bones-complete-edition.json) |
 | Swords & Bones: Definitive Edition | 247592 | [247592-swords-and-bones-definitive-edition.json](./247592-swords-and-bones-definitive-edition.json) |
+| Swords & Bones: Extended Edition | 239494 | [239494-swords-and-bones-extended-edition.json](./239494-swords-and-bones-extended-edition.json) |
 | Swords & Bones: Premium Edition | 244819 | [244819-swords-and-bones-premium-edition.json](./244819-swords-and-bones-premium-edition.json) |
 | Swords & Bones: Special Edition | 242054 | [242054-swords-and-bones-special-edition.json](./242054-swords-and-bones-special-edition.json) |
 | Swords & Crystals | 268947 | [268947-swords-and-crystals.json](./268947-swords-and-crystals.json) |
