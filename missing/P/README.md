@@ -112,6 +112,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man | 213925 | [213925-pac-man.json](./213925-pac-man.json) |
 | Pac-Man | 213926 | [213926-pac-man.json](./213926-pac-man.json) |
 | Pac-Man | 213944 | [213944-pac-man.json](./213944-pac-man.json) |
+| Pac-Man | 214353 | [214353-pac-man.json](./214353-pac-man.json) |
+| Pac-Man | 214357 | [214357-pac-man.json](./214357-pac-man.json) |
+| Pac-Man | 214358 | [214358-pac-man.json](./214358-pac-man.json) |
+| Pac-Man | 214359 | [214359-pac-man.json](./214359-pac-man.json) |
 | Pac-Man | 218432 | [218432-pac-man.json](./218432-pac-man.json) |
 | Pac-Man | 218442 | [218442-pac-man.json](./218442-pac-man.json) |
 | Pac-Man | 218443 | [218443-pac-man.json](./218443-pac-man.json) |
@@ -393,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacman Worlds | 321645 | [321645-pacman-worlds.json](./321645-pacman-worlds.json) |
 | Pacman: Google Maps | 364410 | [364410-pacman-google-maps.json](./364410-pacman-google-maps.json) |
 | Pacman2 | 62686 | [62686-pacman2.json](./62686-pacman2.json) |
+| PacMan2 | 214361 | [214361-pacman2.json](./214361-pacman2.json) |
 | Pacmania | 41014 | [41014-pacmania.json](./41014-pacmania.json) |
 | PacMania II | 245391 | [245391-pacmania-ii.json](./245391-pacmania-ii.json) |
 | Pacmario | 284435 | [284435-pacmario.json](./284435-pacmario.json) |
@@ -4047,6 +4052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Processing | 360909 | [360909-phantom-processing.json](./360909-phantom-processing.json) |
 | Phantom Project | 192623 | [192623-phantom-project.json](./192623-phantom-project.json) |
 | Phantom Racing | 199443 | [199443-phantom-racing.json](./199443-phantom-racing.json) |
+| Phantom Recall | 214338 | [214338-phantom-recall.json](./214338-phantom-recall.json) |
 | Phantom Reckoning | 343836 | [343836-phantom-reckoning.json](./343836-phantom-reckoning.json) |
 | Phantom Rend | 379862 | [379862-phantom-rend.json](./379862-phantom-rend.json) |
 | Phantom Rift | 174351 | [174351-phantom-rift.json](./174351-phantom-rift.json) |
@@ -8884,6 +8890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polarity Warthog | 323225 | [323225-polarity-warthog.json](./323225-polarity-warthog.json) |
 | Polarity: Ultimate Edition | 28732 | [28732-polarity-ultimate-edition.json](./28732-polarity-ultimate-edition.json) |
 | Polarize | 228582 | [228582-polarize.json](./228582-polarize.json) |
+| Polars | 214354 | [214354-polars.json](./214354-polars.json) |
 | Polarvoid | 276067 | [276067-polarvoid.json](./276067-polarvoid.json) |
 | Polary | 163953 | [163953-polary.json](./163953-polary.json) |
 | PolClash | 367964 | [367964-polclash.json](./367964-polclash.json) |
@@ -9078,6 +9085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Jigsaw: Primates | 280474 | [280474-poly-jigsaw-primates.json](./280474-poly-jigsaw-primates.json) |
 | Poly Kingdom: Siege | 270947 | [270947-poly-kingdom-siege.json](./270947-poly-kingdom-siege.json) |
 | Poly Link: Battle Heroes | 215879 | [215879-poly-link-battle-heroes.json](./215879-poly-link-battle-heroes.json) |
+| Poly Link: Origins | 214375 | [214375-poly-link-origins.json](./214375-poly-link-origins.json) |
 | Poly Link: RPG Girls | 215397 | [215397-poly-link-rpg-girls.json](./215397-poly-link-rpg-girls.json) |
 | Poly Match | 266267 | [266267-poly-match.json](./266267-poly-match.json) |
 | Poly Memory: Animals | 236122 | [236122-poly-memory-animals.json](./236122-poly-memory-animals.json) |
@@ -13604,6 +13612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle | 131268 | [131268-puzzle.json](./131268-puzzle.json) |
 | Puzzle | 287546 | [287546-puzzle.json](./287546-puzzle.json) |
 | Puzzle & Action: Treasure Hunt | 123590 | [123590-puzzle-and-action-treasure-hunt.json](./123590-puzzle-and-action-treasure-hunt.json) |
+| Puzzle & Battle | 214337 | [214337-puzzle-and-battle.json](./214337-puzzle-and-battle.json) |
 | Puzzle & Chess | 156558 | [156558-puzzle-and-chess.json](./156558-puzzle-and-chess.json) |
 | Puzzle & Dragons | 8590 | [8590-puzzle-and-dragons.json](./8590-puzzle-and-dragons.json) |
 | Puzzle & Dragons Nintendo Switch Edition | 191724 | [191724-puzzle-and-dragons-nintendo-switch-edition.json](./191724-puzzle-and-dragons-nintendo-switch-edition.json) |
