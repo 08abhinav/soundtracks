@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waddle Wars: Roguelike Defense | 266831 | [266831-waddle-wars-roguelike-defense.json](./266831-waddle-wars-roguelike-defense.json) |
 | Wade | 385384 | [385384-wade.json](./385384-wade.json) |
 | WadoVice64 | 387157 | [387157-wadovice64.json](./387157-wadovice64.json) |
+| Waffle Blast | 245181 | [245181-waffle-blast.json](./245181-waffle-blast.json) |
 | Waffle Cone Willie | 311888 | [311888-waffle-cone-willie.json](./311888-waffle-cone-willie.json) |
 | Waffle House | 301335 | [301335-waffle-house.json](./301335-waffle-house.json) |
 | Waffle Painter | 383699 | [383699-waffle-painter.json](./383699-waffle-painter.json) |
@@ -6389,6 +6390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Wonders: Hidden Histories 2 | 359216 | [359216-world-wonders-hidden-histories-2.json](./359216-world-wonders-hidden-histories-2.json) |
 | World Xplore | 288451 | [288451-world-xplore.json](./288451-world-xplore.json) |
 | World Zero | 219682 | [219682-world-zero.json](./219682-world-zero.json) |
+| World Zombies Cup | 245182 | [245182-world-zombies-cup.json](./245182-world-zombies-cup.json) |
 | World Zombination | 6857 | [6857-world-zombination.json](./6857-world-zombination.json) |
 | World-Splitter | 145816 | [145816-world-splitter.json](./145816-world-splitter.json) |
 | World-Wide Adventure! Collection | 222381 | [222381-world-wide-adventure-collection.json](./222381-world-wide-adventure-collection.json) |
