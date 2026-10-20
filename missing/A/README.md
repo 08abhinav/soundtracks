@@ -4160,6 +4160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airwave: I Fought the Law and the Law One | 169988 | [169988-airwave-i-fought-the-law-and-the-law-one.json](./169988-airwave-i-fought-the-law-and-the-law-one.json) |
 | AirwayEx | 215243 | [215243-airwayex.json](./215243-airwayex.json) |
 | Airwolf | 13296 | [13296-airwolf.json](./13296-airwolf.json) |
+| Airwolf | 218333 | [218333-airwolf.json](./218333-airwolf.json) |
 | Airwolf | 8848 | [8848-airwolf.json](./8848-airwolf.json) |
 | Airxonix | 15827 | [15827-airxonix.json](./15827-airxonix.json) |
 | Aisai Nikki | 82968 | [82968-aisai-nikki.json](./82968-aisai-nikki.json) |
@@ -9630,6 +9631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcforce | 193793 | [193793-arcforce.json](./193793-arcforce.json) |
 | Arch Drift | 114543 | [114543-arch-drift.json](./114543-arch-drift.json) |
 | Arch Rivals | 215083 | [215083-arch-rivals.json](./215083-arch-rivals.json) |
+| Arch Rivals | 218340 | [218340-arch-rivals.json](./218340-arch-rivals.json) |
 | Arch Rivals | 242784 | [242784-arch-rivals.json](./242784-arch-rivals.json) |
 | Arch Rivals | 264540 | [264540-arch-rivals.json](./264540-arch-rivals.json) |
 | Arch Rivals | 4515 | [4515-arch-rivals.json](./4515-arch-rivals.json) |
