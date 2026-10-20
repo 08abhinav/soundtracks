@@ -6374,6 +6374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Force III: 3rd Scenario | 46061 | [46061-shining-force-iii-3rd-scenario.json](./46061-shining-force-iii-3rd-scenario.json) |
 | Shining Force: Hero of Light and Darkness | 188348 | [188348-shining-force-hero-of-light-and-darkness.json](./188348-shining-force-hero-of-light-and-darkness.json) |
 | Shining Force: The Sword of Hajya | 46360 | [46360-shining-force-the-sword-of-hajya.json](./46360-shining-force-the-sword-of-hajya.json) |
+| Shining Gadget | 221078 | [221078-shining-gadget.json](./221078-shining-gadget.json) |
 | Shining Girls | 292623 | [292623-shining-girls.json](./292623-shining-girls.json) |
 | Shining Hearts | 66402 | [66402-shining-hearts.json](./66402-shining-hearts.json) |
 | Shining Hero | 318873 | [318873-shining-hero.json](./318873-shining-hero.json) |
@@ -6446,6 +6447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobido: Way of the Ninja | 10899 | [10899-shinobido-way-of-the-ninja.json](./10899-shinobido-way-of-the-ninja.json) |
 | Shinobit | 181784 | [181784-shinobit.json](./181784-shinobit.json) |
 | Shinobu | 220778 | [220778-shinobu.json](./220778-shinobu.json) |
+| Shinoda Shinjuku Tantei Jimusho Karajishi Botan | 221049 | [221049-shinoda-shinjuku-tantei-jimusho-karajishi-botan.json](./221049-shinoda-shinjuku-tantei-jimusho-karajishi-botan.json) |
 | Shinogi Chess Club 2: Resistance | 265136 | [265136-shinogi-chess-club-2-resistance.json](./265136-shinogi-chess-club-2-resistance.json) |
 | Shinonome | 222832 | [222832-shinonome.json](./222832-shinonome.json) |
 | Shinonome Abyss: The Maiden Exorcist | 310825 | [310825-shinonome-abyss-the-maiden-exorcist.json](./310825-shinonome-abyss-the-maiden-exorcist.json) |
@@ -7102,6 +7104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoumetsu Toshi: Afterlost | 113589 | [113589-shoumetsu-toshi-afterlost.json](./113589-shoumetsu-toshi-afterlost.json) |
 | Shounen Ashibe: Go! Go! Goma-chan - Cute na Goma-chi Ippai Puzzle | 222404 | [222404-shounen-ashibe-go-go-goma-chan-cute-na-goma-chi-ippai-puzzle.json](./222404-shounen-ashibe-go-go-goma-chan-cute-na-goma-chi-ippai-puzzle.json) |
 | Shounen Ashibe: Goma-chan no Yuuenchi Daibouken | 42542 | [42542-shounen-ashibe-goma-chan-no-yuuenchi-daibouken.json](./42542-shounen-ashibe-goma-chan-no-yuuenchi-daibouken.json) |
+| Shounen D no Kokuhaku | 221036 | [221036-shounen-d-no-kokuhaku.json](./221036-shounen-d-no-kokuhaku.json) |
 | Shounen Kininden Tsumuji | 67608 | [67608-shounen-kininden-tsumuji.json](./67608-shounen-kininden-tsumuji.json) |
 | Shounen Ninja Sasuke | 38232 | [38232-shounen-ninja-sasuke.json](./38232-shounen-ninja-sasuke.json) |
 | Shounen Tantei-dan to Oka no Ue no Kimyou na Karakuri Yashiki | 251623 | [251623-shounen-tantei-dan-to-oka-no-ue-no-kimyou-na-karakuri-yashiki.json](./251623-shounen-tantei-dan-to-oka-no-ue-no-kimyou-na-karakuri-yashiki.json) |
@@ -8559,6 +8562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Singstar: Portugal Hits | 91953 | [91953-singstar-portugal-hits.json](./91953-singstar-portugal-hits.json) |
 | SingStar: Queen | 7456 | [7456-singstar-queen.json](./7456-singstar-queen.json) |
 | SingStar: Studio 100 | 45301 | [45301-singstar-studio-100.json](./45301-singstar-studio-100.json) |
+| SingStar: SuomiHelmet | 221070 | [221070-singstar-suomihelmet.json](./221070-singstar-suomihelmet.json) |
 | Singstar: SuomiHitit | 91884 | [91884-singstar-suomihitit.json](./91884-singstar-suomihitit.json) |
 | SingStar: SuomiSuosikit | 357940 | [357940-singstar-suomisuosikit.json](./357940-singstar-suomisuosikit.json) |
 | SingStar: Vasco | 45302 | [45302-singstar-vasco.json](./45302-singstar-vasco.json) |
@@ -11478,6 +11482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snout Clout | 184930 | [184930-snout-clout.json](./184930-snout-clout.json) |
 | Snoutbreakers | 369453 | [369453-snoutbreakers.json](./369453-snoutbreakers.json) |
 | Snouty And The Great Rift | 417366 | [417366-snouty-and-the-great-rift.json](./417366-snouty-and-the-great-rift.json) |
+| Snow | 221025 | [221025-snow.json](./221025-snow.json) |
 | Snow | 6749 | [6749-snow.json](./6749-snow.json) |
 | Snow Aces League | 371428 | [371428-snow-aces-league.json](./371428-snow-aces-league.json) |
 | Snow Angel | 264127 | [264127-snow-angel.json](./264127-snow-angel.json) |
@@ -21443,6 +21448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stroke the Hedgehog | 218564 | [218564-stroke-the-hedgehog.json](./218564-stroke-the-hedgehog.json) |
 | Stroke the Koala | 243607 | [243607-stroke-the-koala.json](./243607-stroke-the-koala.json) |
 | Stroke the Snake | 218943 | [218943-stroke-the-snake.json](./218943-stroke-the-snake.json) |
+| Stroke the Spider | 221074 | [221074-stroke-the-spider.json](./221074-stroke-the-spider.json) |
 | Stroke the Tortoise | 220344 | [220344-stroke-the-tortoise.json](./220344-stroke-the-tortoise.json) |
 | Stroker | 84315 | [84315-stroker.json](./84315-stroker.json) |
 | Stroll | 216862 | [216862-stroll.json](./216862-stroll.json) |
@@ -22204,6 +22210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Style | 148419 | [148419-sugar-style.json](./148419-sugar-style.json) |
 | Sugar Style: Complete Edition | 141892 | [141892-sugar-style-complete-edition.json](./141892-sugar-style-complete-edition.json) |
 | Sugar Sugar Rune: Heart Ga Ippai! Moegi Gakuen | 49811 | [49811-sugar-sugar-rune-heart-ga-ippai-moegi-gakuen.json](./49811-sugar-sugar-rune-heart-ga-ippai-moegi-gakuen.json) |
+| Sugar-Coated | 221038 | [221038-sugar-coated.json](./221038-sugar-coated.json) |
 | Sugar, Sugar | 89099 | [89099-sugar-sugar.json](./89099-sugar-sugar.json) |
 | Sugar, Sugar: The Christmas Special | 319429 | [319429-sugar-sugar-the-christmas-special.json](./319429-sugar-sugar-the-christmas-special.json) |
 | Sugar's Delight | 172445 | [172445-sugars-delight.json](./172445-sugars-delight.json) |
