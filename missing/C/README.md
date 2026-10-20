@@ -2084,6 +2084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carprogram | 273379 | [273379-carprogram.json](./273379-carprogram.json) |
 | Carrera | 295031 | [295031-carrera.json](./295031-carrera.json) |
 | Carrera Power Slide | 49308 | [49308-carrera-power-slide.json](./49308-carrera-power-slide.json) |
+| Carreta Furacão: The Legend | 253742 | [253742-carreta-furacao-the-legend.json](./253742-carreta-furacao-the-legend.json) |
 | Carriages | 420477 | [420477-carriages.json](./420477-carriages.json) |
 | Carrie the Caregiver: Episode 1 - Infancy | 95416 | [95416-carrie-the-caregiver-episode-1-infancy.json](./95416-carrie-the-caregiver-episode-1-infancy.json) |
 | Carrie's Order Up! | 24812 | [24812-carries-order-up.json](./24812-carries-order-up.json) |
@@ -4199,6 +4200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champion Shift | 249837 | [249837-champion-shift.json](./249837-champion-shift.json) |
 | Champion Simulator | 326458 | [326458-champion-simulator.json](./326458-champion-simulator.json) |
 | Champion Soccer | 6092 | [6092-champion-soccer.json](./6092-champion-soccer.json) |
+| Champion Strike: Crypto Arena | 253733 | [253733-champion-strike-crypto-arena.json](./253733-champion-strike-crypto-arena.json) |
 | Champion Strike: Hero Clash | 221645 | [221645-champion-strike-hero-clash.json](./221645-champion-strike-hero-clash.json) |
 | Champion Tennis | 6093 | [6093-champion-tennis.json](./6093-champion-tennis.json) |
 | Champions | 120685 | [120685-champions.json](./120685-champions.json) |
@@ -7112,6 +7114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clannad Side Stories | 34052 | [34052-clannad-side-stories.json](./34052-clannad-side-stories.json) |
 | Clannad: Lost Winter | 166664 | [166664-clannad-lost-winter.json](./166664-clannad-lost-winter.json) |
 | Clannad: The Past Path | 138157 | [138157-clannad-the-past-path.json](./138157-clannad-the-past-path.json) |
+| Clannada: Gensou Shoujo | 253769 | [253769-clannada-gensou-shoujo.json](./253769-clannada-gensou-shoujo.json) |
 | ClanRivals: Vikings | 159876 | [159876-clanrivals-vikings.json](./159876-clanrivals-vikings.json) |
 | Clans | 17121 | [17121-clans.json](./17121-clans.json) |
 | Clans Logue | 259718 | [259718-clans-logue.json](./259718-clans-logue.json) |
@@ -9413,6 +9416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comet Golf | 129738 | [129738-comet-golf.json](./129738-comet-golf.json) |
 | Comet Moon: The Journey Begins | 339845 | [339845-comet-moon-the-journey-begins.json](./339845-comet-moon-the-journey-begins.json) |
 | Comet Summoner | 131942 | [131942-comet-summoner.json](./131942-comet-summoner.json) |
+| Comet Summoner Time Trial Version | 253759 | [253759-comet-summoner-time-trial-version.json](./253759-comet-summoner-time-trial-version.json) |
 | Comet Tail: Polygon Panic | 369010 | [369010-comet-tail-polygon-panic.json](./369010-comet-tail-polygon-panic.json) |
 | Comet Tycoon | 349881 | [349881-comet-tycoon.json](./349881-comet-tycoon.json) |
 | Comets Wake | 76918 | [76918-comets-wake.json](./76918-comets-wake.json) |
