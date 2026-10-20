@@ -7247,6 +7247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hood Story: Kaito Yamazaki | 216717 | [216717-hood-story-kaito-yamazaki.json](./216717-hood-story-kaito-yamazaki.json) |
 | Hood Warfare | 233644 | [233644-hood-warfare.json](./233644-hood-warfare.json) |
 | Hood: Outlaws & Legends | 136512 | [136512-hood-outlaws-and-legends.json](./136512-hood-outlaws-and-legends.json) |
+| Hood: Outlaws & Legends - Forest Lords Pack | 223870 | [223870-hood-outlaws-and-legends-forest-lords-pack.json](./223870-hood-outlaws-and-legends-forest-lords-pack.json) |
 | Hood: Outlaws & Legends - Year 1 Edition | 169193 | [169193-hood-outlaws-and-legends-year-1-edition.json](./169193-hood-outlaws-and-legends-year-1-edition.json) |
 | Hoodbound | 394478 | [394478-hoodbound.json](./394478-hoodbound.json) |
 | Hooded Horse 4X Strategy Bundle | 231755 | [231755-hooded-horse-4x-strategy-bundle.json](./231755-hooded-horse-4x-strategy-bundle.json) |
