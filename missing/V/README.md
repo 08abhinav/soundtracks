@@ -466,6 +466,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Legacy | 304968 | [304968-vampire-legacy.json](./304968-vampire-legacy.json) |
 | Vampire Legends: Power of Three | 18308 | [18308-vampire-legends-power-of-three.json](./18308-vampire-legends-power-of-three.json) |
 | Vampire Legends: The Count of New Orleans | 101000 | [101000-vampire-legends-the-count-of-new-orleans.json](./101000-vampire-legends-the-count-of-new-orleans.json) |
+| Vampire Legends: The Count of New Orleans - Collector's Edition | 228251 | [228251-vampire-legends-the-count-of-new-orleans-collectors-edition.json](./228251-vampire-legends-the-count-of-new-orleans-collectors-edition.json) |
+| Vampire Legends: The True Story of Kisilova - Collector’s Edition | 228249 | [228249-vampire-legends-the-true-story-of-kisilova-collector-s-edition.json](./228249-vampire-legends-the-true-story-of-kisilova-collector-s-edition.json) |
+| Vampire Legends: The Untold Story of Elizabeth Bathory - Collector's Edition | 228250 | [228250-vampire-legends-the-untold-story-of-elizabeth-bathory-collectors-edition.json](./228250-vampire-legends-the-untold-story-of-elizabeth-bathory-collectors-edition.json) |
 | Vampire Love | 268661 | [268661-vampire-love.json](./268661-vampire-love.json) |
 | Vampire Martina-Bloody Day 228 | 124222 | [124222-vampire-martina-bloody-day-228.json](./124222-vampire-martina-bloody-day-228.json) |
 | Vampire Master | 341047 | [341047-vampire-master.json](./341047-vampire-master.json) |
@@ -694,6 +697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Varg | 327052 | [327052-varg.json](./327052-varg.json) |
 | VargFren Mash | 135180 | [135180-vargfren-mash.json](./135180-vargfren-mash.json) |
 | Vargskelethor's Hardcore Friday Super Metal Almost Criminally Violent Ultra Swedish Meatball Royal Rumble Massacre! | 215074 | [215074-vargskelethors-hardcore-friday-super-metal-almost-criminally-violent-ultra-swedish-meatball-royal-rumble-massacre.json](./215074-vargskelethors-hardcore-friday-super-metal-almost-criminally-violent-ultra-swedish-meatball-royal-rumble-massacre.json) |
+| Vargverse | 228293 | [228293-vargverse.json](./228293-vargverse.json) |
 | Vari Dungeon | 220869 | [220869-vari-dungeon.json](./220869-vari-dungeon.json) |
 | Variable Barricade | 69345 | [69345-variable-barricade.json](./69345-variable-barricade.json) |
 | Variables | 118581 | [118581-variables.json](./118581-variables.json) |
