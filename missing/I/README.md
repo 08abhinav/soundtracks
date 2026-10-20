@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Can Offer You Flowers | 386477 | [386477-i-can-offer-you-flowers.json](./386477-i-can-offer-you-flowers.json) |
 | I can save myself | 182749 | [182749-i-can-save-myself.json](./182749-i-can-save-myself.json) |
 | I Can Save This! | 326612 | [326612-i-can-save-this.json](./326612-i-can-save-this.json) |
+| I Can See You | 244613 | [244613-i-can-see-you.json](./244613-i-can-see-you.json) |
 | I Can Transform | 265740 | [265740-i-can-transform.json](./265740-i-can-transform.json) |
 | I Can't Be Human | 332813 | [332813-i-cant-be-human.json](./332813-i-cant-be-human.json) |
 | I Can't Beat The Beautiful Ones | 393117 | [393117-i-cant-beat-the-beautiful-ones.json](./393117-i-cant-beat-the-beautiful-ones.json) |
@@ -2757,6 +2758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infernovasion | 269663 | [269663-infernovasion.json](./269663-infernovasion.json) |
 | Infernum Bound | 337094 | [337094-infernum-bound.json](./337094-infernum-bound.json) |
 | Inferos Numine: Descent Into Darkness | 211092 | [211092-inferos-numine-descent-into-darkness.json](./211092-inferos-numine-descent-into-darkness.json) |
+| Infest | 244608 | [244608-infest.json](./244608-infest.json) |
 | Infestation | 9119 | [9119-infestation.json](./9119-infestation.json) |
 | Infestation | 9486 | [9486-infestation.json](./9486-infestation.json) |
 | Infestation on Epsilon 13 | 365826 | [365826-infestation-on-epsilon-13.json](./365826-infestation-on-epsilon-13.json) |
