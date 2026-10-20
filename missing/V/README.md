@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vagrant Story | 2216 | [2216-vagrant-story.json](./2216-vagrant-story.json) |
 | Vagrant Strider | 272384 | [272384-vagrant-strider.json](./272384-vagrant-strider.json) |
 | Vagrant Sword | 149376 | [149376-vagrant-sword.json](./149376-vagrant-sword.json) |
+| Vagrant.exe | 249638 | [249638-vagrant-exe.json](./249638-vagrant-exe.json) |
 | Vagrient | 276152 | [276152-vagrient.json](./276152-vagrient.json) |
 | Vagrus: The Riven Realms - At the Heart of Ruin | 375174 | [375174-vagrus-the-riven-realms-at-the-heart-of-ruin.json](./375174-vagrus-the-riven-realms-at-the-heart-of-ruin.json) |
 | Vagrus: The Riven Realms - Centurion Edition | 186892 | [186892-vagrus-the-riven-realms-centurion-edition.json](./186892-vagrus-the-riven-realms-centurion-edition.json) |
@@ -1117,6 +1118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verho: Curse of Faces | 318767 | [318767-verho-curse-of-faces.json](./318767-verho-curse-of-faces.json) |
 | Verho: Curse of Faces | 410369 | [410369-verho-curse-of-faces.json](./410369-verho-curse-of-faces.json) |
 | Veridus: The Walking Nightmare | 416672 | [416672-veridus-the-walking-nightmare.json](./416672-veridus-the-walking-nightmare.json) |
+| Veriscape | 249651 | [249651-veriscape.json](./249651-veriscape.json) |
 | Verisim Skies | 244899 | [244899-verisim-skies.json](./244899-verisim-skies.json) |
 | Verismo | 362986 | [362986-verismo.json](./362986-verismo.json) |
 | Veritas | 111443 | [111443-veritas.json](./111443-veritas.json) |
@@ -1315,6 +1317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vexed Heroes | 261419 | [261419-vexed-heroes.json](./261419-vexed-heroes.json) |
 | Vexius | 76677 | [76677-vexius.json](./76677-vexius.json) |
 | Vexle | 409228 | [409228-vexle.json](./409228-vexle.json) |
+| Vext Edit | 249648 | [249648-vext-edit.json](./249648-vext-edit.json) |
 | Vextorial | 324165 | [324165-vextorial.json](./324165-vextorial.json) |
 | Veylora | 382407 | [382407-veylora.json](./382407-veylora.json) |
 | Veyora | 386298 | [386298-veyora.json](./386298-veyora.json) |
