@@ -13076,6 +13076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumbot | 330173 | [330173-dumbot.json](./330173-dumbot.json) |
 | Dumbriel: Magnificent Adventure in Hell | 260404 | [260404-dumbriel-magnificent-adventure-in-hell.json](./260404-dumbriel-magnificent-adventure-in-hell.json) |
 | Dumdum Afterthoughts | 401721 | [401721-dumdum-afterthoughts.json](./401721-dumdum-afterthoughts.json) |
+| Dummb | 249040 | [249040-dummb.json](./249040-dummb.json) |
 | Dummy Defense | 223627 | [223627-dummy-defense.json](./223627-dummy-defense.json) |
 | Dummy Dungeon | 219763 | [219763-dummy-dungeon.json](./219763-dummy-dungeon.json) |
 | Dummy Guyz | 303493 | [303493-dummy-guyz.json](./303493-dummy-guyz.json) |
