@@ -6132,7 +6132,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Petals | 269218 | [269218-pixel-petals.json](./269218-pixel-petals.json) |
 | Pixel Petkeeper | 213838 | [213838-pixel-petkeeper.json](./213838-pixel-petkeeper.json) |
 | Pixel Pileup Party | 130201 | [130201-pixel-pileup-party.json](./130201-pixel-pileup-party.json) |
-| Pixel Piracy | 5590 | [5590-pixel-piracy.json](./5590-pixel-piracy.json) |
 | Pixel Piracy Online | 270040 | [270040-pixel-piracy-online.json](./270040-pixel-piracy-online.json) |
 | Pixel Pirate | 195572 | [195572-pixel-pirate.json](./195572-pixel-pirate.json) |
 | Pixel Pirate | 342859 | [342859-pixel-pirate.json](./342859-pixel-pirate.json) |
