@@ -4141,6 +4141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender of the Crown: Heroes Live Forever | 8676 | [8676-defender-of-the-crown-heroes-live-forever.json](./8676-defender-of-the-crown-heroes-live-forever.json) |
 | Defender of the Favicon | 201095 | [201095-defender-of-the-favicon.json](./201095-defender-of-the-favicon.json) |
 | Defender of the Turrets: Warp Attack | 171593 | [171593-defender-of-the-turrets-warp-attack.json](./171593-defender-of-the-turrets-warp-attack.json) |
+| Defender of the Wood | 249592 | [249592-defender-of-the-wood.json](./249592-defender-of-the-wood.json) |
 | Defender of Zorgaba | 67976 | [67976-defender-of-zorgaba.json](./67976-defender-of-zorgaba.json) |
 | Defender X | 275665 | [275665-defender-x.json](./275665-defender-x.json) |
 | Defender's Quest 2: Mists of Ruin | 7889 | [7889-defenders-quest-2-mists-of-ruin.json](./7889-defenders-quest-2-mists-of-ruin.json) |
@@ -6861,6 +6862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diner Together | 192648 | [192648-diner-together.json](./192648-diner-together.json) |
 | Ding Dong Dang | 302470 | [302470-ding-dong-dang.json](./302470-ding-dong-dang.json) |
 | Ding Dong Dead | 272495 | [272495-ding-dong-dead.json](./272495-ding-dong-dead.json) |
+| Ding Dong Delivery 2: Pizza | 249594 | [249594-ding-dong-delivery-2-pizza.json](./249594-ding-dong-delivery-2-pizza.json) |
 | Ding Dong Die | 321225 | [321225-ding-dong-die.json](./321225-ding-dong-die.json) |
 | Ding Dong Pitch | 379555 | [379555-ding-dong-pitch.json](./379555-ding-dong-pitch.json) |
 | Ding Dong VR | 105174 | [105174-ding-dong-vr.json](./105174-ding-dong-vr.json) |
@@ -9407,6 +9409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dontbegrey | 51965 | [51965-dontbegrey.json](./51965-dontbegrey.json) |
 | Dontcrush | 384177 | [384177-dontcrush.json](./384177-dontcrush.json) |
 | Dontdy | 156108 | [156108-dontdy.json](./156108-dontdy.json) |
+| Dontforget Connected | 249613 | [249613-dontforget-connected.json](./249613-dontforget-connected.json) |
 | Dontrel Dolphin | 306003 | [306003-dontrel-dolphin.json](./306003-dontrel-dolphin.json) |
 | Dontrel Dolphin 2 | 305838 | [305838-dontrel-dolphin-2.json](./305838-dontrel-dolphin-2.json) |
 | Dontrel Dolphin 3 | 306186 | [306186-dontrel-dolphin-3.json](./306186-dontrel-dolphin-3.json) |
