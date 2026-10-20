@@ -1140,6 +1140,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 | Cover | Game | Albums |
 |---|---|---|
+| <img src="https://i.scdn.co/image/ab67616d0000b27316adaadc43430086f3ef2192" width="60" /> | [OTXO](https://ostdb.net/games/otxo) | **OTXO Original Soundtrack** · [Spotify](https://open.spotify.com/album/5P96YJVQOBB7oh4N2s64jW) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/dd/bc/21/ddbc21df-296d-f950-2240-a699ad113c95/859718116158_cover.jpg/1000x1000bb.jpg" width="60" /> | [Obduction](https://ostdb.net/games/obduction) | **Obduction (Original Soundtrack)** · [Apple Music](https://music.apple.com/us/album/obduction-original-soundtrack/1148568097?uo=4) · [Album](https://album.link/i/1148568097) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323b1191a24ef42ab349790d5" width="60" /> | [Observer: System Redux](https://ostdb.net/games/observer-system-redux) | **Observer: System Redux (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2bcxH5LYM5nZhPCZs6DDt8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27364e013fbcff49358309af8c8" width="60" /> | [Octodad: Dadliest Catch](https://ostdb.net/games/octodad-dadliest-catch) | **Octodad: Dadliest Catch (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/46JHOigoGnfNu9VNdVzNFT) |
@@ -1941,4 +1942,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2258 soundtracks · last updated 2026-10-20T21:38:18.737Z_
+_2259 soundtracks · last updated 2026-10-20T21:38:28.373Z_
