@@ -4941,6 +4941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bigger Picture | 359531 | [359531-the-bigger-picture.json](./359531-the-bigger-picture.json) |
 | The Biggest Creators of Empires | 72137 | [72137-the-biggest-creators-of-empires.json](./72137-the-biggest-creators-of-empires.json) |
 | The Biggest Loser | 48035 | [48035-the-biggest-loser.json](./48035-the-biggest-loser.json) |
+| The Bigs 2 | 210441 | [210441-the-bigs-2.json](./210441-the-bigs-2.json) |
 | The Bigs 2 | 4716 | [4716-the-bigs-2.json](./4716-the-bigs-2.json) |
 | The Bikini Bottom Massacre | 269582 | [269582-the-bikini-bottom-massacre.json](./269582-the-bikini-bottom-massacre.json) |
 | The Bilestoad | 39780 | [39780-the-bilestoad.json](./39780-the-bilestoad.json) |
@@ -8988,6 +8989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Birdling | 44162 | [44162-the-last-birdling.json](./44162-the-last-birdling.json) |
 | The Last Blade (Best Collection) | 75482 | [75482-the-last-blade-best-collection.json](./75482-the-last-blade-best-collection.json) |
 | The Last Blade 2 | 76045 | [76045-the-last-blade-2.json](./76045-the-last-blade-2.json) |
+| The Last Blade: Beyond the Destiny | 210443 | [210443-the-last-blade-beyond-the-destiny.json](./210443-the-last-blade-beyond-the-destiny.json) |
 | The Last Bot | 270547 | [270547-the-last-bot.json](./270547-the-last-bot.json) |
 | The Last Bounty Hunter | 4287 | [4287-the-last-bounty-hunter.json](./4287-the-last-bounty-hunter.json) |
 | The Last Breath | 254025 | [254025-the-last-breath.json](./254025-the-last-breath.json) |
@@ -9514,7 +9516,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Spyro: A New Beginning | 248520 | [248520-the-legend-of-spyro-a-new-beginning.json](./248520-the-legend-of-spyro-a-new-beginning.json) |
 | The Legend of Spyro: A New Beginning | 300392 | [300392-the-legend-of-spyro-a-new-beginning.json](./300392-the-legend-of-spyro-a-new-beginning.json) |
 | The Legend of Spyro: Dawn of the Dragon | 1584 | [1584-the-legend-of-spyro-dawn-of-the-dragon.json](./1584-the-legend-of-spyro-dawn-of-the-dragon.json) |
+| The Legend of Spyro: Dawn of the Dragon | 210444 | [210444-the-legend-of-spyro-dawn-of-the-dragon.json](./210444-the-legend-of-spyro-dawn-of-the-dragon.json) |
 | The Legend of Spyro: Dawn of the Dragon | 299540 | [299540-the-legend-of-spyro-dawn-of-the-dragon.json](./299540-the-legend-of-spyro-dawn-of-the-dragon.json) |
+| The Legend of Spyro: The Eternal Night | 210445 | [210445-the-legend-of-spyro-the-eternal-night.json](./210445-the-legend-of-spyro-the-eternal-night.json) |
+| The Legend of Spyro: The Eternal Night | 210446 | [210446-the-legend-of-spyro-the-eternal-night.json](./210446-the-legend-of-spyro-the-eternal-night.json) |
 | The Legend of Spyro: The Eternal Night | 300393 | [300393-the-legend-of-spyro-the-eternal-night.json](./300393-the-legend-of-spyro-the-eternal-night.json) |
 | The Legend of Steel Empire | 270587 | [270587-the-legend-of-steel-empire.json](./270587-the-legend-of-steel-empire.json) |
 | The Legend of Studentenfutter | 185534 | [185534-the-legend-of-studentenfutter.json](./185534-the-legend-of-studentenfutter.json) |
@@ -12482,6 +12487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Simpsons.exe | 388397 | [388397-the-simpsons-exe.json](./388397-the-simpsons-exe.json) |
 | The Sims 2 | 192905 | [192905-the-sims-2.json](./192905-the-sims-2.json) |
 | The Sims 2 | 192906 | [192906-the-sims-2.json](./192906-the-sims-2.json) |
+| The Sims 2 | 210459 | [210459-the-sims-2.json](./210459-the-sims-2.json) |
 | The Sims 2 | 210460 | [210460-the-sims-2.json](./210460-the-sims-2.json) |
 | The Sims 2 | 225246 | [225246-the-sims-2.json](./225246-the-sims-2.json) |
 | The Sims 2: Apartment Life | 5538 | [5538-the-sims-2-apartment-life.json](./5538-the-sims-2-apartment-life.json) |
@@ -15716,6 +15722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thy Flesh | 232837 | [232837-thy-flesh.json](./232837-thy-flesh.json) |
 | Thy Flesh Consumed | 396452 | [396452-thy-flesh-consumed.json](./396452-thy-flesh-consumed.json) |
 | Thy Knights of Climbalot | 109675 | [109675-thy-knights-of-climbalot.json](./109675-thy-knights-of-climbalot.json) |
+| Thy Sword | 210447 | [210447-thy-sword.json](./210447-thy-sword.json) |
 | Thy Sword | 68320 | [68320-thy-sword.json](./68320-thy-sword.json) |
 | Thymesia | 145028 | [145028-thymesia.json](./145028-thymesia.json) |
 | Thymesia: Cloud Version | 213562 | [213562-thymesia-cloud-version.json](./213562-thymesia-cloud-version.json) |
@@ -19181,8 +19188,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk: Shred | 5230 | [5230-tony-hawk-shred.json](./5230-tony-hawk-shred.json) |
 | Tony Hawk's American Sk8land | 364480 | [364480-tony-hawks-american-sk8land.json](./364480-tony-hawks-american-sk8land.json) |
 | Tony Hawk's American Sk8land | 6643 | [6643-tony-hawks-american-sk8land.json](./6643-tony-hawks-american-sk8land.json) |
+| Tony Hawk's Downhill Jam | 210449 | [210449-tony-hawks-downhill-jam.json](./210449-tony-hawks-downhill-jam.json) |
+| Tony Hawk's Downhill Jam | 210450 | [210450-tony-hawks-downhill-jam.json](./210450-tony-hawks-downhill-jam.json) |
 | Tony Hawk's Existential Nightmare | 178029 | [178029-tony-hawks-existential-nightmare.json](./178029-tony-hawks-existential-nightmare.json) |
 | Tony Hawk's Motion | 21929 | [21929-tony-hawks-motion.json](./21929-tony-hawks-motion.json) |
+| Tony Hawk's Pro Skater | 210451 | [210451-tony-hawks-pro-skater.json](./210451-tony-hawks-pro-skater.json) |
+| Tony Hawk's Pro Skater | 210452 | [210452-tony-hawks-pro-skater.json](./210452-tony-hawks-pro-skater.json) |
 | Tony Hawk's Pro Skater | 6692 | [6692-tony-hawks-pro-skater.json](./6692-tony-hawks-pro-skater.json) |
 | Tony Hawk's Pro Skater 1+2: Digital Deluxe Edition | 139878 | [139878-tony-hawks-pro-skater-1-2-digital-deluxe-edition.json](./139878-tony-hawks-pro-skater-1-2-digital-deluxe-edition.json) |
 | Tony Hawk's Pro Skater 2 | 201756 | [201756-tony-hawks-pro-skater-2.json](./201756-tony-hawks-pro-skater-2.json) |
