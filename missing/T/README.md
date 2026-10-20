@@ -1225,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talking in Circles | 302491 | [302491-talking-in-circles.json](./302491-talking-in-circles.json) |
 | Talking in the Distance | 179159 | [179159-talking-in-the-distance.json](./179159-talking-in-the-distance.json) |
 | Talking Larry the Bird | 344921 | [344921-talking-larry-the-bird.json](./344921-talking-larry-the-bird.json) |
+| Talking Marvel Comics X-Men | 217718 | [217718-talking-marvel-comics-x-men.json](./217718-talking-marvel-comics-x-men.json) |
 | Talking Phrasebook | 85424 | [85424-talking-phrasebook.json](./85424-talking-phrasebook.json) |
 | Talking Pierre the Parrot | 320944 | [320944-talking-pierre-the-parrot.json](./320944-talking-pierre-the-parrot.json) |
 | Talking Pinball | 346043 | [346043-talking-pinball.json](./346043-talking-pinball.json) |
@@ -2486,6 +2487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tecmo Secret of the Stars | 15893 | [15893-tecmo-secret-of-the-stars.json](./15893-tecmo-secret-of-the-stars.json) |
 | Tecmo Stackers | 43939 | [43939-tecmo-stackers.json](./43939-tecmo-stackers.json) |
 | Tecmo Super Baseball | 46246 | [46246-tecmo-super-baseball.json](./46246-tecmo-super-baseball.json) |
+| Tecmo Super Bowl | 217714 | [217714-tecmo-super-bowl.json](./217714-tecmo-super-bowl.json) |
 | Tecmo Super Bowl | 237471 | [237471-tecmo-super-bowl.json](./237471-tecmo-super-bowl.json) |
 | Tecmo Super Bowl | 80373 | [80373-tecmo-super-bowl.json](./80373-tecmo-super-bowl.json) |
 | Tecmo Super Bowl 2015 | 48896 | [48896-tecmo-super-bowl-2015.json](./48896-tecmo-super-bowl-2015.json) |
@@ -3093,6 +3095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis | 131530 | [131530-tennis.json](./131530-tennis.json) |
 | Tennis | 131536 | [131536-tennis.json](./131536-tennis.json) |
 | Tennis | 20461 | [20461-tennis.json](./20461-tennis.json) |
+| Tennis | 217741 | [217741-tennis.json](./217741-tennis.json) |
 | Tennis | 217967 | [217967-tennis.json](./217967-tennis.json) |
 | Tennis | 234091 | [234091-tennis.json](./234091-tennis.json) |
 | Tennis | 295670 | [295670-tennis.json](./295670-tennis.json) |
@@ -4197,6 +4200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Basildon Bond | 67700 | [67700-the-adventures-of-basildon-bond.json](./67700-the-adventures-of-basildon-bond.json) |
 | The Adventures of Batman & Robin | 45203 | [45203-the-adventures-of-batman-and-robin.json](./45203-the-adventures-of-batman-and-robin.json) |
 | The Adventures of Batman & Robin: Activity Centre | 127639 | [127639-the-adventures-of-batman-and-robin-activity-centre.json](./127639-the-adventures-of-batman-and-robin-activity-centre.json) |
+| The Adventures of Batman & Robin: Tiger Barcodzz | 217728 | [217728-the-adventures-of-batman-and-robin-tiger-barcodzz.json](./217728-the-adventures-of-batman-and-robin-tiger-barcodzz.json) |
 | The Adventures of Batman & Robin: Tiger Barcodzz - 07: Killer Croc | 360486 | [360486-the-adventures-of-batman-and-robin-tiger-barcodzz-07-killer-croc.json](./360486-the-adventures-of-batman-and-robin-tiger-barcodzz-07-killer-croc.json) |
 | The Adventures of Bayou Billy | 218910 | [218910-the-adventures-of-bayou-billy.json](./218910-the-adventures-of-bayou-billy.json) |
 | The Adventures of Bayou Billy | 8740 | [8740-the-adventures-of-bayou-billy.json](./8740-the-adventures-of-bayou-billy.json) |
@@ -7152,6 +7156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fire Chief Compilation | 145261 | [145261-the-fire-chief-compilation.json](./145261-the-fire-chief-compilation.json) |
 | The Fire Nobody Started | 332067 | [332067-the-fire-nobody-started.json](./332067-the-fire-nobody-started.json) |
 | The Fire Rises | 321742 | [321742-the-fire-rises.json](./321742-the-fire-rises.json) |
+| The Fire Tower | 217757 | [217757-the-fire-tower.json](./217757-the-fire-tower.json) |
 | The Fireblue Conundrum | 318261 | [318261-the-fireblue-conundrum.json](./318261-the-fireblue-conundrum.json) |
 | The Firebrand | 295246 | [295246-the-firebrand.json](./295246-the-firebrand.json) |
 | The Firemen | 42621 | [42621-the-firemen.json](./42621-the-firemen.json) |
@@ -8964,6 +8969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last AntLion | 120753 | [120753-the-last-antlion.json](./120753-the-last-antlion.json) |
 | The Last Aura | 120871 | [120871-the-last-aura.json](./120871-the-last-aura.json) |
 | The Last Ball | 410474 | [410474-the-last-ball.json](./410474-the-last-ball.json) |
+| The Last Barbarian | 217745 | [217745-the-last-barbarian.json](./217745-the-last-barbarian.json) |
 | The last Baron's stunt | 89652 | [89652-the-last-barons-stunt.json](./89652-the-last-barons-stunt.json) |
 | The Last Bastion | 188504 | [188504-the-last-bastion.json](./188504-the-last-bastion.json) |
 | The Last Bee | 380186 | [380186-the-last-bee.json](./380186-the-last-bee.json) |
@@ -18704,6 +18710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom and Jerry: Mouse Hunt | 8031 | [8031-tom-and-jerry-mouse-hunt.json](./8031-tom-and-jerry-mouse-hunt.json) |
 | Tom and Jerry: Refriger-Raiders | 355622 | [355622-tom-and-jerry-refriger-raiders.json](./355622-tom-and-jerry-refriger-raiders.json) |
 | Tom and Jerry: The Magic Ring | 8030 | [8030-tom-and-jerry-the-magic-ring.json](./8030-tom-and-jerry-the-magic-ring.json) |
+| Tom and Jerry: The Movie | 217737 | [217737-tom-and-jerry-the-movie.json](./217737-tom-and-jerry-the-movie.json) |
 | Tom and Jerry: The Movie | 8043 | [8043-tom-and-jerry-the-movie.json](./8043-tom-and-jerry-the-movie.json) |
 | Tom Clancy's 3 Pack | 228965 | [228965-tom-clancys-3-pack.json](./228965-tom-clancys-3-pack.json) |
 | Tom Clancy's Action Pack Limited Edition | 43283 | [43283-tom-clancys-action-pack-limited-edition.json](./43283-tom-clancys-action-pack-limited-edition.json) |
