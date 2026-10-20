@@ -2966,6 +2966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Creatures | 112373 | [112373-sea-creatures.json](./112373-sea-creatures.json) |
 | Sea Dogs: Caribbean Tales | 51868 | [51868-sea-dogs-caribbean-tales.json](./51868-sea-dogs-caribbean-tales.json) |
 | Sea Dogs: To Each His Own - Hero of the Nation | 171618 | [171618-sea-dogs-to-each-his-own-hero-of-the-nation.json](./171618-sea-dogs-to-each-his-own-hero-of-the-nation.json) |
+| Sea Dove | 246792 | [246792-sea-dove.json](./246792-sea-dove.json) |
 | Sea Dragon | 22767 | [22767-sea-dragon.json](./22767-sea-dragon.json) |
 | Sea Duel | 90922 | [90922-sea-duel.json](./90922-sea-duel.json) |
 | Sea Fantasy | 291825 | [291825-sea-fantasy.json](./291825-sea-fantasy.json) |
@@ -4290,6 +4291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serene | 160169 | [160169-serene.json](./160169-serene.json) |
 | Serene Asylum | 172740 | [172740-serene-asylum.json](./172740-serene-asylum.json) |
 | Serene Estates: Last Guy | 372677 | [372677-serene-estates-last-guy.json](./372677-serene-estates-last-guy.json) |
+| Serene Hike | 246791 | [246791-serene-hike.json](./246791-serene-hike.json) |
 | Serenitrove | 341541 | [341541-serenitrove.json](./341541-serenitrove.json) |
 | Serenity | 313862 | [313862-serenity.json](./313862-serenity.json) |
 | Serenity | 392294 | [392294-serenity.json](./392294-serenity.json) |
@@ -5078,6 +5080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Run | 116882 | [116882-shadow-run.json](./116882-shadow-run.json) |
 | Shadow Runner | 116287 | [116287-shadow-runner.json](./116287-shadow-runner.json) |
 | Shadow Runner | 385379 | [385379-shadow-runner.json](./385379-shadow-runner.json) |
+| Shadow Saboteur | 246790 | [246790-shadow-saboteur.json](./246790-shadow-saboteur.json) |
 | Shadow Sacrament: The Roots of Evil | 347848 | [347848-shadow-sacrament-the-roots-of-evil.json](./347848-shadow-sacrament-the-roots-of-evil.json) |
 | Shadow Saw Us | 408072 | [408072-shadow-saw-us.json](./408072-shadow-saw-us.json) |
 | Shadow Seeker | 150140 | [150140-shadow-seeker.json](./150140-shadow-seeker.json) |
@@ -7047,6 +7050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shovel Knight: Pocket Dungeon - Puzzler's Pack DLC | 246405 | [246405-shovel-knight-pocket-dungeon-puzzlers-pack-dlc.json](./246405-shovel-knight-pocket-dungeon-puzzlers-pack-dlc.json) |
 | Shovel Knight: Shovel of Hope DX | 305757 | [305757-shovel-knight-shovel-of-hope-dx.json](./305757-shovel-knight-shovel-of-hope-dx.json) |
 | Shovel Knight: Treasure Trove | 26848 | [26848-shovel-knight-treasure-trove.json](./26848-shovel-knight-treasure-trove.json) |
+| Shovelboy | 246789 | [246789-shovelboy.json](./246789-shovelboy.json) |
 | Shovelboy: Zone X | 290114 | [290114-shovelboy-zone-x.json](./290114-shovelboy-zone-x.json) |
 | Shovelware | 346231 | [346231-shovelware.json](./346231-shovelware.json) |
 | Shovelware Adventure! | 262303 | [262303-shovelware-adventure.json](./262303-shovelware-adventure.json) |
@@ -8319,6 +8323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simply Solitaire | 85368 | [85368-simply-solitaire.json](./85368-simply-solitaire.json) |
 | Simply Sudoku | 266241 | [266241-simply-sudoku.json](./266241-simply-sudoku.json) |
 | Simply Sudoku | 85379 | [85379-simply-sudoku.json](./85379-simply-sudoku.json) |
+| Simply Survive | 246788 | [246788-simply-survive.json](./246788-simply-survive.json) |
 | Simpsons Treehouse of horror | 102715 | [102715-simpsons-treehouse-of-horror.json](./102715-simpsons-treehouse-of-horror.json) |
 | SimRail: The Railway Simulator | 164278 | [164278-simrail-the-railway-simulator.json](./164278-simrail-the-railway-simulator.json) |
 | SimRail: The Railway Simulator - Cargo Pack | 295114 | [295114-simrail-the-railway-simulator-cargo-pack.json](./295114-simrail-the-railway-simulator-cargo-pack.json) |
@@ -9081,6 +9086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skies Scrapper | 371030 | [371030-skies-scrapper.json](./371030-skies-scrapper.json) |
 | SkifY | 75075 | [75075-skify.json](./75075-skify.json) |
 | Skiing | 55104 | [55104-skiing.json](./55104-skiing.json) |
+| Skiing Frenzy | 246787 | [246787-skiing-frenzy.json](./246787-skiing-frenzy.json) |
 | Skiing Race | 175245 | [175245-skiing-race.json](./175245-skiing-race.json) |
 | Skiing Yeti Mountain | 59463 | [59463-skiing-yeti-mountain.json](./59463-skiing-yeti-mountain.json) |
 | Skijoring | 391024 | [391024-skijoring.json](./391024-skijoring.json) |
@@ -9268,6 +9274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Die | 349967 | [349967-sky-die.json](./349967-sky-die.json) |
 | Sky Diver | 16970 | [16970-sky-diver.json](./16970-sky-diver.json) |
 | Sky Diving: Parachute Flight Simulator | 329431 | [329431-sky-diving-parachute-flight-simulator.json](./329431-sky-diving-parachute-flight-simulator.json) |
+| Sky Division | 246786 | [246786-sky-division.json](./246786-sky-division.json) |
 | Sky Dunk | 304265 | [304265-sky-dunk.json](./304265-sky-dunk.json) |
 | Sky Dust | 307180 | [307180-sky-dust.json](./307180-sky-dust.json) |
 | Sky Escort | 259158 | [259158-sky-escort.json](./259158-sky-escort.json) |
@@ -10057,6 +10064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Jumper | 34316 | [34316-slime-jumper.json](./34316-slime-jumper.json) |
 | Slime Killer | 163910 | [163910-slime-killer.json](./163910-slime-killer.json) |
 | Slime Kingdom | 102192 | [102192-slime-kingdom.json](./102192-slime-kingdom.json) |
+| Slime Knight | 246785 | [246785-slime-knight.json](./246785-slime-knight.json) |
 | Slime Knight | 364041 | [364041-slime-knight.json](./364041-slime-knight.json) |
 | Slime Knight | 412203 | [412203-slime-knight.json](./412203-slime-knight.json) |
 | Slime Lab | 418582 | [418582-slime-lab.json](./418582-slime-lab.json) |
@@ -14399,6 +14407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Fighter | 367708 | [367708-space-fighter.json](./367708-space-fighter.json) |
 | Space Fighter | 55674 | [55674-space-fighter.json](./55674-space-fighter.json) |
 | Space Fighter | 80830 | [80830-space-fighter.json](./80830-space-fighter.json) |
+| Space Fighter 2 | 246784 | [246784-space-fighter-2.json](./246784-space-fighter-2.json) |
 | Space Fighter 4000: Training Missions | 61457 | [61457-space-fighter-4000-training-missions.json](./61457-space-fighter-4000-training-missions.json) |
 | Space Fighters | 89396 | [89396-space-fighters.json](./89396-space-fighters.json) |
 | Space Filler | 338013 | [338013-space-filler.json](./338013-space-filler.json) |
@@ -14456,6 +14465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Grunts 2 | 121004 | [121004-space-grunts-2.json](./121004-space-grunts-2.json) |
 | Space Grunts: Chrono Shard | 345099 | [345099-space-grunts-chrono-shard.json](./345099-space-grunts-chrono-shard.json) |
 | Space Guard | 78613 | [78613-space-guard.json](./78613-space-guard.json) |
+| Space Guardian | 246777 | [246777-space-guardian.json](./246777-space-guardian.json) |
 | Space Gun | 12856 | [12856-space-gun.json](./12856-space-gun.json) |
 | Space Gun | 272928 | [272928-space-gun.json](./272928-space-gun.json) |
 | Space Hack | 17680 | [17680-space-hack.json](./17680-space-hack.json) |
@@ -17207,6 +17217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square | 315803 | [315803-square.json](./315803-square.json) |
 | Square & Circles | 352292 | [352292-square-and-circles.json](./352292-square-and-circles.json) |
 | Square Box | 44185 | [44185-square-box.json](./44185-square-box.json) |
+| Square Brain | 246780 | [246780-square-brain.json](./246780-square-brain.json) |
 | Square Brain Puzzle | 410836 | [410836-square-brain-puzzle.json](./410836-square-brain-puzzle.json) |
 | Square Brawl | 34644 | [34644-square-brawl.json](./34644-square-brawl.json) |
 | Square Circle | 414151 | [414151-square-circle.json](./414151-square-circle.json) |
@@ -17249,6 +17260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Smash | 394465 | [394465-square-smash.json](./394465-square-smash.json) |
 | Square Valley | 200051 | [200051-square-valley.json](./200051-square-valley.json) |
 | Square vs Triangles | 156054 | [156054-square-vs-triangles.json](./156054-square-vs-triangles.json) |
+| Square Wave | 246779 | [246779-square-wave.json](./246779-square-wave.json) |
 | Square Word: Back to Work | 260545 | [260545-square-word-back-to-work.json](./260545-square-word-back-to-work.json) |
 | Square Word: Hello Winter! | 268960 | [268960-square-word-hello-winter.json](./268960-square-word-hello-winter.json) |
 | Square Worlds | 185538 | [185538-square-worlds.json](./185538-square-worlds.json) |
@@ -18622,6 +18634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Staring Time | 272832 | [272832-staring-time.json](./272832-staring-time.json) |
 | Starion | 23056 | [23056-starion.json](./23056-starion.json) |
 | Starion Tactics | 10891 | [10891-starion-tactics.json](./10891-starion-tactics.json) |
+| Starjet Fights | 246778 | [246778-starjet-fights.json](./246778-starjet-fights.json) |
 | Stark Penitentiary | 161892 | [161892-stark-penitentiary.json](./161892-stark-penitentiary.json) |
 | Starkid's Obstacle Course | 111199 | [111199-starkids-obstacle-course.json](./111199-starkids-obstacle-course.json) |
 | StarL2 | 274570 | [274570-starl2.json](./274570-starl2.json) |
@@ -25434,6 +25447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival RPG 4: Haunted Manor | 264332 | [264332-survival-rpg-4-haunted-manor.json](./264332-survival-rpg-4-haunted-manor.json) |
 | Survival RPG: The Lost Treasure | 167295 | [167295-survival-rpg-the-lost-treasure.json](./167295-survival-rpg-the-lost-treasure.json) |
 | Survival Shelter | 383686 | [383686-survival-shelter.json](./383686-survival-shelter.json) |
+| Survival Shooter | 246776 | [246776-survival-shooter.json](./246776-survival-shooter.json) |
 | Survival Simulator | 166203 | [166203-survival-simulator.json](./166203-survival-simulator.json) |
 | Survival Simulator | 175714 | [175714-survival-simulator.json](./175714-survival-simulator.json) |
 | Survival Sisters | 195693 | [195693-survival-sisters.json](./195693-survival-sisters.json) |
