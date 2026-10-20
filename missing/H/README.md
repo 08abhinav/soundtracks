@@ -4876,6 +4876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexceed: Cogitare Pack | 224231 | [224231-hexceed-cogitare-pack.json](./224231-hexceed-cogitare-pack.json) |
 | hexceed: Effugium | 204298 | [204298-hexceed-effugium.json](./204298-hexceed-effugium.json) |
 | Hexceed: Exsupero Pack | 224229 | [224229-hexceed-exsupero-pack.json](./224229-hexceed-exsupero-pack.json) |
+| Hexceed: Finis | 239490 | [239490-hexceed-finis.json](./239490-hexceed-finis.json) |
 | Hexceed: Flavum Pack | 295124 | [295124-hexceed-flavum-pack.json](./295124-hexceed-flavum-pack.json) |
 | Hexceed: Ignis Pack | 246837 | [246837-hexceed-ignis-pack.json](./246837-hexceed-ignis-pack.json) |
 | Hexceed: Incipiam | 224228 | [224228-hexceed-incipiam.json](./224228-hexceed-incipiam.json) |
@@ -4884,6 +4885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | hexceed: Iter Pack | 155697 | [155697-hexceed-iter-pack.json](./155697-hexceed-iter-pack.json) |
 | Hexceed: Metallicum Pack | 262249 | [262249-hexceed-metallicum-pack.json](./262249-hexceed-metallicum-pack.json) |
 | Hexceed: Novus Pack | 215348 | [215348-hexceed-novus-pack.json](./215348-hexceed-novus-pack.json) |
+| Hexceed: Paenultima | 239495 | [239495-hexceed-paenultima.json](./239495-hexceed-paenultima.json) |
 | Hexceed: Progressum | 202762 | [202762-hexceed-progressum.json](./202762-hexceed-progressum.json) |
 | Hexceed: Rimor | 204296 | [204296-hexceed-rimor.json](./204296-hexceed-rimor.json) |
 | Hexceed: Rubrum | 295865 | [295865-hexceed-rubrum.json](./295865-hexceed-rubrum.json) |
@@ -5653,6 +5655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School Girl Life Sim 3D | 297504 | [297504-high-school-girl-life-sim-3d.json](./297504-high-school-girl-life-sim-3d.json) |
 | High School Girl Life Simulator | 102757 | [102757-high-school-girl-life-simulator.json](./102757-high-school-girl-life-simulator.json) |
 | High School Girl Simulator 3D | 299905 | [299905-high-school-girl-simulator-3d.json](./299905-high-school-girl-simulator-3d.json) |
+| High School Hook Ups | 239469 | [239469-high-school-hook-ups.json](./239469-high-school-hook-ups.json) |
 | High School Love Sim Life Game | 296756 | [296756-high-school-love-sim-life-game.json](./296756-high-school-love-sim-life-game.json) |
 | High School Love: A Visual Novel Romance | 328519 | [328519-high-school-love-a-visual-novel-romance.json](./328519-high-school-love-a-visual-novel-romance.json) |
 | High School Maze 3D | 297633 | [297633-high-school-maze-3d.json](./297633-high-school-maze-3d.json) |
@@ -8938,8 +8941,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt: Showdown - Fear the Reaper | 224219 | [224219-hunt-showdown-fear-the-reaper.json](./224219-hunt-showdown-fear-the-reaper.json) |
 | Hunt: Showdown - Gold Edition | 146137 | [146137-hunt-showdown-gold-edition.json](./146137-hunt-showdown-gold-edition.json) |
 | Hunt: Showdown - Limited Bounty Hunter Edition | 229120 | [229120-hunt-showdown-limited-bounty-hunter-edition.json](./229120-hunt-showdown-limited-bounty-hunter-edition.json) |
+| Hunt: Showdown - Live by the Blade | 239508 | [239508-hunt-showdown-live-by-the-blade.json](./239508-hunt-showdown-live-by-the-blade.json) |
 | Hunt: Showdown - Meridian Turncoat | 196158 | [196158-hunt-showdown-meridian-turncoat.json](./196158-hunt-showdown-meridian-turncoat.json) |
 | Hunt: Showdown - The Concubine | 226206 | [226206-hunt-showdown-the-concubine.json](./226206-hunt-showdown-the-concubine.json) |
+| Hunt: Showdown - The Penitent | 239507 | [239507-hunt-showdown-the-penitent.json](./239507-hunt-showdown-the-penitent.json) |
 | Hunt: Showdown - The Prescient Night | 256741 | [256741-hunt-showdown-the-prescient-night.json](./256741-hunt-showdown-the-prescient-night.json) |
 | Hunt: Showdown - Through the Bone Briar | 166069 | [166069-hunt-showdown-through-the-bone-briar.json](./166069-hunt-showdown-through-the-bone-briar.json) |
 | Hunt: Showdown 1896 - Biatatá: Still Waters Run Deep | 241309 | [241309-hunt-showdown-1896-biatata-still-waters-run-deep.json](./241309-hunt-showdown-1896-biatata-still-waters-run-deep.json) |
