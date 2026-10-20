@@ -5950,6 +5950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Demolish | 220066 | [220066-pixel-demolish.json](./220066-pixel-demolish.json) |
 | Pixel Descent | 264587 | [264587-pixel-descent.json](./264587-pixel-descent.json) |
 | Pixel Devil and the Broken Cartridge | 113610 | [113610-pixel-devil-and-the-broken-cartridge.json](./113610-pixel-devil-and-the-broken-cartridge.json) |
+| Pixel Disc Golf 2 | 251358 | [251358-pixel-disc-golf-2.json](./251358-pixel-disc-golf-2.json) |
 | Pixel Dominance | 128936 | [128936-pixel-dominance.json](./128936-pixel-dominance.json) |
 | Pixel Doodle - Color By Number | 104517 | [104517-pixel-doodle-color-by-number.json](./104517-pixel-doodle-color-by-number.json) |
 | Pixel Drawing | 335442 | [335442-pixel-drawing.json](./335442-pixel-drawing.json) |
@@ -8575,6 +8576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Wilting Y | 213977 | [213977-pokemon-wilting-y.json](./213977-pokemon-wilting-y.json) |
 | Pokémon Winds | 393105 | [393105-pokemon-winds.json](./393105-pokemon-winds.json) |
 | Pokémon Yellow Legacy | 300522 | [300522-pokemon-yellow-legacy.json](./300522-pokemon-yellow-legacy.json) |
+| Pokémon Yellow: Cramorant Edition | 251360 | [251360-pokemon-yellow-cramorant-edition.json](./251360-pokemon-yellow-cramorant-edition.json) |
 | Pokémon Z | 314724 | [314724-pokemon-z.json](./314724-pokemon-z.json) |
 | Pokémon Zany Cards | 43174 | [43174-pokemon-zany-cards.json](./43174-pokemon-zany-cards.json) |
 | Pokémon: A Farfetch'd Story | 289581 | [289581-pokemon-a-farfetchd-story.json](./289581-pokemon-a-farfetchd-story.json) |
@@ -9149,6 +9151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pongis Jump | 126000 | [126000-pongis-jump.json](./126000-pongis-jump.json) |
 | PonGlow | 119474 | [119474-ponglow.json](./119474-ponglow.json) |
 | Pongmatic 2300 | 256211 | [256211-pongmatic-2300.json](./256211-pongmatic-2300.json) |
+| Pongo17 | 251371 | [251371-pongo17.json](./251371-pongo17.json) |
 | Pongpongpongpongpongpongpongpong | 212776 | [212776-pongpongpongpongpongpongpongpong.json](./212776-pongpongpongpongpongpongpongpong.json) |
 | Pongs | 178609 | [178609-pongs.json](./178609-pongs.json) |
 | Pongspin | 253390 | [253390-pongspin.json](./253390-pongspin.json) |
@@ -12122,6 +12125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Offroad | 104224 | [104224-project-offroad.json](./104224-project-offroad.json) |
 | Project: One Bullet | 316136 | [316136-project-one-bullet.json](./316136-project-one-bullet.json) |
 | Project: Perfectly Normal | 177430 | [177430-project-perfectly-normal.json](./177430-project-perfectly-normal.json) |
+| Project: Playtime - Phase 2: Incineration | 251436 | [251436-project-playtime-phase-2-incineration.json](./251436-project-playtime-phase-2-incineration.json) |
 | Project: Pong | 241467 | [241467-project-pong.json](./241467-project-pong.json) |
 | Project: Prism | 174712 | [174712-project-prism.json](./174712-project-prism.json) |
 | Project: Purconia | 391158 | [391158-project-purconia.json](./391158-project-purconia.json) |
@@ -13057,6 +13061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppy Luv Adventures | 62033 | [62033-puppy-luv-adventures.json](./62033-puppy-luv-adventures.json) |
 | Puppy Luv: Spa and Resort | 49473 | [49473-puppy-luv-spa-and-resort.json](./49473-puppy-luv-spa-and-resort.json) |
 | Puppy Luv: Your New Best Friend | 51138 | [51138-puppy-luv-your-new-best-friend.json](./51138-puppy-luv-your-new-best-friend.json) |
+| Puppy Moon | 251446 | [251446-puppy-moon.json](./251446-puppy-moon.json) |
 | Puppy Palace | 122204 | [122204-puppy-palace.json](./122204-puppy-palace.json) |
 | Puppy Park | 392208 | [392208-puppy-park.json](./392208-puppy-park.json) |
 | Puppy Pipy | 151149 | [151149-puppy-pipy.json](./151149-puppy-pipy.json) |
@@ -13509,6 +13514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle by Nikoli W Heyawake | 230827 | [230827-puzzle-by-nikoli-w-heyawake.json](./230827-puzzle-by-nikoli-w-heyawake.json) |
 | Puzzle by Nikoli W Hitori | 256430 | [256430-puzzle-by-nikoli-w-hitori.json](./256430-puzzle-by-nikoli-w-hitori.json) |
 | Puzzle by Nikoli W Kakuro | 262657 | [262657-puzzle-by-nikoli-w-kakuro.json](./262657-puzzle-by-nikoli-w-kakuro.json) |
+| Puzzle by Nikoli W Yajilin | 251395 | [251395-puzzle-by-nikoli-w-yajilin.json](./251395-puzzle-by-nikoli-w-yajilin.json) |
 | Puzzle by Nikoli W: Sudoku | 218511 | [218511-puzzle-by-nikoli-w-sudoku.json](./218511-puzzle-by-nikoli-w-sudoku.json) |
 | Puzzle Cafe VR | 159780 | [159780-puzzle-cafe-vr.json](./159780-puzzle-cafe-vr.json) |
 | Puzzle Castle | 209373 | [209373-puzzle-castle.json](./209373-puzzle-castle.json) |
