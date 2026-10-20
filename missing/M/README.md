@@ -1041,6 +1041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Unfolding | 385356 | [385356-magic-unfolding.json](./385356-magic-unfolding.json) |
 | Magic Valley Hike | 342427 | [342427-magic-valley-hike.json](./342427-magic-valley-hike.json) |
 | Magic Venue | 303647 | [303647-magic-venue.json](./303647-magic-venue.json) |
+| Magic vs Zombies | 207705 | [207705-magic-vs-zombies.json](./207705-magic-vs-zombies.json) |
 | Magic vs. Metal | 196572 | [196572-magic-vs-metal.json](./196572-magic-vs-metal.json) |
 | Magic vs. Mind | 311601 | [311601-magic-vs-mind.json](./311601-magic-vs-mind.json) |
 | Magic Walk | 193283 | [193283-magic-walk.json](./193283-magic-walk.json) |
