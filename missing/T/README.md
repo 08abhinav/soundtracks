@@ -2562,6 +2562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teen Titans 2 | 49214 | [49214-teen-titans-2.json](./49214-teen-titans-2.json) |
 | Teen Titans Battle Blitz | 144130 | [144130-teen-titans-battle-blitz.json](./144130-teen-titans-battle-blitz.json) |
 | Teen Titans Go! Arcade | 59358 | [59358-teen-titans-go-arcade.json](./59358-teen-titans-go-arcade.json) |
+| Teen Witches Academy | 207163 | [207163-teen-witches-academy.json](./207163-teen-witches-academy.json) |
 | Teenage Blob: Paperperson - The First Single | 170868 | [170868-teenage-blob-paperperson-the-first-single.json](./170868-teenage-blob-paperperson-the-first-single.json) |
 | Teenage Crush Love Story Games | 255046 | [255046-teenage-crush-love-story-games.json](./255046-teenage-crush-love-story-games.json) |
 | Teenage Demon Slayer Society | 261217 | [261217-teenage-demon-slayer-society.json](./261217-teenage-demon-slayer-society.json) |
@@ -4547,6 +4548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Art of Chess | 14269 | [14269-the-art-of-chess.json](./14269-the-art-of-chess.json) |
 | The Art of Creation | 400362 | [400362-the-art-of-creation.json](./400362-the-art-of-creation.json) |
 | The Art of Fight | 27415 | [27415-the-art-of-fight.json](./27415-the-art-of-fight.json) |
+| The Art of Fly Fishing: Volume One - Rivers of the British Isles | 207121 | [207121-the-art-of-fly-fishing-volume-one-rivers-of-the-british-isles.json](./207121-the-art-of-fly-fishing-volume-one-rivers-of-the-british-isles.json) |
 | The Art of Fugue | 364628 | [364628-the-art-of-fugue.json](./364628-the-art-of-fugue.json) |
 | The Art of GO | 14270 | [14270-the-art-of-go.json](./14270-the-art-of-go.json) |
 | The Art of Murder | 91354 | [91354-the-art-of-murder.json](./91354-the-art-of-murder.json) |
@@ -5598,6 +5600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Clown's Forest 2: Waking Shadows | 244362 | [244362-the-clowns-forest-2-waking-shadows.json](./244362-the-clowns-forest-2-waking-shadows.json) |
 | The Clown's Forest 3: Haunting Apparitions | 271906 | [271906-the-clowns-forest-3-haunting-apparitions.json](./271906-the-clowns-forest-3-haunting-apparitions.json) |
 | The Club | 6940 | [6940-the-club.json](./6940-the-club.json) |
+| The Clue Club: Animal Detectives | 207122 | [207122-the-clue-club-animal-detectives.json](./207122-the-clue-club-animal-detectives.json) |
 | The ClueFinders 4th Grade Adventures: Puzzle of the Pyramid | 73694 | [73694-the-cluefinders-4th-grade-adventures-puzzle-of-the-pyramid.json](./73694-the-cluefinders-4th-grade-adventures-puzzle-of-the-pyramid.json) |
 | The ClueFinders 6th Grade Adventures: The Empire of the Plant People | 142139 | [142139-the-cluefinders-6th-grade-adventures-the-empire-of-the-plant-people.json](./142139-the-cluefinders-6th-grade-adventures-the-empire-of-the-plant-people.json) |
 | The Clutch: Remastered | 186864 | [186864-the-clutch-remastered.json](./186864-the-clutch-remastered.json) |
@@ -5754,6 +5757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Count of Monster Disco | 36428 | [36428-the-count-of-monster-disco.json](./36428-the-count-of-monster-disco.json) |
 | The Count of Monte Carlo | 151696 | [151696-the-count-of-monte-carlo.json](./151696-the-count-of-monte-carlo.json) |
 | The Count of Monte Clicker | 339082 | [339082-the-count-of-monte-clicker.json](./339082-the-count-of-monte-clicker.json) |
+| The Count of Monte Cristo | 207123 | [207123-the-count-of-monte-cristo.json](./207123-the-count-of-monte-cristo.json) |
 | The Counter Gambit | 379037 | [379037-the-counter-gambit.json](./379037-the-counter-gambit.json) |
 | The Counting Kingdom | 17435 | [17435-the-counting-kingdom.json](./17435-the-counting-kingdom.json) |
 | The Courage of Cordelia | 332310 | [332310-the-courage-of-cordelia.json](./332310-the-courage-of-cordelia.json) |
@@ -7783,6 +7787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Order | 184941 | [184941-the-great-order.json](./184941-the-great-order.json) |
 | The Great Race | 55835 | [55835-the-great-race.json](./55835-the-great-race.json) |
 | The Great Race | 99775 | [99775-the-great-race.json](./99775-the-great-race.json) |
+| The Great Reading Adventure | 207115 | [207115-the-great-reading-adventure.json](./207115-the-great-reading-adventure.json) |
 | The Great Rebellion | 290012 | [290012-the-great-rebellion.json](./290012-the-great-rebellion.json) |
 | The Great Sassanelli | 258615 | [258615-the-great-sassanelli.json](./258615-the-great-sassanelli.json) |
 | The Great Smog | 244752 | [244752-the-great-smog.json](./244752-the-great-smog.json) |
@@ -18190,6 +18195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Be Seen is To Be Loved | 397947 | [397947-to-be-seen-is-to-be-loved.json](./397947-to-be-seen-is-to-be-loved.json) |
 | To Be With You | 138677 | [138677-to-be-with-you.json](./138677-to-be-with-you.json) |
 | To Be With You | 152890 | [152890-to-be-with-you.json](./152890-to-be-with-you.json) |
+| To Become a Tengu | 207133 | [207133-to-become-a-tengu.json](./207133-to-become-a-tengu.json) |
 | To Bee or Not to Bee | 184801 | [184801-to-bee-or-not-to-bee.json](./184801-to-bee-or-not-to-bee.json) |
 | To Bring Her Back | 316804 | [316804-to-bring-her-back.json](./316804-to-bring-her-back.json) |
 | To Burn in Memory: Anniversary Edition | 110371 | [110371-to-burn-in-memory-anniversary-edition.json](./110371-to-burn-in-memory-anniversary-edition.json) |
@@ -20076,12 +20082,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Genso Wanderer Reloaded: Season Pass Elegance | 212656 | [212656-touhou-genso-wanderer-reloaded-season-pass-elegance.json](./212656-touhou-genso-wanderer-reloaded-season-pass-elegance.json) |
 | Touhou Genso Wanderer Reloaded: Suwako Moriya | 161747 | [161747-touhou-genso-wanderer-reloaded-suwako-moriya.json](./161747-touhou-genso-wanderer-reloaded-suwako-moriya.json) |
 | Touhou Genso Wanderer Reloaded: Tenshi Hinanawi | 161750 | [161750-touhou-genso-wanderer-reloaded-tenshi-hinanawi.json](./161750-touhou-genso-wanderer-reloaded-tenshi-hinanawi.json) |
+| Touhou Genso Wanderer Reloaded: Tojiko Soga | 207152 | [207152-touhou-genso-wanderer-reloaded-tojiko-soga.json](./207152-touhou-genso-wanderer-reloaded-tojiko-soga.json) |
 | Touhou Genso Wanderer Reloaded: Utsuho Reiuji | 161741 | [161741-touhou-genso-wanderer-reloaded-utsuho-reiuji.json](./161741-touhou-genso-wanderer-reloaded-utsuho-reiuji.json) |
 | Touhou Genso Wanderer: Foresight | 289024 | [289024-touhou-genso-wanderer-foresight.json](./289024-touhou-genso-wanderer-foresight.json) |
 | Touhou Genso Wanderer: Foresight - Reimu Hakurei Elegant Shrine Maiden Robe | 317669 | [317669-touhou-genso-wanderer-foresight-reimu-hakurei-elegant-shrine-maiden-robe.json](./317669-touhou-genso-wanderer-foresight-reimu-hakurei-elegant-shrine-maiden-robe.json) |
 | Touhou Genso Wanderer: Foresight - Reimu Hakurei Winter Costume | 310484 | [310484-touhou-genso-wanderer-foresight-reimu-hakurei-winter-costume.json](./310484-touhou-genso-wanderer-foresight-reimu-hakurei-winter-costume.json) |
 | Touhou Genso Wanderer: Lotus Labyrinth | 100675 | [100675-touhou-genso-wanderer-lotus-labyrinth.json](./100675-touhou-genso-wanderer-lotus-labyrinth.json) |
 | Touhou Genso Wanderer: Lotus Labyrinth R | 173124 | [173124-touhou-genso-wanderer-lotus-labyrinth-r.json](./173124-touhou-genso-wanderer-lotus-labyrinth-r.json) |
+| Touhou Genso Wanderer: Lotus Labyrinth R - Lotus Friends | 207155 | [207155-touhou-genso-wanderer-lotus-labyrinth-r-lotus-friends.json](./207155-touhou-genso-wanderer-lotus-labyrinth-r-lotus-friends.json) |
+| Touhou Genso Wanderer: Lotus Labyrinth R - Wily Beast and Weakest Creature Friends | 207154 | [207154-touhou-genso-wanderer-lotus-labyrinth-r-wily-beast-and-weakest-creature-friends.json](./207154-touhou-genso-wanderer-lotus-labyrinth-r-wily-beast-and-weakest-creature-friends.json) |
 | Touhou Genso Wanderer: Momiji Inubashiri | 206962 | [206962-touhou-genso-wanderer-momiji-inubashiri.json](./206962-touhou-genso-wanderer-momiji-inubashiri.json) |
 | Touhou Genso Wanderer: Mononobe no Futo to Nanatsu no Shiren - Fushigi no Gensoukyou TOD Another Story | 206960 | [206960-touhou-genso-wanderer-mononobe-no-futo-to-nanatsu-no-shiren-fushigi-no-gensoukyou-tod-another-story.json](./206960-touhou-genso-wanderer-mononobe-no-futo-to-nanatsu-no-shiren-fushigi-no-gensoukyou-tod-another-story.json) |
 | Touhou Genso Wanderer: The Bullet Reporter | 206961 | [206961-touhou-genso-wanderer-the-bullet-reporter.json](./206961-touhou-genso-wanderer-the-bullet-reporter.json) |
@@ -24054,6 +24063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trying | 225719 | [225719-trying.json](./225719-trying.json) |
 | Trying to Sing in Static | 230291 | [230291-trying-to-sing-in-static.json](./230291-trying-to-sing-in-static.json) |
 | Tryment | 318057 | [318057-tryment.json](./318057-tryment.json) |
+| Tryp FPV | 207130 | [207130-tryp-fpv.json](./207130-tryp-fpv.json) |
 | Trypan | 392263 | [392263-trypan.json](./392263-trypan.json) |
 | Tryptic | 326688 | [326688-tryptic.json](./326688-tryptic.json) |
 | Trysaria | 116273 | [116273-trysaria.json](./116273-trysaria.json) |
