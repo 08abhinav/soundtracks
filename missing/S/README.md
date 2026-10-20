@@ -2602,6 +2602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Containment Breach Remastered | 210866 | [210866-scp-containment-breach-remastered.json](./210866-scp-containment-breach-remastered.json) |
 | SCP: Contamination | 261757 | [261757-scp-contamination.json](./261757-scp-contamination.json) |
 | SCP: Cross Containment | 141786 | [141786-scp-cross-containment.json](./141786-scp-cross-containment.json) |
+| SCP: Daybreak | 211579 | [211579-scp-daybreak.json](./211579-scp-daybreak.json) |
 | SCP: Derelict - SciFi First Person Shooter | 111737 | [111737-scp-derelict-scifi-first-person-shooter.json](./111737-scp-derelict-scifi-first-person-shooter.json) |
 | SCP: Echoes | 364517 | [364517-scp-echoes.json](./364517-scp-echoes.json) |
 | SCP: Equestrian | 263764 | [263764-scp-equestrian.json](./263764-scp-equestrian.json) |
@@ -11306,6 +11307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneaky Bimbuls | 406134 | [406134-sneaky-bimbuls.json](./406134-sneaky-bimbuls.json) |
 | Sneaky Claws | 358649 | [358649-sneaky-claws.json](./358649-sneaky-claws.json) |
 | Sneaky Fishy | 419369 | [419369-sneaky-fishy.json](./419369-sneaky-fishy.json) |
+| Sneaky IT Support | 211572 | [211572-sneaky-it-support.json](./211572-sneaky-it-support.json) |
 | Sneaky Kitten | 156650 | [156650-sneaky-kitten.json](./156650-sneaky-kitten.json) |
 | Sneaky Monsters | 251540 | [251540-sneaky-monsters.json](./251540-sneaky-monsters.json) |
 | Sneaky Peeky | 264625 | [264625-sneaky-peeky.json](./264625-sneaky-peeky.json) |
@@ -14518,6 +14520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Crisis | 167782 | [167782-space-crisis.json](./167782-space-crisis.json) |
 | Space Cruise | 114170 | [114170-space-cruise.json](./114170-space-cruise.json) |
 | Space Crusade: The Voyage Beyond | 73855 | [73855-space-crusade-the-voyage-beyond.json](./73855-space-crusade-the-voyage-beyond.json) |
+| Space Crusaders | 211582 | [211582-space-crusaders.json](./211582-space-crusaders.json) |
 | Space Cycle | 318129 | [318129-space-cycle.json](./318129-space-cycle.json) |
 | Space Dance | 90818 | [90818-space-dance.json](./90818-space-dance.json) |
 | Space Danger: G.O.N. | 185599 | [185599-space-danger-g-o-n.json](./185599-space-danger-g-o-n.json) |
@@ -15227,6 +15230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacebar | 344361 | [344361-spacebar.json](./344361-spacebar.json) |
 | Spacebar X | 364998 | [364998-spacebar-x.json](./364998-spacebar-x.json) |
 | Spacebase DF-9 | 5632 | [5632-spacebase-df-9.json](./5632-spacebase-df-9.json) |
+| Spacebase Siege | 211590 | [211590-spacebase-siege.json](./211590-spacebase-siege.json) |
 | Spacebase Startopia | 121761 | [121761-spacebase-startopia.json](./121761-spacebase-startopia.json) |
 | Spacebase Startopia: Extended Edition | 169189 | [169189-spacebase-startopia-extended-edition.json](./169189-spacebase-startopia-extended-edition.json) |
 | SpaceBeaver | 180575 | [180575-spacebeaver.json](./180575-spacebeaver.json) |
@@ -15365,6 +15369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceStationSim | 20645 | [20645-spacestationsim.json](./20645-spacestationsim.json) |
 | SpaceTac | 47171 | [47171-spacetac.json](./47171-spacetac.json) |
 | Spaceteam | 7207 | [7207-spaceteam.json](./7207-spaceteam.json) |
+| Spaceteam: The Second Dimension | 211606 | [211606-spaceteam-the-second-dimension.json](./211606-spaceteam-the-second-dimension.json) |
 | Spacetour Express | 315890 | [315890-spacetour-express.json](./315890-spacetour-express.json) |
 | Spacetron | 258469 | [258469-spacetron.json](./258469-spacetron.json) |
 | Spacetronic | 270683 | [270683-spacetronic.json](./270683-spacetronic.json) |
@@ -20506,6 +20511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storage Guys | 318046 | [318046-storage-guys.json](./318046-storage-guys.json) |
 | Storage Hunter Simulator | 317979 | [317979-storage-hunter-simulator.json](./317979-storage-hunter-simulator.json) |
 | Storage Hunter: Bid War Simulator | 345118 | [345118-storage-hunter-bid-war-simulator.json](./345118-storage-hunter-bid-war-simulator.json) |
+| Storage Hunters | 211600 | [211600-storage-hunters.json](./211600-storage-hunters.json) |
 | Storage Hustle | 267819 | [267819-storage-hustle.json](./267819-storage-hustle.json) |
 | Storage Inc 2 | 30720 | [30720-storage-inc-2.json](./30720-storage-inc-2.json) |
 | Storage Kings | 115497 | [115497-storage-kings.json](./115497-storage-kings.json) |
@@ -22664,6 +22670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumo | 281686 | [281686-sumo.json](./281686-sumo.json) |
 | Sumo | 303084 | [303084-sumo.json](./303084-sumo.json) |
 | Sumo Rumble | 307974 | [307974-sumo-rumble.json](./307974-sumo-rumble.json) |
+| Sumo Seals | 211612 | [211612-sumo-seals.json](./211612-sumo-seals.json) |
 | Sumo Stuntmen 7 | 189987 | [189987-sumo-stuntmen-7.json](./189987-sumo-stuntmen-7.json) |
 | Sumo Tatami | 274893 | [274893-sumo-tatami.json](./274893-sumo-tatami.json) |
 | Sumoman | 28026 | [28026-sumoman.json](./28026-sumoman.json) |
@@ -25537,6 +25544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supervive | 255078 | [255078-supervive.json](./255078-supervive.json) |
 | Supervoid | 287185 | [287185-supervoid.json](./287185-supervoid.json) |
 | SuperWeird | 353883 | [353883-superweird.json](./353883-superweird.json) |
+| Superzgun | 211571 | [211571-superzgun.json](./211571-superzgun.json) |
 | Supesu | 103445 | [103445-supesu.json](./103445-supesu.json) |
 | Supesu 2 | 123923 | [123923-supesu-2.json](./123923-supesu-2.json) |
 | Supfly Delivery Simulator | 140158 | [140158-supfly-delivery-simulator.json](./140158-supfly-delivery-simulator.json) |
