@@ -9356,6 +9356,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong | 172019 | [172019-donkey-kong.json](./172019-donkey-kong.json) |
 | Donkey Kong | 172020 | [172020-donkey-kong.json](./172020-donkey-kong.json) |
 | Donkey Kong | 228945 | [228945-donkey-kong.json](./228945-donkey-kong.json) |
+| Donkey Kong | 231733 | [231733-donkey-kong.json](./231733-donkey-kong.json) |
+| Donkey Kong | 231734 | [231734-donkey-kong.json](./231734-donkey-kong.json) |
 | Donkey Kong | 257637 | [257637-donkey-kong.json](./257637-donkey-kong.json) |
 | Donkey Kong | 270404 | [270404-donkey-kong.json](./270404-donkey-kong.json) |
 | Donkey Kong | 305299 | [305299-donkey-kong.json](./305299-donkey-kong.json) |
@@ -9366,6 +9368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong 2: The Rise of Jumpman! | 234768 | [234768-donkey-kong-2-the-rise-of-jumpman.json](./234768-donkey-kong-2-the-rise-of-jumpman.json) |
 | Donkey Kong 3 | 145239 | [145239-donkey-kong-3.json](./145239-donkey-kong-3.json) |
 | Donkey Kong 3 | 178167 | [178167-donkey-kong-3.json](./178167-donkey-kong-3.json) |
+| Donkey Kong 3 | 231747 | [231747-donkey-kong-3.json](./231747-donkey-kong-3.json) |
 | Donkey Kong 3 & Samus | 323885 | [323885-donkey-kong-3-and-samus.json](./323885-donkey-kong-3-and-samus.json) |
 | Donkey Kong 3-e | 170016 | [170016-donkey-kong-3-e.json](./170016-donkey-kong-3-e.json) |
 | Donkey Kong 3: Another Rise! | 234771 | [234771-donkey-kong-3-another-rise.json](./234771-donkey-kong-3-another-rise.json) |
@@ -9414,6 +9417,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong II | 305302 | [305302-donkey-kong-ii.json](./305302-donkey-kong-ii.json) |
 | Donkey Kong II | 367846 | [367846-donkey-kong-ii.json](./367846-donkey-kong-ii.json) |
 | Donkey Kong Jr. | 200535 | [200535-donkey-kong-jr.json](./200535-donkey-kong-jr.json) |
+| Donkey Kong Jr. | 231742 | [231742-donkey-kong-jr.json](./231742-donkey-kong-jr.json) |
+| Donkey Kong Jr. | 231743 | [231743-donkey-kong-jr.json](./231743-donkey-kong-jr.json) |
 | Donkey Kong Jr. | 257639 | [257639-donkey-kong-jr.json](./257639-donkey-kong-jr.json) |
 | Donkey Kong Jr. | 257640 | [257640-donkey-kong-jr.json](./257640-donkey-kong-jr.json) |
 | Donkey Kong Jr. | 257641 | [257641-donkey-kong-jr.json](./257641-donkey-kong-jr.json) |
@@ -14338,6 +14343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dystopian Nights | 119610 | [119610-dystopian-nights.json](./119610-dystopian-nights.json) |
 | Dystopy | 30748 | [30748-dystopy.json](./30748-dystopy.json) |
 | Dystoria | 27387 | [27387-dystoria.json](./27387-dystoria.json) |
+| Dyztopia: Post-Human RPG | 231748 | [231748-dyztopia-post-human-rpg.json](./231748-dyztopia-post-human-rpg.json) |
 | DZ & Riggy Vs. the Fantasy World | 320412 | [320412-dz-and-riggy-vs-the-fantasy-world.json](./320412-dz-and-riggy-vs-the-fantasy-world.json) |
 | DZ & Riggy vs. the Worlds II | 252079 | [252079-dz-and-riggy-vs-the-worlds-ii.json](./252079-dz-and-riggy-vs-the-worlds-ii.json) |
 | Dziedzic: A Book of Unanswered Questions | 299735 | [299735-dziedzic-a-book-of-unanswered-questions.json](./299735-dziedzic-a-book-of-unanswered-questions.json) |
