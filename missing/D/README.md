@@ -2027,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Magic | 11024 | [11024-dawn-of-magic.json](./11024-dawn-of-magic.json) |
 | Dawn of Magic 2 | 11025 | [11025-dawn-of-magic-2.json](./11025-dawn-of-magic-2.json) |
 | Dawn of Man | 102163 | [102163-dawn-of-man.json](./102163-dawn-of-man.json) |
+| Dawn of Man + Planetbase | 254294 | [254294-dawn-of-man-planetbase.json](./254294-dawn-of-man-planetbase.json) |
 | Dawn of Marionette | 259754 | [259754-dawn-of-marionette.json](./259754-dawn-of-marionette.json) |
 | Dawn of Misgiving | 128446 | [128446-dawn-of-misgiving.json](./128446-dawn-of-misgiving.json) |
 | Dawn of Shadow | 237082 | [237082-dawn-of-shadow.json](./237082-dawn-of-shadow.json) |
@@ -8454,6 +8455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodonpachi True Death exA Label | 219161 | [219161-dodonpachi-true-death-exa-label.json](./219161-dodonpachi-true-death-exa-label.json) |
 | DoDonPachi Unlimited | 264093 | [264093-dodonpachi-unlimited.json](./264093-dodonpachi-unlimited.json) |
 | DoDoon | 390178 | [390178-dodoon.json](./390178-dodoon.json) |
+| Doeo | 254300 | [254300-doeo.json](./254300-doeo.json) |
 | Does Canned Rice Dream of a Napkin Heap? | 141752 | [141752-does-canned-rice-dream-of-a-napkin-heap.json](./141752-does-canned-rice-dream-of-a-napkin-heap.json) |
 | Does It Shoot? | 88174 | [88174-does-it-shoot.json](./88174-does-it-shoot.json) |
 | Does it Stack? | 261196 | [261196-does-it-stack.json](./261196-does-it-stack.json) |
@@ -9498,6 +9500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle TD | 234644 | [234644-doodle-td.json](./234644-doodle-td.json) |
 | Doodle TD 2 | 295800 | [295800-doodle-td-2.json](./295800-doodle-td-2.json) |
 | Doodle Trivia | 89048 | [89048-doodle-trivia.json](./89048-doodle-trivia.json) |
+| Doodle Truck | 254315 | [254315-doodle-truck.json](./254315-doodle-truck.json) |
 | Doodle Truck 2 | 249663 | [249663-doodle-truck-2.json](./249663-doodle-truck-2.json) |
 | Doodle UFO | 246972 | [246972-doodle-ufo.json](./246972-doodle-ufo.json) |
 | Doodle War | 88102 | [88102-doodle-war.json](./88102-doodle-war.json) |
@@ -9575,6 +9578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Eternal: Year One Pass | 293919 | [293919-doom-eternal-year-one-pass.json](./293919-doom-eternal-year-one-pass.json) |
 | Doom Fighters | 202839 | [202839-doom-fighters.json](./202839-doom-fighters.json) |
 | Doom GTS | 76246 | [76246-doom-gts.json](./76246-doom-gts.json) |
+| Doom Hockey | 254308 | [254308-doom-hockey.json](./254308-doom-hockey.json) |
 | Doom I Enhanced | 214128 | [214128-doom-i-enhanced.json](./214128-doom-i-enhanced.json) |
 | Doom II | 260018 | [260018-doom-ii.json](./260018-doom-ii.json) |
 | Doom II | 260021 | [260021-doom-ii.json](./260021-doom-ii.json) |
@@ -12952,6 +12956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dugashoba! | 202251 | [202251-dugashoba.json](./202251-dugashoba.json) |
 | Dugeundugeun Dijeoteu Kape | 220287 | [220287-dugeundugeun-dijeoteu-kape.json](./220287-dugeundugeun-dijeoteu-kape.json) |
 | Dui | 263110 | [263110-dui.json](./263110-dui.json) |
+| DUI | 254360 | [254360-dui.json](./254360-dui.json) |
 | Duil | 161348 | [161348-duil.json](./161348-duil.json) |
 | Duilius: The Ancient Duel | 294152 | [294152-duilius-the-ancient-duel.json](./294152-duilius-the-ancient-duel.json) |
 | Dukai | 271984 | [271984-dukai.json](./271984-dukai.json) |
@@ -12977,6 +12982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem 3D | 262683 | [262683-duke-nukem-3d.json](./262683-duke-nukem-3d.json) |
 | Duke Nukem 3D: 20th Anniversary World Tour | 23596 | [23596-duke-nukem-3d-20th-anniversary-world-tour.json](./23596-duke-nukem-3d-20th-anniversary-world-tour.json) |
 | Duke Nukem 3D: Atomic Edition | 50347 | [50347-duke-nukem-3d-atomic-edition.json](./50347-duke-nukem-3d-atomic-edition.json) |
+| Duke Nukem 3D: Fallout Freeze | 254297 | [254297-duke-nukem-3d-fallout-freeze.json](./254297-duke-nukem-3d-fallout-freeze.json) |
 | Duke Nukem 3D: High Resolution Pack | 371392 | [371392-duke-nukem-3d-high-resolution-pack.json](./371392-duke-nukem-3d-high-resolution-pack.json) |
 | Duke Nukem 3D: Kill-A-Ton Collection | 19730 | [19730-duke-nukem-3d-kill-a-ton-collection.json](./19730-duke-nukem-3d-kill-a-ton-collection.json) |
 | Duke Nukem 3D: Megaton Edition | 20868 | [20868-duke-nukem-3d-megaton-edition.json](./20868-duke-nukem-3d-megaton-edition.json) |
