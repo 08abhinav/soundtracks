@@ -8869,6 +8869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominacy | 109058 | [109058-dominacy.json](./109058-dominacy.json) |
 | Dominance | 116371 | [116371-dominance.json](./116371-dominance.json) |
 | Dominance Chess-like | 311195 | [311195-dominance-chess-like.json](./311195-dominance-chess-like.json) |
+| Dominant Amber | 245671 | [245671-dominant-amber.json](./245671-dominant-amber.json) |
 | Dominant Mind | 148166 | [148166-dominant-mind.json](./148166-dominant-mind.json) |
 | Dominant Species for iPad | 108516 | [108516-dominant-species-for-ipad.json](./108516-dominant-species-for-ipad.json) |
 | Dominari | 75099 | [75099-dominari.json](./75099-dominari.json) |
@@ -13941,7 +13942,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duty First | 317095 | [317095-duty-first.json](./317095-duty-first.json) |
 | Duty Free Shop Simulator | 373099 | [373099-duty-free-shop-simulator.json](./373099-duty-free-shop-simulator.json) |
 | Dvalloc | 258533 | [258533-dvalloc.json](./258533-dvalloc.json) |
+| DVD Dancemachine DVT-F800 | 245697 | [245697-dvd-dancemachine-dvt-f800.json](./245697-dvd-dancemachine-dvt-f800.json) |
 | DVD Dealer Simulator | 407475 | [407475-dvd-dealer-simulator.json](./407475-dvd-dealer-simulator.json) |
+| DVD Karaoke Game DVT-G100 | 245691 | [245691-dvd-karaoke-game-dvt-g100.json](./245691-dvd-karaoke-game-dvt-g100.json) |
 | DVD Screensaver Simulator Rebirth Reimagined Definitive Reloaded Special Intergrade Ultimate HD Legacy Collection Remastered (2027 Edition) | 408785 | [408785-dvd-screensaver-simulator-rebirth-reimagined-definitive-reloaded-special-intergrade-ultimate-hd-legacy-collection-remastered-2027-edition.json](./408785-dvd-screensaver-simulator-rebirth-reimagined-definitive-reloaded-special-intergrade-ultimate-hd-legacy-collection-remastered-2027-edition.json) |
 | DVD Survivors | 395479 | [395479-dvd-survivors.json](./395479-dvd-survivors.json) |
 | DvDrum, Ultimate Drum Simulator! | 27206 | [27206-dvdrum-ultimate-drum-simulator.json](./27206-dvdrum-ultimate-drum-simulator.json) |
