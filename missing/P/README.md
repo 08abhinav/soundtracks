@@ -1629,6 +1629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Files: The Trap of Truth - Collector's Edition | 370900 | [370900-paranormal-files-the-trap-of-truth-collectors-edition.json](./370900-paranormal-files-the-trap-of-truth-collectors-edition.json) |
 | Paranormal Files: Trials of Worth - Collector's Edition | 272950 | [272950-paranormal-files-trials-of-worth-collectors-edition.json](./272950-paranormal-files-trials-of-worth-collectors-edition.json) |
 | Paranormal Girlfriend | 236968 | [236968-paranormal-girlfriend.json](./236968-paranormal-girlfriend.json) |
+| Paranormal Hunter | 216642 | [216642-paranormal-hunter.json](./216642-paranormal-hunter.json) |
 | Paranormal Meatball Simulator | 408008 | [408008-paranormal-meatball-simulator.json](./408008-paranormal-meatball-simulator.json) |
 | Paranormal Motel | 193401 | [193401-paranormal-motel.json](./193401-paranormal-motel.json) |
 | Paranormal Mutagens: Cargo | 329209 | [329209-paranormal-mutagens-cargo.json](./329209-paranormal-mutagens-cargo.json) |
@@ -3461,6 +3462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persevere | 350006 | [350006-persevere.json](./350006-persevere.json) |
 | Persha and the Magic Labyrinth: Arabian Nyaights | 264901 | [264901-persha-and-the-magic-labyrinth-arabian-nyaights.json](./264901-persha-and-the-magic-labyrinth-arabian-nyaights.json) |
 | Persha and the Magic Puzzle: Arabian Nyaights | 235210 | [235210-persha-and-the-magic-puzzle-arabian-nyaights.json](./235210-persha-and-the-magic-puzzle-arabian-nyaights.json) |
+| Persian Empire Builder | 216674 | [216674-persian-empire-builder.json](./216674-persian-empire-builder.json) |
 | Persian Gulf Inferno | 72329 | [72329-persian-gulf-inferno.json](./72329-persian-gulf-inferno.json) |
 | Persian Nights 2: The Moonlight Veil | 134557 | [134557-persian-nights-2-the-moonlight-veil.json](./134557-persian-nights-2-the-moonlight-veil.json) |
 | Persian Wars | 27589 | [27589-persian-wars.json](./27589-persian-wars.json) |
@@ -5862,6 +5864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pit & Run | 40402 | [40402-pit-and-run.json](./40402-pit-and-run.json) |
 | Pit Blocks 3D | 108282 | [108282-pit-blocks-3d.json](./108282-pit-blocks-3d.json) |
 | Pit Crew Panic! | 70650 | [70650-pit-crew-panic.json](./70650-pit-crew-panic.json) |
+| Pit Fighter Tycoon | 216683 | [216683-pit-fighter-tycoon.json](./216683-pit-fighter-tycoon.json) |
 | Pit of 100 Wonders | 394348 | [394348-pit-of-100-wonders.json](./394348-pit-of-100-wonders.json) |
 | Pit of Ascension | 155986 | [155986-pit-of-ascension.json](./155986-pit-of-ascension.json) |
 | Pit of Gerstan | 319880 | [319880-pit-of-gerstan.json](./319880-pit-of-gerstan.json) |
@@ -6918,6 +6921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Minigolf | 21575 | [21575-planet-minigolf.json](./21575-planet-minigolf.json) |
 | Planet Modular Tower Defense. Sci-Fi TD Strategy | 126597 | [126597-planet-modular-tower-defense-sci-fi-td-strategy.json](./126597-planet-modular-tower-defense-sci-fi-td-strategy.json) |
 | Planet Monsters | 49359 | [49359-planet-monsters.json](./49359-planet-monsters.json) |
+| Planet Morph | 216636 | [216636-planet-morph.json](./216636-planet-morph.json) |
 | Planet Nine | 113694 | [113694-planet-nine.json](./113694-planet-nine.json) |
 | Planet Nine | 417290 | [417290-planet-nine.json](./417290-planet-nine.json) |
 | Planet of a Poisoned Past | 141750 | [141750-planet-of-a-poisoned-past.json](./141750-planet-of-a-poisoned-past.json) |
@@ -7605,6 +7609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plumo At The Zoo | 312632 | [312632-plumo-at-the-zoo.json](./312632-plumo-at-the-zoo.json) |
 | Plumo On The Farm | 312635 | [312635-plumo-on-the-farm.json](./312635-plumo-on-the-farm.json) |
 | Plump! Dumb Frog Pond | 368813 | [368813-plump-dumb-frog-pond.json](./368813-plump-dumb-frog-pond.json) |
+| Plumpy Uprising | 216681 | [216681-plumpy-uprising.json](./216681-plumpy-uprising.json) |
 | Plunder | 113748 | [113748-plunder.json](./113748-plunder.json) |
 | Plunder & Pillage | 159212 | [159212-plunder-and-pillage.json](./159212-plunder-and-pillage.json) |
 | Plunder Ball | 275838 | [275838-plunder-ball.json](./275838-plunder-ball.json) |
@@ -10005,6 +10010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Tales | 211620 | [211620-potion-tales.json](./211620-potion-tales.json) |
 | Potion Tycoon | 167183 | [167183-potion-tycoon.json](./167183-potion-tycoon.json) |
 | Potion Wilds | 216713 | [216713-potion-wilds.json](./216713-potion-wilds.json) |
+| Potion-Maker's Apprentice | 216680 | [216680-potion-makers-apprentice.json](./216680-potion-makers-apprentice.json) |
 | Potioneer: The VR Gardening Simulator | 27341 | [27341-potioneer-the-vr-gardening-simulator.json](./27341-potioneer-the-vr-gardening-simulator.json) |
 | Potionomics | 75994 | [75994-potionomics.json](./75994-potionomics.json) |
 | Potionomics: Boss Finn Content Pack | 360595 | [360595-potionomics-boss-finn-content-pack.json](./360595-potionomics-boss-finn-content-pack.json) |
@@ -11133,6 +11139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Gang Wars | 268982 | [268982-prison-gang-wars.json](./268982-prison-gang-wars.json) |
 | Prison Girl | 150645 | [150645-prison-girl.json](./150645-prison-girl.json) |
 | Prison in Cafe | 272702 | [272702-prison-in-cafe.json](./272702-prison-in-cafe.json) |
+| Prison King | 216658 | [216658-prison-king.json](./216658-prison-king.json) |
 | Prison Life 2 | 216959 | [216959-prison-life-2.json](./216959-prison-life-2.json) |
 | Prison Life RPG | 59736 | [59736-prison-life-rpg.json](./59736-prison-life-rpg.json) |
 | Prison Life Simulator Jail: Glove Pack Expansion | 317676 | [317676-prison-life-simulator-jail-glove-pack-expansion.json](./317676-prison-life-simulator-jail-glove-pack-expansion.json) |
