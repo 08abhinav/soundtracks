@@ -1964,6 +1964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elland: The Crystal Wars | 219248 | [219248-elland-the-crystal-wars.json](./219248-elland-the-crystal-wars.json) |
 | Elle | 109416 | [109416-elle.json](./109416-elle.json) |
 | Elle | 171973 | [171973-elle.json](./171973-elle.json) |
+| Elle: Portal | 236146 | [236146-elle-portal.json](./236146-elle-portal.json) |
 | Ellen and the Degenerates RPG | 114542 | [114542-ellen-and-the-degenerates-rpg.json](./114542-ellen-and-the-degenerates-rpg.json) |
 | Ellen Whitaker's Horse Life | 92406 | [92406-ellen-whitakers-horse-life.json](./92406-ellen-whitakers-horse-life.json) |
 | Ellentis | 370178 | [370178-ellentis.json](./370178-ellentis.json) |
@@ -4464,6 +4465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Doom IV: Return from Oblivion | 256891 | [256891-eternal-doom-iv-return-from-oblivion.json](./256891-eternal-doom-iv-return-from-oblivion.json) |
 | Eternal Dread | 86340 | [86340-eternal-dread.json](./86340-eternal-dread.json) |
 | Eternal Dread 2 | 126955 | [126955-eternal-dread-2.json](./126955-eternal-dread-2.json) |
+| Eternal Dread 3 | 236111 | [236111-eternal-dread-3.json](./236111-eternal-dread-3.json) |
 | Eternal Dreamers | 140609 | [140609-eternal-dreamers.json](./140609-eternal-dreamers.json) |
 | Eternal Dungeon | 140589 | [140589-eternal-dungeon.json](./140589-eternal-dungeon.json) |
 | Eternal Eden | 6766 | [6766-eternal-eden.json](./6766-eternal-eden.json) |
