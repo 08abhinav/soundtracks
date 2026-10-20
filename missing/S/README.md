@@ -2341,6 +2341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schwarzesmarken: Junkyousha-tachi | 374377 | [374377-schwarzesmarken-junkyousha-tachi.json](./374377-schwarzesmarken-junkyousha-tachi.json) |
 | Schwarzesmarken: Kouketsu no Monshou | 374363 | [374363-schwarzesmarken-kouketsu-no-monshou.json](./374363-schwarzesmarken-kouketsu-no-monshou.json) |
 | Schwarzschild EX | 94112 | [94112-schwarzschild-ex.json](./94112-schwarzschild-ex.json) |
+| Schwarzwald | 223331 | [223331-schwarzwald.json](./223331-schwarzwald.json) |
 | Schwebebahn Simulator 2013 | 241490 | [241490-schwebebahn-simulator-2013.json](./241490-schwebebahn-simulator-2013.json) |
 | Schwerkraftprojektionsgerät | 139155 | [139155-schwerkraftprojektionsgerat.json](./139155-schwerkraftprojektionsgerat.json) |
 | Schwerpunkt | 155868 | [155868-schwerpunkt.json](./155868-schwerpunkt.json) |
@@ -2591,6 +2592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Escape Together | 139407 | [139407-scp-escape-together.json](./139407-scp-escape-together.json) |
 | SCP: Event Classified | 199581 | [199581-scp-event-classified.json](./199581-scp-event-classified.json) |
 | SCP: Experiments | 363962 | [363962-scp-experiments.json](./363962-scp-experiments.json) |
+| SCP: Facility | 223326 | [223326-scp-facility.json](./223326-scp-facility.json) |
 | SCP: Facility Manager | 219623 | [219623-scp-facility-manager.json](./219623-scp-facility-manager.json) |
 | SCP: Forgotten Facility | 151005 | [151005-scp-forgotten-facility.json](./151005-scp-forgotten-facility.json) |
 | SCP: Fragmented Minds | 137487 | [137487-scp-fragmented-minds.json](./137487-scp-fragmented-minds.json) |
@@ -3354,6 +3356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Backrooms | 204094 | [204094-secret-backrooms.json](./204094-secret-backrooms.json) |
 | Secret Backrooms 2 | 250865 | [250865-secret-backrooms-2.json](./250865-secret-backrooms-2.json) |
 | Secret Base | 172530 | [172530-secret-base.json](./172530-secret-base.json) |
+| Secret Battle | 223322 | [223322-secret-battle.json](./223322-secret-battle.json) |
 | Secret Blade | 245852 | [245852-secret-blade.json](./245852-secret-blade.json) |
 | Secret Bottle | 246479 | [246479-secret-bottle.json](./246479-secret-bottle.json) |
 | Secret Bureau | 321665 | [321665-secret-bureau.json](./321665-secret-bureau.json) |
@@ -8482,6 +8485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sincere Deceit | 328230 | [328230-sincere-deceit.json](./328230-sincere-deceit.json) |
 | Sinclair User DoubleHits 5 | 85759 | [85759-sinclair-user-doublehits-5.json](./85759-sinclair-user-doublehits-5.json) |
 | SinClient | 82951 | [82951-sinclient.json](./82951-sinclient.json) |
+| Sincognito | 223356 | [223356-sincognito.json](./223356-sincognito.json) |
 | Sindbad Mystery | 6135 | [6135-sindbad-mystery.json](./6135-sindbad-mystery.json) |
 | Sinderfury | 306089 | [306089-sinderfury.json](./306089-sinderfury.json) |
 | Sindibad - Chitei No Dai Meikyu | 37690 | [37690-sindibad-chitei-no-dai-meikyu.json](./37690-sindibad-chitei-no-dai-meikyu.json) |
@@ -15424,6 +15428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spartacus: Born to be Free | 226617 | [226617-spartacus-born-to-be-free.json](./226617-spartacus-born-to-be-free.json) |
 | Spartaga | 51853 | [51853-spartaga.json](./51853-spartaga.json) |
 | Spartan | 208845 | [208845-spartan.json](./208845-spartan.json) |
+| Spartan | 223336 | [223336-spartan.json](./223336-spartan.json) |
 | Spartan | 66895 | [66895-spartan.json](./66895-spartan.json) |
 | Spartan Fist | 28876 | [28876-spartan-fist.json](./28876-spartan-fist.json) |
 | Spartan Runner | 96223 | [96223-spartan-runner.json](./96223-spartan-runner.json) |
@@ -16556,6 +16561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirits of Xanadu | 17601 | [17601-spirits-of-xanadu.json](./17601-spirits-of-xanadu.json) |
 | Spirits of Yendor | 216879 | [216879-spirits-of-yendor.json](./216879-spirits-of-yendor.json) |
 | Spirits: Ciel Bleu | 44214 | [44214-spirits-ciel-bleu.json](./44214-spirits-ciel-bleu.json) |
+| Spirits' Creek | 223355 | [223355-spirits-creek.json](./223355-spirits-creek.json) |
 | Spirits' Forest | 383366 | [383366-spirits-forest.json](./383366-spirits-forest.json) |
 | SpiritSphere DX | 78142 | [78142-spiritsphere-dx.json](./78142-spiritsphere-dx.json) |
 | Spiritstead | 366345 | [366345-spiritstead.json](./366345-spiritstead.json) |
@@ -19240,6 +19246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starwatchers: The Search for Cosmic Jam | 178923 | [178923-starwatchers-the-search-for-cosmic-jam.json](./178923-starwatchers-the-search-for-cosmic-jam.json) |
 | Starwave | 306943 | [306943-starwave.json](./306943-starwave.json) |
 | Starway Ateez | 315487 | [315487-starway-ateez.json](./315487-starway-ateez.json) |
+| Starway: BaRaider | 223328 | [223328-starway-baraider.json](./223328-starway-baraider.json) |
 | Starweaver Express: Per Aspera Ad Astra | 391752 | [391752-starweaver-express-per-aspera-ad-astra.json](./391752-starweaver-express-per-aspera-ad-astra.json) |
 | StarWheels | 119041 | [119041-starwheels.json](./119041-starwheels.json) |
 | Starwind | 392363 | [392363-starwind.json](./392363-starwind.json) |
@@ -19460,6 +19467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam Punks | 61085 | [61085-steam-punks.json](./61085-steam-punks.json) |
 | Steam Puppet: Tower Defense | 151670 | [151670-steam-puppet-tower-defense.json](./151670-steam-puppet-tower-defense.json) |
 | Steam Revolution VR | 162710 | [162710-steam-revolution-vr.json](./162710-steam-revolution-vr.json) |
+| Steam Sky | 223312 | [223312-steam-sky.json](./223312-steam-sky.json) |
 | Steam Slug | 51262 | [51262-steam-slug.json](./51262-steam-slug.json) |
 | Steam Squad | 36354 | [36354-steam-squad.json](./36354-steam-squad.json) |
 | Steam Tactics | 61606 | [61606-steam-tactics.json](./61606-steam-tactics.json) |
@@ -21663,6 +21671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Su-27 Flanker Mission Disk | 74051 | [74051-su-27-flanker-mission-disk.json](./74051-su-27-flanker-mission-disk.json) |
 | SU-93 Survivor | 401301 | [401301-su-93-survivor.json](./401301-su-93-survivor.json) |
 | Su: Unlocking the 4th Dimension | 297903 | [297903-su-unlocking-the-4th-dimension.json](./297903-su-unlocking-the-4th-dimension.json) |
+| Su! | 223341 | [223341-su.json](./223341-su.json) |
 | SU42: Hired Gun | 345669 | [345669-su42-hired-gun.json](./345669-su42-hired-gun.json) |
 | Su8way | 408704 | [408704-su8way.json](./408704-su8way.json) |
 | Sub Attack | 337208 | [337208-sub-attack.json](./337208-sub-attack.json) |
