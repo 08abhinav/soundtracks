@@ -4395,7 +4395,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Man's Sky: Companions | 221636 | [221636-no-mans-sky-companions.json](./221636-no-mans-sky-companions.json) |
 | No Man's Sky: Desolation | 221742 | [221742-no-mans-sky-desolation.json](./221742-no-mans-sky-desolation.json) |
 | No Man's Sky: Echoes | 262883 | [262883-no-mans-sky-echoes.json](./262883-no-mans-sky-echoes.json) |
+| No Man's Sky: Expeditions | 221635 | [221635-no-mans-sky-expeditions.json](./221635-no-mans-sky-expeditions.json) |
 | No Man's Sky: Foundation | 222782 | [222782-no-mans-sky-foundation.json](./222782-no-mans-sky-foundation.json) |
+| No Man's Sky: Frontiers | 221607 | [221607-no-mans-sky-frontiers.json](./221607-no-mans-sky-frontiers.json) |
 | No Man's Sky: Living Ship | 222237 | [222237-no-mans-sky-living-ship.json](./222237-no-mans-sky-living-ship.json) |
 | No Man's Sky: Next | 222778 | [222778-no-mans-sky-next.json](./222778-no-mans-sky-next.json) |
 | No Man's Sky: Next Generation | 221637 | [221637-no-mans-sky-next-generation.json](./221637-no-mans-sky-next-generation.json) |
@@ -4404,7 +4406,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Man's Sky: Orbital | 294064 | [294064-no-mans-sky-orbital.json](./294064-no-mans-sky-orbital.json) |
 | No Man's Sky: Origins | 221638 | [221638-no-mans-sky-origins.json](./221638-no-mans-sky-origins.json) |
 | No Man's Sky: Pathfinder | 222781 | [222781-no-mans-sky-pathfinder.json](./222781-no-mans-sky-pathfinder.json) |
+| No Man's Sky: Prisms | 221610 | [221610-no-mans-sky-prisms.json](./221610-no-mans-sky-prisms.json) |
 | No Man's Sky: Relics | 336874 | [336874-no-mans-sky-relics.json](./336874-no-mans-sky-relics.json) |
+| No Man's Sky: Sentinel | 221606 | [221606-no-mans-sky-sentinel.json](./221606-no-mans-sky-sentinel.json) |
 | No Man's Sky: Starborn Phoenix Ship | 325562 | [325562-no-mans-sky-starborn-phoenix-ship.json](./325562-no-mans-sky-starborn-phoenix-ship.json) |
 | No Man's Sky: Synthesis | 222424 | [222424-no-mans-sky-synthesis.json](./222424-no-mans-sky-synthesis.json) |
 | No Man's Sky: The Swarm | 403195 | [403195-no-mans-sky-the-swarm.json](./403195-no-mans-sky-the-swarm.json) |
