@@ -1324,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vex | 32236 | [32236-vex.json](./32236-vex.json) |
 | Vex | 402253 | [402253-vex.json](./402253-vex.json) |
 | Vex 2 | 402308 | [402308-vex-2.json](./402308-vex-2.json) |
+| Vex 3 | 213227 | [213227-vex-3.json](./213227-vex-3.json) |
 | Vex 4 | 133770 | [133770-vex-4.json](./133770-vex-4.json) |
 | Vex 5 | 402315 | [402315-vex-5.json](./402315-vex-5.json) |
 | Vex 6 | 188039 | [188039-vex-6.json](./188039-vex-6.json) |
