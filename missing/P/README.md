@@ -8345,6 +8345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Masters EX | 144248 | [144248-pokemon-masters-ex.json](./144248-pokemon-masters-ex.json) |
 | Pokemon Masters Stadium | 367553 | [367553-pokemon-masters-stadium.json](./367553-pokemon-masters-stadium.json) |
 | Pokémon Mega Evolution Aquamarine | 300428 | [300428-pokemon-mega-evolution-aquamarine.json](./300428-pokemon-mega-evolution-aquamarine.json) |
+| Pokémon Mezastar | 253787 | [253787-pokemon-mezastar.json](./253787-pokemon-mezastar.json) |
 | Pokémon Mini: Snorlax's Lunch Time | 144721 | [144721-pokemon-mini-snorlaxs-lunch-time.json](./144721-pokemon-mini-snorlaxs-lunch-time.json) |
 | Pokémon Mino | 265214 | [265214-pokemon-mino.json](./265214-pokemon-mino.json) |
 | Pokémon Moemon Emerald Version | 229058 | [229058-pokemon-moemon-emerald-version.json](./229058-pokemon-moemon-emerald-version.json) |
@@ -13343,6 +13344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putty Squad | 85584 | [85584-putty-squad.json](./85584-putty-squad.json) |
 | Putzgrila: Mestre dos Esportes | 172472 | [172472-putzgrila-mestre-dos-esportes.json](./172472-putzgrila-mestre-dos-esportes.json) |
 | Puym: Lake | 242972 | [242972-puym-lake.json](./242972-puym-lake.json) |
+| Puyo Card | 253761 | [253761-puyo-card.json](./253761-puyo-card.json) |
 | Puyo Ponyo Lines | 260895 | [260895-puyo-ponyo-lines.json](./260895-puyo-ponyo-lines.json) |
 | Puyo Pop | 23455 | [23455-puyo-pop.json](./23455-puyo-pop.json) |
 | Puyo Pop | 81459 | [81459-puyo-pop.json](./81459-puyo-pop.json) |
