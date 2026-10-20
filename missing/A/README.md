@@ -618,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Moon for the Sky | 9974 | [9974-a-moon-for-the-sky.json](./9974-a-moon-for-the-sky.json) |
 | A Morte | 268898 | [268898-a-morte.json](./268898-a-morte.json) |
 | A Most Curious Murder | 83853 | [83853-a-most-curious-murder.json](./83853-a-most-curious-murder.json) |
+| A Most Extraordinary Gnome | 211034 | [211034-a-most-extraordinary-gnome.json](./211034-a-most-extraordinary-gnome.json) |
 | A Moth Argent | 135835 | [135835-a-moth-argent.json](./135835-a-moth-argent.json) |
 | A Murder of Crows | 261846 | [261846-a-murder-of-crows.json](./261846-a-murder-of-crows.json) |
 | a Museum of Dubious Splendors | 90075 | [90075-a-museum-of-dubious-splendors.json](./90075-a-museum-of-dubious-splendors.json) |
@@ -4134,6 +4135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AirportSim: Rovaniemi Airport | 283886 | [283886-airportsim-rovaniemi-airport.json](./283886-airportsim-rovaniemi-airport.json) |
 | AirRacer | 332571 | [332571-airracer.json](./332571-airracer.json) |
 | Airrade: Summer | 384707 | [384707-airrade-summer.json](./384707-airrade-summer.json) |
+| AirRaid | 211028 | [211028-airraid.json](./211028-airraid.json) |
 | Airranger | 122978 | [122978-airranger.json](./122978-airranger.json) |
 | AirRevo | 187453 | [187453-airrevo.json](./187453-airrevo.json) |
 | Airs Adventure | 45430 | [45430-airs-adventure.json](./45430-airs-adventure.json) |
@@ -4248,6 +4250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akapulka: The Rainbow | 201666 | [201666-akapulka-the-rainbow.json](./201666-akapulka-the-rainbow.json) |
 | Akari by Nikoli | 84869 | [84869-akari-by-nikoli.json](./84869-akari-by-nikoli.json) |
 | Akari: School Trip | 233654 | [233654-akari-school-trip.json](./233654-akari-school-trip.json) |
+| Akari: The Five Eyed Fox | 211026 | [211026-akari-the-five-eyed-fox.json](./211026-akari-the-five-eyed-fox.json) |
 | Akasha | 250512 | [250512-akasha.json](./250512-akasha.json) |
 | Akasha Dreams | 257537 | [257537-akasha-dreams.json](./257537-akasha-dreams.json) |
 | Akashi | 229379 | [229379-akashi.json](./229379-akashi.json) |
@@ -7044,6 +7047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Zero | 398592 | [398592-angel-zero.json](./398592-angel-zero.json) |
 | Angel, Devil, Elf and Me! | 111089 | [111089-angel-devil-elf-and-me.json](./111089-angel-devil-elf-and-me.json) |
 | Angel! | 177914 | [177914-angel.json](./177914-angel.json) |
+| Angel's Awakening | 211076 | [211076-angels-awakening.json](./211076-angels-awakening.json) |
 | Angel's Dreams | 390733 | [390733-angels-dreams.json](./390733-angels-dreams.json) |
 | Angel's Feather | 72737 | [72737-angels-feather.json](./72737-angels-feather.json) |
 | Angel's Feather: Kohaku no Hitomi | 44649 | [44649-angels-feather-kohaku-no-hitomi.json](./44649-angels-feather-kohaku-no-hitomi.json) |
@@ -7253,6 +7257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anguna 2600 | 134346 | [134346-anguna-2600.json](./134346-anguna-2600.json) |
 | Anguna: Warriors of Virtue | 49509 | [49509-anguna-warriors-of-virtue.json](./49509-anguna-warriors-of-virtue.json) |
 | Angus Hates Aliens | 33165 | [33165-angus-hates-aliens.json](./33165-angus-hates-aliens.json) |
+| Angy | 211077 | [211077-angy.json](./211077-angy.json) |
 | Anhedonia: Sanctuary of Ash | 408915 | [408915-anhedonia-sanctuary-of-ash.json](./408915-anhedonia-sanctuary-of-ash.json) |
 | Ani | 312988 | [312988-ani.json](./312988-ani.json) |
 | Ani Idle | 351027 | [351027-ani-idle.json](./351027-ani-idle.json) |
@@ -7466,6 +7471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Wrestler | 267325 | [267325-animal-wrestler.json](./267325-animal-wrestler.json) |
 | Animal Yokochou: Doki-doki Kyuushutsu Daisakusen! no Maki | 49493 | [49493-animal-yokochou-doki-doki-kyuushutsu-daisakusen-no-maki.json](./49493-animal-yokochou-doki-doki-kyuushutsu-daisakusen-no-maki.json) |
 | Animal Zodiac | 298880 | [298880-animal-zodiac.json](./298880-animal-zodiac.json) |
+| Animal Zone | 211078 | [211078-animal-zone.json](./211078-animal-zone.json) |
 | Animal Zoo: The Forgotten Land | 314879 | [314879-animal-zoo-the-forgotten-land.json](./314879-animal-zoo-the-forgotten-land.json) |
 | AnimalDon! | 345984 | [345984-animaldon.json](./345984-animaldon.json) |
 | AnimalFruitTart | 369230 | [369230-animalfruittart.json](./369230-animalfruittart.json) |
@@ -7477,6 +7483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animalia Survival: Haloween Pack | 263051 | [263051-animalia-survival-haloween-pack.json](./263051-animalia-survival-haloween-pack.json) |
 | Animalia: The Quiz Game | 68752 | [68752-animalia-the-quiz-game.json](./68752-animalia-the-quiz-game.json) |
 | Animalism | 267290 | [267290-animalism.json](./267290-animalism.json) |
+| Animalistic | 211048 | [211048-animalistic.json](./211048-animalistic.json) |
 | Animalistic: Last Man on Earth | 279253 | [279253-animalistic-last-man-on-earth.json](./279253-animalistic-last-man-on-earth.json) |
 | Animality | 29914 | [29914-animality.json](./29914-animality.json) |
 | Animallica | 43361 | [43361-animallica.json](./43361-animallica.json) |
@@ -7685,6 +7692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animorphs: Shattered Reality | 43927 | [43927-animorphs-shattered-reality.json](./43927-animorphs-shattered-reality.json) |
 | Animosa | 207560 | [207560-animosa.json](./207560-animosa.json) |
 | Animosity's Duel | 133800 | [133800-animositys-duel.json](./133800-animositys-duel.json) |
+| Animperium | 211079 | [211079-animperium.json](./211079-animperium.json) |
 | AnimuJump | 238628 | [238628-animujump.json](./238628-animujump.json) |
 | Animula Nook | 369856 | [369856-animula-nook.json](./369856-animula-nook.json) |
 | Animus Toil | 217753 | [217753-animus-toil.json](./217753-animus-toil.json) |
@@ -7698,6 +7706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anita's Camp | 310539 | [310539-anitas-camp.json](./310539-anitas-camp.json) |
 | Anita's Job | 310538 | [310538-anitas-job.json](./310538-anitas-job.json) |
 | Anito: Defend A Land Enraged | 24106 | [24106-anito-defend-a-land-enraged.json](./24106-anito-defend-a-land-enraged.json) |
+| Anitons | 211080 | [211080-anitons.json](./211080-anitons.json) |
 | Anivenge | 182374 | [182374-anivenge.json](./182374-anivenge.json) |
 | Aniwar | 235078 | [235078-aniwar.json](./235078-aniwar.json) |
 | Aniwars | 247938 | [247938-aniwars.json](./247938-aniwars.json) |
@@ -8630,6 +8639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apollo Titanic Bundle | 118856 | [118856-apollo-titanic-bundle.json](./118856-apollo-titanic-bundle.json) |
 | Apollo X | 120292 | [120292-apollo-x.json](./120292-apollo-x.json) |
 | Apollo: A Dream Odyssey | 223614 | [223614-apollo-a-dream-odyssey.json](./223614-apollo-a-dream-odyssey.json) |
+| Apollo's Adventure | 211050 | [211050-apollos-adventure.json](./211050-apollos-adventure.json) |
 | Apollo's Palace | 186601 | [186601-apollos-palace.json](./186601-apollos-palace.json) |
 | Apollo4x | 26978 | [26978-apollo4x.json](./26978-apollo4x.json) |
 | Apology Video | 406316 | [406316-apology-video.json](./406316-apology-video.json) |
@@ -11099,6 +11109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashen Sky | 299596 | [299596-ashen-sky.json](./299596-ashen-sky.json) |
 | Ashen Throne | 399765 | [399765-ashen-throne.json](./399765-ashen-throne.json) |
 | Ashen Vow | 373852 | [373852-ashen-vow.json](./373852-ashen-vow.json) |
+| Ashen Will | 211044 | [211044-ashen-will.json](./211044-ashen-will.json) |
 | Ashen World | 379451 | [379451-ashen-world.json](./379451-ashen-world.json) |
 | Asher | 33483 | [33483-asher.json](./33483-asher.json) |
 | Asher Descent | 405612 | [405612-asher-descent.json](./405612-asher-descent.json) |
@@ -12794,6 +12805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Augmentors | 112252 | [112252-augmentors.json](./112252-augmentors.json) |
 | Augur & Haruspex | 183377 | [183377-augur-and-haruspex.json](./183377-augur-and-haruspex.json) |
 | Augurium Mortis | 304685 | [304685-augurium-mortis.json](./304685-augurium-mortis.json) |
+| Augury | 211081 | [211081-augury.json](./211081-augury.json) |
 | Augury Point | 280298 | [280298-augury-point.json](./280298-augury-point.json) |
 | August 31 | 202240 | [202240-august-31.json](./202240-august-31.json) |
 | August Ends | 318140 | [318140-august-ends.json](./318140-august-ends.json) |
