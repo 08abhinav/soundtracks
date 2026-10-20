@@ -5423,6 +5423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotcha Number for Playdate | 276716 | [276716-gotcha-number-for-playdate.json](./276716-gotcha-number-for-playdate.json) |
 | Gotcha! | 27535 | [27535-gotcha.json](./27535-gotcha.json) |
 | Gotcha! The Sport! | 5848 | [5848-gotcha-the-sport.json](./5848-gotcha-the-sport.json) |
+| Gotchaball | 252006 | [252006-gotchaball.json](./252006-gotchaball.json) |
 | Gotchi Guardians | 354980 | [354980-gotchi-guardians.json](./354980-gotchi-guardians.json) |
 | Goth Obsession | 401266 | [401266-goth-obsession.json](./401266-goth-obsession.json) |
 | Gotha | 92102 | [92102-gotha.json](./92102-gotha.json) |
