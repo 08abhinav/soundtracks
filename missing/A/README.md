@@ -7465,6 +7465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Way | 295552 | [295552-animal-way.json](./295552-animal-way.json) |
 | Animal Well | 191435 | [191435-animal-well.json](./191435-animal-well.json) |
 | Animal Wine Factory | 212497 | [212497-animal-wine-factory.json](./212497-animal-wine-factory.json) |
+| Animal Wish | 207667 | [207667-animal-wish.json](./207667-animal-wish.json) |
 | Animal Workforce: Idle Tycoon Clicker | 369583 | [369583-animal-workforce-idle-tycoon-clicker.json](./369583-animal-workforce-idle-tycoon-clicker.json) |
 | Animal World: Big Cats | 269555 | [269555-animal-world-big-cats.json](./269555-animal-world-big-cats.json) |
 | Animal Wrestler | 267325 | [267325-animal-wrestler.json](./267325-animal-wrestler.json) |
