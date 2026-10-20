@@ -12837,6 +12837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Forces: Day One Edition | 136167 | [136167-sonic-forces-day-one-edition.json](./136167-sonic-forces-day-one-edition.json) |
 | Sonic Forces: Episode Shadow | 112095 | [112095-sonic-forces-episode-shadow.json](./112095-sonic-forces-episode-shadow.json) |
 | Sonic Forces: Speed Battle | 69392 | [69392-sonic-forces-speed-battle.json](./69392-sonic-forces-speed-battle.json) |
+| Sonic Forces: Super Sonic | 255540 | [255540-sonic-forces-super-sonic.json](./255540-sonic-forces-super-sonic.json) |
 | Sonic Free Riders: No Kinect Patch | 276926 | [276926-sonic-free-riders-no-kinect-patch.json](./276926-sonic-free-riders-no-kinect-patch.json) |
 | Sonic Freedom Frontiers | 316345 | [316345-sonic-freedom-frontiers.json](./316345-sonic-freedom-frontiers.json) |
 | Sonic Frenzy Adventure | 305283 | [305283-sonic-frenzy-adventure.json](./305283-sonic-frenzy-adventure.json) |
@@ -19087,6 +19088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Station Sabotage | 283770 | [283770-station-sabotage.json](./283770-station-sabotage.json) |
 | Station Spacewalk Game | 200954 | [200954-station-spacewalk-game.json](./200954-station-spacewalk-game.json) |
 | Station Zeta | 304003 | [304003-station-zeta.json](./304003-station-zeta.json) |
+| Station.exe | 255534 | [255534-station-exe.json](./255534-station-exe.json) |
 | Stationbreak | 406641 | [406641-stationbreak.json](./406641-stationbreak.json) |
 | Stationeers | 28013 | [28013-stationeers.json](./28013-stationeers.json) |
 | Stationeers: H.E.M Droid Species Pack | 227893 | [227893-stationeers-h-e-m-droid-species-pack.json](./227893-stationeers-h-e-m-droid-species-pack.json) |
@@ -22175,6 +22177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer of '69 | 224578 | [224578-summer-of-69.json](./224578-summer-of-69.json) |
 | Summer of Adventure Bundle | 196513 | [196513-summer-of-adventure-bundle.json](./196513-summer-of-adventure-bundle.json) |
 | Summer of Memories | 299498 | [299498-summer-of-memories.json](./299498-summer-of-memories.json) |
+| Summer Party Time | 255526 | [255526-summer-party-time.json](./255526-summer-party-time.json) |
 | Summer Party Time + Survival Pack Set | 261165 | [261165-summer-party-time-survival-pack-set.json](./261165-summer-party-time-survival-pack-set.json) |
 | Summer Party Time: Survival Pack | 261093 | [261093-summer-party-time-survival-pack.json](./261093-summer-party-time-survival-pack.json) |
 | Summer Paws | 122378 | [122378-summer-paws.json](./122378-summer-paws.json) |
