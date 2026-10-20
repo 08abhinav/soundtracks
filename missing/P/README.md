@@ -3011,6 +3011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pengo! | 91857 | [91857-pengo.json](./91857-pengo.json) |
 | Pengon | 79230 | [79230-pengon.json](./79230-pengon.json) |
 | PengoRoyale | 193274 | [193274-pengoroyale.json](./193274-pengoroyale.json) |
+| PengPeng: Save the Penguins | 234467 | [234467-pengpeng-save-the-penguins.json](./234467-pengpeng-save-the-penguins.json) |
 | PengPong | 345506 | [345506-pengpong.json](./345506-pengpong.json) |
 | Pengu | 177520 | [177520-pengu.json](./177520-pengu.json) |
 | Pengu Never Left | 187399 | [187399-pengu-never-left.json](./187399-pengu-never-left.json) |
@@ -12131,6 +12132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project W.A.K.E. | 286431 | [286431-project-w-a-k-e.json](./286431-project-w-a-k-e.json) |
 | Project Wand: Festival Of Futas | 290790 | [290790-project-wand-festival-of-futas.json](./290790-project-wand-festival-of-futas.json) |
 | Project Wand: Land of Leng | 379537 | [379537-project-wand-land-of-leng.json](./379537-project-wand-land-of-leng.json) |
+| Project War Mobile | 234461 | [234461-project-war-mobile.json](./234461-project-war-mobile.json) |
 | Project Warlock 2-pack | 223544 | [223544-project-warlock-2-pack.json](./223544-project-warlock-2-pack.json) |
 | Project Warlock II | 152272 | [152272-project-warlock-ii.json](./152272-project-warlock-ii.json) |
 | Project Warlock: Lost Chapters | 270023 | [270023-project-warlock-lost-chapters.json](./270023-project-warlock-lost-chapters.json) |
@@ -13905,6 +13907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzlerio | 270945 | [270945-puzzlerio.json](./270945-puzzlerio.json) |
 | Puzzles & Board Games Mega Collection | 105182 | [105182-puzzles-and-board-games-mega-collection.json](./105182-puzzles-and-board-games-mega-collection.json) |
 | Puzzles & Chaos | 301582 | [301582-puzzles-and-chaos.json](./301582-puzzles-and-chaos.json) |
+| Puzzles & Conquest | 234451 | [234451-puzzles-and-conquest.json](./234451-puzzles-and-conquest.json) |
 | Puzzles & Survival | 215091 | [215091-puzzles-and-survival.json](./215091-puzzles-and-survival.json) |
 | Puzzles At Mystery Manor | 32883 | [32883-puzzles-at-mystery-manor.json](./32883-puzzles-at-mystery-manor.json) |
 | Puzzles By Axis | 86415 | [86415-puzzles-by-axis.json](./86415-puzzles-by-axis.json) |
