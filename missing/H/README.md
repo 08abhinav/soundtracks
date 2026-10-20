@@ -727,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haloo | 298686 | [298686-haloo.json](./298686-haloo.json) |
 | HalOpe | 281399 | [281399-halope.json](./281399-halope.json) |
 | Halos: React and Match Arcade Game | 59773 | [59773-halos-react-and-match-arcade-game.json](./59773-halos-react-and-match-arcade-game.json) |
+| Halt | 219493 | [219493-halt.json](./219493-halt.json) |
 | Haluz | 322784 | [322784-haluz.json](./322784-haluz.json) |
 | Haluz 2 | 322787 | [322787-haluz-2.json](./322787-haluz-2.json) |
 | HALVA Studio 2023 Bundle | 308618 | [308618-halva-studio-2023-bundle.json](./308618-halva-studio-2023-bundle.json) |
