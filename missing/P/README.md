@@ -924,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panelak | 327022 | [327022-panelak.json](./327022-panelak.json) |
 | Panelka | 331522 | [331522-panelka.json](./331522-panelka.json) |
 | Panelki | 192269 | [192269-panelki.json](./192269-panelki.json) |
+| Panelki: Delivery | 208821 | [208821-panelki-delivery.json](./208821-panelki-delivery.json) |
 | Panels | 298248 | [298248-panels.json](./298248-panels.json) |
 | Paneltia Story: Karen no Daibouken | 97339 | [97339-paneltia-story-karen-no-daibouken.json](./97339-paneltia-story-karen-no-daibouken.json) |
 | Panema | 399413 | [399413-panema.json](./399413-panema.json) |
@@ -5435,6 +5436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping | 267965 | [267965-ping.json](./267965-ping.json) |
 | Ping | 307600 | [307600-ping.json](./307600-ping.json) |
 | Ping | 90641 | [90641-ping.json](./90641-ping.json) |
+| Ping & Kooky's Cuckoo Zoo | 208808 | [208808-ping-and-kookys-cuckoo-zoo.json](./208808-ping-and-kookys-cuckoo-zoo.json) |
 | Ping & Pong | 400909 | [400909-ping-and-pong.json](./400909-ping-and-pong.json) |
 | Ping 1.5+ | 35557 | [35557-ping-1-5.json](./35557-ping-1-5.json) |
 | Ping Bomb | 179593 | [179593-ping-bomb.json](./179593-ping-bomb.json) |
@@ -9128,6 +9130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Puzzle: Dogs | 286418 | [286418-poly-puzzle-dogs.json](./286418-poly-puzzle-dogs.json) |
 | Poly Puzzle: Furries | 170229 | [170229-poly-puzzle-furries.json](./170229-poly-puzzle-furries.json) |
 | Poly Puzzle: Furries 2 | 173069 | [173069-poly-puzzle-furries-2.json](./173069-poly-puzzle-furries-2.json) |
+| Poly Puzzle: Primates | 208820 | [208820-poly-puzzle-primates.json](./208820-poly-puzzle-primates.json) |
 | Poly Racing | 173290 | [173290-poly-racing.json](./173290-poly-racing.json) |
 | Poly Runner VR | 19038 | [19038-poly-runner-vr.json](./19038-poly-runner-vr.json) |
 | Poly S.A.E. | 185541 | [185541-poly-s-a-e.json](./185541-poly-s-a-e.json) |
@@ -13876,6 +13879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Mate DS: Crossword Mate | 306451 | [306451-puzzle-mate-ds-crossword-mate.json](./306451-puzzle-mate-ds-crossword-mate.json) |
 | Puzzle Mate DS: Nanpure Mate | 306449 | [306449-puzzle-mate-ds-nanpure-mate.json](./306449-puzzle-mate-ds-nanpure-mate.json) |
 | Puzzle Mate DS: Oekaki Mate | 306448 | [306448-puzzle-mate-ds-oekaki-mate.json](./306448-puzzle-mate-ds-oekaki-mate.json) |
+| Puzzle Me | 208819 | [208819-puzzle-me.json](./208819-puzzle-me.json) |
 | Puzzle Mino | 199328 | [199328-puzzle-mino.json](./199328-puzzle-mino.json) |
 | Puzzle Mix | 195430 | [195430-puzzle-mix.json](./195430-puzzle-mix.json) |
 | Puzzle Monarch: Vampires | 106446 | [106446-puzzle-monarch-vampires.json](./106446-puzzle-monarch-vampires.json) |
