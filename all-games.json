@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:05:50.174Z",
-  "total_soundtracks": 2220,
+  "generated_at": "2026-10-20T21:06:01.653Z",
+  "total_soundtracks": 2221,
   "games": [
     {
       "igdb_id": 7522,
@@ -2772,6 +2772,20 @@
           "album_name": "Below (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3eNQpoIwtuWCV8sADe1vL9",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 120163,
+      "game_name": "Bendy and the Dark Revival",
+      "game_url": "https://ostdb.net/games/bendy-and-the-dark-revival",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27387c4695bc504ba90f239cf03",
+      "albums": [
+        {
+          "album_name": "Bendy and the Dark Revival (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4EBr8gtcSeCNesWNET10rx",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
