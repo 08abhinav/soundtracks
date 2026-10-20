@@ -7150,6 +7150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman 4 Minus Infinity | 125157 | [125157-rockman-4-minus-infinity.json](./125157-rockman-4-minus-infinity.json) |
 | Rockman 4: Burst Chaser X Air Sliding | 245380 | [245380-rockman-4-burst-chaser-x-air-sliding.json](./245380-rockman-4-burst-chaser-x-air-sliding.json) |
 | Rockman 5: Double Jumper | 322118 | [322118-rockman-5-double-jumper.json](./322118-rockman-5-double-jumper.json) |
+| Rockman 6: After Tournament | 254357 | [254357-rockman-6-after-tournament.json](./254357-rockman-6-after-tournament.json) |
 | Rockman 6: Unique Harassment | 216422 | [216422-rockman-6-unique-harassment.json](./216422-rockman-6-unique-harassment.json) |
 | Rockman 7 EP | 212782 | [212782-rockman-7-ep.json](./212782-rockman-7-ep.json) |
 | Rockman 7 FC | 137115 | [137115-rockman-7-fc.json](./137115-rockman-7-fc.json) |
