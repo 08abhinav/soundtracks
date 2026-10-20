@@ -2566,16 +2566,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Puppets | 404440 | [404440-teenage-mutant-ninja-puppets.json](./404440-teenage-mutant-ninja-puppets.json) |
 | Teenage Mutant Ninja Turtles | 146004 | [146004-teenage-mutant-ninja-turtles.json](./146004-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles | 19747 | [19747-teenage-mutant-ninja-turtles.json](./19747-teenage-mutant-ninja-turtles.json) |
+| Teenage Mutant Ninja Turtles | 218922 | [218922-teenage-mutant-ninja-turtles.json](./218922-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles | 3815 | [3815-teenage-mutant-ninja-turtles.json](./3815-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles | 76209 | [76209-teenage-mutant-ninja-turtles.json](./76209-teenage-mutant-ninja-turtles.json) |
 | Teenage Mutant Ninja Turtles 2: Battle Nexus | 146058 | [146058-teenage-mutant-ninja-turtles-2-battle-nexus.json](./146058-teenage-mutant-ninja-turtles-2-battle-nexus.json) |
 | Teenage Mutant Ninja Turtles 3: Mutant Nightmare | 146059 | [146059-teenage-mutant-ninja-turtles-3-mutant-nightmare.json](./146059-teenage-mutant-ninja-turtles-3-mutant-nightmare.json) |
 | Teenage Mutant Ninja Turtles 3: Mutant Nightmare | 4197 | [4197-teenage-mutant-ninja-turtles-3-mutant-nightmare.json](./4197-teenage-mutant-ninja-turtles-3-mutant-nightmare.json) |
+| Teenage Mutant Ninja Turtles 3: Shredder's Last Stand | 218930 | [218930-teenage-mutant-ninja-turtles-3-shredders-last-stand.json](./218930-teenage-mutant-ninja-turtles-3-shredders-last-stand.json) |
 | Teenage Mutant Ninja Turtles Arcade: Wrath of the Mutants | 288335 | [288335-teenage-mutant-ninja-turtles-arcade-wrath-of-the-mutants.json](./288335-teenage-mutant-ninja-turtles-arcade-wrath-of-the-mutants.json) |
 | Teenage Mutant Ninja Turtles Arcade: Wrath of The Mutants - Ninja Edition | 415394 | [415394-teenage-mutant-ninja-turtles-arcade-wrath-of-the-mutants-ninja-edition.json](./415394-teenage-mutant-ninja-turtles-arcade-wrath-of-the-mutants-ninja-edition.json) |
+| Teenage Mutant Ninja Turtles Basketball | 218932 | [218932-teenage-mutant-ninja-turtles-basketball.json](./218932-teenage-mutant-ninja-turtles-basketball.json) |
 | Teenage Mutant Ninja Turtles Double Pack | 78938 | [78938-teenage-mutant-ninja-turtles-double-pack.json](./78938-teenage-mutant-ninja-turtles-double-pack.json) |
 | Teenage Mutant Ninja Turtles Fast Forward: Ninja Training NYC | 146104 | [146104-teenage-mutant-ninja-turtles-fast-forward-ninja-training-nyc.json](./146104-teenage-mutant-ninja-turtles-fast-forward-ninja-training-nyc.json) |
 | Teenage Mutant Ninja Turtles II: Back from the Sewers | 18639 | [18639-teenage-mutant-ninja-turtles-ii-back-from-the-sewers.json](./18639-teenage-mutant-ninja-turtles-ii-back-from-the-sewers.json) |
+| Teenage Mutant Ninja Turtles II: Splinter Speaks | 218929 | [218929-teenage-mutant-ninja-turtles-ii-splinter-speaks.json](./218929-teenage-mutant-ninja-turtles-ii-splinter-speaks.json) |
 | Teenage Mutant Ninja Turtles II: The Arcade Game | 3816 | [3816-teenage-mutant-ninja-turtles-ii-the-arcade-game.json](./3816-teenage-mutant-ninja-turtles-ii-the-arcade-game.json) |
 | Teenage Mutant Ninja Turtles III: The Manhattan Project | 14731 | [14731-teenage-mutant-ninja-turtles-iii-the-manhattan-project.json](./14731-teenage-mutant-ninja-turtles-iii-the-manhattan-project.json) |
 | Teenage Mutant Ninja Turtles IV: Turtles in Time | 14697 | [14697-teenage-mutant-ninja-turtles-iv-turtles-in-time.json](./14697-teenage-mutant-ninja-turtles-iv-turtles-in-time.json) |
@@ -2589,6 +2593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Dimension X Assault | 198938 | [198938-teenage-mutant-ninja-turtles-dimension-x-assault.json](./198938-teenage-mutant-ninja-turtles-dimension-x-assault.json) |
 | Teenage Mutant Ninja Turtles: Empire City | 345542 | [345542-teenage-mutant-ninja-turtles-empire-city.json](./345542-teenage-mutant-ninja-turtles-empire-city.json) |
 | Teenage Mutant Ninja Turtles: Fall of the Foot Clan | 48928 | [48928-teenage-mutant-ninja-turtles-fall-of-the-foot-clan.json](./48928-teenage-mutant-ninja-turtles-fall-of-the-foot-clan.json) |
+| Teenage Mutant Ninja Turtles: Four for Four | 218931 | [218931-teenage-mutant-ninja-turtles-four-for-four.json](./218931-teenage-mutant-ninja-turtles-four-for-four.json) |
 | Teenage Mutant Ninja Turtles: Master Splinter's Training Pack | 79779 | [79779-teenage-mutant-ninja-turtles-master-splinters-training-pack.json](./79779-teenage-mutant-ninja-turtles-master-splinters-training-pack.json) |
 | Teenage Mutant Ninja Turtles: Mutant Madness | 138015 | [138015-teenage-mutant-ninja-turtles-mutant-madness.json](./138015-teenage-mutant-ninja-turtles-mutant-madness.json) |
 | Teenage Mutant Ninja Turtles: Mutant Rumble | 78281 | [78281-teenage-mutant-ninja-turtles-mutant-rumble.json](./78281-teenage-mutant-ninja-turtles-mutant-rumble.json) |
@@ -3793,7 +3798,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Giant | 92457 | [92457-tetris-giant.json](./92457-tetris-giant.json) |
 | Tetris HD | 94129 | [94129-tetris-hd.json](./94129-tetris-hd.json) |
 | Tetris Illuminated Mega Screen | 233647 | [233647-tetris-illuminated-mega-screen.json](./233647-tetris-illuminated-mega-screen.json) |
+| Tetris Jr. | 218934 | [218934-tetris-jr.json](./218934-tetris-jr.json) |
 | Tetris Jr. | 351732 | [351732-tetris-jr.json](./351732-tetris-jr.json) |
+| Tetris Jr. 2 | 218935 | [218935-tetris-jr-2.json](./218935-tetris-jr-2.json) |
 | Tetris Keyring Arcade | 234080 | [234080-tetris-keyring-arcade.json](./234080-tetris-keyring-arcade.json) |
 | Tetris Kiwamemichi | 137623 | [137623-tetris-kiwamemichi.json](./137623-tetris-kiwamemichi.json) |
 | Tetris Kuromi Sanrio Key Chain Game Console | 321551 | [321551-tetris-kuromi-sanrio-key-chain-game-console.json](./321551-tetris-kuromi-sanrio-key-chain-game-console.json) |
@@ -4190,6 +4197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Batman & Robin | 45203 | [45203-the-adventures-of-batman-and-robin.json](./45203-the-adventures-of-batman-and-robin.json) |
 | The Adventures of Batman & Robin: Activity Centre | 127639 | [127639-the-adventures-of-batman-and-robin-activity-centre.json](./127639-the-adventures-of-batman-and-robin-activity-centre.json) |
 | The Adventures of Batman & Robin: Tiger Barcodzz - 07: Killer Croc | 360486 | [360486-the-adventures-of-batman-and-robin-tiger-barcodzz-07-killer-croc.json](./360486-the-adventures-of-batman-and-robin-tiger-barcodzz-07-killer-croc.json) |
+| The Adventures of Bayou Billy | 218910 | [218910-the-adventures-of-bayou-billy.json](./218910-the-adventures-of-bayou-billy.json) |
 | The Adventures of Bayou Billy | 8740 | [8740-the-adventures-of-bayou-billy.json](./8740-the-adventures-of-bayou-billy.json) |
 | The Adventures of Bertram Fiddle: Episode 2 - A Bleaker Predicklement | 32834 | [32834-the-adventures-of-bertram-fiddle-episode-2-a-bleaker-predicklement.json](./32834-the-adventures-of-bertram-fiddle-episode-2-a-bleaker-predicklement.json) |
 | The Adventures of Big Faz | 206721 | [206721-the-adventures-of-big-faz.json](./206721-the-adventures-of-big-faz.json) |
@@ -9855,6 +9863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lone Hero | 387522 | [387522-the-lone-hero.json](./387522-the-lone-hero.json) |
 | The Lone Island Survival | 68663 | [68663-the-lone-island-survival.json](./68663-the-lone-island-survival.json) |
 | The Lone Keeper | 354518 | [354518-the-lone-keeper.json](./354518-the-lone-keeper.json) |
+| The Lone Ranger | 218914 | [218914-the-lone-ranger.json](./218914-the-lone-ranger.json) |
 | The Lone Ranger | 48183 | [48183-the-lone-ranger.json](./48183-the-lone-ranger.json) |
 | The Lone Survivor | 105818 | [105818-the-lone-survivor.json](./105818-the-lone-survivor.json) |
 | The Lone Warrior | 37180 | [37180-the-lone-warrior.json](./37180-the-lone-warrior.json) |
@@ -11710,6 +11719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ren & Stimpy Show Presents: Stimpy's Invention | 46257 | [46257-the-ren-and-stimpy-show-presents-stimpys-invention.json](./46257-the-ren-and-stimpy-show-presents-stimpys-invention.json) |
 | The Ren & Stimpy Show: Buckeroo$! | 48209 | [48209-the-ren-and-stimpy-show-buckeroo.json](./48209-the-ren-and-stimpy-show-buckeroo.json) |
 | The Ren & Stimpy Show: Buckeroo$! | 7987 | [7987-the-ren-and-stimpy-show-buckeroo.json](./7987-the-ren-and-stimpy-show-buckeroo.json) |
+| The Ren & Stimpy Show: Fire Dogs | 218938 | [218938-the-ren-and-stimpy-show-fire-dogs.json](./218938-the-ren-and-stimpy-show-fire-dogs.json) |
 | The Ren & Stimpy Show: Fire Dogs | 7985 | [7985-the-ren-and-stimpy-show-fire-dogs.json](./7985-the-ren-and-stimpy-show-fire-dogs.json) |
 | The Ren & Stimpy Show: Space Cadet Adventures | 48971 | [48971-the-ren-and-stimpy-show-space-cadet-adventures.json](./48971-the-ren-and-stimpy-show-space-cadet-adventures.json) |
 | The Ren & Stimpy Show: Veediots! | 365695 | [365695-the-ren-and-stimpy-show-veediots.json](./365695-the-ren-and-stimpy-show-veediots.json) |
@@ -19313,15 +19323,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Gun | 18021 | [18021-top-gun.json](./18021-top-gun.json) |
 | Top Gun | 187357 | [187357-top-gun.json](./187357-top-gun.json) |
 | Top Gun | 196226 | [196226-top-gun.json](./196226-top-gun.json) |
+| Top Gun | 218925 | [218925-top-gun.json](./218925-top-gun.json) |
 | Top Gun Air Combat | 147123 | [147123-top-gun-air-combat.json](./147123-top-gun-air-combat.json) |
 | Top Gun Air Combat: Extended | 283835 | [283835-top-gun-air-combat-extended.json](./283835-top-gun-air-combat-extended.json) |
 | Top Gun Global War | 380404 | [380404-top-gun-global-war.json](./380404-top-gun-global-war.json) |
+| Top Gun: Airstrike 3 | 218927 | [218927-top-gun-airstrike-3.json](./218927-top-gun-airstrike-3.json) |
 | Top Gun: Combat Zones | 146784 | [146784-top-gun-combat-zones.json](./146784-top-gun-combat-zones.json) |
 | Top Gun: Combat Zones | 9236 | [9236-top-gun-combat-zones.json](./9236-top-gun-combat-zones.json) |
 | Top Gun: Fire At Will | 20129 | [20129-top-gun-fire-at-will.json](./20129-top-gun-fire-at-will.json) |
 | Top Gun: Firestorm Advance | 49209 | [49209-top-gun-firestorm-advance.json](./49209-top-gun-firestorm-advance.json) |
 | Top Gun: Hard Lock | 22915 | [22915-top-gun-hard-lock.json](./22915-top-gun-hard-lock.json) |
 | Top Gun: Hornet's Nest | 22912 | [22912-top-gun-hornets-nest.json](./22912-top-gun-hornets-nest.json) |
+| Top Gun: The Second Mission | 218926 | [218926-top-gun-the-second-mission.json](./218926-top-gun-the-second-mission.json) |
 | Top Gun: The Second Mission | 22911 | [22911-top-gun-the-second-mission.json](./22911-top-gun-the-second-mission.json) |
 | Top Gun: Wingman Edition | 206750 | [206750-top-gun-wingman-edition.json](./206750-top-gun-wingman-edition.json) |
 | Top Gunner | 17477 | [17477-top-gunner.json](./17477-top-gunner.json) |
@@ -24599,6 +24612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuscany Hotel | 106759 | [106759-tuscany-hotel.json](./106759-tuscany-hotel.json) |
 | Tusmox | 381412 | [381412-tusmox.json](./381412-tusmox.json) |
 | Tut's Tomb | 282107 | [282107-tuts-tomb.json](./282107-tuts-tomb.json) |
+| Tutankham | 218928 | [218928-tutankham.json](./218928-tutankham.json) |
 | Tutankham | 385836 | [385836-tutankham.json](./385836-tutankham.json) |
 | Tutankhamun: Builders of the Eternal | 378360 | [378360-tutankhamun-builders-of-the-eternal.json](./378360-tutankhamun-builders-of-the-eternal.json) |
 | Tutel Quest | 291168 | [291168-tutel-quest.json](./291168-tutel-quest.json) |
