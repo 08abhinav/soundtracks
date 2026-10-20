@@ -6015,6 +6015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grapple Glide | 213533 | [213533-grapple-glide.json](./213533-grapple-glide.json) |
 | Grapple Gum | 254150 | [254150-grapple-gum.json](./254150-grapple-gum.json) |
 | Grapple Gunners | 219805 | [219805-grapple-gunners.json](./219805-grapple-gunners.json) |
+| Grapple League | 249039 | [249039-grapple-league.json](./249039-grapple-league.json) |
 | Grapple Simulator | 332867 | [332867-grapple-simulator.json](./332867-grapple-simulator.json) |
 | Grapple Souls | 388333 | [388333-grapple-souls.json](./388333-grapple-souls.json) |
 | Grapple Tanks | 285700 | [285700-grapple-tanks.json](./285700-grapple-tanks.json) |
@@ -8254,6 +8255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunShy | 229376 | [229376-gunshy.json](./229376-gunshy.json) |
 | Gunsim | 327208 | [327208-gunsim.json](./327208-gunsim.json) |
 | Gunslinger | 131389 | [131389-gunslinger.json](./131389-gunslinger.json) |
+| Gunslinger | 249050 | [249050-gunslinger.json](./249050-gunslinger.json) |
 | Gunslinger | 81337 | [81337-gunslinger.json](./81337-gunslinger.json) |
 | Gunslinger Collection | 37120 | [37120-gunslinger-collection.json](./37120-gunslinger-collection.json) |
 | Gunslinger Duel | 270050 | [270050-gunslinger-duel.json](./270050-gunslinger-duel.json) |
