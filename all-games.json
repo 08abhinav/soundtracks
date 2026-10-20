@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T22:11:23.165Z",
-  "total_soundtracks": 2332,
+  "generated_at": "2026-10-20T22:11:34.847Z",
+  "total_soundtracks": 2333,
   "games": [
     {
       "igdb_id": 7522,
@@ -9077,6 +9077,20 @@
         {
           "album_name": "Five Nights at Freddy's: Security Breach Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/1QXxOTu7Ffyzwhb9u9EJoW",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 20330,
+      "game_name": "Flinthook",
+      "game_url": "https://ostdb.net/games/flinthook",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733bc4f29c82b44345d7091029",
+      "albums": [
+        {
+          "album_name": "Flinthook (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/26qdbXpvtF7dIx1oa7JAAg",
           "apple_music_url": "",
           "album_link_url": ""
         }
