@@ -4064,6 +4064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Room: The Secret Portal Puzzle | 415389 | [415389-escape-room-the-secret-portal-puzzle.json](./415389-escape-room-the-secret-portal-puzzle.json) |
 | Escape Room: The Sorcerer's Curse | 190030 | [190030-escape-room-the-sorcerers-curse.json](./190030-escape-room-the-sorcerers-curse.json) |
 | Escape Roomble | 346705 | [346705-escape-roomble.json](./346705-escape-roomble.json) |
+| Escape Rooms Bundle | 241806 | [241806-escape-rooms-bundle.json](./241806-escape-rooms-bundle.json) |
 | Escape Rooms Pack 1 | 299899 | [299899-escape-rooms-pack-1.json](./299899-escape-rooms-pack-1.json) |
 | Escape Rosecliff Island | 9830 | [9830-escape-rosecliff-island.json](./9830-escape-rosecliff-island.json) |
 | Escape Route | 147871 | [147871-escape-route.json](./147871-escape-route.json) |
@@ -5113,6 +5114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Every Extend Extra Extreme | 21835 | [21835-every-extend-extra-extreme.json](./21835-every-extend-extra-extreme.json) |
 | Every Extend Extra: Pico-8 Edition | 284307 | [284307-every-extend-extra-pico-8-edition.json](./284307-every-extend-extra-pico-8-edition.json) |
 | Every Farm | 227950 | [227950-every-farm.json](./227950-every-farm.json) |
+| Every Grocery Store Has One Product That Binds Everything in a Unified Energy | 241222 | [241222-every-grocery-store-has-one-product-that-binds-everything-in-a-unified-energy.json](./241222-every-grocery-store-has-one-product-that-binds-everything-in-a-unified-energy.json) |
 | Every Hue of You | 302954 | [302954-every-hue-of-you.json](./302954-every-hue-of-you.json) |
 | Every Morning My Alarm Clock Kills Me | 387001 | [387001-every-morning-my-alarm-clock-kills-me.json](./387001-every-morning-my-alarm-clock-kills-me.json) |
 | Every Second Counts | 13648 | [13648-every-second-counts.json](./13648-every-second-counts.json) |
