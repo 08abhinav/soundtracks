@@ -2837,6 +2837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat & Onion | 284800 | [284800-cat-and-onion.json](./284800-cat-and-onion.json) |
 | Cat & Potat! | 178574 | [178574-cat-and-potat.json](./178574-cat-and-potat.json) |
 | Cat & Rabbit Magic Farming | 404262 | [404262-cat-and-rabbit-magic-farming.json](./404262-cat-and-rabbit-magic-farming.json) |
+| Cat & Sheep Guiding Puzzle | 206545 | [206545-cat-and-sheep-guiding-puzzle.json](./206545-cat-and-sheep-guiding-puzzle.json) |
 | Cat + Dog | 237061 | [237061-cat-dog.json](./237061-cat-dog.json) |
 | Cat 2048 Story | 233530 | [233530-cat-2048-story.json](./233530-cat-2048-story.json) |
 | Cat a Photo | 406937 | [406937-cat-a-photo.json](./406937-cat-a-photo.json) |
@@ -6390,6 +6391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrysanthemum: On the Way to Sweet Dreams | 391235 | [391235-chrysanthemum-on-the-way-to-sweet-dreams.json](./391235-chrysanthemum-on-the-way-to-sweet-dreams.json) |
 | Chrysler Classic Racing | 51042 | [51042-chrysler-classic-racing.json](./51042-chrysler-classic-racing.json) |
 | Chthonian TD | 406144 | [406144-chthonian-td.json](./406144-chthonian-td.json) |
+| Chu | 206554 | [206554-chu.json](./206554-chu.json) |
 | Chu Da D | 247391 | [247391-chu-da-d.json](./247391-chu-da-d.json) |
 | Chu x Chu Idol | 321408 | [321408-chu-x-chu-idol.json](./321408-chu-x-chu-idol.json) |
 | Chu!! Karate Uranai Voxel | 407442 | [407442-chu-karate-uranai-voxel.json](./407442-chu-karate-uranai-voxel.json) |
@@ -6500,6 +6502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuugen no Hasha: Sangoku Shouseiden | 340811 | [340811-chuugen-no-hasha-sangoku-shouseiden.json](./340811-chuugen-no-hasha-sangoku-shouseiden.json) |
 | Chuukana Janshi Tenhoo Painyan Remix | 56461 | [56461-chuukana-janshi-tenhoo-painyan-remix.json](./56461-chuukana-janshi-tenhoo-painyan-remix.json) |
 | Chuukana Janshi Tenhou Painyan | 380412 | [380412-chuukana-janshi-tenhou-painyan.json](./380412-chuukana-janshi-tenhou-painyan.json) |
+| Chuukara Shisen | 206579 | [206579-chuukara-shisen.json](./206579-chuukara-shisen.json) |
 | Chuushaki: Hirasawa Nurse School | 321404 | [321404-chuushaki-hirasawa-nurse-school.json](./321404-chuushaki-hirasawa-nurse-school.json) |
 | Chuusotsu! 1st Graduation: Time After Time | 36485 | [36485-chuusotsu-1st-graduation-time-after-time.json](./36485-chuusotsu-1st-graduation-time-after-time.json) |
 | Chuxen | 268910 | [268910-chuxen.json](./268910-chuxen.json) |
