@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race in Desert | 234747 | [234747-race-in-desert.json](./234747-race-in-desert.json) |
 | Race Injection | 10867 | [10867-race-injection.json](./10867-race-injection.json) |
 | Race Jam | 344982 | [344982-race-jam.json](./344982-race-jam.json) |
+| Race Journey | 227711 | [227711-race-journey.json](./227711-race-journey.json) |
 | Race Journey: Nitro | 219176 | [219176-race-journey-nitro.json](./219176-race-journey-nitro.json) |
 | Race Manager | 264630 | [264630-race-manager.json](./264630-race-manager.json) |
 | Race Maniacs | 132605 | [132605-race-maniacs.json](./132605-race-maniacs.json) |
@@ -866,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroad Corporation: All or Nothing | 174164 | [174164-railroad-corporation-all-or-nothing.json](./174164-railroad-corporation-all-or-nothing.json) |
 | Railroad Corporation: Competitive Spirit DLC | 262300 | [262300-railroad-corporation-competitive-spirit-dlc.json](./262300-railroad-corporation-competitive-spirit-dlc.json) |
 | Railroad Corporation: Niagara River | 213053 | [213053-railroad-corporation-niagara-river.json](./213053-railroad-corporation-niagara-river.json) |
+| Railroad Corporation: Roadmaster Mission Pack | 227662 | [227662-railroad-corporation-roadmaster-mission-pack.json](./227662-railroad-corporation-roadmaster-mission-pack.json) |
 | Railroad Crossing Play | 389093 | [389093-railroad-crossing-play.json](./389093-railroad-crossing-play.json) |
 | Railroad Empire | 27693 | [27693-railroad-empire.json](./27693-railroad-empire.json) |
 | Railroad Empire | 394822 | [394822-railroad-empire.json](./394822-railroad-empire.json) |
@@ -2638,6 +2640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reciros | 393949 | [393949-reciros.json](./393949-reciros.json) |
 | Recital of the Heart | 335366 | [335366-recital-of-the-heart.json](./335366-recital-of-the-heart.json) |
 | Reckless Auto Racing | 230779 | [230779-reckless-auto-racing.json](./230779-reckless-auto-racing.json) |
+| Reckless Auto Racing 2 | 227712 | [227712-reckless-auto-racing-2.json](./227712-reckless-auto-racing-2.json) |
 | Reckless Death Race | 239108 | [239108-reckless-death-race.json](./239108-reckless-death-race.json) |
 | Reckless Drive | 335266 | [335266-reckless-drive.json](./335266-reckless-drive.json) |
 | Reckless Driver | 204067 | [204067-reckless-driver.json](./204067-reckless-driver.json) |
@@ -3337,6 +3340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflectron | 42048 | [42048-reflectron.json](./42048-reflectron.json) |
 | Reflex | 86345 | [86345-reflex.json](./86345-reflex.json) |
 | Reflex Drop Time Race | 367849 | [367849-reflex-drop-time-race.json](./367849-reflex-drop-time-race.json) |
+| Reflex King of Elements | 227719 | [227719-reflex-king-of-elements.json](./227719-reflex-king-of-elements.json) |
 | Reflex Master: Sight | 342729 | [342729-reflex-master-sight.json](./342729-reflex-master-sight.json) |
 | Reflex Point | 19707 | [19707-reflex-point.json](./19707-reflex-point.json) |
 | Reflex Run | 390190 | [390190-reflex-run.json](./390190-reflex-run.json) |
@@ -3528,6 +3532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rekoil: Liberator | 20867 | [20867-rekoil-liberator.json](./20867-rekoil-liberator.json) |
 | Reksio i Czarodzieje | 82038 | [82038-reksio-i-czarodzieje.json](./82038-reksio-i-czarodzieje.json) |
 | Reksio i Kapitan Nemo | 156177 | [156177-reksio-i-kapitan-nemo.json](./156177-reksio-i-kapitan-nemo.json) |
+| Reksio i Kretes: Odkop | 227680 | [227680-reksio-i-kretes-odkop.json](./227680-reksio-i-kretes-odkop.json) |
 | Reksio i Kretes: Sermageddon | 327397 | [327397-reksio-i-kretes-sermageddon.json](./327397-reksio-i-kretes-sermageddon.json) |
 | Reksio i Kretes: Tajemnica Trzeciego Wymiaru | 218499 | [218499-reksio-i-kretes-tajemnica-trzeciego-wymiaru.json](./218499-reksio-i-kretes-tajemnica-trzeciego-wymiaru.json) |
 | Reksio i Skarb Piratów | 82039 | [82039-reksio-i-skarb-piratow.json](./82039-reksio-i-skarb-piratow.json) |
