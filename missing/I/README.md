@@ -1650,6 +1650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illove dream | 243650 | [243650-illove-dream.json](./243650-illove-dream.json) |
 | Illu-Logi VOW | 269635 | [269635-illu-logi-vow.json](./269635-illu-logi-vow.json) |
 | Illum | 247605 | [247605-illum.json](./247605-illum.json) |
+| Illumina | 232868 | [232868-illumina.json](./232868-illumina.json) |
 | Illumina Defender | 369737 | [369737-illumina-defender.json](./369737-illumina-defender.json) |
 | Illumina Girls | 222937 | [222937-illumina-girls.json](./222937-illumina-girls.json) |
 | Illumina! | 63762 | [63762-illumina.json](./63762-illumina.json) |
