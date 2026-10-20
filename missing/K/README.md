@@ -2215,6 +2215,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Arthur Is Dead | 385299 | [385299-king-arthur-is-dead.json](./385299-king-arthur-is-dead.json) |
 | King Arthur: Fallen Champions | 10484 | [10484-king-arthur-fallen-champions.json](./10484-king-arthur-fallen-champions.json) |
 | King Arthur: Knight's Tale | 139883 | [139883-king-arthur-knights-tale.json](./139883-king-arthur-knights-tale.json) |
+| King Arthur: Knight's Tale - Brigands Skirmish Pack | 227717 | [227717-king-arthur-knights-tale-brigands-skirmish-pack.json](./227717-king-arthur-knights-tale-brigands-skirmish-pack.json) |
+| King Arthur: Knight's Tale - Pict Skirmish Pack | 227718 | [227718-king-arthur-knights-tale-pict-skirmish-pack.json](./227718-king-arthur-knights-tale-pict-skirmish-pack.json) |
 | King Arthur: Knights and Vassals | 164421 | [164421-king-arthur-knights-and-vassals.json](./164421-king-arthur-knights-and-vassals.json) |
 | King Arthur: Legends Rise | 244483 | [244483-king-arthur-legends-rise.json](./244483-king-arthur-legends-rise.json) |
 | King Arthur: Legion IX | 285440 | [285440-king-arthur-legion-ix.json](./285440-king-arthur-legion-ix.json) |
