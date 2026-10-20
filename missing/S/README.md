@@ -867,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samabake! Scramble | 318056 | [318056-samabake-scramble.json](./318056-samabake-scramble.json) |
 | Samael | 117568 | [117568-samael.json](./117568-samael.json) |
 | Samael: The Legacy of Ophiuchus | 218718 | [218718-samael-the-legacy-of-ophiuchus.json](./218718-samael-the-legacy-of-ophiuchus.json) |
+| Samantha Oups! Le Jeu | 222739 | [222739-samantha-oups-le-jeu.json](./222739-samantha-oups-le-jeu.json) |
 | Samantha Swift and the Fountains of Fate | 95915 | [95915-samantha-swift-and-the-fountains-of-fate.json](./95915-samantha-swift-and-the-fountains-of-fate.json) |
 | Samantha Swift and the Golden Touch | 10570 | [10570-samantha-swift-and-the-golden-touch.json](./10570-samantha-swift-and-the-golden-touch.json) |
 | Samantha Swift and the Mystery From Atlantis | 62460 | [62460-samantha-swift-and-the-mystery-from-atlantis.json](./62460-samantha-swift-and-the-mystery-from-atlantis.json) |
@@ -5487,6 +5488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai: True Valor | 45304 | [45304-shanghai-true-valor.json](./45304-shanghai-true-valor.json) |
 | Shanghai.EXE: Genso Network | 142121 | [142121-shanghai-exe-genso-network.json](./142121-shanghai-exe-genso-network.json) |
 | Shanghai1920 | 169452 | [169452-shanghai1920.json](./169452-shanghai1920.json) |
+| Shangrlia | 222763 | [222763-shangrlia.json](./222763-shangrlia.json) |
 | Shanhai: Spirits of Myth | 419970 | [419970-shanhai-spirits-of-myth.json](./419970-shanhai-spirits-of-myth.json) |
 | Shanhe | 166811 | [166811-shanhe.json](./166811-shanhe.json) |
 | Shanhe Remain | 375988 | [375988-shanhe-remain.json](./375988-shanhe-remain.json) |
@@ -6387,6 +6389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Song Starnova: Idol Empire | 129476 | [129476-shining-song-starnova-idol-empire.json](./129476-shining-song-starnova-idol-empire.json) |
 | Shining Soul | 6593 | [6593-shining-soul.json](./6593-shining-soul.json) |
 | Shining Soul II | 6594 | [6594-shining-soul-ii.json](./6594-shining-soul-ii.json) |
+| Shining Star | 222772 | [222772-shining-star.json](./222772-shining-star.json) |
 | Shining Stars 2: Mirror Madness | 132860 | [132860-shining-stars-2-mirror-madness.json](./132860-shining-stars-2-mirror-madness.json) |
 | Shining Stars 3: Sanctuary of the Star Comet | 132861 | [132861-shining-stars-3-sanctuary-of-the-star-comet.json](./132861-shining-stars-3-sanctuary-of-the-star-comet.json) |
 | Shining Stars Super Starcade | 48038 | [48038-shining-stars-super-starcade.json](./48038-shining-stars-super-starcade.json) |
@@ -19968,6 +19971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steventon Street: Deluxe Edition | 359069 | [359069-steventon-street-deluxe-edition.json](./359069-steventon-street-deluxe-edition.json) |
 | Stevo Life | 341016 | [341016-stevo-life.json](./341016-stevo-life.json) |
 | Stewie Talking Electronic Pinball | 218441 | [218441-stewie-talking-electronic-pinball.json](./218441-stewie-talking-electronic-pinball.json) |
+| STG Football | 222769 | [222769-stg-football.json](./222769-stg-football.json) |
 | STG01 | 296004 | [296004-stg01.json](./296004-stg01.json) |
 | Sthell | 152768 | [152768-sthell.json](./152768-sthell.json) |
 | Stick 'Em Up 2 | 36419 | [36419-stick-em-up-2.json](./36419-stick-em-up-2.json) |
@@ -21725,6 +21729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subject | 131341 | [131341-subject.json](./131341-subject.json) |
 | Subject 26 | 178497 | [178497-subject-26.json](./178497-subject-26.json) |
 | Subject 264 | 30959 | [30959-subject-264.json](./30959-subject-264.json) |
+| Subject 65 | 222752 | [222752-subject-65.json](./222752-subject-65.json) |
 | Subject: Dinha | 413857 | [413857-subject-dinha.json](./413857-subject-dinha.json) |
 | Subject:Love | 305850 | [305850-subject-love.json](./305850-subject-love.json) |
 | Subjectivation | 341910 | [341910-subjectivation.json](./341910-subjectivation.json) |
@@ -24038,6 +24043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Spikers | 175958 | [175958-super-mario-spikers.json](./175958-super-mario-spikers.json) |
 | Super Mario Star Path | 314130 | [314130-super-mario-star-path.json](./314130-super-mario-star-path.json) |
 | Super Mario Star Road Multiplayer | 159342 | [159342-super-mario-star-road-multiplayer.json](./159342-super-mario-star-road-multiplayer.json) |
+| Super Mario Star Road: The Green Comet | 222747 | [222747-super-mario-star-road-the-green-comet.json](./222747-super-mario-star-road-the-green-comet.json) |
 | Super Mario Star Scramble 3 | 215250 | [215250-super-mario-star-scramble-3.json](./215250-super-mario-star-scramble-3.json) |
 | Super Mario Star Scramble Jam | 370297 | [370297-super-mario-star-scramble-jam.json](./370297-super-mario-star-scramble-jam.json) |
 | Super Mario Star World | 185685 | [185685-super-mario-star-world.json](./185685-super-mario-star-world.json) |
@@ -24207,6 +24213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid: GBA Edition | 222919 | [222919-super-metroid-gba-edition.json](./222919-super-metroid-gba-edition.json) |
 | Super Metroid: Green Peace | 268411 | [268411-super-metroid-green-peace.json](./268411-super-metroid-green-peace.json) |
 | Super Metroid: Harvest | 268412 | [268412-super-metroid-harvest.json](./268412-super-metroid-harvest.json) |
+| Super Metroid: Hotlands | 222749 | [222749-super-metroid-hotlands.json](./222749-super-metroid-hotlands.json) |
 | Super Metroid: Ice Metal Uninstall | 198335 | [198335-super-metroid-ice-metal-uninstall.json](./198335-super-metroid-ice-metal-uninstall.json) |
 | Super Metroid: Less Linear Edition | 219087 | [219087-super-metroid-less-linear-edition.json](./219087-super-metroid-less-linear-edition.json) |
 | Super Metroid: Map Rando | 237534 | [237534-super-metroid-map-rando.json](./237534-super-metroid-map-rando.json) |
@@ -24218,6 +24225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid: Redux | 188575 | [188575-super-metroid-redux.json](./188575-super-metroid-redux.json) |
 | Super Metroid: Rotation | 199009 | [199009-super-metroid-rotation.json](./199009-super-metroid-rotation.json) |
 | Super Metroid: Rumbled | 377737 | [377737-super-metroid-rumbled.json](./377737-super-metroid-rumbled.json) |
+| Super Metroid: Subversion | 222771 | [222771-super-metroid-subversion.json](./222771-super-metroid-subversion.json) |
 | Super Metroid: Unhundred % | 223019 | [223019-super-metroid-unhundred.json](./223019-super-metroid-unhundred.json) |
 | Super Metroid: X-Fusion | 359002 | [359002-super-metroid-x-fusion.json](./359002-super-metroid-x-fusion.json) |
 | Super Metroid: Y-Faster | 304133 | [304133-super-metroid-y-faster.json](./304133-super-metroid-y-faster.json) |
