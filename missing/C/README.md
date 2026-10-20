@@ -3984,6 +3984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Century: Age of Ashes - Frost Heir Edition | 251014 | [251014-century-age-of-ashes-frost-heir-edition.json](./251014-century-age-of-ashes-frost-heir-edition.json) |
 | Century: Age of Ashes - Harbinger Edition | 221702 | [221702-century-age-of-ashes-harbinger-edition.json](./221702-century-age-of-ashes-harbinger-edition.json) |
 | Century: Age of Ashes - Heroes of the Continent Bundle | 286546 | [286546-century-age-of-ashes-heroes-of-the-continent-bundle.json](./286546-century-age-of-ashes-heroes-of-the-continent-bundle.json) |
+| Century: Age of Ashes - Mercenary Edition | 227699 | [227699-century-age-of-ashes-mercenary-edition.json](./227699-century-age-of-ashes-mercenary-edition.json) |
 | Century: Age of Ashes - Myth Starter Edition | 218516 | [218516-century-age-of-ashes-myth-starter-edition.json](./218516-century-age-of-ashes-myth-starter-edition.json) |
 | Century: Age of Ashes - Rimeblood Premium Edition | 259607 | [259607-century-age-of-ashes-rimeblood-premium-edition.json](./259607-century-age-of-ashes-rimeblood-premium-edition.json) |
 | Century: Age of Ashes - Stormraiser Premium Edition | 218451 | [218451-century-age-of-ashes-stormraiser-premium-edition.json](./218451-century-age-of-ashes-stormraiser-premium-edition.json) |
@@ -5556,6 +5557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | China Syndrome | 18554 | [18554-china-syndrome.json](./18554-china-syndrome.json) |
 | China Warrior | 42127 | [42127-china-warrior.json](./42127-china-warrior.json) |
 | China: Mao's legacy | 116880 | [116880-china-maos-legacy.json](./116880-china-maos-legacy.json) |
+| China: Mao's legacy - Bombard the Headquarters | 227715 | [227715-china-maos-legacy-bombard-the-headquarters.json](./227715-china-maos-legacy-bombard-the-headquarters.json) |
 | China: Mao's Legacy - Ways of Life | 290840 | [290840-china-maos-legacy-ways-of-life.json](./290840-china-maos-legacy-ways-of-life.json) |
 | Chinami Holic | 387661 | [387661-chinami-holic.json](./387661-chinami-holic.json) |
 | ChinanaGo! | 416732 | [416732-chinanago.json](./416732-chinanago.json) |
@@ -12423,6 +12425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Chicken: The Good, The Egg, and the Ugly | 79166 | [79166-crazy-chicken-the-good-the-egg-and-the-ugly.json](./79166-crazy-chicken-the-good-the-egg-and-the-ugly.json) |
 | Crazy Chicken: The Winged Pharaoh | 144592 | [144592-crazy-chicken-the-winged-pharaoh.json](./144592-crazy-chicken-the-winged-pharaoh.json) |
 | Crazy Chicken: Wanted | 72268 | [72268-crazy-chicken-wanted.json](./72268-crazy-chicken-wanted.json) |
+| Crazy Choppers | 227723 | [227723-crazy-choppers.json](./227723-crazy-choppers.json) |
 | Crazy Christmas | 101762 | [101762-crazy-christmas.json](./101762-crazy-christmas.json) |
 | Crazy Christmas | 310552 | [310552-crazy-christmas.json](./310552-crazy-christmas.json) |
 | Crazy Circus | 269748 | [269748-crazy-circus.json](./269748-crazy-circus.json) |
