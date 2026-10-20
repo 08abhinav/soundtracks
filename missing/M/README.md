@@ -7022,6 +7022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge War: Super Legion Master | 262375 | [262375-merge-war-super-legion-master.json](./262375-merge-war-super-legion-master.json) |
 | Merge Wood | 220181 | [220181-merge-wood.json](./220181-merge-wood.json) |
 | Merge Your Room: Extended Edition | 231259 | [231259-merge-your-room-extended-edition.json](./231259-merge-your-room-extended-edition.json) |
+| Merge Your Room: Toys Pack | 231229 | [231229-merge-your-room-toys-pack.json](./231229-merge-your-room-toys-pack.json) |
 | Merge Zoo | 224105 | [224105-merge-zoo.json](./224105-merge-zoo.json) |
 | Merged Gravity Redux | 241790 | [241790-merged-gravity-redux.json](./241790-merged-gravity-redux.json) |
 | Merger 3D | 31338 | [31338-merger-3d.json](./31338-merger-3d.json) |
@@ -7692,6 +7693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mewseum: Film Festival | 391165 | [391165-mewseum-film-festival.json](./391165-mewseum-film-festival.json) |
 | Mewseum: Masterpieces | 332971 | [332971-mewseum-masterpieces.json](./332971-mewseum-masterpieces.json) |
 | Mewts | 388949 | [388949-mewts.json](./388949-mewts.json) |
+| Mexe mexe tupi | 231204 | [231204-mexe-mexe-tupi.json](./231204-mexe-mexe-tupi.json) |
 | Mexiball | 208009 | [208009-mexiball.json](./208009-mexiball.json) |
 | Mexican High School Simulator | 257355 | [257355-mexican-high-school-simulator.json](./257355-mexican-high-school-simulator.json) |
 | Mexican Ninja | 347240 | [347240-mexican-ninja.json](./347240-mexican-ninja.json) |
