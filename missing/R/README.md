@@ -536,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radio Commander | 107875 | [107875-radio-commander.json](./107875-radio-commander.json) |
 | Radio Commander: Battle of Britain ’40 | 418701 | [418701-radio-commander-battle-of-britain-40.json](./418701-radio-commander-battle-of-britain-40.json) |
 | Radio Commander: Complete Edition | 154538 | [154538-radio-commander-complete-edition.json](./154538-radio-commander-complete-edition.json) |
+| Radio Commander: Pacific '41 | 212140 | [212140-radio-commander-pacific-41.json](./212140-radio-commander-pacific-41.json) |
 | Radio Controlled Racer | 93155 | [93155-radio-controlled-racer.json](./93155-radio-controlled-racer.json) |
 | Radio Decay | 404937 | [404937-radio-decay.json](./404937-radio-decay.json) |
 | Radio Exurbia | 249439 | [249439-radio-exurbia.json](./249439-radio-exurbia.json) |
@@ -756,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid Land | 130721 | [130721-raid-land.json](./130721-raid-land.json) |
 | Raid Leader | 237385 | [237385-raid-leader.json](./237385-raid-leader.json) |
 | Raid Manager | 197655 | [197655-raid-manager.json](./197655-raid-manager.json) |
+| Raid of Battlefield | 212113 | [212113-raid-of-battlefield.json](./212113-raid-of-battlefield.json) |
 | Raid of Titan | 402422 | [402422-raid-of-titan.json](./402422-raid-of-titan.json) |
 | Raid on Bungeling Bay | 24664 | [24664-raid-on-bungeling-bay.json](./24664-raid-on-bungeling-bay.json) |
 | Raid on Bungeling Bay | 287592 | [287592-raid-on-bungeling-bay.json](./287592-raid-on-bungeling-bay.json) |
@@ -998,6 +1000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Fish: The Most beautiful Fish in the Ocean | 235358 | [235358-rainbow-fish-the-most-beautiful-fish-in-the-ocean.json](./235358-rainbow-fish-the-most-beautiful-fish-in-the-ocean.json) |
 | Rainbow Friends: Hide 'N Seek | 262695 | [262695-rainbow-friends-hide-n-seek.json](./262695-rainbow-friends-hide-n-seek.json) |
 | Rainbow Heart Farewell | 181693 | [181693-rainbow-heart-farewell.json](./181693-rainbow-heart-farewell.json) |
+| Rainbow Heights Academy: Year 1 | 212141 | [212141-rainbow-heights-academy-year-1.json](./212141-rainbow-heights-academy-year-1.json) |
 | Rainbow Hero | 35906 | [35906-rainbow-hero.json](./35906-rainbow-hero.json) |
 | Rainbow High: Runway Rush | 249255 | [249255-rainbow-high-runway-rush.json](./249255-rainbow-high-runway-rush.json) |
 | Rainbow Hills | 216742 | [216742-rainbow-hills.json](./216742-rainbow-hills.json) |
