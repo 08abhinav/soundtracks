@@ -12244,6 +12244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Lander | 41989 | [41989-moon-lander.json](./41989-moon-lander.json) |
 | Moon Lights | 194895 | [194895-moon-lights.json](./194895-moon-lights.json) |
 | Moon Lights II | 194896 | [194896-moon-lights-ii.json](./194896-moon-lights-ii.json) |
+| Moon Magic Array | 251961 | [251961-moon-magic-array.json](./251961-moon-magic-array.json) |
 | Moon Maiden: Terror on Planet X | 346256 | [346256-moon-maiden-terror-on-planet-x.json](./346256-moon-maiden-terror-on-planet-x.json) |
 | Moon Miner | 410337 | [410337-moon-miner.json](./410337-moon-miner.json) |
 | Moon Minions | 243940 | [243940-moon-minions.json](./243940-moon-minions.json) |
