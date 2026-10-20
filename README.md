@@ -669,6 +669,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b27391fef25f063cc40fff84dd9e" width="60" /> | [Geometry Dash](https://ostdb.net/games/geometry-dash) | **Best of Geometry Dash** · [Spotify](https://open.spotify.com/album/1e5j1QwnonG2z1E4DaBy4X) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music127/v4/df/9f/ff/df9fff36-0f49-56df-2e8f-a227f8572998/191061549987.jpg/600x600bb.jpg" width="60" /> | [Get Even](https://ostdb.net/games/get-even) | **Get Even (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/get-even-original-soundtrack/1238451700?uo=4) · [Album](https://album.link/i/1238451700) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/26/6d/61/266d612c-7147-2362-01a7-1b5bc213d9bf/artwork.jpg/600x600bb.jpg" width="60" /> | [Ghost Song](https://ostdb.net/games/ghost-song) | **Ghost Song (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/ghost-song-original-game-soundtrack/1650917141?uo=4) · [Album](https://album.link/i/1650917141) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2733e8cd4d9e5255aed7d57d345" width="60" /> | [Ghost in the Shell](https://ostdb.net/games/ghost-in-the-shell) | **GHOST IN THE SHELL VIDEOGAME SOUNDTRACK MEGATECH BODY. DIGITAL. LTD.** · [Spotify](https://open.spotify.com/album/6aXtzjfuTtTKQmEoH0dFkr) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c298cb8c95ff892d55ad179" width="60" /> | [Ghost of Tsushima](https://ostdb.net/games/ghost-of-tsushima) | **Ghost of Tsushima (Music from the Video Game)** · [Spotify](https://open.spotify.com/album/6N9upMTvxPR79tutqclKtq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731c298cb8c95ff892d55ad179" width="60" /> | [Ghost of Tsushima: Director's Cut](https://ostdb.net/games/ghost-of-tsushima-directors-cut) | **Ghost of Tsushima (Music from the Video Game)** · [Spotify](https://open.spotify.com/album/6N9upMTvxPR79tutqclKtq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27329d460119dff39078361513d" width="60" /> | [Ghost of Yotei](https://ostdb.net/games/ghost-of-yotei) | **Ghost of Yōtei (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7fvFqlSScHtQ6RVpV7XN3Y) |
@@ -1967,4 +1968,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2284 soundtracks · last updated 2026-10-20T21:45:49.368Z_
+_2285 soundtracks · last updated 2026-10-20T21:46:00.899Z_
