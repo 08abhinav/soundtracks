@@ -2886,6 +2886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeronautica Imperialis: Flight Command - Skulls Pack | 162754 | [162754-aeronautica-imperialis-flight-command-skulls-pack.json](./162754-aeronautica-imperialis-flight-command-skulls-pack.json) |
 | Aeronuts | 58049 | [58049-aeronuts.json](./58049-aeronuts.json) |
 | Aeroplanoui | 105296 | [105296-aeroplanoui.json](./105296-aeroplanoui.json) |
+| Aeroporto 83 | 215545 | [215545-aeroporto-83.json](./215545-aeroporto-83.json) |
 | Aeropunx | 369180 | [369180-aeropunx.json](./369180-aeropunx.json) |
 | AeroSpace Engineering | 379494 | [379494-aerospace-engineering.json](./379494-aerospace-engineering.json) |
 | Aerospace Forces | 101387 | [101387-aerospace-forces.json](./101387-aerospace-forces.json) |
@@ -5153,6 +5154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens: Fireteam Elite - Hardened Marine Pack | 247755 | [247755-aliens-fireteam-elite-hardened-marine-pack.json](./247755-aliens-fireteam-elite-hardened-marine-pack.json) |
 | Aliens: Fireteam Elite - Into the Hive Edition | 201027 | [201027-aliens-fireteam-elite-into-the-hive-edition.json](./201027-aliens-fireteam-elite-into-the-hive-edition.json) |
 | Aliens: Fireteam Elite - Pathogen | 204435 | [204435-aliens-fireteam-elite-pathogen.json](./204435-aliens-fireteam-elite-pathogen.json) |
+| Aliens: Fireteam Elite - Ultimate Edition | 215559 | [215559-aliens-fireteam-elite-ultimate-edition.json](./215559-aliens-fireteam-elite-ultimate-edition.json) |
 | Aliens: Fireteam Elite 2 | 400824 | [400824-aliens-fireteam-elite-2.json](./400824-aliens-fireteam-elite-2.json) |
 | Aliens: Infestation | 20606 | [20606-aliens-infestation.json](./20606-aliens-infestation.json) |
 | Aliens: Neoplasma | 247527 | [247527-aliens-neoplasma.json](./247527-aliens-neoplasma.json) |
@@ -5281,6 +5283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Guns on Deck | 17681 | [17681-all-guns-on-deck.json](./17681-all-guns-on-deck.json) |
 | All Hail the Cook-o-tron | 139464 | [139464-all-hail-the-cook-o-tron.json](./139464-all-hail-the-cook-o-tron.json) |
 | All Hail the Heat Death! | 396357 | [396357-all-hail-the-heat-death.json](./396357-all-hail-the-heat-death.json) |
+| All Hallows Evie | 215530 | [215530-all-hallows-evie.json](./215530-all-hallows-evie.json) |
 | All Hands on Deck | 216465 | [216465-all-hands-on-deck.json](./216465-all-hands-on-deck.json) |
 | All Hell Unleashed | 340581 | [340581-all-hell-unleashed.json](./340581-all-hell-unleashed.json) |
 | All Hit All Her: Western City | 193230 | [193230-all-hit-all-her-western-city.json](./193230-all-hit-all-her-western-city.json) |
@@ -5615,6 +5618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpacapaca Dash 2 | 331444 | [331444-alpacapaca-dash-2.json](./331444-alpacapaca-dash-2.json) |
 | Alpacapaca Double Dash | 123313 | [123313-alpacapaca-double-dash.json](./123313-alpacapaca-double-dash.json) |
 | Alpacas X Cats Bundle | 331446 | [331446-alpacas-x-cats-bundle.json](./331446-alpacas-x-cats-bundle.json) |
+| Alpaclands | 215531 | [215531-alpaclands.json](./215531-alpaclands.json) |
 | Alpamys | 293358 | [293358-alpamys.json](./293358-alpamys.json) |
 | Alpen Ghoul | 237815 | [237815-alpen-ghoul.json](./237815-alpen-ghoul.json) |
 | AlpenCross | 52585 | [52585-alpencross.json](./52585-alpencross.json) |
@@ -5982,6 +5986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amarillo's Butt Slapper | 319679 | [319679-amarillos-butt-slapper.json](./319679-amarillos-butt-slapper.json) |
 | Amaroo's Christmas Shop Simulator | 326482 | [326482-amaroos-christmas-shop-simulator.json](./326482-amaroos-christmas-shop-simulator.json) |
 | Amaryllis | 347498 | [347498-amaryllis.json](./347498-amaryllis.json) |
+| Amata | 215532 | [215532-amata.json](./215532-amata.json) |
 | Amatarasu Riddle Star | 122796 | [122796-amatarasu-riddle-star.json](./122796-amatarasu-riddle-star.json) |
 | Amateur League Golf | 202188 | [202188-amateur-league-golf.json](./202188-amateur-league-golf.json) |
 | Amateur Surgeon 2 | 182501 | [182501-amateur-surgeon-2.json](./182501-amateur-surgeon-2.json) |
@@ -6508,6 +6513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among Waifus 18+ | 188409 | [188409-among-waifus-18.json](./188409-among-waifus-18.json) |
 | Among Walls | 196674 | [196674-among-walls.json](./196674-among-walls.json) |
 | Among Water: Meditation Idle | 256757 | [256757-among-water-meditation-idle.json](./256757-among-water-meditation-idle.json) |
+| Amongst the Neon Lights | 215533 | [215533-amongst-the-neon-lights.json](./215533-amongst-the-neon-lights.json) |
 | Amora | 102876 | [102876-amora.json](./102876-amora.json) |
 | Amora Crystal | 120790 | [120790-amora-crystal.json](./120790-amora-crystal.json) |
 | Amoreon NightClub | 59241 | [59241-amoreon-nightclub.json](./59241-amoreon-nightclub.json) |
@@ -6632,6 +6638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Octonaut Odyssey | 30198 | [30198-an-octonaut-odyssey.json](./30198-an-octonaut-odyssey.json) |
 | An Ode to Todd the Toad: Frogcare! | 185628 | [185628-an-ode-to-todd-the-toad-frogcare.json](./185628-an-ode-to-todd-the-toad-frogcare.json) |
 | An Odyssey: Echoes of War | 127696 | [127696-an-odyssey-echoes-of-war.json](./127696-an-odyssey-echoes-of-war.json) |
+| An Opportunity | 215527 | [215527-an-opportunity.json](./215527-an-opportunity.json) |
 | An Ordinary Sonic ROM Hack | 129178 | [129178-an-ordinary-sonic-rom-hack.json](./129178-an-ordinary-sonic-rom-hack.json) |
 | An Otaku like me has 2 Fiancees?! | 208271 | [208271-an-otaku-like-me-has-2-fiancees.json](./208271-an-otaku-like-me-has-2-fiancees.json) |
 | An Outcry | 182180 | [182180-an-outcry.json](./182180-an-outcry.json) |
@@ -7738,6 +7745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annie and the Art Gallery | 192656 | [192656-annie-and-the-art-gallery.json](./192656-annie-and-the-art-gallery.json) |
 | Annie and the Shadow Palace | 158071 | [158071-annie-and-the-shadow-palace.json](./158071-annie-and-the-shadow-palace.json) |
 | Annie Android: Automated Affection | 165510 | [165510-annie-android-automated-affection.json](./165510-annie-android-automated-affection.json) |
+| Annihilate | 215553 | [215553-annihilate.json](./215553-annihilate.json) |
 | Annihilate the Spance | 192985 | [192985-annihilate-the-spance.json](./192985-annihilate-the-spance.json) |
 | Annihilated | 291331 | [291331-annihilated.json](./291331-annihilated.json) |
 | Annihilation | 289380 | [289380-annihilation.json](./289380-annihilation.json) |
@@ -7869,6 +7877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomalous Materials | 252095 | [252095-anomalous-materials.json](./252095-anomalous-materials.json) |
 | Anomalous Veil | 407323 | [407323-anomalous-veil.json](./407323-anomalous-veil.json) |
 | Anomalous Zone | 211434 | [211434-anomalous-zone.json](./211434-anomalous-zone.json) |
+| Anomaly | 215528 | [215528-anomaly.json](./215528-anomaly.json) |
 | Anomaly 13 | 358296 | [358296-anomaly-13.json](./358296-anomaly-13.json) |
 | Anomaly 1729 | 33961 | [33961-anomaly-1729.json](./33961-anomaly-1729.json) |
 | Anomaly 2 | 9212 | [9212-anomaly-2.json](./9212-anomaly-2.json) |
