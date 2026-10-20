@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:06:13.459Z",
-  "total_soundtracks": 2222,
+  "generated_at": "2026-10-20T21:06:24.558Z",
+  "total_soundtracks": 2223,
   "games": [
     {
       "igdb_id": 7522,
@@ -3808,6 +3808,20 @@
           "album_name": "Candy Crush Saga (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2bzzpQlbIeuGrXlkyW12ex",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 191745,
+      "game_name": "Capcom Fighting Collection",
+      "game_url": "https://ostdb.net/games/capcom-fighting-collection",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e0c273006cf62e0eab72813d",
+      "albums": [
+        {
+          "album_name": "Capcom Fighting Collection ［Original Soundtrack］",
+          "spotify_url": "https://open.spotify.com/album/2uEpXTPO8GofATQK4zGRUv",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
