@@ -2282,6 +2282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paths of Fight: Samurai | 249845 | [249845-paths-of-fight-samurai.json](./249845-paths-of-fight-samurai.json) |
 | Paths of Valour | 302054 | [302054-paths-of-valour.json](./302054-paths-of-valour.json) |
 | Paths Taken | 119039 | [119039-paths-taken.json](./119039-paths-taken.json) |
+| Paths: Beatrice's Adventure | 246267 | [246267-paths-beatrices-adventure.json](./246267-paths-beatrices-adventure.json) |
 | Pathseeker | 129639 | [129639-pathseeker.json](./129639-pathseeker.json) |
 | PathSketch | 352241 | [352241-pathsketch.json](./352241-pathsketch.json) |
 | Pathstorm | 71512 | [71512-pathstorm.json](./71512-pathstorm.json) |
@@ -5359,6 +5360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping Bomb | 179593 | [179593-ping-bomb.json](./179593-ping-bomb.json) |
 | Ping Of Death: Odyssey Live | 375862 | [375862-ping-of-death-odyssey-live.json](./375862-ping-of-death-odyssey-live.json) |
 | Ping Phonk | 179980 | [179980-ping-phonk.json](./179980-ping-phonk.json) |
+| Ping Pong | 246273 | [246273-ping-pong.json](./246273-ping-pong.json) |
 | Ping Pong | 247006 | [247006-ping-pong.json](./247006-ping-pong.json) |
 | Ping Pong | 343478 | [343478-ping-pong.json](./343478-ping-pong.json) |
 | Ping Pong | 358839 | [358839-ping-pong.json](./358839-ping-pong.json) |
@@ -9612,6 +9614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portability | 159769 | [159769-portability.json](./159769-portability.json) |
 | Portable Ops | 226174 | [226174-portable-ops.json](./226174-portable-ops.json) |
 | Portable VR | 244232 | [244232-portable-vr.json](./244232-portable-vr.json) |
+| PortaBoy+ | 246238 | [246238-portaboy.json](./246238-portaboy.json) |
 | Portal | 14546 | [14546-portal.json](./14546-portal.json) |
 | Portal 2: Alive Again | 322239 | [322239-portal-2-alive-again.json](./322239-portal-2-alive-again.json) |
 | Portal 2: And the Abyss Gazes Back Part 1 | 183424 | [183424-portal-2-and-the-abyss-gazes-back-part-1.json](./183424-portal-2-and-the-abyss-gazes-back-part-1.json) |
@@ -9794,6 +9797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postcat Caitsith | 194318 | [194318-postcat-caitsith.json](./194318-postcat-caitsith.json) |
 | Postcodeloterij Deal or No Deal: Het Interactive DVD-Spel | 319736 | [319736-postcodeloterij-deal-or-no-deal-het-interactive-dvd-spel.json](./319736-postcodeloterij-deal-or-no-deal-het-interactive-dvd-spel.json) |
 | PostCollapse | 31888 | [31888-postcollapse.json](./31888-postcollapse.json) |
+| Posterdle | 246235 | [246235-posterdle.json](./246235-posterdle.json) |
 | Postfrost | 247751 | [247751-postfrost.json](./247751-postfrost.json) |
 | Posthaste | 264569 | [264569-posthaste.json](./264569-posthaste.json) |
 | Posthaste Emporium | 250874 | [250874-posthaste-emporium.json](./250874-posthaste-emporium.json) |
@@ -12725,6 +12729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puckoff | 191060 | [191060-puckoff.json](./191060-puckoff.json) |
 | Puda + The Kid | 263198 | [263198-puda-the-kid.json](./263198-puda-the-kid.json) |
 | Pudding | 312022 | [312022-pudding.json](./312022-pudding.json) |
+| Pudding Bang 2 | 246259 | [246259-pudding-bang-2.json](./246259-pudding-bang-2.json) |
 | Pudding Chess | 241866 | [241866-pudding-chess.json](./241866-pudding-chess.json) |
 | Pudding Fantasy: Tales of Go and Magic | 370407 | [370407-pudding-fantasy-tales-of-go-and-magic.json](./370407-pudding-fantasy-tales-of-go-and-magic.json) |
 | Pudding Frog | 334201 | [334201-pudding-frog.json](./334201-pudding-frog.json) |
