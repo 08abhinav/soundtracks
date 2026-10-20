@@ -1398,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Variety Body Horror | 110153 | [110153-garden-variety-body-horror.json](./110153-garden-variety-body-horror.json) |
 | Garden War | 77270 | [77270-garden-war.json](./77270-garden-war.json) |
 | Garden Warfare: Crab Invasion | 337632 | [337632-garden-warfare-crab-invasion.json](./337632-garden-warfare-crab-invasion.json) |
+| Garden Watering | 234452 | [234452-garden-watering.json](./234452-garden-watering.json) |
 | Garden Weeder | 246334 | [246334-garden-weeder.json](./246334-garden-weeder.json) |
 | Garden Work Simulator 2026 | 396547 | [396547-garden-work-simulator-2026.json](./396547-garden-work-simulator-2026.json) |
 | Garden's Bane: DG's Quest | 208610 | [208610-gardens-bane-dgs-quest.json](./208610-gardens-bane-dgs-quest.json) |
@@ -4938,6 +4939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf on Mars | 135557 | [135557-golf-on-mars.json](./135557-golf-on-mars.json) |
 | Golf on Stream | 398216 | [398216-golf-on-stream.json](./398216-golf-on-stream.json) |
 | Golf on the Moon | 126397 | [126397-golf-on-the-moon.json](./126397-golf-on-the-moon.json) |
+| Golf Open Cup | 234469 | [234469-golf-open-cup.json](./234469-golf-open-cup.json) |
 | Golf Party | 141741 | [141741-golf-party.json](./141741-golf-party.json) |
 | Golf Peaks | 107329 | [107329-golf-peaks.json](./107329-golf-peaks.json) |
 | Golf Pro | 247062 | [247062-golf-pro.json](./247062-golf-pro.json) |
@@ -6483,6 +6485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Soccer | 100299 | [100299-great-soccer.json](./100299-great-soccer.json) |
 | Great Song's Records of Economy | 161644 | [161644-great-songs-records-of-economy.json](./161644-great-songs-records-of-economy.json) |
 | Great States II | 55989 | [55989-great-states-ii.json](./55989-great-states-ii.json) |
+| Great Sword | 234485 | [234485-great-sword.json](./234485-great-sword.json) |
 | Great Time Trio Remake | 306684 | [306684-great-time-trio-remake.json](./306684-great-time-trio-remake.json) |
 | Great Toilet Simulator | 222289 | [222289-great-toilet-simulator.json](./222289-great-toilet-simulator.json) |
 | Great Tough Bikini 6 | 362403 | [362403-great-tough-bikini-6.json](./362403-great-tough-bikini-6.json) |
@@ -8023,6 +8026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunboat: River Combat Simulation | 12127 | [12127-gunboat-river-combat-simulation.json](./12127-gunboat-river-combat-simulation.json) |
 | Gunborg: Dark Matters | 151140 | [151140-gunborg-dark-matters.json](./151140-gunborg-dark-matters.json) |
 | GunBound | 26189 | [26189-gunbound.json](./26189-gunbound.json) |
+| Gunbound T | 234450 | [234450-gunbound-t.json](./234450-gunbound-t.json) |
 | GunboundM | 69500 | [69500-gunboundm.json](./69500-gunboundm.json) |
 | GunBoxing | 392798 | [392798-gunboxing.json](./392798-gunboxing.json) |
 | Gunbrella | 200900 | [200900-gunbrella.json](./200900-gunbrella.json) |
