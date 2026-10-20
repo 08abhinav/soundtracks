@@ -2084,6 +2084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elves | 295940 | [295940-elves.json](./295940-elves.json) |
 | Elves '87 | 246233 | [246233-elves-87.json](./246233-elves-87.json) |
 | Elves Adventure | 31972 | [31972-elves-adventure.json](./31972-elves-adventure.json) |
+| Elves Castle and Secrets | 233900 | [233900-elves-castle-and-secrets.json](./233900-elves-castle-and-secrets.json) |
 | Elves Fantasy: Hentai Puzzle | 208229 | [208229-elves-fantasy-hentai-puzzle.json](./208229-elves-fantasy-hentai-puzzle.json) |
 | Elves Jigsaw Puzzle Collection | 229041 | [229041-elves-jigsaw-puzzle-collection.json](./229041-elves-jigsaw-puzzle-collection.json) |
 | Elves of Duty | 211922 | [211922-elves-of-duty.json](./211922-elves-of-duty.json) |
