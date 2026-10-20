@@ -2069,6 +2069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unplayable | 328969 | [328969-unplayable.json](./328969-unplayable.json) |
 | Unpleasant Horse | 66005 | [66005-unpleasant-horse.json](./66005-unpleasant-horse.json) |
 | Unplug | 249205 | [249205-unplug.json](./249205-unplug.json) |
+| Unplug: The Game | 224958 | [224958-unplug-the-game.json](./224958-unplug-the-game.json) |
 | Unplugged | 322446 | [322446-unplugged.json](./322446-unplugged.json) |
 | Unpossess | 302429 | [302429-unpossess.json](./302429-unpossess.json) |
 | Unpossess 2 | 405731 | [405731-unpossess-2.json](./405731-unpossess-2.json) |
