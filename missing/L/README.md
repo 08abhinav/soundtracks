@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth of Eclipse | 314301 | [314301-labyrinth-of-eclipse.json](./314301-labyrinth-of-eclipse.json) |
 | Labyrinth of Galleria: The Moon Society - Great Boots Quest | 232466 | [232466-labyrinth-of-galleria-the-moon-society-great-boots-quest.json](./232466-labyrinth-of-galleria-the-moon-society-great-boots-quest.json) |
 | Labyrinth of Galleria: The Moon Society - Great Hat Quest | 232467 | [232467-labyrinth-of-galleria-the-moon-society-great-hat-quest.json](./232467-labyrinth-of-galleria-the-moon-society-great-hat-quest.json) |
+| Labyrinth of Galleria: The Moon Society - Quest Set | 237804 | [237804-labyrinth-of-galleria-the-moon-society-quest-set.json](./237804-labyrinth-of-galleria-the-moon-society-quest-set.json) |
 | Labyrinth of Galleria: The Moon Society - Special Soul Pact Quest | 232468 | [232468-labyrinth-of-galleria-the-moon-society-special-soul-pact-quest.json](./232468-labyrinth-of-galleria-the-moon-society-special-soul-pact-quest.json) |
 | Labyrinth of Light | 236796 | [236796-labyrinth-of-light.json](./236796-labyrinth-of-light.json) |
 | Labyrinth of Loci | 57510 | [57510-labyrinth-of-loci.json](./57510-labyrinth-of-loci.json) |
@@ -1582,6 +1583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Enthusiastic Losers | 157216 | [157216-league-of-enthusiastic-losers.json](./157216-league-of-enthusiastic-losers.json) |
 | League of Enthusiastic Losers + Brawl Chess | 228942 | [228942-league-of-enthusiastic-losers-brawl-chess.json](./228942-league-of-enthusiastic-losers-brawl-chess.json) |
 | League of Enthusiastic Losers: Definitive Edition | 246645 | [246645-league-of-enthusiastic-losers-definitive-edition.json](./246645-league-of-enthusiastic-losers-definitive-edition.json) |
+| League of Enthusiastic Losers: Extended Edition | 237771 | [237771-league-of-enthusiastic-losers-extended-edition.json](./237771-league-of-enthusiastic-losers-extended-edition.json) |
 | League of Enthusiastic Losers: Premium Edition | 241397 | [241397-league-of-enthusiastic-losers-premium-edition.json](./241397-league-of-enthusiastic-losers-premium-edition.json) |
 | League of Enthusiastic Losers: Ultimate Edition | 231263 | [231263-league-of-enthusiastic-losers-ultimate-edition.json](./231263-league-of-enthusiastic-losers-ultimate-edition.json) |
 | League of Evil | 32856 | [32856-league-of-evil.json](./32856-league-of-evil.json) |
