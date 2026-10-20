@@ -2222,6 +2222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genius Quiz Naru | 241916 | [241916-genius-quiz-naru.json](./241916-genius-quiz-naru.json) |
 | Genius Quiz Naru 2 | 241932 | [241932-genius-quiz-naru-2.json](./241932-genius-quiz-naru-2.json) |
 | Genius Quiz OP | 241968 | [241968-genius-quiz-op.json](./241968-genius-quiz-op.json) |
+| Genius Quiz Poke | 241219 | [241219-genius-quiz-poke.json](./241219-genius-quiz-poke.json) |
 | Genius Quiz Reverse | 241906 | [241906-genius-quiz-reverse.json](./241906-genius-quiz-reverse.json) |
 | Genius Quiz Rick&M | 241929 | [241929-genius-quiz-rick-and-m.json](./241929-genius-quiz-rick-and-m.json) |
 | Genius Quiz Royale | 241919 | [241919-genius-quiz-royale.json](./241919-genius-quiz-royale.json) |
@@ -3873,6 +3874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glutto, the Eater of Worlds | 185507 | [185507-glutto-the-eater-of-worlds.json](./185507-glutto-the-eater-of-worlds.json) |
 | Glutton | 154068 | [154068-glutton.json](./154068-glutton.json) |
 | Gluttony | 353979 | [353979-gluttony.json](./353979-gluttony.json) |
+| Gluttony Monster | 241216 | [241216-gluttony-monster.json](./241216-gluttony-monster.json) |
 | Gluua | 235698 | [235698-gluua.json](./235698-gluua.json) |
 | Glyde | 58663 | [58663-glyde.json](./58663-glyde.json) |
 | Glyde the Dragon | 217234 | [217234-glyde-the-dragon.json](./217234-glyde-the-dragon.json) |
@@ -3971,6 +3973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomes Vs. Fairies: Greckel's Quest | 53078 | [53078-gnomes-vs-fairies-greckels-quest.json](./53078-gnomes-vs-fairies-greckels-quest.json) |
 | Gnomes vs. Knights | 310272 | [310272-gnomes-vs-knights.json](./310272-gnomes-vs-knights.json) |
 | Gnomic | 93469 | [93469-gnomic.json](./93469-gnomic.json) |
+| Gnomium: Pocket Edition | 241215 | [241215-gnomium-pocket-edition.json](./241215-gnomium-pocket-edition.json) |
 | Gnomonic | 219797 | [219797-gnomonic.json](./219797-gnomonic.json) |
 | Gnomoria | 9627 | [9627-gnomoria.json](./9627-gnomoria.json) |
 | Gnorts vs. The Greylenoids | 381985 | [381985-gnorts-vs-the-greylenoids.json](./381985-gnorts-vs-the-greylenoids.json) |
@@ -8128,6 +8131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunKinger Bonanza | 22016 | [22016-gunkinger-bonanza.json](./22016-gunkinger-bonanza.json) |
 | Gunkour | 150085 | [150085-gunkour.json](./150085-gunkour.json) |
 | Gunless | 84262 | [84262-gunless.json](./84262-gunless.json) |
+| GunLives Shooting | 241808 | [241808-gunlives-shooting.json](./241808-gunlives-shooting.json) |
 | Gunlocked 2 | 334208 | [334208-gunlocked-2.json](./334208-gunlocked-2.json) |
 | Gunlocked: The 2nd Gunning | 238464 | [238464-gunlocked-the-2nd-gunning.json](./238464-gunlocked-the-2nd-gunning.json) |
 | Gunlok | 25008 | [25008-gunlok.json](./25008-gunlok.json) |
