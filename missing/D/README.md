@@ -6410,6 +6410,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dick Richards | 185410 | [185410-dick-richards.json](./185410-dick-richards.json) |
 | Dick Ricko | 90227 | [90227-dick-ricko.json](./90227-dick-ricko.json) |
 | Dick Starr: Conquers Mars | 110235 | [110235-dick-starr-conquers-mars.json](./110235-dick-starr-conquers-mars.json) |
+| Dick Tracy | 217731 | [217731-dick-tracy.json](./217731-dick-tracy.json) |
+| Dick Tracy | 217732 | [217732-dick-tracy.json](./217732-dick-tracy.json) |
 | Dick Tracy | 316832 | [316832-dick-tracy.json](./316832-dick-tracy.json) |
 | Dick Tracy | 316839 | [316839-dick-tracy.json](./316839-dick-tracy.json) |
 | Dick Tracy | 316841 | [316841-dick-tracy.json](./316841-dick-tracy.json) |
