@@ -1493,6 +1493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IGS Classic Arcade Collection | 245916 | [245916-igs-classic-arcade-collection.json](./245916-igs-classic-arcade-collection.json) |
 | IGT Aztec Temple | 25064 | [25064-igt-aztec-temple.json](./25064-igt-aztec-temple.json) |
 | IGT Slots Paradise Garden | 17793 | [17793-igt-slots-paradise-garden.json](./17793-igt-slots-paradise-garden.json) |
+| IguaRPG | 242410 | [242410-iguarpg.json](./242410-iguarpg.json) |
 | IguaRPG 2 | 314033 | [314033-iguarpg-2.json](./314033-iguarpg-2.json) |
 | iGun Pro | 88473 | [88473-igun-pro.json](./88473-igun-pro.json) |
 | iGun Pro 2 | 86959 | [86959-igun-pro-2.json](./86959-igun-pro-2.json) |
@@ -3961,6 +3962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Wild | 304610 | [304610-into-the-wild.json](./304610-into-the-wild.json) |
 | Into The Wild | 310940 | [310940-into-the-wild.json](./310940-into-the-wild.json) |
 | Into The Wild | 377583 | [377583-into-the-wild.json](./377583-into-the-wild.json) |
+| Into the Winds: Zen Flowers | 242389 | [242389-into-the-winds-zen-flowers.json](./242389-into-the-winds-zen-flowers.json) |
 | Into the Woods | 230293 | [230293-into-the-woods.json](./230293-into-the-woods.json) |
 | Intoxicated Driver | 286136 | [286136-intoxicated-driver.json](./286136-intoxicated-driver.json) |
 | Intra | 332673 | [332673-intra.json](./332673-intra.json) |
