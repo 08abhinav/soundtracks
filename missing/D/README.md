@@ -11526,6 +11526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw and Color: Kawaii - Platinum Edition | 247589 | [247589-draw-and-color-kawaii-platinum-edition.json](./247589-draw-and-color-kawaii-platinum-edition.json) |
 | Draw and Color: Kawaii - Special Edition | 231285 | [231285-draw-and-color-kawaii-special-edition.json](./231285-draw-and-color-kawaii-special-edition.json) |
 | Draw and Color: Kawaii - Superb Edition | 270293 | [270293-draw-and-color-kawaii-superb-edition.json](./270293-draw-and-color-kawaii-superb-edition.json) |
+| Draw and Color: Kawaii - Ultimate Edition | 226093 | [226093-draw-and-color-kawaii-ultimate-edition.json](./226093-draw-and-color-kawaii-ultimate-edition.json) |
 | Draw and Color: Kawaii - Ultra Deluxe | 273333 | [273333-draw-and-color-kawaii-ultra-deluxe.json](./273333-draw-and-color-kawaii-ultra-deluxe.json) |
 | Draw and Go! | 276129 | [276129-draw-and-go.json](./276129-draw-and-go.json) |
 | Draw and Lie | 147973 | [147973-draw-and-lie.json](./147973-draw-and-lie.json) |
