@@ -9923,6 +9923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minion Masters: Zealous Inferno | 330729 | [330729-minion-masters-zealous-inferno.json](./330729-minion-masters-zealous-inferno.json) |
 | Minion Pregnancy | 334909 | [334909-minion-pregnancy.json](./334909-minion-pregnancy.json) |
 | Minion Quest: The Search for Bowser | 266891 | [266891-minion-quest-the-search-for-bowser.json](./266891-minion-quest-the-search-for-bowser.json) |
+| Minion Raid: Epic Monsters | 207125 | [207125-minion-raid-epic-monsters.json](./207125-minion-raid-epic-monsters.json) |
 | Minion Rumble | 338349 | [338349-minion-rumble.json](./338349-minion-rumble.json) |
 | MiniOne Racing | 34989 | [34989-minione-racing.json](./34989-minione-racing.json) |
 | Minions | 59896 | [59896-minions.json](./59896-minions.json) |
@@ -10808,6 +10809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mmm Fingers | 117752 | [117752-mmm-fingers.json](./117752-mmm-fingers.json) |
 | MMM: Murder Most Misfortunate | 28425 | [28425-mmm-murder-most-misfortunate.json](./28425-mmm-murder-most-misfortunate.json) |
 | Mmmmm Donuts Arhhh...... | 286754 | [286754-mmmmm-donuts-arhhh.json](./286754-mmmmm-donuts-arhhh.json) |
+| Mmmmmm | 207138 | [207138-mmmmmm.json](./207138-mmmmmm.json) |
 | MMORPG NPC Simulator | 404197 | [404197-mmorpg-npc-simulator.json](./404197-mmorpg-npc-simulator.json) |
 | MMORPG Tycoon 2 | 125701 | [125701-mmorpg-tycoon-2.json](./125701-mmorpg-tycoon-2.json) |
 | MMX | 384056 | [384056-mmx.json](./384056-mmx.json) |
@@ -13064,6 +13066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat: Deadly Alliance | 229852 | [229852-mortal-kombat-deadly-alliance.json](./229852-mortal-kombat-deadly-alliance.json) |
 | Mortal Kombat: Deception | 1613 | [1613-mortal-kombat-deception.json](./1613-mortal-kombat-deception.json) |
 | Mortal Kombat: Deception - Kollector's Edition | 45151 | [45151-mortal-kombat-deception-kollectors-edition.json](./45151-mortal-kombat-deception-kollectors-edition.json) |
+| Mortal Kombat: Deception - Premium Pack | 207160 | [207160-mortal-kombat-deception-premium-pack.json](./207160-mortal-kombat-deception-premium-pack.json) |
 | Mortal Kombat: Defenders of the Earth | 232865 | [232865-mortal-kombat-defenders-of-the-earth.json](./232865-mortal-kombat-defenders-of-the-earth.json) |
 | Mortal Kombat: Defenders of The Realm | 253499 | [253499-mortal-kombat-defenders-of-the-realm.json](./253499-mortal-kombat-defenders-of-the-realm.json) |
 | Mortal Kombat: Freddy Krueger | 388985 | [388985-mortal-kombat-freddy-krueger.json](./388985-mortal-kombat-freddy-krueger.json) |
@@ -16685,6 +16688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic Love: Iberian Legends | 386288 | [386288-mythic-love-iberian-legends.json](./386288-mythic-love-iberian-legends.json) |
 | Mythic Manager | 408151 | [408151-mythic-manager.json](./408151-mythic-manager.json) |
 | Mythic Manor | 350220 | [350220-mythic-manor.json](./350220-mythic-manor.json) |
+| Mythic Meetup | 207146 | [207146-mythic-meetup.json](./207146-mythic-meetup.json) |
 | Mythic Mire | 332454 | [332454-mythic-mire.json](./332454-mythic-mire.json) |
 | Mythic Mountain | 234615 | [234615-mythic-mountain.json](./234615-mythic-mountain.json) |
 | Mythic Ocean | 93804 | [93804-mythic-ocean.json](./93804-mythic-ocean.json) |
