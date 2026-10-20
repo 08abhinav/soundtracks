@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D/Generation HD | 21318 | [21318-d-generation-hd.json](./21318-d-generation-hd.json) |
 | D&D Classics | 246457 | [246457-d-and-d-classics.json](./246457-d-and-d-classics.json) |
 | D&D Lords of Waterdeep | 68484 | [68484-d-and-d-lords-of-waterdeep.json](./68484-d-and-d-lords-of-waterdeep.json) |
+| D&M: Dungeon and Monsters the Beginning | 227135 | [227135-d-and-m-dungeon-and-monsters-the-beginning.json](./227135-d-and-m-dungeon-and-monsters-the-beginning.json) |
 | D&M: Spark of Fate | 236751 | [236751-d-and-m-spark-of-fate.json](./236751-d-and-m-spark-of-fate.json) |
 | D+Vine[Luv] | 283301 | [283301-d-vine-luv.json](./283301-d-vine-luv.json) |
 | D+Vine[Luv] | 283302 | [283302-d-vine-luv.json](./283302-d-vine-luv.json) |
@@ -1641,6 +1642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darksiders III | 28380 | [28380-darksiders-iii.json](./28380-darksiders-iii.json) |
 | Darksiders III: Blades & Whip Edition | 119079 | [119079-darksiders-iii-blades-and-whip-edition.json](./119079-darksiders-iii-blades-and-whip-edition.json) |
 | Darksiders III: Collector's Edition | 45985 | [45985-darksiders-iii-collectors-edition.json](./45985-darksiders-iii-collectors-edition.json) |
+| Darksiders III: DLC Bundle | 227112 | [227112-darksiders-iii-dlc-bundle.json](./227112-darksiders-iii-dlc-bundle.json) |
 | Darksiders III: The Crucible | 115645 | [115645-darksiders-iii-the-crucible.json](./115645-darksiders-iii-the-crucible.json) |
 | Darksiders: Fury's Collection - War and Death | 28408 | [28408-darksiders-furys-collection-war-and-death.json](./28408-darksiders-furys-collection-war-and-death.json) |
 | Darksiders: Warmastered Edition | 25081 | [25081-darksiders-warmastered-edition.json](./25081-darksiders-warmastered-edition.json) |
@@ -3749,6 +3751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dedektif Firtina | 19153 | [19153-dedektif-firtina.json](./19153-dedektif-firtina.json) |
 | DeDrive | 102267 | [102267-dedrive.json](./102267-dedrive.json) |
 | Deduce Together | 308884 | [308884-deduce-together.json](./308884-deduce-together.json) |
+| Deducto 2 | 227140 | [227140-deducto-2.json](./227140-deducto-2.json) |
 | Deductum | 355531 | [355531-deductum.json](./355531-deductum.json) |
 | Dedz0ne | 256970 | [256970-dedz0ne.json](./256970-dedz0ne.json) |
 | Dee Dum | 134992 | [134992-dee-dum.json](./134992-dee-dum.json) |
@@ -4248,6 +4251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defensive Measures | 199403 | [199403-defensive-measures.json](./199403-defensive-measures.json) |
 | Defensurvivor | 324715 | [324715-defensurvivor.json](./324715-defensurvivor.json) |
 | Deff | 133973 | [133973-deff.json](./133973-deff.json) |
+| Defi Gravity | 227157 | [227157-defi-gravity.json](./227157-defi-gravity.json) |
 | Defi Kingdoms | 185371 | [185371-defi-kingdoms.json](./185371-defi-kingdoms.json) |
 | Defiance | 139312 | [139312-defiance.json](./139312-defiance.json) |
 | Defiance | 1973 | [1973-defiance.json](./1973-defiance.json) |
@@ -4442,6 +4446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivered by Friday | 399216 | [399216-delivered-by-friday.json](./399216-delivered-by-friday.json) |
 | Delivered on Time | 357172 | [357172-delivered-on-time.json](./357172-delivered-on-time.json) |
 | Delivering Hope | 260095 | [260095-delivering-hope.json](./260095-delivering-hope.json) |
+| Delivering Letters | 227137 | [227137-delivering-letters.json](./227137-delivering-letters.json) |
 | DeliverwarTH | 372229 | [372229-deliverwarth.json](./372229-deliverwarth.json) |
 | Delivery Boy | 190214 | [190214-delivery-boy.json](./190214-delivery-boy.json) |
 | Delivery Driver Massacre: Definitive Edition | 400554 | [400554-delivery-driver-massacre-definitive-edition.json](./400554-delivery-driver-massacre-definitive-edition.json) |
@@ -6406,6 +6411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dickme Dicki | 202353 | [202353-dickme-dicki.json](./202353-dickme-dicki.json) |
 | Dictator | 78955 | [78955-dictator.json](./78955-dictator.json) |
 | Dictator Simulator: Gradnar | 374789 | [374789-dictator-simulator-gradnar.json](./374789-dictator-simulator-gradnar.json) |
+| Dictator-chan island | 227139 | [227139-dictator-chan-island.json](./227139-dictator-chan-island.json) |
 | Dictator: Rule the World | 104558 | [104558-dictator-rule-the-world.json](./104558-dictator-rule-the-world.json) |
 | Dictator's Creed | 212749 | [212749-dictators-creed.json](./212749-dictators-creed.json) |
 | Dictators:No Peace Countryballs | 129040 | [129040-dictators-no-peace-countryballs.json](./129040-dictators-no-peace-countryballs.json) |
@@ -9939,6 +9945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon no Study Boy: Kuku Game | 65537 | [65537-doraemon-no-study-boy-kuku-game.json](./65537-doraemon-no-study-boy-kuku-game.json) |
 | Doraemon Pocket Drill Moji Quiz | 310524 | [310524-doraemon-pocket-drill-moji-quiz.json](./310524-doraemon-pocket-drill-moji-quiz.json) |
 | Doraemon Step-Up PC | 314372 | [314372-doraemon-step-up-pc.json](./314372-doraemon-step-up-pc.json) |
+| Doraemon Story of Season: Friends of the Great Kingdom - Winter Tales | 227156 | [227156-doraemon-story-of-season-friends-of-the-great-kingdom-winter-tales.json](./227156-doraemon-story-of-season-friends-of-the-great-kingdom-winter-tales.json) |
 | Doraemon Story of Seasons: Friends of the Great Kingdom | 206815 | [206815-doraemon-story-of-seasons-friends-of-the-great-kingdom.json](./206815-doraemon-story-of-seasons-friends-of-the-great-kingdom.json) |
 | Doraemon Story of Seasons: Friends of the Great Kingdom - The Life of Insects | 231280 | [231280-doraemon-story-of-seasons-friends-of-the-great-kingdom-the-life-of-insects.json](./231280-doraemon-story-of-seasons-friends-of-the-great-kingdom-the-life-of-insects.json) |
 | Doraemon Story of Seasons: Friends of the Great Kingdom - Together with Animals | 241321 | [241321-doraemon-story-of-seasons-friends-of-the-great-kingdom-together-with-animals.json](./241321-doraemon-story-of-seasons-friends-of-the-great-kingdom-together-with-animals.json) |
@@ -11790,6 +11797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Hotel Master | 303492 | [303492-dream-hotel-master.json](./303492-dream-hotel-master.json) |
 | Dream House : Interior Design | 103927 | [103927-dream-house-interior-design.json](./103927-dream-house-interior-design.json) |
 | Dream House Days | 246937 | [246937-dream-house-days.json](./246937-dream-house-days.json) |
+| Dream Hunter Toys: Evil Dolls | 227110 | [227110-dream-hunter-toys-evil-dolls.json](./227110-dream-hunter-toys-evil-dolls.json) |
 | Dream in the Shell | 317388 | [317388-dream-in-the-shell.json](./317388-dream-in-the-shell.json) |
 | Dream Invader | 220330 | [220330-dream-invader.json](./220330-dream-invader.json) |
 | Dream Island: A Skyward Journey | 281380 | [281380-dream-island-a-skyward-journey.json](./281380-dream-island-a-skyward-journey.json) |
