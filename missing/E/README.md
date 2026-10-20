@@ -5511,6 +5511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exciting Soccer II | 39834 | [39834-exciting-soccer-ii.json](./39834-exciting-soccer-ii.json) |
 | Exciting Soccer: Konami Cup | 41236 | [41236-exciting-soccer-konami-cup.json](./41236-exciting-soccer-konami-cup.json) |
 | Excive | 180098 | [180098-excive.json](./180098-excive.json) |
+| Exclusion | 247908 | [247908-exclusion.json](./247908-exclusion.json) |
 | Exclusion Zone: Hunting Ground | 134616 | [134616-exclusion-zone-hunting-ground.json](./134616-exclusion-zone-hunting-ground.json) |
 | Exclusion Zone: Shadow Island | 134615 | [134615-exclusion-zone-shadow-island.json](./134615-exclusion-zone-shadow-island.json) |
 | Exclusive Memory | 319938 | [319938-exclusive-memory.json](./319938-exclusive-memory.json) |
