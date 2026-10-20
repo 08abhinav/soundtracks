@@ -1213,6 +1213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keisan Game: Sansuu 3-nen | 58880 | [58880-keisan-game-sansuu-3-nen.json](./58880-keisan-game-sansuu-3-nen.json) |
 | Keisan Game: Sansuu 4-nen | 58871 | [58871-keisan-game-sansuu-4-nen.json](./58871-keisan-game-sansuu-4-nen.json) |
 | Keisan Game: Sansuu 5+6-nen | 58870 | [58870-keisan-game-sansuu-5-6-nen.json](./58870-keisan-game-sansuu-5-6-nen.json) |
+| Keisatsusho kara no Dasshutsu | 254929 | [254929-keisatsusho-kara-no-dasshutsu.json](./254929-keisatsusho-kara-no-dasshutsu.json) |
 | Keitai Denjuu Telefang 2: Power | 27494 | [27494-keitai-denjuu-telefang-2-power.json](./27494-keitai-denjuu-telefang-2-power.json) |
 | Keitai Denjuu Telefang 2: Speed | 27495 | [27495-keitai-denjuu-telefang-2-speed.json](./27495-keitai-denjuu-telefang-2-speed.json) |
 | Keitai Denjuu Telefang: Power Version | 27493 | [27493-keitai-denjuu-telefang-power-version.json](./27493-keitai-denjuu-telefang-power-version.json) |
