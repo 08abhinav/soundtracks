@@ -773,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature Atelier | 368520 | [368520-nature-atelier.json](./368520-nature-atelier.json) |
 | Nature Escapes | 215635 | [215635-nature-escapes.json](./215635-nature-escapes.json) |
 | Nature Escapes 2 | 235182 | [235182-nature-escapes-2.json](./235182-nature-escapes-2.json) |
+| Nature Escapes 3 | 247875 | [247875-nature-escapes-3.json](./247875-nature-escapes-3.json) |
 | Nature Escapes 3: Collector's Edition | 286198 | [286198-nature-escapes-3-collectors-edition.json](./286198-nature-escapes-3-collectors-edition.json) |
 | Nature Escapes 4: Collector's Edition | 320480 | [320480-nature-escapes-4-collectors-edition.json](./320480-nature-escapes-4-collectors-edition.json) |
 | Nature Escapes 5 | 292373 | [292373-nature-escapes-5.json](./292373-nature-escapes-5.json) |
@@ -4686,6 +4687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noctropolis | 243766 | [243766-noctropolis.json](./243766-noctropolis.json) |
 | Noctuary | 221395 | [221395-noctuary.json](./221395-noctuary.json) |
 | Noctuary: New Journey | 370210 | [370210-noctuary-new-journey.json](./370210-noctuary-new-journey.json) |
+| Nocturia The Game | 247912 | [247912-nocturia-the-game.json](./247912-nocturia-the-game.json) |
 | Nocturnal | 234740 | [234740-nocturnal.json](./234740-nocturnal.json) |
 | Nocturnal | 350295 | [350295-nocturnal.json](./350295-nocturnal.json) |
 | Nocturnal Echoes | 414419 | [414419-nocturnal-echoes.json](./414419-nocturnal-echoes.json) |
