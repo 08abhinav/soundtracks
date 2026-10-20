@@ -2783,6 +2783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junk Survivor | 246075 | [246075-junk-survivor.json](./246075-junk-survivor.json) |
 | Junk: The Legend of Junichi Kato | 164235 | [164235-junk-the-legend-of-junichi-kato.json](./164235-junk-the-legend-of-junichi-kato.json) |
 | Junk! | 345637 | [345637-junk.json](./345637-junk.json) |
+| Junkbot | 226067 | [226067-junkbot.json](./226067-junkbot.json) |
 | Junkcity Factory Simulator | 326397 | [326397-junkcity-factory-simulator.json](./326397-junkcity-factory-simulator.json) |
 | Junkfood | 261958 | [261958-junkfood.json](./261958-junkfood.json) |
 | Junkfood 2: Summertime Slotter | 296185 | [296185-junkfood-2-summertime-slotter.json](./296185-junkfood-2-summertime-slotter.json) |
