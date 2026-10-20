@@ -885,6 +885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Arise: Beyond the Dawn - Ultimate Edition | 267774 | [267774-tales-of-arise-beyond-the-dawn-ultimate-edition.json](./267774-tales-of-arise-beyond-the-dawn-ultimate-edition.json) |
 | Tales of Arise: Beyond the Dawn Edition | 267775 | [267775-tales-of-arise-beyond-the-dawn-edition.json](./267775-tales-of-arise-beyond-the-dawn-edition.json) |
 | Tales of Arise: Classic Characters Costume & Arranged BGM Pack | 275691 | [275691-tales-of-arise-classic-characters-costume-and-arranged-bgm-pack.json](./275691-tales-of-arise-classic-characters-costume-and-arranged-bgm-pack.json) |
+| Tales of Arise: Collaboration Costume Pack | 225480 | [225480-tales-of-arise-collaboration-costume-pack.json](./225480-tales-of-arise-collaboration-costume-pack.json) |
 | Tales of Arise: Deluxe Edition | 169243 | [169243-tales-of-arise-deluxe-edition.json](./169243-tales-of-arise-deluxe-edition.json) |
 | Tales of Arise: Deluxe Sound Edition | 267321 | [267321-tales-of-arise-deluxe-sound-edition.json](./267321-tales-of-arise-deluxe-sound-edition.json) |
 | Tales of Arise: Elegant Costume Pack | 279541 | [279541-tales-of-arise-elegant-costume-pack.json](./279541-tales-of-arise-elegant-costume-pack.json) |
@@ -11892,9 +11893,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rumble Fish + | 278489 | [278489-the-rumble-fish.json](./278489-the-rumble-fish.json) |
 | The Rumble Fish 2 | 222946 | [222946-the-rumble-fish-2.json](./222946-the-rumble-fish-2.json) |
 | The Rumble Fish 2 | 39434 | [39434-the-rumble-fish-2.json](./39434-the-rumble-fish-2.json) |
+| The Rumble Fish 2 + Greed | 225504 | [225504-the-rumble-fish-2-greed.json](./225504-the-rumble-fish-2-greed.json) |
 | The Rumble Fish 2: Additional Character - Beatrice | 226309 | [226309-the-rumble-fish-2-additional-character-beatrice.json](./226309-the-rumble-fish-2-additional-character-beatrice.json) |
 | The Rumble Fish 2: Collector's Edition | 222947 | [222947-the-rumble-fish-2-collectors-edition.json](./222947-the-rumble-fish-2-collectors-edition.json) |
 | The Rumble Fish 2: Deluxe Edition | 251601 | [251601-the-rumble-fish-2-deluxe-edition.json](./251601-the-rumble-fish-2-deluxe-edition.json) |
+| The Rumble Fish 2: Greed | 225511 | [225511-the-rumble-fish-2-greed.json](./225511-the-rumble-fish-2-greed.json) |
 | The Rumble Fish 2: Nintendo Switch 2 Edition | 384186 | [384186-the-rumble-fish-2-nintendo-switch-2-edition.json](./384186-the-rumble-fish-2-nintendo-switch-2-edition.json) |
 | The Rumble Fish: Complete Pack | 336932 | [336932-the-rumble-fish-complete-pack.json](./336932-the-rumble-fish-complete-pack.json) |
 | The Runaway Feijoao | 159874 | [159874-the-runaway-feijoao.json](./159874-the-runaway-feijoao.json) |
@@ -12042,6 +12045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Search Master: Metal Gear Solid Edition | 270390 | [270390-the-search-master-metal-gear-solid-edition.json](./270390-the-search-master-metal-gear-solid-edition.json) |
 | The Search: Lost Dreams | 251991 | [251991-the-search-lost-dreams.json](./251991-the-search-lost-dreams.json) |
 | The Searcher Wild West Adventure | 105373 | [105373-the-searcher-wild-west-adventure.json](./105373-the-searcher-wild-west-adventure.json) |
+| The Seaside Inn | 225493 | [225493-the-seaside-inn.json](./225493-the-seaside-inn.json) |
 | The Season of the Warlock | 180132 | [180132-the-season-of-the-warlock.json](./180132-the-season-of-the-warlock.json) |
 | The Seasons | 43129 | [43129-the-seasons.json](./43129-the-seasons.json) |
 | The Seasons Collection: Spring | 156576 | [156576-the-seasons-collection-spring.json](./156576-the-seasons-collection-spring.json) |
@@ -15199,6 +15203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas & Friends: Wonders of Sodor - Deluxe Edition | 394325 | [394325-thomas-and-friends-wonders-of-sodor-deluxe-edition.json](./394325-thomas-and-friends-wonders-of-sodor-deluxe-edition.json) |
 | Thomas & Friends: Wonders of Sodor - James Addon | 394318 | [394318-thomas-and-friends-wonders-of-sodor-james-addon.json](./394318-thomas-and-friends-wonders-of-sodor-james-addon.json) |
 | Thomas and Friends: Engines Working Together | 73004 | [73004-thomas-and-friends-engines-working-together.json](./73004-thomas-and-friends-engines-working-together.json) |
+| Thomas and the Magic Railroad Print Studio | 225521 | [225521-thomas-and-the-magic-railroad-print-studio.json](./225521-thomas-and-the-magic-railroad-print-studio.json) |
 | Thomas M. Disch's Amnesia | 50491 | [50491-thomas-m-dischs-amnesia.json](./50491-thomas-m-dischs-amnesia.json) |
 | Thomas Scott | 143927 | [143927-thomas-scott.json](./143927-thomas-scott.json) |
 | Thomas the Tank Engine & Friends | 284218 | [284218-thomas-the-tank-engine-and-friends.json](./284218-thomas-the-tank-engine-and-friends.json) |
@@ -20037,6 +20042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Pocket Wars Evolution Plus | 128384 | [128384-touhou-pocket-wars-evolution-plus.json](./128384-touhou-pocket-wars-evolution-plus.json) |
 | Touhou Puppet Dance Performance | 46722 | [46722-touhou-puppet-dance-performance.json](./46722-touhou-puppet-dance-performance.json) |
 | Touhou Puppet Dance Performance: Shard of Dreams | 207227 | [207227-touhou-puppet-dance-performance-shard-of-dreams.json](./207227-touhou-puppet-dance-performance-shard-of-dreams.json) |
+| Touhou Puppet Dance Performance: Shard of Dreams - Extended | 225489 | [225489-touhou-puppet-dance-performance-shard-of-dreams-extended.json](./225489-touhou-puppet-dance-performance-shard-of-dreams-extended.json) |
 | Touhou Rakuryuusei: The Shattered Sky | 280870 | [280870-touhou-rakuryuusei-the-shattered-sky.json](./280870-touhou-rakuryuusei-the-shattered-sky.json) |
 | Touhou Rei'iden: The Highly Responsive to Prayers | 45967 | [45967-touhou-reiiden-the-highly-responsive-to-prayers.json](./45967-touhou-reiiden-the-highly-responsive-to-prayers.json) |
 | Touhou Rekkaden: Rift in a Friendship Game | 204669 | [204669-touhou-rekkaden-rift-in-a-friendship-game.json](./204669-touhou-rekkaden-rift-in-a-friendship-game.json) |
@@ -20813,6 +20819,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tracks of Triumph Retro Blast | 252889 | [252889-tracks-of-triumph-retro-blast.json](./252889-tracks-of-triumph-retro-blast.json) |
 | Tracks of Triumph: Good Old Times | 29886 | [29886-tracks-of-triumph-good-old-times.json](./29886-tracks-of-triumph-good-old-times.json) |
 | Tracks: The Train Set Game | 39748 | [39748-tracks-the-train-set-game.json](./39748-tracks-the-train-set-game.json) |
+| Tracks: The Train Set Game - Sci-Fi Pack | 225481 | [225481-tracks-the-train-set-game-sci-fi-pack.json](./225481-tracks-the-train-set-game-sci-fi-pack.json) |
+| Tracks: The Train Set Game - Suburban Pack | 225482 | [225482-tracks-the-train-set-game-suburban-pack.json](./225482-tracks-the-train-set-game-suburban-pack.json) |
 | Tracks: Toybox Edition | 139928 | [139928-tracks-toybox-edition.json](./139928-tracks-toybox-edition.json) |
 | Tracksuit Manager | 74027 | [74027-tracksuit-manager.json](./74027-tracksuit-manager.json) |
 | Tracktopia | 333628 | [333628-tracktopia.json](./333628-tracktopia.json) |
@@ -22593,6 +22601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traveler's Refrain | 287784 | [287784-travelers-refrain.json](./287784-travelers-refrain.json) |
 | Traveler's Refrain x Dreamscaper | 396437 | [396437-travelers-refrain-x-dreamscaper.json](./396437-travelers-refrain-x-dreamscaper.json) |
 | Traveler's Tavern | 264539 | [264539-travelers-tavern.json](./264539-travelers-tavern.json) |
+| Travelers and Tales | 225495 | [225495-travelers-and-tales.json](./225495-travelers-and-tales.json) |
 | Travelers in Space Crack | 193424 | [193424-travelers-in-space-crack.json](./193424-travelers-in-space-crack.json) |
 | Traveller's Hymn | 319560 | [319560-travellers-hymn.json](./319560-travellers-hymn.json) |
 | Travellers | 172033 | [172033-travellers.json](./172033-travellers.json) |
