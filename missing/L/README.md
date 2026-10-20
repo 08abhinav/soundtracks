@@ -1216,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Night Delivery: The Bewitched Collection | 260290 | [260290-late-night-delivery-the-bewitched-collection.json](./260290-late-night-delivery-the-bewitched-collection.json) |
 | Late Night Drift | 285890 | [285890-late-night-drift.json](./285890-late-night-drift.json) |
 | Late Night Fears | 405939 | [405939-late-night-fears.json](./405939-late-night-fears.json) |
+| Late Night Gas Station | 205989 | [205989-late-night-gas-station.json](./205989-late-night-gas-station.json) |
 | Late Night Mop | 218953 | [218953-late-night-mop.json](./218953-late-night-mop.json) |
 | Late Night Mop: Minimum Wage | 376605 | [376605-late-night-mop-minimum-wage.json](./376605-late-night-mop-minimum-wage.json) |
 | Late Night Sausage | 321475 | [321475-late-night-sausage.json](./321475-late-night-sausage.json) |
@@ -2854,6 +2855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Play Pet Hospital | 24744 | [24744-lets-play-pet-hospital.json](./24744-lets-play-pet-hospital.json) |
 | Let's Play with Nanai! | 111069 | [111069-lets-play-with-nanai.json](./111069-lets-play-with-nanai.json) |
 | Let's Play: Ancient Greek Punishment - Teaches Typing | 146668 | [146668-lets-play-ancient-greek-punishment-teaches-typing.json](./146668-lets-play-ancient-greek-punishment-teaches-typing.json) |
+| Let's Play: The Shining | 205991 | [205991-lets-play-the-shining.json](./205991-lets-play-the-shining.json) |
 | Let's Play! Oink Games - Complete Edition | 315859 | [315859-lets-play-oink-games-complete-edition.json](./315859-lets-play-oink-games-complete-edition.json) |
 | Let's Play! Oink Games: Kobayakawa | 263993 | [263993-lets-play-oink-games-kobayakawa.json](./263993-lets-play-oink-games-kobayakawa.json) |
 | Let's Play! Oink Games: Make the Difference | 255277 | [255277-lets-play-oink-games-make-the-difference.json](./255277-lets-play-oink-games-make-the-difference.json) |
@@ -4261,6 +4263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liquid War | 51250 | [51250-liquid-war.json](./51250-liquid-war.json) |
 | Liquidation | 168703 | [168703-liquidation.json](./168703-liquidation.json) |
 | Liquidator | 72446 | [72446-liquidator.json](./72446-liquidator.json) |
+| Liquidator: 3D Action Game | 205975 | [205975-liquidator-3d-action-game.json](./205975-liquidator-3d-action-game.json) |
 | Liquidators | 147297 | [147297-liquidators.json](./147297-liquidators.json) |
 | Liquidum: Femme Fatale | 297334 | [297334-liquidum-femme-fatale.json](./297334-liquidum-femme-fatale.json) |
 | Liquidum: Secrets of the Deep | 310387 | [310387-liquidum-secrets-of-the-deep.json](./310387-liquidum-secrets-of-the-deep.json) |
