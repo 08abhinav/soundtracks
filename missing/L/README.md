@@ -945,6 +945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Escort: Kokuchou Special Night | 220567 | [220567-last-escort-kokuchou-special-night.json](./220567-last-escort-kokuchou-special-night.json) |
 | Last Escort: Shin'ya no Kokuchou Monogatari | 220566 | [220566-last-escort-shinya-no-kokuchou-monogatari.json](./220566-last-escort-shinya-no-kokuchou-monogatari.json) |
 | Last Evil | 135638 | [135638-last-evil.json](./135638-last-evil.json) |
+| Last Fantasy | 234482 | [234482-last-fantasy.json](./234482-last-fantasy.json) |
 | Last Fantasy Hentai | 149388 | [149388-last-fantasy-hentai.json](./149388-last-fantasy-hentai.json) |
 | Last Fishing: Monster Clash | 220208 | [220208-last-fishing-monster-clash.json](./220208-last-fishing-monster-clash.json) |
 | Last Flag | 347665 | [347665-last-flag.json](./347665-last-flag.json) |
@@ -3677,6 +3678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LightQuest | 180123 | [180123-lightquest.json](./180123-lightquest.json) |
 | Lightracer Spark: Stars Will | 276640 | [276640-lightracer-spark-stars-will.json](./276640-lightracer-spark-stars-will.json) |
 | Lightracer: For Judge | 309845 | [309845-lightracer-for-judge.json](./309845-lightracer-for-judge.json) |
+| Lightracer: Ignition | 234477 | [234477-lightracer-ignition.json](./234477-lightracer-ignition.json) |
 | LightRay | 349403 | [349403-lightray.json](./349403-lightray.json) |
 | LightRay: Wayfinder | 393940 | [393940-lightray-wayfinder.json](./393940-lightray-wayfinder.json) |
 | Lightrise | 34937 | [34937-lightrise.json](./34937-lightrise.json) |
@@ -4547,6 +4549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little One | 399702 | [399702-little-one.json](./399702-little-one.json) |
 | Little Orpheus | 55068 | [55068-little-orpheus.json](./55068-little-orpheus.json) |
 | Little Otter's Fishing Life | 386944 | [386944-little-otters-fishing-life.json](./386944-little-otters-fishing-life.json) |
+| Little Panda: Dinosaur Care | 234441 | [234441-little-panda-dinosaur-care.json](./234441-little-panda-dinosaur-care.json) |
 | Little Panda's Camping Trip | 105963 | [105963-little-pandas-camping-trip.json](./105963-little-pandas-camping-trip.json) |
 | Little Panda's Candy Shop | 231932 | [231932-little-pandas-candy-shop.json](./231932-little-pandas-candy-shop.json) |
 | Little Panda's Jewel Adventure | 233412 | [233412-little-pandas-jewel-adventure.json](./233412-little-pandas-jewel-adventure.json) |
