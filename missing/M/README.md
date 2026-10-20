@@ -2304,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manipulation | 380600 | [380600-manipulation.json](./380600-manipulation.json) |
 | Manipulator of Figure 3 | 335448 | [335448-manipulator-of-figure-3.json](./335448-manipulator-of-figure-3.json) |
 | Manipulus | 322631 | [322631-manipulus.json](./322631-manipulus.json) |
+| Manitas Kitchen | 250796 | [250796-manitas-kitchen.json](./250796-manitas-kitchen.json) |
 | Manivore | 343398 | [343398-manivore.json](./343398-manivore.json) |
 | Manix | 15256 | [15256-manix.json](./15256-manix.json) |
 | Manji: PSY Yuuki | 142860 | [142860-manji-psy-yuuki.json](./142860-manji-psy-yuuki.json) |
