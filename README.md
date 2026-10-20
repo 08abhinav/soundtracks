@@ -874,6 +874,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | Cover | Game | Albums |
 |---|---|---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2731bf2c1e5efb3922c91cd441d" width="60" /> | [Jackal](https://ostdb.net/games/jackal) | **Jackal (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/51g0tInAwIXbcKr14cbjo0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273143105c3bff868226ca565a2" width="60" /> | [Jagged Alliance 3](https://ostdb.net/games/jagged-alliance-3) | **Jagged Alliance 3 (Official Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4oKlO9OsUuBQgCNGqw6I02) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738f845f246dd993297793cbd2" width="60" /> | [Jalopy](https://ostdb.net/games/jalopy) | **Jalopy (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1obIRfqViUuJVYUbyrVy2G) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273853d9d9db6ac202a4af5fc50" width="60" /> | [Jetpack Joyride](https://ostdb.net/games/jetpack-joyride) | **Jetpack Joyride (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6JK9GjsXGG2oJm5ZHWLwjq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d9e31d06b87b1a6d4065fc1" width="60" /> | [John Carpenter's Toxic Commando](https://ostdb.net/games/john-carpenters-toxic-commando) | **In the Hall of the Zombie King (Toxic Commando Trailer Soundtrack)** · [Spotify](https://open.spotify.com/album/5k8uX7ZJzTI4FFyUNdugjg) |
@@ -2016,4 +2017,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2333 soundtracks · last updated 2026-10-20T22:11:34.847Z_
+_2334 soundtracks · last updated 2026-10-20T22:11:46.183Z_
