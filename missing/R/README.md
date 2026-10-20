@@ -7931,6 +7931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Toolman | 248683 | [248683-rolling-toolman.json](./248683-rolling-toolman.json) |
 | Rolling Toolman 2 Deathly Traps | 267446 | [267446-rolling-toolman-2-deathly-traps.json](./267446-rolling-toolman-2-deathly-traps.json) |
 | Rolling Toss | 337131 | [337131-rolling-toss.json](./337131-rolling-toss.json) |
+| Rolling Twins | 214332 | [214332-rolling-twins.json](./214332-rolling-twins.json) |
 | Rolling Valley | 192876 | [192876-rolling-valley.json](./192876-rolling-valley.json) |
 | Rolling Voltorb | 70084 | [70084-rolling-voltorb.json](./70084-rolling-voltorb.json) |
 | Rolling Wheels | 308993 | [308993-rolling-wheels.json](./308993-rolling-wheels.json) |
