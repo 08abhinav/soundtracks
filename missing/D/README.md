@@ -12965,6 +12965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke 2070 | 308459 | [308459-duke-2070.json](./308459-duke-2070.json) |
 | Duke 3:16 | 308330 | [308330-duke-3-16.json](./308330-duke-3-16.json) |
 | Duke 6:8 | 308331 | [308331-duke-6-8.json](./308331-duke-6-8.json) |
+| Duke Burger | 253771 | [253771-duke-burger.json](./253771-duke-burger.json) |
 | Duke Craft | 308455 | [308455-duke-craft.json](./308455-duke-craft.json) |
 | Duke Dashington Remastered | 96565 | [96565-duke-dashington-remastered.json](./96565-duke-dashington-remastered.json) |
 | Duke Forces | 291977 | [291977-duke-forces.json](./291977-duke-forces.json) |
