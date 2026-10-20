@@ -4070,6 +4070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion Machine | 110597 | [110597-invasion-machine.json](./110597-invasion-machine.json) |
 | Invasion of the Alien Blobs! | 85624 | [85624-invasion-of-the-alien-blobs.json](./85624-invasion-of-the-alien-blobs.json) |
 | Invasion of The Halloween Fiends | 318436 | [318436-invasion-of-the-halloween-fiends.json](./318436-invasion-of-the-halloween-fiends.json) |
+| Invasion of the Hooks | 245704 | [245704-invasion-of-the-hooks.json](./245704-invasion-of-the-hooks.json) |
 | Invasion of the Mutant Space Bats of Doom | 47072 | [47072-invasion-of-the-mutant-space-bats-of-doom.json](./47072-invasion-of-the-mutant-space-bats-of-doom.json) |
 | Invasion of the Space Aliens... | 71178 | [71178-invasion-of-the-space-aliens.json](./71178-invasion-of-the-space-aliens.json) |
 | Invasion of the Zombie Monsters | 197857 | [197857-invasion-of-the-zombie-monsters.json](./197857-invasion-of-the-zombie-monsters.json) |
