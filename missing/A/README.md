@@ -5739,6 +5739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alter Ego Complex | 174307 | [174307-alter-ego-complex.json](./174307-alter-ego-complex.json) |
 | Alter Ego S | 316133 | [316133-alter-ego-s.json](./316133-alter-ego-s.json) |
 | Alter Ego: DreamWalker | 63535 | [63535-alter-ego-dreamwalker.json](./63535-alter-ego-dreamwalker.json) |
+| Alter Evo | 236108 | [236108-alter-evo.json](./236108-alter-evo.json) |
 | Alter Psycho | 346740 | [346740-alter-psycho.json](./346740-alter-psycho.json) |
 | Alter World | 35588 | [35588-alter-world.json](./35588-alter-world.json) |
 | Alteratio | 374986 | [374986-alteratio.json](./374986-alteratio.json) |
@@ -9702,6 +9703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arclands | 156147 | [156147-arclands.json](./156147-arclands.json) |
 | Arclight Cascade | 34722 | [34722-arclight-cascade.json](./34722-arclight-cascade.json) |
 | Arclight City | 319293 | [319293-arclight-city.json](./319293-arclight-city.json) |
+| Arclight of City | 236135 | [236135-arclight-of-city.json](./236135-arclight-of-city.json) |
 | Arco | 263903 | [263903-arco.json](./263903-arco.json) |
 | Arcobaleno! | 59394 | [59394-arcobaleno.json](./59394-arcobaleno.json) |
 | Arcostate | 412355 | [412355-arcostate.json](./412355-arcostate.json) |
