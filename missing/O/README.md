@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oblivious Garden: Carmina Burana - Oblivious Garden: White Day | 171914 | [171914-oblivious-garden-carmina-burana-oblivious-garden-white-day.json](./171914-oblivious-garden-carmina-burana-oblivious-garden-white-day.json) |
 | Oblivistar | 264674 | [264674-oblivistar.json](./264674-oblivistar.json) |
 | Oblivium | 375318 | [375318-oblivium.json](./375318-oblivium.json) |
+| Obliviverse: Idle Adventures | 216675 | [216675-obliviverse-idle-adventures.json](./216675-obliviverse-idle-adventures.json) |
 | Obludia | 17657 | [17657-obludia.json](./17657-obludia.json) |
 | Obnulenie | 363905 | [363905-obnulenie.json](./363905-obnulenie.json) |
 | Obocchama Kun | 42040 | [42040-obocchama-kun.json](./42040-obocchama-kun.json) |
@@ -1188,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olteus II | 266890 | [266890-olteus-ii.json](./266890-olteus-ii.json) |
 | Olympia Rising | 17311 | [17311-olympia-rising.json](./17311-olympia-rising.json) |
 | Olympia: Festival of the Gods | 341504 | [341504-olympia-festival-of-the-gods.json](./341504-olympia-festival-of-the-gods.json) |
+| Olympian Knights | 216653 | [216653-olympian-knights.json](./216653-olympian-knights.json) |
 | Olympian Wars | 235610 | [235610-olympian-wars.json](./235610-olympian-wars.json) |
 | Olympians: Darius | 411128 | [411128-olympians-darius.json](./411128-olympians-darius.json) |
 | Olympic 2024 Journey | 315925 | [315925-olympic-2024-journey.json](./315925-olympic-2024-journey.json) |
