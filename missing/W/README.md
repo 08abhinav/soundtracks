@@ -2294,6 +2294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Web Spice | 88230 | [88230-web-spice.json](./88230-web-spice.json) |
 | Web Spice Purple World | 128020 | [128020-web-spice-purple-world.json](./128020-web-spice-purple-world.json) |
 | Web Sudoku | 264460 | [264460-web-sudoku.json](./264460-web-sudoku.json) |
+| Web Swing Hero | 223891 | [223891-web-swing-hero.json](./223891-web-swing-hero.json) |
 | Webbed | 139458 | [139458-webbed.json](./139458-webbed.json) |
 | WebbVR: The James Webb Space Telescope Virtual Experience | 111631 | [111631-webbvr-the-james-webb-space-telescope-virtual-experience.json](./111631-webbvr-the-james-webb-space-telescope-virtual-experience.json) |
 | Webcam Love | 338387 | [338387-webcam-love.json](./338387-webcam-love.json) |
@@ -3438,6 +3439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers of Wings Jigsaw Puzzles: Expansion Pack 2 | 357964 | [357964-whispers-of-wings-jigsaw-puzzles-expansion-pack-2.json](./357964-whispers-of-wings-jigsaw-puzzles-expansion-pack-2.json) |
 | Whispers of Wings Jigsaw Puzzles: Expansion Pack 3 | 357965 | [357965-whispers-of-wings-jigsaw-puzzles-expansion-pack-3.json](./357965-whispers-of-wings-jigsaw-puzzles-expansion-pack-3.json) |
 | Whispers of Wings Jigsaw Puzzles: Expansion Pack 4 | 357966 | [357966-whispers-of-wings-jigsaw-puzzles-expansion-pack-4.json](./357966-whispers-of-wings-jigsaw-puzzles-expansion-pack-4.json) |
+| Whispers: Interactive Stories | 223892 | [223892-whispers-interactive-stories.json](./223892-whispers-interactive-stories.json) |
 | Whispers: Last Hope | 29720 | [29720-whispers-last-hope.json](./29720-whispers-last-hope.json) |
 | Whisperstring | 329970 | [329970-whisperstring.json](./329970-whisperstring.json) |
 | Whisperwind | 150284 | [150284-whisperwind.json](./150284-whisperwind.json) |
@@ -4738,6 +4740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch & Hero | 21924 | [21924-witch-and-hero.json](./21924-witch-and-hero.json) |
 | Witch & Hero 2 | 21925 | [21925-witch-and-hero-2.json](./21925-witch-and-hero-2.json) |
 | Witch Amelia | 219670 | [219670-witch-amelia.json](./219670-witch-amelia.json) |
+| Witch Arcana | 223893 | [223893-witch-arcana.json](./223893-witch-arcana.json) |
 | Witch Blood | 107831 | [107831-witch-blood.json](./107831-witch-blood.json) |
 | Witch Challenge | 294394 | [294394-witch-challenge.json](./294394-witch-challenge.json) |
 | Witch College | 120949 | [120949-witch-college.json](./120949-witch-college.json) |
@@ -5275,6 +5278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolflord - Online Werewolf | 67938 | [67938-wolflord-online-werewolf.json](./67938-wolflord-online-werewolf.json) |
 | Wolfman | 320547 | [320547-wolfman.json](./320547-wolfman.json) |
 | Wolfman | 54716 | [54716-wolfman.json](./54716-wolfman.json) |
+| Wolfoo: Kindergarten, Preschool | 223894 | [223894-wolfoo-kindergarten-preschool.json](./223894-wolfoo-kindergarten-preschool.json) |
 | Wolfpack | 100177 | [100177-wolfpack.json](./100177-wolfpack.json) |
 | WolfPlay | 144817 | [144817-wolfplay.json](./144817-wolfplay.json) |
 | WolfQuest: Anniversary Edition - Hellroaring Mountain | 296723 | [296723-wolfquest-anniversary-edition-hellroaring-mountain.json](./296723-wolfquest-anniversary-edition-hellroaring-mountain.json) |
