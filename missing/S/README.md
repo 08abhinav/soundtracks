@@ -9408,7 +9408,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Sports Football Manager | 94003 | [94003-sky-sports-football-manager.json](./94003-sky-sports-football-manager.json) |
 | Sky Sports Football Quiz | 70026 | [70026-sky-sports-football-quiz.json](./70026-sky-sports-football-quiz.json) |
 | Sky Squadron | 139477 | [139477-sky-squadron.json](./139477-sky-squadron.json) |
+| Sky Strikers VR | 240645 | [240645-sky-strikers-vr.json](./240645-sky-strikers-vr.json) |
 | Sky Surfing | 233427 | [233427-sky-surfing.json](./233427-sky-surfing.json) |
+| Sky Survivors | 240664 | [240664-sky-survivors.json](./240664-sky-survivors.json) |
 | Sky Symphony | 242583 | [242583-sky-symphony.json](./242583-sky-symphony.json) |
 | Sky Target | 25173 | [25173-sky-target.json](./25173-sky-target.json) |
 | Sky Taxi 2: Storm 2012 | 54368 | [54368-sky-taxi-2-storm-2012.json](./54368-sky-taxi-2-storm-2012.json) |
@@ -14394,6 +14396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Dudes vs Alien Dudes | 223389 | [223389-space-dudes-vs-alien-dudes.json](./223389-space-dudes-vs-alien-dudes.json) |
 | Space Duel | 18405 | [18405-space-duel.json](./18405-space-duel.json) |
 | Space Duet | 130720 | [130720-space-duet.json](./130720-space-duet.json) |
+| Space Dust | 240673 | [240673-space-dust.json](./240673-space-dust.json) |
 | Space Eater Force | 182919 | [182919-space-eater-force.json](./182919-space-eater-force.json) |
 | Space Egg Shooter | 199482 | [199482-space-egg-shooter.json](./199482-space-egg-shooter.json) |
 | Space electrician | 126668 | [126668-space-electrician.json](./126668-space-electrician.json) |
@@ -16419,6 +16422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiritle | 151731 | [151731-spiritle.json](./151731-spiritle.json) |
 | Spiritless Ltd. | 247883 | [247883-spiritless-ltd.json](./247883-spiritless-ltd.json) |
 | Spiritlink Tactics | 191737 | [191737-spiritlink-tactics.json](./191737-spiritlink-tactics.json) |
+| Spiritoké | 240653 | [240653-spiritoke.json](./240653-spiritoke.json) |
 | Spirits | 239573 | [239573-spirits.json](./239573-spirits.json) |
 | Spirits & Alice | 358502 | [358502-spirits-and-alice.json](./358502-spirits-and-alice.json) |
 | Spirits & Spells | 4165 | [4165-spirits-and-spells.json](./4165-spirits-and-spells.json) |
@@ -19754,6 +19758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Step Into the Dark | 400365 | [400365-step-into-the-dark.json](./400365-step-into-the-dark.json) |
 | Step Journey | 215711 | [215711-step-journey.json](./215711-step-journey.json) |
 | Step Jun: Koi no Dai Pinch | 385575 | [385575-step-jun-koi-no-dai-pinch.json](./385575-step-jun-koi-no-dai-pinch.json) |
+| Step Quest | 240671 | [240671-step-quest.json](./240671-step-quest.json) |
 | Step Right Up: Adventure Isle | 310654 | [310654-step-right-up-adventure-isle.json](./310654-step-right-up-adventure-isle.json) |
 | Step Theater | 395007 | [395007-step-theater.json](./395007-step-theater.json) |
 | Step Up! | 84902 | [84902-step-up.json](./84902-step-up.json) |
@@ -20353,6 +20358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormbringer | 13036 | [13036-stormbringer.json](./13036-stormbringer.json) |
 | Stormbroken | 363920 | [363920-stormbroken.json](./363920-stormbroken.json) |
 | Stormdivers | 97225 | [97225-stormdivers.json](./97225-stormdivers.json) |
+| StormEdge | 240652 | [240652-stormedge.json](./240652-stormedge.json) |
 | StormEdge: Wind of Change | 244691 | [244691-stormedge-wind-of-change.json](./244691-stormedge-wind-of-change.json) |
 | Stormfall: Age of War | 21677 | [21677-stormfall-age-of-war.json](./21677-stormfall-age-of-war.json) |
 | Stormfall: Saga of Survival | 105787 | [105787-stormfall-saga-of-survival.json](./105787-stormfall-saga-of-survival.json) |
