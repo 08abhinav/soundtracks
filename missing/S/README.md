@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.T.A.R.V.E. | 410263 | [410263-s-t-a-r-v-e.json](./410263-s-t-a-r-v-e.json) |
 | S.T.A.R.W.I.E.L.D. | 303710 | [303710-s-t-a-r-w-i-e-l-d.json](./303710-s-t-a-r-w-i-e-l-d.json) |
 | S.T.G: Strike Gunner | 39692 | [39692-s-t-g-strike-gunner.json](./39692-s-t-g-strike-gunner.json) |
+| S.T.O.R.M. | 207113 | [207113-s-t-o-r-m.json](./207113-s-t-o-r-m.json) |
 | S.T.R.E.T.C.H. | 100566 | [100566-s-t-r-e-t-c-h.json](./100566-s-t-r-e-t-c-h.json) |
 | S.T.U.N. Runner | 12368 | [12368-s-t-u-n-runner.json](./12368-s-t-u-n-runner.json) |
 | S.U.A.V.E - Sport-Utility Assault Vehicle Extreme! | 60908 | [60908-s-u-a-v-e-sport-utility-assault-vehicle-extreme.json](./60908-s-u-a-v-e-sport-utility-assault-vehicle-extreme.json) |
@@ -12925,6 +12926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic and the Black Knight | 5166 | [5166-sonic-and-the-black-knight.json](./5166-sonic-and-the-black-knight.json) |
 | Sonic and the Black Knight HD | 336365 | [336365-sonic-and-the-black-knight-hd.json](./336365-sonic-and-the-black-knight-hd.json) |
 | Sonic and the Dragon's Path | 334684 | [334684-sonic-and-the-dragons-path.json](./334684-sonic-and-the-dragons-path.json) |
+| Sonic and the Fallen Star | 207176 | [207176-sonic-and-the-fallen-star.json](./207176-sonic-and-the-fallen-star.json) |
 | Sonic and the Mayhem Master | 321076 | [321076-sonic-and-the-mayhem-master.json](./321076-sonic-and-the-mayhem-master.json) |
 | Sonic and the Moon Faucility | 363153 | [363153-sonic-and-the-moon-faucility.json](./363153-sonic-and-the-moon-faucility.json) |
 | Sonic and the Secret Rings | 5167 | [5167-sonic-and-the-secret-rings.json](./5167-sonic-and-the-secret-rings.json) |
@@ -14599,6 +14601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Explore VR | 318276 | [318276-space-explore-vr.json](./318276-space-explore-vr.json) |
 | Space Explorer Iyo!! | 180513 | [180513-space-explorer-iyo.json](./180513-space-explorer-iyo.json) |
 | Space Explorers: Lunar Mission | 214477 | [214477-space-explorers-lunar-mission.json](./214477-space-explorers-lunar-mission.json) |
+| Space Explorers: Red Planet | 207117 | [207117-space-explorers-red-planet.json](./207117-space-explorers-red-planet.json) |
 | Space Explorers: Reload | 105250 | [105250-space-explorers-reload.json](./105250-space-explorers-reload.json) |
 | Space Extra | 384161 | [384161-space-extra.json](./384161-space-extra.json) |
 | Space Extractor: Galactic Alien Insect Control Invasion | 284492 | [284492-space-extractor-galactic-alien-insect-control-invasion.json](./284492-space-extractor-galactic-alien-insect-control-invasion.json) |
@@ -20714,6 +20717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stowizm | 184103 | [184103-stowizm.json](./184103-stowizm.json) |
 | Stozle: Solve the Mystery | 284563 | [284563-stozle-solve-the-mystery.json](./284563-stozle-solve-the-mystery.json) |
 | Stradale Racing Simulator | 175380 | [175380-stradale-racing-simulator.json](./175380-stradale-racing-simulator.json) |
+| Stradiwackius: The Counting Concert | 207114 | [207114-stradiwackius-the-counting-concert.json](./207114-stradiwackius-the-counting-concert.json) |
 | Strafest | 397854 | [397854-strafest.json](./397854-strafest.json) |
 | Straftat | 253558 | [253558-straftat.json](./253558-straftat.json) |
 | Strahl | 4336 | [4336-strahl.json](./4336-strahl.json) |
@@ -20818,6 +20822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranger of Paradise: Final Fantasy Origin - Collector's Edition | 201028 | [201028-stranger-of-paradise-final-fantasy-origin-collectors-edition.json](./201028-stranger-of-paradise-final-fantasy-origin-collectors-edition.json) |
 | Stranger of Paradise: Final Fantasy Origin - Different Future | 227675 | [227675-stranger-of-paradise-final-fantasy-origin-different-future.json](./227675-stranger-of-paradise-final-fantasy-origin-different-future.json) |
 | Stranger of Paradise: Final Fantasy Origin - Digital Deluxe Edition | 173775 | [173775-stranger-of-paradise-final-fantasy-origin-digital-deluxe-edition.json](./173775-stranger-of-paradise-final-fantasy-origin-digital-deluxe-edition.json) |
+| Stranger of Paradise: Final Fantasy Origin - Trials of the Dragon King | 207128 | [207128-stranger-of-paradise-final-fantasy-origin-trials-of-the-dragon-king.json](./207128-stranger-of-paradise-final-fantasy-origin-trials-of-the-dragon-king.json) |
 | Stranger of Paradise: Final Fantasy Origin - Wanderer of the Rift | 217790 | [217790-stranger-of-paradise-final-fantasy-origin-wanderer-of-the-rift.json](./217790-stranger-of-paradise-final-fantasy-origin-wanderer-of-the-rift.json) |
 | Stranger of Sword City 2 | 19801 | [19801-stranger-of-sword-city-2.json](./19801-stranger-of-sword-city-2.json) |
 | Stranger of Sword City: Limited Edition | 42681 | [42681-stranger-of-sword-city-limited-edition.json](./42681-stranger-of-sword-city-limited-edition.json) |
@@ -22976,6 +22981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Alpaca Bros. | 114336 | [114336-super-alpaca-bros.json](./114336-super-alpaca-bros.json) |
 | Super Among Us 64 DS | 270379 | [270379-super-among-us-64-ds.json](./270379-super-among-us-64-ds.json) |
 | Super Ancient Keys | 321450 | [321450-super-ancient-keys.json](./321450-super-ancient-keys.json) |
+| Super Aneurysm | 207120 | [207120-super-aneurysm.json](./207120-super-aneurysm.json) |
 | Super Angling | 126629 | [126629-super-angling.json](./126629-super-angling.json) |
 | Super Angry Birds | 163212 | [163212-super-angry-birds.json](./163212-super-angry-birds.json) |
 | Super Animal Royale: Season 0 | 204696 | [204696-super-animal-royale-season-0.json](./204696-super-animal-royale-season-0.json) |
@@ -25392,6 +25398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superlunary: Episode 1.0 | 136873 | [136873-superlunary-episode-1-0.json](./136873-superlunary-episode-1-0.json) |
 | Superman | 131546 | [131546-superman.json](./131546-superman.json) |
 | Superman | 18711 | [18711-superman.json](./18711-superman.json) |
+| Superman | 207162 | [207162-superman.json](./207162-superman.json) |
 | Superman | 361718 | [361718-superman.json](./361718-superman.json) |
 | Superman | 68440 | [68440-superman.json](./68440-superman.json) |
 | Superman in Supervillain Showdown | 220123 | [220123-superman-in-supervillain-showdown.json](./220123-superman-in-supervillain-showdown.json) |
