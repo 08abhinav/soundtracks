@@ -1962,7 +1962,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elixir of Life | 151098 | [151098-elixir-of-life.json](./151098-elixir-of-life.json) |
 | Elixirs | 274561 | [274561-elixirs.json](./274561-elixirs.json) |
 | Eliza | 345129 | [345129-eliza.json](./345129-eliza.json) |
-| Eliza | 92919 | [92919-eliza.json](./92919-eliza.json) |
 | Elizabeth | 130081 | [130081-elizabeth.json](./130081-elizabeth.json) |
 | Elizord's Tale | 250478 | [250478-elizords-tale.json](./250478-elizords-tale.json) |
 | Elk Attack | 282714 | [282714-elk-attack.json](./282714-elk-attack.json) |
