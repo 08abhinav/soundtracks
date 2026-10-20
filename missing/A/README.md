@@ -7643,6 +7643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anjelo's Province | 265702 | [265702-anjelos-province.json](./265702-anjelos-province.json) |
 | Anjos do Duelo | 393109 | [393109-anjos-do-duelo.json](./393109-anjos-do-duelo.json) |
 | Anka | 22122 | [22122-anka.json](./22122-anka.json) |
+| Ankabar | 228878 | [228878-ankabar.json](./228878-ankabar.json) |
 | Ankewill | 235783 | [235783-ankewill.json](./235783-ankewill.json) |
 | Ankh | 13803 | [13803-ankh.json](./13803-ankh.json) |
 | Ankh 2: Heart of Osiris | 15785 | [15785-ankh-2-heart-of-osiris.json](./15785-ankh-2-heart-of-osiris.json) |
@@ -12406,6 +12407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Heart: Ultimate Edition | 396565 | [396565-atomic-heart-ultimate-edition.json](./396565-atomic-heart-ultimate-edition.json) |
 | Atomic Heist | 90091 | [90091-atomic-heist.json](./90091-atomic-heist.json) |
 | Atomic Owl | 283949 | [283949-atomic-owl.json](./283949-atomic-owl.json) |
+| Atomic Picnic | 228902 | [228902-atomic-picnic.json](./228902-atomic-picnic.json) |
 | Atomic Point | 39619 | [39619-atomic-point.json](./39619-atomic-point.json) |
 | Atomic Protector | 15607 | [15607-atomic-protector.json](./15607-atomic-protector.json) |
 | Atomic Punk | 7760 | [7760-atomic-punk.json](./7760-atomic-punk.json) |
@@ -12788,6 +12790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Austin Powers: Operation Trivia | 69746 | [69746-austin-powers-operation-trivia.json](./69746-austin-powers-operation-trivia.json) |
 | Austin Powers: Welcome to My Underground Lair! | 18385 | [18385-austin-powers-welcome-to-my-underground-lair.json](./18385-austin-powers-welcome-to-my-underground-lair.json) |
 | Austin Powers: Why Make Millions...? | 295028 | [295028-austin-powers-why-make-millions.json](./295028-austin-powers-why-make-millions.json) |
+| Austin Powers: Yeah, Baby, Yeah! | 228914 | [228914-austin-powers-yeah-baby-yeah.json](./228914-austin-powers-yeah-baby-yeah.json) |
 | Australia Did It | 365278 | [365278-australia-did-it.json](./365278-australia-did-it.json) |
 | Australian Cricket Captain | 74080 | [74080-australian-cricket-captain.json](./74080-australian-cricket-captain.json) |
 | Australian Football Coach 2019 | 119883 | [119883-australian-football-coach-2019.json](./119883-australian-football-coach-2019.json) |
