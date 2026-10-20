@@ -6441,6 +6441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among Us: Ejected Edition | 155092 | [155092-among-us-ejected-edition.json](./155092-among-us-ejected-edition.json) |
 | Among Us: Impostor Edition | 155094 | [155094-among-us-impostor-edition.json](./155094-among-us-impostor-edition.json) |
 | Among Us: The Fungle | 266689 | [266689-among-us-the-fungle.json](./266689-among-us-the-fungle.json) |
+| Among Us: The Tragedy of Ryohyukan | 239525 | [239525-among-us-the-tragedy-of-ryohyukan.json](./239525-among-us-the-tragedy-of-ryohyukan.json) |
 | Among Waifus 18+ | 188409 | [188409-among-waifus-18.json](./188409-among-waifus-18.json) |
 | Among Walls | 196674 | [196674-among-walls.json](./196674-among-walls.json) |
 | Among Water: Meditation Idle | 256757 | [256757-among-water-meditation-idle.json](./256757-among-water-meditation-idle.json) |
@@ -11542,6 +11543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids | 178966 | [178966-asteroids.json](./178966-asteroids.json) |
 | Asteroids | 187250 | [187250-asteroids.json](./187250-asteroids.json) |
 | Asteroids | 232695 | [232695-asteroids.json](./232695-asteroids.json) |
+| Asteroids | 239506 | [239506-asteroids.json](./239506-asteroids.json) |
 | Asteroids | 319567 | [319567-asteroids.json](./319567-asteroids.json) |
 | Asteroids | 319568 | [319568-asteroids.json](./319568-asteroids.json) |
 | Asteroids | 376807 | [376807-asteroids.json](./376807-asteroids.json) |
@@ -12151,6 +12153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Ryza 3: Additional Area - Ashra-am Baird Outlying Areas | 254374 | [254374-atelier-ryza-3-additional-area-ashra-am-baird-outlying-areas.json](./254374-atelier-ryza-3-additional-area-ashra-am-baird-outlying-areas.json) |
 | Atelier Ryza 3: Alchemist of the End & the Secret Key - Additional Area "Rosca Island" | 251683 | [251683-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-additional-area-rosca-island.json](./251683-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-additional-area-rosca-island.json) |
 | Atelier Ryza 3: Alchemist of the End & the Secret Key - Premium Box | 381105 | [381105-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-premium-box.json](./381105-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-premium-box.json) |
+| Atelier Ryza 3: Alchemist of the End & the Secret Key - Ultimate Edition | 239482 | [239482-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-ultimate-edition.json](./239482-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-ultimate-edition.json) |
 | Atelier Ryza 3: Alchemist of the End & the Secret Key DX | 359427 | [359427-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-dx.json](./359427-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-dx.json) |
 | Atelier Ryza 3: Endless Summer Splash! Costume Set | 242543 | [242543-atelier-ryza-3-endless-summer-splash-costume-set.json](./242543-atelier-ryza-3-endless-summer-splash-costume-set.json) |
 | Atelier Ryza 3: Summer Look Costume Set | 242544 | [242544-atelier-ryza-3-summer-look-costume-set.json](./242544-atelier-ryza-3-summer-look-costume-set.json) |
