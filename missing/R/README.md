@@ -3264,6 +3264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reels of the Damned | 411589 | [411589-reels-of-the-damned.json](./411589-reels-of-the-damned.json) |
 | Reenchant | 365732 | [365732-reenchant.json](./365732-reenchant.json) |
 | Reese's Pac-Man | 172487 | [172487-reeses-pac-man.json](./172487-reeses-pac-man.json) |
+| Reese’s Puffs x Ambush Breakfastverse | 236682 | [236682-reese-s-puffs-x-ambush-breakfastverse.json](./236682-reese-s-puffs-x-ambush-breakfastverse.json) |
 | ReEstate | 197409 | [197409-reestate.json](./197409-reestate.json) |
 | Reeve | 223463 | [223463-reeve.json](./223463-reeve.json) |
 | ReEvolve | 103178 | [103178-reevolve.json](./103178-reevolve.json) |
