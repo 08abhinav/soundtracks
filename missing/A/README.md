@@ -8472,7 +8472,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aperture Desk Job | 191897 | [191897-aperture-desk-job.json](./191897-aperture-desk-job.json) |
 | Aperture Ireland | 284363 | [284363-aperture-ireland.json](./284363-aperture-ireland.json) |
 | Aperture Narbacular | 341038 | [341038-aperture-narbacular.json](./341038-aperture-narbacular.json) |
-| Aperture Tag: The Paint Gun Testing Initiative | 21897 | [21897-aperture-tag-the-paint-gun-testing-initiative.json](./21897-aperture-tag-the-paint-gun-testing-initiative.json) |
 | Aperture: Salt Mines | 284366 | [284366-aperture-salt-mines.json](./284366-aperture-salt-mines.json) |
 | Apes At Sea | 254022 | [254022-apes-at-sea.json](./254022-apes-at-sea.json) |
 | Apes vs. Zombies | 314596 | [314596-apes-vs-zombies.json](./314596-apes-vs-zombies.json) |
