@@ -386,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Flux | 34608 | [34608-quantum-flux.json](./34608-quantum-flux.json) |
 | Quantum Galaxy | 249659 | [249659-quantum-galaxy.json](./249659-quantum-galaxy.json) |
 | Quantum Gate | 73723 | [73723-quantum-gate.json](./73723-quantum-gate.json) |
+| Quantum Gravity: Campaign | 235631 | [235631-quantum-gravity-campaign.json](./235631-quantum-gravity-campaign.json) |
 | Quantum Hell | 413862 | [413862-quantum-hell.json](./413862-quantum-hell.json) |
 | Quantum Joe | 326098 | [326098-quantum-joe.json](./326098-quantum-joe.json) |
 | Quantum Lake | 26604 | [26604-quantum-lake.json](./26604-quantum-lake.json) |
@@ -421,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Witch | 323165 | [323165-quantum-witch.json](./323165-quantum-witch.json) |
 | Quantum Wizard | 44182 | [44182-quantum-wizard.json](./44182-quantum-wizard.json) |
 | Quantum: Recharged | 257945 | [257945-quantum-recharged.json](./257945-quantum-recharged.json) |
+| Quantum:Fantasy | 235590 | [235590-quantum-fantasy.json](./235590-quantum-fantasy.json) |
 | QuantumPulse 2A | 333349 | [333349-quantumpulse-2a.json](./333349-quantumpulse-2a.json) |
 | QuantumVR | 394625 | [394625-quantumvr.json](./394625-quantumvr.json) |
 | Quar: Battle for Gate 18 | 33649 | [33649-quar-battle-for-gate-18.json](./33649-quar-battle-for-gate-18.json) |
