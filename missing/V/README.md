@@ -768,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vazial Saga XX | 166633 | [166633-vazial-saga-xx.json](./166633-vazial-saga-xx.json) |
 | VB Mario Kart | 165164 | [165164-vb-mario-kart.json](./165164-vb-mario-kart.json) |
 | VB Mario Land | 175949 | [175949-vb-mario-land.json](./175949-vb-mario-land.json) |
+| VB Racing | 223851 | [223851-vb-racing.json](./223851-vb-racing.json) |
 | VBS1 | 94962 | [94962-vbs1.json](./94962-vbs1.json) |
 | VBS2 | 94963 | [94963-vbs2.json](./94963-vbs2.json) |
 | VBS3 | 60994 | [60994-vbs3.json](./60994-vbs3.json) |
@@ -1069,6 +1070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venom Vendetta | 296043 | [296043-venom-vendetta.json](./296043-venom-vendetta.json) |
 | Venomous | 338573 | [338573-venomous.json](./338573-venomous.json) |
 | Venova Adventure | 200002 | [200002-venova-adventure.json](./200002-venova-adventure.json) |
+| Vent Match: Tile Zen World | 223890 | [223890-vent-match-tile-zen-world.json](./223890-vent-match-tile-zen-world.json) |
 | Vent Vipers | 280106 | [280106-vent-vipers.json](./280106-vent-vipers.json) |
 | Ventilate | 337305 | [337305-ventilate.json](./337305-ventilate.json) |
 | Ventilator | 57474 | [57474-ventilator.json](./57474-ventilator.json) |
