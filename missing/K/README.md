@@ -3042,6 +3042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitten's Head Football: Complete Edition | 268565 | [268565-kittens-head-football-complete-edition.json](./268565-kittens-head-football-complete-edition.json) |
 | Kitten's Head Football: Halloween | 223560 | [223560-kittens-head-football-halloween.json](./223560-kittens-head-football-halloween.json) |
 | Kitten's Head Football: Spooky Edition | 221970 | [221970-kittens-head-football-spooky-edition.json](./221970-kittens-head-football-spooky-edition.json) |
+| Kitten's Head Football: Winter Edition | 233905 | [233905-kittens-head-football-winter-edition.json](./233905-kittens-head-football-winter-edition.json) |
 | Kitten's Wardrobe | 266084 | [266084-kittens-wardrobe.json](./266084-kittens-wardrobe.json) |
 | Kittenbay Cats - A Hidden Object Game | 277750 | [277750-kittenbay-cats-a-hidden-object-game.json](./277750-kittenbay-cats-a-hidden-object-game.json) |
 | Kittengumi Short: Chapter 0 | 376268 | [376268-kittengumi-short-chapter-0.json](./376268-kittengumi-short-chapter-0.json) |
@@ -3832,6 +3833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koma | 266883 | [266883-koma.json](./266883-koma.json) |
 | Komadori Inn | 296649 | [296649-komadori-inn.json](./296649-komadori-inn.json) |
 | Komako | 165051 | [165051-komako.json](./165051-komako.json) |
+| Komatta Shain-chan Kaisha Aru Aru Yutori Satori Z na Illustration Quiz | 233936 | [233936-komatta-shain-chan-kaisha-aru-aru-yutori-satori-z-na-illustration-quiz.json](./233936-komatta-shain-chan-kaisha-aru-aru-yutori-satori-z-na-illustration-quiz.json) |
 | Komayama Kiri ha Zenbu Yari ni Iku | 404250 | [404250-komayama-kiri-ha-zenbu-yari-ni-iku.json](./404250-komayama-kiri-ha-zenbu-yari-ni-iku.json) |
 | Kombat Fighters: King of the Kards | 390567 | [390567-kombat-fighters-king-of-the-kards.json](./390567-kombat-fighters-king-of-the-kards.json) |
 | Kombat Hamster | 309880 | [309880-kombat-hamster.json](./309880-kombat-hamster.json) |
