@@ -637,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Bots Rises | 27758 | [27758-bad-bots-rises.json](./27758-bad-bots-rises.json) |
 | Bad Boy Brother | 376758 | [376758-bad-boy-brother.json](./376758-bad-boy-brother.json) |
 | Bad Boy's Bad Day | 271664 | [271664-bad-boys-bad-day.json](./271664-bad-boys-bad-day.json) |
+| Bad Boys Do It Better! | 238905 | [238905-bad-boys-do-it-better.json](./238905-bad-boys-do-it-better.json) |
 | Bad Business | 118304 | [118304-bad-business.json](./118304-bad-business.json) |
 | Bad Bytes | 391826 | [391826-bad-bytes.json](./391826-bad-bytes.json) |
 | Bad Capybara | 410831 | [410831-bad-capybara.json](./410831-bad-capybara.json) |
@@ -6981,6 +6982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack Fever | 89589 | [89589-blackjack-fever.json](./89589-blackjack-fever.json) |
 | Blackjack In Space | 88200 | [88200-blackjack-in-space.json](./88200-blackjack-in-space.json) |
 | Blackjack Master | 86689 | [86689-blackjack-master.json](./86689-blackjack-master.json) |
+| BlackJack Math Cross Numbers | 238877 | [238877-blackjack-math-cross-numbers.json](./238877-blackjack-math-cross-numbers.json) |
 | Blackjack Player | 88437 | [88437-blackjack-player.json](./88437-blackjack-player.json) |
 | Blackjack Roulette | 380530 | [380530-blackjack-roulette.json](./380530-blackjack-roulette.json) |
 | Blackjack Roulette | 390217 | [390217-blackjack-roulette.json](./390217-blackjack-roulette.json) |
@@ -13548,6 +13550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ButcherBoy | 95605 | [95605-butcherboy.json](./95605-butcherboy.json) |
 | Butcherman | 388746 | [388746-butcherman.json](./388746-butcherman.json) |
 | Butchers Don't Surf! | 243228 | [243228-butchers-dont-surf.json](./243228-butchers-dont-surf.json) |
+| Butler Until Midnight | 238901 | [238901-butler-until-midnight.json](./238901-butler-until-midnight.json) |
 | Butt | 314259 | [314259-butt.json](./314259-butt.json) |
 | Butt Gunners | 392806 | [392806-butt-gunners.json](./392806-butt-gunners.json) |
 | Butt Naked & Big Guns | 158208 | [158208-butt-naked-and-big-guns.json](./158208-butt-naked-and-big-guns.json) |
