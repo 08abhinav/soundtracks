@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T22:20:48.626Z",
-  "total_soundtracks": 2349,
+  "generated_at": "2026-10-20T22:21:00.236Z",
+  "total_soundtracks": 2350,
   "games": [
     {
       "igdb_id": 7522,
@@ -15759,6 +15759,20 @@
         {
           "album_name": "Momodora III ~ Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/4IayX1GCPx1CrndGxyjgLW",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 16873,
+      "game_name": "Monochroma",
+      "game_url": "https://ostdb.net/games/monochroma",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b6c1618db9ee9901dd567209",
+      "albums": [
+        {
+          "album_name": "Monochroma (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3KQ7C2J7f6ZrF2c5G5y72k",
           "apple_music_url": "",
           "album_link_url": ""
         }
