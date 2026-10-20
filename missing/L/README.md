@@ -455,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lambo Speed: Drift X | 104515 | [104515-lambo-speed-drift-x.json](./104515-lambo-speed-drift-x.json) |
 | Lamborghini: American Challenge | 380116 | [380116-lamborghini-american-challenge.json](./380116-lamborghini-american-challenge.json) |
 | Lambs on the Road: The Beginning | 152352 | [152352-lambs-on-the-road-the-beginning.json](./152352-lambs-on-the-road-the-beginning.json) |
+| Lamecraft | 254333 | [254333-lamecraft.json](./254333-lamecraft.json) |
 | Lament of the Yuppie | 226340 | [226340-lament-of-the-yuppie.json](./226340-lament-of-the-yuppie.json) |
 | Lamentations | 318699 | [318699-lamentations.json](./318699-lamentations.json) |
 | Laments of a Platinum Rose | 384199 | [384199-laments-of-a-platinum-rose.json](./384199-laments-of-a-platinum-rose.json) |
@@ -6525,6 +6526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Option | 228598 | [228598-love-option.json](./228598-love-option.json) |
 | Love or Die | 124041 | [124041-love-or-die.json](./124041-love-or-die.json) |
 | Love or Loved | 83592 | [83592-love-or-loved.json](./83592-love-or-loved.json) |
+| Love or Passion | 254317 | [254317-love-or-passion.json](./254317-love-or-passion.json) |
 | Love Pheromone | 205609 | [205609-love-pheromone.json](./205609-love-pheromone.json) |
 | Love Potion | 272364 | [272364-love-potion.json](./272364-love-potion.json) |
 | Love Quest | 37940 | [37940-love-quest.json](./37940-love-quest.json) |
