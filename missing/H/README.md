@@ -5085,6 +5085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi Color | 228450 | [228450-hi-color.json](./228450-hi-color.json) |
 | Hi Crossword-Word Puzzle Game | 87253 | [87253-hi-crossword-word-puzzle-game.json](./87253-hi-crossword-word-puzzle-game.json) |
 | Hi Eggplant: The Birth of Sprites | 245850 | [245850-hi-eggplant-the-birth-of-sprites.json](./245850-hi-eggplant-the-birth-of-sprites.json) |
+| Hi Eggplant! | 211040 | [211040-hi-eggplant.json](./211040-hi-eggplant.json) |
 | Hi Hi Puffy AmiYumi Treasure Island | 141151 | [141151-hi-hi-puffy-amiyumi-treasure-island.json](./141151-hi-hi-puffy-amiyumi-treasure-island.json) |
 | Hi Hi Puffy AmiYumi: Kaznapped! | 2819 | [2819-hi-hi-puffy-amiyumi-kaznapped.json](./2819-hi-hi-puffy-amiyumi-kaznapped.json) |
 | Hi Hi Puffy AmiYumi: The Genie and the Amp | 2818 | [2818-hi-hi-puffy-amiyumi-the-genie-and-the-amp.json](./2818-hi-hi-puffy-amiyumi-the-genie-and-the-amp.json) |
@@ -7870,6 +7871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot and Lovely 2 | 286402 | [286402-hot-and-lovely-2.json](./286402-hot-and-lovely-2.json) |
 | Hot and Lovely 3 | 238577 | [238577-hot-and-lovely-3.json](./238577-hot-and-lovely-3.json) |
 | Hot and Lovely 4 | 170556 | [170556-hot-and-lovely-4.json](./170556-hot-and-lovely-4.json) |
+| Hot and Lovely 5 | 211053 | [211053-hot-and-lovely-5.json](./211053-hot-and-lovely-5.json) |
 | Hot And Lovely Waifu XXII | 318430 | [318430-hot-and-lovely-waifu-xxii.json](./318430-hot-and-lovely-waifu-xxii.json) |
 | Hot And Lovely XXII | 318431 | [318431-hot-and-lovely-xxii.json](./318431-hot-and-lovely-xxii.json) |
 | Hot And Lovely: Dream | 296911 | [296911-hot-and-lovely-dream.json](./296911-hot-and-lovely-dream.json) |
@@ -8357,6 +8359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Velez | 27087 | [27087-house-of-velez.json](./27087-house-of-velez.json) |
 | House of Velez: Part 2 | 171505 | [171505-house-of-velez-part-2.json](./171505-house-of-velez-part-2.json) |
 | House of Weirdos | 197214 | [197214-house-of-weirdos.json](./197214-house-of-weirdos.json) |
+| House of Witches | 211057 | [211057-house-of-witches.json](./211057-house-of-witches.json) |
 | House of Wonders: Kitty Kat Wedding | 53195 | [53195-house-of-wonders-kitty-kat-wedding.json](./53195-house-of-wonders-kitty-kat-wedding.json) |
 | House on [Redacted] Street | 352197 | [352197-house-on-redacted-street.json](./352197-house-on-redacted-street.json) |
 | House Painting: Simulator | 328513 | [328513-house-painting-simulator.json](./328513-house-painting-simulator.json) |
