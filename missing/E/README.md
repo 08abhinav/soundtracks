@@ -4007,6 +4007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Gaia: Departure | 311797 | [311797-escape-gaia-departure.json](./311797-escape-gaia-departure.json) |
 | Escape Game | 105753 | [105753-escape-game.json](./105753-escape-game.json) |
 | Escape Game - Prison Break S3 | 88417 | [88417-escape-game-prison-break-s3.json](./88417-escape-game-prison-break-s3.json) |
+| Escape game & Card search game: R01m | 213801 | [213801-escape-game-and-card-search-game-r01m.json](./213801-escape-game-and-card-search-game-r01m.json) |
 | Escape Game Cake | 122037 | [122037-escape-game-cake.json](./122037-escape-game-cake.json) |
 | Escape Game Fort Boyard | 151474 | [151474-escape-game-fort-boyard.json](./151474-escape-game-fort-boyard.json) |
 | Escape Game R00m 05 | 362201 | [362201-escape-game-r00m-05.json](./362201-escape-game-r00m-05.json) |
