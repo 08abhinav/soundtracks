@@ -1103,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanoi Puzzles: Flip Match | 159810 | [159810-hanoi-puzzles-flip-match.json](./159810-hanoi-puzzles-flip-match.json) |
 | Hanoi Puzzles: Magnetrix | 159744 | [159744-hanoi-puzzles-magnetrix.json](./159744-hanoi-puzzles-magnetrix.json) |
 | Hanoi Puzzles: Solid Match | 156520 | [156520-hanoi-puzzles-solid-match.json](./156520-hanoi-puzzles-solid-match.json) |
+| Hanoi Puzzles: Spin Match | 237188 | [237188-hanoi-puzzles-spin-match.json](./237188-hanoi-puzzles-spin-match.json) |
 | Hans | 336953 | [336953-hans.json](./336953-hans.json) |
 | Hans Christian Andersen: The Ugly Prince Duckling | 70120 | [70120-hans-christian-andersen-the-ugly-prince-duckling.json](./70120-hans-christian-andersen-the-ugly-prince-duckling.json) |
 | Hans in the Internetz | 392266 | [392266-hans-in-the-internetz.json](./392266-hans-in-the-internetz.json) |
@@ -1735,6 +1736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Hands | 125419 | [125419-harvest-hands.json](./125419-harvest-hands.json) |
 | Harvest Havoc | 276664 | [276664-harvest-havoc.json](./276664-harvest-havoc.json) |
 | Harvest Health | 236868 | [236868-harvest-health.json](./236868-harvest-health.json) |
+| Harvest Hills | 237221 | [237221-harvest-hills.json](./237221-harvest-hills.json) |
 | Harvest Hustlers | 302363 | [302363-harvest-hustlers.json](./302363-harvest-hustlers.json) |
 | Harvest Island | 133155 | [133155-harvest-island.json](./133155-harvest-island.json) |
 | Harvest Island: Beginnings | 159878 | [159878-harvest-island-beginnings.json](./159878-harvest-island-beginnings.json) |
@@ -2245,6 +2247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazardous island | 304915 | [304915-hazardous-island.json](./304915-hazardous-island.json) |
 | Hazardous Journey | 110332 | [110332-hazardous-journey.json](./110332-hazardous-journey.json) |
 | Hazardous: Ovesis | 273778 | [273778-hazardous-ovesis.json](./273778-hazardous-ovesis.json) |
+| Hazatron | 237224 | [237224-hazatron.json](./237224-hazatron.json) |
 | Haze | 7317 | [7317-haze.json](./7317-haze.json) |
 | Haze Man: The Local Hero | 327952 | [327952-haze-man-the-local-hero.json](./327952-haze-man-the-local-hero.json) |
 | Haze of Lucidity: The Fish | 390087 | [390087-haze-of-lucidity-the-fish.json](./390087-haze-of-lucidity-the-fish.json) |
@@ -5121,6 +5124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Cats in Jigsaw Puzzle: Santa's Realm | 312703 | [312703-hidden-cats-in-jigsaw-puzzle-santas-realm.json](./312703-hidden-cats-in-jigsaw-puzzle-santas-realm.json) |
 | Hidden Cats in Jigsaw Puzzle: Spooky Town | 312698 | [312698-hidden-cats-in-jigsaw-puzzle-spooky-town.json](./312698-hidden-cats-in-jigsaw-puzzle-spooky-town.json) |
 | Hidden Cats in London | 211681 | [211681-hidden-cats-in-london.json](./211681-hidden-cats-in-london.json) |
+| Hidden Cats in New York | 237236 | [237236-hidden-cats-in-new-york.json](./237236-hidden-cats-in-new-york.json) |
 | Hidden Cats in Rio de Janeiro | 350069 | [350069-hidden-cats-in-rio-de-janeiro.json](./350069-hidden-cats-in-rio-de-janeiro.json) |
 | Hidden Cats in Rome | 264699 | [264699-hidden-cats-in-rome.json](./264699-hidden-cats-in-rome.json) |
 | Hidden Cats in Santa's Realm | 279125 | [279125-hidden-cats-in-santas-realm.json](./279125-hidden-cats-in-santas-realm.json) |
@@ -6936,6 +6940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homebound | 27682 | [27682-homebound.json](./27682-homebound.json) |
 | Homebound Mariana | 302124 | [302124-homebound-mariana.json](./302124-homebound-mariana.json) |
 | Homebound: Escape Room | 391344 | [391344-homebound-escape-room.json](./391344-homebound-escape-room.json) |
+| Homebound: New Beginnings | 237214 | [237214-homebound-new-beginnings.json](./237214-homebound-new-beginnings.json) |
 | Homebrew32 | 279473 | [279473-homebrew32.json](./279473-homebrew32.json) |
 | Homecall | 310789 | [310789-homecall.json](./310789-homecall.json) |
 | Homecoming | 271314 | [271314-homecoming.json](./271314-homecoming.json) |
