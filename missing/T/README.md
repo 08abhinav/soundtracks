@@ -1824,6 +1824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap-A-Zombie | 149448 | [149448-tap-a-zombie.json](./149448-tap-a-zombie.json) |
 | Tap-Tap Adventure | 169825 | [169825-tap-tap-adventure.json](./169825-tap-tap-adventure.json) |
 | Tap-Tap Shots | 287090 | [287090-tap-tap-shots.json](./287090-tap-tap-shots.json) |
+| Tap, Click ‘n Destroy | 250179 | [250179-tap-click-n-destroy.json](./250179-tap-click-n-destroy.json) |
 | Tap! Dig! My Museum! | 197353 | [197353-tap-dig-my-museum.json](./197353-tap-dig-my-museum.json) |
 | Tap! Tap! Faraway Kingdom | 199936 | [199936-tap-tap-faraway-kingdom.json](./199936-tap-tap-faraway-kingdom.json) |
 | Tapan Kaikki 4: Bloodshed | 47108 | [47108-tapan-kaikki-4-bloodshed.json](./47108-tapan-kaikki-4-bloodshed.json) |
@@ -3390,6 +3391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Trilogy | 143771 | [143771-terra-trilogy.json](./143771-terra-trilogy.json) |
 | Terra Ventura | 154074 | [154074-terra-ventura.json](./154074-terra-ventura.json) |
 | Terra: Battle for the Outland | 145949 | [145949-terra-battle-for-the-outland.json](./145949-terra-battle-for-the-outland.json) |
+| Terra: Destino Final | 250212 | [250212-terra-destino-final.json](./250212-terra-destino-final.json) |
 | TerraBlocks | 291777 | [291777-terrablocks.json](./291777-terrablocks.json) |
 | Terracards | 258426 | [258426-terracards.json](./258426-terracards.json) |
 | Terracide | 77393 | [77393-terracide.json](./77393-terracide.json) |
@@ -14220,6 +14222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wire | 31955 | [31955-the-wire.json](./31955-the-wire.json) |
 | The Wire Loop Game VR | 32251 | [32251-the-wire-loop-game-vr.json](./32251-the-wire-loop-game-vr.json) |
 | The Wire Man | 208641 | [208641-the-wire-man.json](./208641-the-wire-man.json) |
+| The Wired Narrative Bundle | 250173 | [250173-the-wired-narrative-bundle.json](./250173-the-wired-narrative-bundle.json) |
 | The Wisbey Mystery | 29880 | [29880-the-wisbey-mystery.json](./29880-the-wisbey-mystery.json) |
 | The Wisdom and/or Madness of Crowds | 102068 | [102068-the-wisdom-and-or-madness-of-crowds.json](./102068-the-wisdom-and-or-madness-of-crowds.json) |
 | The Wish | 181937 | [181937-the-wish.json](./181937-the-wish.json) |
@@ -14328,6 +14331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wonderful 101: Remastered - The Wonderful One: After School Hero - Part 2 | 251116 | [251116-the-wonderful-101-remastered-the-wonderful-one-after-school-hero-part-2.json](./251116-the-wonderful-101-remastered-the-wonderful-one-after-school-hero-part-2.json) |
 | The Wonderful Adventures of Sip | 235803 | [235803-the-wonderful-adventures-of-sip.json](./235803-the-wonderful-adventures-of-sip.json) |
 | The Wonderful End of the World | 14905 | [14905-the-wonderful-end-of-the-world.json](./14905-the-wonderful-end-of-the-world.json) |
+| The Wonderful One: After School Hero | 250201 | [250201-the-wonderful-one-after-school-hero.json](./250201-the-wonderful-one-after-school-hero.json) |
 | The Wonders of the Animal Kingdom | 14256 | [14256-the-wonders-of-the-animal-kingdom.json](./14256-the-wonders-of-the-animal-kingdom.json) |
 | The Wondrous Wedding of Ivan the Bard | 348920 | [348920-the-wondrous-wedding-of-ivan-the-bard.json](./348920-the-wondrous-wedding-of-ivan-the-bard.json) |
 | The Wood Story | 226306 | [226306-the-wood-story.json](./226306-the-wood-story.json) |
@@ -18061,6 +18065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toad's Adventure | 48318 | [48318-toads-adventure.json](./48318-toads-adventure.json) |
 | Toad's Christmas Adventure | 214997 | [214997-toads-christmas-adventure.json](./214997-toads-christmas-adventure.json) |
 | Toad's Soul Hopper | 301024 | [301024-toads-soul-hopper.json](./301024-toads-soul-hopper.json) |
+| Toad's Treasure Quest | 250215 | [250215-toads-treasure-quest.json](./250215-toads-treasure-quest.json) |
 | Toad's Trees | 346132 | [346132-toads-trees.json](./346132-toads-trees.json) |
 | Toad's Typical Day | 322107 | [322107-toads-typical-day.json](./322107-toads-typical-day.json) |
 | Toad's World | 38306 | [38306-toads-world.json](./38306-toads-world.json) |
