@@ -5542,6 +5542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipe Master II | 108803 | [108803-pipe-master-ii.json](./108803-pipe-master-ii.json) |
 | Pipe Push Paradise | 72519 | [72519-pipe-push-paradise.json](./72519-pipe-push-paradise.json) |
 | Pipe Puzzle | 68929 | [68929-pipe-puzzle.json](./68929-pipe-puzzle.json) |
+| Pipe Race | 247326 | [247326-pipe-race.json](./247326-pipe-race.json) |
 | Pipe Skull | 185127 | [185127-pipe-skull.json](./185127-pipe-skull.json) |
 | Pipedreamz | 396705 | [396705-pipedreamz.json](./396705-pipedreamz.json) |
 | Pipejob | 30771 | [30771-pipejob.json](./30771-pipejob.json) |
@@ -6380,6 +6381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Survivors: Defense | 374632 | [374632-pixel-survivors-defense.json](./374632-pixel-survivors-defense.json) |
 | Pixel Sweepers | 259244 | [259244-pixel-sweepers.json](./259244-pixel-sweepers.json) |
 | Pixel Tactics Online | 148131 | [148131-pixel-tactics-online.json](./148131-pixel-tactics-online.json) |
+| Pixel Tank | 247319 | [247319-pixel-tank.json](./247319-pixel-tank.json) |
 | Pixel Tennis | 301077 | [301077-pixel-tennis.json](./301077-pixel-tennis.json) |
 | Pixel Texas Hold'em | 407545 | [407545-pixel-texas-holdem.json](./407545-pixel-texas-holdem.json) |
 | Pixel Theory: Leviatán | 325711 | [325711-pixel-theory-leviatan.json](./325711-pixel-theory-leviatan.json) |
@@ -6711,6 +6713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plague Universe | 246884 | [246884-plague-universe.json](./246884-plague-universe.json) |
 | Plague: London 1665 | 244733 | [244733-plague-london-1665.json](./244733-plague-london-1665.json) |
 | Plaguemon: Kado | 247371 | [247371-plaguemon-kado.json](./247371-plaguemon-kado.json) |
+| Plaguemon: Lost Diaries | 247362 | [247362-plaguemon-lost-diaries.json](./247362-plaguemon-lost-diaries.json) |
 | Plaguepunk Justice | 114516 | [114516-plaguepunk-justice.json](./114516-plaguepunk-justice.json) |
 | Plagueworld: Expansion Pack | 167316 | [167316-plagueworld-expansion-pack.json](./167316-plagueworld-expansion-pack.json) |
 | Plain Sight | 8585 | [8585-plain-sight.json](./8585-plain-sight.json) |
@@ -8362,6 +8365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Luminescent Platinum | 199621 | [199621-pokemon-luminescent-platinum.json](./199621-pokemon-luminescent-platinum.json) |
 | Pokemon Luminous Lands | 400684 | [400684-pokemon-luminous-lands.json](./400684-pokemon-luminous-lands.json) |
 | Pokémon MarioRed | 372602 | [372602-pokemon-mariored.json](./372602-pokemon-mariored.json) |
+| Pokémon Marron Merda | 247360 | [247360-pokemon-marron-merda.json](./247360-pokemon-marron-merda.json) |
 | Pokémon Masters | 119156 | [119156-pokemon-masters.json](./119156-pokemon-masters.json) |
 | Pokémon Masters EX | 144248 | [144248-pokemon-masters-ex.json](./144248-pokemon-masters-ex.json) |
 | Pokemon Masters Stadium | 367553 | [367553-pokemon-masters-stadium.json](./367553-pokemon-masters-stadium.json) |
@@ -13301,6 +13305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pushing it | 386517 | [386517-pushing-it.json](./386517-pushing-it.json) |
 | Pushing It! With Sisyphus | 298033 | [298033-pushing-it-with-sisyphus.json](./298033-pushing-it-with-sisyphus.json) |
 | Pushing the limit | 157098 | [157098-pushing-the-limit.json](./157098-pushing-the-limit.json) |
+| Pushman | 247313 | [247313-pushman.json](./247313-pushman.json) |
 | Pushmo World | 19925 | [19925-pushmo-world.json](./19925-pushmo-world.json) |
 | Pushover | 11627 | [11627-pushover.json](./11627-pushover.json) |
 | Pushover | 327781 | [327781-pushover.json](./327781-pushover.json) |
