@@ -422,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | California Surfing | 278856 | [278856-california-surfing.json](./278856-california-surfing.json) |
 | California Swingers Club: Season 1 - Sea Swap | 289850 | [289850-california-swingers-club-season-1-sea-swap.json](./289850-california-swingers-club-season-1-sea-swap.json) |
 | California Watersports | 278857 | [278857-california-watersports.json](./278857-california-watersports.json) |
+| California Waves | 252565 | [252565-california-waves.json](./252565-california-waves.json) |
 | Californication | 192403 | [192403-californication.json](./192403-californication.json) |
 | Californium | 18351 | [18351-californium.json](./18351-californium.json) |
 | Caligo | 65840 | [65840-caligo.json](./65840-caligo.json) |
@@ -5176,6 +5177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicago Enforcer | 5775 | [5775-chicago-enforcer.json](./5775-chicago-enforcer.json) |
 | Chicago Project | 291330 | [291330-chicago-project.json](./291330-chicago-project.json) |
 | Chicago's 30 | 39161 | [39161-chicagos-30.json](./39161-chicagos-30.json) |
+| Chicco App Toys Blocks | 252566 | [252566-chicco-app-toys-blocks.json](./252566-chicco-app-toys-blocks.json) |
 | Chiccoo and Life | 303729 | [303729-chiccoo-and-life.json](./303729-chiccoo-and-life.json) |
 | Chichen-Itza | 178052 | [178052-chichen-itza.json](./178052-chichen-itza.json) |
 | Chichens | 192102 | [192102-chichens.json](./192102-chichens.json) |
@@ -6726,6 +6728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Content Creator Pack: Train Stations | 149998 | [149998-cities-skylines-content-creator-pack-train-stations.json](./149998-cities-skylines-content-creator-pack-train-stations.json) |
 | Cities: Skylines - Financial Districts | 226303 | [226303-cities-skylines-financial-districts.json](./226303-cities-skylines-financial-districts.json) |
 | Cities: Skylines - Hotels & Retreats | 249189 | [249189-cities-skylines-hotels-and-retreats.json](./249189-cities-skylines-hotels-and-retreats.json) |
+| Cities: Skylines - Hotels & Retreats Bundle | 252592 | [252592-cities-skylines-hotels-and-retreats-bundle.json](./252592-cities-skylines-hotels-and-retreats-bundle.json) |
 | Cities: Skylines - Industries | 110890 | [110890-cities-skylines-industries.json](./110890-cities-skylines-industries.json) |
 | Cities: Skylines - Mayor's Edition | 114766 | [114766-cities-skylines-mayors-edition.json](./114766-cities-skylines-mayors-edition.json) |
 | Cities: Skylines - Natural Disasters | 26141 | [26141-cities-skylines-natural-disasters.json](./26141-cities-skylines-natural-disasters.json) |
@@ -12120,6 +12123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Team Racing: Unlimited | 360136 | [360136-crash-team-racing-unlimited.json](./360136-crash-team-racing-unlimited.json) |
 | Crash Team Rumble | 228540 | [228540-crash-team-rumble.json](./228540-crash-team-rumble.json) |
 | Crash Team Rumble: Deluxe Edition | 246296 | [246296-crash-team-rumble-deluxe-edition.json](./246296-crash-team-rumble-deluxe-edition.json) |
+| Crash Team Rumble: Season 1 | 252546 | [252546-crash-team-rumble-season-1.json](./252546-crash-team-rumble-season-1.json) |
 | Crash Test Billy | 51473 | [51473-crash-test-billy.json](./51473-crash-test-billy.json) |
 | Crash Test Idiot | 193419 | [193419-crash-test-idiot.json](./193419-crash-test-idiot.json) |
 | Crash Test Idiots 2: Multiplayer | 278692 | [278692-crash-test-idiots-2-multiplayer.json](./278692-crash-test-idiots-2-multiplayer.json) |
