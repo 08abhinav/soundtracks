@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T22:01:32.961Z",
-  "total_soundtracks": 2319,
+  "generated_at": "2026-10-20T22:01:44.111Z",
+  "total_soundtracks": 2320,
   "games": [
     {
       "igdb_id": 7522,
@@ -24183,6 +24183,20 @@
           "spotify_url": "https://open.spotify.com/album/591Ne4vDjXZbr9O5NZOVyB",
           "apple_music_url": "https://music.apple.com/us/album/the-forgotten-city-original-score/1581064512",
           "album_link_url": "https://album.link/i/1581064512"
+        }
+      ]
+    },
+    {
+      "igdb_id": 141523,
+      "game_name": "The Game of Life 2",
+      "game_url": "https://ostdb.net/games/the-game-of-life-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733a918759109133b7fb6d063b",
+      "albums": [
+        {
+          "album_name": "The Game of Life 2 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/38BW5cJfUBwIMx1601rrzs",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
