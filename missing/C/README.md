@@ -1087,6 +1087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannery Vale | 216339 | [216339-cannery-vale.json](./216339-cannery-vale.json) |
 | Cannibal | 104785 | [104785-cannibal.json](./104785-cannibal.json) |
 | Cannibal | 299444 | [299444-cannibal.json](./299444-cannibal.json) |
+| Cannibal Abduction | 224983 | [224983-cannibal-abduction.json](./224983-cannibal-abduction.json) |
 | Cannibal Cookout: Lines | 238982 | [238982-cannibal-cookout-lines.json](./238982-cannibal-cookout-lines.json) |
 | Cannibal Court | 395205 | [395205-cannibal-court.json](./395205-cannibal-court.json) |
 | Cannibal Crossing | 140364 | [140364-cannibal-crossing.json](./140364-cannibal-crossing.json) |
@@ -6229,6 +6230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles Of Crystal: Turn-Basde Epoch | 297367 | [297367-chronicles-of-crystal-turn-basde-epoch.json](./297367-chronicles-of-crystal-turn-basde-epoch.json) |
 | Chronicles of cyberpunk | 75931 | [75931-chronicles-of-cyberpunk.json](./75931-chronicles-of-cyberpunk.json) |
 | Chronicles of Cyberpunk: Deep Sleep | 155499 | [155499-chronicles-of-cyberpunk-deep-sleep.json](./155499-chronicles-of-cyberpunk-deep-sleep.json) |
+| Chronicles of Cyberpunk: Lost dream | 224965 | [224965-chronicles-of-cyberpunk-lost-dream.json](./224965-chronicles-of-cyberpunk-lost-dream.json) |
 | Chronicles of Deeps | 188881 | [188881-chronicles-of-deeps.json](./188881-chronicles-of-deeps.json) |
 | Chronicles of Elyria | 58484 | [58484-chronicles-of-elyria.json](./58484-chronicles-of-elyria.json) |
 | Chronicles of Emerland | 52509 | [52509-chronicles-of-emerland.json](./52509-chronicles-of-emerland.json) |
