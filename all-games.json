@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-19T07:55:37.785Z",
-  "total_soundtracks": 2203,
+  "generated_at": "2026-10-20T10:40:37.806Z",
+  "total_soundtracks": 2204,
   "games": [
     {
       "igdb_id": 7522,
@@ -1039,6 +1039,20 @@
         {
           "album_name": "Angry Birds Epic! (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/21Ur9OWnLhUL3XajasOv32",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 79766,
+      "game_name": "Angry Birds Friends",
+      "game_url": "https://ostdb.net/games/angry-birds-friends",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27346ef0301f6bf7feaa1f9f8ff",
+      "albums": [
+        {
+          "album_name": "Angry Birds Friends (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2T8GJCIa92KFWpDswBXvOk",
           "apple_music_url": "",
           "album_link_url": ""
         }
