@@ -1538,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hareshi Moyakana | 274989 | [274989-hareshi-moyakana.json](./274989-hareshi-moyakana.json) |
 | Hariti | 406882 | [406882-hariti.json](./406882-hariti.json) |
 | Harker | 79127 | [79127-harker.json](./79127-harker.json) |
+| Harlem Blade II: Dark Angel | 249630 | [249630-harlem-blade-ii-dark-angel.json](./249630-harlem-blade-ii-dark-angel.json) |
 | Harlem Blade: The Greatest of All Time | 187208 | [187208-harlem-blade-the-greatest-of-all-time.json](./187208-harlem-blade-the-greatest-of-all-time.json) |
 | HarleQuest! | 246111 | [246111-harlequest.json](./246111-harlequest.json) |
 | Harlequin Fair: Harbour Dawn | 275501 | [275501-harlequin-fair-harbour-dawn.json](./275501-harlequin-fair-harbour-dawn.json) |
@@ -2032,6 +2033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Legends: The Black Hawk | 187920 | [187920-haunted-legends-the-black-hawk.json](./187920-haunted-legends-the-black-hawk.json) |
 | Haunted Legends: The Bronze Horseman | 139202 | [139202-haunted-legends-the-bronze-horseman.json](./139202-haunted-legends-the-bronze-horseman.json) |
 | Haunted Legends: The Bronze Horseman - Collector's Edition | 28688 | [28688-haunted-legends-the-bronze-horseman-collectors-edition.json](./28688-haunted-legends-the-bronze-horseman-collectors-edition.json) |
+| Haunted Legends: The Call of Despair - Collector's Edition | 249605 | [249605-haunted-legends-the-call-of-despair-collectors-edition.json](./249605-haunted-legends-the-call-of-despair-collectors-edition.json) |
 | Haunted Legends: The Dark Wishes | 139203 | [139203-haunted-legends-the-dark-wishes.json](./139203-haunted-legends-the-dark-wishes.json) |
 | Haunted Legends: The Dark Wishes - Collector's Edition | 112791 | [112791-haunted-legends-the-dark-wishes-collectors-edition.json](./112791-haunted-legends-the-dark-wishes-collectors-edition.json) |
 | Haunted Legends: The Queen of Spades | 139204 | [139204-haunted-legends-the-queen-of-spades.json](./139204-haunted-legends-the-queen-of-spades.json) |
@@ -2190,6 +2192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hay Day Pop | 165527 | [165527-hay-day-pop.json](./165527-hay-day-pop.json) |
 | Hay Ewe | 22736 | [22736-hay-ewe.json](./22736-hay-ewe.json) |
 | Hayai | 200715 | [200715-hayai.json](./200715-hayai.json) |
+| Hayaku! Island of Darkness | 249626 | [249626-hayaku-island-of-darkness.json](./249626-hayaku-island-of-darkness.json) |
 | Hayama Reiko no Date de Blackjack | 41349 | [41349-hayama-reiko-no-date-de-blackjack.json](./41349-hayama-reiko-no-date-de-blackjack.json) |
 | Hayami-Chan | 199033 | [199033-hayami-chan.json](./199033-hayami-chan.json) |
 | Hayami-Chan 2 | 199034 | [199034-hayami-chan-2.json](./199034-hayami-chan-2.json) |
