@@ -5083,6 +5083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mecha Survivors | 359921 | [359921-mecha-survivors.json](./359921-mecha-survivors.json) |
 | Mecha Tactics | 154392 | [154392-mecha-tactics.json](./154392-mecha-tactics.json) |
 | Mecha Taisen on Planet Oldskool | 73497 | [73497-mecha-taisen-on-planet-oldskool.json](./73497-mecha-taisen-on-planet-oldskool.json) |
+| Mecha: War Robots | 208170 | [208170-mecha-war-robots.json](./208170-mecha-war-robots.json) |
 | Mecha's Negotiations | 363915 | [363915-mechas-negotiations.json](./363915-mechas-negotiations.json) |
 | Mechabellum | 240897 | [240897-mechabellum.json](./240897-mechabellum.json) |
 | MechaBlade Hero | 307039 | [307039-mechablade-hero.json](./307039-mechablade-hero.json) |
@@ -7195,6 +7196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merry Snowballs | 27016 | [27016-merry-snowballs.json](./27016-merry-snowballs.json) |
 | Merry Xmas Santa | 57170 | [57170-merry-xmas-santa.json](./57170-merry-xmas-santa.json) |
 | Merry XMerge | 280128 | [280128-merry-xmerge.json](./280128-merry-xmerge.json) |
+| Merry's Errands | 208221 | [208221-merrys-errands.json](./208221-merrys-errands.json) |
 | Merto's Part | 168644 | [168644-mertos-part.json](./168644-mertos-part.json) |
 | Meru Purana | 125421 | [125421-meru-purana.json](./125421-meru-purana.json) |
 | Merv Griffin's Crosswords | 50945 | [50945-merv-griffins-crosswords.json](./50945-merv-griffins-crosswords.json) |
@@ -9274,7 +9276,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft Dungeons: Howling Peaks | 142160 | [142160-minecraft-dungeons-howling-peaks.json](./142160-minecraft-dungeons-howling-peaks.json) |
 | Minecraft Dungeons: Jungle Awakens | 135565 | [135565-minecraft-dungeons-jungle-awakens.json](./135565-minecraft-dungeons-jungle-awakens.json) |
 | Minecraft Dungeons: Ultimate Edition | 164776 | [164776-minecraft-dungeons-ultimate-edition.json](./164776-minecraft-dungeons-ultimate-edition.json) |
-| Minecraft Earth | 118711 | [118711-minecraft-earth.json](./118711-minecraft-earth.json) |
 | Minecraft Education | 28407 | [28407-minecraft-education.json](./28407-minecraft-education.json) |
 | Minecraft Education: Planet Earth III | 272803 | [272803-minecraft-education-planet-earth-iii.json](./272803-minecraft-education-planet-earth-iii.json) |
 | Minecraft Interactive Watch | 230890 | [230890-minecraft-interactive-watch.json](./230890-minecraft-interactive-watch.json) |
