@@ -1647,6 +1647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caramella Girls | 174357 | [174357-caramella-girls.json](./174357-caramella-girls.json) |
 | Caravan | 19290 | [19290-caravan.json](./19290-caravan.json) |
 | Caravan Boomer | 266911 | [266911-caravan-boomer.json](./266911-caravan-boomer.json) |
+| Caravan Journey: Nitro | 226089 | [226089-caravan-journey-nitro.json](./226089-caravan-journey-nitro.json) |
 | Caravan Manager | 420495 | [420495-caravan-manager.json](./420495-caravan-manager.json) |
 | Caravan Racers | 323854 | [323854-caravan-racers.json](./323854-caravan-racers.json) |
 | Caravan Stories: Academy of Magic | 194037 | [194037-caravan-stories-academy-of-magic.json](./194037-caravan-stories-academy-of-magic.json) |
