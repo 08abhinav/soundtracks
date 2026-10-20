@@ -3851,6 +3851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glow Rings Puzzle | 106975 | [106975-glow-rings-puzzle.json](./106975-glow-rings-puzzle.json) |
 | Glow Stairs | 174358 | [174358-glow-stairs.json](./174358-glow-stairs.json) |
 | Glow Storm | 322085 | [322085-glow-storm.json](./322085-glow-storm.json) |
+| Glow Unblock | 232287 | [232287-glow-unblock.json](./232287-glow-unblock.json) |
 | Glow Up 2 | 320023 | [320023-glow-up-2.json](./320023-glow-up-2.json) |
 | Glow Worm | 209755 | [209755-glow-worm.json](./209755-glow-worm.json) |
 | GlowBoard: WinterFest | 251449 | [251449-glowboard-winterfest.json](./251449-glowboard-winterfest.json) |
@@ -4853,6 +4854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goldo: Lost Goblin | 370128 | [370128-goldo-lost-goblin.json](./370128-goldo-lost-goblin.json) |
 | Goldrot | 352250 | [352250-goldrot.json](./352250-goldrot.json) |
 | Goldrush | 314035 | [314035-goldrush.json](./314035-goldrush.json) |
+| Goldrush Coin Falls | 232289 | [232289-goldrush-coin-falls.json](./232289-goldrush-coin-falls.json) |
 | Goldspace | 184643 | [184643-goldspace.json](./184643-goldspace.json) |
 | Goldsphere: Completion | 281291 | [281291-goldsphere-completion.json](./281291-goldsphere-completion.json) |
 | GoldStorm Pirates | 326948 | [326948-goldstorm-pirates.json](./326948-goldstorm-pirates.json) |
