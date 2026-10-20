@@ -7548,6 +7548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Dreams | 192831 | [192831-blind-dreams.json](./192831-blind-dreams.json) |
 | Blind Exposure | 320736 | [320736-blind-exposure.json](./320736-blind-exposure.json) |
 | Blind Fate: Edo no Yami | 138812 | [138812-blind-fate-edo-no-yami.json](./138812-blind-fate-edo-no-yami.json) |
+| Blind Fishes | 252002 | [252002-blind-fishes.json](./252002-blind-fishes.json) |
 | Blind Frontiers | 253519 | [253519-blind-frontiers.json](./253519-blind-frontiers.json) |
 | Blind Girl | 111489 | [111489-blind-girl.json](./111489-blind-girl.json) |
 | Blind Jump | 304638 | [304638-blind-jump.json](./304638-blind-jump.json) |
@@ -11123,6 +11124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breach Point | 118823 | [118823-breach-point.json](./118823-breach-point.json) |
 | Breach Signal | 341065 | [341065-breach-signal.json](./341065-breach-signal.json) |
 | Breach: 83 | 350968 | [350968-breach-83.json](./350968-breach-83.json) |
+| Breach: Chicago War Zone | 252007 | [252007-breach-chicago-war-zone.json](./252007-breach-chicago-war-zone.json) |
 | Breach: Veil Demon DLC | 170327 | [170327-breach-veil-demon-dlc.json](./170327-breach-veil-demon-dlc.json) |
 | Breached | 18845 | [18845-breached.json](./18845-breached.json) |
 | Breached | 281967 | [281967-breached.json](./281967-breached.json) |
