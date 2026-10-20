@@ -532,6 +532,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273824682c38279d999362b6b39" width="60" /> | [Elden Ring Nightreign](https://ostdb.net/games/elden-ring-nightreign) | **ELDEN RING NIGHTREIGN Original Soundtrack** · [Spotify](https://open.spotify.com/album/5yYohcL2SzA0y4QQpCXweS)<br>**ELDEN RING NIGHTREIGN The Forsaken Hollows Original Soundtrack** · [Spotify](https://open.spotify.com/album/7dKUaMd8Xmi6qobT8TlAHK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a22122dde8f636cc21cad3b5" width="60" /> | [Elden Ring: Shadow of the Erdtree](https://ostdb.net/games/elden-ring-shadow-of-the-erdtree) | **ELDEN RING SHADOW OF THE ERDTREE ORIGINAL SOUND TRACK** · [Spotify](https://open.spotify.com/album/6ucsCXHRL0OXnAM51V8Cb9) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e6/f4/b4/e6f4b448-ab12-a086-25e1-b0e01f699490/5055957601249_cover.jpg/600x600bb.jpg" width="60" /> | [Elite: Dangerous](https://ostdb.net/games/elite-dangerous) | **Elite: Dangerous Original Soundtrack** · [Spotify](https://open.spotify.com/album/505922VpdI0wTf9a7hyWkb) · [Apple Music](https://music.apple.com/us/album/elite-dangerous-original-soundtrack/976843287) · [Album](https://album.link/i/976843287) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27353e981e3be06da5df60b305f" width="60" /> | [Eliza](https://ostdb.net/games/eliza) | **Eliza (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2pU2QtVoCj3P1vha0xZvZF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273df2b2b6076ad4c0b2273a97e" width="60" /> | [Emperor: Rise of the Middle Kingdom](https://ostdb.net/games/emperor-rise-of-the-middle-kingdom) | **Emperor: Rise of the Middle Kingdom (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4iIqYSf3vxDWLy94LNtgi8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737fc558424d48e34e35b90e32" width="60" /> | [Empire Earth](https://ostdb.net/games/empire-earth) | **Empire Earth I (Soundtrack)** · [Spotify](https://open.spotify.com/album/7MpwpMpuyB8GCwJf6b2H3x) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c439b993db66b84b2e13c874" width="60" /> | [Empire: Total War](https://ostdb.net/games/empire-total-war) | **Total War: Empire (Original Soundtrack) [Remastered]** · [Spotify](https://open.spotify.com/album/7wz81TdNzkRAoh5whQvQki) |
@@ -1985,4 +1986,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2302 soundtracks · last updated 2026-10-20T21:55:49.846Z_
+_2303 soundtracks · last updated 2026-10-20T21:56:00.803Z_
