@@ -3083,6 +3083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fetish Locator | 255686 | [255686-fetish-locator.json](./255686-fetish-locator.json) |
 | Fetish Locator Week Three | 281337 | [281337-fetish-locator-week-three.json](./281337-fetish-locator-week-three.json) |
 | Fetty Wap: Nitro Nation Stories | 76553 | [76553-fetty-wap-nitro-nation-stories.json](./76553-fetty-wap-nitro-nation-stories.json) |
+| Fetus | 207680 | [207680-fetus.json](./207680-fetus.json) |
 | Fetus in Oil Painting | 279136 | [279136-fetus-in-oil-painting.json](./279136-fetus-in-oil-painting.json) |
 | Feud | 113037 | [113037-feud.json](./113037-feud.json) |
 | Feud | 12094 | [12094-feud.json](./12094-feud.json) |
@@ -5356,6 +5357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Roblox 2 RePartyin | 262219 | [262219-five-nights-at-roblox-2-repartyin.json](./262219-five-nights-at-roblox-2-repartyin.json) |
 | Five Nights at Roner's: Remastered | 330734 | [330734-five-nights-at-roners-remastered.json](./330734-five-nights-at-roners-remastered.json) |
 | Five Nights at RPG Boy's | 339599 | [339599-five-nights-at-rpg-boys.json](./339599-five-nights-at-rpg-boys.json) |
+| Five Nights at Sexy's | 207700 | [207700-five-nights-at-sexys.json](./207700-five-nights-at-sexys.json) |
 | Five Nights at Silver Pine | 297079 | [297079-five-nights-at-silver-pine.json](./297079-five-nights-at-silver-pine.json) |
 | Five Nights At Smog's Poutinerie | 236315 | [236315-five-nights-at-smogs-poutinerie.json](./236315-five-nights-at-smogs-poutinerie.json) |
 | Five Nights at Sonic's 3 Reburned | 182216 | [182216-five-nights-at-sonics-3-reburned.json](./182216-five-nights-at-sonics-3-reburned.json) |
