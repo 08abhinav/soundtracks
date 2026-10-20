@@ -2504,6 +2504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatec's Out | 132274 | [132274-fatecs-out.json](./132274-fatecs-out.json) |
 | Fated | 184069 | [184069-fated.json](./184069-fated.json) |
 | Fated Blade | 169151 | [169151-fated-blade.json](./169151-fated-blade.json) |
+| Fated Demon Lovers | 221593 | [221593-fated-demon-lovers.json](./221593-fated-demon-lovers.json) |
 | Fated Era | 114514 | [114514-fated-era.json](./114514-fated-era.json) |
 | Fated Haven | 61724 | [61724-fated-haven.json](./61724-fated-haven.json) |
 | Fated Kingdom | 97111 | [97111-fated-kingdom.json](./97111-fated-kingdom.json) |
@@ -9174,6 +9175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Heist | 342202 | [342202-frog-heist.json](./342202-frog-heist.json) |
 | Frog in a Blender | 282803 | [282803-frog-in-a-blender.json](./282803-frog-in-a-blender.json) |
 | Frog in the Fog | 393630 | [393630-frog-in-the-fog.json](./393630-frog-in-the-fog.json) |
+| Frog In the Well | 221615 | [221615-frog-in-the-well.json](./221615-frog-in-the-well.json) |
 | Frog Inc. | 394782 | [394782-frog-inc.json](./394782-frog-inc.json) |
 | Frog Jump | 273912 | [273912-frog-jump.json](./273912-frog-jump.json) |
 | Frog Jump | 339704 | [339704-frog-jump.json](./339704-frog-jump.json) |
