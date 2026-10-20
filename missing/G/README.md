@@ -3686,6 +3686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitch Gears | 293549 | [293549-glitch-gears.json](./293549-glitch-gears.json) |
 | Glitch Hearts | 385790 | [385790-glitch-hearts.json](./385790-glitch-hearts.json) |
 | Glitch Hero | 323247 | [323247-glitch-hero.json](./323247-glitch-hero.json) |
+| Glitch Hunt | 211033 | [211033-glitch-hunt.json](./211033-glitch-hunt.json) |
 | Glitch in the System | 236809 | [236809-glitch-in-the-system.json](./236809-glitch-in-the-system.json) |
 | Glitch Karts | 377783 | [377783-glitch-karts.json](./377783-glitch-karts.json) |
 | Glitch Maze.exe | 293074 | [293074-glitch-maze-exe.json](./293074-glitch-maze-exe.json) |
@@ -6139,6 +6140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grasshoping | 257670 | [257670-grasshoping.json](./257670-grasshoping.json) |
 | Grasshopper Collection | 349959 | [349959-grasshopper-collection.json](./349959-grasshopper-collection.json) |
 | Grasshopper Farm | 134026 | [134026-grasshopper-farm.json](./134026-grasshopper-farm.json) |
+| Grassland Defender Keita | 211074 | [211074-grassland-defender-keita.json](./211074-grassland-defender-keita.json) |
 | Grater | 115629 | [115629-grater.json](./115629-grater.json) |
 | Gratia | 183021 | [183021-gratia.json](./183021-gratia.json) |
 | Gratuitous Animal Massacre | 119748 | [119748-gratuitous-animal-massacre.json](./119748-gratuitous-animal-massacre.json) |
