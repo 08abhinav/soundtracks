@@ -8720,6 +8720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Revolt! | 336181 | [336181-royal-revolt.json](./336181-royal-revolt.json) |
 | Royal Riders | 190943 | [190943-royal-riders.json](./190943-royal-riders.json) |
 | Royal Roads 2: The Magic Box | 161401 | [161401-royal-roads-2-the-magic-box.json](./161401-royal-roads-2-the-magic-box.json) |
+| Royal Roads 3 Portal | 212653 | [212653-royal-roads-3-portal.json](./212653-royal-roads-3-portal.json) |
 | Royal Romances: Battle of the Woods | 226930 | [226930-royal-romances-battle-of-the-woods.json](./226930-royal-romances-battle-of-the-woods.json) |
 | Royal Romances: Battle of the Woods - Collector's Edition | 224741 | [224741-royal-romances-battle-of-the-woods-collectors-edition.json](./224741-royal-romances-battle-of-the-woods-collectors-edition.json) |
 | Royal Romances: Endless Winter - Collector's Edition | 265305 | [265305-royal-romances-endless-winter-collectors-edition.json](./265305-royal-romances-endless-winter-collectors-edition.json) |
