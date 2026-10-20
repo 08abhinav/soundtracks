@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:46:30.546Z",
-  "total_soundtracks": 2288,
+  "generated_at": "2026-10-20T21:46:41.584Z",
+  "total_soundtracks": 2289,
   "games": [
     {
       "igdb_id": 7522,
@@ -15326,6 +15326,20 @@
           "album_name": "Young Legends Learn and Rise",
           "spotify_url": "https://open.spotify.com/album/3tgX8zRIUS2jSogO0g2TU3",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 17436,
+      "game_name": "Momodora III",
+      "game_url": "https://ostdb.net/games/momodora-iii",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e46188fc59473f6949e7e291",
+      "albums": [
+        {
+          "album_name": "Momodora III ~ Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/4IayX1GCPx1CrndGxyjgLW",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
