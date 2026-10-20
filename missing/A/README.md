@@ -3252,6 +3252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Against the Storm: Nightwatchers | 356650 | [356650-against-the-storm-nightwatchers.json](./356650-against-the-storm-nightwatchers.json) |
 | Against The Tide | 269994 | [269994-against-the-tide.json](./269994-against-the-tide.json) |
 | Against the Wall | 63004 | [63004-against-the-wall.json](./63004-against-the-wall.json) |
+| Against the Will of a Chainsaw | 207132 | [207132-against-the-will-of-a-chainsaw.json](./207132-against-the-will-of-a-chainsaw.json) |
 | Against Twilight | 349927 | [349927-against-twilight.json](./349927-against-twilight.json) |
 | Agame | 269042 | [269042-agame.json](./269042-agame.json) |
 | Agapito's Crazy Adventure | 332833 | [332833-agapitos-crazy-adventure.json](./332833-agapitos-crazy-adventure.json) |
