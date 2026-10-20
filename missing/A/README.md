@@ -7551,6 +7551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girls: Tactical Assault | 402306 | [402306-anime-girls-tactical-assault.json](./402306-anime-girls-tactical-assault.json) |
 | Anime Girls: Tokyo Christmas | 381704 | [381704-anime-girls-tokyo-christmas.json](./381704-anime-girls-tokyo-christmas.json) |
 | Anime Girls: Wasteland Shootout | 315662 | [315662-anime-girls-wasteland-shootout.json](./315662-anime-girls-wasteland-shootout.json) |
+| Anime Hero | 228306 | [228306-anime-hero.json](./228306-anime-hero.json) |
 | Anime Hero Zero | 292011 | [292011-anime-hero-zero.json](./292011-anime-hero-zero.json) |
 | Anime Hero Zero 2 | 292013 | [292013-anime-hero-zero-2.json](./292013-anime-hero-zero-2.json) |
 | Anime Hero Zero 3 | 292014 | [292014-anime-hero-zero-3.json](./292014-anime-hero-zero-3.json) |
@@ -9242,6 +9243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Tecmo Stackers | 313224 | [313224-arcade-archives-tecmo-stackers.json](./313224-arcade-archives-tecmo-stackers.json) |
 | Arcade Archives: Terra Cresta | 99786 | [99786-arcade-archives-terra-cresta.json](./99786-arcade-archives-terra-cresta.json) |
 | Arcade Archives: Tetris - The Absolute: The Grand Master 2 Plus | 251538 | [251538-arcade-archives-tetris-the-absolute-the-grand-master-2-plus.json](./251538-arcade-archives-tetris-the-absolute-the-grand-master-2-plus.json) |
+| Arcade Archives: Tetris the Grand Master | 228267 | [228267-arcade-archives-tetris-the-grand-master.json](./228267-arcade-archives-tetris-the-grand-master.json) |
 | Arcade Archives: The Astyanax | 146827 | [146827-arcade-archives-the-astyanax.json](./146827-arcade-archives-the-astyanax.json) |
 | Arcade Archives: The Fairyland Story | 147103 | [147103-arcade-archives-the-fairyland-story.json](./147103-arcade-archives-the-fairyland-story.json) |
 | Arcade Archives: The Final Round | 312019 | [312019-arcade-archives-the-final-round.json](./312019-arcade-archives-the-final-round.json) |
