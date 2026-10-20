@@ -20544,6 +20544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storms | 130259 | [130259-storms.json](./130259-storms.json) |
 | Storms 2 | 173007 | [173007-storms-2.json](./173007-storms-2.json) |
 | Storms of Shambhala | 72363 | [72363-storms-of-shambhala.json](./72363-storms-of-shambhala.json) |
+| Stormshot | 219965 | [219965-stormshot.json](./219965-stormshot.json) |
 | Stormtrooper | 15379 | [15379-stormtrooper.json](./15379-stormtrooper.json) |
 | StormWar | 188330 | [188330-stormwar.json](./188330-stormwar.json) |
 | Stormwinds | 210284 | [210284-stormwinds.json](./210284-stormwinds.json) |
@@ -23941,6 +23942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Construct 2: Yoshi's Fabrication Station | 250040 | [250040-super-mario-construct-2-yoshis-fabrication-station.json](./250040-super-mario-construct-2-yoshis-fabrication-station.json) |
 | Super Mario Craft | 313112 | [313112-super-mario-craft.json](./313112-super-mario-craft.json) |
 | Super Mario Death Row 2: Shroomshank Redemption | 220042 | [220042-super-mario-death-row-2-shroomshank-redemption.json](./220042-super-mario-death-row-2-shroomshank-redemption.json) |
+| Super Mario Death Row! | 220006 | [220006-super-mario-death-row.json](./220006-super-mario-death-row.json) |
 | Super Mario Defense | 314738 | [314738-super-mario-defense.json](./314738-super-mario-defense.json) |
 | Super Mario DX | 210709 | [210709-super-mario-dx.json](./210709-super-mario-dx.json) |
 | Super Mario Dynamo | 320230 | [320230-super-mario-dynamo.json](./320230-super-mario-dynamo.json) |
@@ -26695,6 +26697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of Convallaria: For This World of Peace | 212438 | [212438-sword-of-convallaria-for-this-world-of-peace.json](./212438-sword-of-convallaria-for-this-world-of-peace.json) |
 | Sword of Destruction | 237428 | [237428-sword-of-destruction.json](./237428-sword-of-destruction.json) |
 | Sword of Fireheart - The Awakening Element | 31989 | [31989-sword-of-fireheart-the-awakening-element.json](./31989-sword-of-fireheart-the-awakening-element.json) |
+| Sword of Glory Roguelite Slash | 219990 | [219990-sword-of-glory-roguelite-slash.json](./219990-sword-of-glory-roguelite-slash.json) |
 | Sword of Hearts | 183437 | [183437-sword-of-hearts.json](./183437-sword-of-hearts.json) |
 | Sword of Honour | 12790 | [12790-sword-of-honour.json](./12790-sword-of-honour.json) |
 | Sword of Hypotenuse | 171874 | [171874-sword-of-hypotenuse.json](./171874-sword-of-hypotenuse.json) |
