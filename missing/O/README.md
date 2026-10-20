@@ -2718,6 +2718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operencia: The Stolen Sun - Explorer's Edition | 154541 | [154541-operencia-the-stolen-sun-explorers-edition.json](./154541-operencia-the-stolen-sun-explorers-edition.json) |
 | Operius | 182319 | [182319-operius.json](./182319-operius.json) |
 | Operius DX | 347184 | [347184-operius-dx.json](./347184-operius-dx.json) |
+| OPG: Clan Wars | 217200 | [217200-opg-clan-wars.json](./217200-opg-clan-wars.json) |
 | Ophelia's Chapter | 272327 | [272327-ophelias-chapter.json](./272327-ophelias-chapter.json) |
 | Ophelia´s Paradise | 400313 | [400313-ophelia-s-paradise.json](./400313-ophelia-s-paradise.json) |
 | Ophidia | 36523 | [36523-ophidia.json](./36523-ophidia.json) |
