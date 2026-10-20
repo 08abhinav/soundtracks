@@ -8419,6 +8419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gutasaga | 257439 | [257439-gutasaga.json](./257439-gutasaga.json) |
 | Gute Zeiten Schlechte Zeiten Quiz | 281539 | [281539-gute-zeiten-schlechte-zeiten-quiz.json](./281539-gute-zeiten-schlechte-zeiten-quiz.json) |
 | Gütertrennung | 86017 | [86017-gutertrennung.json](./86017-gutertrennung.json) |
+| Gutless | 222759 | [222759-gutless.json](./222759-gutless.json) |
 | Guts | 54925 | [54925-guts.json](./54925-guts.json) |
 | Guts 'n Goals | 116183 | [116183-guts-n-goals.json](./116183-guts-n-goals.json) |
 | Guts 'N Goals: Preseason | 137484 | [137484-guts-n-goals-preseason.json](./137484-guts-n-goals-preseason.json) |
