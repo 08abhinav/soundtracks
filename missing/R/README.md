@@ -7134,6 +7134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RocketBird Relaunched | 412936 | [412936-rocketbird-relaunched.json](./412936-rocketbird-relaunched.json) |
 | Rocketbirds 2: Mind Control | 170517 | [170517-rocketbirds-2-mind-control.json](./170517-rocketbirds-2-mind-control.json) |
 | Rocketbirds 2: Rescue Bundle | 170516 | [170516-rocketbirds-2-rescue-bundle.json](./170516-rocketbirds-2-rescue-bundle.json) |
+| Rocketbirds: Revolution! | 242929 | [242929-rocketbirds-revolution.json](./242929-rocketbirds-revolution.json) |
 | Rocketboarder | 118793 | [118793-rocketboarder.json](./118793-rocketboarder.json) |
 | RocketBoy 2 | 400455 | [400455-rocketboy-2.json](./400455-rocketboy-2.json) |
 | RocketBoy 3 | 400456 | [400456-rocketboy-3.json](./400456-rocketboy-3.json) |
@@ -7584,6 +7585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue with the Dead | 248144 | [248144-rogue-with-the-dead.json](./248144-rogue-with-the-dead.json) |
 | Rogue Words | 353409 | [353409-rogue-words.json](./353409-rogue-words.json) |
 | Rogue Zillion | 75766 | [75766-rogue-zillion.json](./75766-rogue-zillion.json) |
+| Rogue-Fp | 242970 | [242970-rogue-fp.json](./242970-rogue-fp.json) |
 | Rogue-Like: Evolution | 282677 | [282677-rogue-like-evolution.json](./282677-rogue-like-evolution.json) |
 | Rogue: Genesia | 211066 | [211066-rogue-genesia.json](./211066-rogue-genesia.json) |
 | Rogue's Awakening | 185037 | [185037-rogues-awakening.json](./185037-rogues-awakening.json) |
