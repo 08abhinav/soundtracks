@@ -5516,6 +5516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excavator Simulator 2018 | 100865 | [100865-excavator-simulator-2018.json](./100865-excavator-simulator-2018.json) |
 | Excavatorrr | 242574 | [242574-excavatorrr.json](./242574-excavatorrr.json) |
 | Excave | 82595 | [82595-excave.json](./82595-excave.json) |
+| eXceed 2nd: Vampire | 229550 | [229550-exceed-2nd-vampire.json](./229550-exceed-2nd-vampire.json) |
 | Exceed 3rd Jade Penetrate | 80380 | [80380-exceed-3rd-jade-penetrate.json](./80380-exceed-3rd-jade-penetrate.json) |
 | eXceed 3rd: Jade Penetrate Black Package | 10967 | [10967-exceed-3rd-jade-penetrate-black-package.json](./10967-exceed-3rd-jade-penetrate-black-package.json) |
 | Exceed Gear | 298676 | [298676-exceed-gear.json](./298676-exceed-gear.json) |
