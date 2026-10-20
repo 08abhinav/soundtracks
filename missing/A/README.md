@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dream That Never Wakes Up | 236391 | [236391-a-dream-that-never-wakes-up.json](./236391-a-dream-that-never-wakes-up.json) |
 | A Dream Within a Dream | 394781 | [394781-a-dream-within-a-dream.json](./394781-a-dream-within-a-dream.json) |
 | A Drift for the Irresolute | 180614 | [180614-a-drift-for-the-irresolute.json](./180614-a-drift-for-the-irresolute.json) |
+| A Drop of Hope | 226099 | [226099-a-drop-of-hope.json](./226099-a-drop-of-hope.json) |
 | A Drunk Man Looks at the Thistle Decoded | 198134 | [198134-a-drunk-man-looks-at-the-thistle-decoded.json](./198134-a-drunk-man-looks-at-the-thistle-decoded.json) |
 | A Dual Ascent | 327839 | [327839-a-dual-ascent.json](./327839-a-dual-ascent.json) |
 | A Duel Hand Disaster: Trackher | 31661 | [31661-a-duel-hand-disaster-trackher.json](./31661-a-duel-hand-disaster-trackher.json) |
@@ -356,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game With a Kitty | 74789 | [74789-a-game-with-a-kitty.json](./74789-a-game-with-a-kitty.json) |
 | A Game with a Kitty 3 | 313567 | [313567-a-game-with-a-kitty-3.json](./313567-a-game-with-a-kitty-3.json) |
 | A Game with a Kitty 6: Moon Minion | 313576 | [313576-a-game-with-a-kitty-6-moon-minion.json](./313576-a-game-with-a-kitty-6-moon-minion.json) |
+| A Game You Can Afford In This Economy | 226102 | [226102-a-game-you-can-afford-in-this-economy.json](./226102-a-game-you-can-afford-in-this-economy.json) |
 | A Game's Tale | 298889 | [298889-a-games-tale.json](./298889-a-games-tale.json) |
 | A Gay Love Story About Gay Love | 158674 | [158674-a-gay-love-story-about-gay-love.json](./158674-a-gay-love-story-about-gay-love.json) |
 | A Gay's Life | 129939 | [129939-a-gays-life.json](./129939-a-gays-life.json) |
@@ -1979,6 +1981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acid Girls' Escape | 205568 | [205568-acid-girls-escape.json](./205568-acid-girls-escape.json) |
 | Acid Moon | 135092 | [135092-acid-moon.json](./135092-acid-moon.json) |
 | Acid Planet | 284791 | [284791-acid-planet.json](./284791-acid-planet.json) |
+| Acid Puzzle | 226097 | [226097-acid-puzzle.json](./226097-acid-puzzle.json) |
 | Acid R[ai/eig]n | 283739 | [283739-acid-r-ai-eig-n.json](./283739-acid-r-ai-eig-n.json) |
 | Ac󠀠id Ra󠀠in | 187886 | [187886-ac-id-ra-in.json](./187886-ac-id-ra-in.json) |
 | Acid Reflux | 274437 | [274437-acid-reflux.json](./274437-acid-reflux.json) |
@@ -2050,6 +2053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across The Void | 248133 | [248133-across-the-void.json](./248133-across-the-void.json) |
 | Across the Wilds | 238739 | [238739-across-the-wilds.json](./238739-across-the-wilds.json) |
 | Across the Wonderlands | 320476 | [320476-across-the-wonderlands.json](./320476-across-the-wonderlands.json) |
+| Across-Stitch | 226098 | [226098-across-stitch.json](./226098-across-stitch.json) |
 | Acrostics on Stream | 261264 | [261264-acrostics-on-stream.json](./261264-acrostics-on-stream.json) |
 | Acrylic Palette: Irodori Cafe - Cheers | 222463 | [222463-acrylic-palette-irodori-cafe-cheers.json](./222463-acrylic-palette-irodori-cafe-cheers.json) |
 | Acryptia | 226397 | [226397-acryptia.json](./226397-acryptia.json) |
@@ -2495,6 +2499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Allies | 316449 | [316449-adventure-allies.json](./316449-adventure-allies.json) |
 | Adventure Apes and the Mayan Mystery | 33017 | [33017-adventure-apes-and-the-mayan-mystery.json](./33017-adventure-apes-and-the-mayan-mystery.json) |
 | Adventure Apple Robots | 240822 | [240822-adventure-apple-robots.json](./240822-adventure-apple-robots.json) |
+| Adventure Awaits | 226100 | [226100-adventure-awaits.json](./226100-adventure-awaits.json) |
 | Adventure Ball 3D Balancer | 249451 | [249451-adventure-ball-3d-balancer.json](./249451-adventure-ball-3d-balancer.json) |
 | Adventure Bar Story | 279048 | [279048-adventure-bar-story.json](./279048-adventure-bar-story.json) |
 | Adventure Bit | 159576 | [159576-adventure-bit.json](./159576-adventure-bit.json) |
@@ -3222,6 +3227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Against Ether | 173293 | [173293-against-ether.json](./173293-against-ether.json) |
 | Against Great Darkness | 242364 | [242364-against-great-darkness.json](./242364-against-great-darkness.json) |
 | Against Humanity | 301687 | [301687-against-humanity.json](./301687-against-humanity.json) |
+| Against the Backrooms | 226101 | [226101-against-the-backrooms.json](./226101-against-the-backrooms.json) |
 | Against the Cluck | 364641 | [364641-against-the-cluck.json](./364641-against-the-cluck.json) |
 | Against the Gradient | 40711 | [40711-against-the-gradient.json](./40711-against-the-gradient.json) |
 | Against the Horde | 379503 | [379503-against-the-horde.json](./379503-against-the-horde.json) |
@@ -3764,6 +3770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aimlabs: Professional Edition | 308588 | [308588-aimlabs-professional-edition.json](./308588-aimlabs-professional-edition.json) |
 | AimRogue | 288747 | [288747-aimrogue.json](./288747-aimrogue.json) |
 | Aimstar.gg | 125882 | [125882-aimstar-gg.json](./125882-aimstar-gg.json) |
+| Aimtropolis | 226103 | [226103-aimtropolis.json](./226103-aimtropolis.json) |
 | Aimx | 316463 | [316463-aimx.json](./316463-aimx.json) |
 | AimX | 212901 | [212901-aimx.json](./212901-aimx.json) |
 | Ain't No Surprise | 379518 | [379518-aint-no-surprise.json](./379518-aint-no-surprise.json) |
@@ -4826,6 +4833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alicorn Simulator 3D | 105718 | [105718-alicorn-simulator-3d.json](./105718-alicorn-simulator-3d.json) |
 | Alida | 7665 | [7665-alida.json](./7665-alida.json) |
 | Alien | 195029 | [195029-alien.json](./195029-alien.json) |
+| Alien | 226104 | [226104-alien.json](./226104-alien.json) |
 | Alien | 245251 | [245251-alien.json](./245251-alien.json) |
 | Alien | 25132 | [25132-alien.json](./25132-alien.json) |
 | Alien 3 | 273014 | [273014-alien-3.json](./273014-alien-3.json) |
@@ -12902,6 +12910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automachef | 107217 | [107217-automachef.json](./107217-automachef.json) |
 | Automakhan | 56303 | [56303-automakhan.json](./56303-automakhan.json) |
 | Automania | 30216 | [30216-automania.json](./30216-automania.json) |
+| Automata | 226109 | [226109-automata.json](./226109-automata.json) |
 | Automata 10 Pack Volume 2 | 258188 | [258188-automata-10-pack-volume-2.json](./258188-automata-10-pack-volume-2.json) |
 | Automata Break | 139455 | [139455-automata-break.json](./139455-automata-break.json) |
 | Automata Streetcar | 303903 | [303903-automata-streetcar.json](./303903-automata-streetcar.json) |
