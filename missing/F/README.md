@@ -8181,6 +8181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FPS Training | 130278 | [130278-fps-training.json](./130278-fps-training.json) |
 | FPS War 2 | 240880 | [240880-fps-war-2.json](./240880-fps-war-2.json) |
 | FPS: Fun Puzzle Shooter | 75407 | [75407-fps-fun-puzzle-shooter.json](./75407-fps-fun-puzzle-shooter.json) |
+| FPS1 | 249631 | [249631-fps1.json](./249631-fps1.json) |
 | FPS80 | 305340 | [305340-fps80.json](./305340-fps80.json) |
 | FPScore | 142971 | [142971-fpscore.json](./142971-fpscore.json) |
 | FPSCore | 390186 | [390186-fpscore.json](./390186-fpscore.json) |
