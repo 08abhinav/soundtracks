@@ -582,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxia Conquestum | 55241 | [55241-galaxia-conquestum.json](./55241-galaxia-conquestum.json) |
 | Galaxia Reloaded | 175175 | [175175-galaxia-reloaded.json](./175175-galaxia-reloaded.json) |
 | Galaxian | 143370 | [143370-galaxian.json](./143370-galaxian.json) |
+| Galaxian | 218319 | [218319-galaxian.json](./218319-galaxian.json) |
 | Galaxian | 239166 | [239166-galaxian.json](./239166-galaxian.json) |
 | Galaxian | 277242 | [277242-galaxian.json](./277242-galaxian.json) |
 | Galaxian | 277245 | [277245-galaxian.json](./277245-galaxian.json) |
@@ -602,6 +603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxian | 4614 | [4614-galaxian.json](./4614-galaxian.json) |
 | Galaxian Sleena | 304143 | [304143-galaxian-sleena.json](./304143-galaxian-sleena.json) |
 | Galaxian Wars: Alien Shooter | 411525 | [411525-galaxian-wars-alien-shooter.json](./411525-galaxian-wars-alien-shooter.json) |
+| Galaxian2 | 218316 | [218316-galaxian2.json](./218316-galaxian2.json) |
 | Galaxian3 | 234085 | [234085-galaxian3.json](./234085-galaxian3.json) |
 | Galaxian3 | 43774 | [43774-galaxian3.json](./43774-galaxian3.json) |
 | Galaxian3: Project Dragoon | 140478 | [140478-galaxian3-project-dragoon.json](./140478-galaxian3-project-dragoon.json) |
