@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T10:51:41.616Z",
-  "total_soundtracks": 2216,
+  "generated_at": "2026-10-20T10:51:52.944Z",
+  "total_soundtracks": 2217,
   "games": [
     {
       "igdb_id": 7522,
@@ -19144,6 +19144,20 @@
           "album_name": "Screamer (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7qrn2IN2OV8Xo0LLJ8Mf0E",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 7140,
+      "game_name": "Screamer",
+      "game_url": "https://ostdb.net/games/screamer",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273db6b1884af16e75008824e1f",
+      "albums": [
+        {
+          "album_name": "Screamer (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/67qIncdOXMn8t2w3SlX9to",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
