@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:56:00.803Z",
-  "total_soundtracks": 2303,
+  "generated_at": "2026-10-20T21:56:11.273Z",
+  "total_soundtracks": 2304,
   "games": [
     {
       "igdb_id": 7522,
@@ -8421,6 +8421,20 @@
         {
           "album_name": "Felix The Cat Soundtrack",
           "spotify_url": "https://open.spotify.com/album/1YI2weWObKavGsUdCkdVir",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 59573,
+      "game_name": "Fight'N Rage",
+      "game_url": "https://ostdb.net/games/fightn-rage",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a57cdd53a7d8f41529feec45",
+      "albums": [
+        {
+          "album_name": "Fight’N Rage Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/52W0Scze6OLKpiFTrVrqZI",
           "apple_music_url": "",
           "album_link_url": ""
         }
