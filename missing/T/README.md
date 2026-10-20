@@ -445,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin: Rhythm Festival - Classical Pack | 376440 | [376440-taiko-no-tatsujin-rhythm-festival-classical-pack.json](./376440-taiko-no-tatsujin-rhythm-festival-classical-pack.json) |
 | Taiko no Tatsujin: Rhythm Festival - Collector's Edition | 207396 | [207396-taiko-no-tatsujin-rhythm-festival-collectors-edition.json](./207396-taiko-no-tatsujin-rhythm-festival-collectors-edition.json) |
 | Taiko no Tatsujin: Rhythm Festival - Crayon Shin-chan Theme Songs Pack | 356256 | [356256-taiko-no-tatsujin-rhythm-festival-crayon-shin-chan-theme-songs-pack.json](./356256-taiko-no-tatsujin-rhythm-festival-crayon-shin-chan-theme-songs-pack.json) |
+| Taiko no Tatsujin: Rhythm Festival - Deluxe Edition | 219466 | [219466-taiko-no-tatsujin-rhythm-festival-deluxe-edition.json](./219466-taiko-no-tatsujin-rhythm-festival-deluxe-edition.json) |
 | Taiko no Tatsujin: Rhythm Festival - Dragon Ball Anime Songs Pack | 356187 | [356187-taiko-no-tatsujin-rhythm-festival-dragon-ball-anime-songs-pack.json](./356187-taiko-no-tatsujin-rhythm-festival-dragon-ball-anime-songs-pack.json) |
 | Taiko no Tatsujin: Rhythm Festival - Hatsune Miku Pack Vol. 1 | 356092 | [356092-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-1.json](./356092-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-1.json) |
 | Taiko no Tatsujin: Rhythm Festival - Hatsune Miku Pack Vol. 2 | 356093 | [356093-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-2.json](./356093-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-2.json) |
@@ -4758,16 +4759,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle of Olympus | 7773 | [7773-the-battle-of-olympus.json](./7773-the-battle-of-olympus.json) |
 | The Battle of Polytopia | 57153 | [57153-the-battle-of-polytopia.json](./57153-the-battle-of-polytopia.json) |
 | The Battle of Polytopia: Ai-Mo | 371519 | [371519-the-battle-of-polytopia-ai-mo.json](./371519-the-battle-of-polytopia-ai-mo.json) |
+| The Battle of Polytopia: All Special Tribes | 219477 | [219477-the-battle-of-polytopia-all-special-tribes.json](./219477-the-battle-of-polytopia-all-special-tribes.json) |
 | The Battle of Polytopia: Anzala | 366863 | [366863-the-battle-of-polytopia-anzala.json](./366863-the-battle-of-polytopia-anzala.json) |
 | The Battle of Polytopia: Aumux | 371524 | [371524-the-battle-of-polytopia-aumux.json](./371524-the-battle-of-polytopia-aumux.json) |
 | The Battle of Polytopia: Baergøff | 366861 | [366861-the-battle-of-polytopia-baerg-ff.json](./366861-the-battle-of-polytopia-baerg-ff.json) |
 | The Battle of Polytopia: Cultists | 371525 | [371525-the-battle-of-polytopia-cultists.json](./371525-the-battle-of-polytopia-cultists.json) |
+| The Battle of Polytopia: Cymanti | 219474 | [219474-the-battle-of-polytopia-cymanti.json](./219474-the-battle-of-polytopia-cymanti.json) |
+| The Battle of Polytopia: Deluxe | 219476 | [219476-the-battle-of-polytopia-deluxe.json](./219476-the-battle-of-polytopia-deluxe.json) |
+| The Battle of Polytopia: Elyrion | 219473 | [219473-the-battle-of-polytopia-elyrion.json](./219473-the-battle-of-polytopia-elyrion.json) |
 | The Battle of Polytopia: Forgotten | 370329 | [370329-the-battle-of-polytopia-forgotten.json](./370329-the-battle-of-polytopia-forgotten.json) |
 | The Battle of Polytopia: Hoodrick | 366857 | [366857-the-battle-of-polytopia-hoodrick.json](./366857-the-battle-of-polytopia-hoodrick.json) |
 | The Battle of Polytopia: Kickoo | 366858 | [366858-the-battle-of-polytopia-kickoo.json](./366858-the-battle-of-polytopia-kickoo.json) |
 | The Battle of Polytopia: Lirepacci | 366860 | [366860-the-battle-of-polytopia-lirepacci.json](./366860-the-battle-of-polytopia-lirepacci.json) |
 | The Battle of Polytopia: Midŋighţ Skin - Elyrioŋ Tribe | 305532 | [305532-the-battle-of-polytopia-mid-ight-skin-elyrio-tribe.json](./305532-the-battle-of-polytopia-mid-ight-skin-elyrio-tribe.json) |
 | The Battle of Polytopia: New Dawn Skin | 381100 | [381100-the-battle-of-polytopia-new-dawn-skin.json](./381100-the-battle-of-polytopia-new-dawn-skin.json) |
+| The Battle of Polytopia: Polaris | 219475 | [219475-the-battle-of-polytopia-polaris.json](./219475-the-battle-of-polytopia-polaris.json) |
 | The Battle of Polytopia: Ragoo | 366856 | [366856-the-battle-of-polytopia-ragoo.json](./366856-the-battle-of-polytopia-ragoo.json) |
 | The Battle of Polytopia: Sha-po | 366862 | [366862-the-battle-of-polytopia-sha-po.json](./366862-the-battle-of-polytopia-sha-po.json) |
 | The Battle of Polytopia: Skin Pack 1 | 255230 | [255230-the-battle-of-polytopia-skin-pack-1.json](./255230-the-battle-of-polytopia-skin-pack-1.json) |
@@ -14678,11 +14684,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theatrhythm: Final Bar Line - Bravely Default Pack | 268538 | [268538-theatrhythm-final-bar-line-bravely-default-pack.json](./268538-theatrhythm-final-bar-line-bravely-default-pack.json) |
 | Theatrhythm: Final Bar Line - Chrono Pack | 354543 | [354543-theatrhythm-final-bar-line-chrono-pack.json](./354543-theatrhythm-final-bar-line-chrono-pack.json) |
 | Theatrhythm: Final Bar Line - Chrono: Pack Vol. 2 | 252701 | [252701-theatrhythm-final-bar-line-chrono-pack-vol-2.json](./252701-theatrhythm-final-bar-line-chrono-pack-vol-2.json) |
+| Theatrhythm: Final Bar Line - Digital Deluxe Edition | 219486 | [219486-theatrhythm-final-bar-line-digital-deluxe-edition.json](./219486-theatrhythm-final-bar-line-digital-deluxe-edition.json) |
 | Theatrhythm: Final Bar Line - Final Fantasy XVI Pack | 276103 | [276103-theatrhythm-final-bar-line-final-fantasy-xvi-pack.json](./276103-theatrhythm-final-bar-line-final-fantasy-xvi-pack.json) |
 | Theatrhythm: Final Bar Line - Live A Live Pack | 354519 | [354519-theatrhythm-final-bar-line-live-a-live-pack.json](./354519-theatrhythm-final-bar-line-live-a-live-pack.json) |
 | Theatrhythm: Final Bar Line - Mana Pack Vol. 2 | 268537 | [268537-theatrhythm-final-bar-line-mana-pack-vol-2.json](./268537-theatrhythm-final-bar-line-mana-pack-vol-2.json) |
 | Theatrhythm: Final Bar Line - NieR Pack Vol. 2 | 354544 | [354544-theatrhythm-final-bar-line-nier-pack-vol-2.json](./354544-theatrhythm-final-bar-line-nier-pack-vol-2.json) |
 | Theatrhythm: Final Bar Line - Octopath Traveler Pack | 354512 | [354512-theatrhythm-final-bar-line-octopath-traveler-pack.json](./354512-theatrhythm-final-bar-line-octopath-traveler-pack.json) |
+| Theatrhythm: Final Bar Line - Premium Digital Deluxe Edition | 219487 | [219487-theatrhythm-final-bar-line-premium-digital-deluxe-edition.json](./219487-theatrhythm-final-bar-line-premium-digital-deluxe-edition.json) |
 | Theatrhythm: Final Bar Line - SaGa Pack | 354542 | [354542-theatrhythm-final-bar-line-saga-pack.json](./354542-theatrhythm-final-bar-line-saga-pack.json) |
 | Theatrhythm: Final Bar Line - SaGa Pack Vol. 2 | 354541 | [354541-theatrhythm-final-bar-line-saga-pack-vol-2.json](./354541-theatrhythm-final-bar-line-saga-pack-vol-2.json) |
 | Theatrhythm: Final Bar Line - SaGa Pack Vol. 3 | 261340 | [261340-theatrhythm-final-bar-line-saga-pack-vol-3.json](./261340-theatrhythm-final-bar-line-saga-pack-vol-3.json) |
