@@ -6069,6 +6069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shield Strike | 301126 | [301126-shield-strike.json](./301126-shield-strike.json) |
 | Shieldbound | 349406 | [349406-shieldbound.json](./349406-shieldbound.json) |
 | Shieldmaiden | 129709 | [129709-shieldmaiden.json](./129709-shieldmaiden.json) |
+| Shieldmaiden: Remix Edition | 231239 | [231239-shieldmaiden-remix-edition.json](./231239-shieldmaiden-remix-edition.json) |
 | Shields of Loyalty | 156040 | [156040-shields-of-loyalty.json](./156040-shields-of-loyalty.json) |
 | Shields Up! VR | 102196 | [102196-shields-up-vr.json](./102196-shields-up-vr.json) |
 | Shieldwall Chronicles | 197769 | [197769-shieldwall-chronicles.json](./197769-shieldwall-chronicles.json) |
@@ -9264,6 +9265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skullgirls Encore: Beowulf | 127262 | [127262-skullgirls-encore-beowulf.json](./127262-skullgirls-encore-beowulf.json) |
 | Skullgirls: 2nd Encore | 11179 | [11179-skullgirls-2nd-encore.json](./11179-skullgirls-2nd-encore.json) |
 | Skullgirls: 2nd Encore - Annie | 167349 | [167349-skullgirls-2nd-encore-annie.json](./167349-skullgirls-2nd-encore-annie.json) |
+| Skullgirls: 2nd Encore - Umbrella | 231240 | [231240-skullgirls-2nd-encore-umbrella.json](./231240-skullgirls-2nd-encore-umbrella.json) |
 | Skullgirls: Season 1 Pass | 370325 | [370325-skullgirls-season-1-pass.json](./370325-skullgirls-season-1-pass.json) |
 | Skullhammer | 181862 | [181862-skullhammer.json](./181862-skullhammer.json) |
 | Skullivan's | 329158 | [329158-skullivans.json](./329158-skullivans.json) |
@@ -11030,6 +11032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Flow | 37061 | [37061-snake-flow.json](./37061-snake-flow.json) |
 | Snake Force | 182382 | [182382-snake-force.json](./182382-snake-force.json) |
 | Snake Galaxy Online | 276970 | [276970-snake-galaxy-online.json](./276970-snake-galaxy-online.json) |
+| Snake Game | 231210 | [231210-snake-game.json](./231210-snake-game.json) |
 | Snake Game | 95375 | [95375-snake-game.json](./95375-snake-game.json) |
 | Snake Game Ultra Core | 368476 | [368476-snake-game-ultra-core.json](./368476-snake-game-ultra-core.json) |
 | Snake Hunt | 112110 | [112110-snake-hunt.json](./112110-snake-hunt.json) |
@@ -11637,6 +11640,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowRunner: Save the Day Vinyl Wrap Pack | 230830 | [230830-snowrunner-save-the-day-vinyl-wrap-pack.json](./230830-snowrunner-save-the-day-vinyl-wrap-pack.json) |
 | SnowRunner: Scorched Vinyl Wrap | 148152 | [148152-snowrunner-scorched-vinyl-wrap.json](./148152-snowrunner-scorched-vinyl-wrap.json) |
 | SnowRunner: Season 1 - Search & Recover | 145485 | [145485-snowrunner-season-1-search-and-recover.json](./145485-snowrunner-season-1-search-and-recover.json) |
+| SnowRunner: Season 10 - Fix & Connect | 231246 | [231246-snowrunner-season-10-fix-and-connect.json](./231246-snowrunner-season-10-fix-and-connect.json) |
+| SnowRunner: Season 11 - Lights & Cameras | 231243 | [231243-snowrunner-season-11-lights-and-cameras.json](./231243-snowrunner-season-11-lights-and-cameras.json) |
+| SnowRunner: Season 12 - Public Energy | 231244 | [231244-snowrunner-season-12-public-energy.json](./231244-snowrunner-season-12-public-energy.json) |
 | SnowRunner: Season 14 - Reap and Sow | 336931 | [336931-snowrunner-season-14-reap-and-sow.json](./336931-snowrunner-season-14-reap-and-sow.json) |
 | SnowRunner: Season 15 - Oil & Dirt | 361784 | [361784-snowrunner-season-15-oil-and-dirt.json](./361784-snowrunner-season-15-oil-and-dirt.json) |
 | SnowRunner: Season 16 - High Voltage | 397654 | [397654-snowrunner-season-16-high-voltage.json](./397654-snowrunner-season-16-high-voltage.json) |
@@ -11651,6 +11657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowRunner: Season 6 - Haul & Hustle | 148143 | [148143-snowrunner-season-6-haul-and-hustle.json](./148143-snowrunner-season-6-haul-and-hustle.json) |
 | SnowRunner: Season 7 - Compete & Conquer | 148144 | [148144-snowrunner-season-7-compete-and-conquer.json](./148144-snowrunner-season-7-compete-and-conquer.json) |
 | SnowRunner: Season 8 - Grand Harvest | 148145 | [148145-snowrunner-season-8-grand-harvest.json](./148145-snowrunner-season-8-grand-harvest.json) |
+| SnowRunner: Season 9 - Renew & Rebuild | 231245 | [231245-snowrunner-season-9-renew-and-rebuild.json](./231245-snowrunner-season-9-renew-and-rebuild.json) |
 | SnowRunner: Tatra Dual Pack | 214469 | [214469-snowrunner-tatra-dual-pack.json](./214469-snowrunner-tatra-dual-pack.json) |
 | SnowRunner: The Mastodon | 251989 | [251989-snowrunner-the-mastodon.json](./251989-snowrunner-the-mastodon.json) |
 | SnowRunner: True Colors Vinyl Wrap | 148153 | [148153-snowrunner-true-colors-vinyl-wrap.json](./148153-snowrunner-true-colors-vinyl-wrap.json) |
@@ -12047,8 +12054,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol Cesto | 286327 | [286327-sol-cesto.json](./286327-sol-cesto.json) |
 | Sol Cresta | 148382 | [148382-sol-cresta.json](./148382-sol-cresta.json) |
 | Sol Cresta Complete Set | 295693 | [295693-sol-cresta-complete-set.json](./295693-sol-cresta-complete-set.json) |
+| Sol Cresta: CR47 | 231241 | [231241-sol-cresta-cr47.json](./231241-sol-cresta-cr47.json) |
 | Sol Cresta: Dramatic DLC | 201018 | [201018-sol-cresta-dramatic-dlc.json](./201018-sol-cresta-dramatic-dlc.json) |
 | Sol Cresta: Dramatic Edition | 199868 | [199868-sol-cresta-dramatic-edition.json](./199868-sol-cresta-dramatic-edition.json) |
+| Sol Cresta: Legendary Fighters DLC Set | 231242 | [231242-sol-cresta-legendary-fighters-dlc-set.json](./231242-sol-cresta-legendary-fighters-dlc-set.json) |
+| Sol Cresta: Wing Galiber | 231237 | [231237-sol-cresta-wing-galiber.json](./231237-sol-cresta-wing-galiber.json) |
+| Sol Cresta: Wing Galiber II | 231236 | [231236-sol-cresta-wing-galiber-ii.json](./231236-sol-cresta-wing-galiber-ii.json) |
 | Sol Divide | 35026 | [35026-sol-divide.json](./35026-sol-divide.json) |
 | SOL Exodus | 10886 | [10886-sol-exodus.json](./10886-sol-exodus.json) |
 | Sol Frontiers | 317033 | [317033-sol-frontiers.json](./317033-sol-frontiers.json) |
@@ -26103,6 +26114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Bakery Tycoon: Extended Edition | 213345 | [213345-sweet-bakery-tycoon-extended-edition.json](./213345-sweet-bakery-tycoon-extended-edition.json) |
 | Sweet Bakery Tycoon: Multiplayer Edition | 242621 | [242621-sweet-bakery-tycoon-multiplayer-edition.json](./242621-sweet-bakery-tycoon-multiplayer-edition.json) |
 | Sweet Bakery Tycoon: Multiplayer Mode | 242620 | [242620-sweet-bakery-tycoon-multiplayer-mode.json](./242620-sweet-bakery-tycoon-multiplayer-mode.json) |
+| Sweet Bakery Tycoon: Premium Edition | 231235 | [231235-sweet-bakery-tycoon-premium-edition.json](./231235-sweet-bakery-tycoon-premium-edition.json) |
 | Sweet Bakery Tycoon: Super Edition | 315851 | [315851-sweet-bakery-tycoon-super-edition.json](./315851-sweet-bakery-tycoon-super-edition.json) |
 | Sweet Bakery Tycoon: Value Edition | 317243 | [317243-sweet-bakery-tycoon-value-edition.json](./317243-sweet-bakery-tycoon-value-edition.json) |
 | Sweet Bar | 392908 | [392908-sweet-bar.json](./392908-sweet-bar.json) |
@@ -26889,6 +26901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syndrome | 13366 | [13366-syndrome.json](./13366-syndrome.json) |
 | Syndrome VR | 74263 | [74263-syndrome-vr.json](./74263-syndrome-vr.json) |
 | Syndrome: Extended Edition | 233005 | [233005-syndrome-extended-edition.json](./233005-syndrome-extended-edition.json) |
+| Syndrome: Ultimate Edition | 231234 | [231234-syndrome-ultimate-edition.json](./231234-syndrome-ultimate-edition.json) |
 | Synduality: Echo of Ada | 217601 | [217601-synduality-echo-of-ada.json](./217601-synduality-echo-of-ada.json) |
 | Synduality: Echo of Ada - Deluxe Edition | 317828 | [317828-synduality-echo-of-ada-deluxe-edition.json](./317828-synduality-echo-of-ada-deluxe-edition.json) |
 | Synduality: Echo of Ada - Ultimate Edition | 317829 | [317829-synduality-echo-of-ada-ultimate-edition.json](./317829-synduality-echo-of-ada-ultimate-edition.json) |
