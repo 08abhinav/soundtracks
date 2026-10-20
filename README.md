@@ -868,6 +868,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | Cover | Game | Albums |
 |---|---|---|
 | <img src="https://i.scdn.co/image/ab67616d0000b27347fbeb6b2faa56d51edc735e" width="60" /> | [Kamiko](https://ostdb.net/games/kamiko) | **KAMIKO ORIGINAL SOUNDTRACK** · [Spotify](https://open.spotify.com/album/1LJdNct41ToL28ZTFQkDMl) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273eb70c201142bebc2853acfd3" width="60" /> | [Kao the Kangaroo](https://ostdb.net/games/kao-the-kangaroo) | **Kao the Kangaroo Original Game Soundtrack** · [Spotify](https://open.spotify.com/album/2nT2n4q87Ktp8Kxu5MHwfB) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/1c/3d/6c1c3dc7-35f3-90be-b799-fb2e28ff066d/5063654958634_cover.jpg/1000x1000bb.jpg" width="60" /> | [Karma: The Dark World](https://ostdb.net/games/karma-the-dark-world) | **Karma: The Dark World (Official Soundtrack)** · [Apple Music](https://music.apple.com/us/album/karma-the-dark-world-official-soundtrack/1802044288?uo=4) · [Album](https://album.link/i/1802044288) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27387331aac2268c9631cfeb0c9" width="60" /> | [Katamari Forever](https://ostdb.net/games/katamari-forever) | **Katamari Forever (Original Soundtrack) -Katamari Takeshi** · [Spotify](https://open.spotify.com/album/7f88Ldo0SBEFPCStTgXPFz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f6c95baad170c0dacad70c84" width="60" /> | [Katana Zero](https://ostdb.net/games/katana-zero) | **Katana Zero (Hidden Tracks)** · [Spotify](https://open.spotify.com/album/0mNg19CmqvSD2cFKIxXlp4)<br>**Katana Zero (Original Soundtrack Remixes)** · [Spotify](https://open.spotify.com/album/16SRP9RaCDPVblFHnUINUl)<br>**Katana Zero (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/23KCp1w3aJeKdMrqcyodWK)<br>**Katana Zero (Original Soundtrack) [Live] [Live Version]** · [Spotify](https://open.spotify.com/album/7ks5XEczAEqIcp6pLiZCZL) |
@@ -1969,4 +1970,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2286 soundtracks · last updated 2026-10-20T21:46:10.922Z_
+_2287 soundtracks · last updated 2026-10-20T21:46:20.944Z_
