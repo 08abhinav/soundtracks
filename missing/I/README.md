@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Bees 3 | 207790 | [207790-i-commissioned-some-bees-3.json](./207790-i-commissioned-some-bees-3.json) |
 | I Commissioned Some Bees 4 | 211687 | [211687-i-commissioned-some-bees-4.json](./211687-i-commissioned-some-bees-4.json) |
 | I Commissioned Some Bees 6 | 249617 | [249617-i-commissioned-some-bees-6.json](./249617-i-commissioned-some-bees-6.json) |
+| I Commissioned Some Bees 7 | 218890 | [218890-i-commissioned-some-bees-7.json](./218890-i-commissioned-some-bees-7.json) |
 | I Commissioned Some Bees 8 | 221118 | [221118-i-commissioned-some-bees-8.json](./221118-i-commissioned-some-bees-8.json) |
 | I Commissioned Some Bees 9 | 221111 | [221111-i-commissioned-some-bees-9.json](./221111-i-commissioned-some-bees-9.json) |
 | I Commissioned Some Bees Advent | 228084 | [228084-i-commissioned-some-bees-advent.json](./228084-i-commissioned-some-bees-advent.json) |
