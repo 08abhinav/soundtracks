@@ -591,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raft Survival Basics | 193794 | [193794-raft-survival-basics.json](./193794-raft-survival-basics.json) |
 | Raft Survival Evolve Simulator | 103521 | [103521-raft-survival-evolve-simulator.json](./103521-raft-survival-evolve-simulator.json) |
 | Raft Wars 2 | 220138 | [220138-raft-wars-2.json](./220138-raft-wars-2.json) |
+| Raft Wars: Against Pirates | 234462 | [234462-raft-wars-against-pirates.json](./234462-raft-wars-against-pirates.json) |
 | Rafting Frenzy | 253367 | [253367-rafting-frenzy.json](./253367-rafting-frenzy.json) |
 | Rag Doll Kung Fu | 19349 | [19349-rag-doll-kung-fu.json](./19349-rag-doll-kung-fu.json) |
 | Rag Doll Kung Fu: Black Belt Edition | 201793 | [201793-rag-doll-kung-fu-black-belt-edition.json](./201793-rag-doll-kung-fu-black-belt-edition.json) |
@@ -5125,6 +5126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Defender | 118263 | [118263-rhythm-defender.json](./118263-rhythm-defender.json) |
 | Rhythm Dodge | 257999 | [257999-rhythm-dodge.json](./257999-rhythm-dodge.json) |
 | Rhythm Drive: Synthwave City | 237202 | [237202-rhythm-drive-synthwave-city.json](./237202-rhythm-drive-synthwave-city.json) |
+| Rhythm Flash | 234445 | [234445-rhythm-flash.json](./234445-rhythm-flash.json) |
 | Rhythm Girl | 90070 | [90070-rhythm-girl.json](./90070-rhythm-girl.json) |
 | Rhythm Good | 216207 | [216207-rhythm-good.json](./216207-rhythm-good.json) |
 | Rhythm Heaven Fever | 5122 | [5122-rhythm-heaven-fever.json](./5122-rhythm-heaven-fever.json) |
