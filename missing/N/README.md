@@ -5030,6 +5030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nordic Racing | 325908 | [325908-nordic-racing.json](./325908-nordic-racing.json) |
 | Nordic Storm Solitaire | 127682 | [127682-nordic-storm-solitaire.json](./127682-nordic-storm-solitaire.json) |
 | Nordicandia | 144947 | [144947-nordicandia.json](./144947-nordicandia.json) |
+| Nordland Mahjongg | 224419 | [224419-nordland-mahjongg.json](./224419-nordland-mahjongg.json) |
 | Nordlicht | 119776 | [119776-nordlicht.json](./119776-nordlicht.json) |
 | Nords and Fjords | 181123 | [181123-nords-and-fjords.json](./181123-nords-and-fjords.json) |
 | Nords: Heroes of the North | 23655 | [23655-nords-heroes-of-the-north.json](./23655-nords-heroes-of-the-north.json) |
