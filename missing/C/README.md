@@ -1019,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Ice Cream Jam Match 3 | 166297 | [166297-candy-ice-cream-jam-match-3.json](./166297-candy-ice-cream-jam-match-3.json) |
 | Candy Jump featuring Frosty | 147131 | [147131-candy-jump-featuring-frosty.json](./147131-candy-jump-featuring-frosty.json) |
 | Candy Kingdom | 31395 | [31395-candy-kingdom.json](./31395-candy-kingdom.json) |
+| Candy Kombat | 216646 | [216646-candy-kombat.json](./216646-candy-kombat.json) |
 | Candy land | 154401 | [154401-candy-land.json](./154401-candy-land.json) |
 | Candy Land | 380052 | [380052-candy-land.json](./380052-candy-land.json) |
 | Candy Land / Chutes & Ladders / Original Memory Game | 91423 | [91423-candy-land-chutes-and-ladders-original-memory-game.json](./91423-candy-land-chutes-and-ladders-original-memory-game.json) |
@@ -2842,6 +2843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat and Ghostly Road | 114073 | [114073-cat-and-ghostly-road.json](./114073-cat-and-ghostly-road.json) |
 | Cat And Life | 301620 | [301620-cat-and-life.json](./301620-cat-and-life.json) |
 | Cat and Shadow and Death's Four Friends | 374070 | [374070-cat-and-shadow-and-deaths-four-friends.json](./374070-cat-and-shadow-and-deaths-four-friends.json) |
+| Cat and Watermouse | 216689 | [216689-cat-and-watermouse.json](./216689-cat-and-watermouse.json) |
 | Cat Apartment | 264135 | [264135-cat-apartment.json](./264135-cat-apartment.json) |
 | Cat Apocalypse | 304854 | [304854-cat-apocalypse.json](./304854-cat-apocalypse.json) |
 | Cat Architect | 182875 | [182875-cat-architect.json](./182875-cat-architect.json) |
