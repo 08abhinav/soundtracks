@@ -3112,10 +3112,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deal or No Deal | 4800 | [4800-deal-or-no-deal.json](./4800-deal-or-no-deal.json) |
 | Deal or No Deal: Das Interaktive DVD-Spiel | 242434 | [242434-deal-or-no-deal-das-interaktive-dvd-spiel.json](./242434-deal-or-no-deal-das-interaktive-dvd-spiel.json) |
 | Deal or No Deal: DVD Game | 319737 | [319737-deal-or-no-deal-dvd-game.json](./319737-deal-or-no-deal-dvd-game.json) |
+| Deal or No Deal: Family Challenge | 242377 | [242377-deal-or-no-deal-family-challenge.json](./242377-deal-or-no-deal-family-challenge.json) |
 | Deal or No Deal: Secret Vault Games | 209006 | [209006-deal-or-no-deal-secret-vault-games.json](./209006-deal-or-no-deal-secret-vault-games.json) |
 | Deal or No Deal: Special Edition | 51036 | [51036-deal-or-no-deal-special-edition.json](./51036-deal-or-no-deal-special-edition.json) |
 | Deal or No Deal: The Banker is Back | 70636 | [70636-deal-or-no-deal-the-banker-is-back.json](./70636-deal-or-no-deal-the-banker-is-back.json) |
+| Deal or No Deal: The Banker is Back! | 242376 | [242376-deal-or-no-deal-the-banker-is-back.json](./242376-deal-or-no-deal-the-banker-is-back.json) |
 | Deal or No Deal: The Interactive DVD Game Show | 218082 | [218082-deal-or-no-deal-the-interactive-dvd-game-show.json](./218082-deal-or-no-deal-the-interactive-dvd-game-show.json) |
+| Deal or No Deal: The Interactive DVD Game Show | 242373 | [242373-deal-or-no-deal-the-interactive-dvd-game-show.json](./242373-deal-or-no-deal-the-interactive-dvd-game-show.json) |
 | Deal or No Deal: Vegas Gold | 66428 | [66428-deal-or-no-deal-vegas-gold.json](./66428-deal-or-no-deal-vegas-gold.json) |
 | Deal To My Heart | 299499 | [299499-deal-to-my-heart.json](./299499-deal-to-my-heart.json) |
 | Deal With Nyarlathotep | 370409 | [370409-deal-with-nyarlathotep.json](./370409-deal-with-nyarlathotep.json) |
