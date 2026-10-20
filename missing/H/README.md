@@ -1909,6 +1909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku and Future Stars: Project Mirai | 6805 | [6805-hatsune-miku-and-future-stars-project-mirai.json](./6805-hatsune-miku-and-future-stars-project-mirai.json) |
 | Hatsune Miku Bomb Squad! | 312961 | [312961-hatsune-miku-bomb-squad.json](./312961-hatsune-miku-bomb-squad.json) |
 | Hatsune Miku Connecting Puzzle Tamagotori: Kagamine Rin / Len Happy 14th Birthday | 213300 | [213300-hatsune-miku-connecting-puzzle-tamagotori-kagamine-rin-len-happy-14th-birthday.json](./213300-hatsune-miku-connecting-puzzle-tamagotori-kagamine-rin-len-happy-14th-birthday.json) |
+| Hatsune Miku Connecting Puzzle Tamagotori: Snow Miku 2022 | 213223 | [213223-hatsune-miku-connecting-puzzle-tamagotori-snow-miku-2022.json](./213223-hatsune-miku-connecting-puzzle-tamagotori-snow-miku-2022.json) |
 | Hatsune Miku Jigsaw Puzzle | 194617 | [194617-hatsune-miku-jigsaw-puzzle.json](./194617-hatsune-miku-jigsaw-puzzle.json) |
 | Hatsune Miku Logic Paint | 144758 | [144758-hatsune-miku-logic-paint.json](./144758-hatsune-miku-logic-paint.json) |
 | Hatsune Miku Logic Paint S | 144759 | [144759-hatsune-miku-logic-paint-s.json](./144759-hatsune-miku-logic-paint-s.json) |
