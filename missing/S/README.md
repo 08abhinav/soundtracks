@@ -1396,6 +1396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Throw | 186907 | [186907-santa-throw.json](./186907-santa-throw.json) |
 | Santa With Gun | 382878 | [382878-santa-with-gun.json](./382878-santa-with-gun.json) |
 | Santa World | 273431 | [273431-santa-world.json](./273431-santa-world.json) |
+| Santa-kun | 231762 | [231762-santa-kun.json](./231762-santa-kun.json) |
 | Santa's Adventure: Christmas Gifts Rush | 329430 | [329430-santas-adventure-christmas-gifts-rush.json](./329430-santas-adventure-christmas-gifts-rush.json) |
 | Santa's Big Adventures | 30075 | [30075-santas-big-adventures.json](./30075-santas-big-adventures.json) |
 | Santa's Big Sack | 380442 | [380442-santas-big-sack.json](./380442-santas-big-sack.json) |
@@ -4186,6 +4187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentinel | 11626 | [11626-sentinel.json](./11626-sentinel.json) |
 | Sentinel | 12339 | [12339-sentinel.json](./12339-sentinel.json) |
 | Sentinel | 153840 | [153840-sentinel.json](./153840-sentinel.json) |
+| Sentinel | 231768 | [231768-sentinel.json](./231768-sentinel.json) |
 | Sentinel 4: Dark Star | 34835 | [34835-sentinel-4-dark-star.json](./34835-sentinel-4-dark-star.json) |
 | Sentinel Attack | 203855 | [203855-sentinel-attack.json](./203855-sentinel-attack.json) |
 | Sentinel Heroes | 23641 | [23641-sentinel-heroes.json](./23641-sentinel-heroes.json) |
@@ -7751,6 +7753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silence Channel | 143593 | [143593-silence-channel.json](./143593-silence-channel.json) |
 | Silence Channel 2 | 218471 | [218471-silence-channel-2.json](./218471-silence-channel-2.json) |
 | Silence Coffee Shop | 222285 | [222285-silence-coffee-shop.json](./222285-silence-coffee-shop.json) |
+| Silence Falls | 231766 | [231766-silence-falls.json](./231766-silence-falls.json) |
 | Silence Forest | 346455 | [346455-silence-forest.json](./346455-silence-forest.json) |
 | Silence in the Cabin | 236255 | [236255-silence-in-the-cabin.json](./236255-silence-in-the-cabin.json) |
 | Silence in the Dark | 157420 | [157420-silence-in-the-dark.json](./157420-silence-in-the-dark.json) |
@@ -10274,6 +10277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SlipDrive | 104553 | [104553-slipdrive.json](./104553-slipdrive.json) |
 | Slipgate to a Lost Dimension | 271188 | [271188-slipgate-to-a-lost-dimension.json](./271188-slipgate-to-a-lost-dimension.json) |
 | Slippery Delivery | 278885 | [278885-slippery-delivery.json](./278885-slippery-delivery.json) |
+| Slippery Flippers: Episode One - Amulet of the Gods | 231760 | [231760-slippery-flippers-episode-one-amulet-of-the-gods.json](./231760-slippery-flippers-episode-one-amulet-of-the-gods.json) |
 | Slippery Heights | 280110 | [280110-slippery-heights.json](./280110-slippery-heights.json) |
 | Slippery ice | 177008 | [177008-slippery-ice.json](./177008-slippery-ice.json) |
 | Slippery Richard!: He's Taller Than My Husband | 225100 | [225100-slippery-richard-hes-taller-than-my-husband.json](./225100-slippery-richard-hes-taller-than-my-husband.json) |
@@ -19763,6 +19767,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellaris: BioGenesis | 336706 | [336706-stellaris-biogenesis.json](./336706-stellaris-biogenesis.json) |
 | Stellaris: Console Deluxe Edition | 118706 | [118706-stellaris-console-deluxe-edition.json](./118706-stellaris-console-deluxe-edition.json) |
 | Stellaris: Console Edition | 111150 | [111150-stellaris-console-edition.json](./111150-stellaris-console-edition.json) |
+| Stellaris: Console Edition - Federations | 231763 | [231763-stellaris-console-edition-federations.json](./231763-stellaris-console-edition-federations.json) |
+| Stellaris: Console Edition - Nemesis | 231765 | [231765-stellaris-console-edition-nemesis.json](./231765-stellaris-console-edition-nemesis.json) |
 | Stellaris: Console Edition - Starter Edition | 331839 | [331839-stellaris-console-edition-starter-edition.json](./331839-stellaris-console-edition-starter-edition.json) |
 | Stellaris: Console Edition - The Royal | 198396 | [198396-stellaris-console-edition-the-royal.json](./198396-stellaris-console-edition-the-royal.json) |
 | Stellaris: Cosmic Storms | 298124 | [298124-stellaris-cosmic-storms.json](./298124-stellaris-cosmic-storms.json) |
@@ -21282,6 +21288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strimko | 54408 | [54408-strimko.json](./54408-strimko.json) |
 | Strimpland | 395698 | [395698-strimpland.json](./395698-strimpland.json) |
 | String 'Em Up | 180554 | [180554-string-em-up.json](./180554-string-em-up.json) |
+| String Along | 231754 | [231754-string-along.json](./231754-string-along.json) |
 | String Mace | 403644 | [403644-string-mace.json](./403644-string-mace.json) |
 | String Rush | 173236 | [173236-string-rush.json](./173236-string-rush.json) |
 | String Theory | 240706 | [240706-string-theory.json](./240706-string-theory.json) |
