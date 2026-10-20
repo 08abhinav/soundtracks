@@ -311,6 +311,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gal*Gun | 304988 | [304988-gal-gun.json](./304988-gal-gun.json) |
 | Gal*Gun | 7000 | [7000-gal-gun.json](./7000-gal-gun.json) |
 | Gal*Gun 2 | 68279 | [68279-gal-gun-2.json](./68279-gal-gun-2.json) |
+| Gal*Gun 2: Complete DLC Bundle | 238337 | [238337-gal-gun-2-complete-dlc-bundle.json](./238337-gal-gun-2-complete-dlc-bundle.json) |
+| Gal*Gun 2: Complete Edition | 238338 | [238338-gal-gun-2-complete-edition.json](./238338-gal-gun-2-complete-edition.json) |
 | Gal*Gun 2: Limited Edition | 358981 | [358981-gal-gun-2-limited-edition.json](./358981-gal-gun-2-limited-edition.json) |
 | Gal*Gun: Double Peace - Mr. Happiness Edition | 89910 | [89910-gal-gun-double-peace-mr-happiness-edition.json](./89910-gal-gun-double-peace-mr-happiness-edition.json) |
 | Gal*Gun: Double Peace Horny Trinity Edition | 358982 | [358982-gal-gun-double-peace-horny-trinity-edition.json](./358982-gal-gun-double-peace-horny-trinity-edition.json) |
@@ -4849,6 +4851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golem | 345640 | [345640-golem.json](./345640-golem.json) |
 | Golem | 47987 | [47987-golem.json](./47987-golem.json) |
 | Golem Creation Kit | 54990 | [54990-golem-creation-kit.json](./54990-golem-creation-kit.json) |
+| Golem Epic Adventures | 238297 | [238297-golem-epic-adventures.json](./238297-golem-epic-adventures.json) |
 | Golem Gates | 76066 | [76066-golem-gates.json](./76066-golem-gates.json) |
 | Golem no Maigo | 64705 | [64705-golem-no-maigo.json](./64705-golem-no-maigo.json) |
 | Golem Wars | 58752 | [58752-golem-wars.json](./58752-golem-wars.json) |
