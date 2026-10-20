@@ -1030,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Apocalypse: Escape the Undead City | 32359 | [32359-zombie-apocalypse-escape-the-undead-city.json](./32359-zombie-apocalypse-escape-the-undead-city.json) |
 | Zombie Apocalypse: Survival Stories | 249325 | [249325-zombie-apocalypse-survival-stories.json](./249325-zombie-apocalypse-survival-stories.json) |
 | Zombie Apocalypse: The Last Defense | 211147 | [211147-zombie-apocalypse-the-last-defense.json](./211147-zombie-apocalypse-the-last-defense.json) |
+| Zombie Apocalypse: The Last Fortress | 235067 | [235067-zombie-apocalypse-the-last-fortress.json](./235067-zombie-apocalypse-the-last-fortress.json) |
 | Zombie Arena | 220740 | [220740-zombie-arena.json](./220740-zombie-arena.json) |
 | Zombie Army 4: Dead War - Deluxe Edition | 129784 | [129784-zombie-army-4-dead-war-deluxe-edition.json](./129784-zombie-army-4-dead-war-deluxe-edition.json) |
 | Zombie Army 4: Dead War - Mission 2: Blood Count | 133936 | [133936-zombie-army-4-dead-war-mission-2-blood-count.json](./133936-zombie-army-4-dead-war-mission-2-blood-count.json) |
@@ -1475,6 +1476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombii Attack | 84966 | [84966-zombii-attack.json](./84966-zombii-attack.json) |
 | Zombikini PinballZ | 258886 | [258886-zombikini-pinballz.json](./258886-zombikini-pinballz.json) |
 | Zombillie | 33167 | [33167-zombillie.json](./33167-zombillie.json) |
+| Zombinions | 235041 | [235041-zombinions.json](./235041-zombinions.json) |
 | Zombinoia | 137884 | [137884-zombinoia.json](./137884-zombinoia.json) |
 | Zombiolence | 256723 | [256723-zombiolence.json](./256723-zombiolence.json) |
 | Zombiology | 301638 | [301638-zombiology.json](./301638-zombiology.json) |
