@@ -5010,6 +5010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meaty McSkinBones | 116281 | [116281-meaty-mcskinbones.json](./116281-meaty-mcskinbones.json) |
 | Meawja | 57194 | [57194-meawja.json](./57194-meawja.json) |
 | Mebius Adventure | 206172 | [206172-mebius-adventure.json](./206172-mebius-adventure.json) |
+| Mecanic | 213792 | [213792-mecanic.json](./213792-mecanic.json) |
 | Mecarobot Golf | 42498 | [42498-mecarobot-golf.json](./42498-mecarobot-golf.json) |
 | Meccha! Taiko no Tatsujin DS: 7-tsu no Shima no Daibouken | 72548 | [72548-meccha-taiko-no-tatsujin-ds-7-tsu-no-shima-no-daibouken.json](./72548-meccha-taiko-no-tatsujin-ds-7-tsu-no-shima-no-daibouken.json) |
 | Mech | 110274 | [110274-mech.json](./110274-mech.json) |
@@ -6747,6 +6748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Puzzle: Futanari Boss | 212983 | [212983-memory-puzzle-futanari-boss.json](./212983-memory-puzzle-futanari-boss.json) |
 | Memory Puzzle: Futanari Doctor | 204945 | [204945-memory-puzzle-futanari-doctor.json](./204945-memory-puzzle-futanari-doctor.json) |
 | Memory Puzzle: Futanari Gym | 368623 | [368623-memory-puzzle-futanari-gym.json](./368623-memory-puzzle-futanari-gym.json) |
+| Memory Puzzle: Futanari Massage | 213778 | [213778-memory-puzzle-futanari-massage.json](./213778-memory-puzzle-futanari-massage.json) |
 | Memory Puzzle: Hentai Angels | 286465 | [286465-memory-puzzle-hentai-angels.json](./286465-memory-puzzle-hentai-angels.json) |
 | Memory Puzzle: Mile High Fun | 225192 | [225192-memory-puzzle-mile-high-fun.json](./225192-memory-puzzle-mile-high-fun.json) |
 | Memory Puzzle: Mystery Mermaids | 286467 | [286467-memory-puzzle-mystery-mermaids.json](./286467-memory-puzzle-mystery-mermaids.json) |
@@ -7699,6 +7701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid Redemption | 134629 | [134629-metroid-redemption.json](./134629-metroid-redemption.json) |
 | Metroid RPG: Kilo Squadron​ | 323036 | [323036-metroid-rpg-kilo-squadron.json](./323036-metroid-rpg-kilo-squadron.json) |
 | Metroid SNES | 377749 | [377749-metroid-snes.json](./377749-metroid-snes.json) |
+| Metroid Spooky Mission 2: The Nightmare Before Christmas | 213826 | [213826-metroid-spooky-mission-2-the-nightmare-before-christmas.json](./213826-metroid-spooky-mission-2-the-nightmare-before-christmas.json) |
 | Metroid Tactics | 264878 | [264878-metroid-tactics.json](./264878-metroid-tactics.json) |
 | Metroid Treasure Hunt Remake | 323999 | [323999-metroid-treasure-hunt-remake.json](./323999-metroid-treasure-hunt-remake.json) |
 | Metroid Vanguard | 331700 | [331700-metroid-vanguard.json](./331700-metroid-vanguard.json) |
@@ -7725,6 +7728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid: Rogue Dawn | 65036 | [65036-metroid-rogue-dawn.json](./65036-metroid-rogue-dawn.json) |
 | Metroid: Samus Returns | 37140 | [37140-metroid-samus-returns.json](./37140-metroid-samus-returns.json) |
 | Metroid: Samus Returns - Special Edition | 136292 | [136292-metroid-samus-returns-special-edition.json](./136292-metroid-samus-returns-special-edition.json) |
+| Metroid: Spooky Mission | 213825 | [213825-metroid-spooky-mission.json](./213825-metroid-spooky-mission.json) |
 | Metroid: SR388 | 324000 | [324000-metroid-sr388.json](./324000-metroid-sr388.json) |
 | Metroid: Subzero | 220777 | [220777-metroid-subzero.json](./220777-metroid-subzero.json) |
 | Metroid: Super Zero Mission | 42205 | [42205-metroid-super-zero-mission.json](./42205-metroid-super-zero-mission.json) |
@@ -9191,6 +9195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Breaker Simulator 2026 | 386372 | [386372-mine-breaker-simulator-2026.json](./386372-mine-breaker-simulator-2026.json) |
 | Mine Cards | 182866 | [182866-mine-cards.json](./182866-mine-cards.json) |
 | Mine Click | 358288 | [358288-mine-click.json](./358288-mine-click.json) |
+| Mine Combat | 213819 | [213819-mine-combat.json](./213819-mine-combat.json) |
 | Mine Crazy: The Korean Grinder | 158678 | [158678-mine-crazy-the-korean-grinder.json](./158678-mine-crazy-the-korean-grinder.json) |
 | Mine Defense | 412313 | [412313-mine-defense.json](./412313-mine-defense.json) |
 | Mine Empire | 404432 | [404432-mine-empire.json](./404432-mine-empire.json) |
@@ -11043,6 +11048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Sonic Adventure 2: The Trial | 350564 | [350564-modern-sonic-adventure-2-the-trial.json](./350564-modern-sonic-adventure-2-the-trial.json) |
 | Modern Strike Online | 36958 | [36958-modern-strike-online.json](./36958-modern-strike-online.json) |
 | Modern Tales: Age of Invention | 74152 | [74152-modern-tales-age-of-invention.json](./74152-modern-tales-age-of-invention.json) |
+| Modern Tanks: War Tank | 213810 | [213810-modern-tanks-war-tank.json](./213810-modern-tanks-war-tank.json) |
 | Modern Towers | 140988 | [140988-modern-towers.json](./140988-modern-towers.json) |
 | Modern War | 100206 | [100206-modern-war.json](./100206-modern-war.json) |
 | Modern War | 59311 | [59311-modern-war.json](./59311-modern-war.json) |
@@ -12681,6 +12687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moorhuhn VR | 144598 | [144598-moorhuhn-vr.json](./144598-moorhuhn-vr.json) |
 | Moorhuhn VR Blast | 327794 | [327794-moorhuhn-vr-blast.json](./327794-moorhuhn-vr-blast.json) |
 | Moorhuhn X | 282437 | [282437-moorhuhn-x.json](./282437-moorhuhn-x.json) |
+| Moorhuhn X: Crazy Chicken X | 213797 | [213797-moorhuhn-x-crazy-chicken-x.json](./213797-moorhuhn-x-crazy-chicken-x.json) |
 | Moorhuhn: Big Adventure | 282479 | [282479-moorhuhn-big-adventure.json](./282479-moorhuhn-big-adventure.json) |
 | Moorhuhn: Die ersten 10 Jahre | 265946 | [265946-moorhuhn-die-ersten-10-jahre.json](./265946-moorhuhn-die-ersten-10-jahre.json) |
 | Moorhuhn: Kart Racer | 282435 | [282435-moorhuhn-kart-racer.json](./282435-moorhuhn-kart-racer.json) |
@@ -13344,6 +13351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Heyalda | 175288 | [175288-moto-heyalda.json](./175288-moto-heyalda.json) |
 | Moto Knight | 287203 | [287203-moto-knight.json](./287203-moto-knight.json) |
 | Moto Mania Dirt Bike Challenge | 102829 | [102829-moto-mania-dirt-bike-challenge.json](./102829-moto-mania-dirt-bike-challenge.json) |
+| Moto Maniac 2 | 213814 | [213814-moto-maniac-2.json](./213814-moto-maniac-2.json) |
 | Moto Mouse Stunt Mania | 193475 | [193475-moto-mouse-stunt-mania.json](./193475-moto-mouse-stunt-mania.json) |
 | Moto Parkour | 293640 | [293640-moto-parkour.json](./293640-moto-parkour.json) |
 | Moto Pizza Courier | 220681 | [220681-moto-pizza-courier.json](./220681-moto-pizza-courier.json) |
@@ -14369,6 +14377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multi Maze 3D: Roll Pack | 293156 | [293156-multi-maze-3d-roll-pack.json](./293156-multi-maze-3d-roll-pack.json) |
 | Multi Play Volleyball | 38363 | [38363-multi-play-volleyball.json](./38363-multi-play-volleyball.json) |
 | Multi Quiz | 147850 | [147850-multi-quiz.json](./147850-multi-quiz.json) |
+| Multi Race: Match the Car | 213806 | [213806-multi-race-match-the-car.json](./213806-multi-race-match-the-car.json) |
 | Multi Sandbox | 102751 | [102751-multi-sandbox.json](./102751-multi-sandbox.json) |
 | Multi Sports | 94688 | [94688-multi-sports.json](./94688-multi-sports.json) |
 | Multi Sports II | 301579 | [301579-multi-sports-ii.json](./301579-multi-sports-ii.json) |
