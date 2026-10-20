@@ -3619,6 +3619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LightCells | 368582 | [368582-lightcells.json](./368582-lightcells.json) |
 | Lightclusters | 289552 | [289552-lightclusters.json](./289552-lightclusters.json) |
 | Lightdancer | 289176 | [289176-lightdancer.json](./289176-lightdancer.json) |
+| LightEaters! | 233910 | [233910-lighteaters.json](./233910-lighteaters.json) |
 | Lighted Knights | 123525 | [123525-lighted-knights.json](./123525-lighted-knights.json) |
 | Lighten Up | 223407 | [223407-lighten-up.json](./223407-lighten-up.json) |
 | Lightening Force: Quest for the Darkstar | 46273 | [46273-lightening-force-quest-for-the-darkstar.json](./46273-lightening-force-quest-for-the-darkstar.json) |
