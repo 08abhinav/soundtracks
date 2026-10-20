@@ -1470,6 +1470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume no Office | 255546 | [255546-yume-no-office.json](./255546-yume-no-office.json) |
 | Yume no Tamakura | 370778 | [370778-yume-no-tamakura.json](./370778-yume-no-tamakura.json) |
 | Yume Nyaki | 201639 | [201639-yume-nyaki.json](./201639-yume-nyaki.json) |
+| Yume Otoshi | 205964 | [205964-yume-otoshi.json](./205964-yume-otoshi.json) |
 | Yume Oukoku to Nemureru 100-nin no Ouji-sama | 109062 | [109062-yume-oukoku-to-nemureru-100-nin-no-ouji-sama.json](./109062-yume-oukoku-to-nemureru-100-nin-no-ouji-sama.json) |
 | Yume Penguin Monogatari | 48596 | [48596-yume-penguin-monogatari.json](./48596-yume-penguin-monogatari.json) |
 | Yume Petto | 226677 | [226677-yume-petto.json](./226677-yume-petto.json) |
