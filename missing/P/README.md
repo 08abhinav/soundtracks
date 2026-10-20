@@ -1430,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise City Island Sim Town | 87148 | [87148-paradise-city-island-sim-town.json](./87148-paradise-city-island-sim-town.json) |
 | Paradise Cleaning: Days with Marie, My Love | 370754 | [370754-paradise-cleaning-days-with-marie-my-love.json](./370754-paradise-cleaning-days-with-marie-my-love.json) |
 | Paradise Cleaning!: Married Woman Cosplay Life | 235479 | [235479-paradise-cleaning-married-woman-cosplay-life.json](./235479-paradise-cleaning-married-woman-cosplay-life.json) |
+| Paradise Cleaning!: Sexual Massage shop - Akari | 246795 | [246795-paradise-cleaning-sexual-massage-shop-akari.json](./246795-paradise-cleaning-sexual-massage-shop-akari.json) |
 | Paradise Corner | 413668 | [413668-paradise-corner.json](./413668-paradise-corner.json) |
 | Paradise Corner 2 | 417351 | [417351-paradise-corner-2.json](./417351-paradise-corner-2.json) |
 | Paradise Cracked | 71647 | [71647-paradise-cracked.json](./71647-paradise-cracked.json) |
@@ -7096,6 +7097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plasma Spheres | 69162 | [69162-plasma-spheres.json](./69162-plasma-spheres.json) |
 | Plasma Sword: Nightmare of Bilstein | 14679 | [14679-plasma-sword-nightmare-of-bilstein.json](./14679-plasma-sword-nightmare-of-bilstein.json) |
 | Plasma Warrior | 94562 | [94562-plasma-warrior.json](./94562-plasma-warrior.json) |
+| PlasmaBlast | 246797 | [246797-plasmablast.json](./246797-plasmablast.json) |
 | Plasmaborne | 413592 | [413592-plasmaborne.json](./413592-plasmaborne.json) |
 | Plasmania | 94618 | [94618-plasmania.json](./94618-plasmania.json) |
 | Plasmaplant | 262177 | [262177-plasmaplant.json](./262177-plasmaplant.json) |
@@ -8958,6 +8960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Impulse | 288073 | [288073-poly-impulse.json](./288073-poly-impulse.json) |
 | Poly Island | 113867 | [113867-poly-island.json](./113867-poly-island.json) |
 | Poly Jigsaw Puzzle | 105780 | [105780-poly-jigsaw-puzzle.json](./105780-poly-jigsaw-puzzle.json) |
+| Poly Jigsaw: Dinosaurs | 246798 | [246798-poly-jigsaw-dinosaurs.json](./246798-poly-jigsaw-dinosaurs.json) |
 | Poly Jigsaw: Dogs | 248665 | [248665-poly-jigsaw-dogs.json](./248665-poly-jigsaw-dogs.json) |
 | Poly Jigsaw: Furries 2 | 256999 | [256999-poly-jigsaw-furries-2.json](./256999-poly-jigsaw-furries-2.json) |
 | Poly Jigsaw: Predators | 388262 | [388262-poly-jigsaw-predators.json](./388262-poly-jigsaw-predators.json) |
@@ -12962,6 +12965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punchball | 326107 | [326107-punchball.json](./326107-punchball.json) |
 | Punchball | 350054 | [350054-punchball.json](./350054-punchball.json) |
 | Punched | 190465 | [190465-punched.json](./190465-punched.json) |
+| Puncherman!: First Day | 246799 | [246799-puncherman-first-day.json](./246799-puncherman-first-day.json) |
 | Punchgolf | 291035 | [291035-punchgolf.json](./291035-punchgolf.json) |
 | Punchhead | 96074 | [96074-punchhead.json](./96074-punchhead.json) |
 | Punching a Concrete Wall | 399013 | [399013-punching-a-concrete-wall.json](./399013-punching-a-concrete-wall.json) |
