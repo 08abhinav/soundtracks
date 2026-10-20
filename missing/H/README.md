@@ -2002,6 +2002,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Halls: Fears from Childhood - Collector's Edition | 86437 | [86437-haunted-halls-fears-from-childhood-collectors-edition.json](./86437-haunted-halls-fears-from-childhood-collectors-edition.json) |
 | Haunted Halls: Green Hills Sanitarium | 84146 | [84146-haunted-halls-green-hills-sanitarium.json](./84146-haunted-halls-green-hills-sanitarium.json) |
 | Haunted Halls: Green Hills Sanitarium - Collector's Edition | 37011 | [37011-haunted-halls-green-hills-sanitarium-collectors-edition.json](./37011-haunted-halls-green-hills-sanitarium-collectors-edition.json) |
+| Haunted Halls: Nightmare Dwellers | 214355 | [214355-haunted-halls-nightmare-dwellers.json](./214355-haunted-halls-nightmare-dwellers.json) |
+| Haunted Halls: Nightmare Dwellers - Collector's Edition | 214356 | [214356-haunted-halls-nightmare-dwellers-collectors-edition.json](./214356-haunted-halls-nightmare-dwellers-collectors-edition.json) |
 | Haunted Halls: Revenge of Doctor Blackmore - Collector's Edition | 105163 | [105163-haunted-halls-revenge-of-doctor-blackmore-collectors-edition.json](./105163-haunted-halls-revenge-of-doctor-blackmore-collectors-edition.json) |
 | Haunted Heart | 299533 | [299533-haunted-heart.json](./299533-haunted-heart.json) |
 | Haunted Hearts Hotel | 340418 | [340418-haunted-hearts-hotel.json](./340418-haunted-hearts-hotel.json) |
@@ -3362,6 +3364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty no Waku-waku Quiz | 61677 | [61677-hello-kitty-no-waku-waku-quiz.json](./61677-hello-kitty-no-waku-waku-quiz.json) |
 | Hello Kitty Online | 3685 | [3685-hello-kitty-online.json](./3685-hello-kitty-online.json) |
 | Hello Kitty Orchard | 288136 | [288136-hello-kitty-orchard.json](./288136-hello-kitty-orchard.json) |
+| Hello Kitty Pac-Man | 214363 | [214363-hello-kitty-pac-man.json](./214363-hello-kitty-pac-man.json) |
 | Hello Kitty Pocket Camera | 207263 | [207263-hello-kitty-pocket-camera.json](./207263-hello-kitty-pocket-camera.json) |
 | Hello Kitty Racing Adventures | 279606 | [279606-hello-kitty-racing-adventures.json](./279606-hello-kitty-racing-adventures.json) |
 | Hello Kitty Skyland | 382441 | [382441-hello-kitty-skyland.json](./382441-hello-kitty-skyland.json) |
@@ -4545,6 +4548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Chronicles: The Sword of Frost | 8140 | [8140-heroes-chronicles-the-sword-of-frost.json](./8140-heroes-chronicles-the-sword-of-frost.json) |
 | Heroes Chronicles: Warlords of the Wasteland | 7845 | [7845-heroes-chronicles-warlords-of-the-wasteland.json](./7845-heroes-chronicles-warlords-of-the-wasteland.json) |
 | Heroes Clash | 226778 | [226778-heroes-clash.json](./226778-heroes-clash.json) |
+| Heroes Corp | 214323 | [214323-heroes-corp.json](./214323-heroes-corp.json) |
 | Heroes de Peronia | 272761 | [272761-heroes-de-peronia.json](./272761-heroes-de-peronia.json) |
 | Heroes Evolved | 28819 | [28819-heroes-evolved.json](./28819-heroes-evolved.json) |
 | Heroes For Hire | 295559 | [295559-heroes-for-hire.json](./295559-heroes-for-hire.json) |
@@ -4882,6 +4886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexaMerge 2048 | 384210 | [384210-hexamerge-2048.json](./384210-hexamerge-2048.json) |
 | Hexameron: Phase One | 271773 | [271773-hexameron-phase-one.json](./271773-hexameron-phase-one.json) |
 | HexaMon | 75204 | [75204-hexamon.json](./75204-hexamon.json) |
+| Hexane | 214367 | [214367-hexane.json](./214367-hexane.json) |
 | Hexanome | 110601 | [110601-hexanome.json](./110601-hexanome.json) |
 | Hexarchia | 175932 | [175932-hexarchia.json](./175932-hexarchia.json) |
 | Hexarchy | 139362 | [139362-hexarchy.json](./139362-hexarchy.json) |
