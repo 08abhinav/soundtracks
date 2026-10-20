@@ -4312,6 +4312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dekaron M | 165416 | [165416-dekaron-m.json](./165416-dekaron-m.json) |
 | Dekiai Heart Candy Kun. | 327899 | [327899-dekiai-heart-candy-kun.json](./327899-dekiai-heart-candy-kun.json) |
 | Dekinai Watashi ga, Kurikaesu. | 402473 | [402473-dekinai-watashi-ga-kurikaesu.json](./402473-dekinai-watashi-ga-kurikaesu.json) |
+| Dekiru! Game Center | 255516 | [255516-dekiru-game-center.json](./255516-dekiru-game-center.json) |
 | Dekisugi Tingle Pack | 100169 | [100169-dekisugi-tingle-pack.json](./100169-dekisugi-tingle-pack.json) |
 | Dekitate High School | 44418 | [44418-dekitate-high-school.json](./44418-dekitate-high-school.json) |
 | Dekitayo Mama! Mitsugo no Kuma-San - Onna no Ko | 124664 | [124664-dekitayo-mama-mitsugo-no-kuma-san-onna-no-ko.json](./124664-dekitayo-mama-mitsugo-no-kuma-san-onna-no-ko.json) |
@@ -6446,6 +6447,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Rowdy | 299766 | [299766-die-rowdy.json](./299766-die-rowdy.json) |
 | Die Sage von Nietoom | 92927 | [92927-die-sage-von-nietoom.json](./92927-die-sage-von-nietoom.json) |
 | Die schwarzen Reiter | 112896 | [112896-die-schwarzen-reiter.json](./112896-die-schwarzen-reiter.json) |
+| Die Siedler IV: Community Pack | 255533 | [255533-die-siedler-iv-community-pack.json](./255533-die-siedler-iv-community-pack.json) |
+| Die Siedler IV: Die Neue Welt | 255532 | [255532-die-siedler-iv-die-neue-welt.json](./255532-die-siedler-iv-die-neue-welt.json) |
 | Die Stadt der Löwen | 99696 | [99696-die-stadt-der-lowen.json](./99696-die-stadt-der-lowen.json) |
 | Die Together | 184465 | [184465-die-together.json](./184465-die-together.json) |
 | Die Totenmaske | 184105 | [184105-die-totenmaske.json](./184105-die-totenmaske.json) |
@@ -8722,6 +8725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki-doki Penguin Land | 6096 | [6096-doki-doki-penguin-land.json](./6096-doki-doki-penguin-land.json) |
 | Doki-doki Pretty League Lovely Star | 166575 | [166575-doki-doki-pretty-league-lovely-star.json](./166575-doki-doki-pretty-league-lovely-star.json) |
 | Doki-Doki Pretty League: Nekketsu Otome Seishunki | 306674 | [306674-doki-doki-pretty-league-nekketsu-otome-seishunki.json](./306674-doki-doki-pretty-league-nekketsu-otome-seishunki.json) |
+| Doki-doki Surprise | 255523 | [255523-doki-doki-surprise.json](./255523-doki-doki-surprise.json) |
 | Doki-Doki Universe | 8684 | [8684-doki-doki-universe.json](./8684-doki-doki-universe.json) |
 | Doki: Chapter 0 | 304217 | [304217-doki-chapter-0.json](./304217-doki-chapter-0.json) |
 | Doki! Doki! Yuuenchi: Crazy Land Daisakusen | 48663 | [48663-doki-doki-yuuenchi-crazy-land-daisakusen.json](./48663-doki-doki-yuuenchi-crazy-land-daisakusen.json) |
