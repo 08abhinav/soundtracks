@@ -786,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Limbo | 321227 | [321227-laser-limbo.json](./321227-laser-limbo.json) |
 | Laser Logic | 406065 | [406065-laser-logic.json](./406065-laser-logic.json) |
 | Laser Lords | 45919 | [45919-laser-lords.json](./45919-laser-lords.json) |
+| Laser Man | 238914 | [238914-laser-man.json](./238914-laser-man.json) |
 | Laser Maze | 100243 | [100243-laser-maze.json](./100243-laser-maze.json) |
 | Laser Nodes | 233421 | [233421-laser-nodes.json](./233421-laser-nodes.json) |
 | Laser Overload 2 | 167669 | [167669-laser-overload-2.json](./167669-laser-overload-2.json) |
@@ -3143,6 +3144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lezdom CEO Fantasy | 331308 | [331308-lezdom-ceo-fantasy.json](./331308-lezdom-ceo-fantasy.json) |
 | Lezorub | 286002 | [286002-lezorub.json](./286002-lezorub.json) |
 | LFS S6 Quest | 323732 | [323732-lfs-s6-quest.json](./323732-lfs-s6-quest.json) |
+| LG Chess | 238916 | [238916-lg-chess.json](./238916-lg-chess.json) |
 | LGBT Battlegrounds | 103633 | [103633-lgbt-battlegrounds.json](./103633-lgbt-battlegrounds.json) |
 | LGBT Color by Number for Adults | 165035 | [165035-lgbt-color-by-number-for-adults.json](./165035-lgbt-color-by-number-for-adults.json) |
 | LGBT+ Flags | 182840 | [182840-lgbt-flags.json](./182840-lgbt-flags.json) |
@@ -6410,6 +6412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Birds | 236734 | [236734-love-birds.json](./236734-love-birds.json) |
 | Love Bites | 254451 | [254451-love-bites.json](./254451-love-bites.json) |
 | Love Breakout | 280176 | [280176-love-breakout.json](./280176-love-breakout.json) |
+| Love Brings You Home | 238907 | [238907-love-brings-you-home.json](./238907-love-brings-you-home.json) |
 | Love Cat Life | 123349 | [123349-love-cat-life.json](./123349-love-cat-life.json) |
 | Love Challenge | 245717 | [245717-love-challenge.json](./245717-love-challenge.json) |
 | Love Change | 217949 | [217949-love-change.json](./217949-love-change.json) |
