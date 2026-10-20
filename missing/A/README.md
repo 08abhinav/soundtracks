@@ -9242,6 +9242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Midnight Landing | 375404 | [375404-arcade-archives-midnight-landing.json](./375404-arcade-archives-midnight-landing.json) |
 | Arcade Archives: Mirai Ninja | 186563 | [186563-arcade-archives-mirai-ninja.json](./186563-arcade-archives-mirai-ninja.json) |
 | Arcade Archives: Moon Patrol | 95050 | [95050-arcade-archives-moon-patrol.json](./95050-arcade-archives-moon-patrol.json) |
+| Arcade Archives: Motos | 204873 | [204873-arcade-archives-motos.json](./204873-arcade-archives-motos.json) |
 | Arcade Archives: Mr. Goemon | 99763 | [99763-arcade-archives-mr-goemon.json](./99763-arcade-archives-mr-goemon.json) |
 | Arcade Archives: Mutant Night | 121427 | [121427-arcade-archives-mutant-night.json](./121427-arcade-archives-mutant-night.json) |
 | Arcade Archives: MX5000 | 99537 | [99537-arcade-archives-mx5000.json](./99537-arcade-archives-mx5000.json) |
@@ -10592,6 +10593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Around the Fire | 157166 | [157166-around-the-fire.json](./157166-around-the-fire.json) |
 | Around the Moon | 90103 | [90103-around-the-moon.json](./90103-around-the-moon.json) |
 | Around the Words | 52092 | [52092-around-the-words.json](./52092-around-the-words.json) |
+| Around the World | 204867 | [204867-around-the-world.json](./204867-around-the-world.json) |
 | Around the World | 51092 | [51092-around-the-world.json](./51092-around-the-world.json) |
 | Around The World | 348936 | [348936-around-the-world.json](./348936-around-the-world.json) |
 | Around the World 2 with the Johnson Family | 357421 | [357421-around-the-world-2-with-the-johnson-family.json](./357421-around-the-world-2-with-the-johnson-family.json) |
@@ -11916,6 +11918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Fighters | 334190 | [334190-astro-fighters.json](./334190-astro-fighters.json) |
 | Astro Fighters 2 | 375991 | [375991-astro-fighters-2.json](./375991-astro-fighters-2.json) |
 | Astro Galaxy | 346140 | [346140-astro-galaxy.json](./346140-astro-galaxy.json) |
+| Astro Ike | 204805 | [204805-astro-ike.json](./204805-astro-ike.json) |
 | Astro Invader | 39656 | [39656-astro-invader.json](./39656-astro-invader.json) |
 | Astro Invaders | 206236 | [206236-astro-invaders.json](./206236-astro-invaders.json) |
 | Astro Kitty: Space Mining | 422490 | [422490-astro-kitty-space-mining.json](./422490-astro-kitty-space-mining.json) |
@@ -11975,6 +11978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrobuilder | 334690 | [334690-astrobuilder.json](./334690-astrobuilder.json) |
 | Astroburrow | 358375 | [358375-astroburrow.json](./358375-astroburrow.json) |
 | Astrocat: Milky Way Journey | 196264 | [196264-astrocat-milky-way-journey.json](./196264-astrocat-milky-way-journey.json) |
+| Astrocat: Skylar's Memories | 204804 | [204804-astrocat-skylars-memories.json](./204804-astrocat-skylars-memories.json) |
 | Astrochibbi | 377677 | [377677-astrochibbi.json](./377677-astrochibbi.json) |
 | Astrocode | 383119 | [383119-astrocode.json](./383119-astrocode.json) |
 | Astrocop | 295848 | [295848-astrocop.json](./295848-astrocop.json) |
