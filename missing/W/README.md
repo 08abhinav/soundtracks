@@ -5518,6 +5518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodo | 145078 | [145078-woodo.json](./145078-woodo.json) |
 | Woodroid HD+ | 233742 | [233742-woodroid-hd.json](./233742-woodroid-hd.json) |
 | Woodrot | 357037 | [357037-woodrot.json](./357037-woodrot.json) |
+| Woods of Disturbance | 221040 | [221040-woods-of-disturbance.json](./221040-woods-of-disturbance.json) |
 | Woods of War | 329153 | [329153-woods-of-war.json](./329153-woods-of-war.json) |
 | Woodspell | 92959 | [92959-woodspell.json](./92959-woodspell.json) |
 | Woodswalker | 384195 | [384195-woodswalker.json](./384195-woodswalker.json) |
