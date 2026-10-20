@@ -4025,7 +4025,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Semaforo Climber | 255846 | [255846-semaforo-climber.json](./255846-semaforo-climber.json) |
 | Semantica: Semantic game | 231905 | [231905-semantica-semantic-game.json](./231905-semantica-semantic-game.json) |
 | Semantics | 388255 | [388255-semantics.json](./388255-semantics.json) |
-| Semblance | 55173 | [55173-semblance.json](./55173-semblance.json) |
 | Seme COM Dungeon: Drururuaga | 59876 | [59876-seme-com-dungeon-drururuaga.json](./59876-seme-com-dungeon-drururuaga.json) |
 | Semi-Sweet Tofu | 96904 | [96904-semi-sweet-tofu.json](./96904-semi-sweet-tofu.json) |
 | Semiramis no Tenbin | 60257 | [60257-semiramis-no-tenbin.json](./60257-semiramis-no-tenbin.json) |
@@ -4608,7 +4607,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven: Drowned Past | 280861 | [280861-seven-drowned-past.json](./280861-seven-drowned-past.json) |
 | Seven: Enhanced - Collector's Edition | 154529 | [154529-seven-enhanced-collectors-edition.json](./154529-seven-enhanced-collectors-edition.json) |
 | Seven: Reboot | 82056 | [82056-seven-reboot.json](./82056-seven-reboot.json) |
-| Seven: The Days Long Gone | 18908 | [18908-seven-the-days-long-gone.json](./18908-seven-the-days-long-gone.json) |
 | Seven: The Days Long Gone - Digital Collector's Edition | 25875 | [25875-seven-the-days-long-gone-digital-collectors-edition.json](./25875-seven-the-days-long-gone-digital-collectors-edition.json) |
 | Seven's Code | 125361 | [125361-sevens-code.json](./125361-sevens-code.json) |
 | Sevenfall | 387540 | [387540-sevenfall.json](./387540-sevenfall.json) |
@@ -21169,7 +21167,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter V: 2017 Deluxe Edition | 53678 | [53678-street-fighter-v-2017-deluxe-edition.json](./53678-street-fighter-v-2017-deluxe-edition.json) |
 | Street Fighter V: A Shadow Falls | 146526 | [146526-street-fighter-v-a-shadow-falls.json](./146526-street-fighter-v-a-shadow-falls.json) |
 | Street Fighter V: Alex | 321628 | [321628-street-fighter-v-alex.json](./321628-street-fighter-v-alex.json) |
-| Street Fighter V: Arcade Edition | 74155 | [74155-street-fighter-v-arcade-edition.json](./74155-street-fighter-v-arcade-edition.json) |
 | Street Fighter V: BCRF Pink Ribbon Bundle | 345848 | [345848-street-fighter-v-bcrf-pink-ribbon-bundle.json](./345848-street-fighter-v-bcrf-pink-ribbon-bundle.json) |
 | Street Fighter V: Blanka | 322207 | [322207-street-fighter-v-blanka.json](./322207-street-fighter-v-blanka.json) |
 | Street Fighter V: Capcom Costumes Bundle 1 | 344250 | [344250-street-fighter-v-capcom-costumes-bundle-1.json](./344250-street-fighter-v-capcom-costumes-bundle-1.json) |
