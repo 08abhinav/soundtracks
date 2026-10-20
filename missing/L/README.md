@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Voz: Quiero tu Voz | 268439 | [268439-la-voz-quiero-tu-voz.json](./268439-la-voz-quiero-tu-voz.json) |
 | La Vuelta al Mundo con Vascolet | 347111 | [347111-la-vuelta-al-mundo-con-vascolet.json](./347111-la-vuelta-al-mundo-con-vascolet.json) |
 | La Yaga | 383693 | [383693-la-yaga.json](./383693-la-yaga.json) |
+| La-Mulana | 210439 | [210439-la-mulana.json](./210439-la-mulana.json) |
 | La-Mulana | 7895 | [7895-la-mulana.json](./7895-la-mulana.json) |
 | La-Mulana | 7936 | [7936-la-mulana.json](./7936-la-mulana.json) |
 | La-Mulana & La-Mulana 2 | 130905 | [130905-la-mulana-and-la-mulana-2.json](./130905-la-mulana-and-la-mulana-2.json) |
@@ -3123,6 +3124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lewd Anime Racing | 235725 | [235725-lewd-anime-racing.json](./235725-lewd-anime-racing.json) |
 | Lewd Beach | 367201 | [367201-lewd-beach.json](./367201-lewd-beach.json) |
 | Lewd Cell | 274970 | [274970-lewd-cell.json](./274970-lewd-cell.json) |
+| Lewd City Girls | 210465 | [210465-lewd-city-girls.json](./210465-lewd-city-girls.json) |
 | Lewd Delivery | 235352 | [235352-lewd-delivery.json](./235352-lewd-delivery.json) |
 | Lewd Guest | 215643 | [215643-lewd-guest.json](./215643-lewd-guest.json) |
 | Lewd Gym | 207337 | [207337-lewd-gym.json](./207337-lewd-gym.json) |
