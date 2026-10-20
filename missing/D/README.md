@@ -13747,6 +13747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeonbowl: Knockout Edition | 28084 | [28084-dungeonbowl-knockout-edition.json](./28084-dungeonbowl-knockout-edition.json) |
 | DungeonBox | 355028 | [355028-dungeonbox.json](./355028-dungeonbox.json) |
 | DungeonCrawlers | 363008 | [363008-dungeoncrawlers.json](./363008-dungeoncrawlers.json) |
+| Dungeoned | 213790 | [213790-dungeoned.json](./213790-dungeoned.json) |
 | Dungeoneer | 377334 | [377334-dungeoneer.json](./377334-dungeoneer.json) |
 | Dungeoneer | 76957 | [76957-dungeoneer.json](./76957-dungeoneer.json) |
 | Dungeoneering | 184432 | [184432-dungeoneering.json](./184432-dungeoneering.json) |
