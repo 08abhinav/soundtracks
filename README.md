@@ -1585,6 +1585,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b2732e9726694dc3974b1d231755" width="60" /> | [Tekken 5](https://ostdb.net/games/tekken-5) | **TEKKEN 5 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3VmBSW1iNRRgRp4wTSnQ7n)<br>**TEKKEN 5 DARK RESURRECTION (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3JiKbufQ6jn4YAwmQbcrjz) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/56/c6/5a/56c65ad5-4ee2-0a9d-4f11-0297deee077a/PA00133957_0_179868_jacket.jpg/600x600bb.jpg" width="60" /> | [Tekken 6](https://ostdb.net/games/tekken-6) | **TEKKEN 6 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6nwB1PuFMRt9gf5vstkK4V) · [Apple Music](https://music.apple.com/us/album/tekken-6-original-soundtrack/1724899446) · [Album](https://album.link/i/1724899446) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737b410cb2b752365be2bbcd43" width="60" /> | [Tekken 6](https://ostdb.net/games/tekken-6) | **TEKKEN 6 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6nwB1PuFMRt9gf5vstkK4V) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737b410cb2b752365be2bbcd43" width="60" /> | [Tekken 6](https://ostdb.net/games/tekken-6) | **TEKKEN 6 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6nwB1PuFMRt9gf5vstkK4V) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27350d891828e868c643e48b097" width="60" /> | [Tekken 7](https://ostdb.net/games/tekken-7) | **TEKKEN 7 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3FbknwsvffLmSpdKdtmyyZ)<br>**TEKKEN 7 (Original Soundtrack) [vol.2]** · [Spotify](https://open.spotify.com/album/4w5u1ApwM6kZz7evqqW0QP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d528b026f8dab2b3016beaf" width="60" /> | [Tekken Revolution](https://ostdb.net/games/tekken-revolution) | **TEKKEN REVOLUTION (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7zzfrcdcVtn3CfFKSKBc9V) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27364871d0ce4d313f1e344897b" width="60" /> | [Tekken Tag Tournament](https://ostdb.net/games/tekken-tag-tournament) | **TEKKEN TAG TOURNAMENT (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3gswfNdvotlgcoCTGC3r4A) |
@@ -1956,4 +1957,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2273 soundtracks · last updated 2026-10-20T21:42:30.762Z_
+_2274 soundtracks · last updated 2026-10-20T21:42:44.060Z_
