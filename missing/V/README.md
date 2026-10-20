@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valley of the Crescent Mountain | 56160 | [56160-valley-of-the-crescent-mountain.json](./56160-valley-of-the-crescent-mountain.json) |
 | Valley of the Dead: MalnaZidos | 193287 | [193287-valley-of-the-dead-malnazidos.json](./193287-valley-of-the-dead-malnazidos.json) |
 | Valley of the Moon | 184485 | [184485-valley-of-the-moon.json](./184485-valley-of-the-moon.json) |
+| Valley of The Savage Run | 250765 | [250765-valley-of-the-savage-run.json](./250765-valley-of-the-savage-run.json) |
 | Valley of Tribes | 338575 | [338575-valley-of-tribes.json](./338575-valley-of-tribes.json) |
 | Valley of Unicorns | 24948 | [24948-valley-of-unicorns.json](./24948-valley-of-unicorns.json) |
 | Valley Peaks | 177031 | [177031-valley-peaks.json](./177031-valley-peaks.json) |
@@ -1823,6 +1824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violet | 184526 | [184526-violet.json](./184526-violet.json) |
 | Violet | 265152 | [265152-violet.json](./265152-violet.json) |
 | Violet and... | 178331 | [178331-violet-and.json](./178331-violet-and.json) |
+| Violet Bricks | 250771 | [250771-violet-bricks.json](./250771-violet-bricks.json) |
 | Violet Cycle | 81245 | [81245-violet-cycle.json](./81245-violet-cycle.json) |
 | Violet Girl | 169777 | [169777-violet-girl.json](./169777-violet-girl.json) |
 | Violet Kingdom | 273807 | [273807-violet-kingdom.json](./273807-violet-kingdom.json) |
