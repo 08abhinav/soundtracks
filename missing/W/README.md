@@ -592,7 +592,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanted Shadows | 267679 | [267679-wanted-shadows.json](./267679-wanted-shadows.json) |
 | Wanted Shadows: Unchained | 373076 | [373076-wanted-shadows-unchained.json](./373076-wanted-shadows-unchained.json) |
 | Wanted Wizard 2 | 268933 | [268933-wanted-wizard-2.json](./268933-wanted-wizard-2.json) |
-| Wanted: Dead | 173091 | [173091-wanted-dead.json](./173091-wanted-dead.json) |
 | Wanted: Dead - Collector's Edition | 228736 | [228736-wanted-dead-collectors-edition.json](./228736-wanted-dead-collectors-edition.json) |
 | Wanted: Dead or Alive | 333770 | [333770-wanted-dead-or-alive.json](./333770-wanted-dead-or-alive.json) |
 | Wanted: Gunslinger's Kiss | 298984 | [298984-wanted-gunslingers-kiss.json](./298984-wanted-gunslingers-kiss.json) |
