@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yasashii Ori no Naka de | 388145 | [388145-yasashii-ori-no-naka-de.json](./388145-yasashii-ori-no-naka-de.json) |
 | Yasashii Tamagotchi | 229845 | [229845-yasashii-tamagotchi.json](./229845-yasashii-tamagotchi.json) |
 | YASG | 122326 | [122326-yasg.json](./122326-yasg.json) |
+| Yasha: Legends of the Demon Blade | 235083 | [235083-yasha-legends-of-the-demon-blade.json](./235083-yasha-legends-of-the-demon-blade.json) |
 | Yasha: Legends of the Demon Blade - Deluxe Edition | 351139 | [351139-yasha-legends-of-the-demon-blade-deluxe-edition.json](./351139-yasha-legends-of-the-demon-blade-deluxe-edition.json) |
 | Yashi - Sand Driver | 411675 | [411675-yashi-sand-driver.json](./411675-yashi-sand-driver.json) |
 | Yaso: Curse of Soirée | 182892 | [182892-yaso-curse-of-soiree.json](./182892-yaso-curse-of-soiree.json) |
