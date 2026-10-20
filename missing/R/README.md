@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R'lyeh Assault | 230194 | [230194-rlyeh-assault.json](./230194-rlyeh-assault.json) |
 | R/A\W | 341548 | [341548-r-a-w.json](./341548-r-a-w.json) |
 | R/C Sports: Copter Challenge | 202927 | [202927-r-c-sports-copter-challenge.json](./202927-r-c-sports-copter-challenge.json) |
+| R&Dy | 254940 | [254940-r-and-dy.json](./254940-r-and-dy.json) |
 | R00000 | 260309 | [260309-r00000.json](./260309-r00000.json) |
 | R00m | 199862 | [199862-r00m.json](./199862-r00m.json) |
 | R0x | 182917 | [182917-r0x.json](./182917-r0x.json) |
@@ -8097,6 +8098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Football: Sun Shrine | 387491 | [387491-room-football-sun-shrine.json](./387491-room-football-sun-shrine.json) |
 | Room Football: Wetlands | 339282 | [339282-room-football-wetlands.json](./339282-room-football-wetlands.json) |
 | Room For One! | 367478 | [367478-room-for-one.json](./367478-room-for-one.json) |
+| Room Map | 254937 | [254937-room-map.json](./254937-room-map.json) |
 | Room No. 9 | 156575 | [156575-room-no-9.json](./156575-room-no-9.json) |
 | Room of 1000 Snakes | 62436 | [62436-room-of-1000-snakes.json](./62436-room-of-1000-snakes.json) |
 | Room of Doom | 18533 | [18533-room-of-doom.json](./18533-room-of-doom.json) |
@@ -9599,6 +9601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty Rabbit | 267796 | [267796-rusty-rabbit.json](./267796-rusty-rabbit.json) |
 | Rusty Ride | 266794 | [266794-rusty-ride.json](./266794-rusty-ride.json) |
 | Rusty Road Racing | 324924 | [324924-rusty-road-racing.json](./324924-rusty-road-racing.json) |
+| Rusty Robot Wants to Cry | 254899 | [254899-rusty-robot-wants-to-cry.json](./254899-rusty-robot-wants-to-cry.json) |
 | Rusty Runner | 116938 | [116938-rusty-runner.json](./116938-rusty-runner.json) |
 | Rusty Seas | 207319 | [207319-rusty-seas.json](./207319-rusty-seas.json) |
 | Rusty Spout Rescue Adventure | 140956 | [140956-rusty-spout-rescue-adventure.json](./140956-rusty-spout-rescue-adventure.json) |
