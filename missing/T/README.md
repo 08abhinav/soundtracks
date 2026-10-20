@@ -5658,7 +5658,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coma 3: Bloodlines - Overly Attractive Teacher Skin | 401681 | [401681-the-coma-3-bloodlines-overly-attractive-teacher-skin.json](./401681-the-coma-3-bloodlines-overly-attractive-teacher-skin.json) |
 | The Coma: Back to School Bundle | 154967 | [154967-the-coma-back-to-school-bundle.json](./154967-the-coma-back-to-school-bundle.json) |
 | The Coma: Double Cut | 136930 | [136930-the-coma-double-cut.json](./136930-the-coma-double-cut.json) |
-| The Coma: Recut | 51385 | [51385-the-coma-recut.json](./51385-the-coma-recut.json) |
 | The Coma: Recut - Deluxe Edition | 118699 | [118699-the-coma-recut-deluxe-edition.json](./118699-the-coma-recut-deluxe-edition.json) |
 | The Coma: Recut - Limited Edition | 166241 | [166241-the-coma-recut-limited-edition.json](./166241-the-coma-recut-limited-edition.json) |
 | The Coma: Sehwa Complete Edition | 401735 | [401735-the-coma-sehwa-complete-edition.json](./401735-the-coma-sehwa-complete-edition.json) |
