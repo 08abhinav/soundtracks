@@ -5423,6 +5423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children of Hell | 317507 | [317507-children-of-hell.json](./317507-children-of-hell.json) |
 | Children of Kronos | 376668 | [376668-children-of-kronos.json](./376668-children-of-kronos.json) |
 | Children of Mare | 347344 | [347344-children-of-mare.json](./347344-children-of-mare.json) |
+| Children of Morn | 245667 | [245667-children-of-morn.json](./245667-children-of-morn.json) |
 | Children of Morta: Ancient Spirits | 175855 | [175855-children-of-morta-ancient-spirits.json](./175855-children-of-morta-ancient-spirits.json) |
 | Children of Morta: Complete Edition | 175878 | [175878-children-of-morta-complete-edition.json](./175878-children-of-morta-complete-edition.json) |
 | Children of Orc | 30920 | [30920-children-of-orc.json](./30920-children-of-orc.json) |
@@ -12070,6 +12071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot Party Games | 210240 | [210240-crash-bandicoot-party-games.json](./210240-crash-bandicoot-party-games.json) |
 | Crash Bandicoot World | 309165 | [309165-crash-bandicoot-world.json](./309165-crash-bandicoot-world.json) |
 | Crash Bandicoot: Atlasphere Bowling | 314656 | [314656-crash-bandicoot-atlasphere-bowling.json](./314656-crash-bandicoot-atlasphere-bowling.json) |
+| Crash Bandicoot: Back In Time | 245695 | [245695-crash-bandicoot-back-in-time.json](./245695-crash-bandicoot-back-in-time.json) |
 | Crash Bandicoot: Kart Racing | 314655 | [314655-crash-bandicoot-kart-racing.json](./314655-crash-bandicoot-kart-racing.json) |
 | Crash Bandicoot: On the Run! | 132793 | [132793-crash-bandicoot-on-the-run.json](./132793-crash-bandicoot-on-the-run.json) |
 | Crash Bandicoot: The Secret Place | 339944 | [339944-crash-bandicoot-the-secret-place.json](./339944-crash-bandicoot-the-secret-place.json) |
