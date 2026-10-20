@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T22:21:10.940Z",
-  "total_soundtracks": 2351,
+  "generated_at": "2026-10-20T22:21:21.375Z",
+  "total_soundtracks": 2352,
   "games": [
     {
       "igdb_id": 7522,
@@ -19455,6 +19455,20 @@
           "spotify_url": "https://open.spotify.com/album/2BSIwvjT27kJ1VL0e4nbZ4",
           "apple_music_url": "",
           "album_link_url": "https://album.link/s/2BSIwvjT27kJ1VL0e4nbZ4"
+        }
+      ]
+    },
+    {
+      "igdb_id": 19907,
+      "game_name": "Resistance: Burning Skies",
+      "game_url": "https://ostdb.net/games/resistance-burning-skies",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27380e7987435a35534c195990a",
+      "albums": [
+        {
+          "album_name": "Resistance: Burning Skies (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/28gOQgiyuJzHRWO0dYbUa8",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
