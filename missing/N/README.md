@@ -655,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nasteroids: Space Shuttle vs. Asteroids | 91148 | [91148-nasteroids-space-shuttle-vs-asteroids.json](./91148-nasteroids-space-shuttle-vs-asteroids.json) |
 | Nastrond | 271483 | [271483-nastrond.json](./271483-nastrond.json) |
 | Nasty | 94149 | [94149-nasty.json](./94149-nasty.json) |
+| Nasty Bottle | 232283 | [232283-nasty-bottle.json](./232283-nasty-bottle.json) |
 | Nasty Goats | 204725 | [204725-nasty-goats.json](./204725-nasty-goats.json) |
 | Nasty Neighbors: No Country for Curmudgeon | 250519 | [250519-nasty-neighbors-no-country-for-curmudgeon.json](./250519-nasty-neighbors-no-country-for-curmudgeon.json) |
 | Nasty Rogue 2 | 264695 | [264695-nasty-rogue-2.json](./264695-nasty-rogue-2.json) |
@@ -5700,6 +5701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Puzzler | 109042 | [109042-number-puzzler.json](./109042-number-puzzler.json) |
 | Number Shoot VR | 292249 | [292249-number-shoot-vr.json](./292249-number-shoot-vr.json) |
 | Number Slide Puzzle | 228106 | [228106-number-slide-puzzle.json](./228106-number-slide-puzzle.json) |
+| Number Smash 123 | 232302 | [232302-number-smash-123.json](./232302-number-smash-123.json) |
 | Number Stomper | 338282 | [338282-number-stomper.json](./338282-number-stomper.json) |
 | Number Sums | 316954 | [316954-number-sums.json](./316954-number-sums.json) |
 | Number Tower | 341490 | [341490-number-tower.json](./341490-number-tower.json) |
@@ -5718,6 +5720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numbers & Letters | 220612 | [220612-numbers-and-letters.json](./220612-numbers-and-letters.json) |
 | Numbers & Nodes | 329017 | [329017-numbers-and-nodes.json](./329017-numbers-and-nodes.json) |
 | Numbers Destiny | 341489 | [341489-numbers-destiny.json](./341489-numbers-destiny.json) |
+| Numbers Game 2: Number Match | 232299 | [232299-numbers-game-2-number-match.json](./232299-numbers-game-2-number-match.json) |
 | Numbers Go Up | 401069 | [401069-numbers-go-up.json](./401069-numbers-go-up.json) |
 | Numbers Paradise | 44399 | [44399-numbers-paradise.json](./44399-numbers-paradise.json) |
 | Numbers.io | 310070 | [310070-numbers-io.json](./310070-numbers-io.json) |
