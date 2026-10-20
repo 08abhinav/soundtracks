@@ -283,6 +283,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race of Life | 240079 | [240079-race-of-life.json](./240079-race-of-life.json) |
 | Race of the Nine Worlds | 352411 | [352411-race-of-the-nine-worlds.json](./352411-race-of-the-nine-worlds.json) |
 | Race On | 19363 | [19363-race-on.json](./19363-race-on.json) |
+| Race on Ice 2020 Pro | 237787 | [237787-race-on-ice-2020-pro.json](./237787-race-on-ice-2020-pro.json) |
+| Race on Ice 2021 Pro | 237786 | [237786-race-on-ice-2021-pro.json](./237786-race-on-ice-2021-pro.json) |
+| Race on Ice 2022 Pro | 237785 | [237785-race-on-ice-2022-pro.json](./237785-race-on-ice-2022-pro.json) |
 | Race or Crash: Secret Racer League | 341314 | [341314-race-or-crash-secret-racer-league.json](./341314-race-or-crash-secret-racer-league.json) |
 | Race Pro | 256136 | [256136-race-pro.json](./256136-race-pro.json) |
 | Race Project | 152729 | [152729-race-project.json](./152729-race-project.json) |
