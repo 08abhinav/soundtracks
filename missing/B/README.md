@@ -634,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Badtz-Maru Robo Battle | 92603 | [92603-bad-badtz-maru-robo-battle.json](./92603-bad-badtz-maru-robo-battle.json) |
 | Bad Banker | 57747 | [57747-bad-banker.json](./57747-bad-banker.json) |
 | Bad Banker | 58139 | [58139-bad-banker.json](./58139-bad-banker.json) |
+| Bad Birds | 205962 | [205962-bad-birds.json](./205962-bad-birds.json) |
 | Bad Birds | 302774 | [302774-bad-birds.json](./302774-bad-birds.json) |
 | Bad birthday | 30642 | [30642-bad-birthday.json](./30642-bad-birthday.json) |
 | Bad Bitch Blasters | 337996 | [337996-bad-bitch-blasters.json](./337996-bad-bitch-blasters.json) |
@@ -4506,6 +4507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beethoven's 2nd: The Quest for Pups | 259653 | [259653-beethovens-2nd-the-quest-for-pups.json](./259653-beethovens-2nd-the-quest-for-pups.json) |
 | Beetle Barrage | 369466 | [369466-beetle-barrage.json](./369466-beetle-barrage.json) |
 | Beetle Bomp | 52632 | [52632-beetle-bomp.json](./52632-beetle-bomp.json) |
+| Beetle Buggin' | 205959 | [205959-beetle-buggin.json](./205959-beetle-buggin.json) |
 | Beetle Ju | 117668 | [117668-beetle-ju.json](./117668-beetle-ju.json) |
 | Beetle Ju 2 | 239500 | [239500-beetle-ju-2.json](./239500-beetle-ju-2.json) |
 | Beetle Ju 3 | 117669 | [117669-beetle-ju-3.json](./117669-beetle-ju-3.json) |
@@ -7431,6 +7433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaster! | 26483 | [26483-blaster.json](./26483-blaster.json) |
 | Blasterball 2: Revolution | 73203 | [73203-blasterball-2-revolution.json](./73203-blasterball-2-revolution.json) |
 | Blasterball 2: Revolution | 73221 | [73221-blasterball-2-revolution.json](./73221-blasterball-2-revolution.json) |
+| Blasterball 3 | 205983 | [205983-blasterball-3.json](./205983-blasterball-3.json) |
 | Blasterbug: Last Bug Standing | 414844 | [414844-blasterbug-last-bug-standing.json](./414844-blasterbug-last-bug-standing.json) |
 | Blastercell | 29146 | [29146-blastercell.json](./29146-blastercell.json) |
 | Blastermancer | 363170 | [363170-blastermancer.json](./363170-blastermancer.json) |
