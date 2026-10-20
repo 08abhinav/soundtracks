@@ -4283,6 +4283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resourceful.World | 265544 | [265544-resourceful-world.json](./265544-resourceful-world.json) |
 | Resourcer | 245945 | [245945-resourcer.json](./245945-resourcer.json) |
 | Respawn | 203851 | [203851-respawn.json](./203851-respawn.json) |
+| Respawn | 246796 | [246796-respawn.json](./246796-respawn.json) |
 | Respawn Man | 34527 | [34527-respawn-man.json](./34527-respawn-man.json) |
 | Respawnables: Special Forces | 94784 | [94784-respawnables-special-forces.json](./94784-respawnables-special-forces.json) |
 | Respite | 179083 | [179083-respite.json](./179083-respite.json) |
@@ -6236,6 +6237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ro Sham Bo Rush | 252142 | [252142-ro-sham-bo-rush.json](./252142-ro-sham-bo-rush.json) |
 | RO: Idle Poring | 74770 | [74770-ro-idle-poring.json](./74770-ro-idle-poring.json) |
 | Roach Hotel | 286121 | [286121-roach-hotel.json](./286121-roach-hotel.json) |
+| Roach Invasion | 246802 | [246802-roach-invasion.json](./246802-roach-invasion.json) |
 | Roach Killer | 116904 | [116904-roach-killer.json](./116904-roach-killer.json) |
 | Roach Race | 215843 | [215843-roach-race.json](./215843-roach-race.json) |
 | Roach Royale | 275331 | [275331-roach-royale.json](./275331-roach-royale.json) |
@@ -6835,6 +6837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robots With Guns | 351808 | [351808-robots-with-guns.json](./351808-robots-with-guns.json) |
 | Robots, Death & Venice | 172127 | [172127-robots-death-and-venice.json](./172127-robots-death-and-venice.json) |
 | Robots: create AI | 65831 | [65831-robots-create-ai.json](./65831-robots-create-ai.json) |
+| Robots: Invaders | 246801 | [246801-robots-invaders.json](./246801-robots-invaders.json) |
 | Robotville: Dawn of Robot AI | 327961 | [327961-robotville-dawn-of-robot-ai.json](./327961-robotville-dawn-of-robot-ai.json) |
 | RobotWar | 25129 | [25129-robotwar.json](./25129-robotwar.json) |
 | Robovenger | 192421 | [192421-robovenger.json](./192421-robovenger.json) |
@@ -9331,6 +9334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runi's Math Castle | 306337 | [306337-runis-math-castle.json](./306337-runis-math-castle.json) |
 | Runic | 215881 | [215881-runic.json](./215881-runic.json) |
 | Runic Curse | 207851 | [207851-runic-curse.json](./207851-runic-curse.json) |
+| Runic Defenders: Trials of Ascension | 246800 | [246800-runic-defenders-trials-of-ascension.json](./246800-runic-defenders-trials-of-ascension.json) |
 | Runic Relay: The Trials | 159121 | [159121-runic-relay-the-trials.json](./159121-runic-relay-the-trials.json) |
 | Runic Rogues | 413052 | [413052-runic-rogues.json](./413052-runic-rogues.json) |
 | Runic Survivor | 215909 | [215909-runic-survivor.json](./215909-runic-survivor.json) |
@@ -9515,6 +9519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruslicstan Invades | 238497 | [238497-ruslicstan-invades.json](./238497-ruslicstan-invades.json) |
 | Russel's Cookie Eating | 354755 | [354755-russels-cookie-eating.json](./354755-russels-cookie-eating.json) |
 | Russell | 281365 | [281365-russell.json](./281365-russell.json) |
+| Russell's Range | 246793 | [246793-russells-range.json](./246793-russells-range.json) |
 | Russi.a Simulator | 105148 | [105148-russi-a-simulator.json](./105148-russi-a-simulator.json) |
 | Russia | 278304 | [278304-russia.json](./278304-russia.json) |
 | Russia 2055 | 125293 | [125293-russia-2055.json](./125293-russia-2055.json) |
