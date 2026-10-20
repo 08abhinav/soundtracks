@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labor | 100714 | [100714-labor.json](./100714-labor.json) |
 | Labor Power | 312301 | [312301-labor-power.json](./312301-labor-power.json) |
 | Labor Rights Funeral in Ukraine | 379962 | [379962-labor-rights-funeral-in-ukraine.json](./379962-labor-rights-funeral-in-ukraine.json) |
+| Laboratory Rat Escape Simulator Pro | 213213 | [213213-laboratory-rat-escape-simulator-pro.json](./213213-laboratory-rat-escape-simulator-pro.json) |
 | Laboratory X-29 | 258550 | [258550-laboratory-x-29.json](./258550-laboratory-x-29.json) |
 | LaborSurviveManual | 246825 | [246825-laborsurvivemanual.json](./246825-laborsurvivemanual.json) |
 | LabRat | 139925 | [139925-labrat.json](./139925-labrat.json) |
@@ -2245,6 +2246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Alpha Team | 372839 | [372839-lego-alpha-team.json](./372839-lego-alpha-team.json) |
 | LEGO Alpha Team | 80638 | [80638-lego-alpha-team.json](./80638-lego-alpha-team.json) |
 | LEGO Arthouse | 117005 | [117005-lego-arthouse.json](./117005-lego-arthouse.json) |
+| LEGO Batman | 213256 | [213256-lego-batman.json](./213256-lego-batman.json) |
 | LEGO Batman 2: DC Super Heroes | 196417 | [196417-lego-batman-2-dc-super-heroes.json](./196417-lego-batman-2-dc-super-heroes.json) |
 | LEGO Batman 2: DC Super Heroes | 6836 | [6836-lego-batman-2-dc-super-heroes.json](./6836-lego-batman-2-dc-super-heroes.json) |
 | LEGO Batman 3: Beyond Gotham | 7685 | [7685-lego-batman-3-beyond-gotham.json](./7685-lego-batman-3-beyond-gotham.json) |
@@ -5481,6 +5483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Live Caesar | 166717 | [166717-long-live-caesar.json](./166717-long-live-caesar.json) |
 | Long Live the Axe | 122858 | [122858-long-live-the-axe.json](./122858-long-live-the-axe.json) |
 | Long Live The Emperor | 419953 | [419953-long-live-the-emperor.json](./419953-long-live-the-emperor.json) |
+| Long Live the King! | 213246 | [213246-long-live-the-king.json](./213246-long-live-the-king.json) |
 | Long Lost | 277321 | [277321-long-lost.json](./277321-long-lost.json) |
 | Long Nardy | 264362 | [264362-long-nardy.json](./264362-long-nardy.json) |
 | Long Night | 16941 | [16941-long-night.json](./16941-long-night.json) |
@@ -6197,6 +6200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Lands: Mahjong | 33702 | [33702-lost-lands-mahjong.json](./33702-lost-lands-mahjong.json) |
 | Lost Lands: Mistakes of the Past | 112935 | [112935-lost-lands-mistakes-of-the-past.json](./112935-lost-lands-mistakes-of-the-past.json) |
 | Lost Lands: Redemption | 142185 | [142185-lost-lands-redemption.json](./142185-lost-lands-redemption.json) |
+| Lost Lands: Sand Captivity | 213245 | [213245-lost-lands-sand-captivity.json](./213245-lost-lands-sand-captivity.json) |
 | Lost Lands: Sand Captivity - Collector's Edition | 283619 | [283619-lost-lands-sand-captivity-collectors-edition.json](./283619-lost-lands-sand-captivity-collectors-edition.json) |
 | Lost Lands: Stories About the Sorceress, the Prince and the Minotaur - Collector's Edition | 416618 | [416618-lost-lands-stories-about-the-sorceress-the-prince-and-the-minotaur-collectors-edition.json](./416618-lost-lands-stories-about-the-sorceress-the-prince-and-the-minotaur-collectors-edition.json) |
 | Lost Lands: Stories of the First Brotherhood | 290430 | [290430-lost-lands-stories-of-the-first-brotherhood.json](./290430-lost-lands-stories-of-the-first-brotherhood.json) |
