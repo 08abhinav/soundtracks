@@ -5340,6 +5340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Carnival Of Company | 293632 | [293632-the-carnival-of-company.json](./293632-the-carnival-of-company.json) |
 | The Carrier and Crows | 270880 | [270880-the-carrier-and-crows.json](./270880-the-carrier-and-crows.json) |
 | The Cartographer's Tale | 103509 | [103509-the-cartographers-tale.json](./103509-the-cartographers-tale.json) |
+| The Cartoon Cat: Jigsaw Puzzle | 213818 | [213818-the-cartoon-cat-jigsaw-puzzle.json](./213818-the-cartoon-cat-jigsaw-puzzle.json) |
 | The Cascadier | 366573 | [366573-the-cascadier.json](./366573-the-cascadier.json) |
 | The Case Book of Arne | 139219 | [139219-the-case-book-of-arne.json](./139219-the-case-book-of-arne.json) |
 | The Case of Andrew D. | 299370 | [299370-the-case-of-andrew-d.json](./299370-the-case-of-andrew-d.json) |
@@ -11605,6 +11606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Radio Tower | 373894 | [373894-the-radio-tower.json](./373894-the-radio-tower.json) |
 | The Radio Wave Bureau | 280433 | [280433-the-radio-wave-bureau.json](./280433-the-radio-wave-bureau.json) |
 | The Ragdoll | 108272 | [108272-the-ragdoll.json](./108272-the-ragdoll.json) |
+| The Rage of Valhalla | 213779 | [213779-the-rage-of-valhalla.json](./213779-the-rage-of-valhalla.json) |
 | The Raid of Brunswick | 397919 | [397919-the-raid-of-brunswick.json](./397919-the-raid-of-brunswick.json) |
 | The Raiden Project | 20301 | [20301-the-raiden-project.json](./20301-the-raiden-project.json) |
 | The Railroad Works | 72047 | [72047-the-railroad-works.json](./72047-the-railroad-works.json) |
@@ -17230,6 +17232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timberlodge Inn | 232838 | [232838-timberlodge-inn.json](./232838-timberlodge-inn.json) |
 | Timberman VR | 210843 | [210843-timberman-vr.json](./210843-timberman-vr.json) |
 | Timberman VS | 99289 | [99289-timberman-vs.json](./99289-timberman-vs.json) |
+| Timberman: The Big Adventure | 213804 | [213804-timberman-the-big-adventure.json](./213804-timberman-the-big-adventure.json) |
 | Timberquest | 245859 | [245859-timberquest.json](./245859-timberquest.json) |
 | Timberveil | 382757 | [382757-timberveil.json](./382757-timberveil.json) |
 | Timbre Star | 83147 | [83147-timbre-star.json](./83147-timbre-star.json) |
@@ -20167,6 +20170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Soujinengi: The Genius of Sappheiros | 65194 | [65194-touhou-soujinengi-the-genius-of-sappheiros.json](./65194-touhou-soujinengi-the-genius-of-sappheiros.json) |
 | Touhou Spell Bubble | 131922 | [131922-touhou-spell-bubble.json](./131922-touhou-spell-bubble.json) |
 | Touhou Spell Bubble: Akatsuki Records Song Pack | 209154 | [209154-touhou-spell-bubble-akatsuki-records-song-pack.json](./209154-touhou-spell-bubble-akatsuki-records-song-pack.json) |
+| Touhou Spell Bubble: Character Pack - Seija Kijin | 213800 | [213800-touhou-spell-bubble-character-pack-seija-kijin.json](./213800-touhou-spell-bubble-character-pack-seija-kijin.json) |
 | Touhou Spell Bubble: Character Pack - Suwako Moriya | 199866 | [199866-touhou-spell-bubble-character-pack-suwako-moriya.json](./199866-touhou-spell-bubble-character-pack-suwako-moriya.json) |
 | Touhou Spell Bubble: Character Pack - Toyosatomimi no Miko | 221693 | [221693-touhou-spell-bubble-character-pack-toyosatomimi-no-miko.json](./221693-touhou-spell-bubble-character-pack-toyosatomimi-no-miko.json) |
 | Touhou Spell Bubble: Character Pack Hata no Kokoro | 209525 | [209525-touhou-spell-bubble-character-pack-hata-no-kokoro.json](./209525-touhou-spell-bubble-character-pack-hata-no-kokoro.json) |
@@ -20358,6 +20362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Defence | 80216 | [80216-tower-defence.json](./80216-tower-defence.json) |
 | Tower Defence Engineer | 323248 | [323248-tower-defence-engineer.json](./323248-tower-defence-engineer.json) |
 | Tower Defender: Hero Wars | 207270 | [207270-tower-defender-hero-wars.json](./207270-tower-defender-hero-wars.json) |
+| Tower Defense | 213813 | [213813-tower-defense.json](./213813-tower-defense.json) |
 | Tower Defense King | 208379 | [208379-tower-defense-king.json](./208379-tower-defense-king.json) |
 | Tower Defense Ultimate | 32900 | [32900-tower-defense-ultimate.json](./32900-tower-defense-ultimate.json) |
 | Tower Defense: Defender of the Kingdom | 122130 | [122130-tower-defense-defender-of-the-kingdom.json](./122130-tower-defense-defender-of-the-kingdom.json) |
