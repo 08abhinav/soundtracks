@@ -3419,6 +3419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otherworld Heroes | 208054 | [208054-otherworld-heroes.json](./208054-otherworld-heroes.json) |
 | Otherworld Legends | 136996 | [136996-otherworld-legends.json](./136996-otherworld-legends.json) |
 | Otherworld Legends: Aigneis | 235678 | [235678-otherworld-legends-aigneis.json](./235678-otherworld-legends-aigneis.json) |
+| Otherworld Legends: Anibella | 247886 | [247886-otherworld-legends-anibella.json](./247886-otherworld-legends-anibella.json) |
 | Otherworld Legends: Ebonfang | 212215 | [212215-otherworld-legends-ebonfang.json](./212215-otherworld-legends-ebonfang.json) |
 | Otherworld Legends: Fluffette | 310084 | [310084-otherworld-legends-fluffette.json](./310084-otherworld-legends-fluffette.json) |
 | Otherworld Legends: Hannah | 199589 | [199589-otherworld-legends-hannah.json](./199589-otherworld-legends-hannah.json) |
@@ -4393,6 +4394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Owlman | 238637 | [238637-owlman.json](./238637-owlman.json) |
 | Owls - A matching game for kids. | 106994 | [106994-owls-a-matching-game-for-kids.json](./106994-owls-a-matching-game-for-kids.json) |
 | Own Coffee Shop | 120342 | [120342-own-coffee-shop.json](./120342-own-coffee-shop.json) |
+| Own the Throne | 247919 | [247919-own-the-throne.json](./247919-own-the-throne.json) |
 | Owner | 295528 | [295528-owner.json](./295528-owner.json) |
 | OwnRulesRPG | 259845 | [259845-ownrulesrpg.json](./259845-ownrulesrpg.json) |
 | OwnTrio: Adventure | 292439 | [292439-owntrio-adventure.json](./292439-owntrio-adventure.json) |
