@@ -289,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Validus Mortis | 262245 | [262245-validus-mortis.json](./262245-validus-mortis.json) |
 | Valient Worlds: Adventure of Falken | 338578 | [338578-valient-worlds-adventure-of-falken.json](./338578-valient-worlds-adventure-of-falken.json) |
 | Valis | 262085 | [262085-valis.json](./262085-valis.json) |
+| Valis Collection | 227682 | [227682-valis-collection.json](./227682-valis-collection.json) |
 | Valis II | 37608 | [37608-valis-ii.json](./37608-valis-ii.json) |
 | Valis III | 278313 | [278313-valis-iii.json](./278313-valis-iii.json) |
 | Valis III | 37607 | [37607-valis-iii.json](./37607-valis-iii.json) |
@@ -1494,6 +1495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Game Trivia | 252597 | [252597-video-game-trivia.json](./252597-video-game-trivia.json) |
 | Video Game Tutorial | 365277 | [365277-video-game-tutorial.json](./365277-video-game-tutorial.json) |
 | Video Game: Super Corrida | 345627 | [345627-video-game-super-corrida.json](./345627-video-game-super-corrida.json) |
+| Video Horror Society: Deathwire | 227720 | [227720-video-horror-society-deathwire.json](./227720-video-horror-society-deathwire.json) |
 | Video Horror Society: Reggie | 230976 | [230976-video-horror-society-reggie.json](./230976-video-horror-society-reggie.json) |
 | Video Hustler | 38557 | [38557-video-hustler.json](./38557-video-hustler.json) |
 | Video Jam | 206063 | [206063-video-jam.json](./206063-video-jam.json) |
