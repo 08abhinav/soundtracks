@@ -5432,6 +5432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rider | 87651 | [87651-rider.json](./87651-rider.json) |
 | Rider | 91264 | [91264-rider.json](./91264-rider.json) |
 | Rider Among Dead | 240134 | [240134-rider-among-dead.json](./240134-rider-among-dead.json) |
+| Rider of Justice | 238924 | [238924-rider-of-justice.json](./238924-rider-of-justice.json) |
 | Rider Worlds | 256748 | [256748-rider-worlds.json](./256748-rider-worlds.json) |
 | Rider's Spirits | 38214 | [38214-riders-spirits.json](./38214-riders-spirits.json) |
 | Rider's World: I Want to Ride! | 163942 | [163942-riders-world-i-want-to-ride.json](./163942-riders-world-i-want-to-ride.json) |
@@ -8321,6 +8322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose Guns Days: Season 1 | 326598 | [326598-rose-guns-days-season-1.json](./326598-rose-guns-days-season-1.json) |
 | Rose Guns Days: Season 2 | 408960 | [408960-rose-guns-days-season-2.json](./408960-rose-guns-days-season-2.json) |
 | Rose Hips | 395037 | [395037-rose-hips.json](./395037-rose-hips.json) |
+| Rose in the Embers | 238910 | [238910-rose-in-the-embers.json](./238910-rose-in-the-embers.json) |
 | Rose of Longevity | 326822 | [326822-rose-of-longevity.json](./326822-rose-of-longevity.json) |
 | Rose of Meat | 392161 | [392161-rose-of-meat.json](./392161-rose-of-meat.json) |
 | Rose Puzzle | 91097 | [91097-rose-puzzle.json](./91097-rose-puzzle.json) |
