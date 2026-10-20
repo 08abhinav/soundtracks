@@ -3898,6 +3898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celtic Tribes | 343804 | [343804-celtic-tribes.json](./343804-celtic-tribes.json) |
 | Celtic Village | 218637 | [218637-celtic-village.json](./218637-celtic-village.json) |
 | Celtic Warfare | 291821 | [291821-celtic-warfare.json](./291821-celtic-warfare.json) |
+| Celtique | 244604 | [244604-celtique.json](./244604-celtique.json) |
 | CelV Run | 284813 | [284813-celv-run.json](./284813-celv-run.json) |
 | Cemantle & Pedantle | 194956 | [194956-cemantle-and-pedantle.json](./194956-cemantle-and-pedantle.json) |
 | Cement Factory | 367832 | [367832-cement-factory.json](./367832-cement-factory.json) |
@@ -7651,6 +7652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climb Fling | 239636 | [239636-climb-fling.json](./239636-climb-fling.json) |
 | Climb It | 273910 | [273910-climb-it.json](./273910-climb-it.json) |
 | Climb Jump | 175746 | [175746-climb-jump.json](./175746-climb-jump.json) |
+| Climb New York Parkour VR | 244640 | [244640-climb-new-york-parkour-vr.json](./244640-climb-new-york-parkour-vr.json) |
 | Climb out of Hell | 343322 | [343322-climb-out-of-hell.json](./343322-climb-out-of-hell.json) |
 | Climb Quest | 315113 | [315113-climb-quest.json](./315113-climb-quest.json) |
 | Climb the Tower | 157208 | [157208-climb-the-tower.json](./157208-climb-the-tower.json) |
@@ -9752,6 +9754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Completion LawnCare | 216454 | [216454-completion-lawncare.json](./216454-completion-lawncare.json) |
 | Complex Complex | 273924 | [273924-complex-complex.json](./273924-complex-complex.json) |
 | Complex Hero | 265626 | [265626-complex-hero.json](./265626-complex-hero.json) |
+| Complex Loop | 244599 | [244599-complex-loop.json](./244599-complex-loop.json) |
 | Complex Sky | 144097 | [144097-complex-sky.json](./144097-complex-sky.json) |
 | Complex X | 301911 | [301911-complex-x.json](./301911-complex-x.json) |
 | Complexia: A Ballet of Blades | 400486 | [400486-complexia-a-ballet-of-blades.json](./400486-complexia-a-ballet-of-blades.json) |
@@ -11179,6 +11182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Gunslinger: Alien Outlaws | 274572 | [274572-cosmic-gunslinger-alien-outlaws.json](./274572-cosmic-gunslinger-alien-outlaws.json) |
 | Cosmic High Schooler | 358510 | [358510-cosmic-high-schooler.json](./358510-cosmic-high-schooler.json) |
 | Cosmic Highway | 63834 | [63834-cosmic-highway.json](./63834-cosmic-highway.json) |
+| Cosmic Holidays | 244602 | [244602-cosmic-holidays.json](./244602-cosmic-holidays.json) |
 | Cosmic Horizon - Icosahedron Video Game Puzzle | 76715 | [76715-cosmic-horizon-icosahedron-video-game-puzzle.json](./76715-cosmic-horizon-icosahedron-video-game-puzzle.json) |
 | Cosmic Horizon - World First 3D Game Puzzle Ever | 76717 | [76717-cosmic-horizon-world-first-3d-game-puzzle-ever.json](./76717-cosmic-horizon-world-first-3d-game-puzzle-ever.json) |
 | Cosmic Horizons: Path of the Wanderer | 278552 | [278552-cosmic-horizons-path-of-the-wanderer.json](./278552-cosmic-horizons-path-of-the-wanderer.json) |
@@ -13716,6 +13720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crustacean Nations | 211254 | [211254-crustacean-nations.json](./211254-crustacean-nations.json) |
 | Crusty Demons | 20537 | [20537-crusty-demons.json](./20537-crusty-demons.json) |
 | Crusty Proto | 324856 | [324856-crusty-proto.json](./324856-crusty-proto.json) |
+| Crux | 244642 | [244642-crux.json](./244642-crux.json) |
 | Crux | 249347 | [249347-crux.json](./249347-crux.json) |
 | Crux 92 | 391805 | [391805-crux-92.json](./391805-crux-92.json) |
 | Crux Diaries | 345286 | [345286-crux-diaries.json](./345286-crux-diaries.json) |
@@ -14255,6 +14260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuben | 331723 | [331723-cuben.json](./331723-cuben.json) |
 | Cubenen Gardens: Befriend | 316148 | [316148-cubenen-gardens-befriend.json](./316148-cubenen-gardens-befriend.json) |
 | Cubenen Gardens: Kingdom | 417664 | [417664-cubenen-gardens-kingdom.json](./417664-cubenen-gardens-kingdom.json) |
+| Cubenomics | 244598 | [244598-cubenomics.json](./244598-cubenomics.json) |
 | Cubeology | 107789 | [107789-cubeology.json](./107789-cubeology.json) |
 | CubePuzzle | 163546 | [163546-cubepuzzle.json](./163546-cubepuzzle.json) |
 | Cuber | 254584 | [254584-cuber.json](./254584-cuber.json) |
