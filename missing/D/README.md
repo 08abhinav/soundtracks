@@ -6146,6 +6146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Diaries Saga | 105511 | [105511-diamond-diaries-saga.json](./105511-diamond-diaries-saga.json) |
 | Diamond Diaries Saga | 105793 | [105793-diamond-diaries-saga.json](./105793-diamond-diaries-saga.json) |
 | Diamond Digger Saga | 391081 | [391081-diamond-digger-saga.json](./391081-diamond-digger-saga.json) |
+| Diamond Gems | 246265 | [246265-diamond-gems.json](./246265-diamond-gems.json) |
 | Diamond Girl: An Earnest Education in Love | 147996 | [147996-diamond-girl-an-earnest-education-in-love.json](./147996-diamond-girl-an-earnest-education-in-love.json) |
 | Diamond Giza | 157193 | [157193-diamond-giza.json](./157193-diamond-giza.json) |
 | Diamond Hands Arena | 197094 | [197094-diamond-hands-arena.json](./197094-diamond-hands-arena.json) |
@@ -10974,6 +10975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Mine | 211204 | [211204-dragon-mine.json](./211204-dragon-mine.json) |
 | Dragon Mission | 170890 | [170890-dragon-mission.json](./170890-dragon-mission.json) |
 | Dragon Mix | 42173 | [42173-dragon-mix.json](./42173-dragon-mix.json) |
+| Dragon Money | 246247 | [246247-dragon-money.json](./246247-dragon-money.json) |
 | Dragon Must Die | 215917 | [215917-dragon-must-die.json](./215917-dragon-must-die.json) |
 | Dragon Nest | 23921 | [23921-dragon-nest.json](./23921-dragon-nest.json) |
 | Dragon Nest 2 | 193839 | [193839-dragon-nest-2.json](./193839-dragon-nest-2.json) |
