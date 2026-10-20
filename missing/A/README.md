@@ -9296,8 +9296,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Paradise: CyberDance EuroMix | 224999 | [224999-arcade-paradise-cyberdance-euromix.json](./224999-arcade-paradise-cyberdance-euromix.json) |
 | Arcade Paradise: Digital Deluxe Edition | 213329 | [213329-arcade-paradise-digital-deluxe-edition.json](./213329-arcade-paradise-digital-deluxe-edition.json) |
 | Arcade Paradise: Empathy DLC | 225000 | [225000-arcade-paradise-empathy-dlc.json](./225000-arcade-paradise-empathy-dlc.json) |
+| Arcade Paradise: High Score Edition | 250174 | [250174-arcade-paradise-high-score-edition.json](./250174-arcade-paradise-high-score-edition.json) |
 | Arcade Paradise: Kung Fury - Street Rage | 230798 | [230798-arcade-paradise-kung-fury-street-rage.json](./230798-arcade-paradise-kung-fury-street-rage.json) |
 | Arcade Paradise: Smoke 'em DLC | 225001 | [225001-arcade-paradise-smoke-em-dlc.json](./225001-arcade-paradise-smoke-em-dlc.json) |
+| Arcade Paradise: Vostok Inc. Pinball | 250170 | [250170-arcade-paradise-vostok-inc-pinball.json](./250170-arcade-paradise-vostok-inc-pinball.json) |
 | Arcade Party | 241076 | [241076-arcade-party.json](./241076-arcade-party.json) |
 | Arcade Party Pak | 92977 | [92977-arcade-party-pak.json](./92977-arcade-party-pak.json) |
 | Arcade Pinball | 86706 | [86706-arcade-pinball.json](./86706-arcade-pinball.json) |
@@ -9914,6 +9916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arguice no Tsubasa | 381406 | [381406-arguice-no-tsubasa.json](./381406-arguice-no-tsubasa.json) |
 | Argument Wars | 207833 | [207833-argument-wars.json](./207833-argument-wars.json) |
 | Argumentum Ad Culpam | 248012 | [248012-argumentum-ad-culpam.json](./248012-argumentum-ad-culpam.json) |
+| Argus | 250161 | [250161-argus.json](./250161-argus.json) |
 | Argus | 273033 | [273033-argus.json](./273033-argus.json) |
 | Argus | 306012 | [306012-argus.json](./306012-argus.json) |
 | Argus | 361325 | [361325-argus.json](./361325-argus.json) |
@@ -13261,6 +13264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axe Gang | 151494 | [151494-axe-gang.json](./151494-axe-gang.json) |
 | Axe Ghost | 295353 | [295353-axe-ghost.json](./295353-axe-ghost.json) |
 | Axe Girl | 149556 | [149556-axe-girl.json](./149556-axe-girl.json) |
+| Axe Me Down | 250165 | [250165-axe-me-down.json](./250165-axe-me-down.json) |
 | Axe of Janissary | 233619 | [233619-axe-of-janissary.json](./233619-axe-of-janissary.json) |
 | Axe of Kolt | 15610 | [15610-axe-of-kolt.json](./15610-axe-of-kolt.json) |
 | Axe Over It | 144296 | [144296-axe-over-it.json](./144296-axe-over-it.json) |
