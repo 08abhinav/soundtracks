@@ -425,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Hexagon's Adventures | 184446 | [184446-a-hexagons-adventures.json](./184446-a-hexagons-adventures.json) |
 | A Hidden Mountain Factory | 318157 | [318157-a-hidden-mountain-factory.json](./318157-a-hidden-mountain-factory.json) |
 | A Hideo Kojima Game | 178947 | [178947-a-hideo-kojima-game.json](./178947-a-hideo-kojima-game.json) |
+| A Hint of Purple | 247877 | [247877-a-hint-of-purple.json](./247877-a-hint-of-purple.json) |
 | A Hole in my Room | 333050 | [333050-a-hole-in-my-room.json](./333050-a-hole-in-my-room.json) |
 | A Hole New World | 31557 | [31557-a-hole-new-world.json](./31557-a-hole-new-world.json) |
 | A Hole New World: Deluxe Edition | 52536 | [52536-a-hole-new-world-deluxe-edition.json](./52536-a-hole-new-world-deluxe-edition.json) |
@@ -4822,6 +4823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Block | 328425 | [328425-alien-block.json](./328425-alien-block.json) |
 | Alien Bloom | 411508 | [411508-alien-bloom.json](./411508-alien-bloom.json) |
 | Alien Bob | 293083 | [293083-alien-bob.json](./293083-alien-bob.json) |
+| Alien Boom Boom | 247917 | [247917-alien-boom-boom.json](./247917-alien-boom-boom.json) |
 | Alien Breed | 8633 | [8633-alien-breed.json](./8633-alien-breed.json) |
 | Alien Breed + Alien Breed: Tower Assault | 154438 | [154438-alien-breed-alien-breed-tower-assault.json](./154438-alien-breed-alien-breed-tower-assault.json) |
 | Alien Breed 35th Anniversary | 414853 | [414853-alien-breed-35th-anniversary.json](./414853-alien-breed-35th-anniversary.json) |
@@ -6158,6 +6160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | America's Retribution | 98763 | [98763-americas-retribution.json](./98763-americas-retribution.json) |
 | America's Retribution Term 2 | 117796 | [117796-americas-retribution-term-2.json](./117796-americas-retribution-term-2.json) |
 | America's Test Kitchen: Let's Get Cooking | 24343 | [24343-americas-test-kitchen-lets-get-cooking.json](./24343-americas-test-kitchen-lets-get-cooking.json) |
+| American Airport Simulator | 247910 | [247910-american-airport-simulator.json](./247910-american-airport-simulator.json) |
 | American Angst | 139723 | [139723-american-angst.json](./139723-american-angst.json) |
 | American Arcadia | 198439 | [198439-american-arcadia.json](./198439-american-arcadia.json) |
 | American Assault | 273130 | [273130-american-assault.json](./273130-american-assault.json) |
@@ -9443,6 +9446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Raise: Deluxe Edition | 52595 | [52595-arcane-raise-deluxe-edition.json](./52595-arcane-raise-deluxe-edition.json) |
 | Arcane Re-Raise | 29258 | [29258-arcane-re-raise.json](./29258-arcane-re-raise.json) |
 | Arcane ReRaise: Deluxe Edition | 52594 | [52594-arcane-reraise-deluxe-edition.json](./52594-arcane-reraise-deluxe-edition.json) |
+| Arcane Revolt | 247878 | [247878-arcane-revolt.json](./247878-arcane-revolt.json) |
 | Arcane Rift | 370766 | [370766-arcane-rift.json](./370766-arcane-rift.json) |
 | Arcane Rings | 352167 | [352167-arcane-rings.json](./352167-arcane-rings.json) |
 | Arcane Rush | 322667 | [322667-arcane-rush.json](./322667-arcane-rush.json) |
@@ -10989,6 +10993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of War | 369665 | [369665-ashes-of-war.json](./369665-ashes-of-war.json) |
 | Ashes of Xun | 377678 | [377678-ashes-of-xun.json](./377678-ashes-of-xun.json) |
 | Ashes Remember Us | 372746 | [372746-ashes-remember-us.json](./372746-ashes-remember-us.json) |
+| Ashes to Ashes | 247903 | [247903-ashes-to-ashes.json](./247903-ashes-to-ashes.json) |
 | Ashes to Ashes | 258104 | [258104-ashes-to-ashes.json](./258104-ashes-to-ashes.json) |
 | Ashes to Ashes | 69776 | [69776-ashes-to-ashes.json](./69776-ashes-to-ashes.json) |
 | Ashes: 2063 | 141485 | [141485-ashes-2063.json](./141485-ashes-2063.json) |
