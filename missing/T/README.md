@@ -4351,6 +4351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alcor Trivia Pro Classic Star Trek (Star-Log I) | 71672 | [71672-the-alcor-trivia-pro-classic-star-trek-star-log-i.json](./71672-the-alcor-trivia-pro-classic-star-trek-star-log-i.json) |
 | The Alehouse Tavern Chronicles | 335074 | [335074-the-alehouse-tavern-chronicles.json](./335074-the-alehouse-tavern-chronicles.json) |
 | The Alfonzone | 256890 | [256890-the-alfonzone.json](./256890-the-alfonzone.json) |
+| The Alien Creature | 216663 | [216663-the-alien-creature.json](./216663-the-alien-creature.json) |
 | The Alien Cube: Deluxe Edition | 227188 | [227188-the-alien-cube-deluxe-edition.json](./227188-the-alien-cube-deluxe-edition.json) |
 | The Alien Device | 357098 | [357098-the-alien-device.json](./357098-the-alien-device.json) |
 | The Alien Island: 3D-Version | 174636 | [174636-the-alien-island-3d-version.json](./174636-the-alien-island-3d-version.json) |
@@ -6360,6 +6361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Doll Museum | 410736 | [410736-the-doll-museum.json](./410736-the-doll-museum.json) |
 | The Doll Shop | 123627 | [123627-the-doll-shop.json](./123627-the-doll-shop.json) |
 | The Doll Shop | 373835 | [373835-the-doll-shop.json](./373835-the-doll-shop.json) |
+| The Doll's Window | 216672 | [216672-the-dolls-window.json](./216672-the-dolls-window.json) |
 | The Dollar Game | 108216 | [108216-the-dollar-game.json](./108216-the-dollar-game.json) |
 | The Dollmaker | 272919 | [272919-the-dollmaker.json](./272919-the-dollmaker.json) |
 | The Don't Do List | 398264 | [398264-the-dont-do-list.json](./398264-the-dont-do-list.json) |
@@ -9386,6 +9388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Fireball | 408921 | [408921-the-legend-of-fireball.json](./408921-the-legend-of-fireball.json) |
 | The Legend of Fjarri | 153369 | [153369-the-legend-of-fjarri.json](./153369-the-legend-of-fjarri.json) |
 | The Legend of Gallia | 66557 | [66557-the-legend-of-gallia.json](./66557-the-legend-of-gallia.json) |
+| The Legend of Gandar II | 216660 | [216660-the-legend-of-gandar-ii.json](./216660-the-legend-of-gandar-ii.json) |
 | The Legend of GEML: Awakening | 307589 | [307589-the-legend-of-geml-awakening.json](./307589-the-legend-of-geml-awakening.json) |
 | The Legend of Gwen | 223177 | [223177-the-legend-of-gwen.json](./223177-the-legend-of-gwen.json) |
 | The Legend of Heavenly Mist | 183031 | [183031-the-legend-of-heavenly-mist.json](./183031-the-legend-of-heavenly-mist.json) |
@@ -14484,6 +14487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wizards of Trinity Bellwoods | 58265 | [58265-the-wizards-of-trinity-bellwoods.json](./58265-the-wizards-of-trinity-bellwoods.json) |
 | The Wizards Pet | 108955 | [108955-the-wizards-pet.json](./108955-the-wizards-pet.json) |
 | The Wizards: Enhanced Edition | 116134 | [116134-the-wizards-enhanced-edition.json](./116134-the-wizards-enhanced-edition.json) |
+| The Wizardz Dungeon | 216677 | [216677-the-wizardz-dungeon.json](./216677-the-wizardz-dungeon.json) |
 | The Wolf | 212509 | [212509-the-wolf.json](./212509-the-wolf.json) |
 | The Wolf Among Us 2 | 51523 | [51523-the-wolf-among-us-2.json](./51523-the-wolf-among-us-2.json) |
 | The Wolf Among Us: Episode 1 - Faith | 127107 | [127107-the-wolf-among-us-episode-1-faith.json](./127107-the-wolf-among-us-episode-1-faith.json) |
@@ -14931,6 +14935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | These Thieving Hearts | 289966 | [289966-these-thieving-hearts.json](./289966-these-thieving-hearts.json) |
 | Theseus | 139912 | [139912-theseus.json](./139912-theseus.json) |
 | Theseus and the Minotaur | 24904 | [24904-theseus-and-the-minotaur.json](./24904-theseus-and-the-minotaur.json) |
+| Theseus Protocol | 216694 | [216694-theseus-protocol.json](./216694-theseus-protocol.json) |
 | Thesmophoria | 244304 | [244304-thesmophoria.json](./244304-thesmophoria.json) |
 | TheSpoiler | 289962 | [289962-thespoiler.json](./289962-thespoiler.json) |
 | Theta | 67736 | [67736-theta.json](./67736-theta.json) |
