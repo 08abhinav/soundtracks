@@ -712,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calm Down, Stalin | 32011 | [32011-calm-down-stalin.json](./32011-calm-down-stalin.json) |
 | Calm Down, Stalin VR | 286535 | [286535-calm-down-stalin-vr.json](./286535-calm-down-stalin-vr.json) |
 | Calm Down, Stalin: The First Person | 161351 | [161351-calm-down-stalin-the-first-person.json](./161351-calm-down-stalin-the-first-person.json) |
+| Calm Falls 2 | 241233 | [241233-calm-falls-2.json](./241233-calm-falls-2.json) |
 | Calm Forest | 185135 | [185135-calm-forest.json](./185135-calm-forest.json) |
 | Calm Girls | 158581 | [158581-calm-girls.json](./158581-calm-girls.json) |
 | Calm Horizon | 380050 | [380050-calm-horizon.json](./380050-calm-horizon.json) |
@@ -1597,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Racing Ice: Classic | 288372 | [288372-car-racing-ice-classic.json](./288372-car-racing-ice-classic.json) |
 | Car Racing Master: Car Game 3D | 288982 | [288982-car-racing-master-car-game-3d.json](./288982-car-racing-master-car-game-3d.json) |
 | Car Racing Trials | 203697 | [203697-car-racing-trials.json](./203697-car-racing-trials.json) |
+| Car Racing: High on Fuel | 241825 | [241825-car-racing-high-on-fuel.json](./241825-car-racing-high-on-fuel.json) |
 | Car Racing: Highway Driving Simulator - Premium Edition | 283153 | [283153-car-racing-highway-driving-simulator-premium-edition.json](./283153-car-racing-highway-driving-simulator-premium-edition.json) |
 | Car Rental Simulator | 380054 | [380054-car-rental-simulator.json](./380054-car-rental-simulator.json) |
 | Car Rush I | 254387 | [254387-car-rush-i.json](./254387-car-rush-i.json) |
@@ -6738,6 +6740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Airports | 227412 | [227412-cities-skylines-airports.json](./227412-cities-skylines-airports.json) |
 | Cities: Skylines - Coast to Coast Radio | 149996 | [149996-cities-skylines-coast-to-coast-radio.json](./149996-cities-skylines-coast-to-coast-radio.json) |
 | Cities: Skylines - Content Creator Pack | 241073 | [241073-cities-skylines-content-creator-pack.json](./241073-cities-skylines-content-creator-pack.json) |
+| Cities: Skylines - Content Creator Pack: Africa in Miniature | 241801 | [241801-cities-skylines-content-creator-pack-africa-in-miniature.json](./241801-cities-skylines-content-creator-pack-africa-in-miniature.json) |
 | Cities: Skylines - Content Creator Pack: Bridges & Piers | 149999 | [149999-cities-skylines-content-creator-pack-bridges-and-piers.json](./149999-cities-skylines-content-creator-pack-bridges-and-piers.json) |
 | Cities: Skylines - Content Creator Pack: Brooklyn & Queens | 249602 | [249602-cities-skylines-content-creator-pack-brooklyn-and-queens.json](./249602-cities-skylines-content-creator-pack-brooklyn-and-queens.json) |
 | Cities: Skylines - Content Creator Pack: Heart of Korea | 240928 | [240928-cities-skylines-content-creator-pack-heart-of-korea.json](./240928-cities-skylines-content-creator-pack-heart-of-korea.json) |
@@ -6748,7 +6751,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Content Creator Pack: Modern Japan | 149995 | [149995-cities-skylines-content-creator-pack-modern-japan.json](./149995-cities-skylines-content-creator-pack-modern-japan.json) |
 | Cities: Skylines - Content Creator Pack: Railroads of Japan | 249598 | [249598-cities-skylines-content-creator-pack-railroads-of-japan.json](./249598-cities-skylines-content-creator-pack-railroads-of-japan.json) |
 | Cities: Skylines - Content Creator Pack: Seaside Resorts | 241037 | [241037-cities-skylines-content-creator-pack-seaside-resorts.json](./241037-cities-skylines-content-creator-pack-seaside-resorts.json) |
+| Cities: Skylines - Content Creator Pack: Shopping Malls | 241799 | [241799-cities-skylines-content-creator-pack-shopping-malls.json](./241799-cities-skylines-content-creator-pack-shopping-malls.json) |
 | Cities: Skylines - Content Creator Pack: Skyscrapers | 226302 | [226302-cities-skylines-content-creator-pack-skyscrapers.json](./226302-cities-skylines-content-creator-pack-skyscrapers.json) |
+| Cities: Skylines - Content Creator Pack: Sports Venues | 241800 | [241800-cities-skylines-content-creator-pack-sports-venues.json](./241800-cities-skylines-content-creator-pack-sports-venues.json) |
 | Cities: Skylines - Content Creator Pack: Train Stations | 149998 | [149998-cities-skylines-content-creator-pack-train-stations.json](./149998-cities-skylines-content-creator-pack-train-stations.json) |
 | Cities: Skylines - Financial Districts | 226303 | [226303-cities-skylines-financial-districts.json](./226303-cities-skylines-financial-districts.json) |
 | Cities: Skylines - Hotels & Retreats | 249189 | [249189-cities-skylines-hotels-and-retreats.json](./249189-cities-skylines-hotels-and-retreats.json) |
@@ -7574,6 +7579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clickable Coffee Shop | 120127 | [120127-clickable-coffee-shop.json](./120127-clickable-coffee-shop.json) |
 | Clickart | 255146 | [255146-clickart.json](./255146-clickart.json) |
 | Clickbait Tycoon | 412779 | [412779-clickbait-tycoon.json](./412779-clickbait-tycoon.json) |
+| Clickbait: Tap to Fish | 241207 | [241207-clickbait-tap-to-fish.json](./241207-clickbait-tap-to-fish.json) |
 | ClickBit | 76644 | [76644-clickbit.json](./76644-clickbit.json) |
 | Clickbox | 132022 | [132022-clickbox.json](./132022-clickbox.json) |
 | Clickbox | 132023 | [132023-clickbox.json](./132023-clickbox.json) |
@@ -13232,6 +13238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Guardian | 381110 | [381110-cross-guardian.json](./381110-cross-guardian.json) |
 | Cross Hearts Arcadia | 319834 | [319834-cross-hearts-arcadia.json](./319834-cross-hearts-arcadia.json) |
 | Cross Helix | 396733 | [396733-cross-helix.json](./396733-cross-helix.json) |
+| Cross Hermit: Welcome to the Farthest | 241236 | [241236-cross-hermit-welcome-to-the-farthest.json](./241236-cross-hermit-welcome-to-the-farthest.json) |
 | Cross High | 195036 | [195036-cross-high.json](./195036-cross-high.json) |
 | Cross Impact | 250398 | [250398-cross-impact.json](./250398-cross-impact.json) |
 | Cross Impact: Cowboy | 290793 | [290793-cross-impact-cowboy.json](./290793-cross-impact-cowboy.json) |
@@ -13336,6 +13343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossings | 344157 | [344157-crossings.json](./344157-crossings.json) |
 | Crosslogic Ultimate | 66716 | [66716-crosslogic-ultimate.json](./66716-crosslogic-ultimate.json) |
 | CrossLust | 235491 | [235491-crosslust.json](./235491-crosslust.json) |
+| Crossly | 241206 | [241206-crossly.json](./241206-crossly.json) |
 | Crossmath | 381273 | [381273-crossmath.json](./381273-crossmath.json) |
 | CrossMe | 61006 | [61006-crossme.json](./61006-crossme.json) |
 | Crossniq | 121362 | [121362-crossniq.json](./121362-crossniq.json) |
