@@ -8588,8 +8588,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Journeyman Project: Pegasus Prime | 47079 | [47079-the-journeyman-project-pegasus-prime.json](./47079-the-journeyman-project-pegasus-prime.json) |
 | The Journeyman Project: Turbo! | 79931 | [79931-the-journeyman-project-turbo.json](./79931-the-journeyman-project-turbo.json) |
 | The Jovian System | 164268 | [164268-the-jovian-system.json](./164268-the-jovian-system.json) |
+| The Joy of Creation | 209297 | [209297-the-joy-of-creation.json](./209297-the-joy-of-creation.json) |
 | The Joy of Creation: Classic | 255691 | [255691-the-joy-of-creation-classic.json](./255691-the-joy-of-creation-classic.json) |
+| The Joy of Creation: Halloween Edition | 209306 | [209306-the-joy-of-creation-halloween-edition.json](./209306-the-joy-of-creation-halloween-edition.json) |
 | The Joy of Creation: Ignited Collection | 216456 | [216456-the-joy-of-creation-ignited-collection.json](./216456-the-joy-of-creation-ignited-collection.json) |
+| The Joy of Creation: Reborn | 209305 | [209305-the-joy-of-creation-reborn.json](./209305-the-joy-of-creation-reborn.json) |
 | The Joy of Creation: Reborn | 255692 | [255692-the-joy-of-creation-reborn.json](./255692-the-joy-of-creation-reborn.json) |
 | The Joy of Creation: Story Mode | 255693 | [255693-the-joy-of-creation-story-mode.json](./255693-the-joy-of-creation-story-mode.json) |
 | The Joy of Creation: Story Mode | 45984 | [45984-the-joy-of-creation-story-mode.json](./45984-the-joy-of-creation-story-mode.json) |
@@ -15342,6 +15345,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Those Funny Funguloids! | 70049 | [70049-those-funny-funguloids.json](./70049-those-funny-funguloids.json) |
 | Those Infernal Girls! | 225744 | [225744-those-infernal-girls.json](./225744-those-infernal-girls.json) |
 | Those Left Behind | 212854 | [212854-those-left-behind.json](./212854-those-left-behind.json) |
+| Those Nights at Fredbear's: Reboot | 209310 | [209310-those-nights-at-fredbears-reboot.json](./209310-those-nights-at-fredbears-reboot.json) |
+| Those Nights at Rachel's 2 | 209298 | [209298-those-nights-at-rachels-2.json](./209298-those-nights-at-rachels-2.json) |
+| Those Nights at Rachel's 2: Reloaded | 209308 | [209308-those-nights-at-rachels-2-reloaded.json](./209308-those-nights-at-rachels-2-reloaded.json) |
 | Those Nights at Ring's 2 | 336360 | [336360-those-nights-at-rings-2.json](./336360-those-nights-at-rings-2.json) |
 | Those Spacecrafts | 134970 | [134970-those-spacecrafts.json](./134970-those-spacecrafts.json) |
 | Those Who Came: Healing Solarus | 175647 | [175647-those-who-came-healing-solarus.json](./175647-those-who-came-healing-solarus.json) |
@@ -18883,7 +18889,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's The Division 2: Warlords of New York - Season 3: Concealed Agenda | 217530 | [217530-tom-clancys-the-division-2-warlords-of-new-york-season-3-concealed-agenda.json](./217530-tom-clancys-the-division-2-warlords-of-new-york-season-3-concealed-agenda.json) |
 | Tom Clancy's The Division 2: Warlords of New York - Season 4: End of Watch | 217531 | [217531-tom-clancys-the-division-2-warlords-of-new-york-season-4-end-of-watch.json](./217531-tom-clancys-the-division-2-warlords-of-new-york-season-4-end-of-watch.json) |
 | Tom Clancy's The Division 2: Warlords of New York - Season 9: Hidden Alliance | 217536 | [217536-tom-clancys-the-division-2-warlords-of-new-york-season-9-hidden-alliance.json](./217536-tom-clancys-the-division-2-warlords-of-new-york-season-9-hidden-alliance.json) |
+| Tom Clancy's The Division 2: Warlords of New York - Season Four: End of Watch | 209317 | [209317-tom-clancys-the-division-2-warlords-of-new-york-season-four-end-of-watch.json](./209317-tom-clancys-the-division-2-warlords-of-new-york-season-four-end-of-watch.json) |
+| Tom Clancy's The Division 2: Warlords of New York - Season Nine: Hidden Alliance | 209321 | [209321-tom-clancys-the-division-2-warlords-of-new-york-season-nine-hidden-alliance.json](./209321-tom-clancys-the-division-2-warlords-of-new-york-season-nine-hidden-alliance.json) |
+| Tom Clancy's The Division 2: Warlords of New York - Season One: Shadow Tide | 209314 | [209314-tom-clancys-the-division-2-warlords-of-new-york-season-one-shadow-tide.json](./209314-tom-clancys-the-division-2-warlords-of-new-york-season-one-shadow-tide.json) |
 | Tom Clancy's The Division 2: Warlords of New York - Season Ten: Price of Power | 216426 | [216426-tom-clancys-the-division-2-warlords-of-new-york-season-ten-price-of-power.json](./216426-tom-clancys-the-division-2-warlords-of-new-york-season-ten-price-of-power.json) |
+| Tom Clancy's The Division 2: Warlords of New York - Season Three: Concealed Agenda | 209316 | [209316-tom-clancys-the-division-2-warlords-of-new-york-season-three-concealed-agenda.json](./209316-tom-clancys-the-division-2-warlords-of-new-york-season-three-concealed-agenda.json) |
+| Tom Clancy's The Division 2: Warlords of New York - Season Two: Keener’s Legacy | 209315 | [209315-tom-clancys-the-division-2-warlords-of-new-york-season-two-keener-s-legacy.json](./209315-tom-clancys-the-division-2-warlords-of-new-york-season-two-keener-s-legacy.json) |
 | Tom Clancy's The Division 2: Year 1 Pass | 152165 | [152165-tom-clancys-the-division-2-year-1-pass.json](./152165-tom-clancys-the-division-2-year-1-pass.json) |
 | Tom Clancy's The Division: Gold Edition | 53822 | [53822-tom-clancys-the-division-gold-edition.json](./53822-tom-clancys-the-division-gold-edition.json) |
 | Tom Clancy's The Division: Heartland | 146881 | [146881-tom-clancys-the-division-heartland.json](./146881-tom-clancys-the-division-heartland.json) |
@@ -20216,9 +20227,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Spell Bubble: Side Story Pack - Yukari Arc | 209120 | [209120-touhou-spell-bubble-side-story-pack-yukari-arc.json](./209120-touhou-spell-bubble-side-story-pack-yukari-arc.json) |
 | Touhou Spell Bubble: Side Story Pack Sanae Arc | 144773 | [144773-touhou-spell-bubble-side-story-pack-sanae-arc.json](./144773-touhou-spell-bubble-side-story-pack-sanae-arc.json) |
 | Touhou Spell Bubble: Sound Holic - Song Pack | 224507 | [224507-touhou-spell-bubble-sound-holic-song-pack.json](./224507-touhou-spell-bubble-sound-holic-song-pack.json) |
+| Touhou Spell Bubble: TamaOnSen - Song Pack | 209326 | [209326-touhou-spell-bubble-tamaonsen-song-pack.json](./209326-touhou-spell-bubble-tamaonsen-song-pack.json) |
+| Touhou Spell Bubble: Touhou Chireiden - Arrangements Pack | 209325 | [209325-touhou-spell-bubble-touhou-chireiden-arrangements-pack.json](./209325-touhou-spell-bubble-touhou-chireiden-arrangements-pack.json) |
 | Touhou Spell Bubble: Touhou Collaborations Pack | 209147 | [209147-touhou-spell-bubble-touhou-collaborations-pack.json](./209147-touhou-spell-bubble-touhou-collaborations-pack.json) |
 | Touhou Spell Bubble: Touhou Eiyashou - Arrangements Pack | 209125 | [209125-touhou-spell-bubble-touhou-eiyashou-arrangements-pack.json](./209125-touhou-spell-bubble-touhou-eiyashou-arrangements-pack.json) |
 | Touhou Spell Bubble: Touhou Eurobeat Pack | 209135 | [209135-touhou-spell-bubble-touhou-eurobeat-pack.json](./209135-touhou-spell-bubble-touhou-eurobeat-pack.json) |
+| Touhou Spell Bubble: Touhou Eurobeat Pack Vol.2 | 209327 | [209327-touhou-spell-bubble-touhou-eurobeat-pack-vol-2.json](./209327-touhou-spell-bubble-touhou-eurobeat-pack-vol-2.json) |
 | Touhou Spell Bubble: Touhou Fujinroku Arrangements Pack | 209138 | [209138-touhou-spell-bubble-touhou-fujinroku-arrangements-pack.json](./209138-touhou-spell-bubble-touhou-fujinroku-arrangements-pack.json) |
 | Touhou Spell Bubble: Touhou Seirensen Arrangements Pack | 209524 | [209524-touhou-spell-bubble-touhou-seirensen-arrangements-pack.json](./209524-touhou-spell-bubble-touhou-seirensen-arrangements-pack.json) |
 | Touhou Spell Carnival: Limited Edition | 322383 | [322383-touhou-spell-carnival-limited-edition.json](./322383-touhou-spell-carnival-limited-edition.json) |
