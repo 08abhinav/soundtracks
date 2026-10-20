@@ -4485,7 +4485,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Zero Nightmare | 350249 | [350249-chaos-zero-nightmare.json](./350249-chaos-zero-nightmare.json) |
 | Chaos-Alante | 260236 | [260236-chaos-alante.json](./260236-chaos-alante.json) |
 | Chaos;Child Love Chu Chu!! | 65530 | [65530-chaos-child-love-chu-chu.json](./65530-chaos-child-love-chu-chu.json) |
-| Chaos;Head | 11392 | [11392-chaos-head.json](./11392-chaos-head.json) |
 | Chaos;Head Dual | 61551 | [61551-chaos-head-dual.json](./61551-chaos-head-dual.json) |
 | Chaos;Head Love Chu Chu! | 6935 | [6935-chaos-head-love-chu-chu.json](./6935-chaos-head-love-chu-chu.json) |
 | Chaos;Head Noah | 43953 | [43953-chaos-head-noah.json](./43953-chaos-head-noah.json) |
