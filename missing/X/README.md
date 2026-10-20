@@ -634,7 +634,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xicon Exedra: Minor Advancement | 381786 | [381786-xicon-exedra-minor-advancement.json](./381786-xicon-exedra-minor-advancement.json) |
 | XII Scripta/Alea | 384141 | [384141-xii-scripta-alea.json](./384141-xii-scripta-alea.json) |
 | XII Stag | 43340 | [43340-xii-stag.json](./43340-xii-stag.json) |
-| XIII | 117509 | [117509-xiii.json](./117509-xiii.json) |
 | XIII | 1987 | [1987-xiii.json](./1987-xiii.json) |
 | XIII Century: Blood of Europe | 9311 | [9311-xiii-century-blood-of-europe.json](./9311-xiii-century-blood-of-europe.json) |
 | XIII Century: Death or Glory | 9860 | [9860-xiii-century-death-or-glory.json](./9860-xiii-century-death-or-glory.json) |
