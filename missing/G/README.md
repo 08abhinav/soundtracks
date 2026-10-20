@@ -7581,6 +7581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guerilla Bob | 94760 | [94760-guerilla-bob.json](./94760-guerilla-bob.json) |
 | Guerilla Cinema // Guerilla Theater | 394838 | [394838-guerilla-cinema-guerilla-theater.json](./394838-guerilla-cinema-guerilla-theater.json) |
 | Guerilla Cubes | 383653 | [383653-guerilla-cubes.json](./383653-guerilla-cubes.json) |
+| Guerra dos monstros | 230680 | [230680-guerra-dos-monstros.json](./230680-guerra-dos-monstros.json) |
 | Guerra Sangrenta | 258694 | [258694-guerra-sangrenta.json](./258694-guerra-sangrenta.json) |
 | Guerra Tribal | 336616 | [336616-guerra-tribal.json](./336616-guerra-tribal.json) |
 | Guerrière Lyewärd | 244995 | [244995-guerriere-lyeward.json](./244995-guerriere-lyeward.json) |
