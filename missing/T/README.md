@@ -14463,6 +14463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World's Greatest Baseball Game | 25790 | [25790-the-worlds-greatest-baseball-game.json](./25790-the-worlds-greatest-baseball-game.json) |
 | The World's Hardest Game | 141086 | [141086-the-worlds-hardest-game.json](./141086-the-worlds-hardest-game.json) |
 | The World's Hardest Game 2 | 224510 | [224510-the-worlds-hardest-game-2.json](./224510-the-worlds-hardest-game-2.json) |
+| The World's Hardest Game 3 | 231713 | [231713-the-worlds-hardest-game-3.json](./231713-the-worlds-hardest-game-3.json) |
 | The World's Hardest Game 3D | 169757 | [169757-the-worlds-hardest-game-3d.json](./169757-the-worlds-hardest-game-3d.json) |
 | The World's Hardest Game 3D 2 | 195966 | [195966-the-worlds-hardest-game-3d-2.json](./195966-the-worlds-hardest-game-3d-2.json) |
 | The World's Hardest Game 3D Nostalgia | 412509 | [412509-the-worlds-hardest-game-3d-nostalgia.json](./412509-the-worlds-hardest-game-3d-nostalgia.json) |
@@ -24425,6 +24426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtle | 340391 | [340391-turtle.json](./340391-turtle.json) |
 | Turtle Bay | 79302 | [79302-turtle-bay.json](./79302-turtle-bay.json) |
 | Turtle Bridge | 228394 | [228394-turtle-bridge.json](./228394-turtle-bridge.json) |
+| Turtle Bridge | 231739 | [231739-turtle-bridge.json](./231739-turtle-bridge.json) |
 | Turtle Bridge | 363304 | [363304-turtle-bridge.json](./363304-turtle-bridge.json) |
 | Turtle Champs: Cosmetics Pass | 315313 | [315313-turtle-champs-cosmetics-pass.json](./315313-turtle-champs-cosmetics-pass.json) |
 | Turtle Daddy | 385560 | [385560-turtle-daddy.json](./385560-turtle-daddy.json) |
