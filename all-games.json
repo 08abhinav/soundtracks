@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:20:37.934Z",
-  "total_soundtracks": 2239,
+  "generated_at": "2026-10-20T21:20:48.722Z",
+  "total_soundtracks": 2240,
   "games": [
     {
       "igdb_id": 7522,
@@ -2997,6 +2997,20 @@
           "spotify_url": "https://music.apple.com/us/album/blacksad-under-the-skin-original-score/1488898005?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1488898005"
+        }
+      ]
+    },
+    {
+      "igdb_id": 152129,
+      "game_name": "Blacktail",
+      "game_url": "https://ostdb.net/games/blacktail",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273edacca8a5a565f1ea1112a03",
+      "albums": [
+        {
+          "album_name": "BLACKTAIL (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1DPU0Wn64eMwDRFMR8hnJU",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
