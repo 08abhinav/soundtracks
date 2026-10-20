@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dactyl Nightmare | 65008 | [65008-dactyl-nightmare.json](./65008-dactyl-nightmare.json) |
 | Dactylographe | 183533 | [183533-dactylographe.json](./183533-dactylographe.json) |
 | Dactylus | 268397 | [268397-dactylus.json](./268397-dactylus.json) |
+| Dad and Me: Super Daddy Punch Hero | 208195 | [208195-dad-and-me-super-daddy-punch-hero.json](./208195-dad-and-me-super-daddy-punch-hero.json) |
 | Dad Beat Dads | 34847 | [34847-dad-beat-dads.json](./34847-dad-beat-dads.json) |
 | Dad Broke the Moon! | 181327 | [181327-dad-broke-the-moon.json](./181327-dad-broke-the-moon.json) |
 | Dad by the Sword | 218687 | [218687-dad-by-the-sword.json](./218687-dad-by-the-sword.json) |
@@ -1589,6 +1590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darklight Conflict | 2399 | [2399-darklight-conflict.json](./2399-darklight-conflict.json) |
 | Darklight: Origin | 157100 | [157100-darklight-origin.json](./157100-darklight-origin.json) |
 | Darklin Wars | 129769 | [129769-darklin-wars.json](./129769-darklin-wars.json) |
+| Darklings | 208182 | [208182-darklings.json](./208182-darklings.json) |
 | Darklord | 131419 | [131419-darklord.json](./131419-darklord.json) |
 | Darklord's Tower | 360021 | [360021-darklords-tower.json](./360021-darklords-tower.json) |
 | Darkman | 12037 | [12037-darkman.json](./12037-darkman.json) |
@@ -1635,6 +1637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkPrison | 115760 | [115760-darkprison.json](./115760-darkprison.json) |
 | DarkRanger | 344877 | [344877-darkranger.json](./344877-darkranger.json) |
 | DarkRay | 410492 | [410492-darkray.json](./410492-darkray.json) |
+| Darkrise | 208196 | [208196-darkrise.json](./208196-darkrise.json) |
 | Darkrite: The Blight of Love | 386449 | [386449-darkrite-the-blight-of-love.json](./386449-darkrite-the-blight-of-love.json) |
 | Darkroom | 356607 | [356607-darkroom.json](./356607-darkroom.json) |
 | Darkroom | 75666 | [75666-darkroom.json](./75666-darkroom.json) |
@@ -4328,7 +4331,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Degraman: Act I - Vincent | 196165 | [196165-degraman-act-i-vincent.json](./196165-degraman-act-i-vincent.json) |
 | Degraman: Act I - Vincent, Cassel & Loner | 196088 | [196088-degraman-act-i-vincent-cassel-and-loner.json](./196088-degraman-act-i-vincent-cassel-and-loner.json) |
 | Degraman: Act II - Victor | 265571 | [265571-degraman-act-ii-victor.json](./265571-degraman-act-ii-victor.json) |
-| Degrees of Separation | 110503 | [110503-degrees-of-separation.json](./110503-degrees-of-separation.json) |
 | Degu Squad | 282007 | [282007-degu-squad.json](./282007-degu-squad.json) |
 | Dehoarder 2 | 214509 | [214509-dehoarder-2.json](./214509-dehoarder-2.json) |
 | Dehumanized | 104054 | [104054-dehumanized.json](./104054-dehumanized.json) |
@@ -6060,6 +6062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devilman | 80868 | [80868-devilman.json](./80868-devilman.json) |
 | DeviloutionX | 374214 | [374214-deviloutionx.json](./374214-deviloutionx.json) |
 | Devilry | 34936 | [34936-devilry.json](./34936-devilry.json) |
+| Devils 'n Dragons Arcade | 208208 | [208208-devils-n-dragons-arcade.json](./208208-devils-n-dragons-arcade.json) |
 | Devils & Demons | 13170 | [13170-devils-and-demons.json](./13170-devils-and-demons.json) |
 | Devils and Demons | 372789 | [372789-devils-and-demons.json](./372789-devils-and-demons.json) |
 | Devils Due | 359520 | [359520-devils-due.json](./359520-devils-due.json) |
@@ -9784,7 +9787,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DooM: Infernal Attack | 198352 | [198352-doom-infernal-attack.json](./198352-doom-infernal-attack.json) |
 | Doom: Slayer's Testament | 146666 | [146666-doom-slayers-testament.json](./146666-doom-slayers-testament.json) |
 | Doom: The Classics Collection | 145387 | [145387-doom-the-classics-collection.json](./145387-doom-the-classics-collection.json) |
-| Doom: The Dark Ages - Revelations | 405075 | [405075-doom-the-dark-ages-revelations.json](./405075-doom-the-dark-ages-revelations.json) |
 | Doom: The Gallery Experience | 327632 | [327632-doom-the-gallery-experience.json](./327632-doom-the-gallery-experience.json) |
 | DOOM: The Golden Souls | 140496 | [140496-doom-the-golden-souls.json](./140496-doom-the-golden-souls.json) |
 | Doom: The Golden Souls 2 | 140497 | [140497-doom-the-golden-souls-2.json](./140497-doom-the-golden-souls-2.json) |
@@ -11887,6 +11889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Match Tennis Pro | 109197 | [109197-dream-match-tennis-pro.json](./109197-dream-match-tennis-pro.json) |
 | Dream Match Tennis VR | 105507 | [105507-dream-match-tennis-vr.json](./105507-dream-match-tennis-vr.json) |
 | Dream Mayday | 356421 | [356421-dream-mayday.json](./356421-dream-mayday.json) |
+| Dream Maze 3D | 208201 | [208201-dream-maze-3d.json](./208201-dream-maze-3d.json) |
 | Dream Medicine | 286126 | [286126-dream-medicine.json](./286126-dream-medicine.json) |
 | Dream Meister and the Recollected Black Fairy | 193805 | [193805-dream-meister-and-the-recollected-black-fairy.json](./193805-dream-meister-and-the-recollected-black-fairy.json) |
 | Dream Mini Golf: Putt Star | 253277 | [253277-dream-mini-golf-putt-star.json](./253277-dream-mini-golf-putt-star.json) |
@@ -13547,6 +13550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Legend Party | 348373 | [348373-dungeon-legend-party.json](./348373-dungeon-legend-party.json) |
 | Dungeon Legends 2 | 200179 | [200179-dungeon-legends-2.json](./200179-dungeon-legends-2.json) |
 | Dungeon Liberator | 203809 | [203809-dungeon-liberator.json](./203809-dungeon-liberator.json) |
+| Dungeon Life | 208200 | [208200-dungeon-life.json](./208200-dungeon-life.json) |
 | Dungeon Limbus | 142280 | [142280-dungeon-limbus.json](./142280-dungeon-limbus.json) |
 | Dungeon Link | 56140 | [56140-dungeon-link.json](./56140-dungeon-link.json) |
 | Dungeon Looter | 155002 | [155002-dungeon-looter.json](./155002-dungeon-looter.json) |
@@ -14353,6 +14357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Legends: Warriors Unite | 240887 | [240887-dynasty-legends-warriors-unite.json](./240887-dynasty-legends-warriors-unite.json) |
 | Dynasty of the Sands | 128949 | [128949-dynasty-of-the-sands.json](./128949-dynasty-of-the-sands.json) |
 | Dynasty Origins: Conquest | 216128 | [216128-dynasty-origins-conquest.json](./216128-dynasty-origins-conquest.json) |
+| Dynasty Scrolls | 208199 | [208199-dynasty-scrolls.json](./208199-dynasty-scrolls.json) |
 | Dynasty Tactics | 6842 | [6842-dynasty-tactics.json](./6842-dynasty-tactics.json) |
 | Dynasty Tactics 2 | 6843 | [6843-dynasty-tactics-2.json](./6843-dynasty-tactics-2.json) |
 | Dynasty Warriors | 100279 | [100279-dynasty-warriors.json](./100279-dynasty-warriors.json) |
