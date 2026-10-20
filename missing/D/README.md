@@ -1615,6 +1615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness Rainfall | 405953 | [405953-darkness-rainfall.json](./405953-darkness-rainfall.json) |
 | Darkness Reborn | 223427 | [223427-darkness-reborn.json](./223427-darkness-reborn.json) |
 | Darkness Reborn | 28820 | [28820-darkness-reborn.json](./28820-darkness-reborn.json) |
+| Darkness Revenge | 215536 | [215536-darkness-revenge.json](./215536-darkness-revenge.json) |
 | Darkness Rises | 103411 | [103411-darkness-rises.json](./103411-darkness-rises.json) |
 | Darkness Ritual: Impasse | 289793 | [289793-darkness-ritual-impasse.json](./289793-darkness-ritual-impasse.json) |
 | Darkness Road | 262206 | [262206-darkness-road.json](./262206-darkness-road.json) |
@@ -3321,6 +3322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death in a Party | 381738 | [381738-death-in-a-party.json](./381738-death-in-a-party.json) |
 | Death In Abyss | 247609 | [247609-death-in-abyss.json](./247609-death-in-abyss.json) |
 | Death in the Bunker | 224555 | [224555-death-in-the-bunker.json](./224555-death-in-the-bunker.json) |
+| Death in the Night | 215538 | [215538-death-in-the-night.json](./215538-death-in-the-night.json) |
 | Death in the Water 2 | 222355 | [222355-death-in-the-water-2.json](./222355-death-in-the-water-2.json) |
 | Death in Unison | 301383 | [301383-death-in-unison.json](./301383-death-in-unison.json) |
 | Death In Your Dice | 334740 | [334740-death-in-your-dice.json](./334740-death-in-your-dice.json) |
@@ -3398,6 +3400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Rally | 18121 | [18121-death-rally.json](./18121-death-rally.json) |
 | Death Rally | 665 | [665-death-rally.json](./665-death-rally.json) |
 | Death Ration: Back to 19XX | 258321 | [258321-death-ration-back-to-19xx.json](./258321-death-ration-back-to-19xx.json) |
+| Death Rattle: Evil Onslaught | 215540 | [215540-death-rattle-evil-onslaught.json](./215540-death-rattle-evil-onslaught.json) |
 | Death Rattle: Hell Unleashed | 155391 | [155391-death-rattle-hell-unleashed.json](./155391-death-rattle-hell-unleashed.json) |
 | Death Realm | 154053 | [154053-death-realm.json](./154053-death-realm.json) |
 | Death Relives | 220010 | [220010-death-relives.json](./220010-death-relives.json) |
@@ -3563,6 +3566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathward | 397590 | [397590-deathward.json](./397590-deathward.json) |
 | Deathwatch | 221258 | [221258-deathwatch.json](./221258-deathwatch.json) |
 | deathwish | 318690 | [318690-deathwish.json](./318690-deathwish.json) |
+| Deathwish | 215541 | [215541-deathwish.json](./215541-deathwish.json) |
 | Deathwish Enforcers | 203766 | [203766-deathwish-enforcers.json](./203766-deathwish-enforcers.json) |
 | DeathWorm | 234941 | [234941-deathworm.json](./234941-deathworm.json) |
 | Debasing Grounds | 286682 | [286682-debasing-grounds.json](./286682-debasing-grounds.json) |
@@ -3637,6 +3641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decently Bad Tower Defense | 158034 | [158034-decently-bad-tower-defense.json](./158034-decently-bad-tower-defense.json) |
 | Deceptiive Love Ballad The Blasphemer | 386840 | [386840-deceptiive-love-ballad-the-blasphemer.json](./386840-deceptiive-love-ballad-the-blasphemer.json) |
 | Deception | 171413 | [171413-deception.json](./171413-deception.json) |
+| Deception | 215542 | [215542-deception.json](./215542-deception.json) |
 | Deception IV: The Nightmare Princess | 44650 | [44650-deception-iv-the-nightmare-princess.json](./44650-deception-iv-the-nightmare-princess.json) |
 | Deceptus | 220011 | [220011-deceptus.json](./220011-deceptus.json) |
 | Deceptus Map Pack + Bonus Items | 230934 | [230934-deceptus-map-pack-bonus-items.json](./230934-deceptus-map-pack-bonus-items.json) |
@@ -3713,6 +3718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deckout | 373663 | [373663-deckout.json](./373663-deckout.json) |
 | Deckrypt | 416590 | [416590-deckrypt.json](./416590-deckrypt.json) |
 | Decks & Dungeons | 149574 | [149574-decks-and-dungeons.json](./149574-decks-and-dungeons.json) |
+| Decks Against Destiny | 215543 | [215543-decks-against-destiny.json](./215543-decks-against-destiny.json) |
 | Decks of Power | 235842 | [235842-decks-of-power.json](./235842-decks-of-power.json) |
 | Decks of the Damned | 282118 | [282118-decks-of-the-damned.json](./282118-decks-of-the-damned.json) |
 | Decksplash | 26943 | [26943-decksplash.json](./26943-decksplash.json) |
