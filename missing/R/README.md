@@ -2156,6 +2156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Drift Racing | 119444 | [119444-real-drift-racing.json](./119444-real-drift-racing.json) |
 | Real Driver Legend of the City | 216133 | [216133-real-driver-legend-of-the-city.json](./216133-real-driver-legend-of-the-city.json) |
 | Real Driving 2: Ultimate Car Simulator | 208962 | [208962-real-driving-2-ultimate-car-simulator.json](./208962-real-driving-2-ultimate-car-simulator.json) |
+| Real Driving Simulator 23 | 252555 | [252555-real-driving-simulator-23.json](./252555-real-driving-simulator-23.json) |
 | Real Drone Simulator | 298936 | [298936-real-drone-simulator.json](./298936-real-drone-simulator.json) |
 | Real Erogame Situation! Triple H | 194627 | [194627-real-erogame-situation-triple-h.json](./194627-real-erogame-situation-triple-h.json) |
 | Real Eroge Situation! | 194590 | [194590-real-eroge-situation.json](./194590-real-eroge-situation.json) |
@@ -2202,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Monster Truck Parking | 243068 | [243068-real-monster-truck-parking.json](./243068-real-monster-truck-parking.json) |
 | Real Mother Simulator | 105783 | [105783-real-mother-simulator.json](./105783-real-mother-simulator.json) |
 | Real Motion Fishing: Hooked! Again | 67289 | [67289-real-motion-fishing-hooked-again.json](./67289-real-motion-fishing-hooked-again.json) |
+| Real Moto | 252557 | [252557-real-moto.json](./252557-real-moto.json) |
 | Real Motocross Driving Simulator | 259814 | [259814-real-motocross-driving-simulator.json](./259814-real-motocross-driving-simulator.json) |
 | Real Nightmares | 247972 | [247972-real-nightmares.json](./247972-real-nightmares.json) |
 | Real Pinball | 4266 | [4266-real-pinball.json](./4266-real-pinball.json) |
@@ -3841,6 +3843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repeat It Back To Me | 397840 | [397840-repeat-it-back-to-me.json](./397840-repeat-it-back-to-me.json) |
 | Repeat the Ending | 275602 | [275602-repeat-the-ending.json](./275602-repeat-the-ending.json) |
 | Repeat the image: Animals | 106425 | [106425-repeat-the-image-animals.json](./106425-repeat-the-image-animals.json) |
+| Repeat: A Memory Game | 252554 | [252554-repeat-a-memory-game.json](./252554-repeat-a-memory-game.json) |
 | Repeater | 374837 | [374837-repeater.json](./374837-repeater.json) |
 | RepeatyBots | 58498 | [58498-repeatybots.json](./58498-repeatybots.json) |
 | Repel Aliens 3D | 114938 | [114938-repel-aliens-3d.json](./114938-repel-aliens-3d.json) |
@@ -6985,6 +6988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Cave Adventure | 160227 | [160227-rocket-cave-adventure.json](./160227-rocket-cave-adventure.json) |
 | Rocket Chameleon | 58750 | [58750-rocket-chameleon.json](./58750-rocket-chameleon.json) |
 | Rocket Chicken | 254975 | [254975-rocket-chicken.json](./254975-rocket-chicken.json) |
+| Rocket Chimp | 252553 | [252553-rocket-chimp.json](./252553-rocket-chimp.json) |
 | Rocket Coaster | 82928 | [82928-rocket-coaster.json](./82928-rocket-coaster.json) |
 | Rocket Control | 242478 | [242478-rocket-control.json](./242478-rocket-control.json) |
 | Rocket Cows | 195730 | [195730-rocket-cows.json](./195730-rocket-cows.json) |
