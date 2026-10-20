@@ -3806,6 +3806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Alone | 264521 | [264521-wild-alone.json](./264521-wild-alone.json) |
 | Wild Americas | 247979 | [247979-wild-americas.json](./247979-wild-americas.json) |
 | Wild Angels: Episode 1 | 282209 | [282209-wild-angels-episode-1.json](./282209-wild-angels-episode-1.json) |
+| Wild Area | 237226 | [237226-wild-area.json](./237226-wild-area.json) |
 | Wild Arena | 31072 | [31072-wild-arena.json](./31072-wild-arena.json) |
 | Wild Arms | 1677 | [1677-wild-arms.json](./1677-wild-arms.json) |
 | Wild Arms | 205593 | [205593-wild-arms.json](./205593-wild-arms.json) |
