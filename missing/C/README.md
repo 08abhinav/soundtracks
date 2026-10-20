@@ -585,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare Collection | 136209 | [136209-call-of-duty-modern-warfare-collection.json](./136209-call-of-duty-modern-warfare-collection.json) |
 | Call of Duty: Modern Warfare II - Graffiti Tactical: Pro Pack | 257325 | [257325-call-of-duty-modern-warfare-ii-graffiti-tactical-pro-pack.json](./257325-call-of-duty-modern-warfare-ii-graffiti-tactical-pro-pack.json) |
 | Call of Duty: Modern Warfare II - Griffin: Pro Pack | 254759 | [254759-call-of-duty-modern-warfare-ii-griffin-pro-pack.json](./254759-call-of-duty-modern-warfare-ii-griffin-pro-pack.json) |
+| Call of Duty: Modern Warfare II - Season 02 | 235080 | [235080-call-of-duty-modern-warfare-ii-season-02.json](./235080-call-of-duty-modern-warfare-ii-season-02.json) |
 | Call of Duty: Modern Warfare II - Season 03 | 243777 | [243777-call-of-duty-modern-warfare-ii-season-03.json](./243777-call-of-duty-modern-warfare-ii-season-03.json) |
 | Call of Duty: Modern Warfare II - Season 05 | 259766 | [259766-call-of-duty-modern-warfare-ii-season-05.json](./259766-call-of-duty-modern-warfare-ii-season-05.json) |
 | Call of Duty: Modern Warfare II - Vault Edition | 218405 | [218405-call-of-duty-modern-warfare-ii-vault-edition.json](./218405-call-of-duty-modern-warfare-ii-vault-edition.json) |
@@ -7485,6 +7486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clear Sky 1941 | 95553 | [95553-clear-sky-1941.json](./95553-clear-sky-1941.json) |
 | Clear The Coast | 270692 | [270692-clear-the-coast.json](./270692-clear-the-coast.json) |
 | Clear the Lot | 224082 | [224082-clear-the-lot.json](./224082-clear-the-lot.json) |
+| Clear the Space | 235050 | [235050-clear-the-space.json](./235050-clear-the-space.json) |
 | Clear the Train | 255247 | [255247-clear-the-train.json](./255247-clear-the-train.json) |
 | Clear Vision | 95568 | [95568-clear-vision.json](./95568-clear-vision.json) |
 | Clear Vision 2 | 63773 | [63773-clear-vision-2.json](./63773-clear-vision-2.json) |
