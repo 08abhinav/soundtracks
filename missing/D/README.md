@@ -3918,6 +3918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Sea Puzzle | 382453 | [382453-deep-sea-puzzle.json](./382453-deep-sea-puzzle.json) |
 | Deep Sea Rhapsody | 250776 | [250776-deep-sea-rhapsody.json](./250776-deep-sea-rhapsody.json) |
 | Deep Sea Sweep | 250257 | [250257-deep-sea-sweep.json](./250257-deep-sea-sweep.json) |
+| Deep Sea Trip | 237235 | [237235-deep-sea-trip.json](./237235-deep-sea-trip.json) |
 | Deep Sea Trophy Fishing | 410802 | [410802-deep-sea-trophy-fishing.json](./410802-deep-sea-trophy-fishing.json) |
 | Deep Sea Tycoon | 50451 | [50451-deep-sea-tycoon.json](./50451-deep-sea-tycoon.json) |
 | Deep Sea Tycoon: Diver's Paradise | 146201 | [146201-deep-sea-tycoon-divers-paradise.json](./146201-deep-sea-tycoon-divers-paradise.json) |
@@ -4541,6 +4542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deluge | 351644 | [351644-deluge.json](./351644-deluge.json) |
 | Deluge: Onset | 142829 | [142829-deluge-onset.json](./142829-deluge-onset.json) |
 | Deluge: Raintime | 390063 | [390063-deluge-raintime.json](./390063-deluge-raintime.json) |
+| Deluge: Sermon for the Dead | 237187 | [237187-deluge-sermon-for-the-dead.json](./237187-deluge-sermon-for-the-dead.json) |
 | Deluge: Threnody of Crashing Waves | 173264 | [173264-deluge-threnody-of-crashing-waves.json](./173264-deluge-threnody-of-crashing-waves.json) |
 | Delunky: Endless Descent | 177861 | [177861-delunky-endless-descent.json](./177861-delunky-endless-descent.json) |
 | Delusion | 127698 | [127698-delusion.json](./127698-delusion.json) |
@@ -8333,6 +8335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoC: God Mode Edition | 107162 | [107162-doc-god-mode-edition.json](./107162-doc-god-mode-edition.json) |
 | Doce Fim: Sweetend Placebo | 391576 | [391576-doce-fim-sweetend-placebo.json](./391576-doce-fim-sweetend-placebo.json) |
 | Doces & Calabouços: Caos no Reino do Doce | 335244 | [335244-doces-and-calaboucos-caos-no-reino-do-doce.json](./335244-doces-and-calaboucos-caos-no-reino-do-doce.json) |
+| Docile Fright | 237212 | [237212-docile-fright.json](./237212-docile-fright.json) |
 | Dock King | 204420 | [204420-dock-king.json](./204420-dock-king.json) |
 | Docked: Deep Waters | 405957 | [405957-docked-deep-waters.json](./405957-docked-deep-waters.json) |
 | Docked: DLC 2 | 398957 | [398957-docked-dlc-2.json](./398957-docked-dlc-2.json) |
@@ -10021,6 +10024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dotcraft. | 106770 | [106770-dotcraft.json](./106770-dotcraft.json) |
 | DotDot | 253971 | [253971-dotdot.json](./253971-dotdot.json) |
 | Doterminism | 200538 | [200538-doterminism.json](./200538-doterminism.json) |
+| Dotgeon | 237232 | [237232-dotgeon.json](./237232-dotgeon.json) |
 | DotLine | 109418 | [109418-dotline.json](./109418-dotline.json) |
 | DotMan | 85098 | [85098-dotman.json](./85098-dotman.json) |
 | DotMatrixx | 91288 | [91288-dotmatrixx.json](./91288-dotmatrixx.json) |
