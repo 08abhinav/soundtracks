@@ -3861,6 +3861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kommersant | 81640 | [81640-kommersant.json](./81640-kommersant.json) |
 | Kommissar Kugelblitz: Der Fall Wüstenkönig | 221256 | [221256-kommissar-kugelblitz-der-fall-wustenkonig.json](./221256-kommissar-kugelblitz-der-fall-wustenkonig.json) |
 | Kommissar Kugelblitz: Vermisst am Mississippi | 282691 | [282691-kommissar-kugelblitz-vermisst-am-mississippi.json](./282691-kommissar-kugelblitz-vermisst-am-mississippi.json) |
+| Kommissar Rex | 217734 | [217734-kommissar-rex.json](./217734-kommissar-rex.json) |
 | Komodo 3K Arena | 393110 | [393110-komodo-3k-arena.json](./393110-komodo-3k-arena.json) |
 | Komori Fruit Rush | 126633 | [126633-komori-fruit-rush.json](./126633-komori-fruit-rush.json) |
 | Komparet | 415481 | [415481-komparet.json](./415481-komparet.json) |
