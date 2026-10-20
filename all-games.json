@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T22:00:38.290Z",
-  "total_soundtracks": 2314,
+  "generated_at": "2026-10-20T22:00:49.139Z",
+  "total_soundtracks": 2315,
   "games": [
     {
       "igdb_id": 7522,
@@ -8005,6 +8005,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/i-am-exekiller-original-game-soundtrack-single/1598151208?uo=4",
           "album_link_url": "https://album.link/i/1598151208"
+        }
+      ]
+    },
+    {
+      "igdb_id": 122311,
+      "game_name": "Exit the Gungeon",
+      "game_url": "https://ostdb.net/games/exit-the-gungeon",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b2097dd4fc8ffb29841d3b6e",
+      "albums": [
+        {
+          "album_name": "Exit the Gungeon (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0RSkluAv54939uDX8WnfkB",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
