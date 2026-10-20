@@ -20505,6 +20505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towns of Yore | 247671 | [247671-towns-of-yore.json](./247671-towns-of-yore.json) |
 | Townscaper VR | 223141 | [223141-townscaper-vr.json](./223141-townscaper-vr.json) |
 | Townseek | 177316 | [177316-townseek.json](./177316-townseek.json) |
+| Townseek: Jam Version | 237782 | [237782-townseek-jam-version.json](./237782-townseek-jam-version.json) |
 | TownsFolk | 377956 | [377956-townsfolk.json](./377956-townsfolk.json) |
 | Township | 19526 | [19526-township.json](./19526-township.json) |
 | Townsmen | 32428 | [32428-townsmen.json](./32428-townsmen.json) |
