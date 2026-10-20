@@ -1973,6 +1973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of Retribution: Legend of Abyss | 197339 | [197339-way-of-retribution-legend-of-abyss.json](./197339-way-of-retribution-legend-of-abyss.json) |
 | Way of Robot | 356301 | [356301-way-of-robot.json](./356301-way-of-robot.json) |
 | Way of Tanks | 246253 | [246253-way-of-tanks.json](./246253-way-of-tanks.json) |
+| Way of the Bullet | 245723 | [245723-way-of-the-bullet.json](./245723-way-of-the-bullet.json) |
 | Way of the Cossack | 25550 | [25550-way-of-the-cossack.json](./25550-way-of-the-cossack.json) |
 | Way of the Dogg | 20109 | [20109-way-of-the-dogg.json](./20109-way-of-the-dogg.json) |
 | Way of the Exploding Stick | 290866 | [290866-way-of-the-exploding-stick.json](./290866-way-of-the-exploding-stick.json) |
@@ -5016,6 +5017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard's Symphony | 96111 | [96111-wizards-symphony.json](./96111-wizards-symphony.json) |
 | Wizard's Terror | 176253 | [176253-wizards-terror.json](./176253-wizards-terror.json) |
 | Wizard's Warp | 332398 | [332398-wizards-warp.json](./332398-wizards-warp.json) |
+| Wizard's Watch | 245721 | [245721-wizards-watch.json](./245721-wizards-watch.json) |
 | Wizard's Way Out | 181622 | [181622-wizards-way-out.json](./181622-wizards-way-out.json) |
 | Wizard's Wheel 2 | 237241 | [237241-wizards-wheel-2.json](./237241-wizards-wheel-2.json) |
 | Wizard's Words | 105966 | [105966-wizards-words.json](./105966-wizards-words.json) |
