@@ -3129,6 +3129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Take Your Left | 148542 | [148542-just-take-your-left.json](./148542-just-take-your-left.json) |
 | Just Thanks | 267905 | [267905-just-thanks.json](./267905-just-thanks.json) |
 | Just Touch The WhiteBox!!! | 262355 | [262355-just-touch-the-whitebox.json](./262355-just-touch-the-whitebox.json) |
+| Just Turn Right | 246252 | [246252-just-turn-right.json](./246252-just-turn-right.json) |
 | Just Two | 299732 | [299732-just-two.json](./299732-just-two.json) |
 | Just Waiting Cats | 364863 | [364863-just-waiting-cats.json](./364863-just-waiting-cats.json) |
 | Just Wak and Beats | 233959 | [233959-just-wak-and-beats.json](./233959-just-wak-and-beats.json) |
