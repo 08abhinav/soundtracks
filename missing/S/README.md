@@ -7467,6 +7467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siberian Run VR | 118099 | [118099-siberian-run-vr.json](./118099-siberian-run-vr.json) |
 | Siberian Strike | 91888 | [91888-siberian-strike.json](./91888-siberian-strike.json) |
 | Siberian Survival: Cold Winter | 216117 | [216117-siberian-survival-cold-winter.json](./216117-siberian-survival-cold-winter.json) |
+| Siberian Village Simulator | 212103 | [212103-siberian-village-simulator.json](./212103-siberian-village-simulator.json) |
 | Siberian Way | 333237 | [333237-siberian-way.json](./333237-siberian-way.json) |
 | Sibijicheon M | 233547 | [233547-sibijicheon-m.json](./233547-sibijicheon-m.json) |
 | Sibilla | 405005 | [405005-sibilla.json](./405005-sibilla.json) |
@@ -13957,6 +13958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Master | 180288 | [180288-soul-master.json](./180288-soul-master.json) |
 | Soul Master | 66669 | [66669-soul-master.json](./66669-soul-master.json) |
 | Soul Mates | 340400 | [340400-soul-mates.json](./340400-soul-mates.json) |
+| Soul Maze | 212127 | [212127-soul-maze.json](./212127-soul-maze.json) |
 | Soul Maze | 388345 | [388345-soul-maze.json](./388345-soul-maze.json) |
 | Soul Merger | 216873 | [216873-soul-merger.json](./216873-soul-merger.json) |
 | Soul Mirror Relics | 345657 | [345657-soul-mirror-relics.json](./345657-soul-mirror-relics.json) |
@@ -14166,6 +14168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sound Balling 3 | 334756 | [334756-sound-balling-3.json](./334756-sound-balling-3.json) |
 | Sound Fantasy | 42522 | [42522-sound-fantasy.json](./42522-sound-fantasy.json) |
 | Sound Garden | 243684 | [243684-sound-garden.json](./243684-sound-garden.json) |
+| Sound Hidden Forest | 212106 | [212106-sound-hidden-forest.json](./212106-sound-hidden-forest.json) |
 | Sound Horizons | 304882 | [304882-sound-horizons.json](./304882-sound-horizons.json) |
 | Sound Lock | 261785 | [261785-sound-lock.json](./261785-sound-lock.json) |
 | Sound Mind | 275662 | [275662-sound-mind.json](./275662-sound-mind.json) |
@@ -18322,6 +18325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Thief | 110928 | [110928-star-thief.json](./110928-star-thief.json) |
 | Star Tower | 373537 | [373537-star-tower.json](./373537-star-tower.json) |
 | Star Tracer | 357305 | [357305-star-tracer.json](./357305-star-tracer.json) |
+| Star Trader | 212135 | [212135-star-trader.json](./212135-star-trader.json) |
 | Star Traders | 69581 | [69581-star-traders.json](./69581-star-traders.json) |
 | Star Traders 4X Empires Elite | 88590 | [88590-star-traders-4x-empires-elite.json](./88590-star-traders-4x-empires-elite.json) |
 | Star Traders: 4X Empires | 36124 | [36124-star-traders-4x-empires.json](./36124-star-traders-4x-empires.json) |
@@ -23325,6 +23329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dram World | 132857 | [132857-super-dram-world.json](./132857-super-dram-world.json) |
 | Super Dram World 2 | 132858 | [132858-super-dram-world-2.json](./132858-super-dram-world-2.json) |
 | Super Dream Dasher | 172189 | [172189-super-dream-dasher.json](./172189-super-dream-dasher.json) |
+| Super Dream-Weaver | 212131 | [212131-super-dream-weaver.json](./212131-super-dream-weaver.json) |
 | Super Drift 3D | 252111 | [252111-super-drift-3d.json](./252111-super-drift-3d.json) |
 | Super Drift Blade | 310056 | [310056-super-drift-blade.json](./310056-super-drift-blade.json) |
 | Super Drift Out | 42417 | [42417-super-drift-out.json](./42417-super-drift-out.json) |
@@ -24258,6 +24263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mayhem 17 | 269128 | [269128-super-mayhem-17.json](./269128-super-mayhem-17.json) |
 | Super Maze | 62409 | [62409-super-maze.json](./62409-super-maze.json) |
 | Super Maze Labyrinth | 159765 | [159765-super-maze-labyrinth.json](./159765-super-maze-labyrinth.json) |
+| Super Maze Planet | 212134 | [212134-super-maze-planet.json](./212134-super-maze-planet.json) |
 | Super Maze Wars | 66647 | [66647-super-maze-wars.json](./66647-super-maze-wars.json) |
 | Super Me-Mail GB: Me-Mail Bear no Happy Mail Town | 282662 | [282662-super-me-mail-gb-me-mail-bear-no-happy-mail-town.json](./282662-super-me-mail-gb-me-mail-bear-no-happy-mail-town.json) |
 | Super Meat Boy | 300461 | [300461-super-meat-boy.json](./300461-super-meat-boy.json) |
