@@ -8602,6 +8602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apollo Justice: Turnabout Substitution | 143498 | [143498-apollo-justice-turnabout-substitution.json](./143498-apollo-justice-turnabout-substitution.json) |
 | Apollo LM | 174288 | [174288-apollo-lm.json](./174288-apollo-lm.json) |
 | Apollo Lunar Mission | 158571 | [158571-apollo-lunar-mission.json](./158571-apollo-lunar-mission.json) |
+| Apollo Red Moon | 217157 | [217157-apollo-red-moon.json](./217157-apollo-red-moon.json) |
 | Apollo Sonata | 372785 | [372785-apollo-sonata.json](./372785-apollo-sonata.json) |
 | Apollo Titanic Bundle | 118856 | [118856-apollo-titanic-bundle.json](./118856-apollo-titanic-bundle.json) |
 | Apollo X | 120292 | [120292-apollo-x.json](./120292-apollo-x.json) |
@@ -11888,6 +11889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Odyssey | 336510 | [336510-astro-odyssey.json](./336510-astro-odyssey.json) |
 | Astro Party | 103234 | [103234-astro-party.json](./103234-astro-party.json) |
 | Astro Pig | 240751 | [240751-astro-pig.json](./240751-astro-pig.json) |
+| Astro Pirates | 217156 | [217156-astro-pirates.json](./217156-astro-pirates.json) |
 | Astro Planes | 273355 | [273355-astro-planes.json](./273355-astro-planes.json) |
 | Astro Rabby | 7759 | [7759-astro-rabby.json](./7759-astro-rabby.json) |
 | Astro Race | 172593 | [172593-astro-race.json](./172593-astro-race.json) |
@@ -13103,6 +13105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avani | 223495 | [223495-avani.json](./223495-avani.json) |
 | Avant-Garde Discerning Paralleler | 120074 | [120074-avant-garde-discerning-paralleler.json](./120074-avant-garde-discerning-paralleler.json) |
 | Avante! Atlantis | 321806 | [321806-avante-atlantis.json](./321806-avante-atlantis.json) |
+| Avanzar | 217179 | [217179-avanzar.json](./217179-avanzar.json) |
 | Avara | 78569 | [78569-avara.json](./78569-avara.json) |
 | Avara Aftershock 1.5 | 339141 | [339141-avara-aftershock-1-5.json](./339141-avara-aftershock-1-5.json) |
 | Avaria: Iron Rule | 399009 | [399009-avaria-iron-rule.json](./399009-avaria-iron-rule.json) |
