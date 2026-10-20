@@ -4119,6 +4119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matchbox Rescue Rigs | 209551 | [209551-matchbox-rescue-rigs.json](./209551-matchbox-rescue-rigs.json) |
 | Matchbox: Cross Town Heroes | 49329 | [49329-matchbox-cross-town-heroes.json](./49329-matchbox-cross-town-heroes.json) |
 | Matchbox: Driving Adventures | 305052 | [305052-matchbox-driving-adventures.json](./305052-matchbox-driving-adventures.json) |
+| Matchbox: Emergency Patrol | 232850 | [232850-matchbox-emergency-patrol.json](./232850-matchbox-emergency-patrol.json) |
 | Matchbox: Emergency Patrol | 49963 | [49963-matchbox-emergency-patrol.json](./49963-matchbox-emergency-patrol.json) |
 | Matchbox's Pizza Adventure | 305307 | [305307-matchboxs-pizza-adventure.json](./305307-matchboxs-pizza-adventure.json) |
 | Matchcraft: Efir Adventure | 197074 | [197074-matchcraft-efir-adventure.json](./197074-matchcraft-efir-adventure.json) |
@@ -4289,6 +4290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mathematik II | 68563 | [68563-mathematik-ii.json](./68563-mathematik-ii.json) |
 | Mathematiqa - Brain Game | 106977 | [106977-mathematiqa-brain-game.json](./106977-mathematiqa-brain-game.json) |
 | Mathews Bowhunting | 51063 | [51063-mathews-bowhunting.json](./51063-mathews-bowhunting.json) |
+| Mathica | 232870 | [232870-mathica.json](./232870-mathica.json) |
 | Mathigo | 350544 | [350544-mathigo.json](./350544-mathigo.json) |
 | MathJelly | 386854 | [386854-mathjelly.json](./386854-mathjelly.json) |
 | MathLand | 146687 | [146687-mathland.json](./146687-mathland.json) |
@@ -12914,6 +12916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat: Deadly Alliance | 229852 | [229852-mortal-kombat-deadly-alliance.json](./229852-mortal-kombat-deadly-alliance.json) |
 | Mortal Kombat: Deception | 1613 | [1613-mortal-kombat-deception.json](./1613-mortal-kombat-deception.json) |
 | Mortal Kombat: Deception - Kollector's Edition | 45151 | [45151-mortal-kombat-deception-kollectors-edition.json](./45151-mortal-kombat-deception-kollectors-edition.json) |
+| Mortal Kombat: Defenders of the Earth | 232865 | [232865-mortal-kombat-defenders-of-the-earth.json](./232865-mortal-kombat-defenders-of-the-earth.json) |
 | Mortal Kombat: Defenders of The Realm | 253499 | [253499-mortal-kombat-defenders-of-the-realm.json](./253499-mortal-kombat-defenders-of-the-realm.json) |
 | Mortal Kombat: Freddy Krueger | 388985 | [388985-mortal-kombat-freddy-krueger.json](./388985-mortal-kombat-freddy-krueger.json) |
 | Mortal Kombat: Kollector's Edition | 44559 | [44559-mortal-kombat-kollectors-edition.json](./44559-mortal-kombat-kollectors-edition.json) |
