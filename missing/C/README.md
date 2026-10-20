@@ -6932,6 +6932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Rampage | 217025 | [217025-city-of-rampage.json](./217025-city-of-rampage.json) |
 | City of Robots | 169804 | [169804-city-of-robots.json](./169804-city-of-robots.json) |
 | City of Rott: Streets of Rott | 29766 | [29766-city-of-rott-streets-of-rott.json](./29766-city-of-rott-streets-of-rott.json) |
+| City of Scary Zombies | 235627 | [235627-city-of-scary-zombies.json](./235627-city-of-scary-zombies.json) |
 | City of Scrap | 183575 | [183575-city-of-scrap.json](./183575-city-of-scrap.json) |
 | City of Secrets | 60065 | [60065-city-of-secrets.json](./60065-city-of-secrets.json) |
 | City of Secrets | 80402 | [80402-city-of-secrets.json](./80402-city-of-secrets.json) |
@@ -8401,6 +8402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CodeWordPlay | 228096 | [228096-codewordplay.json](./228096-codewordplay.json) |
 | CodeX | 276671 | [276671-codex.json](./276671-codex.json) |
 | Codex Combat | 392180 | [392180-codex-combat.json](./392180-codex-combat.json) |
+| Codex Lost | 235597 | [235597-codex-lost.json](./235597-codex-lost.json) |
 | Codex of Victory | 27802 | [27802-codex-of-victory.json](./27802-codex-of-victory.json) |
 | Codex: Recall | 419171 | [419171-codex-recall.json](./419171-codex-recall.json) |
 | Coding Day | 302094 | [302094-coding-day.json](./302094-coding-day.json) |
