@@ -11966,6 +11966,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamers: Digital Deluxe Edition | 295646 | [295646-dreamers-digital-deluxe-edition.json](./295646-dreamers-digital-deluxe-edition.json) |
 | Dreamescape | 180063 | [180063-dreamescape.json](./180063-dreamescape.json) |
 | DreamEscape | 328960 | [328960-dreamescape.json](./328960-dreamescape.json) |
+| Dreamfall Chapters: Book Five - Redux | 223854 | [223854-dreamfall-chapters-book-five-redux.json](./223854-dreamfall-chapters-book-five-redux.json) |
+| Dreamfall Chapters: Book Four - Revelations | 223853 | [223853-dreamfall-chapters-book-four-revelations.json](./223853-dreamfall-chapters-book-four-revelations.json) |
+| Dreamfall Chapters: Book One - Reborn | 223849 | [223849-dreamfall-chapters-book-one-reborn.json](./223849-dreamfall-chapters-book-one-reborn.json) |
+| Dreamfall Chapters: Book Three - Realms | 223852 | [223852-dreamfall-chapters-book-three-realms.json](./223852-dreamfall-chapters-book-three-realms.json) |
+| Dreamfall Chapters: Book Two - Rebels | 223850 | [223850-dreamfall-chapters-book-two-rebels.json](./223850-dreamfall-chapters-book-two-rebels.json) |
 | Dreamfall: The Longest Journey | 1961 | [1961-dreamfall-the-longest-journey.json](./1961-dreamfall-the-longest-journey.json) |
 | Dreamfall: The Longest Journey - Game of the Year Edition | 131932 | [131932-dreamfall-the-longest-journey-game-of-the-year-edition.json](./131932-dreamfall-the-longest-journey-game-of-the-year-edition.json) |
 | Dreamfall: The Longest Journey - Limited Edition | 131933 | [131933-dreamfall-the-longest-journey-limited-edition.json](./131933-dreamfall-the-longest-journey-limited-edition.json) |
