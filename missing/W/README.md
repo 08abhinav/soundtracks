@@ -3685,7 +3685,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who’s the Fairest of Them All | 177779 | [177779-who-s-the-fairest-of-them-all.json](./177779-who-s-the-fairest-of-them-all.json) |
 | Who's the Traitor | 273655 | [273655-whos-the-traitor.json](./273655-whos-the-traitor.json) |
 | Who's Who 2.0 | 336393 | [336393-whos-who-2-0.json](./336393-whos-who-2-0.json) |
-| Who's Your Daddy | 15746 | [15746-whos-your-daddy.json](./15746-whos-your-daddy.json) |
 | Who's Your Weapon | 181664 | [181664-whos-your-weapon.json](./181664-whos-your-weapon.json) |
 | Whodunchat | 418675 | [418675-whodunchat.json](./418675-whodunchat.json) |
 | Whodunnit | 387577 | [387577-whodunnit.json](./387577-whodunnit.json) |
@@ -5071,7 +5070,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Wars | 93205 | [93205-wizard-wars.json](./93205-wizard-wars.json) |
 | Wizard Warz | 12830 | [12830-wizard-warz.json](./12830-wizard-warz.json) |
 | Wizard Willy | 71038 | [71038-wizard-willy.json](./71038-wizard-willy.json) |
-| Wizard With a Gun | 152204 | [152204-wizard-with-a-gun.json](./152204-wizard-with-a-gun.json) |
 | Wizard with a Gun: Bounty Hunter Pack | 293391 | [293391-wizard-with-a-gun-bounty-hunter-pack.json](./293391-wizard-with-a-gun-bounty-hunter-pack.json) |
 | Wizard with a Gun: Deluxe Edition | 270585 | [270585-wizard-with-a-gun-deluxe-edition.json](./270585-wizard-with-a-gun-deluxe-edition.json) |
 | Wizard with a Gun: Gunmancer Pack | 272325 | [272325-wizard-with-a-gun-gunmancer-pack.json](./272325-wizard-with-a-gun-gunmancer-pack.json) |
