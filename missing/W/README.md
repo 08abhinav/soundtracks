@@ -944,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warehouse Bots | 298179 | [298179-warehouse-bots.json](./298179-warehouse-bots.json) |
 | Warehouse Hunter | 212502 | [212502-warehouse-hunter.json](./212502-warehouse-hunter.json) |
 | Warehouse Job | 353773 | [353773-warehouse-job.json](./353773-warehouse-job.json) |
+| Warehouse Keeper | 230710 | [230710-warehouse-keeper.json](./230710-warehouse-keeper.json) |
 | Warehouse Manager Simulator | 294296 | [294296-warehouse-manager-simulator.json](./294296-warehouse-manager-simulator.json) |
 | Warehouse Seduction | 279552 | [279552-warehouse-seduction.json](./279552-warehouse-seduction.json) |
 | Warehouse Simulator | 158597 | [158597-warehouse-simulator.json](./158597-warehouse-simulator.json) |
@@ -1869,6 +1870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watermelon Simulator | 325627 | [325627-watermelon-simulator.json](./325627-watermelon-simulator.json) |
 | Watermelon's Adventure | 310621 | [310621-watermelons-adventure.json](./310621-watermelons-adventure.json) |
 | Waternet | 210651 | [210651-waternet.json](./210651-waternet.json) |
+| Waternet | 230717 | [230717-waternet.json](./230717-waternet.json) |
 | Waternet | 233609 | [233609-waternet.json](./233609-waternet.json) |
 | Waternet | 318871 | [318871-waternet.json](./318871-waternet.json) |
 | Waterpark Simulator | 151019 | [151019-waterpark-simulator.json](./151019-waterpark-simulator.json) |
@@ -2739,6 +2741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whack-A-Friend | 85486 | [85486-whack-a-friend.json](./85486-whack-a-friend.json) |
 | Whack-a-Mole | 288363 | [288363-whack-a-mole.json](./288363-whack-a-mole.json) |
 | Whack-A-Monster | 410919 | [410919-whack-a-monster.json](./410919-whack-a-monster.json) |
+| Whack-A-Wolf | 230711 | [230711-whack-a-wolf.json](./230711-whack-a-wolf.json) |
 | WhackAKyouka | 164870 | [164870-whackakyouka.json](./164870-whackakyouka.json) |
 | Whacked! | 377148 | [377148-whacked.json](./377148-whacked.json) |
 | Whacker Guy: Distance Hunter | 107731 | [107731-whacker-guy-distance-hunter.json](./107731-whacker-guy-distance-hunter.json) |
@@ -5474,6 +5477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wooden Sen'SeY | 10341 | [10341-wooden-sensey.json](./10341-wooden-sensey.json) |
 | WoodHeart | 160160 | [160160-woodheart.json](./160160-woodheart.json) |
 | Woodla: The Tower | 251199 | [251199-woodla-the-tower.json](./251199-woodla-the-tower.json) |
+| Woodland | 230719 | [230719-woodland.json](./230719-woodland.json) |
 | Woodland Hike | 244117 | [244117-woodland-hike.json](./244117-woodland-hike.json) |
 | Woodland Isle | 265103 | [265103-woodland-isle.json](./265103-woodland-isle.json) |
 | Woodland Rebels | 385604 | [385604-woodland-rebels.json](./385604-woodland-rebels.json) |
