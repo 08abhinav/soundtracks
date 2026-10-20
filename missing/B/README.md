@@ -964,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balance Ball | 150483 | [150483-balance-ball.json](./150483-balance-ball.json) |
 | Balance Balls | 262438 | [262438-balance-balls.json](./262438-balance-balls.json) |
 | Balance Balls 2 | 262442 | [262442-balance-balls-2.json](./262442-balance-balls-2.json) |
+| Balance Helicopter | 233887 | [233887-balance-helicopter.json](./233887-balance-helicopter.json) |
 | Balance It! | 408294 | [408294-balance-it.json](./408294-balance-it.json) |
 | Balance Knight | 197220 | [197220-balance-knight.json](./197220-balance-knight.json) |
 | Balance of Kingdoms | 66144 | [66144-balance-of-kingdoms.json](./66144-balance-of-kingdoms.json) |
@@ -2812,6 +2813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Gear 4 | 64964 | [64964-battle-gear-4.json](./64964-battle-gear-4.json) |
 | Battle Gem Ponies | 183573 | [183573-battle-gem-ponies.json](./183573-battle-gem-ponies.json) |
 | Battle Girls | 34405 | [34405-battle-girls.json](./34405-battle-girls.json) |
+| Battle Golf | 233922 | [233922-battle-golf.json](./233922-battle-golf.json) |
 | Battle Golf Online | 90703 | [90703-battle-golf-online.json](./90703-battle-golf-online.json) |
 | Battle Grand Prix | 42628 | [42628-battle-grand-prix.json](./42628-battle-grand-prix.json) |
 | Battle Grid | 234675 | [234675-battle-grid.json](./234675-battle-grid.json) |
@@ -6484,6 +6486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Orchard: Animal Valley - Extended Edition | 212355 | [212355-bit-orchard-animal-valley-extended-edition.json](./212355-bit-orchard-animal-valley-extended-edition.json) |
 | Bit Orchard: Animal Valley - Halloween Edition | 223567 | [223567-bit-orchard-animal-valley-halloween-edition.json](./223567-bit-orchard-animal-valley-halloween-edition.json) |
 | Bit Orchard: Animal Valley - Magnificent Edition | 260697 | [260697-bit-orchard-animal-valley-magnificent-edition.json](./260697-bit-orchard-animal-valley-magnificent-edition.json) |
+| Bit Orchard: Animal Valley - Premium Edition | 233926 | [233926-bit-orchard-animal-valley-premium-edition.json](./233926-bit-orchard-animal-valley-premium-edition.json) |
 | Bit Orchard: Animal Valley - Ultimate Edition | 208618 | [208618-bit-orchard-animal-valley-ultimate-edition.json](./208618-bit-orchard-animal-valley-ultimate-edition.json) |
 | Bit Orchard: Animal Valley - Ultra Ultimate | 271500 | [271500-bit-orchard-animal-valley-ultra-ultimate.json](./271500-bit-orchard-animal-valley-ultra-ultimate.json) |
 | Bit Pilot | 41514 | [41514-bit-pilot.json](./41514-bit-pilot.json) |
@@ -8025,6 +8028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocks Challenge | 315771 | [315771-blocks-challenge.json](./315771-blocks-challenge.json) |
 | Blocks Crush | 234458 | [234458-blocks-crush.json](./234458-blocks-crush.json) |
 | Blocks for Babies | 284014 | [284014-blocks-for-babies.json](./284014-blocks-for-babies.json) |
+| Blocks Hurt! | 233898 | [233898-blocks-hurt.json](./233898-blocks-hurt.json) |
 | Blocks Mania | 66385 | [66385-blocks-mania.json](./66385-blocks-mania.json) |
 | Blocks Must Fall! | 190410 | [190410-blocks-must-fall.json](./190410-blocks-must-fall.json) |
 | Blocks of Nature | 216754 | [216754-blocks-of-nature.json](./216754-blocks-of-nature.json) |
@@ -8354,6 +8358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodBlast VR | 134648 | [134648-bloodblast-vr.json](./134648-bloodblast-vr.json) |
 | BloodBoarderz | 307867 | [307867-bloodboarderz.json](./307867-bloodboarderz.json) |
 | Bloodborne 2 | 28734 | [28734-bloodborne-2.json](./28734-bloodborne-2.json) |
+| Bloodborne Kart | 233928 | [233928-bloodborne-kart.json](./233928-bloodborne-kart.json) |
 | Bloodborne PSX | 179685 | [179685-bloodborne-psx.json](./179685-bloodborne-psx.json) |
 | Bloodborne: Collector's Edition | 44542 | [44542-bloodborne-collectors-edition.json](./44542-bloodborne-collectors-edition.json) |
 | Bloodborne: Game of the Year Edition | 42931 | [42931-bloodborne-game-of-the-year-edition.json](./42931-bloodborne-game-of-the-year-edition.json) |
@@ -8490,6 +8495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Knuckles Street Boxing | 279505 | [279505-bloody-knuckles-street-boxing.json](./279505-bloody-knuckles-street-boxing.json) |
 | Bloody Layne | 174794 | [174794-bloody-layne.json](./174794-bloody-layne.json) |
 | Bloody Legless | 177778 | [177778-bloody-legless.json](./177778-bloody-legless.json) |
+| Bloody Lonely Cold | 233901 | [233901-bloody-lonely-cold.json](./233901-bloody-lonely-cold.json) |
 | Bloody Mary | 112820 | [112820-bloody-mary.json](./112820-bloody-mary.json) |
 | Bloody Mary's Mansion | 90225 | [90225-bloody-marys-mansion.json](./90225-bloody-marys-mansion.json) |
 | Bloody Merc | 152814 | [152814-bloody-merc.json](./152814-bloody-merc.json) |
@@ -11163,6 +11169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brayz | 407998 | [407998-brayz.json](./407998-brayz.json) |
 | Brazen | 399776 | [399776-brazen.json](./399776-brazen.json) |
 | Brazen Blaze | 265663 | [265663-brazen-blaze.json](./265663-brazen-blaze.json) |
+| Brazen Fruit | 233913 | [233913-brazen-fruit.json](./233913-brazen-fruit.json) |
 | Brazen Thief | 230882 | [230882-brazen-thief.json](./230882-brazen-thief.json) |
 | Braziball | 138587 | [138587-braziball.json](./138587-braziball.json) |
 | Brazil Fencing Club VR | 275100 | [275100-brazil-fencing-club-vr.json](./275100-brazil-fencing-club-vr.json) |
@@ -12093,6 +12100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bruxa Luna | 280859 | [280859-bruxa-luna.json](./280859-bruxa-luna.json) |
 | Bruxólico | 251700 | [251700-bruxolico.json](./251700-bruxolico.json) |
 | BrVR: Backrooms Virtual Reality | 199583 | [199583-brvr-backrooms-virtual-reality.json](./199583-brvr-backrooms-virtual-reality.json) |
+| Brwanjeya | 233896 | [233896-brwanjeya.json](./233896-brwanjeya.json) |
 | Brxken Inside | 235890 | [235890-brxken-inside.json](./235890-brxken-inside.json) |
 | Bryan's Indie Collection | 355577 | [355577-bryans-indie-collection.json](./355577-bryans-indie-collection.json) |
 | Bryce Tiles | 236740 | [236740-bryce-tiles.json](./236740-bryce-tiles.json) |
