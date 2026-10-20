@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Day in the Lie | 176237 | [176237-a-day-in-the-lie.json](./176237-a-day-in-the-lie.json) |
 | A Day In the Life | 78681 | [78681-a-day-in-the-life.json](./78681-a-day-in-the-life.json) |
 | A Day in the Life Of | 387694 | [387694-a-day-in-the-life-of.json](./387694-a-day-in-the-life-of.json) |
+| A day in the life of a sea witch | 225490 | [225490-a-day-in-the-life-of-a-sea-witch.json](./225490-a-day-in-the-life-of-a-sea-witch.json) |
 | A Day in the Life of a Slice of Bread | 178880 | [178880-a-day-in-the-life-of-a-slice-of-bread.json](./178880-a-day-in-the-life-of-a-slice-of-bread.json) |
 | A Day in the Life of a Writer | 201647 | [201647-a-day-in-the-life-of-a-writer.json](./201647-a-day-in-the-life-of-a-writer.json) |
 | A Day in the Life of Death | 311741 | [311741-a-day-in-the-life-of-death.json](./311741-a-day-in-the-life-of-death.json) |
@@ -2490,6 +2491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Academia: The Fractured Continent - Class of Heroes 3 Collaboration: Additional Character Felpurr | 231276 | [231276-adventure-academia-the-fractured-continent-class-of-heroes-3-collaboration-additional-character-felpurr.json](./231276-adventure-academia-the-fractured-continent-class-of-heroes-3-collaboration-additional-character-felpurr.json) |
 | Adventure Academia: The Fractured Continent - Freshman's Weapon Set | 231216 | [231216-adventure-academia-the-fractured-continent-freshmans-weapon-set.json](./231216-adventure-academia-the-fractured-continent-freshmans-weapon-set.json) |
 | Adventure Academia: The Fractured Continent - New Adventure Volume 2: Danger Mountain March 1- 3 | 220752 | [220752-adventure-academia-the-fractured-continent-new-adventure-volume-2-danger-mountain-march-1-3.json](./220752-adventure-academia-the-fractured-continent-new-adventure-volume-2-danger-mountain-march-1-3.json) |
+| Adventure Academia: The Fractured Continent - New Content Vol. 3 | 225503 | [225503-adventure-academia-the-fractured-continent-new-content-vol-3.json](./225503-adventure-academia-the-fractured-continent-new-content-vol-3.json) |
 | Adventure Academia: The Fractured Continent - Vol.2 Bonus Unit: Kiesel | 220753 | [220753-adventure-academia-the-fractured-continent-vol-2-bonus-unit-kiesel.json](./220753-adventure-academia-the-fractured-continent-vol-2-bonus-unit-kiesel.json) |
 | Adventure Academia: The Fractured Continent - Vol.2 Bonus Unit: Lazuli | 220754 | [220754-adventure-academia-the-fractured-continent-vol-2-bonus-unit-lazuli.json](./220754-adventure-academia-the-fractured-continent-vol-2-bonus-unit-lazuli.json) |
 | Adventure Academia: The Fractured Continent - Vol.2 Challenge Quest: Danger Mountain March EX | 220755 | [220755-adventure-academia-the-fractured-continent-vol-2-challenge-quest-danger-mountain-march-ex.json](./220755-adventure-academia-the-fractured-continent-vol-2-challenge-quest-danger-mountain-march-ex.json) |
@@ -4866,6 +4868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Bloom | 411508 | [411508-alien-bloom.json](./411508-alien-bloom.json) |
 | Alien Bob | 293083 | [293083-alien-bob.json](./293083-alien-bob.json) |
 | Alien Boom Boom | 247917 | [247917-alien-boom-boom.json](./247917-alien-boom-boom.json) |
+| Alien Breaker Deluxe | 225515 | [225515-alien-breaker-deluxe.json](./225515-alien-breaker-deluxe.json) |
 | Alien Breed | 8633 | [8633-alien-breed.json](./8633-alien-breed.json) |
 | Alien Breed + Alien Breed: Tower Assault | 154438 | [154438-alien-breed-alien-breed-tower-assault.json](./154438-alien-breed-alien-breed-tower-assault.json) |
 | Alien Breed 35th Anniversary | 414853 | [414853-alien-breed-35th-anniversary.json](./414853-alien-breed-35th-anniversary.json) |
@@ -9034,6 +9037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Assault | 218969 | [218969-arcade-archives-assault.json](./218969-arcade-archives-assault.json) |
 | Arcade Archives: Athena | 113437 | [113437-arcade-archives-athena.json](./113437-arcade-archives-athena.json) |
 | Arcade Archives: Atomic Robo-Kid | 121428 | [121428-arcade-archives-atomic-robo-kid.json](./121428-arcade-archives-atomic-robo-kid.json) |
+| Arcade Archives: Baraduke | 225509 | [225509-arcade-archives-baraduke.json](./225509-arcade-archives-baraduke.json) |
 | Arcade Archives: Bells & Whistles | 129192 | [129192-arcade-archives-bells-and-whistles.json](./129192-arcade-archives-bells-and-whistles.json) |
 | Arcade Archives: Ben Bero Beh | 144801 | [144801-arcade-archives-ben-bero-beh.json](./144801-arcade-archives-ben-bero-beh.json) |
 | Arcade Archives: Bermuda Triangle | 380694 | [380694-arcade-archives-bermuda-triangle.json](./380694-arcade-archives-bermuda-triangle.json) |
