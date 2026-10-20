@@ -4867,6 +4867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing | 359190 | [359190-fishing.json](./359190-fishing.json) |
 | Fishing Adventure | 299454 | [299454-fishing-adventure.json](./299454-fishing-adventure.json) |
 | FIshing Adventure VR | 127004 | [127004-fishing-adventure-vr.json](./127004-fishing-adventure-vr.json) |
+| Fishing Adventure: Finland Reserve | 250800 | [250800-fishing-adventure-finland-reserve.json](./250800-fishing-adventure-finland-reserve.json) |
 | Fishing and Girls | 242979 | [242979-fishing-and-girls.json](./242979-fishing-and-girls.json) |
 | Fishing at the Lake Full of Cats | 375583 | [375583-fishing-at-the-lake-full-of-cats.json](./375583-fishing-at-the-lake-full-of-cats.json) |
 | Fishing Blast | 299526 | [299526-fishing-blast.json](./299526-fishing-blast.json) |
@@ -5065,6 +5066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fist of the North Star: Ken's Rage 2 | 5313 | [5313-fist-of-the-north-star-kens-rage-2.json](./5313-fist-of-the-north-star-kens-rage-2.json) |
 | Fist of the North Star: Lost Paradise | 55112 | [55112-fist-of-the-north-star-lost-paradise.json](./55112-fist-of-the-north-star-lost-paradise.json) |
 | Fist of the North Star: Lost Paradise - Premium Edition | 212335 | [212335-fist-of-the-north-star-lost-paradise-premium-edition.json](./212335-fist-of-the-north-star-lost-paradise-premium-edition.json) |
+| Fist of the Stray Dog | 250770 | [250770-fist-of-the-stray-dog.json](./250770-fist-of-the-stray-dog.json) |
 | Fist of Truth | 98502 | [98502-fist-of-truth.json](./98502-fist-of-truth.json) |
 | Fist of Yokai | 253485 | [253485-fist-of-yokai.json](./253485-fist-of-yokai.json) |
 | Fist Puncher | 9088 | [9088-fist-puncher.json](./9088-fist-puncher.json) |
@@ -5733,6 +5735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flick Quarterback 16 | 58207 | [58207-flick-quarterback-16.json](./58207-flick-quarterback-16.json) |
 | Flick Rugby 16 | 58197 | [58197-flick-rugby-16.json](./58197-flick-rugby-16.json) |
 | Flick Shoot | 117727 | [117727-flick-shoot.json](./117727-flick-shoot.json) |
+| Flick Shot Rogues | 250762 | [250762-flick-shot-rogues.json](./250762-flick-shot-rogues.json) |
 | Flick Soccer 15 | 58192 | [58192-flick-soccer-15.json](./58192-flick-soccer-15.json) |
 | Flick Soccer 22 | 257011 | [257011-flick-soccer-22.json](./257011-flick-soccer-22.json) |
 | Flick Soccer Brazil | 58193 | [58193-flick-soccer-brazil.json](./58193-flick-soccer-brazil.json) |
@@ -7832,6 +7835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune's Tavern: The Fantasy Tavern Simulator - Miniature Gods | 170311 | [170311-fortunes-tavern-the-fantasy-tavern-simulator-miniature-gods.json](./170311-fortunes-tavern-the-fantasy-tavern-simulator-miniature-gods.json) |
 | Forty Thieves Solitaire Collection | 166679 | [166679-forty-thieves-solitaire-collection.json](./166679-forty-thieves-solitaire-collection.json) |
 | Forty-Niner | 295172 | [295172-forty-niner.json](./295172-forty-niner.json) |
+| Forum Mortuorum | 250807 | [250807-forum-mortuorum.json](./250807-forum-mortuorum.json) |
 | Forumwarz | 80161 | [80161-forumwarz.json](./80161-forumwarz.json) |
 | Forward | 178014 | [178014-forward.json](./178014-forward.json) |
 | Forward | 99024 | [99024-forward.json](./99024-forward.json) |
