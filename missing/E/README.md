@@ -6288,5 +6288,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ezmuze+ 2.0 | 93570 | [93570-ezmuze-2-0.json](./93570-ezmuze-2-0.json) |
 | Ezpz Saga | 174862 | [174862-ezpz-saga.json](./174862-ezpz-saga.json) |
 | EzQuiz | 290284 | [290284-ezquiz.json](./290284-ezquiz.json) |
+| Ezra's Legacy | 211597 | [211597-ezras-legacy.json](./211597-ezras-legacy.json) |
 | Ezrebeth | 333643 | [333643-ezrebeth.json](./333643-ezrebeth.json) |
 | Ezy | 94770 | [94770-ezy.json](./94770-ezy.json) |
