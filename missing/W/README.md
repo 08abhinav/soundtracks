@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacky Jumpers | 288473 | [288473-wacky-jumpers.json](./288473-wacky-jumpers.json) |
 | Wacky Races | 12817 | [12817-wacky-races.json](./12817-wacky-races.json) |
 | Wacky Races | 205917 | [205917-wacky-races.json](./205917-wacky-races.json) |
+| Wacky Races | 214981 | [214981-wacky-races.json](./214981-wacky-races.json) |
 | Wacky Races | 411705 | [411705-wacky-races.json](./411705-wacky-races.json) |
 | Wacky Races | 81547 | [81547-wacky-races.json](./81547-wacky-races.json) |
 | Wacky Races | 81548 | [81548-wacky-races.json](./81548-wacky-races.json) |
@@ -1278,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wario's Hint Art | 300685 | [300685-warios-hint-art.json](./300685-warios-hint-art.json) |
 | Wario's Revenge | 307411 | [307411-warios-revenge.json](./307411-warios-revenge.json) |
 | Wario's Whack Attack | 231531 | [231531-warios-whack-attack.json](./231531-warios-whack-attack.json) |
+| Wario's Wonderful Walk | 214949 | [214949-warios-wonderful-walk.json](./214949-warios-wonderful-walk.json) |
 | Wario's Woods | 1711 | [1711-warios-woods.json](./1711-warios-woods.json) |
 | Wario's Woods | 190013 | [190013-warios-woods.json](./190013-warios-woods.json) |
 | WarioWare D.I.Y. | 1708 | [1708-warioware-d-i-y.json](./1708-warioware-d-i-y.json) |
@@ -2417,6 +2419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weird creatures | 30779 | [30779-weird-creatures.json](./30779-weird-creatures.json) |
 | Weird Dreams | 12232 | [12232-weird-dreams.json](./12232-weird-dreams.json) |
 | Weird Hat Fight | 201804 | [201804-weird-hat-fight.json](./201804-weird-hat-fight.json) |
+| Weird Japan | 216690 | [216690-weird-japan.json](./216690-weird-japan.json) |
 | Weird Little Guys | 335422 | [335422-weird-little-guys.json](./335422-weird-little-guys.json) |
 | Weird Meese | 280092 | [280092-weird-meese.json](./280092-weird-meese.json) |
 | Weird mister Bogot | 288471 | [288471-weird-mister-bogot.json](./288471-weird-mister-bogot.json) |
@@ -4124,6 +4127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildwood: Graveyard Defense | 217539 | [217539-wildwood-graveyard-defense.json](./217539-wildwood-graveyard-defense.json) |
 | Wildwood: Hearth & Horizon | 287693 | [287693-wildwood-hearth-and-horizon.json](./287693-wildwood-hearth-and-horizon.json) |
 | WildWorlds: Zyxaranth's Domain | 418738 | [418738-wildworlds-zyxaranths-domain.json](./418738-wildworlds-zyxaranths-domain.json) |
+| Wile E's Revenge | 214982 | [214982-wile-es-revenge.json](./214982-wile-es-revenge.json) |
 | Wilful Kitty | 241816 | [241816-wilful-kitty.json](./241816-wilful-kitty.json) |
 | Will | 333636 | [333636-will.json](./333636-will.json) |
 | Will & Dewitt: Pad-Hop Adventure | 330032 | [330032-will-and-dewitt-pad-hop-adventure.json](./330032-will-and-dewitt-pad-hop-adventure.json) |
