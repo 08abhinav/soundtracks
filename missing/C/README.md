@@ -1917,6 +1917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardygon | 367579 | [367579-cardygon.json](./367579-cardygon.json) |
 | CardyHeim | 284808 | [284808-cardyheim.json](./284808-cardyheim.json) |
 | Care | 325046 | [325046-care.json](./325046-care.json) |
+| Care Bears | 220539 | [220539-care-bears.json](./220539-care-bears.json) |
 | Care Bears | 282634 | [282634-care-bears.json](./282634-care-bears.json) |
 | Care Bears: A Lesson in Caring | 65501 | [65501-care-bears-a-lesson-in-caring.json](./65501-care-bears-a-lesson-in-caring.json) |
 | Care Bears: Care Karts | 280788 | [280788-care-bears-care-karts.json](./280788-care-bears-care-karts.json) |
@@ -7296,6 +7297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Adventure | 25589 | [25589-classic-adventure.json](./25589-classic-adventure.json) |
 | Classic Adventures: The Great Gatsby | 417686 | [417686-classic-adventures-the-great-gatsby.json](./417686-classic-adventures-the-great-gatsby.json) |
 | Classic Arcade Fishing | 284976 | [284976-classic-arcade-fishing.json](./284976-classic-arcade-fishing.json) |
+| Classic Arcade Pinball | 220536 | [220536-classic-arcade-pinball.json](./220536-classic-arcade-pinball.json) |
 | Classic Arcades: Pong | 353953 | [353953-classic-arcades-pong.json](./353953-classic-arcades-pong.json) |
 | Classic Arcadia & Baby Arcadia | 85735 | [85735-classic-arcadia-and-baby-arcadia.json](./85735-classic-arcadia-and-baby-arcadia.json) |
 | Classic Axiens | 60221 | [60221-classic-axiens.json](./60221-classic-axiens.json) |
