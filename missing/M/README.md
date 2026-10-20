@@ -3638,7 +3638,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel's Guardians of the Galaxy: The Telltale Series - Episode 1: Tangled Up in Blue | 127039 | [127039-marvels-guardians-of-the-galaxy-the-telltale-series-episode-1-tangled-up-in-blue.json](./127039-marvels-guardians-of-the-galaxy-the-telltale-series-episode-1-tangled-up-in-blue.json) |
 | Marvel's Guardians of the Galaxy: The Telltale Series - Episode 3: More than a Feeling | 127041 | [127041-marvels-guardians-of-the-galaxy-the-telltale-series-episode-3-more-than-a-feeling.json](./127041-marvels-guardians-of-the-galaxy-the-telltale-series-episode-3-more-than-a-feeling.json) |
 | Marvel's Guardians of the Galaxy: The Telltale Series - Episode 4: Who Needs You | 127042 | [127042-marvels-guardians-of-the-galaxy-the-telltale-series-episode-4-who-needs-you.json](./127042-marvels-guardians-of-the-galaxy-the-telltale-series-episode-4-who-needs-you.json) |
-| Marvel's Iron Man VR | 116585 | [116585-marvels-iron-man-vr.json](./116585-marvels-iron-man-vr.json) |
 | Marvel's Iron Man VR: Digital Deluxe Edition | 255653 | [255653-marvels-iron-man-vr-digital-deluxe-edition.json](./255653-marvels-iron-man-vr-digital-deluxe-edition.json) |
 | Marvel's Midnight Suns: Blood Storm | 248352 | [248352-marvels-midnight-suns-blood-storm.json](./248352-marvels-midnight-suns-blood-storm.json) |
 | Marvel's Midnight Suns: Digital+ Edition | 205003 | [205003-marvels-midnight-suns-digital-edition.json](./205003-marvels-midnight-suns-digital-edition.json) |
