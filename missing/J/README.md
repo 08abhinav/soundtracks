@@ -2711,6 +2711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Pinball | 257826 | [257826-jungle-pinball.json](./257826-jungle-pinball.json) |
 | Jungle Pixel: Alive Exploration | 103665 | [103665-jungle-pixel-alive-exploration.json](./103665-jungle-pixel-alive-exploration.json) |
 | Jungle Quest | 230283 | [230283-jungle-quest.json](./230283-jungle-quest.json) |
+| Jungle Quest | 236688 | [236688-jungle-quest.json](./236688-jungle-quest.json) |
 | Jungle Ranger | 283855 | [283855-jungle-ranger.json](./283855-jungle-ranger.json) |
 | Jungle Rot | 351677 | [351677-jungle-rot.json](./351677-jungle-rot.json) |
 | Jungle Rumble | 158097 | [158097-jungle-rumble.json](./158097-jungle-rumble.json) |
