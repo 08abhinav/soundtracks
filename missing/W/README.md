@@ -3934,6 +3934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West Crops | 143637 | [143637-wild-west-crops.json](./143637-wild-west-crops.json) |
 | Wild West Fights: Girls Fighting World | 100751 | [100751-wild-west-fights-girls-fighting-world.json](./100751-wild-west-fights-girls-fighting-world.json) |
 | Wild West Gringos | 195105 | [195105-wild-west-gringos.json](./195105-wild-west-gringos.json) |
+| Wild West Guns | 239478 | [239478-wild-west-guns.json](./239478-wild-west-guns.json) |
 | Wild West Miner Simulator | 391233 | [391233-wild-west-miner-simulator.json](./391233-wild-west-miner-simulator.json) |
 | Wild West Miner Simulator: First Gun | 405094 | [405094-wild-west-miner-simulator-first-gun.json](./405094-wild-west-miner-simulator-first-gun.json) |
 | Wild West Pioneers | 341034 | [341034-wild-west-pioneers.json](./341034-wild-west-pioneers.json) |
