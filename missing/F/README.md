@@ -1622,6 +1622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy of Master | 241228 | [241228-fantasy-of-master.json](./241228-fantasy-of-master.json) |
 | Fantasy Office | 226445 | [226445-fantasy-office.json](./226445-fantasy-office.json) |
 | Fantasy Online 2 | 327624 | [327624-fantasy-online-2.json](./327624-fantasy-online-2.json) |
+| Fantasy Pinball | 230713 | [230713-fantasy-pinball.json](./230713-fantasy-pinball.json) |
 | Fantasy Puzzle King | 312697 | [312697-fantasy-puzzle-king.json](./312697-fantasy-puzzle-king.json) |
 | Fantasy Quake: Rise of the Phoenix | 196578 | [196578-fantasy-quake-rise-of-the-phoenix.json](./196578-fantasy-quake-rise-of-the-phoenix.json) |
 | Fantasy Quest Realm Survival | 339923 | [339923-fantasy-quest-realm-survival.json](./339923-fantasy-quest-realm-survival.json) |
@@ -3438,6 +3439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight or Die | 29974 | [29974-fight-or-die.json](./29974-fight-or-die.json) |
 | Fight or Flight | 113046 | [113046-fight-or-flight.json](./113046-fight-or-flight.json) |
 | Fight or Flight VR | 272266 | [272266-fight-or-flight-vr.json](./272266-fight-or-flight-vr.json) |
+| Fight or Lose | 230678 | [230678-fight-or-lose.json](./230678-fight-or-lose.json) |
 | Fight Party | 147248 | [147248-fight-party.json](./147248-fight-party.json) |
 | Fight Plane | 235471 | [235471-fight-plane.json](./235471-fight-plane.json) |
 | Fight Poker | 404832 | [404832-fight-poker.json](./404832-fight-poker.json) |
@@ -4605,6 +4607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefly | 55209 | [55209-firefly.json](./55209-firefly.json) |
 | FireFly | 169861 | [169861-firefly.json](./169861-firefly.json) |
 | FireFly | 381018 | [381018-firefly.json](./381018-firefly.json) |
+| Firefly Glow | 230690 | [230690-firefly-glow.json](./230690-firefly-glow.json) |
 | Firefly Online | 63131 | [63131-firefly-online.json](./63131-firefly-online.json) |
 | Firefly Online Cortex | 35908 | [35908-firefly-online-cortex.json](./35908-firefly-online-cortex.json) |
 | Firefly Shelter | 404865 | [404865-firefly-shelter.json](./404865-firefly-shelter.json) |
@@ -4843,6 +4846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Season | 350506 | [350506-fish-season.json](./350506-fish-season.json) |
 | Fish Simulator: Agonik Lake | 240761 | [240761-fish-simulator-agonik-lake.json](./240761-fish-simulator-agonik-lake.json) |
 | Fish Stick Protocol | 340540 | [340540-fish-stick-protocol.json](./340540-fish-stick-protocol.json) |
+| Fish Story | 230691 | [230691-fish-story.json](./230691-fish-story.json) |
 | Fish Survivor: Feed, Grow and Evolve! | 266996 | [266996-fish-survivor-feed-grow-and-evolve.json](./266996-fish-survivor-feed-grow-and-evolve.json) |
 | Fish Swarm: Within Inches | 383962 | [383962-fish-swarm-within-inches.json](./383962-fish-swarm-within-inches.json) |
 | Fish Tales | 358849 | [358849-fish-tales.json](./358849-fish-tales.json) |
@@ -5288,6 +5292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's: Security Breach - The Remains | 276493 | [276493-five-nights-at-freddys-security-breach-the-remains.json](./276493-five-nights-at-freddys-security-breach-the-remains.json) |
 | Five Nights at Freddy's: Sister Location | 19320 | [19320-five-nights-at-freddys-sister-location.json](./19320-five-nights-at-freddys-sister-location.json) |
 | Five Nights at Freddy's: Sister Location | 241462 | [241462-five-nights-at-freddys-sister-location.json](./241462-five-nights-at-freddys-sister-location.json) |
+| Five Nights at Freddy's: Sister Location - Custom Night | 230683 | [230683-five-nights-at-freddys-sister-location-custom-night.json](./230683-five-nights-at-freddys-sister-location-custom-night.json) |
 | Five Nights at Freddy's: Sister Location VR | 191642 | [191642-five-nights-at-freddys-sister-location-vr.json](./191642-five-nights-at-freddys-sister-location-vr.json) |
 | Five Nights at Freddys: 1993 | 277871 | [277871-five-nights-at-freddys-1993.json](./277871-five-nights-at-freddys-1993.json) |
 | Five Nights at Frickbear's | 395008 | [395008-five-nights-at-frickbears.json](./395008-five-nights-at-frickbears.json) |
@@ -5593,6 +5598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Gordon | 218420 | [218420-flash-gordon.json](./218420-flash-gordon.json) |
 | Flash Gordon | 22735 | [22735-flash-gordon.json](./22735-flash-gordon.json) |
 | Flash Hiders | 37600 | [37600-flash-hiders.json](./37600-flash-hiders.json) |
+| Flash Memory | 230692 | [230692-flash-memory.json](./230692-flash-memory.json) |
 | Flash Motor Karen | 58570 | [58570-flash-motor-karen.json](./58570-flash-motor-karen.json) |
 | Flash of the Blade X | 282527 | [282527-flash-of-the-blade-x.json](./282527-flash-of-the-blade-x.json) |
 | Flash Party: 2023 Hero Pack | 295122 | [295122-flash-party-2023-hero-pack.json](./295122-flash-party-2023-hero-pack.json) |
@@ -7557,6 +7563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula 1 | 217961 | [217961-formula-1.json](./217961-formula-1.json) |
 | Formula 1 | 8294 | [8294-formula-1.json](./8294-formula-1.json) |
 | Formula 1 98 | 8296 | [8296-formula-1-98.json](./8296-formula-1-98.json) |
+| Formula 1 Game & Watch: Playdate Version | 230721 | [230721-formula-1-game-and-watch-playdate-version.json](./230721-formula-1-game-and-watch-playdate-version.json) |
 | Formula 1 Simulator | 12998 | [12998-formula-1-simulator.json](./12998-formula-1-simulator.json) |
 | Formula 1: Championship Edition | 8295 | [8295-formula-1-championship-edition.json](./8295-formula-1-championship-edition.json) |
 | Formula 11 Mini Racing | 411563 | [411563-formula-11-mini-racing.json](./411563-formula-11-mini-racing.json) |
@@ -7568,6 +7575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Bit Racing DX | 207275 | [207275-formula-bit-racing-dx.json](./207275-formula-bit-racing-dx.json) |
 | Formula Car Racing Simulator | 99409 | [99409-formula-car-racing-simulator.json](./99409-formula-car-racing-simulator.json) |
 | Formula Cartoon All Stars | 59924 | [59924-formula-cartoon-all-stars.json](./59924-formula-cartoon-all-stars.json) |
+| Formula Challenge | 230693 | [230693-formula-challenge.json](./230693-formula-challenge.json) |
 | Formula Circus | 286579 | [286579-formula-circus.json](./286579-formula-circus.json) |
 | Formula Circus | 302347 | [302347-formula-circus.json](./302347-formula-circus.json) |
 | Formula Dare | 184429 | [184429-formula-dare.json](./184429-formula-dare.json) |
