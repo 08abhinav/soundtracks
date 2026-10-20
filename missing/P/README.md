@@ -7125,6 +7125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies Garden Warfare 2: Deluxe Upgrade | 318695 | [318695-plants-vs-zombies-garden-warfare-2-deluxe-upgrade.json](./318695-plants-vs-zombies-garden-warfare-2-deluxe-upgrade.json) |
 | Plants vs. Zombies Hybrid Version | 324169 | [324169-plants-vs-zombies-hybrid-version.json](./324169-plants-vs-zombies-hybrid-version.json) |
 | Plants vs. Zombies Plus | 271938 | [271938-plants-vs-zombies-plus.json](./271938-plants-vs-zombies-plus.json) |
+| Plants vs. Zombies: Back to the Roots | 228263 | [228263-plants-vs-zombies-back-to-the-roots.json](./228263-plants-vs-zombies-back-to-the-roots.json) |
 | Plants vs. Zombies: Battle for Neighborville | 121618 | [121618-plants-vs-zombies-battle-for-neighborville.json](./121618-plants-vs-zombies-battle-for-neighborville.json) |
 | Plants vs. Zombies: Battle for Neighborville - Complete Edition | 142819 | [142819-plants-vs-zombies-battle-for-neighborville-complete-edition.json](./142819-plants-vs-zombies-battle-for-neighborville-complete-edition.json) |
 | Plants vs. Zombies: Battle for Neighborville - Deluxe Edition | 136356 | [136356-plants-vs-zombies-battle-for-neighborville-deluxe-edition.json](./136356-plants-vs-zombies-battle-for-neighborville-deluxe-edition.json) |
@@ -13084,6 +13085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puniru ha Kawaii Slime no Game wo "Ano Game" de Tsukuttemita Keredo, Hatashite Anata ha Clear Dekirunoka? | 326577 | [326577-puniru-ha-kawaii-slime-no-game-wo-ano-game-de-tsukuttemita-keredo-hatashite-anata-ha-clear-dekirunoka.json](./326577-puniru-ha-kawaii-slime-no-game-wo-ano-game-de-tsukuttemita-keredo-hatashite-anata-ha-clear-dekirunoka.json) |
 | Punirunes | 370299 | [370299-punirunes.json](./370299-punirunes.json) |
 | Punish Me | 385255 | [385255-punish-me.json](./385255-punish-me.json) |
+| Punished Talents: Dark Knowledge - Collector's Edition | 228253 | [228253-punished-talents-dark-knowledge-collectors-edition.json](./228253-punished-talents-dark-knowledge-collectors-edition.json) |
 | Punished Talents: Seven Muses | 140275 | [140275-punished-talents-seven-muses.json](./140275-punished-talents-seven-muses.json) |
 | Punished Talents: Seven Muses - Collector's Edition | 29063 | [29063-punished-talents-seven-muses-collectors-edition.json](./29063-punished-talents-seven-muses-collectors-edition.json) |
 | Punished Talents: Stolen Awards | 58647 | [58647-punished-talents-stolen-awards.json](./58647-punished-talents-stolen-awards.json) |
