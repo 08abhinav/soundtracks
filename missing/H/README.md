@@ -4675,6 +4675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Zulula | 63381 | [63381-heroes-of-zulula.json](./63381-heroes-of-zulula.json) |
 | Heroes Origins | 266205 | [266205-heroes-origins.json](./266205-heroes-origins.json) |
 | Heroes Over Europe | 7008 | [7008-heroes-over-europe.json](./7008-heroes-over-europe.json) |
+| Heroes Paradox | 216121 | [216121-heroes-paradox.json](./216121-heroes-paradox.json) |
 | Heroes Phantasia | 65495 | [65495-heroes-phantasia.json](./65495-heroes-phantasia.json) |
 | Heroes Quest Survival | 249909 | [249909-heroes-quest-survival.json](./249909-heroes-quest-survival.json) |
 | Heroes Ravage | 114433 | [114433-heroes-ravage.json](./114433-heroes-ravage.json) |
