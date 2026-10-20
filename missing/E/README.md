@@ -4517,6 +4517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Return: Beachside Splash Character Bundle | 226790 | [226790-eternal-return-beachside-splash-character-bundle.json](./226790-eternal-return-beachside-splash-character-bundle.json) |
 | Eternal Ring | 10905 | [10905-eternal-ring.json](./10905-eternal-ring.json) |
 | Eternal Rising | 244175 | [244175-eternal-rising.json](./244175-eternal-rising.json) |
+| Eternal Roadster | 244097 | [244097-eternal-roadster.json](./244097-eternal-roadster.json) |
 | Eternal Rome | 244241 | [244241-eternal-rome.json](./244241-eternal-rome.json) |
 | Eternal Sacrifice | 273964 | [273964-eternal-sacrifice.json](./273964-eternal-sacrifice.json) |
 | Eternal Saga | 62762 | [62762-eternal-saga.json](./62762-eternal-saga.json) |
