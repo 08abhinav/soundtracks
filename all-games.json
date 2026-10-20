@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:50:58.455Z",
-  "total_soundtracks": 2299,
+  "generated_at": "2026-10-20T21:51:10.523Z",
+  "total_soundtracks": 2300,
   "games": [
     {
       "igdb_id": 7522,
@@ -22475,6 +22475,20 @@
         {
           "album_name": "Super Animal Royale (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2TiQXeJRWec78Fl38i12GX",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 197198,
+      "game_name": "Super Kiwi 64",
+      "game_url": "https://ostdb.net/games/super-kiwi-64",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ca79f0b6e23e7dc0cde37a5b",
+      "albums": [
+        {
+          "album_name": "Super Kiwi 64 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1FjJG20zg3cHlulRAVhtFp",
           "apple_music_url": "",
           "album_link_url": ""
         }
