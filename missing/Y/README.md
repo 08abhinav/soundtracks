@@ -1020,6 +1020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yougen | 216807 | [216807-yougen.json](./216807-yougen.json) |
 | Youjuu Kikou-hei WerDragon | 268900 | [268900-youjuu-kikou-hei-werdragon.json](./268900-youjuu-kikou-hei-werdragon.json) |
 | Youka and Her Summer | 285364 | [285364-youka-and-her-summer.json](./285364-youka-and-her-summer.json) |
+| Youka no Sono | 221050 | [221050-youka-no-sono.json](./221050-youka-no-sono.json) |
 | Youkai Club | 48598 | [48598-youkai-club.json](./48598-youkai-club.json) |
 | Youkai Douchuuki | 48597 | [48597-youkai-douchuuki.json](./48597-youkai-douchuuki.json) |
 | Youkai Kori Kassen | 291029 | [291029-youkai-kori-kassen.json](./291029-youkai-kori-kassen.json) |
