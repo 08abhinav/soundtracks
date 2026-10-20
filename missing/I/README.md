@@ -595,6 +595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm Just a Slime | 260424 | [260424-im-just-a-slime.json](./260424-im-just-a-slime.json) |
 | I'm Keyboardman | 125720 | [125720-im-keyboardman.json](./125720-im-keyboardman.json) |
 | I'm Late | 223173 | [223173-im-late.json](./223173-im-late.json) |
+| I'm looking for 3024 people | 221069 | [221069-im-looking-for-3024-people.json](./221069-im-looking-for-3024-people.json) |
 | I'm Lost | 75189 | [75189-im-lost.json](./75189-im-lost.json) |
 | I'm not a Psycho Invader | 414142 | [414142-im-not-a-psycho-invader.json](./414142-im-not-a-psycho-invader.json) |
 | I'm Not a Robot! | 373117 | [373117-im-not-a-robot.json](./373117-im-not-a-robot.json) |
@@ -4215,6 +4216,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invisible Love | 286774 | [286774-invisible-love.json](./286774-invisible-love.json) |
 | Invisible Mind | 32029 | [32029-invisible-mind.json](./32029-invisible-mind.json) |
 | Invisible Parties | 7869 | [7869-invisible-parties.json](./7869-invisible-parties.json) |
+| Invisible Sign: Isu | 221028 | [221028-invisible-sign-isu.json](./221028-invisible-sign-isu.json) |
+| Invisible Sign: Isu - Nemureru Mori | 221030 | [221030-invisible-sign-isu-nemureru-mori.json](./221030-invisible-sign-isu-nemureru-mori.json) |
 | Invisible Wall | 348884 | [348884-invisible-wall.json](./348884-invisible-wall.json) |
 | Invisible War Revised | 404339 | [404339-invisible-war-revised.json](./404339-invisible-war-revised.json) |
 | Invisible X | 261654 | [261654-invisible-x.json](./261654-invisible-x.json) |
@@ -5067,6 +5070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itoi Shigesato no Bass Tsuri No.1: Haru no Zenkoku Tournament - Gomihiroi Campaign | 300691 | [300691-itoi-shigesato-no-bass-tsuri-no-1-haru-no-zenkoku-tournament-gomihiroi-campaign.json](./300691-itoi-shigesato-no-bass-tsuri-no-1-haru-no-zenkoku-tournament-gomihiroi-campaign.json) |
 | Itorah | 122343 | [122343-itorah.json](./122343-itorah.json) |
 | Itoshi Kokoro | 330845 | [330845-itoshi-kokoro.json](./330845-itoshi-kokoro.json) |
+| Itoshi no My Master | 221052 | [221052-itoshi-no-my-master.json](./221052-itoshi-no-my-master.json) |
 | Itouke no Urawaza DS | 79599 | [79599-itouke-no-urawaza-ds.json](./79599-itouke-no-urawaza-ds.json) |
 | iTownGamePlay UNIVERSE | 90652 | [90652-itowngameplay-universe.json](./90652-itowngameplay-universe.json) |
 | iTraffic Light | 88454 | [88454-itraffic-light.json](./88454-itraffic-light.json) |
