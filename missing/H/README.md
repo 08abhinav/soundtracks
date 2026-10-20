@@ -3114,6 +3114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Sports | 147743 | [147743-hell-sports.json](./147743-hell-sports.json) |
 | Hell Station | 273234 | [273234-hell-station.json](./273234-hell-station.json) |
 | Hell Survive | 75787 | [75787-hell-survive.json](./75787-hell-survive.json) |
+| Hell Survivors | 219984 | [219984-hell-survivors.json](./219984-hell-survivors.json) |
 | Hell Survivors | 302694 | [302694-hell-survivors.json](./302694-hell-survivors.json) |
 | Hell Takes All | 278137 | [278137-hell-takes-all.json](./278137-hell-takes-all.json) |
 | Hell Throne | 262845 | [262845-hell-throne.json](./262845-hell-throne.json) |
