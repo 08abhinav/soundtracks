@@ -1532,6 +1532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darker Than Space | 204921 | [204921-darker-than-space.json](./204921-darker-than-space.json) |
 | Darker Tides | 238603 | [238603-darker-tides.json](./238603-darker-tides.json) |
 | Darker: Episode I | 163759 | [163759-darker-episode-i.json](./163759-darker-episode-i.json) |
+| Darkest Abyss | 216644 | [216644-darkest-abyss.json](./216644-darkest-abyss.json) |
 | Darkest Corners | 404867 | [404867-darkest-corners.json](./404867-darkest-corners.json) |
 | Darkest Days | 332225 | [332225-darkest-days.json](./332225-darkest-days.json) |
 | Darkest Depths | 116230 | [116230-darkest-depths.json](./116230-darkest-depths.json) |
@@ -1787,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash Quest Heroes | 78553 | [78553-dash-quest-heroes.json](./78553-dash-quest-heroes.json) |
 | Dash Realm | 173006 | [173006-dash-realm.json](./173006-dash-realm.json) |
 | Dash Shooters | 211137 | [211137-dash-shooters.json](./211137-dash-shooters.json) |
+| Dash the Fox & Three Dreadful Pigs | 216656 | [216656-dash-the-fox-and-three-dreadful-pigs.json](./216656-dash-the-fox-and-three-dreadful-pigs.json) |
 | Dash till Puff 2 | 39229 | [39229-dash-till-puff-2.json](./39229-dash-till-puff-2.json) |
 | Dash Trails | 392853 | [392853-dash-trails.json](./392853-dash-trails.json) |
 | Dash Valley | 108447 | [108447-dash-valley.json](./108447-dash-valley.json) |
@@ -3245,6 +3247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death by Flower Arrangement | 186164 | [186164-death-by-flower-arrangement.json](./186164-death-by-flower-arrangement.json) |
 | Death By Hamster | 262666 | [262666-death-by-hamster.json](./262666-death-by-hamster.json) |
 | Death by Hype | 307882 | [307882-death-by-hype.json](./307882-death-by-hype.json) |
+| Death by Refund | 216670 | [216670-death-by-refund.json](./216670-death-by-refund.json) |
 | Death By Taxes | 414473 | [414473-death-by-taxes.json](./414473-death-by-taxes.json) |
 | Death Cargo | 55130 | [55130-death-cargo.json](./55130-death-cargo.json) |
 | Death Carnival | 130677 | [130677-death-carnival.json](./130677-death-carnival.json) |
@@ -4332,6 +4335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deios II: Deidia | 26366 | [26366-deios-ii-deidia.json](./26366-deios-ii-deidia.json) |
 | Deirdre | 395695 | [395695-deirdre.json](./395695-deirdre.json) |
 | Deities Flush | 324113 | [324113-deities-flush.json](./324113-deities-flush.json) |
+| Deitrus | 216640 | [216640-deitrus.json](./216640-deitrus.json) |
 | Deity | 93500 | [93500-deity.json](./93500-deity.json) |
 | Deity Driving | 129055 | [129055-deity-driving.json](./129055-deity-driving.json) |
 | Deity Quest: Extended | 172114 | [172114-deity-quest-extended.json](./172114-deity-quest-extended.json) |
@@ -5600,6 +5604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destoria: The Withering | 207801 | [207801-destoria-the-withering.json](./207801-destoria-the-withering.json) |
 | Destrega | 45225 | [45225-destrega.json](./45225-destrega.json) |
 | Destrobots | 135656 | [135656-destrobots.json](./135656-destrobots.json) |
+| Destroiders | 216673 | [216673-destroiders.json](./216673-destroiders.json) |
 | Destropolis | 143587 | [143587-destropolis.json](./143587-destropolis.json) |
 | Destroy | 328290 | [328290-destroy.json](./328290-destroy.json) |
 | Destroy All Cars | 337203 | [337203-destroy-all-cars.json](./337203-destroy-all-cars.json) |
@@ -6000,6 +6005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Grip | 257300 | [257300-devils-grip.json](./257300-devils-grip.json) |
 | Devil's Heaven | 277377 | [277377-devils-heaven.json](./277377-devils-heaven.json) |
 | Devil's Hideout | 285016 | [285016-devils-hideout.json](./285016-devils-hideout.json) |
+| Devil's Island | 216648 | [216648-devils-island.json](./216648-devils-island.json) |
 | Devil's Island | 313102 | [313102-devils-island.json](./313102-devils-island.json) |
 | Devil's Island Pinball | 70331 | [70331-devils-island-pinball.json](./70331-devils-island-pinball.json) |
 | Devil's Kiss | 130127 | [130127-devils-kiss.json](./130127-devils-kiss.json) |
@@ -6095,6 +6101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dexoriality | 130824 | [130824-dexoriality.json](./130824-dexoriality.json) |
 | DexSweeper | 333420 | [333420-dexsweeper.json](./333420-dexsweeper.json) |
 | Dexter Stardust | 213337 | [213337-dexter-stardust.json](./213337-dexter-stardust.json) |
+| Dexter Stardust: Returns to Outer Space | 216676 | [216676-dexter-stardust-returns-to-outer-space.json](./216676-dexter-stardust-returns-to-outer-space.json) |
 | Dexter: Hidden Darkness | 59845 | [59845-dexter-hidden-darkness.json](./59845-dexter-hidden-darkness.json) |
 | Dexter: The Game | 21668 | [21668-dexter-the-game.json](./21668-dexter-the-game.json) |
 | Dexter's Laboratory Security Alert! | 23608 | [23608-dexters-laboratory-security-alert.json](./23608-dexters-laboratory-security-alert.json) |
@@ -7465,6 +7472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disco Zoo | 61514 | [61514-disco-zoo.json](./61514-disco-zoo.json) |
 | Discode Reverse | 97366 | [97366-discode-reverse.json](./97366-discode-reverse.json) |
 | Discolight | 85084 | [85084-discolight.json](./85084-discolight.json) |
+| Discolored 2 | 216659 | [216659-discolored-2.json](./216659-discolored-2.json) |
 | Discolored Bundle | 332504 | [332504-discolored-bundle.json](./332504-discolored-bundle.json) |
 | Discomfort | 177956 | [177956-discomfort.json](./177956-discomfort.json) |
 | Disconcerting Unease 1 | 275313 | [275313-disconcerting-unease-1.json](./275313-disconcerting-unease-1.json) |
@@ -8150,6 +8158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divinus Vanitas | 215921 | [215921-divinus-vanitas.json](./215921-divinus-vanitas.json) |
 | Division | 217209 | [217209-division.json](./217209-division.json) |
 | Division 1 | 42174 | [42174-division-1.json](./42174-division-1.json) |
+| Division of Labour | 216651 | [216651-division-of-labour.json](./216651-division-of-labour.json) |
 | Divnozemye | 290858 | [290858-divnozemye.json](./290858-divnozemye.json) |
 | Dìwáng Chāiqiān Bàn | 367485 | [367485-diwang-chaiqian-ban.json](./367485-diwang-chaiqian-ban.json) |
 | Dìxiàshì | 148693 | [148693-dixiashi.json](./148693-dixiashi.json) |
@@ -11954,6 +11963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream'On Linus | 417992 | [417992-dreamon-linus.json](./417992-dreamon-linus.json) |
 | Dream's Deep | 256983 | [256983-dreams-deep.json](./256983-dreams-deep.json) |
 | Dream's Reach: Village of the Gods | 154078 | [154078-dreams-reach-village-of-the-gods.json](./154078-dreams-reach-village-of-the-gods.json) |
+| Dreamables | 216619 | [216619-dreamables.json](./216619-dreamables.json) |
 | DreaMarbleng | 166574 | [166574-dreamarbleng.json](./166574-dreamarbleng.json) |
 | Dreamau Adventures | 188345 | [188345-dreamau-adventures.json](./188345-dreamau-adventures.json) |
 | DreamBig 3 | 368104 | [368104-dreambig-3.json](./368104-dreambig-3.json) |
