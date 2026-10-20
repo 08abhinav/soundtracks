@@ -716,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of the Hive | 373523 | [373523-echoes-of-the-hive.json](./373523-echoes-of-the-hive.json) |
 | Echoes of the Hollow | 393635 | [393635-echoes-of-the-hollow.json](./393635-echoes-of-the-hollow.json) |
 | Echoes of the House | 318867 | [318867-echoes-of-the-house.json](./318867-echoes-of-the-house.json) |
+| Echoes of the Living | 235038 | [235038-echoes-of-the-living.json](./235038-echoes-of-the-living.json) |
 | Echoes of the Museum | 402321 | [402321-echoes-of-the-museum.json](./402321-echoes-of-the-museum.json) |
 | Echoes of the Past | 168391 | [168391-echoes-of-the-past.json](./168391-echoes-of-the-past.json) |
 | Echoes of the Past: Kingdom of Despair | 140249 | [140249-echoes-of-the-past-kingdom-of-despair.json](./140249-echoes-of-the-past-kingdom-of-despair.json) |
