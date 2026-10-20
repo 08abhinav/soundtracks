@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:57:05.378Z",
-  "total_soundtracks": 2309,
+  "generated_at": "2026-10-20T21:57:17.012Z",
+  "total_soundtracks": 2310,
   "games": [
     {
       "igdb_id": 7522,
@@ -20217,6 +20217,20 @@
           "spotify_url": "https://open.spotify.com/album/2BZraD5EQ72YtyGGQJwVBY",
           "apple_music_url": "https://music.apple.com/us/album/serious-sam-the-second-encounter-video-game-soundtrack/1496855093",
           "album_link_url": "https://album.link/i/1496855093"
+        }
+      ]
+    },
+    {
+      "igdb_id": 18908,
+      "game_name": "Seven: The Days Long Gone",
+      "game_url": "https://ostdb.net/games/seven-the-days-long-gone",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273347d9fb9d82af1a65cce311f",
+      "albums": [
+        {
+          "album_name": "Seven: The Days Long Gone (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6mtUWMqzotfQTxrkK1UD5J",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
