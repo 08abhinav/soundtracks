@@ -1482,6 +1482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Safari | 366440 | [366440-mahjong-safari.json](./366440-mahjong-safari.json) |
 | Mahjong Safari HD | 354981 | [354981-mahjong-safari-hd.json](./354981-mahjong-safari-hd.json) |
 | Mahjong Sanctuary | 354982 | [354982-mahjong-sanctuary.json](./354982-mahjong-sanctuary.json) |
+| Mahjong School | 245684 | [245684-mahjong-school.json](./245684-mahjong-school.json) |
 | Mahjong Secrets | 88621 | [88621-mahjong-secrets.json](./88621-mahjong-secrets.json) |
 | Mahjong Sengoku Monogatari | 37743 | [37743-mahjong-sengoku-monogatari.json](./37743-mahjong-sengoku-monogatari.json) |
 | Mahjong Senjutsu: Ando Mitsuru Pro no Akuukan Sappou | 383088 | [383088-mahjong-senjutsu-ando-mitsuru-pro-no-akuukan-sappou.json](./383088-mahjong-senjutsu-ando-mitsuru-pro-no-akuukan-sappou.json) |
@@ -4908,6 +4909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meatdoll Dressup | 408924 | [408924-meatdoll-dressup.json](./408924-meatdoll-dressup.json) |
 | Meatgrinder | 285507 | [285507-meatgrinder.json](./285507-meatgrinder.json) |
 | Meatgun | 246804 | [246804-meatgun.json](./246804-meatgun.json) |
+| Meatloaf Rotation | 245674 | [245674-meatloaf-rotation.json](./245674-meatloaf-rotation.json) |
 | Meatlock | 399012 | [399012-meatlock.json](./399012-meatlock.json) |
 | Meatly's Storage World | 233751 | [233751-meatlys-storage-world.json](./233751-meatlys-storage-world.json) |
 | Meatlymakes | 80389 | [80389-meatlymakes.json](./80389-meatlymakes.json) |
@@ -6913,6 +6915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge 5: 10x10 Color | 233518 | [233518-merge-5-10x10-color.json](./233518-merge-5-10x10-color.json) |
 | Merge Academy | 354983 | [354983-merge-academy.json](./354983-merge-academy.json) |
 | Merge AirPlane | 227501 | [227501-merge-airplane.json](./227501-merge-airplane.json) |
+| Merge Archers: Bow and Arrow | 245687 | [245687-merge-archers-bow-and-arrow.json](./245687-merge-archers-bow-and-arrow.json) |
 | Merge Battle | 102592 | [102592-merge-battle.json](./102592-merge-battle.json) |
 | Merge Bistro | 248103 | [248103-merge-bistro.json](./248103-merge-bistro.json) |
 | Merge Blast | 221090 | [221090-merge-blast.json](./221090-merge-blast.json) |
@@ -7351,6 +7354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal World: Street Scraps | 201145 | [201145-metal-world-street-scraps.json](./201145-metal-world-street-scraps.json) |
 | Metal: Hellsinger | 134560 | [134560-metal-hellsinger.json](./134560-metal-hellsinger.json) |
 | Metal: Hellsinger - Complete Edition | 279779 | [279779-metal-hellsinger-complete-edition.json](./279779-metal-hellsinger-complete-edition.json) |
+| Metal: Hellsinger - Dream of the Beast | 245693 | [245693-metal-hellsinger-dream-of-the-beast.json](./245693-metal-hellsinger-dream-of-the-beast.json) |
 | Metal: Hellsinger - Essential Hits Edition | 254056 | [254056-metal-hellsinger-essential-hits-edition.json](./254056-metal-hellsinger-essential-hits-edition.json) |
 | Metal: Hellsinger - Essential Hits Pack | 263895 | [263895-metal-hellsinger-essential-hits-pack.json](./263895-metal-hellsinger-essential-hits-pack.json) |
 | Metal: Hellsinger VR | 294174 | [294174-metal-hellsinger-vr.json](./294174-metal-hellsinger-vr.json) |
@@ -12203,6 +12207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monuments of Mars | 35550 | [35550-monuments-of-mars.json](./35550-monuments-of-mars.json) |
 | Monuments of Mars 2 | 300404 | [300404-monuments-of-mars-2.json](./300404-monuments-of-mars-2.json) |
 | Monuments Renovator | 417314 | [417314-monuments-renovator.json](./417314-monuments-renovator.json) |
+| Monuments to Guilt | 245692 | [245692-monuments-to-guilt.json](./245692-monuments-to-guilt.json) |
 | Monumentum | 361074 | [361074-monumentum.json](./361074-monumentum.json) |
 | Monzo VR | 26829 | [26829-monzo-vr.json](./26829-monzo-vr.json) |
 | Moo & Move | 316805 | [316805-moo-and-move.json](./316805-moo-and-move.json) |
@@ -13575,6 +13580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Movies Tycoon: Thrills & Spectacles | 377853 | [377853-movies-tycoon-thrills-and-spectacles.json](./377853-movies-tycoon-thrills-and-spectacles.json) |
 | MovieStarPlanet | 94981 | [94981-moviestarplanet.json](./94981-moviestarplanet.json) |
 | MovieStarPlanet 2 | 151468 | [151468-moviestarplanet-2.json](./151468-moviestarplanet-2.json) |
+| Movin' | 245699 | [245699-movin.json](./245699-movin.json) |
 | Moving | 262271 | [262271-moving.json](./262271-moving.json) |
 | Moving Ball | 341834 | [341834-moving-ball.json](./341834-moving-ball.json) |
 | Moving Blocks Puzzle | 251550 | [251550-moving-blocks-puzzle.json](./251550-moving-blocks-puzzle.json) |
@@ -13770,6 +13776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Boston Clean Sweep | 72611 | [72611-mr-boston-clean-sweep.json](./72611-mr-boston-clean-sweep.json) |
 | Mr. Bree: Returning Home | 102124 | [102124-mr-bree-returning-home.json](./102124-mr-bree-returning-home.json) |
 | Mr. Bree+ | 16852 | [16852-mr-bree.json](./16852-mr-bree.json) |
+| Mr. Brocco & Co. | 245711 | [245711-mr-brocco-and-co.json](./245711-mr-brocco-and-co.json) |
 | Mr. Bubble | 319437 | [319437-mr-bubble.json](./319437-mr-bubble.json) |
 | Mr. Bullfrog | 198831 | [198831-mr-bullfrog.json](./198831-mr-bullfrog.json) |
 | Mr. Buttman's Grand Opening | 263122 | [263122-mr-buttmans-grand-opening.json](./263122-mr-buttmans-grand-opening.json) |
@@ -15508,6 +15515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Merry Maybe | 247509 | [247509-my-merry-maybe.json](./247509-my-merry-maybe.json) |
 | My Mind Ghost | 155856 | [155856-my-mind-ghost.json](./155856-my-mind-ghost.json) |
 | My Mine | 262896 | [262896-my-mine.json](./262896-my-mine.json) |
+| My Mini Farm | 245683 | [245683-my-mini-farm.json](./245683-my-mini-farm.json) |
 | My Mistress | 221202 | [221202-my-mistress.json](./221202-my-mistress.json) |
 | My Mistress Lu Bu | 253892 | [253892-my-mistress-lu-bu.json](./253892-my-mistress-lu-bu.json) |
 | My Mom's Bestfriend! | 346194 | [346194-my-moms-bestfriend.json](./346194-my-moms-bestfriend.json) |
@@ -15887,6 +15895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Zoo | 50707 | [50707-my-zoo.json](./50707-my-zoo.json) |
 | My Zoo - Craft Dino Tycoon | 104528 | [104528-my-zoo-craft-dino-tycoon.json](./104528-my-zoo-craft-dino-tycoon.json) |
 | MY: Commander | 79157 | [79157-my-commander.json](./79157-my-commander.json) |
+| Mya Master Mind | 245675 | [245675-mya-master-mind.json](./245675-mya-master-mind.json) |
 | Myara Story 1: Hurricane of the Ancient One | 227895 | [227895-myara-story-1-hurricane-of-the-ancient-one.json](./227895-myara-story-1-hurricane-of-the-ancient-one.json) |
 | MyBiz: Pomodoro Desk Tycoon | 405557 | [405557-mybiz-pomodoro-desk-tycoon.json](./405557-mybiz-pomodoro-desk-tycoon.json) |
 | Mycelium | 295350 | [295350-mycelium.json](./295350-mycelium.json) |
