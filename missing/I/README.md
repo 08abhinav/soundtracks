@@ -549,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'll Come Back to You | 183847 | [183847-ill-come-back-to-you.json](./183847-ill-come-back-to-you.json) |
 | I'll Do It Tomorrow | 278990 | [278990-ill-do-it-tomorrow.json](./278990-ill-do-it-tomorrow.json) |
 | I’ll Fuck Your Grandpa! | 338695 | [338695-i-ll-fuck-your-grandpa.json](./338695-i-ll-fuck-your-grandpa.json) |
+| I'll Invaligate your Aid | 251423 | [251423-ill-invaligate-your-aid.json](./251423-ill-invaligate-your-aid.json) |
 | I'll Kill Her | 245899 | [245899-ill-kill-her.json](./245899-ill-kill-her.json) |
 | I'll Put You In Debt | 82856 | [82856-ill-put-you-in-debt.json](./82856-ill-put-you-in-debt.json) |
 | I'll respond to that later | 183970 | [183970-ill-respond-to-that-later.json](./183970-ill-respond-to-that-later.json) |
@@ -1172,6 +1173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Magic School | 281449 | [281449-idle-magic-school.json](./281449-idle-magic-school.json) |
 | Idle Mall Tycoon | 276650 | [276650-idle-mall-tycoon.json](./276650-idle-mall-tycoon.json) |
 | Idle Mars Colony | 233621 | [233621-idle-mars-colony.json](./233621-idle-mars-colony.json) |
+| Idle Military Factory Tycoon | 251443 | [251443-idle-military-factory-tycoon.json](./251443-idle-military-factory-tycoon.json) |
 | Idle Mining Company | 255801 | [255801-idle-mining-company.json](./255801-idle-mining-company.json) |
 | Idle Mining Empire | 218700 | [218700-idle-mining-empire.json](./218700-idle-mining-empire.json) |
 | Idle Monkey Theorem | 386843 | [386843-idle-monkey-theorem.json](./386843-idle-monkey-theorem.json) |
@@ -3381,6 +3383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insert Item Apocalypse | 304577 | [304577-insert-item-apocalypse.json](./304577-insert-item-apocalypse.json) |
 | Insert Paper | 52052 | [52052-insert-paper.json](./52052-insert-paper.json) |
 | Insert Rich Family Name | 247601 | [247601-insert-rich-family-name.json](./247601-insert-rich-family-name.json) |
+| Insert Title Here | 251382 | [251382-insert-title-here.json](./251382-insert-title-here.json) |
 | Insertion | 274187 | [274187-insertion.json](./274187-insertion.json) |
 | Inside | 266747 | [266747-inside.json](./266747-inside.json) |
 | Inside | 80481 | [80481-inside.json](./80481-inside.json) |
@@ -4576,6 +4579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ishin no Arashi: Bakumatsu Shishi-den | 186737 | [186737-ishin-no-arashi-bakumatsu-shishi-den.json](./186737-ishin-no-arashi-bakumatsu-shishi-den.json) |
 | Ishin no Arashi: Shippuu Ryoma-den | 186738 | [186738-ishin-no-arashi-shippuu-ryoma-den.json](./186738-ishin-no-arashi-shippuu-ryoma-den.json) |
 | Ishin Renka: Ryouma Gaiden | 58572 | [58572-ishin-renka-ryouma-gaiden.json](./58572-ishin-renka-ryouma-gaiden.json) |
+| IShoot | 251406 | [251406-ishoot.json](./251406-ishoot.json) |
 | Ishu Saikyou-ou Zukan: Battle Colosseum | 225897 | [225897-ishu-saikyou-ou-zukan-battle-colosseum.json](./225897-ishu-saikyou-ou-zukan-battle-colosseum.json) |
 | iShuffle Board 2 | 174234 | [174234-ishuffle-board-2.json](./174234-ishuffle-board-2.json) |
 | IShuffle Bowling | 175298 | [175298-ishuffle-bowling.json](./175298-ishuffle-bowling.json) |
