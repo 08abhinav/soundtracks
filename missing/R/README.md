@@ -9440,6 +9440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runimals | 361309 | [361309-runimals.json](./361309-runimals.json) |
 | Runion | 25735 | [25735-runion.json](./25735-runion.json) |
 | Runix: Pinball Roguelike | 374970 | [374970-runix-pinball-roguelike.json](./374970-runix-pinball-roguelike.json) |
+| RunMan Turbo | 220489 | [220489-runman-turbo.json](./220489-runman-turbo.json) |
 | RunMan's Monster Fracas | 57591 | [57591-runmans-monster-fracas.json](./57591-runmans-monster-fracas.json) |
 | RunNCrush | 259044 | [259044-runncrush.json](./259044-runncrush.json) |
 | Runner | 172059 | [172059-runner.json](./172059-runner.json) |
@@ -9507,6 +9508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runombie | 292287 | [292287-runombie.json](./292287-runombie.json) |
 | Runonce | 288986 | [288986-runonce.json](./288986-runonce.json) |
 | Runout | 173182 | [173182-runout.json](./173182-runout.json) |
+| RunOut | 220490 | [220490-runout.json](./220490-runout.json) |
 | RunPostmanRun | 94132 | [94132-runpostmanrun.json](./94132-runpostmanrun.json) |
 | Runpuzzle | 132539 | [132539-runpuzzle.json](./132539-runpuzzle.json) |
 | Runren Simulator | 390721 | [390721-runren-simulator.json](./390721-runren-simulator.json) |
@@ -9565,6 +9567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Rally | 242212 | [242212-rush-rally.json](./242212-rush-rally.json) |
 | Rush Rally 2 | 38717 | [38717-rush-rally-2.json](./38717-rush-rally-2.json) |
 | Rush Rally 3 | 110866 | [110866-rush-rally-3.json](./110866-rush-rally-3.json) |
+| Rush Red & Blue | 220491 | [220491-rush-red-and-blue.json](./220491-rush-red-and-blue.json) |
 | Rush Roulette | 373674 | [373674-rush-roulette.json](./373674-rush-roulette.json) |
 | Rush Royale | 141464 | [141464-rush-royale.json](./141464-rush-royale.json) |
 | Rush Rush Rally Reloaded | 56424 | [56424-rush-rush-rally-reloaded.json](./56424-rush-rush-rally-reloaded.json) |
@@ -9659,6 +9662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Roulette II: The Next Worlds | 265942 | [265942-russian-roulette-ii-the-next-worlds.json](./265942-russian-roulette-ii-the-next-worlds.json) |
 | Russian Roulette: One Life | 194564 | [194564-russian-roulette-one-life.json](./194564-russian-roulette-one-life.json) |
 | Russian Roulette: Online | 297328 | [297328-russian-roulette-online.json](./297328-russian-roulette-online.json) |
+| Russian Soldier Simulator | 220492 | [220492-russian-soldier-simulator.json](./220492-russian-soldier-simulator.json) |
 | Russian Soul Simulator | 285562 | [285562-russian-soul-simulator.json](./285562-russian-soul-simulator.json) |
 | Russian Square Plus! Edition | 256375 | [256375-russian-square-plus-edition.json](./256375-russian-square-plus-edition.json) |
 | Russian Subway Dogs | 56564 | [56564-russian-subway-dogs.json](./56564-russian-subway-dogs.json) |
