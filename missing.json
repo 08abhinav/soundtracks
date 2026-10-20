@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:58:48.595Z",
-  "total_missing": 239393,
+  "generated_at": "2026-10-20T22:02:53.857Z",
+  "total_missing": 239386,
   "games": [
     {
       "igdb_id": 191680,
@@ -144625,11 +144625,6 @@
       "igdb_id": 328070,
       "game_name": "Buddy Shell 2",
       "file": "missing/B/328070-buddy-shell-2.json"
-    },
-    {
-      "igdb_id": 132333,
-      "game_name": "Buddy Simulator 1984",
-      "file": "missing/B/132333-buddy-simulator-1984.json"
     },
     {
       "igdb_id": 322248,
@@ -330307,11 +330302,6 @@
       "file": "missing/E/265121-exit-the-backrooms.json"
     },
     {
-      "igdb_id": 122311,
-      "game_name": "Exit the Gungeon",
-      "file": "missing/E/122311-exit-the-gungeon.json"
-    },
-    {
       "igdb_id": 349814,
       "game_name": "Exit the Lot",
       "file": "missing/E/349814-exit-the-lot.json"
@@ -366615,11 +366605,6 @@
       "igdb_id": 138267,
       "game_name": "Foam",
       "file": "missing/F/138267-foam.json"
-    },
-    {
-      "igdb_id": 250623,
-      "game_name": "Foamstars",
-      "file": "missing/F/250623-foamstars.json"
     },
     {
       "igdb_id": 242593,
@@ -441792,6 +441777,11 @@
       "file": "missing/H/141555-headworms.json"
     },
     {
+      "igdb_id": 207710,
+      "game_name": "Heal & Hurt",
+      "file": "missing/H/207710-heal-and-hurt.json"
+    },
+    {
       "igdb_id": 169412,
       "game_name": "Heal Hitler",
       "file": "missing/H/169412-heal-hitler.json"
@@ -494302,11 +494292,6 @@
       "file": "missing/I/305201-injustice-containment-suit-doomsday.json"
     },
     {
-      "igdb_id": 77354,
-      "game_name": "Injustice: Gods Among Us",
-      "file": "missing/I/77354-injustice-gods-among-us.json"
-    },
-    {
       "igdb_id": 75477,
       "game_name": "Injustice: Gods Among Us - Ame-Comi Skins",
       "file": "missing/I/75477-injustice-gods-among-us-ame-comi-skins.json"
@@ -498475,11 +498460,6 @@
       "igdb_id": 400698,
       "game_name": "IntraTag",
       "file": "missing/I/400698-intratag.json"
-    },
-    {
-      "igdb_id": 144379,
-      "game_name": "Intravenous",
-      "file": "missing/I/144379-intravenous.json"
     },
     {
       "igdb_id": 334844,
@@ -531485,11 +531465,6 @@
       "igdb_id": 250958,
       "game_name": "Kind Nature",
       "file": "missing/K/250958-kind-nature.json"
-    },
-    {
-      "igdb_id": 120646,
-      "game_name": "Kind Words",
-      "file": "missing/K/120646-kind-words.json"
     },
     {
       "igdb_id": 261195,
@@ -1019127,11 +1019102,6 @@
       "file": "missing/T/137695-the-game-of-life-yahtzee-payday.json"
     },
     {
-      "igdb_id": 141523,
-      "game_name": "The Game of Life 2",
-      "file": "missing/T/141523-the-game-of-life-2.json"
-    },
-    {
       "igdb_id": 171591,
       "game_name": "The Game of Life 2: Age of Giants World",
       "file": "missing/T/171591-the-game-of-life-2-age-of-giants-world.json"
@@ -1115145,11 +1115115,6 @@
       "igdb_id": 174105,
       "game_name": "Under the Water",
       "file": "missing/U/174105-under-the-water.json"
-    },
-    {
-      "igdb_id": 214402,
-      "game_name": "Under the Waves",
-      "file": "missing/U/214402-under-the-waves.json"
     },
     {
       "igdb_id": 145925,
