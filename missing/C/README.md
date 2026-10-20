@@ -2969,6 +2969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Needs | 244768 | [244768-cat-needs.json](./244768-cat-needs.json) |
 | Cat Nightmares: The Key | 315800 | [315800-cat-nightmares-the-key.json](./315800-cat-nightmares-the-key.json) |
 | Cat Ninja: The Quest for Magic Energy Crystals | 74706 | [74706-cat-ninja-the-quest-for-magic-energy-crystals.json](./74706-cat-ninja-the-quest-for-magic-energy-crystals.json) |
+| Cat No Wash! | 234484 | [234484-cat-no-wash.json](./234484-cat-no-wash.json) |
 | Cat of Khronos | 182356 | [182356-cat-of-khronos.json](./182356-cat-of-khronos.json) |
 | Cat of Monte Cristo | 155008 | [155008-cat-of-monte-cristo.json](./155008-cat-of-monte-cristo.json) |
 | Cat or Ice Cream? | 183543 | [183543-cat-or-ice-cream.json](./183543-cat-or-ice-cream.json) |
@@ -7788,6 +7789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clone Clicker | 278431 | [278431-clone-clicker.json](./278431-clone-clicker.json) |
 | Clone Dots | 265756 | [265756-clone-dots.json](./265756-clone-dots.json) |
 | Clone Drone | 233465 | [233465-clone-drone.json](./233465-clone-drone.json) |
+| Clone Drone Danger | 234479 | [234479-clone-drone-danger.json](./234479-clone-drone-danger.json) |
 | Clone Drone in the Hyperdome | 322126 | [322126-clone-drone-in-the-hyperdome.json](./322126-clone-drone-in-the-hyperdome.json) |
 | Clone Evolution | 317060 | [317060-clone-evolution.json](./317060-clone-evolution.json) |
 | Clone Hero | 84922 | [84922-clone-hero.json](./84922-clone-hero.json) |
@@ -14929,6 +14931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut | 202201 | [202201-cut.json](./202201-cut.json) |
 | Cut 2017 | 91411 | [91411-cut-2017.json](./91411-cut-2017.json) |
 | Cut Cats' Balls | 410309 | [410309-cut-cats-balls.json](./410309-cut-cats-balls.json) |
+| Cut Choice | 234444 | [234444-cut-choice.json](./234444-cut-choice.json) |
 | Cut Content Restored | 390540 | [390540-cut-content-restored.json](./390540-cut-content-restored.json) |
 | Cut Cut Buffet | 29753 | [29753-cut-cut-buffet.json](./29753-cut-cut-buffet.json) |
 | Cut Grass | 188392 | [188392-cut-grass.json](./188392-cut-grass.json) |
