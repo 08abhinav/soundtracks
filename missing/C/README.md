@@ -639,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Juarez: The Cartel | 543 | [543-call-of-juarez-the-cartel.json](./543-call-of-juarez-the-cartel.json) |
 | Call of Knights | 159541 | [159541-call-of-knights.json](./159541-call-of-knights.json) |
 | Call of Mini: Beyond Infinity | 104533 | [104533-call-of-mini-beyond-infinity.json](./104533-call-of-mini-beyond-infinity.json) |
+| Call of Mini: Sniper | 254352 | [254352-call-of-mini-sniper.json](./254352-call-of-mini-sniper.json) |
 | Call of Mini: Zombies 2 | 233407 | [233407-call-of-mini-zombies-2.json](./233407-call-of-mini-zombies-2.json) |
 | Call of Myth | 153969 | [153969-call-of-myth.json](./153969-call-of-myth.json) |
 | Call of Nature: Jigsaw Puzzle | 103531 | [103531-call-of-nature-jigsaw-puzzle.json](./103531-call-of-nature-jigsaw-puzzle.json) |
@@ -14830,6 +14831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut Cut Buffet | 29753 | [29753-cut-cut-buffet.json](./29753-cut-cut-buffet.json) |
 | Cut Grass | 188392 | [188392-cut-grass.json](./188392-cut-grass.json) |
 | Cut It | 316716 | [316716-cut-it.json](./316716-cut-it.json) |
+| Cut It: Brain Puzzles | 254325 | [254325-cut-it-brain-puzzles.json](./254325-cut-it-brain-puzzles.json) |
 | Cut It! | 378530 | [378530-cut-it.json](./378530-cut-it.json) |
 | Cut Me Deeply | 229159 | [229159-cut-me-deeply.json](./229159-cut-me-deeply.json) |
 | Cut Off | 175192 | [175192-cut-off.json](./175192-cut-off.json) |
