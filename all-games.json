@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:41:43.932Z",
-  "total_soundtracks": 2269,
+  "generated_at": "2026-10-20T21:41:55.975Z",
+  "total_soundtracks": 2270,
   "games": [
     {
       "igdb_id": 7522,
@@ -21285,6 +21285,20 @@
           "spotify_url": "https://music.apple.com/us/album/spellbreak-original-game-soundtrack/1584226155?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1584226155"
+        }
+      ]
+    },
+    {
+      "igdb_id": 235718,
+      "game_name": "Spilled!",
+      "game_url": "https://ostdb.net/games/spilled",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735bca4841aa8d2585bf3ba2d2",
+      "albums": [
+        {
+          "album_name": "Spilled! (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/68ztdBAyPnX4xdMKZC4Lsf",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
