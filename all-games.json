@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:46:52.734Z",
-  "total_soundtracks": 2290,
+  "generated_at": "2026-10-20T21:47:04.578Z",
+  "total_soundtracks": 2291,
   "games": [
     {
       "igdb_id": 7522,
@@ -19857,6 +19857,20 @@
         {
           "album_name": "Screamer (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/67qIncdOXMn8t2w3SlX9to",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 371567,
+      "game_name": "Scritchy Scratchy",
+      "game_url": "https://ostdb.net/games/scritchy-scratchy",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f3c0bfb2cd7935133c781ec5",
+      "albums": [
+        {
+          "album_name": "Scritchy Scratchy (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0nDA98VMiLIXot0HPooa1z",
           "apple_music_url": "",
           "album_link_url": ""
         }
