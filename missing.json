@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T12:48:07.904Z",
-  "total_missing": 237778,
+  "generated_at": "2026-10-20T13:03:43.649Z",
+  "total_missing": 237828,
   "games": [
     {
       "igdb_id": 191680,
@@ -10377,6 +10377,11 @@
       "file": "missing/0-9/321768-5-card-slingo.json"
     },
     {
+      "igdb_id": 226096,
+      "game_name": "5 Days",
+      "file": "missing/0-9/226096-5-days.json"
+    },
+    {
       "igdb_id": 308953,
       "game_name": "5 Days, Minimum Wage.",
       "file": "missing/0-9/308953-5-days-minimum-wage.json"
@@ -10630,6 +10635,11 @@
       "igdb_id": 230142,
       "game_name": "5.0",
       "file": "missing/0-9/230142-5-0.json"
+    },
+    {
+      "igdb_id": 226095,
+      "game_name": "5.5 Rooms",
+      "file": "missing/0-9/226095-5-5-rooms.json"
     },
     {
       "igdb_id": 115517,
@@ -14162,6 +14172,11 @@
       "file": "missing/A/180614-a-drift-for-the-irresolute.json"
     },
     {
+      "igdb_id": 226099,
+      "game_name": "A Drop of Hope",
+      "file": "missing/A/226099-a-drop-of-hope.json"
+    },
+    {
       "igdb_id": 198134,
       "game_name": "A Drunk Man Looks at the Thistle Decoded",
       "file": "missing/A/198134-a-drunk-man-looks-at-the-thistle-decoded.json"
@@ -14735,6 +14750,11 @@
       "igdb_id": 313576,
       "game_name": "A Game with a Kitty 6: Moon Minion",
       "file": "missing/A/313576-a-game-with-a-kitty-6-moon-minion.json"
+    },
+    {
+      "igdb_id": 226102,
+      "game_name": "A Game You Can Afford In This Economy",
+      "file": "missing/A/226102-a-game-you-can-afford-in-this-economy.json"
     },
     {
       "igdb_id": 298889,
@@ -22857,6 +22877,11 @@
       "file": "missing/A/284791-acid-planet.json"
     },
     {
+      "igdb_id": 226097,
+      "game_name": "Acid Puzzle",
+      "file": "missing/A/226097-acid-puzzle.json"
+    },
+    {
       "igdb_id": 283739,
       "game_name": "Acid R[ai/eig]n",
       "file": "missing/A/283739-acid-r-ai-eig-n.json"
@@ -23210,6 +23235,11 @@
       "igdb_id": 320476,
       "game_name": "Across the Wonderlands",
       "file": "missing/A/320476-across-the-wonderlands.json"
+    },
+    {
+      "igdb_id": 226098,
+      "game_name": "Across-Stitch",
+      "file": "missing/A/226098-across-stitch.json"
     },
     {
       "igdb_id": 261264,
@@ -25435,6 +25465,11 @@
       "igdb_id": 240822,
       "game_name": "Adventure Apple Robots",
       "file": "missing/A/240822-adventure-apple-robots.json"
+    },
+    {
+      "igdb_id": 226100,
+      "game_name": "Adventure Awaits",
+      "file": "missing/A/226100-adventure-awaits.json"
     },
     {
       "igdb_id": 249451,
@@ -29072,6 +29107,11 @@
       "file": "missing/A/301687-against-humanity.json"
     },
     {
+      "igdb_id": 226101,
+      "game_name": "Against the Backrooms",
+      "file": "missing/A/226101-against-the-backrooms.json"
+    },
+    {
       "igdb_id": 364641,
       "game_name": "Against the Cluck",
       "file": "missing/A/364641-against-the-cluck.json"
@@ -31780,6 +31820,11 @@
       "igdb_id": 125882,
       "game_name": "Aimstar.gg",
       "file": "missing/A/125882-aimstar-gg.json"
+    },
+    {
+      "igdb_id": 226103,
+      "game_name": "Aimtropolis",
+      "file": "missing/A/226103-aimtropolis.json"
     },
     {
       "igdb_id": 316463,
@@ -37100,6 +37145,11 @@
       "igdb_id": 195029,
       "game_name": "Alien",
       "file": "missing/A/195029-alien.json"
+    },
+    {
+      "igdb_id": 226104,
+      "game_name": "Alien",
+      "file": "missing/A/226104-alien.json"
     },
     {
       "igdb_id": 245251,
@@ -77530,6 +77580,11 @@
       "igdb_id": 30216,
       "game_name": "Automania",
       "file": "missing/A/30216-automania.json"
+    },
+    {
+      "igdb_id": 226109,
+      "game_name": "Automata",
+      "file": "missing/A/226109-automata.json"
     },
     {
       "igdb_id": 258188,
@@ -120052,6 +120107,11 @@
       "file": "missing/B/55709-blobcat.json"
     },
     {
+      "igdb_id": 226105,
+      "game_name": "Blobek",
+      "file": "missing/B/226105-blobek.json"
+    },
+    {
       "igdb_id": 158598,
       "game_name": "Blobert",
       "file": "missing/B/158598-blobert.json"
@@ -122225,6 +122285,11 @@
       "igdb_id": 284013,
       "game_name": "Blood Engine",
       "file": "missing/B/284013-blood-engine.json"
+    },
+    {
+      "igdb_id": 226106,
+      "game_name": "Blood Exile",
+      "file": "missing/B/226106-blood-exile.json"
     },
     {
       "igdb_id": 384638,
@@ -134590,6 +134655,11 @@
       "igdb_id": 143929,
       "game_name": "BoxxyQuest: The Gathering Storm",
       "file": "missing/B/143929-boxxyquest-the-gathering-storm.json"
+    },
+    {
+      "igdb_id": 226083,
+      "game_name": "Boxy & Prisma",
+      "file": "missing/B/226083-boxy-and-prisma.json"
     },
     {
       "igdb_id": 277524,
@@ -158230,6 +158300,11 @@
       "igdb_id": 266911,
       "game_name": "Caravan Boomer",
       "file": "missing/C/266911-caravan-boomer.json"
+    },
+    {
+      "igdb_id": 226089,
+      "game_name": "Caravan Journey: Nitro",
+      "file": "missing/C/226089-caravan-journey-nitro.json"
     },
     {
       "igdb_id": 420495,
@@ -285665,6 +285740,11 @@
       "igdb_id": 270293,
       "game_name": "Draw and Color: Kawaii - Superb Edition",
       "file": "missing/D/270293-draw-and-color-kawaii-superb-edition.json"
+    },
+    {
+      "igdb_id": 226093,
+      "game_name": "Draw and Color: Kawaii - Ultimate Edition",
+      "file": "missing/D/226093-draw-and-color-kawaii-ultimate-edition.json"
     },
     {
       "igdb_id": 273333,
@@ -443527,6 +443607,11 @@
       "file": "missing/H/204458-hello-kitty-and-friends-happiness-parade.json"
     },
     {
+      "igdb_id": 226076,
+      "game_name": "Hello Kitty Asobi no Omochabako",
+      "file": "missing/H/226076-hello-kitty-asobi-no-omochabako.json"
+    },
+    {
       "igdb_id": 231386,
       "game_name": "Hello Kitty Birthday Party",
       "file": "missing/H/231386-hello-kitty-birthday-party.json"
@@ -482942,6 +483027,11 @@
       "file": "missing/I/120668-ikeda-the-scrap-hunter-e-p.json"
     },
     {
+      "igdb_id": 226082,
+      "game_name": "Ikemen Bakumatsu: Unmei no Koi Hana no Miyako to Koi no Ran",
+      "file": "missing/I/226082-ikemen-bakumatsu-unmei-no-koi-hana-no-miyako-to-koi-no-ran.json"
+    },
+    {
       "igdb_id": 184284,
       "game_name": "Ikemen Genjiden Ayakashi Koi Enishi",
       "file": "missing/I/184284-ikemen-genjiden-ayakashi-koi-enishi.json"
@@ -515140,6 +515230,11 @@
       "igdb_id": 345637,
       "game_name": "Junk!",
       "file": "missing/J/345637-junk.json"
+    },
+    {
+      "igdb_id": 226067,
+      "game_name": "Junkbot",
+      "file": "missing/J/226067-junkbot.json"
     },
     {
       "igdb_id": 326397,
@@ -570677,6 +570772,11 @@
       "file": "missing/L/134951-lost-at-sea.json"
     },
     {
+      "igdb_id": 226094,
+      "game_name": "Lost August",
+      "file": "missing/L/226094-lost-august.json"
+    },
+    {
       "igdb_id": 191571,
       "game_name": "Lost Away",
       "file": "missing/L/191571-lost-away.json"
@@ -591382,6 +591482,11 @@
       "file": "missing/M/95588-mapas-do-horizonte-um-jogo-para-conhecer-bh.json"
     },
     {
+      "igdb_id": 226085,
+      "game_name": "MapFriend",
+      "file": "missing/M/226085-mapfriend.json"
+    },
+    {
       "igdb_id": 341893,
       "game_name": "MapGame",
       "file": "missing/M/341893-mapgame.json"
@@ -602142,9 +602247,89 @@
       "file": "missing/M/139886-maybe-interactive-stories.json"
     },
     {
+      "igdb_id": 226066,
+      "game_name": "Maybe: Interactive Stories - A Bite of You",
+      "file": "missing/M/226066-maybe-interactive-stories-a-bite-of-you.json"
+    },
+    {
+      "igdb_id": 226061,
+      "game_name": "Maybe: Interactive Stories - A Good Day to Be a Dog",
+      "file": "missing/M/226061-maybe-interactive-stories-a-good-day-to-be-a-dog.json"
+    },
+    {
+      "igdb_id": 226072,
+      "game_name": "Maybe: Interactive Stories - Cliché is Classic",
+      "file": "missing/M/226072-maybe-interactive-stories-cliche-is-classic.json"
+    },
+    {
+      "igdb_id": 226081,
+      "game_name": "Maybe: Interactive Stories - Flower Lane 2: A Lingering Fragrance",
+      "file": "missing/M/226081-maybe-interactive-stories-flower-lane-2-a-lingering-fragrance.json"
+    },
+    {
+      "igdb_id": 226080,
+      "game_name": "Maybe: Interactive Stories - Flower Lane: A Record of Romance",
+      "file": "missing/M/226080-maybe-interactive-stories-flower-lane-a-record-of-romance.json"
+    },
+    {
+      "igdb_id": 226068,
+      "game_name": "Maybe: Interactive Stories - Keeper of Mine",
+      "file": "missing/M/226068-maybe-interactive-stories-keeper-of-mine.json"
+    },
+    {
+      "igdb_id": 226069,
+      "game_name": "Maybe: Interactive Stories - Kill Your Boss",
+      "file": "missing/M/226069-maybe-interactive-stories-kill-your-boss.json"
+    },
+    {
+      "igdb_id": 226064,
+      "game_name": "Maybe: Interactive Stories - Lady in Armour",
+      "file": "missing/M/226064-maybe-interactive-stories-lady-in-armour.json"
+    },
+    {
+      "igdb_id": 226075,
+      "game_name": "Maybe: Interactive Stories - Long Live the Empress II: Dragon Master",
+      "file": "missing/M/226075-maybe-interactive-stories-long-live-the-empress-ii-dragon-master.json"
+    },
+    {
+      "igdb_id": 226074,
+      "game_name": "Maybe: Interactive Stories - Long Live the Empress: Curse & Love",
+      "file": "missing/M/226074-maybe-interactive-stories-long-live-the-empress-curse-and-love.json"
+    },
+    {
+      "igdb_id": 226060,
+      "game_name": "Maybe: Interactive Stories - Lord of Demons",
+      "file": "missing/M/226060-maybe-interactive-stories-lord-of-demons.json"
+    },
+    {
+      "igdb_id": 226071,
+      "game_name": "Maybe: Interactive Stories - Mary Go Round",
+      "file": "missing/M/226071-maybe-interactive-stories-mary-go-round.json"
+    },
+    {
+      "igdb_id": 226065,
+      "game_name": "Maybe: Interactive Stories - My Dear Goddess",
+      "file": "missing/M/226065-maybe-interactive-stories-my-dear-goddess.json"
+    },
+    {
+      "igdb_id": 226062,
+      "game_name": "Maybe: Interactive Stories - My Ex Is So Into Me",
+      "file": "missing/M/226062-maybe-interactive-stories-my-ex-is-so-into-me.json"
+    },
+    {
+      "igdb_id": 226070,
+      "game_name": "Maybe: Interactive Stories - Own My God",
+      "file": "missing/M/226070-maybe-interactive-stories-own-my-god.json"
+    },
+    {
       "igdb_id": 139695,
       "game_name": "Maybe: Interactive Stories - Princess Irene",
       "file": "missing/M/139695-maybe-interactive-stories-princess-irene.json"
+    },
+    {
+      "igdb_id": 226063,
+      "game_name": "Maybe: Interactive Stories - Remarried Empress",
+      "file": "missing/M/226063-maybe-interactive-stories-remarried-empress.json"
     },
     {
       "igdb_id": 103997,
@@ -602152,9 +602337,24 @@
       "file": "missing/M/103997-maybe-interactive-stories-royal-blood.json"
     },
     {
+      "igdb_id": 226077,
+      "game_name": "Maybe: Interactive Stories - Royal Blood 2: Secret Lesson",
+      "file": "missing/M/226077-maybe-interactive-stories-royal-blood-2-secret-lesson.json"
+    },
+    {
+      "igdb_id": 226078,
+      "game_name": "Maybe: Interactive Stories - The Tyrant's Bodyguard",
+      "file": "missing/M/226078-maybe-interactive-stories-the-tyrants-bodyguard.json"
+    },
+    {
       "igdb_id": 139694,
       "game_name": "Maybe: Interactive Stories - Triangle of Kisses",
       "file": "missing/M/139694-maybe-interactive-stories-triangle-of-kisses.json"
+    },
+    {
+      "igdb_id": 226073,
+      "game_name": "Maybe: Interactive Stories - Wild Pitch",
+      "file": "missing/M/226073-maybe-interactive-stories-wild-pitch.json"
     },
     {
       "igdb_id": 38577,
@@ -741567,6 +741767,11 @@
       "file": "missing/P/180508-ping-pong-palz.json"
     },
     {
+      "igdb_id": 226090,
+      "game_name": "Ping Pong Peg",
+      "file": "missing/P/226090-ping-pong-peg.json"
+    },
+    {
       "igdb_id": 23605,
       "game_name": "Ping Pong Pow",
       "file": "missing/P/23605-ping-pong-pow.json"
@@ -789212,6 +789417,11 @@
       "file": "missing/Q/358400-quickmaze.json"
     },
     {
+      "igdb_id": 226086,
+      "game_name": "Quickscope Simulator",
+      "file": "missing/Q/226086-quickscope-simulator.json"
+    },
+    {
       "igdb_id": 92450,
       "game_name": "Quicksilver",
       "file": "missing/Q/92450-quicksilver.json"
@@ -789860,6 +790070,11 @@
       "igdb_id": 229169,
       "game_name": "Quiz Thiz United Kingdom: Silver Edition",
       "file": "missing/Q/229169-quiz-thiz-united-kingdom-silver-edition.json"
+    },
+    {
+      "igdb_id": 226091,
+      "game_name": "Quiz Thiz USA",
+      "file": "missing/Q/226091-quiz-thiz-usa.json"
     },
     {
       "igdb_id": 227128,
@@ -846820,6 +847035,11 @@
       "igdb_id": 30637,
       "game_name": "Sarab: Duji Tower",
       "file": "missing/S/30637-sarab-duji-tower.json"
+    },
+    {
+      "igdb_id": 226110,
+      "game_name": "Saraba Gekiyaki: Encore",
+      "file": "missing/S/226110-saraba-gekiyaki-encore.json"
     },
     {
       "igdb_id": 411632,
@@ -970122,6 +970342,11 @@
       "file": "missing/S/252914-sweepers-mine.json"
     },
     {
+      "igdb_id": 226107,
+      "game_name": "Sweeping the World",
+      "file": "missing/S/226107-sweeping-the-world.json"
+    },
+    {
       "igdb_id": 377044,
       "game_name": "Sweepminer",
       "file": "missing/S/377044-sweepminer.json"
@@ -1018407,6 +1018632,16 @@
       "file": "missing/T/328440-the-jumping-toast-tower.json"
     },
     {
+      "igdb_id": 226087,
+      "game_name": "The Jumping Tofu",
+      "file": "missing/T/226087-the-jumping-tofu.json"
+    },
+    {
+      "igdb_id": 226088,
+      "game_name": "The Jumping Tofu: Turbo",
+      "file": "missing/T/226088-the-jumping-tofu-turbo.json"
+    },
+    {
       "igdb_id": 221233,
       "game_name": "The Jumping Wrap: Turbo",
       "file": "missing/T/221233-the-jumping-wrap-turbo.json"
@@ -1031842,6 +1032077,11 @@
       "file": "missing/T/221085-the-preschoolers-season-1.json"
     },
     {
+      "igdb_id": 226092,
+      "game_name": "The Preschoolers: Season 1 - Deluxe Edition",
+      "file": "missing/T/226092-the-preschoolers-season-1-deluxe-edition.json"
+    },
+    {
       "igdb_id": 233006,
       "game_name": "The Preschoolers: Season 1 - Extended Edition",
       "file": "missing/T/233006-the-preschoolers-season-1-extended-edition.json"
@@ -1044115,6 +1044355,11 @@
       "igdb_id": 53787,
       "game_name": "The Typing of The Dead: Overkill Collection",
       "file": "missing/T/53787-the-typing-of-the-dead-overkill-collection.json"
+    },
+    {
+      "igdb_id": 226079,
+      "game_name": "The Tyrant's Bodyguard 2: Restoration",
+      "file": "missing/T/226079-the-tyrants-bodyguard-2-restoration.json"
     },
     {
       "igdb_id": 126995,
@@ -1075575,6 +1075820,11 @@
       "igdb_id": 209443,
       "game_name": "Touhou Spell Bubble: Rhythm Game Song Pack",
       "file": "missing/T/209443-touhou-spell-bubble-rhythm-game-song-pack.json"
+    },
+    {
+      "igdb_id": 226059,
+      "game_name": "Touhou Spell Bubble: Rhythm Game Song Pack Vol.2",
+      "file": "missing/T/226059-touhou-spell-bubble-rhythm-game-song-pack-vol-2.json"
     },
     {
       "igdb_id": 209468,
