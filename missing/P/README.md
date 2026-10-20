@@ -1679,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paratopic + Urban Flow | 246894 | [246894-paratopic-urban-flow.json](./246894-paratopic-urban-flow.json) |
 | Paratopic: Definitive Cut | 107740 | [107740-paratopic-definitive-cut.json](./107740-paratopic-definitive-cut.json) |
 | Paratopic: Overdub | 349384 | [349384-paratopic-overdub.json](./349384-paratopic-overdub.json) |
+| Paratrooper | 245156 | [245156-paratrooper.json](./245156-paratrooper.json) |
 | Paratrooper | 25155 | [25155-paratrooper.json](./25155-paratrooper.json) |
 | Paratroopers | 24986 | [24986-paratroopers.json](./24986-paratroopers.json) |
 | Paravalence: With My Angel | 378975 | [378975-paravalence-with-my-angel.json](./378975-paravalence-with-my-angel.json) |
@@ -8934,6 +8935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polly Pocket: Polly Party Pickup | 293182 | [293182-polly-pocket-polly-party-pickup.json](./293182-polly-pocket-polly-party-pickup.json) |
 | Polly Pocket: Polly's Beautiful Bedroom | 293185 | [293185-polly-pocket-pollys-beautiful-bedroom.json](./293185-polly-pocket-pollys-beautiful-bedroom.json) |
 | Pollywog | 386398 | [386398-pollywog.json](./386398-pollywog.json) |
+| Pollywog Peril | 245180 | [245180-pollywog-peril.json](./245180-pollywog-peril.json) |
 | Polnyj ulyot | 129105 | [129105-polnyj-ulyot.json](./129105-polnyj-ulyot.json) |
 | Polo | 40661 | [40661-polo.json](./40661-polo.json) |
 | Polt | 398311 | [398311-polt.json](./398311-polt.json) |
