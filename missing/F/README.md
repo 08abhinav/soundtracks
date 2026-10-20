@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factorio: UltraCube | 326050 | [326050-factorio-ultracube.json](./326050-factorio-ultracube.json) |
 | Factorized | 421349 | [421349-factorized.json](./421349-factorized.json) |
 | Factory & Roof Collection | 328529 | [328529-factory-and-roof-collection.json](./328529-factory-and-roof-collection.json) |
+| Factory Balls | 224951 | [224951-factory-balls.json](./224951-factory-balls.json) |
 | Factory Balls | 87256 | [87256-factory-balls.json](./87256-factory-balls.json) |
 | Factory Balls 2 | 225277 | [225277-factory-balls-2.json](./225277-factory-balls-2.json) |
 | Factory Balls 3 | 225278 | [225278-factory-balls-3.json](./225278-factory-balls-3.json) |
