@@ -1165,6 +1165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sand Witch Adventures | 169873 | [169873-sand-witch-adventures.json](./169873-sand-witch-adventures.json) |
 | Sand: A Leo Parker Adventure | 319900 | [319900-sand-a-leo-parker-adventure.json](./319900-sand-a-leo-parker-adventure.json) |
 | Sand: A Superfluous Game | 177946 | [177946-sand-a-superfluous-game.json](./177946-sand-a-superfluous-game.json) |
+| Sand: An Adventure Story | 232323 | [232323-sand-an-adventure-story.json](./232323-sand-an-adventure-story.json) |
 | Sand:box | 223924 | [223924-sand-box.json](./223924-sand-box.json) |
 | Sandbox | 251826 | [251826-sandbox.json](./251826-sandbox.json) |
 | Sandbox | 368087 | [368087-sandbox.json](./368087-sandbox.json) |
@@ -7549,6 +7550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Side Pocket 3 | 6049 | [6049-side-pocket-3.json](./6049-side-pocket-3.json) |
 | Side Pocket: Special Edition | 209011 | [209011-side-pocket-special-edition.json](./209011-side-pocket-special-edition.json) |
 | Side Swap | 216263 | [216263-side-swap.json](./216263-side-swap.json) |
+| Side Swap 2D: Endless Fun | 232294 | [232294-side-swap-2d-endless-fun.json](./232294-side-swap-2d-endless-fun.json) |
 | Side Swipers | 280783 | [280783-side-swipers.json](./280783-side-swipers.json) |
 | Side to Side | 128569 | [128569-side-to-side.json](./128569-side-to-side.json) |
 | Side Trak | 39517 | [39517-side-trak.json](./39517-side-trak.json) |
@@ -11100,6 +11102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snakes and Ladders | 312269 | [312269-snakes-and-ladders.json](./312269-snakes-and-ladders.json) |
 | Snakes and Ladders 3D | 103542 | [103542-snakes-and-ladders-3d.json](./103542-snakes-and-ladders-3d.json) |
 | Snakes and Ladders Championship | 349810 | [349810-snakes-and-ladders-championship.json](./349810-snakes-and-ladders-championship.json) |
+| Snakes and Ladders NoLimits | 232285 | [232285-snakes-and-ladders-nolimits.json](./232285-snakes-and-ladders-nolimits.json) |
 | Snakes in Hibernation | 396205 | [396205-snakes-in-hibernation.json](./396205-snakes-in-hibernation.json) |
 | Snakes LTD | 265921 | [265921-snakes-ltd.json](./265921-snakes-ltd.json) |
 | Snakes LTD VR | 264010 | [264010-snakes-ltd-vr.json](./264010-snakes-ltd-vr.json) |
@@ -11838,6 +11841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer VR Football | 200169 | [200169-soccer-vr-football.json](./200169-soccer-vr-football.json) |
 | Soccer Wind Shot | 233736 | [233736-soccer-wind-shot.json](./233736-soccer-wind-shot.json) |
 | Soccer World | 321228 | [321228-soccer-world.json](./321228-soccer-world.json) |
+| Soccer: Goal Keeper cup | 232314 | [232314-soccer-goal-keeper-cup.json](./232314-soccer-goal-keeper-cup.json) |
 | Soccer: Kick the Goal | 245404 | [245404-soccer-kick-the-goal.json](./245404-soccer-kick-the-goal.json) |
 | Soccerboy vs. Aliens | 406229 | [406229-soccerboy-vs-aliens.json](./406229-soccerboy-vs-aliens.json) |
 | SoccerDie | 58620 | [58620-soccerdie.json](./58620-soccerdie.json) |
@@ -21476,6 +21480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stunt Dog Adventure | 320288 | [320288-stunt-dog-adventure.json](./320288-stunt-dog-adventure.json) |
 | Stunt Drifters | 124604 | [124604-stunt-drifters.json](./124604-stunt-drifters.json) |
 | Stunt Driver Collection | 328478 | [328478-stunt-driver-collection.json](./328478-stunt-driver-collection.json) |
+| Stunt Extreme Legends | 232281 | [232281-stunt-extreme-legends.json](./232281-stunt-extreme-legends.json) |
 | Stunt Flyer | 332311 | [332311-stunt-flyer.json](./332311-stunt-flyer.json) |
 | Stunt Flyer | 66617 | [66617-stunt-flyer.json](./66617-stunt-flyer.json) |
 | Stunt Flyer: Hero of the Skies | 147193 | [147193-stunt-flyer-hero-of-the-skies.json](./147193-stunt-flyer-hero-of-the-skies.json) |
@@ -26387,6 +26392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swipe Quest | 53695 | [53695-swipe-quest.json](./53695-swipe-quest.json) |
 | Swipe Soccer | 92520 | [92520-swipe-soccer.json](./92520-swipe-soccer.json) |
 | Swipe Tennis | 243508 | [243508-swipe-tennis.json](./243508-swipe-tennis.json) |
+| Swipe That | 232326 | [232326-swipe-that.json](./232326-swipe-that.json) |
 | Swipe: Maze solver | 242790 | [242790-swipe-maze-solver.json](./242790-swipe-maze-solver.json) |
 | Swipe! | 38487 | [38487-swipe.json](./38487-swipe.json) |
 | Swiped! Double Shots of Love | 301410 | [301410-swiped-double-shots-of-love.json](./301410-swiped-double-shots-of-love.json) |
