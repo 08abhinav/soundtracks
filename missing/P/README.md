@@ -4779,6 +4779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pierre's Adventures in French | 221784 | [221784-pierres-adventures-in-french.json](./221784-pierres-adventures-in-french.json) |
 | Pierrot à la Mode | 340572 | [340572-pierrot-a-la-mode.json](./340572-pierrot-a-la-mode.json) |
 | Pierrot’s Pilgrimage | 336097 | [336097-pierrot-s-pilgrimage.json](./336097-pierrot-s-pilgrimage.json) |
+| Pieter Both Village | 212643 | [212643-pieter-both-village.json](./212643-pieter-both-village.json) |
 | Pif Paf | 105323 | [105323-pif-paf.json](./105323-pif-paf.json) |
 | Piffle: The Great Dessert | 238031 | [238031-piffle-the-great-dessert.json](./238031-piffle-the-great-dessert.json) |
 | Pig | 367569 | [367569-pig.json](./367569-pig.json) |
@@ -10792,6 +10793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prime | 214977 | [214977-prime.json](./214977-prime.json) |
 | Prime | 291783 | [291783-prime.json](./291783-prime.json) |
 | Prime Arena | 67874 | [67874-prime-arena.json](./67874-prime-arena.json) |
+| Prime Directive | 212676 | [212676-prime-directive.json](./212676-prime-directive.json) |
 | Prime Elements | 99403 | [99403-prime-elements.json](./99403-prime-elements.json) |
 | Prime Horror II | 215328 | [215328-prime-horror-ii.json](./215328-prime-horror-ii.json) |
 | Prime Minister's Questions: The Game | 64218 | [64218-prime-ministers-questions-the-game.json](./64218-prime-ministers-questions-the-game.json) |
