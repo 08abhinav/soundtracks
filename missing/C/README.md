@@ -1956,6 +1956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo Cult: Shoot'n'Loot VR | 30258 | [30258-cargo-cult-shootnloot-vr.json](./30258-cargo-cult-shootnloot-vr.json) |
 | Cargo Duty | 284809 | [284809-cargo-duty.json](./284809-cargo-duty.json) |
 | Cargo Hunters | 313453 | [313453-cargo-hunters.json](./313453-cargo-hunters.json) |
+| Cargo Jeep Racing | 213815 | [213815-cargo-jeep-racing.json](./213815-cargo-jeep-racing.json) |
 | Cargo King | 344440 | [344440-cargo-king.json](./344440-cargo-king.json) |
 | Cargo Manager: Forklift Simulator | 308647 | [308647-cargo-manager-forklift-simulator.json](./308647-cargo-manager-forklift-simulator.json) |
 | Cargo Master Transporter | 296714 | [296714-cargo-master-transporter.json](./296714-cargo-master-transporter.json) |
@@ -12307,6 +12308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crashland | 144349 | [144349-crashland.json](./144349-crashland.json) |
 | Crashletics | 242217 | [242217-crashletics.json](./242217-crashletics.json) |
 | CrashMetal | 174683 | [174683-crashmetal.json](./174683-crashmetal.json) |
+| CrashMetal: Drift Racing Car Driving Simulator | 213805 | [213805-crashmetal-drift-racing-car-driving-simulator.json](./213805-crashmetal-drift-racing-car-driving-simulator.json) |
 | CrashMetal: Drift Racing Car Driving Simulator - Premium Edition | 283151 | [283151-crashmetal-drift-racing-car-driving-simulator-premium-edition.json](./283151-crashmetal-drift-racing-car-driving-simulator-premium-edition.json) |
 | Crashnauts | 34131 | [34131-crashnauts.json](./34131-crashnauts.json) |
 | Crashocalypse | 201656 | [201656-crashocalypse.json](./201656-crashocalypse.json) |
@@ -12732,6 +12734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Create Your Own Model Railway | 158939 | [158939-create-your-own-model-railway.json](./158939-create-your-own-model-railway.json) |
 | Create your own monster | 228285 | [228285-create-your-own-monster.json](./228285-create-your-own-monster.json) |
 | Create: Above and Beyond | 331400 | [331400-create-above-and-beyond.json](./331400-create-above-and-beyond.json) |
+| Createscape Town Nyanzou & Kumakichi: Escape Game | 213799 | [213799-createscape-town-nyanzou-and-kumakichi-escape-game.json](./213799-createscape-town-nyanzou-and-kumakichi-escape-game.json) |
 | CreateTech | 127359 | [127359-createtech.json](./127359-createtech.json) |
 | Creatio Ex Nihilo II: Deus Otiosus | 81762 | [81762-creatio-ex-nihilo-ii-deus-otiosus.json](./81762-creatio-ex-nihilo-ii-deus-otiosus.json) |
 | Creatio Ex Nihilo: Aition | 76941 | [76941-creatio-ex-nihilo-aition.json](./76941-creatio-ex-nihilo-aition.json) |
@@ -13038,6 +13041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminal Consequences | 185073 | [185073-criminal-consequences.json](./185073-criminal-consequences.json) |
 | Criminal Desires | 296767 | [296767-criminal-desires.json](./296767-criminal-desires.json) |
 | Criminal Dissidia | 154435 | [154435-criminal-dissidia.json](./154435-criminal-dissidia.json) |
+| Criminal Expert | 213796 | [213796-criminal-expert.json](./213796-criminal-expert.json) |
 | Criminal Girls: Invite Only | 11746 | [11746-criminal-girls-invite-only.json](./11746-criminal-girls-invite-only.json) |
 | Criminal Hearts: Obsession Bad Girls Dating Sim | 415387 | [415387-criminal-hearts-obsession-bad-girls-dating-sim.json](./415387-criminal-hearts-obsession-bad-girls-dating-sim.json) |
 | Criminal Investigation Agents: Petrodollars | 90528 | [90528-criminal-investigation-agents-petrodollars.json](./90528-criminal-investigation-agents-petrodollars.json) |
