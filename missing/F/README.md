@@ -3291,6 +3291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 22: Ultimate Edition | 155101 | [155101-fifa-22-ultimate-edition.json](./155101-fifa-22-ultimate-edition.json) |
 | FIFA 23 | 205780 | [205780-fifa-23.json](./205780-fifa-23.json) |
 | FIFA 23 | 240456 | [240456-fifa-23.json](./240456-fifa-23.json) |
+| FIFA 23: Legacy Edition | 210455 | [210455-fifa-23-legacy-edition.json](./210455-fifa-23-legacy-edition.json) |
 | FIFA 99 | 699 | [699-fifa-99.json](./699-fifa-99.json) |
 | FIFA International Soccer | 240238 | [240238-fifa-international-soccer.json](./240238-fifa-international-soccer.json) |
 | FIFA International Soccer | 240239 | [240239-fifa-international-soccer.json](./240239-fifa-international-soccer.json) |
@@ -4526,6 +4527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Lancer | 182186 | [182186-fire-lancer.json](./182186-fire-lancer.json) |
 | Fire Lookout: Abandoned Post | 401664 | [401664-fire-lookout-abandoned-post.json](./401664-fire-lookout-abandoned-post.json) |
 | Fire Man | 247018 | [247018-fire-man.json](./247018-fire-man.json) |
+| Fire Man: Incoming Storm | 210482 | [210482-fire-man-incoming-storm.json](./210482-fire-man-incoming-storm.json) |
 | Fire Mission | 188349 | [188349-fire-mission.json](./188349-fire-mission.json) |
 | Fire on the Mountain | 272696 | [272696-fire-on-the-mountain.json](./272696-fire-on-the-mountain.json) |
 | Fire One | 39515 | [39515-fire-one.json](./39515-fire-one.json) |
