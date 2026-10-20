@@ -7027,6 +7027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Paper Sock | 136739 | [136739-rock-paper-sock.json](./136739-rock-paper-sock.json) |
 | Rock Pit | 288108 | [288108-rock-pit.json](./288108-rock-pit.json) |
 | Rock Quest: A Rhythm Adventure | 346173 | [346173-rock-quest-a-rhythm-adventure.json](./346173-rock-quest-a-rhythm-adventure.json) |
+| Rock Revolution | 210456 | [210456-rock-revolution.json](./210456-rock-revolution.json) |
 | Rock Rock Rock | 326105 | [326105-rock-rock-rock.json](./326105-rock-rock-rock.json) |
 | Rock Run | 103988 | [103988-rock-run.json](./103988-rock-run.json) |
 | Rock Runners | 23403 | [23403-rock-runners.json](./23403-rock-runners.json) |
@@ -7258,6 +7259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman 3: The Last of Mushroom Kingdom?! | 245360 | [245360-rockman-3-the-last-of-mushroom-kingdom.json](./245360-rockman-3-the-last-of-mushroom-kingdom.json) |
 | Rockman 4 Minus Infinity | 125157 | [125157-rockman-4-minus-infinity.json](./125157-rockman-4-minus-infinity.json) |
 | Rockman 4: Burst Chaser X Air Sliding | 245380 | [245380-rockman-4-burst-chaser-x-air-sliding.json](./245380-rockman-4-burst-chaser-x-air-sliding.json) |
+| Rockman 5 Air Sliding | 210485 | [210485-rockman-5-air-sliding.json](./210485-rockman-5-air-sliding.json) |
 | Rockman 5: Double Jumper | 322118 | [322118-rockman-5-double-jumper.json](./322118-rockman-5-double-jumper.json) |
 | Rockman 6: After Tournament | 254357 | [254357-rockman-6-after-tournament.json](./254357-rockman-6-after-tournament.json) |
 | Rockman 6: Unique Harassment | 216422 | [216422-rockman-6-unique-harassment.json](./216422-rockman-6-unique-harassment.json) |
@@ -7280,6 +7282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RockMan EXE N1 Battle | 37354 | [37354-rockman-exe-n1-battle.json](./37354-rockman-exe-n1-battle.json) |
 | Rockman EXE Phantom of Network | 265957 | [265957-rockman-exe-phantom-of-network.json](./265957-rockman-exe-phantom-of-network.json) |
 | Rockman GP | 309669 | [309669-rockman-gp.json](./309669-rockman-gp.json) |
+| Rockman Install Metal | 210486 | [210486-rockman-install-metal.json](./210486-rockman-install-metal.json) |
 | Rockman IQ Xuànfēng | 389005 | [389005-rockman-iq-xuanfeng.json](./389005-rockman-iq-xuanfeng.json) |
 | Rockman No Constancy | 48027 | [48027-rockman-no-constancy.json](./48027-rockman-no-constancy.json) |
 | Rockman No Constancy: Hard Mode | 269870 | [269870-rockman-no-constancy-hard-mode.json](./269870-rockman-no-constancy-hard-mode.json) |
