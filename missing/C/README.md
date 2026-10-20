@@ -4527,6 +4527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charger Escape | 383373 | [383373-charger-escape.json](./383373-charger-escape.json) |
 | Charging Out Dead Zone | 207569 | [207569-charging-out-dead-zone.json](./207569-charging-out-dead-zone.json) |
 | Charging Panic | 136244 | [136244-charging-panic.json](./136244-charging-panic.json) |
+| Chari-sou Ultra DX: Sekai Tour | 222203 | [222203-chari-sou-ultra-dx-sekai-tour.json](./222203-chari-sou-ultra-dx-sekai-tour.json) |
 | Charinko Hero | 3854 | [3854-charinko-hero.json](./3854-charinko-hero.json) |
 | Chariot | 7897 | [7897-chariot.json](./7897-chariot.json) |
 | Chariot Bundle | 82458 | [82458-chariot-bundle.json](./82458-chariot-bundle.json) |
@@ -15462,6 +15463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberTD: Cartridge Card Style | 382439 | [382439-cybertd-cartridge-card-style.json](./382439-cybertd-cartridge-card-style.json) |
 | CyberThreat | 253326 | [253326-cyberthreat.json](./253326-cyberthreat.json) |
 | CyberThreat | 31603 | [31603-cyberthreat.json](./31603-cyberthreat.json) |
+| CyberTitans | 221631 | [221631-cybertitans.json](./221631-cybertitans.json) |
 | Cybertrash Statyx | 258390 | [258390-cybertrash-statyx.json](./258390-cybertrash-statyx.json) |
 | Cybertruck Sim | 192631 | [192631-cybertruck-sim.json](./192631-cybertruck-sim.json) |
 | Cyberun | 26395 | [26395-cyberun.json](./26395-cyberun.json) |
