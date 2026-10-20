@@ -10504,6 +10504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conundrum | 380087 | [380087-conundrum.json](./380087-conundrum.json) |
 | Conundrum 929 | 261116 | [261116-conundrum-929.json](./261116-conundrum-929.json) |
 | Conundrum Catacombs | 245958 | [245958-conundrum-catacombs.json](./245958-conundrum-catacombs.json) |
+| Conur Life | 240051 | [240051-conur-life.json](./240051-conur-life.json) |
 | Conurbation | 176738 | [176738-conurbation.json](./176738-conurbation.json) |
 | Conveni Dream | 58464 | [58464-conveni-dream.json](./58464-conveni-dream.json) |
 | Conveni Wars: Barcode Battler Senki - Super Senshi Shutsugeki seyo! | 38147 | [38147-conveni-wars-barcode-battler-senki-super-senshi-shutsugeki-seyo.json](./38147-conveni-wars-barcode-battler-senki-super-senshi-shutsugeki-seyo.json) |
@@ -12391,6 +12392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Climber | 4611 | [4611-crazy-climber.json](./4611-crazy-climber.json) |
 | Crazy Climber 2 | 39808 | [39808-crazy-climber-2.json](./39808-crazy-climber-2.json) |
 | Crazy Climber 2000 | 77399 | [77399-crazy-climber-2000.json](./77399-crazy-climber-2000.json) |
+| Crazy Clown | 240045 | [240045-crazy-clown.json](./240045-crazy-clown.json) |
 | Crazy Comets | 13832 | [13832-crazy-comets.json](./13832-crazy-comets.json) |
 | Crazy Cook | 204989 | [204989-crazy-cook.json](./204989-crazy-cook.json) |
 | Crazy Cop | 39676 | [39676-crazy-cop.json](./39676-crazy-cop.json) |
