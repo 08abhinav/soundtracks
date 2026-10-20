@@ -252,6 +252,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b2739593955c646348c9e62913e5" width="60" /> | [Bound](https://ostdb.net/games/bound) | **Bound (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4SzHEr9IsLYY0SznFkWoJQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7133b46c7029722e8895940" width="60" /> | [Bound By Flame](https://ostdb.net/games/bound-by-flame) | **Bound By Flame (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7iseRLOjgTXOnKxq2fCm9X) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d543f84de7e21b54dd12afe" width="60" /> | [Bramble: The Mountain King](https://ostdb.net/games/bramble-the-mountain-king) | **Bramble: The Mountain King (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4HyeqcMHnJhYm7kQSrfwiJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2738ce48a7507eab97d87c70687" width="60" /> | [Brave](https://ostdb.net/games/brave) | **Brave (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7vSvdmI0szfMcn7LyVjp0R) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2732ee8c95f153d1ebcc84ddc56" width="60" /> | [Breach & Clear](https://ostdb.net/games/breach-and-clear) | **Breach & Clear (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7udJhnuICIjPpQFuKMiaEc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0e160c76a6193a288cf71cb" width="60" /> | [Broken Age](https://ostdb.net/games/broken-age) | **Broken Age (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3mJ4hyPdq3BDhg6ra4G766) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730e99e1fd21241131bd2b5dc0" width="60" /> | [Broken Ranks](https://ostdb.net/games/broken-ranks) | **Broken Ranks (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4DBhxitVJYxMjK9YlfCvIT) |
@@ -2022,4 +2023,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2339 soundtracks · last updated 2026-10-20T22:15:38.352Z_
+_2340 soundtracks · last updated 2026-10-20T22:15:50.762Z_
