@@ -5795,6 +5795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of the Asteroid Belt VR | 116857 | [116857-pirates-of-the-asteroid-belt-vr.json](./116857-pirates-of-the-asteroid-belt-vr.json) |
 | Pirates of the Barbary Coast | 38929 | [38929-pirates-of-the-barbary-coast.json](./38929-pirates-of-the-barbary-coast.json) |
 | Pirates of the Burning Sea | 21283 | [21283-pirates-of-the-burning-sea.json](./21283-pirates-of-the-burning-sea.json) |
+| Pirates of the Caribbean | 220540 | [220540-pirates-of-the-caribbean.json](./220540-pirates-of-the-caribbean.json) |
 | Pirates of the Caribbean | 5982 | [5982-pirates-of-the-caribbean.json](./5982-pirates-of-the-caribbean.json) |
 | Pirates of the Caribbean Online | 81226 | [81226-pirates-of-the-caribbean-online.json](./81226-pirates-of-the-caribbean-online.json) |
 | Pirates of the Caribbean: Aegir's Fire | 72552 | [72552-pirates-of-the-caribbean-aegirs-fire.json](./72552-pirates-of-the-caribbean-aegirs-fire.json) |
