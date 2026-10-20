@@ -869,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naval Hurricane | 217324 | [217324-naval-hurricane.json](./217324-naval-hurricane.json) |
 | Naval Ops: Warship Gunner | 23706 | [23706-naval-ops-warship-gunner.json](./23706-naval-ops-warship-gunner.json) |
 | Naval Ops: Warship Gunner 2 | 20496 | [20496-naval-ops-warship-gunner-2.json](./20496-naval-ops-warship-gunner-2.json) |
+| Naval Power | 230676 | [230676-naval-power.json](./230676-naval-power.json) |
 | Naval Tactics | 102593 | [102593-naval-tactics.json](./102593-naval-tactics.json) |
 | Naval War: Arctic Circle | 2044 | [2044-naval-war-arctic-circle.json](./2044-naval-war-arctic-circle.json) |
 | Naval Warfare Multi-shot | 344919 | [344919-naval-warfare-multi-shot.json](./344919-naval-warfare-multi-shot.json) |
