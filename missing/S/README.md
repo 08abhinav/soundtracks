@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.O.N.A.R.: Submarine Operators Not Actually Ready | 410320 | [410320-s-o-n-a-r-submarine-operators-not-actually-ready.json](./410320-s-o-n-a-r-submarine-operators-not-actually-ready.json) |
 | S.O.R.N. | 400086 | [400086-s-o-r-n.json](./400086-s-o-r-n.json) |
 | S.O.R.T. | 381977 | [381977-s-o-r-t.json](./381977-s-o-r-t.json) |
+| S.O.S: State of Survival | 224399 | [224399-s-o-s-state-of-survival.json](./224399-s-o-s-state-of-survival.json) |
 | S.O.T.A 2 | 152976 | [152976-s-o-t-a-2.json](./152976-s-o-t-a-2.json) |
 | S.O.V. | 176785 | [176785-s-o-v.json](./176785-s-o-v.json) |
 | S.O.V.A. | 421327 | [421327-s-o-v-a.json](./421327-s-o-v-a.json) |
@@ -8656,6 +8657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sintropia | 337161 | [337161-sintropia.json](./337161-sintropia.json) |
 | Sintropia Fruits Together | 388053 | [388053-sintropia-fruits-together.json](./388053-sintropia-fruits-together.json) |
 | Sinuca de Bar | 396479 | [396479-sinuca-de-bar.json](./396479-sinuca-de-bar.json) |
+| Sinui Yeongyeok | 224400 | [224400-sinui-yeongyeok.json](./224400-sinui-yeongyeok.json) |
 | Sinvers on Wheels | 320457 | [320457-sinvers-on-wheels.json](./320457-sinvers-on-wheels.json) |
 | SinxHolic | 219141 | [219141-sinxholic.json](./219141-sinxholic.json) |
 | Sinyaya Boroda | 387015 | [387015-sinyaya-boroda.json](./387015-sinyaya-boroda.json) |
@@ -9223,6 +9225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skirmish | 257946 | [257946-skirmish.json](./257946-skirmish.json) |
 | Skirmish | 327165 | [327165-skirmish.json](./327165-skirmish.json) |
 | Skirmish Line: Mad Jack | 172129 | [172129-skirmish-line-mad-jack.json](./172129-skirmish-line-mad-jack.json) |
+| Skirmish Mayhem | 224428 | [224428-skirmish-mayhem.json](./224428-skirmish-mayhem.json) |
 | Skirmishers | 223368 | [223368-skirmishers.json](./223368-skirmishers.json) |
 | Skitt | 138735 | [138735-skitt.json](./138735-skitt.json) |
 | Skittles | 148170 | [148170-skittles.json](./148170-skittles.json) |
@@ -17903,6 +17906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Conflict: Pilum - Deluxe edition | 355158 | [355158-star-conflict-pilum-deluxe-edition.json](./355158-star-conflict-pilum-deluxe-edition.json) |
 | Star Conflict: Pirate Pack - Jolly Roger | 354440 | [354440-star-conflict-pirate-pack-jolly-roger.json](./354440-star-conflict-pirate-pack-jolly-roger.json) |
 | Star Conflict: Pirate Weapons Pack | 354436 | [354436-star-conflict-pirate-weapons-pack.json](./354436-star-conflict-pirate-weapons-pack.json) |
+| Star Conflict: Plague Doctor | 224421 | [224421-star-conflict-plague-doctor.json](./224421-star-conflict-plague-doctor.json) |
 | Star Conflict: Procyon | 297340 | [297340-star-conflict-procyon.json](./297340-star-conflict-procyon.json) |
 | Star Conflict: Procyon - Deluxe Edition | 298046 | [298046-star-conflict-procyon-deluxe-edition.json](./298046-star-conflict-procyon-deluxe-edition.json) |
 | Star Conflict: Psiloi | 355165 | [355165-star-conflict-psiloi.json](./355165-star-conflict-psiloi.json) |
