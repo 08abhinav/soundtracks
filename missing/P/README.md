@@ -8868,6 +8868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Girls | 393765 | [393765-police-girls.json](./393765-police-girls.json) |
 | Police Girls on the Case! | 231433 | [231433-police-girls-on-the-case.json](./231433-police-girls-on-the-case.json) |
 | Police Helicopter Simulator | 111959 | [111959-police-helicopter-simulator.json](./111959-police-helicopter-simulator.json) |
+| Police Heroes | 240666 | [240666-police-heroes.json](./240666-police-heroes.json) |
 | Police Monster Drift | 147238 | [147238-police-monster-drift.json](./147238-police-monster-drift.json) |
 | Police Officer | 415218 | [415218-police-officer.json](./415218-police-officer.json) |
 | Police on Duty | 209656 | [209656-police-on-duty.json](./209656-police-on-duty.json) |
@@ -8992,6 +8993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Impulse | 288073 | [288073-poly-impulse.json](./288073-poly-impulse.json) |
 | Poly Island | 113867 | [113867-poly-island.json](./113867-poly-island.json) |
 | Poly Jigsaw Puzzle | 105780 | [105780-poly-jigsaw-puzzle.json](./105780-poly-jigsaw-puzzle.json) |
+| Poly Jigsaw: Birds | 240660 | [240660-poly-jigsaw-birds.json](./240660-poly-jigsaw-birds.json) |
 | Poly Jigsaw: Dinosaurs | 246798 | [246798-poly-jigsaw-dinosaurs.json](./246798-poly-jigsaw-dinosaurs.json) |
 | Poly Jigsaw: Dogs | 248665 | [248665-poly-jigsaw-dogs.json](./248665-poly-jigsaw-dogs.json) |
 | Poly Jigsaw: Furries 2 | 256999 | [256999-poly-jigsaw-furries-2.json](./256999-poly-jigsaw-furries-2.json) |
