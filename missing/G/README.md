@@ -3584,6 +3584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass | 125924 | [125924-glass.json](./125924-glass.json) |
 | Glass | 171995 | [171995-glass.json](./171995-glass.json) |
 | Glass Beads | 342752 | [342752-glass-beads.json](./342752-glass-beads.json) |
+| Glass Bridge | 215580 | [215580-glass-bridge.json](./215580-glass-bridge.json) |
 | Glass Cannons | 181772 | [181772-glass-cannons.json](./181772-glass-cannons.json) |
 | Glass City : The Dust | 76433 | [76433-glass-city-the-dust.json](./76433-glass-city-the-dust.json) |
 | Glass Empire | 19180 | [19180-glass-empire.json](./19180-glass-empire.json) |
@@ -4536,6 +4537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godless Tower | 200381 | [200381-godless-tower.json](./200381-godless-tower.json) |
 | Godlike | 133768 | [133768-godlike.json](./133768-godlike.json) |
 | Godlike Burger | 143010 | [143010-godlike-burger.json](./143010-godlike-burger.json) |
+| GodMod | 215581 | [215581-godmod.json](./215581-godmod.json) |
 | Godmode Epochs | 252688 | [252688-godmode-epochs.json](./252688-godmode-epochs.json) |
 | Godmorgon: Spooky Ride | 187227 | [187227-godmorgon-spooky-ride.json](./187227-godmorgon-spooky-ride.json) |
 | Godo | 169812 | [169812-godo.json](./169812-godo.json) |
@@ -5974,6 +5976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto: The Trilogy | 5850 | [5850-grand-theft-auto-the-trilogy.json](./5850-grand-theft-auto-the-trilogy.json) |
 | Grand Theft Auto: Torcidas | 358395 | [358395-grand-theft-auto-torcidas.json](./358395-grand-theft-auto-torcidas.json) |
 | Grand Theft Auto: Vice City | 215550 | [215550-grand-theft-auto-vice-city.json](./215550-grand-theft-auto-vice-city.json) |
+| Grand Theft Auto: Vice City - 10th Anniversary Edition | 215549 | [215549-grand-theft-auto-vice-city-10th-anniversary-edition.json](./215549-grand-theft-auto-vice-city-10th-anniversary-edition.json) |
 | Grand Theft Auto: Vice City - The Definitive Edition | 178125 | [178125-grand-theft-auto-vice-city-the-definitive-edition.json](./178125-grand-theft-auto-vice-city-the-definitive-edition.json) |
 | Grand Theft Auto: Vice City - The Nextgen Edition | 329345 | [329345-grand-theft-auto-vice-city-the-nextgen-edition.json](./329345-grand-theft-auto-vice-city-the-nextgen-edition.json) |
 | Grand Theft Auto: Vice City Stories | 3262 | [3262-grand-theft-auto-vice-city-stories.json](./3262-grand-theft-auto-vice-city-stories.json) |
@@ -7910,6 +7913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gulkave | 6109 | [6109-gulkave.json](./6109-gulkave.json) |
 | Gull Kebap VR | 104058 | [104058-gull-kebap-vr.json](./104058-gull-kebap-vr.json) |
 | Gulliver in the Land of Giants | 300339 | [300339-gulliver-in-the-land-of-giants.json](./300339-gulliver-in-the-land-of-giants.json) |
+| Gullo Arcade | 215556 | [215556-gullo-arcade.json](./215556-gullo-arcade.json) |
 | Gulman 3D | 199059 | [199059-gulman-3d.json](./199059-gulman-3d.json) |
 | Gulman 4: Still alive | 30405 | [30405-gulman-4-still-alive.json](./30405-gulman-4-still-alive.json) |
 | Gulman 5 | 99067 | [99067-gulman-5.json](./99067-gulman-5.json) |
