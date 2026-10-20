@@ -629,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia Online | 266991 | [266991-mafia-online.json](./266991-mafia-online.json) |
 | Mafia Online | 403813 | [403813-mafia-online.json](./403813-mafia-online.json) |
 | Mafia Online: Wild West | 145258 | [145258-mafia-online-wild-west.json](./145258-mafia-online-wild-west.json) |
+| Mafia Pigs | 224984 | [224984-mafia-pigs.json](./224984-mafia-pigs.json) |
 | Mafia Pinball | 97149 | [97149-mafia-pinball.json](./97149-mafia-pinball.json) |
 | Mafia Pizza: Family Business | 416666 | [416666-mafia-pizza-family-business.json](./416666-mafia-pizza-family-business.json) |
 | Mafia Reigns: Power And Blood | 318405 | [318405-mafia-reigns-power-and-blood.json](./318405-mafia-reigns-power-and-blood.json) |
@@ -4881,6 +4882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Me and My Cat's Island | 285915 | [285915-me-and-my-cats-island.json](./285915-me-and-my-cats-island.json) |
 | Me and My Dinosaur | 58696 | [58696-me-and-my-dinosaur.json](./58696-me-and-my-dinosaur.json) |
 | Me and My Shadow | 124037 | [124037-me-and-my-shadow.json](./124037-me-and-my-shadow.json) |
+| Me and the Key | 224972 | [224972-me-and-the-key.json](./224972-me-and-the-key.json) |
 | Me and the Key 2 | 225280 | [225280-me-and-the-key-2.json](./225280-me-and-the-key-2.json) |
 | Me and the Key 3 | 225281 | [225281-me-and-the-key-3.json](./225281-me-and-the-key-3.json) |
 | Me and the Zombies | 200714 | [200714-me-and-the-zombies.json](./200714-me-and-the-zombies.json) |
@@ -8432,6 +8434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Renegade | 158554 | [158554-midnight-renegade.json](./158554-midnight-renegade.json) |
 | Midnight Report | 207371 | [207371-midnight-report.json](./207371-midnight-report.json) |
 | Midnight Resistance | 4401 | [4401-midnight-resistance.json](./4401-midnight-resistance.json) |
+| Midnight Rhapsody | 224967 | [224967-midnight-rhapsody.json](./224967-midnight-rhapsody.json) |
 | Midnight Road Warriors | 209513 | [209513-midnight-road-warriors.json](./209513-midnight-road-warriors.json) |
 | Midnight Runner: Blade Galaxy Beat Puzzle Legacy 3D Games Ultimate Edition | 231258 | [231258-midnight-runner-blade-galaxy-beat-puzzle-legacy-3d-games-ultimate-edition.json](./231258-midnight-runner-blade-galaxy-beat-puzzle-legacy-3d-games-ultimate-edition.json) |
 | Midnight Saga: The Monster | 212974 | [212974-midnight-saga-the-monster.json](./212974-midnight-saga-the-monster.json) |
