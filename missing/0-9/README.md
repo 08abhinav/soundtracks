@@ -1166,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2-in-1 Fun Pack I Dreamworks Madagascar: Operation Penguin + Shrek 2 | 86054 | [86054-2-in-1-fun-pack-i-dreamworks-madagascar-operation-penguin-shrek-2.json](./86054-2-in-1-fun-pack-i-dreamworks-madagascar-operation-penguin-shrek-2.json) |
 | 2-in-1 Geminim/Siamond | 338795 | [338795-2-in-1-geminim-siamond.json](./338795-2-in-1-geminim-siamond.json) |
 | 2-in-1 Kart Racing Bundle | 331455 | [331455-2-in-1-kart-racing-bundle.json](./331455-2-in-1-kart-racing-bundle.json) |
+| 2-taku de Bishoujo Game | 214377 | [214377-2-taku-de-bishoujo-game.json](./214377-2-taku-de-bishoujo-game.json) |
 | 2-taku de Koishite Mune-kyun | 251629 | [251629-2-taku-de-koishite-mune-kyun.json](./251629-2-taku-de-koishite-mune-kyun.json) |
 | 2–3 Years in Grindstan | 358072 | [358072-2-3-years-in-grindstan.json](./358072-2-3-years-in-grindstan.json) |
 | 2,4D Game | 358077 | [358077-2-4d-game.json](./358077-2-4d-game.json) |
