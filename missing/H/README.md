@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hades 2 | 134619 | [134619-hades-2.json](./134619-hades-2.json) |
 | Hades Nebula | 13867 | [13867-hades-nebula.json](./13867-hades-nebula.json) |
 | Hades' Star | 56959 | [56959-hades-star.json](./56959-hades-star.json) |
+| Hades' Star: Dark Nebula | 208167 | [208167-hades-star-dark-nebula.json](./208167-hades-star-dark-nebula.json) |
 | Hadou no Hyouteki | 77562 | [77562-hadou-no-hyouteki.json](./77562-hadou-no-hyouteki.json) |
 | Hadr | 139355 | [139355-hadr.json](./139355-hadr.json) |
 | Hadrian's Villa Reborn: Stadium Garden | 167609 | [167609-hadrians-villa-reborn-stadium-garden.json](./167609-hadrians-villa-reborn-stadium-garden.json) |
@@ -1447,7 +1448,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Truck: 18 Wheels of Steel | 50455 | [50455-hard-truck-18-wheels-of-steel.json](./50455-hard-truck-18-wheels-of-steel.json) |
 | Hard Truck: Road to Victory | 28143 | [28143-hard-truck-road-to-victory.json](./28143-hard-truck-road-to-victory.json) |
 | Hard Vacuum | 132627 | [132627-hard-vacuum.json](./132627-hard-vacuum.json) |
-| Hard West 2 | 116014 | [116014-hard-west-2.json](./116014-hard-west-2.json) |
 | Hard West: Collector's Edition | 51822 | [51822-hard-west-collectors-edition.json](./51822-hard-west-collectors-edition.json) |
 | Hard West: Complete Edition | 53173 | [53173-hard-west-complete-edition.json](./53173-hard-west-complete-edition.json) |
 | Hard West: Scars of Freedom | 18367 | [18367-hard-west-scars-of-freedom.json](./18367-hard-west-scars-of-freedom.json) |
@@ -3420,6 +3420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Neighbor Bundle | 118852 | [118852-hello-neighbor-bundle.json](./118852-hello-neighbor-bundle.json) |
 | Hello Neighbor Pre-Alpha | 403841 | [403841-hello-neighbor-pre-alpha.json](./403841-hello-neighbor-pre-alpha.json) |
 | Hello Neighbor Prototype | 278054 | [278054-hello-neighbor-prototype.json](./278054-hello-neighbor-prototype.json) |
+| Hello Neighbor: Diaries | 208168 | [208168-hello-neighbor-diaries.json](./208168-hello-neighbor-diaries.json) |
 | Hello Neighbor: Hide and Seek | 107614 | [107614-hello-neighbor-hide-and-seek.json](./107614-hello-neighbor-hide-and-seek.json) |
 | Hello Neighbor: Search and Rescue | 225534 | [225534-hello-neighbor-search-and-rescue.json](./225534-hello-neighbor-search-and-rescue.json) |
 | Hello Neighbor: Vintage | 403456 | [403456-hello-neighbor-vintage.json](./403456-hello-neighbor-vintage.json) |
@@ -4473,6 +4474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Sword | 299399 | [299399-hero-sword.json](./299399-hero-sword.json) |
 | Hero Syndrome | 129522 | [129522-hero-syndrome.json](./129522-hero-syndrome.json) |
 | Hero Tactics | 181921 | [181921-hero-tactics.json](./181921-hero-tactics.json) |
+| Hero Tale | 208192 | [208192-hero-tale.json](./208192-hero-tale.json) |
 | Hero Team | 158918 | [158918-hero-team.json](./158918-hero-team.json) |
 | Hero Tower | 132746 | [132746-hero-tower.json](./132746-hero-tower.json) |
 | Hero Tower Wars | 340537 | [340537-hero-tower-wars.json](./340537-hero-tower-wars.json) |
@@ -4566,6 +4568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Corp | 214323 | [214323-heroes-corp.json](./214323-heroes-corp.json) |
 | Heroes de Peronia | 272761 | [272761-heroes-de-peronia.json](./272761-heroes-de-peronia.json) |
 | Heroes Evolved | 28819 | [28819-heroes-evolved.json](./28819-heroes-evolved.json) |
+| Heroes Fantasy: Cells Reborn | 208190 | [208190-heroes-fantasy-cells-reborn.json](./208190-heroes-fantasy-cells-reborn.json) |
 | Heroes For Hire | 295559 | [295559-heroes-for-hire.json](./295559-heroes-for-hire.json) |
 | Heroes Forces | 126990 | [126990-heroes-forces.json](./126990-heroes-forces.json) |
 | Heroes Guard: The Journal | 200041 | [200041-heroes-guard-the-journal.json](./200041-heroes-guard-the-journal.json) |
@@ -7091,6 +7094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homestead Arcana | 217635 | [217635-homestead-arcana.json](./217635-homestead-arcana.json) |
 | Homestead Online | 337668 | [337668-homestead-online.json](./337668-homestead-online.json) |
 | Homesteader | 62660 | [62660-homesteader.json](./62660-homesteader.json) |
+| Hometown Farm | 208191 | [208191-hometown-farm.json](./208191-hometown-farm.json) |
 | Hometown Poker Hero | 54085 | [54085-hometown-poker-hero.json](./54085-hometown-poker-hero.json) |
 | Hometown Story | 6808 | [6808-hometown-story.json](./6808-hometown-story.json) |
 | Homeward | 188126 | [188126-homeward.json](./188126-homeward.json) |
@@ -8305,6 +8309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Flipper: Pets Edition | 300470 | [300470-house-flipper-pets-edition.json](./300470-house-flipper-pets-edition.json) |
 | House Flipper: Pop Art Furniture Pack | 295125 | [295125-house-flipper-pop-art-furniture-pack.json](./295125-house-flipper-pop-art-furniture-pack.json) |
 | House Ghost | 373842 | [373842-house-ghost.json](./373842-house-ghost.json) |
+| House Haunting | 208223 | [208223-house-haunting.json](./208223-house-haunting.json) |
 | House Hopper | 250281 | [250281-house-hopper.json](./250281-house-hopper.json) |
 | House Hunted | 217759 | [217759-house-hunted.json](./217759-house-hunted.json) |
 | House in the village by the river v2.0 | 173813 | [173813-house-in-the-village-by-the-river-v2-0.json](./173813-house-in-the-village-by-the-river-v2-0.json) |
