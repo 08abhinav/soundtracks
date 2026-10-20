@@ -4845,6 +4845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Space Airlines | 286444 | [286444-sexy-space-airlines.json](./286444-sexy-space-airlines.json) |
 | Sexy Space Defender | 389648 | [389648-sexy-space-defender.json](./389648-sexy-space-defender.json) |
 | Sexy Strippers | 275834 | [275834-sexy-strippers.json](./275834-sexy-strippers.json) |
+| Sexy Valentine | 235607 | [235607-sexy-valentine.json](./235607-sexy-valentine.json) |
 | Sexy Waifu | 227518 | [227518-sexy-waifu.json](./227518-sexy-waifu.json) |
 | Sexycraft | 301657 | [301657-sexycraft.json](./301657-sexycraft.json) |
 | Seybul Tech | 264634 | [264634-seybul-tech.json](./264634-seybul-tech.json) |
@@ -8585,6 +8586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinner | 118817 | [118817-sinner.json](./118817-sinner.json) |
 | Sinner | 291249 | [291249-sinner.json](./291249-sinner.json) |
 | Sinner's Grimoire | 359340 | [359340-sinners-grimoire.json](./359340-sinners-grimoire.json) |
+| Sinner's Tavern | 235623 | [235623-sinners-tavern.json](./235623-sinners-tavern.json) |
 | Sinners Landing | 235771 | [235771-sinners-landing.json](./235771-sinners-landing.json) |
 | Sinners Landing: Bane of Passion | 401889 | [401889-sinners-landing-bane-of-passion.json](./401889-sinners-landing-bane-of-passion.json) |
 | Sinoda | 363324 | [363324-sinoda.json](./363324-sinoda.json) |
@@ -10187,6 +10189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime's Revenge | 152651 | [152651-slimes-revenge.json](./152651-slimes-revenge.json) |
 | Slimeblade | 420012 | [420012-slimeblade.json](./420012-slimeblade.json) |
 | Slimebrawl | 75061 | [75061-slimebrawl.json](./75061-slimebrawl.json) |
+| SlimeCatcher | 235615 | [235615-slimecatcher.json](./235615-slimecatcher.json) |
 | Slimed | 186273 | [186273-slimed.json](./186273-slimed.json) |
 | Slimefrog | 167821 | [167821-slimefrog.json](./167821-slimefrog.json) |
 | SlimeGear | 106389 | [106389-slimegear.json](./106389-slimegear.json) |
@@ -13889,6 +13892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Survivor | 61706 | [61706-soul-survivor.json](./61706-soul-survivor.json) |
 | Soul Sword: Grow Sword Master | 193827 | [193827-soul-sword-grow-sword-master.json](./193827-soul-sword-grow-sword-master.json) |
 | Soul Symphony | 196878 | [196878-soul-symphony.json](./196878-soul-symphony.json) |
+| Soul Taker | 235618 | [235618-soul-taker.json](./235618-soul-taker.json) |
 | Soul Thief: A Wizard's Lizard 2 | 58771 | [58771-soul-thief-a-wizards-lizard-2.json](./58771-soul-thief-a-wizards-lizard-2.json) |
 | Soul Tolerance | 211757 | [211757-soul-tolerance.json](./211757-soul-tolerance.json) |
 | Soul Unleashed | 213335 | [213335-soul-unleashed.json](./213335-soul-unleashed.json) |
@@ -17038,6 +17042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring Mosaics | 415910 | [415910-spring-mosaics.json](./415910-spring-mosaics.json) |
 | Spring Ninja | 344936 | [344936-spring-ninja.json](./344936-spring-ninja.json) |
 | Spring of Decadence | 103478 | [103478-spring-of-decadence.json](./103478-spring-of-decadence.json) |
+| Spring Puzzle | 235614 | [235614-spring-puzzle.json](./235614-spring-puzzle.json) |
 | Spring String | 313121 | [313121-spring-string.json](./313121-spring-string.json) |
 | Spring Time Excellent Cherry Blossom Fun | 179507 | [179507-spring-time-excellent-cherry-blossom-fun.json](./179507-spring-time-excellent-cherry-blossom-fun.json) |
 | Spring Vacations 2018 | 101084 | [101084-spring-vacations-2018.json](./101084-spring-vacations-2018.json) |
@@ -19538,6 +19543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Rats | 74881 | [74881-steel-rats.json](./74881-steel-rats.json) |
 | Steel Rats: Deluxe Edition | 119083 | [119083-steel-rats-deluxe-edition.json](./119083-steel-rats-deluxe-edition.json) |
 | Steel Republic: Rail Defender | 247895 | [247895-steel-republic-rail-defender.json](./247895-steel-republic-rail-defender.json) |
+| Steel Revenant | 235634 | [235634-steel-revenant.json](./235634-steel-revenant.json) |
 | Steel Revolt | 353476 | [353476-steel-revolt.json](./353476-steel-revolt.json) |
 | Steel Rivals | 34766 | [34766-steel-rivals.json](./34766-steel-rivals.json) |
 | Steel Runner | 175179 | [175179-steel-runner.json](./175179-steel-runner.json) |
