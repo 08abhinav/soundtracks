@@ -1646,6 +1646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Teens | 30689 | [30689-paranormal-teens.json](./30689-paranormal-teens.json) |
 | Paranormal Territory 2 | 91974 | [91974-paranormal-territory-2.json](./91974-paranormal-territory-2.json) |
 | Paranormal Torment | 345546 | [345546-paranormal-torment.json](./345546-paranormal-torment.json) |
+| Paranormal VHS | 235070 | [235070-paranormal-vhs.json](./235070-paranormal-vhs.json) |
 | Paranormal Watcher | 335082 | [335082-paranormal-watcher.json](./335082-paranormal-watcher.json) |
 | Paranormal: Found Footage | 297176 | [297176-paranormal-found-footage.json](./297176-paranormal-found-footage.json) |
 | Paranormal: The Town | 61627 | [61627-paranormal-the-town.json](./61627-paranormal-the-town.json) |
