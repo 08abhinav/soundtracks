@@ -580,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampyre Crusade | 317002 | [317002-vampyre-crusade.json](./317002-vampyre-crusade.json) |
 | Van Buren | 79217 | [79217-van-buren.json](./79217-van-buren.json) |
 | Van Gogh's Masterpiece Jigsaw Puzzles | 286240 | [286240-van-goghs-masterpiece-jigsaw-puzzles.json](./286240-van-goghs-masterpiece-jigsaw-puzzles.json) |
+| Van Hellswing | 247869 | [247869-van-hellswing.json](./247869-van-hellswing.json) |
 | Van Helsing | 6226 | [6226-van-helsing.json](./6226-van-helsing.json) |
 | Van Helsing sniper Zx100 | 85470 | [85470-van-helsing-sniper-zx100.json](./85470-van-helsing-sniper-zx100.json) |
 | Van Life: Home Simulator | 370793 | [370793-van-life-home-simulator.json](./370793-van-life-home-simulator.json) |
@@ -2314,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ViveSpray | 32282 | [32282-vivespray.json](./32282-vivespray.json) |
 | ViveSpray 2 | 83170 | [83170-vivespray-2.json](./83170-vivespray-2.json) |
 | Vivian and Kyuma | 282021 | [282021-vivian-and-kyuma.json](./282021-vivian-and-kyuma.json) |
+| Vivian Carmine | 247873 | [247873-vivian-carmine.json](./247873-vivian-carmine.json) |
 | Vivian Clark | 63544 | [63544-vivian-clark.json](./63544-vivian-clark.json) |
 | Vivian Wade: Danger Down the Aisle | 390804 | [390804-vivian-wade-danger-down-the-aisle.json](./390804-vivian-wade-danger-down-the-aisle.json) |
 | Vivian's Kurse | 151037 | [151037-vivians-kurse.json](./151037-vivians-kurse.json) |
