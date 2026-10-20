@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:44:06.737Z",
-  "total_soundtracks": 2281,
+  "generated_at": "2026-10-20T21:44:16.871Z",
+  "total_soundtracks": 2282,
   "games": [
     {
       "igdb_id": 7522,
@@ -27299,6 +27299,20 @@
         {
           "album_name": "Witch It (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/54F8ungfCxeSRGW299Cvuw",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 152204,
+      "game_name": "Wizard With a Gun",
+      "game_url": "https://ostdb.net/games/wizard-with-a-gun",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737b52aa264b0b01a933d95eaf",
+      "albums": [
+        {
+          "album_name": "Wizard With A Gun (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2PoWFsu8TFGJ7KMRJJdPkC",
           "apple_music_url": "",
           "album_link_url": ""
         }
