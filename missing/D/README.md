@@ -2250,6 +2250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DayZ | 2117 | [2117-dayz.json](./2117-dayz.json) |
 | DayZ: Frostline | 311724 | [311724-dayz-frostline.json](./311724-dayz-frostline.json) |
 | DayZ: Livonia Edition | 164803 | [164803-dayz-livonia-edition.json](./164803-dayz-livonia-edition.json) |
+| Daze | 229555 | [229555-daze.json](./229555-daze.json) |
 | Daze Before Christmas | 7662 | [7662-daze-before-christmas.json](./7662-daze-before-christmas.json) |
 | Dazzeloids | 64351 | [64351-dazzeloids.json](./64351-dazzeloids.json) |
 | Dazzly Stories: Ambre's Secret | 346723 | [346723-dazzly-stories-ambres-secret.json](./346723-dazzly-stories-ambres-secret.json) |
@@ -2532,6 +2533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Daylight | 330916 | [330916-dead-daylight.json](./330916-dead-daylight.json) |
 | Dead Days | 221787 | [221787-dead-days.json](./221787-dead-days.json) |
 | Dead Detective vs Nine Deaths Cat | 95953 | [95953-dead-detective-vs-nine-deaths-cat.json](./95953-dead-detective-vs-nine-deaths-cat.json) |
+| Dead Dimension | 229535 | [229535-dead-dimension.json](./229535-dead-dimension.json) |
 | Dead District: Survival | 209479 | [209479-dead-district-survival.json](./209479-dead-district-survival.json) |
 | Dead Dock Protocol | 322186 | [322186-dead-dock-protocol.json](./322186-dead-dock-protocol.json) |
 | Dead Dolls Never Die | 395240 | [395240-dead-dolls-never-die.json](./395240-dead-dolls-never-die.json) |
