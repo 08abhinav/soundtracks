@@ -1733,6 +1733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbarian Trash | 110827 | [110827-barbarian-trash.json](./110827-barbarian-trash.json) |
 | Barbarians & Beasts | 277971 | [277971-barbarians-and-beasts.json](./277971-barbarians-and-beasts.json) |
 | Barbarians Nations: Battle for freedom | 175749 | [175749-barbarians-nations-battle-for-freedom.json](./175749-barbarians-nations-battle-for-freedom.json) |
+| Barbaric Fury | 224963 | [224963-barbaric-fury.json](./224963-barbaric-fury.json) |
 | Barbarium | 200559 | [200559-barbarium.json](./200559-barbarium.json) |
 | Barbarization | 311491 | [311491-barbarization.json](./311491-barbarization.json) |
 | Barbaros | 153487 | [153487-barbaros.json](./153487-barbaros.json) |
@@ -4862,6 +4863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath the Cherry Trees | 90567 | [90567-beneath-the-cherry-trees.json](./90567-beneath-the-cherry-trees.json) |
 | Beneath the Deep | 211449 | [211449-beneath-the-deep.json](./211449-beneath-the-deep.json) |
 | Beneath the Earth: Backrooms | 273792 | [273792-beneath-the-earth-backrooms.json](./273792-beneath-the-earth-backrooms.json) |
+| Beneath the Graves | 224976 | [224976-beneath-the-graves.json](./224976-beneath-the-graves.json) |
 | Beneath The Hill | 410298 | [410298-beneath-the-hill.json](./410298-beneath-the-hill.json) |
 | Beneath the Lighthouse | 59378 | [59378-beneath-the-lighthouse.json](./59378-beneath-the-lighthouse.json) |
 | Beneath the Mind | 336630 | [336630-beneath-the-mind.json](./336630-beneath-the-mind.json) |
@@ -10528,6 +10530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling X | 68642 | [68642-bowling-x.json](./68642-bowling-x.json) |
 | Bowling Xciting | 56962 | [56962-bowling-xciting.json](./56962-bowling-xciting.json) |
 | Bowling! / Basketball! | 80209 | [80209-bowling-basketball.json](./80209-bowling-basketball.json) |
+| Bowlout | 224969 | [224969-bowlout.json](./224969-bowlout.json) |
 | Bowls | 14337 | [14337-bowls.json](./14337-bowls.json) |
 | BowMage | 32267 | [32267-bowmage.json](./32267-bowmage.json) |
 | Bowman | 357273 | [357273-bowman.json](./357273-bowman.json) |
