@@ -493,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painkiller++ | 362469 | [362469-painkiller.json](./362469-painkiller.json) |
 | PainStation | 175901 | [175901-painstation.json](./175901-painstation.json) |
 | Paint | 260171 | [260171-paint.json](./260171-paint.json) |
+| Paint Ball | 255499 | [255499-paint-ball.json](./255499-paint-ball.json) |
 | Paint Ball | 397656 | [397656-paint-ball.json](./397656-paint-ball.json) |
 | Paint Boy | 328591 | [328591-paint-boy.json](./328591-paint-boy.json) |
 | Paint by DS | 79868 | [79868-paint-by-ds.json](./79868-paint-by-ds.json) |
@@ -7621,6 +7622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Dogfights | 96224 | [96224-pocket-dogfights.json](./96224-pocket-dogfights.json) |
 | Pocket Dogs | 49357 | [49357-pocket-dogs.json](./49357-pocket-dogs.json) |
 | Pocket Drift Rally | 391833 | [391833-pocket-drift-rally.json](./391833-pocket-drift-rally.json) |
+| Pocket Dungeon | 255517 | [255517-pocket-dungeon.json](./255517-pocket-dungeon.json) |
 | Pocket Estimation | 317050 | [317050-pocket-estimation.json](./317050-pocket-estimation.json) |
 | Pocket Family GB | 180201 | [180201-pocket-family-gb.json](./180201-pocket-family-gb.json) |
 | Pocket Family GB2 | 180202 | [180202-pocket-family-gb2.json](./180202-pocket-family-gb2.json) |
@@ -12867,6 +12869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PumPum: +5 Girls Pack | 204065 | [204065-pumpum-5-girls-pack.json](./204065-pumpum-5-girls-pack.json) |
 | Pumpy | 165485 | [165485-pumpy.json](./165485-pumpy.json) |
 | Pumuckl and the Crown of the Pirate King | 361866 | [361866-pumuckl-and-the-crown-of-the-pirate-king.json](./361866-pumuckl-and-the-crown-of-the-pirate-king.json) |
+| Pumuckl: Fangt den Klabauter | 255551 | [255551-pumuckl-fangt-den-klabauter.json](./255551-pumuckl-fangt-den-klabauter.json) |
 | Pumuckls Abenteuer bei den Piraten | 93124 | [93124-pumuckls-abenteuer-bei-den-piraten.json](./93124-pumuckls-abenteuer-bei-den-piraten.json) |
 | Pumuckls Abenteuer im Geisterschloss | 98916 | [98916-pumuckls-abenteuer-im-geisterschloss.json](./98916-pumuckls-abenteuer-im-geisterschloss.json) |
 | PunBall | 226779 | [226779-punball.json](./226779-punball.json) |
@@ -13540,6 +13543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Garage | 291615 | [291615-puzzle-garage.json](./291615-puzzle-garage.json) |
 | Puzzle Gems | 290240 | [290240-puzzle-gems.json](./290240-puzzle-gems.json) |
 | Puzzle Girl | 155463 | [155463-puzzle-girl.json](./155463-puzzle-girl.json) |
+| Puzzle Girls | 255527 | [255527-puzzle-girls.json](./255527-puzzle-girls.json) |
 | Puzzle Girls: Alexa | 286400 | [286400-puzzle-girls-alexa.json](./286400-puzzle-girls-alexa.json) |
 | Puzzle Girls: Celia | 163913 | [163913-puzzle-girls-celia.json](./163913-puzzle-girls-celia.json) |
 | Puzzle Girls: Cheryl | 163548 | [163548-puzzle-girls-cheryl.json](./163548-puzzle-girls-cheryl.json) |
