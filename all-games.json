@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T10:41:01.287Z",
-  "total_soundtracks": 2206,
+  "generated_at": "2026-10-20T10:41:12.646Z",
+  "total_soundtracks": 2207,
   "games": [
     {
       "igdb_id": 7522,
@@ -16859,6 +16859,20 @@
         {
           "album_name": "Pinstripe (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/75Jm2bbDGtvf3gYdzng04E",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 5590,
+      "game_name": "Pixel Piracy",
+      "game_url": "https://ostdb.net/games/pixel-piracy",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b461d962be7e2c952afb126e",
+      "albums": [
+        {
+          "album_name": "Pixel Piracy Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/4TmkhWJalPzZXqY04Hzpty",
           "apple_music_url": "",
           "album_link_url": ""
         }
