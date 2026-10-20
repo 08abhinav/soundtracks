@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T00:03:49.728Z",
-  "total_missing": 235243,
+  "generated_at": "2026-10-20T00:18:26.789Z",
+  "total_missing": 235293,
   "games": [
     {
       "igdb_id": 191680,
@@ -27402,6 +27402,11 @@
       "file": "missing/A/404804-aethelgard-galactic-guardian.json"
     },
     {
+      "igdb_id": 254916,
+      "game_name": "Aether",
+      "file": "missing/A/254916-aether.json"
+    },
+    {
       "igdb_id": 280472,
       "game_name": "Aether",
       "file": "missing/A/280472-aether.json"
@@ -42052,6 +42057,11 @@
       "file": "missing/A/130138-amairo-chocolate.json"
     },
     {
+      "igdb_id": 254948,
+      "game_name": "Amairo Chocolate 2",
+      "file": "missing/A/254948-amairo-chocolate-2.json"
+    },
+    {
       "igdb_id": 381003,
       "game_name": "Amairo Chocolate 3",
       "file": "missing/A/381003-amairo-chocolate-3.json"
@@ -53120,6 +53130,11 @@
       "igdb_id": 64494,
       "game_name": "Antibody",
       "file": "missing/A/64494-antibody.json"
+    },
+    {
+      "igdb_id": 254918,
+      "game_name": "AntiBots",
+      "file": "missing/A/254918-antibots.json"
     },
     {
       "igdb_id": 2064,
@@ -101807,6 +101822,11 @@
       "file": "missing/B/320411-becoming-saint.json"
     },
     {
+      "igdb_id": 254923,
+      "game_name": "Becoming Your Beautiful Cousin",
+      "file": "missing/B/254923-becoming-your-beautiful-cousin.json"
+    },
+    {
       "igdb_id": 309665,
       "game_name": "Becut",
       "file": "missing/B/309665-becut.json"
@@ -122800,6 +122820,11 @@
       "igdb_id": 362042,
       "game_name": "Bloomwalker",
       "file": "missing/B/362042-bloomwalker.json"
+    },
+    {
+      "igdb_id": 254921,
+      "game_name": "Bloomyth",
+      "file": "missing/B/254921-bloomyth.json"
     },
     {
       "igdb_id": 262055,
@@ -149742,6 +149767,11 @@
       "file": "missing/C/175923-cafe-in-the-clouds.json"
     },
     {
+      "igdb_id": 254947,
+      "game_name": "Cafe ma Cherie: Otome of Ikemen Cafe",
+      "file": "missing/C/254947-cafe-ma-cherie-otome-of-ikemen-cafe.json"
+    },
+    {
       "igdb_id": 414295,
       "game_name": "Café Machina",
       "file": "missing/C/414295-cafe-machina.json"
@@ -159245,6 +159275,11 @@
       "igdb_id": 243206,
       "game_name": "Cars",
       "file": "missing/C/243206-cars.json"
+    },
+    {
+      "igdb_id": 254933,
+      "game_name": "Cars",
+      "file": "missing/C/254933-cars.json"
     },
     {
       "igdb_id": 295142,
@@ -207970,6 +208005,11 @@
       "igdb_id": 99108,
       "game_name": "Crafting and Building: Exploration Craft",
       "file": "missing/C/99108-crafting-and-building-exploration-craft.json"
+    },
+    {
+      "igdb_id": 254922,
+      "game_name": "Crafting Block World: Magic Dungeons Adventure",
+      "file": "missing/C/254922-crafting-block-world-magic-dungeons-adventure.json"
     },
     {
       "igdb_id": 272270,
@@ -334822,6 +334862,11 @@
       "file": "missing/F/12089-fantastic-dizzy.json"
     },
     {
+      "igdb_id": 254917,
+      "game_name": "Fantastic Dream",
+      "file": "missing/F/254917-fantastic-dream.json"
+    },
+    {
       "igdb_id": 359286,
       "game_name": "Fantastic Farm",
       "file": "missing/F/359286-fantastic-farm.json"
@@ -365272,6 +365317,11 @@
       "file": "missing/F/221708-formula-drag-manager.json"
     },
     {
+      "igdb_id": 254904,
+      "game_name": "Formula Evolution 2024",
+      "file": "missing/F/254904-formula-evolution-2024.json"
+    },
+    {
       "igdb_id": 385978,
       "game_name": "Formula Evolution 2025",
       "file": "missing/F/385978-formula-evolution-2025.json"
@@ -366805,6 +366855,26 @@
       "igdb_id": 117729,
       "game_name": "Fortune Hunters",
       "file": "missing/F/117729-fortune-hunters.json"
+    },
+    {
+      "igdb_id": 254935,
+      "game_name": "Fortune Lover Trial Version: Alan Edition",
+      "file": "missing/F/254935-fortune-lover-trial-version-alan-edition.json"
+    },
+    {
+      "igdb_id": 254932,
+      "game_name": "Fortune Lover Trial Version: Geordo Edition",
+      "file": "missing/F/254932-fortune-lover-trial-version-geordo-edition.json"
+    },
+    {
+      "igdb_id": 254934,
+      "game_name": "Fortune Lover Trial Version: Keith Edition",
+      "file": "missing/F/254934-fortune-lover-trial-version-keith-edition.json"
+    },
+    {
+      "igdb_id": 254936,
+      "game_name": "Fortune Lover Trial Version: Nicol Edition",
+      "file": "missing/F/254936-fortune-lover-trial-version-nicol-edition.json"
     },
     {
       "igdb_id": 405083,
@@ -380575,6 +380645,11 @@
       "igdb_id": 251472,
       "game_name": "G-Mode Archives+: Saiko Mystery Series vol. 1 - Three, Mittsu no Kioki",
       "file": "missing/G/251472-g-mode-archives-saiko-mystery-series-vol-1-three-mittsu-no-kioki.json"
+    },
+    {
+      "igdb_id": 254928,
+      "game_name": "G-Mode Archives+: Saiko Mystery Series Vol. 2 - Angel City",
+      "file": "missing/G/254928-g-mode-archives-saiko-mystery-series-vol-2-angel-city.json"
     },
     {
       "igdb_id": 260681,
@@ -431722,6 +431797,11 @@
       "file": "missing/H/325670-hashire-hebereke-ex.json"
     },
     {
+      "igdb_id": 254930,
+      "game_name": "Hashire! Chuukan Kanrishoku",
+      "file": "missing/H/254930-hashire-chuukan-kanrishoku.json"
+    },
+    {
       "igdb_id": 186282,
       "game_name": "Hashiriya Drifter",
       "file": "missing/H/186282-hashiriya-drifter.json"
@@ -442455,6 +442535,11 @@
       "igdb_id": 301669,
       "game_name": "Hentai Senpai: Apocalypse Girls",
       "file": "missing/H/301669-hentai-senpai-apocalypse-girls.json"
+    },
+    {
+      "igdb_id": 254905,
+      "game_name": "Hentai Senpai: Cosmic Beauties",
+      "file": "missing/H/254905-hentai-senpai-cosmic-beauties.json"
     },
     {
       "igdb_id": 291057,
@@ -478232,6 +478317,11 @@
       "file": "missing/I/267662-il-2-sturmovik-lisunov-li-2-collector-plane.json"
     },
     {
+      "igdb_id": 254906,
+      "game_name": "IL-2 Sturmovik: Sky Nomads Campaign",
+      "file": "missing/I/254906-il-2-sturmovik-sky-nomads-campaign.json"
+    },
+    {
       "igdb_id": 267663,
       "game_name": "IL-2 Sturmovik: Ten Days of Autumn Campaign",
       "file": "missing/I/267663-il-2-sturmovik-ten-days-of-autumn-campaign.json"
@@ -480500,6 +480590,11 @@
       "igdb_id": 295525,
       "game_name": "Impractical Spells",
       "file": "missing/I/295525-impractical-spells.json"
+    },
+    {
+      "igdb_id": 254907,
+      "game_name": "Imprecision",
+      "file": "missing/I/254907-imprecision.json"
     },
     {
       "igdb_id": 47992,
@@ -517970,6 +518065,11 @@
       "igdb_id": 58870,
       "game_name": "Keisan Game: Sansuu 5+6-nen",
       "file": "missing/K/58870-keisan-game-sansuu-5-6-nen.json"
+    },
+    {
+      "igdb_id": 254929,
+      "game_name": "Keisatsusho kara no Dasshutsu",
+      "file": "missing/K/254929-keisatsusho-kara-no-dasshutsu.json"
     },
     {
       "igdb_id": 27494,
@@ -567592,6 +567692,11 @@
       "file": "missing/L/134674-love-hues.json"
     },
     {
+      "igdb_id": 254949,
+      "game_name": "Love Ice Rink",
+      "file": "missing/L/254949-love-ice-rink.json"
+    },
+    {
       "igdb_id": 297014,
       "game_name": "Love Idol Maker",
       "file": "missing/L/297014-love-idol-maker.json"
@@ -573645,6 +573750,11 @@
       "igdb_id": 112978,
       "game_name": "MAAA",
       "file": "missing/M/112978-maaa.json"
+    },
+    {
+      "igdb_id": 254908,
+      "game_name": "Maanu: Academic Version",
+      "file": "missing/M/254908-maanu-academic-version.json"
     },
     {
       "igdb_id": 24780,
@@ -594432,6 +594542,11 @@
       "file": "missing/M/94384-math-workshop.json"
     },
     {
+      "igdb_id": 254919,
+      "game_name": "Math World VR",
+      "file": "missing/M/254919-math-world-vr.json"
+    },
+    {
       "igdb_id": 209547,
       "game_name": "Math-A-Thon 2: The Mystery of the Missing Laboratory",
       "file": "missing/M/209547-math-a-thon-2-the-mystery-of-the-missing-laboratory.json"
@@ -600155,6 +600270,16 @@
       "igdb_id": 248093,
       "game_name": "Meet Your Maker: Scorched Necropolis",
       "file": "missing/M/248093-meet-your-maker-scorched-necropolis.json"
+    },
+    {
+      "igdb_id": 254897,
+      "game_name": "Meet Your Maker: Sector 1 Arsenal Pack",
+      "file": "missing/M/254897-meet-your-maker-sector-1-arsenal-pack.json"
+    },
+    {
+      "igdb_id": 254896,
+      "game_name": "Meet Your Maker: Sector 1 Cosmetic Collection",
+      "file": "missing/M/254896-meet-your-maker-sector-1-cosmetic-collection.json"
     },
     {
       "igdb_id": 267277,
@@ -619722,6 +619847,11 @@
       "file": "missing/M/358512-miners-in-the-mountain.json"
     },
     {
+      "igdb_id": 254903,
+      "game_name": "Miners Settlement",
+      "file": "missing/M/254903-miners-settlement.json"
+    },
+    {
       "igdb_id": 245343,
       "game_name": "Miners Settlement: Idle RPG",
       "file": "missing/M/245343-miners-settlement-idle-rpg.json"
@@ -628122,6 +628252,11 @@
       "file": "missing/M/309642-mojito-the-cat-christmas-skins.json"
     },
     {
+      "igdb_id": 254924,
+      "game_name": "Mojito the Cat: Complete Edition",
+      "file": "missing/M/254924-mojito-the-cat-complete-edition.json"
+    },
+    {
       "igdb_id": 251600,
       "game_name": "Mojito the Cat: Definitive Edition",
       "file": "missing/M/251600-mojito-the-cat-definitive-edition.json"
@@ -633225,6 +633360,11 @@
       "igdb_id": 49324,
       "game_name": "Monster! Bass Fishing",
       "file": "missing/M/49324-monster-bass-fishing.json"
+    },
+    {
+      "igdb_id": 254945,
+      "game_name": "Monster’s First Love",
+      "file": "missing/M/254945-monster-s-first-love.json"
     },
     {
       "igdb_id": 343341,
@@ -639525,6 +639665,11 @@
       "igdb_id": 337625,
       "game_name": "Motorbike Clicker",
       "file": "missing/M/337625-motorbike-clicker.json"
+    },
+    {
+      "igdb_id": 254902,
+      "game_name": "Motorbike Evolution 2024",
+      "file": "missing/M/254902-motorbike-evolution-2024.json"
     },
     {
       "igdb_id": 43235,
@@ -663945,6 +664090,11 @@
       "igdb_id": 254494,
       "game_name": "Nemurenu Yoru no Chiisana Ohanashi",
       "file": "missing/N/254494-nemurenu-yoru-no-chiisana-ohanashi.json"
+    },
+    {
+      "igdb_id": 254925,
+      "game_name": "Nemurenu Yoru no Mikaketsu Mystery",
+      "file": "missing/N/254925-nemurenu-yoru-no-mikaketsu-mystery.json"
     },
     {
       "igdb_id": 233479,
@@ -719267,6 +719417,11 @@
       "file": "missing/P/406698-pawrebuild.json"
     },
     {
+      "igdb_id": 254901,
+      "game_name": "Paws",
+      "file": "missing/P/254901-paws.json"
+    },
+    {
       "igdb_id": 94253,
       "game_name": "Paws",
       "file": "missing/P/94253-paws.json"
@@ -760657,6 +760812,11 @@
       "file": "missing/P/254950-prince-of-the-resort.json"
     },
     {
+      "igdb_id": 254898,
+      "game_name": "Prince or Villain",
+      "file": "missing/P/254898-prince-or-villain.json"
+    },
+    {
       "igdb_id": 341557,
       "game_name": "Prince Rystiya's Starfleet",
       "file": "missing/P/341557-prince-rystiyas-starfleet.json"
@@ -761180,6 +761340,11 @@
       "igdb_id": 244672,
       "game_name": "Princess Survivors",
       "file": "missing/P/244672-princess-survivors.json"
+    },
+    {
+      "igdb_id": 254941,
+      "game_name": "Princess to Be",
+      "file": "missing/P/254941-princess-to-be.json"
     },
     {
       "igdb_id": 48221,
@@ -782345,6 +782510,11 @@
       "igdb_id": 202927,
       "game_name": "R/C Sports: Copter Challenge",
       "file": "missing/R/202927-r-c-sports-copter-challenge.json"
+    },
+    {
+      "igdb_id": 254940,
+      "game_name": "R&Dy",
+      "file": "missing/R/254940-r-and-dy.json"
     },
     {
       "igdb_id": 260309,
@@ -822327,6 +822497,11 @@
       "file": "missing/R/367478-room-for-one.json"
     },
     {
+      "igdb_id": 254937,
+      "game_name": "Room Map",
+      "file": "missing/R/254937-room-map.json"
+    },
+    {
       "igdb_id": 156575,
       "game_name": "Room No. 9",
       "file": "missing/R/156575-room-no-9.json"
@@ -829837,6 +830012,11 @@
       "file": "missing/R/324924-rusty-road-racing.json"
     },
     {
+      "igdb_id": 254899,
+      "game_name": "Rusty Robot Wants to Cry",
+      "file": "missing/R/254899-rusty-robot-wants-to-cry.json"
+    },
+    {
       "igdb_id": 116938,
       "game_name": "Rusty Runner",
       "file": "missing/R/116938-rusty-runner.json"
@@ -832585,6 +832765,11 @@
       "igdb_id": 83436,
       "game_name": "Saikyou Ginsei Shogi Go: New Standard",
       "file": "missing/S/83436-saikyou-ginsei-shogi-go-new-standard.json"
+    },
+    {
+      "igdb_id": 254926,
+      "game_name": "Saikyou Horror Akumu no Tobira: imi ga Wakaru to Kowai Nazotoki Toshidensetsu Kaidan Suiri Game",
+      "file": "missing/S/254926-saikyou-horror-akumu-no-tobira-imi-ga-wakaru-to-kowai-nazotoki-toshidensetsu-kaidan-suiri-game.json"
     },
     {
       "igdb_id": 225658,
@@ -860847,6 +861032,11 @@
       "file": "missing/S/231346-shikinjou.json"
     },
     {
+      "igdb_id": 254927,
+      "game_name": "Shikisai Kankaku Test Art na Kyouyou Nou-tre Joushiki IQ Check",
+      "file": "missing/S/254927-shikisai-kankaku-test-art-na-kyouyou-nou-tre-joushiki-iq-check.json"
+    },
+    {
       "igdb_id": 186285,
       "game_name": "Shikkoku no Sharnoth: What a beautiful tomorrow",
       "file": "missing/S/186285-shikkoku-no-sharnoth-what-a-beautiful-tomorrow.json"
@@ -867830,6 +868020,11 @@
       "igdb_id": 390656,
       "game_name": "Side Whoop",
       "file": "missing/S/390656-side-whoop.json"
+    },
+    {
+      "igdb_id": 254900,
+      "game_name": "Sidecar Evolution 2024",
+      "file": "missing/S/254900-sidecar-evolution-2024.json"
     },
     {
       "igdb_id": 385834,
@@ -941912,9 +942107,19 @@
       "file": "missing/S/389564-sun-haven-gearwork-glamour-pack.json"
     },
     {
+      "igdb_id": 254912,
+      "game_name": "Sun Haven: Mushy Pack",
+      "file": "missing/S/254912-sun-haven-mushy-pack.json"
+    },
+    {
       "igdb_id": 389567,
       "game_name": "Sun Haven: Myths and Muses Pack",
       "file": "missing/S/389567-sun-haven-myths-and-muses-pack.json"
+    },
+    {
+      "igdb_id": 254913,
+      "game_name": "Sun Haven: Ocean Shores Pack",
+      "file": "missing/S/254913-sun-haven-ocean-shores-pack.json"
     },
     {
       "igdb_id": 389569,
@@ -941935,6 +942140,11 @@
       "igdb_id": 272916,
       "game_name": "Sun Haven: Rock 'n' Roll Pack",
       "file": "missing/S/272916-sun-haven-rock-n-roll-pack.json"
+    },
+    {
+      "igdb_id": 254914,
+      "game_name": "Sun Haven: Set Sail Pack",
+      "file": "missing/S/254914-sun-haven-set-sail-pack.json"
     },
     {
       "igdb_id": 306510,
@@ -946947,6 +947157,11 @@
       "file": "missing/S/276163-super-laura-up.json"
     },
     {
+      "igdb_id": 254938,
+      "game_name": "Super Lava Bros.",
+      "file": "missing/S/254938-super-lava-bros.json"
+    },
+    {
       "igdb_id": 72144,
       "game_name": "Super Laydock: Mission Striker",
       "file": "missing/S/72144-super-laydock-mission-striker.json"
@@ -947130,6 +947345,11 @@
       "igdb_id": 259276,
       "game_name": "Super Luigi Wii: The Emissary",
       "file": "missing/S/259276-super-luigi-wii-the-emissary.json"
+    },
+    {
+      "igdb_id": 254946,
+      "game_name": "Super Luigi! The Forgotten Adventure!",
+      "file": "missing/S/254946-super-luigi-the-forgotten-adventure.json"
     },
     {
       "igdb_id": 371341,
@@ -983747,6 +983967,11 @@
       "file": "missing/T/366913-tetsudou-nippon-real-pro-tokyo-kanagawa-tokyu-dentetsu-hen.json"
     },
     {
+      "igdb_id": 254920,
+      "game_name": "Tetsudou Nippon! RealPro Tokkyu Soukou! Nagoya Tetsudou-hen",
+      "file": "missing/T/254920-tetsudou-nippon-realpro-tokkyu-soukou-nagoya-tetsudou-hen.json"
+    },
+    {
       "igdb_id": 261366,
       "game_name": "Tetsudou Nippon! Rosen Tabi EX: Seiryuu Unten - Hasegawa Tetsudou-hen",
       "file": "missing/T/261366-tetsudou-nippon-rosen-tabi-ex-seiryuu-unten-hasegawa-tetsudou-hen.json"
@@ -999432,6 +999657,11 @@
       "file": "missing/T/299604-the-fateful-encounter.json"
     },
     {
+      "igdb_id": 254944,
+      "game_name": "The Fateful Saint’s Love",
+      "file": "missing/T/254944-the-fateful-saint-s-love.json"
+    },
+    {
       "igdb_id": 2521,
       "game_name": "The Fates of Twinion",
       "file": "missing/T/2521-the-fates-of-twinion.json"
@@ -1012525,6 +1012755,11 @@
       "igdb_id": 53756,
       "game_name": "The Legendary Hero of Space",
       "file": "missing/T/53756-the-legendary-hero-of-space.json"
+    },
+    {
+      "igdb_id": 254943,
+      "game_name": "The Legendary Love Story",
+      "file": "missing/T/254943-the-legendary-love-story.json"
     },
     {
       "igdb_id": 68612,
@@ -1032395,6 +1032630,11 @@
       "igdb_id": 388386,
       "game_name": "The Traveling Witch in Animal Town",
       "file": "missing/T/388386-the-traveling-witch-in-animal-town.json"
+    },
+    {
+      "igdb_id": 254911,
+      "game_name": "The Traveller",
+      "file": "missing/T/254911-the-traveller.json"
     },
     {
       "igdb_id": 178570,
@@ -1069230,6 +1069470,11 @@
       "igdb_id": 220712,
       "game_name": "Train Sim World 3: Dispolok BR 182 Add-On",
       "file": "missing/T/220712-train-sim-world-3-dispolok-br-182-add-on.json"
+    },
+    {
+      "igdb_id": 254910,
+      "game_name": "Train Sim World 3: Glossop Line - Manchester: Hadfield & Glossop Route",
+      "file": "missing/T/254910-train-sim-world-3-glossop-line-manchester-hadfield-and-glossop-route.json"
     },
     {
       "igdb_id": 241308,
@@ -1151345,6 +1151590,11 @@
       "igdb_id": 36387,
       "game_name": "Worlds Adrift Island Creator",
       "file": "missing/W/36387-worlds-adrift-island-creator.json"
+    },
+    {
+      "igdb_id": 254909,
+      "game_name": "Worlds Align: Beginning - Collector's Edition",
+      "file": "missing/W/254909-worlds-align-beginning-collectors-edition.json"
     },
     {
       "igdb_id": 187945,
