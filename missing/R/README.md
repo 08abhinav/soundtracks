@@ -6967,6 +6967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Hoppers | 210119 | [210119-rock-hoppers.json](./210119-rock-hoppers.json) |
 | Rock in Code | 104142 | [104142-rock-in-code.json](./104142-rock-in-code.json) |
 | Rock Island | 334317 | [334317-rock-island.json](./334317-rock-island.json) |
+| Rock Life: The Rock Simulator | 228299 | [228299-rock-life-the-rock-simulator.json](./228299-rock-life-the-rock-simulator.json) |
 | Rock Life: The Rock Simulator - Rock Pack #2 | 286527 | [286527-rock-life-the-rock-simulator-rock-pack-2.json](./286527-rock-life-the-rock-simulator-rock-pack-2.json) |
 | Rock Life: The Rock Simulator - Rock Pack #3 | 302941 | [302941-rock-life-the-rock-simulator-rock-pack-3.json](./302941-rock-life-the-rock-simulator-rock-pack-3.json) |
 | Rock Manager | 22055 | [22055-rock-manager.json](./22055-rock-manager.json) |
@@ -8891,6 +8892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rudimentary Unfinished Shooter Entry | 413891 | [413891-rudimentary-unfinished-shooter-entry.json](./413891-rudimentary-unfinished-shooter-entry.json) |
 | Rudo Resurrection | 66646 | [66646-rudo-resurrection.json](./66646-rudo-resurrection.json) |
 | Rudolf's Very Good, No Bad Day-o | 412543 | [412543-rudolfs-very-good-no-bad-day-o.json](./412543-rudolfs-very-good-no-bad-day-o.json) |
+| Rudolph the Red-Nosed Reindeer | 228305 | [228305-rudolph-the-red-nosed-reindeer.json](./228305-rudolph-the-red-nosed-reindeer.json) |
 | Rudolph the Red-Nosed Reindeer | 358391 | [358391-rudolph-the-red-nosed-reindeer.json](./358391-rudolph-the-red-nosed-reindeer.json) |
 | Rudolph the Red-Nosed Reindeer | 50717 | [50717-rudolph-the-red-nosed-reindeer.json](./50717-rudolph-the-red-nosed-reindeer.json) |
 | Rudolph the Red-Nosed Reindeer: Holiday Play Edition | 420697 | [420697-rudolph-the-red-nosed-reindeer-holiday-play-edition.json](./420697-rudolph-the-red-nosed-reindeer-holiday-play-edition.json) |
