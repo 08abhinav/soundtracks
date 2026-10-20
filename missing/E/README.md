@@ -2482,6 +2482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empires of the Undergrowth: Exploding Ants | 403591 | [403591-empires-of-the-undergrowth-exploding-ants.json](./403591-empires-of-the-undergrowth-exploding-ants.json) |
 | Empires of the Undergrowth: Supporter Pack | 403593 | [403593-empires-of-the-undergrowth-supporter-pack.json](./403593-empires-of-the-undergrowth-supporter-pack.json) |
 | Empires of the Void II | 189167 | [189167-empires-of-the-void-ii.json](./189167-empires-of-the-void-ii.json) |
+| Empires Shall Fall | 216641 | [216641-empires-shall-fall.json](./216641-empires-shall-fall.json) |
 | Empires Through the Aeons | 240690 | [240690-empires-through-the-aeons.json](./240690-empires-through-the-aeons.json) |
 | Empires: Dawn of the Modern World | 678 | [678-empires-dawn-of-the-modern-world.json](./678-empires-dawn-of-the-modern-world.json) |
 | Empis | 215869 | [215869-empis.json](./215869-empis.json) |
@@ -2931,6 +2932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endzone: A World Apart - Save the World Edition | 154952 | [154952-endzone-a-world-apart-save-the-world-edition.json](./154952-endzone-a-world-apart-save-the-world-edition.json) |
 | Endzone: A World Apart - Survivor Edition | 193533 | [193533-endzone-a-world-apart-survivor-edition.json](./193533-endzone-a-world-apart-survivor-edition.json) |
 | ENEFN | 132620 | [132620-enefn.json](./132620-enefn.json) |
+| Enelia: Dawn of Madness | 216688 | [216688-enelia-dawn-of-madness.json](./216688-enelia-dawn-of-madness.json) |
 | Enemies: Gone Suburban | 239649 | [239649-enemies-gone-suburban.json](./239649-enemies-gone-suburban.json) |
 | Enemist | 335318 | [335318-enemist.json](./335318-enemist.json) |
 | Enemy | 36034 | [36034-enemy.json](./36034-enemy.json) |
