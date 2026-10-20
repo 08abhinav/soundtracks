@@ -1457,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies Shall Not Pass! | 180574 | [180574-zombies-shall-not-pass.json](./180574-zombies-shall-not-pass.json) |
 | Zombies TD | 213404 | [213404-zombies-td.json](./213404-zombies-td.json) |
 | Zombies vs Chucky | 105754 | [105754-zombies-vs-chucky.json](./105754-zombies-vs-chucky.json) |
+| Zombies vs. Farmer | 223881 | [223881-zombies-vs-farmer.json](./223881-zombies-vs-farmer.json) |
 | Zombies vs. Sheep | 67294 | [67294-zombies-vs-sheep.json](./67294-zombies-vs-sheep.json) |
 | Zombies vs. You | 289339 | [289339-zombies-vs-you.json](./289339-zombies-vs-you.json) |
 | Zombies War | 118341 | [118341-zombies-war.json](./118341-zombies-war.json) |
@@ -1562,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zone Sega | 202809 | [202809-zone-sega.json](./202809-zone-sega.json) |
 | Zone Trip | 264036 | [264036-zone-trip.json](./264036-zone-trip.json) |
 | Zone Warrior | 130079 | [130079-zone-warrior.json](./130079-zone-warrior.json) |
+| Zone Z | 223882 | [223882-zone-z.json](./223882-zone-z.json) |
 | Zone.E | 244193 | [244193-zone-e.json](./244193-zone-e.json) |
 | Zone4M | 188385 | [188385-zone4m.json](./188385-zone4m.json) |
 | Zoned | 311587 | [311587-zoned.json](./311587-zoned.json) |
