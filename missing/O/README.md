@@ -2770,6 +2770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Optical Illusions | 282729 | [282729-optical-illusions.json](./282729-optical-illusions.json) |
 | Optical Inquisitor | 95338 | [95338-optical-inquisitor.json](./95338-optical-inquisitor.json) |
 | Optika | 32137 | [32137-optika.json](./32137-optika.json) |
+| Optimal Conditions for a Sacrifice | 206536 | [206536-optimal-conditions-for-a-sacrifice.json](./206536-optimal-conditions-for-a-sacrifice.json) |
 | Optimum Link | 111665 | [111665-optimum-link.json](./111665-optimum-link.json) |
 | Option Monster | 266488 | [266488-option-monster.json](./266488-option-monster.json) |
 | Option Tuning Car Battle Spec-R | 80382 | [80382-option-tuning-car-battle-spec-r.json](./80382-option-tuning-car-battle-spec-r.json) |
