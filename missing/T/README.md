@@ -4005,6 +4005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That's So Raven: Psychic on the Scene | 47951 | [47951-thats-so-raven-psychic-on-the-scene.json](./47951-thats-so-raven-psychic-on-the-scene.json) |
 | That's the Spirit | 57354 | [57354-thats-the-spirit.json](./57354-thats-the-spirit.json) |
 | Thatcher's Techbase | 164080 | [164080-thatchers-techbase.json](./164080-thatchers-techbase.json) |
+| Thatre of Pain | 234474 | [234474-thatre-of-pain.json](./234474-thatre-of-pain.json) |
 | Thaumistry: In Charm's Way | 27280 | [27280-thaumistry-in-charms-way.json](./27280-thaumistry-in-charms-way.json) |
 | ThaumOS | 184462 | [184462-thaumos.json](./184462-thaumos.json) |
 | Thaw | 318294 | [318294-thaw.json](./318294-thaw.json) |
@@ -8794,6 +8795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kite | 111664 | [111664-the-kite.json](./111664-the-kite.json) |
 | The Kitty in the Trapping Garden | 273316 | [273316-the-kitty-in-the-trapping-garden.json](./273316-the-kitty-in-the-trapping-garden.json) |
 | The Klaxo Radio Hour | 122846 | [122846-the-klaxo-radio-hour.json](./122846-the-klaxo-radio-hour.json) |
+| The Knight | 234449 | [234449-the-knight.json](./234449-the-knight.json) |
 | The Knight Dance | 301377 | [301377-the-knight-dance.json](./301377-the-knight-dance.json) |
 | The Knight in Pajamas | 352314 | [352314-the-knight-in-pajamas.json](./352314-the-knight-in-pajamas.json) |
 | The Knight of Nephiart | 151700 | [151700-the-knight-of-nephiart.json](./151700-the-knight-of-nephiart.json) |
@@ -14836,6 +14838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Always Run: Deluxe Edition | 292927 | [292927-they-always-run-deluxe-edition.json](./292927-they-always-run-deluxe-edition.json) |
 | They Are Beasts | 119753 | [119753-they-are-beasts.json](./119753-they-are-beasts.json) |
 | They Are Coming | 272574 | [272574-they-are-coming.json](./272574-they-are-coming.json) |
+| They Are Coming Zombie Defense | 234460 | [234460-they-are-coming-zombie-defense.json](./234460-they-are-coming-zombie-defense.json) |
 | They Are Coming! | 173283 | [173283-they-are-coming.json](./173283-they-are-coming.json) |
 | They are Confined | 229758 | [229758-they-are-confined.json](./229758-they-are-confined.json) |
 | They Are Hundreds | 87954 | [87954-they-are-hundreds.json](./87954-they-are-hundreds.json) |
@@ -16965,6 +16968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Conqueror | 123920 | [123920-tile-conqueror.json](./123920-tile-conqueror.json) |
 | Tile Cross | 300723 | [300723-tile-cross.json](./300723-tile-cross.json) |
 | Tile Game Classic | 88272 | [88272-tile-game-classic.json](./88272-tile-game-classic.json) |
+| Tile Garden | 234483 | [234483-tile-garden.json](./234483-tile-garden.json) |
 | Tile Hero | 416174 | [416174-tile-hero.json](./416174-tile-hero.json) |
 | Tile Jong | 336379 | [336379-tile-jong.json](./336379-tile-jong.json) |
 | Tile Jumper! | 354886 | [354886-tile-jumper.json](./354886-tile-jumper.json) |
