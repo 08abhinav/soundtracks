@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T12:19:01.339Z",
-  "total_missing": 237678,
+  "generated_at": "2026-10-20T12:33:36.034Z",
+  "total_missing": 237728,
   "games": [
     {
       "igdb_id": 191680,
@@ -53090,6 +53090,11 @@
       "igdb_id": 37126,
       "game_name": "Anstoss",
       "file": "missing/A/37126-anstoss.json"
+    },
+    {
+      "igdb_id": 227125,
+      "game_name": "Anstoss 1-3 Bundle",
+      "file": "missing/A/227125-anstoss-1-3-bundle.json"
     },
     {
       "igdb_id": 85725,
@@ -187132,6 +187137,11 @@
       "file": "missing/C/334203-clawsome.json"
     },
     {
+      "igdb_id": 227115,
+      "game_name": "Clawstar Wrestling",
+      "file": "missing/C/227115-clawstar-wrestling.json"
+    },
+    {
       "igdb_id": 334504,
       "game_name": "Clay Beats",
       "file": "missing/C/334504-clay-beats.json"
@@ -228522,6 +228532,11 @@
       "file": "missing/D/68484-d-and-d-lords-of-waterdeep.json"
     },
     {
+      "igdb_id": 227135,
+      "game_name": "D&M: Dungeon and Monsters the Beginning",
+      "file": "missing/D/227135-d-and-m-dungeon-and-monsters-the-beginning.json"
+    },
+    {
       "igdb_id": 236751,
       "game_name": "D&M: Spark of Fate",
       "file": "missing/D/236751-d-and-m-spark-of-fate.json"
@@ -236230,6 +236245,11 @@
       "igdb_id": 45985,
       "game_name": "Darksiders III: Collector's Edition",
       "file": "missing/D/45985-darksiders-iii-collectors-edition.json"
+    },
+    {
+      "igdb_id": 227112,
+      "game_name": "Darksiders III: DLC Bundle",
+      "file": "missing/D/227112-darksiders-iii-dlc-bundle.json"
     },
     {
       "igdb_id": 115645,
@@ -246772,6 +246792,11 @@
       "file": "missing/D/308884-deduce-together.json"
     },
     {
+      "igdb_id": 227140,
+      "game_name": "Deducto 2",
+      "file": "missing/D/227140-deducto-2.json"
+    },
+    {
       "igdb_id": 355531,
       "game_name": "Deductum",
       "file": "missing/D/355531-deductum.json"
@@ -249267,6 +249292,11 @@
       "file": "missing/D/133973-deff.json"
     },
     {
+      "igdb_id": 227157,
+      "game_name": "Defi Gravity",
+      "file": "missing/D/227157-defi-gravity.json"
+    },
+    {
       "igdb_id": 185371,
       "game_name": "Defi Kingdoms",
       "file": "missing/D/185371-defi-kingdoms.json"
@@ -250235,6 +250265,11 @@
       "igdb_id": 260095,
       "game_name": "Delivering Hope",
       "file": "missing/D/260095-delivering-hope.json"
+    },
+    {
+      "igdb_id": 227137,
+      "game_name": "Delivering Letters",
+      "file": "missing/D/227137-delivering-letters.json"
     },
     {
       "igdb_id": 372229,
@@ -260055,6 +260090,11 @@
       "igdb_id": 374789,
       "game_name": "Dictator Simulator: Gradnar",
       "file": "missing/D/374789-dictator-simulator-gradnar.json"
+    },
+    {
+      "igdb_id": 227139,
+      "game_name": "Dictator-chan island",
+      "file": "missing/D/227139-dictator-chan-island.json"
     },
     {
       "igdb_id": 104558,
@@ -277722,6 +277762,11 @@
       "file": "missing/D/314372-doraemon-step-up-pc.json"
     },
     {
+      "igdb_id": 227156,
+      "game_name": "Doraemon Story of Season: Friends of the Great Kingdom - Winter Tales",
+      "file": "missing/D/227156-doraemon-story-of-season-friends-of-the-great-kingdom-winter-tales.json"
+    },
+    {
       "igdb_id": 206815,
       "game_name": "Doraemon Story of Seasons: Friends of the Great Kingdom",
       "file": "missing/D/206815-doraemon-story-of-seasons-friends-of-the-great-kingdom.json"
@@ -286975,6 +287020,11 @@
       "igdb_id": 246937,
       "game_name": "Dream House Days",
       "file": "missing/D/246937-dream-house-days.json"
+    },
+    {
+      "igdb_id": 227110,
+      "game_name": "Dream Hunter Toys: Evil Dolls",
+      "file": "missing/D/227110-dream-hunter-toys-evil-dolls.json"
     },
     {
       "igdb_id": 317388,
@@ -326092,6 +326142,11 @@
       "file": "missing/E/227339-evil-dead-the-game-hail-to-the-king-bundle.json"
     },
     {
+      "igdb_id": 227111,
+      "game_name": "Evil Dead: The Game - The Classics Bundle",
+      "file": "missing/E/227111-evil-dead-the-game-the-classics-bundle.json"
+    },
+    {
       "igdb_id": 252206,
       "game_name": "Evil Dead: The Game - Who's Your Daddy Bundle",
       "file": "missing/E/252206-evil-dead-the-game-whos-your-daddy-bundle.json"
@@ -334110,6 +334165,11 @@
       "igdb_id": 51431,
       "game_name": "Fairyland: Manuscript",
       "file": "missing/F/51431-fairyland-manuscript.json"
+    },
+    {
+      "igdb_id": 227113,
+      "game_name": "Fairyland: Merge and Magic",
+      "file": "missing/F/227113-fairyland-merge-and-magic.json"
     },
     {
       "igdb_id": 103473,
@@ -356832,6 +356892,11 @@
       "file": "missing/F/50604-fit-and-fun.json"
     },
     {
+      "igdb_id": 227109,
+      "game_name": "Fit Adventures Bundle",
+      "file": "missing/F/227109-fit-adventures-bundle.json"
+    },
+    {
       "igdb_id": 342148,
       "game_name": "Fit and Fry",
       "file": "missing/F/342148-fit-and-fry.json"
@@ -370217,9 +370282,19 @@
       "file": "missing/F/321446-fortnite-kyran-aryk-crew-pack.json"
     },
     {
+      "igdb_id": 227107,
+      "game_name": "Fortnite: Lava Legends Pack",
+      "file": "missing/F/227107-fortnite-lava-legends-pack.json"
+    },
+    {
       "igdb_id": 360188,
       "game_name": "Fortnite: Luminary Hypatia Starter Pack",
       "file": "missing/F/360188-fortnite-luminary-hypatia-starter-pack.json"
+    },
+    {
+      "igdb_id": 227106,
+      "game_name": "Fortnite: Magma Masters Pack",
+      "file": "missing/F/227106-fortnite-magma-masters-pack.json"
     },
     {
       "igdb_id": 303239,
@@ -491410,6 +491485,11 @@
       "igdb_id": 383938,
       "game_name": "Innadreem",
       "file": "missing/I/383938-innadreem.json"
+    },
+    {
+      "igdb_id": 227126,
+      "game_name": "Innawoods",
+      "file": "missing/I/227126-innawoods.json"
     },
     {
       "igdb_id": 397394,
@@ -717422,6 +717502,11 @@
       "file": "missing/P/163450-pair-matching-puzzle-connect-expansion-pack-1.json"
     },
     {
+      "igdb_id": 227154,
+      "game_name": "Pair Matching Puzzle Connect: Expansion Pack 10",
+      "file": "missing/P/227154-pair-matching-puzzle-connect-expansion-pack-10.json"
+    },
+    {
       "igdb_id": 163443,
       "game_name": "Pair Matching Puzzle Connect: Expansion Pack 11",
       "file": "missing/P/163443-pair-matching-puzzle-connect-expansion-pack-11.json"
@@ -720805,6 +720890,11 @@
       "igdb_id": 207271,
       "game_name": "Paperback Vol. 2",
       "file": "missing/P/207271-paperback-vol-2.json"
+    },
+    {
+      "igdb_id": 227155,
+      "game_name": "Paperball: Cherry Sky Pack",
+      "file": "missing/P/227155-paperball-cherry-sky-pack.json"
     },
     {
       "igdb_id": 21849,
@@ -767347,6 +767437,11 @@
       "file": "missing/P/222799-pretty-bird-7.json"
     },
     {
+      "igdb_id": 227114,
+      "game_name": "Pretty Bird 8",
+      "file": "missing/P/227114-pretty-bird-8.json"
+    },
+    {
       "igdb_id": 253247,
       "game_name": "Pretty Bubble: Flappy Adventures",
       "file": "missing/P/253247-pretty-bubble-flappy-adventures.json"
@@ -789765,6 +789860,11 @@
       "igdb_id": 229169,
       "game_name": "Quiz Thiz United Kingdom: Silver Edition",
       "file": "missing/Q/229169-quiz-thiz-united-kingdom-silver-edition.json"
+    },
+    {
+      "igdb_id": 227128,
+      "game_name": "Quiz Thiz USA: Bronze Edition",
+      "file": "missing/Q/227128-quiz-thiz-usa-bronze-edition.json"
     },
     {
       "igdb_id": 227881,
@@ -813852,6 +813952,11 @@
       "file": "missing/R/144206-reussir-code-de-la-route-nouvelle-edition.json"
     },
     {
+      "igdb_id": 227127,
+      "game_name": "Réussir: Code de la Route - Nouvelle Edition: French Highway Code",
+      "file": "missing/R/227127-reussir-code-de-la-route-nouvelle-edition-french-highway-code.json"
+    },
+    {
       "igdb_id": 322065,
       "game_name": "Rev Grav",
       "file": "missing/R/322065-rev-grav.json"
@@ -826572,6 +826677,11 @@
       "file": "missing/R/225013-rocksmith-2014-edition-remastered-coldplay-song-pack.json"
     },
     {
+      "igdb_id": 227153,
+      "game_name": "Rocksmith 2014 Edition: Remastered - Disturbed: Song Pack II",
+      "file": "missing/R/227153-rocksmith-2014-edition-remastered-disturbed-song-pack-ii.json"
+    },
+    {
       "igdb_id": 227199,
       "game_name": "Rocksmith 2014 Edition: Remastered - Faith No More: Song Pack",
       "file": "missing/R/227199-rocksmith-2014-edition-remastered-faith-no-more-song-pack.json"
@@ -826647,14 +826757,59 @@
       "file": "missing/R/225033-rocksmith-2014-edition-remastered-live-song-pack.json"
     },
     {
+      "igdb_id": 227146,
+      "game_name": "Rocksmith 2014 Edition: Remastered - Matchbox Twenty: Song Pack",
+      "file": "missing/R/227146-rocksmith-2014-edition-remastered-matchbox-twenty-song-pack.json"
+    },
+    {
+      "igdb_id": 227147,
+      "game_name": "Rocksmith 2014 Edition: Remastered - Megadeth: Song Pack II",
+      "file": "missing/R/227147-rocksmith-2014-edition-remastered-megadeth-song-pack-ii.json"
+    },
+    {
       "igdb_id": 225019,
       "game_name": "Rocksmith 2014 Edition: Remastered - Mix Tape Song Pack",
       "file": "missing/R/225019-rocksmith-2014-edition-remastered-mix-tape-song-pack.json"
     },
     {
+      "igdb_id": 227148,
+      "game_name": "Rocksmith 2014 Edition: Remastered - Mötley Crüe: Song Pack",
+      "file": "missing/R/227148-rocksmith-2014-edition-remastered-motley-crue-song-pack.json"
+    },
+    {
+      "igdb_id": 227149,
+      "game_name": "Rocksmith 2014 Edition: Remastered - Muse: Song Pack",
+      "file": "missing/R/227149-rocksmith-2014-edition-remastered-muse-song-pack.json"
+    },
+    {
+      "igdb_id": 227150,
+      "game_name": "Rocksmith 2014 Edition: Remastered - My Chemical Romance: Song Pack II",
+      "file": "missing/R/227150-rocksmith-2014-edition-remastered-my-chemical-romance-song-pack-ii.json"
+    },
+    {
+      "igdb_id": 227151,
+      "game_name": "Rocksmith 2014 Edition: Remastered - Oasis: Song Pack",
+      "file": "missing/R/227151-rocksmith-2014-edition-remastered-oasis-song-pack.json"
+    },
+    {
       "igdb_id": 225028,
       "game_name": "Rocksmith 2014 Edition: Remastered - Paramore: Song Pack",
       "file": "missing/R/225028-rocksmith-2014-edition-remastered-paramore-song-pack.json"
+    },
+    {
+      "igdb_id": 227152,
+      "game_name": "Rocksmith 2014 Edition: Remastered - Queens of the Stone Age: Song Pack",
+      "file": "missing/R/227152-rocksmith-2014-edition-remastered-queens-of-the-stone-age-song-pack.json"
+    },
+    {
+      "igdb_id": 227145,
+      "game_name": "Rocksmith 2014 Edition: Remastered - Radiohead: Song Pack",
+      "file": "missing/R/227145-rocksmith-2014-edition-remastered-radiohead-song-pack.json"
+    },
+    {
+      "igdb_id": 227144,
+      "game_name": "Rocksmith 2014 Edition: Remastered - Rage Against the Machine: Song Pack I-II",
+      "file": "missing/R/227144-rocksmith-2014-edition-remastered-rage-against-the-machine-song-pack-i-ii.json"
     },
     {
       "igdb_id": 225036,
@@ -841730,6 +841885,11 @@
       "igdb_id": 246621,
       "game_name": "Saint Kotar: Digital Deluxe Edition",
       "file": "missing/S/246621-saint-kotar-digital-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 227124,
+      "game_name": "Saint Kotar: The Crawling Man",
+      "file": "missing/S/227124-saint-kotar-the-crawling-man.json"
     },
     {
       "igdb_id": 195551,
@@ -898157,6 +898317,11 @@
       "file": "missing/S/235998-soccer-clubs.json"
     },
     {
+      "igdb_id": 227130,
+      "game_name": "Soccer Cup 2022",
+      "file": "missing/S/227130-soccer-cup-2022.json"
+    },
+    {
       "igdb_id": 87064,
       "game_name": "Soccer Cup Solitaire",
       "file": "missing/S/87064-soccer-cup-solitaire.json"
@@ -929405,6 +929570,11 @@
       "igdb_id": 175977,
       "game_name": "Star Melody: Yumemi Dreamer - Limited Edition",
       "file": "missing/S/175977-star-melody-yumemi-dreamer-limited-edition.json"
+    },
+    {
+      "igdb_id": 227142,
+      "game_name": "Star Melody: Yumemi Dreamer - Special Pack",
+      "file": "missing/S/227142-star-melody-yumemi-dreamer-special-pack.json"
     },
     {
       "igdb_id": 236417,
@@ -980702,6 +980872,11 @@
       "file": "missing/T/149067-talisman-digital-edition-devils-minion.json"
     },
     {
+      "igdb_id": 227123,
+      "game_name": "Talisman: Digital Edition - DLC Bundle",
+      "file": "missing/T/227123-talisman-digital-edition-dlc-bundle.json"
+    },
+    {
       "igdb_id": 149058,
       "game_name": "Talisman: Digital Edition - Exorcist",
       "file": "missing/T/149058-talisman-digital-edition-exorcist.json"
@@ -994157,6 +994332,11 @@
       "file": "missing/T/48880-tetsudou-ou.json"
     },
     {
+      "igdb_id": 227116,
+      "game_name": "Tetsujin 28-Gou",
+      "file": "missing/T/227116-tetsujin-28-gou.json"
+    },
+    {
       "igdb_id": 395110,
       "game_name": "Tetsujou no Reigyo",
       "file": "missing/T/395110-tetsujou-no-reigyo.json"
@@ -1001195,6 +1001375,11 @@
       "igdb_id": 167144,
       "game_name": "The Caligula Effect: Overdose - Limited Edition",
       "file": "missing/T/167144-the-caligula-effect-overdose-limited-edition.json"
+    },
+    {
+      "igdb_id": 227122,
+      "game_name": "The Caligula Effect: Overdose - Swimsuit Bundle",
+      "file": "missing/T/227122-the-caligula-effect-overdose-swimsuit-bundle.json"
     },
     {
       "igdb_id": 106440,
@@ -1025395,6 +1025580,11 @@
       "igdb_id": 93721,
       "game_name": "The m0rg VS keys",
       "file": "missing/T/93721-the-m0rg-vs-keys.json"
+    },
+    {
+      "igdb_id": 227121,
+      "game_name": "The M1 Tank Platoon Collection",
+      "file": "missing/T/227121-the-m1-tank-platoon-collection.json"
     },
     {
       "igdb_id": 288126,
@@ -1065042,6 +1065232,11 @@
       "file": "missing/T/51152-tnt-racers-nitro-machines-edition.json"
     },
     {
+      "igdb_id": 227120,
+      "game_name": "TNT War Bundle",
+      "file": "missing/T/227120-tnt-war-bundle.json"
+    },
+    {
       "igdb_id": 313169,
       "game_name": "TNT: Evilution",
       "file": "missing/T/313169-tnt-evilution.json"
@@ -1080327,6 +1080522,11 @@
       "file": "missing/T/243233-train-sim-world-3-loco-add-on-bundle-2.json"
     },
     {
+      "igdb_id": 227133,
+      "game_name": "Train Sim World 3: New Journeys - CSX SD40",
+      "file": "missing/T/227133-train-sim-world-3-new-journeys-csx-sd40.json"
+    },
+    {
       "igdb_id": 227192,
       "game_name": "Train Sim World 3: New Journeys - S-Bahn Köln BR 423",
       "file": "missing/T/227192-train-sim-world-3-new-journeys-s-bahn-koln-br-423.json"
@@ -1081762,6 +1081962,11 @@
       "file": "missing/T/290805-train-simulator-classic-db-fas-126.json"
     },
     {
+      "igdb_id": 227143,
+      "game_name": "Train Simulator Classic: Drautalbahn - Klagenfurt: Spittal Millstättersee Route",
+      "file": "missing/T/227143-train-simulator-classic-drautalbahn-klagenfurt-spittal-millstattersee-route.json"
+    },
+    {
       "igdb_id": 236543,
       "game_name": "Train Simulator Classic: E60 Electric Locomotive",
       "file": "missing/T/236543-train-simulator-classic-e60-electric-locomotive.json"
@@ -1082080,6 +1082285,11 @@
       "igdb_id": 156338,
       "game_name": "Train Simulator: Fife Circle Line: Edinburgh - Dunfermline Route Add-On",
       "file": "missing/T/156338-train-simulator-fife-circle-line-edinburgh-dunfermline-route-add-on.json"
+    },
+    {
+      "igdb_id": 227134,
+      "game_name": "Train Simulator: Flying Scotsman Centenary Steam Loco",
+      "file": "missing/T/227134-train-simulator-flying-scotsman-centenary-steam-loco.json"
     },
     {
       "igdb_id": 156355,
@@ -1082620,6 +1082830,11 @@
       "igdb_id": 252620,
       "game_name": "Train Valley 2: The Pandeia Project",
       "file": "missing/T/252620-train-valley-2-the-pandeia-project.json"
+    },
+    {
+      "igdb_id": 227119,
+      "game_name": "Train Valley 2: Workshop Gems - Emerald",
+      "file": "missing/T/227119-train-valley-2-workshop-gems-emerald.json"
     },
     {
       "igdb_id": 219540,
@@ -1083932,6 +1084147,11 @@
       "file": "missing/T/204313-trainz-plus-us-atc-class-s-160-steam.json"
     },
     {
+      "igdb_id": 227132,
+      "game_name": "Trainz Plus: USA Route - Far Northern Mountains",
+      "file": "missing/T/227132-trainz-plus-usa-route-far-northern-mountains.json"
+    },
+    {
       "igdb_id": 204312,
       "game_name": "Trainz Plus: Utah Belt AC4400CW 4400-4450",
       "file": "missing/T/204312-trainz-plus-utah-belt-ac4400cw-4400-4450.json"
@@ -1084747,6 +1084967,16 @@
       "file": "missing/T/153278-trainz-railroad-simulator-2019-us-atc-class-s-160-steam.json"
     },
     {
+      "igdb_id": 227136,
+      "game_name": "Trainz Railroad Simulator 2019: USA Route - Far Northern Mountains",
+      "file": "missing/T/227136-trainz-railroad-simulator-2019-usa-route-far-northern-mountains.json"
+    },
+    {
+      "igdb_id": 227138,
+      "game_name": "Trainz Railroad Simulator 2019: USA Route - Forest Industry",
+      "file": "missing/T/227138-trainz-railroad-simulator-2019-usa-route-forest-industry.json"
+    },
+    {
       "igdb_id": 153196,
       "game_name": "Trainz Railroad Simulator 2019: Utah Belt AC4400CW 4400-4450",
       "file": "missing/T/153196-trainz-railroad-simulator-2019-utah-belt-ac4400cw-4400-4450.json"
@@ -1085230,6 +1085460,11 @@
       "igdb_id": 205335,
       "game_name": "Trainz Railroad Simulator 2022: US ATC Class S 160 Steam",
       "file": "missing/T/205335-trainz-railroad-simulator-2022-us-atc-class-s-160-steam.json"
+    },
+    {
+      "igdb_id": 227131,
+      "game_name": "Trainz Railroad Simulator 2022: USA Route - Forest Industry",
+      "file": "missing/T/227131-trainz-railroad-simulator-2022-usa-route-forest-industry.json"
     },
     {
       "igdb_id": 205330,
@@ -1094475,6 +1094710,11 @@
       "igdb_id": 163041,
       "game_name": "TS Marketplace: Union Pacific Scenario Pack 02 Add-On",
       "file": "missing/T/163041-ts-marketplace-union-pacific-scenario-pack-02-add-on.json"
+    },
+    {
+      "igdb_id": 227141,
+      "game_name": "TS Marketplace: Western Maryland Scenario Pack 01",
+      "file": "missing/T/227141-ts-marketplace-western-maryland-scenario-pack-01.json"
     },
     {
       "igdb_id": 130745,
@@ -1104265,6 +1104505,11 @@
       "igdb_id": 121539,
       "game_name": "UltraGoodness 2",
       "file": "missing/U/121539-ultragoodness-2.json"
+    },
+    {
+      "igdb_id": 227118,
+      "game_name": "UltraGoodness Franchise Bundle",
+      "file": "missing/U/227118-ultragoodness-franchise-bundle.json"
     },
     {
       "igdb_id": 138728,
@@ -1149590,6 +1149835,11 @@
       "igdb_id": 144068,
       "game_name": "Wife Quest",
       "file": "missing/W/144068-wife-quest.json"
+    },
+    {
+      "igdb_id": 227117,
+      "game_name": "Wife Quest: Deluxe Edition",
+      "file": "missing/W/227117-wife-quest-deluxe-edition.json"
     },
     {
       "igdb_id": 205258,
