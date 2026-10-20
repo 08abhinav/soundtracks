@@ -4550,6 +4550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No, Human | 93503 | [93503-no-human.json](./93503-no-human.json) |
 | No, I'm not a Voenkom | 377757 | [377757-no-im-not-a-voenkom.json](./377757-no-im-not-a-voenkom.json) |
 | No, Thank You!!! | 60564 | [60564-no-thank-you.json](./60564-no-thank-you.json) |
+| NO: Never Outside | 232819 | [232819-no-never-outside.json](./232819-no-never-outside.json) |
 | No: Worse | 215625 | [215625-no-worse.json](./215625-no-worse.json) |
 | No. 10: Full Confidence | 414178 | [414178-no-10-full-confidence.json](./414178-no-10-full-confidence.json) |
 | No.13 Shelter | 231853 | [231853-no-13-shelter.json](./231853-no-13-shelter.json) |
@@ -5527,6 +5528,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nu pogodi! Vypusk 3: Pesnya dlya zajca | 232658 | [232658-nu-pogodi-vypusk-3-pesnya-dlya-zajca.json](./232658-nu-pogodi-vypusk-3-pesnya-dlya-zajca.json) |
 | Nu, pogodi! | 245427 | [245427-nu-pogodi.json](./245427-nu-pogodi.json) |
 | Nu, pogodi! | 416707 | [416707-nu-pogodi.json](./416707-nu-pogodi.json) |
+| Nu, pogodi! Vypusk 1: Pogonya | 232860 | [232860-nu-pogodi-vypusk-1-pogonya.json](./232860-nu-pogodi-vypusk-1-pogonya.json) |
+| Nu, pogodi! Vypusk 2: Kruglyj schet | 232861 | [232861-nu-pogodi-vypusk-2-kruglyj-schet.json](./232861-nu-pogodi-vypusk-2-kruglyj-schet.json) |
+| Nu, pogodi! Vypusk 4: Dogonyalki | 232862 | [232862-nu-pogodi-vypusk-4-dogonyalki.json](./232862-nu-pogodi-vypusk-4-dogonyalki.json) |
+| Nu, pogodi! Vypusk 5: Po sledam zajca | 232863 | [232863-nu-pogodi-vypusk-5-po-sledam-zajca.json](./232863-nu-pogodi-vypusk-5-po-sledam-zajca.json) |
 | Nu: Carnival | 194286 | [194286-nu-carnival.json](./194286-nu-carnival.json) |
 | Nu: Carnival Bliss | 305559 | [305559-nu-carnival-bliss.json](./305559-nu-carnival-bliss.json) |
 | Nu: Ron | 400079 | [400079-nu-ron.json](./400079-nu-ron.json) |
