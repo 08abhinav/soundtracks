@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T10:18:56.312Z",
-  "total_missing": 237293,
+  "generated_at": "2026-10-20T10:33:50.591Z",
+  "total_missing": 237343,
   "games": [
     {
       "igdb_id": 191680,
@@ -86212,6 +86212,11 @@
       "file": "missing/B/231388-ball.json"
     },
     {
+      "igdb_id": 231735,
+      "game_name": "Ball",
+      "file": "missing/B/231735-ball.json"
+    },
+    {
       "igdb_id": 356422,
       "game_name": "Ball",
       "file": "missing/B/356422-ball.json"
@@ -106780,6 +106785,11 @@
       "igdb_id": 121030,
       "game_name": "Bevel's Painting",
       "file": "missing/B/121030-bevels-painting.json"
+    },
+    {
+      "igdb_id": 231736,
+      "game_name": "Beventlaed",
+      "file": "missing/B/231736-beventlaed.json"
     },
     {
       "igdb_id": 245718,
@@ -134065,6 +134075,11 @@
       "igdb_id": 230841,
       "game_name": "Boxing",
       "file": "missing/B/230841-boxing.json"
+    },
+    {
+      "igdb_id": 231744,
+      "game_name": "Boxing",
+      "file": "missing/B/231744-boxing.json"
     },
     {
       "igdb_id": 55103,
@@ -173805,6 +173820,16 @@
       "igdb_id": 128575,
       "game_name": "Chef",
       "file": "missing/C/128575-chef.json"
+    },
+    {
+      "igdb_id": 231729,
+      "game_name": "Chef",
+      "file": "missing/C/231729-chef.json"
+    },
+    {
+      "igdb_id": 231730,
+      "game_name": "Chef",
+      "file": "missing/C/231730-chef.json"
     },
     {
       "igdb_id": 247482,
@@ -274397,6 +274422,16 @@
       "file": "missing/D/228945-donkey-kong.json"
     },
     {
+      "igdb_id": 231733,
+      "game_name": "Donkey Kong",
+      "file": "missing/D/231733-donkey-kong.json"
+    },
+    {
+      "igdb_id": 231734,
+      "game_name": "Donkey Kong",
+      "file": "missing/D/231734-donkey-kong.json"
+    },
+    {
       "igdb_id": 257637,
       "game_name": "Donkey Kong",
       "file": "missing/D/257637-donkey-kong.json"
@@ -274445,6 +274480,11 @@
       "igdb_id": 178167,
       "game_name": "Donkey Kong 3",
       "file": "missing/D/178167-donkey-kong-3.json"
+    },
+    {
+      "igdb_id": 231747,
+      "game_name": "Donkey Kong 3",
+      "file": "missing/D/231747-donkey-kong-3.json"
     },
     {
       "igdb_id": 323885,
@@ -274685,6 +274725,16 @@
       "igdb_id": 200535,
       "game_name": "Donkey Kong Jr.",
       "file": "missing/D/200535-donkey-kong-jr.json"
+    },
+    {
+      "igdb_id": 231742,
+      "game_name": "Donkey Kong Jr.",
+      "file": "missing/D/231742-donkey-kong-jr.json"
+    },
+    {
+      "igdb_id": 231743,
+      "game_name": "Donkey Kong Jr.",
+      "file": "missing/D/231743-donkey-kong-jr.json"
     },
     {
       "igdb_id": 257639,
@@ -299307,6 +299357,11 @@
       "file": "missing/D/27387-dystoria.json"
     },
     {
+      "igdb_id": 231748,
+      "game_name": "Dyztopia: Post-Human RPG",
+      "file": "missing/D/231748-dyztopia-post-human-rpg.json"
+    },
+    {
       "igdb_id": 320412,
       "game_name": "DZ & Riggy Vs. the Fantasy World",
       "file": "missing/D/320412-dz-and-riggy-vs-the-fantasy-world.json"
@@ -304725,6 +304780,11 @@
       "igdb_id": 108799,
       "game_name": "Egg",
       "file": "missing/E/108799-egg.json"
+    },
+    {
+      "igdb_id": 231737,
+      "game_name": "Egg",
+      "file": "missing/E/231737-egg.json"
     },
     {
       "igdb_id": 285669,
@@ -313507,6 +313567,11 @@
       "file": "missing/E/28083-endless-space-emperor-edition.json"
     },
     {
+      "igdb_id": 231750,
+      "game_name": "Endless Stars",
+      "file": "missing/E/231750-endless-stars.json"
+    },
+    {
       "igdb_id": 255700,
       "game_name": "Endless Suburbia",
       "file": "missing/E/255700-endless-suburbia.json"
@@ -316125,6 +316190,11 @@
       "igdb_id": 34695,
       "game_name": "Epic Quest of the 4 Crystals",
       "file": "missing/E/34695-epic-quest-of-the-4-crystals.json"
+    },
+    {
+      "igdb_id": 231751,
+      "game_name": "Epic Race: The Stadium",
+      "file": "missing/E/231751-epic-race-the-stadium.json"
     },
     {
       "igdb_id": 198460,
@@ -331595,6 +331665,11 @@
       "igdb_id": 59926,
       "game_name": "F22 Air Dominance Fighter: Red Sea Operations",
       "file": "missing/F/59926-f22-air-dominance-fighter-red-sea-operations.json"
+    },
+    {
+      "igdb_id": 231752,
+      "game_name": "F2oggy",
+      "file": "missing/F/231752-f2oggy.json"
     },
     {
       "igdb_id": 47217,
@@ -352267,6 +352342,16 @@
       "file": "missing/F/152137-fire.json"
     },
     {
+      "igdb_id": 231720,
+      "game_name": "Fire",
+      "file": "missing/F/231720-fire.json"
+    },
+    {
+      "igdb_id": 231721,
+      "game_name": "Fire",
+      "file": "missing/F/231721-fire.json"
+    },
+    {
       "igdb_id": 371569,
       "game_name": "Fire",
       "file": "missing/F/371569-fire.json"
@@ -352370,6 +352455,11 @@
       "igdb_id": 93077,
       "game_name": "Fire Ant",
       "file": "missing/F/93077-fire-ant.json"
+    },
+    {
+      "igdb_id": 231749,
+      "game_name": "Fire Attack",
+      "file": "missing/F/231749-fire-attack.json"
     },
     {
       "igdb_id": 161775,
@@ -375437,6 +375527,11 @@
       "file": "missing/F/217243-friend-on-the-go.json"
     },
     {
+      "igdb_id": 231728,
+      "game_name": "Friend or Foe",
+      "file": "missing/F/231728-friend-or-foe.json"
+    },
+    {
       "igdb_id": 270043,
       "game_name": "Friend Ship",
       "file": "missing/F/270043-friend-ship.json"
@@ -387825,6 +387920,11 @@
       "igdb_id": 339262,
       "game_name": "Game & Watch Mario's Cement Factory",
       "file": "missing/G/339262-game-and-watch-marios-cement-factory.json"
+    },
+    {
+      "igdb_id": 231716,
+      "game_name": "Game & Watch-e Collection",
+      "file": "missing/G/231716-game-and-watch-e-collection.json"
     },
     {
       "igdb_id": 232892,
@@ -416767,6 +416867,11 @@
       "file": "missing/G/336339-greenhill-again.json"
     },
     {
+      "igdb_id": 231738,
+      "game_name": "Greenhouse",
+      "file": "missing/G/231738-greenhouse.json"
+    },
+    {
       "igdb_id": 295073,
       "game_name": "Greenhouse",
       "file": "missing/G/295073-greenhouse.json"
@@ -443567,6 +443672,11 @@
       "file": "missing/H/126497-helm-realm.json"
     },
     {
+      "igdb_id": 231727,
+      "game_name": "Helmet",
+      "file": "missing/H/231727-helmet.json"
+    },
+    {
       "igdb_id": 391662,
       "game_name": "Helmet Head",
       "file": "missing/H/391662-helmet-head.json"
@@ -453447,6 +453557,11 @@
       "file": "missing/H/237811-hidden-post-apocalyptic-2-top-down-3d.json"
     },
     {
+      "igdb_id": 231718,
+      "game_name": "Hidden Post-Apocalyptic 4 Top-Down 3D",
+      "file": "missing/H/231718-hidden-post-apocalyptic-4-top-down-3d.json"
+    },
+    {
       "igdb_id": 112714,
       "game_name": "Hidden Protector",
       "file": "missing/H/112714-hidden-protector.json"
@@ -462340,6 +462455,11 @@
       "igdb_id": 394478,
       "game_name": "Hoodbound",
       "file": "missing/H/394478-hoodbound.json"
+    },
+    {
+      "igdb_id": 231755,
+      "game_name": "Hooded Horse 4X Strategy Bundle",
+      "file": "missing/H/231755-hooded-horse-4x-strategy-bundle.json"
     },
     {
       "igdb_id": 298115,
@@ -476550,6 +476670,11 @@
       "igdb_id": 329182,
       "game_name": "I Wanna Lap Around",
       "file": "missing/I/329182-i-wanna-lap-around.json"
+    },
+    {
+      "igdb_id": 231726,
+      "game_name": "I Wanna Lockpick",
+      "file": "missing/I/231726-i-wanna-lockpick.json"
     },
     {
       "igdb_id": 349291,
@@ -493220,6 +493345,11 @@
       "igdb_id": 410715,
       "game_name": "Internet Cafe Tycoon",
       "file": "missing/I/410715-internet-cafe-tycoon.json"
+    },
+    {
+      "igdb_id": 231753,
+      "game_name": "Internet City",
+      "file": "missing/I/231753-internet-city.json"
     },
     {
       "igdb_id": 342410,
@@ -573387,6 +573517,11 @@
       "file": "missing/L/169262-love-truth-puzzle.json"
     },
     {
+      "igdb_id": 231759,
+      "game_name": "Love's Crescendo",
+      "file": "missing/L/231759-loves-crescendo.json"
+    },
+    {
       "igdb_id": 298898,
       "game_name": "Love's Eternal Wishes",
       "file": "missing/L/298898-loves-eternal-wishes.json"
@@ -589517,6 +589652,11 @@
       "file": "missing/M/100229-manhole.json"
     },
     {
+      "igdb_id": 231719,
+      "game_name": "Manhole",
+      "file": "missing/M/231719-manhole.json"
+    },
+    {
       "igdb_id": 92847,
       "game_name": "Manhole-e: Classic Version",
       "file": "missing/M/92847-manhole-e-classic-version.json"
@@ -592152,6 +592292,16 @@
       "file": "missing/M/193281-mario-bros.json"
     },
     {
+      "igdb_id": 231740,
+      "game_name": "Mario Bros.",
+      "file": "missing/M/231740-mario-bros.json"
+    },
+    {
+      "igdb_id": 231741,
+      "game_name": "Mario Bros.",
+      "file": "missing/M/231741-mario-bros.json"
+    },
+    {
       "igdb_id": 257638,
       "game_name": "Mario Bros.",
       "file": "missing/M/257638-mario-bros.json"
@@ -593720,6 +593870,11 @@
       "igdb_id": 307903,
       "game_name": "Mario's Carnival Quest",
       "file": "missing/M/307903-marios-carnival-quest.json"
+    },
+    {
+      "igdb_id": 231746,
+      "game_name": "Mario's Cement Factory",
+      "file": "missing/M/231746-marios-cement-factory.json"
     },
     {
       "igdb_id": 67940,
@@ -692842,6 +692997,16 @@
       "file": "missing/O/306050-octopo.json"
     },
     {
+      "igdb_id": 231722,
+      "game_name": "Octopus",
+      "file": "missing/O/231722-octopus.json"
+    },
+    {
+      "igdb_id": 231723,
+      "game_name": "Octopus",
+      "file": "missing/O/231723-octopus.json"
+    },
+    {
       "igdb_id": 287659,
       "game_name": "Octopus",
       "file": "missing/O/287659-octopus.json"
@@ -695572,6 +695737,11 @@
       "file": "missing/O/228397-oil-panic.json"
     },
     {
+      "igdb_id": 231724,
+      "game_name": "Oil Panic",
+      "file": "missing/O/231724-oil-panic.json"
+    },
+    {
       "igdb_id": 110366,
       "game_name": "Oil Patch Simulations",
       "file": "missing/O/110366-oil-patch-simulations.json"
@@ -696320,6 +696490,11 @@
       "igdb_id": 127008,
       "game_name": "Old Town Stories",
       "file": "missing/O/127008-old-town-stories.json"
+    },
+    {
+      "igdb_id": 231769,
+      "game_name": "Old Tunnel",
+      "file": "missing/O/231769-old-tunnel.json"
     },
     {
       "igdb_id": 10638,
@@ -720235,6 +720410,11 @@
       "igdb_id": 112517,
       "game_name": "Paracelsus no Maken",
       "file": "missing/P/112517-paracelsus-no-maken.json"
+    },
+    {
+      "igdb_id": 231725,
+      "game_name": "Parachute",
+      "file": "missing/P/231725-parachute.json"
     },
     {
       "igdb_id": 40678,
@@ -793557,6 +793737,11 @@
       "file": "missing/R/207358-rain-ruin.json"
     },
     {
+      "igdb_id": 231745,
+      "game_name": "Rain Shower",
+      "file": "missing/R/231745-rain-shower.json"
+    },
+    {
       "igdb_id": 410414,
       "game_name": "Rain Station Z",
       "file": "missing/R/410414-rain-station-z.json"
@@ -817780,6 +817965,11 @@
       "igdb_id": 198510,
       "game_name": "Ripple",
       "file": "missing/R/198510-ripple.json"
+    },
+    {
+      "igdb_id": 231714,
+      "game_name": "Ripple Dot Zero",
+      "file": "missing/R/231714-ripple-dot-zero.json"
     },
     {
       "igdb_id": 36961,
@@ -844802,6 +844992,11 @@
       "file": "missing/S/273431-santa-world.json"
     },
     {
+      "igdb_id": 231762,
+      "game_name": "Santa-kun",
+      "file": "missing/S/231762-santa-kun.json"
+    },
+    {
       "igdb_id": 329430,
       "game_name": "Santa's Adventure: Christmas Gifts Rush",
       "file": "missing/S/329430-santas-adventure-christmas-gifts-rush.json"
@@ -858750,6 +858945,11 @@
       "igdb_id": 153840,
       "game_name": "Sentinel",
       "file": "missing/S/153840-sentinel.json"
+    },
+    {
+      "igdb_id": 231768,
+      "game_name": "Sentinel",
+      "file": "missing/S/231768-sentinel.json"
     },
     {
       "igdb_id": 34835,
@@ -876577,6 +876777,11 @@
       "file": "missing/S/222285-silence-coffee-shop.json"
     },
     {
+      "igdb_id": 231766,
+      "game_name": "Silence Falls",
+      "file": "missing/S/231766-silence-falls.json"
+    },
+    {
       "igdb_id": 346455,
       "game_name": "Silence Forest",
       "file": "missing/S/346455-silence-forest.json"
@@ -889190,6 +889395,11 @@
       "igdb_id": 278885,
       "game_name": "Slippery Delivery",
       "file": "missing/S/278885-slippery-delivery.json"
+    },
+    {
+      "igdb_id": 231760,
+      "game_name": "Slippery Flippers: Episode One - Amulet of the Gods",
+      "file": "missing/S/231760-slippery-flippers-episode-one-amulet-of-the-gods.json"
     },
     {
       "igdb_id": 280110,
@@ -936647,6 +936857,16 @@
       "file": "missing/S/111150-stellaris-console-edition.json"
     },
     {
+      "igdb_id": 231763,
+      "game_name": "Stellaris: Console Edition - Federations",
+      "file": "missing/S/231763-stellaris-console-edition-federations.json"
+    },
+    {
+      "igdb_id": 231765,
+      "game_name": "Stellaris: Console Edition - Nemesis",
+      "file": "missing/S/231765-stellaris-console-edition-nemesis.json"
+    },
+    {
       "igdb_id": 331839,
       "game_name": "Stellaris: Console Edition - Starter Edition",
       "file": "missing/S/331839-stellaris-console-edition-starter-edition.json"
@@ -944240,6 +944460,11 @@
       "igdb_id": 180554,
       "game_name": "String 'Em Up",
       "file": "missing/S/180554-string-em-up.json"
+    },
+    {
+      "igdb_id": 231754,
+      "game_name": "String Along",
+      "file": "missing/S/231754-string-along.json"
     },
     {
       "igdb_id": 403644,
@@ -1045612,6 +1045837,11 @@
       "file": "missing/T/224510-the-worlds-hardest-game-2.json"
     },
     {
+      "igdb_id": 231713,
+      "game_name": "The World's Hardest Game 3",
+      "file": "missing/T/231713-the-worlds-hardest-game-3.json"
+    },
+    {
       "igdb_id": 169757,
       "game_name": "The World's Hardest Game 3D",
       "file": "missing/T/169757-the-worlds-hardest-game-3d.json"
@@ -1095422,6 +1095652,11 @@
       "file": "missing/T/228394-turtle-bridge.json"
     },
     {
+      "igdb_id": 231739,
+      "game_name": "Turtle Bridge",
+      "file": "missing/T/231739-turtle-bridge.json"
+    },
+    {
       "igdb_id": 363304,
       "game_name": "Turtle Bridge",
       "file": "missing/T/363304-turtle-bridge.json"
@@ -1118540,6 +1118775,11 @@
       "igdb_id": 120670,
       "game_name": "Vermillion Watch: Parisian Pursuit - Collector's Edition",
       "file": "missing/V/120670-vermillion-watch-parisian-pursuit-collectors-edition.json"
+    },
+    {
+      "igdb_id": 231732,
+      "game_name": "Vermin",
+      "file": "missing/V/231732-vermin.json"
     },
     {
       "igdb_id": 232696,
@@ -1142947,6 +1143187,11 @@
       "file": "missing/W/244096-what-is-sleeping-in-my-room.json"
     },
     {
+      "igdb_id": 231715,
+      "game_name": "What is Snowman Made of?",
+      "file": "missing/W/231715-what-is-snowman-made-of.json"
+    },
+    {
       "igdb_id": 343233,
       "game_name": "What is That Outside",
       "file": "missing/W/343233-what-is-that-outside.json"
@@ -1163875,6 +1164120,11 @@
       "igdb_id": 293720,
       "game_name": "WWE 2K22: Season Pass",
       "file": "missing/W/293720-wwe-2k22-season-pass.json"
+    },
+    {
+      "igdb_id": 231764,
+      "game_name": "WWE 2K22: Stand Back Pack",
+      "file": "missing/W/231764-wwe-2k22-stand-back-pack.json"
     },
     {
       "igdb_id": 230988,
