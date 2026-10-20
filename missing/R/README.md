@@ -5542,6 +5542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riftborne | 398474 | [398474-riftborne.json](./398474-riftborne.json) |
 | Riftcast | 311635 | [311635-riftcast.json](./311635-riftcast.json) |
 | Rifted Worlds | 280439 | [280439-rifted-worlds.json](./280439-rifted-worlds.json) |
+| Rifter | 255498 | [255498-rifter.json](./255498-rifter.json) |
 | Riftfall | 411762 | [411762-riftfall.json](./411762-riftfall.json) |
 | Riftnote | 158920 | [158920-riftnote.json](./158920-riftnote.json) |
 | Riftopia | 346234 | [346234-riftopia.json](./346234-riftopia.json) |
@@ -8357,6 +8358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotschwert | 333660 | [333660-rotschwert.json](./333660-rotschwert.json) |
 | Rotten Apple | 238539 | [238539-rotten-apple.json](./238539-rotten-apple.json) |
 | Rotten Apple: New York Fallen | 211639 | [211639-rotten-apple-new-york-fallen.json](./211639-rotten-apple-new-york-fallen.json) |
+| Rotten Apples | 255543 | [255543-rotten-apples.json](./255543-rotten-apples.json) |
 | Rotten Chamber | 399886 | [399886-rotten-chamber.json](./399886-rotten-chamber.json) |
 | Rotten Crop | 357749 | [357749-rotten-crop.json](./357749-rotten-crop.json) |
 | Rotten Escape | 101542 | [101542-rotten-escape.json](./101542-rotten-escape.json) |
