@@ -2092,6 +2092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Tractor Simulator 2021: Farmer Life | 174084 | [174084-farming-tractor-simulator-2021-farmer-life.json](./174084-farming-tractor-simulator-2021-farmer-life.json) |
 | Farming Tractor Simulator 2023: Drive Combine & Trucks | 263497 | [263497-farming-tractor-simulator-2023-drive-combine-and-trucks.json](./263497-farming-tractor-simulator-2023-drive-combine-and-trucks.json) |
 | Farming Tractor Simulator 2024: Drive Combine & Trucks - Premium Edition | 309044 | [309044-farming-tractor-simulator-2024-drive-combine-and-trucks-premium-edition.json](./309044-farming-tractor-simulator-2024-drive-combine-and-trucks-premium-edition.json) |
+| Farming Tractor Simulator: Big Farm | 238346 | [238346-farming-tractor-simulator-big-farm.json](./238346-farming-tractor-simulator-big-farm.json) |
 | Farming Village | 121491 | [121491-farming-village.json](./121491-farming-village.json) |
 | Farming World: Jam Factory | 238724 | [238724-farming-world-jam-factory.json](./238724-farming-world-jam-factory.json) |
 | Farming-Simulator 2008 | 3168 | [3168-farming-simulator-2008.json](./3168-farming-simulator-2008.json) |
@@ -2338,6 +2339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Frame II: Crimson Butterfly Remake - Digital Deluxe Bonus Set | 387682 | [387682-fatal-frame-ii-crimson-butterfly-remake-digital-deluxe-bonus-set.json](./387682-fatal-frame-ii-crimson-butterfly-remake-digital-deluxe-bonus-set.json) |
 | Fatal Frame II: Crimson Butterfly Remake - Digital Deluxe Edition | 387683 | [387683-fatal-frame-ii-crimson-butterfly-remake-digital-deluxe-edition.json](./387683-fatal-frame-ii-crimson-butterfly-remake-digital-deluxe-edition.json) |
 | Fatal Frame II: Crimson Butterfly Remake - Early Purchase Bonus Set | 387684 | [387684-fatal-frame-ii-crimson-butterfly-remake-early-purchase-bonus-set.json](./387684-fatal-frame-ii-crimson-butterfly-remake-early-purchase-bonus-set.json) |
+| Fatal Frame: Maiden of Black Water - 20th Anniversary Celebration DLC | 238335 | [238335-fatal-frame-maiden-of-black-water-20th-anniversary-celebration-dlc.json](./238335-fatal-frame-maiden-of-black-water-20th-anniversary-celebration-dlc.json) |
 | Fatal Frame: Maiden of Black Water - Digital Deluxe Edition | 188050 | [188050-fatal-frame-maiden-of-black-water-digital-deluxe-edition.json](./188050-fatal-frame-maiden-of-black-water-digital-deluxe-edition.json) |
 | Fatal Frontier 1869 | 396362 | [396362-fatal-frontier-1869.json](./396362-fatal-frontier-1869.json) |
 | Fatal Fumes | 72273 | [72273-fatal-fumes.json](./72273-fatal-fumes.json) |
@@ -3486,6 +3488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting EX Layer | 41828 | [41828-fighting-ex-layer.json](./41828-fighting-ex-layer.json) |
 | Fighting Ex Layer -a | 125333 | [125333-fighting-ex-layer-a.json](./125333-fighting-ex-layer-a.json) |
 | Fighting Ex Layer Another Dash | 148285 | [148285-fighting-ex-layer-another-dash.json](./148285-fighting-ex-layer-another-dash.json) |
+| Fighting Ex Layer Another Dash: Full Package | 238326 | [238326-fighting-ex-layer-another-dash-full-package.json](./238326-fighting-ex-layer-another-dash-full-package.json) |
 | Fighting EX Layer: Character - Terry | 224472 | [224472-fighting-ex-layer-character-terry.json](./224472-fighting-ex-layer-character-terry.json) |
 | Fighting Eyes | 45307 | [45307-fighting-eyes.json](./45307-fighting-eyes.json) |
 | Fighting Fantasy Classics | 102159 | [102159-fighting-fantasy-classics.json](./102159-fighting-fantasy-classics.json) |
@@ -4373,6 +4376,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem Heroes | 26841 | [26841-fire-emblem-heroes.json](./26841-fire-emblem-heroes.json) |
 | Fire Emblem Warriors | 26769 | [26769-fire-emblem-warriors.json](./26769-fire-emblem-warriors.json) |
 | Fire Emblem Warriors + Season Pass Bundle | 294234 | [294234-fire-emblem-warriors-season-pass-bundle.json](./294234-fire-emblem-warriors-season-pass-bundle.json) |
+| Fire Emblem Warriors: Fire Emblem - Shadow Dragon DLC Pack | 238323 | [238323-fire-emblem-warriors-fire-emblem-shadow-dragon-dlc-pack.json](./238323-fire-emblem-warriors-fire-emblem-shadow-dragon-dlc-pack.json) |
+| Fire Emblem Warriors: Fire Emblem Awakening DLC Pack | 238325 | [238325-fire-emblem-warriors-fire-emblem-awakening-dlc-pack.json](./238325-fire-emblem-warriors-fire-emblem-awakening-dlc-pack.json) |
+| Fire Emblem Warriors: Fire Emblem Fates DLC Pack | 238324 | [238324-fire-emblem-warriors-fire-emblem-fates-dlc-pack.json](./238324-fire-emblem-warriors-fire-emblem-fates-dlc-pack.json) |
 | Fire Emblem Warriors: Limited Edition | 136159 | [136159-fire-emblem-warriors-limited-edition.json](./136159-fire-emblem-warriors-limited-edition.json) |
 | Fire Emblem Warriors: Season Pass | 294235 | [294235-fire-emblem-warriors-season-pass.json](./294235-fire-emblem-warriors-season-pass.json) |
 | Fire Emblem Warriors: Three Hopes | 191396 | [191396-fire-emblem-warriors-three-hopes.json](./191396-fire-emblem-warriors-three-hopes.json) |
@@ -6642,6 +6648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foldy Bird | 393408 | [393408-foldy-bird.json](./393408-foldy-bird.json) |
 | Foldy's OS Quest | 335865 | [335865-foldys-os-quest.json](./335865-foldys-os-quest.json) |
 | Foley's Escape | 53037 | [53037-foleys-escape.json](./53037-foleys-escape.json) |
+| Folf | 238303 | [238303-folf.json](./238303-folf.json) |
 | Folgore | 293878 | [293878-folgore.json](./293878-folgore.json) |
 | Folia Felina | 381303 | [381303-folia-felina.json](./381303-folia-felina.json) |
 | Folia: The King's Revelry | 236750 | [236750-folia-the-kings-revelry.json](./236750-folia-the-kings-revelry.json) |
@@ -6869,6 +6876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Glory | 93488 | [93488-football-glory.json](./93488-football-glory.json) |
 | Football Granny | 107160 | [107160-football-granny.json](./107160-football-granny.json) |
 | Football Hero | 262060 | [262060-football-hero.json](./262060-football-hero.json) |
+| Football Heroes 2015 | 238305 | [238305-football-heroes-2015.json](./238305-football-heroes-2015.json) |
 | Football Heroes League | 342492 | [342492-football-heroes-league.json](./342492-football-heroes-league.json) |
 | Football Heroes Pro 2016 | 59730 | [59730-football-heroes-pro-2016.json](./59730-football-heroes-pro-2016.json) |
 | Football International | 49079 | [49079-football-international.json](./49079-football-international.json) |
