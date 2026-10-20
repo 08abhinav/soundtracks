@@ -502,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint Dragon | 12207 | [12207-saint-dragon.json](./12207-saint-dragon.json) |
 | Saint Emiliana | 132743 | [132743-saint-emiliana.json](./132743-saint-emiliana.json) |
 | Saint Estella Gakuin no Shichi-nin no Majo | 77937 | [77937-saint-estella-gakuin-no-shichi-nin-no-majo.json](./77937-saint-estella-gakuin-no-shichi-nin-no-majo.json) |
+| Saint Eyes | 241235 | [241235-saint-eyes.json](./241235-saint-eyes.json) |
 | Saint George's Tavern | 388731 | [388731-saint-georges-tavern.json](./388731-saint-georges-tavern.json) |
 | Saint Goddess | 368660 | [368660-saint-goddess.json](./368660-saint-goddess.json) |
 | Saint Hell | 249329 | [249329-saint-hell.json](./249329-saint-hell.json) |
@@ -7068,6 +7069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shovel Knight: Treasure Trove | 26848 | [26848-shovel-knight-treasure-trove.json](./26848-shovel-knight-treasure-trove.json) |
 | Shovelboy | 246789 | [246789-shovelboy.json](./246789-shovelboy.json) |
 | Shovelboy: Zone X | 290114 | [290114-shovelboy-zone-x.json](./290114-shovelboy-zone-x.json) |
+| ShovelFall | 241784 | [241784-shovelfall.json](./241784-shovelfall.json) |
 | Shovelware | 346231 | [346231-shovelware.json](./346231-shovelware.json) |
 | Shovelware Adventure! | 262303 | [262303-shovelware-adventure.json](./262303-shovelware-adventure.json) |
 | Show Ball: Tiger Life | 226142 | [226142-show-ball-tiger-life.json](./226142-show-ball-tiger-life.json) |
@@ -9273,6 +9275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Ball Racing | 188387 | [188387-sky-ball-racing.json](./188387-sky-ball-racing.json) |
 | Sky Baron: War of Planes | 101531 | [101531-sky-baron-war-of-planes.json](./101531-sky-baron-war-of-planes.json) |
 | Sky Battles | 35834 | [35834-sky-battles.json](./35834-sky-battles.json) |
+| Sky Bouncer | 241202 | [241202-sky-bouncer.json](./241202-sky-bouncer.json) |
 | Sky Bound Hero | 311857 | [311857-sky-bound-hero.json](./311857-sky-bound-hero.json) |
 | Sky Brawl | 111179 | [111179-sky-brawl.json](./111179-sky-brawl.json) |
 | Sky Break | 25300 | [25300-sky-break.json](./25300-sky-break.json) |
@@ -12445,6 +12448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solve et Coagula | 280910 | [280910-solve-et-coagula.json](./280910-solve-et-coagula.json) |
 | Solve This! Emoji Puzzle | 213596 | [213596-solve-this-emoji-puzzle.json](./213596-solve-this-emoji-puzzle.json) |
 | Solver: The Bank Quest | 71450 | [71450-solver-the-bank-quest.json](./71450-solver-the-bank-quest.json) |
+| SolveWithMe | 241203 | [241203-solvewithme.json](./241203-solvewithme.json) |
 | Solvimus | 370138 | [370138-solvimus.json](./370138-solvimus.json) |
 | Solward | 335468 | [335468-solward.json](./335468-solward.json) |
 | SoM Soul of Mask | 75424 | [75424-som-soul-of-mask.json](./75424-som-soul-of-mask.json) |
@@ -14785,6 +14789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rabbits in Space | 114895 | [114895-space-rabbits-in-space.json](./114895-space-rabbits-in-space.json) |
 | Space Race | 361117 | [361117-space-race.json](./361117-space-race.json) |
 | Space Racer | 15373 | [15373-space-racer.json](./15373-space-racer.json) |
+| Space Racer X | 241201 | [241201-space-racer-x.json](./241201-space-racer-x.json) |
 | Space Raft | 142117 | [142117-space-raft.json](./142117-space-raft.json) |
 | Space Rage | 105947 | [105947-space-rage.json](./105947-space-rage.json) |
 | Space Raid | 46894 | [46894-space-raid.json](./46894-space-raid.json) |
@@ -18046,6 +18051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Ruler | 9556 | [9556-star-ruler.json](./9556-star-ruler.json) |
 | Star Ruler 2 | 19170 | [19170-star-ruler-2.json](./19170-star-ruler-2.json) |
 | Star Ruler 2: Wake of the Heralds | 19204 | [19204-star-ruler-2-wake-of-the-heralds.json](./19204-star-ruler-2-wake-of-the-heralds.json) |
+| Star Run!: Rainbow Galaxy | 241820 | [241820-star-run-rainbow-galaxy.json](./241820-star-run-rainbow-galaxy.json) |
 | Star Runner | 174275 | [174275-star-runner.json](./174275-star-runner.json) |
 | Star Rush: Stack & Jump | 329432 | [329432-star-rush-stack-and-jump.json](./329432-star-rush-stack-and-jump.json) |
 | Star Saga: One - Beyond the Boundary | 2894 | [2894-star-saga-one-beyond-the-boundary.json](./2894-star-saga-one-beyond-the-boundary.json) |
@@ -22364,6 +22370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summoned By Accident | 302181 | [302181-summoned-by-accident.json](./302181-summoned-by-accident.json) |
 | Summoneer | 285556 | [285556-summoneer.json](./285556-summoneer.json) |
 | Summoner Apprentice | 158572 | [158572-summoner-apprentice.json](./158572-summoner-apprentice.json) |
+| Summoner Fantasy | 241822 | [241822-summoner-fantasy.json](./241822-summoner-fantasy.json) |
 | Summoner of Greats | 278278 | [278278-summoner-of-greats.json](./278278-summoner-of-greats.json) |
 | Summoner Rises | 308904 | [308904-summoner-rises.json](./308904-summoner-rises.json) |
 | Summoner Symbols | 316802 | [316802-summoner-symbols.json](./316802-summoner-symbols.json) |
@@ -24341,6 +24348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Shooting | 74768 | [74768-super-robot-shooting.json](./74768-super-robot-shooting.json) |
 | Super Robot Taisen | 240916 | [240916-super-robot-taisen.json](./240916-super-robot-taisen.json) |
 | Super Robot Taisen A Portable | 79841 | [79841-super-robot-taisen-a-portable.json](./79841-super-robot-taisen-a-portable.json) |
+| Super Robot Taisen Alpha for Dreamcast | 241829 | [241829-super-robot-taisen-alpha-for-dreamcast.json](./241829-super-robot-taisen-alpha-for-dreamcast.json) |
 | Super Robot Taisen Alpha Gaiden | 44850 | [44850-super-robot-taisen-alpha-gaiden.json](./44850-super-robot-taisen-alpha-gaiden.json) |
 | Super Robot Taisen Compact 3 | 37316 | [37316-super-robot-taisen-compact-3.json](./37316-super-robot-taisen-compact-3.json) |
 | Super Robot Taisen EX | 240915 | [240915-super-robot-taisen-ex.json](./240915-super-robot-taisen-ex.json) |
@@ -24866,6 +24874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Vadimka III: Enter ALJ | 202324 | [202324-super-vadimka-iii-enter-alj.json](./202324-super-vadimka-iii-enter-alj.json) |
 | Super Vadimka IV Evil Returns the Horrors of Vadimka's Adventures | 206587 | [206587-super-vadimka-iv-evil-returns-the-horrors-of-vadimkas-adventures.json](./206587-super-vadimka-iv-evil-returns-the-horrors-of-vadimkas-adventures.json) |
 | Super Vadimka VI: A Terrible Threat there is No Vadimka | 224769 | [224769-super-vadimka-vi-a-terrible-threat-there-is-no-vadimka.json](./224769-super-vadimka-vi-a-terrible-threat-there-is-no-vadimka.json) |
+| Super Vadimka X | 241221 | [241221-super-vadimka-x.json](./241221-super-vadimka-x.json) |
 | Super Valis IV | 38411 | [38411-super-valis-iv.json](./38411-super-valis-iv.json) |
 | Super Vanilla World | 223029 | [223029-super-vanilla-world.json](./223029-super-vanilla-world.json) |
 | Super Versus | 114291 | [114291-super-versus.json](./114291-super-versus.json) |
@@ -24992,6 +25001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superfly | 171966 | [171966-superfly.json](./171966-superfly.json) |
 | Superfly Santa Claus | 62212 | [62212-superfly-santa-claus.json](./62212-superfly-santa-claus.json) |
 | Superfrog HD | 8873 | [8873-superfrog-hd.json](./8873-superfrog-hd.json) |
+| Supergun | 241200 | [241200-supergun.json](./241200-supergun.json) |
 | Superguy and Megaboy | 316615 | [316615-superguy-and-megaboy.json](./316615-superguy-and-megaboy.json) |
 | SuperHero | 161259 | [161259-superhero.json](./161259-superhero.json) |
 | Superhero Bike Stunt Games 3D | 296778 | [296778-superhero-bike-stunt-games-3d.json](./296778-superhero-bike-stunt-games-3d.json) |
@@ -25714,6 +25724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Clickers | 343971 | [343971-sushi-clickers.json](./343971-sushi-clickers.json) |
 | Sushi Dojo | 359915 | [359915-sushi-dojo.json](./359915-sushi-dojo.json) |
 | Sushi Drop | 240115 | [240115-sushi-drop.json](./240115-sushi-drop.json) |
+| Sushi Factory | 241199 | [241199-sushi-factory.json](./241199-sushi-factory.json) |
 | Sushi for Robots | 177320 | [177320-sushi-for-robots.json](./177320-sushi-for-robots.json) |
 | Sushi Frenzy | 53694 | [53694-sushi-frenzy.json](./53694-sushi-frenzy.json) |
 | Sushi Fun | 219111 | [219111-sushi-fun.json](./219111-sushi-fun.json) |
