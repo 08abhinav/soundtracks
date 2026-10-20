@@ -1103,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Valkyrie | 379436 | [379436-tales-of-valkyrie.json](./379436-tales-of-valkyrie.json) |
 | Tales of Valoris: Swallow's Defenders | 330265 | [330265-tales-of-valoris-swallows-defenders.json](./330265-tales-of-valoris-swallows-defenders.json) |
 | Tales of Vengeance | 362926 | [362926-tales-of-vengeance.json](./362926-tales-of-vengeance.json) |
+| Tales of Vesperia | 221059 | [221059-tales-of-vesperia.json](./221059-tales-of-vesperia.json) |
 | Tales of Violet Valley | 379437 | [379437-tales-of-violet-valley.json](./379437-tales-of-violet-valley.json) |
 | Tales of Vogar: Lost Descendants | 236366 | [236366-tales-of-vogar-lost-descendants.json](./236366-tales-of-vogar-lost-descendants.json) |
 | Tales of War | 158636 | [158636-tales-of-war.json](./158636-tales-of-war.json) |
@@ -8648,6 +8649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Toast Tower | 328440 | [328440-the-jumping-toast-tower.json](./328440-the-jumping-toast-tower.json) |
 | The Jumping Tofu | 226087 | [226087-the-jumping-tofu.json](./226087-the-jumping-tofu.json) |
 | The Jumping Tofu: Turbo | 226088 | [226088-the-jumping-tofu-turbo.json](./226088-the-jumping-tofu-turbo.json) |
+| The Jumping Wrap | 221075 | [221075-the-jumping-wrap.json](./221075-the-jumping-wrap.json) |
 | The Jumping Wrap: Turbo | 221233 | [221233-the-jumping-wrap-turbo.json](./221233-the-jumping-wrap-turbo.json) |
 | The Jungle | 82395 | [82395-the-jungle.json](./82395-the-jungle.json) |
 | The Jungle Book | 248190 | [248190-the-jungle-book.json](./248190-the-jungle-book.json) |
@@ -20415,6 +20417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Shield | 387588 | [387588-tower-shield.json](./387588-tower-shield.json) |
 | Tower Skydiver | 226436 | [226436-tower-skydiver.json](./226436-tower-skydiver.json) |
 | Tower Song | 244612 | [244612-tower-song.json](./244612-tower-song.json) |
+| Tower Song: Eternal Knight | 221058 | [221058-tower-song-eternal-knight.json](./221058-tower-song-eternal-knight.json) |
 | Tower Stack | 258031 | [258031-tower-stack.json](./258031-tower-stack.json) |
 | Tower Stack | 265743 | [265743-tower-stack.json](./265743-tower-stack.json) |
 | Tower Stacker | 166613 | [166613-tower-stacker.json](./166613-tower-stacker.json) |
@@ -24062,6 +24065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsukuyomi: The Divine Hunter | 342812 | [342812-tsukuyomi-the-divine-hunter.json](./342812-tsukuyomi-the-divine-hunter.json) |
 | Tsuma ga Kirei ni Natta Wake | 82977 | [82977-tsuma-ga-kirei-ni-natta-wake.json](./82977-tsuma-ga-kirei-ni-natta-wake.json) |
 | Tsumamigui 2 | 59219 | [59219-tsumamigui-2.json](./59219-tsumamigui-2.json) |
+| Tsumannai | 221037 | [221037-tsumannai.json](./221037-tsumannai.json) |
 | Tsumego Pro | 402323 | [402323-tsumego-pro.json](./402323-tsumego-pro.json) |
 | Tsumera | 268456 | [268456-tsumera.json](./268456-tsumera.json) |
 | Tsumiki: The Infernal Tower | 124107 | [124107-tsumiki-the-infernal-tower.json](./124107-tsumiki-the-infernal-tower.json) |
