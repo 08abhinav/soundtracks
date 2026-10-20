@@ -2580,6 +2580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEO: Low Earth Orbit | 351582 | [351582-leo-low-earth-orbit.json](./351582-leo-low-earth-orbit.json) |
 | Leo: The Square | 303626 | [303626-leo-the-square.json](./303626-leo-the-square.json) |
 | Leo's RC Simulator | 380543 | [380543-leos-rc-simulator.json](./380543-leos-rc-simulator.json) |
+| Leo's Red Carpet Rampage | 249608 | [249608-leos-red-carpet-rampage.json](./249608-leos-red-carpet-rampage.json) |
 | Leon's Identity | 136992 | [136992-leons-identity.json](./136992-leons-identity.json) |
 | Leon&Suharto | 401867 | [401867-leon-and-suharto.json](./401867-leon-and-suharto.json) |
 | Leona's Tricky Adventures | 17518 | [17518-leonas-tricky-adventures.json](./17518-leonas-tricky-adventures.json) |
@@ -3020,6 +3021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Levedad | 176244 | [176244-levedad.json](./176244-levedad.json) |
 | Level | 326614 | [326614-level.json](./326614-level.json) |
 | Level 20 | 150739 | [150739-level-20.json](./150739-level-20.json) |
+| Level 22 | 249634 | [249634-level-22.json](./249634-level-22.json) |
 | Level 22: Gary's Misadventures | 33844 | [33844-level-22-garys-misadventures.json](./33844-level-22-garys-misadventures.json) |
 | Level 24 | 175232 | [175232-level-24.json](./175232-level-24.json) |
 | Level 5 | 94001 | [94001-level-5.json](./94001-level-5.json) |
