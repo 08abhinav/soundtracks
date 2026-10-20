@@ -1100,6 +1100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your little story: Valentine's Day | 128353 | [128353-your-little-story-valentines-day.json](./128353-your-little-story-valentines-day.json) |
 | Your little story: Winter | 126370 | [126370-your-little-story-winter.json](./126370-your-little-story-winter.json) |
 | Your Love Ai | 372743 | [372743-your-love-ai.json](./372743-your-love-ai.json) |
+| Your Love Story | 212133 | [212133-your-love-story.json](./212133-your-love-story.json) |
 | Your Lucky Charm | 264048 | [264048-your-lucky-charm.json](./264048-your-lucky-charm.json) |
 | Your Majesty | 186280 | [186280-your-majesty.json](./186280-your-majesty.json) |
 | Your Majesty | 285350 | [285350-your-majesty.json](./285350-your-majesty.json) |
