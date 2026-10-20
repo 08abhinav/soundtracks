@@ -13167,7 +13167,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sweet Scramble | 350215 | [350215-the-sweet-scramble.json](./350215-the-sweet-scramble.json) |
 | The Sweetest Ring | 268213 | [268213-the-sweetest-ring.json](./268213-the-sweetest-ring.json) |
 | The Sweetness that Returned | 385072 | [385072-the-sweetness-that-returned.json](./385072-the-sweetness-that-returned.json) |
-| The Swindle | 18006 | [18006-the-swindle.json](./18006-the-swindle.json) |
 | The Swine | 137693 | [137693-the-swine.json](./137693-the-swine.json) |
 | The Switch-Worker | 184490 | [184490-the-switch-worker.json](./184490-the-switch-worker.json) |
 | The Swoop 64 | 145429 | [145429-the-swoop-64.json](./145429-the-swoop-64.json) |
