@@ -1285,6 +1285,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273c0b72971925f3b1f29c3c24b" width="60" /> | [Ring of Pain](https://ostdb.net/games/ring-of-pain) | **Ring of Pain (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/16xvdv1bc8ZkhGRRCOj1ZP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317d7a024d916f5cc6dbdcb31" width="60" /> | [Rise & Shine](https://ostdb.net/games/rise-and-shine) | **Rise & Shine (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1mxBwLLyqaEFMkyB3SuCer) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735468ee88d7124d46bd59b838" width="60" /> | [Rise of Industry](https://ostdb.net/games/rise-of-industry) | **Rise of Industry (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2YPm9dz3BVI9MkIslpXFYZ) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27397a6d5dc7b00110b3d8f3110" width="60" /> | [Rise of Kingdoms](https://ostdb.net/games/rise-of-kingdoms) | **Rise of Kingdoms(Anniversary Music Collection) [Original Game Soundtrack]** · [Spotify](https://open.spotify.com/album/3AbmkiY1s62Qm2bIyYCyfw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1bb0d55d140898c6337175a" width="60" /> | [Rise of the Ronin](https://ostdb.net/games/rise-of-the-ronin) | **Rise of the Ronin (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1lRnUh6zSBos3gPEFBTOBA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f309603516ae0698ebbbf244" width="60" /> | [Rise of the Tomb Raider](https://ostdb.net/games/rise-of-the-tomb-raider) | **Rise of the Tomb Raider (Official Soundtrack)** · [Spotify](https://open.spotify.com/album/5wRvkOWkIYe7YhyAvUABN9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27352a58c8265ea745258603873" width="60" /> | [Rise of the Triad](https://ostdb.net/games/rise-of-the-triad) | **Rise of the Triad (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1d406pelhH3cxxeT2Zi6GU) |
@@ -1898,4 +1899,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2215 soundtracks · last updated 2026-10-20T10:51:29.646Z_
+_2216 soundtracks · last updated 2026-10-20T10:51:41.616Z_
