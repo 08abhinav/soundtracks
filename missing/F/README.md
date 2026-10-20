@@ -4238,6 +4238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding America: New England | 273665 | [273665-finding-america-new-england.json](./273665-finding-america-new-england.json) |
 | Finding America: The Great Lakes | 260396 | [260396-finding-america-the-great-lakes.json](./260396-finding-america-the-great-lakes.json) |
 | Finding America: The Great Lakes - Collector's Edition | 321502 | [321502-finding-america-the-great-lakes-collectors-edition.json](./321502-finding-america-the-great-lakes-collectors-edition.json) |
+| Finding America: The Heartland | 212101 | [212101-finding-america-the-heartland.json](./212101-finding-america-the-heartland.json) |
 | Finding America: The Heartland - Collector's Edition | 224200 | [224200-finding-america-the-heartland-collectors-edition.json](./224200-finding-america-the-heartland-collectors-edition.json) |
 | Finding America: The Pacific Northwest | 232924 | [232924-finding-america-the-pacific-northwest.json](./232924-finding-america-the-pacific-northwest.json) |
 | Finding America: The Pacific Northwest - Collector's Edition | 300825 | [300825-finding-america-the-pacific-northwest-collectors-edition.json](./300825-finding-america-the-pacific-northwest-collectors-edition.json) |
@@ -6709,6 +6710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fohh | 304156 | [304156-fohh.json](./304156-fohh.json) |
 | Foiled | 62549 | [62549-foiled.json](./62549-foiled.json) |
 | Foillower | 382923 | [382923-foillower.json](./382923-foillower.json) |
+| Foklor | 212100 | [212100-foklor.json](./212100-foklor.json) |
 | FolcDark | 275671 | [275671-folcdark.json](./275671-folcdark.json) |
 | FolcDark: Part I | 265119 | [265119-folcdark-part-i.json](./265119-folcdark-part-i.json) |
 | FolcDark: Part II | 274025 | [274025-folcdark-part-ii.json](./274025-folcdark-part-ii.json) |
@@ -10413,6 +10415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fury | 240773 | [240773-fury.json](./240773-fury.json) |
 | Fury Cross Road | 235222 | [235222-fury-cross-road.json](./235222-fury-cross-road.json) |
 | Fury Fighter VR | 96520 | [96520-fury-fighter-vr.json](./96520-fury-fighter-vr.json) |
+| Fury Fighters | 212107 | [212107-fury-fighters.json](./212107-fury-fighters.json) |
 | Fury Knight | 155893 | [155893-fury-knight.json](./155893-fury-knight.json) |
 | Fury Life | 215872 | [215872-fury-life.json](./215872-fury-life.json) |
 | Fury of Dracula | 175327 | [175327-fury-of-dracula.json](./175327-fury-of-dracula.json) |
