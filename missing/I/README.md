@@ -1838,6 +1838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Girl | 128005 | [128005-immortal-girl.json](./128005-immortal-girl.json) |
 | Immortal Hero | 158209 | [158209-immortal-hero.json](./158209-immortal-hero.json) |
 | Immortal Heroes | 75712 | [75712-immortal-heroes.json](./75712-immortal-heroes.json) |
+| Immortal Hunters | 250757 | [250757-immortal-hunters.json](./250757-immortal-hunters.json) |
 | Immortal Immanuel | 360196 | [360196-immortal-immanuel.json](./360196-immortal-immanuel.json) |
 | Immortal Legacy: The Jade Cipher | 116010 | [116010-immortal-legacy-the-jade-cipher.json](./116010-immortal-legacy-the-jade-cipher.json) |
 | Immortal Legacy: The Jade Cipher - Console Edition | 132851 | [132851-immortal-legacy-the-jade-cipher-console-edition.json](./132851-immortal-legacy-the-jade-cipher-console-edition.json) |
@@ -2420,6 +2421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indeep | 55503 | [55503-indeep.json](./55503-indeep.json) |
 | Indef | 34310 | [34310-indef.json](./34310-indef.json) |
 | Indekos | 328613 | [328613-indekos.json](./328613-indekos.json) |
+| Indemon Tales | 250783 | [250783-indemon-tales.json](./250783-indemon-tales.json) |
 | Indenture | 212208 | [212208-indenture.json](./212208-indenture.json) |
 | Independant Video Video Game | 194307 | [194307-independant-video-video-game.json](./194307-independant-video-video-game.json) |
 | Independence Day | 198765 | [198765-independence-day.json](./198765-independence-day.json) |
@@ -2828,6 +2830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Dungeon | 386473 | [386473-infinite-dungeon.json](./386473-infinite-dungeon.json) |
 | Infinite Dungeon Crawler: The Frozen Expanse | 170797 | [170797-infinite-dungeon-crawler-the-frozen-expanse.json](./170797-infinite-dungeon-crawler-the-frozen-expanse.json) |
 | Infinite Dungeon Crawler: The Infernal Dungeons | 155348 | [155348-infinite-dungeon-crawler-the-infernal-dungeons.json](./155348-infinite-dungeon-crawler-the-infernal-dungeons.json) |
+| Infinite Dungeon Crawler: The Swampy Isles | 250799 | [250799-infinite-dungeon-crawler-the-swampy-isles.json](./250799-infinite-dungeon-crawler-the-swampy-isles.json) |
 | Infinite Echoes Advance | 419926 | [419926-infinite-echoes-advance.json](./419926-infinite-echoes-advance.json) |
 | Infinite Einstein Tiles | 352291 | [352291-infinite-einstein-tiles.json](./352291-infinite-einstein-tiles.json) |
 | Infinite Einstein Tiles2 | 374253 | [374253-infinite-einstein-tiles2.json](./374253-infinite-einstein-tiles2.json) |
@@ -5138,6 +5141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Izeriya | 32938 | [32938-izeriya.json](./32938-izeriya.json) |
 | Izil's Adventures: Blackfeather's Legacy | 186089 | [186089-izils-adventures-blackfeathers-legacy.json](./186089-izils-adventures-blackfeathers-legacy.json) |
 | IziMiniGame | 125853 | [125853-iziminigame.json](./125853-iziminigame.json) |
+| Izio: The Pixel Kishi | 250769 | [250769-izio-the-pixel-kishi.json](./250769-izio-the-pixel-kishi.json) |
 | Izle | 9725 | [9725-izle.json](./9725-izle.json) |
 | Izmir: An Independence Simulator | 196294 | [196294-izmir-an-independence-simulator.json](./196294-izmir-an-independence-simulator.json) |
 | Izolated | 295532 | [295532-izolated.json](./295532-izolated.json) |
