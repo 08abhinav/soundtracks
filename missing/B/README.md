@@ -4286,7 +4286,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Become | 390172 | [390172-become.json](./390172-become.json) |
 | Become a Gladiator VR | 153530 | [153530-become-a-gladiator-vr.json](./153530-become-a-gladiator-vr.json) |
 | Become a Great Artist in Just 10 Seconds | 139817 | [139817-become-a-great-artist-in-just-10-seconds.json](./139817-become-a-great-artist-in-just-10-seconds.json) |
+| Become A History Explorer | 251391 | [251391-become-a-history-explorer.json](./251391-become-a-history-explorer.json) |
 | Become a pig | 205244 | [205244-become-a-pig.json](./205244-become-a-pig.json) |
+| Become A science Explorer | 251392 | [251392-become-a-science-explorer.json](./251392-become-a-science-explorer.json) |
 | Become an Adventurer | 281949 | [281949-become-an-adventurer.json](./281949-become-an-adventurer.json) |
 | Become Barista! | 349520 | [349520-become-barista.json](./349520-become-barista.json) |
 | Become Castellane in Another World | 290501 | [290501-become-castellane-in-another-world.json](./290501-become-castellane-in-another-world.json) |
@@ -6055,6 +6057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biohazard 0 | 307948 | [307948-biohazard-0.json](./307948-biohazard-0.json) |
 | Biohazard Anniversary Package | 287316 | [287316-biohazard-anniversary-package.json](./287316-biohazard-anniversary-package.json) |
 | Biohazard Code: Veronica - Limited Edition | 407337 | [407337-biohazard-code-veronica-limited-edition.json](./407337-biohazard-code-veronica-limited-edition.json) |
+| Biohazard i Survivor | 251363 | [251363-biohazard-i-survivor.json](./251363-biohazard-i-survivor.json) |
 | Biohazard Outbreak Survive | 356225 | [356225-biohazard-outbreak-survive.json](./356225-biohazard-outbreak-survive.json) |
 | Biohazard RE: 2 - Z Version | 218542 | [218542-biohazard-re-2-z-version.json](./218542-biohazard-re-2-z-version.json) |
 | Biohazard RE: 2 - Z Version: Deluxe Edition | 218546 | [218546-biohazard-re-2-z-version-deluxe-edition.json](./218546-biohazard-re-2-z-version-deluxe-edition.json) |
