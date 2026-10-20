@@ -2798,6 +2798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Jumper: Red Hoodie | 315280 | [315280-ghost-jumper-red-hoodie.json](./315280-ghost-jumper-red-hoodie.json) |
 | Ghost Keeper | 312187 | [312187-ghost-keeper.json](./312187-ghost-keeper.json) |
 | Ghost Killer | 101398 | [101398-ghost-killer.json](./101398-ghost-killer.json) |
+| Ghost Killers: The Revenge of the Sucker-Fun | 235605 | [235605-ghost-killers-the-revenge-of-the-sucker-fun.json](./235605-ghost-killers-the-revenge-of-the-sucker-fun.json) |
 | Ghost legend | 289251 | [289251-ghost-legend.json](./289251-ghost-legend.json) |
 | Ghost Light | 310020 | [310020-ghost-light.json](./310020-ghost-light.json) |
 | Ghost Manor | 79976 | [79976-ghost-manor.json](./79976-ghost-manor.json) |
@@ -2844,6 +2845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Pursuit VR | 31977 | [31977-ghost-pursuit-vr.json](./31977-ghost-pursuit-vr.json) |
 | Ghost Racer | 174212 | [174212-ghost-racer.json](./174212-ghost-racer.json) |
 | Ghost Racing: Formula E | 130324 | [130324-ghost-racing-formula-e.json](./130324-ghost-racing-formula-e.json) |
+| Ghost Reaper | 235603 | [235603-ghost-reaper.json](./235603-ghost-reaper.json) |
 | Ghost Rebel | 102039 | [102039-ghost-rebel.json](./102039-ghost-rebel.json) |
 | Ghost Recon: Heroes Unleashed | 283119 | [283119-ghost-recon-heroes-unleashed.json](./283119-ghost-recon-heroes-unleashed.json) |
 | Ghost Restaurant | 390599 | [390599-ghost-restaurant.json](./390599-ghost-restaurant.json) |
@@ -2912,6 +2914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost: Elisa Cameron | 146929 | [146929-ghost-elisa-cameron.json](./146929-ghost-elisa-cameron.json) |
 | Ghost? | 228987 | [228987-ghost.json](./228987-ghost.json) |
 | Ghost'n Brothers | 166301 | [166301-ghostn-brothers.json](./166301-ghostn-brothers.json) |
+| Ghost's Timepeices | 235599 | [235599-ghosts-timepeices.json](./235599-ghosts-timepeices.json) |
 | Ghost's Way | 180182 | [180182-ghosts-way.json](./180182-ghosts-way.json) |
 | Ghostbane | 286621 | [286621-ghostbane.json](./286621-ghostbane.json) |
 | GhostBlood | 71195 | [71195-ghostblood.json](./71195-ghostblood.json) |
@@ -3814,6 +3817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glory Room | 242393 | [242393-glory-room.json](./242393-glory-room.json) |
 | Glory to the Heroes | 240744 | [240744-glory-to-the-heroes.json](./240744-glory-to-the-heroes.json) |
 | Glory to the Heroes | 363972 | [363972-glory-to-the-heroes.json](./363972-glory-to-the-heroes.json) |
+| Glory to the Robots! | 235586 | [235586-glory-to-the-robots.json](./235586-glory-to-the-robots.json) |
 | Glory Wall! | 393838 | [393838-glory-wall.json](./393838-glory-wall.json) |
 | Glory Warrior: Lord of Darkness | 32963 | [32963-glory-warrior-lord-of-darkness.json](./32963-glory-warrior-lord-of-darkness.json) |
 | Glory's Witness | 161407 | [161407-glorys-witness.json](./161407-glorys-witness.json) |
@@ -8106,6 +8110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunfire Reborn: Visitors of Spirit Realm | 213979 | [213979-gunfire-reborn-visitors-of-spirit-realm.json](./213979-gunfire-reborn-visitors-of-spirit-realm.json) |
 | GunFleet | 30023 | [30023-gunfleet.json](./30023-gunfleet.json) |
 | Gunflow | 302087 | [302087-gunflow.json](./302087-gunflow.json) |
+| Gunforged | 235632 | [235632-gunforged.json](./235632-gunforged.json) |
 | Gunfright | 14102 | [14102-gunfright.json](./14102-gunfright.json) |
 | GunFu Deadlands | 242441 | [242441-gunfu-deadlands.json](./242441-gunfu-deadlands.json) |
 | Gung 3D | 208654 | [208654-gung-3d.json](./208654-gung-3d.json) |
