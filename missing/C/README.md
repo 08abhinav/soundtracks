@@ -13683,8 +13683,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryken Part4 | 351226 | [351226-cryken-part4.json](./351226-cryken-part4.json) |
 | Cryline | 55271 | [55271-cryline.json](./55271-cryline.json) |
 | Crymachina | 240141 | [240141-crymachina.json](./240141-crymachina.json) |
+| Crymachina: Hanamaru Edition | 255508 | [255508-crymachina-hanamaru-edition.json](./255508-crymachina-hanamaru-edition.json) |
 | Crymachina: Standard Uniform Set | 312116 | [312116-crymachina-standard-uniform-set.json](./312116-crymachina-standard-uniform-set.json) |
 | Crymachina: Trinity Set | 312115 | [312115-crymachina-trinity-set.json](./312115-crymachina-trinity-set.json) |
+| Crymachina: Ultimate Hanamaru Edition | 255509 | [255509-crymachina-ultimate-hanamaru-edition.json](./255509-crymachina-ultimate-hanamaru-edition.json) |
 | Crymelight | 399408 | [399408-crymelight.json](./399408-crymelight.json) |
 | Crymelight: Tea Party Box | 399436 | [399436-crymelight-tea-party-box.json](./399436-crymelight-tea-party-box.json) |
 | Cryo | 374688 | [374688-cryo.json](./374688-cryo.json) |
