@@ -8945,6 +8945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dome-King Cabbage | 152283 | [152283-dome-king-cabbage.json](./152283-dome-king-cabbage.json) |
 | Domefender | 410927 | [410927-domefender.json](./410927-domefender.json) |
 | Domenation | 277858 | [277858-domenation.json](./277858-domenation.json) |
+| DomenyX Generations | 222744 | [222744-domenyx-generations.json](./222744-domenyx-generations.json) |
 | Domestic | 351983 | [351983-domestic.json](./351983-domestic.json) |
 | Domestic Defense | 158113 | [158113-domestic-defense.json](./158113-domestic-defense.json) |
 | Domestic Dog | 36006 | [36006-domestic-dog.json](./36006-domestic-dog.json) |
