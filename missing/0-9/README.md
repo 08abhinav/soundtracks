@@ -1766,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Puzzle: Hospital 2 | 301046 | [301046-3d-puzzle-hospital-2.json](./301046-3d-puzzle-hospital-2.json) |
 | 3D Puzzle: Hospital 3 | 301047 | [301047-3d-puzzle-hospital-3.json](./301047-3d-puzzle-hospital-3.json) |
 | 3D Puzzle: Hospital 4 | 308950 | [308950-3d-puzzle-hospital-4.json](./308950-3d-puzzle-hospital-4.json) |
+| 3D Puzzle: Last of City | 249601 | [249601-3d-puzzle-last-of-city.json](./249601-3d-puzzle-last-of-city.json) |
 | 3D Puzzle: Leafless | 357758 | [357758-3d-puzzle-leafless.json](./357758-3d-puzzle-leafless.json) |
 | 3D Puzzle: Medieval Inn | 253425 | [253425-3d-puzzle-medieval-inn.json](./253425-3d-puzzle-medieval-inn.json) |
 | 3D Puzzle: Mountain Life | 357757 | [357757-3d-puzzle-mountain-life.json](./357757-3d-puzzle-mountain-life.json) |
