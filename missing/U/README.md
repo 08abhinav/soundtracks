@@ -1480,6 +1480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertale Yellow | 136482 | [136482-undertale-yellow.json](./136482-undertale-yellow.json) |
 | Undertale Yellow But Blue | 318536 | [318536-undertale-yellow-but-blue.json](./318536-undertale-yellow-but-blue.json) |
 | Undertale Yellow: Shades of Justice | 351780 | [351780-undertale-yellow-shades-of-justice.json](./351780-undertale-yellow-shades-of-justice.json) |
+| Undertale: Bits and Pieces | 213254 | [213254-undertale-bits-and-pieces.json](./213254-undertale-bits-and-pieces.json) |
 | Undertale: Call of the Void - Placek's Take | 329609 | [329609-undertale-call-of-the-void-placeks-take.json](./329609-undertale-call-of-the-void-placeks-take.json) |
 | Undertale: Chara Boss Fight | 283766 | [283766-undertale-chara-boss-fight.json](./283766-undertale-chara-boss-fight.json) |
 | Undertale: Collector's Edition | 136341 | [136341-undertale-collectors-edition.json](./136341-undertale-collectors-edition.json) |
