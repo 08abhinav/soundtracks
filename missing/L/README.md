@@ -5311,6 +5311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lokko | 374427 | [374427-lokko.json](./374427-lokko.json) |
 | LoL Kart | 88819 | [88819-lol-kart.json](./88819-lol-kart.json) |
 | LoL Sketch | 181186 | [181186-lol-sketch.json](./181186-lol-sketch.json) |
+| LOL: Hasse toh Phasse x Pac-Man | 219450 | [219450-lol-hasse-toh-phasse-x-pac-man.json](./219450-lol-hasse-toh-phasse-x-pac-man.json) |
 | Lola & Virginia | 123350 | [123350-lola-and-virginia.json](./123350-lola-and-virginia.json) |
 | Lola and the Giant | 110325 | [110325-lola-and-the-giant.json](./110325-lola-and-the-giant.json) |
 | Lola: The Escape | 170930 | [170930-lola-the-escape.json](./170930-lola-the-escape.json) |
