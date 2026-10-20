@@ -3833,6 +3833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja | 217835 | [217835-ninja.json](./217835-ninja.json) |
 | Ninja | 245137 | [245137-ninja.json](./245137-ninja.json) |
 | Ninja 1987 | 304559 | [304559-ninja-1987.json](./304559-ninja-1987.json) |
+| Ninja Akio | 212115 | [212115-ninja-akio.json](./212115-ninja-akio.json) |
 | Ninja Arashi 2 | 223997 | [223997-ninja-arashi-2.json](./223997-ninja-arashi-2.json) |
 | Ninja Arena | 376804 | [376804-ninja-arena.json](./376804-ninja-arena.json) |
 | Ninja Assault | 13901 | [13901-ninja-assault.json](./13901-ninja-assault.json) |
