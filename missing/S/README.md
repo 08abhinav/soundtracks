@@ -7006,6 +7006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotgun FunFun Legacy | 88357 | [88357-shotgun-funfun-legacy.json](./88357-shotgun-funfun-legacy.json) |
 | Shotgun II: Double Barrel | 321233 | [321233-shotgun-ii-double-barrel.json](./321233-shotgun-ii-double-barrel.json) |
 | Shotgun King: the Final Checkmate | 196030 | [196030-shotgun-king-the-final-checkmate.json](./196030-shotgun-king-the-final-checkmate.json) |
+| Shotgun Knight | 244603 | [244603-shotgun-knight.json](./244603-shotgun-knight.json) |
 | Shotgun Ninja | 70270 | [70270-shotgun-ninja.json](./70270-shotgun-ninja.json) |
 | Shotgun Raiders | 31862 | [31862-shotgun-raiders.json](./31862-shotgun-raiders.json) |
 | Shotgun Science | 365155 | [365155-shotgun-science.json](./365155-shotgun-science.json) |
@@ -9997,6 +9998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide With You | 401834 | [401834-slide-with-you.json](./401834-slide-with-you.json) |
 | Slide! Throw! Snow Party | 379977 | [379977-slide-throw-snow-party.json](./379977-slide-throw-snow-party.json) |
 | SlideGrid | 409195 | [409195-slidegrid.json](./409195-slidegrid.json) |
+| Slidemagi | 244600 | [244600-slidemagi.json](./244600-slidemagi.json) |
 | SlideNGlide | 336015 | [336015-slidenglide.json](./336015-slidenglide.json) |
 | SlideNSlip | 166774 | [166774-slidenslip.json](./166774-slidenslip.json) |
 | Slider | 103172 | [103172-slider.json](./103172-slider.json) |
@@ -14757,6 +14759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Postman Story | 180647 | [180647-space-postman-story.json](./180647-space-postman-story.json) |
 | Space Prevention Force | 179110 | [179110-space-prevention-force.json](./179110-space-prevention-force.json) |
 | Space Pricks | 248641 | [248641-space-pricks.json](./248641-space-pricks.json) |
+| Space Prison | 244649 | [244649-space-prison.json](./244649-space-prison.json) |
 | Space Prison: Holo Dancer | 389553 | [389553-space-prison-holo-dancer.json](./389553-space-prison-holo-dancer.json) |
 | Space puzzle | 152724 | [152724-space-puzzle.json](./152724-space-puzzle.json) |
 | Space Qube | 200022 | [200022-space-qube.json](./200022-space-qube.json) |
@@ -17066,6 +17069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprunki Block Puzzle | 326982 | [326982-sprunki-block-puzzle.json](./326982-sprunki-block-puzzle.json) |
 | Sprunki Hell Towers | 395210 | [395210-sprunki-hell-towers.json](./395210-sprunki-hell-towers.json) |
 | Sprunki Horror From the Loop | 361923 | [361923-sprunki-horror-from-the-loop.json](./361923-sprunki-horror-from-the-loop.json) |
+| Sprydite | 244638 | [244638-sprydite.json](./244638-sprydite.json) |
 | Spryward | 202744 | [202744-spryward.json](./202744-spryward.json) |
 | Spud Cricket VR | 29698 | [29698-spud-cricket-vr.json](./29698-spud-cricket-vr.json) |
 | Spud Customs | 324090 | [324090-spud-customs.json](./324090-spud-customs.json) |
@@ -18972,6 +18976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Caramba | 326776 | [326776-starship-caramba.json](./326776-starship-caramba.json) |
 | Starship Catan | 72949 | [72949-starship-catan.json](./72949-starship-catan.json) |
 | Starship Coaster | 278507 | [278507-starship-coaster.json](./278507-starship-coaster.json) |
+| Starship Colony | 244646 | [244646-starship-colony.json](./244646-starship-colony.json) |
 | Starship Command | 13764 | [13764-starship-command.json](./13764-starship-command.json) |
 | Starship Command: Orion Spur | 362739 | [362739-starship-command-orion-spur.json](./362739-starship-command-orion-spur.json) |
 | Starship Commander | 108965 | [108965-starship-commander.json](./108965-starship-commander.json) |
