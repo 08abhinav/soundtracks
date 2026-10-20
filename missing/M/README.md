@@ -5277,6 +5277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Questionnaire | 288816 | [288816-medieval-questionnaire.json](./288816-medieval-questionnaire.json) |
 | Medieval Real Estate | 81773 | [81773-medieval-real-estate.json](./81773-medieval-real-estate.json) |
 | Medieval Remembrance | 189945 | [189945-medieval-remembrance.json](./189945-medieval-remembrance.json) |
+| Medieval Royal Chess: Classic Board Game | 253226 | [253226-medieval-royal-chess-classic-board-game.json](./253226-medieval-royal-chess-classic-board-game.json) |
 | Medieval Sex Jigsaw | 291067 | [291067-medieval-sex-jigsaw.json](./291067-medieval-sex-jigsaw.json) |
 | Medieval Shop Simulator | 152726 | [152726-medieval-shop-simulator.json](./152726-medieval-shop-simulator.json) |
 | Medieval Shorts 3 | 101752 | [101752-medieval-shorts-3.json](./101752-medieval-shorts-3.json) |
@@ -7825,6 +7826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Machines Mobile | 111552 | [111552-micro-machines-mobile.json](./111552-micro-machines-mobile.json) |
 | Micro Machines V3 | 249154 | [249154-micro-machines-v3.json](./249154-micro-machines-v3.json) |
 | Micro Machines V4 | 8512 | [8512-micro-machines-v4.json](./8512-micro-machines-v4.json) |
+| Micro Machines: Mini Challenge Mayhem | 253193 | [253193-micro-machines-mini-challenge-mayhem.json](./253193-micro-machines-mini-challenge-mayhem.json) |
 | Micro Macro Farm | 276266 | [276266-micro-macro-farm.json](./276266-micro-macro-farm.json) |
 | Micro Madness | 252819 | [252819-micro-madness.json](./252819-micro-madness.json) |
 | Micro Mages | 110882 | [110882-micro-mages.json](./110882-micro-mages.json) |
@@ -11498,6 +11500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monorail Stories | 137051 | [137051-monorail-stories.json](./137051-monorail-stories.json) |
 | Monos: The Endless Tower | 211970 | [211970-monos-the-endless-tower.json](./211970-monos-the-endless-tower.json) |
 | Monoshiri Jiyuugaku: Ogura Hyakunin Isshu-hen | 268514 | [268514-monoshiri-jiyuugaku-ogura-hyakunin-isshu-hen.json](./268514-monoshiri-jiyuugaku-ogura-hyakunin-isshu-hen.json) |
+| Monoshiri Quiz: Sekai no Doubutsu | 253230 | [253230-monoshiri-quiz-sekai-no-doubutsu.json](./253230-monoshiri-quiz-sekai-no-doubutsu.json) |
 | Monospaced Lovers | 130844 | [130844-monospaced-lovers.json](./130844-monospaced-lovers.json) |
 | Monotonia: EXP_01 | 228514 | [228514-monotonia-exp-01.json](./228514-monotonia-exp-01.json) |
 | Monotose | 202316 | [202316-monotose.json](./202316-monotose.json) |
@@ -13402,6 +13405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain Bike Xtreme | 369170 | [369170-mountain-bike-xtreme.json](./369170-mountain-bike-xtreme.json) |
 | Mountain Biker | 116402 | [116402-mountain-biker.json](./116402-mountain-biker.json) |
 | Mountain Car Climb | 402347 | [402347-mountain-car-climb.json](./402347-mountain-car-climb.json) |
+| Mountain Climb Driver | 253225 | [253225-mountain-climb-driver.json](./253225-mountain-climb-driver.json) |
 | Mountain King | 12315 | [12315-mountain-king.json](./12315-mountain-king.json) |
 | Mountain King Return | 288662 | [288662-mountain-king-return.json](./288662-mountain-king-return.json) |
 | Mountain Legends 3 | 291254 | [291254-mountain-legends-3.json](./291254-mountain-legends-3.json) |
