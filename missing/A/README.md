@@ -3069,6 +3069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After School | 182819 | [182819-after-school.json](./182819-after-school.json) |
 | After School | 252719 | [252719-after-school.json](./252719-after-school.json) |
 | After School | 253348 | [253348-after-school.json](./253348-after-school.json) |
+| After School Affairs | 238904 | [238904-after-school-affairs.json](./238904-after-school-affairs.json) |
 | After School Afterlife | 145913 | [145913-after-school-afterlife.json](./145913-after-school-afterlife.json) |
 | After School Cure | 379497 | [379497-after-school-cure.json](./379497-after-school-cure.json) |
 | After School Girlfriend | 206197 | [206197-after-school-girlfriend.json](./206197-after-school-girlfriend.json) |
@@ -7180,6 +7181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anicon: Animal Complex - Party | 249284 | [249284-anicon-animal-complex-party.json](./249284-anicon-animal-complex-party.json) |
 | Anicon: Animal Complex - Rabbit's Path | 137410 | [137410-anicon-animal-complex-rabbits-path.json](./137410-anicon-animal-complex-rabbits-path.json) |
 | Anicon: Animal Complex - Sheep's Path | 106607 | [106607-anicon-animal-complex-sheeps-path.json](./106607-anicon-animal-complex-sheeps-path.json) |
+| Anidol Colors | 238911 | [238911-anidol-colors.json](./238911-anidol-colors.json) |
 | ANIDU: Animal Dust Puppet’s Adventure | 258549 | [258549-anidu-animal-dust-puppet-s-adventure.json](./258549-anidu-animal-dust-puppet-s-adventure.json) |
 | Anigma Byte | 384215 | [384215-anigma-byte.json](./384215-anigma-byte.json) |
 | AniGuessr | 318504 | [318504-aniguessr.json](./318504-aniguessr.json) |
