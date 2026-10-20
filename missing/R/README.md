@@ -4752,6 +4752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reus 2: Supporter Pack | 312031 | [312031-reus-2-supporter-pack.json](./312031-reus-2-supporter-pack.json) |
 | Réussir: Code de la Route - Bonus ASSR 1 - ASSR 2: Permis AM - French Highway Code | 298157 | [298157-reussir-code-de-la-route-bonus-assr-1-assr-2-permis-am-french-highway-code.json](./298157-reussir-code-de-la-route-bonus-assr-1-assr-2-permis-am-french-highway-code.json) |
 | Réussir: Code de la Route - Nouvelle édition | 144206 | [144206-reussir-code-de-la-route-nouvelle-edition.json](./144206-reussir-code-de-la-route-nouvelle-edition.json) |
+| Réussir: Code de la Route - Nouvelle Edition: French Highway Code | 227127 | [227127-reussir-code-de-la-route-nouvelle-edition-french-highway-code.json](./227127-reussir-code-de-la-route-nouvelle-edition-french-highway-code.json) |
 | Rev Grav | 322065 | [322065-rev-grav.json](./322065-rev-grav.json) |
 | Rev Limit | 231509 | [231509-rev-limit.json](./231509-rev-limit.json) |
 | Rev. Noir | 389436 | [389436-rev-noir.json](./389436-rev-noir.json) |
@@ -7296,6 +7297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocksmith 2014 Edition: Remastered - Bob Marley & The Wailers: Song Pack | 225029 | [225029-rocksmith-2014-edition-remastered-bob-marley-and-the-wailers-song-pack.json](./225029-rocksmith-2014-edition-remastered-bob-marley-and-the-wailers-song-pack.json) |
 | Rocksmith 2014 Edition: Remastered - Classic Riff: Song Pack | 225014 | [225014-rocksmith-2014-edition-remastered-classic-riff-song-pack.json](./225014-rocksmith-2014-edition-remastered-classic-riff-song-pack.json) |
 | Rocksmith 2014 Edition: Remastered - Coldplay: Song Pack | 225013 | [225013-rocksmith-2014-edition-remastered-coldplay-song-pack.json](./225013-rocksmith-2014-edition-remastered-coldplay-song-pack.json) |
+| Rocksmith 2014 Edition: Remastered - Disturbed: Song Pack II | 227153 | [227153-rocksmith-2014-edition-remastered-disturbed-song-pack-ii.json](./227153-rocksmith-2014-edition-remastered-disturbed-song-pack-ii.json) |
 | Rocksmith 2014 Edition: Remastered - Faith No More: Song Pack | 227199 | [227199-rocksmith-2014-edition-remastered-faith-no-more-song-pack.json](./227199-rocksmith-2014-edition-remastered-faith-no-more-song-pack.json) |
 | Rocksmith 2014 Edition: Remastered - Foo Fighters: Song Pack II | 227200 | [227200-rocksmith-2014-edition-remastered-foo-fighters-song-pack-ii.json](./227200-rocksmith-2014-edition-remastered-foo-fighters-song-pack-ii.json) |
 | Rocksmith 2014 Edition: Remastered - Foreigner: Song Pack | 227201 | [227201-rocksmith-2014-edition-remastered-foreigner-song-pack.json](./227201-rocksmith-2014-edition-remastered-foreigner-song-pack.json) |
@@ -7311,8 +7313,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocksmith 2014 Edition: Remastered - Johnny Cash: Song Pack II | 225030 | [225030-rocksmith-2014-edition-remastered-johnny-cash-song-pack-ii.json](./225030-rocksmith-2014-edition-remastered-johnny-cash-song-pack-ii.json) |
 | Rocksmith 2014 Edition: Remastered - Linkin Park: Song Pack | 227206 | [227206-rocksmith-2014-edition-remastered-linkin-park-song-pack.json](./227206-rocksmith-2014-edition-remastered-linkin-park-song-pack.json) |
 | Rocksmith 2014 Edition: Remastered - Live: Song Pack | 225033 | [225033-rocksmith-2014-edition-remastered-live-song-pack.json](./225033-rocksmith-2014-edition-remastered-live-song-pack.json) |
+| Rocksmith 2014 Edition: Remastered - Matchbox Twenty: Song Pack | 227146 | [227146-rocksmith-2014-edition-remastered-matchbox-twenty-song-pack.json](./227146-rocksmith-2014-edition-remastered-matchbox-twenty-song-pack.json) |
+| Rocksmith 2014 Edition: Remastered - Megadeth: Song Pack II | 227147 | [227147-rocksmith-2014-edition-remastered-megadeth-song-pack-ii.json](./227147-rocksmith-2014-edition-remastered-megadeth-song-pack-ii.json) |
 | Rocksmith 2014 Edition: Remastered - Mix Tape Song Pack | 225019 | [225019-rocksmith-2014-edition-remastered-mix-tape-song-pack.json](./225019-rocksmith-2014-edition-remastered-mix-tape-song-pack.json) |
+| Rocksmith 2014 Edition: Remastered - Mötley Crüe: Song Pack | 227148 | [227148-rocksmith-2014-edition-remastered-motley-crue-song-pack.json](./227148-rocksmith-2014-edition-remastered-motley-crue-song-pack.json) |
+| Rocksmith 2014 Edition: Remastered - Muse: Song Pack | 227149 | [227149-rocksmith-2014-edition-remastered-muse-song-pack.json](./227149-rocksmith-2014-edition-remastered-muse-song-pack.json) |
+| Rocksmith 2014 Edition: Remastered - My Chemical Romance: Song Pack II | 227150 | [227150-rocksmith-2014-edition-remastered-my-chemical-romance-song-pack-ii.json](./227150-rocksmith-2014-edition-remastered-my-chemical-romance-song-pack-ii.json) |
+| Rocksmith 2014 Edition: Remastered - Oasis: Song Pack | 227151 | [227151-rocksmith-2014-edition-remastered-oasis-song-pack.json](./227151-rocksmith-2014-edition-remastered-oasis-song-pack.json) |
 | Rocksmith 2014 Edition: Remastered - Paramore: Song Pack | 225028 | [225028-rocksmith-2014-edition-remastered-paramore-song-pack.json](./225028-rocksmith-2014-edition-remastered-paramore-song-pack.json) |
+| Rocksmith 2014 Edition: Remastered - Queens of the Stone Age: Song Pack | 227152 | [227152-rocksmith-2014-edition-remastered-queens-of-the-stone-age-song-pack.json](./227152-rocksmith-2014-edition-remastered-queens-of-the-stone-age-song-pack.json) |
+| Rocksmith 2014 Edition: Remastered - Radiohead: Song Pack | 227145 | [227145-rocksmith-2014-edition-remastered-radiohead-song-pack.json](./227145-rocksmith-2014-edition-remastered-radiohead-song-pack.json) |
+| Rocksmith 2014 Edition: Remastered - Rage Against the Machine: Song Pack I-II | 227144 | [227144-rocksmith-2014-edition-remastered-rage-against-the-machine-song-pack-i-ii.json](./227144-rocksmith-2014-edition-remastered-rage-against-the-machine-song-pack-i-ii.json) |
 | Rocksmith 2014 Edition: Remastered - Skater Rock: Song Pack | 225036 | [225036-rocksmith-2014-edition-remastered-skater-rock-song-pack.json](./225036-rocksmith-2014-edition-remastered-skater-rock-song-pack.json) |
 | Rocksmith 2014 Edition: Remastered - Skid Row: Song Pack | 225018 | [225018-rocksmith-2014-edition-remastered-skid-row-song-pack.json](./225018-rocksmith-2014-edition-remastered-skid-row-song-pack.json) |
 | Rocksmith 2014 Edition: Remastered - Steve Miller Band: Song Pack | 225035 | [225035-rocksmith-2014-edition-remastered-steve-miller-band-song-pack.json](./225035-rocksmith-2014-edition-remastered-steve-miller-band-song-pack.json) |
