@@ -9224,6 +9224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donald Duck | 215079 | [215079-donald-duck.json](./215079-donald-duck.json) |
 | Donald Duck's Playground | 12052 | [12052-donald-ducks-playground.json](./12052-donald-ducks-playground.json) |
 | Donald Duck's Speedboat | 40638 | [40638-donald-ducks-speedboat.json](./40638-donald-ducks-speedboat.json) |
+| Donald Fuck | 251389 | [251389-donald-fuck.json](./251389-donald-fuck.json) |
 | Donald Fuck RPG | 255616 | [255616-donald-fuck-rpg.json](./255616-donald-fuck-rpg.json) |
 | Donald Jump | 412966 | [412966-donald-jump.json](./412966-donald-jump.json) |
 | Donald Land | 48524 | [48524-donald-land.json](./48524-donald-land.json) |
@@ -9796,6 +9797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dora Laparoscopic Appendectomy | 343935 | [343935-dora-laparoscopic-appendectomy.json](./343935-dora-laparoscopic-appendectomy.json) |
 | Dora Star Explorer | 406776 | [406776-dora-star-explorer.json](./406776-dora-star-explorer.json) |
 | Dora the Explorer | 221672 | [221672-dora-the-explorer.json](./221672-dora-the-explorer.json) |
+| Dora the Explorer: 3D Driving Adventure | 251365 | [251365-dora-the-explorer-3d-driving-adventure.json](./251365-dora-the-explorer-3d-driving-adventure.json) |
 | Dora the Explorer: 3D Pyramid Adventure | 391654 | [391654-dora-the-explorer-3d-pyramid-adventure.json](./391654-dora-the-explorer-3d-pyramid-adventure.json) |
 | Dora the Explorer: Adventures 3-Pack | 100113 | [100113-dora-the-explorer-adventures-3-pack.json](./100113-dora-the-explorer-adventures-3-pack.json) |
 | Dora the Explorer: Animal Adventures | 77328 | [77328-dora-the-explorer-animal-adventures.json](./77328-dora-the-explorer-animal-adventures.json) |
