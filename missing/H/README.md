@@ -7063,6 +7063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoneHone Zaurus X: Chou Gattai! Build & Battle | 361604 | [361604-honehone-zaurus-x-chou-gattai-build-and-battle.json](./361604-honehone-zaurus-x-chou-gattai-build-and-battle.json) |
 | Honekawa Marionette | 333370 | [333370-honekawa-marionette.json](./333370-honekawa-marionette.json) |
 | Honest Helper | 349324 | [349324-honest-helper.json](./349324-honest-helper.json) |
+| Honest Rod's Rollback Rally | 230718 | [230718-honest-rods-rollback-rally.json](./230718-honest-rods-rollback-rally.json) |
 | Honest War | 412353 | [412353-honest-war.json](./412353-honest-war.json) |
 | Honest Work | 416670 | [416670-honest-work.json](./416670-honest-work.json) |
 | Honey | 196245 | [196245-honey.json](./196245-honey.json) |
