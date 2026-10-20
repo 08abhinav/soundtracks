@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic gravity | 76636 | [76636-magic-gravity.json](./76636-magic-gravity.json) |
 | Magic Griddlers | 156671 | [156671-magic-griddlers.json](./156671-magic-griddlers.json) |
 | Magic Griddlers 2 | 101555 | [101555-magic-griddlers-2.json](./101555-magic-griddlers-2.json) |
+| Magic Guardian | 242961 | [242961-magic-guardian.json](./242961-magic-guardian.json) |
 | Magic Guardians: Lily's Awakening Story | 245206 | [245206-magic-guardians-lilys-awakening-story.json](./245206-magic-guardians-lilys-awakening-story.json) |
 | Magic Gun | 115171 | [115171-magic-gun.json](./115171-magic-gun.json) |
 | Magic Guqin | 197702 | [197702-magic-guqin.json](./197702-magic-guqin.json) |
@@ -2598,6 +2599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | March of War: StormSiege | 170494 | [170494-march-of-war-stormsiege.json](./170494-march-of-war-stormsiege.json) |
 | March to a Million | 56730 | [56730-march-to-a-million.json](./56730-march-to-a-million.json) |
 | March to the Heart | 349313 | [349313-march-to-the-heart.json](./349313-march-to-the-heart.json) |
+| March, March! European Warfare | 242962 | [242962-march-march-european-warfare.json](./242962-march-march-european-warfare.json) |
 | March! March! | 173197 | [173197-march-march.json](./173197-march-march.json) |
 | March! Offworld Recon | 92318 | [92318-march-offworld-recon.json](./92318-march-offworld-recon.json) |
 | Märchen Forest | 181313 | [181313-marchen-forest.json](./181313-marchen-forest.json) |
@@ -4367,6 +4369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mave's Castle | 415323 | [415323-maves-castle.json](./415323-maves-castle.json) |
 | Maveldor: Saga of the Twin Mirrors | 250941 | [250941-maveldor-saga-of-the-twin-mirrors.json](./250941-maveldor-saga-of-the-twin-mirrors.json) |
 | Maven | 92856 | [92856-maven.json](./92856-maven.json) |
+| Maverick | 242920 | [242920-maverick.json](./242920-maverick.json) |
 | Maverick | 94121 | [94121-maverick.json](./94121-maverick.json) |
 | Maverick Bird | 62172 | [62172-maverick-bird.json](./62172-maverick-bird.json) |
 | Maverick Gunn and the Eye of Oggun | 170347 | [170347-maverick-gunn-and-the-eye-of-oggun.json](./170347-maverick-gunn-and-the-eye-of-oggun.json) |
@@ -11530,6 +11533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly Party | 4016 | [4016-monopoly-party.json](./4016-monopoly-party.json) |
 | Monopoly Plus | 20313 | [20313-monopoly-plus.json](./20313-monopoly-plus.json) |
 | Monopoly Plus and Monopoly Madness | 182497 | [182497-monopoly-plus-and-monopoly-madness.json](./182497-monopoly-plus-and-monopoly-madness.json) |
+| Monopoly Plus: My Little Pony | 242953 | [242953-monopoly-plus-my-little-pony.json](./242953-monopoly-plus-my-little-pony.json) |
 | Monopoly Sudoku | 292005 | [292005-monopoly-sudoku.json](./292005-monopoly-sudoku.json) |
 | Monopoly Tycoon | 197249 | [197249-monopoly-tycoon.json](./197249-monopoly-tycoon.json) |
 | Monopoly Tycoon | 9710 | [9710-monopoly-tycoon.json](./9710-monopoly-tycoon.json) |
@@ -15450,7 +15454,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Pony Celebration | 138466 | [138466-my-little-pony-celebration.json](./138466-my-little-pony-celebration.json) |
 | My Little Pony Crystal Princess: The Runaway Rainbow | 49389 | [49389-my-little-pony-crystal-princess-the-runaway-rainbow.json](./49389-my-little-pony-crystal-princess-the-runaway-rainbow.json) |
 | My Little Pony Hair Salon | 287085 | [287085-my-little-pony-hair-salon.json](./287085-my-little-pony-hair-salon.json) |
+| My Little Pony Read & Play | 242951 | [242951-my-little-pony-read-and-play.json](./242951-my-little-pony-read-and-play.json) |
 | My Little Pony World | 221943 | [221943-my-little-pony-world.json](./221943-my-little-pony-world.json) |
+| My Little Pony: A Canterlot Wedding | 242952 | [242952-my-little-pony-a-canterlot-wedding.json](./242952-my-little-pony-a-canterlot-wedding.json) |
 | My Little Pony: A Maretime Bay Adventure | 191956 | [191956-my-little-pony-a-maretime-bay-adventure.json](./191956-my-little-pony-a-maretime-bay-adventure.json) |
 | My Little Pony: A Zephyr Heights Mystery | 290839 | [290839-my-little-pony-a-zephyr-heights-mystery.json](./290839-my-little-pony-a-zephyr-heights-mystery.json) |
 | My Little Pony: Adventures in Ponyville | 341163 | [341163-my-little-pony-adventures-in-ponyville.json](./341163-my-little-pony-adventures-in-ponyville.json) |
