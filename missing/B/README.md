@@ -2580,7 +2580,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham Knight - Season of Infamy: Most Wanted Expansion | 15531 | [15531-batman-arkham-knight-season-of-infamy-most-wanted-expansion.json](./15531-batman-arkham-knight-season-of-infamy-most-wanted-expansion.json) |
 | Batman: Arkham Knight - Season Pass | 25970 | [25970-batman-arkham-knight-season-pass.json](./25970-batman-arkham-knight-season-pass.json) |
 | Batman: Arkham Knight - Special Edition Steelbook | 41611 | [41611-batman-arkham-knight-special-edition-steelbook.json](./41611-batman-arkham-knight-special-edition-steelbook.json) |
-| Batman: Arkham Origins | 83899 | [83899-batman-arkham-origins.json](./83899-batman-arkham-origins.json) |
 | Batman: Arkham Origins - Cold, Cold Heart | 10028 | [10028-batman-arkham-origins-cold-cold-heart.json](./10028-batman-arkham-origins-cold-cold-heart.json) |
 | Batman: Arkham Origins - Initiation | 75531 | [75531-batman-arkham-origins-initiation.json](./75531-batman-arkham-origins-initiation.json) |
 | Batman: Arkham Origins Blackgate | 7689 | [7689-batman-arkham-origins-blackgate.json](./7689-batman-arkham-origins-blackgate.json) |
