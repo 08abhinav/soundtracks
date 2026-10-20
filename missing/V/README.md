@@ -616,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanguard Online: Battlefield | 208080 | [208080-vanguard-online-battlefield.json](./208080-vanguard-online-battlefield.json) |
 | Vanguard Princess | 377294 | [377294-vanguard-princess.json](./377294-vanguard-princess.json) |
 | Vanguard Princess | 9433 | [9433-vanguard-princess.json](./9433-vanguard-princess.json) |
+| Vanguard Princess Kurumi | 228907 | [228907-vanguard-princess-kurumi.json](./228907-vanguard-princess-kurumi.json) |
 | Vanguard Princess: Hilda Rize | 170929 | [170929-vanguard-princess-hilda-rize.json](./170929-vanguard-princess-hilda-rize.json) |
 | Vanguard Princess: Online Deluxe | 168167 | [168167-vanguard-princess-online-deluxe.json](./168167-vanguard-princess-online-deluxe.json) |
 | Vanguard Run | 57345 | [57345-vanguard-run.json](./57345-vanguard-run.json) |
