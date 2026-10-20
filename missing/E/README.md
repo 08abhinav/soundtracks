@@ -2071,6 +2071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elvenar | 59764 | [59764-elvenar.json](./59764-elvenar.json) |
 | ElvenEscape | 203945 | [203945-elvenescape.json](./203945-elvenescape.json) |
 | Elves | 295940 | [295940-elves.json](./295940-elves.json) |
+| Elves '87 | 246233 | [246233-elves-87.json](./246233-elves-87.json) |
 | Elves Adventure | 31972 | [31972-elves-adventure.json](./31972-elves-adventure.json) |
 | Elves Fantasy: Hentai Puzzle | 208229 | [208229-elves-fantasy-hentai-puzzle.json](./208229-elves-fantasy-hentai-puzzle.json) |
 | Elves Jigsaw Puzzle Collection | 229041 | [229041-elves-jigsaw-puzzle-collection.json](./229041-elves-jigsaw-puzzle-collection.json) |
@@ -2362,6 +2363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emotions: A Day In A Life | 178603 | [178603-emotions-a-day-in-a-life.json](./178603-emotions-a-day-in-a-life.json) |
 | Emotions: Social MeDie | 391300 | [391300-emotions-social-medie.json](./391300-emotions-social-medie.json) |
 | Emotitron | 349455 | [349455-emotitron.json](./349455-emotitron.json) |
+| Emovi | 246243 | [246243-emovi.json](./246243-emovi.json) |
 | Emoyan no 10-bai Pro Yakyuu | 48332 | [48332-emoyan-no-10-bai-pro-yakyuu.json](./48332-emoyan-no-10-bai-pro-yakyuu.json) |
 | Empath | 182825 | [182825-empath.json](./182825-empath.json) |
 | Empathy: Path of Whispers | 29138 | [29138-empathy-path-of-whispers.json](./29138-empathy-path-of-whispers.json) |
