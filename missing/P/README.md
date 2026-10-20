@@ -4623,6 +4623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picture Perfect | 368075 | [368075-picture-perfect.json](./368075-picture-perfect.json) |
 | Picture Perfect Golf | 316767 | [316767-picture-perfect-golf.json](./316767-picture-perfect-golf.json) |
 | Picture Perfect: Hair Salon | 209965 | [209965-picture-perfect-hair-salon.json](./209965-picture-perfect-hair-salon.json) |
+| Picture Poker | 249625 | [249625-picture-poker.json](./249625-picture-poker.json) |
 | Picture Puzzle | 269636 | [269636-picture-puzzle.json](./269636-picture-puzzle.json) |
 | Picture Puzzle Collection: The Dutch Masters | 209964 | [209964-picture-puzzle-collection-the-dutch-masters.json](./209964-picture-puzzle-collection-the-dutch-masters.json) |
 | Picture Puzzle Girls: Slide & Match | 417313 | [417313-picture-puzzle-girls-slide-and-match.json](./417313-picture-puzzle-girls-slide-and-match.json) |
