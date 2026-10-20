@@ -3921,6 +3921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Circle | 128410 | [128410-into-the-circle.json](./128410-into-the-circle.json) |
 | Into the Core | 118429 | [118429-into-the-core.json](./118429-into-the-core.json) |
 | Into The Corner | 339112 | [339112-into-the-corner.json](./339112-into-the-corner.json) |
+| Into the Crypt | 212129 | [212129-into-the-crypt.json](./212129-into-the-crypt.json) |
 | Into the Cthulhu Mythology | 187848 | [187848-into-the-cthulhu-mythology.json](./187848-into-the-cthulhu-mythology.json) |
 | Into the Dark | 199644 | [199644-into-the-dark.json](./199644-into-the-dark.json) |
 | Into the Dark | 229514 | [229514-into-the-dark.json](./229514-into-the-dark.json) |
@@ -3972,6 +3973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into The Mountain | 394511 | [394511-into-the-mountain.json](./394511-into-the-mountain.json) |
 | Into the Necrovale | 234176 | [234176-into-the-necrovale.json](./234176-into-the-necrovale.json) |
 | Into The Net | 343844 | [343844-into-the-net.json](./343844-into-the-net.json) |
+| Into the Nightmare | 212120 | [212120-into-the-nightmare.json](./212120-into-the-nightmare.json) |
 | Into The Noid | 276651 | [276651-into-the-noid.json](./276651-into-the-noid.json) |
 | Into the Planet's Flesh | 401626 | [401626-into-the-planets-flesh.json](./401626-into-the-planets-flesh.json) |
 | Into the Radius | 115062 | [115062-into-the-radius.json](./115062-into-the-radius.json) |
