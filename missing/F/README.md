@@ -1396,6 +1396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Creations: House of Brass | 62819 | [62819-fantastic-creations-house-of-brass.json](./62819-fantastic-creations-house-of-brass.json) |
 | Fantastic Creatures | 114528 | [114528-fantastic-creatures.json](./114528-fantastic-creatures.json) |
 | Fantastic Dizzy | 12089 | [12089-fantastic-dizzy.json](./12089-fantastic-dizzy.json) |
+| Fantastic Dream | 254917 | [254917-fantastic-dream.json](./254917-fantastic-dream.json) |
 | Fantastic Farm | 359286 | [359286-fantastic-farm.json](./359286-fantastic-farm.json) |
 | Fantastic Fetus: Prebirth | 205113 | [205113-fantastic-fetus-prebirth.json](./205113-fantastic-fetus-prebirth.json) |
 | Fantastic Findings Hidden Seasons | 342827 | [342827-fantastic-findings-hidden-seasons.json](./342827-fantastic-findings-hidden-seasons.json) |
@@ -7486,6 +7487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Circus | 302347 | [302347-formula-circus.json](./302347-formula-circus.json) |
 | Formula Dare | 184429 | [184429-formula-dare.json](./184429-formula-dare.json) |
 | Formula Drag Manager | 221708 | [221708-formula-drag-manager.json](./221708-formula-drag-manager.json) |
+| Formula Evolution 2024 | 254904 | [254904-formula-evolution-2024.json](./254904-formula-evolution-2024.json) |
 | Formula Evolution 2025 | 385978 | [385978-formula-evolution-2025.json](./385978-formula-evolution-2025.json) |
 | Formula Funtico | 307427 | [307427-formula-funtico.json](./307427-formula-funtico.json) |
 | Formula GP | 242438 | [242438-formula-gp.json](./242438-formula-gp.json) |
@@ -7793,6 +7795,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune Fragments | 391788 | [391788-fortune-fragments.json](./391788-fortune-fragments.json) |
 | Fortune Handlers | 235493 | [235493-fortune-handlers.json](./235493-fortune-handlers.json) |
 | Fortune Hunters | 117729 | [117729-fortune-hunters.json](./117729-fortune-hunters.json) |
+| Fortune Lover Trial Version: Alan Edition | 254935 | [254935-fortune-lover-trial-version-alan-edition.json](./254935-fortune-lover-trial-version-alan-edition.json) |
+| Fortune Lover Trial Version: Geordo Edition | 254932 | [254932-fortune-lover-trial-version-geordo-edition.json](./254932-fortune-lover-trial-version-geordo-edition.json) |
+| Fortune Lover Trial Version: Keith Edition | 254934 | [254934-fortune-lover-trial-version-keith-edition.json](./254934-fortune-lover-trial-version-keith-edition.json) |
+| Fortune Lover Trial Version: Nicol Edition | 254936 | [254936-fortune-lover-trial-version-nicol-edition.json](./254936-fortune-lover-trial-version-nicol-edition.json) |
 | Fortune Paradox | 405083 | [405083-fortune-paradox.json](./405083-fortune-paradox.json) |
 | Fortune Quest: Dice wo Korogase | 42242 | [42242-fortune-quest-dice-wo-korogase.json](./42242-fortune-quest-dice-wo-korogase.json) |
 | Fortune Rewritten: Costume Pack 1 | 277939 | [277939-fortune-rewritten-costume-pack-1.json](./277939-fortune-rewritten-costume-pack-1.json) |
