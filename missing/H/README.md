@@ -5526,6 +5526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Secrets: The Nightmare | 209901 | [209901-hidden-secrets-the-nightmare.json](./209901-hidden-secrets-the-nightmare.json) |
 | Hidden Series 1 | 258194 | [258194-hidden-series-1.json](./258194-hidden-series-1.json) |
 | Hidden Series 2 | 274371 | [274371-hidden-series-2.json](./274371-hidden-series-2.json) |
+| Hidden Shapes Animals: VR | 209322 | [209322-hidden-shapes-animals-vr.json](./209322-hidden-shapes-animals-vr.json) |
 | Hidden Shapes: Animals + Lovely Cats | 194437 | [194437-hidden-shapes-animals-lovely-cats.json](./194437-hidden-shapes-animals-lovely-cats.json) |
 | Hidden Shapes: Black Skull + Old West | 213794 | [213794-hidden-shapes-black-skull-old-west.json](./213794-hidden-shapes-black-skull-old-west.json) |
 | Hidden Shapes: Cat Realm | 220037 | [220037-hidden-shapes-cat-realm.json](./220037-hidden-shapes-cat-realm.json) |
@@ -9317,6 +9318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hybrid 64 | 375336 | [375336-hybrid-64.json](./375336-hybrid-64.json) |
 | Hybrid Beasts | 53218 | [53218-hybrid-beasts.json](./53218-hybrid-beasts.json) |
 | Hybrid Blood | 347161 | [347161-hybrid-blood.json](./347161-hybrid-blood.json) |
+| Hybrid Harmony | 209304 | [209304-hybrid-harmony.json](./209304-hybrid-harmony.json) |
 | Hybrid Instinct | 157401 | [157401-hybrid-instinct.json](./157401-hybrid-instinct.json) |
 | Hybrid Miniature Golf Beta | 303557 | [303557-hybrid-miniature-golf-beta.json](./303557-hybrid-miniature-golf-beta.json) |
 | Hybrid Wars: Deluxe Edition | 51819 | [51819-hybrid-wars-deluxe-edition.json](./51819-hybrid-wars-deluxe-edition.json) |
