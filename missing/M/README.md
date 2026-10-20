@@ -983,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Siege | 75783 | [75783-magic-siege.json](./75783-magic-siege.json) |
 | Magic Snake II | 71517 | [71517-magic-snake-ii.json](./71517-magic-snake-ii.json) |
 | Magic Star | 306659 | [306659-magic-star.json](./306659-magic-star.json) |
+| Magic Stone Knights | 251441 | [251441-magic-stone-knights.json](./251441-magic-stone-knights.json) |
 | Magic Storm | 310808 | [310808-magic-storm.json](./310808-magic-storm.json) |
 | Magic Streets | 335648 | [335648-magic-streets.json](./335648-magic-streets.json) |
 | Magic Summoning Adventure | 154014 | [154014-magic-summoning-adventure.json](./154014-magic-summoning-adventure.json) |
@@ -9796,6 +9797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna no Tetris | 218532 | [218532-minna-no-tetris.json](./218532-minna-no-tetris.json) |
 | Minna no Tsumeshougi Nyuomon-hen | 142215 | [142215-minna-no-tsumeshougi-nyuomon-hen.json](./142215-minna-no-tsumeshougi-nyuomon-hen.json) |
 | Minna no! Shougakusei aru aru Sagashi: Kokomo mo Otona mo Tanoshimeru Irasuto Quiz no Tore Game | 222232 | [222232-minna-no-shougakusei-aru-aru-sagashi-kokomo-mo-otona-mo-tanoshimeru-irasuto-quiz-no-tore-game.json](./222232-minna-no-shougakusei-aru-aru-sagashi-kokomo-mo-otona-mo-tanoshimeru-irasuto-quiz-no-tore-game.json) |
+| Minna to Biohazard Clan Master | 251369 | [251369-minna-to-biohazard-clan-master.json](./251369-minna-to-biohazard-clan-master.json) |
 | Minna to Capcom All-Stars | 80494 | [80494-minna-to-capcom-all-stars.json](./80494-minna-to-capcom-all-stars.json) |
 | Minnano Gensokyo Single | 369561 | [369561-minnano-gensokyo-single.json](./369561-minnano-gensokyo-single.json) |
 | Minnie | 228443 | [228443-minnie.json](./228443-minnie.json) |
@@ -11435,6 +11437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monodot | 207828 | [207828-monodot.json](./207828-monodot.json) |
 | Monogatari Series Puc Puc | 133755 | [133755-monogatari-series-puc-puc.json](./133755-monogatari-series-puc-puc.json) |
 | Monogatari: Love Letter | 297029 | [297029-monogatari-love-letter.json](./297029-monogatari-love-letter.json) |
+| MonoGolf | 251385 | [251385-monogolf.json](./251385-monogolf.json) |
 | Monogon: Echoes | 147366 | [147366-monogon-echoes.json](./147366-monogon-echoes.json) |
 | Monokage Quest | 222543 | [222543-monokage-quest.json](./222543-monokage-quest.json) |
 | Monolit | 298108 | [298108-monolit.json](./298108-monolit.json) |
@@ -14263,6 +14266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muppet RaceMania | 3259 | [3259-muppet-racemania.json](./3259-muppet-racemania.json) |
 | Muppet Studios Presents: You're the Director | 80528 | [80528-muppet-studios-presents-youre-the-director.json](./80528-muppet-studios-presents-youre-the-director.json) |
 | Muppet Treasure Island | 71543 | [71543-muppet-treasure-island.json](./71543-muppet-treasure-island.json) |
+| Muppets Sorting and Ordering | 251387 | [251387-muppets-sorting-and-ordering.json](./251387-muppets-sorting-and-ordering.json) |
 | Muppled | 410077 | [410077-muppled.json](./410077-muppled.json) |
 | Muppy The Bunny: The Danger of Wishes | 117608 | [117608-muppy-the-bunny-the-danger-of-wishes.json](./117608-muppy-the-bunny-the-danger-of-wishes.json) |
 | Mura World | 267912 | [267912-mura-world.json](./267912-mura-world.json) |
@@ -15163,6 +15167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Friend was Dehydrated | 347001 | [347001-my-friend-was-dehydrated.json](./347001-my-friend-was-dehydrated.json) |
 | My Friend, the Catgirl | 239703 | [239703-my-friend-the-catgirl.json](./239703-my-friend-the-catgirl.json) |
 | My Friend, the Wickhorn | 415072 | [415072-my-friend-the-wickhorn.json](./415072-my-friend-the-wickhorn.json) |
+| My Friendly Little Island | 251376 | [251376-my-friendly-little-island.json](./251376-my-friendly-little-island.json) |
 | My Friendly Little Island Deluxe | 415395 | [415395-my-friendly-little-island-deluxe.json](./415395-my-friendly-little-island-deluxe.json) |
 | My Friendly Neighborhood | 172023 | [172023-my-friendly-neighborhood.json](./172023-my-friendly-neighborhood.json) |
 | My Friendly Neighborhood: Neighborhorde | 272834 | [272834-my-friendly-neighborhood-neighborhorde.json](./272834-my-friendly-neighborhood-neighborhorde.json) |
