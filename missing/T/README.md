@@ -8044,6 +8044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House | 17440 | [17440-the-house.json](./17440-the-house.json) |
 | The House | 240315 | [240315-the-house.json](./240315-the-house.json) |
 | The House | 352303 | [352303-the-house.json](./352303-the-house.json) |
+| The House 2 | 249610 | [249610-the-house-2.json](./249610-the-house-2.json) |
 | The House Always Wins | 378526 | [378526-the-house-always-wins.json](./378526-the-house-always-wins.json) |
 | The House Always Wins | 400471 | [400471-the-house-always-wins.json](./400471-the-house-always-wins.json) |
 | The House Before | 189124 | [189124-the-house-before.json](./189124-the-house-before.json) |
@@ -11972,6 +11973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret Island of Dr. Quandary | 46654 | [46654-the-secret-island-of-dr-quandary.json](./46654-the-secret-island-of-dr-quandary.json) |
 | The Secret Legacy: A Kate Brooks Adventure | 54294 | [54294-the-secret-legacy-a-kate-brooks-adventure.json](./54294-the-secret-legacy-a-kate-brooks-adventure.json) |
 | The Secret Life of Pets: Unleashed | 58324 | [58324-the-secret-life-of-pets-unleashed.json](./58324-the-secret-life-of-pets-unleashed.json) |
+| The Secret Life of Probes Prologue | 249639 | [249639-the-secret-life-of-probes-prologue.json](./249639-the-secret-life-of-probes-prologue.json) |
 | The Secret of Cat Island | 194003 | [194003-the-secret-of-cat-island.json](./194003-the-secret-of-cat-island.json) |
 | The Secret of Chunky Salsa | 327274 | [327274-the-secret-of-chunky-salsa.json](./327274-the-secret-of-chunky-salsa.json) |
 | The Secret of Crimson Manor | 297503 | [297503-the-secret-of-crimson-manor.json](./297503-the-secret-of-crimson-manor.json) |
@@ -14378,6 +14380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World of Marius | 369581 | [369581-the-world-of-marius.json](./369581-the-world-of-marius.json) |
 | The World of Nifty Craft | 256263 | [256263-the-world-of-nifty-craft.json](./256263-the-world-of-nifty-craft.json) |
 | The World of Nocrone | 60362 | [60362-the-world-of-nocrone.json](./60362-the-world-of-nocrone.json) |
+| The World of Obert Skye | 249593 | [249593-the-world-of-obert-skye.json](./249593-the-world-of-obert-skye.json) |
 | The World of Teo | 60382 | [60382-the-world-of-teo.json](./60382-the-world-of-teo.json) |
 | The World of the Candy Girl | 224538 | [224538-the-world-of-the-candy-girl.json](./224538-the-world-of-the-candy-girl.json) |
 | The World of War II: Frontlines of History | 283233 | [283233-the-world-of-war-ii-frontlines-of-history.json](./283233-the-world-of-war-ii-frontlines-of-history.json) |
@@ -14394,6 +14397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World's Hardest Game 3D 2 | 195966 | [195966-the-worlds-hardest-game-3d-2.json](./195966-the-worlds-hardest-game-3d-2.json) |
 | The World's Hardest Game 3D Nostalgia | 412509 | [412509-the-worlds-hardest-game-3d-nostalgia.json](./412509-the-worlds-hardest-game-3d-nostalgia.json) |
 | The World's Hardest Game 3D Nostalgia 2 | 265504 | [265504-the-worlds-hardest-game-3d-nostalgia-2.json](./265504-the-worlds-hardest-game-3d-nostalgia-2.json) |
+| The World's Hardest Game HTML5 | 249632 | [249632-the-worlds-hardest-game-html5.json](./249632-the-worlds-hardest-game-html5.json) |
 | The World's Hardest Game: On Steam | 262689 | [262689-the-worlds-hardest-game-on-steam.json](./262689-the-worlds-hardest-game-on-steam.json) |
 | The World's Legends: Kashchey the Immortal | 24772 | [24772-the-worlds-legends-kashchey-the-immortal.json](./24772-the-worlds-legends-kashchey-the-immortal.json) |
 | The World's Shortest Horror Game | 414766 | [414766-the-worlds-shortest-horror-game.json](./414766-the-worlds-shortest-horror-game.json) |
@@ -16873,6 +16877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiki Towers 2: Monkey Republic | 65294 | [65294-tiki-towers-2-monkey-republic.json](./65294-tiki-towers-2-monkey-republic.json) |
 | Tiki-Taka-Toe | 377233 | [377233-tiki-taka-toe.json](./377233-tiki-taka-toe.json) |
 | Tiki: The Masked Journey | 163850 | [163850-tiki-the-masked-journey.json](./163850-tiki-the-masked-journey.json) |
+| Tikrace | 249611 | [249611-tikrace.json](./249611-tikrace.json) |
 | Tikus Tales | 211167 | [211167-tikus-tales.json](./211167-tikus-tales.json) |
 | Tikutaku Concert | 148936 | [148936-tikutaku-concert.json](./148936-tikutaku-concert.json) |
 | Til Morning's Light | 18996 | [18996-til-mornings-light.json](./18996-til-mornings-light.json) |
