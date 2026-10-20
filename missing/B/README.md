@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baa-Baa Blitz: The Sheeps kebab Incident | 359024 | [359024-baa-baa-blitz-the-sheeps-kebab-incident.json](./359024-baa-baa-blitz-the-sheeps-kebab-incident.json) |
 | Baa! Never Stop Bleating | 295565 | [295565-baa-never-stop-bleating.json](./295565-baa-never-stop-bleating.json) |
 | Bååbösåångjåår | 276748 | [276748-baabosaangjaar.json](./276748-baabosaangjaar.json) |
+| Baalzebub | 236161 | [236161-baalzebub.json](./236161-baalzebub.json) |
 | Baam Squad | 90719 | [90719-baam-squad.json](./90719-baam-squad.json) |
 | Baazi | 360704 | [360704-baazi.json](./360704-baazi.json) |
 | BAB | 302208 | [302208-bab.json](./302208-bab.json) |
@@ -139,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babel Defender | 318760 | [318760-babel-defender.json](./318760-babel-defender.json) |
 | Babel Defense | 338174 | [338174-babel-defense.json](./338174-babel-defense.json) |
 | Babel Deluxe | 63897 | [63897-babel-deluxe.json](./63897-babel-deluxe.json) |
+| Babel of Ystilia | 236132 | [236132-babel-of-ystilia.json](./236132-babel-of-ystilia.json) |
 | Babel Rising: Sky's the Limit | 10018 | [10018-babel-rising-skys-the-limit.json](./10018-babel-rising-skys-the-limit.json) |
 | Babel Running | 10019 | [10019-babel-running.json](./10019-babel-running.json) |
 | Babel: The King of the Blocks | 42831 | [42831-babel-the-king-of-the-blocks.json](./42831-babel-the-king-of-the-blocks.json) |
@@ -13263,6 +13265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Force | 39492 | [39492-burning-force.json](./39492-burning-force.json) |
 | Burning Horns | 192271 | [192271-burning-horns.json](./192271-burning-horns.json) |
 | Burning Knight | 117702 | [117702-burning-knight.json](./117702-burning-knight.json) |
+| Burning Lands | 236126 | [236126-burning-lands.json](./236126-burning-lands.json) |
 | Burning Love | 287082 | [287082-burning-love.json](./287082-burning-love.json) |
 | Burning Monkey Casino | 352743 | [352743-burning-monkey-casino.json](./352743-burning-monkey-casino.json) |
 | Burning Monkey Solitaire 3 | 91560 | [91560-burning-monkey-solitaire-3.json](./91560-burning-monkey-solitaire-3.json) |
