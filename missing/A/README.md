@@ -850,6 +850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Space for the Unbound | 110039 | [110039-a-space-for-the-unbound.json](./110039-a-space-for-the-unbound.json) |
 | A Space for the Unbound: Special Edition | 283586 | [283586-a-space-for-the-unbound-special-edition.json](./283586-a-space-for-the-unbound-special-edition.json) |
 | A Spaceman Came Travelling | 177444 | [177444-a-spaceman-came-travelling.json](./177444-a-spaceman-came-travelling.json) |
+| A Special Place In Hell | 249066 | [249066-a-special-place-in-hell.json](./249066-a-special-place-in-hell.json) |
 | A Spider to A Fly | 280336 | [280336-a-spider-to-a-fly.json](./280336-a-spider-to-a-fly.json) |
 | A Spiritual Adventure | 386911 | [386911-a-spiritual-adventure.json](./386911-a-spiritual-adventure.json) |
 | A Spooky Ghost | 342808 | [342808-a-spooky-ghost.json](./342808-a-spooky-ghost.json) |
@@ -1287,6 +1288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned Life | 164513 | [164513-abandoned-life.json](./164513-abandoned-life.json) |
 | Abandoned Passage | 377425 | [377425-abandoned-passage.json](./377425-abandoned-passage.json) |
 | Abandoned Realms | 229108 | [229108-abandoned-realms.json](./229108-abandoned-realms.json) |
+| Abandoned Souls | 249029 | [249029-abandoned-souls.json](./249029-abandoned-souls.json) |
 | Abandoned Stories: Inherited Silence | 395245 | [395245-abandoned-stories-inherited-silence.json](./395245-abandoned-stories-inherited-silence.json) |
 | Abandoned Well | 73550 | [73550-abandoned-well.json](./73550-abandoned-well.json) |
 | Abandoned World | 243598 | [243598-abandoned-world.json](./243598-abandoned-world.json) |
@@ -9696,6 +9698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic's Adventure | 264704 | [264704-arctics-adventure.json](./264704-arctics-adventure.json) |
 | Arctica | 379712 | [379712-arctica.json](./379712-arctica.json) |
 | Arcticfox | 14517 | [14517-arcticfox.json](./14517-arcticfox.json) |
+| Arcticide | 249053 | [249053-arcticide.json](./249053-arcticide.json) |
 | Arcticmind | 182268 | [182268-arcticmind.json](./182268-arcticmind.json) |
 | Arctis | 334663 | [334663-arctis.json](./334663-arctis.json) |
 | Arcturus Proving Grounds | 61711 | [61711-arcturus-proving-grounds.json](./61711-arcturus-proving-grounds.json) |
@@ -10695,6 +10698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artificial Life Simulator | 287719 | [287719-artificial-life-simulator.json](./287719-artificial-life-simulator.json) |
 | Artificial Nexus | 319849 | [319849-artificial-nexus.json](./319849-artificial-nexus.json) |
 | Artificial Superintelligence | 174353 | [174353-artificial-superintelligence.json](./174353-artificial-superintelligence.json) |
+| Artificial Wings | 249018 | [249018-artificial-wings.json](./249018-artificial-wings.json) |
 | Artificiality | 115144 | [115144-artificiality.json](./115144-artificiality.json) |
 | Artigo | 202564 | [202564-artigo.json](./202564-artigo.json) |
 | Artika.1 | 74317 | [74317-artika-1.json](./74317-artika-1.json) |
@@ -13027,6 +13031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avenger | 109599 | [109599-avenger.json](./109599-avenger.json) |
 | Avenger | 280325 | [280325-avenger.json](./280325-avenger.json) |
 | Avenger | 91358 | [91358-avenger.json](./91358-avenger.json) |
+| Avenger Sharks | 249027 | [249027-avenger-sharks.json](./249027-avenger-sharks.json) |
 | Avengers: Damage Control | 122760 | [122760-avengers-damage-control.json](./122760-avengers-damage-control.json) |
 | Avengers: Laptop Infantil | 297740 | [297740-avengers-laptop-infantil.json](./297740-avengers-laptop-infantil.json) |
 | AvengeXX | 118836 | [118836-avengexx.json](./118836-avengexx.json) |
@@ -13277,6 +13282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axe Throw VR | 107850 | [107850-axe-throw-vr.json](./107850-axe-throw-vr.json) |
 | AxE: Alliance Vs Empire | 125351 | [125351-axe-alliance-vs-empire.json](./125351-axe-alliance-vs-empire.json) |
 | Axe.io | 100358 | [100358-axe-io.json](./100358-axe-io.json) |
+| Axecutioners | 249064 | [249064-axecutioners.json](./249064-axecutioners.json) |
 | Axegend | 131596 | [131596-axegend.json](./131596-axegend.json) |
 | Axel & Pixel | 14845 | [14845-axel-and-pixel.json](./14845-axel-and-pixel.json) |
 | Axel City | 124767 | [124767-axel-city.json](./124767-axel-city.json) |
