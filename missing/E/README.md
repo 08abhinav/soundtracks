@@ -1637,6 +1637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electronia | 55918 | [55918-electronia.json](./55918-electronia.json) |
 | Electronic Billiards | 79584 | [79584-electronic-billiards.json](./79584-electronic-billiards.json) |
 | Electronic City Tycoon | 212504 | [212504-electronic-city-tycoon.json](./212504-electronic-city-tycoon.json) |
+| Electronic Football | 225531 | [225531-electronic-football.json](./225531-electronic-football.json) |
 | Electronic Hand-Held Connect Four | 233610 | [233610-electronic-hand-held-connect-four.json](./233610-electronic-hand-held-connect-four.json) |
 | Electronic Hand-Held Monopoly | 233988 | [233988-electronic-hand-held-monopoly.json](./233988-electronic-hand-held-monopoly.json) |
 | Electronic Market Simulator | 312456 | [312456-electronic-market-simulator.json](./312456-electronic-market-simulator.json) |
