@@ -4374,6 +4374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing Over | 67674 | [67674-wing-over.json](./67674-wing-over.json) |
 | Wing Over 2 | 67667 | [67667-wing-over-2.json](./67667-wing-over-2.json) |
 | Wing War | 24014 | [24014-wing-war.json](./24014-wing-war.json) |
+| Wing Warriors | 218921 | [218921-wing-warriors.json](./218921-wing-warriors.json) |
 | Winged | 307689 | [307689-winged.json](./307689-winged.json) |
 | Winged Gear | 266653 | [266653-winged-gear.json](./266653-winged-gear.json) |
 | Winged Raider | 216837 | [216837-winged-raider.json](./216837-winged-raider.json) |
