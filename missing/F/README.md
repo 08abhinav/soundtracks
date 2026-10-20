@@ -2950,6 +2950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fenestra | 405641 | [405641-fenestra.json](./405641-fenestra.json) |
 | Fenestra: My Focus, Her Future | 415956 | [415956-fenestra-my-focus-her-future.json](./415956-fenestra-my-focus-her-future.json) |
 | Feng Qi Chang'an: Yu Gu Ren | 271674 | [271674-feng-qi-changan-yu-gu-ren.json](./271674-feng-qi-changan-yu-gu-ren.json) |
+| Feng Se Lv Ren | 228259 | [228259-feng-se-lv-ren.json](./228259-feng-se-lv-ren.json) |
 | Feng Shen Bang 2023 | 267005 | [267005-feng-shen-bang-2023.json](./267005-feng-shen-bang-2023.json) |
 | Fēng Shén Chuánqí | 414120 | [414120-feng-shen-chuanqi.json](./414120-feng-shen-chuanqi.json) |
 | Feng Shui: Meowjong | 348796 | [348796-feng-shui-meowjong.json](./348796-feng-shui-meowjong.json) |
@@ -5520,6 +5521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy 2: The Resurrection of Blue Star | 62199 | [62199-flappy-2-the-resurrection-of-blue-star.json](./62199-flappy-2-the-resurrection-of-blue-star.json) |
 | Flappy Alien | 311232 | [311232-flappy-alien.json](./311232-flappy-alien.json) |
 | Flappy Arms | 81698 | [81698-flappy-arms.json](./81698-flappy-arms.json) |
+| Flappy Ball | 228271 | [228271-flappy-ball.json](./228271-flappy-ball.json) |
 | Flappy Bat | 156970 | [156970-flappy-bat.json](./156970-flappy-bat.json) |
 | Flappy Bat 3 | 347231 | [347231-flappy-bat-3.json](./347231-flappy-bat-3.json) |
 | Flappy Bee | 169471 | [169471-flappy-bee.json](./169471-flappy-bee.json) |
@@ -9394,6 +9396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Mission 2089 | 1504 | [1504-front-mission-2089.json](./1504-front-mission-2089.json) |
 | Front Mission 2089-II | 1507 | [1507-front-mission-2089-ii.json](./1507-front-mission-2089-ii.json) |
 | Front Mission 2089: Border of Madness | 72662 | [72662-front-mission-2089-border-of-madness.json](./72662-front-mission-2089-border-of-madness.json) |
+| Front Mission 2089: Borderscape | 228269 | [228269-front-mission-2089-borderscape.json](./228269-front-mission-2089-borderscape.json) |
 | Front Mission 3 | 1502 | [1502-front-mission-3.json](./1502-front-mission-3.json) |
 | Front Mission 3: Remake | 217552 | [217552-front-mission-3-remake.json](./217552-front-mission-3-remake.json) |
 | Front Mission 5: Scars of the War | 1506 | [1506-front-mission-5-scars-of-the-war.json](./1506-front-mission-5-scars-of-the-war.json) |
