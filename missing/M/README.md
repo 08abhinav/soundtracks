@@ -12316,6 +12316,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Knight | 280758 | [280758-moon-knight.json](./280758-moon-knight.json) |
 | Moon Lab Shooter | 235773 | [235773-moon-lab-shooter.json](./235773-moon-lab-shooter.json) |
 | Moon Lander | 41989 | [41989-moon-lander.json](./41989-moon-lander.json) |
+| Moon Landing | 235079 | [235079-moon-landing.json](./235079-moon-landing.json) |
+| Moon Landing | 235081 | [235081-moon-landing.json](./235081-moon-landing.json) |
 | Moon Lights | 194895 | [194895-moon-lights.json](./194895-moon-lights.json) |
 | Moon Lights II | 194896 | [194896-moon-lights-ii.json](./194896-moon-lights-ii.json) |
 | Moon Magic Array | 251961 | [251961-moon-magic-array.json](./251961-moon-magic-array.json) |
