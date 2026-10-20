@@ -644,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Baseball Jitsumei-ban | 44429 | [44429-ultra-baseball-jitsumei-ban.json](./44429-ultra-baseball-jitsumei-ban.json) |
 | Ultra Baseball Jitsumei-ban 2 | 38235 | [38235-ultra-baseball-jitsumei-ban-2.json](./38235-ultra-baseball-jitsumei-ban-2.json) |
 | Ultra Baseball Jitsumei-ban 3 | 37775 | [37775-ultra-baseball-jitsumei-ban-3.json](./37775-ultra-baseball-jitsumei-ban-3.json) |
+| Ultra Blade | 239505 | [239505-ultra-blade.json](./239505-ultra-blade.json) |
 | Ultra Boat Game!!! | 154379 | [154379-ultra-boat-game.json](./154379-ultra-boat-game.json) |
 | Ultra Bonk Survivors | 378181 | [378181-ultra-bonk-survivors.json](./378181-ultra-bonk-survivors.json) |
 | Ultra Bravo RPG | 339858 | [339858-ultra-bravo-rpg.json](./339858-ultra-bravo-rpg.json) |
