@@ -3579,6 +3579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Ariel | 242624 | [242624-hentai-ariel.json](./242624-hentai-ariel.json) |
 | Hentai Ariya | 379336 | [379336-hentai-ariya.json](./379336-hentai-ariya.json) |
 | Hentai Asmodeus | 125352 | [125352-hentai-asmodeus.json](./125352-hentai-asmodeus.json) |
+| Hentai Ayumi | 244081 | [244081-hentai-ayumi.json](./244081-hentai-ayumi.json) |
 | Hentai Bad Girls | 280267 | [280267-hentai-bad-girls.json](./280267-hentai-bad-girls.json) |
 | Hentai Balloons 2 | 156637 | [156637-hentai-balloons-2.json](./156637-hentai-balloons-2.json) |
 | Hentai Balls 3D: Heavy Attraction | 380701 | [380701-hentai-balls-3d-heavy-attraction.json](./380701-hentai-balls-3d-heavy-attraction.json) |
@@ -9285,6 +9286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Hentai Bikini Party | 246814 | [246814-hyper-hentai-bikini-party.json](./246814-hyper-hentai-bikini-party.json) |
 | Hyper Hentai Devil Hell | 247781 | [247781-hyper-hentai-devil-hell.json](./247781-hyper-hentai-devil-hell.json) |
 | Hyper Hentai Elf Attendant | 245927 | [245927-hyper-hentai-elf-attendant.json](./245927-hyper-hentai-elf-attendant.json) |
+| Hyper Hentai Sister Nun | 244113 | [244113-hyper-hentai-sister-nun.json](./244113-hyper-hentai-sister-nun.json) |
 | Hyper Heroes | 54992 | [54992-hyper-heroes.json](./54992-hyper-heroes.json) |
 | Hyper HitBoxing | 247943 | [247943-hyper-hitboxing.json](./247943-hyper-hitboxing.json) |
 | Hyper Hostess | 240888 | [240888-hyper-hostess.json](./240888-hyper-hostess.json) |
