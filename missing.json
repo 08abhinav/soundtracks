@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T08:03:44.306Z",
-  "total_missing": 236843,
+  "generated_at": "2026-10-20T08:18:36.483Z",
+  "total_missing": 236893,
   "games": [
     {
       "igdb_id": 191680,
@@ -54922,6 +54922,11 @@
       "file": "missing/A/315876-apex-heroines-deluxe-edition.json"
     },
     {
+      "igdb_id": 236657,
+      "game_name": "Apex Legends Mobile: Champions",
+      "file": "missing/A/236657-apex-legends-mobile-champions.json"
+    },
+    {
       "igdb_id": 211298,
       "game_name": "Apex Legends Mobile: Cold Snap",
       "file": "missing/A/211298-apex-legends-mobile-cold-snap.json"
@@ -55025,6 +55030,11 @@
       "igdb_id": 342775,
       "game_name": "Apex Legends: Prodigy",
       "file": "missing/A/342775-apex-legends-prodigy.json"
+    },
+    {
+      "igdb_id": 236655,
+      "game_name": "Apex Legends: Revelry",
+      "file": "missing/A/236655-apex-legends-revelry.json"
     },
     {
       "igdb_id": 133259,
@@ -93222,9 +93232,19 @@
       "file": "missing/B/236711-baten-kaitos-i-and-ii-hd-remaster.json"
     },
     {
+      "igdb_id": 236710,
+      "game_name": "Baten Kaitos Origins",
+      "file": "missing/B/236710-baten-kaitos-origins.json"
+    },
+    {
       "igdb_id": 3796,
       "game_name": "Baten Kaitos Origins",
       "file": "missing/B/3796-baten-kaitos-origins.json"
+    },
+    {
+      "igdb_id": 236709,
+      "game_name": "Baten Kaitos: Eternal Wings and the Lost Ocean",
+      "file": "missing/B/236709-baten-kaitos-eternal-wings-and-the-lost-ocean.json"
     },
     {
       "igdb_id": 326471,
@@ -226062,6 +226082,11 @@
       "file": "missing/C/158691-cyberpunch.json"
     },
     {
+      "igdb_id": 236691,
+      "game_name": "Cyberpunk",
+      "file": "missing/C/236691-cyberpunk.json"
+    },
+    {
       "igdb_id": 262905,
       "game_name": "Cyberpunk 2",
       "file": "missing/C/262905-cyberpunk-2.json"
@@ -245092,6 +245117,11 @@
       "file": "missing/D/356056-decapita.json"
     },
     {
+      "igdb_id": 236661,
+      "game_name": "DecaPolice",
+      "file": "missing/D/236661-decapolice.json"
+    },
+    {
       "igdb_id": 180515,
       "game_name": "Decarathon",
       "file": "missing/D/180515-decarathon.json"
@@ -245370,6 +245400,11 @@
       "igdb_id": 33205,
       "game_name": "Decisive Campaigns: Barbarossa",
       "file": "missing/D/33205-decisive-campaigns-barbarossa.json"
+    },
+    {
+      "igdb_id": 236650,
+      "game_name": "Deck 'Em!",
+      "file": "missing/D/236650-deck-em.json"
     },
     {
       "igdb_id": 372254,
@@ -258857,6 +258892,11 @@
       "file": "missing/D/319726-dicealot.json"
     },
     {
+      "igdb_id": 236648,
+      "game_name": "Diced Pilot",
+      "file": "missing/D/236648-diced-pilot.json"
+    },
+    {
       "igdb_id": 373869,
       "game_name": "Diceeee",
       "file": "missing/D/373869-diceeee.json"
@@ -265105,6 +265145,11 @@
       "igdb_id": 355677,
       "game_name": "Disney Dreamlight Valley: Mysteries of Skull Rock",
       "file": "missing/D/355677-disney-dreamlight-valley-mysteries-of-skull-rock.json"
+    },
+    {
+      "igdb_id": 236672,
+      "game_name": "Disney Dreamlight Valley: Pride of the Valley",
+      "file": "missing/D/236672-disney-dreamlight-valley-pride-of-the-valley.json"
     },
     {
       "igdb_id": 391298,
@@ -321967,6 +322012,11 @@
       "file": "missing/E/70894-etrian-mystery-dungeon-2-etrian-odyssey-10th-anniversary-box.json"
     },
     {
+      "igdb_id": 236678,
+      "game_name": "Etrian Odyssey HD",
+      "file": "missing/E/236678-etrian-odyssey-hd.json"
+    },
+    {
       "igdb_id": 251586,
       "game_name": "Etrian Odyssey HD Character Set DLC",
       "file": "missing/E/251586-etrian-odyssey-hd-character-set-dlc.json"
@@ -321977,6 +322027,11 @@
       "file": "missing/E/283398-etrian-odyssey-heardle.json"
     },
     {
+      "igdb_id": 236684,
+      "game_name": "Etrian Odyssey II HD",
+      "file": "missing/E/236684-etrian-odyssey-ii-hd.json"
+    },
+    {
       "igdb_id": 251695,
       "game_name": "Etrian Odyssey II HD: Character Set DLC",
       "file": "missing/E/251695-etrian-odyssey-ii-hd-character-set-dlc.json"
@@ -321985,6 +322040,11 @@
       "igdb_id": 14717,
       "game_name": "Etrian Odyssey II: Heroes of Lagaard",
       "file": "missing/E/14717-etrian-odyssey-ii-heroes-of-lagaard.json"
+    },
+    {
+      "igdb_id": 236685,
+      "game_name": "Etrian Odyssey III HD",
+      "file": "missing/E/236685-etrian-odyssey-iii-hd.json"
     },
     {
       "igdb_id": 251696,
@@ -322000,6 +322060,11 @@
       "igdb_id": 6767,
       "game_name": "Etrian Odyssey IV: Legends of the Titan",
       "file": "missing/E/6767-etrian-odyssey-iv-legends-of-the-titan.json"
+    },
+    {
+      "igdb_id": 236687,
+      "game_name": "Etrian Odyssey Origins Collection: Limited Edition",
+      "file": "missing/E/236687-etrian-odyssey-origins-collection-limited-edition.json"
     },
     {
       "igdb_id": 6768,
@@ -351970,6 +352035,31 @@
       "igdb_id": 375371,
       "game_name": "Fire emblem: Emulation Theory",
       "file": "missing/F/375371-fire-emblem-emulation-theory.json"
+    },
+    {
+      "igdb_id": 236699,
+      "game_name": "Fire Emblem: Engage - Expansion Pass: Wave 1",
+      "file": "missing/F/236699-fire-emblem-engage-expansion-pass-wave-1.json"
+    },
+    {
+      "igdb_id": 236700,
+      "game_name": "Fire Emblem: Engage - Expansion Pass: Wave 2",
+      "file": "missing/F/236700-fire-emblem-engage-expansion-pass-wave-2.json"
+    },
+    {
+      "igdb_id": 236701,
+      "game_name": "Fire Emblem: Engage - Expansion Pass: Wave 3",
+      "file": "missing/F/236701-fire-emblem-engage-expansion-pass-wave-3.json"
+    },
+    {
+      "igdb_id": 236702,
+      "game_name": "Fire Emblem: Engage - Expansion Pass: Wave 4",
+      "file": "missing/F/236702-fire-emblem-engage-expansion-pass-wave-4.json"
+    },
+    {
+      "igdb_id": 236704,
+      "game_name": "Fire Emblem: Engage Expansion Pass",
+      "file": "missing/F/236704-fire-emblem-engage-expansion-pass.json"
     },
     {
       "igdb_id": 366896,
@@ -512907,6 +512997,11 @@
       "file": "missing/J/230283-jungle-quest.json"
     },
     {
+      "igdb_id": 236688,
+      "game_name": "Jungle Quest",
+      "file": "missing/J/236688-jungle-quest.json"
+    },
+    {
       "igdb_id": 283855,
       "game_name": "Jungle Ranger",
       "file": "missing/J/283855-jungle-ranger.json"
@@ -604517,6 +604612,11 @@
       "file": "missing/M/195570-mega-man.json"
     },
     {
+      "igdb_id": 236703,
+      "game_name": "Mega Man",
+      "file": "missing/M/236703-mega-man.json"
+    },
+    {
       "igdb_id": 281415,
       "game_name": "Mega Man",
       "file": "missing/M/281415-mega-man.json"
@@ -604552,6 +604652,11 @@
       "file": "missing/M/217935-mega-man-2.json"
     },
     {
+      "igdb_id": 236705,
+      "game_name": "Mega Man 2",
+      "file": "missing/M/236705-mega-man-2.json"
+    },
+    {
       "igdb_id": 206149,
       "game_name": "Mega Man 2 Lite",
       "file": "missing/M/206149-mega-man-2-lite.json"
@@ -604585,6 +604690,11 @@
       "igdb_id": 198813,
       "game_name": "Mega Man 3",
       "file": "missing/M/198813-mega-man-3.json"
+    },
+    {
+      "igdb_id": 236706,
+      "game_name": "Mega Man 3",
+      "file": "missing/M/236706-mega-man-3.json"
     },
     {
       "igdb_id": 219088,
@@ -628642,6 +628752,11 @@
       "file": "missing/M/15795-mission-runway.json"
     },
     {
+      "igdb_id": 236693,
+      "game_name": "Mission Sigma",
+      "file": "missing/M/236693-mission-sigma.json"
+    },
+    {
       "igdb_id": 93040,
       "game_name": "Mission Supernova",
       "file": "missing/M/93040-mission-supernova.json"
@@ -633295,6 +633410,11 @@
       "igdb_id": 186773,
       "game_name": "Momotaro Dentetsu World Remote Play",
       "file": "missing/M/186773-momotaro-dentetsu-world-remote-play.json"
+    },
+    {
+      "igdb_id": 236695,
+      "game_name": "Momotaro Dentetsu World: Chikyuu ha Kibou de Mawatteru!",
+      "file": "missing/M/236695-momotaro-dentetsu-world-chikyuu-ha-kibou-de-mawatteru.json"
     },
     {
       "igdb_id": 79557,
@@ -678895,6 +679015,11 @@
       "igdb_id": 66135,
       "game_name": "Ninety-Nine Nights Online",
       "file": "missing/N/66135-ninety-nine-nights-online.json"
+    },
+    {
+      "igdb_id": 236649,
+      "game_name": "Ninety-Six",
+      "file": "missing/N/236649-ninety-six.json"
     },
     {
       "igdb_id": 246977,
@@ -755492,6 +755617,31 @@
       "file": "missing/P/227817-pokeroku.json"
     },
     {
+      "igdb_id": 236714,
+      "game_name": "PokeRoku 2",
+      "file": "missing/P/236714-pokeroku-2.json"
+    },
+    {
+      "igdb_id": 236715,
+      "game_name": "PokeRoku 3",
+      "file": "missing/P/236715-pokeroku-3.json"
+    },
+    {
+      "igdb_id": 236716,
+      "game_name": "PokeRoku 4",
+      "file": "missing/P/236716-pokeroku-4.json"
+    },
+    {
+      "igdb_id": 236717,
+      "game_name": "PokeRoku 5",
+      "file": "missing/P/236717-pokeroku-5.json"
+    },
+    {
+      "igdb_id": 236718,
+      "game_name": "PokeRoku 6",
+      "file": "missing/P/236718-pokeroku-6.json"
+    },
+    {
       "igdb_id": 218523,
       "game_name": "PokéROM: Mew",
       "file": "missing/P/218523-pokerom-mew.json"
@@ -768272,6 +768422,11 @@
       "file": "missing/P/97866-pro-mahjong-tsuwamono-gba.json"
     },
     {
+      "igdb_id": 236671,
+      "game_name": "Pro Mahjong Tsuwamono: Renka-ban",
+      "file": "missing/P/236671-pro-mahjong-tsuwamono-renka-ban.json"
+    },
+    {
       "igdb_id": 354589,
       "game_name": "Pro Mountain Bike Simulator",
       "file": "missing/P/354589-pro-mountain-bike-simulator.json"
@@ -769165,6 +769320,11 @@
       "igdb_id": 1401,
       "game_name": "Professor Layton and the Miracle Mask",
       "file": "missing/P/1401-professor-layton-and-the-miracle-mask.json"
+    },
+    {
+      "igdb_id": 236665,
+      "game_name": "Professor Layton and the New World of Steam",
+      "file": "missing/P/236665-professor-layton-and-the-new-world-of-steam.json"
     },
     {
       "igdb_id": 276491,
@@ -803540,6 +803700,11 @@
       "igdb_id": 172487,
       "game_name": "Reese's Pac-Man",
       "file": "missing/R/172487-reeses-pac-man.json"
+    },
+    {
+      "igdb_id": 236682,
+      "game_name": "Reese’s Puffs x Ambush Breakfastverse",
+      "file": "missing/R/236682-reese-s-puffs-x-ambush-breakfastverse.json"
     },
     {
       "igdb_id": 197409,
@@ -841857,6 +842022,11 @@
       "file": "missing/S/235668-sanctuary-shattered-sun.json"
     },
     {
+      "igdb_id": 236690,
+      "game_name": "Sanctum",
+      "file": "missing/S/236690-sanctum.json"
+    },
+    {
       "igdb_id": 10806,
       "game_name": "Sanctum 2: Road to Elysion",
       "file": "missing/S/10806-sanctum-2-road-to-elysion.json"
@@ -859152,6 +859322,11 @@
       "file": "missing/S/232486-sevn.json"
     },
     {
+      "igdb_id": 236686,
+      "game_name": "SevTech: Ages",
+      "file": "missing/S/236686-sevtech-ages.json"
+    },
+    {
       "igdb_id": 254321,
       "game_name": "Sevyal",
       "file": "missing/S/254321-sevyal.json"
@@ -874737,6 +874912,11 @@
       "file": "missing/S/390655-signal-hill.json"
     },
     {
+      "igdb_id": 236689,
+      "game_name": "Signal Lost",
+      "file": "missing/S/236689-signal-lost.json"
+    },
+    {
       "igdb_id": 327358,
       "game_name": "Signal Lost",
       "file": "missing/S/327358-signal-lost.json"
@@ -882912,6 +883092,11 @@
       "file": "missing/S/82463-sky-haven.json"
     },
     {
+      "igdb_id": 236696,
+      "game_name": "Sky Haven: AR Merge Adventure",
+      "file": "missing/S/236696-sky-haven-ar-merge-adventure.json"
+    },
+    {
       "igdb_id": 93723,
       "game_name": "Sky Hawk",
       "file": "missing/S/93723-sky-hawk.json"
@@ -884410,6 +884595,11 @@
       "igdb_id": 259142,
       "game_name": "Slam Dunk Basketball 2",
       "file": "missing/S/259142-slam-dunk-basketball-2.json"
+    },
+    {
+      "igdb_id": 236652,
+      "game_name": "Slam Dunk: Dream Team - Shueisha Limited",
+      "file": "missing/S/236652-slam-dunk-dream-team-shueisha-limited.json"
     },
     {
       "igdb_id": 78516,
@@ -918937,6 +919127,16 @@
       "file": "missing/S/136382-splatoon-2-splatoon-2-octo-expansion-bundle.json"
     },
     {
+      "igdb_id": 236681,
+      "game_name": "Splatoon 3: Expansion Pass",
+      "file": "missing/S/236681-splatoon-3-expansion-pass.json"
+    },
+    {
+      "igdb_id": 236677,
+      "game_name": "Splatoon 3: Inkopolis",
+      "file": "missing/S/236677-splatoon-3-inkopolis.json"
+    },
+    {
       "igdb_id": 358239,
       "game_name": "Splatoon 3: Rainbow Alterna",
       "file": "missing/S/358239-splatoon-3-rainbow-alterna.json"
@@ -952042,6 +952242,16 @@
       "file": "missing/S/94401-super-football-sunday.json"
     },
     {
+      "igdb_id": 236675,
+      "game_name": "Super Formation Soccer 95: della Serie A - Extra Package",
+      "file": "missing/S/236675-super-formation-soccer-95-della-serie-a-extra-package.json"
+    },
+    {
+      "igdb_id": 236673,
+      "game_name": "Super Formation Soccer 95: della Serie A - UCC Xaqua",
+      "file": "missing/S/236673-super-formation-soccer-95-della-serie-a-ucc-xaqua.json"
+    },
+    {
       "igdb_id": 147611,
       "game_name": "Super Fowlst 2",
       "file": "missing/S/147611-super-fowlst-2.json"
@@ -960430,6 +960640,11 @@
       "igdb_id": 46116,
       "game_name": "Super Tetris",
       "file": "missing/S/46116-super-tetris.json"
+    },
+    {
+      "igdb_id": 236679,
+      "game_name": "Super Tetris 2 + BomBliss: Gentei-ban",
+      "file": "missing/S/236679-super-tetris-2-bombliss-gentei-ban.json"
     },
     {
       "igdb_id": 42531,
@@ -983300,6 +983515,11 @@
       "igdb_id": 298635,
       "game_name": "Tearfallen",
       "file": "missing/T/298635-tearfallen.json"
+    },
+    {
+      "igdb_id": 236651,
+      "game_name": "Tearing Spaces",
+      "file": "missing/T/236651-tearing-spaces.json"
     },
     {
       "igdb_id": 398590,
@@ -1022572,6 +1022792,11 @@
       "file": "missing/T/111524-the-master-club.json"
     },
     {
+      "igdb_id": 236654,
+      "game_name": "The Master of Puzzles",
+      "file": "missing/T/236654-the-master-of-puzzles.json"
+    },
+    {
       "igdb_id": 362278,
       "game_name": "The Master of the Land",
       "file": "missing/T/362278-the-master-of-the-land.json"
@@ -1028105,6 +1028330,11 @@
       "igdb_id": 117089,
       "game_name": "The Prison",
       "file": "missing/T/117089-the-prison.json"
+    },
+    {
+      "igdb_id": 236692,
+      "game_name": "The Prison",
+      "file": "missing/T/236692-the-prison.json"
     },
     {
       "igdb_id": 54962,
@@ -1164835,6 +1165065,26 @@
       "igdb_id": 380732,
       "game_name": "Xenoblade Chronicles 3 Randomizer",
       "file": "missing/X/380732-xenoblade-chronicles-3-randomizer.json"
+    },
+    {
+      "igdb_id": 236666,
+      "game_name": "Xenoblade Chronicles 3: DLC Wave 1",
+      "file": "missing/X/236666-xenoblade-chronicles-3-dlc-wave-1.json"
+    },
+    {
+      "igdb_id": 236667,
+      "game_name": "Xenoblade Chronicles 3: DLC Wave 2",
+      "file": "missing/X/236667-xenoblade-chronicles-3-dlc-wave-2.json"
+    },
+    {
+      "igdb_id": 236668,
+      "game_name": "Xenoblade Chronicles 3: DLC Wave 3",
+      "file": "missing/X/236668-xenoblade-chronicles-3-dlc-wave-3.json"
+    },
+    {
+      "igdb_id": 236670,
+      "game_name": "Xenoblade Chronicles 3: Expansion Pass",
+      "file": "missing/X/236670-xenoblade-chronicles-3-expansion-pass.json"
     },
     {
       "igdb_id": 236669,
