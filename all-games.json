@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T22:16:24.486Z",
-  "total_soundtracks": 2343,
+  "generated_at": "2026-10-20T22:16:39.703Z",
+  "total_soundtracks": 2344,
   "games": [
     {
       "igdb_id": 7522,
@@ -21138,6 +21138,20 @@
           "album_name": "Skull and Bones: Rise of the Kingpins (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6Ka5oZIVMtC7SU0e3EdZ1e",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 19469,
+      "game_name": "Sky Force Reloaded",
+      "game_url": "https://ostdb.net/games/sky-force-reloaded",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27307403946830a6604d8cebba8",
+      "albums": [
+        {
+          "album_name": "Sky Force Reloaded (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/61ZRt4iL6WcAVsk2NtRl1m",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
