@@ -887,6 +887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warboss | 390479 | [390479-warboss.json](./390479-warboss.json) |
 | Warbot | 86523 | [86523-warbot.json](./86523-warbot.json) |
 | Warbot Engineer | 337458 | [337458-warbot-engineer.json](./337458-warbot-engineer.json) |
+| WarBots | 247892 | [247892-warbots.json](./247892-warbots.json) |
 | Warbound | 347724 | [347724-warbound.json](./347724-warbound.json) |
 | Warbound | 372627 | [372627-warbound.json](./372627-warbound.json) |
 | Warbound Storm | 220161 | [220161-warbound-storm.json](./220161-warbound-storm.json) |
