@@ -1711,6 +1711,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bar Soviet | 346544 | [346544-bar-soviet.json](./346544-bar-soviet.json) |
 | Bar Stella Abyss | 277489 | [277489-bar-stella-abyss.json](./277489-bar-stella-abyss.json) |
 | Bar the Gates | 185467 | [185467-bar-the-gates.json](./185467-bar-the-gates.json) |
+| Bara Beach Bear | 207166 | [207166-bara-beach-bear.json](./207166-bara-beach-bear.json) |
+| Bara Blackjack | 207169 | [207169-bara-blackjack.json](./207169-bara-blackjack.json) |
 | Bara Boarders | 183046 | [183046-bara-boarders.json](./183046-bara-boarders.json) |
 | Bara no Ki ni Bara no Hanasaku Fandisk | 218954 | [218954-bara-no-ki-ni-bara-no-hanasaku-fandisk.json](./218954-bara-no-ki-ni-bara-no-hanasaku-fandisk.json) |
 | Bara no Ki ni: Bara no Hanasaku | 56522 | [56522-bara-no-ki-ni-bara-no-hanasaku.json](./56522-bara-no-ki-ni-bara-no-hanasaku.json) |
@@ -4151,6 +4153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beater: Apocal Undone | 290492 | [290492-beater-apocal-undone.json](./290492-beater-apocal-undone.json) |
 | Beaterator | 18383 | [18383-beaterator.json](./18383-beaterator.json) |
 | BeatEVO YG | 74785 | [74785-beatevo-yg.json](./74785-beatevo-yg.json) |
+| Beatification | 207143 | [207143-beatification.json](./207143-beatification.json) |
 | Beating A Dead Horse With A One-Trick Pony | 111508 | [111508-beating-a-dead-horse-with-a-one-trick-pony.json](./111508-beating-a-dead-horse-with-a-one-trick-pony.json) |
 | BeatJunkies | 168134 | [168134-beatjunkies.json](./168134-beatjunkies.json) |
 | Beatle Quest | 249628 | [249628-beatle-quest.json](./249628-beatle-quest.json) |
@@ -6762,6 +6765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Clover: Infinite Knights | 122885 | [122885-black-clover-infinite-knights.json](./122885-black-clover-infinite-knights.json) |
 | Black Clover: Quartet Knights - Royal Magic Knight Set: Blue | 224123 | [224123-black-clover-quartet-knights-royal-magic-knight-set-blue.json](./224123-black-clover-quartet-knights-royal-magic-knight-set-blue.json) |
 | Black Clover: Quartet Knights - Royal Magic Knight Set: Wizard King | 224122 | [224122-black-clover-quartet-knights-royal-magic-knight-set-wizard-king.json](./224122-black-clover-quartet-knights-royal-magic-knight-set-wizard-king.json) |
+| Black Coal | 207167 | [207167-black-coal.json](./207167-black-coal.json) |
 | Black Code | 55840 | [55840-black-code.json](./55840-black-code.json) |
 | Black College Football: The Xperience | 47439 | [47439-black-college-football-the-xperience.json](./47439-black-college-football-the-xperience.json) |
 | Black Command | 107221 | [107221-black-command.json](./107221-black-command.json) |
@@ -7902,6 +7906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Buster | 270766 | [270766-block-buster.json](./270766-block-buster.json) |
 | Block Buster | 299608 | [299608-block-buster.json](./299608-block-buster.json) |
 | Block Buster | 38585 | [38585-block-buster.json](./38585-block-buster.json) |
+| Block Buster Billy | 207175 | [207175-block-buster-billy.json](./207175-block-buster-billy.json) |
 | Block Busters: Local Party | 172171 | [172171-block-busters-local-party.json](./172171-block-busters-local-party.json) |
 | Block by Block: Sliding Blocks | 232494 | [232494-block-by-block-sliding-blocks.json](./232494-block-by-block-sliding-blocks.json) |
 | Block By Block: The Amulet | 350772 | [350772-block-by-block-the-amulet.json](./350772-block-by-block-the-amulet.json) |
@@ -9269,6 +9274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boidtrancer | 295625 | [295625-boidtrancer.json](./295625-boidtrancer.json) |
 | Boil Cabbage Make Soup | 414516 | [414516-boil-cabbage-make-soup.json](./414516-boil-cabbage-make-soup.json) |
 | Boil Noodles at Night | 270733 | [270733-boil-noodles-at-night.json](./270733-boil-noodles-at-night.json) |
+| Boiling Over | 207168 | [207168-boiling-over.json](./207168-boiling-over.json) |
 | Boin | 394455 | [394455-boin.json](./394455-boin.json) |
 | Boing | 13886 | [13886-boing.json](./13886-boing.json) |
 | Boing | 223338 | [223338-boing.json](./223338-boing.json) |
@@ -10419,6 +10425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncing Rainbow | 259629 | [259629-bouncing-rainbow.json](./259629-bouncing-rainbow.json) |
 | Bouncing Slime: Impossible Levels | 343985 | [343985-bouncing-slime-impossible-levels.json](./343985-bouncing-slime-impossible-levels.json) |
 | Bouncing Traveler | 166838 | [166838-bouncing-traveler.json](./166838-bouncing-traveler.json) |
+| Bouncy | 207170 | [207170-bouncy.json](./207170-bouncy.json) |
 | Bouncy Ball | 245201 | [245201-bouncy-ball.json](./245201-bouncy-ball.json) |
 | Bouncy Bean | 388187 | [388187-bouncy-bean.json](./388187-bouncy-bean.json) |
 | Bouncy Brain | 388273 | [388273-bouncy-brain.json](./388273-bouncy-brain.json) |
@@ -10779,6 +10786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boy Goes to Space | 128584 | [128584-boy-goes-to-space.json](./128584-boy-goes-to-space.json) |
 | Boy Next Door | 74120 | [74120-boy-next-door.json](./74120-boy-next-door.json) |
 | Boy vs. Genius | 119014 | [119014-boy-vs-genius.json](./119014-boy-vs-genius.json) |
+| Boy with Cat | 207172 | [207172-boy-with-cat.json](./207172-boy-with-cat.json) |
 | Boy x Boy: Shiritsu Kouryou Gakuin Seishinryou | 417548 | [417548-boy-x-boy-shiritsu-kouryou-gakuin-seishinryou.json](./417548-boy-x-boy-shiritsu-kouryou-gakuin-seishinryou.json) |
 | Boy's Love | 101358 | [101358-boys-love.json](./101358-boys-love.json) |
 | Boyce the Voice | 285369 | [285369-boyce-the-voice.json](./285369-boyce-the-voice.json) |
@@ -11528,6 +11536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breathbound | 372447 | [372447-breathbound.json](./372447-breathbound.json) |
 | Breathe | 89392 | [89392-breathe.json](./89392-breathe.json) |
 | Breathe in | 135773 | [135773-breathe-in.json](./135773-breathe-in.json) |
+| Breathe In | 207173 | [207173-breathe-in.json](./207173-breathe-in.json) |
 | Breathedge | 89326 | [89326-breathedge.json](./89326-breathedge.json) |
 | Breathedge 2 | 252870 | [252870-breathedge-2.json](./252870-breathedge-2.json) |
 | Breathedge: Cosmic Cluck | 286571 | [286571-breathedge-cosmic-cluck.json](./286571-breathedge-cosmic-cluck.json) |
