@@ -429,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Cycle | 256781 | [256781-backrooms-cycle.json](./256781-backrooms-cycle.json) |
 | Backrooms Descent | 236363 | [236363-backrooms-descent.json](./236363-backrooms-descent.json) |
 | Backrooms Escape Protocol | 339446 | [339446-backrooms-escape-protocol.json](./339446-backrooms-escape-protocol.json) |
+| Backrooms Exploration | 242406 | [242406-backrooms-exploration.json](./242406-backrooms-exploration.json) |
 | Backrooms Exploration Liminal | 258475 | [258475-backrooms-exploration-liminal.json](./258475-backrooms-exploration-liminal.json) |
 | Backrooms Fishing | 405621 | [405621-backrooms-fishing.json](./405621-backrooms-fishing.json) |
 | Backrooms Game No. 999999 | 283973 | [283973-backrooms-game-no-999999.json](./283973-backrooms-game-no-999999.json) |
@@ -971,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balance Roll | 115495 | [115495-balance-roll.json](./115495-balance-roll.json) |
 | Balance the Beam | 58218 | [58218-balance-the-beam.json](./58218-balance-the-beam.json) |
 | Balance The Stick | 255844 | [255844-balance-the-stick.json](./255844-balance-the-stick.json) |
+| Balance Weight | 242397 | [242397-balance-weight.json](./242397-balance-weight.json) |
 | Balance: Umbilical Wake | 410977 | [410977-balance-umbilical-wake.json](./410977-balance-umbilical-wake.json) |
 | Balanced | 320309 | [320309-balanced.json](./320309-balanced.json) |
 | Balanced Food CalorieMate for Game Creators: Jelly Mission | 368767 | [368767-balanced-food-caloriemate-for-game-creators-jelly-mission.json](./368767-balanced-food-caloriemate-for-game-creators-jelly-mission.json) |
@@ -5208,6 +5210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Doors | 283992 | [283992-beyond-doors.json](./283992-beyond-doors.json) |
 | Beyond Dreams | 192681 | [192681-beyond-dreams.json](./192681-beyond-dreams.json) |
 | Beyond El Dorado | 58841 | [58841-beyond-el-dorado.json](./58841-beyond-el-dorado.json) |
+| Beyond Enemy Lines 2: Enhanced Edition | 242371 | [242371-beyond-enemy-lines-2-enhanced-edition.json](./242371-beyond-enemy-lines-2-enhanced-edition.json) |
 | Beyond Enemy Lines: Covert Operations | 115467 | [115467-beyond-enemy-lines-covert-operations.json](./115467-beyond-enemy-lines-covert-operations.json) |
 | Beyond Enemy Lines: Essentials | 147869 | [147869-beyond-enemy-lines-essentials.json](./147869-beyond-enemy-lines-essentials.json) |
 | Beyond Enemy Lines: Operation Arctic Hawk | 115599 | [115599-beyond-enemy-lines-operation-arctic-hawk.json](./115599-beyond-enemy-lines-operation-arctic-hawk.json) |
@@ -12538,6 +12541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buggy | 356042 | [356042-buggy.json](./356042-buggy.json) |
 | Buggy Boogie | 66677 | [66677-buggy-boogie.json](./66677-buggy-boogie.json) |
 | Buggy Boy | 12728 | [12728-buggy-boy.json](./12728-buggy-boy.json) |
+| Buggy Challenge | 242374 | [242374-buggy-challenge.json](./242374-buggy-challenge.json) |
 | Buggy Derby Arena | 297324 | [297324-buggy-derby-arena.json](./297324-buggy-derby-arena.json) |
 | Buggy Game | 192890 | [192890-buggy-game.json](./192890-buggy-game.json) |
 | Buggy Off-Road Racing | 289375 | [289375-buggy-off-road-racing.json](./289375-buggy-off-road-racing.json) |
