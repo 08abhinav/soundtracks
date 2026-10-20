@@ -7563,6 +7563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind | 204215 | [204215-blind.json](./204215-blind.json) |
 | Blind | 216787 | [216787-blind.json](./216787-blind.json) |
 | Blind Affection | 180562 | [180562-blind-affection.json](./180562-blind-affection.json) |
+| Blind and Schizophrenic | 242965 | [242965-blind-and-schizophrenic.json](./242965-blind-and-schizophrenic.json) |
 | Blind Box | 379348 | [379348-blind-box.json](./379348-blind-box.json) |
 | Blind Date 3D | 286396 | [286396-blind-date-3d.json](./286396-blind-date-3d.json) |
 | Blind Date Simulator | 316640 | [316640-blind-date-simulator.json](./316640-blind-date-simulator.json) |
@@ -8086,6 +8087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blond Escape | 176212 | [176212-blond-escape.json](./176212-blond-escape.json) |
 | Blonde Driver | 96435 | [96435-blonde-driver.json](./96435-blonde-driver.json) |
 | Blonde Justice | 37198 | [37198-blonde-justice.json](./37198-blonde-justice.json) |
+| Blondes | 242963 | [242963-blondes.json](./242963-blondes.json) |
 | Blonsters | 304877 | [304877-blonsters.json](./304877-blonsters.json) |
 | Bloo Kid | 58463 | [58463-bloo-kid.json](./58463-bloo-kid.json) |
 | Bloob.io | 377974 | [377974-bloob-io.json](./377974-bloob-io.json) |
@@ -9818,6 +9820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoomYa! | 303214 | [303214-boomya.json](./303214-boomya.json) |
 | Boon Blast | 86779 | [86779-boon-blast.json](./86779-boon-blast.json) |
 | Boon Boon | 119691 | [119691-boon-boon.json](./119691-boon-boon.json) |
+| Boondog | 242918 | [242918-boondog.json](./242918-boondog.json) |
 | Boong-Ga Boong-Ga | 58738 | [58738-boong-ga-boong-ga.json](./58738-boong-ga-boong-ga.json) |
 | Boonka | 317386 | [317386-boonka.json](./317386-boonka.json) |
 | Boons Farm | 108043 | [108043-boons-farm.json](./108043-boons-farm.json) |
@@ -10571,6 +10574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxes: Lost Fragments | 219729 | [219729-boxes-lost-fragments.json](./219729-boxes-lost-fragments.json) |
 | BoxesWithGuns | 20198 | [20198-boxeswithguns.json](./20198-boxeswithguns.json) |
 | BoxFight | 262894 | [262894-boxfight.json](./262894-boxfight.json) |
+| Boxgame | 242919 | [242919-boxgame.json](./242919-boxgame.json) |
 | Boxguy Adventure | 358322 | [358322-boxguy-adventure.json](./358322-boxguy-adventure.json) |
 | Boxguy Adventure 2 | 358292 | [358292-boxguy-adventure-2.json](./358292-boxguy-adventure-2.json) |
 | Boxhead: A Halloween Special | 373637 | [373637-boxhead-a-halloween-special.json](./373637-boxhead-a-halloween-special.json) |
