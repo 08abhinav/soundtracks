@@ -3776,6 +3776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wife Delivery R: We Go All the Way! | 83219 | [83219-wife-delivery-r-we-go-all-the-way.json](./83219-wife-delivery-r-we-go-all-the-way.json) |
 | Wife Massage | 291065 | [291065-wife-massage.json](./291065-wife-massage.json) |
 | Wife Quest | 144068 | [144068-wife-quest.json](./144068-wife-quest.json) |
+| Wife Quest: Deluxe Edition | 227117 | [227117-wife-quest-deluxe-edition.json](./227117-wife-quest-deluxe-edition.json) |
 | Wife Quest: Limited Edition | 205258 | [205258-wife-quest-limited-edition.json](./205258-wife-quest-limited-edition.json) |
 | Wifey's Dilemma Revisited | 286139 | [286139-wifeys-dilemma-revisited.json](./286139-wifeys-dilemma-revisited.json) |
 | Wiffel Ball | 205806 | [205806-wiffel-ball.json](./205806-wiffel-ball.json) |
