@@ -705,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Splitter | 200953 | [200953-galaxy-splitter.json](./200953-galaxy-splitter.json) |
 | Galaxy Squad: Airplane Games | 256456 | [256456-galaxy-squad-airplane-games.json](./256456-galaxy-squad-airplane-games.json) |
 | Galaxy Stack | 113596 | [113596-galaxy-stack.json](./113596-galaxy-stack.json) |
+| Galaxy Storm | 233382 | [233382-galaxy-storm.json](./233382-galaxy-storm.json) |
 | Galaxy Strike | 135896 | [135896-galaxy-strike.json](./135896-galaxy-strike.json) |
 | Galaxy Survivors | 212839 | [212839-galaxy-survivors.json](./212839-galaxy-survivors.json) |
 | Galaxy Too Far | 285947 | [285947-galaxy-too-far.json](./285947-galaxy-too-far.json) |
@@ -4595,6 +4596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoFetch | 106449 | [106449-gofetch.json](./106449-gofetch.json) |
 | GoFish: Avoid the Dams | 252571 | [252571-gofish-avoid-the-dams.json](./252571-gofish-avoid-the-dams.json) |
 | GoFishing 3D | 119508 | [119508-gofishing-3d.json](./119508-gofishing-3d.json) |
+| GOG Adventure & Puzzle Bundle | 233352 | [233352-gog-adventure-and-puzzle-bundle.json](./233352-gog-adventure-and-puzzle-bundle.json) |
 | GoGeez | 410296 | [410296-gogeez.json](./410296-gogeez.json) |
 | Gogetsuji Legends | 37341 | [37341-gogetsuji-legends.json](./37341-gogetsuji-legends.json) |
 | Gogh: Focus with Your Avatar | 333115 | [333115-gogh-focus-with-your-avatar.json](./333115-gogh-focus-with-your-avatar.json) |
@@ -8305,6 +8307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunslinger Trainer | 33158 | [33158-gunslinger-trainer.json](./33158-gunslinger-trainer.json) |
 | Gunslinger Valley | 187387 | [187387-gunslinger-valley.json](./187387-gunslinger-valley.json) |
 | Gunslinger: Zombie Survival | 226762 | [226762-gunslinger-zombie-survival.json](./226762-gunslinger-zombie-survival.json) |
+| Gunslinger: Zombie Survival 2019 | 233396 | [233396-gunslinger-zombie-survival-2019.json](./233396-gunslinger-zombie-survival-2019.json) |
 | Gunslingers | 34097 | [34097-gunslingers.json](./34097-gunslingers.json) |
 | Gunslingers of the Wasteland vs. The Zombies from Mars | 170503 | [170503-gunslingers-of-the-wasteland-vs-the-zombies-from-mars.json](./170503-gunslingers-of-the-wasteland-vs-the-zombies-from-mars.json) |
 | Gunslugs 2 | 35977 | [35977-gunslugs-2.json](./35977-gunslugs-2.json) |
