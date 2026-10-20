@@ -3102,6 +3102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After School Murder Club!! | 150251 | [150251-after-school-murder-club.json](./150251-after-school-murder-club.json) |
 | After School Romance | 299497 | [299497-after-school-romance.json](./299497-after-school-romance.json) |
 | After School: Full Horror Game | 233469 | [233469-after-school-full-horror-game.json](./233469-after-school-full-horror-game.json) |
+| After Solitary | 223864 | [223864-after-solitary.json](./223864-after-solitary.json) |
 | After Story: Witch Dragon | 309552 | [309552-after-story-witch-dragon.json](./309552-after-story-witch-dragon.json) |
 | After Stream | 235465 | [235465-after-stream.json](./235465-after-stream.json) |
 | After Sun | 180815 | [180815-after-sun.json](./180815-after-sun.json) |
