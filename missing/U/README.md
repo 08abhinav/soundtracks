@@ -2745,6 +2745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uta Pri Island | 56316 | [56316-uta-pri-island.json](./56316-uta-pri-island.json) |
 | Uta Quta | 404450 | [404450-uta-quta.json](./404450-uta-quta.json) |
 | Utacchi | 80482 | [80482-utacchi.json](./80482-utacchi.json) |
+| Utakata no Alice: Dolls infeRno | 222740 | [222740-utakata-no-alice-dolls-inferno.json](./222740-utakata-no-alice-dolls-inferno.json) |
 | Utakata no R: Kako-hen Awayuki | 221743 | [221743-utakata-no-r-kako-hen-awayuki.json](./221743-utakata-no-r-kako-hen-awayuki.json) |
 | Utakata no Uchronia: Trail | 336571 | [336571-utakata-no-uchronia-trail.json](./336571-utakata-no-uchronia-trail.json) |
 | Utapau Chase | 245968 | [245968-utapau-chase.json](./245968-utapau-chase.json) |
