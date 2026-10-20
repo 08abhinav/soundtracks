@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T10:42:47.233Z",
-  "total_missing": 237336,
+  "generated_at": "2026-10-20T10:48:53.005Z",
+  "total_missing": 237386,
   "games": [
     {
       "igdb_id": 191680,
@@ -16557,6 +16557,11 @@
       "file": "missing/A/213346-a-pointless-adventure.json"
     },
     {
+      "igdb_id": 231208,
+      "game_name": "A ponte",
+      "file": "missing/A/231208-a-ponte.json"
+    },
+    {
       "igdb_id": 252069,
       "game_name": "A Postcard From Afthonia",
       "file": "missing/A/252069-a-postcard-from-afthonia.json"
@@ -25337,6 +25342,21 @@
       "file": "missing/A/41189-adventure-3-mission-impossible.json"
     },
     {
+      "igdb_id": 231213,
+      "game_name": "Adventure Academia: The Fractured Continent - Additional Content Vol.1 Bundle",
+      "file": "missing/A/231213-adventure-academia-the-fractured-continent-additional-content-vol-1-bundle.json"
+    },
+    {
+      "igdb_id": 231214,
+      "game_name": "Adventure Academia: The Fractured Continent - Additional Content Vol.2 Bundle",
+      "file": "missing/A/231214-adventure-academia-the-fractured-continent-additional-content-vol-2-bundle.json"
+    },
+    {
+      "igdb_id": 231215,
+      "game_name": "Adventure Academia: The Fractured Continent - Additional Content Vol.3 Bundle",
+      "file": "missing/A/231215-adventure-academia-the-fractured-continent-additional-content-vol-3-bundle.json"
+    },
+    {
       "igdb_id": 231275,
       "game_name": "Adventure Academia: The Fractured Continent - Class of Heroes 3 Collaboration: Additional Character Dwarf",
       "file": "missing/A/231275-adventure-academia-the-fractured-continent-class-of-heroes-3-collaboration-additional-character-dwarf.json"
@@ -25345,6 +25365,11 @@
       "igdb_id": 231276,
       "game_name": "Adventure Academia: The Fractured Continent - Class of Heroes 3 Collaboration: Additional Character Felpurr",
       "file": "missing/A/231276-adventure-academia-the-fractured-continent-class-of-heroes-3-collaboration-additional-character-felpurr.json"
+    },
+    {
+      "igdb_id": 231216,
+      "game_name": "Adventure Academia: The Fractured Continent - Freshman's Weapon Set",
+      "file": "missing/A/231216-adventure-academia-the-fractured-continent-freshmans-weapon-set.json"
     },
     {
       "igdb_id": 220752,
@@ -25365,6 +25390,11 @@
       "igdb_id": 220755,
       "game_name": "Adventure Academia: The Fractured Continent - Vol.2 Challenge Quest: Danger Mountain March EX",
       "file": "missing/A/220755-adventure-academia-the-fractured-continent-vol-2-challenge-quest-danger-mountain-march-ex.json"
+    },
+    {
+      "igdb_id": 231232,
+      "game_name": "Adventure Academia: The Fractured Continent - Vol.3 Additional Character Lapis",
+      "file": "missing/A/231232-adventure-academia-the-fractured-continent-vol-3-additional-character-lapis.json"
     },
     {
       "igdb_id": 118175,
@@ -58942,6 +58972,11 @@
       "file": "missing/A/154981-arcade-archives-sea-fighter-poseidon.json"
     },
     {
+      "igdb_id": 231212,
+      "game_name": "Arcade Archives: Senjyo",
+      "file": "missing/A/231212-arcade-archives-senjyo.json"
+    },
+    {
       "igdb_id": 275809,
       "game_name": "Arcade Archives: Shao-Lin's Road",
       "file": "missing/A/275809-arcade-archives-shao-lins-road.json"
@@ -59775,6 +59810,11 @@
       "igdb_id": 399614,
       "game_name": "Arcade Pack",
       "file": "missing/A/399614-arcade-pack.json"
+    },
+    {
+      "igdb_id": 231217,
+      "game_name": "Arcade Paradise Coin-Op Pack 1",
+      "file": "missing/A/231217-arcade-paradise-coin-op-pack-1.json"
     },
     {
       "igdb_id": 279379,
@@ -137562,6 +137602,11 @@
       "file": "missing/B/199829-breakfast-bar-tycoon-expansion-pack-2.json"
     },
     {
+      "igdb_id": 231220,
+      "game_name": "Breakfast Bar Tycoon: Premium Edition",
+      "file": "missing/B/231220-breakfast-bar-tycoon-premium-edition.json"
+    },
+    {
       "igdb_id": 315875,
       "game_name": "Breakfast Bar Tycoon: Super Edition",
       "file": "missing/B/315875-breakfast-bar-tycoon-super-edition.json"
@@ -146735,6 +146780,11 @@
       "igdb_id": 122869,
       "game_name": "Burger Chef Tycoon",
       "file": "missing/B/122869-burger-chef-tycoon.json"
+    },
+    {
+      "igdb_id": 231221,
+      "game_name": "Burger Chef Tycoon Extended Edition",
+      "file": "missing/B/231221-burger-chef-tycoon-extended-edition.json"
     },
     {
       "igdb_id": 250363,
@@ -159680,6 +159730,11 @@
       "igdb_id": 258701,
       "game_name": "Carlos Klauss: Episode Zero",
       "file": "missing/C/258701-carlos-klauss-episode-zero.json"
+    },
+    {
+      "igdb_id": 231203,
+      "game_name": "Carlos the Taco",
+      "file": "missing/C/231203-carlos-the-taco.json"
     },
     {
       "igdb_id": 83477,
@@ -174750,6 +174805,11 @@
       "igdb_id": 346114,
       "game_name": "Chess Master",
       "file": "missing/C/346114-chess-master.json"
+    },
+    {
+      "igdb_id": 231202,
+      "game_name": "Chess Match",
+      "file": "missing/C/231202-chess-match.json"
     },
     {
       "igdb_id": 152872,
@@ -204980,6 +205040,11 @@
       "igdb_id": 271394,
       "game_name": "Correction",
       "file": "missing/C/271394-correction.json"
+    },
+    {
+      "igdb_id": 231207,
+      "game_name": "Corrida da pesada",
+      "file": "missing/C/231207-corrida-da-pesada.json"
     },
     {
       "igdb_id": 319027,
@@ -341257,6 +341322,11 @@
       "file": "missing/F/362765-faroda.json"
     },
     {
+      "igdb_id": 231206,
+      "game_name": "Faroeste",
+      "file": "missing/F/231206-faroeste.json"
+    },
+    {
       "igdb_id": 347136,
       "game_name": "Farol del Diablo (Devil's Lantern)",
       "file": "missing/F/347136-farol-del-diablo-devils-lantern.json"
@@ -366430,6 +366500,11 @@
       "igdb_id": 182163,
       "game_name": "Forbon FC",
       "file": "missing/F/182163-forbon-fc.json"
+    },
+    {
+      "igdb_id": 231205,
+      "game_name": "Força Alienígena",
+      "file": "missing/F/231205-forca-alienigena.json"
     },
     {
       "igdb_id": 91285,
@@ -506832,6 +506907,11 @@
       "file": "missing/J/238223-jigsaw-masterpieces-beautiful-towns-around-the-world.json"
     },
     {
+      "igdb_id": 231219,
+      "game_name": "Jigsaw Masterpieces: Big Cat Friends",
+      "file": "missing/J/231219-jigsaw-masterpieces-big-cat-friends.json"
+    },
+    {
       "igdb_id": 238309,
       "game_name": "Jigsaw Masterpieces: Cats and Friends on the Suetoshi Farm / Kenta Igarashi",
       "file": "missing/J/238309-jigsaw-masterpieces-cats-and-friends-on-the-suetoshi-farm-kenta-igarashi.json"
@@ -554310,6 +554390,11 @@
       "igdb_id": 275559,
       "game_name": "Let's Play! Oink Games: Rafter Five",
       "file": "missing/L/275559-lets-play-oink-games-rafter-five.json"
+    },
+    {
+      "igdb_id": 231238,
+      "game_name": "Let's Play! Oink Games: Scout",
+      "file": "missing/L/231238-lets-play-oink-games-scout.json"
     },
     {
       "igdb_id": 298256,
@@ -613447,6 +613532,11 @@
       "file": "missing/M/231259-merge-your-room-extended-edition.json"
     },
     {
+      "igdb_id": 231229,
+      "game_name": "Merge Your Room: Toys Pack",
+      "file": "missing/M/231229-merge-your-room-toys-pack.json"
+    },
+    {
       "igdb_id": 224105,
       "game_name": "Merge Zoo",
       "file": "missing/M/224105-merge-zoo.json"
@@ -616795,6 +616885,11 @@
       "igdb_id": 388949,
       "game_name": "Mewts",
       "file": "missing/M/388949-mewts.json"
+    },
+    {
+      "igdb_id": 231204,
+      "game_name": "Mexe mexe tupi",
+      "file": "missing/M/231204-mexe-mexe-tupi.json"
     },
     {
       "igdb_id": 208009,
@@ -717297,6 +717392,11 @@
       "file": "missing/P/207902-pancake-bar-tycoon-extended-edition.json"
     },
     {
+      "igdb_id": 231253,
+      "game_name": "Pancake Bar Tycoon: Premium Edition",
+      "file": "missing/P/231253-pancake-bar-tycoon-premium-edition.json"
+    },
+    {
       "igdb_id": 156698,
       "game_name": "Pancake House",
       "file": "missing/P/156698-pancake-house.json"
@@ -725467,6 +725567,11 @@
       "file": "missing/P/241408-paw-patrol-grand-prix-pup-treat-arena.json"
     },
     {
+      "igdb_id": 231249,
+      "game_name": "Paw Patrol: Grand Prix - Race in Barkingburg",
+      "file": "missing/P/231249-paw-patrol-grand-prix-race-in-barkingburg.json"
+    },
+    {
       "igdb_id": 294467,
       "game_name": "Paw Patrol: Laptop Infantil",
       "file": "missing/P/294467-paw-patrol-laptop-infantil.json"
@@ -730650,6 +730755,11 @@
       "igdb_id": 289391,
       "game_name": "Persona 3 Illust Puzzle",
       "file": "missing/P/289391-persona-3-illust-puzzle.json"
+    },
+    {
+      "igdb_id": 231247,
+      "game_name": "Persona 3 Portable & Persona 4 Golden Bundle",
+      "file": "missing/P/231247-persona-3-portable-and-persona-4-golden-bundle.json"
     },
     {
       "igdb_id": 313996,
@@ -736770,6 +736880,11 @@
       "igdb_id": 225890,
       "game_name": "Pid",
       "file": "missing/P/225890-pid.json"
+    },
+    {
+      "igdb_id": 231248,
+      "game_name": "Pid: Deluxe Edition",
+      "file": "missing/P/231248-pid-deluxe-edition.json"
     },
     {
       "igdb_id": 409879,
@@ -743082,6 +743197,11 @@
       "file": "missing/P/16836-pixel-boy-and-the-ever-expanding-dungeon.json"
     },
     {
+      "igdb_id": 231250,
+      "game_name": "Pixel Boy: Lost in the Castle",
+      "file": "missing/P/231250-pixel-boy-lost-in-the-castle.json"
+    },
+    {
       "igdb_id": 219674,
       "game_name": "Pixel Boy: The Legend of Tain",
       "file": "missing/P/219674-pixel-boy-the-legend-of-tain.json"
@@ -743520,6 +743640,11 @@
       "igdb_id": 409551,
       "game_name": "Pixel Game Maker Series Arcanion: The Mekanos Invasion",
       "file": "missing/P/409551-pixel-game-maker-series-arcanion-the-mekanos-invasion.json"
+    },
+    {
+      "igdb_id": 231251,
+      "game_name": "Pixel Game Maker Series BombMachine Gunzohg",
+      "file": "missing/P/231251-pixel-game-maker-series-bombmachine-gunzohg.json"
     },
     {
       "igdb_id": 201085,
@@ -781402,6 +781527,11 @@
       "file": "missing/P/237357-puzzle-by-nikoli-s-hashiwokakero.json"
     },
     {
+      "igdb_id": 231252,
+      "game_name": "Puzzle by Nikoli S Heyawake",
+      "file": "missing/P/231252-puzzle-by-nikoli-s-heyawake.json"
+    },
+    {
       "igdb_id": 225545,
       "game_name": "Puzzle by Nikoli S Slitherlink",
       "file": "missing/P/225545-puzzle-by-nikoli-s-slitherlink.json"
@@ -786640,6 +786770,11 @@
       "igdb_id": 223156,
       "game_name": "QUByte Classics: The Samurai Collection",
       "file": "missing/Q/223156-qubyte-classics-the-samurai-collection.json"
+    },
+    {
+      "igdb_id": 231228,
+      "game_name": "QUByte Classics: The Tale of Clouds and Wind",
+      "file": "missing/Q/231228-qubyte-classics-the-tale-of-clouds-and-wind.json"
     },
     {
       "igdb_id": 210630,
@@ -833022,6 +833157,11 @@
       "file": "missing/R/225071-rubber-bandits-go-wild-pack.json"
     },
     {
+      "igdb_id": 231211,
+      "game_name": "Rubber Bandits: Supporter Pack",
+      "file": "missing/R/231211-rubber-bandits-supporter-pack.json"
+    },
+    {
       "igdb_id": 404862,
       "game_name": "Rubber Bird",
       "file": "missing/R/404862-rubber-bird.json"
@@ -868337,6 +868477,11 @@
       "file": "missing/S/129709-shieldmaiden.json"
     },
     {
+      "igdb_id": 231239,
+      "game_name": "Shieldmaiden: Remix Edition",
+      "file": "missing/S/231239-shieldmaiden-remix-edition.json"
+    },
+    {
       "igdb_id": 156040,
       "game_name": "Shields of Loyalty",
       "file": "missing/S/156040-shields-of-loyalty.json"
@@ -884312,6 +884457,11 @@
       "file": "missing/S/167349-skullgirls-2nd-encore-annie.json"
     },
     {
+      "igdb_id": 231240,
+      "game_name": "Skullgirls: 2nd Encore - Umbrella",
+      "file": "missing/S/231240-skullgirls-2nd-encore-umbrella.json"
+    },
+    {
       "igdb_id": 370325,
       "game_name": "Skullgirls: Season 1 Pass",
       "file": "missing/S/370325-skullgirls-season-1-pass.json"
@@ -893142,6 +893292,11 @@
       "file": "missing/S/276970-snake-galaxy-online.json"
     },
     {
+      "igdb_id": 231210,
+      "game_name": "Snake Game",
+      "file": "missing/S/231210-snake-game.json"
+    },
+    {
       "igdb_id": 95375,
       "game_name": "Snake Game",
       "file": "missing/S/95375-snake-game.json"
@@ -896177,6 +896332,21 @@
       "file": "missing/S/145485-snowrunner-season-1-search-and-recover.json"
     },
     {
+      "igdb_id": 231246,
+      "game_name": "SnowRunner: Season 10 - Fix & Connect",
+      "file": "missing/S/231246-snowrunner-season-10-fix-and-connect.json"
+    },
+    {
+      "igdb_id": 231243,
+      "game_name": "SnowRunner: Season 11 - Lights & Cameras",
+      "file": "missing/S/231243-snowrunner-season-11-lights-and-cameras.json"
+    },
+    {
+      "igdb_id": 231244,
+      "game_name": "SnowRunner: Season 12 - Public Energy",
+      "file": "missing/S/231244-snowrunner-season-12-public-energy.json"
+    },
+    {
       "igdb_id": 336931,
       "game_name": "SnowRunner: Season 14 - Reap and Sow",
       "file": "missing/S/336931-snowrunner-season-14-reap-and-sow.json"
@@ -896245,6 +896415,11 @@
       "igdb_id": 148145,
       "game_name": "SnowRunner: Season 8 - Grand Harvest",
       "file": "missing/S/148145-snowrunner-season-8-grand-harvest.json"
+    },
+    {
+      "igdb_id": 231245,
+      "game_name": "SnowRunner: Season 9 - Renew & Rebuild",
+      "file": "missing/S/231245-snowrunner-season-9-renew-and-rebuild.json"
     },
     {
       "igdb_id": 214469,
@@ -898227,6 +898402,11 @@
       "file": "missing/S/295693-sol-cresta-complete-set.json"
     },
     {
+      "igdb_id": 231241,
+      "game_name": "Sol Cresta: CR47",
+      "file": "missing/S/231241-sol-cresta-cr47.json"
+    },
+    {
       "igdb_id": 201018,
       "game_name": "Sol Cresta: Dramatic DLC",
       "file": "missing/S/201018-sol-cresta-dramatic-dlc.json"
@@ -898235,6 +898415,21 @@
       "igdb_id": 199868,
       "game_name": "Sol Cresta: Dramatic Edition",
       "file": "missing/S/199868-sol-cresta-dramatic-edition.json"
+    },
+    {
+      "igdb_id": 231242,
+      "game_name": "Sol Cresta: Legendary Fighters DLC Set",
+      "file": "missing/S/231242-sol-cresta-legendary-fighters-dlc-set.json"
+    },
+    {
+      "igdb_id": 231237,
+      "game_name": "Sol Cresta: Wing Galiber",
+      "file": "missing/S/231237-sol-cresta-wing-galiber.json"
+    },
+    {
+      "igdb_id": 231236,
+      "game_name": "Sol Cresta: Wing Galiber II",
+      "file": "missing/S/231236-sol-cresta-wing-galiber-ii.json"
     },
     {
       "igdb_id": 35026,
@@ -968517,6 +968712,11 @@
       "file": "missing/S/242620-sweet-bakery-tycoon-multiplayer-mode.json"
     },
     {
+      "igdb_id": 231235,
+      "game_name": "Sweet Bakery Tycoon: Premium Edition",
+      "file": "missing/S/231235-sweet-bakery-tycoon-premium-edition.json"
+    },
+    {
       "igdb_id": 315851,
       "game_name": "Sweet Bakery Tycoon: Super Edition",
       "file": "missing/S/315851-sweet-bakery-tycoon-super-edition.json"
@@ -972450,6 +972650,11 @@
       "igdb_id": 233005,
       "game_name": "Syndrome: Extended Edition",
       "file": "missing/S/233005-syndrome-extended-edition.json"
+    },
+    {
+      "igdb_id": 231234,
+      "game_name": "Syndrome: Ultimate Edition",
+      "file": "missing/S/231234-syndrome-ultimate-edition.json"
     },
     {
       "igdb_id": 217601,
@@ -1029955,6 +1030160,16 @@
       "igdb_id": 233006,
       "game_name": "The Preschoolers: Season 1 - Extended Edition",
       "file": "missing/T/233006-the-preschoolers-season-1-extended-edition.json"
+    },
+    {
+      "igdb_id": 231233,
+      "game_name": "The Preschoolers: Season 1 Christmas Edition",
+      "file": "missing/T/231233-the-preschoolers-season-1-christmas-edition.json"
+    },
+    {
+      "igdb_id": 231227,
+      "game_name": "The Preschoolers: Season 1 Ultimate Edition",
+      "file": "missing/T/231227-the-preschoolers-season-1-ultimate-edition.json"
     },
     {
       "igdb_id": 288079,
@@ -1093872,6 +1094087,11 @@
       "file": "missing/T/199367-tuk-tuk-extreme-simulator.json"
     },
     {
+      "igdb_id": 231230,
+      "game_name": "Tuk Tuk Extreme: Real Car Driving Simulator & Parking 2023 Car Games 3D Vehicle",
+      "file": "missing/T/231230-tuk-tuk-extreme-real-car-driving-simulator-and-parking-2023-car-games-3d-vehicle.json"
+    },
+    {
       "igdb_id": 416172,
       "game_name": "Tuk Tuk Go!",
       "file": "missing/T/416172-tuk-tuk-go.json"
@@ -1111052,6 +1111272,11 @@
       "file": "missing/U/108240-uphill-rush-new-york.json"
     },
     {
+      "igdb_id": 231231,
+      "game_name": "Uphill Rush Water Park Racing",
+      "file": "missing/U/231231-uphill-rush-water-park-racing.json"
+    },
+    {
       "igdb_id": 43128,
       "game_name": "Uphill Skiing",
       "file": "missing/U/43128-uphill-skiing.json"
@@ -1126410,6 +1126635,11 @@
       "igdb_id": 9647,
       "game_name": "Volume",
       "file": "missing/V/9647-volume.json"
+    },
+    {
+      "igdb_id": 231226,
+      "game_name": "Volume 1-3 Complete DLC Bundle",
+      "file": "missing/V/231226-volume-1-3-complete-dlc-bundle.json"
     },
     {
       "igdb_id": 122075,
@@ -1158117,6 +1158347,11 @@
       "file": "missing/W/63557-words-in-space.json"
     },
     {
+      "igdb_id": 231223,
+      "game_name": "Words in Word",
+      "file": "missing/W/231223-words-in-word.json"
+    },
+    {
       "igdb_id": 99411,
       "game_name": "Words Inc - Endless Vocabulary Definition Competition",
       "file": "missing/W/99411-words-inc-endless-vocabulary-definition-competition.json"
@@ -1162795,6 +1163030,16 @@
       "igdb_id": 199929,
       "game_name": "WRC Collection Vol. 2",
       "file": "missing/W/199929-wrc-collection-vol-2.json"
+    },
+    {
+      "igdb_id": 231225,
+      "game_name": "WRC Generations: Citroën C4 WRC 2010",
+      "file": "missing/W/231225-wrc-generations-citroen-c4-wrc-2010.json"
+    },
+    {
+      "igdb_id": 231224,
+      "game_name": "WRC Generations: Peugeot 206 WRC 2002",
+      "file": "missing/W/231224-wrc-generations-peugeot-206-wrc-2002.json"
     },
     {
       "igdb_id": 8314,
@@ -1186260,6 +1186505,11 @@
       "igdb_id": 415938,
       "game_name": "Zumble Ocean",
       "file": "missing/Z/415938-zumble-ocean.json"
+    },
+    {
+      "igdb_id": 231209,
+      "game_name": "Zumiman",
+      "file": "missing/Z/231209-zumiman.json"
     },
     {
       "igdb_id": 326689,
