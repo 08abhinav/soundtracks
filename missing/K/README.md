@@ -986,6 +986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Hamster | 49756 | [49756-kawaii-hamster.json](./49756-kawaii-hamster.json) |
 | Kawaii Hentai Girls | 366530 | [366530-kawaii-hentai-girls.json](./366530-kawaii-hentai-girls.json) |
 | Kawaii Hentai Girls 2 | 203553 | [203553-kawaii-hentai-girls-2.json](./203553-kawaii-hentai-girls-2.json) |
+| Kawaii Hentai Girls 3 | 213202 | [213202-kawaii-hentai-girls-3.json](./213202-kawaii-hentai-girls-3.json) |
 | Kawaii Home Design | 118754 | [118754-kawaii-home-design.json](./118754-kawaii-home-design.json) |
 | Kawaii Islands | 176880 | [176880-kawaii-islands.json](./176880-kawaii-islands.json) |
 | Kawaii Kingdom | 255890 | [255890-kawaii-kingdom.json](./255890-kawaii-kingdom.json) |
@@ -1797,7 +1798,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiki & Fifi Pet Beauty Salon | 102682 | [102682-kiki-and-fifi-pet-beauty-salon.json](./102682-kiki-and-fifi-pet-beauty-salon.json) |
 | Kiki Ippatsu | 305563 | [305563-kiki-ippatsu.json](./305563-kiki-ippatsu.json) |
 | KiKi KaiKai | 1535 | [1535-kiki-kaikai.json](./1535-kiki-kaikai.json) |
+| KiKi KaiKai | 213228 | [213228-kiki-kaikai.json](./213228-kiki-kaikai.json) |
+| KiKi KaiKai | 213257 | [213257-kiki-kaikai.json](./213257-kiki-kaikai.json) |
 | KiKi KaiKai: Dotou-hen | 41269 | [41269-kiki-kaikai-dotou-hen.json](./41269-kiki-kaikai-dotou-hen.json) |
+| Kiki Kaikai: The Bizarre World | 213258 | [213258-kiki-kaikai-the-bizarre-world.json](./213258-kiki-kaikai-the-bizarre-world.json) |
 | Kiki's Adventure | 125462 | [125462-kikis-adventure.json](./125462-kikis-adventure.json) |
 | Kiki's Vacation | 192195 | [192195-kikis-vacation.json](./192195-kikis-vacation.json) |
 | KikiMimi2 | 123511 | [123511-kikimimi2.json](./123511-kikimimi2.json) |
