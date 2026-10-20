@@ -3979,6 +3979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selfpolis | 217289 | [217289-selfpolis.json](./217289-selfpolis.json) |
 | Selini | 159885 | [159885-selini.json](./159885-selini.json) |
 | Selknam Defense | 10816 | [10816-selknam-defense.json](./10816-selknam-defense.json) |
+| Selkö | 229507 | [229507-selko.json](./229507-selko.json) |
 | Selling Souls | 283244 | [283244-selling-souls.json](./283244-selling-souls.json) |
 | Selling Sunlight | 118412 | [118412-selling-sunlight.json](./118412-selling-sunlight.json) |
 | Sellsword | 405535 | [405535-sellsword.json](./405535-sellsword.json) |
@@ -13071,6 +13072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Mania Randomizer | 386230 | [386230-sonic-mania-randomizer.json](./386230-sonic-mania-randomizer.json) |
 | Sonic Mania: Boss Rush+ | 333678 | [333678-sonic-mania-boss-rush.json](./333678-sonic-mania-boss-rush.json) |
 | Sonic Mania: Collector's Edition | 25684 | [25684-sonic-mania-collectors-edition.json](./25684-sonic-mania-collectors-edition.json) |
+| Sonic Mars | 229527 | [229527-sonic-mars.json](./229527-sonic-mars.json) |
 | Sonic Mars Remake | 332576 | [332576-sonic-mars-remake.json](./332576-sonic-mars-remake.json) |
 | Sonic Matrix | 331397 | [331397-sonic-matrix.json](./331397-sonic-matrix.json) |
 | Sonic Mayhem | 299381 | [299381-sonic-mayhem.json](./299381-sonic-mayhem.json) |
@@ -13879,6 +13881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul of the Ultimate Nation | 51196 | [51196-soul-of-the-ultimate-nation.json](./51196-soul-of-the-ultimate-nation.json) |
 | Soul of War | 230869 | [230869-soul-of-war.json](./230869-soul-of-war.json) |
 | Soul of War: Legions | 263992 | [263992-soul-of-war-legions.json](./263992-soul-of-war-legions.json) |
+| Soul of Yokai | 229529 | [229529-soul-of-yokai.json](./229529-soul-of-yokai.json) |
 | Soul Orb | 9650 | [9650-soul-orb.json](./9650-soul-orb.json) |
 | Soul Park | 307846 | [307846-soul-park.json](./307846-soul-park.json) |
 | Soul Passage | 236542 | [236542-soul-passage.json](./236542-soul-passage.json) |
@@ -19095,6 +19098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Home | 293377 | [293377-starship-home.json](./293377-starship-home.json) |
 | Starship Horizons Bridge Simulator | 126963 | [126963-starship-horizons-bridge-simulator.json](./126963-starship-horizons-bridge-simulator.json) |
 | Starship Inspector | 127867 | [127867-starship-inspector.json](./127867-starship-inspector.json) |
+| Starship Iwamachi | 229531 | [229531-starship-iwamachi.json](./229531-starship-iwamachi.json) |
 | Starship Kingdom | 73732 | [73732-starship-kingdom.json](./73732-starship-kingdom.json) |
 | Starship Pegasus | 42166 | [42166-starship-pegasus.json](./42166-starship-pegasus.json) |
 | Starship Rubicon | 35191 | [35191-starship-rubicon.json](./35191-starship-rubicon.json) |
