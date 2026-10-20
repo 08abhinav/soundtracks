@@ -2109,6 +2109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Succubus | 194447 | [194447-virtual-succubus.json](./194447-virtual-succubus.json) |
 | Virtual Surfing | 113329 | [113329-virtual-surfing.json](./113329-virtual-surfing.json) |
 | Virtual Surgeon: Open Heart | 69239 | [69239-virtual-surgeon-open-heart.json](./69239-virtual-surgeon-open-heart.json) |
+| Virtual Table Tennis | 241193 | [241193-virtual-table-tennis.json](./241193-virtual-table-tennis.json) |
 | Virtual Table Tennis Ping Pong | 104622 | [104622-virtual-table-tennis-ping-pong.json](./104622-virtual-table-tennis-ping-pong.json) |
 | Virtual Taekwondo | 366358 | [366358-virtual-taekwondo.json](./366358-virtual-taekwondo.json) |
 | Virtual Temple: Order of the Golden Dawn | 51919 | [51919-virtual-temple-order-of-the-golden-dawn.json](./51919-virtual-temple-order-of-the-golden-dawn.json) |
