@@ -3815,6 +3815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilith: Rise of the Fallen | 354939 | [354939-lilith-rise-of-the-fallen.json](./354939-lilith-rise-of-the-fallen.json) |
 | Lilith.pk3 | 227765 | [227765-lilith-pk3.json](./227765-lilith-pk3.json) |
 | Lilith's Game | 339998 | [339998-liliths-game.json](./339998-liliths-game.json) |
+| Lilith's Hunger | 229508 | [229508-liliths-hunger.json](./229508-liliths-hunger.json) |
 | Lilith's Lair | 327235 | [327235-liliths-lair.json](./327235-liliths-lair.json) |
 | Lilith's Syndrome | 297037 | [297037-liliths-syndrome.json](./297037-liliths-syndrome.json) |
 | Lilium | 128653 | [128653-lilium.json](./128653-lilium.json) |
@@ -6510,6 +6511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love In Drawing | 112461 | [112461-love-in-drawing.json](./112461-love-in-drawing.json) |
 | Love in Lockdown: Eli Version | 215772 | [215772-love-in-lockdown-eli-version.json](./215772-love-in-lockdown-eli-version.json) |
 | Love in Lockdown: Ella version | 259479 | [259479-love-in-lockdown-ella-version.json](./259479-love-in-lockdown-ella-version.json) |
+| Love in Login | 229512 | [229512-love-in-login.json](./229512-love-in-login.json) |
 | Love in the Crimson Void | 288898 | [288898-love-in-the-crimson-void.json](./288898-love-in-the-crimson-void.json) |
 | Love in the Glen | 33083 | [33083-love-in-the-glen.json](./33083-love-in-the-glen.json) |
 | Love in the Limelight | 119589 | [119589-love-in-the-limelight.json](./119589-love-in-the-limelight.json) |
