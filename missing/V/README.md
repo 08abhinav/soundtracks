@@ -770,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veck | 71208 | [71208-veck.json](./71208-veck.json) |
 | Vecmania | 46513 | [46513-vecmania.json](./46513-vecmania.json) |
 | Vecter | 124183 | [124183-vecter.json](./124183-vecter.json) |
+| Vecter Assault | 251978 | [251978-vecter-assault.json](./251978-vecter-assault.json) |
 | Vectopia | 46514 | [46514-vectopia.json](./46514-vectopia.json) |
 | Vector | 15545 | [15545-vector.json](./15545-vector.json) |
 | Vector 2 | 101939 | [101939-vector-2.json](./101939-vector-2.json) |
@@ -1246,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VeryVeryHouse | 356637 | [356637-veryveryhouse.json](./356637-veryveryhouse.json) |
 | Verzaken! | 74982 | [74982-verzaken.json](./74982-verzaken.json) |
 | Verzerk | 46508 | [46508-verzerk.json](./46508-verzerk.json) |
+| Vesna | 251968 | [251968-vesna.json](./251968-vesna.json) |
 | Vesnith Tapes | 350942 | [350942-vesnith-tapes.json](./350942-vesnith-tapes.json) |
 | Vespa's Test | 211655 | [211655-vespas-test.json](./211655-vespas-test.json) |
 | Vesper | 137046 | [137046-vesper.json](./137046-vesper.json) |
