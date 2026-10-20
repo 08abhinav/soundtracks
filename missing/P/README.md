@@ -5584,6 +5584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pioneerz | 129219 | [129219-pioneerz.json](./129219-pioneerz.json) |
 | Pioner | 148454 | [148454-pioner.json](./148454-pioner.json) |
 | Piozila 2 : Animal Adventures | 269066 | [269066-piozila-2-animal-adventures.json](./269066-piozila-2-animal-adventures.json) |
+| Pip | 211075 | [211075-pip.json](./211075-pip.json) |
 | Pip 3 | 215334 | [215334-pip-3.json](./215334-pip-3.json) |
 | Pip 5 | 221132 | [221132-pip-5.json](./221132-pip-5.json) |
 | Pip D | 235895 | [235895-pip-d.json](./235895-pip-d.json) |
@@ -8996,6 +8997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Simulator: Patrol Officers - Warden Police Vehicle | 290843 | [290843-police-simulator-patrol-officers-warden-police-vehicle.json](./290843-police-simulator-patrol-officers-warden-police-vehicle.json) |
 | Police Station Cop Inc: Tycoon | 174884 | [174884-police-station-cop-inc-tycoon.json](./174884-police-station-cop-inc-tycoon.json) |
 | Police Stories | 28225 | [28225-police-stories.json](./28225-police-stories.json) |
+| Police Stories: The Academy | 211037 | [211037-police-stories-the-academy.json](./211037-police-stories-the-academy.json) |
 | Police Stories: Zombie Case | 195756 | [195756-police-stories-zombie-case.json](./195756-police-stories-zombie-case.json) |
 | Police Tactical Training | 57657 | [57657-police-tactical-training.json](./57657-police-tactical-training.json) |
 | Police Train Prison Transport | 88420 | [88420-police-train-prison-transport.json](./88420-police-train-prison-transport.json) |
@@ -9221,6 +9223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polysemy‌ | 326187 | [326187-polysemy.json](./326187-polysemy.json) |
 | Polyslime | 173230 | [173230-polyslime.json](./173230-polyslime.json) |
 | PolySouls | 348017 | [348017-polysouls.json](./348017-polysouls.json) |
+| Polyspell | 211030 | [211030-polyspell.json](./211030-polyspell.json) |
 | Polystars | 70998 | [70998-polystars.json](./70998-polystars.json) |
 | Polystrike | 414144 | [414144-polystrike.json](./414144-polystrike.json) |
 | PolyTap | 341565 | [341565-polytap.json](./341565-polytap.json) |
