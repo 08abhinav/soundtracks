@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F.I.D.O. | 196787 | [196787-f-i-d-o.json](./196787-f-i-d-o.json) |
 | F.I.S.T.: Forged In Shadow Torch - Limited Edition | 284481 | [284481-f-i-s-t-forged-in-shadow-torch-limited-edition.json](./284481-f-i-s-t-forged-in-shadow-torch-limited-edition.json) |
 | F.I.T. | 287752 | [287752-f-i-t.json](./287752-f-i-t.json) |
+| F.O.O.D.S. | 255539 | [255539-f-o-o-d-s.json](./255539-f-o-o-d-s.json) |
 | F.O.S | 144257 | [144257-f-o-s.json](./144257-f-o-s.json) |
 | F.O.X.: Flame of Xenocide | 196546 | [196546-f-o-x-flame-of-xenocide.json](./196546-f-o-x-flame-of-xenocide.json) |
 | F.R.A.G.G. | 306809 | [306809-f-r-a-g-g.json](./306809-f-r-a-g-g.json) |
@@ -1302,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famous Beaches VR (Lopes Mendes Beach Brazil) | 101655 | [101655-famous-beaches-vr-lopes-mendes-beach-brazil.json](./101655-famous-beaches-vr-lopes-mendes-beach-brazil.json) |
 | Famous Courses of the World: Vol. II | 71560 | [71560-famous-courses-of-the-world-vol-ii.json](./71560-famous-courses-of-the-world-vol-ii.json) |
 | Famous Crash | 257547 | [257547-famous-crash.json](./257547-famous-crash.json) |
+| Famous Duo Bundle | 255501 | [255501-famous-duo-bundle.json](./255501-famous-duo-bundle.json) |
 | Famous People Quiz | 89797 | [89797-famous-people-quiz.json](./89797-famous-people-quiz.json) |
 | Famousity | 83813 | [83813-famousity.json](./83813-famousity.json) |
 | Famousity Game | 98398 | [98398-famousity-game.json](./98398-famousity-game.json) |
@@ -6808,6 +6810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Crazy Challenge | 84258 | [84258-football-crazy-challenge.json](./84258-football-crazy-challenge.json) |
 | Football Cup 2021 | 147253 | [147253-football-cup-2021.json](./147253-football-cup-2021.json) |
 | Football Cup 2022 | 187296 | [187296-football-cup-2022.json](./187296-football-cup-2022.json) |
+| Football Cup 2023 | 255500 | [255500-football-cup-2023.json](./255500-football-cup-2023.json) |
 | Football Cup 2024 | 295475 | [295475-football-cup-2024.json](./295475-football-cup-2024.json) |
 | Football Director 2017 | 200160 | [200160-football-director-2017.json](./200160-football-director-2017.json) |
 | Football Director 2019 | 112986 | [112986-football-director-2019.json](./112986-football-director-2019.json) |
@@ -7709,6 +7712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Extinction Code Pack | 305609 | [305609-fortnite-extinction-code-pack.json](./305609-fortnite-extinction-code-pack.json) |
 | Fortnite: Fallen Love Ranger Quest Pack | 239033 | [239033-fortnite-fallen-love-ranger-quest-pack.json](./239033-fortnite-fallen-love-ranger-quest-pack.json) |
 | Fortnite: Frozen Legends Pack | 227403 | [227403-fortnite-frozen-legends-pack.json](./227403-fortnite-frozen-legends-pack.json) |
+| Fortnite: Full Clip STW Pack | 255510 | [255510-fortnite-full-clip-stw-pack.json](./255510-fortnite-full-clip-stw-pack.json) |
 | Fortnite: Guardians Of the Galaxy Pack | 305855 | [305855-fortnite-guardians-of-the-galaxy-pack.json](./305855-fortnite-guardians-of-the-galaxy-pack.json) |
 | Fortnite: Heartbreak Royale Pack | 275355 | [275355-fortnite-heartbreak-royale-pack.json](./275355-fortnite-heartbreak-royale-pack.json) |
 | Fortnite: Heartbreaker Ranger Pack | 279242 | [279242-fortnite-heartbreaker-ranger-pack.json](./279242-fortnite-heartbreaker-ranger-pack.json) |
@@ -7730,6 +7734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Season 9 | 129871 | [129871-fortnite-season-9.json](./129871-fortnite-season-9.json) |
 | Fortnite: Storm-Wild Raven Starter Pack | 331701 | [331701-fortnite-storm-wild-raven-starter-pack.json](./331701-fortnite-storm-wild-raven-starter-pack.json) |
 | Fortnite: The Final Reckoning Pack | 277521 | [277521-fortnite-the-final-reckoning-pack.json](./277521-fortnite-the-final-reckoning-pack.json) |
+| Fortnite: The Laguna Pack | 255541 | [255541-fortnite-the-laguna-pack.json](./255541-fortnite-the-laguna-pack.json) |
 | Fortnite: The Last Laugh Bundle | 139889 | [139889-fortnite-the-last-laugh-bundle.json](./139889-fortnite-the-last-laugh-bundle.json) |
 | Fortnite: The Wavebreaker Pack | 322257 | [322257-fortnite-the-wavebreaker-pack.json](./322257-fortnite-the-wavebreaker-pack.json) |
 | Fortnite: Transformers Pack | 255268 | [255268-fortnite-transformers-pack.json](./255268-fortnite-transformers-pack.json) |
