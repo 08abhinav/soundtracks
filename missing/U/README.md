@@ -1337,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Your Moon | 318857 | [318857-under-your-moon.json](./318857-under-your-moon.json) |
 | Under Your Spell | 327779 | [327779-under-your-spell.json](./327779-under-your-spell.json) |
 | Under Zero | 33223 | [33223-under-zero.json](./33223-under-zero.json) |
+| UnderBackrooms | 235054 | [235054-underbackrooms.json](./235054-underbackrooms.json) |
 | Underboard | 245819 | [245819-underboard.json](./245819-underboard.json) |
 | Undercards | 57109 | [57109-undercards.json](./57109-undercards.json) |
 | Undercat | 158579 | [158579-undercat.json](./158579-undercat.json) |
@@ -2016,6 +2017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unnatural Freaks: Episode 1 Wolf At Evergreen | 166605 | [166605-unnatural-freaks-episode-1-wolf-at-evergreen.json](./166605-unnatural-freaks-episode-1-wolf-at-evergreen.json) |
 | Unnatural Investigations | 191077 | [191077-unnatural-investigations.json](./191077-unnatural-investigations.json) |
 | Unnatural Selection | 94207 | [94207-unnatural-selection.json](./94207-unnatural-selection.json) |
+| Unnatural: Benighted | 235084 | [235084-unnatural-benighted.json](./235084-unnatural-benighted.json) |
 | Unnatural: Land of Dead | 211263 | [211263-unnatural-land-of-dead.json](./211263-unnatural-land-of-dead.json) |
 | Unnatural: Season Two | 247760 | [247760-unnatural-season-two.json](./247760-unnatural-season-two.json) |
 | UnNecessary | 316983 | [316983-unnecessary.json](./316983-unnecessary.json) |
