@@ -2454,6 +2454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Dawn | 25819 | [25819-new-dawn.json](./25819-new-dawn.json) |
 | New Dawn Protocol | 416562 | [416562-new-dawn-protocol.json](./416562-new-dawn-protocol.json) |
 | New Day | 244352 | [244352-new-day.json](./244352-new-day.json) |
+| New Deal or No Deal | 242375 | [242375-new-deal-or-no-deal.json](./242375-new-deal-or-no-deal.json) |
 | New Dungeons | 268777 | [268777-new-dungeons.json](./268777-new-dungeons.json) |
 | New Earth | 275716 | [275716-new-earth.json](./275716-new-earth.json) |
 | New Eitango Target 1900 DS | 186732 | [186732-new-eitango-target-1900-ds.json](./186732-new-eitango-target-1900-ds.json) |
@@ -2840,6 +2841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Quarterback 13 | 62169 | [62169-nfl-quarterback-13.json](./62169-nfl-quarterback-13.json) |
 | NFL Quarterback 15 | 74417 | [74417-nfl-quarterback-15.json](./74417-nfl-quarterback-15.json) |
 | NFL Quarterback Club | 114754 | [114754-nfl-quarterback-club.json](./114754-nfl-quarterback-club.json) |
+| NFL Quarterback Club | 242361 | [242361-nfl-quarterback-club.json](./242361-nfl-quarterback-club.json) |
 | NFL Quarterback Club | 49003 | [49003-nfl-quarterback-club.json](./49003-nfl-quarterback-club.json) |
 | NFL Quarterback Club 2000 | 3559 | [3559-nfl-quarterback-club-2000.json](./3559-nfl-quarterback-club-2000.json) |
 | NFL Quarterback Club 96 | 25080 | [25080-nfl-quarterback-club-96.json](./25080-nfl-quarterback-club-96.json) |
