@@ -2801,6 +2801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pecaminosa: Collector's Edition | 146141 | [146141-pecaminosa-collectors-edition.json](./146141-pecaminosa-collectors-edition.json) |
 | Peccator-It's Not Over Yet | 180104 | [180104-peccator-its-not-over-yet.json](./180104-peccator-its-not-over-yet.json) |
 | Péché Mignon | 394644 | [394644-peche-mignon.json](./394644-peche-mignon.json) |
+| Pechka | 250802 | [250802-pechka.json](./250802-pechka.json) |
 | Peck Peck's Garden | 243633 | [243633-peck-pecks-garden.json](./243633-peck-pecks-garden.json) |
 | Pecker | 244272 | [244272-pecker.json](./244272-pecker.json) |
 | Peckin' Pixels | 135692 | [135692-peckin-pixels.json](./135692-peckin-pixels.json) |
@@ -7515,6 +7516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plunder & Pillage | 159212 | [159212-plunder-and-pillage.json](./159212-plunder-and-pillage.json) |
 | Plunder Ball | 275838 | [275838-plunder-ball.json](./275838-plunder-ball.json) |
 | Plunder Kings | 114149 | [114149-plunder-kings.json](./114149-plunder-kings.json) |
+| Plunder Masters | 250789 | [250789-plunder-masters.json](./250789-plunder-masters.json) |
 | Plunder Panic | 97965 | [97965-plunder-panic.json](./97965-plunder-panic.json) |
 | Plunder Protocol | 420544 | [420544-plunder-protocol.json](./420544-plunder-protocol.json) |
 | Plunder Squad | 107797 | [107797-plunder-squad.json](./107797-plunder-squad.json) |
@@ -12595,6 +12597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychotic Nightmare | 311880 | [311880-psychotic-nightmare.json](./311880-psychotic-nightmare.json) |
 | Psychoverse City | 158163 | [158163-psychoverse-city.json](./158163-psychoverse-city.json) |
 | Psychroma | 204534 | [204534-psychroma.json](./204534-psychroma.json) |
+| PsychWorld | 250791 | [250791-psychworld.json](./250791-psychworld.json) |
 | PsycoCat | 118774 | [118774-psycocat.json](./118774-psycocat.json) |
 | Psycron | 145676 | [145676-psycron.json](./145676-psycron.json) |
 | Psycutlery | 135137 | [135137-psycutlery.json](./135137-psycutlery.json) |
