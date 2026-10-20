@@ -6495,6 +6495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed Corp | 16170 | [16170-greed-corp.json](./16170-greed-corp.json) |
 | Greed Crystal | 198382 | [198382-greed-crystal.json](./198382-greed-crystal.json) |
 | Greed Forest | 336617 | [336617-greed-forest.json](./336617-greed-forest.json) |
+| Greed Hunters | 244637 | [244637-greed-hunters.json](./244637-greed-hunters.json) |
 | Greed Knight | 58680 | [58680-greed-knight.json](./58680-greed-knight.json) |
 | Greed of Man | 242106 | [242106-greed-of-man.json](./242106-greed-of-man.json) |
 | Greed Realm | 278991 | [278991-greed-realm.json](./278991-greed-realm.json) |
