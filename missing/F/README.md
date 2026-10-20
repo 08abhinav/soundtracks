@@ -2601,6 +2601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear & Respect | 70423 | [70423-fear-and-respect.json](./70423-fear-and-respect.json) |
 | Fear 2: The Disappeared 207 | 153136 | [153136-fear-2-the-disappeared-207.json](./153136-fear-2-the-disappeared-207.json) |
 | Fear Academy | 345079 | [345079-fear-academy.json](./345079-fear-academy.json) |
+| Fear Assessment | 254349 | [254349-fear-assessment.json](./254349-fear-assessment.json) |
 | Fear Assessment+ | 254396 | [254396-fear-assessment.json](./254396-fear-assessment.json) |
 | Fear Below Zero | 353615 | [353615-fear-below-zero.json](./353615-fear-below-zero.json) |
 | Fear Calibration | 303072 | [303072-fear-calibration.json](./303072-fear-calibration.json) |
@@ -3748,6 +3749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy Tactics S | 63312 | [63312-final-fantasy-tactics-s.json](./63312-final-fantasy-tactics-s.json) |
 | Final Fantasy Tactics: The Ivalice Chronicles | 347121 | [347121-final-fantasy-tactics-the-ivalice-chronicles.json](./347121-final-fantasy-tactics-the-ivalice-chronicles.json) |
 | Final Fantasy Tactics: The Ivalice Chronicles - Deluxe Edition | 358669 | [358669-final-fantasy-tactics-the-ivalice-chronicles-deluxe-edition.json](./358669-final-fantasy-tactics-the-ivalice-chronicles-deluxe-edition.json) |
+| Final Fantasy Tactics: The Lion War of the Lions | 254303 | [254303-final-fantasy-tactics-the-lion-war-of-the-lions.json](./254303-final-fantasy-tactics-the-lion-war-of-the-lions.json) |
 | Final Fantasy Tactics: The War of the Lions | 394 | [394-final-fantasy-tactics-the-war-of-the-lions.json](./394-final-fantasy-tactics-the-war-of-the-lions.json) |
 | Final Fantasy Type-0 HD: Collector's Edition | 41842 | [41842-final-fantasy-type-0-hd-collectors-edition.json](./41842-final-fantasy-type-0-hd-collectors-edition.json) |
 | Final Fantasy Type-0 HD: Limited Edition | 186630 | [186630-final-fantasy-type-0-hd-limited-edition.json](./186630-final-fantasy-type-0-hd-limited-edition.json) |
@@ -5916,6 +5918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipper on Recoil | 391227 | [391227-flipper-on-recoil.json](./391227-flipper-on-recoil.json) |
 | Flipper Pool | 84342 | [84342-flipper-pool.json](./84342-flipper-pool.json) |
 | Flipper Slipper | 40896 | [40896-flipper-slipper.json](./40896-flipper-slipper.json) |
+| Flipper Soccer | 254359 | [254359-flipper-soccer.json](./254359-flipper-soccer.json) |
 | Flipper Volcano | 138134 | [138134-flipper-volcano.json](./138134-flipper-volcano.json) |
 | Flippets | 321657 | [321657-flippets.json](./321657-flippets.json) |
 | Flippin Misfits | 212809 | [212809-flippin-misfits.json](./212809-flippin-misfits.json) |
@@ -9896,6 +9899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun, Sun & Mishaps | 169887 | [169887-fun-sun-and-mishaps.json](./169887-fun-sun-and-mishaps.json) |
 | Fun! Fun! Animal Park | 114024 | [114024-fun-fun-animal-park.json](./114024-fun-fun-animal-park.json) |
 | Fun! Fun! Pingu | 61678 | [61678-fun-fun-pingu.json](./61678-fun-fun-pingu.json) |
+| Fun.Io | 254310 | [254310-fun-io.json](./254310-fun-io.json) |
 | Funaki Masakatsu Hybrid Wrestler: Tougi Denshou | 44459 | [44459-funaki-masakatsu-hybrid-wrestler-tougi-denshou.json](./44459-funaki-masakatsu-hybrid-wrestler-tougi-denshou.json) |
 | Funbag Fantasy | 114807 | [114807-funbag-fantasy.json](./114807-funbag-fantasy.json) |
 | Funbag Fantasy 2 | 127948 | [127948-funbag-fantasy-2.json](./127948-funbag-fantasy-2.json) |
