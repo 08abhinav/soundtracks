@@ -3986,6 +3986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lincity | 46721 | [46721-lincity.json](./46721-lincity.json) |
 | LinCity-NG | 145269 | [145269-lincity-ng.json](./145269-lincity-ng.json) |
 | Lincoln Green | 231086 | [231086-lincoln-green.json](./231086-lincoln-green.json) |
+| Lincolnshire Roads | 213793 | [213793-lincolnshire-roads.json](./213793-lincolnshire-roads.json) |
 | Linda Crenshaw: The Dream Apartment | 181687 | [181687-linda-crenshaw-the-dream-apartment.json](./181687-linda-crenshaw-the-dream-apartment.json) |
 | Linda Cube | 94898 | [94898-linda-cube.json](./94898-linda-cube.json) |
 | Linda Cube Again | 65761 | [65761-linda-cube-again.json](./65761-linda-cube-again.json) |
