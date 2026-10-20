@@ -2700,7 +2700,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castles in the Sky | 62703 | [62703-castles-in-the-sky.json](./62703-castles-in-the-sky.json) |
 | Castles of War | 390630 | [390630-castles-of-war.json](./390630-castles-of-war.json) |
 | Castles: The Northern Campaign | 11269 | [11269-castles-the-northern-campaign.json](./11269-castles-the-northern-campaign.json) |
-| CastleStorm | 19136 | [19136-castlestorm.json](./19136-castlestorm.json) |
 | CastleStorm II | 119361 | [119361-castlestorm-ii.json](./119361-castlestorm-ii.json) |
 | CastleStorm VR | 54532 | [54532-castlestorm-vr.json](./54532-castlestorm-vr.json) |
 | CastleStorm: Definitive Edition | 20294 | [20294-castlestorm-definitive-edition.json](./20294-castlestorm-definitive-edition.json) |
