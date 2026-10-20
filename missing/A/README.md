@@ -1882,6 +1882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Ventura | 4586 | [4586-ace-ventura.json](./4586-ace-ventura.json) |
 | Ace Ventura: Pet Detective | 218423 | [218423-ace-ventura-pet-detective.json](./218423-ace-ventura-pet-detective.json) |
 | Ace Ventura: Pet Detective - The Case of the Serial Shaver | 61643 | [61643-ace-ventura-pet-detective-the-case-of-the-serial-shaver.json](./61643-ace-ventura-pet-detective-the-case-of-the-serial-shaver.json) |
+| ACE: Air Cruiser Elite | 234487 | [234487-ace-air-cruiser-elite.json](./234487-ace-air-cruiser-elite.json) |
 | ACE: Alice Card Episode | 385869 | [385869-ace-alice-card-episode.json](./385869-ace-alice-card-episode.json) |
 | ACE: Alien Cleanup Elite | 84732 | [84732-ace-alien-cleanup-elite.json](./84732-ace-alien-cleanup-elite.json) |
 | Aceball | 77272 | [77272-aceball.json](./77272-aceball.json) |
@@ -3616,6 +3617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ai Kiss: Limited Edition | 167081 | [167081-ai-kiss-limited-edition.json](./167081-ai-kiss-limited-edition.json) |
 | Ai Land Honeymoon with Sweet Kanade Toba | 280700 | [280700-ai-land-honeymoon-with-sweet-kanade-toba.json](./280700-ai-land-honeymoon-with-sweet-kanade-toba.json) |
 | AI Limit: Eirene's Furnace of War | 378528 | [378528-ai-limit-eirenes-furnace-of-war.json](./378528-ai-limit-eirenes-furnace-of-war.json) |
+| AI Logic | 234442 | [234442-ai-logic.json](./234442-ai-logic.json) |
 | Ai Love | 368272 | [368272-ai-love.json](./368272-ai-love.json) |
 | AI Mahjong | 56534 | [56534-ai-mahjong.json](./56534-ai-mahjong.json) |
 | AI Mahjong 2003 | 269327 | [269327-ai-mahjong-2003.json](./269327-ai-mahjong-2003.json) |
@@ -5988,6 +5990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Adventures Riddle of the Two Knights | 52584 | [52584-amazing-adventures-riddle-of-the-two-knights.json](./52584-amazing-adventures-riddle-of-the-two-knights.json) |
 | Amazing Adventures: The Forgotten Dynasty | 61675 | [61675-amazing-adventures-the-forgotten-dynasty.json](./61675-amazing-adventures-the-forgotten-dynasty.json) |
 | Amazing Animals Activity Center | 336615 | [336615-amazing-animals-activity-center.json](./336615-amazing-animals-activity-center.json) |
+| Amazing Bats | 234468 | [234468-amazing-bats.json](./234468-amazing-bats.json) |
 | Amazing Birds Hunter | 244085 | [244085-amazing-birds-hunter.json](./244085-amazing-birds-hunter.json) |
 | Amazing Breaker | 65493 | [65493-amazing-breaker.json](./65493-amazing-breaker.json) |
 | Amazing Bumpman | 12292 | [12292-amazing-bumpman.json](./12292-amazing-bumpman.json) |
