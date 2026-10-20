@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:07:22.126Z",
-  "total_soundtracks": 2228,
+  "generated_at": "2026-10-20T21:07:33.377Z",
+  "total_soundtracks": 2229,
   "games": [
     {
       "igdb_id": 7522,
@@ -14740,6 +14740,20 @@
           "album_name": "Minecraft Dungeons II (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4hc3HIPQ1zWX6X6wrWjYa5",
           "apple_music_url": "https://music.apple.com/us/album/minecraft-dungeons-ii-original-game-soundtrack/6815723069",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 118711,
+      "game_name": "Minecraft Earth",
+      "game_url": "https://ostdb.net/games/minecraft-earth",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738dd76b66d71825978f555bb8",
+      "albums": [
+        {
+          "album_name": "Minecraft Earth (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2drEQYv4eaDTX4psee3eLU",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
