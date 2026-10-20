@@ -808,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Relationship | 32273 | [32273-dangerous-relationship.json](./32273-dangerous-relationship.json) |
 | Dangerous Roads | 395518 | [395518-dangerous-roads.json](./395518-dangerous-roads.json) |
 | Dangerous Roads Ahead | 194284 | [194284-dangerous-roads-ahead.json](./194284-dangerous-roads-ahead.json) |
+| Dangerous Seduction | 238906 | [238906-dangerous-seduction.json](./238906-dangerous-seduction.json) |
 | Dangerous Seed | 40048 | [40048-dangerous-seed.json](./40048-dangerous-seed.json) |
 | Dangerous Shelter | 142138 | [142138-dangerous-shelter.json](./142138-dangerous-shelter.json) |
 | Dangerous Skies 80's edition | 105157 | [105157-dangerous-skies-80s-edition.json](./105157-dangerous-skies-80s-edition.json) |
@@ -1384,6 +1385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Souls Ascended | 194889 | [194889-dark-souls-ascended.json](./194889-dark-souls-ascended.json) |
 | Dark Souls II: Crown of the Old Iron King | 22502 | [22502-dark-souls-ii-crown-of-the-old-iron-king.json](./22502-dark-souls-ii-crown-of-the-old-iron-king.json) |
 | Dark Souls II: Crown of the Sunken King | 19924 | [19924-dark-souls-ii-crown-of-the-sunken-king.json](./19924-dark-souls-ii-crown-of-the-sunken-king.json) |
+| Dark Souls II: Seeker of Fire | 238899 | [238899-dark-souls-ii-seeker-of-fire.json](./238899-dark-souls-ii-seeker-of-fire.json) |
 | Dark Souls III: Born From the Ashes | 317520 | [317520-dark-souls-iii-born-from-the-ashes.json](./317520-dark-souls-iii-born-from-the-ashes.json) |
 | Dark Souls III: Day One Edition | 89841 | [89841-dark-souls-iii-day-one-edition.json](./89841-dark-souls-iii-day-one-edition.json) |
 | Dark Souls III: Deluxe Edition | 47486 | [47486-dark-souls-iii-deluxe-edition.json](./47486-dark-souls-iii-deluxe-edition.json) |
@@ -5588,6 +5590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy Your Home | 333531 | [333531-destroy-your-home.json](./333531-destroy-your-home.json) |
 | Destroy_the_devil | 114241 | [114241-destroy-the-devil.json](./114241-destroy-the-devil.json) |
 | Destroyer | 175824 | [175824-destroyer.json](./175824-destroyer.json) |
+| Destroyer | 238894 | [238894-destroyer.json](./238894-destroyer.json) |
 | Destroyer | 26410 | [26410-destroyer.json](./26410-destroyer.json) |
 | Destroyer | 312254 | [312254-destroyer.json](./312254-destroyer.json) |
 | Destroyer 7800 | 304197 | [304197-destroyer-7800.json](./304197-destroyer-7800.json) |
@@ -6721,6 +6724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Exorcist | 231856 | [231856-digital-exorcist.json](./231856-digital-exorcist.json) |
 | Digital Exorcist Case_(0); | 247429 | [247429-digital-exorcist-case-0.json](./247429-digital-exorcist-case-0.json) |
 | Digital Extreme Sport Games | 98800 | [98800-digital-extreme-sport-games.json](./98800-digital-extreme-sport-games.json) |
+| Digital ez LG | 238912 | [238912-digital-ez-lg.json](./238912-digital-ez-lg.json) |
 | Digital Girlfriend | 384841 | [384841-digital-girlfriend.json](./384841-digital-girlfriend.json) |
 | Digital Glider Airman | 143655 | [143655-digital-glider-airman.json](./143655-digital-glider-airman.json) |
 | Digital Hazard | 93162 | [93162-digital-hazard.json](./93162-digital-hazard.json) |
