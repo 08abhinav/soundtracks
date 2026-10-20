@@ -6433,6 +6433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Hotel Manager | 351602 | [351602-love-hotel-manager.json](./351602-love-hotel-manager.json) |
 | Love Hotel Simulator | 410920 | [410920-love-hotel-simulator.json](./410920-love-hotel-simulator.json) |
 | Love Hues! | 134674 | [134674-love-hues.json](./134674-love-hues.json) |
+| Love Ice Rink | 254949 | [254949-love-ice-rink.json](./254949-love-ice-rink.json) |
 | Love Idol Maker | 297014 | [297014-love-idol-maker.json](./297014-love-idol-maker.json) |
 | Love In a Bottle | 202643 | [202643-love-in-a-bottle.json](./202643-love-in-a-bottle.json) |
 | Love in Belarus | 152465 | [152465-love-in-belarus.json](./152465-love-in-belarus.json) |
