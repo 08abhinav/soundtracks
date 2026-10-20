@@ -10137,6 +10137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect the Circuit 1000 | 328544 | [328544-connect-the-circuit-1000.json](./328544-connect-the-circuit-1000.json) |
 | Connect the Dots | 151551 | [151551-connect-the-dots.json](./151551-connect-the-dots.json) |
 | Connect the Dots | 356634 | [356634-connect-the-dots.json](./356634-connect-the-dots.json) |
+| Connect the Dots 3D | 212095 | [212095-connect-the-dots-3d.json](./212095-connect-the-dots-3d.json) |
 | Connect the Stars | 409616 | [409616-connect-the-stars.json](./409616-connect-the-stars.json) |
 | Connect the World | 300700 | [300700-connect-the-world.json](./300700-connect-the-world.json) |
 | Connect Word | 352256 | [352256-connect-word.json](./352256-connect-word.json) |
@@ -15675,6 +15676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cytus Lambda | 80227 | [80227-cytus-lambda.json](./80227-cytus-lambda.json) |
 | Cyvern | 39835 | [39835-cyvern.json](./39835-cyvern.json) |
 | Cyvern: The Dragon Weapons | 65404 | [65404-cyvern-the-dragon-weapons.json](./65404-cyvern-the-dragon-weapons.json) |
+| CyVeRpunk | 212137 | [212137-cyverpunk.json](./212137-cyverpunk.json) |
 | Cywall | 399878 | [399878-cywall.json](./399878-cywall.json) |
 | Cyyer | 298698 | [298698-cyyer.json](./298698-cyyer.json) |
 | Czar: Decision | 129467 | [129467-czar-decision.json](./129467-czar-decision.json) |
