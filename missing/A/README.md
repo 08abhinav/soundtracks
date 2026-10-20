@@ -8966,6 +8966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arashi: Castles of Sin | 159109 | [159109-arashi-castles-of-sin.json](./159109-arashi-castles-of-sin.json) |
 | Arasuji de Kitaeru: Hayamimi no Susume DS | 269647 | [269647-arasuji-de-kitaeru-hayamimi-no-susume-ds.json](./269647-arasuji-de-kitaeru-hayamimi-no-susume-ds.json) |
 | Arasuji de Oboeru Sokudoku no Susume DS | 269646 | [269646-arasuji-de-oboeru-sokudoku-no-susume-ds.json](./269646-arasuji-de-oboeru-sokudoku-no-susume-ds.json) |
+| Arata Haunted Asylum | 216669 | [216669-arata-haunted-asylum.json](./216669-arata-haunted-asylum.json) |
 | Arazok's Tomb | 14264 | [14264-arazoks-tomb.json](./14264-arazoks-tomb.json) |
 | ARB: Anomalous Research Bureau - Museum | 402499 | [402499-arb-anomalous-research-bureau-museum.json](./402499-arb-anomalous-research-bureau-museum.json) |
 | Arbalest 3035 | 58651 | [58651-arbalest-3035.json](./58651-arbalest-3035.json) |
@@ -12487,6 +12488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Surf | 238641 | [238641-atomic-surf.json](./238641-atomic-surf.json) |
 | Atomic Survivors | 249748 | [249748-atomic-survivors.json](./249748-atomic-survivors.json) |
 | Atomic Warfare | 303901 | [303901-atomic-warfare.json](./303901-atomic-warfare.json) |
+| Atomic Wilds | 216661 | [216661-atomic-wilds.json](./216661-atomic-wilds.json) |
 | Atomica | 379989 | [379989-atomica.json](./379989-atomica.json) |
 | Atomical | 364367 | [364367-atomical.json](./364367-atomical.json) |
 | Atomicrops | 76954 | [76954-atomicrops.json](./76954-atomicrops.json) |
@@ -13018,6 +13020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autonomous Swarm: The Replication War | 389641 | [389641-autonomous-swarm-the-replication-war.json](./389641-autonomous-swarm-the-replication-war.json) |
 | Autonomous Warfare Evolution | 401072 | [401072-autonomous-warfare-evolution.json](./401072-autonomous-warfare-evolution.json) |
 | Autonomy Lost | 221913 | [221913-autonomy-lost.json](./221913-autonomy-lost.json) |
+| Autopanic | 216684 | [216684-autopanic.json](./216684-autopanic.json) |
 | Autopanic Zero | 236786 | [236786-autopanic-zero.json](./236786-autopanic-zero.json) |
 | AutoParts Simulator | 346163 | [346163-autoparts-simulator.json](./346163-autoparts-simulator.json) |
 | Autopsy Simulator | 132385 | [132385-autopsy-simulator.json](./132385-autopsy-simulator.json) |
