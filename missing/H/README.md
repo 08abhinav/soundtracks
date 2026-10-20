@@ -7260,6 +7260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hop N' Swap | 340481 | [340481-hop-n-swap.json](./340481-hop-n-swap.json) |
 | Hop Off | 184958 | [184958-hop-off.json](./184958-hop-off.json) |
 | Hop on It | 332890 | [332890-hop-on-it.json](./332890-hop-on-it.json) |
+| Hop Owl | 255544 | [255544-hop-owl.json](./255544-hop-owl.json) |
 | Hop Rocket | 384806 | [384806-hop-rocket.json](./384806-hop-rocket.json) |
 | Hop Skip and Thump | 187257 | [187257-hop-skip-and-thump.json](./187257-hop-skip-and-thump.json) |
 | Hop Skip Jump | 149014 | [149014-hop-skip-jump.json](./149014-hop-skip-jump.json) |
