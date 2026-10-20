@@ -12830,6 +12830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puchi Puchi Virus | 21053 | [21053-puchi-puchi-virus.json](./21053-puchi-puchi-virus.json) |
 | PuchiCon Big | 222292 | [222292-puchicon-big.json](./222292-puchicon-big.json) |
 | Puchicon Magazine: Soukangou | 222530 | [222530-puchicon-magazine-soukangou.json](./222530-puchicon-magazine-soukangou.json) |
+| PuchiTamaWalker | 221585 | [221585-puchitamawalker.json](./221585-puchitamawalker.json) |
 | Puchitto Cluster | 146855 | [146855-puchitto-cluster.json](./146855-puchitto-cluster.json) |
 | Puck | 327768 | [327768-puck.json](./327768-puck.json) |
 | Puck Bash | 187266 | [187266-puck-bash.json](./187266-puck-bash.json) |
