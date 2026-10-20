@@ -2163,6 +2163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scenery Disk 4 | 78012 | [78012-scenery-disk-4.json](./78012-scenery-disk-4.json) |
 | Scenery Disk 5 | 98959 | [98959-scenery-disk-5.json](./98959-scenery-disk-5.json) |
 | Scenery Disk 6 | 86024 | [86024-scenery-disk-6.json](./86024-scenery-disk-6.json) |
+| Scenic Route's Generations | 244084 | [244084-scenic-routes-generations.json](./244084-scenic-routes-generations.json) |
 | Scenner | 119045 | [119045-scenner.json](./119045-scenner.json) |
 | Scent of Ashes | 401712 | [401712-scent-of-ashes.json](./401712-scent-of-ashes.json) |
 | Scent of Greed | 273433 | [273433-scent-of-greed.json](./273433-scent-of-greed.json) |
@@ -9062,6 +9063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Sniper | 36528 | [36528-ski-sniper.json](./36528-ski-sniper.json) |
 | Ski Sport: Jumping VR | 29700 | [29700-ski-sport-jumping-vr.json](./29700-ski-sport-jumping-vr.json) |
 | Ski Yeet | 409831 | [409831-ski-yeet.json](./409831-ski-yeet.json) |
+| Ski Zoo | 244091 | [244091-ski-zoo.json](./244091-ski-zoo.json) |
 | Ski-Doo X-Team Racing | 80137 | [80137-ski-doo-x-team-racing.json](./80137-ski-doo-x-team-racing.json) |
 | Ski-Doo: Snow X Racing | 21419 | [21419-ski-doo-snow-x-racing.json](./21419-ski-doo-snow-x-racing.json) |
 | Ski-E-O! Ski Resort Tycoon | 414510 | [414510-ski-e-o-ski-resort-tycoon.json](./414510-ski-e-o-ski-resort-tycoon.json) |
@@ -9644,6 +9646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slap Happy Rhythm Busters | 44861 | [44861-slap-happy-rhythm-busters.json](./44861-slap-happy-rhythm-busters.json) |
 | Slap Shooter | 97977 | [97977-slap-shooter.json](./97977-slap-shooter.json) |
 | Slap Shot | 81281 | [81281-slap-shot.json](./81281-slap-shot.json) |
+| Slap Shots! | 244108 | [244108-slap-shots.json](./244108-slap-shots.json) |
 | Slap That | 311263 | [311263-slap-that.json](./311263-slap-that.json) |
 | Slap the Bulls | 106480 | [106480-slap-the-bulls.json](./106480-slap-the-bulls.json) |
 | Slap the Fly | 23507 | [23507-slap-the-fly.json](./23507-slap-the-fly.json) |
@@ -10900,6 +10903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snacko | 130618 | [130618-snacko.json](./130618-snacko.json) |
 | Snackroach | 257251 | [257251-snackroach.json](./257251-snackroach.json) |
 | SnackTimeActionGame | 371593 | [371593-snacktimeactiongame.json](./371593-snacktimeactiongame.json) |
+| Snacktorio | 244121 | [244121-snacktorio.json](./244121-snacktorio.json) |
 | Snafu | 5697 | [5697-snafu.json](./5697-snafu.json) |
 | Snafubar | 386438 | [386438-snafubar.json](./386438-snafubar.json) |
 | Snägäri Pinball | 388765 | [388765-snagari-pinball.json](./388765-snagari-pinball.json) |
@@ -13615,6 +13619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorrow Asylum 2 | 264627 | [264627-sorrow-asylum-2.json](./264627-sorrow-asylum-2.json) |
 | Sorrow Asylum 3 | 309515 | [309515-sorrow-asylum-3.json](./309515-sorrow-asylum-3.json) |
 | Sorrow's Serenade | 385870 | [385870-sorrows-serenade.json](./385870-sorrows-serenade.json) |
+| Sorrowful Night | 244119 | [244119-sorrowful-night.json](./244119-sorrowful-night.json) |
 | Sorrowself | 143731 | [143731-sorrowself.json](./143731-sorrowself.json) |
 | Sorry About The Mess | 414322 | [414322-sorry-about-the-mess.json](./414322-sorry-about-the-mess.json) |
 | Sorry Sir, I'm out of controls | 184581 | [184581-sorry-sir-im-out-of-controls.json](./184581-sorry-sir-im-out-of-controls.json) |
@@ -15288,6 +15293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparkster PC | 265220 | [265220-sparkster-pc.json](./265220-sparkster-pc.json) |
 | Sparkster: Rocket Knight Adventures 2 | 1264 | [1264-sparkster-rocket-knight-adventures-2.json](./1264-sparkster-rocket-knight-adventures-2.json) |
 | Sparky | 258970 | [258970-sparky.json](./258970-sparky.json) |
+| Sparky Marky | 244115 | [244115-sparky-marky.json](./244115-sparky-marky.json) |
 | Sparky Marky: Episode 2 | 252263 | [252263-sparky-marky-episode-2.json](./252263-sparky-marky-episode-2.json) |
 | Sparky Marky: Episode 3 | 258178 | [258178-sparky-marky-episode-3.json](./258178-sparky-marky-episode-3.json) |
 | Sparky Rush: Purrils in Pawsville! | 374912 | [374912-sparky-rush-purrils-in-pawsville.json](./374912-sparky-rush-purrils-in-pawsville.json) |
@@ -19743,6 +19749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stephen Huneck's PuzzleSpace | 58286 | [58286-stephen-hunecks-puzzlespace.json](./58286-stephen-hunecks-puzzlespace.json) |
 | Stephen King's F13 | 74412 | [74412-stephen-kings-f13.json](./74412-stephen-kings-f13.json) |
 | Stephen King's F13 | 92828 | [92828-stephen-kings-f13.json](./92828-stephen-kings-f13.json) |
+| Stephen Sharer’s Rocket Slide | 244109 | [244109-stephen-sharer-s-rocket-slide.json](./244109-stephen-sharer-s-rocket-slide.json) |
 | StepMania | 51311 | [51311-stepmania.json](./51311-stepmania.json) |
 | Steppenwolf: The X-Creatures Project | 284584 | [284584-steppenwolf-the-x-creatures-project.json](./284584-steppenwolf-the-x-creatures-project.json) |
 | Stepping Selection | 66741 | [66741-stepping-selection.json](./66741-stepping-selection.json) |
@@ -21026,6 +21033,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Warrior | 44621 | [44621-street-warrior.json](./44621-street-warrior.json) |
 | Street-food Tycoon Chef Fever: World Cook-ing Star | 248067 | [248067-street-food-tycoon-chef-fever-world-cook-ing-star.json](./248067-street-food-tycoon-chef-fever-world-cook-ing-star.json) |
 | Streetball 2: On Fire | 256168 | [256168-streetball-2-on-fire.json](./256168-streetball-2-on-fire.json) |
+| Streetball Allstar: Showdown | 244092 | [244092-streetball-allstar-showdown.json](./244092-streetball-allstar-showdown.json) |
+| Streetball the Mecca | 244082 | [244082-streetball-the-mecca.json](./244082-streetball-the-mecca.json) |
 | Streetball VR | 36985 | [36985-streetball-vr.json](./36985-streetball-vr.json) |
 | Streetbike: Full Blast | 20722 | [20722-streetbike-full-blast.json](./20722-streetbike-full-blast.json) |
 | StreetCraft | 32933 | [32933-streetcraft.json](./32933-streetcraft.json) |
