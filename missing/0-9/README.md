@@ -2271,6 +2271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 69 Moriko Love | 192686 | [192686-69-moriko-love.json](./192686-69-moriko-love.json) |
 | 69 Naomi Hot | 223068 | [223068-69-naomi-hot.json](./223068-69-naomi-hot.json) |
 | 69 Natasha Hot | 212672 | [212672-69-natasha-hot.json](./212672-69-natasha-hot.json) |
+| 69 Penny Hot | 211067 | [211067-69-penny-hot.json](./211067-69-penny-hot.json) |
 | 69 Samantha Love | 195723 | [195723-69-samantha-love.json](./195723-69-samantha-love.json) |
 | 69 Ways to Kill a Zombie | 31722 | [31722-69-ways-to-kill-a-zombie.json](./31722-69-ways-to-kill-a-zombie.json) |
 | 69 Yuki Love | 167167 | [167167-69-yuki-love.json](./167167-69-yuki-love.json) |
