@@ -9448,6 +9448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Wings: Battle of Britain | 9800 | [9800-combat-wings-battle-of-britain.json](./9800-combat-wings-battle-of-britain.json) |
 | Combat Wings: The Great Battles of WWII | 47437 | [47437-combat-wings-the-great-battles-of-wwii.json](./47437-combat-wings-the-great-battles-of-wwii.json) |
 | Combat Zone | 13510 | [13510-combat-zone.json](./13510-combat-zone.json) |
+| Combat Zone | 218338 | [218338-combat-zone.json](./218338-combat-zone.json) |
 | Combat Zone | 265594 | [265594-combat-zone.json](./265594-combat-zone.json) |
 | Combat Zone | 370794 | [370794-combat-zone.json](./370794-combat-zone.json) |
 | Combat: Task Force 121 | 24745 | [24745-combat-task-force-121.json](./24745-combat-task-force-121.json) |
@@ -9614,6 +9615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command Center Earth | 273634 | [273634-command-center-earth.json](./273634-command-center-earth.json) |
 | Command Deck | 348577 | [348577-command-deck.json](./348577-command-deck.json) |
 | Command Doctrine | 416109 | [416109-command-doctrine.json](./416109-command-doctrine.json) |
+| Command Fire | 218337 | [218337-command-fire.json](./218337-command-fire.json) |
 | Command Heroes | 151845 | [151845-command-heroes.json](./151845-command-heroes.json) |
 | Command Line Mazer | 203972 | [203972-command-line-mazer.json](./203972-command-line-mazer.json) |
 | Command Line Pilot | 146783 | [146783-command-line-pilot.json](./146783-command-line-pilot.json) |
@@ -12099,6 +12101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crankies Workshop: Lerpbot Assembly | 180030 | [180030-crankies-workshop-lerpbot-assembly.json](./180030-crankies-workshop-lerpbot-assembly.json) |
 | Crankies Workshop: Whirlbot Assembly | 180052 | [180052-crankies-workshop-whirlbot-assembly.json](./180052-crankies-workshop-whirlbot-assembly.json) |
 | Crankies Workshop: Whirlbot Assembly 2 | 68897 | [68897-crankies-workshop-whirlbot-assembly-2.json](./68897-crankies-workshop-whirlbot-assembly-2.json) |
+| Crankies Workshop: Zazzbot Assembly | 218311 | [218311-crankies-workshop-zazzbot-assembly.json](./218311-crankies-workshop-zazzbot-assembly.json) |
 | Crankin Car | 230745 | [230745-crankin-car.json](./230745-crankin-car.json) |
 | CrankLander | 413588 | [413588-cranklander.json](./413588-cranklander.json) |
 | CranKnight | 339703 | [339703-cranknight.json](./339703-cranknight.json) |
