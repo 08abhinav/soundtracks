@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Date With Chester 2 | 383186 | [383186-a-date-with-chester-2.json](./383186-a-date-with-chester-2.json) |
 | A Date with Death: Beyond the Bet | 288917 | [288917-a-date-with-death-beyond-the-bet.json](./288917-a-date-with-death-beyond-the-bet.json) |
 | A Date with Death: Expansion DLC | 276859 | [276859-a-date-with-death-expansion-dlc.json](./276859-a-date-with-death-expansion-dlc.json) |
+| A Date with Yesterday | 232848 | [232848-a-date-with-yesterday.json](./232848-a-date-with-yesterday.json) |
 | A Day as a T-Rex | 209185 | [209185-a-day-as-a-t-rex.json](./209185-a-day-as-a-t-rex.json) |
 | A Day at the Carnival | 55853 | [55853-a-day-at-the-carnival.json](./55853-a-day-at-the-carnival.json) |
 | A Day at the Library | 102050 | [102050-a-day-at-the-library.json](./102050-a-day-at-the-library.json) |
@@ -13311,6 +13312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awful Kidnapper | 300410 | [300410-awful-kidnapper.json](./300410-awful-kidnapper.json) |
 | Awful Mario World | 314897 | [314897-awful-mario-world.json](./314897-awful-mario-world.json) |
 | Awita: Journey of Hope | 247968 | [247968-awita-journey-of-hope.json](./247968-awita-journey-of-hope.json) |
+| Awkward 2 | 232874 | [232874-awkward-2.json](./232874-awkward-2.json) |
 | Awkward Date Hero | 109621 | [109621-awkward-date-hero.json](./109621-awkward-date-hero.json) |
 | Awkward Dimensions | 22380 | [22380-awkward-dimensions.json](./22380-awkward-dimensions.json) |
 | Awkward Dimensions Redux | 22381 | [22381-awkward-dimensions-redux.json](./22381-awkward-dimensions-redux.json) |
