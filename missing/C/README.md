@@ -7427,6 +7427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clawless Coin | 405526 | [405526-clawless-coin.json](./405526-clawless-coin.json) |
 | Claws & Chaos | 261674 | [261674-claws-and-chaos.json](./261674-claws-and-chaos.json) |
 | Clawsome | 334203 | [334203-clawsome.json](./334203-clawsome.json) |
+| Clawstar Wrestling | 227115 | [227115-clawstar-wrestling.json](./227115-clawstar-wrestling.json) |
 | Clay Beats | 334504 | [334504-clay-beats.json](./334504-clay-beats.json) |
 | Clay Champ | 60461 | [60461-clay-champ.json](./60461-clay-champ.json) |
 | Clay God | 303753 | [303753-clay-god.json](./303753-clay-god.json) |
