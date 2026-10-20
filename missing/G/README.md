@@ -7049,6 +7049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groaning Steel | 170541 | [170541-groaning-steel.json](./170541-groaning-steel.json) |
 | Grobda Remix | 74986 | [74986-grobda-remix.json](./74986-grobda-remix.json) |
 | Grobnopolis \| Last Days | 363914 | [363914-grobnopolis-last-days.json](./363914-grobnopolis-last-days.json) |
+| Groceries and JumpScares | 253730 | [253730-groceries-and-jumpscares.json](./253730-groceries-and-jumpscares.json) |
 | Grocery Grab | 253937 | [253937-grocery-grab.json](./253937-grocery-grab.json) |
 | Grocery Quest mini | 178504 | [178504-grocery-quest-mini.json](./178504-grocery-quest-mini.json) |
 | Grocery Run | 365864 | [365864-grocery-run.json](./365864-grocery-run.json) |
