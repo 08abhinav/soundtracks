@@ -5362,6 +5362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Princess Cinderella | 98389 | [98389-hidden-object-princess-cinderella.json](./98389-hidden-object-princess-cinderella.json) |
 | Hidden Object: Pumpkin Patch | 98578 | [98578-hidden-object-pumpkin-patch.json](./98578-hidden-object-pumpkin-patch.json) |
 | Hidden Object: Rapunzel | 98343 | [98343-hidden-object-rapunzel.json](./98343-hidden-object-rapunzel.json) |
+| Hidden Object: Romantic Places | 234437 | [234437-hidden-object-romantic-places.json](./234437-hidden-object-romantic-places.json) |
 | Hidden Object: Sakura Garden | 98342 | [98342-hidden-object-sakura-garden.json](./98342-hidden-object-sakura-garden.json) |
 | Hidden Object: Scared Sweet | 98340 | [98340-hidden-object-scared-sweet.json](./98340-hidden-object-scared-sweet.json) |
 | Hidden Object: Sherlock | 82166 | [82166-hidden-object-sherlock.json](./82166-hidden-object-sherlock.json) |
@@ -8052,6 +8053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Dash: Suite Success Deluxe | 175305 | [175305-hotel-dash-suite-success-deluxe.json](./175305-hotel-dash-suite-success-deluxe.json) |
 | Hotel Detective | 71468 | [71468-hotel-detective.json](./71468-hotel-detective.json) |
 | Hotel Dracula | 81139 | [81139-hotel-dracula.json](./81139-hotel-dracula.json) |
+| Hotel Empire Tycoon | 234464 | [234464-hotel-empire-tycoon.json](./234464-hotel-empire-tycoon.json) |
 | Hotel Empire: Check Inn | 413097 | [413097-hotel-empire-check-inn.json](./413097-hotel-empire-check-inn.json) |
 | Hotel for Dogs | 21256 | [21256-hotel-for-dogs.json](./21256-hotel-for-dogs.json) |
 | Hotel Giant | 292 | [292-hotel-giant.json](./292-hotel-giant.json) |
