@@ -1803,6 +1803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GearHead: Arena | 181230 | [181230-gearhead-arena.json](./181230-gearhead-arena.json) |
 | Gearheads | 92925 | [92925-gearheads.json](./92925-gearheads.json) |
 | Gearlock: Episode 1 | 381719 | [381719-gearlock-episode-1.json](./381719-gearlock-episode-1.json) |
+| Gears | 240078 | [240078-gears.json](./240078-gears.json) |
 | Gears 5: Game of the Year Edition | 142818 | [142818-gears-5-game-of-the-year-edition.json](./142818-gears-5-game-of-the-year-edition.json) |
 | Gears Forever | 297511 | [297511-gears-forever.json](./297511-gears-forever.json) |
 | Gears N Gators | 136227 | [136227-gears-n-gators.json](./136227-gears-n-gators.json) |
