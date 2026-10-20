@@ -343,9 +343,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X2: Wolverine's Revenge | 4579 | [4579-x2-wolverines-revenge.json](./4579-x2-wolverines-revenge.json) |
 | X2O | 89802 | [89802-x2o.json](./89802-x2o.json) |
 | X3: Albion Prelude | 9321 | [9321-x3-albion-prelude.json](./9321-x3-albion-prelude.json) |
+| X3: Albion Prelude - Bonus Package | 224391 | [224391-x3-albion-prelude-bonus-package.json](./224391-x3-albion-prelude-bonus-package.json) |
 | X3: Farnham's Legacy | 145483 | [145483-x3-farnhams-legacy.json](./145483-x3-farnhams-legacy.json) |
 | X3: GoldBox | 53102 | [53102-x3-goldbox.json](./53102-x3-goldbox.json) |
+| X3: Reunion - Bonus Package | 224392 | [224392-x3-reunion-bonus-package.json](./224392-x3-reunion-bonus-package.json) |
 | X3: Terran Conflict | 9320 | [9320-x3-terran-conflict.json](./9320-x3-terran-conflict.json) |
+| X3: Terran Conflict - Bonus Package | 224393 | [224393-x3-terran-conflict-bonus-package.json](./224393-x3-terran-conflict-bonus-package.json) |
 | X4: Envoy Pack | 369445 | [369445-x4-envoy-pack.json](./369445-x4-envoy-pack.json) |
 | X4: Foundations - Collector's Edition | 124803 | [124803-x4-foundations-collectors-edition.json](./124803-x4-foundations-collectors-edition.json) |
 | X4: Foundations - Diplomacy Update | 339616 | [339616-x4-foundations-diplomacy-update.json](./339616-x4-foundations-diplomacy-update.json) |
