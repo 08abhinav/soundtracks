@@ -6281,6 +6281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman 3 VR: Reloaded | 304322 | [304322-hitman-3-vr-reloaded.json](./304322-hitman-3-vr-reloaded.json) |
 | Hitman 3: Ambrose Island | 274894 | [274894-hitman-3-ambrose-island.json](./274894-hitman-3-ambrose-island.json) |
 | Hitman 3: Cloud Version | 140502 | [140502-hitman-3-cloud-version.json](./140502-hitman-3-cloud-version.json) |
+| Hitman 3: Deluxe Pack | 215557 | [215557-hitman-3-deluxe-pack.json](./215557-hitman-3-deluxe-pack.json) |
 | Hitman 3: Patient Zero Requiem | 381244 | [381244-hitman-3-patient-zero-requiem.json](./381244-hitman-3-patient-zero-requiem.json) |
 | Hitman 3: Seven Deadly Sins Act 1 - Greed | 307384 | [307384-hitman-3-seven-deadly-sins-act-1-greed.json](./307384-hitman-3-seven-deadly-sins-act-1-greed.json) |
 | Hitman 3: Seven Deadly Sins Act 2 - Pride | 307385 | [307385-hitman-3-seven-deadly-sins-act-2-pride.json](./307385-hitman-3-seven-deadly-sins-act-2-pride.json) |
