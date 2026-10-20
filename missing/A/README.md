@@ -7275,6 +7275,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Crossing-e: D03 - Design Card: Samus's Suit | 354823 | [354823-animal-crossing-e-d03-design-card-samuss-suit.json](./354823-animal-crossing-e-d03-design-card-samuss-suit.json) |
 | Animal Crossing-e: PR - Design Card: NES Link | 354416 | [354416-animal-crossing-e-pr-design-card-nes-link.json](./354416-animal-crossing-e-pr-design-card-nes-link.json) |
 | Animal Crossing: City Folk Deluxe | 341895 | [341895-animal-crossing-city-folk-deluxe.json](./341895-animal-crossing-city-folk-deluxe.json) |
+| Animal Crossing: Classic Game Card - Ice Climber | 229500 | [229500-animal-crossing-classic-game-card-ice-climber.json](./229500-animal-crossing-classic-game-card-ice-climber.json) |
+| Animal Crossing: Classic Game Card - Mario Bros. | 229501 | [229501-animal-crossing-classic-game-card-mario-bros.json](./229501-animal-crossing-classic-game-card-mario-bros.json) |
 | Animal Crossing: New Horizons - Happy Home Paradise | 176552 | [176552-animal-crossing-new-horizons-happy-home-paradise.json](./176552-animal-crossing-new-horizons-happy-home-paradise.json) |
 | Animal Crossing: New Leaf - Premium Edition | 89900 | [89900-animal-crossing-new-leaf-premium-edition.json](./89900-animal-crossing-new-leaf-premium-edition.json) |
 | Animal Crossing: New Leaf - Welcome Luxury | 294788 | [294788-animal-crossing-new-leaf-welcome-luxury.json](./294788-animal-crossing-new-leaf-welcome-luxury.json) |
@@ -7318,6 +7320,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Jam Classic | 316795 | [316795-animal-jam-classic.json](./316795-animal-jam-classic.json) |
 | Animal Jigsaw Puzzle | 99976 | [99976-animal-jigsaw-puzzle.json](./99976-animal-jigsaw-puzzle.json) |
 | Animal Jigsaw VR | 247971 | [247971-animal-jigsaw-vr.json](./247971-animal-jigsaw-vr.json) |
+| Animal Jumprope A | 229503 | [229503-animal-jumprope-a.json](./229503-animal-jumprope-a.json) |
+| Animal Jumprope B | 229505 | [229505-animal-jumprope-b.json](./229505-animal-jumprope-b.json) |
 | Animal Kaiser: The King of Animals | 56998 | [56998-animal-kaiser-the-king-of-animals.json](./56998-animal-kaiser-the-king-of-animals.json) |
 | Animal Kart Racer | 154790 | [154790-animal-kart-racer.json](./154790-animal-kart-racer.json) |
 | Animal Kingdom 2 | 271660 | [271660-animal-kingdom-2.json](./271660-animal-kingdom-2.json) |
@@ -7348,6 +7352,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Puzzle: Preschool Learning Game for Kids and Toddlers | 165618 | [165618-animal-puzzle-preschool-learning-game-for-kids-and-toddlers.json](./165618-animal-puzzle-preschool-learning-game-for-kids-and-toddlers.json) |
 | Animal Puzzles Games: little boys & girls puzzle | 87217 | [87217-animal-puzzles-games-little-boys-and-girls-puzzle.json](./87217-animal-puzzles-games-little-boys-and-girls-puzzle.json) |
 | Animal Race Run VR | 303155 | [303155-animal-race-run-vr.json](./303155-animal-race-run-vr.json) |
+| Animal Relay A | 229502 | [229502-animal-relay-a.json](./229502-animal-relay-a.json) |
+| Animal Relay B | 229504 | [229504-animal-relay-b.json](./229504-animal-relay-b.json) |
 | Animal Rescue | 169407 | [169407-animal-rescue.json](./169407-animal-rescue.json) |
 | Animal Rescuer | 139419 | [139419-animal-rescuer.json](./139419-animal-rescuer.json) |
 | Animal Restaurant | 133792 | [133792-animal-restaurant.json](./133792-animal-restaurant.json) |
@@ -7848,6 +7854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly: Girls Beyond Science | 231417 | [231417-anomaly-girls-beyond-science.json](./231417-anomaly-girls-beyond-science.json) |
 | Anomaly: Warzone Earth | 8758 | [8758-anomaly-warzone-earth.json](./8758-anomaly-warzone-earth.json) |
 | Anomalytics: From the Files of the Arcane Statistics Authority | 293094 | [293094-anomalytics-from-the-files-of-the-arcane-statistics-authority.json](./293094-anomalytics-from-the-files-of-the-arcane-statistics-authority.json) |
+| Anomiac. | 229553 | [229553-anomiac.json](./229553-anomiac.json) |
 | Anomyeowly | 397103 | [397103-anomyeowly.json](./397103-anomyeowly.json) |
 | Anon's Neko Waifus | 276709 | [276709-anons-neko-waifus.json](./276709-anons-neko-waifus.json) |
 | Anonono. Kimi to Sugoshita Ano Hi Ano Toki Ano Mirai | 314654 | [314654-anonono-kimi-to-sugoshita-ano-hi-ano-toki-ano-mirai.json](./314654-anonono-kimi-to-sugoshita-ano-hi-ano-toki-ano-mirai.json) |
