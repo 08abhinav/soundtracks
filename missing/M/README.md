@@ -1077,6 +1077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magica X Magica | 200018 | [200018-magica-x-magica.json](./200018-magica-x-magica.json) |
 | Magicademia | 148677 | [148677-magicademia.json](./148677-magicademia.json) |
 | Magicafe | 299127 | [299127-magicafe.json](./299127-magicafe.json) |
+| Magical Amber: Tobi Tsukihime | 222742 | [222742-magical-amber-tobi-tsukihime.json](./222742-magical-amber-tobi-tsukihime.json) |
 | Magical Animal Farm | 366423 | [366423-magical-animal-farm.json](./366423-magical-animal-farm.json) |
 | Magical Atelier | 195452 | [195452-magical-atelier.json](./195452-magical-atelier.json) |
 | Magical Backpack | 328977 | [328977-magical-backpack.json](./328977-magical-backpack.json) |
@@ -7128,6 +7129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaid Swamp | 287635 | [287635-mermaid-swamp.json](./287635-mermaid-swamp.json) |
 | Mermaid Swamp | 62117 | [62117-mermaid-swamp.json](./62117-mermaid-swamp.json) |
 | Mermaid Tail | 302132 | [302132-mermaid-tail.json](./302132-mermaid-tail.json) |
+| Mermaidio | 222766 | [222766-mermaidio.json](./222766-mermaidio.json) |
 | Mermaidio 3 | 229077 | [229077-mermaidio-3.json](./229077-mermaidio-3.json) |
 | Mermaids Are Seafood | 381188 | [381188-mermaids-are-seafood.json](./381188-mermaids-are-seafood.json) |
 | Mermaids of Atlantis: The Riddle of the Magic Bubble | 48172 | [48172-mermaids-of-atlantis-the-riddle-of-the-magic-bubble.json](./48172-mermaids-of-atlantis-the-riddle-of-the-magic-bubble.json) |
