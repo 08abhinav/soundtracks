@@ -5086,6 +5086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardas | 117648 | [117648-wizardas.json](./117648-wizardas.json) |
 | WizardCraft | 33264 | [33264-wizardcraft.json](./33264-wizardcraft.json) |
 | WizardCraft Colonies | 120947 | [120947-wizardcraft-colonies.json](./120947-wizardcraft-colonies.json) |
+| Wizardia | 218344 | [218344-wizardia.json](./218344-wizardia.json) |
 | Wizardians: In Defence of Magic | 126896 | [126896-wizardians-in-defence-of-magic.json](./126896-wizardians-in-defence-of-magic.json) |
 | Wizardry 6+7 | 127994 | [127994-wizardry-6-7.json](./127994-wizardry-6-7.json) |
 | Wizardry Chronicle | 172724 | [172724-wizardry-chronicle.json](./172724-wizardry-chronicle.json) |
@@ -5119,6 +5120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry: The Return of Werdna - The Fourth Scenario | 2885 | [2885-wizardry-the-return-of-werdna-the-fourth-scenario.json](./2885-wizardry-the-return-of-werdna-the-fourth-scenario.json) |
 | Wizards | 129046 | [129046-wizards.json](./129046-wizards.json) |
 | Wizards | 131444 | [131444-wizards.json](./131444-wizards.json) |
+| Wizards & Warriors | 218341 | [218341-wizards-and-warriors.json](./218341-wizards-and-warriors.json) |
 | Wizards & Warriors | 80498 | [80498-wizards-and-warriors.json](./80498-wizards-and-warriors.json) |
 | Wizards & Warriors III: Kuros - Visions of Power | 48092 | [48092-wizards-and-warriors-iii-kuros-visions-of-power.json](./48092-wizards-and-warriors-iii-kuros-visions-of-power.json) |
 | Wizards & Warriors X: Fortress of Fear | 48922 | [48922-wizards-and-warriors-x-fortress-of-fear.json](./48922-wizards-and-warriors-x-fortress-of-fear.json) |
@@ -6739,6 +6741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wraith Ops | 165574 | [165574-wraith-ops.json](./165574-wraith-ops.json) |
 | Wraith VR | 187515 | [187515-wraith-vr.json](./187515-wraith-vr.json) |
 | Wraith: The Oblivion - Afterlife | 135110 | [135110-wraith-the-oblivion-afterlife.json](./135110-wraith-the-oblivion-afterlife.json) |
+| Wraithbinder | 218300 | [218300-wraithbinder.json](./218300-wraithbinder.json) |
 | Wraithborn | 258647 | [258647-wraithborn.json](./258647-wraithborn.json) |
 | WraithRun | 305632 | [305632-wraithrun.json](./305632-wraithrun.json) |
 | Wrangel Island | 220631 | [220631-wrangel-island.json](./220631-wrangel-island.json) |
@@ -7119,6 +7122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWF Raw | 324537 | [324537-wwf-raw.json](./324537-wwf-raw.json) |
 | WWF Raw | 324544 | [324544-wwf-raw.json](./324544-wwf-raw.json) |
 | WWF Raw: Wrestling's Rudest and Roughest! | 46249 | [46249-wwf-raw-wrestlings-rudest-and-roughest.json](./46249-wwf-raw-wrestlings-rudest-and-roughest.json) |
+| WWF Royal Rumble | 218342 | [218342-wwf-royal-rumble.json](./218342-wwf-royal-rumble.json) |
 | WWF SmackDown! | 6443 | [6443-wwf-smackdown.json](./6443-wwf-smackdown.json) |
 | WWF SmackDown! 2: Know Your Role | 6444 | [6444-wwf-smackdown-2-know-your-role.json](./6444-wwf-smackdown-2-know-your-role.json) |
 | WWF SmackDown! Just Bring It | 6445 | [6445-wwf-smackdown-just-bring-it.json](./6445-wwf-smackdown-just-bring-it.json) |
@@ -7126,9 +7130,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWF Superstars 2 | 49054 | [49054-wwf-superstars-2.json](./49054-wwf-superstars-2.json) |
 | WWF War Zone | 206032 | [206032-wwf-war-zone.json](./206032-wwf-war-zone.json) |
 | WWF War Zone | 3645 | [3645-wwf-war-zone.json](./3645-wwf-war-zone.json) |
+| WWF Wrestlemania | 218343 | [218343-wwf-wrestlemania.json](./218343-wwf-wrestlemania.json) |
 | WWF Wrestlemania | 366703 | [366703-wwf-wrestlemania.json](./366703-wwf-wrestlemania.json) |
 | WWF Wrestlemania | 72120 | [72120-wwf-wrestlemania.json](./72120-wwf-wrestlemania.json) |
 | WWF WrestleMania 2000 | 200404 | [200404-wwf-wrestlemania-2000.json](./200404-wwf-wrestlemania-2000.json) |
+| WWF Wrestlemania Challenge | 218345 | [218345-wwf-wrestlemania-challenge.json](./218345-wwf-wrestlemania-challenge.json) |
 | WWF WrestleMania Challenge | 19513 | [19513-wwf-wrestlemania-challenge.json](./19513-wwf-wrestlemania-challenge.json) |
 | WWF WrestleMania: The Arcade Game | 4546 | [4546-wwf-wrestlemania-the-arcade-game.json](./4546-wwf-wrestlemania-the-arcade-game.json) |
 | WWF: Super Wrestlemania | 45566 | [45566-wwf-super-wrestlemania.json](./45566-wwf-super-wrestlemania.json) |
