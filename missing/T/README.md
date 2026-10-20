@@ -1011,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Nebezem: Gnomish Plot | 101697 | [101697-tales-of-nebezem-gnomish-plot.json](./101697-tales-of-nebezem-gnomish-plot.json) |
 | Tales of Nebezem: Golden Scepter | 95945 | [95945-tales-of-nebezem-golden-scepter.json](./95945-tales-of-nebezem-golden-scepter.json) |
 | Tales of Nebezem: Mind Trial | 95925 | [95925-tales-of-nebezem-mind-trial.json](./95925-tales-of-nebezem-mind-trial.json) |
+| Tales of Pantheon: Summoners Arena | 224398 | [224398-tales-of-pantheon-summoners-arena.json](./224398-tales-of-pantheon-summoners-arena.json) |
 | Tales of Phantasia | 1200 | [1200-tales-of-phantasia.json](./1200-tales-of-phantasia.json) |
 | Tales of Phantasia | 196633 | [196633-tales-of-phantasia.json](./196633-tales-of-phantasia.json) |
 | Tales of Phantasia | 196654 | [196654-tales-of-phantasia.json](./196654-tales-of-phantasia.json) |
@@ -9397,6 +9398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails of Cold Steel III - Digital Limited Edition | 169217 | [169217-the-legend-of-heroes-trails-of-cold-steel-iii-digital-limited-edition.json](./169217-the-legend-of-heroes-trails-of-cold-steel-iii-digital-limited-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel III - Kiseki Box | 136744 | [136744-the-legend-of-heroes-trails-of-cold-steel-iii-kiseki-box.json](./136744-the-legend-of-heroes-trails-of-cold-steel-iii-kiseki-box.json) |
 | The Legend of Heroes: Trails of Cold Steel III - Limited Kiseki Box | 167067 | [167067-the-legend-of-heroes-trails-of-cold-steel-iii-limited-kiseki-box.json](./167067-the-legend-of-heroes-trails-of-cold-steel-iii-limited-kiseki-box.json) |
+| The Legend of Heroes: Trails of Cold Steel IV - Attachment Set | 224426 | [224426-the-legend-of-heroes-trails-of-cold-steel-iv-attachment-set.json](./224426-the-legend-of-heroes-trails-of-cold-steel-iv-attachment-set.json) |
 | The Legend of Heroes: Trails of Cold Steel IV - Digital Deluxe Edition | 169218 | [169218-the-legend-of-heroes-trails-of-cold-steel-iv-digital-deluxe-edition.json](./169218-the-legend-of-heroes-trails-of-cold-steel-iv-digital-deluxe-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel IV - Eternal Preservation Edition | 167068 | [167068-the-legend-of-heroes-trails-of-cold-steel-iv-eternal-preservation-edition.json](./167068-the-legend-of-heroes-trails-of-cold-steel-iv-eternal-preservation-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel IV - Standard Costume Bundle | 227335 | [227335-the-legend-of-heroes-trails-of-cold-steel-iv-standard-costume-bundle.json](./227335-the-legend-of-heroes-trails-of-cold-steel-iv-standard-costume-bundle.json) |
@@ -13194,6 +13196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tempest | 217775 | [217775-the-tempest.json](./217775-the-tempest.json) |
 | The Template | 359009 | [359009-the-template.json](./359009-the-template.json) |
 | The Temple | 292549 | [292549-the-temple.json](./292549-the-temple.json) |
+| The Temple Of | 224414 | [224414-the-temple-of.json](./224414-the-temple-of.json) |
 | The Temple of Adventure | 165406 | [165406-the-temple-of-adventure.json](./165406-the-temple-of-adventure.json) |
 | The Temple of Blooooood | 272166 | [272166-the-temple-of-blooooood.json](./272166-the-temple-of-blooooood.json) |
 | The Temple of Children | 296466 | [296466-the-temple-of-children.json](./296466-the-temple-of-children.json) |
@@ -18699,6 +18702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Extraction: Limited Edition | 152336 | [152336-tom-clancys-rainbow-six-extraction-limited-edition.json](./152336-tom-clancys-rainbow-six-extraction-limited-edition.json) |
 | Tom Clancy’s Rainbow Six Extraction: React Strike Pack | 255858 | [255858-tom-clancy-s-rainbow-six-extraction-react-strike-pack.json](./255858-tom-clancy-s-rainbow-six-extraction-react-strike-pack.json) |
 | Tom Clancy's Rainbow Six Mission Pack: Eagle Watch | 1841 | [1841-tom-clancys-rainbow-six-mission-pack-eagle-watch.json](./1841-tom-clancys-rainbow-six-mission-pack-eagle-watch.json) |
+| Tom Clancy's Rainbow Six Siege - Pro League Clash Set | 224422 | [224422-tom-clancys-rainbow-six-siege-pro-league-clash-set.json](./224422-tom-clancys-rainbow-six-siege-pro-league-clash-set.json) |
 | Tom Clancy's Rainbow Six Siege + The Division Double Pack | 144734 | [144734-tom-clancys-rainbow-six-siege-the-division-double-pack.json](./144734-tom-clancys-rainbow-six-siege-the-division-double-pack.json) |
 | Tom Clancy's Rainbow Six Siege X | 349484 | [349484-tom-clancys-rainbow-six-siege-x.json](./349484-tom-clancys-rainbow-six-siege-x.json) |
 | Tom Clancy's Rainbow Six Siege: Complete Edition | 53820 | [53820-tom-clancys-rainbow-six-siege-complete-edition.json](./53820-tom-clancys-rainbow-six-siege-complete-edition.json) |
