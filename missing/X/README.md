@@ -339,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X10 | 307828 | [307828-x10.json](./307828-x10.json) |
 | X2 | 79811 | [79811-x2.json](./79811-x2.json) |
 | X2 Blocks | 220197 | [220197-x2-blocks.json](./220197-x2-blocks.json) |
+| X2: Wolverine's Revenge | 248452 | [248452-x2-wolverines-revenge.json](./248452-x2-wolverines-revenge.json) |
 | X2: Wolverine's Revenge | 4579 | [4579-x2-wolverines-revenge.json](./4579-x2-wolverines-revenge.json) |
 | X2O | 89802 | [89802-x2o.json](./89802-x2o.json) |
 | X3: Albion Prelude | 9321 | [9321-x3-albion-prelude.json](./9321-x3-albion-prelude.json) |
