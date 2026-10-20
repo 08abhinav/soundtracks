@@ -4141,6 +4141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeatLine | 260773 | [260773-beatline.json](./260773-beatline.json) |
 | Beatlow | 399427 | [399427-beatlow.json](./399427-beatlow.json) |
 | Beatmania | 20498 | [20498-beatmania.json](./20498-beatmania.json) |
+| Beatmania | 218906 | [218906-beatmania.json](./218906-beatmania.json) |
 | Beatmania | 379146 | [379146-beatmania.json](./379146-beatmania.json) |
 | Beatmania 2ndMix | 94746 | [94746-beatmania-2ndmix.json](./94746-beatmania-2ndmix.json) |
 | Beatmania 3rdMix | 94745 | [94745-beatmania-3rdmix.json](./94745-beatmania-3rdmix.json) |
@@ -4722,6 +4723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Belzerion | 122881 | [122881-belzerion.json](./122881-belzerion.json) |
 | Bem Feito | 275677 | [275677-bem-feito.json](./275677-bem-feito.json) |
 | Bem Feito: Legacy Edition | 140328 | [140328-bem-feito-legacy-edition.json](./140328-bem-feito-legacy-edition.json) |
+| Bemani Pocket: Guitar Freaks | 218915 | [218915-bemani-pocket-guitar-freaks.json](./218915-bemani-pocket-guitar-freaks.json) |
 | Bemuddled | 101378 | [101378-bemuddled.json](./101378-bemuddled.json) |
 | Bemuzed | 135908 | [135908-bemuzed.json](./135908-bemuzed.json) |
 | Ben 10 | 100278 | [100278-ben-10.json](./100278-ben-10.json) |
@@ -5879,6 +5881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bill and Ted's Excellent Retro Collection | 203772 | [203772-bill-and-teds-excellent-retro-collection.json](./203772-bill-and-teds-excellent-retro-collection.json) |
 | Bill Belichick Offseason Simulator | 139151 | [139151-bill-belichick-offseason-simulator.json](./139151-bill-belichick-offseason-simulator.json) |
 | Bill Bounce | 231623 | [231623-bill-bounce.json](./231623-bill-bounce.json) |
+| Bill Elliot's Nascar Racing | 218916 | [218916-bill-elliots-nascar-racing.json](./218916-bill-elliots-nascar-racing.json) |
 | Bill Elliott's NASCAR Fast Tracks | 73154 | [73154-bill-elliotts-nascar-fast-tracks.json](./73154-bill-elliotts-nascar-fast-tracks.json) |
 | Bill Hates Videogames | 219206 | [219206-bill-hates-videogames.json](./219206-bill-hates-videogames.json) |
 | Bill Killem | 343997 | [343997-bill-killem.json](./343997-bill-killem.json) |
@@ -7230,6 +7233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blades of Light & Shadow II | 313745 | [313745-blades-of-light-and-shadow-ii.json](./313745-blades-of-light-and-shadow-ii.json) |
 | Blades of Orterra | 89665 | [89665-blades-of-orterra.json](./89665-blades-of-orterra.json) |
 | Blades of Passage | 297482 | [297482-blades-of-passage.json](./297482-blades-of-passage.json) |
+| Blades of Steel | 218905 | [218905-blades-of-steel.json](./218905-blades-of-steel.json) |
 | Blades of Steel | 280812 | [280812-blades-of-steel.json](./280812-blades-of-steel.json) |
 | Blades of Steel | 7788 | [7788-blades-of-steel.json](./7788-blades-of-steel.json) |
 | Blades of the Righteous | 34026 | [34026-blades-of-the-righteous.json](./34026-blades-of-the-righteous.json) |
@@ -7965,6 +7969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Smash | 58834 | [58834-block-smash.json](./58834-block-smash.json) |
 | Block Smasher: 3D Arcade Action Reaction Brick Breaker Game | 90667 | [90667-block-smasher-3d-arcade-action-reaction-brick-breaker-game.json](./90667-block-smasher-3d-arcade-action-reaction-brick-breaker-game.json) |
 | Block Sprawl | 406673 | [406673-block-sprawl.json](./406673-block-sprawl.json) |
+| Block Steady | 218887 | [218887-block-steady.json](./218887-block-steady.json) |
 | Block Story | 9175 | [9175-block-story.json](./9175-block-story.json) |
 | Block Strike | 28898 | [28898-block-strike.json](./28898-block-strike.json) |
 | Block The Monster | 272783 | [272783-block-the-monster.json](./272783-block-the-monster.json) |
@@ -12217,6 +12222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS The Legend of Zelda: Ancient Stone Tablets | 322560 | [322560-bs-the-legend-of-zelda-ancient-stone-tablets.json](./322560-bs-the-legend-of-zelda-ancient-stone-tablets.json) |
 | BS The Legend of Zelda: Ancient Stone Tablets - Master Quest | 150082 | [150082-bs-the-legend-of-zelda-ancient-stone-tablets-master-quest.json](./150082-bs-the-legend-of-zelda-ancient-stone-tablets-master-quest.json) |
 | BS Torneko no Daibouken | 312950 | [312950-bs-torneko-no-daibouken.json](./312950-bs-torneko-no-daibouken.json) |
+| BS Yoshi no Panepon | 218902 | [218902-bs-yoshi-no-panepon.json](./218902-bs-yoshi-no-panepon.json) |
 | BS Zelda no Densetsu | 38319 | [38319-bs-zelda-no-densetsu.json](./38319-bs-zelda-no-densetsu.json) |
 | BS Zelda no Densetsu Map 2 | 134500 | [134500-bs-zelda-no-densetsu-map-2.json](./134500-bs-zelda-no-densetsu-map-2.json) |
 | BS Zelda no Densetsu Map 2: Dai-1-wa | 178054 | [178054-bs-zelda-no-densetsu-map-2-dai-1-wa.json](./178054-bs-zelda-no-densetsu-map-2-dai-1-wa.json) |
@@ -12499,6 +12505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buckshot Battlemage | 345653 | [345653-buckshot-battlemage.json](./345653-buckshot-battlemage.json) |
 | Buckshot Roulette | 281275 | [281275-buckshot-roulette.json](./281275-buckshot-roulette.json) |
 | Bucky O'Hare | 18808 | [18808-bucky-ohare.json](./18808-bucky-ohare.json) |
+| Bucky O'Hare | 218904 | [218904-bucky-ohare.json](./218904-bucky-ohare.json) |
 | Bud Blitz | 115521 | [115521-bud-blitz.json](./115521-bud-blitz.json) |
 | Bud Farm Idle Tycoon | 215104 | [215104-bud-farm-idle-tycoon.json](./215104-bud-farm-idle-tycoon.json) |
 | Bud Farm: Grass Roots | 232847 | [232847-bud-farm-grass-roots.json](./232847-bud-farm-grass-roots.json) |
@@ -12810,6 +12817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bull Riding Challenge 3 | 235129 | [235129-bull-riding-challenge-3.json](./235129-bull-riding-challenge-3.json) |
 | Bull Run | 282451 | [282451-bull-run.json](./282451-bull-run.json) |
 | Bull-Bia Ricky | 291456 | [291456-bull-bia-ricky.json](./291456-bull-bia-ricky.json) |
+| Bull's Eye Barbecue Sauce | 218933 | [218933-bulls-eye-barbecue-sauce.json](./218933-bulls-eye-barbecue-sauce.json) |
 | Bull3000VRTS | 369649 | [369649-bull3000vrts.json](./369649-bull3000vrts.json) |
 | Bullcrap! | 215022 | [215022-bullcrap.json](./215022-bullcrap.json) |
 | Bulldozer | 116949 | [116949-bulldozer.json](./116949-bulldozer.json) |
