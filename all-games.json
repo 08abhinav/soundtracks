@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:37:47.125Z",
-  "total_soundtracks": 2255,
+  "generated_at": "2026-10-20T21:37:58.154Z",
+  "total_soundtracks": 2256,
   "games": [
     {
       "igdb_id": 7522,
@@ -15493,6 +15493,20 @@
         {
           "album_name": "Move or Die (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/68oVc6mzPE7SCH20hjU9DJ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 214397,
+      "game_name": "Moving Out 2",
+      "game_url": "https://ostdb.net/games/moving-out-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273da42390e354c7b5bb9907285",
+      "albums": [
+        {
+          "album_name": "Moving Out 2 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1w9tj0XtqARue3oDLioW9M",
           "apple_music_url": "",
           "album_link_url": ""
         }
