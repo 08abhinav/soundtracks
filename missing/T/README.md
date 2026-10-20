@@ -7827,6 +7827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grugs: Origins | 262969 | [262969-the-grugs-origins.json](./262969-the-grugs-origins.json) |
 | The Guardhouse | 271321 | [271321-the-guardhouse.json](./271321-the-guardhouse.json) |
 | The Guardian | 149495 | [149495-the-guardian.json](./149495-the-guardian.json) |
+| The Guardian | 219967 | [219967-the-guardian.json](./219967-the-guardian.json) |
 | The Guardian and the Dreamer | 318801 | [318801-the-guardian-and-the-dreamer.json](./318801-the-guardian-and-the-dreamer.json) |
 | The Guardian Legend | 48058 | [48058-the-guardian-legend.json](./48058-the-guardian-legend.json) |
 | The Guardian Legend: Secret Edition | 269778 | [269778-the-guardian-legend-secret-edition.json](./269778-the-guardian-legend-secret-edition.json) |
