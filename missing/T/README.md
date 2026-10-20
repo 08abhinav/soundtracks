@@ -1766,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Smiths | 58233 | [58233-tap-smiths.json](./58233-tap-smiths.json) |
 | Tap Soccer: Champions | 239891 | [239891-tap-soccer-champions.json](./239891-tap-soccer-champions.json) |
 | Tap Sonic | 92492 | [92492-tap-sonic.json](./92492-tap-sonic.json) |
+| Tap Space: Reaction and Focus Training | 252552 | [252552-tap-space-reaction-and-focus-training.json](./252552-tap-space-reaction-and-focus-training.json) |
 | Tap Sports Baseball | 60398 | [60398-tap-sports-baseball.json](./60398-tap-sports-baseball.json) |
 | Tap Sports Baseball 2016 | 58263 | [58263-tap-sports-baseball-2016.json](./58263-tap-sports-baseball-2016.json) |
 | Tap Sports Football | 59953 | [59953-tap-sports-football.json](./59953-tap-sports-football.json) |
@@ -6558,6 +6559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elephant Collection | 249612 | [249612-the-elephant-collection.json](./249612-the-elephant-collection.json) |
 | The Elephant E | 229040 | [229040-the-elephant-e.json](./229040-the-elephant-e.json) |
 | The Elevator | 146563 | [146563-the-elevator.json](./146563-the-elevator.json) |
+| The Elevator | 252542 | [252542-the-elevator.json](./252542-the-elevator.json) |
 | The Elevator | 317325 | [317325-the-elevator.json](./317325-the-elevator.json) |
 | The Elevator | 326986 | [326986-the-elevator.json](./326986-the-elevator.json) |
 | The Elevator | 57174 | [57174-the-elevator.json](./57174-the-elevator.json) |
