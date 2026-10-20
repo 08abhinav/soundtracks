@@ -4010,6 +4010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cepheus Protocol: Free Vehicle Camo Post Modern Collection | 256998 | [256998-cepheus-protocol-free-vehicle-camo-post-modern-collection.json](./256998-cepheus-protocol-free-vehicle-camo-post-modern-collection.json) |
 | Cepheus Protocol: Project Fenrir | 281986 | [281986-cepheus-protocol-project-fenrir.json](./281986-cepheus-protocol-project-fenrir.json) |
 | Cepheus Protocol: Support Pack Vehicle Camo Classic Wars Collection | 256996 | [256996-cepheus-protocol-support-pack-vehicle-camo-classic-wars-collection.json](./256996-cepheus-protocol-support-pack-vehicle-camo-classic-wars-collection.json) |
+| Ceplion | 219993 | [219993-ceplion.json](./219993-ceplion.json) |
 | Ceradin | 126041 | [126041-ceradin.json](./126041-ceradin.json) |
 | Ceramic Crashers | 318529 | [318529-ceramic-crashers.json](./318529-ceramic-crashers.json) |
 | Ceramic Soul | 198556 | [198556-ceramic-soul.json](./198556-ceramic-soul.json) |
@@ -4058,6 +4059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ch1mpnotic | 141686 | [141686-ch1mpnotic.json](./141686-ch1mpnotic.json) |
 | Cha-no-Ma | 358483 | [358483-cha-no-ma.json](./358483-cha-no-ma.json) |
 | Chacal | 159563 | [159563-chacal.json](./159563-chacal.json) |
+| Chacara | 219994 | [219994-chacara.json](./219994-chacara.json) |
 | Chacha Fighter V | 98258 | [98258-chacha-fighter-v.json](./98258-chacha-fighter-v.json) |
 | Chachacha Slot | 87296 | [87296-chachacha-slot.json](./87296-chachacha-slot.json) |
 | Chack'n Pop | 6103 | [6103-chackn-pop.json](./6103-chackn-pop.json) |
@@ -4188,6 +4190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chambered | 40708 | [40708-chambered.json](./40708-chambered.json) |
 | Chambered Fate | 267249 | [267249-chambered-fate.json](./267249-chambered-fate.json) |
 | Chamberflame | 275540 | [275540-chamberflame.json](./275540-chamberflame.json) |
+| ChamberLocked | 219995 | [219995-chamberlocked.json](./219995-chamberlocked.json) |
 | Chamberlore | 378435 | [378435-chamberlore.json](./378435-chamberlore.json) |
 | Chambers | 281980 | [281980-chambers.json](./281980-chambers.json) |
 | Chambers & Crops | 346255 | [346255-chambers-and-crops.json](./346255-chambers-and-crops.json) |
@@ -4658,6 +4661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaser | 242694 | [242694-chaser.json](./242694-chaser.json) |
 | Chaser | 380072 | [380072-chaser.json](./380072-chaser.json) |
 | Chaser | 55680 | [55680-chaser.json](./55680-chaser.json) |
+| ChaseTag | 219996 | [219996-chasetag.json](./219996-chasetag.json) |
 | Chaseway | 179586 | [179586-chaseway.json](./179586-chaseway.json) |
 | Chasing Aurora | 20882 | [20882-chasing-aurora.json](./20882-chasing-aurora.json) |
 | Chasing Birds | 177880 | [177880-chasing-birds.json](./177880-chasing-birds.json) |
@@ -5157,6 +5161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chests O' Booty | 84576 | [84576-chests-o-booty.json](./84576-chests-o-booty.json) |
 | Chetz! | 164088 | [164088-chetz.json](./164088-chetz.json) |
 | Chevalier Historie | 156907 | [156907-chevalier-historie.json](./156907-chevalier-historie.json) |
+| Chevalier Historie: Append | 219997 | [219997-chevalier-historie-append.json](./219997-chevalier-historie-append.json) |
 | Chevrolet Camaro Wild Ride 3D | 84575 | [84575-chevrolet-camaro-wild-ride-3d.json](./84575-chevrolet-camaro-wild-ride-3d.json) |
 | Chew Chew Mimic | 281006 | [281006-chew-chew-mimic.json](./281006-chew-chew-mimic.json) |
 | Chew Your Food | 395886 | [395886-chew-your-food.json](./395886-chew-your-food.json) |
@@ -5285,6 +5290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Game | 310255 | [310255-chicken-game.json](./310255-chicken-game.json) |
 | Chicken Grow | 363967 | [363967-chicken-grow.json](./363967-chicken-grow.json) |
 | Chicken Gun | 413002 | [413002-chicken-gun.json](./413002-chicken-gun.json) |
+| Chicken Hero in Wulin | 219998 | [219998-chicken-hero-in-wulin.json](./219998-chicken-hero-in-wulin.json) |
 | Chicken Hill | 324310 | [324310-chicken-hill.json](./324310-chicken-hill.json) |
 | Chicken Holmes: The Mystery of Bartolomeu | 163827 | [163827-chicken-holmes-the-mystery-of-bartolomeu.json](./163827-chicken-holmes-the-mystery-of-bartolomeu.json) |
 | Chicken Hunter | 83235 | [83235-chicken-hunter.json](./83235-chicken-hunter.json) |
@@ -5421,6 +5427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CHiLD | 70908 | [70908-child.json](./70908-child.json) |
 | Child Arms | 157053 | [157053-child-arms.json](./157053-child-arms.json) |
 | Child of Abyss | 167293 | [167293-child-of-abyss.json](./167293-child-of-abyss.json) |
+| Child of Aether | 219999 | [219999-child-of-aether.json](./219999-child-of-aether.json) |
 | Child of Ault | 30196 | [30196-child-of-ault.json](./30196-child-of-ault.json) |
 | Child of Hope | 190228 | [190228-child-of-hope.json](./190228-child-of-hope.json) |
 | Child of Light: Dark Aurora Pack | 160279 | [160279-child-of-light-dark-aurora-pack.json](./160279-child-of-light-dark-aurora-pack.json) |
@@ -5773,6 +5780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choice of the Pirate | 32582 | [32582-choice-of-the-pirate.json](./32582-choice-of-the-pirate.json) |
 | Choice of the Vampire: St. Louis, Unreal City | 169935 | [169935-choice-of-the-vampire-st-louis-unreal-city.json](./169935-choice-of-the-vampire-st-louis-unreal-city.json) |
 | Choice of the Vampire: The Fall of Memphis | 86742 | [86742-choice-of-the-vampire-the-fall-of-memphis.json](./86742-choice-of-the-vampire-the-fall-of-memphis.json) |
+| Choice of the Viking | 220000 | [220000-choice-of-the-viking.json](./220000-choice-of-the-viking.json) |
 | Choice of Zombies | 48012 | [48012-choice-of-zombies.json](./48012-choice-of-zombies.json) |
 | Choice or Fate | 114404 | [114404-choice-or-fate.json](./114404-choice-or-fate.json) |
 | Choiceline Brawl | 389538 | [389538-choiceline-brawl.json](./389538-choiceline-brawl.json) |
@@ -6794,12 +6802,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Mayor's Edition | 114766 | [114766-cities-skylines-mayors-edition.json](./114766-cities-skylines-mayors-edition.json) |
 | Cities: Skylines - Natural Disasters | 26141 | [26141-cities-skylines-natural-disasters.json](./26141-cities-skylines-natural-disasters.json) |
 | Cities: Skylines - Nintendo Switch Edition | 109464 | [109464-cities-skylines-nintendo-switch-edition.json](./109464-cities-skylines-nintendo-switch-edition.json) |
+| Cities: Skylines - Paradise Radio | 220001 | [220001-cities-skylines-paradise-radio.json](./220001-cities-skylines-paradise-radio.json) |
 | Cities: Skylines - Parklife Edition | 205268 | [205268-cities-skylines-parklife-edition.json](./205268-cities-skylines-parklife-edition.json) |
 | Cities: Skylines - Piano Tunes Radio | 257084 | [257084-cities-skylines-piano-tunes-radio.json](./257084-cities-skylines-piano-tunes-radio.json) |
 | Cities: Skylines - Premium Edition 2 | 119080 | [119080-cities-skylines-premium-edition-2.json](./119080-cities-skylines-premium-edition-2.json) |
 | Cities: Skylines - Race Day | 393462 | [393462-cities-skylines-race-day.json](./393462-cities-skylines-race-day.json) |
 | Cities: Skylines - Rail Hawk Radio | 149991 | [149991-cities-skylines-rail-hawk-radio.json](./149991-cities-skylines-rail-hawk-radio.json) |
 | Cities: Skylines - Remastered | 237966 | [237966-cities-skylines-remastered.json](./237966-cities-skylines-remastered.json) |
+| Cities: Skylines - Shoreline Radio | 220002 | [220002-cities-skylines-shoreline-radio.json](./220002-cities-skylines-shoreline-radio.json) |
 | Cities: Skylines - Snowfall | 16602 | [16602-cities-skylines-snowfall.json](./16602-cities-skylines-snowfall.json) |
 | Cities: Skylines - Sunny Breeze Radio | 149997 | [149997-cities-skylines-sunny-breeze-radio.json](./149997-cities-skylines-sunny-breeze-radio.json) |
 | Cities: Skylines - Sunset Harbor | 142107 | [142107-cities-skylines-sunset-harbor.json](./142107-cities-skylines-sunset-harbor.json) |
@@ -6919,6 +6929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Loop | 179446 | [179446-city-loop.json](./179446-city-loop.json) |
 | City Mage 3: False Prophecy - Collector's Edition | 417520 | [417520-city-mage-3-false-prophecy-collectors-edition.json](./417520-city-mage-3-false-prophecy-collectors-edition.json) |
 | City Maker | 144220 | [144220-city-maker.json](./144220-city-maker.json) |
+| City Massacre | 220003 | [220003-city-massacre.json](./220003-city-massacre.json) |
 | City Masterplan | 398007 | [398007-city-masterplan.json](./398007-city-masterplan.json) |
 | City Metro Simulator | 219737 | [219737-city-metro-simulator.json](./219737-city-metro-simulator.json) |
 | City Mysteries - Fun Seek and Find Hidden Object Puzzles | 88583 | [88583-city-mysteries-fun-seek-and-find-hidden-object-puzzles.json](./88583-city-mysteries-fun-seek-and-find-hidden-object-puzzles.json) |
@@ -14981,6 +14992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Customplay Golf 2010 | 21118 | [21118-customplay-golf-2010.json](./21118-customplay-golf-2010.json) |
 | Cut | 202201 | [202201-cut.json](./202201-cut.json) |
 | Cut 2017 | 91411 | [91411-cut-2017.json](./91411-cut-2017.json) |
+| Cut Around 3D | 219974 | [219974-cut-around-3d.json](./219974-cut-around-3d.json) |
 | Cut Cats' Balls | 410309 | [410309-cut-cats-balls.json](./410309-cut-cats-balls.json) |
 | Cut Choice | 234444 | [234444-cut-choice.json](./234444-cut-choice.json) |
 | Cut Content Restored | 390540 | [390540-cut-content-restored.json](./390540-cut-content-restored.json) |
@@ -15389,6 +15401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberPigeon | 264679 | [264679-cyberpigeon.json](./264679-cyberpigeon.json) |
 | Cyberplug | 153343 | [153343-cyberplug.json](./153343-cyberplug.json) |
 | Cyberpong VR | 58629 | [58629-cyberpong-vr.json](./58629-cyberpong-vr.json) |
+| Cyberpop | 219982 | [219982-cyberpop.json](./219982-cyberpop.json) |
 | Cyberpulse | 150973 | [150973-cyberpulse.json](./150973-cyberpulse.json) |
 | Cyberpunch | 158691 | [158691-cyberpunch.json](./158691-cyberpunch.json) |
 | Cyberpunk | 236691 | [236691-cyberpunk.json](./236691-cyberpunk.json) |
