@@ -9798,6 +9798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slay Bells | 176229 | [176229-slay-bells.json](./176229-slay-bells.json) |
 | Slay or Fall | 316788 | [316788-slay-or-fall.json](./316788-slay-or-fall.json) |
 | Slay the Alice | 328291 | [328291-slay-the-alice.json](./328291-slay-the-alice.json) |
+| Slay the Beat | 235076 | [235076-slay-the-beat.json](./235076-slay-the-beat.json) |
 | Slay the Berserker | 384494 | [384494-slay-the-berserker.json](./384494-slay-the-berserker.json) |
 | Slay the Bigies | 127681 | [127681-slay-the-bigies.json](./127681-slay-the-bigies.json) |
 | Slay the Demon Queen | 340364 | [340364-slay-the-demon-queen.json](./340364-slay-the-demon-queen.json) |
@@ -12557,6 +12558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Something's Off in This World: Era Anomaly Quiz | 409517 | [409517-somethings-off-in-this-world-era-anomaly-quiz.json](./409517-somethings-off-in-this-world-era-anomaly-quiz.json) |
 | Something's Out There | 235739 | [235739-somethings-out-there.json](./235739-somethings-out-there.json) |
 | Something's Wrong With Sunny Day Jack | 207314 | [207314-somethings-wrong-with-sunny-day-jack.json](./207314-somethings-wrong-with-sunny-day-jack.json) |
+| SomethingWithSpace | 235034 | [235034-somethingwithspace.json](./235034-somethingwithspace.json) |
 | Sometimes Always Monsters | 20122 | [20122-sometimes-always-monsters.json](./20122-sometimes-always-monsters.json) |
 | Sometimes Always Monsters: Author Outfits | 155375 | [155375-sometimes-always-monsters-author-outfits.json](./155375-sometimes-always-monsters-author-outfits.json) |
 | Sometimes They Come Back | 204858 | [204858-sometimes-they-come-back.json](./204858-sometimes-they-come-back.json) |
@@ -23148,6 +23150,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Falling Fred | 295025 | [295025-super-falling-fred.json](./295025-super-falling-fred.json) |
 | Super Famicom Wars | 38320 | [38320-super-famicom-wars.json](./38320-super-famicom-wars.json) |
 | Super Famicom Wars BS Ban | 150173 | [150173-super-famicom-wars-bs-ban.json](./150173-super-famicom-wars-bs-ban.json) |
+| Super Famicom Wars BS Ban: Hagoromo-jima | 235066 | [235066-super-famicom-wars-bs-ban-hagoromo-jima.json](./235066-super-famicom-wars-bs-ban-hagoromo-jima.json) |
+| Super Famicom Wars BS Ban: Noakazan-tou | 235065 | [235065-super-famicom-wars-bs-ban-noakazan-tou.json](./235065-super-famicom-wars-bs-ban-noakazan-tou.json) |
+| Super Famicom Wars BS Ban: Soramame-jima | 235062 | [235062-super-famicom-wars-bs-ban-soramame-jima.json](./235062-super-famicom-wars-bs-ban-soramame-jima.json) |
+| Super Famicom Wars BS Ban: Tsukinowa-jima | 235063 | [235063-super-famicom-wars-bs-ban-tsukinowa-jima.json](./235063-super-famicom-wars-bs-ban-tsukinowa-jima.json) |
 | Super Family Gelände | 42534 | [42534-super-family-gelande.json](./42534-super-family-gelande.json) |
 | Super Famista | 218386 | [218386-super-famista.json](./218386-super-famista.json) |
 | Super Fancy Pants Adventure | 51485 | [51485-super-fancy-pants-adventure.json](./51485-super-fancy-pants-adventure.json) |
@@ -26937,6 +26943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Nitro Fun - "New Game" | 356184 | [356184-synth-riders-nitro-fun-new-game.json](./356184-synth-riders-nitro-fun-new-game.json) |
 | Synth Riders: Phil Collins - "Sussudio" | 298702 | [298702-synth-riders-phil-collins-sussudio.json](./298702-synth-riders-phil-collins-sussudio.json) |
 | Synth Riders: Queen - "Don't Stop Me Now" | 352400 | [352400-synth-riders-queen-dont-stop-me-now.json](./352400-synth-riders-queen-dont-stop-me-now.json) |
+| Synth Riders: Remastered Edition | 235073 | [235073-synth-riders-remastered-edition.json](./235073-synth-riders-remastered-edition.json) |
 | Synth Riders: Rick Astley - "Never Gonna Give You Up" | 352396 | [352396-synth-riders-rick-astley-never-gonna-give-you-up.json](./352396-synth-riders-rick-astley-never-gonna-give-you-up.json) |
 | Synth Riders: Silk Sonic - "Skate" | 356116 | [356116-synth-riders-silk-sonic-skate.json](./356116-synth-riders-silk-sonic-skate.json) |
 | Synth Riders: Soundgarden - "Black Hole Sun" | 352398 | [352398-synth-riders-soundgarden-black-hole-sun.json](./352398-synth-riders-soundgarden-black-hole-sun.json) |
