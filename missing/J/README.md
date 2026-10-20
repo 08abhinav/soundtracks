@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Bond 007: From Russia with Love | 1645 | [1645-james-bond-007-from-russia-with-love.json](./1645-james-bond-007-from-russia-with-love.json) |
 | James Bond 007: From Russia with Love | 248548 | [248548-james-bond-007-from-russia-with-love.json](./248548-james-bond-007-from-russia-with-love.json) |
 | James Bond 007: Goldfinger | 1633 | [1633-james-bond-007-goldfinger.json](./1633-james-bond-007-goldfinger.json) |
+| James Bond 007: Nightfire | 248458 | [248458-james-bond-007-nightfire.json](./248458-james-bond-007-nightfire.json) |
 | James Bond 007: Nightfire | 290069 | [290069-james-bond-007-nightfire.json](./290069-james-bond-007-nightfire.json) |
 | James Bond 007: Quantum of Solace | 1646 | [1646-james-bond-007-quantum-of-solace.json](./1646-james-bond-007-quantum-of-solace.json) |
 | James Bond 007: Quantum of Solace | 52679 | [52679-james-bond-007-quantum-of-solace.json](./52679-james-bond-007-quantum-of-solace.json) |
@@ -1305,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Pets | 283274 | [283274-jigsaw-pets.json](./283274-jigsaw-pets.json) |
 | Jigsaw Pieces 3: Fantasy | 163009 | [163009-jigsaw-pieces-3-fantasy.json](./163009-jigsaw-pieces-3-fantasy.json) |
 | Jigsaw Pieces: Romance | 162999 | [162999-jigsaw-pieces-romance.json](./162999-jigsaw-pieces-romance.json) |
+| Jigsaw Pink | 248440 | [248440-jigsaw-pink.json](./248440-jigsaw-pink.json) |
 | JigSaw Preschool Puzzles | 97145 | [97145-jigsaw-preschool-puzzles.json](./97145-jigsaw-preschool-puzzles.json) |
 | Jigsaw Puzzle | 294556 | [294556-jigsaw-puzzle.json](./294556-jigsaw-puzzle.json) |
 | Jigsaw Puzzle | 357883 | [357883-jigsaw-puzzle.json](./357883-jigsaw-puzzle.json) |
