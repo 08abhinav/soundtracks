@@ -1202,6 +1202,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273811201642d36db7e7f18e16e" width="60" /> | [Ori and the Blind Forest](https://ostdb.net/games/ori-and-the-blind-forest) | **Ori and the Blind Forest (Definitive Edition)** · [Spotify](https://open.spotify.com/album/5ZgGLGN7oVtQF2bHJm1311)<br>**Ori and the Blind Forest (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7xPc1OsC2R0siZKMlzRBIo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c20c278a68424850767e4d9e" width="60" /> | [Ori and the Will of the Wisps](https://ostdb.net/games/ori-and-the-will-of-the-wisps) | **Ori and the Will of the Wisps (Original Soundtrack Recording)** · [Spotify](https://open.spotify.com/album/0BRICN5TGMT1WqFcZkYOaF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e3d29522c8e897894a78ca0a" width="60" /> | [Othercide](https://ostdb.net/games/othercide) | **Othercide (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3cVLNpTdw7uLeoOSZTxcPn) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c560f3146a9d1dff79d76a7d" width="60" /> | [Our Life: Beginnings & Always](https://ostdb.net/games/our-life-beginnings-and-always) | **Our Life: Beginnings & Always (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5xVbHjNxiGAxRr2jJ1A6du) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737a0071497f8aacd81f7b94f3" width="60" /> | [Out There Somewhere](https://ostdb.net/games/out-there-somewhere) | **Out There Somewhere (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4bH8esVb6CibYVhHQxmewX) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273db6b8ae97f69fee1d432334d" width="60" /> | [Outer Wilds](https://ostdb.net/games/outer-wilds) | **Outer Wilds (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1U0A6RPNJB05PtuBcaTM7o)<br>**Outer Wilds: Echoes of the Eye (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3mRnCC3DI0SxIy7DtEFvZs)<br>**Outer Wilds: Echoes of the Eye (The Lost Reels) [Deluxe Original Game Soundtrack]** · [Spotify](https://open.spotify.com/album/4vWd6SP0OiBAXINQZumdP2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733336596eb783587b63e176c5" width="60" /> | [Outer Wilds: Echoes of the Eye](https://ostdb.net/games/outer-wilds-echoes-of-the-eye) | **Outer Wilds: Echoes of the Eye (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3mRnCC3DI0SxIy7DtEFvZs) |
@@ -2033,4 +2034,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2350 soundtracks · last updated 2026-10-20T22:21:00.236Z_
+_2351 soundtracks · last updated 2026-10-20T22:21:10.940Z_
