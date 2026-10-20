@@ -9772,6 +9772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porta Nubi | 400670 | [400670-porta-nubi.json](./400670-porta-nubi.json) |
 | Portabellows | 247780 | [247780-portabellows.json](./247780-portabellows.json) |
 | Portability | 159769 | [159769-portability.json](./159769-portability.json) |
+| Portable Island: Te no Hira no Resort | 207129 | [207129-portable-island-te-no-hira-no-resort.json](./207129-portable-island-te-no-hira-no-resort.json) |
 | Portable Ops | 226174 | [226174-portable-ops.json](./226174-portable-ops.json) |
 | Portable VR | 244232 | [244232-portable-vr.json](./244232-portable-vr.json) |
 | PortaBoy+ | 246238 | [246238-portaboy.json](./246238-portaboy.json) |
@@ -12444,6 +12445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Promise of Wizard | 153007 | [153007-promise-of-wizard.json](./153007-promise-of-wizard.json) |
 | Promise with My Sister | 289227 | [289227-promise-with-my-sister.json](./289227-promise-with-my-sister.json) |
 | Promised Harvest | 418712 | [418712-promised-harvest.json](./418712-promised-harvest.json) |
+| Promises | 207139 | [207139-promises.json](./207139-promises.json) |
 | Promises to Keep | 309092 | [309092-promises-to-keep.json](./309092-promises-to-keep.json) |
 | Promized Land: Outer Town | 326194 | [326194-promized-land-outer-town.json](./326194-promized-land-outer-town.json) |
 | Promo Pack 2x1 | 212786 | [212786-promo-pack-2x1.json](./212786-promo-pack-2x1.json) |
@@ -13313,6 +13315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppy Palace | 122204 | [122204-puppy-palace.json](./122204-puppy-palace.json) |
 | Puppy Park | 392208 | [392208-puppy-park.json](./392208-puppy-park.json) |
 | Puppy Pipy | 151149 | [151149-puppy-pipy.json](./151149-puppy-pipy.json) |
+| Puppy Shelter | 207140 | [207140-puppy-shelter.json](./207140-puppy-shelter.json) |
 | Puppy Truck | 411658 | [411658-puppy-truck.json](./411658-puppy-truck.json) |
 | Pups & Purrs Animal Hospital | 165427 | [165427-pups-and-purrs-animal-hospital.json](./165427-pups-and-purrs-animal-hospital.json) |
 | Pups & Purrs Animal Hospital and Pups & Purrs Pet Shop Bundle | 308629 | [308629-pups-and-purrs-animal-hospital-and-pups-and-purrs-pet-shop-bundle.json](./308629-pups-and-purrs-animal-hospital-and-pups-and-purrs-pet-shop-bundle.json) |
