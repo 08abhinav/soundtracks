@@ -2321,6 +2321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bases Loaded for Game Boy | 273096 | [273096-bases-loaded-for-game-boy.json](./273096-bases-loaded-for-game-boy.json) |
 | Bash Arena | 233450 | [233450-bash-arena.json](./233450-bash-arena.json) |
 | Bash It! | 252150 | [252150-bash-it.json](./252150-bash-it.json) |
+| Bash Sports Online Bowling | 214339 | [214339-bash-sports-online-bowling.json](./214339-bash-sports-online-bowling.json) |
 | Bash the Bear | 114191 | [114191-bash-the-bear.json](./114191-bash-the-bear.json) |
 | Bash The Party | 381960 | [381960-bash-the-party.json](./381960-bash-the-party.json) |
 | Bash Your Lord | 58118 | [58118-bash-your-lord.json](./58118-bash-your-lord.json) |
@@ -6408,6 +6409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birds With Feelings | 118177 | [118177-birds-with-feelings.json](./118177-birds-with-feelings.json) |
 | Birds'n'Blocks | 88843 | [88843-birdsnblocks.json](./88843-birdsnblocks.json) |
 | Birds'n'Blocks 2 | 87694 | [87694-birdsnblocks-2.json](./87694-birdsnblocks-2.json) |
+| BirdsBorough: Town of Alchemy | 214368 | [214368-birdsborough-town-of-alchemy.json](./214368-birdsborough-town-of-alchemy.json) |
 | Birdtale | 284002 | [284002-birdtale.json](./284002-birdtale.json) |
 | Birdtual Reality | 31771 | [31771-birdtual-reality.json](./31771-birdtual-reality.json) |
 | Birdwatcher | 229215 | [229215-birdwatcher.json](./229215-birdwatcher.json) |
