@@ -5004,6 +5004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolty-II | 237517 | [237517-revolty-ii.json](./237517-revolty-ii.json) |
 | Revolution | 295995 | [295995-revolution.json](./295995-revolution.json) |
 | Revolution | 81387 | [81387-revolution.json](./81387-revolution.json) |
+| Revolution '76 | 208785 | [208785-revolution-76.json](./208785-revolution-76.json) |
 | Revolution 3 | 261098 | [261098-revolution-3.json](./261098-revolution-3.json) |
 | Revolution Ace | 17033 | [17033-revolution-ace.json](./17033-revolution-ace.json) |
 | Revolution Editions: Shadow & Steel | 361790 | [361790-revolution-editions-shadow-and-steel.json](./361790-revolution-editions-shadow-and-steel.json) |
@@ -8671,6 +8672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roxy Raccoon's Pinball Panic: Thanksgiving Throwdown | 276178 | [276178-roxy-raccoons-pinball-panic-thanksgiving-throwdown.json](./276178-roxy-raccoons-pinball-panic-thanksgiving-throwdown.json) |
 | Roxy Raccoon's Pinball Panic: Tropical Treats | 311789 | [311789-roxy-raccoons-pinball-panic-tropical-treats.json](./311789-roxy-raccoons-pinball-panic-tropical-treats.json) |
 | Roxy Raccoon's Pinball Panic: Viking Ventures | 354198 | [354198-roxy-raccoons-pinball-panic-viking-ventures.json](./354198-roxy-raccoons-pinball-panic-viking-ventures.json) |
+| Roxy Raccoon's Pinball Panic: Wacky West | 208818 | [208818-roxy-raccoons-pinball-panic-wacky-west.json](./208818-roxy-raccoons-pinball-panic-wacky-west.json) |
 | Roxy Raccoon's Pinball Panic: Wicked Warfare | 252980 | [252980-roxy-raccoons-pinball-panic-wicked-warfare.json](./252980-roxy-raccoons-pinball-panic-wicked-warfare.json) |
 | Roxy Raccoon's Pinball Panic: Workplace Worries | 264042 | [264042-roxy-raccoons-pinball-panic-workplace-worries.json](./264042-roxy-raccoons-pinball-panic-workplace-worries.json) |
 | Roxy's Dream Mansion | 341109 | [341109-roxys-dream-mansion.json](./341109-roxys-dream-mansion.json) |
