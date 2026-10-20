@@ -736,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palmyra Orphanage | 120719 | [120719-palmyra-orphanage.json](./120719-palmyra-orphanage.json) |
 | Palmyra: Nessa no Umi to Binaru Senki | 194924 | [194924-palmyra-nessa-no-umi-to-binaru-senki.json](./194924-palmyra-nessa-no-umi-to-binaru-senki.json) |
 | Palmystery | 213056 | [213056-palmystery.json](./213056-palmystery.json) |
+| PalMz' Insane Warfare Mod | 253198 | [253198-palmz-insane-warfare-mod.json](./253198-palmz-insane-warfare-mod.json) |
 | Palo T Game and Watch | 289580 | [289580-palo-t-game-and-watch.json](./289580-palo-t-game-and-watch.json) |
 | Paloo Spiral | 369200 | [369200-paloo-spiral.json](./369200-paloo-spiral.json) |
 | Palpable | 301900 | [301900-palpable.json](./301900-palpable.json) |
@@ -1964,6 +1965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Party Time + Character Skin Pack | 251487 | [251487-party-party-time-character-skin-pack.json](./251487-party-party-time-character-skin-pack.json) |
 | Party Party Time + Master Pack Set | 276462 | [276462-party-party-time-master-pack-set.json](./276462-party-party-time-master-pack-set.json) |
 | Party Party Time + Party Harder Pack | 232993 | [232993-party-party-time-party-harder-pack.json](./232993-party-party-time-party-harder-pack.json) |
+| Party Party Time + Premium Pack Set | 253222 | [253222-party-party-time-premium-pack-set.json](./253222-party-party-time-premium-pack-set.json) |
 | Party Party Time + Royal Pack Set | 280071 | [280071-party-party-time-royal-pack-set.json](./280071-party-party-time-royal-pack-set.json) |
 | Party Party Time + Ultra Pack Set | 260684 | [260684-party-party-time-ultra-pack-set.json](./260684-party-party-time-ultra-pack-set.json) |
 | Party Party Time 2 + Duo Pack Set | 304813 | [304813-party-party-time-2-duo-pack-set.json](./304813-party-party-time-2-duo-pack-set.json) |
@@ -2931,6 +2933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pen Pals | 276038 | [276038-pen-pals.json](./276038-pen-pals.json) |
 | Pen to Paper | 312299 | [312299-pen-to-paper.json](./312299-pen-to-paper.json) |
 | Pen-chan | 385718 | [385718-pen-chan.json](./385718-pen-chan.json) |
+| Penalti MTV com Cléston | 253197 | [253197-penalti-mtv-com-cleston.json](./253197-penalti-mtv-com-cleston.json) |
 | Penalty | 292982 | [292982-penalty.json](./292982-penalty.json) |
 | Penalty | 312265 | [312265-penalty.json](./312265-penalty.json) |
 | Penalty Challenge | 311227 | [311227-penalty-challenge.json](./311227-penalty-challenge.json) |
@@ -4191,6 +4194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Wright: Ace Attorney - Justice For All | 221286 | [221286-phoenix-wright-ace-attorney-justice-for-all.json](./221286-phoenix-wright-ace-attorney-justice-for-all.json) |
 | Phoenix Wright: Ace Attorney - Justice For Eternity | 307854 | [307854-phoenix-wright-ace-attorney-justice-for-eternity.json](./307854-phoenix-wright-ace-attorney-justice-for-eternity.json) |
 | Phoenix Wright: Ace Attorney - Legal Panels | 302641 | [302641-phoenix-wright-ace-attorney-legal-panels.json](./302641-phoenix-wright-ace-attorney-legal-panels.json) |
+| Phoenix Wright: Ace Attorney - NES Demake | 253233 | [253233-phoenix-wright-ace-attorney-nes-demake.json](./253233-phoenix-wright-ace-attorney-nes-demake.json) |
 | Phoenix Wright: Ace Attorney - Project Justice | 310412 | [310412-phoenix-wright-ace-attorney-project-justice.json](./310412-phoenix-wright-ace-attorney-project-justice.json) |
 | Phoenix Wright: Ace Attorney - Spirit of Justice | 12077 | [12077-phoenix-wright-ace-attorney-spirit-of-justice.json](./12077-phoenix-wright-ace-attorney-spirit-of-justice.json) |
 | Phoenix Wright: Ace Attorney - Spirit of Justice | 253014 | [253014-phoenix-wright-ace-attorney-spirit-of-justice.json](./253014-phoenix-wright-ace-attorney-spirit-of-justice.json) |
@@ -5307,6 +5311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pincushion | 169371 | [169371-pincushion.json](./169371-pincushion.json) |
 | Pindeavor | 208602 | [208602-pindeavor.json](./208602-pindeavor.json) |
 | Pine | 338225 | [338225-pine.json](./338225-pine.json) |
+| Pine Creek: The Book of Judith | 253215 | [253215-pine-creek-the-book-of-judith.json](./253215-pine-creek-the-book-of-judith.json) |
 | Pine Harbor | 257929 | [257929-pine-harbor.json](./257929-pine-harbor.json) |
 | Pine Hearts | 204528 | [204528-pine-hearts.json](./204528-pine-hearts.json) |
 | Pine Point: Insomniac | 334011 | [334011-pine-point-insomniac.json](./334011-pine-point-insomniac.json) |
@@ -10470,6 +10475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Bird 5 | 217812 | [217812-pretty-bird-5.json](./217812-pretty-bird-5.json) |
 | Pretty Bird 6 | 217813 | [217813-pretty-bird-6.json](./217813-pretty-bird-6.json) |
 | Pretty Bird 7 | 222799 | [222799-pretty-bird-7.json](./222799-pretty-bird-7.json) |
+| Pretty Bubble: Flappy Adventures | 253247 | [253247-pretty-bubble-flappy-adventures.json](./253247-pretty-bubble-flappy-adventures.json) |
 | Pretty Chaser | 269601 | [269601-pretty-chaser.json](./269601-pretty-chaser.json) |
 | Pretty Dinosaur Adventures of Ancient Earth VR | 234514 | [234514-pretty-dinosaur-adventures-of-ancient-earth-vr.json](./234514-pretty-dinosaur-adventures-of-ancient-earth-vr.json) |
 | Pretty Girl Ukiyo-e Artist Hoku | 406942 | [406942-pretty-girl-ukiyo-e-artist-hoku.json](./406942-pretty-girl-ukiyo-e-artist-hoku.json) |
@@ -11966,6 +11972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Spaghetti | 60002 | [60002-project-spaghetti.json](./60002-project-spaghetti.json) |
 | Project Spectrum | 361889 | [361889-project-spectrum.json](./361889-project-spectrum.json) |
 | Project Speed 2 | 188681 | [188681-project-speed-2.json](./188681-project-speed-2.json) |
+| Project Speed: Njarovik | 253212 | [253212-project-speed-njarovik.json](./253212-project-speed-njarovik.json) |
 | Project Sphinx | 233665 | [233665-project-sphinx.json](./233665-project-sphinx.json) |
 | Project Spikepig | 326997 | [326997-project-spikepig.json](./326997-project-spikepig.json) |
 | Project Stack | 311786 | [311786-project-stack.json](./311786-project-stack.json) |
@@ -13753,6 +13760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzled Hive | 311199 | [311199-puzzled-hive.json](./311199-puzzled-hive.json) |
 | Puzzled Knight | 125819 | [125819-puzzled-knight.json](./125819-puzzled-knight.json) |
 | Puzzled Love | 180813 | [180813-puzzled-love.json](./180813-puzzled-love.json) |
+| Puzzled Towers | 253209 | [253209-puzzled-towers.json](./253209-puzzled-towers.json) |
 | Puzzledom | 74529 | [74529-puzzledom.json](./74529-puzzledom.json) |
 | Puzzledom - classic puzzles all in one | 99221 | [99221-puzzledom-classic-puzzles-all-in-one.json](./99221-puzzledom-classic-puzzles-all-in-one.json) |
 | Puzzledorf | 160209 | [160209-puzzledorf.json](./160209-puzzledorf.json) |
