@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ukrainian Warfare: Gostomel Heroes | 391787 | [391787-ukrainian-warfare-gostomel-heroes.json](./391787-ukrainian-warfare-gostomel-heroes.json) |
 | Uktena | 150596 | [150596-uktena.json](./150596-uktena.json) |
 | Uktena 64 | 392159 | [392159-uktena-64.json](./392159-uktena-64.json) |
+| Ukubata Tei no Roku Tengu | 221039 | [221039-ukubata-tei-no-roku-tengu.json](./221039-ukubata-tei-no-roku-tengu.json) |
 | Uldor Dread Arena | 247096 | [247096-uldor-dread-arena.json](./247096-uldor-dread-arena.json) |
 | UldreVoid | 133206 | [133206-uldrevoid.json](./133206-uldrevoid.json) |
 | Ulia Chronicles | 304913 | [304913-ulia-chronicles.json](./304913-ulia-chronicles.json) |
@@ -2749,6 +2750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uta Quta | 404450 | [404450-uta-quta.json](./404450-uta-quta.json) |
 | Utacchi | 80482 | [80482-utacchi.json](./80482-utacchi.json) |
 | Utakata no Alice: Dolls infeRno | 222740 | [222740-utakata-no-alice-dolls-inferno.json](./222740-utakata-no-alice-dolls-inferno.json) |
+| Utakata no Hana ga Chiru | 221047 | [221047-utakata-no-hana-ga-chiru.json](./221047-utakata-no-hana-ga-chiru.json) |
 | Utakata no R: Houkai | 221605 | [221605-utakata-no-r-houkai.json](./221605-utakata-no-r-houkai.json) |
 | Utakata no R: Kako-hen Awayuki | 221743 | [221743-utakata-no-r-kako-hen-awayuki.json](./221743-utakata-no-r-kako-hen-awayuki.json) |
 | Utakata no Uchronia: Trail | 336571 | [336571-utakata-no-uchronia-trail.json](./336571-utakata-no-uchronia-trail.json) |
