@@ -9518,7 +9518,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombs Away | 245147 | [245147-bombs-away.json](./245147-bombs-away.json) |
 | Bombs Away on Barrels | 240839 | [240839-bombs-away-on-barrels.json](./240839-bombs-away-on-barrels.json) |
 | Bombs Away! | 245548 | [245548-bombs-away.json](./245548-bombs-away.json) |
-| Bombshell | 6810 | [6810-bombshell.json](./6810-bombshell.json) |
 | Bombshell Barista: Speed Dating | 258195 | [258195-bombshell-barista-speed-dating.json](./258195-bombshell-barista-speed-dating.json) |
 | Bombslinger | 32572 | [32572-bombslinger.json](./32572-bombslinger.json) |
 | BombTag | 84087 | [84087-bombtag.json](./84087-bombtag.json) |
