@@ -4741,6 +4741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch & Fairy Dungeon | 327311 | [327311-witch-and-fairy-dungeon.json](./327311-witch-and-fairy-dungeon.json) |
 | Witch & Hero | 21924 | [21924-witch-and-hero.json](./21924-witch-and-hero.json) |
 | Witch & Hero 2 | 21925 | [21925-witch-and-hero-2.json](./21925-witch-and-hero-2.json) |
+| Witch & Lilies | 222784 | [222784-witch-and-lilies.json](./222784-witch-and-lilies.json) |
 | Witch Amelia | 219670 | [219670-witch-amelia.json](./219670-witch-amelia.json) |
 | Witch Arcana | 223893 | [223893-witch-arcana.json](./223893-witch-arcana.json) |
 | Witch Blood | 107831 | [107831-witch-blood.json](./107831-witch-blood.json) |
