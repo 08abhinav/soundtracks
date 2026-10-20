@@ -2364,6 +2364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patrolling Mars | 276289 | [276289-patrolling-mars.json](./276289-patrolling-mars.json) |
 | Patrolling the Highway | 359409 | [359409-patrolling-the-highway.json](./359409-patrolling-the-highway.json) |
 | Patron | 152393 | [152393-patron.json](./152393-patron.json) |
+| Pattaya | 233365 | [233365-pattaya.json](./233365-pattaya.json) |
 | Patter | 310696 | [310696-patter.json](./310696-patter.json) |
 | Pattern | 112449 | [112449-pattern.json](./112449-pattern.json) |
 | Pattern Pulse | 415233 | [415233-pattern-pulse.json](./415233-pattern-pulse.json) |
@@ -2854,6 +2855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pedro's Adventures in Spanish | 159161 | [159161-pedros-adventures-in-spanish.json](./159161-pedros-adventures-in-spanish.json) |
 | Pee War! | 163861 | [163861-pee-war.json](./163861-pee-war.json) |
 | Peeb Adventures | 144744 | [144744-peeb-adventures.json](./144744-peeb-adventures.json) |
+| Peece Maker | 233398 | [233398-peece-maker.json](./233398-peece-maker.json) |
 | Peech World | 311599 | [311599-peech-world.json](./311599-peech-world.json) |
 | Peek | 338147 | [338147-peek.json](./338147-peek.json) |
 | Peek a Boo | 225606 | [225606-peek-a-boo.json](./225606-peek-a-boo.json) |
@@ -9976,6 +9978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potsworth & Co. | 95379 | [95379-potsworth-and-co.json](./95379-potsworth-and-co.json) |
 | Potter About | 274330 | [274330-potter-about.json](./274330-potter-about.json) |
 | Pottergame | 159069 | [159069-pottergame.json](./159069-pottergame.json) |
+| Pottery | 233370 | [233370-pottery.json](./233370-pottery.json) |
 | Pottery Maker | 89264 | [89264-pottery-maker.json](./89264-pottery-maker.json) |
 | Pottis Dream Forge | 108045 | [108045-pottis-dream-forge.json](./108045-pottis-dream-forge.json) |
 | Potty Knight Saga | 289778 | [289778-potty-knight-saga.json](./289778-potty-knight-saga.json) |
