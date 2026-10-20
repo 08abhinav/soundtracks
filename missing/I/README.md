@@ -3493,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insomnia | 333572 | [333572-insomnia.json](./333572-insomnia.json) |
 | Insomnia | 346257 | [346257-insomnia.json](./346257-insomnia.json) |
 | Insomnia Club | 407869 | [407869-insomnia-club.json](./407869-insomnia-club.json) |
+| Insomnia Jigsaw | 217172 | [217172-insomnia-jigsaw.json](./217172-insomnia-jigsaw.json) |
 | Insomnia: A Sleepless Journey | 294810 | [294810-insomnia-a-sleepless-journey.json](./294810-insomnia-a-sleepless-journey.json) |
 | Insomnia: Chapter One | 374258 | [374258-insomnia-chapter-one.json](./374258-insomnia-chapter-one.json) |
 | Insomnia: Theater in the Head | 216657 | [216657-insomnia-theater-in-the-head.json](./216657-insomnia-theater-in-the-head.json) |
@@ -4683,6 +4684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Flight Simulator | 24747 | [24747-island-flight-simulator.json](./24747-island-flight-simulator.json) |
 | Island Games | 208646 | [208646-island-games.json](./208646-island-games.json) |
 | Island Getaway | 29939 | [29939-island-getaway.json](./29939-island-getaway.json) |
+| Island Girl | 217194 | [217194-island-girl.json](./217194-island-girl.json) |
 | Island Golf | 255740 | [255740-island-golf.json](./255740-island-golf.json) |
 | Island Herders | 169719 | [169719-island-herders.json](./169719-island-herders.json) |
 | Island Hopper | 265141 | [265141-island-hopper.json](./265141-island-hopper.json) |
@@ -4764,6 +4766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Islay Quest | 386874 | [386874-islay-quest.json](./386874-islay-quest.json) |
 | Isle Clash | 132265 | [132265-isle-clash.json](./132265-isle-clash.json) |
 | Isle Frontier | 345363 | [345363-isle-frontier.json](./345363-isle-frontier.json) |
+| Isle Goblin | 217158 | [217158-isle-goblin.json](./217158-isle-goblin.json) |
 | Isle o' Little Men | 310409 | [310409-isle-o-little-men.json](./310409-isle-o-little-men.json) |
 | Isle of Arrows | 197945 | [197945-isle-of-arrows.json](./197945-isle-of-arrows.json) |
 | Isle of Birds | 320872 | [320872-isle-of-birds.json](./320872-isle-of-birds.json) |
