@@ -6195,11 +6195,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei III: Nocturne | 336392 | [336392-shin-megami-tensei-iii-nocturne.json](./336392-shin-megami-tensei-iii-nocturne.json) |
 | Shin Megami Tensei III: Nocturne - HD Remaster | 135913 | [135913-shin-megami-tensei-iii-nocturne-hd-remaster.json](./135913-shin-megami-tensei-iii-nocturne-hd-remaster.json) |
 | Shin Megami Tensei III: Nocturne - HD Remaster | 337718 | [337718-shin-megami-tensei-iii-nocturne-hd-remaster.json](./337718-shin-megami-tensei-iii-nocturne-hd-remaster.json) |
+| Shin Megami Tensei III: Nocturne - HD Remaster Digital Deluxe Edition | 238339 | [238339-shin-megami-tensei-iii-nocturne-hd-remaster-digital-deluxe-edition.json](./238339-shin-megami-tensei-iii-nocturne-hd-remaster-digital-deluxe-edition.json) |
 | Shin Megami Tensei III: Nocturne - HD Remaster: Chronicle Pack | 336554 | [336554-shin-megami-tensei-iii-nocturne-hd-remaster-chronicle-pack.json](./336554-shin-megami-tensei-iii-nocturne-hd-remaster-chronicle-pack.json) |
 | Shin Megami Tensei III: Nocturne - HD Remaster: Maniax Pack | 237996 | [237996-shin-megami-tensei-iii-nocturne-hd-remaster-maniax-pack.json](./237996-shin-megami-tensei-iii-nocturne-hd-remaster-maniax-pack.json) |
 | Shin Megami Tensei III: Nocturne Maniax Chronicle Edition | 231375 | [231375-shin-megami-tensei-iii-nocturne-maniax-chronicle-edition.json](./231375-shin-megami-tensei-iii-nocturne-maniax-chronicle-edition.json) |
 | Shin Megami Tensei J | 138483 | [138483-shin-megami-tensei-j.json](./138483-shin-megami-tensei-j.json) |
 | Shin Megami Tensei V: A Goddess in Training | 238054 | [238054-shin-megami-tensei-v-a-goddess-in-training.json](./238054-shin-megami-tensei-v-a-goddess-in-training.json) |
+| Shin Megami Tensei V: Digital Deluxe Edition | 238340 | [238340-shin-megami-tensei-v-digital-deluxe-edition.json](./238340-shin-megami-tensei-v-digital-deluxe-edition.json) |
 | Shin Megami Tensei V: The Rage of a Queen | 238058 | [238058-shin-megami-tensei-v-the-rage-of-a-queen.json](./238058-shin-megami-tensei-v-the-rage-of-a-queen.json) |
 | Shin Megami Tensei V: Vengeance - Demon Subquest: Holy Will and Profane Dissent | 297317 | [297317-shin-megami-tensei-v-vengeance-demon-subquest-holy-will-and-profane-dissent.json](./297317-shin-megami-tensei-v-vengeance-demon-subquest-holy-will-and-profane-dissent.json) |
 | Shin Megami Tensei V: Vengeance - Demon Subquest: Sakura Cinders of the East | 297318 | [297318-shin-megami-tensei-v-vengeance-demon-subquest-sakura-cinders-of-the-east.json](./297318-shin-megami-tensei-v-vengeance-demon-subquest-sakura-cinders-of-the-east.json) |
@@ -19811,6 +19813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stern Pinball Arcade: AC/DC Premium | 317290 | [317290-stern-pinball-arcade-ac-dc-premium.json](./317290-stern-pinball-arcade-ac-dc-premium.json) |
 | Stern Pinball Arcade: Ghostbusters Premium | 161232 | [161232-stern-pinball-arcade-ghostbusters-premium.json](./161232-stern-pinball-arcade-ghostbusters-premium.json) |
 | Stern Pinball Arcade: Harley-Davidson | 161230 | [161230-stern-pinball-arcade-harley-davidson.json](./161230-stern-pinball-arcade-harley-davidson.json) |
+| Stern Pinball Arcade: Harley-Davidson / Third Edition | 238344 | [238344-stern-pinball-arcade-harley-davidson-third-edition.json](./238344-stern-pinball-arcade-harley-davidson-third-edition.json) |
 | Stern Pinball Arcade: High Roller Casino | 161233 | [161233-stern-pinball-arcade-high-roller-casino.json](./161233-stern-pinball-arcade-high-roller-casino.json) |
 | Stern Pinball Arcade: Last Action Hero | 161228 | [161228-stern-pinball-arcade-last-action-hero.json](./161228-stern-pinball-arcade-last-action-hero.json) |
 | Stern Pinball Arcade: Mary Shelley's Frankenstein | 161235 | [161235-stern-pinball-arcade-mary-shelleys-frankenstein.json](./161235-stern-pinball-arcade-mary-shelleys-frankenstein.json) |
