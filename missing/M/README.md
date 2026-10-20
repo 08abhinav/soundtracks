@@ -1435,6 +1435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Escape: Ancient China | 135673 | [135673-mahjong-escape-ancient-china.json](./135673-mahjong-escape-ancient-china.json) |
 | Mahjong Escape: Ancient Japan | 202093 | [202093-mahjong-escape-ancient-japan.json](./202093-mahjong-escape-ancient-japan.json) |
 | Mahjong Fest: Winterland | 113163 | [113163-mahjong-fest-winterland.json](./113163-mahjong-fest-winterland.json) |
+| Mahjong Fight Club SP | 212649 | [212649-mahjong-fight-club-sp.json](./212649-mahjong-fight-club-sp.json) |
 | Mahjong Fight Club Wii: Wi-Fi Taiou | 125914 | [125914-mahjong-fight-club-wii-wi-fi-taiou.json](./125914-mahjong-fight-club-wii-wi-fi-taiou.json) |
 | Mahjong Fight Club: Shinsei Zenkoku Taisen-ban | 79829 | [79829-mahjong-fight-club-shinsei-zenkoku-taisen-ban.json](./79829-mahjong-fight-club-shinsei-zenkoku-taisen-ban.json) |
 | Mahjong Fight Club: Zenkoku Taisenban | 76144 | [76144-mahjong-fight-club-zenkoku-taisenban.json](./76144-mahjong-fight-club-zenkoku-taisenban.json) |
@@ -6969,6 +6970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercenaries Saga: Will of the White Lions | 258121 | [258121-mercenaries-saga-will-of-the-white-lions.json](./258121-mercenaries-saga-will-of-the-white-lions.json) |
 | Mercenaries Series Bundle | 175818 | [175818-mercenaries-series-bundle.json](./175818-mercenaries-series-bundle.json) |
 | Mercenaries Wings: The False Phoenix | 104789 | [104789-mercenaries-wings-the-false-phoenix.json](./104789-mercenaries-wings-the-false-phoenix.json) |
+| Mercenaries: 4th Generation Warfare | 212677 | [212677-mercenaries-4th-generation-warfare.json](./212677-mercenaries-4th-generation-warfare.json) |
 | Mercenaries: Playground of Destruction | 2683 | [2683-mercenaries-playground-of-destruction.json](./2683-mercenaries-playground-of-destruction.json) |
 | Mercenary Battlegrounds | 328845 | [328845-mercenary-battlegrounds.json](./328845-mercenary-battlegrounds.json) |
 | Mercenary Brotherhood | 423295 | [423295-mercenary-brotherhood.json](./423295-mercenary-brotherhood.json) |
@@ -8705,6 +8707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miharu: Alto Another Story | 403814 | [403814-miharu-alto-another-story.json](./403814-miharu-alto-another-story.json) |
 | Mihashira | 406670 | [406670-mihashira.json](./406670-mihashira.json) |
 | Mihirha's Legacy | 226721 | [226721-mihirhas-legacy.json](./226721-mihirhas-legacy.json) |
+| Miho Adventures | 212669 | [212669-miho-adventures.json](./212669-miho-adventures.json) |
 | Míhún Chē | 247447 | [247447-mihun-che.json](./247447-mihun-che.json) |
 | Miimi to Taata no Waiwai Oekaki Doubutsuen | 293148 | [293148-miimi-to-taata-no-waiwai-oekaki-doubutsuen.json](./293148-miimi-to-taata-no-waiwai-oekaki-doubutsuen.json) |
 | Miitomo | 18615 | [18615-miitomo.json](./18615-miitomo.json) |
@@ -11797,6 +11800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Dash | 18497 | [18497-monster-dash.json](./18497-monster-dash.json) |
 | Monster Demolition | 261416 | [261416-monster-demolition.json](./261416-monster-demolition.json) |
 | Monster Desert | 233458 | [233458-monster-desert.json](./233458-monster-desert.json) |
+| Monster destroyer | 212628 | [212628-monster-destroyer.json](./212628-monster-destroyer.json) |
 | Monster Detective | 392740 | [392740-monster-detective.json](./392740-monster-detective.json) |
 | Monster Dice | 175649 | [175649-monster-dice.json](./175649-monster-dice.json) |
 | Monster DNA | 307413 | [307413-monster-dna.json](./307413-monster-dna.json) |
@@ -14283,6 +14287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mud Monster Up Hill Madness | 104214 | [104214-mud-monster-up-hill-madness.json](./104214-mud-monster-up-hill-madness.json) |
 | Mud River | 171869 | [171869-mud-river.json](./171869-mud-river.json) |
 | Mud Tyres: Offroad Edition | 90066 | [90066-mud-tyres-offroad-edition.json](./90066-mud-tyres-offroad-edition.json) |
+| Mud Way | 212670 | [212670-mud-way.json](./212670-mud-way.json) |
 | MUD: FIM Motocross World Championship | 20848 | [20848-mud-fim-motocross-world-championship.json](./20848-mud-fim-motocross-world-championship.json) |
 | Mudang: Two Hearts | 348199 | [348199-mudang-two-hearts.json](./348199-mudang-two-hearts.json) |
 | Mudbird | 335272 | [335272-mudbird.json](./335272-mudbird.json) |
@@ -15202,6 +15207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Cashy Side Job at Lost&Found in the Subway of Million-Person City | 189060 | [189060-my-cashy-side-job-at-lost-and-found-in-the-subway-of-million-person-city.json](./189060-my-cashy-side-job-at-lost-and-found-in-the-subway-of-million-person-city.json) |
 | My Cat | 222880 | [222880-my-cat.json](./222880-my-cat.json) |
 | My Cat Club: Collect Kittens | 259971 | [259971-my-cat-club-collect-kittens.json](./259971-my-cat-club-collect-kittens.json) |
+| My Cat Girl Lover | 212646 | [212646-my-cat-girl-lover.json](./212646-my-cat-girl-lover.json) |
 | My Cat Girlfriend | 299598 | [299598-my-cat-girlfriend.json](./299598-my-cat-girlfriend.json) |
 | My Cat Town | 299208 | [299208-my-cat-town.json](./299208-my-cat-town.json) |
 | My Cat-Grandma vs. Vampire | 241821 | [241821-my-cat-grandma-vs-vampire.json](./241821-my-cat-grandma-vs-vampire.json) |
@@ -16122,6 +16128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Zoo - Craft Dino Tycoon | 104528 | [104528-my-zoo-craft-dino-tycoon.json](./104528-my-zoo-craft-dino-tycoon.json) |
 | MY: Commander | 79157 | [79157-my-commander.json](./79157-my-commander.json) |
 | Mya Master Mind | 245675 | [245675-mya-master-mind.json](./245675-mya-master-mind.json) |
+| MyaoSoft Garake Collection | 212644 | [212644-myaosoft-garake-collection.json](./212644-myaosoft-garake-collection.json) |
 | Myara Story 1: Hurricane of the Ancient One | 227895 | [227895-myara-story-1-hurricane-of-the-ancient-one.json](./227895-myara-story-1-hurricane-of-the-ancient-one.json) |
 | MyBiz: Pomodoro Desk Tycoon | 405557 | [405557-mybiz-pomodoro-desk-tycoon.json](./405557-mybiz-pomodoro-desk-tycoon.json) |
 | Mycelium | 295350 | [295350-mycelium.json](./295350-mycelium.json) |
