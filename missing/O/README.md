@@ -1054,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olav & the Lute | 131996 | [131996-olav-and-the-lute.json](./131996-olav-and-the-lute.json) |
 | Olber's Paradox | 392816 | [392816-olbers-paradox.json](./392816-olbers-paradox.json) |
 | Old Car Crusher Crane & Dump Truck Driver | 99721 | [99721-old-car-crusher-crane-and-dump-truck-driver.json](./99721-old-car-crusher-crane-and-dump-truck-driver.json) |
+| Old Coin Pusher Friends 2 | 249058 | [249058-old-coin-pusher-friends-2.json](./249058-old-coin-pusher-friends-2.json) |
 | Old Coin Pusher Friends 3 | 307977 | [307977-old-coin-pusher-friends-3.json](./307977-old-coin-pusher-friends-3.json) |
 | Old Coin Pusher Gaiden | 411143 | [411143-old-coin-pusher-gaiden.json](./411143-old-coin-pusher-gaiden.json) |
 | Old Edge I | 117706 | [117706-old-edge-i.json](./117706-old-edge-i.json) |
@@ -1342,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ominous Paths | 206649 | [206649-ominous-paths.json](./206649-ominous-paths.json) |
 | Ominous Presence | 252725 | [252725-ominous-presence.json](./252725-ominous-presence.json) |
 | Ominous Recall | 317382 | [317382-ominous-recall.json](./317382-ominous-recall.json) |
+| Ominous Stew | 249022 | [249022-ominous-stew.json](./249022-ominous-stew.json) |
 | Ominous Tales: The Forsaken Isle - Collector's Edition | 283839 | [283839-ominous-tales-the-forsaken-isle-collectors-edition.json](./283839-ominous-tales-the-forsaken-isle-collectors-edition.json) |
 | Ominous! | 135069 | [135069-ominous.json](./135069-ominous.json) |
 | Omise de Tensyu | 138249 | [138249-omise-de-tensyu.json](./138249-omise-de-tensyu.json) |
@@ -4336,6 +4338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overwatch: Reign of Talon - Season 4: Heroes of Busan | 412893 | [412893-overwatch-reign-of-talon-season-4-heroes-of-busan.json](./412893-overwatch-reign-of-talon-season-4-heroes-of-busan.json) |
 | Overwatch: Safari Ashe Bonus Pack | 409069 | [409069-overwatch-safari-ashe-bonus-pack.json](./409069-overwatch-safari-ashe-bonus-pack.json) |
 | Overwhelm | 103324 | [103324-overwhelm.json](./103324-overwhelm.json) |
+| Overwhelmed | 249033 | [249033-overwhelmed.json](./249033-overwhelmed.json) |
 | Overwhelmed | 260712 | [260712-overwhelmed.json](./260712-overwhelmed.json) |
 | OverWing | 337291 | [337291-overwing.json](./337291-overwing.json) |
 | Overworked | 408180 | [408180-overworked.json](./408180-overworked.json) |
