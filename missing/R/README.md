@@ -5568,7 +5568,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift Loopers: Pyro Class | 253318 | [253318-rift-loopers-pyro-class.json](./253318-rift-loopers-pyro-class.json) |
 | Rift Miner | 375446 | [375446-rift-miner.json](./375446-rift-miner.json) |
 | Rift Mobile | 38902 | [38902-rift-mobile.json](./38902-rift-mobile.json) |
-| Rift of the NecroDancer | 214492 | [214492-rift-of-the-necrodancer.json](./214492-rift-of-the-necrodancer.json) |
 | Rift of the NecroDancer x Super Meat Boy | 401751 | [401751-rift-of-the-necrodancer-x-super-meat-boy.json](./401751-rift-of-the-necrodancer-x-super-meat-boy.json) |
 | Rift of the NecroDancer: Celeste - "Confronting Myself" | 352268 | [352268-rift-of-the-necrodancer-celeste-confronting-myself.json](./352268-rift-of-the-necrodancer-celeste-confronting-myself.json) |
 | Rift of the NecroDancer: Celeste - "Reach for the Summit" | 352270 | [352270-rift-of-the-necrodancer-celeste-reach-for-the-summit.json](./352270-rift-of-the-necrodancer-celeste-reach-for-the-summit.json) |
