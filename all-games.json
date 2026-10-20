@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T10:51:05.122Z",
-  "total_soundtracks": 2213,
+  "generated_at": "2026-10-20T10:51:16.943Z",
+  "total_soundtracks": 2214,
   "games": [
     {
       "igdb_id": 7522,
@@ -14319,6 +14319,20 @@
           "spotify_url": "https://music.apple.com/us/album/metal-slug-tactics-original-game-soundtrack/1776636935?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1776636935"
+        }
+      ]
+    },
+    {
+      "igdb_id": 115657,
+      "game_name": "Metamorphosis",
+      "game_url": "https://ostdb.net/games/metamorphosis",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27380e9efd91b5eec18158341da",
+      "albums": [
+        {
+          "album_name": "Metamorphosis (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6IBI9CVASylv4DxUjazi4I",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
