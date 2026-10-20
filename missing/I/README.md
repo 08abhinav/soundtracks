@@ -1286,6 +1286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Taoist Mage Warrior 2 | 298665 | [298665-idle-taoist-mage-warrior-2.json](./298665-idle-taoist-mage-warrior-2.json) |
 | Idle Tap Zoo: Tap, Build & Upg | 245345 | [245345-idle-tap-zoo-tap-build-and-upg.json](./245345-idle-tap-zoo-tap-build-and-upg.json) |
 | Idle TD: Heroes vs Zombies | 160074 | [160074-idle-td-heroes-vs-zombies.json](./160074-idle-td-heroes-vs-zombies.json) |
+| Idle Team | 208174 | [208174-idle-team.json](./208174-idle-team.json) |
 | Idle Three Kingdoms | 224039 | [224039-idle-three-kingdoms.json](./224039-idle-three-kingdoms.json) |
 | Idle Tick | 274043 | [274043-idle-tick.json](./274043-idle-tick.json) |
 | Idle Tides | 409814 | [409814-idle-tides.json](./409814-idle-tides.json) |
@@ -3041,6 +3042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Slime Dungeon | 321754 | [321754-infinity-slime-dungeon.json](./321754-infinity-slime-dungeon.json) |
 | Infinity Souls | 196576 | [196576-infinity-souls.json](./196576-infinity-souls.json) |
 | Infinity Square | 147349 | [147349-infinity-square.json](./147349-infinity-square.json) |
+| Infinity Star M | 208175 | [208175-infinity-star-m.json](./208175-infinity-star-m.json) |
 | Infinity Strash: Dragon Quest - The Adventure of Dai | 137928 | [137928-infinity-strash-dragon-quest-the-adventure-of-dai.json](./137928-infinity-strash-dragon-quest-the-adventure-of-dai.json) |
 | Infinity Strash: Dragon Quest - The Adventure of Dai: Digital Deluxe Edition | 262330 | [262330-infinity-strash-dragon-quest-the-adventure-of-dai-digital-deluxe-edition.json](./262330-infinity-strash-dragon-quest-the-adventure-of-dai-digital-deluxe-edition.json) |
 | Infinity Tank Battle | 107389 | [107389-infinity-tank-battle.json](./107389-infinity-tank-battle.json) |
@@ -4380,6 +4382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Carnage | 368292 | [368292-iron-carnage.json](./368292-iron-carnage.json) |
 | Iron Cauldron: Guess the Colorblock | 340762 | [340762-iron-cauldron-guess-the-colorblock.json](./340762-iron-cauldron-guess-the-colorblock.json) |
 | Iron Chef | 64456 | [64456-iron-chef.json](./64456-iron-chef.json) |
+| Iron Clash | 208176 | [208176-iron-clash.json](./208176-iron-clash.json) |
 | Iron Commando | 34040 | [34040-iron-commando.json](./34040-iron-commando.json) |
 | Iron Convoy | 330859 | [330859-iron-convoy.json](./330859-iron-convoy.json) |
 | Iron Cross | 80581 | [80581-iron-cross.json](./80581-iron-cross.json) |
@@ -4865,7 +4868,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isometric Factories | 391647 | [391647-isometric-factories.json](./391647-isometric-factories.json) |
 | Isometric Squares | 175356 | [175356-isometric-squares.json](./175356-isometric-squares.json) |
 | Isomorph | 31614 | [31614-isomorph.json](./31614-isomorph.json) |
-| Isonzo | 158603 | [158603-isonzo.json](./158603-isonzo.json) |
 | Isonzo: Collector's Edition | 218548 | [218548-isonzo-collectors-edition.json](./218548-isonzo-collectors-edition.json) |
 | Isonzo: Expedition Units | 303277 | [303277-isonzo-expedition-units.json](./303277-isonzo-expedition-units.json) |
 | Isonzo: First Wave | 265715 | [265715-isonzo-first-wave.json](./265715-isonzo-first-wave.json) |
