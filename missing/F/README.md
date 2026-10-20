@@ -2488,6 +2488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fated: The Silent Oath | 19013 | [19013-fated-the-silent-oath.json](./19013-fated-the-silent-oath.json) |
 | Fateful Dealings | 182868 | [182868-fateful-dealings.json](./182868-fateful-dealings.json) |
 | Fateful Destiny | 323504 | [323504-fateful-destiny.json](./323504-fateful-destiny.json) |
+| Fateful Mages | 242968 | [242968-fateful-mages.json](./242968-fateful-mages.json) |
 | Fateholders of Tetsoidea | 43158 | [43158-fateholders-of-tetsoidea.json](./43158-fateholders-of-tetsoidea.json) |
 | Fateline | 121003 | [121003-fateline.json](./121003-fateline.json) |
 | Fatermyth | 291159 | [291159-fatermyth.json](./291159-fatermyth.json) |
@@ -3038,6 +3039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fetch Re;Quest | 361060 | [361060-fetch-re-quest.json](./361060-fetch-re-quest.json) |
 | Fetidity | 404163 | [404163-fetidity.json](./404163-fetidity.json) |
 | Fetish Club | 298320 | [298320-fetish-club.json](./298320-fetish-club.json) |
+| Fetish Fighters | 242931 | [242931-fetish-fighters.json](./242931-fetish-fighters.json) |
 | Fetish Locator | 255686 | [255686-fetish-locator.json](./255686-fetish-locator.json) |
 | Fetish Locator Week Three | 281337 | [281337-fetish-locator-week-three.json](./281337-fetish-locator-week-three.json) |
 | Fetty Wap: Nitro Nation Stories | 76553 | [76553-fetty-wap-nitro-nation-stories.json](./76553-fetty-wap-nitro-nation-stories.json) |
@@ -3385,6 +3387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight for Life | 40800 | [40800-fight-for-life.json](./40800-fight-for-life.json) |
 | Fight For Love | 345523 | [345523-fight-for-love.json](./345523-fight-for-love.json) |
 | Fight for Marseille | 109522 | [109522-fight-for-marseille.json](./109522-fight-for-marseille.json) |
+| Fight For Your Resurrection | 242969 | [242969-fight-for-your-resurrection.json](./242969-fight-for-your-resurrection.json) |
 | Fight For Your Resurrection VR | 255147 | [255147-fight-for-your-resurrection-vr.json](./255147-fight-for-your-resurrection-vr.json) |
 | Fight Game Rivals | 79772 | [79772-fight-game-rivals.json](./79772-fight-game-rivals.json) |
 | Fight In Hole | 211248 | [211248-fight-in-hole.json](./211248-fight-in-hole.json) |
@@ -4246,6 +4249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finger Football: Goal in Two | 253204 | [253204-finger-football-goal-in-two.json](./253204-finger-football-goal-in-two.json) |
 | Finger Gravity | 253263 | [253263-finger-gravity.json](./253263-finger-gravity.json) |
 | Finger Guessing King | 169722 | [169722-finger-guessing-king.json](./169722-finger-guessing-king.json) |
+| Finger Is 300 Bugs | 242958 | [242958-finger-is-300-bugs.json](./242958-finger-is-300-bugs.json) |
 | Finger Maniac | 262351 | [262351-finger-maniac.json](./262351-finger-maniac.json) |
 | Finger Ninja | 82006 | [82006-finger-ninja.json](./82006-finger-ninja.json) |
 | Finger on the Roof! Go! Rooftop Runner! | 214568 | [214568-finger-on-the-roof-go-rooftop-runner.json](./214568-finger-on-the-roof-go-rooftop-runner.json) |
@@ -8685,6 +8689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeing Quency | 179192 | [179192-freeing-quency.json](./179192-freeing-quency.json) |
 | FreeJack | 51276 | [51276-freejack.json](./51276-freejack.json) |
 | Freekscape: Escape From Hell | 52231 | [52231-freekscape-escape-from-hell.json](./52231-freekscape-escape-from-hell.json) |
+| Freekstyle | 242933 | [242933-freekstyle.json](./242933-freekstyle.json) |
 | Freekstyle | 3919 | [3919-freekstyle.json](./3919-freekstyle.json) |
 | Freeky Faucets Arcade | 325513 | [325513-freeky-faucets-arcade.json](./325513-freeky-faucets-arcade.json) |
 | Freelance Dead | 390663 | [390663-freelance-dead.json](./390663-freelance-dead.json) |
