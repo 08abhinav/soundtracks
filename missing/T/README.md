@@ -5878,6 +5878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crypt Terror | 231516 | [231516-the-crypt-terror.json](./231516-the-crypt-terror.json) |
 | The Cryptkeepers of Hallowford | 81931 | [81931-the-cryptkeepers-of-hallowford.json](./81931-the-cryptkeepers-of-hallowford.json) |
 | The Crypto Prophecies | 186005 | [186005-the-crypto-prophecies.json](./186005-the-crypto-prophecies.json) |
+| The Cryptographer | 205995 | [205995-the-cryptographer.json](./205995-the-cryptographer.json) |
 | The Cryptokiller | 376542 | [376542-the-cryptokiller.json](./376542-the-cryptokiller.json) |
 | The Cryptologist Room | 154430 | [154430-the-cryptologist-room.json](./154430-the-cryptologist-room.json) |
 | The Crypts | 268469 | [268469-the-crypts.json](./268469-the-crypts.json) |
@@ -24500,6 +24501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Tails | 264537 | [264537-turbo-tails.json](./264537-turbo-tails.json) |
 | Turbo Tempest | 153953 | [153953-turbo-tempest.json](./153953-turbo-tempest.json) |
 | Turbo Titans | 391883 | [391883-turbo-titans.json](./391883-turbo-titans.json) |
+| Turbo Toons | 205977 | [205977-turbo-toons.json](./205977-turbo-toons.json) |
 | Turbo Trainz | 193702 | [193702-turbo-trainz.json](./193702-turbo-trainz.json) |
 | Turbo Trainz | 206637 | [206637-turbo-trainz.json](./206637-turbo-trainz.json) |
 | Turbo Trax | 12802 | [12802-turbo-trax.json](./12802-turbo-trax.json) |
@@ -25030,6 +25032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twister Mania | 20216 | [20216-twister-mania.json](./20216-twister-mania.json) |
 | Twister Road | 125251 | [125251-twister-road.json](./125251-twister-road.json) |
 | Twister: Mother of Charlotte | 73188 | [73188-twister-mother-of-charlotte.json](./73188-twister-mother-of-charlotte.json) |
+| Twistingo | 205981 | [205981-twistingo.json](./205981-twistingo.json) |
 | Twistingo | 206061 | [206061-twistingo.json](./206061-twistingo.json) |
 | Twistingo: Bird Paradise - Collector's Edition | 236204 | [236204-twistingo-bird-paradise-collectors-edition.json](./236204-twistingo-bird-paradise-collectors-edition.json) |
 | Twistingo: Collector's Edition | 211708 | [211708-twistingo-collectors-edition.json](./211708-twistingo-collectors-edition.json) |
@@ -25248,6 +25251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typeoids | 387477 | [387477-typeoids.json](./387477-typeoids.json) |
 | Typer | 88354 | [88354-typer.json](./88354-typer.json) |
 | Typer Hero | 173013 | [173013-typer-hero.json](./173013-typer-hero.json) |
+| Typer Shark | 205982 | [205982-typer-shark.json](./205982-typer-shark.json) |
 | TypeRacer | 91271 | [91271-typeracer.json](./91271-typeracer.json) |
 | TypeRush | 203185 | [203185-typerush.json](./203185-typerush.json) |
 | Typeshift | 27884 | [27884-typeshift.json](./27884-typeshift.json) |
