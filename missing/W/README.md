@@ -3753,6 +3753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Widget's Odyssey II | 53048 | [53048-widgets-odyssey-ii.json](./53048-widgets-odyssey-ii.json) |
 | Widgets Odyssey | 42788 | [42788-widgets-odyssey.json](./42788-widgets-odyssey.json) |
 | Widgets Odyssey 2 | 42787 | [42787-widgets-odyssey-2.json](./42787-widgets-odyssey-2.json) |
+| Widiland | 235089 | [235089-widiland.json](./235089-widiland.json) |
 | Widow in the Endless Labyrinth | 267104 | [267104-widow-in-the-endless-labyrinth.json](./267104-widow-in-the-endless-labyrinth.json) |
 | Widower's Sky | 106116 | [106116-widowers-sky.json](./106116-widowers-sky.json) |
 | Wielders of the Essence | 378342 | [378342-wielders-of-the-essence.json](./378342-wielders-of-the-essence.json) |
@@ -3990,6 +3991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildborn | 175665 | [175665-wildborn.json](./175665-wildborn.json) |
 | WildBorn | 398589 | [398589-wildborn.json](./398589-wildborn.json) |
 | Wildbound | 347711 | [347711-wildbound.json](./347711-wildbound.json) |
+| Wildcard | 235086 | [235086-wildcard.json](./235086-wildcard.json) |
 | Wildcat Snack Attack | 338366 | [338366-wildcat-snack-attack.json](./338366-wildcat-snack-attack.json) |
 | Wildcatting | 42131 | [42131-wildcatting.json](./42131-wildcatting.json) |
 | Wildchain: Rewild The World | 391651 | [391651-wildchain-rewild-the-world.json](./391651-wildchain-rewild-the-world.json) |
@@ -5889,6 +5891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Airports | 68057 | [68057-world-airports.json](./68057-world-airports.json) |
 | World Airports | 68069 | [68069-world-airports.json](./68069-world-airports.json) |
 | World Airports 2 | 68068 | [68068-world-airports-2.json](./68068-world-airports-2.json) |
+| World Annihilation Operations Parts I-IV | 235069 | [235069-world-annihilation-operations-parts-i-iv.json](./235069-world-annihilation-operations-parts-i-iv.json) |
 | World Apart | 98546 | [98546-world-apart.json](./98546-world-apart.json) |
 | World At War 85 Digital | 216481 | [216481-world-at-war-85-digital.json](./216481-world-at-war-85-digital.json) |
 | World at War: Nazi Zombies Remastered | 299137 | [299137-world-at-war-nazi-zombies-remastered.json](./299137-world-at-war-nazi-zombies-remastered.json) |
