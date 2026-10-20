@@ -1873,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Drift Ultra | 412997 | [412997-neon-drift-ultra.json](./412997-neon-drift-ultra.json) |
 | Neon Drifter: Cyber Racing | 283258 | [283258-neon-drifter-cyber-racing.json](./283258-neon-drifter-cyber-racing.json) |
 | Neon Drive | 31180 | [31180-neon-drive.json](./31180-neon-drive.json) |
+| Neon Dungeon | 213243 | [213243-neon-dungeon.json](./213243-neon-dungeon.json) |
 | Neon Echo | 246299 | [246299-neon-echo.json](./246299-neon-echo.json) |
 | Neon Eclipse: Dominium | 346155 | [346155-neon-eclipse-dominium.json](./346155-neon-eclipse-dominium.json) |
 | Neon Exile | 120652 | [120652-neon-exile.json](./120652-neon-exile.json) |
