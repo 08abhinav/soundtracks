@@ -2186,6 +2186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barter & Blades | 281953 | [281953-barter-and-blades.json](./281953-barter-and-blades.json) |
 | Bartholomew.exe | 358899 | [358899-bartholomew-exe.json](./358899-bartholomew-exe.json) |
 | Bartlow's Dread Machine | 128934 | [128934-bartlows-dread-machine.json](./128934-bartlows-dread-machine.json) |
+| Bartman: Avenger of Evil | 218328 | [218328-bartman-avenger-of-evil.json](./218328-bartman-avenger-of-evil.json) |
 | Bartolomeo, Misled by Circumstances, Learns that Appearances can be Deceptive | 317311 | [317311-bartolomeo-misled-by-circumstances-learns-that-appearances-can-be-deceptive.json](./317311-bartolomeo-misled-by-circumstances-learns-that-appearances-can-be-deceptive.json) |
 | Bartolomeu Odyssey | 248891 | [248891-bartolomeu-odyssey.json](./248891-bartolomeu-odyssey.json) |
 | Barton Lynch Pro Surfing | 272292 | [272292-barton-lynch-pro-surfing.json](./272292-barton-lynch-pro-surfing.json) |
@@ -3357,6 +3358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battles Pirates: HQ | 102666 | [102666-battles-pirates-hq.json](./102666-battles-pirates-hq.json) |
 | Battlescar: Punk Was Invented By Girls | 171452 | [171452-battlescar-punk-was-invented-by-girls.json](./171452-battlescar-punk-was-invented-by-girls.json) |
 | Battleship | 154988 | [154988-battleship.json](./154988-battleship.json) |
+| Battleship | 218315 | [218315-battleship.json](./218315-battleship.json) |
 | Battleship | 220787 | [220787-battleship.json](./220787-battleship.json) |
 | Battleship | 22445 | [22445-battleship.json](./22445-battleship.json) |
 | Battleship | 267406 | [267406-battleship.json](./267406-battleship.json) |
@@ -5761,6 +5763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BigFest | 21586 | [21586-bigfest.json](./21586-bigfest.json) |
 | Bigflap Attack | 152052 | [152052-bigflap-attack.json](./152052-bigflap-attack.json) |
 | BigFool | 307942 | [307942-bigfool.json](./307942-bigfool.json) |
+| Bigfoot | 218339 | [218339-bigfoot.json](./218339-bigfoot.json) |
 | Bigfoot | 279695 | [279695-bigfoot.json](./279695-bigfoot.json) |
 | Bigfoot | 377823 | [377823-bigfoot.json](./377823-bigfoot.json) |
 | Bigfoot Bonkers | 18117 | [18117-bigfoot-bonkers.json](./18117-bigfoot-bonkers.json) |
