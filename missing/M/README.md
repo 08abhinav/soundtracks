@@ -8762,6 +8762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miko Kanna Noukin Taimaki | 82738 | [82738-miko-kanna-noukin-taimaki.json](./82738-miko-kanna-noukin-taimaki.json) |
 | Miko Miko Nurse | 321402 | [321402-miko-miko-nurse.json](./321402-miko-miko-nurse.json) |
 | Miko Monogatari! | 222277 | [222277-miko-monogatari.json](./222277-miko-monogatari.json) |
+| Miko no Kanata: Curious Tales from Oguni Shrine - Cycles | 211055 | [211055-miko-no-kanata-curious-tales-from-oguni-shrine-cycles.json](./211055-miko-no-kanata-curious-tales-from-oguni-shrine-cycles.json) |
 | Miko no Kanata: Curious Tales from Oguni Shrine - Zero | 387081 | [387081-miko-no-kanata-curious-tales-from-oguni-shrine-zero.json](./387081-miko-no-kanata-curious-tales-from-oguni-shrine-zero.json) |
 | Miko x Miko Sisters: Kagura-kei no Miko to Akuryou | 333522 | [333522-miko-x-miko-sisters-kagura-kei-no-miko-to-akuryou.json](./333522-miko-x-miko-sisters-kagura-kei-no-miko-to-akuryou.json) |
 | Miko-san Fighter! Ryouko-chan | 395756 | [395756-miko-san-fighter-ryouko-chan.json](./395756-miko-san-fighter-ryouko-chan.json) |
@@ -10494,6 +10495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misspell | 364011 | [364011-misspell.json](./364011-misspell.json) |
 | Missy's Bugtastic Little Planet | 409405 | [409405-missys-bugtastic-little-planet.json](./409405-missys-bugtastic-little-planet.json) |
 | Mist | 200629 | [200629-mist.json](./200629-mist.json) |
+| Mist | 211038 | [211038-mist.json](./211038-mist.json) |
 | Mist | 343840 | [343840-mist.json](./343840-mist.json) |
 | Mist | 349266 | [349266-mist.json](./349266-mist.json) |
 | Mist Bouncer | 63264 | [63264-mist-bouncer.json](./63264-mist-bouncer.json) |
@@ -12858,6 +12860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morningstar | 254446 | [254446-morningstar.json](./254446-morningstar.json) |
 | Morningstar | 415929 | [415929-morningstar.json](./415929-morningstar.json) |
 | Morningtide Motel | 318970 | [318970-morningtide-motel.json](./318970-morningtide-motel.json) |
+| Morodashi Sumo | 211046 | [211046-morodashi-sumo.json](./211046-morodashi-sumo.json) |
 | Moroi | 137050 | [137050-moroi.json](./137050-moroi.json) |
 | Morok | 123972 | [123972-morok.json](./123972-morok.json) |
 | Morph | 13053 | [13053-morph.json](./13053-morph.json) |
@@ -15189,6 +15192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Brother the Sacrifice | 123643 | [123643-my-brother-the-sacrifice.json](./123643-my-brother-the-sacrifice.json) |
 | My Brute | 67882 | [67882-my-brute.json](./67882-my-brute.json) |
 | My Bullied Bride | 112950 | [112950-my-bullied-bride.json](./112950-my-bullied-bride.json) |
+| My Bunny Girl | 211068 | [211068-my-bunny-girl.json](./211068-my-bunny-girl.json) |
 | My Business | 152154 | [152154-my-business.json](./152154-my-business.json) |
 | My Butler | 32274 | [32274-my-butler.json](./32274-my-butler.json) |
 | My Café Manager Simulator | 326462 | [326462-my-cafe-manager-simulator.json](./326462-my-cafe-manager-simulator.json) |
@@ -15264,6 +15268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Cute Unicorns: Coloring Book | 212272 | [212272-my-cute-unicorns-coloring-book.json](./212272-my-cute-unicorns-coloring-book.json) |
 | My Cute, Pure Boyfriend | 303274 | [303274-my-cute-pure-boyfriend.json](./303274-my-cute-pure-boyfriend.json) |
 | My Cute, Pure Boyfriend 2 | 303294 | [303294-my-cute-pure-boyfriend-2.json](./303294-my-cute-pure-boyfriend-2.json) |
+| My Dad Left Me | 211054 | [211054-my-dad-left-me.json](./211054-my-dad-left-me.json) |
 | My Daddy, My Christmas | 266140 | [266140-my-daddy-my-christmas.json](./266140-my-daddy-my-christmas.json) |
 | My Daily Pets | 270976 | [270976-my-daily-pets.json](./270976-my-daily-pets.json) |
 | My Dangerous Life | 156700 | [156700-my-dangerous-life.json](./156700-my-dangerous-life.json) |
