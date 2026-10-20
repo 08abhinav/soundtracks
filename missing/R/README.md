@@ -2422,11 +2422,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealRTCW: Agency Weapon Pack | 323254 | [323254-realrtcw-agency-weapon-pack.json](./323254-realrtcw-agency-weapon-pack.json) |
 | Realshot | 81642 | [81642-realshot.json](./81642-realshot.json) |
 | RealSports Baseball | 18416 | [18416-realsports-baseball.json](./18416-realsports-baseball.json) |
+| RealSports Baseball | 239513 | [239513-realsports-baseball.json](./239513-realsports-baseball.json) |
+| RealSports Basketball | 239514 | [239514-realsports-basketball.json](./239514-realsports-basketball.json) |
 | RealSports Basketball | 40700 | [40700-realsports-basketball.json](./40700-realsports-basketball.json) |
 | RealSports Boxing | 18417 | [18417-realsports-boxing.json](./18417-realsports-boxing.json) |
 | RealSports Football | 18418 | [18418-realsports-football.json](./18418-realsports-football.json) |
+| RealSports Football | 239515 | [239515-realsports-football.json](./239515-realsports-football.json) |
 | RealSports Tennis | 18419 | [18419-realsports-tennis.json](./18419-realsports-tennis.json) |
+| RealSports Tennis | 239516 | [239516-realsports-tennis.json](./239516-realsports-tennis.json) |
 | RealSports Volleyball | 18420 | [18420-realsports-volleyball.json](./18420-realsports-volleyball.json) |
+| RealSports Volleyball | 239517 | [239517-realsports-volleyball.json](./239517-realsports-volleyball.json) |
 | Realtime Mining Simulator | 376191 | [376191-realtime-mining-simulator.json](./376191-realtime-mining-simulator.json) |
 | Realtor | 273445 | [273445-realtor.json](./273445-realtor.json) |
 | Reanimal: Collector's Edition | 378339 | [378339-reanimal-collectors-edition.json](./378339-reanimal-collectors-edition.json) |
