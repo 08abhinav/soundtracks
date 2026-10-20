@@ -1594,11 +1594,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Archives | 294166 | [294166-paranormal-archives.json](./294166-paranormal-archives.json) |
 | Paranormal Bundle | 164791 | [164791-paranormal-bundle.json](./164791-paranormal-bundle.json) |
 | Paranormal Capture Investigation | 276187 | [276187-paranormal-capture-investigation.json](./276187-paranormal-capture-investigation.json) |
+| ParaNormal Commute | 237234 | [237234-paranormal-commute.json](./237234-paranormal-commute.json) |
 | Paranormal Detective: Escape from the 80's | 120813 | [120813-paranormal-detective-escape-from-the-80s.json](./120813-paranormal-detective-escape-from-the-80s.json) |
 | Paranormal Detective: Escape from the 90's | 152081 | [152081-paranormal-detective-escape-from-the-90s.json](./152081-paranormal-detective-escape-from-the-90s.json) |
 | Paranormal Enteties | 149367 | [149367-paranormal-enteties.json](./149367-paranormal-enteties.json) |
 | Paranormal Entities | 177402 | [177402-paranormal-entities.json](./177402-paranormal-entities.json) |
 | Paranormal Escape | 69380 | [69380-paranormal-escape.json](./69380-paranormal-escape.json) |
+| Paranormal Fear | 237227 | [237227-paranormal-fear.json](./237227-paranormal-fear.json) |
 | Paranormal Files: Chaos Weekend | 416704 | [416704-paranormal-files-chaos-weekend.json](./416704-paranormal-files-chaos-weekend.json) |
 | Paranormal Files: Chaos Weekend - Collector's Edition | 358094 | [358094-paranormal-files-chaos-weekend-collectors-edition.json](./358094-paranormal-files-chaos-weekend-collectors-edition.json) |
 | Paranormal Files: Counterpart - Collector's Edition | 337238 | [337238-paranormal-files-counterpart-collectors-edition.json](./337238-paranormal-files-counterpart-collectors-edition.json) |
@@ -6738,6 +6740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plague Masters | 154012 | [154012-plague-masters.json](./154012-plague-masters.json) |
 | Plague of Athens VR | 327895 | [327895-plague-of-athens-vr.json](./327895-plague-of-athens-vr.json) |
 | Plague of Days | 118322 | [118322-plague-of-days.json](./118322-plague-of-days.json) |
+| Plague of Yamorn | 237230 | [237230-plague-of-yamorn.json](./237230-plague-of-yamorn.json) |
 | Plague Squad | 113873 | [113873-plague-squad.json](./113873-plague-squad.json) |
 | Plague Universe | 246884 | [246884-plague-universe.json](./246884-plague-universe.json) |
 | Plague: London 1665 | 244733 | [244733-plague-london-1665.json](./244733-plague-london-1665.json) |
@@ -11110,6 +11113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prisoners | 285470 | [285470-prisoners.json](./285470-prisoners.json) |
 | Prisoners Chess | 416713 | [416713-prisoners-chess.json](./416713-prisoners-chess.json) |
 | Prisoners of Ulag'Bol | 333358 | [333358-prisoners-of-ulagbol.json](./333358-prisoners-of-ulagbol.json) |
+| Prisonfall | 237203 | [237203-prisonfall.json](./237203-prisonfall.json) |
 | Prisonnier II | 143437 | [143437-prisonnier-ii.json](./143437-prisonnier-ii.json) |
 | Prisonscape | 61560 | [61560-prisonscape.json](./61560-prisonscape.json) |
 | PrisonSoul: Reunion | 296456 | [296456-prisonsoul-reunion.json](./296456-prisonsoul-reunion.json) |
@@ -12307,6 +12311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prop Revolt | 416793 | [416793-prop-revolt.json](./416793-prop-revolt.json) |
 | Prop Sumo | 355620 | [355620-prop-sumo.json](./355620-prop-sumo.json) |
 | Propa. | 326255 | [326255-propa.json](./326255-propa.json) |
+| Propaganda Inc. | 237225 | [237225-propaganda-inc.json](./237225-propaganda-inc.json) |
 | Propaganda Llama | 111476 | [111476-propaganda-llama.json](./111476-propaganda-llama.json) |
 | Propaganda vs. Zombies 2 | 391742 | [391742-propaganda-vs-zombies-2.json](./391742-propaganda-vs-zombies-2.json) |
 | Propagate | 366218 | [366218-propagate.json](./366218-propagate.json) |
