@@ -5761,6 +5761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School Simulator 2017 | 286757 | [286757-high-school-simulator-2017.json](./286757-high-school-simulator-2017.json) |
 | High School Story | 39189 | [39189-high-school-story.json](./39189-high-school-story.json) |
 | High School Survival | 281945 | [281945-high-school-survival.json](./281945-high-school-survival.json) |
+| High School Vampire Girlfriend | 206003 | [206003-high-school-vampire-girlfriend.json](./206003-high-school-vampire-girlfriend.json) |
 | High School: Bisexual Experience | 106590 | [106590-high-school-bisexual-experience.json](./106590-high-school-bisexual-experience.json) |
 | High Sea Saga | 202849 | [202849-high-sea-saga.json](./202849-high-sea-saga.json) |
 | High Sea Saga DX | 250793 | [250793-high-sea-saga-dx.json](./250793-high-sea-saga-dx.json) |
