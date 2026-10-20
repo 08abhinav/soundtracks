@@ -815,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale's Casino Escape | 130711 | [130711-tales-casino-escape.json](./130711-tales-casino-escape.json) |
 | Taleans Hansel and Gretel story | 98575 | [98575-taleans-hansel-and-gretel-story.json](./98575-taleans-hansel-and-gretel-story.json) |
 | Talebuilder | 382305 | [382305-talebuilder.json](./382305-talebuilder.json) |
+| Talent Club: Match 3 Puzzle | 224939 | [224939-talent-club-match-3-puzzle.json](./224939-talent-club-match-3-puzzle.json) |
 | Talent Not Included | 32469 | [32469-talent-not-included.json](./32469-talent-not-included.json) |
 | Talented | 260636 | [260636-talented.json](./260636-talented.json) |
 | Talentless. | 229656 | [229656-talentless.json](./229656-talentless.json) |
@@ -9075,6 +9076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Lodge | 392476 | [392476-the-last-lodge.json](./392476-the-last-lodge.json) |
 | The Last Login | 406897 | [406897-the-last-login.json](./406897-the-last-login.json) |
 | The Last Look | 32871 | [32871-the-last-look.json](./32871-the-last-look.json) |
+| The Last Lover | 224973 | [224973-the-last-lover.json](./224973-the-last-lover.json) |
 | The Last Lunch | 413906 | [413906-the-last-lunch.json](./413906-the-last-lunch.json) |
 | The Last Mage | 350430 | [350430-the-last-mage.json](./350430-the-last-mage.json) |
 | The Last Man Survivor | 258529 | [258529-the-last-man-survivor.json](./258529-the-last-man-survivor.json) |
@@ -14433,6 +14435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wolf and the Blood Moon | 362213 | [362213-the-wolf-and-the-blood-moon.json](./362213-the-wolf-and-the-blood-moon.json) |
 | The Wolf Is Dead | 188972 | [188972-the-wolf-is-dead.json](./188972-the-wolf-is-dead.json) |
 | The Wolf Wears Red | 409844 | [409844-the-wolf-wears-red.json](./409844-the-wolf-wears-red.json) |
+| The Wolf Within | 224979 | [224979-the-wolf-within.json](./224979-the-wolf-within.json) |
 | The Wolf: Online RPG Simulator | 86796 | [86796-the-wolf-online-rpg-simulator.json](./86796-the-wolf-online-rpg-simulator.json) |
 | The Wolf's Bite | 28215 | [28215-the-wolfs-bite.json](./28215-the-wolfs-bite.json) |
 | The Wolf's Den | 154082 | [154082-the-wolfs-den.json](./154082-the-wolfs-den.json) |
@@ -14665,6 +14668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheBoll | 345033 | [345033-theboll.json](./345033-theboll.json) |
 | TheBootCamp | 195219 | [195219-thebootcamp.json](./195219-thebootcamp.json) |
 | TheC64 Mini: Black Edition | 360591 | [360591-thec64-mini-black-edition.json](./360591-thec64-mini-black-edition.json) |
+| TheCube | 224935 | [224935-thecube.json](./224935-thecube.json) |
 | TheDay | 292935 | [292935-theday.json](./292935-theday.json) |
 | TheDrippingSound | 392494 | [392494-thedrippingsound.json](./392494-thedrippingsound.json) |
 | TheFirstClass VR | 74538 | [74538-thefirstclass-vr.json](./74538-thefirstclass-vr.json) |
@@ -17458,6 +17462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeSplitters: Future Perfect | 2144 | [2144-timesplitters-future-perfect.json](./2144-timesplitters-future-perfect.json) |
 | TimeSplitters: Future Perfect | 317416 | [317416-timesplitters-future-perfect.json](./317416-timesplitters-future-perfect.json) |
 | Timestamps: Lost Love | 310041 | [310041-timestamps-lost-love.json](./310041-timestamps-lost-love.json) |
+| Timestamps: Unconditional Love | 224961 | [224961-timestamps-unconditional-love.json](./224961-timestamps-unconditional-love.json) |
 | TimeTekker | 100423 | [100423-timetekker.json](./100423-timetekker.json) |
 | TimeTrade | 177782 | [177782-timetrade.json](./177782-timetrade.json) |
 | TimeTrain | 328629 | [328629-timetrain.json](./328629-timetrain.json) |
@@ -17984,6 +17989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tittivillus Teaches Typning | 397184 | [397184-tittivillus-teaches-typning.json](./397184-tittivillus-teaches-typning.json) |
 | TitTok 2 | 173222 | [173222-tittok-2.json](./173222-tittok-2.json) |
 | TitTok 3 | 202124 | [202124-tittok-3.json](./202124-tittok-3.json) |
+| TitTok Kitty | 224970 | [224970-tittok-kitty.json](./224970-tittok-kitty.json) |
 | TitTok Kitty: Pussy | 235183 | [235183-tittok-kitty-pussy.json](./235183-tittok-kitty-pussy.json) |
 | Titty Crush | 99701 | [99701-titty-crush.json](./99701-titty-crush.json) |
 | Titty World | 334675 | [334675-titty-world.json](./334675-titty-world.json) |
