@@ -4884,6 +4884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | With Loneliness | 116932 | [116932-with-loneliness.json](./116932-with-loneliness.json) |
 | With Mountain Smiling | 250271 | [250271-with-mountain-smiling.json](./250271-with-mountain-smiling.json) |
 | With My Buddy | 339826 | [339826-with-my-buddy.json](./339826-with-my-buddy.json) |
+| With My Cat | 233911 | [233911-with-my-cat.json](./233911-with-my-cat.json) |
 | With My Little Eye | 362482 | [362482-with-my-little-eye.json](./362482-with-my-little-eye.json) |
 | With Seven Cats | 184118 | [184118-with-seven-cats.json](./184118-with-seven-cats.json) |
 | With Shining Eyes | 278957 | [278957-with-shining-eyes.json](./278957-with-shining-eyes.json) |
