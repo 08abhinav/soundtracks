@@ -2175,6 +2175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Net64+ | 135558 | [135558-net64.json](./135558-net64.json) |
 | Netabare ga Hageshisugiru RPG 2: Shinyuu no Shin no Sugata ha Daimaou | 335674 | [335674-netabare-ga-hageshisugiru-rpg-2-shinyuu-no-shin-no-sugata-ha-daimaou.json](./335674-netabare-ga-hageshisugiru-rpg-2-shinyuu-no-shin-no-sugata-ha-daimaou.json) |
 | Netabare ga Hageshisugiru RPG: Saigo no Teki no Shoutai ha Yuusha no Chichi | 335671 | [335671-netabare-ga-hageshisugiru-rpg-saigo-no-teki-no-shoutai-ha-yuusha-no-chichi.json](./335671-netabare-ga-hageshisugiru-rpg-saigo-no-teki-no-shoutai-ha-yuusha-no-chichi.json) |
+| NetaJump | 211058 | [211058-netajump.json](./211058-netajump.json) |
 | Netannad | 254568 | [254568-netannad.json](./254568-netannad.json) |
 | Netcode The Protogen | 356706 | [356706-netcode-the-protogen.json](./356706-netcode-the-protogen.json) |
 | Netcode Warriors | 290611 | [290611-netcode-warriors.json](./290611-netcode-warriors.json) |
@@ -2607,6 +2608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Swordsman | 212478 | [212478-new-swordsman.json](./212478-new-swordsman.json) |
 | New Tab | 184587 | [184587-new-tab.json](./184587-new-tab.json) |
 | New Tales from the Borderlands: Deluxe Edition | 214140 | [214140-new-tales-from-the-borderlands-deluxe-edition.json](./214140-new-tales-from-the-borderlands-deluxe-edition.json) |
+| New Tanks | 211070 | [211070-new-tanks.json](./211070-new-tanks.json) |
 | New Terra | 189077 | [189077-new-terra.json](./189077-new-terra.json) |
 | New Town Needs Tamer | 216989 | [216989-new-town-needs-tamer.json](./216989-new-town-needs-tamer.json) |
 | New Unou Kids Wii | 268393 | [268393-new-unou-kids-wii.json](./268393-new-unou-kids-wii.json) |
@@ -3278,6 +3280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Noodles | 408229 | [408229-night-noodles.json](./408229-night-noodles.json) |
 | Night O'Clock | 364565 | [364565-night-oclock.json](./364565-night-oclock.json) |
 | Night of Carnage | 240074 | [240074-night-of-carnage.json](./240074-night-of-carnage.json) |
+| Night of Disturbance | 211027 | [211027-night-of-disturbance.json](./211027-night-of-disturbance.json) |
 | Night of Full Moon | 104096 | [104096-night-of-full-moon.json](./104096-night-of-full-moon.json) |
 | Night of Full Moon: Apothecary's Blessing | 170462 | [170462-night-of-full-moon-apothecarys-blessing.json](./170462-night-of-full-moon-apothecarys-blessing.json) |
 | Night of Full Moon: Choice of Carpenter | 170463 | [170463-night-of-full-moon-choice-of-carpenter.json](./170463-night-of-full-moon-choice-of-carpenter.json) |
