@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Café Guile | 364495 | [364495-cafe-guile.json](./364495-cafe-guile.json) |
 | Cafe Haven | 406157 | [406157-cafe-haven.json](./406157-cafe-haven.json) |
 | Cafe in the Clouds | 175923 | [175923-cafe-in-the-clouds.json](./175923-cafe-in-the-clouds.json) |
+| Cafe ma Cherie: Otome of Ikemen Cafe | 254947 | [254947-cafe-ma-cherie-otome-of-ikemen-cafe.json](./254947-cafe-ma-cherie-otome-of-ikemen-cafe.json) |
 | Café Machina | 414295 | [414295-cafe-machina.json](./414295-cafe-machina.json) |
 | Cafe Mahjongg | 52720 | [52720-cafe-mahjongg.json](./52720-cafe-mahjongg.json) |
 | Cafe Maid | 243764 | [243764-cafe-maid.json](./243764-cafe-maid.json) |
@@ -2145,6 +2146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cars | 243204 | [243204-cars.json](./243204-cars.json) |
 | Cars | 243205 | [243205-cars.json](./243205-cars.json) |
 | Cars | 243206 | [243206-cars.json](./243206-cars.json) |
+| Cars | 254933 | [254933-cars.json](./254933-cars.json) |
 | Cars | 295142 | [295142-cars.json](./295142-cars.json) |
 | Cars | 3849 | [3849-cars.json](./3849-cars.json) |
 | Cars 2 | 210274 | [210274-cars-2.json](./210274-cars-2.json) |
@@ -11889,6 +11891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craftica | 413011 | [413011-craftica.json](./413011-craftica.json) |
 | Craftimals: Build to the Sun | 65250 | [65250-craftimals-build-to-the-sun.json](./65250-craftimals-build-to-the-sun.json) |
 | Crafting and Building: Exploration Craft | 99108 | [99108-crafting-and-building-exploration-craft.json](./99108-crafting-and-building-exploration-craft.json) |
+| Crafting Block World: Magic Dungeons Adventure | 254922 | [254922-crafting-block-world-magic-dungeons-adventure.json](./254922-crafting-block-world-magic-dungeons-adventure.json) |
 | Crafting Combat | 272270 | [272270-crafting-combat.json](./272270-crafting-combat.json) |
 | Crafting Dead | 55517 | [55517-crafting-dead.json](./55517-crafting-dead.json) |
 | Crafting in Berxley | 412982 | [412982-crafting-in-berxley.json](./412982-crafting-in-berxley.json) |
