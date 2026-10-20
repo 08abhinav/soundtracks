@@ -8634,6 +8634,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Taco | 205240 | [205240-the-jumping-taco.json](./205240-the-jumping-taco.json) |
 | The Jumping Taco: Turbo | 210748 | [210748-the-jumping-taco-turbo.json](./210748-the-jumping-taco-turbo.json) |
 | The Jumping Toast Tower | 328440 | [328440-the-jumping-toast-tower.json](./328440-the-jumping-toast-tower.json) |
+| The Jumping Tofu | 226087 | [226087-the-jumping-tofu.json](./226087-the-jumping-tofu.json) |
+| The Jumping Tofu: Turbo | 226088 | [226088-the-jumping-tofu-turbo.json](./226088-the-jumping-tofu-turbo.json) |
 | The Jumping Wrap: Turbo | 221233 | [221233-the-jumping-wrap-turbo.json](./221233-the-jumping-wrap-turbo.json) |
 | The Jungle | 82395 | [82395-the-jungle.json](./82395-the-jungle.json) |
 | The Jungle Book | 248190 | [248190-the-jungle-book.json](./248190-the-jungle-book.json) |
@@ -11321,6 +11323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Predecessor | 382584 | [382584-the-predecessor.json](./382584-the-predecessor.json) |
 | The Premiership | 71787 | [71787-the-premiership.json](./71787-the-premiership.json) |
 | The Preschoolers: Season 1 | 221085 | [221085-the-preschoolers-season-1.json](./221085-the-preschoolers-season-1.json) |
+| The Preschoolers: Season 1 - Deluxe Edition | 226092 | [226092-the-preschoolers-season-1-deluxe-edition.json](./226092-the-preschoolers-season-1-deluxe-edition.json) |
 | The Preschoolers: Season 1 - Extended Edition | 233006 | [233006-the-preschoolers-season-1-extended-edition.json](./233006-the-preschoolers-season-1-extended-edition.json) |
 | The Preschoolers: Season 1 Christmas Edition | 231233 | [231233-the-preschoolers-season-1-christmas-edition.json](./231233-the-preschoolers-season-1-christmas-edition.json) |
 | The Preschoolers: Season 1 Ultimate Edition | 231227 | [231227-the-preschoolers-season-1-ultimate-edition.json](./231227-the-preschoolers-season-1-ultimate-edition.json) |
@@ -13776,6 +13779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Typing of the Dead: Overkill - Shakespeare DLC | 53869 | [53869-the-typing-of-the-dead-overkill-shakespeare-dlc.json](./53869-the-typing-of-the-dead-overkill-shakespeare-dlc.json) |
 | The Typing of the Dead: Overkill - Silver Screen DLC | 53868 | [53868-the-typing-of-the-dead-overkill-silver-screen-dlc.json](./53868-the-typing-of-the-dead-overkill-silver-screen-dlc.json) |
 | The Typing of The Dead: Overkill Collection | 53787 | [53787-the-typing-of-the-dead-overkill-collection.json](./53787-the-typing-of-the-dead-overkill-collection.json) |
+| The Tyrant's Bodyguard 2: Restoration | 226079 | [226079-the-tyrants-bodyguard-2-restoration.json](./226079-the-tyrants-bodyguard-2-restoration.json) |
 | The Ugly Christmas Sweater Game | 126995 | [126995-the-ugly-christmas-sweater-game.json](./126995-the-ugly-christmas-sweater-game.json) |
 | The Ugly Duckling | 206777 | [206777-the-ugly-duckling.json](./206777-the-ugly-duckling.json) |
 | The Ugly Ducling | 228078 | [228078-the-ugly-ducling.json](./228078-the-ugly-ducling.json) |
@@ -20068,6 +20072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Spell Bubble: Diao ye zong - Song Pack | 209169 | [209169-touhou-spell-bubble-diao-ye-zong-song-pack.json](./209169-touhou-spell-bubble-diao-ye-zong-song-pack.json) |
 | Touhou Spell Bubble: Liz Triangle Song Pack | 209355 | [209355-touhou-spell-bubble-liz-triangle-song-pack.json](./209355-touhou-spell-bubble-liz-triangle-song-pack.json) |
 | Touhou Spell Bubble: Rhythm Game Song Pack | 209443 | [209443-touhou-spell-bubble-rhythm-game-song-pack.json](./209443-touhou-spell-bubble-rhythm-game-song-pack.json) |
+| Touhou Spell Bubble: Rhythm Game Song Pack Vol.2 | 226059 | [226059-touhou-spell-bubble-rhythm-game-song-pack-vol-2.json](./226059-touhou-spell-bubble-rhythm-game-song-pack-vol-2.json) |
 | Touhou Spell Bubble: Scarlet Devil Land Arrange Song Pack Vol.2 | 209468 | [209468-touhou-spell-bubble-scarlet-devil-land-arrange-song-pack-vol-2.json](./209468-touhou-spell-bubble-scarlet-devil-land-arrange-song-pack-vol-2.json) |
 | Touhou Spell Bubble: Side Story Pack - Yukari Arc | 209120 | [209120-touhou-spell-bubble-side-story-pack-yukari-arc.json](./209120-touhou-spell-bubble-side-story-pack-yukari-arc.json) |
 | Touhou Spell Bubble: Side Story Pack Sanae Arc | 144773 | [144773-touhou-spell-bubble-side-story-pack-sanae-arc.json](./144773-touhou-spell-bubble-side-story-pack-sanae-arc.json) |
