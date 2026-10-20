@@ -1972,6 +1972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of Redemption | 58744 | [58744-way-of-redemption.json](./58744-way-of-redemption.json) |
 | Way of Retribution: Legend of Abyss | 197339 | [197339-way-of-retribution-legend-of-abyss.json](./197339-way-of-retribution-legend-of-abyss.json) |
 | Way of Robot | 356301 | [356301-way-of-robot.json](./356301-way-of-robot.json) |
+| Way of Tanks | 246253 | [246253-way-of-tanks.json](./246253-way-of-tanks.json) |
 | Way of the Cossack | 25550 | [25550-way-of-the-cossack.json](./25550-way-of-the-cossack.json) |
 | Way of the Dogg | 20109 | [20109-way-of-the-dogg.json](./20109-way-of-the-dogg.json) |
 | Way of the Exploding Stick | 290866 | [290866-way-of-the-exploding-stick.json](./290866-way-of-the-exploding-stick.json) |
@@ -3236,6 +3237,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's Worldo?! | 229072 | [229072-wheres-worldo.json](./229072-wheres-worldo.json) |
 | Wherein She Completely Cuts Herself From Reality: A Parabolic Emotion from recovery into despair | 350977 | [350977-wherein-she-completely-cuts-herself-from-reality-a-parabolic-emotion-from-recovery-into-despair.json](./350977-wherein-she-completely-cuts-herself-from-reality-a-parabolic-emotion-from-recovery-into-despair.json) |
 | WhereTaken | 323198 | [323198-wheretaken.json](./323198-wheretaken.json) |
+| WhereTaken Classic | 246242 | [246242-wheretaken-classic.json](./246242-wheretaken-classic.json) |
+| WhereTaken USA | 246241 | [246241-wheretaken-usa.json](./246241-wheretaken-usa.json) |
 | Wherever You Get Your Podcasts | 397652 | [397652-wherever-you-get-your-podcasts.json](./397652-wherever-you-get-your-podcasts.json) |
 | Wherever You Hike | 307369 | [307369-wherever-you-hike.json](./307369-wherever-you-hike.json) |
 | Which Came First? | 180663 | [180663-which-came-first.json](./180663-which-came-first.json) |
