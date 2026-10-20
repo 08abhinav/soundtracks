@@ -867,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales from the Under-Realm: Hazel | 149401 | [149401-tales-from-the-under-realm-hazel.json](./149401-tales-from-the-under-realm-hazel.json) |
 | Tales From The Under-Realm: Hazel | 298566 | [298566-tales-from-the-under-realm-hazel.json](./298566-tales-from-the-under-realm-hazel.json) |
 | Tales from the Watchtower: The Conjurer | 418553 | [418553-tales-from-the-watchtower-the-conjurer.json](./418553-tales-from-the-watchtower-the-conjurer.json) |
+| Tales From Toyotoki: Arrival of the Witch | 206553 | [206553-tales-from-toyotoki-arrival-of-the-witch.json](./206553-tales-from-toyotoki-arrival-of-the-witch.json) |
 | Tales From Windy Meadow | 55114 | [55114-tales-from-windy-meadow.json](./55114-tales-from-windy-meadow.json) |
 | Tales In Text: Multiplayer Immersive Adventures | 388281 | [388281-tales-in-text-multiplayer-immersive-adventures.json](./388281-tales-in-text-multiplayer-immersive-adventures.json) |
 | Tales Noir | 196591 | [196591-tales-noir.json](./196591-tales-noir.json) |
@@ -15474,6 +15475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three's A Crowd | 256841 | [256841-threes-a-crowd.json](./256841-threes-a-crowd.json) |
 | Threeboard | 401929 | [401929-threeboard.json](./401929-threeboard.json) |
 | Threefold Recital | 327486 | [327486-threefold-recital.json](./327486-threefold-recital.json) |
+| Threejs | 206575 | [206575-threejs.json](./206575-threejs.json) |
 | ThreeStep | 120962 | [120962-threestep.json](./120962-threestep.json) |
 | Threewave | 306178 | [306178-threewave.json](./306178-threewave.json) |
 | Threewave Capture | 306175 | [306175-threewave-capture.json](./306175-threewave-capture.json) |
@@ -18642,6 +18644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Chronos | 101059 | [101059-tokyo-chronos.json](./101059-tokyo-chronos.json) |
 | Tokyo Chronos & Altedus: Beyond Chronos Twin Pack | 308616 | [308616-tokyo-chronos-and-altedus-beyond-chronos-twin-pack.json](./308616-tokyo-chronos-and-altedus-beyond-chronos-twin-pack.json) |
 | Tokyo City Nights | 409080 | [409080-tokyo-city-nights.json](./409080-tokyo-city-nights.json) |
+| Tokyo Coffee Pandechika | 206552 | [206552-tokyo-coffee-pandechika.json](./206552-tokyo-coffee-pandechika.json) |
 | Tokyo College Girls: The Nerd & Queen Bees | 345594 | [345594-tokyo-college-girls-the-nerd-and-queen-bees.json](./345594-tokyo-college-girls-the-nerd-and-queen-bees.json) |
 | Tokyo Cooking: Complete + | 328822 | [328822-tokyo-cooking-complete.json](./328822-tokyo-cooking-complete.json) |
 | Tokyo Cooking: Definitive Edition | 328799 | [328799-tokyo-cooking-definitive-edition.json](./328799-tokyo-cooking-definitive-edition.json) |
@@ -24787,6 +24790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twice Dead | 349082 | [349082-twice-dead.json](./349082-twice-dead.json) |
 | Twice Go! Go! Fightin' | 115763 | [115763-twice-go-go-fightin.json](./115763-twice-go-go-fightin.json) |
 | Twig & Flipper | 152453 | [152453-twig-and-flipper.json](./152453-twig-and-flipper.json) |
+| Twilight | 206534 | [206534-twilight.json](./206534-twilight.json) |
 | Twilight Apartment | 331887 | [331887-twilight-apartment.json](./331887-twilight-apartment.json) |
 | Twilight Array | 267790 | [267790-twilight-array.json](./267790-twilight-array.json) |
 | Twilight Blood | 227898 | [227898-twilight-blood.json](./227898-twilight-blood.json) |
