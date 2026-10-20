@@ -5084,6 +5084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien vs Predator: The Last of His Clan | 48965 | [48965-alien-vs-predator-the-last-of-his-clan.json](./48965-alien-vs-predator-the-last-of-his-clan.json) |
 | Alien vs. Predator | 227688 | [227688-alien-vs-predator.json](./227688-alien-vs-predator.json) |
 | Alien Wall | 169152 | [169152-alien-wall.json](./169152-alien-wall.json) |
+| Alien War | 213802 | [213802-alien-war.json](./213802-alien-war.json) |
 | Alien War Girl | 111072 | [111072-alien-war-girl.json](./111072-alien-war-girl.json) |
 | Alien Wars | 241241 | [241241-alien-wars.json](./241241-alien-wars.json) |
 | Alien Weapon Test Grounds | 310209 | [310209-alien-weapon-test-grounds.json](./310209-alien-weapon-test-grounds.json) |
@@ -9211,6 +9212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Megablast | 253224 | [253224-arcade-archives-megablast.json](./253224-arcade-archives-megablast.json) |
 | Arcade Archives: Metal Black | 225889 | [225889-arcade-archives-metal-black.json](./225889-arcade-archives-metal-black.json) |
 | Arcade Archives: Metamorphic Force | 320940 | [320940-arcade-archives-metamorphic-force.json](./320940-arcade-archives-metamorphic-force.json) |
+| Arcade Archives: Metro-Cross | 213803 | [213803-arcade-archives-metro-cross.json](./213803-arcade-archives-metro-cross.json) |
 | Arcade Archives: Midnight Landing | 375404 | [375404-arcade-archives-midnight-landing.json](./375404-arcade-archives-midnight-landing.json) |
 | Arcade Archives: Mirai Ninja | 186563 | [186563-arcade-archives-mirai-ninja.json](./186563-arcade-archives-mirai-ninja.json) |
 | Arcade Archives: Moon Patrol | 95050 | [95050-arcade-archives-moon-patrol.json](./95050-arcade-archives-moon-patrol.json) |
