@@ -3900,6 +3900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Sea Hunter 2 | 95989 | [95989-deep-sea-hunter-2.json](./95989-deep-sea-hunter-2.json) |
 | Deep Sea Marble Pop | 146901 | [146901-deep-sea-marble-pop.json](./146901-deep-sea-marble-pop.json) |
 | Deep Sea Puzzle | 382453 | [382453-deep-sea-puzzle.json](./382453-deep-sea-puzzle.json) |
+| Deep Sea Rhapsody | 250776 | [250776-deep-sea-rhapsody.json](./250776-deep-sea-rhapsody.json) |
 | Deep Sea Sweep | 250257 | [250257-deep-sea-sweep.json](./250257-deep-sea-sweep.json) |
 | Deep Sea Trophy Fishing | 410802 | [410802-deep-sea-trophy-fishing.json](./410802-deep-sea-trophy-fishing.json) |
 | Deep Sea Tycoon | 50451 | [50451-deep-sea-tycoon.json](./50451-deep-sea-tycoon.json) |
@@ -8294,6 +8295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Docking Bay | 374212 | [374212-docking-bay.json](./374212-docking-bay.json) |
 | Docking Donuts2 in 1 | 233225 | [233225-docking-donuts2-in-1.json](./233225-docking-donuts2-in-1.json) |
 | Docking Doom | 271991 | [271991-docking-doom.json](./271991-docking-doom.json) |
+| Docking Ships | 250787 | [250787-docking-ships.json](./250787-docking-ships.json) |
 | Dockside Dreams: Fish & Cook Simulator | 373015 | [373015-dockside-dreams-fish-and-cook-simulator.json](./373015-dockside-dreams-fish-and-cook-simulator.json) |
 | Docomodake Boing! | 72973 | [72973-docomodake-boing.json](./72973-docomodake-boing.json) |
 | Doctor Arcana and The Secret of Shadowspire | 271076 | [271076-doctor-arcana-and-the-secret-of-shadowspire.json](./271076-doctor-arcana-and-the-secret-of-shadowspire.json) |
@@ -11871,6 +11873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreaming Treat | 146517 | [146517-dreaming-treat.json](./146517-dreaming-treat.json) |
 | Dreaming with You | 267474 | [267474-dreaming-with-you.json](./267474-dreaming-with-you.json) |
 | Dreaming Worlds | 201516 | [201516-dreaming-worlds.json](./201516-dreaming-worlds.json) |
+| Dreamio: AI-Powered Adventures | 250784 | [250784-dreamio-ai-powered-adventures.json](./250784-dreamio-ai-powered-adventures.json) |
 | DreamIsland | 207357 | [207357-dreamisland.json](./207357-dreamisland.json) |
 | Dreamjob: Programmer | 132801 | [132801-dreamjob-programmer.json](./132801-dreamjob-programmer.json) |
 | Dreamkiller | 11331 | [11331-dreamkiller.json](./11331-dreamkiller.json) |
