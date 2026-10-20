@@ -2957,6 +2957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostbusters | 347005 | [347005-ghostbusters.json](./347005-ghostbusters.json) |
 | Ghostbusters | 4534 | [4534-ghostbusters.json](./4534-ghostbusters.json) |
 | Ghostbusters | 80815 | [80815-ghostbusters.json](./80815-ghostbusters.json) |
+| Ghostbusters Arcade | 221057 | [221057-ghostbusters-arcade.json](./221057-ghostbusters-arcade.json) |
 | Ghostbusters II | 14552 | [14552-ghostbusters-ii.json](./14552-ghostbusters-ii.json) |
 | Ghostbusters II | 14555 | [14555-ghostbusters-ii.json](./14555-ghostbusters-ii.json) |
 | Ghostbusters II | 218947 | [218947-ghostbusters-ii.json](./218947-ghostbusters-ii.json) |
@@ -2982,6 +2983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GhostCast | 169840 | [169840-ghostcast.json](./169840-ghostcast.json) |
 | GhostCatcher | 257961 | [257961-ghostcatcher.json](./257961-ghostcatcher.json) |
 | Ghostcon: Elementals | 247773 | [247773-ghostcon-elementals.json](./247773-ghostcon-elementals.json) |
+| Ghosted | 221033 | [221033-ghosted.json](./221033-ghosted.json) |
 | Ghosted | 418760 | [418760-ghosted.json](./418760-ghosted.json) |
 | Ghosteez | 276936 | [276936-ghosteez.json](./276936-ghosteez.json) |
 | Ghostflippers | 408722 | [408722-ghostflippers.json](./408722-ghostflippers.json) |
@@ -7920,6 +7922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gumball: School House Rush | 203209 | [203209-gumball-school-house-rush.json](./203209-gumball-school-house-rush.json) |
 | Gumbo | 40153 | [40153-gumbo.json](./40153-gumbo.json) |
 | Gumbo* and the Machine | 356397 | [356397-gumbo-and-the-machine.json](./356397-gumbo-and-the-machine.json) |
+| Gumboots Australia | 221023 | [221023-gumboots-australia.json](./221023-gumboots-australia.json) |
 | Gumbowl's Adventure | 292551 | [292551-gumbowls-adventure.json](./292551-gumbowls-adventure.json) |
 | Gumby vs. The Astrobots | 49297 | [49297-gumby-vs-the-astrobots.json](./49297-gumby-vs-the-astrobots.json) |
 | Gumchu Girl | 137682 | [137682-gumchu-girl.json](./137682-gumchu-girl.json) |
@@ -8483,6 +8486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guy Who Sells Jars | 353778 | [353778-guy-who-sells-jars.json](./353778-guy-who-sells-jars.json) |
 | Guy: By Hook or by Crook | 170266 | [170266-guy-by-hook-or-by-crook.json](./170266-guy-by-hook-or-by-crook.json) |
 | Guys with Magnets | 405741 | [405741-guys-with-magnets.json](./405741-guys-with-magnets.json) |
+| Gūzhùyīzhì de Míngtiān | 221048 | [221048-guzhuyizhi-de-mingtian.json](./221048-guzhuyizhi-de-mingtian.json) |
 | Guzzler | 13865 | [13865-guzzler.json](./13865-guzzler.json) |
 | Gverse | 236913 | [236913-gverse.json](./236913-gverse.json) |
 | GWARP | 395152 | [395152-gwarp.json](./395152-gwarp.json) |
