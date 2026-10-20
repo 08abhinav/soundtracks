@@ -1287,6 +1287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Vampire | 136834 | [136834-omega-vampire.json](./136834-omega-vampire.json) |
 | Omega Vanitas | 416607 | [416607-omega-vanitas.json](./416607-omega-vanitas.json) |
 | Omega Warp | 218403 | [218403-omega-warp.json](./218403-omega-warp.json) |
+| Omega Zone | 237833 | [237833-omega-zone.json](./237833-omega-zone.json) |
 | Omega Zone | 291607 | [291607-omega-zone.json](./291607-omega-zone.json) |
 | Omega-Altro | 156117 | [156117-omega-altro.json](./156117-omega-altro.json) |
 | Omega: The Beginning | 117700 | [117700-omega-the-beginning.json](./117700-omega-the-beginning.json) |
@@ -4347,6 +4348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overwatch 2: Season 7 - Rise of the Darkness | 270044 | [270044-overwatch-2-season-7-rise-of-the-darkness.json](./270044-overwatch-2-season-7-rise-of-the-darkness.json) |
 | Overwatch: Game of the Year Edition | 21229 | [21229-overwatch-game-of-the-year-edition.json](./21229-overwatch-game-of-the-year-edition.json) |
 | Overwatch: Legendary Edition | 118848 | [118848-overwatch-legendary-edition.json](./118848-overwatch-legendary-edition.json) |
+| Overwatch: Loverwatch - Love Never Dies | 237797 | [237797-overwatch-loverwatch-love-never-dies.json](./237797-overwatch-loverwatch-love-never-dies.json) |
 | Overwatch: Reign of Talon - Season 1: Conquest | 388391 | [388391-overwatch-reign-of-talon-season-1-conquest.json](./388391-overwatch-reign-of-talon-season-1-conquest.json) |
 | Overwatch: Reign of Talon - Season 2: Summit | 398289 | [398289-overwatch-reign-of-talon-season-2-summit.json](./398289-overwatch-reign-of-talon-season-2-summit.json) |
 | Overwatch: Reign of Talon - Season 3: Into the Tigers Den | 406719 | [406719-overwatch-reign-of-talon-season-3-into-the-tigers-den.json](./406719-overwatch-reign-of-talon-season-3-into-the-tigers-den.json) |
