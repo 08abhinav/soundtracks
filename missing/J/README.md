@@ -249,7 +249,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jagged Alliance 2 Platinum | 53252 | [53252-jagged-alliance-2-platinum.json](./53252-jagged-alliance-2-platinum.json) |
 | Jagged Alliance 2: Unfinished Business | 51205 | [51205-jagged-alliance-2-unfinished-business.json](./51205-jagged-alliance-2-unfinished-business.json) |
 | Jagged Alliance 2: Wildfire | 10466 | [10466-jagged-alliance-2-wildfire.json](./10466-jagged-alliance-2-wildfire.json) |
-| Jagged Alliance 3 | 72767 | [72767-jagged-alliance-3.json](./72767-jagged-alliance-3.json) |
 | Jagged Alliance 3: Tactical Edition | 249259 | [249259-jagged-alliance-3-tactical-edition.json](./249259-jagged-alliance-3-tactical-edition.json) |
 | Jagged Alliance DS | 53254 | [53254-jagged-alliance-ds.json](./53254-jagged-alliance-ds.json) |
 | Jagged Alliance Online | 23554 | [23554-jagged-alliance-online.json](./23554-jagged-alliance-online.json) |
