@@ -4412,6 +4412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Magic | 45914 | [45914-max-magic.json](./45914-max-magic.json) |
 | Max Manos | 329599 | [329599-max-manos.json](./329599-max-manos.json) |
 | Max Manos 2 | 373291 | [373291-max-manos-2.json](./373291-max-manos-2.json) |
+| Max Massacre | 244634 | [244634-max-massacre.json](./244634-max-massacre.json) |
 | Max Mix Game | 46669 | [46669-max-mix-game.json](./46669-max-mix-game.json) |
 | Max on the Moon | 209536 | [209536-max-on-the-moon.json](./209536-max-on-the-moon.json) |
 | Max Payne | 133860 | [133860-max-payne.json](./133860-max-payne.json) |
