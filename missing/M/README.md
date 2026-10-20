@@ -493,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MadFut 25 | 327873 | [327873-madfut-25.json](./327873-madfut-25.json) |
 | Madgun | 241277 | [241277-madgun.json](./241277-madgun.json) |
 | Madhack | 140449 | [140449-madhack.json](./140449-madhack.json) |
+| Madhouse Madness | 247911 | [247911-madhouse-madness.json](./247911-madhouse-madness.json) |
 | Madhouse13 | 204553 | [204553-madhouse13.json](./204553-madhouse13.json) |
 | Madievals | 120378 | [120378-madievals.json](./120378-madievals.json) |
 | Madison | 164243 | [164243-madison.json](./164243-madison.json) |
@@ -706,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage's Legacy | 312162 | [312162-mages-legacy.json](./312162-mages-legacy.json) |
 | Mage's Maze Play: Inma no Doukutsu ni Idomu Boukensha | 175659 | [175659-mages-maze-play-inma-no-doukutsu-ni-idomu-boukensha.json](./175659-mages-maze-play-inma-no-doukutsu-ni-idomu-boukensha.json) |
 | Mageanoid | 312190 | [312190-mageanoid.json](./312190-mageanoid.json) |
+| Magecraft | 247913 | [247913-magecraft.json](./247913-magecraft.json) |
 | MageCraft | 244147 | [244147-magecraft.json](./244147-magecraft.json) |
 | Magefall | 210719 | [210719-magefall.json](./210719-magefall.json) |
 | Magehunter: Phoenix Flame | 250834 | [250834-magehunter-phoenix-flame.json](./250834-magehunter-phoenix-flame.json) |
@@ -7140,6 +7142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Angel | 37633 | [37633-metal-angel.json](./37633-metal-angel.json) |
 | Metal Angel 3 | 91961 | [91961-metal-angel-3.json](./91961-metal-angel-3.json) |
 | Metal Angel II | 37632 | [37632-metal-angel-ii.json](./37632-metal-angel-ii.json) |
+| Metal Ape Demo | 247888 | [247888-metal-ape-demo.json](./247888-metal-ape-demo.json) |
 | Metal Arms: Glitch in the System | 4004 | [4004-metal-arms-glitch-in-the-system.json](./4004-metal-arms-glitch-in-the-system.json) |
 | Metal Army War Revenge | 221714 | [221714-metal-army-war-revenge.json](./221714-metal-army-war-revenge.json) |
 | Metal Assault | 37375 | [37375-metal-assault.json](./37375-metal-assault.json) |
@@ -9359,6 +9362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper Collector 2 | 275090 | [275090-minesweeper-collector-2.json](./275090-minesweeper-collector-2.json) |
 | Minesweeper Deluxe | 88430 | [88430-minesweeper-deluxe.json](./88430-minesweeper-deluxe.json) |
 | Minesweeper Flags | 74419 | [74419-minesweeper-flags.json](./74419-minesweeper-flags.json) |
+| Minesweeper Girl | 247882 | [247882-minesweeper-girl.json](./247882-minesweeper-girl.json) |
 | Minesweeper Go | 395231 | [395231-minesweeper-go.json](./395231-minesweeper-go.json) |
 | Minesweeper Infinite | 291454 | [291454-minesweeper-infinite.json](./291454-minesweeper-infinite.json) |
 | Minesweeper Materialized | 37058 | [37058-minesweeper-materialized.json](./37058-minesweeper-materialized.json) |
@@ -10430,6 +10434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mix AI Animal Ultimate | 320369 | [320369-mix-ai-animal-ultimate.json](./320369-mix-ai-animal-ultimate.json) |
 | Mix Dunk: King of Basketball | 274884 | [274884-mix-dunk-king-of-basketball.json](./274884-mix-dunk-king-of-basketball.json) |
 | Mix Superstar | 262371 | [262371-mix-superstar.json](./262371-mix-superstar.json) |
+| Mix the Forgotten | 247872 | [247872-mix-the-forgotten.json](./247872-mix-the-forgotten.json) |
 | Mix Universe | 341015 | [341015-mix-universe.json](./341015-mix-universe.json) |
 | Mix-A-Max | 230929 | [230929-mix-a-max.json](./230929-mix-a-max.json) |
 | Mix-Sign: Girl with 3 Signs | 127845 | [127845-mix-sign-girl-with-3-signs.json](./127845-mix-sign-girl-with-3-signs.json) |
@@ -14739,6 +14744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutations | 300556 | [300556-mutations.json](./300556-mutations.json) |
 | Mutato Match | 34736 | [34736-mutato-match.json](./34736-mutato-match.json) |
 | Mute Crimson+ | 11843 | [11843-mute-crimson.json](./11843-mute-crimson.json) |
+| Muted | 247899 | [247899-muted.json](./247899-muted.json) |
 | Muteki Kyoujin Rozario kai | 377611 | [377611-muteki-kyoujin-rozario-kai.json](./377611-muteki-kyoujin-rozario-kai.json) |
 | Mutilate-a-Doll 2 | 95937 | [95937-mutilate-a-doll-2.json](./95937-mutilate-a-doll-2.json) |
 | Mutiny | 256879 | [256879-mutiny.json](./256879-mutiny.json) |
@@ -16057,6 +16063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: The Black Veil - Collector's Edition | 29794 | [29794-mystery-case-files-the-black-veil-collectors-edition.json](./29794-mystery-case-files-the-black-veil-collectors-edition.json) |
 | Mystery Case Files: The Countess | 140233 | [140233-mystery-case-files-the-countess.json](./140233-mystery-case-files-the-countess.json) |
 | Mystery Case Files: The Dalimar Legacy - Collector's Edition | 243787 | [243787-mystery-case-files-the-dalimar-legacy-collectors-edition.json](./243787-mystery-case-files-the-dalimar-legacy-collectors-edition.json) |
+| Mystery Case Files: The Last Resort | 247894 | [247894-mystery-case-files-the-last-resort.json](./247894-mystery-case-files-the-last-resort.json) |
 | Mystery Case Files: The Last Resort - Collector's Edition | 236009 | [236009-mystery-case-files-the-last-resort-collectors-edition.json](./236009-mystery-case-files-the-last-resort-collectors-edition.json) |
 | Mystery Case Files: The Malgrave Incident | 5040 | [5040-mystery-case-files-the-malgrave-incident.json](./5040-mystery-case-files-the-malgrave-incident.json) |
 | Mystery Case Files: The Revenant's Hunt | 140234 | [140234-mystery-case-files-the-revenants-hunt.json](./140234-mystery-case-files-the-revenants-hunt.json) |
