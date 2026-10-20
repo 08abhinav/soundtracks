@@ -7627,6 +7627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Sports Bowling | 243816 | [243816-disney-sports-bowling.json](./243816-disney-sports-bowling.json) |
 | Disney Sports Football | 78590 | [78590-disney-sports-football.json](./78590-disney-sports-football.json) |
 | Disney Sports Motocross | 49305 | [49305-disney-sports-motocross.json](./49305-disney-sports-motocross.json) |
+| Disney Sports Skateboarding | 248465 | [248465-disney-sports-skateboarding.json](./248465-disney-sports-skateboarding.json) |
 | Disney Sports Skateboarding | 3881 | [3881-disney-sports-skateboarding.json](./3881-disney-sports-skateboarding.json) |
 | Disney Sports Snowboarding | 49304 | [49304-disney-sports-snowboarding.json](./49304-disney-sports-snowboarding.json) |
 | Disney Sports Soccer | 3882 | [3882-disney-sports-soccer.json](./3882-disney-sports-soccer.json) |
@@ -10405,6 +10406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Mini Games | 202163 | [202163-dr-mini-games.json](./202163-dr-mini-games.json) |
 | Dr. Moonlight's Happyworld | 387515 | [387515-dr-moonlights-happyworld.json](./387515-dr-moonlights-happyworld.json) |
 | Dr. Murph | 304703 | [304703-dr-murph.json](./304703-dr-murph.json) |
+| Dr. Muto | 248455 | [248455-dr-muto.json](./248455-dr-muto.json) |
 | Dr. Neo Cortex: Inventor's Madness | 314661 | [314661-dr-neo-cortex-inventors-madness.json](./314661-dr-neo-cortex-inventors-madness.json) |
 | Dr. Oil | 150458 | [150458-dr-oil.json](./150458-dr-oil.json) |
 | Dr. Oops! | 402421 | [402421-dr-oops.json](./402421-dr-oops.json) |
