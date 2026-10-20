@@ -533,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madojeongi: Secret of Elysium | 252163 | [252163-madojeongi-secret-of-elysium.json](./252163-madojeongi-secret-of-elysium.json) |
 | Madoka Magica Magia Exedra | 307774 | [307774-madoka-magica-magia-exedra.json](./307774-madoka-magica-magia-exedra.json) |
 | Madonna Simulator | 176379 | [176379-madonna-simulator.json](./176379-madonna-simulator.json) |
+| Madorica Real Estate 2 | 225483 | [225483-madorica-real-estate-2.json](./225483-madorica-real-estate-2.json) |
 | Madoris R | 147748 | [147748-madoris-r.json](./147748-madoris-r.json) |
 | Madoromi Travel | 289225 | [289225-madoromi-travel.json](./289225-madoromi-travel.json) |
 | Madotsuki's Closet | 145675 | [145675-madotsukis-closet.json](./145675-madotsukis-closet.json) |
@@ -10154,6 +10155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misc. A Tiny Tale | 138025 | [138025-misc-a-tiny-tale.json](./138025-misc-a-tiny-tale.json) |
 | Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Asha Edition | 225040 | [225040-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-asha-edition.json](./225040-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-asha-edition.json) |
 | Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Clara Edition | 232996 | [232996-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-clara-edition.json](./232996-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-clara-edition.json) |
+| Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Dorothy Edition | 225496 | [225496-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-dorothy-edition.json](./225496-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-dorothy-edition.json) |
 | Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Janice Edition | 225042 | [225042-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-janice-edition.json](./225042-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-janice-edition.json) |
 | Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Kuraara Edition | 225041 | [225041-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-kuraara-edition.json](./225041-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-kuraara-edition.json) |
 | Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Satsuki Edition | 225039 | [225039-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-satsuki-edition.json](./225039-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-satsuki-edition.json) |
