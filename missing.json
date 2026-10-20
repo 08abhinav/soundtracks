@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T10:33:50.591Z",
-  "total_missing": 237343,
+  "generated_at": "2026-10-20T10:42:47.233Z",
+  "total_missing": 237336,
   "games": [
     {
       "igdb_id": 191680,
@@ -48460,11 +48460,6 @@
       "igdb_id": 111021,
       "game_name": "Angry Birds FPS: First Person Slingshot",
       "file": "missing/A/111021-angry-birds-fps-first-person-slingshot.json"
-    },
-    {
-      "igdb_id": 79766,
-      "game_name": "Angry Birds Friends",
-      "file": "missing/A/79766-angry-birds-friends.json"
     },
     {
       "igdb_id": 218530,
@@ -136915,11 +136910,6 @@
       "igdb_id": 94147,
       "game_name": "Breach",
       "file": "missing/B/94147-breach.json"
-    },
-    {
-      "igdb_id": 8422,
-      "game_name": "Breach & Clear",
-      "file": "missing/B/8422-breach-and-clear.json"
     },
     {
       "igdb_id": 11368,
@@ -641472,11 +641462,6 @@
       "file": "missing/M/305495-mordhau-platinum-edition.json"
     },
     {
-      "igdb_id": 8209,
-      "game_name": "Mordheim: City of the Damned",
-      "file": "missing/M/8209-mordheim-city-of-the-damned.json"
-    },
-    {
       "igdb_id": 121424,
       "game_name": "Mordheim: City of the Damned - Complete Edition",
       "file": "missing/M/121424-mordheim-city-of-the-damned-complete-edition.json"
@@ -744000,11 +743985,6 @@
       "igdb_id": 130201,
       "game_name": "Pixel Pileup Party",
       "file": "missing/P/130201-pixel-pileup-party.json"
-    },
-    {
-      "igdb_id": 5590,
-      "game_name": "Pixel Piracy",
-      "file": "missing/P/5590-pixel-piracy.json"
     },
     {
       "igdb_id": 270040,
@@ -1003807,11 +1003787,6 @@
       "file": "missing/T/291586-the-darkside-detective-duology.json"
     },
     {
-      "igdb_id": 109650,
-      "game_name": "The Darkside Detective: A Fumble in the Dark",
-      "file": "missing/T/109650-the-darkside-detective-a-fumble-in-the-dark.json"
-    },
-    {
       "igdb_id": 222965,
       "game_name": "The Darkside Detective: A Fumble in the Dark - Ghosts of Christmas Passed",
       "file": "missing/T/222965-the-darkside-detective-a-fumble-in-the-dark-ghosts-of-christmas-passed.json"
@@ -1065285,11 +1065260,6 @@
       "igdb_id": 238034,
       "game_name": "Tohou Sky Arena: Matsuri Climax - Playable Character: Yuyuko Saigyouji",
       "file": "missing/T/238034-tohou-sky-arena-matsuri-climax-playable-character-yuyuko-saigyouji.json"
-    },
-    {
-      "igdb_id": 118044,
-      "game_name": "Tohu",
-      "file": "missing/T/118044-tohu.json"
     },
     {
       "igdb_id": 120159,
@@ -1167985,11 +1167955,6 @@
       "igdb_id": 43340,
       "game_name": "XII Stag",
       "file": "missing/X/43340-xii-stag.json"
-    },
-    {
-      "igdb_id": 117509,
-      "game_name": "XIII",
-      "file": "missing/X/117509-xiii.json"
     },
     {
       "igdb_id": 1987,
