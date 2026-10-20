@@ -515,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madness Combat | 252101 | [252101-madness-combat.json](./252101-madness-combat.json) |
 | Madness Cubed | 33259 | [33259-madness-cubed.json](./33259-madness-cubed.json) |
 | Madness Hydraulic | 290417 | [290417-madness-hydraulic.json](./290417-madness-hydraulic.json) |
+| Madness in Square Garden | 214965 | [214965-madness-in-square-garden.json](./214965-madness-in-square-garden.json) |
 | Madness in the Dark | 251011 | [251011-madness-in-the-dark.json](./251011-madness-in-the-dark.json) |
 | Madness Interactive Reloaded | 331704 | [331704-madness-interactive-reloaded.json](./331704-madness-interactive-reloaded.json) |
 | Madness of the Architect | 83549 | [83549-madness-of-the-architect.json](./83549-madness-of-the-architect.json) |
@@ -5863,6 +5864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Star Force: Dragon | 1783 | [1783-mega-man-star-force-dragon.json](./1783-mega-man-star-force-dragon.json) |
 | Mega Man Star Force: Legacy Collection | 366898 | [366898-mega-man-star-force-legacy-collection.json](./366898-mega-man-star-force-legacy-collection.json) |
 | Mega Man Ultra | 45190 | [45190-mega-man-ultra.json](./45190-mega-man-ultra.json) |
+| Mega Man Ultra Challenge | 214946 | [214946-mega-man-ultra-challenge.json](./214946-mega-man-ultra-challenge.json) |
 | Mega Man Universe | 86658 | [86658-mega-man-universe.json](./86658-mega-man-universe.json) |
 | Mega Man Uprising | 215155 | [215155-mega-man-uprising.json](./215155-mega-man-uprising.json) |
 | Mega Man V SNES | 377762 | [377762-mega-man-v-snes.json](./377762-mega-man-v-snes.json) |
@@ -12815,6 +12817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morita Shogi 64 | 3543 | [3543-morita-shogi-64.json](./3543-morita-shogi-64.json) |
 | Morita Shogi PC | 37672 | [37672-morita-shogi-pc.json](./37672-morita-shogi-pc.json) |
 | Morituria | 347798 | [347798-morituria.json](./347798-morituria.json) |
+| Moriya Rhythm Rainbow | 214937 | [214937-moriya-rhythm-rainbow.json](./214937-moriya-rhythm-rainbow.json) |
 | Mörk Borg Heresy Supreme | 317584 | [317584-mork-borg-heresy-supreme.json](./317584-mork-borg-heresy-supreme.json) |
 | Morkredd | 100157 | [100157-morkredd.json](./100157-morkredd.json) |
 | Morkull: Ascend to the Gods | 390674 | [390674-morkull-ascend-to-the-gods.json](./390674-morkull-ascend-to-the-gods.json) |
@@ -13024,6 +13027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat X: Samurai Pack | 304314 | [304314-mortal-kombat-x-samurai-pack.json](./304314-mortal-kombat-x-samurai-pack.json) |
 | Mortal Kombat X: Special Edition | 140997 | [140997-mortal-kombat-x-special-edition.json](./140997-mortal-kombat-x-special-edition.json) |
 | Mortal Kombat X: Triborg | 27887 | [27887-mortal-kombat-x-triborg.json](./27887-mortal-kombat-x-triborg.json) |
+| Mortal Kombat: Arcade Edition | 214950 | [214950-mortal-kombat-arcade-edition.json](./214950-mortal-kombat-arcade-edition.json) |
 | Mortal Kombat: Armageddon - Premium Edition | 23793 | [23793-mortal-kombat-armageddon-premium-edition.json](./23793-mortal-kombat-armageddon-premium-edition.json) |
 | Mortal Kombat: Compatibility Pack 1 | 388882 | [388882-mortal-kombat-compatibility-pack-1.json](./388882-mortal-kombat-compatibility-pack-1.json) |
 | Mortal Kombat: Compatibility Pack 2 | 388883 | [388883-mortal-kombat-compatibility-pack-2.json](./388883-mortal-kombat-compatibility-pack-2.json) |
@@ -14128,6 +14132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Triangle Mania 2 | 265857 | [265857-mr-triangle-mania-2.json](./265857-mr-triangle-mania-2.json) |
 | Mr. Triangle The Pizza Delivery Guy Mania Simulator 2k17 | 316362 | [316362-mr-triangle-the-pizza-delivery-guy-mania-simulator-2k17.json](./316362-mr-triangle-the-pizza-delivery-guy-mania-simulator-2k17.json) |
 | Mr. Triangle The Pizza Delivery Guy Mania Simulator 2k17 Turbo HD Remix GOTY 2024 Edition: Coked Up + 1.5 Collection DX Directors Cut & Knuckles | 316364 | [316364-mr-triangle-the-pizza-delivery-guy-mania-simulator-2k17-turbo-hd-remix-goty-2024-edition-coked-up-1-5-collection-dx-directors-cut-and-knuckles.json](./316364-mr-triangle-the-pizza-delivery-guy-mania-simulator-2k17-turbo-hd-remix-goty-2024-edition-coked-up-1-5-collection-dx-directors-cut-and-knuckles.json) |
+| Mr. Tuff | 214975 | [214975-mr-tuff.json](./214975-mr-tuff.json) |
 | Mr. Tulip Head | 183274 | [183274-mr-tulip-head.json](./183274-mr-tulip-head.json) |
 | Mr. Walker's Basement | 155688 | [155688-mr-walkers-basement.json](./155688-mr-walkers-basement.json) |
 | Mr. Whiskers Bubbles | 385088 | [385088-mr-whiskers-bubbles.json](./385088-mr-whiskers-bubbles.json) |
