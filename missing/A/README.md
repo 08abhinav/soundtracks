@@ -540,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Long Way Home | 33077 | [33077-a-long-way-home.json](./33077-a-long-way-home.json) |
 | A Long Way Through a Pastel Universe | 178920 | [178920-a-long-way-through-a-pastel-universe.json](./178920-a-long-way-through-a-pastel-universe.json) |
 | A Long Way to the Nearest Star | 237440 | [237440-a-long-way-to-the-nearest-star.json](./237440-a-long-way-to-the-nearest-star.json) |
+| A look into... | 235040 | [235040-a-look-into.json](./235040-a-look-into.json) |
 | A Loop is a Loop is | 144789 | [144789-a-loop-is-a-loop-is.json](./144789-a-loop-is-a-loop-is.json) |
 | A Lost Land | 384655 | [384655-a-lost-land.json](./384655-a-lost-land.json) |
 | A Lost Man | 403628 | [403628-a-lost-man.json](./403628-a-lost-man.json) |
@@ -2649,6 +2650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure: All in the Game | 58070 | [58070-adventure-all-in-the-game.json](./58070-adventure-all-in-the-game.json) |
 | Adventure: The Inside Job | 60796 | [60796-adventure-the-inside-job.json](./60796-adventure-the-inside-job.json) |
 | Adventure: Welcome to the Genre | 165506 | [165506-adventure-welcome-to-the-genre.json](./165506-adventure-welcome-to-the-genre.json) |
+| Adventure's Calling | 235052 | [235052-adventures-calling.json](./235052-adventures-calling.json) |
 | Adventure4+ | 305199 | [305199-adventure4.json](./305199-adventure4.json) |
 | AdventureQuest | 79499 | [79499-adventurequest.json](./79499-adventurequest.json) |
 | AdventureQuest Dragons | 112229 | [112229-adventurequest-dragons.json](./112229-adventurequest-dragons.json) |
@@ -3719,6 +3721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aim Champions: Gun Shooter Simulator | 205025 | [205025-aim-champions-gun-shooter-simulator.json](./205025-aim-champions-gun-shooter-simulator.json) |
 | Aim Climb | 195577 | [195577-aim-climb.json](./195577-aim-climb.json) |
 | Aim Down Screen | 283888 | [283888-aim-down-screen.json](./283888-aim-down-screen.json) |
+| Aim Expert | 235049 | [235049-aim-expert.json](./235049-aim-expert.json) |
 | Aim for the Top! Gunbuster Vol. 1 | 57928 | [57928-aim-for-the-top-gunbuster-vol-1.json](./57928-aim-for-the-top-gunbuster-vol-1.json) |
 | Aim for the Top! Gunbuster vol. 2 | 57927 | [57927-aim-for-the-top-gunbuster-vol-2.json](./57927-aim-for-the-top-gunbuster-vol-2.json) |
 | Aim God | 203784 | [203784-aim-god.json](./203784-aim-god.json) |
@@ -4761,6 +4764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice Must Find the Key to Escape | 91304 | [91304-alice-must-find-the-key-to-escape.json](./91304-alice-must-find-the-key-to-escape.json) |
 | Alice on Delivery | 396708 | [396708-alice-on-delivery.json](./396708-alice-on-delivery.json) |
 | Alice Order | 219815 | [219815-alice-order.json](./219815-alice-order.json) |
+| Alice Running Adventures | 235044 | [235044-alice-running-adventures.json](./235044-alice-running-adventures.json) |
 | Alice Senki 2 | 191880 | [191880-alice-senki-2.json](./191880-alice-senki-2.json) |
 | Alice Sisters | 157033 | [157033-alice-sisters.json](./157033-alice-sisters.json) |
 | Alice Through the Fey Realm | 294248 | [294248-alice-through-the-fey-realm.json](./294248-alice-through-the-fey-realm.json) |
@@ -7614,6 +7618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anita's Job | 310538 | [310538-anitas-job.json](./310538-anitas-job.json) |
 | Anito: Defend A Land Enraged | 24106 | [24106-anito-defend-a-land-enraged.json](./24106-anito-defend-a-land-enraged.json) |
 | Anivenge | 182374 | [182374-anivenge.json](./182374-anivenge.json) |
+| Aniwar | 235078 | [235078-aniwar.json](./235078-aniwar.json) |
 | Aniwars | 247938 | [247938-aniwars.json](./247938-aniwars.json) |
 | Anjail! | 407307 | [407307-anjail.json](./407307-anjail.json) |
 | Anjelo's Province | 265702 | [265702-anjelos-province.json](./265702-anjelos-province.json) |
@@ -13393,6 +13398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axium | 235091 | [235091-axium.json](./235091-axium.json) |
 | Axium's Box | 235453 | [235453-axiums-box.json](./235453-axiums-box.json) |
 | Axizon Labs: Zombies | 132213 | [132213-axizon-labs-zombies.json](./132213-axizon-labs-zombies.json) |
+| Axl & Tuna | 235074 | [235074-axl-and-tuna.json](./235074-axl-and-tuna.json) |
 | Axl Fangame | 318518 | [318518-axl-fangame.json](./318518-axl-fangame.json) |
 | Axle | 9652 | [9652-axle.json](./9652-axle.json) |
 | Axo Away | 184065 | [184065-axo-away.json](./184065-axo-away.json) |
