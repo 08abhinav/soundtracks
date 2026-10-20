@@ -1955,6 +1955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Making History: The World Wars | 54214 | [54214-making-history-the-world-wars.json](./54214-making-history-the-world-wars.json) |
 | Making it Home | 123463 | [123463-making-it-home.json](./123463-making-it-home.json) |
 | Making Lovely | 387501 | [387501-making-lovely.json](./387501-making-lovely.json) |
+| Making Lovers After Stories | 212132 | [212132-making-lovers-after-stories.json](./212132-making-lovers-after-stories.json) |
 | Making Lovers: First Blush | 397802 | [397802-making-lovers-first-blush.json](./397802-making-lovers-first-blush.json) |
 | Making Lovers: Geki Icha After Story Vol.01 | 108975 | [108975-making-lovers-geki-icha-after-story-vol-01.json](./108975-making-lovers-geki-icha-after-story-vol-01.json) |
 | Making Lovers: HD Deluxe Edition | 260219 | [260219-making-lovers-hd-deluxe-edition.json](./260219-making-lovers-hd-deluxe-edition.json) |
@@ -11227,6 +11228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moksha | 402528 | [402528-moksha.json](./402528-moksha.json) |
 | MolaMola Adventure | 333039 | [333039-molamola-adventure.json](./333039-molamola-adventure.json) |
 | Molang: A Happy Day | 101010 | [101010-molang-a-happy-day.json](./101010-molang-a-happy-day.json) |
+| Molar Maul | 212124 | [212124-molar-maul.json](./212124-molar-maul.json) |
 | Molar: Underground | 266609 | [266609-molar-underground.json](./266609-molar-underground.json) |
 | Mold | 239558 | [239558-mold.json](./239558-mold.json) |
 | Mold 2: Origin | 240073 | [240073-mold-2-origin.json](./240073-mold-2-origin.json) |
@@ -14434,6 +14436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiplication Dragons | 103545 | [103545-multiplication-dragons.json](./103545-multiplication-dragons.json) |
 | Multiplication Mayhem | 277280 | [277280-multiplication-mayhem.json](./277280-multiplication-mayhem.json) |
 | Multiplications Asteroids: Math in Space Learning Series | 89518 | [89518-multiplications-asteroids-math-in-space-learning-series.json](./89518-multiplications-asteroids-math-in-space-learning-series.json) |
+| Multiply Factory | 212116 | [212116-multiply-factory.json](./212116-multiply-factory.json) |
 | Multipuck | 134945 | [134945-multipuck.json](./134945-multipuck.json) |
 | Multirotor Sim 2 | 81234 | [81234-multirotor-sim-2.json](./81234-multirotor-sim-2.json) |
 | Multishop Tycoon Deluxe | 30031 | [30031-multishop-tycoon-deluxe.json](./30031-multishop-tycoon-deluxe.json) |
