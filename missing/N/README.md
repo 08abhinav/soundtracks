@@ -3079,6 +3079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nickelodeon Guts | 42478 | [42478-nickelodeon-guts.json](./42478-nickelodeon-guts.json) |
 | Nickelodeon Kart Racers 2: Grand Prix | 134680 | [134680-nickelodeon-kart-racers-2-grand-prix.json](./134680-nickelodeon-kart-racers-2-grand-prix.json) |
 | Nickelodeon Kart Racers 3: Slime Speedway | 208727 | [208727-nickelodeon-kart-racers-3-slime-speedway.json](./208727-nickelodeon-kart-racers-3-slime-speedway.json) |
+| Nickelodeon Kart Racers 3: Slime Speedway - Turbo Edition | 219484 | [219484-nickelodeon-kart-racers-3-slime-speedway-turbo-edition.json](./219484-nickelodeon-kart-racers-3-slime-speedway-turbo-edition.json) |
 | Nickelodeon Kart Racers 3: Slime Speedway Turbo Pack | 263234 | [263234-nickelodeon-kart-racers-3-slime-speedway-turbo-pack.json](./263234-nickelodeon-kart-racers-3-slime-speedway-turbo-pack.json) |
 | Nickelodeon Kart Racers Collection | 272798 | [272798-nickelodeon-kart-racers-collection.json](./272798-nickelodeon-kart-racers-collection.json) |
 | Nickelodeon Kids Bundle | 286512 | [286512-nickelodeon-kids-bundle.json](./286512-nickelodeon-kids-bundle.json) |
@@ -4055,6 +4056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninjahtic Mind Tricks | 34818 | [34818-ninjahtic-mind-tricks.json](./34818-ninjahtic-mind-tricks.json) |
 | Ninjala 2: The Uncharted Planet | 405438 | [405438-ninjala-2-the-uncharted-planet.json](./405438-ninjala-2-the-uncharted-planet.json) |
 | Ninjala Story Pack: Chapter Four | 247585 | [247585-ninjala-story-pack-chapter-four.json](./247585-ninjala-story-pack-chapter-four.json) |
+| Ninjala: Story Pack - Chapter Three | 219459 | [219459-ninjala-story-pack-chapter-three.json](./219459-ninjala-story-pack-chapter-three.json) |
 | Ninjam! | 298373 | [298373-ninjam.json](./298373-ninjam.json) |
 | Ninjaman | 204227 | [204227-ninjaman.json](./204227-ninjaman.json) |
 | Ninjaman | 324845 | [324845-ninjaman.json](./324845-ninjaman.json) |
@@ -4631,6 +4633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobody Nowhere | 277339 | [277339-nobody-nowhere.json](./277339-nobody-nowhere.json) |
 | Nobody Paradox | 244919 | [244919-nobody-paradox.json](./244919-nobody-paradox.json) |
 | Nobody Said It Was Easy | 175233 | [175233-nobody-said-it-was-easy.json](./175233-nobody-said-it-was-easy.json) |
+| Nobody Saves the World + Frozen Hearth Bundle | 219470 | [219470-nobody-saves-the-world-frozen-hearth-bundle.json](./219470-nobody-saves-the-world-frozen-hearth-bundle.json) |
 | Nobody Saves the World: Frozen Hearth | 214735 | [214735-nobody-saves-the-world-frozen-hearth.json](./214735-nobody-saves-the-world-frozen-hearth.json) |
 | Nobody Sleeps Tonight | 282812 | [282812-nobody-sleeps-tonight.json](./282812-nobody-sleeps-tonight.json) |
 | Nobody's Dilemma | 252674 | [252674-nobodys-dilemma.json](./252674-nobodys-dilemma.json) |
