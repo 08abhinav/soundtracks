@@ -1247,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Later | 348328 | [348328-later.json](./348328-later.json) |
 | Later Alligator | 112939 | [112939-later-alligator.json](./112939-later-alligator.json) |
 | Later Daters: Part One and Two | 238183 | [238183-later-daters-part-one-and-two.json](./238183-later-daters-part-one-and-two.json) |
+| Later Daters: Premium | 204282 | [204282-later-daters-premium.json](./204282-later-daters-premium.json) |
 | Later Elevator | 344721 | [344721-later-elevator.json](./344721-later-elevator.json) |
 | Later On | 81597 | [81597-later-on.json](./81597-later-on.json) |
 | Lateral Thinking Together | 372493 | [372493-lateral-thinking-together.json](./372493-lateral-thinking-together.json) |
@@ -4781,6 +4782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LittleBigSoko | 101621 | [101621-littlebigsoko.json](./101621-littlebigsoko.json) |
 | Littlebird/TrueEyes | 221268 | [221268-littlebird-trueeyes.json](./221268-littlebird-trueeyes.json) |
 | Littlebird/TrueEyes | 241524 | [241524-littlebird-trueeyes.json](./241524-littlebird-trueeyes.json) |
+| LittleHero | 204288 | [204288-littlehero.json](./204288-littlehero.json) |
 | LittleMouseHero | 285912 | [285912-littlemousehero.json](./285912-littlemousehero.json) |
 | Littleroot Researchers | 195087 | [195087-littleroot-researchers.json](./195087-littleroot-researchers.json) |
 | LittleRunner | 387483 | [387483-littlerunner.json](./387483-littlerunner.json) |
