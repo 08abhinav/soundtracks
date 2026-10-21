@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zap't'Balls | 95464 | [95464-zaptballs.json](./95464-zaptballs.json) |
 | Zap't'Balls: The Advanced Edition | 72002 | [72002-zaptballs-the-advanced-edition.json](./72002-zaptballs-the-advanced-edition.json) |
 | Zapactris | 71551 | [71551-zapactris.json](./71551-zapactris.json) |
+| Zapatitos: Suenos de Libertad | 178263 | [178263-zapatitos-suenos-de-libertad.json](./178263-zapatitos-suenos-de-libertad.json) |
 | Zaphie 2 | 145656 | [145656-zaphie-2.json](./145656-zaphie-2.json) |
 | Zapitalism Deluxe | 202183 | [202183-zapitalism-deluxe.json](./202183-zapitalism-deluxe.json) |
 | Zapling Bygone | 150428 | [150428-zapling-bygone.json](./150428-zapling-bygone.json) |
