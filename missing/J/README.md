@@ -1275,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Fun 3-in-1 Collection | 197341 | [197341-jigsaw-fun-3-in-1-collection.json](./197341-jigsaw-fun-3-in-1-collection.json) |
 | Jigsaw Fun: 3-in-1 Collection | 196259 | [196259-jigsaw-fun-3-in-1-collection.json](./196259-jigsaw-fun-3-in-1-collection.json) |
 | Jigsaw Fun: Amazing Animals | 175814 | [175814-jigsaw-fun-amazing-animals.json](./175814-jigsaw-fun-amazing-animals.json) |
+| Jigsaw Fun: Greatest Cities | 187092 | [187092-jigsaw-fun-greatest-cities.json](./187092-jigsaw-fun-greatest-cities.json) |
 | Jigsaw Fun: Piece It Together | 146791 | [146791-jigsaw-fun-piece-it-together.json](./146791-jigsaw-fun-piece-it-together.json) |
 | Jigsaw Fun: Wonderful Nature | 187497 | [187497-jigsaw-fun-wonderful-nature.json](./187497-jigsaw-fun-wonderful-nature.json) |
 | Jigsaw Game 05/06 | 345498 | [345498-jigsaw-game-05-06.json](./345498-jigsaw-game-05-06.json) |
@@ -1286,6 +1287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Jab | 390678 | [390678-jigsaw-jab.json](./390678-jigsaw-jab.json) |
 | Jigsaw Kids 1 | 289370 | [289370-jigsaw-kids-1.json](./289370-jigsaw-kids-1.json) |
 | Jigsaw Madness | 43918 | [43918-jigsaw-madness.json](./43918-jigsaw-madness.json) |
+| Jigsaw Master Kids | 187095 | [187095-jigsaw-master-kids.json](./187095-jigsaw-master-kids.json) |
 | Jigsaw Masterpieces | 147951 | [147951-jigsaw-masterpieces.json](./147951-jigsaw-masterpieces.json) |
 | Jigsaw Masterpieces 2 | 289372 | [289372-jigsaw-masterpieces-2.json](./289372-jigsaw-masterpieces-2.json) |
 | Jigsaw Masterpieces 2: Additional Puzzle Pack Set Vol.1 | 328838 | [328838-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-1.json](./328838-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-1.json) |
