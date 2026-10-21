@@ -1981,6 +1981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taro's Quest | 48882 | [48882-taros-quest.json](./48882-taros-quest.json) |
 | Taromancy | 391111 | [391111-taromancy.json](./391111-taromancy.json) |
 | Tarot | 177381 | [177381-tarot.json](./177381-tarot.json) |
+| Tarot | 182718 | [182718-tarot.json](./182718-tarot.json) |
 | Tarot | 95371 | [95371-tarot.json](./95371-tarot.json) |
 | Tarot Mystery | 37793 | [37793-tarot-mystery.json](./37793-tarot-mystery.json) |
 | Tarot Readings Premium | 118741 | [118741-tarot-readings-premium.json](./118741-tarot-readings-premium.json) |
@@ -9008,6 +9009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Labyrinth | 37407 | [37407-the-labyrinth.json](./37407-the-labyrinth.json) |
 | The Labyrinth Adventure of Demons | 195255 | [195255-the-labyrinth-adventure-of-demons.json](./195255-the-labyrinth-adventure-of-demons.json) |
 | The Labyrinth Inferno | 421190 | [421190-the-labyrinth-inferno.json](./421190-the-labyrinth-inferno.json) |
+| The Labyrinth of Far Water Grove | 182741 | [182741-the-labyrinth-of-far-water-grove.json](./182741-the-labyrinth-of-far-water-grove.json) |
 | The Labyrinth of Greed | 190003 | [190003-the-labyrinth-of-greed.json](./190003-the-labyrinth-of-greed.json) |
 | The Labyrinth of Grisaia | 11457 | [11457-the-labyrinth-of-grisaia.json](./11457-the-labyrinth-of-grisaia.json) |
 | The Labyrinth of Time | 7670 | [7670-the-labyrinth-of-time.json](./7670-the-labyrinth-of-time.json) |
@@ -9346,6 +9348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Spin | 298632 | [298632-the-last-spin.json](./298632-the-last-spin.json) |
 | The Last Squad | 349107 | [349107-the-last-squad.json](./349107-the-last-squad.json) |
 | The Last Stand | 148353 | [148353-the-last-stand.json](./148353-the-last-stand.json) |
+| The Last Stand | 182730 | [182730-the-last-stand.json](./182730-the-last-stand.json) |
 | The Last Stand | 344396 | [344396-the-last-stand.json](./344396-the-last-stand.json) |
 | The Last Stand | 61584 | [61584-the-last-stand.json](./61584-the-last-stand.json) |
 | The Last Stand 2 | 61585 | [61585-the-last-stand-2.json](./61585-the-last-stand-2.json) |
@@ -11076,6 +11079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The One Fish | 410892 | [410892-the-one-fish.json](./410892-the-one-fish.json) |
 | The One Fork Restaurant | 175255 | [175255-the-one-fork-restaurant.json](./175255-the-one-fork-restaurant.json) |
 | The One Penny Adventure | 211039 | [211039-the-one-penny-adventure.json](./211039-the-one-penny-adventure.json) |
+| The One Spell | 182706 | [182706-the-one-spell.json](./182706-the-one-spell.json) |
 | The One Way Challenge | 259413 | [259413-the-one-way-challenge.json](./259413-the-one-way-challenge.json) |
 | The One Who Knows | 416695 | [416695-the-one-who-knows.json](./416695-the-one-who-knows.json) |
 | The One Who Pulls Out the Sword Will Be Crowned King | 191888 | [191888-the-one-who-pulls-out-the-sword-will-be-crowned-king.json](./191888-the-one-who-pulls-out-the-sword-will-be-crowned-king.json) |
@@ -13537,6 +13541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Three Musketeers | 36867 | [36867-the-three-musketeers.json](./36867-the-three-musketeers.json) |
 | The Three Musketeers: D'Artagnan & the 12 Jewels | 96862 | [96862-the-three-musketeers-dartagnan-and-the-12-jewels.json](./96862-the-three-musketeers-dartagnan-and-the-12-jewels.json) |
 | The Three Musketeers: One For All! | 20486 | [20486-the-three-musketeers-one-for-all.json](./20486-the-three-musketeers-one-for-all.json) |
+| The Three Princes and Adarna | 182740 | [182740-the-three-princes-and-adarna.json](./182740-the-three-princes-and-adarna.json) |
 | The Three Stooges | 25690 | [25690-the-three-stooges.json](./25690-the-three-stooges.json) |
 | The Three Stooges | 264852 | [264852-the-three-stooges.json](./264852-the-three-stooges.json) |
 | The Three Stooges | 8670 | [8670-the-three-stooges.json](./8670-the-three-stooges.json) |
@@ -15030,6 +15035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Is No Turning Back! | 111004 | [111004-there-is-no-turning-back.json](./111004-there-is-no-turning-back.json) |
 | There Is Nothing Here | 179174 | [179174-there-is-nothing-here.json](./179174-there-is-nothing-here.json) |
 | There is nothing here. | 176789 | [176789-there-is-nothing-here.json](./176789-there-is-nothing-here.json) |
+| There Is Only Power | 182696 | [182696-there-is-only-power.json](./182696-there-is-only-power.json) |
 | There is Still Hope | 211669 | [211669-there-is-still-hope.json](./211669-there-is-still-hope.json) |
 | There May be Ninety-Nine of Us, but We Have to Win in Ninety-Nine Turns! | 156211 | [156211-there-may-be-ninety-nine-of-us-but-we-have-to-win-in-ninety-nine-turns.json](./156211-there-may-be-ninety-nine-of-us-but-we-have-to-win-in-ninety-nine-turns.json) |
 | There Ought to Be A Word | 128414 | [128414-there-ought-to-be-a-word.json](./128414-there-ought-to-be-a-word.json) |
@@ -25250,6 +25256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twist Up! | 103571 | [103571-twist-up.json](./103571-twist-up.json) |
 | Twist: 01 Timun Mas | 214626 | [214626-twist-01-timun-mas.json](./214626-twist-01-timun-mas.json) |
 | Twist: Majapahit | 214625 | [214625-twist-majapahit.json](./214625-twist-majapahit.json) |
+| Twistbot | 182709 | [182709-twistbot.json](./182709-twistbot.json) |
 | Twisted | 30260 | [30260-twisted.json](./30260-twisted.json) |
 | Twisted Arrow | 32285 | [32285-twisted-arrow.json](./32285-twisted-arrow.json) |
 | Twisted Citadel | 182526 | [182526-twisted-citadel.json](./182526-twisted-citadel.json) |
