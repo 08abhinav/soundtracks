@@ -14848,6 +14848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Them: The Summoning | 10957 | [10957-them-the-summoning.json](./10957-them-the-summoning.json) |
 | Them's Fightin' Herds | 18280 | [18280-thems-fightin-herds.json](./18280-thems-fightin-herds.json) |
 | Them's Fightin' Herds: Baihe | 284953 | [284953-thems-fightin-herds-baihe.json](./284953-thems-fightin-herds-baihe.json) |
+| Them's Fightin' Herds: Deluxe Edition | 203089 | [203089-thems-fightin-herds-deluxe-edition.json](./203089-thems-fightin-herds-deluxe-edition.json) |
 | Them's Fightin' Herds: Nidra | 284952 | [284952-thems-fightin-herds-nidra.json](./284952-thems-fightin-herds-nidra.json) |
 | Them's Tale: The Road to Her | 395882 | [395882-thems-tale-the-road-to-her.json](./395882-thems-tale-the-road-to-her.json) |
 | TheMahjong | 317875 | [317875-themahjong.json](./317875-themahjong.json) |
@@ -20159,6 +20160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Kouhentan | 214371 | [214371-touhou-kouhentan.json](./214371-touhou-kouhentan.json) |
 | Touhou Koukayaku The Game | 293322 | [293322-touhou-koukayaku-the-game.json](./293322-touhou-koukayaku-the-game.json) |
 | Touhou Kouma Daimeikyuu | 203647 | [203647-touhou-kouma-daimeikyuu.json](./203647-touhou-kouma-daimeikyuu.json) |
+| Touhou Kouma Meikyuu: Adventures of Reimu | 203160 | [203160-touhou-kouma-meikyuu-adventures-of-reimu.json](./203160-touhou-kouma-meikyuu-adventures-of-reimu.json) |
 | Touhou Koumadan | 377364 | [377364-touhou-koumadan.json](./377364-touhou-koumadan.json) |
 | Touhou Koumakyou: New Classic - The Embodiment of Scarlet Devil | 405461 | [405461-touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil.json](./405461-touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil.json) |
 | Touhou Koumakyou: New Classic - The Embodiment of Scarlet Devil: Deluxe Edition | 418331 | [418331-touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil-deluxe-edition.json](./418331-touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil-deluxe-edition.json) |
