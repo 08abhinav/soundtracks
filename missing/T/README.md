@@ -4998,6 +4998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Binding of Isaac: Antibirth | 103333 | [103333-the-binding-of-isaac-antibirth.json](./103333-the-binding-of-isaac-antibirth.json) |
 | The Binding of Isaac: Epiphany | 223039 | [223039-the-binding-of-isaac-epiphany.json](./223039-the-binding-of-isaac-epiphany.json) |
 | The Binding of Isaac: Eternal Edition | 341546 | [341546-the-binding-of-isaac-eternal-edition.json](./341546-the-binding-of-isaac-eternal-edition.json) |
+| The Binding of Isaac: Game Boy Edition | 185917 | [185917-the-binding-of-isaac-game-boy-edition.json](./185917-the-binding-of-isaac-game-boy-edition.json) |
 | The Binding of Isaac: Rebirth | 309607 | [309607-the-binding-of-isaac-rebirth.json](./309607-the-binding-of-isaac-rebirth.json) |
 | The Binding of Isaac: Repentance | 310643 | [310643-the-binding-of-isaac-repentance.json](./310643-the-binding-of-isaac-repentance.json) |
 | The Binding of Isaac: Revelations | 376126 | [376126-the-binding-of-isaac-revelations.json](./376126-the-binding-of-isaac-revelations.json) |
@@ -7893,6 +7894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grey Dream | 260325 | [260325-the-grey-dream.json](./260325-the-grey-dream.json) |
 | The Grey Wolves - Knight's Cross Edition | 416013 | [416013-the-grey-wolves-knights-cross-edition.json](./416013-the-grey-wolves-knights-cross-edition.json) |
 | The Greys: Human Abductions | 371546 | [371546-the-greys-human-abductions.json](./371546-the-greys-human-abductions.json) |
+| The Grid | 185943 | [185943-the-grid.json](./185943-the-grid.json) |
 | The Grid | 407546 | [407546-the-grid.json](./407546-the-grid.json) |
 | The Griffon Legend | 202975 | [202975-the-griffon-legend.json](./202975-the-griffon-legend.json) |
 | The Grim Adventures of Billy & Mandy | 248521 | [248521-the-grim-adventures-of-billy-and-mandy.json](./248521-the-grim-adventures-of-billy-and-mandy.json) |
@@ -12173,6 +12175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scientists' Secret: Hidden Object Game | 259542 | [259542-the-scientists-secret-hidden-object-game.json](./259542-the-scientists-secret-hidden-object-game.json) |
 | The Scoop | 73816 | [73816-the-scoop.json](./73816-the-scoop.json) |
 | The Scorchfarer | 153535 | [153535-the-scorchfarer.json](./153535-the-scorchfarer.json) |
+| The Scorpion King | 185900 | [185900-the-scorpion-king.json](./185900-the-scorpion-king.json) |
 | The Scorpion King: Rise of the Akkadian | 4096 | [4096-the-scorpion-king-rise-of-the-akkadian.json](./4096-the-scorpion-king-rise-of-the-akkadian.json) |
 | The Scorpion King: Sword of Osiris | 49236 | [49236-the-scorpion-king-sword-of-osiris.json](./49236-the-scorpion-king-sword-of-osiris.json) |
 | The Scottish Open: Carnoustie Virtual Golf | 68706 | [68706-the-scottish-open-carnoustie-virtual-golf.json](./68706-the-scottish-open-carnoustie-virtual-golf.json) |
@@ -14154,6 +14157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vaults | 197914 | [197914-the-vaults.json](./197914-the-vaults.json) |
 | The Vaults Below Durn: A Field Study | 401853 | [401853-the-vaults-below-durn-a-field-study.json](./401853-the-vaults-below-durn-a-field-study.json) |
 | The Vaults of Minos | 213311 | [213311-the-vaults-of-minos.json](./213311-the-vaults-of-minos.json) |
+| The Veil of Mystery: Seven Little Gnomes | 185935 | [185935-the-veil-of-mystery-seven-little-gnomes.json](./185935-the-veil-of-mystery-seven-little-gnomes.json) |
 | The Veiled Ones | 318799 | [318799-the-veiled-ones.json](./318799-the-veiled-ones.json) |
 | The Vending Machine | 355890 | [355890-the-vending-machine.json](./355890-the-vending-machine.json) |
 | The Vengeance Of Lady Witch | 250964 | [250964-the-vengeance-of-lady-witch.json](./250964-the-vengeance-of-lady-witch.json) |
@@ -14375,6 +14379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Warlock of Firetop Mountain | 73881 | [73881-the-warlock-of-firetop-mountain.json](./73881-the-warlock-of-firetop-mountain.json) |
 | The Warlock of Firetop Mountain: Goblin Scourge Edition! | 147832 | [147832-the-warlock-of-firetop-mountain-goblin-scourge-edition.json](./147832-the-warlock-of-firetop-mountain-goblin-scourge-edition.json) |
 | The Warlock's Hearth | 261181 | [261181-the-warlocks-hearth.json](./261181-the-warlocks-hearth.json) |
+| The Warmth Between Us | 185942 | [185942-the-warmth-between-us.json](./185942-the-warmth-between-us.json) |
 | The Warp Coin Catastrophe | 186105 | [186105-the-warp-coin-catastrophe.json](./186105-the-warp-coin-catastrophe.json) |
 | The Warp: Cephisso | 351641 | [351641-the-warp-cephisso.json](./351641-the-warp-cephisso.json) |
 | The Warrens | 373224 | [373224-the-warrens.json](./373224-the-warrens.json) |
@@ -17998,6 +18003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Squads | 244628 | [244628-tiny-squads.json](./244628-tiny-squads.json) |
 | Tiny Starfighters | 317413 | [317413-tiny-starfighters.json](./317413-tiny-starfighters.json) |
 | Tiny Step | 267333 | [267333-tiny-step.json](./267333-tiny-step.json) |
+| Tiny Stories: Santa Closes | 185928 | [185928-tiny-stories-santa-closes.json](./185928-tiny-stories-santa-closes.json) |
 | Tiny Strife | 158083 | [158083-tiny-strife.json](./158083-tiny-strife.json) |
 | Tiny Striker | 23408 | [23408-tiny-striker.json](./23408-tiny-striker.json) |
 | Tiny Striker: World Football | 86939 | [86939-tiny-striker-world-football.json](./86939-tiny-striker-world-football.json) |
@@ -20184,6 +20190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Danmaku Shunsatsu Gekijou: Shoken Koroshi ni Inochi wo Kakete | 339125 | [339125-touhou-danmaku-shunsatsu-gekijou-shoken-koroshi-ni-inochi-wo-kakete.json](./339125-touhou-danmaku-shunsatsu-gekijou-shoken-koroshi-ni-inochi-wo-kakete.json) |
 | Touhou Danmaku: Infinity | 233785 | [233785-touhou-danmaku-infinity.json](./233785-touhou-danmaku-infinity.json) |
 | TouHou Dew Valley | 262654 | [262654-touhou-dew-valley.json](./262654-touhou-dew-valley.json) |
+| Touhou Diablo 2: Gensokyo Treasure Hunting | 185919 | [185919-touhou-diablo-2-gensokyo-treasure-hunting.json](./185919-touhou-diablo-2-gensokyo-treasure-hunting.json) |
 | Touhou Diablo: Treasure Hunter G | 191487 | [191487-touhou-diablo-treasure-hunter-g.json](./191487-touhou-diablo-treasure-hunter-g.json) |
 | Touhou DollDraft | 164598 | [164598-touhou-dolldraft.json](./164598-touhou-dolldraft.json) |
 | Touhou Doumeiju: Mystical Power Plant | 246671 | [246671-touhou-doumeiju-mystical-power-plant.json](./246671-touhou-doumeiju-mystical-power-plant.json) |
