@@ -5804,6 +5804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shatter: Physics Breaker | 417453 | [417453-shatter-physics-breaker.json](./417453-shatter-physics-breaker.json) |
 | Shatterbound | 291053 | [291053-shatterbound.json](./291053-shatterbound.json) |
 | Shatterbrain | 96977 | [96977-shatterbrain.json](./96977-shatterbrain.json) |
+| Shattered | 182729 | [182729-shattered.json](./182729-shattered.json) |
 | Shattered | 325043 | [325043-shattered.json](./325043-shattered.json) |
 | Shattered | 65791 | [65791-shattered.json](./65791-shattered.json) |
 | Shattered Between | 206422 | [206422-shattered-between.json](./206422-shattered-between.json) |
@@ -15473,6 +15474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacelords: the unofficial visual novel | 183054 | [183054-spacelords-the-unofficial-visual-novel.json](./183054-spacelords-the-unofficial-visual-novel.json) |
 | Spacelords: Valeria Deluxe Character Pack | 169304 | [169304-spacelords-valeria-deluxe-character-pack.json](./169304-spacelords-valeria-deluxe-character-pack.json) |
 | Spaceman | 309854 | [309854-spaceman.json](./309854-spaceman.json) |
+| Spaceman 8 | 182704 | [182704-spaceman-8.json](./182704-spaceman-8.json) |
 | Spaceman Defender | 120371 | [120371-spaceman-defender.json](./120371-spaceman-defender.json) |
 | Spaceman Memories | 250972 | [250972-spaceman-memories.json](./250972-spaceman-memories.json) |
 | Spaceman Sid | 330888 | [330888-spaceman-sid.json](./330888-spaceman-sid.json) |
@@ -25800,6 +25802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superstore | 328482 | [328482-superstore.json](./328482-superstore.json) |
 | Superstorm Melon Date | 169734 | [169734-superstorm-melon-date.json](./169734-superstorm-melon-date.json) |
 | SuperSuperMarket! | 302364 | [302364-supersupermarket.json](./302364-supersupermarket.json) |
+| Supertag | 182705 | [182705-supertag.json](./182705-supertag.json) |
 | Supertan Marioner 3D Infinity World Adventures | 198180 | [198180-supertan-marioner-3d-infinity-world-adventures.json](./198180-supertan-marioner-3d-infinity-world-adventures.json) |
 | SuperTanks | 149939 | [149939-supertanks.json](./149939-supertanks.json) |
 | SuperTotalCarnage! | 230356 | [230356-supertotalcarnage.json](./230356-supertotalcarnage.json) |
@@ -27117,6 +27120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Road | 338751 | [338751-sword-road.json](./338751-sword-road.json) |
 | Sword Rogue | 150435 | [150435-sword-rogue.json](./150435-sword-rogue.json) |
 | Sword Sanctuary | 333394 | [333394-sword-sanctuary.json](./333394-sword-sanctuary.json) |
+| Sword Shop | 182738 | [182738-sword-shop.json](./182738-sword-shop.json) |
 | Sword Slayer | 63789 | [63789-sword-slayer.json](./63789-sword-slayer.json) |
 | Sword Smash | 244385 | [244385-sword-smash.json](./244385-sword-smash.json) |
 | Sword Snap | 384328 | [384328-sword-snap.json](./384328-sword-snap.json) |
@@ -27170,6 +27174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords & Earrings: Tales of Andaria | 373853 | [373853-swords-and-earrings-tales-of-andaria.json](./373853-swords-and-earrings-tales-of-andaria.json) |
 | Swords & Monsters | 92083 | [92083-swords-and-monsters.json](./92083-swords-and-monsters.json) |
 | Swords & Serpents | 18582 | [18582-swords-and-serpents.json](./18582-swords-and-serpents.json) |
+| Swords & Shadows | 182723 | [182723-swords-and-shadows.json](./182723-swords-and-shadows.json) |
 | Swords & Shields AdvBattleBoard | 273795 | [273795-swords-and-shields-advbattleboard.json](./273795-swords-and-shields-advbattleboard.json) |
 | Swords & Slippers | 374141 | [374141-swords-and-slippers.json](./374141-swords-and-slippers.json) |
 | Swords & Soldiers | 10783 | [10783-swords-and-soldiers.json](./10783-swords-and-soldiers.json) |
