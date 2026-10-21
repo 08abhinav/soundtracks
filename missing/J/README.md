@@ -1105,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Match Aquascapes: Collector's Edition | 244845 | [244845-jewel-match-aquascapes-collectors-edition.json](./244845-jewel-match-aquascapes-collectors-edition.json) |
 | Jewel Match Atlantis Solitaire 2 | 153397 | [153397-jewel-match-atlantis-solitaire-2.json](./153397-jewel-match-atlantis-solitaire-2.json) |
 | Jewel Match Atlantis Solitaire 2: Collector's Edition | 153292 | [153292-jewel-match-atlantis-solitaire-2-collectors-edition.json](./153292-jewel-match-atlantis-solitaire-2-collectors-edition.json) |
+| Jewel Match Atlantis Solitaire 3: Collector's Edition | 195949 | [195949-jewel-match-atlantis-solitaire-3-collectors-edition.json](./195949-jewel-match-atlantis-solitaire-3-collectors-edition.json) |
 | Jewel Match Atlantis Solitaire 4: Collector's Edition | 265343 | [265343-jewel-match-atlantis-solitaire-4-collectors-edition.json](./265343-jewel-match-atlantis-solitaire-4-collectors-edition.json) |
 | Jewel Match Atlantis Solitaire 5: Collector's Edition | 381596 | [381596-jewel-match-atlantis-solitaire-5-collectors-edition.json](./381596-jewel-match-atlantis-solitaire-5-collectors-edition.json) |
 | Jewel Match Atlantis Solitaire: Collector's Edition | 126907 | [126907-jewel-match-atlantis-solitaire-collectors-edition.json](./126907-jewel-match-atlantis-solitaire-collectors-edition.json) |
