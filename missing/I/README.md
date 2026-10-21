@@ -546,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I, W.O.M.A.N. | 188840 | [188840-i-w-o-m-a-n.json](./188840-i-w-o-m-a-n.json) |
 | I, Zombie | 9879 | [9879-i-zombie.json](./9879-i-zombie.json) |
 | I.A.G. Alpha | 216432 | [216432-i-a-g-alpha.json](./216432-i-a-g-alpha.json) |
+| I.C.B.M. Attack | 172407 | [172407-i-c-b-m-attack.json](./172407-i-c-b-m-attack.json) |
 | I.C.O. | 178660 | [178660-i-c-o.json](./178660-i-c-o.json) |
 | I.C.T.O.A.N. | 262179 | [262179-i-c-t-o-a-n.json](./262179-i-c-t-o-a-n.json) |
 | I.C.U.P.S. | 30212 | [30212-i-c-u-p-s.json](./30212-i-c-u-p-s.json) |
@@ -3505,6 +3506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside Intruder | 329564 | [329564-inside-intruder.json](./329564-inside-intruder.json) |
 | Inside Kitty's Outside Adventure | 97444 | [97444-inside-kittys-outside-adventure.json](./97444-inside-kittys-outside-adventure.json) |
 | Inside Lacrosse's CL2010 | 91420 | [91420-inside-lacrosses-cl2010.json](./91420-inside-lacrosses-cl2010.json) |
+| Inside Light | 172376 | [172376-inside-light.json](./172376-inside-light.json) |
 | Inside Me | 34375 | [34375-inside-me.json](./34375-inside-me.json) |
 | Inside My Friend's Mind | 314143 | [314143-inside-my-friends-mind.json](./314143-inside-my-friends-mind.json) |
 | Inside My Mind | 149090 | [149090-inside-my-mind.json](./149090-inside-my-mind.json) |
