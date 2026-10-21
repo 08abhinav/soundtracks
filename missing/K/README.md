@@ -297,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakurenbo | 191531 | [191531-kakurenbo.json](./191531-kakurenbo.json) |
 | Kakurenbo no Oto: Hidden Notes | 172741 | [172741-kakurenbo-no-oto-hidden-notes.json](./172741-kakurenbo-no-oto-hidden-notes.json) |
 | Kakurenbo: Hide and Seek | 350963 | [350963-kakurenbo-hide-and-seek.json](./350963-kakurenbo-hide-and-seek.json) |
+| Kakureza Library | 187700 | [187700-kakureza-library.json](./187700-kakureza-library.json) |
 | Kakuriyo | 217186 | [217186-kakuriyo.json](./217186-kakuriyo.json) |
 | Kakuriyo | 296270 | [296270-kakuriyo.json](./296270-kakuriyo.json) |
 | Kakuriyo Village: Moratorium of Adolescence | 240730 | [240730-kakuriyo-village-moratorium-of-adolescence.json](./240730-kakuriyo-village-moratorium-of-adolescence.json) |
