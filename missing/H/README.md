@@ -1914,6 +1914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsukoi Monogatari | 330102 | [330102-hatsukoi-monogatari.json](./330102-hatsukoi-monogatari.json) |
 | Hatsukoi Monogatari | 330209 | [330209-hatsukoi-monogatari.json](./330209-hatsukoi-monogatari.json) |
 | Hatsukoi! | 122109 | [122109-hatsukoi.json](./122109-hatsukoi.json) |
+| Hatsumira: From the Future Undying | 197543 | [197543-hatsumira-from-the-future-undying.json](./197543-hatsumira-from-the-future-undying.json) |
 | Hatsune Miku Amiguru Jump | 228454 | [228454-hatsune-miku-amiguru-jump.json](./228454-hatsune-miku-amiguru-jump.json) |
 | Hatsune Miku and Future Stars: Project Mirai | 6805 | [6805-hatsune-miku-and-future-stars-project-mirai.json](./6805-hatsune-miku-and-future-stars-project-mirai.json) |
 | Hatsune Miku Bomb Squad! | 312961 | [312961-hatsune-miku-bomb-squad.json](./312961-hatsune-miku-bomb-squad.json) |
@@ -7714,6 +7715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Loop | 259590 | [259590-horror-loop.json](./259590-horror-loop.json) |
 | Horror Maze 2 | 246838 | [246838-horror-maze-2.json](./246838-horror-maze-2.json) |
 | Horror Maze: Sci-Fi Edition | 110155 | [110155-horror-maze-sci-fi-edition.json](./110155-horror-maze-sci-fi-edition.json) |
+| Horror Night | 197551 | [197551-horror-night.json](./197551-horror-night.json) |
 | Horror Night with Tung Tung Tung Sahur | 351096 | [351096-horror-night-with-tung-tung-tung-sahur.json](./351096-horror-night-with-tung-tung-tung-sahur.json) |
 | Horror Night: Spooky Night Vol. 1 | 221735 | [221735-horror-night-spooky-night-vol-1.json](./221735-horror-night-spooky-night-vol-1.json) |
 | Horror Night: The Slenderman Takings | 236824 | [236824-horror-night-the-slenderman-takings.json](./236824-horror-night-the-slenderman-takings.json) |
@@ -8055,6 +8057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Springs Story 2 | 180274 | [180274-hot-springs-story-2.json](./180274-hot-springs-story-2.json) |
 | Hot Sprint Trip With A Married Woman | 97506 | [97506-hot-sprint-trip-with-a-married-woman.json](./97506-hot-sprint-trip-with-a-married-woman.json) |
 | Hot Steam | 231300 | [231300-hot-steam.json](./231300-hot-steam.json) |
+| Hot Tentacles Shooter | 197528 | [197528-hot-tentacles-shooter.json](./197528-hot-tentacles-shooter.json) |
 | Hot Therapy | 243557 | [243557-hot-therapy.json](./243557-hot-therapy.json) |
 | Hot Tin Roof: The Cat That Wore a Fedora | 26875 | [26875-hot-tin-roof-the-cat-that-wore-a-fedora.json](./26875-hot-tin-roof-the-cat-that-wore-a-fedora.json) |
 | Hot Vacation | 173835 | [173835-hot-vacation.json](./173835-hot-vacation.json) |
