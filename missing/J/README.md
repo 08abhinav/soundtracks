@@ -1249,6 +1249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigoku Shoujo: Akekazura | 72615 | [72615-jigoku-shoujo-akekazura.json](./72615-jigoku-shoujo-akekazura.json) |
 | Jigoku Train | 314069 | [314069-jigoku-train.json](./314069-jigoku-train.json) |
 | Jigoku Unko | 151195 | [151195-jigoku-unko.json](./151195-jigoku-unko.json) |
+| Jigoku Unko: Toripuru | 203742 | [203742-jigoku-unko-toripuru.json](./203742-jigoku-unko-toripuru.json) |
 | Jigokuraku: Paradise Battle | 409820 | [409820-jigokuraku-paradise-battle.json](./409820-jigokuraku-paradise-battle.json) |
 | Jigoro | 367140 | [367140-jigoro.json](./367140-jigoro.json) |
 | Jigsaw | 7863 | [7863-jigsaw.json](./7863-jigsaw.json) |
