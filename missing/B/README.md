@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B-e-e-t-l-e | 178507 | [178507-b-e-e-t-l-e.json](./178507-b-e-e-t-l-e.json) |
 | B-e-e-t-l-e: Be right back! | 366937 | [366937-b-e-e-t-l-e-be-right-back.json](./366937-b-e-e-t-l-e-be-right-back.json) |
 | B-Line | 370237 | [370237-b-line.json](./370237-b-line.json) |
+| B-Minus 50 | 179412 | [179412-b-minus-50.json](./179412-b-minus-50.json) |
 | B-Prison Unchain | 410418 | [410418-b-prison-unchain.json](./410418-b-prison-unchain.json) |
 | B-Project: Ryuusei Fantasia | 148845 | [148845-b-project-ryuusei-fantasia.json](./148845-b-project-ryuusei-fantasia.json) |
 | B-Rabbit | 117482 | [117482-b-rabbit.json](./117482-b-rabbit.json) |
@@ -3002,6 +3003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of the Elements | 84782 | [84782-battle-of-the-elements.json](./84782-battle-of-the-elements.json) |
 | Battle of the Eras | 54965 | [54965-battle-of-the-eras.json](./54965-battle-of-the-eras.json) |
 | Battle of the Four Towers | 368012 | [368012-battle-of-the-four-towers.json](./368012-battle-of-the-four-towers.json) |
+| Battle of the Heroes | 179407 | [179407-battle-of-the-heroes.json](./179407-battle-of-the-heroes.json) |
 | Battle of the Immortals | 51218 | [51218-battle-of-the-immortals.json](./51218-battle-of-the-immortals.json) |
 | Battle of the Lexicon Lords | 294720 | [294720-battle-of-the-lexicon-lords.json](./294720-battle-of-the-lexicon-lords.json) |
 | Battle of the Lost Continent | 226245 | [226245-battle-of-the-lost-continent.json](./226245-battle-of-the-lost-continent.json) |
@@ -5387,6 +5389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond The Cupola: ISS Simulator | 389510 | [389510-beyond-the-cupola-iss-simulator.json](./389510-beyond-the-cupola-iss-simulator.json) |
 | Beyond the Curtain | 392280 | [392280-beyond-the-curtain.json](./392280-beyond-the-curtain.json) |
 | Beyond the Curtains | 279460 | [279460-beyond-the-curtains.json](./279460-beyond-the-curtains.json) |
+| Beyond the Dark | 179396 | [179396-beyond-the-dark.json](./179396-beyond-the-dark.json) |
 | Beyond the Dark Nightwatch | 403828 | [403828-beyond-the-dark-nightwatch.json](./403828-beyond-the-dark-nightwatch.json) |
 | Beyond the Deep | 225259 | [225259-beyond-the-deep.json](./225259-beyond-the-deep.json) |
 | Beyond the Diorama: Caribou World | 163810 | [163810-beyond-the-diorama-caribou-world.json](./163810-beyond-the-diorama-caribou-world.json) |
@@ -9611,6 +9614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberball | 392144 | [392144-bomberball.json](./392144-bomberball.json) |
 | BomberBoy | 242090 | [242090-bomberboy.json](./242090-bomberboy.json) |
 | BomberFun | 92978 | [92978-bomberfun.json](./92978-bomberfun.json) |
+| BomberGast | 179383 | [179383-bombergast.json](./179383-bombergast.json) |
 | Bombergeddon | 129745 | [129745-bombergeddon.json](./129745-bombergeddon.json) |
 | BomberHit | 303066 | [303066-bomberhit.json](./303066-bomberhit.json) |
 | Bomberic 2 | 91561 | [91561-bomberic-2.json](./91561-bomberic-2.json) |
@@ -11717,6 +11721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brews & Bastards | 265392 | [265392-brews-and-bastards.json](./265392-brews-and-bastards.json) |
 | Brewtopia | 319384 | [319384-brewtopia.json](./319384-brewtopia.json) |
 | BRG's Alice in Wonderland Visual Novel | 118772 | [118772-brgs-alice-in-wonderland-visual-novel.json](./118772-brgs-alice-in-wonderland-visual-novel.json) |
+| BRG's Red Riding Hood | 179415 | [179415-brgs-red-riding-hood.json](./179415-brgs-red-riding-hood.json) |
 | Brian Clough's Football Fortunes | 12283 | [12283-brian-cloughs-football-fortunes.json](./12283-brian-cloughs-football-fortunes.json) |
 | Brian Lara 2007 Pressure Play | 70025 | [70025-brian-lara-2007-pressure-play.json](./70025-brian-lara-2007-pressure-play.json) |
 | Brian Lara Cricket | 94848 | [94848-brian-lara-cricket.json](./94848-brian-lara-cricket.json) |
@@ -13270,6 +13275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bun Wars: Best of fun for Boys Girls and Kids | 101533 | [101533-bun-wars-best-of-fun-for-boys-girls-and-kids.json](./101533-bun-wars-best-of-fun-for-boys-girls-and-kids.json) |
 | Buna Wants Beer | 318525 | [318525-buna-wants-beer.json](./318525-buna-wants-beer.json) |
 | Bunbons | 210322 | [210322-bunbons.json](./210322-bunbons.json) |
+| Bunbun Tower | 179365 | [179365-bunbun-tower.json](./179365-bunbun-tower.json) |
 | Bunce | 189903 | [189903-bunce.json](./189903-bunce.json) |
 | Bunch of Heroes: Holiday Pack | 226274 | [226274-bunch-of-heroes-holiday-pack.json](./226274-bunch-of-heroes-holiday-pack.json) |
 | Bunches For Bart! | 297795 | [297795-bunches-for-bart.json](./297795-bunches-for-bart.json) |
