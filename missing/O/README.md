@@ -905,6 +905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh the Humanity! | 311481 | [311481-oh-the-humanity.json](./311481-oh-the-humanity.json) |
 | Oh to be a ghost bringing a scarf to my beloved | 307696 | [307696-oh-to-be-a-ghost-bringing-a-scarf-to-my-beloved.json](./307696-oh-to-be-a-ghost-bringing-a-scarf-to-my-beloved.json) |
 | Oh Yeah | 276628 | [276628-oh-yeah.json](./276628-oh-yeah.json) |
+| Oh, Brave New “Red” World! | 197039 | [197039-oh-brave-new-red-world.json](./197039-oh-brave-new-red-world.json) |
 | Oh, Bugger! | 347679 | [347679-oh-bugger.json](./347679-oh-bugger.json) |
 | Oh, Canada! | 371345 | [371345-oh-canada.json](./371345-oh-canada.json) |
 | Oh, Deer! | 80563 | [80563-oh-deer.json](./80563-oh-deer.json) |
