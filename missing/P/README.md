@@ -6593,6 +6593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixels: Digital Creatures | 166831 | [166831-pixels-digital-creatures.json](./166831-pixels-digital-creatures.json) |
 | Pixelscape: Oceans | 32200 | [32200-pixelscape-oceans.json](./32200-pixelscape-oceans.json) |
 | PixelShips Retro | 71145 | [71145-pixelships-retro.json](./71145-pixelships-retro.json) |
+| Pixelshire | 203740 | [203740-pixelshire.json](./203740-pixelshire.json) |
 | PixelSlime | 223613 | [223613-pixelslime.json](./223613-pixelslime.json) |
 | PixelTerra | 257247 | [257247-pixelterra.json](./257247-pixelterra.json) |
 | PixelTown | 183283 | [183283-pixeltown.json](./183283-pixeltown.json) |
@@ -11415,6 +11416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Football Online | 388173 | [388173-pro-football-online.json](./388173-pro-football-online.json) |
 | Pro Gamer Manager | 34320 | [34320-pro-gamer-manager.json](./34320-pro-gamer-manager.json) |
 | Pro Gamer Tycoon | 103471 | [103471-pro-gamer-tycoon.json](./103471-pro-gamer-tycoon.json) |
+| Pro Games Player | 203660 | [203660-pro-games-player.json](./203660-pro-games-player.json) |
 | Pro Golf | 385778 | [385778-pro-golf.json](./385778-pro-golf.json) |
 | Pro Golf | 95358 | [95358-pro-golf.json](./95358-pro-golf.json) |
 | Pro Golf Challenge | 96930 | [96930-pro-golf-challenge.json](./96930-pro-golf-challenge.json) |
@@ -14184,6 +14186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzwords | 91908 | [91908-puzzwords.json](./91908-puzzwords.json) |
 | Puzzzle | 142218 | [142218-puzzzle.json](./142218-puzzzle.json) |
 | PVKK: Planetenverteidigungskanonenkommandant | 307368 | [307368-pvkk-planetenverteidigungskanonenkommandant.json](./307368-pvkk-planetenverteidigungskanonenkommandant.json) |
+| PvNP | 203737 | [203737-pvnp.json](./203737-pvnp.json) |
 | PVPClicker | 382896 | [382896-pvpclicker.json](./382896-pvpclicker.json) |
 | PvPillman | 285463 | [285463-pvpillman.json](./285463-pvpillman.json) |
 | Pwanet Pwotector | 335408 | [335408-pwanet-pwotector.json](./335408-pwanet-pwotector.json) |
