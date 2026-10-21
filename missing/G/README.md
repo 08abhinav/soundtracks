@@ -1451,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Warfare: Crab Invasion | 337632 | [337632-garden-warfare-crab-invasion.json](./337632-garden-warfare-crab-invasion.json) |
 | Garden Watering | 234452 | [234452-garden-watering.json](./234452-garden-watering.json) |
 | Garden Weeder | 246334 | [246334-garden-weeder.json](./246334-garden-weeder.json) |
+| Garden Witch Life | 182112 | [182112-garden-witch-life.json](./182112-garden-witch-life.json) |
 | Garden Work Simulator 2026 | 396547 | [396547-garden-work-simulator-2026.json](./396547-garden-work-simulator-2026.json) |
 | Garden's Bane: DG's Quest | 208610 | [208610-gardens-bane-dgs-quest.json](./208610-gardens-bane-dgs-quest.json) |
 | Gardener | 285578 | [285578-gardener.json](./285578-gardener.json) |
@@ -7826,6 +7827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilds n Glory | 213001 | [213001-guilds-n-glory.json](./213001-guilds-n-glory.json) |
 | Guilds of Delenar | 112724 | [112724-guilds-of-delenar.json](./112724-guilds-of-delenar.json) |
 | Guilds of Gods | 130775 | [130775-guilds-of-gods.json](./130775-guilds-of-gods.json) |
+| Guilds of Gods | 182098 | [182098-guilds-of-gods.json](./182098-guilds-of-gods.json) |
 | Guilds of Greybrook | 373166 | [373166-guilds-of-greybrook.json](./373166-guilds-of-greybrook.json) |
 | Guilds of Mountgate | 405523 | [405523-guilds-of-mountgate.json](./405523-guilds-of-mountgate.json) |
 | Guile | 13249 | [13249-guile.json](./13249-guile.json) |
