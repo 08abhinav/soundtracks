@@ -207,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LabyrInk | 252287 | [252287-labyrink.json](./252287-labyrink.json) |
 | Labyrinth | 129067 | [129067-labyrinth.json](./129067-labyrinth.json) |
 | Labyrinth | 129619 | [129619-labyrinth.json](./129619-labyrinth.json) |
+| Labyrinth | 172387 | [172387-labyrinth.json](./172387-labyrinth.json) |
 | Labyrinth | 178288 | [178288-labyrinth.json](./178288-labyrinth.json) |
 | Labyrinth | 18211 | [18211-labyrinth.json](./18211-labyrinth.json) |
 | Labyrinth | 206701 | [206701-labyrinth.json](./206701-labyrinth.json) |
@@ -1318,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laurel's Day | 393486 | [393486-laurels-day.json](./393486-laurels-day.json) |
 | Laureli: Blood-Dipped Manor | 382183 | [382183-laureli-blood-dipped-manor.json](./382183-laureli-blood-dipped-manor.json) |
 | Lauren's visit | 108066 | [108066-laurens-visit.json](./108066-laurens-visit.json) |
+| Laurie Anderson's Puppet Motel | 172408 | [172408-laurie-andersons-puppet-motel.json](./172408-laurie-andersons-puppet-motel.json) |
 | Laurum Online | 124544 | [124544-laurum-online.json](./124544-laurum-online.json) |
 | Lava Escape Mine | 168712 | [168712-lava-escape-mine.json](./168712-lava-escape-mine.json) |
 | Lava Fever | 22786 | [22786-lava-fever.json](./22786-lava-fever.json) |
@@ -5163,6 +5165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lockdown Town ZX | 232409 | [232409-lockdown-town-zx.json](./232409-lockdown-town-zx.json) |
 | Lockdown VR: Circus of the Dead | 195261 | [195261-lockdown-vr-circus-of-the-dead.json](./195261-lockdown-vr-circus-of-the-dead.json) |
 | Lockdown VR: Forgotten Temple | 242014 | [242014-lockdown-vr-forgotten-temple.json](./242014-lockdown-vr-forgotten-temple.json) |
+| Lockdown VR: Kidnapped | 172375 | [172375-lockdown-vr-kidnapped.json](./172375-lockdown-vr-kidnapped.json) |
 | Lockdown: Stand Alone | 31774 | [31774-lockdown-stand-alone.json](./31774-lockdown-stand-alone.json) |
 | Locke(d) | 231365 | [231365-locke-d.json](./231365-locke-d.json) |
 | Locked | 276219 | [276219-locked.json](./276219-locked.json) |
