@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakan's War Manager | 258919 | [258919-hakans-war-manager.json](./258919-hakans-war-manager.json) |
 | Hakarena Heart: Dare ga Tame ni Kimi ha Aru | 69292 | [69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json](./69292-hakarena-heart-dare-ga-tame-ni-kimi-ha-aru.json) |
 | Hakarena Heart: Kimi ga Tame ni Kagayaki wo | 217755 | [217755-hakarena-heart-kimi-ga-tame-ni-kagayaki-wo.json](./217755-hakarena-heart-kimi-ga-tame-ni-kagayaki-wo.json) |
+| Hakei | 177744 | [177744-hakei.json](./177744-hakei.json) |
 | Haken wo Nigire: 47 Todoufuken Taisen | 110107 | [110107-haken-wo-nigire-47-todoufuken-taisen.json](./110107-haken-wo-nigire-47-todoufuken-taisen.json) |
 | Hakkaku Doku | 323707 | [323707-hakkaku-doku.json](./323707-hakkaku-doku.json) |
 | Hakkemii no Uranai SP | 354390 | [354390-hakkemii-no-uranai-sp.json](./354390-hakkemii-no-uranai-sp.json) |
@@ -9149,6 +9150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt the Wumpus | 310619 | [310619-hunt-the-wumpus.json](./310619-hunt-the-wumpus.json) |
 | Hunt them | 113473 | [113473-hunt-them.json](./113473-hunt-them.json) |
 | Hunt Zombies Together | 413135 | [413135-hunt-zombies-together.json](./413135-hunt-zombies-together.json) |
+| Hunt, Hunter, Hunted | 177751 | [177751-hunt-hunter-hunted.json](./177751-hunt-hunter-hunted.json) |
 | Hunt: Showdown - Bayou Wraith | 166067 | [166067-hunt-showdown-bayou-wraith.json](./166067-hunt-showdown-bayou-wraith.json) |
 | Hunt: Showdown - Bridgewater's Honor | 241834 | [241834-hunt-showdown-bridgewaters-honor.json](./241834-hunt-showdown-bridgewaters-honor.json) |
 | Hunt: Showdown - Cold Blooded | 196100 | [196100-hunt-showdown-cold-blooded.json](./196100-hunt-showdown-cold-blooded.json) |
