@@ -1591,6 +1591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jim Lee's Wild C.A.T.S: Covert Action Teams | 42510 | [42510-jim-lees-wild-c-a-t-s-covert-action-teams.json](./42510-jim-lees-wild-c-a-t-s-covert-action-teams.json) |
 | Jim Power: The Lost Dimension in 3D | 42606 | [42606-jim-power-the-lost-dimension-in-3d.json](./42606-jim-power-the-lost-dimension-in-3d.json) |
 | Jim the Spy | 207179 | [207179-jim-the-spy.json](./207179-jim-the-spy.json) |
+| Jim's Adventure | 198070 | [198070-jims-adventure.json](./198070-jims-adventure.json) |
 | Jim's Gym | 241056 | [241056-jims-gym.json](./241056-jims-gym.json) |
 | Jimbaori: The Onin War | 259966 | [259966-jimbaori-the-onin-war.json](./259966-jimbaori-the-onin-war.json) |
 | Jimbob and the Magic Chain | 199073 | [199073-jimbob-and-the-magic-chain.json](./199073-jimbob-and-the-magic-chain.json) |
