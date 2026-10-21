@@ -3576,6 +3576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Fantasy: Talisman of Death | 52211 | [52211-fighting-fantasy-talisman-of-death.json](./52211-fighting-fantasy-talisman-of-death.json) |
 | Fighting Fantasy: The Forest of Doom | 175216 | [175216-fighting-fantasy-the-forest-of-doom.json](./175216-fighting-fantasy-the-forest-of-doom.json) |
 | Fighting Fantasy: The Talisman of Death | 20571 | [20571-fighting-fantasy-the-talisman-of-death.json](./20571-fighting-fantasy-the-talisman-of-death.json) |
+| Fighting Fiends | 180488 | [180488-fighting-fiends.json](./180488-fighting-fiends.json) |
 | Fighting For Food | 72357 | [72357-fighting-for-food.json](./72357-fighting-for-food.json) |
 | Fighting for Singleship: I am Chased by a Bunch of Women But I Just Want to Play Video Games | 274558 | [274558-fighting-for-singleship-i-am-chased-by-a-bunch-of-women-but-i-just-want-to-play-video-games.json](./274558-fighting-for-singleship-i-am-chased-by-a-bunch-of-women-but-i-just-want-to-play-video-games.json) |
 | Fighting Force 2 | 11615 | [11615-fighting-force-2.json](./11615-fighting-force-2.json) |
@@ -10338,6 +10339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furball | 92127 | [92127-furball.json](./92127-furball.json) |
 | Furball Blitz! | 297873 | [297873-furball-blitz.json](./297873-furball-blitz.json) |
 | Furball Farm | 324317 | [324317-furball-farm.json](./324317-furball-farm.json) |
+| Furballs | 180467 | [180467-furballs.json](./180467-furballs.json) |
 | FurBalls Racing | 207299 | [207299-furballs-racing.json](./207299-furballs-racing.json) |
 | Furby Island | 233987 | [233987-furby-island.json](./233987-furby-island.json) |
 | Furcadia | 18343 | [18343-furcadia.json](./18343-furcadia.json) |
@@ -10681,6 +10683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Pool | 130857 | [130857-future-pool.json](./130857-future-pool.json) |
 | Future Proof | 100420 | [100420-future-proof.json](./100420-future-proof.json) |
 | Future Racer 2000 | 248909 | [248909-future-racer-2000.json](./248909-future-racer-2000.json) |
+| Future Rally | 180462 | [180462-future-rally.json](./180462-future-rally.json) |
 | Future Reality | 177302 | [177302-future-reality.json](./177302-future-reality.json) |
 | Future Reality: Racing League | 217364 | [217364-future-reality-racing-league.json](./217364-future-reality-racing-league.json) |
 | Future Sauce Dispenser | 407297 | [407297-future-sauce-dispenser.json](./407297-future-sauce-dispenser.json) |
