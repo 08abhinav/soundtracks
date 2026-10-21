@@ -3829,6 +3829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Effect: Digital Deluxe Edition | 227334 | [227334-tetris-effect-digital-deluxe-edition.json](./227334-tetris-effect-digital-deluxe-edition.json) |
 | Tetris Elements | 46436 | [46436-tetris-elements.json](./46436-tetris-elements.json) |
 | Tetris Evolution | 2631 | [2631-tetris-evolution.json](./2631-tetris-evolution.json) |
+| Tetris for Two | 187733 | [187733-tetris-for-two.json](./187733-tetris-for-two.json) |
 | Tetris for Windows CE | 203113 | [203113-tetris-for-windows-ce.json](./203113-tetris-for-windows-ce.json) |
 | Tetris Forever | 314934 | [314934-tetris-forever.json](./314934-tetris-forever.json) |
 | Tetris Giant | 92457 | [92457-tetris-giant.json](./92457-tetris-giant.json) |
@@ -14173,6 +14174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vigilant Villa: Non-existent Mirror | 164332 | [164332-the-vigilant-villa-non-existent-mirror.json](./164332-the-vigilant-villa-non-existent-mirror.json) |
 | The Vigilante Diaries | 297838 | [297838-the-vigilante-diaries.json](./297838-the-vigilante-diaries.json) |
 | The Vigilante: Single Shot Justice | 179117 | [179117-the-vigilante-single-shot-justice.json](./179117-the-vigilante-single-shot-justice.json) |
+| The VII Enigma | 187713 | [187713-the-vii-enigma.json](./187713-the-vii-enigma.json) |
 | The Viking Game | 89704 | [89704-the-viking-game.json](./89704-the-viking-game.json) |
 | The Viking Guardsman | 409736 | [409736-the-viking-guardsman.json](./409736-the-viking-guardsman.json) |
 | The Viking Way | 158610 | [158610-the-viking-way.json](./158610-the-viking-way.json) |
@@ -25183,6 +25185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twinora | 126636 | [126636-twinora.json](./126636-twinora.json) |
 | Twins & Dreams | 373223 | [373223-twins-and-dreams.json](./373223-twins-and-dreams.json) |
 | Twins Dash | 200028 | [200028-twins-dash.json](./200028-twins-dash.json) |
+| Twins Edge: Back and Forth | 187702 | [187702-twins-edge-back-and-forth.json](./187702-twins-edge-back-and-forth.json) |
 | Twins Minigame | 299570 | [299570-twins-minigame.json](./299570-twins-minigame.json) |
 | Twins Mother Simulator Game 3D | 296783 | [296783-twins-mother-simulator-game-3d.json](./296783-twins-mother-simulator-game-3d.json) |
 | Twins of Legacy: Elemental | 316850 | [316850-twins-of-legacy-elemental.json](./316850-twins-of-legacy-elemental.json) |
