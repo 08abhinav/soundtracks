@@ -5808,6 +5808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Frizbee | 332250 | [332250-detective-frizbee.json](./332250-detective-frizbee.json) |
 | Detective Girl of the Steam City | 114576 | [114576-detective-girl-of-the-steam-city.json](./114576-detective-girl-of-the-steam-city.json) |
 | Detective Grimoire: Secret of the Swamp | 10795 | [10795-detective-grimoire-secret-of-the-swamp.json](./10795-detective-grimoire-secret-of-the-swamp.json) |
+| Detective GUI | 184784 | [184784-detective-gui.json](./184784-detective-gui.json) |
 | Detective Hayseed: Hollywood | 26992 | [26992-detective-hayseed-hollywood.json](./26992-detective-hayseed-hollywood.json) |
 | Detective Hayseed: The Cloning Madness | 277025 | [277025-detective-hayseed-the-cloning-madness.json](./277025-detective-hayseed-the-cloning-madness.json) |
 | Detective Hindsight | 367971 | [367971-detective-hindsight.json](./367971-detective-hindsight.json) |
@@ -7301,6 +7302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinus Cross World | 372824 | [372824-dinus-cross-world.json](./372824-dinus-cross-world.json) |
 | Dinus Escape | 338293 | [338293-dinus-escape.json](./338293-dinus-escape.json) |
 | Dio Simulator Remastered | 201841 | [201841-dio-simulator-remastered.json](./201841-dio-simulator-remastered.json) |
+| Dio's Bizarre Boutique | 184747 | [184747-dios-bizarre-boutique.json](./184747-dios-bizarre-boutique.json) |
 | Diode Arena | 207336 | [207336-diode-arena.json](./207336-diode-arena.json) |
 | Dion | 338341 | [338341-dion.json](./338341-dion.json) |
 | Dionysus | 412410 | [412410-dionysus.json](./412410-dionysus.json) |
@@ -10797,9 +10799,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula: Undead Awakening | 42858 | [42858-dracula-undead-awakening.json](./42858-dracula-undead-awakening.json) |
 | Dracula: Vampires vs. Zombies | 43169 | [43169-dracula-vampires-vs-zombies.json](./43169-dracula-vampires-vs-zombies.json) |
 | Dracula's Castle | 170341 | [170341-draculas-castle.json](./170341-draculas-castle.json) |
+| Dracula's Castle | 184752 | [184752-draculas-castle.json](./184752-draculas-castle.json) |
 | Dracula's Castle | 277490 | [277490-draculas-castle.json](./277490-draculas-castle.json) |
 | Dracula's Legacy | 34613 | [34613-draculas-legacy.json](./34613-draculas-legacy.json) |
 | Dracula's Library | 43142 | [43142-draculas-library.json](./43142-draculas-library.json) |
+| Dracula's Pizza Delivery | 184755 | [184755-draculas-pizza-delivery.json](./184755-draculas-pizza-delivery.json) |
 | Dracula's Prey: A Nightmare in Rome | 270020 | [270020-draculas-prey-a-nightmare-in-rome.json](./270020-draculas-prey-a-nightmare-in-rome.json) |
 | Dracula's Secret | 73228 | [73228-draculas-secret.json](./73228-draculas-secret.json) |
 | Dracula’s Vengeance | 249206 | [249206-dracula-s-vengeance.json](./249206-dracula-s-vengeance.json) |
