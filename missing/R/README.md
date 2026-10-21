@@ -1297,6 +1297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rami-chan no Ooedo Sugoroku: Keio Yuugeki-tai Gaiden | 66215 | [66215-rami-chan-no-ooedo-sugoroku-keio-yuugeki-tai-gaiden.json](./66215-rami-chan-no-ooedo-sugoroku-keio-yuugeki-tai-gaiden.json) |
 | Ramify | 31153 | [31153-ramify.json](./31153-ramify.json) |
 | Ramming Turtleship: 1592 - The Imjin War | 390000 | [390000-ramming-turtleship-1592-the-imjin-war.json](./390000-ramming-turtleship-1592-the-imjin-war.json) |
+| Rammy No Daibouken | 174553 | [174553-rammy-no-daibouken.json](./174553-rammy-no-daibouken.json) |
 | Rammy No Daibouken Ⅱ | 174128 | [174128-rammy-no-daibouken-ii.json](./174128-rammy-no-daibouken-ii.json) |
 | Rammy's Great Adventure 1&2 Remake | 339139 | [339139-rammys-great-adventure-1-and-2-remake.json](./339139-rammys-great-adventure-1-and-2-remake.json) |
 | Ramona | 370326 | [370326-ramona.json](./370326-ramona.json) |
@@ -3085,6 +3086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Spider3: A Heroine Never Dies | 100709 | [100709-red-spider3-a-heroine-never-dies.json](./100709-red-spider3-a-heroine-never-dies.json) |
 | Red Square | 120977 | [120977-red-square.json](./120977-red-square.json) |
 | Red Square Escape 2 | 165612 | [165612-red-square-escape-2.json](./165612-red-square-escape-2.json) |
+| Red Squares | 174567 | [174567-red-squares.json](./174567-red-squares.json) |
 | Red Star Over America | 340710 | [340710-red-star-over-america.json](./340710-red-star-over-america.json) |
 | Red Stone Online | 35737 | [35737-red-stone-online.json](./35737-red-stone-online.json) |
 | Red Storm Rising | 15354 | [15354-red-storm-rising.json](./15354-red-storm-rising.json) |
@@ -3341,6 +3343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refactor | 35928 | [35928-refactor.json](./35928-refactor.json) |
 | Refactoro: Chaotic Farm | 294961 | [294961-refactoro-chaotic-farm.json](./294961-refactoro-chaotic-farm.json) |
 | ReFactory | 195977 | [195977-refactory.json](./195977-refactory.json) |
+| ReFactory: Factory Simulator | 174529 | [174529-refactory-factory-simulator.json](./174529-refactory-factory-simulator.json) |
 | Refantasia: Charm and Conquer | 200744 | [200744-refantasia-charm-and-conquer.json](./200744-refantasia-charm-and-conquer.json) |
 | Refarm | 312178 | [312178-refarm.json](./312178-refarm.json) |
 | Refbals | 392272 | [392272-refbals.json](./392272-refbals.json) |
@@ -6721,6 +6724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Rangers | 388744 | [388744-robo-rangers.json](./388744-robo-rangers.json) |
 | Robo Rapture | 176306 | [176306-robo-rapture.json](./176306-robo-rapture.json) |
 | Robo Recall | 26451 | [26451-robo-recall.json](./26451-robo-recall.json) |
+| Robo Recall: Unplugged | 174555 | [174555-robo-recall-unplugged.json](./174555-robo-recall-unplugged.json) |
 | Robo Rescue | 328489 | [328489-robo-rescue.json](./328489-robo-rescue.json) |
 | Robo Ret | 254062 | [254062-robo-ret.json](./254062-robo-ret.json) |
 | Robo Revenge Squad | 205028 | [205028-robo-revenge-squad.json](./205028-robo-revenge-squad.json) |
@@ -8398,6 +8402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooster Rampage | 150285 | [150285-rooster-rampage.json](./150285-rooster-rampage.json) |
 | Rooster Saga: I Believe I Can Fly | 393529 | [393529-rooster-saga-i-believe-i-can-fly.json](./393529-rooster-saga-i-believe-i-can-fly.json) |
 | Rooster Tale | 236157 | [236157-rooster-tale.json](./236157-rooster-tale.json) |
+| Rooster Teeth vs. Zombiens: Remember the Bungalow | 174541 | [174541-rooster-teeth-vs-zombiens-remember-the-bungalow.json](./174541-rooster-teeth-vs-zombiens-remember-the-bungalow.json) |
 | Rooster Wars Tactic | 120235 | [120235-rooster-wars-tactic.json](./120235-rooster-wars-tactic.json) |
 | Rooster: Princess Rescue | 409558 | [409558-rooster-princess-rescue.json](./409558-rooster-princess-rescue.json) |
 | Root | 139145 | [139145-root.json](./139145-root.json) |
