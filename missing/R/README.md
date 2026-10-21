@@ -3459,6 +3459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regression | 391704 | [391704-regression.json](./391704-regression.json) |
 | Regret | 391791 | [391791-regret.json](./391791-regret.json) |
 | Regretful Ghosts | 318542 | [318542-regretful-ghosts.json](./318542-regretful-ghosts.json) |
+| Regular Factory: Escape Room | 188833 | [188833-regular-factory-escape-room.json](./188833-regular-factory-escape-room.json) |
 | Regular Fit | 280108 | [280108-regular-fit.json](./280108-regular-fit.json) |
 | Regular Friday Night | 298719 | [298719-regular-friday-night.json](./298719-regular-friday-night.json) |
 | Regular Home Renovation Simulator Prototype | 231866 | [231866-regular-home-renovation-simulator-prototype.json](./231866-regular-home-renovation-simulator-prototype.json) |
@@ -4133,6 +4134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Team: Legion of Destruction | 410458 | [410458-rescue-team-legion-of-destruction.json](./410458-rescue-team-legion-of-destruction.json) |
 | Rescue Team: Mineral of Miracles | 264631 | [264631-rescue-team-mineral-of-miracles.json](./264631-rescue-team-mineral-of-miracles.json) |
 | Rescue Team: Phantom Crisis - Collector's Edition | 417512 | [417512-rescue-team-phantom-crisis-collectors-edition.json](./417512-rescue-team-phantom-crisis-collectors-edition.json) |
+| Rescue Team: Power Eaters | 188860 | [188860-rescue-team-power-eaters.json](./188860-rescue-team-power-eaters.json) |
 | Rescue Terra I | 40699 | [40699-rescue-terra-i.json](./40699-rescue-terra-i.json) |
 | Rescue the Enchanter | 87270 | [87270-rescue-the-enchanter.json](./87270-rescue-the-enchanter.json) |
 | Rescue the Girl | 347086 | [347086-rescue-the-girl.json](./347086-rescue-the-girl.json) |
@@ -5586,6 +5588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riding the Wave | 318387 | [318387-riding-the-wave.json](./318387-riding-the-wave.json) |
 | Riding to Bounce City | 215922 | [215922-riding-to-bounce-city.json](./215922-riding-to-bounce-city.json) |
 | Riding to Bounce City: Babydoll Set A | 293871 | [293871-riding-to-bounce-city-babydoll-set-a.json](./293871-riding-to-bounce-city-babydoll-set-a.json) |
+| Ridle | 188857 | [188857-ridle.json](./188857-ridle.json) |
 | Riff Raft | 184919 | [184919-riff-raft.json](./184919-riff-raft.json) |
 | Riff: The Music Trivia DVD Game | 360767 | [360767-riff-the-music-trivia-dvd-game.json](./360767-riff-the-music-trivia-dvd-game.json) |
 | Riffle Effect | 217511 | [217511-riffle-effect.json](./217511-riffle-effect.json) |
@@ -7867,6 +7870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll Prix | 120252 | [120252-roll-prix.json](./120252-roll-prix.json) |
 | Roll the Ball | 273418 | [273418-roll-the-ball.json](./273418-roll-the-ball.json) |
 | Roll The Bones | 271900 | [271900-roll-the-bones.json](./271900-roll-the-bones.json) |
+| Roll the Cat | 188829 | [188829-roll-the-cat.json](./188829-roll-the-cat.json) |
 | Roll the Dark Heart | 251850 | [251850-roll-the-dark-heart.json](./251850-roll-the-dark-heart.json) |
 | Roll The Die: Prologue | 309467 | [309467-roll-the-die-prologue.json](./309467-roll-the-die-prologue.json) |
 | Roll the TP | 328677 | [328677-roll-the-tp.json](./328677-roll-the-tp.json) |
