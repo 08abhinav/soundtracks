@@ -2640,6 +2640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Yankee in King Arthur's Court 4 | 117825 | [117825-new-yankee-in-king-arthurs-court-4.json](./117825-new-yankee-in-king-arthurs-court-4.json) |
 | New Yankee in King Arthur's Court 5 | 118260 | [118260-new-yankee-in-king-arthurs-court-5.json](./118260-new-yankee-in-king-arthurs-court-5.json) |
 | New Yankee in Santa's Service | 32990 | [32990-new-yankee-in-santas-service.json](./32990-new-yankee-in-santas-service.json) |
+| New Yankee: Battle for the Bride | 199773 | [199773-new-yankee-battle-for-the-bride.json](./199773-new-yankee-battle-for-the-bride.json) |
 | New Yankee: Jelly Chaos | 418540 | [418540-new-yankee-jelly-chaos.json](./418540-new-yankee-jelly-chaos.json) |
 | New Yankee: Jelly Chaos - Collector's Edition | 417515 | [417515-new-yankee-jelly-chaos-collectors-edition.json](./417515-new-yankee-jelly-chaos-collectors-edition.json) |
 | New Yankee: Karma Tales | 235833 | [235833-new-yankee-karma-tales.json](./235833-new-yankee-karma-tales.json) |
@@ -4235,6 +4236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nirih | 348325 | [348325-nirih.json](./348325-nirih.json) |
 | Nirin | 380177 | [380177-nirin.json](./380177-nirin.json) |
 | Nirmita | 197367 | [197367-nirmita.json](./197367-nirmita.json) |
+| Nirvana | 199809 | [199809-nirvana.json](./199809-nirvana.json) |
 | Nirvana | 289248 | [289248-nirvana.json](./289248-nirvana.json) |
 | Nirvana | 331687 | [331687-nirvana.json](./331687-nirvana.json) |
 | Nirvana Pilot Yume | 75518 | [75518-nirvana-pilot-yume.json](./75518-nirvana-pilot-yume.json) |
