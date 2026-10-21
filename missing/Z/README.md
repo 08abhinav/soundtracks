@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Apocalypse: The Last Fortress | 235067 | [235067-zombie-apocalypse-the-last-fortress.json](./235067-zombie-apocalypse-the-last-fortress.json) |
 | Zombie Arena | 220740 | [220740-zombie-arena.json](./220740-zombie-arena.json) |
 | Zombie Army 4: Dead War - Deluxe Edition | 129784 | [129784-zombie-army-4-dead-war-deluxe-edition.json](./129784-zombie-army-4-dead-war-deluxe-edition.json) |
+| Zombie Army 4: Dead War - Left 4 Dead Bundle | 199894 | [199894-zombie-army-4-dead-war-left-4-dead-bundle.json](./199894-zombie-army-4-dead-war-left-4-dead-bundle.json) |
 | Zombie Army 4: Dead War - Mission 2: Blood Count | 133936 | [133936-zombie-army-4-dead-war-mission-2-blood-count.json](./133936-zombie-army-4-dead-war-mission-2-blood-count.json) |
 | Zombie Army 4: Dead War - Mission 5: Alpine Blitz | 143684 | [143684-zombie-army-4-dead-war-mission-5-alpine-blitz.json](./143684-zombie-army-4-dead-war-mission-5-alpine-blitz.json) |
 | Zombie Army 4: Dead War - Mission 6: Dead Zeppelin | 143685 | [143685-zombie-army-4-dead-war-mission-6-dead-zeppelin.json](./143685-zombie-army-4-dead-war-mission-6-dead-zeppelin.json) |
