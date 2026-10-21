@@ -1860,6 +1860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardlock | 184582 | [184582-cardlock.json](./184582-cardlock.json) |
 | Cardmare: Descent | 398444 | [398444-cardmare-descent.json](./398444-cardmare-descent.json) |
 | CardMatch | 116951 | [116951-cardmatch.json](./116951-cardmatch.json) |
+| Cardmon | 200977 | [200977-cardmon.json](./200977-cardmon.json) |
 | Cardnarok: Raid with Gods | 132232 | [132232-cardnarok-raid-with-gods.json](./132232-cardnarok-raid-with-gods.json) |
 | Cardness | 338688 | [338688-cardness.json](./338688-cardness.json) |
 | Cardoom | 386985 | [386985-cardoom.json](./386985-cardoom.json) |
@@ -9865,6 +9866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Complete Onside Soccer | 93021 | [93021-complete-onside-soccer.json](./93021-complete-onside-soccer.json) |
 | Completion LawnCare | 216454 | [216454-completion-lawncare.json](./216454-completion-lawncare.json) |
 | Complex Complex | 273924 | [273924-complex-complex.json](./273924-complex-complex.json) |
+| Complex Doom: Clusterfuck | 200979 | [200979-complex-doom-clusterfuck.json](./200979-complex-doom-clusterfuck.json) |
 | Complex Hero | 265626 | [265626-complex-hero.json](./265626-complex-hero.json) |
 | Complex Loop | 244599 | [244599-complex-loop.json](./244599-complex-loop.json) |
 | Complex Sky | 144097 | [144097-complex-sky.json](./144097-complex-sky.json) |
@@ -15393,6 +15395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber-Wing | 130654 | [130654-cyber-wing.json](./130654-cyber-wing.json) |
 | Cyber.one: Trans Car Racing | 126985 | [126985-cyber-one-trans-car-racing.json](./126985-cyber-one-trans-car-racing.json) |
 | Cyber92 Datawar | 398491 | [398491-cyber92-datawar.json](./398491-cyber92-datawar.json) |
+| CyberAge | 200993 | [200993-cyberage.json](./200993-cyberage.json) |
 | CyberArena | 338211 | [338211-cyberarena.json](./338211-cyberarena.json) |
 | Cyberball | 12022 | [12022-cyberball.json](./12022-cyberball.json) |
 | Cyberball 2072 | 23070 | [23070-cyberball-2072.json](./23070-cyberball-2072.json) |
@@ -15688,6 +15691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cypher: Cyberpunk Text Adventure | 64616 | [64616-cypher-cyberpunk-text-adventure.json](./64616-cypher-cyberpunk-text-adventure.json) |
 | Cyphernaut | 222798 | [222798-cyphernaut.json](./222798-cyphernaut.json) |
 | Cyphers | 62633 | [62633-cyphers.json](./62633-cyphers.json) |
+| Cyphers Game VR | 200976 | [200976-cyphers-game-vr.json](./200976-cyphers-game-vr.json) |
 | Cypress Legacy | 328097 | [328097-cypress-legacy.json](./328097-cypress-legacy.json) |
 | Cyra and the Beacon Path | 203962 | [203962-cyra-and-the-beacon-path.json](./203962-cyra-and-the-beacon-path.json) |
 | Cyrah's Ascent | 201558 | [201558-cyrahs-ascent.json](./201558-cyrahs-ascent.json) |
