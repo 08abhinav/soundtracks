@@ -3466,6 +3466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terraformers: Supporter Edition | 271471 | [271471-terraformers-supporter-edition.json](./271471-terraformers-supporter-edition.json) |
 | Terraforming Earth | 115499 | [115499-terraforming-earth.json](./115499-terraforming-earth.json) |
 | Terraforming Mars | 86558 | [86558-terraforming-mars.json](./86558-terraforming-mars.json) |
+| Terraforming Mars Collection | 200988 | [200988-terraforming-mars-collection.json](./200988-terraforming-mars-collection.json) |
 | Terraforming Mars: Colonies | 402404 | [402404-terraforming-mars-colonies.json](./402404-terraforming-mars-colonies.json) |
 | Terraforming Mars: Venus Next | 273965 | [273965-terraforming-mars-venus-next.json](./273965-terraforming-mars-venus-next.json) |
 | Terrafort | 285966 | [285966-terrafort.json](./285966-terrafort.json) |
@@ -7959,6 +7960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hardy Boys: The Hidden Theft | 4903 | [4903-the-hardy-boys-the-hidden-theft.json](./4903-the-hardy-boys-the-hidden-theft.json) |
 | The Hardy Boys: The Perfect Crime | 66340 | [66340-the-hardy-boys-the-perfect-crime.json](./66340-the-hardy-boys-the-perfect-crime.json) |
 | The Hardy Boys: Treasure on the Tracks | 21105 | [21105-the-hardy-boys-treasure-on-the-tracks.json](./21105-the-hardy-boys-treasure-on-the-tracks.json) |
+| The Harlem Shake Dance Video Game | 200876 | [200876-the-harlem-shake-dance-video-game.json](./200876-the-harlem-shake-dance-video-game.json) |
 | The Harlem Shake vs. Gangnam Dance Game | 264355 | [264355-the-harlem-shake-vs-gangnam-dance-game.json](./264355-the-harlem-shake-vs-gangnam-dance-game.json) |
 | The Harmony Chronicles: Cat Out of the Bag | 416708 | [416708-the-harmony-chronicles-cat-out-of-the-bag.json](./416708-the-harmony-chronicles-cat-out-of-the-bag.json) |
 | The Harmony Chronicles: Cat Out of the Bag - Collector’s Edition | 338663 | [338663-the-harmony-chronicles-cat-out-of-the-bag-collector-s-edition.json](./338663-the-harmony-chronicles-cat-out-of-the-bag-collector-s-edition.json) |
