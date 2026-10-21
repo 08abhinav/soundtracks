@@ -2475,6 +2475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cassette Three | 148294 | [148294-cassette-three.json](./148294-cassette-three.json) |
 | Cassidy | 145032 | [145032-cassidy.json](./145032-cassidy.json) |
 | Cassiel | 276262 | [276262-cassiel.json](./276262-cassiel.json) |
+| Cassiodora | 193659 | [193659-cassiodora.json](./193659-cassiodora.json) |
 | Cassius | 172197 | [172197-cassius.json](./172197-cassius.json) |
 | Cast 'n' Blast | 318564 | [318564-cast-n-blast.json](./318564-cast-n-blast.json) |
 | Cast Ashore | 152815 | [152815-cast-ashore.json](./152815-cast-ashore.json) |
@@ -13582,6 +13583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossroad of Worlds: Mirrors to Other Worlds - Collector's Edition | 240131 | [240131-crossroad-of-worlds-mirrors-to-other-worlds-collectors-edition.json](./240131-crossroad-of-worlds-mirrors-to-other-worlds-collectors-edition.json) |
 | Crossroad of Worlds: Mystery Agency - Collector's Edition | 234526 | [234526-crossroad-of-worlds-mystery-agency-collectors-edition.json](./234526-crossroad-of-worlds-mystery-agency-collectors-edition.json) |
 | Crossroad OS | 259007 | [259007-crossroad-os.json](./259007-crossroad-os.json) |
+| Crossroad Simulator | 193774 | [193774-crossroad-simulator.json](./193774-crossroad-simulator.json) |
 | Crossroads | 377570 | [377570-crossroads.json](./377570-crossroads.json) |
 | Crossroads Extreme | 119620 | [119620-crossroads-extreme.json](./119620-crossroads-extreme.json) |
 | Crossroads Farming Co. | 377056 | [377056-crossroads-farming-co.json](./377056-crossroads-farming-co.json) |
