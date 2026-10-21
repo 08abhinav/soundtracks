@@ -4152,6 +4152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chained Wheels | 386507 | [386507-chained-wheels.json](./386507-chained-wheels.json) |
 | Chainer | 350062 | [350062-chainer.json](./350062-chainer.json) |
 | Chainers | 393551 | [393551-chainers.json](./393551-chainers.json) |
+| Chainitaire | 185332 | [185332-chainitaire.json](./185332-chainitaire.json) |
 | Chainmail Bikini | 235825 | [235825-chainmail-bikini.json](./235825-chainmail-bikini.json) |
 | ChainMan | 39763 | [39763-chainman.json](./39763-chainman.json) |
 | Chainmap Chaos | 271232 | [271232-chainmap-chaos.json](./271232-chainmap-chaos.json) |
@@ -9839,6 +9840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commute | 295162 | [295162-commute.json](./295162-commute.json) |
 | Commuter | 189160 | [189160-commuter.json](./189160-commuter.json) |
 | Commuter Connector | 179440 | [179440-commuter-connector.json](./179440-commuter-connector.json) |
+| Commuting | 185325 | [185325-commuting.json](./185325-commuting.json) |
 | Comp IV | 245533 | [245533-comp-iv.json](./245533-comp-iv.json) |
 | Compact Cyber Arcade: Disney Frozen Elsa | 246551 | [246551-compact-cyber-arcade-disney-frozen-elsa.json](./246551-compact-cyber-arcade-disney-frozen-elsa.json) |
 | Compact Cyber Arcade: Ultimate Spider-Man | 277799 | [277799-compact-cyber-arcade-ultimate-spider-man.json](./277799-compact-cyber-arcade-ultimate-spider-man.json) |
@@ -10113,6 +10115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confidential Money: 300 Nichi de 3000 Man Dollar Kasegu Houhou | 64872 | [64872-confidential-money-300-nichi-de-3000-man-dollar-kasegu-houhou.json](./64872-confidential-money-300-nichi-de-3000-man-dollar-kasegu-houhou.json) |
 | Config Wars | 113854 | [113854-config-wars.json](./113854-config-wars.json) |
 | Confined | 304138 | [304138-confined.json](./304138-confined.json) |
+| Confined Indorms | 185320 | [185320-confined-indorms.json](./185320-confined-indorms.json) |
 | Confined Space | 415101 | [415101-confined-space.json](./415101-confined-space.json) |
 | Confined: Leaving OKB-134 | 291489 | [291489-confined-leaving-okb-134.json](./291489-confined-leaving-okb-134.json) |
 | Confinement Community Project | 312891 | [312891-confinement-community-project.json](./312891-confinement-community-project.json) |
@@ -11816,6 +11819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covert Koalas: Phasco | 407378 | [407378-covert-koalas-phasco.json](./407378-covert-koalas-phasco.json) |
 | Covert Operations | 311709 | [311709-covert-operations.json](./311709-covert-operations.json) |
 | Covert Ops: Nuclear Dawn | 4137 | [4137-covert-ops-nuclear-dawn.json](./4137-covert-ops-nuclear-dawn.json) |
+| Covert: Order of the Vulture | 185350 | [185350-covert-order-of-the-vulture.json](./185350-covert-order-of-the-vulture.json) |
 | Covetous | 138188 | [138188-covetous.json](./138188-covetous.json) |
 | Covid | 147173 | [147173-covid.json](./147173-covid.json) |
 | Covid '99 | 140514 | [140514-covid-99.json](./140514-covid-99.json) |
