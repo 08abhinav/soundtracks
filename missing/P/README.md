@@ -2591,6 +2591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pax Hispanica | 356268 | [356268-pax-hispanica.json](./356268-pax-hispanica.json) |
 | Pax Imperia | 95439 | [95439-pax-imperia.json](./95439-pax-imperia.json) |
 | Pax Imperia: Eminent Domain | 24261 | [24261-pax-imperia-eminent-domain.json](./24261-pax-imperia-eminent-domain.json) |
+| Pax Narcotica: Trafficker | 172981 | [172981-pax-narcotica-trafficker.json](./172981-pax-narcotica-trafficker.json) |
 | Pax Nova | 111043 | [111043-pax-nova.json](./111043-pax-nova.json) |
 | Pax Nova: Beyond the Rift | 170907 | [170907-pax-nova-beyond-the-rift.json](./170907-pax-nova-beyond-the-rift.json) |
 | Pax Nova: Tech Supremacy | 193223 | [193223-pax-nova-tech-supremacy.json](./193223-pax-nova-tech-supremacy.json) |
@@ -10111,6 +10112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potat | 372535 | [372535-potat.json](./372535-potat.json) |
 | Potata: Chapter One | 127148 | [127148-potata-chapter-one.json](./127148-potata-chapter-one.json) |
 | Potata: Fairy Flower | 116044 | [116044-potata-fairy-flower.json](./116044-potata-fairy-flower.json) |
+| Potata: Foxy Tale | 172990 | [172990-potata-foxy-tale.json](./172990-potata-foxy-tale.json) |
 | Potato | 309748 | [309748-potato.json](./309748-potato.json) |
 | Potato | 314306 | [314306-potato.json](./314306-potato.json) |
 | Potato Arena | 202546 | [202546-potato-arena.json](./202546-potato-arena.json) |
@@ -10585,6 +10587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pray or Die: Tactical Defense | 373114 | [373114-pray-or-die-tactical-defense.json](./373114-pray-or-die-tactical-defense.json) |
 | Prayer of the Faithless | 197012 | [197012-prayer-of-the-faithless.json](./197012-prayer-of-the-faithless.json) |
 | Prayers a Thousand-fold | 309976 | [309976-prayers-a-thousand-fold.json](./309976-prayers-a-thousand-fold.json) |
+| Pre Dusk | 172987 | [172987-pre-dusk.json](./172987-pre-dusk.json) |
 | Pre Post-Modernistic Post-Ironic Dadaism: Dating Simulator | 306969 | [306969-pre-post-modernistic-post-ironic-dadaism-dating-simulator.json](./306969-pre-post-modernistic-post-ironic-dadaism-dating-simulator.json) |
 | Pre-Odyssey: Love at First Quack | 344552 | [344552-pre-odyssey-love-at-first-quack.json](./344552-pre-odyssey-love-at-first-quack.json) |
 | Pre-Odyssey: Odysseus, Penelope and Her Ducks | 204550 | [204550-pre-odyssey-odysseus-penelope-and-her-ducks.json](./204550-pre-odyssey-odysseus-penelope-and-her-ducks.json) |
