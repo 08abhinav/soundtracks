@@ -849,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bail or Jail: Character DLC Bundle 3 | 274651 | [274651-bail-or-jail-character-dlc-bundle-3.json](./274651-bail-or-jail-character-dlc-bundle-3.json) |
 | Bailout Wars | 41518 | [41518-bailout-wars.json](./41518-bailout-wars.json) |
 | Baimason's Thing Finder Puzzle | 293612 | [293612-baimasons-thing-finder-puzzle.json](./293612-baimasons-thing-finder-puzzle.json) |
+| Bainok: City of Fighters | 172973 | [172973-bainok-city-of-fighters.json](./172973-bainok-city-of-fighters.json) |
 | Báipiáo Sānguó | 150245 | [150245-baipiao-sanguo.json](./150245-baipiao-sanguo.json) |
 | Baise Lesbienne! | 206731 | [206731-baise-lesbienne.json](./206731-baise-lesbienne.json) |
 | Bait & Tackle | 371542 | [371542-bait-and-tackle.json](./371542-bait-and-tackle.json) |
@@ -2668,6 +2669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batta Batta: Skurkestreger | 129777 | [129777-batta-batta-skurkestreger.json](./129777-batta-batta-skurkestreger.json) |
 | Batta? Batta! | 352240 | [352240-batta-batta.json](./352240-batta-batta.json) |
 | Battaglia Navale & Forza 4 | 324748 | [324748-battaglia-navale-and-forza-4.json](./324748-battaglia-navale-and-forza-4.json) |
+| Battal Gazi: Stone of Yada | 172991 | [172991-battal-gazi-stone-of-yada.json](./172991-battal-gazi-stone-of-yada.json) |
 | Battalion Commander | 26289 | [26289-battalion-commander.json](./26289-battalion-commander.json) |
 | Battalion Commander | 27128 | [27128-battalion-commander.json](./27128-battalion-commander.json) |
 | Battalion Wars | 3797 | [3797-battalion-wars.json](./3797-battalion-wars.json) |
@@ -10818,6 +10820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Rush | 191243 | [191243-box-rush.json](./191243-box-rush.json) |
 | Box Rush 2: Ice Worlds | 200569 | [200569-box-rush-2-ice-worlds.json](./200569-box-rush-2-ice-worlds.json) |
 | Box Stocks | 348756 | [348756-box-stocks.json](./348756-box-stocks.json) |
+| Box Survivors World | 172984 | [172984-box-survivors-world.json](./172984-box-survivors-world.json) |
 | Box the Beat VR | 160213 | [160213-box-the-beat-vr.json](./160213-box-the-beat-vr.json) |
 | Box to Box | 208454 | [208454-box-to-box.json](./208454-box-to-box.json) |
 | Box to the Beat VR | 207448 | [207448-box-to-the-beat-vr.json](./207448-box-to-the-beat-vr.json) |
@@ -11903,6 +11906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Maker | 291398 | [291398-bridge-maker.json](./291398-bridge-maker.json) |
 | Bridge Master | 94682 | [94682-bridge-master.json](./94682-bridge-master.json) |
 | Bridge Master with Terence Reese | 362444 | [362444-bridge-master-with-terence-reese.json](./362444-bridge-master-with-terence-reese.json) |
+| Bridge of Dawn | 172975 | [172975-bridge-of-dawn.json](./172975-bridge-of-dawn.json) |
 | Bridge Olympiad | 71382 | [71382-bridge-olympiad.json](./71382-bridge-olympiad.json) |
 | Bridge Quest | 280715 | [280715-bridge-quest.json](./280715-bridge-quest.json) |
 | Bridge Race: Horror Edition | 376249 | [376249-bridge-race-horror-edition.json](./376249-bridge-race-horror-edition.json) |
