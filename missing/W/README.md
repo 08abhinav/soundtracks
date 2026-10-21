@@ -3516,6 +3516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Knight Chronicles: Origins | 42811 | [42811-white-knight-chronicles-origins.json](./42811-white-knight-chronicles-origins.json) |
 | White Knuckle | 320734 | [320734-white-knuckle.json](./320734-white-knuckle.json) |
 | White lady | 201689 | [201689-white-lady.json](./201689-white-lady.json) |
+| White Lavender | 199803 | [199803-white-lavender.json](./199803-white-lavender.json) |
 | White Light Escape | 315591 | [315591-white-light-escape.json](./315591-white-light-escape.json) |
 | White Lilies Code | 279549 | [279549-white-lilies-code.json](./279549-white-lilies-code.json) |
 | White Magic | 261710 | [261710-white-magic.json](./261710-white-magic.json) |
