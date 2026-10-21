@@ -3179,6 +3179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catan: Console Edition - Super Deluxe | 257426 | [257426-catan-console-edition-super-deluxe.json](./257426-catan-console-edition-super-deluxe.json) |
 | Catan: Console Edition - The Helpers | 275045 | [275045-catan-console-edition-the-helpers.json](./275045-catan-console-edition-the-helpers.json) |
 | Catan: Das Kartenspiel | 98936 | [98936-catan-das-kartenspiel.json](./98936-catan-das-kartenspiel.json) |
+| Catana | 180993 | [180993-catana.json](./180993-catana.json) |
 | Catana: Red Flowers | 380560 | [380560-catana-red-flowers.json](./380560-catana-red-flowers.json) |
 | Catanks | 409404 | [409404-catanks.json](./409404-catanks.json) |
 | catAnod | 96429 | [96429-catanod.json](./96429-catanod.json) |
@@ -6643,6 +6644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinemax Complete | 52735 | [52735-cinemax-complete.json](./52735-cinemax-complete.json) |
 | Cineminha | 290096 | [290096-cineminha.json](./290096-cineminha.json) |
 | Cinemoji | 164959 | [164959-cinemoji.json](./164959-cinemoji.json) |
+| Cinemoji: Halloween | 181036 | [181036-cinemoji-halloween.json](./181036-cinemoji-halloween.json) |
 | CineNerdle | 231638 | [231638-cinenerdle.json](./231638-cinenerdle.json) |
 | CineNerdle | 231639 | [231639-cinenerdle.json](./231639-cinenerdle.json) |
 | Cinicross | 367828 | [367828-cinicross.json](./367828-cinicross.json) |
@@ -7292,6 +7294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clarent Saga: Mana Chapter 0 | 264767 | [264767-clarent-saga-mana-chapter-0.json](./264767-clarent-saga-mana-chapter-0.json) |
 | Clarent Saga: Tactics | 135271 | [135271-clarent-saga-tactics.json](./135271-clarent-saga-tactics.json) |
 | Clarisse | 56425 | [56425-clarisse.json](./56425-clarisse.json) |
+| Clarity of the Soul | 181001 | [181001-clarity-of-the-soul.json](./181001-clarity-of-the-soul.json) |
 | Clarity: The Seven Demons of Vanguardia | 262791 | [262791-clarity-the-seven-demons-of-vanguardia.json](./262791-clarity-the-seven-demons-of-vanguardia.json) |
 | Clark: Hoova VR | 82067 | [82067-clark-hoova-vr.json](./82067-clark-hoova-vr.json) |
 | Clash | 125302 | [125302-clash.json](./125302-clash.json) |
@@ -7921,6 +7924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clone Your Way Out | 318254 | [318254-clone-your-way-out.json](./318254-clone-your-way-out.json) |
 | Clone-A-Doodle-Doo | 357350 | [357350-clone-a-doodle-doo.json](./357350-clone-a-doodle-doo.json) |
 | Clones Run | 322999 | [322999-clones-run.json](./322999-clones-run.json) |
+| Clones Selection | 181030 | [181030-clones-selection.json](./181030-clones-selection.json) |
 | CloneZWars | 249089 | [249089-clonezwars.json](./249089-clonezwars.json) |
 | Cloning Chaos | 302489 | [302489-cloning-chaos.json](./302489-cloning-chaos.json) |
 | Clonizer | 257887 | [257887-clonizer.json](./257887-clonizer.json) |
@@ -10935,6 +10939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Thief Guy | 398316 | [398316-cool-thief-guy.json](./398316-cool-thief-guy.json) |
 | Cool World | 307071 | [307071-cool-world.json](./307071-cool-world.json) |
 | Cool World | 307072 | [307072-cool-world.json](./307072-cool-world.json) |
+| Coolbit | 181004 | [181004-coolbit.json](./181004-coolbit.json) |
 | Cooler Super Mario Bros. Land | 394347 | [394347-cooler-super-mario-bros-land.json](./394347-cooler-super-mario-bros-land.json) |
 | Coolmath Games: The Game | 234707 | [234707-coolmath-games-the-game.json](./234707-coolmath-games-the-game.json) |
 | CoolPaintr VR | 104022 | [104022-coolpaintr-vr.json](./104022-coolpaintr-vr.json) |
@@ -12688,6 +12693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Little Jumper | 270572 | [270572-crazy-little-jumper.json](./270572-crazy-little-jumper.json) |
 | Crazy Lizard: The Amazing Journey | 235142 | [235142-crazy-lizard-the-amazing-journey.json](./235142-crazy-lizard-the-amazing-journey.json) |
 | Crazy Localization | 403527 | [403527-crazy-localization.json](./403527-crazy-localization.json) |
+| Crazy Ludo | 181029 | [181029-crazy-ludo.json](./181029-crazy-ludo.json) |
 | Crazy Machines | 4777 | [4777-crazy-machines.json](./4777-crazy-machines.json) |
 | Crazy Machines 1.5 Inventors Training Camp | 90470 | [90470-crazy-machines-1-5-inventors-training-camp.json](./90470-crazy-machines-1-5-inventors-training-camp.json) |
 | Crazy Machines 1.5 New from the Lab | 90471 | [90471-crazy-machines-1-5-new-from-the-lab.json](./90471-crazy-machines-1-5-new-from-the-lab.json) |
