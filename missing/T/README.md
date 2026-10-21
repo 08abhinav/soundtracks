@@ -1018,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Nebezem: Gnomish Plot | 101697 | [101697-tales-of-nebezem-gnomish-plot.json](./101697-tales-of-nebezem-gnomish-plot.json) |
 | Tales of Nebezem: Golden Scepter | 95945 | [95945-tales-of-nebezem-golden-scepter.json](./95945-tales-of-nebezem-golden-scepter.json) |
 | Tales of Nebezem: Mind Trial | 95925 | [95925-tales-of-nebezem-mind-trial.json](./95925-tales-of-nebezem-mind-trial.json) |
+| Tales of Novariel | 193771 | [193771-tales-of-novariel.json](./193771-tales-of-novariel.json) |
 | Tales of Pantheon: Summoners Arena | 224398 | [224398-tales-of-pantheon-summoners-arena.json](./224398-tales-of-pantheon-summoners-arena.json) |
 | Tales of Phantasia | 1200 | [1200-tales-of-phantasia.json](./1200-tales-of-phantasia.json) |
 | Tales of Phantasia | 196633 | [196633-tales-of-phantasia.json](./196633-tales-of-phantasia.json) |
@@ -1496,6 +1497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Game | 69315 | [69315-tank-game.json](./69315-tank-game.json) |
 | Tank Game | 82005 | [82005-tank-game.json](./82005-tank-game.json) |
 | Tank Golfing | 166275 | [166275-tank-golfing.json](./166275-tank-golfing.json) |
+| Tank Hangar Simulator | 193636 | [193636-tank-hangar-simulator.json](./193636-tank-hangar-simulator.json) |
 | Tank Hero: Awesome Tank War g | 231885 | [231885-tank-hero-awesome-tank-war-g.json](./231885-tank-hero-awesome-tank-war-g.json) |
 | Tank Hero: Laser Wars | 101491 | [101491-tank-hero-laser-wars.json](./101491-tank-hero-laser-wars.json) |
 | Tank Hunter | 311167 | [311167-tank-hunter.json](./311167-tank-hunter.json) |
@@ -3497,6 +3499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terranigma: Boss Rush | 343033 | [343033-terranigma-boss-rush.json](./343033-terranigma-boss-rush.json) |
 | TerranLands | 258513 | [258513-terranlands.json](./258513-terranlands.json) |
 | Terranny | 238536 | [238536-terranny.json](./238536-terranny.json) |
+| Terranova | 193634 | [193634-terranova.json](./193634-terranova.json) |
 | Terrapets | 140467 | [140467-terrapets.json](./140467-terrapets.json) |
 | Terrapins | 185141 | [185141-terrapins.json](./185141-terrapins.json) |
 | TerrApocalipse | 370857 | [370857-terrapocalipse.json](./370857-terrapocalipse.json) |
@@ -9554,6 +9557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Peks | 262449 | [262449-the-legend-of-peks.json](./262449-the-legend-of-peks.json) |
 | The Legend Of Perchta | 290003 | [290003-the-legend-of-perchta.json](./290003-the-legend-of-perchta.json) |
 | The Legend of Pirates Online | 140587 | [140587-the-legend-of-pirates-online.json](./140587-the-legend-of-pirates-online.json) |
+| The Legend of Pomodoro | 193657 | [193657-the-legend-of-pomodoro.json](./193657-the-legend-of-pomodoro.json) |
 | The Legend of Prince Valiant | 48187 | [48187-the-legend-of-prince-valiant.json](./48187-the-legend-of-prince-valiant.json) |
 | The Legend of Protey | 108346 | [108346-the-legend-of-protey.json](./108346-the-legend-of-protey.json) |
 | The Legend of Ra | 78325 | [78325-the-legend-of-ra.json](./78325-the-legend-of-ra.json) |
@@ -21678,6 +21682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Classic: Regensburg – Ingolstadt Route Add-On | 357296 | [357296-train-simulator-classic-regensburg-ingolstadt-route-add-on.json](./357296-train-simulator-classic-regensburg-ingolstadt-route-add-on.json) |
 | Train Simulator Classic: Rio Grande Southern - Placerville - Rico & Telluride Route Add-On | 357396 | [357396-train-simulator-classic-rio-grande-southern-placerville-rico-and-telluride-route-add-on.json](./357396-train-simulator-classic-rio-grande-southern-placerville-rico-and-telluride-route-add-on.json) |
 | Train Simulator Classic: Saluda Grade Scenario Pack 01 | 267409 | [267409-train-simulator-classic-saluda-grade-scenario-pack-01.json](./267409-train-simulator-classic-saluda-grade-scenario-pack-01.json) |
+| Train Simulator Classic: Salzburg - Rosenheim Route | 193652 | [193652-train-simulator-classic-salzburg-rosenheim-route.json](./193652-train-simulator-classic-salzburg-rosenheim-route.json) |
 | Train Simulator Classic: Santa Fe Classic Pack 01 | 227283 | [227283-train-simulator-classic-santa-fe-classic-pack-01.json](./227283-train-simulator-classic-santa-fe-classic-pack-01.json) |
 | Train Simulator Classic: Soldier Summit Route | 238487 | [238487-train-simulator-classic-soldier-summit-route.json](./238487-train-simulator-classic-soldier-summit-route.json) |
 | Train Simulator Classic: Southern Railway Retro Pack 01 | 277351 | [277351-train-simulator-classic-southern-railway-retro-pack-01.json](./277351-train-simulator-classic-southern-railway-retro-pack-01.json) |
