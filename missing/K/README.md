@@ -3095,6 +3095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitto Zenbu Watashi no Sei | 243629 | [243629-kitto-zenbu-watashi-no-sei.json](./243629-kitto-zenbu-watashi-no-sei.json) |
 | Kitty & Friends: Blast of Fun | 239886 | [239886-kitty-and-friends-blast-of-fun.json](./239886-kitty-and-friends-blast-of-fun.json) |
 | Kitty Can Cook | 373162 | [373162-kitty-can-cook.json](./373162-kitty-can-cook.json) |
+| Kitty Cat Doctor | 204289 | [204289-kitty-cat-doctor.json](./204289-kitty-cat-doctor.json) |
 | Kitty Cat Love | 106655 | [106655-kitty-cat-love.json](./106655-kitty-cat-love.json) |
 | Kitty Cat Squash | 192691 | [192691-kitty-cat-squash.json](./192691-kitty-cat-squash.json) |
 | Kitty Cat: Jigsaw Puzzles | 32122 | [32122-kitty-cat-jigsaw-puzzles.json](./32122-kitty-cat-jigsaw-puzzles.json) |
@@ -3513,6 +3514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of the Chalice 2: Archmage Edition | 196299 | [196299-knights-of-the-chalice-2-archmage-edition.json](./196299-knights-of-the-chalice-2-archmage-edition.json) |
 | Knights of the Cross | 50474 | [50474-knights-of-the-cross.json](./50474-knights-of-the-cross.json) |
 | Knights of the Crystallion | 69553 | [69553-knights-of-the-crystallion.json](./69553-knights-of-the-crystallion.json) |
+| Knights of the Deep | 204258 | [204258-knights-of-the-deep.json](./204258-knights-of-the-deep.json) |
 | Knights of the Desert | 23912 | [23912-knights-of-the-desert.json](./23912-knights-of-the-desert.json) |
 | Knights of the Desert: The North African Campaign of 1941-1943 | 73828 | [73828-knights-of-the-desert-the-north-african-campaign-of-1941-1943.json](./73828-knights-of-the-desert-the-north-african-campaign-of-1941-1943.json) |
 | Knights of the Drowned Table | 75114 | [75114-knights-of-the-drowned-table.json](./75114-knights-of-the-drowned-table.json) |
@@ -3627,6 +3629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Know Your Friends | 60627 | [60627-know-your-friends.json](./60627-know-your-friends.json) |
 | Know Your Limits | 272248 | [272248-know-your-limits.json](./272248-know-your-limits.json) |
 | Knowledge | 410931 | [410931-knowledge.json](./410931-knowledge.json) |
+| Knowledge Challenge | 204278 | [204278-knowledge-challenge.json](./204278-knowledge-challenge.json) |
 | Knowledge Fever | 245863 | [245863-knowledge-fever.json](./245863-knowledge-fever.json) |
 | Knowledge is Power | 70833 | [70833-knowledge-is-power.json](./70833-knowledge-is-power.json) |
 | Knowledge Keeper | 292921 | [292921-knowledge-keeper.json](./292921-knowledge-keeper.json) |
