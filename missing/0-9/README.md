@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | "So, About Last Night..." | 275465 | [275465-so-about-last-night.json](./275465-so-about-last-night.json) |
 | "Two Draw" | 74340 | [74340-two-draw.json](./74340-two-draw.json) |
 | (A)woken | 307298 | [307298-a-woken.json](./307298-a-woken.json) |
+| (Another) Shadow the Hedgehog in Sonic the Hedgehog | 203163 | [203163-another-shadow-the-hedgehog-in-sonic-the-hedgehog.json](./203163-another-shadow-the-hedgehog-in-sonic-the-hedgehog.json) |
 | (heart) Sudoku | 86731 | [86731-heart-sudoku.json](./86731-heart-sudoku.json) |
 | (I see) Nothing | 275478 | [275478-i-see-nothing.json](./275478-i-see-nothing.json) |
 | (Neg)Entropic Wandering | 309451 | [309451-neg-entropic-wandering.json](./309451-neg-entropic-wandering.json) |
