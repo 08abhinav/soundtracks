@@ -419,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Deck Clash | 373680 | [373680-galactic-deck-clash.json](./373680-galactic-deck-clash.json) |
 | Galactic Defender | 261338 | [261338-galactic-defender.json](./261338-galactic-defender.json) |
 | Galactic Defenders | 263392 | [263392-galactic-defenders.json](./263392-galactic-defenders.json) |
+| Galactic Diner | 199257 | [199257-galactic-diner.json](./199257-galactic-diner.json) |
 | Galactic Dominion | 107858 | [107858-galactic-dominion.json](./107858-galactic-dominion.json) |
 | Galactic Dream: Rage of War | 1031 | [1031-galactic-dream-rage-of-war.json](./1031-galactic-dream-rage-of-war.json) |
 | Galactic Driver | 88209 | [88209-galactic-driver.json](./88209-galactic-driver.json) |
@@ -1383,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Dreams | 254323 | [254323-garden-dreams.json](./254323-garden-dreams.json) |
 | Garden Eternal | 406903 | [406903-garden-eternal.json](./406903-garden-eternal.json) |
 | Garden for Glory: Collector's Edition | 337241 | [337241-garden-for-glory-collectors-edition.json](./337241-garden-for-glory-collectors-edition.json) |
+| Garden Galaxy | 199279 | [199279-garden-galaxy.json](./199279-garden-galaxy.json) |
 | Garden Gingdom | 386993 | [386993-garden-gingdom.json](./386993-garden-gingdom.json) |
 | Garden Gnome Beatmaker | 380199 | [380199-garden-gnome-beatmaker.json](./380199-garden-gnome-beatmaker.json) |
 | Garden Golf | 64736 | [64736-garden-golf.json](./64736-garden-golf.json) |
@@ -1954,6 +1956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gekraxel | 120114 | [120114-gekraxel.json](./120114-gekraxel.json) |
 | Gel-Tank | 142801 | [142801-gel-tank.json](./142801-gel-tank.json) |
 | Gelatina is Hungry | 304961 | [304961-gelatina-is-hungry.json](./304961-gelatina-is-hungry.json) |
+| Gelatine | 199254 | [199254-gelatine.json](./199254-gelatine.json) |
 | Gelatinous: Humanity Lost | 260312 | [260312-gelatinous-humanity-lost.json](./260312-gelatinous-humanity-lost.json) |
 | Gelecard: Guerreiros Gelatinosos | 346216 | [346216-gelecard-guerreiros-gelatinosos.json](./346216-gelecard-guerreiros-gelatinosos.json) |
 | Gelldonia | 156648 | [156648-gelldonia.json](./156648-gelldonia.json) |
@@ -5073,6 +5076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GolfGurus | 88104 | [88104-golfgurus.json](./88104-golfgurus.json) |
 | Golfing Around | 108442 | [108442-golfing-around.json](./108442-golfing-around.json) |
 | Golfing Greats 2 | 222908 | [222908-golfing-greats-2.json](./222908-golfing-greats-2.json) |
+| Golfing In Aether | 199271 | [199271-golfing-in-aether.json](./199271-golfing-in-aether.json) |
 | Golfing In Aether: Dustbowl | 275124 | [275124-golfing-in-aether-dustbowl.json](./275124-golfing-in-aether-dustbowl.json) |
 | Golfing Over It with Alva Majo | 93727 | [93727-golfing-over-it-with-alva-majo.json](./93727-golfing-over-it-with-alva-majo.json) |
 | Golfinite | 219801 | [219801-golfinite.json](./219801-golfinite.json) |
@@ -7395,6 +7399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grove Fisher | 330680 | [330680-grove-fisher.json](./330680-grove-fisher.json) |
 | Grove Island | 219162 | [219162-grove-island.json](./219162-grove-island.json) |
 | Grove: Nostalgia's End | 192952 | [192952-grove-nostalgias-end.json](./192952-grove-nostalgias-end.json) |
+| Groven | 199350 | [199350-groven.json](./199350-groven.json) |
 | Grover's Travels | 333206 | [333206-grovers-travels.json](./333206-grovers-travels.json) |
 | Grow & Go: Cozy Deliveries | 414406 | [414406-grow-and-go-cozy-deliveries.json](./414406-grow-and-go-cozy-deliveries.json) |
 | Grow a Girlfriend | 353394 | [353394-grow-a-girlfriend.json](./353394-grow-a-girlfriend.json) |
