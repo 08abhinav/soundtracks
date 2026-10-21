@@ -3464,6 +3464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights & Guns: Expansion Pack #1 | 223559 | [223559-knights-and-guns-expansion-pack-1.json](./223559-knights-and-guns-expansion-pack-1.json) |
 | Knights & Guns: Expansion Pack #2 | 226326 | [226326-knights-and-guns-expansion-pack-2.json](./226326-knights-and-guns-expansion-pack-2.json) |
 | Knights & Guns: Expansion Packs Collection | 231282 | [231282-knights-and-guns-expansion-packs-collection.json](./231282-knights-and-guns-expansion-packs-collection.json) |
+| Knights & Guns: Extended Edition | 199820 | [199820-knights-and-guns-extended-edition.json](./199820-knights-and-guns-extended-edition.json) |
 | Knights & Guns: Gold Edition | 270794 | [270794-knights-and-guns-gold-edition.json](./270794-knights-and-guns-gold-edition.json) |
 | Knights & Guns: Grand Edition | 315860 | [315860-knights-and-guns-grand-edition.json](./315860-knights-and-guns-grand-edition.json) |
 | Knights & Guns: NY Edition | 277893 | [277893-knights-and-guns-ny-edition.json](./277893-knights-and-guns-ny-edition.json) |
