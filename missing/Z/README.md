@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z-Lestial | 395894 | [395894-z-lestial.json](./395894-z-lestial.json) |
 | Z-Man | 284305 | [284305-z-man.json](./284305-z-man.json) |
 | Z-MMO | 55919 | [55919-z-mmo.json](./55919-z-mmo.json) |
+| Z-Opolis | 200983 | [200983-z-opolis.json](./200983-z-opolis.json) |
 | Z-Rush Survival | 191818 | [191818-z-rush-survival.json](./191818-z-rush-survival.json) |
 | Z-Stop | 212654 | [212654-z-stop.json](./212654-z-stop.json) |
 | Z-Warp | 192278 | [192278-z-warp.json](./192278-z-warp.json) |
@@ -1488,6 +1489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZombieVital DG | 147267 | [147267-zombievital-dg.json](./147267-zombievital-dg.json) |
 | Zombiewood | 228003 | [228003-zombiewood.json](./228003-zombiewood.json) |
 | Zombiewood: Survival Shooter | 294237 | [294237-zombiewood-survival-shooter.json](./294237-zombiewood-survival-shooter.json) |
+| Zombiez Seeker | 200984 | [200984-zombiez-seeker.json](./200984-zombiez-seeker.json) |
 | ZombieZoid Zenith | 34435 | [34435-zombiezoid-zenith.json](./34435-zombiezoid-zenith.json) |
 | Zombiezz | 268453 | [268453-zombiezz.json](./268453-zombiezz.json) |
 | Zombified: The Text Adventure Game of the Zombie Plague Apocalypse! | 87259 | [87259-zombified-the-text-adventure-game-of-the-zombie-plague-apocalypse.json](./87259-zombified-the-text-adventure-game-of-the-zombie-plague-apocalypse.json) |
@@ -1710,6 +1712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoor: Majuu Tsukai Densetsu | 3650 | [3650-zoor-majuu-tsukai-densetsu.json](./3650-zoor-majuu-tsukai-densetsu.json) |
 | ZooRacers | 218961 | [218961-zooracers.json](./218961-zooracers.json) |
 | Zooted | 240184 | [240184-zooted.json](./240184-zooted.json) |
+| Zootopia! | 200982 | [200982-zootopia.json](./200982-zootopia.json) |
 | Zootto Mahjong! | 37744 | [37744-zootto-mahjong.json](./37744-zootto-mahjong.json) |
 | Zootto Mahjong!: Event Version | 178929 | [178929-zootto-mahjong-event-version.json](./178929-zootto-mahjong-event-version.json) |
 | ZooZooGo! | 64396 | [64396-zoozoogo.json](./64396-zoozoogo.json) |
