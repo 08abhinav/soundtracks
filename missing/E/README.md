@@ -1775,6 +1775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elementary Arithmetic Game | 113021 | [113021-elementary-arithmetic-game.json](./113021-elementary-arithmetic-game.json) |
 | Elementary math / Bingo Math | 169266 | [169266-elementary-math-bingo-math.json](./169266-elementary-math-bingo-math.json) |
 | Elementary My Dear Majesty! | 35902 | [35902-elementary-my-dear-majesty.json](./35902-elementary-my-dear-majesty.json) |
+| Elementaurus | 185326 | [185326-elementaurus.json](./185326-elementaurus.json) |
 | Elementers | 304888 | [304888-elementers.json](./304888-elementers.json) |
 | ElementForger | 220751 | [220751-elementforger.json](./220751-elementforger.json) |
 | Elementico | 177789 | [177789-elementico.json](./177789-elementico.json) |
@@ -4566,6 +4567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Liiivie: EP1 Liiivie - Isolated From the World | 284348 | [284348-eternal-liiivie-ep1-liiivie-isolated-from-the-world.json](./284348-eternal-liiivie-ep1-liiivie-isolated-from-the-world.json) |
 | Eternal Link | 345085 | [345085-eternal-link.json](./345085-eternal-link.json) |
 | Eternal Love | 164283 | [164283-eternal-love.json](./164283-eternal-love.json) |
+| Eternal Lux | 185351 | [185351-eternal-lux.json](./185351-eternal-lux.json) |
 | Eternal Magic | 122918 | [122918-eternal-magic.json](./122918-eternal-magic.json) |
 | Eternal Magic: Keeper | 171013 | [171013-eternal-magic-keeper.json](./171013-eternal-magic-keeper.json) |
 | Eternal Man: Jump | 99605 | [99605-eternal-man-jump.json](./99605-eternal-man-jump.json) |
@@ -6012,6 +6014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explosiver | 192227 | [192227-explosiver.json](./192227-explosiver.json) |
 | Explottens: The time is meow! | 36933 | [36933-explottens-the-time-is-meow.json](./36933-explottens-the-time-is-meow.json) |
 | Expo 2020 | 174900 | [174900-expo-2020.json](./174900-expo-2020.json) |
+| Expo. Decay | 185318 | [185318-expo-decay.json](./185318-expo-decay.json) |
 | Exposed Livestream | 360184 | [360184-exposed-livestream.json](./360184-exposed-livestream.json) |
 | Exposed Reality | 70375 | [70375-exposed-reality.json](./70375-exposed-reality.json) |
 | Exposure | 362267 | [362267-exposure.json](./362267-exposure.json) |
