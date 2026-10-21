@@ -1308,6 +1308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Summer Quest | 189931 | [189931-happy-summer-quest.json](./189931-happy-summer-quest.json) |
 | Happy Sumotori Dreams | 102237 | [102237-happy-sumotori-dreams.json](./102237-happy-sumotori-dreams.json) |
 | Happy Tails Zoo Keeper | 54077 | [54077-happy-tails-zoo-keeper.json](./54077-happy-tails-zoo-keeper.json) |
+| Happy Tails: Animal Shelter | 198076 | [198076-happy-tails-animal-shelter.json](./198076-happy-tails-animal-shelter.json) |
 | Happy Telepathy | 286218 | [286218-happy-telepathy.json](./286218-happy-telepathy.json) |
 | Happy Tennis | 246282 | [246282-happy-tennis.json](./246282-happy-tennis.json) |
 | Happy Time | 362282 | [362282-happy-time.json](./362282-happy-time.json) |
@@ -5330,9 +5331,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object Ancient Dragons | 104624 | [104624-hidden-object-ancient-dragons.json](./104624-hidden-object-ancient-dragons.json) |
 | Hidden Object Bachelorette | 102733 | [102733-hidden-object-bachelorette.json](./102733-hidden-object-bachelorette.json) |
 | Hidden Object Chronicles: Poisoned Truth - Collector's Edition | 285535 | [285535-hidden-object-chronicles-poisoned-truth-collectors-edition.json](./285535-hidden-object-chronicles-poisoned-truth-collectors-edition.json) |
+| Hidden Object Classic Adventures | 198077 | [198077-hidden-object-classic-adventures.json](./198077-hidden-object-classic-adventures.json) |
+| Hidden Object Classic Adventures 2 | 198088 | [198088-hidden-object-classic-adventures-2.json](./198088-hidden-object-classic-adventures-2.json) |
+| Hidden Object Classic Adventures 4 | 198083 | [198083-hidden-object-classic-adventures-4.json](./198083-hidden-object-classic-adventures-4.json) |
+| Hidden Object Classic Adventures 5 | 198081 | [198081-hidden-object-classic-adventures-5.json](./198081-hidden-object-classic-adventures-5.json) |
+| Hidden Object Classic Fantasies | 198086 | [198086-hidden-object-classic-fantasies.json](./198086-hidden-object-classic-fantasies.json) |
+| Hidden Object Classic Legends | 198085 | [198085-hidden-object-classic-legends.json](./198085-hidden-object-classic-legends.json) |
+| Hidden Object Classic Mysteries 2 | 198078 | [198078-hidden-object-classic-mysteries-2.json](./198078-hidden-object-classic-mysteries-2.json) |
+| Hidden Object Classic Mysteries 4 | 198084 | [198084-hidden-object-classic-mysteries-4.json](./198084-hidden-object-classic-mysteries-4.json) |
+| Hidden Object Classic Mysteries 6 | 198080 | [198080-hidden-object-classic-mysteries-6.json](./198080-hidden-object-classic-mysteries-6.json) |
+| Hidden Object Classic Treasures 3 | 198082 | [198082-hidden-object-classic-treasures-3.json](./198082-hidden-object-classic-treasures-3.json) |
 | Hidden Object Classic: Treasures II | 209037 | [209037-hidden-object-classic-treasures-ii.json](./209037-hidden-object-classic-treasures-ii.json) |
 | Hidden Object Crosswords | 107056 | [107056-hidden-object-crosswords.json](./107056-hidden-object-crosswords.json) |
 | Hidden Object Fairy Tales | 101345 | [101345-hidden-object-fairy-tales.json](./101345-hidden-object-fairy-tales.json) |
+| Hidden Object Mysteries 3 | 198089 | [198089-hidden-object-mysteries-3.json](./198089-hidden-object-mysteries-3.json) |
 | Hidden Object Mystery: Ghostly Manor | 105961 | [105961-hidden-object-mystery-ghostly-manor.json](./105961-hidden-object-mystery-ghostly-manor.json) |
 | Hidden Object Secrets: Family Revenge - Collector's Edition | 276663 | [276663-hidden-object-secrets-family-revenge-collectors-edition.json](./276663-hidden-object-secrets-family-revenge-collectors-edition.json) |
 | Hidden Object Secrets: The Whitefield Murder - Collector's Edition | 295072 | [295072-hidden-object-secrets-the-whitefield-murder-collectors-edition.json](./295072-hidden-object-secrets-the-whitefield-murder-collectors-edition.json) |
@@ -5562,6 +5574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Through Time | 128909 | [128909-hidden-through-time.json](./128909-hidden-through-time.json) |
 | Hidden Through Time 2: Discovery | 291422 | [291422-hidden-through-time-2-discovery.json](./291422-hidden-through-time-2-discovery.json) |
 | Hidden Through Time: Aztec Rituals | 212224 | [212224-hidden-through-time-aztec-rituals.json](./212224-hidden-through-time-aztec-rituals.json) |
+| Hidden Through Time: Definitive Edition | 198127 | [198127-hidden-through-time-definitive-edition.json](./198127-hidden-through-time-definitive-edition.json) |
 | Hidden Through Time: Deluxe Edition | 237852 | [237852-hidden-through-time-deluxe-edition.json](./237852-hidden-through-time-deluxe-edition.json) |
 | Hidden Through Time: Legends of Japan | 154514 | [154514-hidden-through-time-legends-of-japan.json](./154514-hidden-through-time-legends-of-japan.json) |
 | Hidden Through Time: Pirate Treasures | 212223 | [212223-hidden-through-time-pirate-treasures.json](./212223-hidden-through-time-pirate-treasures.json) |
@@ -9309,6 +9322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hwaet! The Vercelli Book Saga | 403085 | [403085-hwaet-the-vercelli-book-saga.json](./403085-hwaet-the-vercelli-book-saga.json) |
 | Hwajilguji | 219147 | [219147-hwajilguji.json](./219147-hwajilguji.json) |
 | HWY 17 | 252093 | [252093-hwy-17.json](./252093-hwy-17.json) |
+| HWY Chase | 198122 | [198122-hwy-chase.json](./198122-hwy-chase.json) |
 | HWY3310 | 182786 | [182786-hwy3310.json](./182786-hwy3310.json) |
 | HxHxH = Hajimari wa H kara: Daisuki Dakara, Daikirai! | 108920 | [108920-hxhxh-hajimari-wa-h-kara-daisuki-dakara-daikirai.json](./108920-hxhxh-hajimari-wa-h-kara-daisuki-dakara-daikirai.json) |
 | Hyacinth | 225747 | [225747-hyacinth.json](./225747-hyacinth.json) |
