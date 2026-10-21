@@ -6726,6 +6726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bizarre Hunteress Rin | 82879 | [82879-bizarre-hunteress-rin.json](./82879-bizarre-hunteress-rin.json) |
 | Bizarre Journey | 103164 | [103164-bizarre-journey.json](./103164-bizarre-journey.json) |
 | Bizarre Mushroom Cycle Simulator | 260337 | [260337-bizarre-mushroom-cycle-simulator.json](./260337-bizarre-mushroom-cycle-simulator.json) |
+| Bizarre Mutation World | 189857 | [189857-bizarre-mutation-world.json](./189857-bizarre-mutation-world.json) |
 | Bizarre Tale | 76671 | [76671-bizarre-tale.json](./76671-bizarre-tale.json) |
 | Bizarro Untergrund | 267211 | [267211-bizarro-untergrund.json](./267211-bizarro-untergrund.json) |
 | Bizerta: Silent Evil | 60570 | [60570-bizerta-silent-evil.json](./60570-bizerta-silent-evil.json) |
@@ -9192,6 +9193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobble Shop Simulator | 386240 | [386240-bobble-shop-simulator.json](./386240-bobble-shop-simulator.json) |
 | Bobblehead College Football | 247171 | [247171-bobblehead-college-football.json](./247171-bobblehead-college-football.json) |
 | Bobbo's Crappy Birthday | 404649 | [404649-bobbos-crappy-birthday.json](./404649-bobbos-crappy-birthday.json) |
+| Bobby | 189997 | [189997-bobby.json](./189997-bobby.json) |
 | Bobby | 214017 | [214017-bobby.json](./214017-bobby.json) |
 | Bobby Bearing | 13415 | [13415-bobby-bearing.json](./13415-bobby-bearing.json) |
 | Bobby Carrot 3: Evolution | 66136 | [66136-bobby-carrot-3-evolution.json](./66136-bobby-carrot-3-evolution.json) |
@@ -9956,6 +9958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Box Blue! | 74496 | [74496-boom-box-blue.json](./74496-boom-box-blue.json) |
 | Boom Buddy | 368491 | [368491-boom-buddy.json](./368491-boom-buddy.json) |
 | Boom Chick Chick | 85714 | [85714-boom-chick-chick.json](./85714-boom-chick-chick.json) |
+| Boom Company | 189993 | [189993-boom-company.json](./189993-boom-company.json) |
 | Boom Dojo | 148917 | [148917-boom-dojo.json](./148917-boom-dojo.json) |
 | Boom Faster | 157198 | [157198-boom-faster.json](./157198-boom-faster.json) |
 | Boom Karts: Multiplayer Kart Racing | 144982 | [144982-boom-karts-multiplayer-kart-racing.json](./144982-boom-karts-multiplayer-kart-racing.json) |
