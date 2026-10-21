@@ -640,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdore | 364027 | [364027-ragdore.json](./364027-ragdore.json) |
 | Rage 2 | 101211 | [101211-rage-2.json](./101211-rage-2.json) |
 | Rage 2: Collector's Edition | 103297 | [103297-rage-2-collectors-edition.json](./103297-rage-2-collectors-edition.json) |
+| Rage Chicken 2 | 180998 | [180998-rage-chicken-2.json](./180998-rage-chicken-2.json) |
 | Rage Disco | 75218 | [75218-rage-disco.json](./75218-rage-disco.json) |
 | Rage District: Humanity Armageddon | 406800 | [406800-rage-district-humanity-armageddon.json](./406800-rage-district-humanity-armageddon.json) |
 | Rage Effect | 321508 | [321508-rage-effect.json](./321508-rage-effect.json) |
@@ -693,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raging Fists: Retribution | 166723 | [166723-raging-fists-retribution.json](./166723-raging-fists-retribution.json) |
 | Raging Justice | 85769 | [85769-raging-justice.json](./85769-raging-justice.json) |
 | Raging Skies | 403149 | [403149-raging-skies.json](./403149-raging-skies.json) |
+| RagingFist | 181012 | [181012-ragingfist.json](./181012-ragingfist.json) |
 | Ragmonton | 238601 | [238601-ragmonton.json](./238601-ragmonton.json) |
 | Ragna-Block | 97984 | [97984-ragna-block.json](./97984-ragna-block.json) |
 | Ragnagard | 40201 | [40201-ragnagard.json](./40201-ragnagard.json) |
@@ -4515,6 +4517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retne | 54526 | [54526-retne.json](./54526-retne.json) |
 | Retool | 32974 | [32974-retool.json](./32974-retool.json) |
 | Retooled | 204071 | [204071-retooled.json](./204071-retooled.json) |
+| ReTox | 181025 | [181025-retox.json](./181025-retox.json) |
 | Retr0Mine | 386704 | [386704-retr0mine.json](./386704-retr0mine.json) |
 | Retrace | 116873 | [116873-retrace.json](./116873-retrace.json) |
 | ReTrace | 401045 | [401045-retrace.json](./401045-retrace.json) |
@@ -6715,6 +6718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Rush | 273430 | [273430-robo-rush.json](./273430-robo-rush.json) |
 | Robo Sham Boro | 348283 | [348283-robo-sham-boro.json](./348283-robo-sham-boro.json) |
 | Robo Terror | 158116 | [158116-robo-terror.json](./158116-robo-terror.json) |
+| Robo Vacuum Simulator | 181003 | [181003-robo-vacuum-simulator.json](./181003-robo-vacuum-simulator.json) |
 | Robo Wars | 196316 | [196316-robo-wars.json](./196316-robo-wars.json) |
 | Robo Wrestle 2001 | 40422 | [40422-robo-wrestle-2001.json](./40422-robo-wrestle-2001.json) |
 | Robo-Boy Risky Venture | 165759 | [165759-robo-boy-risky-venture.json](./165759-robo-boy-risky-venture.json) |
