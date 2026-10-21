@@ -536,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japanese BreakQuest | 351392 | [351392-japanese-breakquest.json](./351392-japanese-breakquest.json) |
 | Japanese DoJo | 190935 | [190935-japanese-dojo.json](./190935-japanese-dojo.json) |
 | Japanese Dominatrixes Are the Best | 385702 | [385702-japanese-dominatrixes-are-the-best.json](./385702-japanese-dominatrixes-are-the-best.json) |
+| Japanese Drag Racing | 174004 | [174004-japanese-drag-racing.json](./174004-japanese-drag-racing.json) |
 | Japanese Dungeon: Learn J-Word | 232068 | [232068-japanese-dungeon-learn-j-word.json](./232068-japanese-dungeon-learn-j-word.json) |
 | Japanese Escape Games: Atelier Kissa Furatto kara no Dasshutsu | 222222 | [222222-japanese-escape-games-atelier-kissa-furatto-kara-no-dasshutsu.json](./222222-japanese-escape-games-atelier-kissa-furatto-kara-no-dasshutsu.json) |
 | Japanese Escape Games: Chika Keimusho kara no Dasshutsu | 222211 | [222211-japanese-escape-games-chika-keimusho-kara-no-dasshutsu.json](./222211-japanese-escape-games-chika-keimusho-kara-no-dasshutsu.json) |
