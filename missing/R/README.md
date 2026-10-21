@@ -2004,6 +2004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re: Dream | 290080 | [290080-re-dream.json](./290080-re-dream.json) |
 | Re: Gals Panic 2 | 348933 | [348933-re-gals-panic-2.json](./348933-re-gals-panic-2.json) |
 | RE: Get to Schol on Time | 140865 | [140865-re-get-to-schol-on-time.json](./140865-re-get-to-schol-on-time.json) |
+| Re: Imagine the character | 182703 | [182703-re-imagine-the-character.json](./182703-re-imagine-the-character.json) |
 | Re: LieF ~Shin'ainaru Anata e~ | 144956 | [144956-re-lief-shinainaru-anata-e.json](./144956-re-lief-shinainaru-anata-e.json) |
 | Re: My Dear Sister | 368648 | [368648-re-my-dear-sister.json](./368648-re-my-dear-sister.json) |
 | Re: Pian | 368035 | [368035-re-pian.json](./368035-re-pian.json) |
@@ -7896,6 +7897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll to Ruin | 418256 | [418256-roll-to-ruin.json](./418256-roll-to-ruin.json) |
 | Roll Turtle | 208577 | [208577-roll-turtle.json](./208577-roll-turtle.json) |
 | Roll-o-Rama | 185883 | [185883-roll-o-rama.json](./185883-roll-o-rama.json) |
+| Roll, Die, Go Home | 182725 | [182725-roll-die-go-home.json](./182725-roll-die-go-home.json) |
 | Roll: A Puzzle Contraption | 303664 | [303664-roll-a-puzzle-contraption.json](./303664-roll-a-puzzle-contraption.json) |
 | Roll! | 110114 | [110114-roll.json](./110114-roll.json) |
 | Roll.io | 108260 | [108260-roll-io.json](./108260-roll-io.json) |
