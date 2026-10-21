@@ -1044,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 4: Season Pass | 293723 | [293723-fallout-4-season-pass.json](./293723-fallout-4-season-pass.json) |
 | Fallout 4: Vault-Tec Workshop | 19533 | [19533-fallout-4-vault-tec-workshop.json](./19533-fallout-4-vault-tec-workshop.json) |
 | Fallout 5 | 410450 | [410450-fallout-5.json](./410450-fallout-5.json) |
+| Fallout 76 + Wastelanders | 171286 | [171286-fallout-76-wastelanders.json](./171286-fallout-76-wastelanders.json) |
 | Fallout 76 Raiders & Settlers Content Bundle | 136361 | [136361-fallout-76-raiders-and-settlers-content-bundle.json](./136361-fallout-76-raiders-and-settlers-content-bundle.json) |
 | Fallout 76: Atlantic City | 252834 | [252834-fallout-76-atlantic-city.json](./252834-fallout-76-atlantic-city.json) |
 | Fallout 76: Atlantic City - Boardwalk Paradise: Deluxe Edition | 279250 | [279250-fallout-76-atlantic-city-boardwalk-paradise-deluxe-edition.json](./279250-fallout-76-atlantic-city-boardwalk-paradise-deluxe-edition.json) |
@@ -4443,6 +4444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire & Water | 147997 | [147997-fire-and-water.json](./147997-fire-and-water.json) |
 | Fire All Humans | 211134 | [211134-fire-all-humans.json](./211134-fire-all-humans.json) |
 | Fire All Weapons | 257973 | [257973-fire-all-weapons.json](./257973-fire-all-weapons.json) |
+| Fire and Ashes | 171306 | [171306-fire-and-ashes.json](./171306-fire-and-ashes.json) |
 | Fire and Ashes | 339624 | [339624-fire-and-ashes.json](./339624-fire-and-ashes.json) |
 | Fire and Brim Co. | 258708 | [258708-fire-and-brim-co.json](./258708-fire-and-brim-co.json) |
 | Fire and Darkness | 159103 | [159103-fire-and-darkness.json](./159103-fire-and-darkness.json) |
@@ -6994,6 +6996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Footage | 309453 | [309453-footage.json](./309453-footage.json) |
 | Footage of the Battle | 283852 | [283852-footage-of-the-battle.json](./283852-footage-of-the-battle.json) |
 | Football | 131533 | [131533-football.json](./131533-football.json) |
+| Football | 171272 | [171272-football.json](./171272-football.json) |
 | Football | 199023 | [199023-football.json](./199023-football.json) |
 | Football | 217830 | [217830-football.json](./217830-football.json) |
 | Football | 225529 | [225529-football.json](./225529-football.json) |
@@ -8135,9 +8138,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 5: Apex Allstars Car Pack | 305531 | [305531-forza-horizon-5-apex-allstars-car-pack.json](./305531-forza-horizon-5-apex-allstars-car-pack.json) |
 | Forza Horizon 5: Car Pass | 293918 | [293918-forza-horizon-5-car-pass.json](./293918-forza-horizon-5-car-pass.json) |
 | Forza Horizon 5: Chinese Lucky Stars Car Pack | 291076 | [291076-forza-horizon-5-chinese-lucky-stars-car-pack.json](./291076-forza-horizon-5-chinese-lucky-stars-car-pack.json) |
+| Forza Horizon 5: Deluxe Edition | 171269 | [171269-forza-horizon-5-deluxe-edition.json](./171269-forza-horizon-5-deluxe-edition.json) |
 | Forza Horizon 5: Expansions Bundle | 200693 | [200693-forza-horizon-5-expansions-bundle.json](./200693-forza-horizon-5-expansions-bundle.json) |
 | Forza Horizon 5: Hide & Seek | 314386 | [314386-forza-horizon-5-hide-and-seek.json](./314386-forza-horizon-5-hide-and-seek.json) |
 | Forza Horizon 5: Italian Exotics Car Pack | 261851 | [261851-forza-horizon-5-italian-exotics-car-pack.json](./261851-forza-horizon-5-italian-exotics-car-pack.json) |
+| Forza Horizon 5: Premium Edition | 171270 | [171270-forza-horizon-5-premium-edition.json](./171270-forza-horizon-5-premium-edition.json) |
 | Forza Horizon 5: Summer Party | 256985 | [256985-forza-horizon-5-summer-party.json](./256985-forza-horizon-5-summer-party.json) |
 | Forza Horizon 5: VIP | 387371 | [387371-forza-horizon-5-vip.json](./387371-forza-horizon-5-vip.json) |
 | Forza Horizon 5: Welcome Pack | 387369 | [387369-forza-horizon-5-welcome-pack.json](./387369-forza-horizon-5-welcome-pack.json) |
