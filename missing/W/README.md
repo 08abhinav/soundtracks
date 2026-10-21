@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wagamama Fairy: Mirumo de Pon! Ougon Maracas no Densetsu | 284598 | [284598-wagamama-fairy-mirumo-de-pon-ougon-maracas-no-densetsu.json](./284598-wagamama-fairy-mirumo-de-pon-ougon-maracas-no-densetsu.json) |
 | Wagamama Fairy: Mirumo de Pon! Taisen Mahoudama | 283397 | [283397-wagamama-fairy-mirumo-de-pon-taisen-mahoudama.json](./283397-wagamama-fairy-mirumo-de-pon-taisen-mahoudama.json) |
 | Wagee | 402519 | [402519-wagee.json](./402519-wagee.json) |
+| Wager | 171303 | [171303-wager.json](./171303-wager.json) |
 | Wagers of War | 54968 | [54968-wagers-of-war.json](./54968-wagers-of-war.json) |
 | Wages of War: The Business of Battle | 70982 | [70982-wages-of-war-the-business-of-battle.json](./70982-wages-of-war-the-business-of-battle.json) |
 | Wageslave | 397239 | [397239-wageslave.json](./397239-wageslave.json) |
@@ -3048,6 +3049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
+| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
