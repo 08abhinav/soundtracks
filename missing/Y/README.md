@@ -609,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoiks! | 202173 | [202173-yoiks.json](./202173-yoiks.json) |
 | Yoiyami Biscuit | 307308 | [307308-yoiyami-biscuit.json](./307308-yoiyami-biscuit.json) |
 | Yoiyami Dancers | 100556 | [100556-yoiyami-dancers.json](./100556-yoiyami-dancers.json) |
+| Yoiyami Densetsu: The Legend of Twilight | 203077 | [203077-yoiyami-densetsu-the-legend-of-twilight.json](./203077-yoiyami-densetsu-the-legend-of-twilight.json) |
 | Yoiyami Dreamer: Voice of the Dreambringer | 69353 | [69353-yoiyami-dreamer-voice-of-the-dreambringer.json](./69353-yoiyami-dreamer-voice-of-the-dreambringer.json) |
 | Yoiyo Mori no Hime | 293326 | [293326-yoiyo-mori-no-hime.json](./293326-yoiyo-mori-no-hime.json) |
 | Yojimbrawl | 87819 | [87819-yojimbrawl.json](./87819-yojimbrawl.json) |
@@ -1643,6 +1644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuuto Ichika Gets DMCA'd | 195074 | [195074-yuuto-ichika-gets-dmcad.json](./195074-yuuto-ichika-gets-dmcad.json) |
 | Yuuwaku | 232828 | [232828-yuuwaku.json](./232828-yuuwaku.json) |
 | Yuuwaku no Toiki | 232829 | [232829-yuuwaku-no-toiki.json](./232829-yuuwaku-no-toiki.json) |
+| Yuuwaku Office Ren'ai-ka | 203166 | [203166-yuuwaku-office-renai-ka.json](./203166-yuuwaku-office-renai-ka.json) |
 | Yuuyami Doori Tankentai | 9688 | [9688-yuuyami-doori-tankentai.json](./9688-yuuyami-doori-tankentai.json) |
 | Yuuyu no Quiz de Go! Go! | 37750 | [37750-yuuyu-no-quiz-de-go-go.json](./37750-yuuyu-no-quiz-de-go-go.json) |
 | YuuYuu Jiteki no Yuukarin | 166626 | [166626-yuuyuu-jiteki-no-yuukarin.json](./166626-yuuyuu-jiteki-no-yuukarin.json) |
