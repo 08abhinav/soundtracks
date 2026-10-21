@@ -2451,6 +2451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geoff Capes Strongman | 79164 | [79164-geoff-capes-strongman.json](./79164-geoff-capes-strongman.json) |
 | GeoFS | 142942 | [142942-geofs.json](./142942-geofs.json) |
 | Geograph Seal | 63819 | [63819-geograph-seal.json](./63819-geograph-seal.json) |
+| Geographical Adventures | 191450 | [191450-geographical-adventures.json](./191450-geographical-adventures.json) |
 | Geography Champion | 105933 | [105933-geography-champion.json](./105933-geography-champion.json) |
 | GeographyHelp | 316158 | [316158-geographyhelp.json](./316158-geographyhelp.json) |
 | GeoGrid | 301361 | [301361-geogrid.json](./301361-geogrid.json) |
