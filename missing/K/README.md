@@ -2398,6 +2398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Pig | 203669 | [203669-king-pig.json](./203669-king-pig.json) |
 | King Pins | 140452 | [140452-king-pins.json](./140452-king-pins.json) |
 | King Rabbit: Puzzle | 111196 | [111196-king-rabbit-puzzle.json](./111196-king-rabbit-puzzle.json) |
+| King Rabbit: Race | 185913 | [185913-king-rabbit-race.json](./185913-king-rabbit-race.json) |
 | King Randall's Party | 107800 | [107800-king-randalls-party.json](./107800-king-randalls-party.json) |
 | King Safety | 197320 | [197320-king-safety.json](./197320-king-safety.json) |
 | King Scribble | 382775 | [382775-king-scribble.json](./382775-king-scribble.json) |
@@ -2859,6 +2860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby Family | 248070 | [248070-kirby-family.json](./248070-kirby-family.json) |
 | Kirby Fighters 2 Memory Match-Up | 314986 | [314986-kirby-fighters-2-memory-match-up.json](./314986-kirby-fighters-2-memory-match-up.json) |
 | Kirby Fighters Deluxe | 45163 | [45163-kirby-fighters-deluxe.json](./45163-kirby-fighters-deluxe.json) |
+| Kirby for Nintendo GameCube | 185888 | [185888-kirby-for-nintendo-gamecube.json](./185888-kirby-for-nintendo-gamecube.json) |
 | Kirby Gamble Galaxy Stories | 294790 | [294790-kirby-gamble-galaxy-stories.json](./294790-kirby-gamble-galaxy-stories.json) |
 | Kirby Gamble Galaxy Stories: The Future | 395702 | [395702-kirby-gamble-galaxy-stories-the-future.json](./395702-kirby-gamble-galaxy-stories-the-future.json) |
 | Kirby Heardle | 203815 | [203815-kirby-heardle.json](./203815-kirby-heardle.json) |
@@ -2879,6 +2881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby Super Star Ultra | 2647 | [2647-kirby-super-star-ultra.json](./2647-kirby-super-star-ultra.json) |
 | Kirby the Dream Battle | 145015 | [145015-kirby-the-dream-battle.json](./145015-kirby-the-dream-battle.json) |
 | Kirby Tilt 'n' Tumble | 3729 | [3729-kirby-tilt-n-tumble.json](./3729-kirby-tilt-n-tumble.json) |
+| Kirby Tilt 'n' Tumble 2 | 185882 | [185882-kirby-tilt-n-tumble-2.json](./185882-kirby-tilt-n-tumble-2.json) |
 | Kirby: Canvas Curse | 3722 | [3722-kirby-canvas-curse.json](./3722-kirby-canvas-curse.json) |
 | Kirby: Cosmic Chaos | 323915 | [323915-kirby-cosmic-chaos.json](./323915-kirby-cosmic-chaos.json) |
 | Kirby: Nightmare in Dream Land | 3726 | [3726-kirby-nightmare-in-dream-land.json](./3726-kirby-nightmare-in-dream-land.json) |
@@ -4444,6 +4447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kube | 180095 | [180095-kube.json](./180095-kube.json) |
 | Kube | 212976 | [212976-kube.json](./212976-kube.json) |
 | Kube Kreatures: Bleached White | 386274 | [386274-kube-kreatures-bleached-white.json](./386274-kube-kreatures-bleached-white.json) |
+| KubeBird | 185918 | [185918-kubebird.json](./185918-kubebird.json) |
 | Kubes | 67633 | [67633-kubes.json](./67633-kubes.json) |
 | Kubic | 283143 | [283143-kubic.json](./283143-kubic.json) |
 | Kubic | 58107 | [58107-kubic.json](./58107-kubic.json) |
