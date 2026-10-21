@@ -1185,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Forest Project | 169784 | [169784-dark-forest-project.json](./169784-dark-forest-project.json) |
 | Dark Forest Virtual Chatroom | 116253 | [116253-dark-forest-virtual-chatroom.json](./116253-dark-forest-virtual-chatroom.json) |
 | Dark Forest: Lost Story VR | 164923 | [164923-dark-forest-lost-story-vr.json](./164923-dark-forest-lost-story-vr.json) |
+| Dark Forest: The Horror | 181038 | [181038-dark-forest-the-horror.json](./181038-dark-forest-the-horror.json) |
 | Dark Forester | 35760 | [35760-dark-forester.json](./35760-dark-forester.json) |
 | Dark Frame | 159561 | [159561-dark-frame.json](./159561-dark-frame.json) |
 | Dark Front | 378597 | [378597-dark-front.json](./378597-dark-front.json) |
@@ -2930,6 +2931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Venture | 234609 | [234609-dead-venture.json](./234609-dead-venture.json) |
 | Dead War Rise of Zombies | 305647 | [305647-dead-war-rise-of-zombies.json](./305647-dead-war-rise-of-zombies.json) |
 | Dead Watch | 347900 | [347900-dead-watch.json](./347900-dead-watch.json) |
+| Dead Way | 181015 | [181015-dead-way.json](./181015-dead-way.json) |
 | Dead Weight | 288215 | [288215-dead-weight.json](./288215-dead-weight.json) |
 | Dead Weight | 336123 | [336123-dead-weight.json](./336123-dead-weight.json) |
 | Dead Wells: The Devil Fragment | 261694 | [261694-dead-wells-the-devil-fragment.json](./261694-dead-wells-the-devil-fragment.json) |
