@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Day in the Life of Death | 311741 | [311741-a-day-in-the-life-of-death.json](./311741-a-day-in-the-life-of-death.json) |
 | A Day of Maintenance | 154623 | [154623-a-day-of-maintenance.json](./154623-a-day-of-maintenance.json) |
 | A Day on the Farm | 326582 | [326582-a-day-on-the-farm.json](./326582-a-day-on-the-farm.json) |
+| A Day Out | 190377 | [190377-a-day-out.json](./190377-a-day-out.json) |
 | A Day Out with Ube | 242006 | [242006-a-day-out-with-ube.json](./242006-a-day-out-with-ube.json) |
 | A Day to Bring Them Happiness | 314042 | [314042-a-day-to-bring-them-happiness.json](./314042-a-day-to-bring-them-happiness.json) |
 | A Day With Mochi | 323717 | [323717-a-day-with-mochi.json](./323717-a-day-with-mochi.json) |
@@ -318,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Frog's Job: Level Pack 1 | 306558 | [306558-a-frogs-job-level-pack-1.json](./306558-a-frogs-job-level-pack-1.json) |
 | A Frog's Job: Level Pack 2 | 306559 | [306559-a-frogs-job-level-pack-2.json](./306559-a-frogs-job-level-pack-2.json) |
 | A Frog's Tale | 144700 | [144700-a-frogs-tale.json](./144700-a-frogs-tale.json) |
+| A Frustrating Platformer | 190382 | [190382-a-frustrating-platformer.json](./190382-a-frustrating-platformer.json) |
 | A Fugu's Dive | 379501 | [379501-a-fugus-dive.json](./379501-a-fugus-dive.json) |
 | A Furry Tale: A night in Havena | 312673 | [312673-a-furry-tale-a-night-in-havena.json](./312673-a-furry-tale-a-night-in-havena.json) |
 | A Future With You | 364521 | [364521-a-future-with-you.json](./364521-a-future-with-you.json) |
