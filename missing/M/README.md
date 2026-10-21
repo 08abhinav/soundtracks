@@ -2315,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maniac Pro-Wrestling: Ashita e no Tatakai | 59032 | [59032-maniac-pro-wrestling-ashita-e-no-tatakai.json](./59032-maniac-pro-wrestling-ashita-e-no-tatakai.json) |
 | Maniac Sports | 69249 | [69249-maniac-sports.json](./69249-maniac-sports.json) |
 | Maniac Square | 122239 | [122239-maniac-square.json](./122239-maniac-square.json) |
+| Maniacs | 203736 | [203736-maniacs.json](./203736-maniacs.json) |
 | Manic | 126951 | [126951-manic.json](./126951-manic.json) |
 | Manic Archers | 153382 | [153382-manic-archers.json](./153382-manic-archers.json) |
 | Manic Miner | 10161 | [10161-manic-miner.json](./10161-manic-miner.json) |
@@ -4789,6 +4790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Racing | 239116 | [239116-maze-racing.json](./239116-maze-racing.json) |
 | Maze Roller | 32203 | [32203-maze-roller.json](./32203-maze-roller.json) |
 | Maze Run VR | 55416 | [55416-maze-run-vr.json](./55416-maze-run-vr.json) |
+| Maze Runner | 203741 | [203741-maze-runner.json](./203741-maze-runner.json) |
 | Maze Runner | 72108 | [72108-maze-runner.json](./72108-maze-runner.json) |
 | Maze Runner II | 242690 | [242690-maze-runner-ii.json](./242690-maze-runner-ii.json) |
 | Maze Slider | 143969 | [143969-maze-slider.json](./143969-maze-slider.json) |
@@ -5103,6 +5105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanic 8230: Deluxe Edition | 252700 | [252700-mechanic-8230-deluxe-edition.json](./252700-mechanic-8230-deluxe-edition.json) |
 | Mechanic 8230: Escape From Ilgrot - Extended Edition | 259544 | [259544-mechanic-8230-escape-from-ilgrot-extended-edition.json](./259544-mechanic-8230-escape-from-ilgrot-extended-edition.json) |
 | Mechanic 8230: Mission Citytone | 260527 | [260527-mechanic-8230-mission-citytone.json](./260527-mechanic-8230-mission-citytone.json) |
+| Mechanic Battle | 203724 | [203724-mechanic-battle.json](./203724-mechanic-battle.json) |
 | Mechanic Heroes | 207565 | [207565-mechanic-heroes.json](./207565-mechanic-heroes.json) |
 | Mechanic Infantry | 61986 | [61986-mechanic-infantry.json](./61986-mechanic-infantry.json) |
 | Mechanic Legends | 314472 | [314472-mechanic-legends.json](./314472-mechanic-legends.json) |
@@ -14388,6 +14391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muku wo Saku | 308877 | [308877-muku-wo-saku.json](./308877-muku-wo-saku.json) |
 | Mul-Ty-Player | 315191 | [315191-mul-ty-player.json](./315191-mul-ty-player.json) |
 | Mul.Mash.Tab.Ba.Gal.Gal | 239498 | [239498-mul-mash-tab-ba-gal-gal.json](./239498-mul-mash-tab-ba-gal-gal.json) |
+| Mulan | 203659 | [203659-mulan.json](./203659-mulan.json) |
 | Mulan 2125 | 372883 | [372883-mulan-2125.json](./372883-mulan-2125.json) |
 | Muldulamulom | 129502 | [129502-muldulamulom.json](./129502-muldulamulom.json) |
 | MULE Returns | 91151 | [91151-mule-returns.json](./91151-mule-returns.json) |
