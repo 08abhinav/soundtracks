@@ -2123,6 +2123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action News Heroes | 51614 | [51614-action-news-heroes.json](./51614-action-news-heroes.json) |
 | Action Pachio | 38352 | [38352-action-pachio.json](./38352-action-pachio.json) |
 | Action Pack I Prince of Persia: Revelations & Prince of Persia: Rival Swords | 159110 | [159110-action-pack-i-prince-of-persia-revelations-and-prince-of-persia-rival-swords.json](./159110-action-pack-i-prince-of-persia-revelations-and-prince-of-persia-rival-swords.json) |
+| Action Pack: Armed Forces Corp. and Terrorist Takedown 2 | 202058 | [202058-action-pack-armed-forces-corp-and-terrorist-takedown-2.json](./202058-action-pack-armed-forces-corp-and-terrorist-takedown-2.json) |
 | Action Painting Pro | 128587 | [128587-action-painting-pro.json](./128587-action-painting-pro.json) |
 | Action Puzzle: Prism Land | 266272 | [266272-action-puzzle-prism-land.json](./266272-action-puzzle-prism-land.json) |
 | Action Quake 2 | 221842 | [221842-action-quake-2.json](./221842-action-quake-2.json) |
@@ -3841,6 +3842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Attack 3D: Sky War | 223960 | [223960-air-attack-3d-sky-war.json](./223960-air-attack-3d-sky-war.json) |
 | Air Attack Pack | 100086 | [100086-air-attack-pack.json](./100086-air-attack-pack.json) |
 | Air Attack VR | 231844 | [231844-air-attack-vr.json](./231844-air-attack-vr.json) |
+| Air Ball | 201996 | [201996-air-ball.json](./201996-air-ball.json) |
 | Air Ball 2 | 146818 | [146818-air-ball-2.json](./146818-air-ball-2.json) |
 | Air Battle Chess | 197361 | [197361-air-battle-chess.json](./197361-air-battle-chess.json) |
 | Air Battle Hockey 3D | 84736 | [84736-air-battle-hockey-3d.json](./84736-air-battle-hockey-3d.json) |
@@ -6332,6 +6334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Popstar: Road to Celebrity | 68234 | [68234-american-popstar-road-to-celebrity.json](./68234-american-popstar-road-to-celebrity.json) |
 | American Powerhaul Train Simulator | 33522 | [33522-american-powerhaul-train-simulator.json](./33522-american-powerhaul-train-simulator.json) |
 | American Railroads: Summit River & Pine Valley | 96855 | [96855-american-railroads-summit-river-and-pine-valley.json](./96855-american-railroads-summit-river-and-pine-valley.json) |
+| American Rodeo: Bull Rider 2000 | 202055 | [202055-american-rodeo-bull-rider-2000.json](./202055-american-rodeo-bull-rider-2000.json) |
 | American Sign Language Tutor | 94948 | [94948-american-sign-language-tutor.json](./94948-american-sign-language-tutor.json) |
 | American Soccer | 41806 | [41806-american-soccer.json](./41806-american-soccer.json) |
 | American Speedway | 38524 | [38524-american-speedway.json](./38524-american-speedway.json) |
@@ -6620,6 +6623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An American Tail: Fievel Goes West | 217950 | [217950-an-american-tail-fievel-goes-west.json](./217950-an-american-tail-fievel-goes-west.json) |
 | An Angel's Final Desire | 319005 | [319005-an-angels-final-desire.json](./319005-an-angels-final-desire.json) |
 | An Ankou | 250946 | [250946-an-ankou.json](./250946-an-ankou.json) |
+| An Anniversary Dinner | 201985 | [201985-an-anniversary-dinner.json](./201985-an-anniversary-dinner.json) |
 | An Annventure to End Them All | 221774 | [221774-an-annventure-to-end-them-all.json](./221774-an-annventure-to-end-them-all.json) |
 | An antidepressant | 177843 | [177843-an-antidepressant.json](./177843-an-antidepressant.json) |
 | An Aquatic Pokemon Tale | 323758 | [323758-an-aquatic-pokemon-tale.json](./323758-an-aquatic-pokemon-tale.json) |
@@ -6857,6 +6861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Savo | 303161 | [303161-ancient-savo.json](./303161-ancient-savo.json) |
 | Ancient Scroll | 303162 | [303162-ancient-scroll.json](./303162-ancient-scroll.json) |
 | Ancient Secret | 359748 | [359748-ancient-secret.json](./359748-ancient-secret.json) |
+| Ancient Secrets: Voyage in Time | 202057 | [202057-ancient-secrets-voyage-in-time.json](./202057-ancient-secrets-voyage-in-time.json) |
 | Ancient Shadows: Awakening | 351121 | [351121-ancient-shadows-awakening.json](./351121-ancient-shadows-awakening.json) |
 | Ancient Siberia | 68471 | [68471-ancient-siberia.json](./68471-ancient-siberia.json) |
 | Ancient Souls Tamag | 167676 | [167676-ancient-souls-tamag.json](./167676-ancient-souls-tamag.json) |
@@ -6870,6 +6875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Totems | 303163 | [303163-ancient-totems.json](./303163-ancient-totems.json) |
 | Ancient Tribe | 84886 | [84886-ancient-tribe.json](./84886-ancient-tribe.json) |
 | Ancient TriPeaks | 202099 | [202099-ancient-tripeaks.json](./202099-ancient-tripeaks.json) |
+| Ancient TriPeaks & Ancient Spiders | 202056 | [202056-ancient-tripeaks-and-ancient-spiders.json](./202056-ancient-tripeaks-and-ancient-spiders.json) |
 | Ancient Viking | 262855 | [262855-ancient-viking.json](./262855-ancient-viking.json) |
 | Ancient Village 2 | 249685 | [249685-ancient-village-2.json](./249685-ancient-village-2.json) |
 | Ancient VR coaster | 32297 | [32297-ancient-vr-coaster.json](./32297-ancient-vr-coaster.json) |
@@ -7174,6 +7180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Bounce | 347237 | [347237-angry-birds-bounce.json](./347237-angry-birds-bounce.json) |
 | Angry Birds Breaker | 280802 | [280802-angry-birds-breaker.json](./280802-angry-birds-breaker.json) |
 | Angry Birds Champions | 87865 | [87865-angry-birds-champions.json](./87865-angry-birds-champions.json) |
+| Angry Birds Coca-Cola | 202090 | [202090-angry-birds-coca-cola.json](./202090-angry-birds-coca-cola.json) |
 | Angry Birds Dice | 264224 | [264224-angry-birds-dice.json](./264224-angry-birds-dice.json) |
 | Angry Birds Dice Adventure | 246307 | [246307-angry-birds-dice-adventure.json](./246307-angry-birds-dice-adventure.json) |
 | Angry Birds Double Crossed | 240248 | [240248-angry-birds-double-crossed.json](./240248-angry-birds-double-crossed.json) |
@@ -7193,6 +7200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Match | 56590 | [56590-angry-birds-match.json](./56590-angry-birds-match.json) |
 | Angry Birds Match World | 377794 | [377794-angry-birds-match-world.json](./377794-angry-birds-match-world.json) |
 | Angry Birds Matching | 325566 | [325566-angry-birds-matching.json](./325566-angry-birds-matching.json) |
+| Angry Birds McDonald's | 202075 | [202075-angry-birds-mcdonalds.json](./202075-angry-birds-mcdonalds.json) |
 | Angry Birds Opera | 237496 | [237496-angry-birds-opera.json](./237496-angry-birds-opera.json) |
 | Angry Birds Racing | 226776 | [226776-angry-birds-racing.json](./226776-angry-birds-racing.json) |
 | Angry Birds Refresh | 357348 | [357348-angry-birds-refresh.json](./357348-angry-birds-refresh.json) |
@@ -9747,6 +9755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archers Online | 316047 | [316047-archers-online.json](./316047-archers-online.json) |
 | Archers Shadow Strike | 332536 | [332536-archers-shadow-strike.json](./332536-archers-shadow-strike.json) |
 | Archers: Bowman's Battle | 63249 | [63249-archers-bowmans-battle.json](./63249-archers-bowmans-battle.json) |
+| Archery | 201993 | [201993-archery.json](./201993-archery.json) |
 | Archery | 247023 | [247023-archery.json](./247023-archery.json) |
 | Archery 2 | 344786 | [344786-archery-2.json](./344786-archery-2.json) |
 | Archery Arena | 160102 | [160102-archery-arena.json](./160102-archery-arena.json) |
@@ -10651,6 +10660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrow Dungeon | 351720 | [351720-arrow-dungeon.json](./351720-arrow-dungeon.json) |
 | Arrow Flash | 46522 | [46522-arrow-flash.json](./46522-arrow-flash.json) |
 | Arrow Flick | 262463 | [262463-arrow-flick.json](./262463-arrow-flick.json) |
+| Arrow Match | 201987 | [201987-arrow-match.json](./201987-arrow-match.json) |
 | Arrow of Laputa | 227979 | [227979-arrow-of-laputa.json](./227979-arrow-of-laputa.json) |
 | Arrow of Laputa: Kage Nashi Sensei to Kiron no Fuuken | 59210 | [59210-arrow-of-laputa-kage-nashi-sensei-to-kiron-no-fuuken.json](./59210-arrow-of-laputa-kage-nashi-sensei-to-kiron-no-fuuken.json) |
 | Arrow Patterns | 267361 | [267361-arrow-patterns.json](./267361-arrow-patterns.json) |
