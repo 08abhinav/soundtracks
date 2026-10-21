@@ -8983,6 +8983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Labyrinth | 37407 | [37407-the-labyrinth.json](./37407-the-labyrinth.json) |
 | The Labyrinth Adventure of Demons | 195255 | [195255-the-labyrinth-adventure-of-demons.json](./195255-the-labyrinth-adventure-of-demons.json) |
 | The Labyrinth Inferno | 421190 | [421190-the-labyrinth-inferno.json](./421190-the-labyrinth-inferno.json) |
+| The Labyrinth of Greed | 190003 | [190003-the-labyrinth-of-greed.json](./190003-the-labyrinth-of-greed.json) |
 | The Labyrinth of Grisaia | 11457 | [11457-the-labyrinth-of-grisaia.json](./11457-the-labyrinth-of-grisaia.json) |
 | The Labyrinth of Time | 7670 | [7670-the-labyrinth-of-time.json](./7670-the-labyrinth-of-time.json) |
 | The Labyrinth on Burrow Hill | 403545 | [403545-the-labyrinth-on-burrow-hill.json](./403545-the-labyrinth-on-burrow-hill.json) |
@@ -14581,6 +14582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witches Pond | 277823 | [277823-the-witches-pond.json](./277823-the-witches-pond.json) |
 | The Witches' Tea Party | 51383 | [51383-the-witches-tea-party.json](./51383-the-witches-tea-party.json) |
 | The Witches' Whisk | 304257 | [304257-the-witches-whisk.json](./304257-the-witches-whisk.json) |
+| The Witchmade Shop | 189865 | [189865-the-witchmade-shop.json](./189865-the-witchmade-shop.json) |
 | The Witness | 7425 | [7425-the-witness.json](./7425-the-witness.json) |
 | The Wizard | 181239 | [181239-the-wizard.json](./181239-the-wizard.json) |
 | The Wizard | 236332 | [236332-the-wizard.json](./236332-the-wizard.json) |
@@ -17692,6 +17694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timmy and the Magic Pictures | 290313 | [290313-timmy-and-the-magic-pictures.json](./290313-timmy-and-the-magic-pictures.json) |
 | Timmy L'Escargot | 368250 | [368250-timmy-lescargot.json](./368250-timmy-lescargot.json) |
 | Timmy the Dream Hunter | 307299 | [307299-timmy-the-dream-hunter.json](./307299-timmy-the-dream-hunter.json) |
+| Timmy the Tiger's Big Adventure | 189859 | [189859-timmy-the-tigers-big-adventure.json](./189859-timmy-the-tigers-big-adventure.json) |
 | Timmy Time | 113890 | [113890-timmy-time.json](./113890-timmy-time.json) |
 | Timmy Types | 214540 | [214540-timmy-types.json](./214540-timmy-types.json) |
 | Timmy's Adventures | 224648 | [224648-timmys-adventures.json](./224648-timmys-adventures.json) |
@@ -19957,6 +19960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Baseball | 127163 | [127163-totally-baseball.json](./127163-totally-baseball.json) |
 | Totally Convenient | 188907 | [188907-totally-convenient.json](./188907-totally-convenient.json) |
 | Totally Jet | 246488 | [246488-totally-jet.json](./246488-totally-jet.json) |
+| Totally Normal Boyfriend | 189864 | [189864-totally-normal-boyfriend.json](./189864-totally-normal-boyfriend.json) |
 | Totally Normal Day | 304759 | [304759-totally-normal-day.json](./304759-totally-normal-day.json) |
 | Totally Normal Journey: The Interactive Musical | 157021 | [157021-totally-normal-journey-the-interactive-musical.json](./157021-totally-normal-journey-the-interactive-musical.json) |
 | Totally Not Sumo | 306043 | [306043-totally-not-sumo.json](./306043-totally-not-sumo.json) |
@@ -20113,6 +20117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhai Densetsu: Akagi DS - Yami ni Maiorita Tensai | 124104 | [124104-touhai-densetsu-akagi-ds-yami-ni-maiorita-tensai.json](./124104-touhai-densetsu-akagi-ds-yami-ni-maiorita-tensai.json) |
 | Touhou 1: The Highly Responsive to Prayers NES Demake | 277165 | [277165-touhou-1-the-highly-responsive-to-prayers-nes-demake.json](./277165-touhou-1-the-highly-responsive-to-prayers-nes-demake.json) |
 | Touhou 3D Dungeon | 152988 | [152988-touhou-3d-dungeon.json](./152988-touhou-3d-dungeon.json) |
+| Touhou Adventure | 189858 | [189858-touhou-adventure.json](./189858-touhou-adventure.json) |
 | Touhou Arcadia Record | 212442 | [212442-touhou-arcadia-record.json](./212442-touhou-arcadia-record.json) |
 | Touhou Baisyunyado: Soap of Royal Road | 138029 | [138029-touhou-baisyunyado-soap-of-royal-road.json](./138029-touhou-baisyunyado-soap-of-royal-road.json) |
 | Touhou Big Big Battle: The Justice | 210216 | [210216-touhou-big-big-battle-the-justice.json](./210216-touhou-big-big-battle-the-justice.json) |
@@ -21182,6 +21187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic Racer | 83217 | [83217-traffic-racer.json](./83217-traffic-racer.json) |
 | Traffic Racer Crash | 123481 | [123481-traffic-racer-crash.json](./123481-traffic-racer-crash.json) |
 | Traffic Racer Highway Online | 250350 | [250350-traffic-racer-highway-online.json](./250350-traffic-racer-highway-online.json) |
+| Traffic Racing | 189886 | [189886-traffic-racing.json](./189886-traffic-racing.json) |
 | Traffic Rider | 37055 | [37055-traffic-rider.json](./37055-traffic-rider.json) |
 | Traffic Rivals: 1v1 Duels | 348456 | [348456-traffic-rivals-1v1-duels.json](./348456-traffic-rivals-1v1-duels.json) |
 | Traffic Road | 353949 | [353949-traffic-road.json](./353949-traffic-road.json) |
