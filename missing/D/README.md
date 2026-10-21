@@ -7096,6 +7096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Hunt | 150081 | [150081-dino-hunt.json](./150081-dino-hunt.json) |
 | Dino Hunt | 265089 | [265089-dino-hunt.json](./265089-dino-hunt.json) |
 | Dino Hunt 2 | 265090 | [265090-dino-hunt-2.json](./265090-dino-hunt-2.json) |
+| Dino Island: The Four Crystals | 194859 | [194859-dino-island-the-four-crystals.json](./194859-dino-island-the-four-crystals.json) |
 | Dino Jnr. in Canyon Capers | 57167 | [57167-dino-jnr-in-canyon-capers.json](./57167-dino-jnr-in-canyon-capers.json) |
 | Dino King Battle: Taiko Kara no Hyouryuusha | 269741 | [269741-dino-king-battle-taiko-kara-no-hyouryuusha.json](./269741-dino-king-battle-taiko-kara-no-hyouryuusha.json) |
 | Dino Kingdom | 115545 | [115545-dino-kingdom.json](./115545-dino-kingdom.json) |
@@ -13529,6 +13530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Defenders: Etherian Festival of Love | 164347 | [164347-dungeon-defenders-etherian-festival-of-love.json](./164347-dungeon-defenders-etherian-festival-of-love.json) |
 | Dungeon Defenders: Etherian Holiday Extravaganza | 164359 | [164359-dungeon-defenders-etherian-holiday-extravaganza.json](./164359-dungeon-defenders-etherian-holiday-extravaganza.json) |
 | Dungeon Defenders: First Wave | 66171 | [66171-dungeon-defenders-first-wave.json](./66171-dungeon-defenders-first-wave.json) |
+| Dungeon Defenders: Going Rogue | 194861 | [194861-dungeon-defenders-going-rogue.json](./194861-dungeon-defenders-going-rogue.json) |
 | Dungeon Defenders: Halloween Mission Pack | 164345 | [164345-dungeon-defenders-halloween-mission-pack.json](./164345-dungeon-defenders-halloween-mission-pack.json) |
 | Dungeon Defenders: Hermit Hero | 255027 | [255027-dungeon-defenders-hermit-hero.json](./255027-dungeon-defenders-hermit-hero.json) |
 | Dungeon Defenders: Jester Hero DLC | 164354 | [164354-dungeon-defenders-jester-hero-dlc.json](./164354-dungeon-defenders-jester-hero-dlc.json) |
