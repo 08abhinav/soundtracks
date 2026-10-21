@@ -1657,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Pop | 250488 | [250488-paranormal-pop.json](./250488-paranormal-pop.json) |
 | Paranormal Power | 304625 | [304625-paranormal-power.json](./304625-paranormal-power.json) |
 | Paranormal Precinct: Last Copy of '99 | 274565 | [274565-paranormal-precinct-last-copy-of-99.json](./274565-paranormal-precinct-last-copy-of-99.json) |
+| Paranormal Preparatory School | 199280 | [199280-paranormal-preparatory-school.json](./199280-paranormal-preparatory-school.json) |
 | Paranormal Psychosis | 19725 | [19725-paranormal-psychosis.json](./19725-paranormal-psychosis.json) |
 | Paranormal Pursuit: The Gifted One | 60445 | [60445-paranormal-pursuit-the-gifted-one.json](./60445-paranormal-pursuit-the-gifted-one.json) |
 | Paranormal Pursuit: The Gifted One - Collector's Edition | 30041 | [30041-paranormal-pursuit-the-gifted-one-collectors-edition.json](./30041-paranormal-pursuit-the-gifted-one-collectors-edition.json) |
@@ -2341,6 +2342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PathPix Edge | 108498 | [108498-pathpix-edge.json](./108498-pathpix-edge.json) |
 | Paths & Danger | 150957 | [150957-paths-and-danger.json](./150957-paths-and-danger.json) |
 | Paths of Fight: Samurai | 249845 | [249845-paths-of-fight-samurai.json](./249845-paths-of-fight-samurai.json) |
+| Paths of the Sentinels | 199277 | [199277-paths-of-the-sentinels.json](./199277-paths-of-the-sentinels.json) |
 | Paths of Valour | 302054 | [302054-paths-of-valour.json](./302054-paths-of-valour.json) |
 | Paths Taken | 119039 | [119039-paths-taken.json](./119039-paths-taken.json) |
 | Paths: Beatrice's Adventure | 246267 | [246267-paths-beatrices-adventure.json](./246267-paths-beatrices-adventure.json) |
@@ -4228,6 +4230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phobia 2 | 18482 | [18482-phobia-2.json](./18482-phobia-2.json) |
 | Phobia Exposure VR | 260619 | [260619-phobia-exposure-vr.json](./260619-phobia-exposure-vr.json) |
 | Phobia III: Edge of Humanity | 18483 | [18483-phobia-iii-edge-of-humanity.json](./18483-phobia-iii-edge-of-humanity.json) |
+| Phobias: Memories of the Past | 199296 | [199296-phobias-memories-of-the-past.json](./199296-phobias-memories-of-the-past.json) |
 | Phobic Nightmares | 344502 | [344502-phobic-nightmares.json](./344502-phobic-nightmares.json) |
 | PhobLack | 312997 | [312997-phoblack.json](./312997-phoblack.json) |
 | PhoboChromaPhobia | 287310 | [287310-phobochromaphobia.json](./287310-phobochromaphobia.json) |
