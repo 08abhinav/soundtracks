@@ -1266,6 +1266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangnam Dance School | 218531 | [218531-gangnam-dance-school.json](./218531-gangnam-dance-school.json) |
 | Gangnam Style | 257577 | [257577-gangnam-style.json](./257577-gangnam-style.json) |
 | Gangnam Style Massacre | 216768 | [216768-gangnam-style-massacre.json](./216768-gangnam-style-massacre.json) |
+| Gangpire: Fire & Fury | 188309 | [188309-gangpire-fire-and-fury.json](./188309-gangpire-fire-and-fury.json) |
 | Gangs of Asia | 360068 | [360068-gangs-of-asia.json](./360068-gangs-of-asia.json) |
 | Gangs of Rikton | 167592 | [167592-gangs-of-rikton.json](./167592-gangs-of-rikton.json) |
 | Gangs of Sherwood: Lionheart Edition | 271679 | [271679-gangs-of-sherwood-lionheart-edition.json](./271679-gangs-of-sherwood-lionheart-edition.json) |
