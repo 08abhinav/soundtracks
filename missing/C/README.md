@@ -830,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camper Jumper Simulator | 31541 | [31541-camper-jumper-simulator.json](./31541-camper-jumper-simulator.json) |
 | Camper Renovator | 172131 | [172131-camper-renovator.json](./172131-camper-renovator.json) |
 | Camper Van Race Driving Simulator 2018 | 107001 | [107001-camper-van-race-driving-simulator-2018.json](./107001-camper-van-race-driving-simulator-2018.json) |
+| Camper Van Simulator | 198071 | [198071-camper-van-simulator.json](./198071-camper-van-simulator.json) |
 | Camper Van Simulator 2 | 226782 | [226782-camper-van-simulator-2.json](./226782-camper-van-simulator-2.json) |
 | Camper Van: Make it Home | 246909 | [246909-camper-van-make-it-home.json](./246909-camper-van-make-it-home.json) |
 | Campfire | 177999 | [177999-campfire.json](./177999-campfire.json) |
