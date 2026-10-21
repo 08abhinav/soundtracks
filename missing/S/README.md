@@ -2719,6 +2719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrap Ascent | 423274 | [423274-scrap-ascent.json](./423274-scrap-ascent.json) |
 | Scrap Attack | 81924 | [81924-scrap-attack.json](./81924-scrap-attack.json) |
 | Scrap Bolts | 246294 | [246294-scrap-bolts.json](./246294-scrap-bolts.json) |
+| Scrap Boy | 182078 | [182078-scrap-boy.json](./182078-scrap-boy.json) |
 | Scrap Bringer | 172130 | [172130-scrap-bringer.json](./172130-scrap-bringer.json) |
 | Scrap Bulwark Guide | 374352 | [374352-scrap-bulwark-guide.json](./374352-scrap-bulwark-guide.json) |
 | Scrap City | 100686 | [100686-scrap-city.json](./100686-scrap-city.json) |
@@ -11325,6 +11326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snakest | 109773 | [109773-snakest.json](./109773-snakest.json) |
 | SnakeTris | 291164 | [291164-snaketris.json](./291164-snaketris.json) |
 | Snaketris: Rescue 'em all | 276614 | [276614-snaketris-rescue-em-all.json](./276614-snaketris-rescue-em-all.json) |
+| Snaketroidvania | 182128 | [182128-snaketroidvania.json](./182128-snaketroidvania.json) |
 | SnakeVib | 340804 | [340804-snakevib.json](./340804-snakevib.json) |
 | Snaky Cat | 337093 | [337093-snaky-cat.json](./337093-snaky-cat.json) |
 | Snaky Snake | 70996 | [70996-snaky-snake.json](./70996-snaky-snake.json) |
@@ -14151,6 +14153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Scathe | 120112 | [120112-soul-scathe.json](./120112-soul-scathe.json) |
 | Soul Searching | 216872 | [216872-soul-searching.json](./216872-soul-searching.json) |
 | Soul Searching | 27357 | [27357-soul-searching.json](./27357-soul-searching.json) |
+| Soul Seed | 182074 | [182074-soul-seed.json](./182074-soul-seed.json) |
 | Soul Seeker | 41502 | [41502-soul-seeker.json](./41502-soul-seeker.json) |
 | Soul Shard | 207340 | [207340-soul-shard.json](./207340-soul-shard.json) |
 | Soul Shuffler | 326786 | [326786-soul-shuffler.json](./326786-soul-shuffler.json) |
@@ -14803,6 +14806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Game: Star We There Yet? | 236754 | [236754-space-game-star-we-there-yet.json](./236754-space-game-star-we-there-yet.json) |
 | Space Games: Galaxy Attack | 273313 | [273313-space-games-galaxy-attack.json](./273313-space-games-galaxy-attack.json) |
 | Space Garbage | 277600 | [277600-space-garbage.json](./277600-space-garbage.json) |
+| Space Gardener | 182088 | [182088-space-gardener.json](./182088-space-gardener.json) |
 | Space Gate Rush | 259565 | [259565-space-gate-rush.json](./259565-space-gate-rush.json) |
 | Space Gears | 241497 | [241497-space-gears.json](./241497-space-gears.json) |
 | Space Geekz: The Crunchy Flakes Conspiracy | 74258 | [74258-space-geekz-the-crunchy-flakes-conspiracy.json](./74258-space-geekz-the-crunchy-flakes-conspiracy.json) |
@@ -21867,6 +21871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stuart Little: The Journey Home | 49884 | [49884-stuart-little-the-journey-home.json](./49884-stuart-little-the-journey-home.json) |
 | Stubborn Shibas | 382408 | [382408-stubborn-shibas.json](./382408-stubborn-shibas.json) |
 | Stuck at Home | 71004 | [71004-stuck-at-home.json](./71004-stuck-at-home.json) |
+| Stuck In Paris | 182132 | [182132-stuck-in-paris.json](./182132-stuck-in-paris.json) |
 | Stuck in the Airport | 357186 | [357186-stuck-in-the-airport.json](./357186-stuck-in-the-airport.json) |
 | Stuck in the Dark | 184359 | [184359-stuck-in-the-dark.json](./184359-stuck-in-the-dark.json) |
 | Stuck in the Present | 348763 | [348763-stuck-in-the-present.json](./348763-stuck-in-the-present.json) |
@@ -27217,6 +27222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords of Time | 166761 | [166761-swords-of-time.json](./166761-swords-of-time.json) |
 | Swords of Twilight | 12791 | [12791-swords-of-twilight.json](./12791-swords-of-twilight.json) |
 | Swords with spice | 108437 | [108437-swords-with-spice.json](./108437-swords-with-spice.json) |
+| Swordship | 182118 | [182118-swordship.json](./182118-swordship.json) |
 | Swordshot | 132755 | [132755-swordshot.json](./132755-swordshot.json) |
 | Swordsman | 397420 | [397420-swordsman.json](./397420-swordsman.json) |
 | Swordsman | 7417 | [7417-swordsman.json](./7417-swordsman.json) |
