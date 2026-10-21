@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safecracker | 326988 | [326988-safecracker.json](./326988-safecracker.json) |
 | Safecracker: The Ultimate Puzzle Adventure | 5135 | [5135-safecracker-the-ultimate-puzzle-adventure.json](./5135-safecracker-the-ultimate-puzzle-adventure.json) |
 | Safeguard | 383034 | [383034-safeguard.json](./383034-safeguard.json) |
+| SafeGuard | 195542 | [195542-safeguard.json](./195542-safeguard.json) |
 | Safehouse | 232934 | [232934-safehouse.json](./232934-safehouse.json) |
 | Safelight | 302926 | [302926-safelight.json](./302926-safelight.json) |
 | Safety | 212775 | [212775-safety.json](./212775-safety.json) |
@@ -1098,6 +1099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Zero | 139375 | [139375-samurai-zero.json](./139375-samurai-zero.json) |
 | Samurai: Japan Warrior Fighter | 267869 | [267869-samurai-japan-warrior-fighter.json](./267869-samurai-japan-warrior-fighter.json) |
 | Samurai: Ronin's Path | 127764 | [127764-samurai-ronins-path.json](./127764-samurai-ronins-path.json) |
+| Samurai: The Rise of Worrior | 195412 | [195412-samurai-the-rise-of-worrior.json](./195412-samurai-the-rise-of-worrior.json) |
 | Samurai: Way of the Warrior | 64293 | [64293-samurai-way-of-the-warrior.json](./64293-samurai-way-of-the-warrior.json) |
 | Samurai's Odyssey | 372991 | [372991-samurais-odyssey.json](./372991-samurais-odyssey.json) |
 | Samurai's Path | 379884 | [379884-samurais-path.json](./379884-samurais-path.json) |
@@ -1578,6 +1580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satan's Hollow | 18843 | [18843-satans-hollow.json](./18843-satans-hollow.json) |
 | Satan's Pepper | 274183 | [274183-satans-pepper.json](./274183-satans-pepper.json) |
 | Satan's Puzzle 2 | 197071 | [197071-satans-puzzle-2.json](./197071-satans-puzzle-2.json) |
+| Satan's Puzzle 666 | 195422 | [195422-satans-puzzle-666.json](./195422-satans-puzzle-666.json) |
 | Satan's Zombies | 233230 | [233230-satans-zombies.json](./233230-satans-zombies.json) |
 | Satanic | 320733 | [320733-satanic.json](./320733-satanic.json) |
 | Satanic Panic 666 | 159779 | [159779-satanic-panic-666.json](./159779-satanic-panic-666.json) |
@@ -3248,6 +3251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seashine | 143091 | [143091-seashine.json](./143091-seashine.json) |
 | Seasick | 219617 | [219617-seasick.json](./219617-seasick.json) |
 | Seaside Drive | 318723 | [318723-seaside-drive.json](./318723-seaside-drive.json) |
+| Seaside Driving | 195539 | [195539-seaside-driving.json](./195539-seaside-driving.json) |
 | Seaside Fireflies | 336612 | [336612-seaside-fireflies.json](./336612-seaside-fireflies.json) |
 | Seaside Racing | 64875 | [64875-seaside-racing.json](./64875-seaside-racing.json) |
 | Seaside Schemes | 278378 | [278378-seaside-schemes.json](./278378-seaside-schemes.json) |
@@ -5937,6 +5941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShelfLife: Art School Detective | 266769 | [266769-shelflife-art-school-detective.json](./266769-shelflife-art-school-detective.json) |
 | Shell as Hard as Steel | 413847 | [413847-shell-as-hard-as-steel.json](./413847-shell-as-hard-as-steel.json) |
 | Shell Corp | 129748 | [129748-shell-corp.json](./129748-shell-corp.json) |
+| Shell Girls in Puzzle Skulls | 195419 | [195419-shell-girls-in-puzzle-skulls.json](./195419-shell-girls-in-puzzle-skulls.json) |
 | Shell Increment | 390654 | [390654-shell-increment.json](./390654-shell-increment.json) |
 | Shell Is Cool | 328048 | [328048-shell-is-cool.json](./328048-shell-is-cool.json) |
 | Shell Kingdom | 185087 | [185087-shell-kingdom.json](./185087-shell-kingdom.json) |
@@ -8788,6 +8793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siren for Hire | 182766 | [182766-siren-for-hire.json](./182766-siren-for-hire.json) |
 | Siren Head | 125564 | [125564-siren-head.json](./125564-siren-head.json) |
 | Siren Head Dating Sim | 177958 | [177958-siren-head-dating-sim.json](./177958-siren-head-dating-sim.json) |
+| Siren Head Horror Bunker VR | 195390 | [195390-siren-head-horror-bunker-vr.json](./195390-siren-head-horror-bunker-vr.json) |
 | Siren Head Resurrection | 176246 | [176246-siren-head-resurrection.json](./176246-siren-head-resurrection.json) |
 | Siren Head SCP 6789 | 243223 | [243223-siren-head-scp-6789.json](./243223-siren-head-scp-6789.json) |
 | Siren Head: Remastered | 214336 | [214336-siren-head-remastered.json](./214336-siren-head-remastered.json) |
@@ -11005,6 +11011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smuc's | 93477 | [93477-smucs.json](./93477-smucs.json) |
 | Smudge & The Moonees | 367174 | [367174-smudge-and-the-moonees.json](./367174-smudge-and-the-moonees.json) |
 | Smudge Adventure | 282128 | [282128-smudge-adventure.json](./282128-smudge-adventure.json) |
+| Smudge Coin Run | 195541 | [195541-smudge-coin-run.json](./195541-smudge-coin-run.json) |
 | Smudged | 184597 | [184597-smudged.json](./184597-smudged.json) |
 | Smug.le | 183875 | [183875-smug-le.json](./183875-smug-le.json) |
 | SmugForce | 229132 | [229132-smugforce.json](./229132-smugforce.json) |
@@ -19553,6 +19560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Alive: Zombie Survival | 153508 | [153508-stay-alive-zombie-survival.json](./153508-stay-alive-zombie-survival.json) |
 | Stay At Home | 123918 | [123918-stay-at-home.json](./123918-stay-at-home.json) |
 | Stay Away from the Lighthouse | 415473 | [415473-stay-away-from-the-lighthouse.json](./415473-stay-away-from-the-lighthouse.json) |
+| Stay Away From Zombies | 195543 | [195543-stay-away-from-zombies.json](./195543-stay-away-from-zombies.json) |
 | Stay Dead | 10895 | [10895-stay-dead.json](./10895-stay-dead.json) |
 | Stay Dead | 359518 | [359518-stay-dead.json](./359518-stay-dead.json) |
 | Stay Dead Evolution | 10896 | [10896-stay-dead-evolution.json](./10896-stay-dead-evolution.json) |
