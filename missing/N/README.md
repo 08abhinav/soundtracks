@@ -2170,6 +2170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Net Guardian: Dai Kyo Utage | 65277 | [65277-net-guardian-dai-kyo-utage.json](./65277-net-guardian-dai-kyo-utage.json) |
 | Net Invaders | 116427 | [116427-net-invaders.json](./116427-net-invaders.json) |
 | Net King's Call | 143514 | [143514-net-kings-call.json](./143514-net-kings-call.json) |
+| Net Knight | 199282 | [199282-net-knight.json](./199282-net-knight.json) |
 | Net Pet | 293205 | [293205-net-pet.json](./293205-net-pet.json) |
 | Net Raiders | 327451 | [327451-net-raiders.json](./327451-net-raiders.json) |
 | Net Versus Shogi | 78078 | [78078-net-versus-shogi.json](./78078-net-versus-shogi.json) |
@@ -2658,6 +2659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Year Simulator 2025 | 326390 | [326390-new-year-simulator-2025.json](./326390-new-year-simulator-2025.json) |
 | New Year, New Nanos | 302613 | [302613-new-year-new-nanos.json](./302613-new-year-new-nanos.json) |
 | New Year's Eve 2020 | 127187 | [127187-new-years-eve-2020.json](./127187-new-years-eve-2020.json) |
+| New Year's Eve Miracle | 199285 | [199285-new-years-eve-miracle.json](./199285-new-years-eve-miracle.json) |
 | New Year's Jam | 325263 | [325263-new-years-jam.json](./325263-new-years-jam.json) |
 | New Years Eve Slaughter 2022 | 257416 | [257416-new-years-eve-slaughter-2022.json](./257416-new-years-eve-slaughter-2022.json) |
 | New York Bus Simulator | 33445 | [33445-new-york-bus-simulator.json](./33445-new-york-bus-simulator.json) |
