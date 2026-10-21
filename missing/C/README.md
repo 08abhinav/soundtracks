@@ -2428,6 +2428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino of Time | 409857 | [409857-casino-of-time.json](./409857-casino-of-time.json) |
 | Casino Pokies-CPC | 360590 | [360590-casino-pokies-cpc.json](./360590-casino-pokies-cpc.json) |
 | Casino Resort | 255059 | [255059-casino-resort.json](./255059-casino-resort.json) |
+| Casino Resort Tower | 192713 | [192713-casino-resort-tower.json](./192713-casino-resort-tower.json) |
 | Casino Rogue | 304634 | [304634-casino-rogue.json](./304634-casino-rogue.json) |
 | Casino Roulette | 14384 | [14384-casino-roulette.json](./14384-casino-roulette.json) |
 | Casino Roulette Royal | 166682 | [166682-casino-roulette-royal.json](./166682-casino-roulette-royal.json) |
@@ -4402,6 +4403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chao Life | 326835 | [326835-chao-life.json](./326835-chao-life.json) |
 | Chao Online | 331154 | [331154-chao-online.json](./331154-chao-online.json) |
 | Chao RPG | 326958 | [326958-chao-rpg.json](./326958-chao-rpg.json) |
+| Chao's Collection of Random Games | 192607 | [192607-chaos-collection-of-random-games.json](./192607-chaos-collection-of-random-games.json) |
 | Chao5: The Un-Balance Mod Returns! | 394606 | [394606-chao5-the-un-balance-mod-returns.json](./394606-chao5-the-un-balance-mod-returns.json) |
 | Chāojí Dàfùwēng | 45549 | [45549-chaoji-dafuweng.json](./45549-chaoji-dafuweng.json) |
 | Chaomin | 281014 | [281014-chaomin.json](./281014-chaomin.json) |
@@ -5400,6 +5402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chickens on the Road | 143072 | [143072-chickens-on-the-road.json](./143072-chickens-on-the-road.json) |
 | Chickens VS Zombies | 299414 | [299414-chickens-vs-zombies.json](./299414-chickens-vs-zombies.json) |
 | Chickens. Chickens? Chickens! | 417412 | [417412-chickens-chickens-chickens.json](./417412-chickens-chickens-chickens.json) |
+| ChickenZ | 192716 | [192716-chickenz.json](./192716-chickenz.json) |
 | Chickip Dancers: Nori-nori Dance de Kokoro mo Odoru | 222365 | [222365-chickip-dancers-nori-nori-dance-de-kokoro-mo-odoru.json](./222365-chickip-dancers-nori-nori-dance-de-kokoro-mo-odoru.json) |
 | Chicklet | 365167 | [365167-chicklet.json](./365167-chicklet.json) |
 | Chicktionary | 375202 | [375202-chicktionary.json](./375202-chicktionary.json) |
@@ -12773,6 +12776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrazyDriving | 107853 | [107853-crazydriving.json](./107853-crazydriving.json) |
 | CrazyHousePlanes | 99607 | [99607-crazyhouseplanes.json](./99607-crazyhouseplanes.json) |
 | CrazyKart | 117720 | [117720-crazykart.json](./117720-crazykart.json) |
+| CrazyParty | 192717 | [192717-crazyparty.json](./192717-crazyparty.json) |
 | Crazyracing Kartrider | 91272 | [91272-crazyracing-kartrider.json](./91272-crazyracing-kartrider.json) |
 | CrazySonic | 214998 | [214998-crazysonic.json](./214998-crazysonic.json) |
 | CrazyTaiji | 390797 | [390797-crazytaiji.json](./390797-crazytaiji.json) |
@@ -14992,6 +14996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Swamp Escape 3 | 315470 | [315470-cursed-swamp-escape-3.json](./315470-cursed-swamp-escape-3.json) |
 | Cursed Theatre Escape | 315583 | [315583-cursed-theatre-escape.json](./315583-cursed-theatre-escape.json) |
 | Cursed to Golf | 251390 | [251390-cursed-to-golf.json](./251390-cursed-to-golf.json) |
+| Cursed Town | 192734 | [192734-cursed-town.json](./192734-cursed-town.json) |
 | Cursed Toy | 387650 | [387650-cursed-toy.json](./387650-cursed-toy.json) |
 | Cursed Travels: Flame of the Banshee | 177872 | [177872-cursed-travels-flame-of-the-banshee.json](./177872-cursed-travels-flame-of-the-banshee.json) |
 | Cursed Travels: Sunken City | 202421 | [202421-cursed-travels-sunken-city.json](./202421-cursed-travels-sunken-city.json) |
