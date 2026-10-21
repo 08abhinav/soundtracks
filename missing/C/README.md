@@ -9943,6 +9943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Complexia: A Ballet of Blades | 400486 | [400486-complexia-a-ballet-of-blades.json](./400486-complexia-a-ballet-of-blades.json) |
 | ComplexToe | 303737 | [303737-complextoe.json](./303737-complextoe.json) |
 | Complikated | 56292 | [56292-complikated.json](./56292-complikated.json) |
+| Components | 179930 | [179930-components.json](./179930-components.json) |
 | Componut | 174195 | [174195-componut.json](./174195-componut.json) |
 | Composer | 187316 | [187316-composer.json](./187316-composer.json) |
 | Compound | 28927 | [28927-compound.json](./28927-compound.json) |
@@ -15205,6 +15206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut the Rope: Magic | 46498 | [46498-cut-the-rope-magic.json](./46498-cut-the-rope-magic.json) |
 | Cut the Rope: Origins | 327003 | [327003-cut-the-rope-origins.json](./327003-cut-the-rope-origins.json) |
 | Cut the Rope: Time Travel | 41512 | [41512-cut-the-rope-time-travel.json](./41512-cut-the-rope-time-travel.json) |
+| Cut Them Off | 179891 | [179891-cut-them-off.json](./179891-cut-them-off.json) |
 | Cut Them Up | 150461 | [150461-cut-them-up.json](./150461-cut-them-up.json) |
 | Cut to the Core | 203963 | [203963-cut-to-the-core.json](./203963-cut-to-the-core.json) |
 | Cut WallStreet2 | 255031 | [255031-cut-wallstreet2.json](./255031-cut-wallstreet2.json) |
