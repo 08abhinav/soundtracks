@@ -1335,6 +1335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necrotyper | 360594 | [360594-necrotyper.json](./360594-necrotyper.json) |
 | Necroverse: Undying Shadows | 391262 | [391262-necroverse-undying-shadows.json](./391262-necroverse-undying-shadows.json) |
 | NecroVisioN: Lost Company | 16146 | [16146-necrovision-lost-company.json](./16146-necrovision-lost-company.json) |
+| Necrow Co. | 187735 | [187735-necrow-co.json](./187735-necrow-co.json) |
 | Necrowarp | 129691 | [129691-necrowarp.json](./129691-necrowarp.json) |
 | Necrowhisper | 388907 | [388907-necrowhisper.json](./388907-necrowhisper.json) |
 | NecroWorm | 131969 | [131969-necroworm.json](./131969-necroworm.json) |
@@ -2252,6 +2253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Networm | 34333 | [34333-networm.json](./34333-networm.json) |
 | Neues | 387131 | [387131-neues.json](./387131-neues.json) |
 | Neugier: Umi to Kaze no Kodou | 15848 | [15848-neugier-umi-to-kaze-no-kodou.json](./15848-neugier-umi-to-kaze-no-kodou.json) |
+| NeuraGun | 187699 | [187699-neuragun.json](./187699-neuragun.json) |
 | Neural Cloud | 219969 | [219969-neural-cloud.json](./219969-neural-cloud.json) |
 | Neural Dominion | 318543 | [318543-neural-dominion.json](./318543-neural-dominion.json) |
 | Neural Drive | 390584 | [390584-neural-drive.json](./390584-neural-drive.json) |
@@ -3836,6 +3838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NineLives | 273449 | [273449-ninelives.json](./273449-ninelives.json) |
 | Ninepin Bowling | 54251 | [54251-ninepin-bowling.json](./54251-ninepin-bowling.json) |
 | Nineteen | 128654 | [128654-nineteen.json](./128654-nineteen.json) |
+| Nineteen | 187712 | [187712-nineteen.json](./187712-nineteen.json) |
 | Nineteen: 19 | 413046 | [413046-nineteen-19.json](./413046-nineteen-19.json) |
 | Ninety Days | 149683 | [149683-ninety-days.json](./149683-ninety-days.json) |
 | Ninety Thousand Acres | 321499 | [321499-ninety-thousand-acres.json](./321499-ninety-thousand-acres.json) |
