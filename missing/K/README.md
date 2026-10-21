@@ -4405,6 +4405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krystals with A K | 224715 | [224715-krystals-with-a-k.json](./224715-krystals-with-a-k.json) |
 | Krystine and the children in chains | 101696 | [101696-krystine-and-the-children-in-chains.json](./101696-krystine-and-the-children-in-chains.json) |
 | Kryva Hora | 403419 | [403419-kryva-hora.json](./403419-kryva-hora.json) |
+| Kryxivia | 194842 | [194842-kryxivia.json](./194842-kryxivia.json) |
 | Kryzta | 199113 | [199113-kryzta.json](./199113-kryzta.json) |
 | Krzosek W Krainie Czarów | 142759 | [142759-krzosek-w-krainie-czarow.json](./142759-krzosek-w-krainie-czarow.json) |
 | Krzyżacy: The Knights of the Cross | 213312 | [213312-krzyzacy-the-knights-of-the-cross.json](./213312-krzyzacy-the-knights-of-the-cross.json) |
