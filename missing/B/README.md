@@ -2473,7 +2473,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bassmaster Fishing 2022: Classic Edition | 227354 | [227354-bassmaster-fishing-2022-classic-edition.json](./227354-bassmaster-fishing-2022-classic-edition.json) |
 | Bassmaster Fishing 2022: Deluxe Edition | 173118 | [173118-bassmaster-fishing-2022-deluxe-edition.json](./173118-bassmaster-fishing-2022-deluxe-edition.json) |
 | Bassmaster Fishing 2022: Elite Fishing Equipment Pack | 225081 | [225081-bassmaster-fishing-2022-elite-fishing-equipment-pack.json](./225081-bassmaster-fishing-2022-elite-fishing-equipment-pack.json) |
+| Bassmaster Fishing 2022: Jordan Lake | 196469 | [196469-bassmaster-fishing-2022-jordan-lake.json](./196469-bassmaster-fishing-2022-jordan-lake.json) |
 | Bassmaster Fishing 2022: Lake Hartwell | 193438 | [193438-bassmaster-fishing-2022-lake-hartwell.json](./193438-bassmaster-fishing-2022-lake-hartwell.json) |
+| Bassmaster Fishing 2022: Lake Seminole | 196470 | [196470-bassmaster-fishing-2022-lake-seminole.json](./196470-bassmaster-fishing-2022-lake-seminole.json) |
 | Bassmaster Fishing 2022: Predator Equipment Pack | 225082 | [225082-bassmaster-fishing-2022-predator-equipment-pack.json](./225082-bassmaster-fishing-2022-predator-equipment-pack.json) |
 | Bassmaster Fishing 2022: Super Deluxe Edition | 206684 | [206684-bassmaster-fishing-2022-super-deluxe-edition.json](./206684-bassmaster-fishing-2022-super-deluxe-edition.json) |
 | Bassmaster Fishing 2022: Synthwave Pack | 225083 | [225083-bassmaster-fishing-2022-synthwave-pack.json](./225083-bassmaster-fishing-2022-synthwave-pack.json) |
@@ -7178,6 +7180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackthorn Winter | 280083 | [280083-blackthorn-winter.json](./280083-blackthorn-winter.json) |
 | Blackthorn Witch | 362326 | [362326-blackthorn-witch.json](./362326-blackthorn-witch.json) |
 | BlackThorne Keep: Chronicles | 159262 | [159262-blackthorne-keep-chronicles.json](./159262-blackthorne-keep-chronicles.json) |
+| Blacktop Hoops | 196481 | [196481-blacktop-hoops.json](./196481-blacktop-hoops.json) |
 | Blacktop Hustle | 365741 | [365741-blacktop-hustle.json](./365741-blacktop-hustle.json) |
 | Blacktower | 403767 | [403767-blacktower.json](./403767-blacktower.json) |
 | Blackwater | 6917 | [6917-blackwater.json](./6917-blackwater.json) |
@@ -9317,6 +9320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boing! | 95472 | [95472-boing.json](./95472-boing.json) |
 | Boing! Docomodake DS | 21473 | [21473-boing-docomodake-ds.json](./21473-boing-docomodake-ds.json) |
 | Boing! The Game | 15703 | [15703-boing-the-game.json](./15703-boing-the-game.json) |
+| BoingBoingOuch | 196480 | [196480-boingboingouch.json](./196480-boingboingouch.json) |
 | Boingz | 51082 | [51082-boingz.json](./51082-boingz.json) |
 | Boinihi: The Ki Codex | 172188 | [172188-boinihi-the-ki-codex.json](./172188-boinihi-the-ki-codex.json) |
 | Boink Zoink Hoink | 90100 | [90100-boink-zoink-hoink.json](./90100-boink-zoink-hoink.json) |
@@ -12423,6 +12427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Burst Remix | 206689 | [206689-bubble-burst-remix.json](./206689-bubble-burst-remix.json) |
 | Bubble Burst: PlayWithPlanets | 257776 | [257776-bubble-burst-playwithplanets.json](./257776-bubble-burst-playwithplanets.json) |
 | Bubble Bust Extreme | 239341 | [239341-bubble-bust-extreme.json](./239341-bubble-bust-extreme.json) |
+| Bubble Bust! | 196605 | [196605-bubble-bust.json](./196605-bubble-bust.json) |
 | Bubble Cadence | 398360 | [398360-bubble-cadence.json](./398360-bubble-cadence.json) |
 | Bubble Chef | 120222 | [120222-bubble-chef.json](./120222-bubble-chef.json) |
 | Bubble Cloud: Spinning Bubbles | 86774 | [86774-bubble-cloud-spinning-bubbles.json](./86774-bubble-cloud-spinning-bubbles.json) |
