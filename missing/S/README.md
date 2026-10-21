@@ -2006,6 +2006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scape | 415979 | [415979-scape.json](./415979-scape.json) |
 | Scapefall | 238932 | [238932-scapefall.json](./238932-scapefall.json) |
 | Scapeghost | 12208 | [12208-scapeghost.json](./12208-scapeghost.json) |
+| Scapegoat | 199295 | [199295-scapegoat.json](./199295-scapegoat.json) |
 | Scapegoat & Rational | 412926 | [412926-scapegoat-and-rational.json](./412926-scapegoat-and-rational.json) |
 | Scapeland | 33493 | [33493-scapeland.json](./33493-scapeland.json) |
 | Scaper Dash | 147232 | [147232-scaper-dash.json](./147232-scaper-dash.json) |
@@ -7766,6 +7767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigil II | 275462 | [275462-sigil-ii.json](./275462-sigil-ii.json) |
 | Sigil of Chaos | 309553 | [309553-sigil-of-chaos.json](./309553-sigil-of-chaos.json) |
 | Sigil of Kings | 235722 | [235722-sigil-of-kings.json](./235722-sigil-of-kings.json) |
+| Sigil of the Magi | 199255 | [199255-sigil-of-the-magi.json](./199255-sigil-of-the-magi.json) |
 | Sigil Reader (Field) | 74279 | [74279-sigil-reader-field.json](./74279-sigil-reader-field.json) |
 | Sigil Valley | 272456 | [272456-sigil-valley.json](./272456-sigil-valley.json) |
 | Sigilfarer | 314447 | [314447-sigilfarer.json](./314447-sigilfarer.json) |
@@ -23464,6 +23466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super EarthBound | 323181 | [323181-super-earthbound.json](./323181-super-earthbound.json) |
 | Super Elastic | 276164 | [276164-super-elastic.json](./276164-super-elastic.json) |
 | Super Elf Jump | 93818 | [93818-super-elf-jump.json](./93818-super-elf-jump.json) |
+| Super Ember Kaboom | 199284 | [199284-super-ember-kaboom.json](./199284-super-ember-kaboom.json) |
 | Super Emo Alpaca | 330761 | [330761-super-emo-alpaca.json](./330761-super-emo-alpaca.json) |
 | Super Engine GT Turbo SPEC | 338922 | [338922-super-engine-gt-turbo-spec.json](./338922-super-engine-gt-turbo-spec.json) |
 | Super Erect Taisen S-EX | 272335 | [272335-super-erect-taisen-s-ex.json](./272335-super-erect-taisen-s-ex.json) |
