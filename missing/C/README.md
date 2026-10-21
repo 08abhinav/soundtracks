@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabals: Magic & Battle Cards | 33107 | [33107-cabals-magic-and-battle-cards.json](./33107-cabals-magic-and-battle-cards.json) |
 | Cabbage Crop | 290838 | [290838-cabbage-crop.json](./290838-cabbage-crop.json) |
 | Cabbage Patch Kids: Adventures in the Park | 11144 | [11144-cabbage-patch-kids-adventures-in-the-park.json](./11144-cabbage-patch-kids-adventures-in-the-park.json) |
+| Cabbage Patch Kids: Butterfly Chase | 198705 | [198705-cabbage-patch-kids-butterfly-chase.json](./198705-cabbage-patch-kids-butterfly-chase.json) |
 | Cabbage Patch Kids: Picture Show | 40902 | [40902-cabbage-patch-kids-picture-show.json](./40902-cabbage-patch-kids-picture-show.json) |
 | Cabbage Patch Kids: The Patch Puppy Rescue | 49363 | [49363-cabbage-patch-kids-the-patch-puppy-rescue.json](./49363-cabbage-patch-kids-the-patch-puppy-rescue.json) |
 | Cabbagers | 226277 | [226277-cabbagers.json](./226277-cabbagers.json) |
@@ -229,10 +230,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caesars Palace | 365687 | [365687-caesars-palace.json](./365687-caesars-palace.json) |
 | Caesars Palace 2000: Millennium Gold Edition | 45807 | [45807-caesars-palace-2000-millennium-gold-edition.json](./45807-caesars-palace-2000-millennium-gold-edition.json) |
 | Caesars Palace 64 | 297465 | [297465-caesars-palace-64.json](./297465-caesars-palace-64.json) |
+| Caesars Palace Blackjack | 198707 | [198707-caesars-palace-blackjack.json](./198707-caesars-palace-blackjack.json) |
+| Caesars Palace Guide to Poker | 198708 | [198708-caesars-palace-guide-to-poker.json](./198708-caesars-palace-guide-to-poker.json) |
+| Caesars Palace Horse Racing | 198711 | [198711-caesars-palace-horse-racing.json](./198711-caesars-palace-horse-racing.json) |
 | Caesars Palace II | 45296 | [45296-caesars-palace-ii.json](./45296-caesars-palace-ii.json) |
 | Caesars Palace II | 49910 | [49910-caesars-palace-ii.json](./49910-caesars-palace-ii.json) |
+| Caesars Palace Poker | 198712 | [198712-caesars-palace-poker.json](./198712-caesars-palace-poker.json) |
+| Caesars Palace Roulette | 198709 | [198709-caesars-palace-roulette.json](./198709-caesars-palace-roulette.json) |
+| Caesars Palace Spirit of '76 Slots | 198710 | [198710-caesars-palace-spirit-of-76-slots.json](./198710-caesars-palace-spirit-of-76-slots.json) |
 | Caesars Palace Video Bonus Poker | 200505 | [200505-caesars-palace-video-bonus-poker.json](./200505-caesars-palace-video-bonus-poker.json) |
 | Caesars Palace: Black Jack | 218438 | [218438-caesars-palace-black-jack.json](./218438-caesars-palace-black-jack.json) |
+| Caesars Palace: Deluxe 5 in 1 | 198706 | [198706-caesars-palace-deluxe-5-in-1.json](./198706-caesars-palace-deluxe-5-in-1.json) |
 | Café 0: The Sleeping Beast - Remastered | 226278 | [226278-cafe-0-the-sleeping-beast-remastered.json](./226278-cafe-0-the-sleeping-beast-remastered.json) |
 | Cafe Battle | 240844 | [240844-cafe-battle.json](./240844-cafe-battle.json) |
 | Café Bouvardie | 225269 | [225269-cafe-bouvardie.json](./225269-cafe-bouvardie.json) |
@@ -1024,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy land | 154401 | [154401-candy-land.json](./154401-candy-land.json) |
 | Candy Land | 380052 | [380052-candy-land.json](./380052-candy-land.json) |
 | Candy Land / Chutes & Ladders / Original Memory Game | 91423 | [91423-candy-land-chutes-and-ladders-original-memory-game.json](./91423-candy-land-chutes-and-ladders-original-memory-game.json) |
+| Candy Land Adventure | 198713 | [198713-candy-land-adventure.json](./198713-candy-land-adventure.json) |
 | Candy Land Adventure | 261301 | [261301-candy-land-adventure.json](./261301-candy-land-adventure.json) |
 | Candy Land: A Child's First Game Comes to Life | 144182 | [144182-candy-land-a-childs-first-game-comes-to-life.json](./144182-candy-land-a-childs-first-game-comes-to-life.json) |
 | Candy Land: Sugary Sprint | 384054 | [384054-candy-land-sugary-sprint.json](./384054-candy-land-sugary-sprint.json) |
@@ -1390,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain of the Guard | 320016 | [320016-captain-of-the-guard.json](./320016-captain-of-the-guard.json) |
 | Captain Pawsome | 244856 | [244856-captain-pawsome.json](./244856-captain-pawsome.json) |
 | Captain Pegleg | 137452 | [137452-captain-pegleg.json](./137452-captain-pegleg.json) |
+| Captain Planet | 198714 | [198714-captain-planet.json](./198714-captain-planet.json) |
 | Captain Planet | 69790 | [69790-captain-planet.json](./69790-captain-planet.json) |
 | Captain Planet and the Planeteers | 11991 | [11991-captain-planet-and-the-planeteers.json](./11991-captain-planet-and-the-planeteers.json) |
 | Captain Pogo | 399917 | [399917-captain-pogo.json](./399917-captain-pogo.json) |
@@ -2436,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casio Mario World | 257840 | [257840-casio-mario-world.json](./257840-casio-mario-world.json) |
 | Casketball Queen | 311684 | [311684-casketball-queen.json](./311684-casketball-queen.json) |
 | Casos Extravagantes Poco Complicados | 151531 | [151531-casos-extravagantes-poco-complicados.json](./151531-casos-extravagantes-poco-complicados.json) |
+| Casper | 198715 | [198715-casper.json](./198715-casper.json) |
 | Casper | 215181 | [215181-casper.json](./215181-casper.json) |
 | Casper | 215182 | [215182-casper.json](./215182-casper.json) |
 | Casper | 215184 | [215184-casper.json](./215184-casper.json) |
@@ -5342,6 +5353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Rescue | 213048 | [213048-chicken-rescue.json](./213048-chicken-rescue.json) |
 | Chicken Rescue | 393128 | [393128-chicken-rescue.json](./393128-chicken-rescue.json) |
 | Chicken Royale | 399747 | [399747-chicken-royale.json](./399747-chicken-royale.json) |
+| Chicken Run | 198716 | [198716-chicken-run.json](./198716-chicken-run.json) |
 | Chicken Run | 248768 | [248768-chicken-run.json](./248768-chicken-run.json) |
 | Chicken Run | 248769 | [248769-chicken-run.json](./248769-chicken-run.json) |
 | Chicken Run | 6723 | [6723-chicken-run.json](./6723-chicken-run.json) |
