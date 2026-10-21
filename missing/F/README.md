@@ -1805,6 +1805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Sector | 173285 | [173285-far-sector.json](./173285-far-sector.json) |
 | Far Side of the Mirror | 368511 | [368511-far-side-of-the-mirror.json](./368511-far-side-of-the-mirror.json) |
 | Far Space | 91005 | [91005-far-space.json](./91005-far-space.json) |
+| Far Star | 197044 | [197044-far-star.json](./197044-far-star.json) |
 | Far Starlight | 355219 | [355219-far-starlight.json](./355219-far-starlight.json) |
 | Far Tale | 248020 | [248020-far-tale.json](./248020-far-tale.json) |
 | Far Til Fire: Gi'r Aldrig Op | 129779 | [129779-far-til-fire-gir-aldrig-op.json](./129779-far-til-fire-gir-aldrig-op.json) |
@@ -4697,6 +4698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firesky | 291184 | [291184-firesky.json](./291184-firesky.json) |
 | Firesoul | 217401 | [217401-firesoul.json](./217401-firesoul.json) |
 | FiresOut! | 377948 | [377948-firesout.json](./377948-firesout.json) |
+| FireSquad | 197020 | [197020-firesquad.json](./197020-firesquad.json) |
 | Firestarter | 183894 | [183894-firestarter.json](./183894-firestarter.json) |
 | Firestarter | 78049 | [78049-firestarter.json](./78049-firestarter.json) |
 | FireStarter 2 | 312720 | [312720-firestarter-2.json](./312720-firestarter-2.json) |
@@ -6218,6 +6220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flopparena | 244631 | [244631-flopparena.json](./244631-flopparena.json) |
 | Floppy and the Sleepy Planet | 116385 | [116385-floppy-and-the-sleepy-planet.json](./116385-floppy-and-the-sleepy-planet.json) |
 | Floppy Bird | 144085 | [144085-floppy-bird.json](./144085-floppy-bird.json) |
+| Floppy Cat Adventures | 197017 | [197017-floppy-cat-adventures.json](./197017-floppy-cat-adventures.json) |
 | Floppy Cat Bow Golf! | 252981 | [252981-floppy-cat-bow-golf.json](./252981-floppy-cat-bow-golf.json) |
 | Floppy Dick | 408952 | [408952-floppy-dick.json](./408952-floppy-dick.json) |
 | Floppy Disks from Hell | 236946 | [236946-floppy-disks-from-hell.json](./236946-floppy-disks-from-hell.json) |
