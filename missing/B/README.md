@@ -2081,6 +2081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barking Irons | 57328 | [57328-barking-irons.json](./57328-barking-irons.json) |
 | Barking Puzzle | 156224 | [156224-barking-puzzle.json](./156224-barking-puzzle.json) |
 | Barko | 413751 | [413751-barko.json](./413751-barko.json) |
+| Barkour | 177202 | [177202-barkour.json](./177202-barkour.json) |
 | Barkour | 313588 | [313588-barkour.json](./313588-barkour.json) |
 | Barles Charkley's Shut Up and Paint | 180507 | [180507-barles-charkleys-shut-up-and-paint.json](./180507-barles-charkleys-shut-up-and-paint.json) |
 | Barman Simulator | 334465 | [334465-barman-simulator.json](./334465-barman-simulator.json) |
@@ -5713,6 +5714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Dengi | 323417 | [323417-big-dengi.json](./323417-big-dengi.json) |
 | Big Dig Energy | 343135 | [343135-big-dig-energy.json](./343135-big-dig-energy.json) |
 | Big Dipper | 112798 | [112798-big-dipper.json](./112798-big-dipper.json) |
+| Big Donut | 177218 | [177218-big-donut.json](./177218-big-donut.json) |
 | Big Drunk Satanic Massacre | 75067 | [75067-big-drunk-satanic-massacre.json](./75067-big-drunk-satanic-massacre.json) |
 | Big Ear Detective | 291897 | [291897-big-ear-detective.json](./291897-big-ear-detective.json) |
 | Big Entrepreneur | 227373 | [227373-big-entrepreneur.json](./227373-big-entrepreneur.json) |
@@ -10499,6 +10501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce Out | 92676 | [92676-bounce-out.json](./92676-bounce-out.json) |
 | Bounce Out Blitz | 206468 | [206468-bounce-out-blitz.json](./206468-bounce-out-blitz.json) |
 | Bounce Rescue! | 82327 | [82327-bounce-rescue.json](./82327-bounce-rescue.json) |
+| Bounce Restart | 177203 | [177203-bounce-restart.json](./177203-bounce-restart.json) |
 | Bounce Shot | 262460 | [262460-bounce-shot.json](./262460-bounce-shot.json) |
 | Bounce Symphony | 206467 | [206467-bounce-symphony.json](./206467-bounce-symphony.json) |
 | Bounce Tales | 133867 | [133867-bounce-tales.json](./133867-bounce-tales.json) |
