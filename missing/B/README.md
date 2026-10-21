@@ -9284,6 +9284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bodacious Babes: Holidays | 302436 | [302436-bodacious-babes-holidays.json](./302436-bodacious-babes-holidays.json) |
 | Bodacious Babes: Nightlife | 295370 | [295370-bodacious-babes-nightlife.json](./295370-bodacious-babes-nightlife.json) |
 | Bode Miller Alpine Skiing | 43553 | [43553-bode-miller-alpine-skiing.json](./43553-bode-miller-alpine-skiing.json) |
+| Bodge Dall | 180457 | [180457-bodge-dall.json](./180457-bodge-dall.json) |
 | Bodhi 'n' Friends | 236264 | [236264-bodhi-n-friends.json](./236264-bodhi-n-friends.json) |
 | Bodi Pripravljen: Be Prepared | 379887 | [379887-bodi-pripravljen-be-prepared.json](./379887-bodi-pripravljen-be-prepared.json) |
 | Bodian's Bay Wash | 405519 | [405519-bodians-bay-wash.json](./405519-bodians-bay-wash.json) |
@@ -10442,6 +10443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulder Match 4 | 66673 | [66673-boulder-match-4.json](./66673-boulder-match-4.json) |
 | Boulderdash | 311358 | [311358-boulderdash.json](./311358-boulderdash.json) |
 | Boulderdash | 47237 | [47237-boulderdash.json](./47237-boulderdash.json) |
+| Bouldering ... At Home | 180483 | [180483-bouldering-at-home.json](./180483-bouldering-at-home.json) |
 | Bouldering Robot 3D | 192272 | [192272-bouldering-robot-3d.json](./192272-bouldering-robot-3d.json) |
 | Boulderoid | 125147 | [125147-boulderoid.json](./125147-boulderoid.json) |
 | Boulders and Bombs | 23965 | [23965-boulders-and-bombs.json](./23965-boulders-and-bombs.json) |
