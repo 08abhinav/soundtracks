@@ -306,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walkabout Mini Golf: Myst | 198156 | [198156-walkabout-mini-golf-myst.json](./198156-walkabout-mini-golf-myst.json) |
 | Walkabout Mini Golf: Pocket Edition | 251578 | [251578-walkabout-mini-golf-pocket-edition.json](./251578-walkabout-mini-golf-pocket-edition.json) |
 | Walkabout Mini Golf: Raptor Cliff's | 342279 | [342279-walkabout-mini-golf-raptor-cliffs.json](./342279-walkabout-mini-golf-raptor-cliffs.json) |
+| Walkabout Mini Golf: Shangri-La | 196063 | [196063-walkabout-mini-golf-shangri-la.json](./196063-walkabout-mini-golf-shangri-la.json) |
 | Walkabout Mini Golf: Tokyo | 360886 | [360886-walkabout-mini-golf-tokyo.json](./360886-walkabout-mini-golf-tokyo.json) |
 | Walkabout Mini Golf: Upside Town | 241306 | [241306-walkabout-mini-golf-upside-town.json](./241306-walkabout-mini-golf-upside-town.json) |
 | Walkabout Mini Golf: Venice | 305774 | [305774-walkabout-mini-golf-venice.json](./305774-walkabout-mini-golf-venice.json) |
@@ -4616,6 +4617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Witch | 359022 | [359022-winter-witch.json](./359022-winter-witch.json) |
 | Winter With You | 188108 | [188108-winter-with-you.json](./188108-winter-with-you.json) |
 | Winter Wolves Classic Games Collection | 52135 | [52135-winter-wolves-classic-games-collection.json](./52135-winter-wolves-classic-games-collection.json) |
+| Winter Wonderland | 196059 | [196059-winter-wonderland.json](./196059-winter-wonderland.json) |
 | Winter Wonderland | 31179 | [31179-winter-wonderland.json](./31179-winter-wonderland.json) |
 | Winter Wonderland | 80461 | [80461-winter-wonderland.json](./80461-winter-wonderland.json) |
 | Winter Worm, Summer Grass | 127105 | [127105-winter-worm-summer-grass.json](./127105-winter-worm-summer-grass.json) |
