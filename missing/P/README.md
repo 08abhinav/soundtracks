@@ -1348,6 +1348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papier Julien | 337711 | [337711-papier-julien.json](./337711-papier-julien.json) |
 | PapiFlap | 87249 | [87249-papiflap.json](./87249-papiflap.json) |
 | PapiJump | 72701 | [72701-papijump.json](./72701-papijump.json) |
+| Papilio | 195015 | [195015-papilio.json](./195015-papilio.json) |
 | PapiMirror | 87231 | [87231-papimirror.json](./87231-papimirror.json) |
 | PapiMissile | 88788 | [88788-papimissile.json](./88788-papimissile.json) |
 | PapiMountain | 87234 | [87234-papimountain.json](./87234-papimountain.json) |
@@ -6781,6 +6782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PizzaBoy | 319955 | [319955-pizzaboy.json](./319955-pizzaboy.json) |
 | Pizzaïolo-Ninja | 374603 | [374603-pizzaiolo-ninja.json](./374603-pizzaiolo-ninja.json) |
 | PizzaMaker | 362821 | [362821-pizzamaker.json](./362821-pizzamaker.json) |
+| Pizzamon | 194863 | [194863-pizzamon.json](./194863-pizzamon.json) |
 | Pizzapocalypse | 307230 | [307230-pizzapocalypse.json](./307230-pizzapocalypse.json) |
 | Pizzapocalypse 2 | 379971 | [379971-pizzapocalypse-2.json](./379971-pizzapocalypse-2.json) |
 | Pizzarian | 36010 | [36010-pizzarian.json](./36010-pizzarian.json) |
@@ -8385,6 +8387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon D.W. | 147178 | [147178-pokemon-d-w.json](./147178-pokemon-d-w.json) |
 | Pokémon Dark Energy | 386952 | [386952-pokemon-dark-energy.json](./386952-pokemon-dark-energy.json) |
 | Pokémon Darkness | 275505 | [275505-pokemon-darkness.json](./275505-pokemon-darkness.json) |
+| Pokémon DarkViolet Version | 194827 | [194827-pokemon-darkviolet-version.json](./194827-pokemon-darkviolet-version.json) |
 | Pokémon Daybreak | 241389 | [241389-pokemon-daybreak.json](./241389-pokemon-daybreak.json) |
 | Pokemon Daycare | 264130 | [264130-pokemon-daycare.json](./264130-pokemon-daycare.json) |
 | Pokémon Decay | 360192 | [360192-pokemon-decay.json](./360192-pokemon-decay.json) |
@@ -8697,6 +8700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Tectonic | 251716 | [251716-pokemon-tectonic.json](./251716-pokemon-tectonic.json) |
 | Pokémon Tetris | 25027 | [25027-pokemon-tetris.json](./25027-pokemon-tetris.json) |
 | Pokémon The Pit | 331084 | [331084-pokemon-the-pit.json](./331084-pokemon-the-pit.json) |
+| Pokémon Theta Emerald EX | 194828 | [194828-pokemon-theta-emerald-ex.json](./194828-pokemon-theta-emerald-ex.json) |
 | Pokémon Theta Emerald Renev | 209550 | [209550-pokemon-theta-emerald-renev.json](./209550-pokemon-theta-emerald-renev.json) |
 | Pokemon Topaz | 383058 | [383058-pokemon-topaz.json](./383058-pokemon-topaz.json) |
 | Pokémon Topaz | 225711 | [225711-pokemon-topaz.json](./225711-pokemon-topaz.json) |
@@ -12820,6 +12824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho Boy: Dasshutsu Game | 223968 | [223968-psycho-boy-dasshutsu-game.json](./223968-psycho-boy-dasshutsu-game.json) |
 | Psycho Boys | 241407 | [241407-psycho-boys.json](./241407-psycho-boys.json) |
 | Psycho Casket | 408287 | [408287-psycho-casket.json](./408287-psycho-casket.json) |
+| Psycho Crab | 194854 | [194854-psycho-crab.json](./194854-psycho-crab.json) |
 | Psycho Dream | 42420 | [42420-psycho-dream.json](./42420-psycho-dream.json) |
 | Psycho Dreams | 291019 | [291019-psycho-dreams.json](./291019-psycho-dreams.json) |
 | Psycho Fear | 239734 | [239734-psycho-fear.json](./239734-psycho-fear.json) |
