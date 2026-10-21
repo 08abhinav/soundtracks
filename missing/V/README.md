@@ -388,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valletine against Darkne | 159811 | [159811-valletine-against-darkne.json](./159811-valletine-against-darkne.json) |
 | Valley | 377295 | [377295-valley.json](./377295-valley.json) |
 | Valley Dash | 194649 | [194649-valley-dash.json](./194649-valley-dash.json) |
+| Valley Knights | 178258 | [178258-valley-knights.json](./178258-valley-knights.json) |
 | Valley of Decay | 119677 | [119677-valley-of-decay.json](./119677-valley-of-decay.json) |
 | Valley of Dragons | 190430 | [190430-valley-of-dragons.json](./190430-valley-of-dragons.json) |
 | Valley of No Roads | 152163 | [152163-valley-of-no-roads.json](./152163-valley-of-no-roads.json) |
