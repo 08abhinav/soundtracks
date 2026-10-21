@@ -8556,6 +8556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Omega Ruby and Alpha Sapphire Special Demo Version | 313320 | [313320-pokemon-omega-ruby-and-alpha-sapphire-special-demo-version.json](./313320-pokemon-omega-ruby-and-alpha-sapphire-special-demo-version.json) |
 | Pokémon Omega Ruby and Pokémon Alpha Sapphire Dual Pack | 159108 | [159108-pokemon-omega-ruby-and-pokemon-alpha-sapphire-dual-pack.json](./159108-pokemon-omega-ruby-and-pokemon-alpha-sapphire-dual-pack.json) |
 | Pokémon Online | 311459 | [311459-pokemon-online.json](./311459-pokemon-online.json) |
+| Pokémon Ópalo | 194322 | [194322-pokemon-opalo.json](./194322-pokemon-opalo.json) |
 | Pokémon Orange | 141203 | [141203-pokemon-orange.json](./141203-pokemon-orange.json) |
 | Pokémon Orange Islands | 213823 | [213823-pokemon-orange-islands.json](./213823-pokemon-orange-islands.json) |
 | Pokemon Orb Version | 283116 | [283116-pokemon-orb-version.json](./283116-pokemon-orb-version.json) |
@@ -8572,6 +8573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Phoenix Red | 397755 | [397755-pokemon-phoenix-red.json](./397755-pokemon-phoenix-red.json) |
 | Pokémon Photon | 361346 | [361346-pokemon-photon.json](./361346-pokemon-photon.json) |
 | Pokémon Photonic Sun | 214739 | [214739-pokemon-photonic-sun.json](./214739-pokemon-photonic-sun.json) |
+| Pokémon Pikachu | 194330 | [194330-pokemon-pikachu.json](./194330-pokemon-pikachu.json) |
 | Pokémon Pikachu 2 | 212726 | [212726-pokemon-pikachu-2.json](./212726-pokemon-pikachu-2.json) |
 | Pokémon Pinball | 4068 | [4068-pokemon-pinball.json](./4068-pokemon-pinball.json) |
 | Pokémon Pinball Generations | 259768 | [259768-pokemon-pinball-generations.json](./259768-pokemon-pinball-generations.json) |
