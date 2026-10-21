@@ -2107,6 +2107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are Chicago | 26868 | [26868-we-are-chicago.json](./26868-we-are-chicago.json) |
 | We Are Cooking | 418310 | [418310-we-are-cooking.json](./418310-we-are-cooking.json) |
 | We Are Counting | 386108 | [386108-we-are-counting.json](./386108-we-are-counting.json) |
+| We are definitely the baddies | 200975 | [200975-we-are-definitely-the-baddies.json](./200975-we-are-definitely-the-baddies.json) |
 | We Are Doomed | 20894 | [20894-we-are-doomed.json](./20894-we-are-doomed.json) |
 | We are Eva | 191656 | [191656-we-are-eva.json](./191656-we-are-eva.json) |
 | We Are Football | 146039 | [146039-we-are-football.json](./146039-we-are-football.json) |
@@ -4398,6 +4399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winged Warrior | 365219 | [365219-winged-warrior.json](./365219-winged-warrior.json) |
 | Winged Warrior II: The Alien Empire | 365238 | [365238-winged-warrior-ii-the-alien-empire.json](./365238-winged-warrior-ii-the-alien-empire.json) |
 | Winged Warrior III: The Nova Knight | 365274 | [365274-winged-warrior-iii-the-nova-knight.json](./365274-winged-warrior-iii-the-nova-knight.json) |
+| WingedStar: Descent | 200880 | [200880-wingedstar-descent.json](./200880-wingedstar-descent.json) |
 | Winging It | 227786 | [227786-winging-it.json](./227786-winging-it.json) |
 | Winglancer | 68966 | [68966-winglancer.json](./68966-winglancer.json) |
 | Wingless Fairies | 304059 | [304059-wingless-fairies.json](./304059-wingless-fairies.json) |
