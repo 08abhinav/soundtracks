@@ -2226,6 +2226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adachi Dating Simulator | 240470 | [240470-adachi-dating-simulator.json](./240470-adachi-dating-simulator.json) |
 | Adagio | 329900 | [329900-adagio.json](./329900-adagio.json) |
 | Adam & Eve | 204500 | [204500-adam-and-eve.json](./204500-adam-and-eve.json) |
+| Adam and Eve | 185881 | [185881-adam-and-eve.json](./185881-adam-and-eve.json) |
 | Adam and Eve | 300990 | [300990-adam-and-eve.json](./300990-adam-and-eve.json) |
 | Adam and Eve 2 | 381995 | [381995-adam-and-eve-2.json](./381995-adam-and-eve-2.json) |
 | Adam and Eve 3 | 381997 | [381997-adam-and-eve-3.json](./381997-adam-and-eve-3.json) |
@@ -11808,6 +11809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asthenia | 381637 | [381637-asthenia.json](./381637-asthenia.json) |
 | Astlan | 184270 | [184270-astlan.json](./184270-astlan.json) |
 | Astlibra Gaiden: The Cave of Phantom Mist | 395862 | [395862-astlibra-gaiden-the-cave-of-phantom-mist.json](./395862-astlibra-gaiden-the-cave-of-phantom-mist.json) |
+| Astlibra Mini Side Story: Cave of Genghiri | 185876 | [185876-astlibra-mini-side-story-cave-of-genghiri.json](./185876-astlibra-mini-side-story-cave-of-genghiri.json) |
 | Astoaria | 226227 | [226227-astoaria.json](./226227-astoaria.json) |
 | Aston May Die | 206576 | [206576-aston-may-die.json](./206576-aston-may-die.json) |
 | Aston Villa Club Football | 267891 | [267891-aston-villa-club-football.json](./267891-aston-villa-club-football.json) |
@@ -12309,6 +12311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Greatest Hits: Volume 2 | 61729 | [61729-atari-greatest-hits-volume-2.json](./61729-atari-greatest-hits-volume-2.json) |
 | Atari Hits 2006 | 70971 | [70971-atari-hits-2006.json](./70971-atari-hits-2006.json) |
 | Atari Karts | 40802 | [40802-atari-karts.json](./40802-atari-karts.json) |
+| Atari Legends Vol. 1 | 185884 | [185884-atari-legends-vol-1.json](./185884-atari-legends-vol-1.json) |
 | Atari Lynx Collection 1 | 130345 | [130345-atari-lynx-collection-1.json](./130345-atari-lynx-collection-1.json) |
 | Atari Lynx Collection 2 | 134382 | [134382-atari-lynx-collection-2.json](./134382-atari-lynx-collection-2.json) |
 | Atari Masterpieces Vol. I | 47570 | [47570-atari-masterpieces-vol-i.json](./47570-atari-masterpieces-vol-i.json) |
