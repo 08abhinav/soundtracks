@@ -6053,6 +6053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Bazaar: Manager Simulator | 325265 | [325265-christmas-bazaar-manager-simulator.json](./325265-christmas-bazaar-manager-simulator.json) |
 | Christmas Break | 210085 | [210085-christmas-break.json](./210085-christmas-break.json) |
 | Christmas Break - Breakout Game | 99571 | [99571-christmas-break-breakout-game.json](./99571-christmas-break-breakout-game.json) |
+| Christmas Break 2 | 187748 | [187748-christmas-break-2.json](./187748-christmas-break-2.json) |
 | Christmas Break 2 Head to Head | 214050 | [214050-christmas-break-2-head-to-head.json](./214050-christmas-break-2-head-to-head.json) |
 | Christmas Break Head to Head | 146020 | [146020-christmas-break-head-to-head.json](./146020-christmas-break-head-to-head.json) |
 | Christmas Bubble Shooter | 86716 | [86716-christmas-bubble-shooter.json](./86716-christmas-bubble-shooter.json) |
@@ -11815,6 +11816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covid City | 147174 | [147174-covid-city.json](./147174-covid-city.json) |
 | Covid Kawaii! | 137406 | [137406-covid-kawaii.json](./137406-covid-kawaii.json) |
 | Covid Quest 2077 | 367600 | [367600-covid-quest-2077.json](./367600-covid-quest-2077.json) |
+| Covid Simulator | 187718 | [187718-covid-simulator.json](./187718-covid-simulator.json) |
 | Covid Tale: ignorance | 147166 | [147166-covid-tale-ignorance.json](./147166-covid-tale-ignorance.json) |
 | Covid-19 | 147170 | [147170-covid-19.json](./147170-covid-19.json) |
 | Covid-19 Epidemic Prevention | 157108 | [157108-covid-19-epidemic-prevention.json](./157108-covid-19-epidemic-prevention.json) |
@@ -15428,6 +15430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Tank 2 | 330194 | [330194-cyber-tank-2.json](./330194-cyber-tank-2.json) |
 | Cyber Tank Nano | 353962 | [353962-cyber-tank-nano.json](./353962-cyber-tank-nano.json) |
 | Cyber Taxi Simulator | 284948 | [284948-cyber-taxi-simulator.json](./284948-cyber-taxi-simulator.json) |
+| Cyber Tennis | 187721 | [187721-cyber-tennis.json](./187721-cyber-tennis.json) |
 | Cyber Tetris | 213986 | [213986-cyber-tetris.json](./213986-cyber-tetris.json) |
 | Cyber Theater | 218153 | [218153-cyber-theater.json](./218153-cyber-theater.json) |
 | Cyber Tiger | 249117 | [249117-cyber-tiger.json](./249117-cyber-tiger.json) |
