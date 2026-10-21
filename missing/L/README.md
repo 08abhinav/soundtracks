@@ -2804,6 +2804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Find Larry! | 279431 | [279431-lets-find-larry.json](./279431-lets-find-larry.json) |
 | Let's Fish! Hooked On | 21022 | [21022-lets-fish-hooked-on.json](./21022-lets-fish-hooked-on.json) |
 | Let's Get Bakin' | 342130 | [342130-lets-get-bakin.json](./342130-lets-get-bakin.json) |
+| Let’s Get Breakfast | 183257 | [183257-let-s-get-breakfast.json](./183257-let-s-get-breakfast.json) |
 | Let's Get Changed! Nyanzou & Kumakichi: Escape Game | 199895 | [199895-lets-get-changed-nyanzou-and-kumakichi-escape-game.json](./199895-lets-get-changed-nyanzou-and-kumakichi-escape-game.json) |
 | Let's Get Cookin' | 342009 | [342009-lets-get-cookin.json](./342009-lets-get-cookin.json) |
 | Let's Get Cookin' for Thanksgivin' | 342022 | [342022-lets-get-cookin-for-thanksgivin.json](./342022-lets-get-cookin-for-thanksgivin.json) |
@@ -3510,6 +3511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifelike: Chapter One | 117004 | [117004-lifelike-chapter-one.json](./117004-lifelike-chapter-one.json) |
 | Lifeline | 19282 | [19282-lifeline.json](./19282-lifeline.json) |
 | Lifeline | 83829 | [83829-lifeline.json](./83829-lifeline.json) |
+| LifeLine 2018 | 183264 | [183264-lifeline-2018.json](./183264-lifeline-2018.json) |
 | Lifeline: Beside You in Time | 208005 | [208005-lifeline-beside-you-in-time.json](./208005-lifeline-beside-you-in-time.json) |
 | Lifeline: Halfway to Infinity | 56888 | [56888-lifeline-halfway-to-infinity.json](./56888-lifeline-halfway-to-infinity.json) |
 | Lifeline: Silent Night | 39254 | [39254-lifeline-silent-night.json](./39254-lifeline-silent-night.json) |
