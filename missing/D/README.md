@@ -580,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Fight | 239510 | [239510-dance-fight.json](./239510-dance-fight.json) |
 | Dance Floor | 47937 | [47937-dance-floor.json](./47937-dance-floor.json) |
 | Dance Gangnam Style | 310669 | [310669-dance-gangnam-style.json](./310669-dance-gangnam-style.json) |
+| Dance Hall Brawl | 193650 | [193650-dance-hall-brawl.json](./193650-dance-hall-brawl.json) |
 | Dance Hime: Rhythm Matching | 211754 | [211754-dance-hime-rhythm-matching.json](./211754-dance-hime-rhythm-matching.json) |
 | Dance It! | 317853 | [317853-dance-it.json](./317853-dance-it.json) |
 | Dance It's Your Stage | 27477 | [27477-dance-its-your-stage.json](./27477-dance-its-your-stage.json) |
@@ -1917,6 +1918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Datascape | 96128 | [96128-datascape.json](./96128-datascape.json) |
 | Datasight | 220005 | [220005-datasight.json](./220005-datasight.json) |
 | Datbyel's Nebula | 309744 | [309744-datbyels-nebula.json](./309744-datbyels-nebula.json) |
+| Date A Live | 193790 | [193790-date-a-live.json](./193790-date-a-live.json) |
 | Date A Live: Arusu Install - Limited Edition | 86225 | [86225-date-a-live-arusu-install-limited-edition.json](./86225-date-a-live-arusu-install-limited-edition.json) |
 | Date A Live: Ren Dystopia | 114150 | [114150-date-a-live-ren-dystopia.json](./114150-date-a-live-ren-dystopia.json) |
 | Date A Live: Ren Dystopia - Limited Edition | 114151 | [114151-date-a-live-ren-dystopia-limited-edition.json](./114151-date-a-live-ren-dystopia-limited-edition.json) |
@@ -2332,6 +2334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DC Universe Online: Episode 9 - War of the Light Part I | 271154 | [271154-dc-universe-online-episode-9-war-of-the-light-part-i.json](./271154-dc-universe-online-episode-9-war-of-the-light-part-i.json) |
 | DC Universe Online: Episode Pack I | 161187 | [161187-dc-universe-online-episode-pack-i.json](./161187-dc-universe-online-episode-pack-i.json) |
 | DC Wonder: Unlimited | 43496 | [43496-dc-wonder-unlimited.json](./43496-dc-wonder-unlimited.json) |
+| DC Worlds Collide | 193782 | [193782-dc-worlds-collide.json](./193782-dc-worlds-collide.json) |
 | DC: Batman Bat-Tech Edition | 309605 | [309605-dc-batman-bat-tech-edition.json](./309605-dc-batman-bat-tech-edition.json) |
 | DC: Dark Legion | 283384 | [283384-dc-dark-legion.json](./283384-dc-dark-legion.json) |
 | DC's Justice League: Cosmic Chaos | 228740 | [228740-dcs-justice-league-cosmic-chaos.json](./228740-dcs-justice-league-cosmic-chaos.json) |
@@ -4388,6 +4391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeIz | 236805 | [236805-deiz.json](./236805-deiz.json) |
 | Déjà Boom | 364657 | [364657-deja-boom.json](./364657-deja-boom.json) |
 | Deja Vu | 229690 | [229690-deja-vu.json](./229690-deja-vu.json) |
+| Déjà Vu | 193653 | [193653-deja-vu.json](./193653-deja-vu.json) |
 | Deja Vu 2: Lost in Las Vegas!! | 12418 | [12418-deja-vu-2-lost-in-las-vegas.json](./12418-deja-vu-2-lost-in-las-vegas.json) |
 | Déjà Vu I | 310192 | [310192-deja-vu-i.json](./310192-deja-vu-i.json) |
 | Déjà Vu I & II: The Casebooks of Ace Harding | 49895 | [49895-deja-vu-i-and-ii-the-casebooks-of-ace-harding.json](./49895-deja-vu-i-and-ii-the-casebooks-of-ace-harding.json) |
@@ -5859,6 +5863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detectives United II: The Darkest Shrine | 187930 | [187930-detectives-united-ii-the-darkest-shrine.json](./187930-detectives-united-ii-the-darkest-shrine.json) |
 | Detectives United II: The Darkest Shrine - Collector's Edition | 252685 | [252685-detectives-united-ii-the-darkest-shrine-collectors-edition.json](./252685-detectives-united-ii-the-darkest-shrine-collectors-edition.json) |
 | Detectives United III: Timeless Voyage - Collector's Edition | 129708 | [129708-detectives-united-iii-timeless-voyage-collectors-edition.json](./129708-detectives-united-iii-timeless-voyage-collectors-edition.json) |
+| Detectives United: Deadly Debt - Collector's Edition | 193651 | [193651-detectives-united-deadly-debt-collectors-edition.json](./193651-detectives-united-deadly-debt-collectors-edition.json) |
 | Detectives United: Mission Possible - Collector's Edition | 338780 | [338780-detectives-united-mission-possible-collectors-edition.json](./338780-detectives-united-mission-possible-collectors-edition.json) |
 | Detectives United: Origins - Collector's Edition | 248337 | [248337-detectives-united-origins-collectors-edition.json](./248337-detectives-united-origins-collectors-edition.json) |
 | Detectives United: Phantoms of the Past - Collector's Edition | 370561 | [370561-detectives-united-phantoms-of-the-past-collectors-edition.json](./370561-detectives-united-phantoms-of-the-past-collectors-edition.json) |
@@ -10662,6 +10667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Robotnik's Ring Racers | 238878 | [238878-dr-robotniks-ring-racers.json](./238878-dr-robotniks-ring-racers.json) |
 | Dr. Rudy | 94262 | [94262-dr-rudy.json](./94262-dr-rudy.json) |
 | Dr. Schplot's Nanobots | 95548 | [95548-dr-schplots-nanobots.json](./95548-dr-schplots-nanobots.json) |
+| Dr. Science quest | 193632 | [193632-dr-science-quest.json](./193632-dr-science-quest.json) |
 | Dr. Seuss Fix-Up the Mix-Up Puzzler | 40898 | [40898-dr-seuss-fix-up-the-mix-up-puzzler.json](./40898-dr-seuss-fix-up-the-mix-up-puzzler.json) |
 | Dr. Seuss Preschool | 63273 | [63273-dr-seuss-preschool.json](./63273-dr-seuss-preschool.json) |
 | Dr. Seuss Toddler | 63271 | [63271-dr-seuss-toddler.json](./63271-dr-seuss-toddler.json) |
