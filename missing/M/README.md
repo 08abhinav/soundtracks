@@ -5102,6 +5102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mecha Arena | 321494 | [321494-mecha-arena.json](./321494-mecha-arena.json) |
 | Mecha Attack | 214103 | [214103-mecha-attack.json](./214103-mecha-attack.json) |
 | Mecha Domination | 304957 | [304957-mecha-domination.json](./304957-mecha-domination.json) |
+| Mecha Genesis: Tactics | 183253 | [183253-mecha-genesis-tactics.json](./183253-mecha-genesis-tactics.json) |
 | Mecha Jump | 365786 | [365786-mecha-jump.json](./365786-mecha-jump.json) |
 | Mecha Knights: Nightmare | 125202 | [125202-mecha-knights-nightmare.json](./125202-mecha-knights-nightmare.json) |
 | Mecha Knights: Nightmare - Operation Ascalon Expansion | 265492 | [265492-mecha-knights-nightmare-operation-ascalon-expansion.json](./265492-mecha-knights-nightmare-operation-ascalon-expansion.json) |
@@ -16516,6 +16517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Masters: Twisted Tales | 206625 | [206625-mystery-masters-twisted-tales.json](./206625-mystery-masters-twisted-tales.json) |
 | Mystery Masters: Wicked Worlds Collection | 201860 | [201860-mystery-masters-wicked-worlds-collection.json](./201860-mystery-masters-wicked-worlds-collection.json) |
 | Mystery Mine | 30134 | [30134-mystery-mine.json](./30134-mystery-mine.json) |
+| Mystery Miniaturist | 183266 | [183266-mystery-miniaturist.json](./183266-mystery-miniaturist.json) |
 | Mystery Mosaics 2 | 91090 | [91090-mystery-mosaics-2.json](./91090-mystery-mosaics-2.json) |
 | Mystery Museum | 146858 | [146858-mystery-museum.json](./146858-mystery-museum.json) |
 | Mystery Objects | 152025 | [152025-mystery-objects.json](./152025-mystery-objects.json) |
