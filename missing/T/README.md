@@ -1035,6 +1035,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales Of Polygonia | 231326 | [231326-tales-of-polygonia.json](./231326-tales-of-polygonia.json) |
 | Tales of Popolon | 360137 | [360137-tales-of-popolon.json](./360137-tales-of-popolon.json) |
 | Tales of Radiance | 122045 | [122045-tales-of-radiance.json](./122045-tales-of-radiance.json) |
+| Tales of Raetrethra: Legends of the Past | 186512 | [186512-tales-of-raetrethra-legends-of-the-past.json](./186512-tales-of-raetrethra-legends-of-the-past.json) |
+| Tales of Raetrethra: Legends of the Past - Chapter 1 | 186515 | [186515-tales-of-raetrethra-legends-of-the-past-chapter-1.json](./186515-tales-of-raetrethra-legends-of-the-past-chapter-1.json) |
 | Tales of Rebirth | 1205 | [1205-tales-of-rebirth.json](./1205-tales-of-rebirth.json) |
 | Tales of Rein Ravine | 319551 | [319551-tales-of-rein-ravine.json](./319551-tales-of-rein-ravine.json) |
 | Tales of Sabotage | 226608 | [226608-tales-of-sabotage.json](./226608-tales-of-sabotage.json) |
@@ -1358,6 +1360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tambourine Tangerine | 315617 | [315617-tambourine-tangerine.json](./315617-tambourine-tangerine.json) |
 | Tame It Too! | 310745 | [310745-tame-it-too.json](./310745-tame-it-too.json) |
 | Tamed Faces Jigsaw Puzzle - Domesticated Animals | 89027 | [89027-tamed-faces-jigsaw-puzzle-domesticated-animals.json](./89027-tamed-faces-jigsaw-puzzle-domesticated-animals.json) |
+| Tamed: Chapter 1 | 186497 | [186497-tamed-chapter-1.json](./186497-tamed-chapter-1.json) |
 | Tamer Saga | 56489 | [56489-tamer-saga.json](./56489-tamer-saga.json) |
 | Tamer Vale | 253840 | [253840-tamer-vale.json](./253840-tamer-vale.json) |
 | Tamerlane | 233633 | [233633-tamerlane.json](./233633-tamerlane.json) |
@@ -8232,6 +8235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House in the Woods | 176505 | [176505-the-house-in-the-woods.json](./176505-the-house-in-the-woods.json) |
 | The House of Big people | 188677 | [188677-the-house-of-big-people.json](./188677-the-house-of-big-people.json) |
 | The House of Da Vinci 3 | 197081 | [197081-the-house-of-da-vinci-3.json](./197081-the-house-of-da-vinci-3.json) |
+| The House of Da Vinci Bundle | 186543 | [186543-the-house-of-da-vinci-bundle.json](./186543-the-house-of-da-vinci-bundle.json) |
 | The House of Da Vinci Complete Bundle | 310498 | [310498-the-house-of-da-vinci-complete-bundle.json](./310498-the-house-of-da-vinci-complete-bundle.json) |
 | The House of Da Vinci VR | 314703 | [314703-the-house-of-da-vinci-vr.json](./314703-the-house-of-da-vinci-vr.json) |
 | The House of E. | 242490 | [242490-the-house-of-e.json](./242490-the-house-of-e.json) |
@@ -17478,6 +17482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Leap Paradise Super Live! | 31077 | [31077-time-leap-paradise-super-live.json](./31077-time-leap-paradise-super-live.json) |
 | Time Limit Harvest | 248045 | [248045-time-limit-harvest.json](./248045-time-limit-harvest.json) |
 | Time Loader | 140868 | [140868-time-loader.json](./140868-time-loader.json) |
+| Time Loader and Biped Bundle | 186539 | [186539-time-loader-and-biped-bundle.json](./186539-time-loader-and-biped-bundle.json) |
 | Time Loader: First Memories | 166211 | [166211-time-loader-first-memories.json](./166211-time-loader-first-memories.json) |
 | Time Lock VR 1 | 393132 | [393132-time-lock-vr-1.json](./393132-time-lock-vr-1.json) |
 | Time Locker | 58145 | [58145-time-locker.json](./58145-time-locker.json) |
@@ -24196,6 +24201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrueScale | 105891 | [105891-truescale.json](./105891-truescale.json) |
 | Truffle Hogs | 159651 | [159651-truffle-hogs.json](./159651-truffle-hogs.json) |
 | Truffle Saga | 17416 | [17416-truffle-saga.json](./17416-truffle-saga.json) |
+| Truffle: Classic | 186509 | [186509-truffle-classic.json](./186509-truffle-classic.json) |
 | Trulon | 197766 | [197766-trulon.json](./197766-trulon.json) |
 | Trulon: The Shadow Engine | 20344 | [20344-trulon-the-shadow-engine.json](./20344-trulon-the-shadow-engine.json) |
 | TruLove | 212186 | [212186-trulove.json](./212186-trulove.json) |
