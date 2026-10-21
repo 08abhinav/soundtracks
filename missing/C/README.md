@@ -730,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calm Falls 2 | 241233 | [241233-calm-falls-2.json](./241233-calm-falls-2.json) |
 | Calm Forest | 185135 | [185135-calm-forest.json](./185135-calm-forest.json) |
 | Calm Girls | 158581 | [158581-calm-girls.json](./158581-calm-girls.json) |
+| Calm Horizon | 178295 | [178295-calm-horizon.json](./178295-calm-horizon.json) |
 | Calm Horizon | 380050 | [380050-calm-horizon.json](./380050-calm-horizon.json) |
 | Calm Skies | 318295 | [318295-calm-skies.json](./318295-calm-skies.json) |
 | Calm Time | 122999 | [122999-calm-time.json](./122999-calm-time.json) |
@@ -4179,6 +4180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chainsaw Warrior: Lords of the Night | 17543 | [17543-chainsaw-warrior-lords-of-the-night.json](./17543-chainsaw-warrior-lords-of-the-night.json) |
 | ChainStaff | 304750 | [304750-chainstaff.json](./304750-chainstaff.json) |
 | Chainworm Kommando | 257350 | [257350-chainworm-kommando.json](./257350-chainworm-kommando.json) |
+| Chair F*cking Simulator | 178260 | [178260-chair-f-cking-simulator.json](./178260-chair-f-cking-simulator.json) |
 | Chair Is Videogame | 144083 | [144083-chair-is-videogame.json](./144083-chair-is-videogame.json) |
 | Chair Simulator | 146871 | [146871-chair-simulator.json](./146871-chair-simulator.json) |
 | Chair Spinning Simulator | 192629 | [192629-chair-spinning-simulator.json](./192629-chair-spinning-simulator.json) |
@@ -14107,6 +14109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypto-Shots | 221844 | [221844-crypto-shots.json](./221844-crypto-shots.json) |
 | Cryptobots | 224144 | [224144-cryptobots.json](./224144-cryptobots.json) |
 | CryptoCannoneer | 165128 | [165128-cryptocannoneer.json](./165128-cryptocannoneer.json) |
+| CryptoCars | 178249 | [178249-cryptocars.json](./178249-cryptocars.json) |
 | CryptoClash | 265730 | [265730-cryptoclash.json](./265730-cryptoclash.json) |
 | CryptoClickers | 218162 | [218162-cryptoclickers.json](./218162-cryptoclickers.json) |
 | CryptoCoin, Inc. | 103296 | [103296-cryptocoin-inc.json](./103296-cryptocoin-inc.json) |
@@ -15719,6 +15722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyborg-Prototype | 309646 | [309646-cyborg-prototype.json](./309646-cyborg-prototype.json) |
 | Cyborg: Rise | 311492 | [311492-cyborg-rise.json](./311492-cyborg-rise.json) |
 | Cyborg3003 | 261760 | [261760-cyborg3003.json](./261760-cyborg3003.json) |
+| Cyborgirl | 178265 | [178265-cyborgirl.json](./178265-cyborgirl.json) |
 | Cyborgs Attack | 150783 | [150783-cyborgs-attack.json](./150783-cyborgs-attack.json) |
 | Cybotron | 13835 | [13835-cybotron.json](./13835-cybotron.json) |
 | Cybrid | 154359 | [154359-cybrid.json](./154359-cybrid.json) |
