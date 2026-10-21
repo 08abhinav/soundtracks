@@ -1232,6 +1232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talking Kiteboards by Flexifoil | 203739 | [203739-talking-kiteboards-by-flexifoil.json](./203739-talking-kiteboards-by-flexifoil.json) |
 | Talking Larry the Bird | 344921 | [344921-talking-larry-the-bird.json](./344921-talking-larry-the-bird.json) |
 | Talking Marvel Comics X-Men | 217718 | [217718-talking-marvel-comics-x-men.json](./217718-talking-marvel-comics-x-men.json) |
+| Talking MTV's Beavis and Butthead | 198697 | [198697-talking-mtvs-beavis-and-butthead.json](./198697-talking-mtvs-beavis-and-butthead.json) |
 | Talking Phrasebook | 85424 | [85424-talking-phrasebook.json](./85424-talking-phrasebook.json) |
 | Talking Pierre the Parrot | 320944 | [320944-talking-pierre-the-parrot.json](./320944-talking-pierre-the-parrot.json) |
 | Talking Pinball | 346043 | [346043-talking-pinball.json](./346043-talking-pinball.json) |
@@ -4130,6 +4131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 8th Son? A.R. | 243087 | [243087-the-8th-son-a-r.json](./243087-the-8th-son-a-r.json) |
 | The 9th Annual Vanilla Level Design Contest: Collaboration Hack | 187275 | [187275-the-9th-annual-vanilla-level-design-contest-collaboration-hack.json](./187275-the-9th-annual-vanilla-level-design-contest-collaboration-hack.json) |
 | The 9th Day | 32824 | [32824-the-9th-day.json](./32824-the-9th-day.json) |
+| The A-Team | 198699 | [198699-the-a-team.json](./198699-the-a-team.json) |
 | The A-Team | 200146 | [200146-the-a-team.json](./200146-the-a-team.json) |
 | The A-Team | 200147 | [200147-the-a-team.json](./200147-the-a-team.json) |
 | The A-Team | 300553 | [300553-the-a-team.json](./300553-the-a-team.json) |
@@ -10762,7 +10764,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
