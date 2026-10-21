@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type Final 2: DLC Set 1 | 155065 | [155065-r-type-final-2-dlc-set-1.json](./155065-r-type-final-2-dlc-set-1.json) |
 | R-Type Final 2: DLC Set 2 | 155064 | [155064-r-type-final-2-dlc-set-2.json](./155064-r-type-final-2-dlc-set-2.json) |
 | R-Type Final 2: DLC Set 3 | 155063 | [155063-r-type-final-2-dlc-set-3.json](./155063-r-type-final-2-dlc-set-3.json) |
+| R-Type Final 2: DLC Set 4 | 186523 | [186523-r-type-final-2-dlc-set-4.json](./186523-r-type-final-2-dlc-set-4.json) |
 | R-Type Final 2: DLC Set 5 | 193745 | [193745-r-type-final-2-dlc-set-5.json](./193745-r-type-final-2-dlc-set-5.json) |
 | R-Type Final 2: DLC Set 6 | 193746 | [193746-r-type-final-2-dlc-set-6.json](./193746-r-type-final-2-dlc-set-6.json) |
 | R-Type Final 2: DLC Set 8 | 219777 | [219777-r-type-final-2-dlc-set-8.json](./219777-r-type-final-2-dlc-set-8.json) |
@@ -6096,6 +6097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Mist | 191815 | [191815-rising-mist.json](./191815-rising-mist.json) |
 | Rising Noracam | 151649 | [151649-rising-noracam.json](./151649-rising-noracam.json) |
 | Rising of Ants | 225236 | [225236-rising-of-ants.json](./225236-rising-of-ants.json) |
+| Rising of the Moon | 186511 | [186511-rising-of-the-moon.json](./186511-rising-of-the-moon.json) |
 | Rising Robots | 90502 | [90502-rising-robots.json](./90502-rising-robots.json) |
 | Rising Runner | 32729 | [32729-rising-runner.json](./32729-rising-runner.json) |
 | Rising Snake | 123567 | [123567-rising-snake.json](./123567-rising-snake.json) |
@@ -6841,6 +6843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Bros | 89240 | [89240-robot-bros.json](./89240-robot-bros.json) |
 | Robot Car War: Transform Battle Machines | 187472 | [187472-robot-car-war-transform-battle-machines.json](./187472-robot-car-war-transform-battle-machines.json) |
 | Robot Carnage | 122852 | [122852-robot-carnage.json](./122852-robot-carnage.json) |
+| Robot Chariot Battle | 186504 | [186504-robot-chariot-battle.json](./186504-robot-chariot-battle.json) |
 | Robot Chase | 106149 | [106149-robot-chase.json](./106149-robot-chase.json) |
 | Robot City | 47287 | [47287-robot-city.json](./47287-robot-city.json) |
 | Robot City Stadium | 30528 | [30528-robot-city-stadium.json](./30528-robot-city-stadium.json) |
