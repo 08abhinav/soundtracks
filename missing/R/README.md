@@ -524,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radical Rex | 5427 | [5427-radical-rex.json](./5427-radical-rex.json) |
 | Radical Roach | 10748 | [10748-radical-roach.json](./10748-radical-roach.json) |
 | Radical Roach Remastered | 36311 | [36311-radical-roach-remastered.json](./36311-radical-roach-remastered.json) |
+| Radical Roach: Infinity | 193641 | [193641-radical-roach-infinity.json](./193641-radical-roach-infinity.json) |
 | Radical Road | 239732 | [239732-radical-road.json](./239732-radical-road.json) |
 | Radical Sonic | 330319 | [330319-radical-sonic.json](./330319-radical-sonic.json) |
 | Radical Spectrum: Volume 2 | 55509 | [55509-radical-spectrum-volume-2.json](./55509-radical-spectrum-volume-2.json) |
@@ -4341,6 +4342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resonance of Fate 4k/HD Edition | 109580 | [109580-resonance-of-fate-4k-hd-edition.json](./109580-resonance-of-fate-4k-hd-edition.json) |
 | Resonance of Fate 4K/HD Edition: Collector's Edition | 167150 | [167150-resonance-of-fate-4k-hd-edition-collectors-edition.json](./167150-resonance-of-fate-4k-hd-edition-collectors-edition.json) |
 | Resonance of the Ocean | 207796 | [207796-resonance-of-the-ocean.json](./207796-resonance-of-the-ocean.json) |
+| Resonance Solstice | 193786 | [193786-resonance-solstice.json](./193786-resonance-solstice.json) |
 | Resonance Tales: Alone | 350964 | [350964-resonance-tales-alone.json](./350964-resonance-tales-alone.json) |
 | Resonance Wars | 181089 | [181089-resonance-wars.json](./181089-resonance-wars.json) |
 | Resonance: The Lost Score | 150064 | [150064-resonance-the-lost-score.json](./150064-resonance-the-lost-score.json) |
@@ -5159,6 +5161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhem I SE: The Mysterious Land | 50510 | [50510-rhem-i-se-the-mysterious-land.json](./50510-rhem-i-se-the-mysterious-land.json) |
 | Rhem II SE: The Cave | 112131 | [112131-rhem-ii-se-the-cave.json](./112131-rhem-ii-se-the-cave.json) |
 | Rhem IV SE: The Golden Fragments | 91320 | [91320-rhem-iv-se-the-golden-fragments.json](./91320-rhem-iv-se-the-golden-fragments.json) |
+| Rhentsu | 193642 | [193642-rhentsu.json](./193642-rhentsu.json) |
 | RHI Roller Hockey '95 | 42468 | [42468-rhi-roller-hockey-95.json](./42468-rhi-roller-hockey-95.json) |
 | Rhiannon: Curse of the Four Branches | 17349 | [17349-rhiannon-curse-of-the-four-branches.json](./17349-rhiannon-curse-of-the-four-branches.json) |
 | Rhino Express | 357000 | [357000-rhino-express.json](./357000-rhino-express.json) |
@@ -7843,6 +7846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll Boss Rush | 43845 | [43845-roll-boss-rush.json](./43845-roll-boss-rush.json) |
 | Roll Five | 305970 | [305970-roll-five.json](./305970-roll-five.json) |
 | Roll For Confidence | 171091 | [171091-roll-for-confidence.json](./171091-roll-for-confidence.json) |
+| Roll For Initiative | 193644 | [193644-roll-for-initiative.json](./193644-roll-for-initiative.json) |
 | Roll for the Galaxy | 138508 | [138508-roll-for-the-galaxy.json](./138508-roll-for-the-galaxy.json) |
 | Roll in the Hole | 64670 | [64670-roll-in-the-hole.json](./64670-roll-in-the-hole.json) |
 | Roll It to the End | 244718 | [244718-roll-it-to-the-end.json](./244718-roll-it-to-the-end.json) |
