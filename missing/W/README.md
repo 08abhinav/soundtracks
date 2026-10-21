@@ -1026,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: The Duviri Paradox | 204361 | [204361-warframe-the-duviri-paradox.json](./204361-warframe-the-duviri-paradox.json) |
 | Warframe: The Jovian Concord | 198496 | [198496-warframe-the-jovian-concord.json](./198496-warframe-the-jovian-concord.json) |
 | Warframe: The Mad Cephalon | 201162 | [201162-warframe-the-mad-cephalon.json](./201162-warframe-the-mad-cephalon.json) |
+| Warframe: The New War | 187118 | [187118-warframe-the-new-war.json](./187118-warframe-the-new-war.json) |
 | Warframe: The Old Blood | 198498 | [198498-warframe-the-old-blood.json](./198498-warframe-the-old-blood.json) |
 | Warframe: The Sacrifice | 103321 | [103321-warframe-the-sacrifice.json](./103321-warframe-the-sacrifice.json) |
 | Warframe: The Seven Crimes of Kullervo | 263491 | [263491-warframe-the-seven-crimes-of-kullervo.json](./263491-warframe-the-seven-crimes-of-kullervo.json) |
@@ -3804,6 +3805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wicked Paradise | 192644 | [192644-wicked-paradise.json](./192644-wicked-paradise.json) |
 | Wicked Plague | 324691 | [324691-wicked-plague.json](./324691-wicked-plague.json) |
 | Wicked Rails VR | 158567 | [158567-wicked-rails-vr.json](./158567-wicked-rails-vr.json) |
+| Wicked Rider | 187129 | [187129-wicked-rider.json](./187129-wicked-rider.json) |
 | Wicked Seed | 338693 | [338693-wicked-seed.json](./338693-wicked-seed.json) |
 | Wicked Subway | 371615 | [371615-wicked-subway.json](./371615-wicked-subway.json) |
 | Wicked Surfing | 200674 | [200674-wicked-surfing.json](./200674-wicked-surfing.json) |
@@ -4006,6 +4008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Varmint Bounty Hunter | 118220 | [118220-wild-varmint-bounty-hunter.json](./118220-wild-varmint-bounty-hunter.json) |
 | Wild Warfare | 17598 | [17598-wild-warfare.json](./17598-wild-warfare.json) |
 | Wild Web | 359553 | [359553-wild-web.json](./359553-wild-web.json) |
+| Wild West | 187144 | [187144-wild-west.json](./187144-wild-west.json) |
 | Wild West | 215648 | [215648-wild-west.json](./215648-wild-west.json) |
 | Wild West and Wizards | 117639 | [117639-wild-west-and-wizards.json](./117639-wild-west-and-wizards.json) |
 | Wild West Blast | 298454 | [298454-wild-west-blast.json](./298454-wild-west-blast.json) |
@@ -5992,6 +5995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Workshop Blooming in the Field & the Dark Dragon | 82901 | [82901-workshop-blooming-in-the-field-and-the-dark-dragon.json](./82901-workshop-blooming-in-the-field-and-the-dark-dragon.json) |
 | Workshop Invaders: Bouncy | 108990 | [108990-workshop-invaders-bouncy.json](./108990-workshop-invaders-bouncy.json) |
 | Workshop Maps Pack | 323599 | [323599-workshop-maps-pack.json](./323599-workshop-maps-pack.json) |
+| Worland: Dungeons | 187139 | [187139-worland-dungeons.json](./187139-worland-dungeons.json) |
 | World 23 | 368226 | [368226-world-23.json](./368226-world-23.json) |
 | World Advanced Daisenryaku: Sakusen File | 60803 | [60803-world-advanced-daisenryaku-sakusen-file.json](./60803-world-advanced-daisenryaku-sakusen-file.json) |
 | World Air War | 290118 | [290118-world-air-war.json](./290118-world-air-war.json) |
