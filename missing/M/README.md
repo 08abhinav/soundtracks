@@ -15783,6 +15783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lust Wish | 160274 | [160274-my-lust-wish.json](./160274-my-lust-wish.json) |
 | My Mafia Girlfriend | 229111 | [229111-my-mafia-girlfriend.json](./229111-my-mafia-girlfriend.json) |
 | My Magic Florist | 146773 | [146773-my-magic-florist.json](./146773-my-magic-florist.json) |
+| My Magic Florist: Deluxe Edition | 199815 | [199815-my-magic-florist-deluxe-edition.json](./199815-my-magic-florist-deluxe-edition.json) |
 | My Magical Boyfriend | 230179 | [230179-my-magical-boyfriend.json](./230179-my-magical-boyfriend.json) |
 | My Magical Demon Lover | 109628 | [109628-my-magical-demon-lover.json](./109628-my-magical-demon-lover.json) |
 | My Maid Girlfriend | 107710 | [107710-my-maid-girlfriend.json](./107710-my-maid-girlfriend.json) |
