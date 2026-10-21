@@ -1231,6 +1231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Farm: Goodfolks | 245177 | [245177-family-farm-goodfolks.json](./245177-family-farm-goodfolks.json) |
 | Family Fest Presents Movie Games | 70671 | [70671-family-fest-presents-movie-games.json](./70671-family-fest-presents-movie-games.json) |
 | Family Feud | 159244 | [159244-family-feud.json](./159244-family-feud.json) |
+| Family Feud | 175630 | [175630-family-feud.json](./175630-family-feud.json) |
 | Family Feud | 198736 | [198736-family-feud.json](./198736-family-feud.json) |
 | Family Feud | 198737 | [198737-family-feud.json](./198737-family-feud.json) |
 | Family Feud | 257844 | [257844-family-feud.json](./257844-family-feud.json) |
@@ -1387,6 +1388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fant Kids Animated Puzzle | 116982 | [116982-fant-kids-animated-puzzle.json](./116982-fant-kids-animated-puzzle.json) |
 | Fant Kids Matching Game | 112864 | [112864-fant-kids-matching-game.json](./112864-fant-kids-matching-game.json) |
 | Fantamon | 348794 | [348794-fantamon.json](./348794-fantamon.json) |
+| Fantashooting | 175088 | [175088-fantashooting.json](./175088-fantashooting.json) |
 | Fantashooting 2 | 208977 | [208977-fantashooting-2.json](./208977-fantashooting-2.json) |
 | Fantasia | 38574 | [38574-fantasia.json](./38574-fantasia.json) |
 | Fantasia | 45587 | [45587-fantasia.json](./45587-fantasia.json) |
@@ -1879,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farjius no Jakoutei: Neo Metal Fantasy | 69862 | [69862-farjius-no-jakoutei-neo-metal-fantasy.json](./69862-farjius-no-jakoutei-neo-metal-fantasy.json) |
 | FarKae City | 183835 | [183835-farkae-city.json](./183835-farkae-city.json) |
 | Farkas: the Last Redhaft | 301088 | [301088-farkas-the-last-redhaft.json](./301088-farkas-the-last-redhaft.json) |
+| Farkle Dice | 175607 | [175607-farkle-dice.json](./175607-farkle-dice.json) |
 | Farkle King | 243745 | [243745-farkle-king.json](./243745-farkle-king.json) |
 | Farkle mania | 232290 | [232290-farkle-mania.json](./232290-farkle-mania.json) |
 | Farkle with Friends | 338774 | [338774-farkle-with-friends.json](./338774-farkle-with-friends.json) |
@@ -6170,6 +6173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Float Night | 111521 | [111521-float-night.json](./111521-float-night.json) |
 | Float Survival Simulator: Ocean Survivor | 324184 | [324184-float-survival-simulator-ocean-survivor.json](./324184-float-survival-simulator-ocean-survivor.json) |
 | Float: Champions | 257948 | [257948-float-champions.json](./257948-float-champions.json) |
+| Float: Journey of Flower | 175104 | [175104-float-journey-of-flower.json](./175104-float-journey-of-flower.json) |
 | Floathink | 149936 | [149936-floathink.json](./149936-floathink.json) |
 | Floatineer | 358242 | [358242-floatineer.json](./358242-floatineer.json) |
 | Floating Block Forever | 393095 | [393095-floating-block-forever.json](./393095-floating-block-forever.json) |
@@ -6620,6 +6624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Car Robot Flight Drive Simulator Game 2017 | 86854 | [86854-flying-car-robot-flight-drive-simulator-game-2017.json](./86854-flying-car-robot-flight-drive-simulator-game-2017.json) |
 | Flying Cat | 282147 | [282147-flying-cat.json](./282147-flying-cat.json) |
 | Flying Circus | 114859 | [114859-flying-circus.json](./114859-flying-circus.json) |
+| Flying Comet | 175090 | [175090-flying-comet.json](./175090-flying-comet.json) |
 | Flying Corps | 47082 | [47082-flying-corps.json](./47082-flying-corps.json) |
 | Flying Corps: Gold | 209461 | [209461-flying-corps-gold.json](./209461-flying-corps-gold.json) |
 | Flying Cut | 257803 | [257803-flying-cut.json](./257803-flying-cut.json) |
@@ -7045,6 +7050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Heroes 2015 | 238305 | [238305-football-heroes-2015.json](./238305-football-heroes-2015.json) |
 | Football Heroes League | 342492 | [342492-football-heroes-league.json](./342492-football-heroes-league.json) |
 | Football Heroes Pro 2016 | 59730 | [59730-football-heroes-pro-2016.json](./59730-football-heroes-pro-2016.json) |
+| Football Highlights 2052 | 175096 | [175096-football-highlights-2052.json](./175096-football-highlights-2052.json) |
 | Football International | 49079 | [49079-football-international.json](./49079-football-international.json) |
 | Football Kicks | 231060 | [231060-football-kicks.json](./231060-football-kicks.json) |
 | Football Killer | 188096 | [188096-football-killer.json](./188096-football-killer.json) |
@@ -8322,6 +8328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fowling | 47257 | [47257-fowling.json](./47257-fowling.json) |
 | Fowlplay | 80429 | [80429-fowlplay.json](./80429-fowlplay.json) |
 | Fox & Goat | 40740 | [40740-fox-and-goat.json](./40740-fox-and-goat.json) |
+| Fox & Hounds | 175108 | [175108-fox-and-hounds.json](./175108-fox-and-hounds.json) |
 | Fox Adventure: Homeward Journey | 253439 | [253439-fox-adventure-homeward-journey.json](./253439-fox-adventure-homeward-journey.json) |
 | Fox and Bunny | 117780 | [117780-fox-and-bunny.json](./117780-fox-and-bunny.json) |
 | Fox and Frog Travelers: The Demon of Adashino Island | 204377 | [204377-fox-and-frog-travelers-the-demon-of-adashino-island.json](./204377-fox-and-frog-travelers-the-demon-of-adashino-island.json) |
@@ -9403,6 +9410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger Pinball | 63920 | [63920-frogger-pinball.json](./63920-frogger-pinball.json) |
 | Frogger Returns | 11484 | [11484-frogger-returns.json](./11484-frogger-returns.json) |
 | Frogger TV Arcade | 220091 | [220091-frogger-tv-arcade.json](./220091-frogger-tv-arcade.json) |
+| Frogger-top: The Tabletop Classic! | 175079 | [175079-frogger-top-the-tabletop-classic.json](./175079-frogger-top-the-tabletop-classic.json) |
 | Frogger: Ancient Shadow | 3924 | [3924-frogger-ancient-shadow.json](./3924-frogger-ancient-shadow.json) |
 | Frogger: Helmet Chaos | 11481 | [11481-frogger-helmet-chaos.json](./11481-frogger-helmet-chaos.json) |
 | Frogger: The Great Quest | 11467 | [11467-frogger-the-great-quest.json](./11467-frogger-the-great-quest.json) |
@@ -10783,6 +10791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FX Fighter Turbo | 68982 | [68982-fx-fighter-turbo.json](./68982-fx-fighter-turbo.json) |
 | FX Football | 9788 | [9788-fx-football.json](./9788-fx-football.json) |
 | FX Racer | 380682 | [380682-fx-racer.json](./380682-fx-racer.json) |
+| Fx Racer Unlimited | 175117 | [175117-fx-racer-unlimited.json](./175117-fx-racer-unlimited.json) |
 | Fyd | 80898 | [80898-fyd.json](./80898-fyd.json) |
 | Fydo's Magic Tiles | 215179 | [215179-fydos-magic-tiles.json](./215179-fydos-magic-tiles.json) |
 | Fylgja | 92098 | [92098-fylgja.json](./92098-fylgja.json) |
