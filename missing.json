@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T03:48:57.213Z",
-  "total_missing": 240455,
+  "generated_at": "2026-10-21T04:05:54.344Z",
+  "total_missing": 240505,
   "games": [
     {
       "igdb_id": 191680,
@@ -3055,6 +3055,11 @@
       "igdb_id": 66625,
       "game_name": "1001 Crystal Mazes Collection",
       "file": "missing/0-9/66625-1001-crystal-mazes-collection.json"
+    },
+    {
+      "igdb_id": 195421,
+      "game_name": "1001 Jigsaw American Puzzles",
+      "file": "missing/0-9/195421-1001-jigsaw-american-puzzles.json"
     },
     {
       "igdb_id": 166639,
@@ -46555,6 +46560,11 @@
       "igdb_id": 184795,
       "game_name": "An unfolding Adventure",
       "file": "missing/A/184795-an-unfolding-adventure.json"
+    },
+    {
+      "igdb_id": 195546,
+      "game_name": "An Uninvited Guest",
+      "file": "missing/A/195546-an-uninvited-guest.json"
     },
     {
       "igdb_id": 321750,
@@ -135457,6 +135467,11 @@
       "file": "missing/B/158928-box-cats-puzzle.json"
     },
     {
+      "igdb_id": 195426,
+      "game_name": "Box Cats Puzzle: Cat Year 2022",
+      "file": "missing/B/195426-box-cats-puzzle-cat-year-2022.json"
+    },
+    {
       "igdb_id": 328553,
       "game_name": "Box Chaos",
       "file": "missing/B/328553-box-chaos.json"
@@ -198397,6 +198412,11 @@
       "file": "missing/C/193486-colors-maze.json"
     },
     {
+      "igdb_id": 195536,
+      "game_name": "Colors! Maze 2",
+      "file": "missing/C/195536-colors-maze-2.json"
+    },
+    {
       "igdb_id": 199607,
       "game_name": "Colors! Platform",
       "file": "missing/C/199607-colors-platform.json"
@@ -209300,6 +209320,11 @@
       "igdb_id": 98026,
       "game_name": "Cosplay Labo: Nekomimi Nurse With Big Breast",
       "file": "missing/C/98026-cosplay-labo-nekomimi-nurse-with-big-breast.json"
+    },
+    {
+      "igdb_id": 195410,
+      "game_name": "Cosplay Love!: Enchanted Princess",
+      "file": "missing/C/195410-cosplay-love-enchanted-princess.json"
     },
     {
       "igdb_id": 275137,
@@ -226462,6 +226487,11 @@
       "file": "missing/C/186326-cursed-house.json"
     },
     {
+      "igdb_id": 195425,
+      "game_name": "Cursed House 10",
+      "file": "missing/C/195425-cursed-house-10.json"
+    },
+    {
       "igdb_id": 214181,
       "game_name": "Cursed House 11",
       "file": "missing/C/214181-cursed-house-11.json"
@@ -229630,6 +229660,11 @@
       "igdb_id": 228696,
       "game_name": "Cybersphere",
       "file": "missing/C/228696-cybersphere.json"
+    },
+    {
+      "igdb_id": 195407,
+      "game_name": "Cyberstellar",
+      "file": "missing/C/195407-cyberstellar.json"
     },
     {
       "igdb_id": 204959,
@@ -242197,6 +242232,11 @@
       "file": "missing/D/108296-dcr-drive-crash-repeat.json"
     },
     {
+      "igdb_id": 195416,
+      "game_name": "DCS World: A-10C II Iron Flag Part 1 Campaign",
+      "file": "missing/D/195416-dcs-world-a-10c-ii-iron-flag-part-1-campaign.json"
+    },
+    {
       "igdb_id": 325720,
       "game_name": "DCS World: A-10C Operation Agile Spear Campaign by Combat King Simulations",
       "file": "missing/D/325720-dcs-world-a-10c-operation-agile-spear-campaign-by-combat-king-simulations.json"
@@ -242207,6 +242247,11 @@
       "file": "missing/D/332795-dcs-world-afghanistan.json"
     },
     {
+      "igdb_id": 195402,
+      "game_name": "DCS World: AH-64D",
+      "file": "missing/D/195402-dcs-world-ah-64d.json"
+    },
+    {
       "igdb_id": 324898,
       "game_name": "DCS World: AH-64D Outpost Campaign by Stone Sky",
       "file": "missing/D/324898-dcs-world-ah-64d-outpost-campaign-by-stone-sky.json"
@@ -242215,6 +242260,11 @@
       "igdb_id": 325110,
       "game_name": "DCS World: AH-64D The Four Horsemen Campaign by Fight's On Simulations",
       "file": "missing/D/325110-dcs-world-ah-64d-the-four-horsemen-campaign-by-fights-on-simulations.json"
+    },
+    {
+      "igdb_id": 195401,
+      "game_name": "DCS World: AV-8B Hormuz Freedom Campaign by SorelRo",
+      "file": "missing/D/195401-dcs-world-av-8b-hormuz-freedom-campaign-by-sorelro.json"
     },
     {
       "igdb_id": 325249,
@@ -242322,6 +242372,11 @@
       "file": "missing/D/325248-dcs-world-f-a-18c-inherent-resolve-campaign-by-looking-glass.json"
     },
     {
+      "igdb_id": 195399,
+      "game_name": "DCS World: F/A-18C Operation Cerberus North by Ground Pounder Sims",
+      "file": "missing/D/195399-dcs-world-f-a-18c-operation-cerberus-north-by-ground-pounder-sims.json"
+    },
+    {
       "igdb_id": 316379,
       "game_name": "DCS World: F/A-18C Operation Mountain Breeze by Sandman Simulations",
       "file": "missing/D/316379-dcs-world-f-a-18c-operation-mountain-breeze-by-sandman-simulations.json"
@@ -242382,6 +242437,11 @@
       "file": "missing/D/273000-dcs-world-mad-black-shark-campaign-by-stone-sky.json"
     },
     {
+      "igdb_id": 195400,
+      "game_name": "DCS World: MAD Campaign by Stone Sky",
+      "file": "missing/D/195400-dcs-world-mad-campaign-by-stone-sky.json"
+    },
+    {
       "igdb_id": 325540,
       "game_name": "DCS World: MAD JF-17 Thunder Campaign by Stone Sky",
       "file": "missing/D/325540-dcs-world-mad-jf-17-thunder-campaign-by-stone-sky.json"
@@ -242400,6 +242460,11 @@
       "igdb_id": 325910,
       "game_name": "DCS World: Mi-8MTV2 and Ka-50: Memory of a Hero Campaign by Stone Sky",
       "file": "missing/D/325910-dcs-world-mi-8mtv2-and-ka-50-memory-of-a-hero-campaign-by-stone-sky.json"
+    },
+    {
+      "igdb_id": 195404,
+      "game_name": "DCS World: MiG-21bis Battle of Krasnodar Campaign",
+      "file": "missing/D/195404-dcs-world-mig-21bis-battle-of-krasnodar-campaign.json"
     },
     {
       "igdb_id": 325721,
@@ -242430,6 +242495,11 @@
       "igdb_id": 325911,
       "game_name": "DCS World: NS 430 Navigation System for C-101EB by Eagle Dynamics, Aerges",
       "file": "missing/D/325911-dcs-world-ns-430-navigation-system-for-c-101eb-by-eagle-dynamics-aerges.json"
+    },
+    {
+      "igdb_id": 195415,
+      "game_name": "DCS World: NS 430 Navigation System for C-101СС",
+      "file": "missing/D/195415-dcs-world-ns-430-navigation-system-for-c-101.json"
     },
     {
       "igdb_id": 325912,
@@ -242475,6 +242545,11 @@
       "igdb_id": 162856,
       "game_name": "DCS World: The Museum Relic Campaign",
       "file": "missing/D/162856-dcs-world-the-museum-relic-campaign.json"
+    },
+    {
+      "igdb_id": 195403,
+      "game_name": "DCS World: UH-1H Paradise Lost Campaign",
+      "file": "missing/D/195403-dcs-world-uh-1h-paradise-lost-campaign.json"
     },
     {
       "igdb_id": 324908,
@@ -243745,6 +243820,11 @@
       "igdb_id": 119760,
       "game_name": "Dead Hunter",
       "file": "missing/D/119760-dead-hunter.json"
+    },
+    {
+      "igdb_id": 195544,
+      "game_name": "Dead Ice",
+      "file": "missing/D/195544-dead-ice.json"
     },
     {
       "igdb_id": 334669,
@@ -282765,6 +282845,11 @@
       "igdb_id": 381953,
       "game_name": "Down the Darkest Pit",
       "file": "missing/D/381953-down-the-darkest-pit.json"
+    },
+    {
+      "igdb_id": 195392,
+      "game_name": "Down The Dead",
+      "file": "missing/D/195392-down-the-dead.json"
     },
     {
       "igdb_id": 256830,
@@ -326007,6 +326092,11 @@
       "file": "missing/E/419948-eternal-refresh.json"
     },
     {
+      "igdb_id": 195411,
+      "game_name": "Eternal Remnant: The First Chapter",
+      "file": "missing/E/195411-eternal-remnant-the-first-chapter.json"
+    },
+    {
       "igdb_id": 31290,
       "game_name": "Eternal Return",
       "file": "missing/E/31290-eternal-return.json"
@@ -358215,6 +358305,11 @@
       "igdb_id": 42553,
       "game_name": "Firestriker",
       "file": "missing/F/42553-firestriker.json"
+    },
+    {
+      "igdb_id": 195394,
+      "game_name": "Fireteam",
+      "file": "missing/F/195394-fireteam.json"
     },
     {
       "igdb_id": 42244,
@@ -459022,6 +459117,11 @@
       "file": "missing/H/86723-hidden-objects-sherlock-holmes-mystery-case-the-big-apartment-my-mysterious-house-the-big-hotel.json"
     },
     {
+      "igdb_id": 195423,
+      "game_name": "Hidden Objects: Sleeping Beauty",
+      "file": "missing/H/195423-hidden-objects-sleeping-beauty.json"
+    },
+    {
       "igdb_id": 107677,
       "game_name": "Hidden Objects: The Big Circus Mystery - My Watch Shop: Wanted Dead or Alive",
       "file": "missing/H/107677-hidden-objects-the-big-circus-mystery-my-watch-shop-wanted-dead-or-alive.json"
@@ -465037,6 +465137,11 @@
       "file": "missing/H/169136-holiday-jigsaw-easter.json"
     },
     {
+      "igdb_id": 195408,
+      "game_name": "Holiday Jigsaw Easter 2",
+      "file": "missing/H/195408-holiday-jigsaw-easter-2.json"
+    },
+    {
       "igdb_id": 296208,
       "game_name": "Holiday Jigsaw Easter 4",
       "file": "missing/H/296208-holiday-jigsaw-easter-4.json"
@@ -470340,6 +470445,11 @@
       "igdb_id": 152021,
       "game_name": "Horrors of Space",
       "file": "missing/H/152021-horrors-of-space.json"
+    },
+    {
+      "igdb_id": 195537,
+      "game_name": "Horrors of the North",
+      "file": "missing/H/195537-horrors-of-the-north.json"
     },
     {
       "igdb_id": 332880,
@@ -476170,6 +476280,11 @@
       "igdb_id": 303561,
       "game_name": "Humans vs. Monsters",
       "file": "missing/H/303561-humans-vs-monsters.json"
+    },
+    {
+      "igdb_id": 195413,
+      "game_name": "Humans vs. Tigers",
+      "file": "missing/H/195413-humans-vs-tigers.json"
     },
     {
       "igdb_id": 199060,
@@ -495967,6 +496082,11 @@
       "file": "missing/I/169809-ingredienta.json"
     },
     {
+      "igdb_id": 195409,
+      "game_name": "Ingredients for the Chaos",
+      "file": "missing/I/195409-ingredients-for-the-chaos.json"
+    },
+    {
       "igdb_id": 207244,
       "game_name": "Ingression",
       "file": "missing/I/207244-ingression.json"
@@ -497130,6 +497250,11 @@
       "igdb_id": 157074,
       "game_name": "Input6",
       "file": "missing/I/157074-input6.json"
+    },
+    {
+      "igdb_id": 195547,
+      "game_name": "Inquir P.T.",
+      "file": "missing/I/195547-inquir-p-t.json"
     },
     {
       "igdb_id": 389985,
@@ -565332,6 +565457,11 @@
       "file": "missing/L/12439-lighthouse-the-dark-being.json"
     },
     {
+      "igdb_id": 195391,
+      "game_name": "Lighting Climbing",
+      "file": "missing/L/195391-lighting-climbing.json"
+    },
+    {
       "igdb_id": 29677,
       "game_name": "Lighting End VR",
       "file": "missing/L/29677-lighting-end-vr.json"
@@ -598550,6 +598680,11 @@
       "igdb_id": 114133,
       "game_name": "Marble Power Blast",
       "file": "missing/M/114133-marble-power-blast.json"
+    },
+    {
+      "igdb_id": 195427,
+      "game_name": "Marble Puzzle Blast: Rescue Adventure",
+      "file": "missing/M/195427-marble-puzzle-blast-rescue-adventure.json"
     },
     {
       "igdb_id": 244848,
@@ -633915,6 +634050,11 @@
       "igdb_id": 260153,
       "game_name": "Mini Garden Cafe",
       "file": "missing/M/260153-mini-garden-cafe.json"
+    },
+    {
+      "igdb_id": 195420,
+      "game_name": "Mini Gardens",
+      "file": "missing/M/195420-mini-gardens.json"
     },
     {
       "igdb_id": 29623,
@@ -738567,6 +738707,11 @@
       "file": "missing/P/382890-pepper-rush.json"
     },
     {
+      "igdb_id": 195398,
+      "game_name": "Pepper's Castle",
+      "file": "missing/P/195398-peppers-castle.json"
+    },
+    {
       "igdb_id": 52085,
       "game_name": "Pepper's Puzzles",
       "file": "missing/P/52085-peppers-puzzles.json"
@@ -770107,6 +770252,11 @@
       "file": "missing/P/163189-pop-this-pop-it.json"
     },
     {
+      "igdb_id": 195538,
+      "game_name": "Pop Top Adventure",
+      "file": "missing/P/195538-pop-top-adventure.json"
+    },
+    {
       "igdb_id": 26561,
       "game_name": "Pop Town",
       "file": "missing/P/26561-pop-town.json"
@@ -792612,6 +792762,11 @@
       "file": "missing/P/293426-puzzle-lines-and-knots-2-free-levels-pack.json"
     },
     {
+      "igdb_id": 195418,
+      "game_name": "Puzzle: Nature",
+      "file": "missing/P/195418-puzzle-nature.json"
+    },
+    {
       "igdb_id": 213980,
       "game_name": "Puzzle: Nature 2",
       "file": "missing/P/213980-puzzle-nature-2.json"
@@ -803685,6 +803840,11 @@
       "igdb_id": 346095,
       "game_name": "Railway Inferno",
       "file": "missing/R/346095-railway-inferno.json"
+    },
+    {
+      "igdb_id": 195424,
+      "game_name": "Railway Islands",
+      "file": "missing/R/195424-railway-islands.json"
     },
     {
       "igdb_id": 270942,
@@ -819827,6 +819987,11 @@
       "file": "missing/R/396552-reset-day.json"
     },
     {
+      "igdb_id": 195545,
+      "game_name": "Reset Memory",
+      "file": "missing/R/195545-reset-memory.json"
+    },
+    {
       "igdb_id": 417573,
       "game_name": "Resettle",
       "file": "missing/R/417573-resettle.json"
@@ -823472,6 +823637,11 @@
       "file": "missing/R/295533-revenge-request.json"
     },
     {
+      "igdb_id": 195540,
+      "game_name": "Revenge Story",
+      "file": "missing/R/195540-revenge-story.json"
+    },
+    {
       "igdb_id": 286569,
       "game_name": "Revenge: Jane The Killer",
       "file": "missing/R/286569-revenge-jane-the-killer.json"
@@ -825165,6 +825335,11 @@
       "igdb_id": 239180,
       "game_name": "Rhythm Storm",
       "file": "missing/R/239180-rhythm-storm.json"
+    },
+    {
+      "igdb_id": 195396,
+      "game_name": "Rhythm Story",
+      "file": "missing/R/195396-rhythm-story.json"
     },
     {
       "igdb_id": 193797,
@@ -850482,6 +850657,11 @@
       "file": "missing/S/383034-safeguard.json"
     },
     {
+      "igdb_id": 195542,
+      "game_name": "SafeGuard",
+      "file": "missing/S/195542-safeguard.json"
+    },
+    {
       "igdb_id": 232934,
       "game_name": "Safehouse",
       "file": "missing/S/232934-safehouse.json"
@@ -854172,6 +854352,11 @@
       "file": "missing/S/127764-samurai-ronins-path.json"
     },
     {
+      "igdb_id": 195412,
+      "game_name": "Samurai: The Rise of Worrior",
+      "file": "missing/S/195412-samurai-the-rise-of-worrior.json"
+    },
+    {
       "igdb_id": 64293,
       "game_name": "Samurai: Way of the Warrior",
       "file": "missing/S/64293-samurai-way-of-the-warrior.json"
@@ -856570,6 +856755,11 @@
       "igdb_id": 197071,
       "game_name": "Satan's Puzzle 2",
       "file": "missing/S/197071-satans-puzzle-2.json"
+    },
+    {
+      "igdb_id": 195422,
+      "game_name": "Satan's Puzzle 666",
+      "file": "missing/S/195422-satans-puzzle-666.json"
     },
     {
       "igdb_id": 233230,
@@ -864920,6 +865110,11 @@
       "igdb_id": 318723,
       "game_name": "Seaside Drive",
       "file": "missing/S/318723-seaside-drive.json"
+    },
+    {
+      "igdb_id": 195539,
+      "game_name": "Seaside Driving",
+      "file": "missing/S/195539-seaside-driving.json"
     },
     {
       "igdb_id": 336612,
@@ -878365,6 +878560,11 @@
       "igdb_id": 129748,
       "game_name": "Shell Corp",
       "file": "missing/S/129748-shell-corp.json"
+    },
+    {
+      "igdb_id": 195419,
+      "game_name": "Shell Girls in Puzzle Skulls",
+      "file": "missing/S/195419-shell-girls-in-puzzle-skulls.json"
     },
     {
       "igdb_id": 390654,
@@ -892622,6 +892822,11 @@
       "file": "missing/S/177958-siren-head-dating-sim.json"
     },
     {
+      "igdb_id": 195390,
+      "game_name": "Siren Head Horror Bunker VR",
+      "file": "missing/S/195390-siren-head-horror-bunker-vr.json"
+    },
+    {
       "igdb_id": 176246,
       "game_name": "Siren Head Resurrection",
       "file": "missing/S/176246-siren-head-resurrection.json"
@@ -903705,6 +903910,11 @@
       "igdb_id": 282128,
       "game_name": "Smudge Adventure",
       "file": "missing/S/282128-smudge-adventure.json"
+    },
+    {
+      "igdb_id": 195541,
+      "game_name": "Smudge Coin Run",
+      "file": "missing/S/195541-smudge-coin-run.json"
     },
     {
       "igdb_id": 184597,
@@ -946455,6 +946665,11 @@
       "igdb_id": 415473,
       "game_name": "Stay Away from the Lighthouse",
       "file": "missing/S/415473-stay-away-from-the-lighthouse.json"
+    },
+    {
+      "igdb_id": 195543,
+      "game_name": "Stay Away From Zombies",
+      "file": "missing/S/195543-stay-away-from-zombies.json"
     },
     {
       "igdb_id": 10895,
@@ -999352,6 +999567,11 @@
       "file": "missing/T/231886-tegra-post-apocalypse-survival.json"
     },
     {
+      "igdb_id": 195417,
+      "game_name": "Tegridy Puzzles",
+      "file": "missing/T/195417-tegridy-puzzles.json"
+    },
+    {
       "igdb_id": 288691,
       "game_name": "Tegzer",
       "file": "missing/T/288691-tegzer.json"
@@ -1031367,6 +1031587,11 @@
       "file": "missing/T/127014-the-last-deathbound.json"
     },
     {
+      "igdb_id": 195393,
+      "game_name": "The Last Defense",
+      "file": "missing/T/195393-the-last-defense.json"
+    },
+    {
       "igdb_id": 194971,
       "game_name": "The Last Defense TD",
       "file": "missing/T/194971-the-last-defense-td.json"
@@ -1055765,6 +1055990,11 @@
       "igdb_id": 169922,
       "game_name": "The ultimate secret of the universe: Soul",
       "file": "missing/T/169922-the-ultimate-secret-of-the-universe-soul.json"
+    },
+    {
+      "igdb_id": 195535,
+      "game_name": "The Ultimate Shot",
+      "file": "missing/T/195535-the-ultimate-shot.json"
     },
     {
       "igdb_id": 34428,
@@ -1123437,6 +1123667,11 @@
       "file": "missing/U/29783-unlucky-seven.json"
     },
     {
+      "igdb_id": 195397,
+      "game_name": "Unlucky Sniper",
+      "file": "missing/U/195397-unlucky-sniper.json"
+    },
+    {
       "igdb_id": 420508,
       "game_name": "Unlucky Swordsmith",
       "file": "missing/U/420508-unlucky-swordsmith.json"
@@ -1150232,6 +1150467,11 @@
       "file": "missing/W/314400-warhammer-vermintide-2-versus.json"
     },
     {
+      "igdb_id": 195414,
+      "game_name": "Warhammer: Vermintide 2 - Warrior Priest Career",
+      "file": "missing/W/195414-warhammer-vermintide-2-warrior-priest-career.json"
+    },
+    {
       "igdb_id": 115671,
       "game_name": "Warhammer: Vermintide 2 - Winds of Magic",
       "file": "missing/W/115671-warhammer-vermintide-2-winds-of-magic.json"
@@ -1151290,6 +1151530,11 @@
       "igdb_id": 266302,
       "game_name": "Warplanes: Air Corp",
       "file": "missing/W/266302-warplanes-air-corp.json"
+    },
+    {
+      "igdb_id": 195395,
+      "game_name": "Warplanes: Battles over Pacific",
+      "file": "missing/W/195395-warplanes-battles-over-pacific.json"
     },
     {
       "igdb_id": 123569,
@@ -1166670,6 +1166915,11 @@
       "igdb_id": 226686,
       "game_name": "Winter",
       "file": "missing/W/226686-winter.json"
+    },
+    {
+      "igdb_id": 195534,
+      "game_name": "Winter and People",
+      "file": "missing/W/195534-winter-and-people.json"
     },
     {
       "igdb_id": 283039,
