@@ -1481,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard-Life | 219809 | [219809-hard-life.json](./219809-hard-life.json) |
 | Hard, Fast, & Flashy | 128963 | [128963-hard-fast-and-flashy.json](./128963-hard-fast-and-flashy.json) |
 | Hard2Fly | 133778 | [133778-hard2fly.json](./133778-hard2fly.json) |
+| Hard8 | 175084 | [175084-hard8.json](./175084-hard8.json) |
 | HardAF | 276839 | [276839-hardaf.json](./276839-hardaf.json) |
 | HardBall | 268448 | [268448-hardball.json](./268448-hardball.json) |
 | HardBall | 55358 | [55358-hardball.json](./55358-hardball.json) |
@@ -2852,6 +2853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hedgehog's Adventures 2 | 99188 | [99188-hedgehogs-adventures-2.json](./99188-hedgehogs-adventures-2.json) |
 | Hedgehog's Adventures 3 | 91273 | [91273-hedgehogs-adventures-3.json](./91273-hedgehogs-adventures-3.json) |
 | Hedgehog's Dilemma | 374418 | [374418-hedgehogs-dilemma.json](./374418-hedgehogs-dilemma.json) |
+| HedgeHogers | 175099 | [175099-hedgehogers.json](./175099-hedgehogers.json) |
 | Hedgehogs in Space | 54080 | [54080-hedgehogs-in-space.json](./54080-hedgehogs-in-space.json) |
 | Hedgehot: Battle Strike | 217498 | [217498-hedgehot-battle-strike.json](./217498-hedgehot-battle-strike.json) |
 | Hedgerow | 178875 | [178875-hedgerow.json](./178875-hedgerow.json) |
@@ -6866,6 +6868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollywood Squares | 198761 | [198761-hollywood-squares.json](./198761-hollywood-squares.json) |
 | Hollywood Squares | 48056 | [48056-hollywood-squares.json](./48056-hollywood-squares.json) |
 | Hollywood Squares | 52194 | [52194-hollywood-squares.json](./52194-hollywood-squares.json) |
+| Hollywood Studios Tycoon Game | 175061 | [175061-hollywood-studios-tycoon-game.json](./175061-hollywood-studios-tycoon-game.json) |
 | Hollywood Tycoon | 67958 | [67958-hollywood-tycoon.json](./67958-hollywood-tycoon.json) |
 | Hollywood Tycoon | 78747 | [78747-hollywood-tycoon.json](./78747-hollywood-tycoon.json) |
 | Hollywood Visionary | 35401 | [35401-hollywood-visionary.json](./35401-hollywood-visionary.json) |
@@ -9646,6 +9649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperbowl | 14316 | [14316-hyperbowl.json](./14316-hyperbowl.json) |
 | HyperBowl | 105444 | [105444-hyperbowl.json](./105444-hyperbowl.json) |
 | Hyperbowl Plus! Edition | 256373 | [256373-hyperbowl-plus-edition.json](./256373-hyperbowl-plus-edition.json) |
+| HyperBowl San Francisco | 175065 | [175065-hyperbowl-san-francisco.json](./175065-hyperbowl-san-francisco.json) |
 | HyperBowl Tokyo | 263583 | [263583-hyperbowl-tokyo.json](./263583-hyperbowl-tokyo.json) |
 | HyperBowl: Arcade Edition | 73880 | [73880-hyperbowl-arcade-edition.json](./73880-hyperbowl-arcade-edition.json) |
 | HyperBrawl Tournament | 29495 | [29495-hyperbrawl-tournament.json](./29495-hyperbrawl-tournament.json) |
