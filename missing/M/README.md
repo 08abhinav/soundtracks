@@ -6903,6 +6903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mensalão, O Jogo | 221252 | [221252-mensalao-o-jogo.json](./221252-mensalao-o-jogo.json) |
 | Mensch Ärger' Dich Nicht! | 98971 | [98971-mensch-arger-dich-nicht.json](./98971-mensch-arger-dich-nicht.json) |
 | Mensch Ärgere Dich! | 85713 | [85713-mensch-argere-dich.json](./85713-mensch-argere-dich.json) |
+| Menseki Genius | 192068 | [192068-menseki-genius.json](./192068-menseki-genius.json) |
 | Menseki: Area Maze Search | 247485 | [247485-menseki-area-maze-search.json](./247485-menseki-area-maze-search.json) |
 | Mentai Uncensored | 110608 | [110608-mentai-uncensored.json](./110608-mentai-uncensored.json) |
 | Mental | 130347 | [130347-mental.json](./130347-mental.json) |
@@ -14018,6 +14019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Jump S | 216439 | [216439-mr-jump-s.json](./216439-mr-jump-s.json) |
 | Mr Jump World | 217804 | [217804-mr-jump-world.json](./217804-mr-jump-world.json) |
 | Mr Love: Queen's Choice | 118949 | [118949-mr-love-queens-choice.json](./118949-mr-love-queens-choice.json) |
+| Mr Maker 3D Level Editor | 192072 | [192072-mr-maker-3d-level-editor.json](./192072-mr-maker-3d-level-editor.json) |
 | Mr Makeshifter | 34655 | [34655-mr-makeshifter.json](./34655-mr-makeshifter.json) |
 | Mr Mitty and the Itty Bitty Kitty Committee | 302200 | [302200-mr-mitty-and-the-itty-bitty-kitty-committee.json](./302200-mr-mitty-and-the-itty-bitty-kitty-committee.json) |
 | Mr Moneybag | 177864 | [177864-mr-moneybag.json](./177864-mr-moneybag.json) |
