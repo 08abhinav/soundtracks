@@ -1771,6 +1771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Puzzle: Bedroom | 311853 | [311853-3d-puzzle-bedroom.json](./311853-3d-puzzle-bedroom.json) |
 | 3D Puzzle: Breaking Bed | 280314 | [280314-3d-puzzle-breaking-bed.json](./280314-3d-puzzle-breaking-bed.json) |
 | 3D Puzzle: Building | 270864 | [270864-3d-puzzle-building.json](./270864-3d-puzzle-building.json) |
+| 3D Puzzle: Castle | 200970 | [200970-3d-puzzle-castle.json](./200970-3d-puzzle-castle.json) |
 | 3D Puzzle: Colonial Graveyard | 337620 | [337620-3d-puzzle-colonial-graveyard.json](./337620-3d-puzzle-colonial-graveyard.json) |
 | 3D Puzzle: Desert Wind | 253424 | [253424-3d-puzzle-desert-wind.json](./253424-3d-puzzle-desert-wind.json) |
 | 3D Puzzle: Factory | 283076 | [283076-3d-puzzle-factory.json](./283076-3d-puzzle-factory.json) |
