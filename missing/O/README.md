@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oasis Mission: Colony Sim | 274349 | [274349-oasis-mission-colony-sim.json](./274349-oasis-mission-colony-sim.json) |
 | Oasis of Lilies | 412276 | [412276-oasis-of-lilies.json](./412276-oasis-of-lilies.json) |
 | Oasis VR | 140520 | [140520-oasis-vr.json](./140520-oasis-vr.json) |
+| Oasis: Dark Forest | 189348 | [189348-oasis-dark-forest.json](./189348-oasis-dark-forest.json) |
 | OAsys | 368597 | [368597-oasys.json](./368597-oasys.json) |
 | Oath | 127647 | [127647-oath.json](./127647-oath.json) |
 | Oath | 169955 | [169955-oath.json](./169955-oath.json) |
