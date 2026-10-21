@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F2 Grand Prix | 138522 | [138522-f2-grand-prix.json](./138522-f2-grand-prix.json) |
 | F22 | 287508 | [287508-f22.json](./287508-f22.json) |
 | F22 Air Dominance Fighter: Red Sea Operations | 59926 | [59926-f22-air-dominance-fighter-red-sea-operations.json](./59926-f22-air-dominance-fighter-red-sea-operations.json) |
+| F29 Retaliator | 195920 | [195920-f29-retaliator.json](./195920-f29-retaliator.json) |
 | F2oggy | 231752 | [231752-f2oggy.json](./231752-f2oggy.json) |
 | F40 Pursuit Simulator | 47217 | [47217-f40-pursuit-simulator.json](./47217-f40-pursuit-simulator.json) |
 | F8S | 114519 | [114519-f8s.json](./114519-f8s.json) |
@@ -4591,6 +4592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire-Brigade: The Battle for Kiev - 1943 | 13060 | [13060-fire-brigade-the-battle-for-kiev-1943.json](./13060-fire-brigade-the-battle-for-kiev-1943.json) |
 | Fire: The First Dreamer | 333552 | [333552-fire-the-first-dreamer.json](./333552-fire-the-first-dreamer.json) |
 | Fire! | 223091 | [223091-fire.json](./223091-fire.json) |
+| FireAirPlan | 195926 | [195926-fireairplan.json](./195926-fireairplan.json) |
 | Firearm | 206762 | [206762-firearm.json](./206762-firearm.json) |
 | Firearms | 229495 | [229495-firearms.json](./229495-firearms.json) |
 | Firearms Master | 335326 | [335326-firearms-master.json](./335326-firearms-master.json) |
@@ -5233,6 +5235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fitness Party | 136887 | [136887-fitness-party.json](./136887-fitness-party.json) |
 | Fitriz | 212147 | [212147-fitriz.json](./212147-fitriz.json) |
 | Fittest | 100167 | [100167-fittest.json](./100167-fittest.json) |
+| Fittest | 195931 | [195931-fittest.json](./195931-fittest.json) |
 | Fitting-In | 253942 | [253942-fitting-in.json](./253942-fitting-in.json) |
 | FitXR | 142345 | [142345-fitxr.json](./142345-fitxr.json) |
 | Fitz 2 | 243090 | [243090-fitz-2.json](./243090-fitz-2.json) |
