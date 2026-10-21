@@ -1027,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Pussy | 216926 | [216926-samurai-pussy.json](./216926-samurai-pussy.json) |
 | Samurai Reflexion | 187980 | [187980-samurai-reflexion.json](./187980-samurai-reflexion.json) |
 | Samurai Revenge | 161219 | [161219-samurai-revenge.json](./161219-samurai-revenge.json) |
+| Samurai Revenge | 195908 | [195908-samurai-revenge.json](./195908-samurai-revenge.json) |
 | Samurai Revenge | 307606 | [307606-samurai-revenge.json](./307606-samurai-revenge.json) |
 | Samurai Revenge 2 | 241509 | [241509-samurai-revenge-2.json](./241509-samurai-revenge-2.json) |
 | Samurai Riot: Definitive Edition | 227189 | [227189-samurai-riot-definitive-edition.json](./227189-samurai-riot-definitive-edition.json) |
@@ -21236,6 +21237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter II | 321622 | [321622-street-fighter-ii.json](./321622-street-fighter-ii.json) |
 | Street Fighter II | 48280 | [48280-street-fighter-ii.json](./48280-street-fighter-ii.json) |
 | Street Fighter II Uno | 55063 | [55063-street-fighter-ii-uno.json](./55063-street-fighter-ii-uno.json) |
+| Street Fighter II: 30th Anniversary Edition | 195933 | [195933-street-fighter-ii-30th-anniversary-edition.json](./195933-street-fighter-ii-30th-anniversary-edition.json) |
 | Street Fighter II: Champion Edition | 39496 | [39496-street-fighter-ii-champion-edition.json](./39496-street-fighter-ii-champion-edition.json) |
 | Street Fighter II: Movie | 45192 | [45192-street-fighter-ii-movie.json](./45192-street-fighter-ii-movie.json) |
 | Street Fighter II: Ryu vs. Sagat | 155516 | [155516-street-fighter-ii-ryu-vs-sagat.json](./155516-street-fighter-ii-ryu-vs-sagat.json) |
