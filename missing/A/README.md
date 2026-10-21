@@ -3615,6 +3615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agony Increment | 393803 | [393803-agony-increment.json](./393803-agony-increment.json) |
 | Agony of a Dying MMO | 136415 | [136415-agony-of-a-dying-mmo.json](./136415-agony-of-a-dying-mmo.json) |
 | Agony: Lords of Hell | 211421 | [211421-agony-lords-of-hell.json](./211421-agony-lords-of-hell.json) |
+| Agora | 179925 | [179925-agora.json](./179925-agora.json) |
 | Agora | 211419 | [211419-agora.json](./211419-agora.json) |
 | Agora | 357804 | [357804-agora.json](./357804-agora.json) |
 | Agora: Soul of the Oracle | 169895 | [169895-agora-soul-of-the-oracle.json](./169895-agora-soul-of-the-oracle.json) |
@@ -8252,6 +8253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anthem#9 | 276853 | [276853-anthem-9.json](./276853-anthem-9.json) |
 | Anthèse | 371591 | [371591-anthese.json](./371591-anthese.json) |
 | Anthesis | 83146 | [83146-anthesis.json](./83146-anthesis.json) |
+| Anthill | 179919 | [179919-anthill.json](./179919-anthill.json) |
 | Anthill Village | 343048 | [343048-anthill-village.json](./343048-anthill-village.json) |
 | Anthology | 38204 | [38204-anthology.json](./38204-anthology.json) |
 | Anthology of Fear | 120686 | [120686-anthology-of-fear.json](./120686-anthology-of-fear.json) |
@@ -10064,6 +10066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aren't You Overcompensating for Something? | 225804 | [225804-arent-you-overcompensating-for-something.json](./225804-arent-you-overcompensating-for-something.json) |
 | Arena | 14169 | [14169-arena.json](./14169-arena.json) |
 | Arena | 14599 | [14599-arena.json](./14599-arena.json) |
+| Arena | 179899 | [179899-arena.json](./179899-arena.json) |
 | Arena | 266878 | [266878-arena.json](./266878-arena.json) |
 | Arena | 326072 | [326072-arena.json](./326072-arena.json) |
 | Arena | 366956 | [366956-arena.json](./366956-arena.json) |
