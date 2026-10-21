@@ -3484,6 +3484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regular Show: Paint War | 185662 | [185662-regular-show-paint-war.json](./185662-regular-show-paint-war.json) |
 | Regular Strategy Game | 203759 | [203759-regular-strategy-game.json](./203759-regular-strategy-game.json) |
 | Regular Toad Game | 135125 | [135125-regular-toad-game.json](./135125-regular-toad-game.json) |
+| Regulation Pool | 180471 | [180471-regulation-pool.json](./180471-regulation-pool.json) |
 | Regulators | 199251 | [199251-regulators.json](./199251-regulators.json) |
 | Regulus | 40071 | [40071-regulus.json](./40071-regulus.json) |
 | Regulus: The Advent | 373720 | [373720-regulus-the-advent.json](./373720-regulus-the-advent.json) |
