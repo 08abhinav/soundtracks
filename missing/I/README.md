@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Love Finding More Cats | 190729 | [190729-i-love-finding-more-cats.json](./190729-i-love-finding-more-cats.json) |
 | I Love Finding More Cats!: Collector's Edition | 205224 | [205224-i-love-finding-more-cats-collectors-edition.json](./205224-i-love-finding-more-cats-collectors-edition.json) |
 | I Love Finding More Pups | 207733 | [207733-i-love-finding-more-pups.json](./207733-i-love-finding-more-pups.json) |
+| I Love Finding Pups | 172978 | [172978-i-love-finding-pups.json](./172978-i-love-finding-pups.json) |
 | I Love Finding Pups!: Collector's Edition | 187452 | [187452-i-love-finding-pups-collectors-edition.json](./187452-i-love-finding-pups-collectors-edition.json) |
 | I Love Finding Wild Friends: Collector's Edition | 320467 | [320467-i-love-finding-wild-friends-collectors-edition.json](./320467-i-love-finding-wild-friends-collectors-edition.json) |
 | I Love Food | 197907 | [197907-i-love-food.json](./197907-i-love-food.json) |
@@ -3088,6 +3089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Tempest | 163207 | [163207-infinity-tempest.json](./163207-infinity-tempest.json) |
 | Infinity Toss | 239629 | [239629-infinity-toss.json](./239629-infinity-toss.json) |
 | Infinity Tower | 357845 | [357845-infinity-tower.json](./357845-infinity-tower.json) |
+| Infinity Treasures | 172969 | [172969-infinity-treasures.json](./172969-infinity-treasures.json) |
 | Infinity Trials | 245817 | [245817-infinity-trials.json](./245817-infinity-trials.json) |
 | Infinity Valley | 152669 | [152669-infinity-valley.json](./152669-infinity-valley.json) |
 | Infinity war | 167816 | [167816-infinity-war.json](./167816-infinity-war.json) |
@@ -4319,6 +4321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Involved | 124649 | [124649-involved.json](./124649-involved.json) |
 | Invs | 266641 | [266641-invs.json](./266641-invs.json) |
 | Inwai Kyoudan: Kegarenaki Joseito o Okasu Tame no Seiiki | 108941 | [108941-inwai-kyoudan-kegarenaki-joseito-o-okasu-tame-no-seiiki.json](./108941-inwai-kyoudan-kegarenaki-joseito-o-okasu-tame-no-seiiki.json) |
+| Inward | 172965 | [172965-inward.json](./172965-inward.json) |
 | Inyoku Shoujo | 385275 | [385275-inyoku-shoujo.json](./385275-inyoku-shoujo.json) |
 | Inzipid | 74476 | [74476-inzipid.json](./74476-inzipid.json) |
 | Inziva | 243540 | [243540-inziva.json](./243540-inziva.json) |
