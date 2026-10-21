@@ -2886,6 +2886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempaux | 354525 | [354525-tempaux.json](./354525-tempaux.json) |
 | Temperature Adjustment Log #1587325 | 186624 | [186624-temperature-adjustment-log-1587325.json](./186624-temperature-adjustment-log-1587325.json) |
 | Tempered Hue | 361260 | [361260-tempered-hue.json](./361260-tempered-hue.json) |
+| Temperia: Soul of Majestic | 182127 | [182127-temperia-soul-of-majestic.json](./182127-temperia-soul-of-majestic.json) |
 | Tempest | 143034 | [143034-tempest.json](./143034-tempest.json) |
 | Tempest | 15383 | [15383-tempest.json](./15383-tempest.json) |
 | Tempest | 198939 | [198939-tempest.json](./198939-tempest.json) |
@@ -4787,6 +4788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Barney Fun Page! | 338038 | [338038-the-barney-fun-page.json](./338038-the-barney-fun-page.json) |
 | The Baron Got You Again | 54523 | [54523-the-baron-got-you-again.json](./54523-the-baron-got-you-again.json) |
 | The Barren Babel | 151800 | [151800-the-barren-babel.json](./151800-the-barren-babel.json) |
+| The Barren Kingdoms | 182096 | [182096-the-barren-kingdoms.json](./182096-the-barren-kingdoms.json) |
 | The Bartlett Saga | 387700 | [387700-the-bartlett-saga.json](./387700-the-bartlett-saga.json) |
 | The Baseball 2003 | 61401 | [61401-the-baseball-2003.json](./61401-the-baseball-2003.json) |
 | The Baseball T | 217912 | [217912-the-baseball-t.json](./217912-the-baseball-t.json) |
@@ -5666,6 +5668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Code: Room Escape | 101502 | [101502-the-code-room-escape.json](./101502-the-code-room-escape.json) |
 | The Codemasters 'Full Tilt' Racing Bundle | 99761 | [99761-the-codemasters-full-tilt-racing-bundle.json](./99761-the-codemasters-full-tilt-racing-bundle.json) |
 | The CodFather | 360658 | [360658-the-codfather.json](./360658-the-codfather.json) |
+| The Coffee Machine | 182081 | [182081-the-coffee-machine.json](./182081-the-coffee-machine.json) |
 | The Coffee Shop Collision | 337699 | [337699-the-coffee-shop-collision.json](./337699-the-coffee-shop-collision.json) |
 | The Coffin of Andrew and Renee | 356043 | [356043-the-coffin-of-andrew-and-renee.json](./356043-the-coffin-of-andrew-and-renee.json) |
 | The Coil of Possibility | 137968 | [137968-the-coil-of-possibility.json](./137968-the-coil-of-possibility.json) |
@@ -11763,6 +11766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ramen Shop | 378366 | [378366-the-ramen-shop.json](./378366-the-ramen-shop.json) |
 | The Ramen Stand | 298626 | [298626-the-ramen-stand.json](./298626-the-ramen-stand.json) |
 | The Ramp | 159248 | [159248-the-ramp.json](./159248-the-ramp.json) |
+| The Ranch of Rivershine | 182113 | [182113-the-ranch-of-rivershine.json](./182113-the-ranch-of-rivershine.json) |
 | The Ranchers | 142498 | [142498-the-ranchers.json](./142498-the-ranchers.json) |
 | The Ranger: Border Hunt | 297848 | [297848-the-ranger-border-hunt.json](./297848-the-ranger-border-hunt.json) |
 | The Ransom of Atawallpa | 337644 | [337644-the-ransom-of-atawallpa.json](./337644-the-ransom-of-atawallpa.json) |
@@ -13597,6 +13601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tooth Fae | 374729 | [374729-the-tooth-fae.json](./374729-the-tooth-fae.json) |
 | The Top | 214124 | [214124-the-top.json](./214124-the-top.json) |
 | The Top Hat Club | 265742 | [265742-the-top-hat-club.json](./265742-the-top-hat-club.json) |
+| The Toroidal Tower | 182130 | [182130-the-toroidal-tower.json](./182130-the-toroidal-tower.json) |
 | The Tortile Chamber | 182156 | [182156-the-tortile-chamber.json](./182156-the-tortile-chamber.json) |
 | The Torture House | 303177 | [303177-the-torture-house.json](./303177-the-torture-house.json) |
 | The Torus Syndicate | 30725 | [30725-the-torus-syndicate.json](./30725-the-torus-syndicate.json) |
@@ -14017,6 +14022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimate Hunter Falls Prey to a Monster Girl Level Draining Reverse R*P*G | 82811 | [82811-the-ultimate-hunter-falls-prey-to-a-monster-girl-level-draining-reverse-r-p-g.json](./82811-the-ultimate-hunter-falls-prey-to-a-monster-girl-level-draining-reverse-r-p-g.json) |
 | The Ultimate Math Teaching Game | 304435 | [304435-the-ultimate-math-teaching-game.json](./304435-the-ultimate-math-teaching-game.json) |
 | The Ultimate Might and Magic Archives | 206778 | [206778-the-ultimate-might-and-magic-archives.json](./206778-the-ultimate-might-and-magic-archives.json) |
+| The Ultimate Nerd Game | 182086 | [182086-the-ultimate-nerd-game.json](./182086-the-ultimate-nerd-game.json) |
 | The Ultimate Red Ball Challenge | 67210 | [67210-the-ultimate-red-ball-challenge.json](./67210-the-ultimate-red-ball-challenge.json) |
 | The ultimate secret of the universe: Soul | 169922 | [169922-the-ultimate-secret-of-the-universe-soul.json](./169922-the-ultimate-secret-of-the-universe-soul.json) |
 | The Ultimate Shot | 195535 | [195535-the-ultimate-shot.json](./195535-the-ultimate-shot.json) |
