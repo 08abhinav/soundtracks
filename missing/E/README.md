@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Early Bird | 368229 | [368229-early-bird.json](./368229-early-bird.json) |
 | Early Kingdom | 363411 | [363411-early-kingdom.json](./363411-early-kingdom.json) |
 | Early Mellow | 296394 | [296394-early-mellow.json](./296394-early-mellow.json) |
+| Early Quest 2 | 174042 | [174042-early-quest-2.json](./174042-early-quest-2.json) |
 | Early-blooming Black Lily: Hana to Itsuki no Naisho no Hanashi 1 | 276135 | [276135-early-blooming-black-lily-hana-to-itsuki-no-naisho-no-hanashi-1.json](./276135-early-blooming-black-lily-hana-to-itsuki-no-naisho-no-hanashi-1.json) |
 | Early-blooming Black Lily: Itsuki-chan no Obentou | 273344 | [273344-early-blooming-black-lily-itsuki-chan-no-obentou.json](./273344-early-blooming-black-lily-itsuki-chan-no-obentou.json) |
 | Early-blooming Black Lily: Moshi Mo-series | 275613 | [275613-early-blooming-black-lily-moshi-mo-series.json](./275613-early-blooming-black-lily-moshi-mo-series.json) |
@@ -1459,6 +1460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Pansas | 110530 | [110530-el-pansas.json](./110530-el-pansas.json) |
 | El Paso, Elsewhere | 151788 | [151788-el-paso-elsewhere.json](./151788-el-paso-elsewhere.json) |
 | El Paso, Nightmare | 223134 | [223134-el-paso-nightmare.json](./223134-el-paso-nightmare.json) |
+| El Pescador | 174033 | [174033-el-pescador.json](./174033-el-pescador.json) |
 | El Principio del Fin | 99684 | [99684-el-principio-del-fin.json](./99684-el-principio-del-fin.json) |
 | El Remedio de Aldorf | 130290 | [130290-el-remedio-de-aldorf.json](./130290-el-remedio-de-aldorf.json) |
 | El Restaurante de Sam | 412426 | [412426-el-restaurante-de-sam.json](./412426-el-restaurante-de-sam.json) |
@@ -2647,6 +2649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EnCore | 94678 | [94678-encore.json](./94678-encore.json) |
 | Encore Card Games | 130706 | [130706-encore-card-games.json](./130706-encore-card-games.json) |
 | Encore Classic Card Games | 136300 | [136300-encore-classic-card-games.json](./136300-encore-classic-card-games.json) |
+| Encore Classic Casino Games | 174024 | [174024-encore-classic-casino-games.json](./174024-encore-classic-casino-games.json) |
 | Encore Classic: Puzzle & Board Games | 163560 | [163560-encore-classic-puzzle-and-board-games.json](./163560-encore-classic-puzzle-and-board-games.json) |
 | Encore Encore! | 364682 | [364682-encore-encore.json](./364682-encore-encore.json) |
 | Encore Illusions | 190437 | [190437-encore-illusions.json](./190437-encore-illusions.json) |
@@ -3480,6 +3483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EpicShop | 176676 | [176676-epicshop.json](./176676-epicshop.json) |
 | Epicure | 133363 | [133363-epicure.json](./133363-epicure.json) |
 | Epicurean | 397261 | [397261-epicurean.json](./397261-epicurean.json) |
+| Epidemic | 174009 | [174009-epidemic.json](./174009-epidemic.json) |
 | Epidemic | 20299 | [20299-epidemic.json](./20299-epidemic.json) |
 | Epidemic Escape: A Race for the Cure | 250989 | [250989-epidemic-escape-a-race-for-the-cure.json](./250989-epidemic-escape-a-race-for-the-cure.json) |
 | Epidemic! | 23496 | [23496-epidemic.json](./23496-epidemic.json) |
