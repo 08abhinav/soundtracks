@@ -409,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octodad | 8110 | [8110-octodad.json](./8110-octodad.json) |
 | Octodad Shorts | 382904 | [382904-octodad-shorts.json](./382904-octodad-shorts.json) |
 | Octofight Escape | 180250 | [180250-octofight-escape.json](./180250-octofight-escape.json) |
+| Octofoot | 180446 | [180446-octofoot.json](./180446-octofoot.json) |
 | OctoFurry | 128971 | [128971-octofurry.json](./128971-octofurry.json) |
 | Octogram | 265686 | [265686-octogram.json](./265686-octogram.json) |
 | Octonauts | 230394 | [230394-octonauts.json](./230394-octonauts.json) |
