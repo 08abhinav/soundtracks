@@ -5542,6 +5542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WonkaZoid: Shockball Showdown | 313238 | [313238-wonkazoid-shockball-showdown.json](./313238-wonkazoid-shockball-showdown.json) |
 | Wonky Ship | 59821 | [59821-wonky-ship.json](./59821-wonky-ship.json) |
 | Wonky Ship: Black Hole Down | 168322 | [168322-wonky-ship-black-hole-down.json](./168322-wonky-ship-black-hole-down.json) |
+| Wonky Wizard | 181006 | [181006-wonky-wizard.json](./181006-wonky-wizard.json) |
 | Wonky Works! | 189051 | [189051-wonky-works.json](./189051-wonky-works.json) |
 | Wonscotonach | 364365 | [364365-wonscotonach.json](./364365-wonscotonach.json) |
 | Woo Woo | 388919 | [388919-woo-woo.json](./388919-woo-woo.json) |
