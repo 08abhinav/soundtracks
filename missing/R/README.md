@@ -961,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain on their Parade! | 252080 | [252080-rain-on-their-parade.json](./252080-rain-on-their-parade.json) |
 | Rain on Your Parade | 129057 | [129057-rain-on-your-parade.json](./129057-rain-on-your-parade.json) |
 | Rain on Your Parade + Just Crow Things | 331909 | [331909-rain-on-your-parade-just-crow-things.json](./331909-rain-on-your-parade-just-crow-things.json) |
+| Rain on Your Parade + Levels and Features DLC! | 199818 | [199818-rain-on-your-parade-levels-and-features-dlc.json](./199818-rain-on-your-parade-levels-and-features-dlc.json) |
 | Rain on Your Parade: Rain on Your DLC | 199914 | [199914-rain-on-your-parade-rain-on-your-dlc.json](./199914-rain-on-your-parade-rain-on-your-dlc.json) |
 | Rain Project | 90855 | [90855-rain-project.json](./90855-rain-project.json) |
 | Rain reader | 176313 | [176313-rain-reader.json](./176313-rain-reader.json) |
@@ -1265,6 +1266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rambo | 94890 | [94890-rambo.json](./94890-rambo.json) |
 | Rambo III | 136726 | [136726-rambo-iii.json](./136726-rambo-iii.json) |
 | Rambo III | 18145 | [18145-rambo-iii.json](./18145-rambo-iii.json) |
+| Rambo III | 199790 | [199790-rambo-iii.json](./199790-rambo-iii.json) |
 | Rambo: First Blood Part II | 12963 | [12963-rambo-first-blood-part-ii.json](./12963-rambo-first-blood-part-ii.json) |
 | Rambo: First Blood Part II | 39127 | [39127-rambo-first-blood-part-ii.json](./39127-rambo-first-blood-part-ii.json) |
 | Rambo: The Video Game | 3771 | [3771-rambo-the-video-game.json](./3771-rambo-the-video-game.json) |
@@ -3089,6 +3091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red White Yellow Stingray | 200459 | [200459-red-white-yellow-stingray.json](./200459-red-white-yellow-stingray.json) |
 | Red Wings: Aces of the Sky | 121768 | [121768-red-wings-aces-of-the-sky.json](./121768-red-wings-aces-of-the-sky.json) |
 | Red Wings: Aces of the Sky - Baron Edition | 146165 | [146165-red-wings-aces-of-the-sky-baron-edition.json](./146165-red-wings-aces-of-the-sky-baron-edition.json) |
+| Red Wings: American Aces - Heavy Metal | 199891 | [199891-red-wings-american-aces-heavy-metal.json](./199891-red-wings-american-aces-heavy-metal.json) |
 | Red Wings: American Aces Bundle | 199852 | [199852-red-wings-american-aces-bundle.json](./199852-red-wings-american-aces-bundle.json) |
 | Red Wings: Coloring Planes | 192405 | [192405-red-wings-coloring-planes.json](./192405-red-wings-coloring-planes.json) |
 | Red Wings: Coloring Planes - American Aces | 199875 | [199875-red-wings-coloring-planes-american-aces.json](./199875-red-wings-coloring-planes-american-aces.json) |
@@ -7043,6 +7046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Paper Scissors 2! | 178621 | [178621-rock-paper-scissors-2.json](./178621-rock-paper-scissors-2.json) |
 | Rock Paper Scissors Champion | 33322 | [33322-rock-paper-scissors-champion.json](./33322-rock-paper-scissors-champion.json) |
 | Rock Paper Scissors Party | 391732 | [391732-rock-paper-scissors-party.json](./391732-rock-paper-scissors-party.json) |
+| Rock Paper Scissors: Breakthrough Gaming Arcade | 199781 | [199781-rock-paper-scissors-breakthrough-gaming-arcade.json](./199781-rock-paper-scissors-breakthrough-gaming-arcade.json) |
 | Rock Paper Scissors: The Final Match | 369705 | [369705-rock-paper-scissors-the-final-match.json](./369705-rock-paper-scissors-the-final-match.json) |
 | Rock Paper Scissors: The Roguelike Puzzle Game | 410207 | [410207-rock-paper-scissors-the-roguelike-puzzle-game.json](./410207-rock-paper-scissors-the-roguelike-puzzle-game.json) |
 | Rock Paper Shift | 137433 | [137433-rock-paper-shift.json](./137433-rock-paper-shift.json) |
@@ -8674,6 +8678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roxy Raccoon's Pinball Panic: Construction Chaos | 203775 | [203775-roxy-raccoons-pinball-panic-construction-chaos.json](./203775-roxy-raccoons-pinball-panic-construction-chaos.json) |
 | Roxy Raccoon's Pinball Panic: Easter Extravaganza | 243519 | [243519-roxy-raccoons-pinball-panic-easter-extravaganza.json](./243519-roxy-raccoons-pinball-panic-easter-extravaganza.json) |
 | Roxy Raccoon's Pinball Panic: Epic Egypt | 230893 | [230893-roxy-raccoons-pinball-panic-epic-egypt.json](./230893-roxy-raccoons-pinball-panic-epic-egypt.json) |
+| Roxy Raccoon's Pinball Panic: Ghoulish Games | 199794 | [199794-roxy-raccoons-pinball-panic-ghoulish-games.json](./199794-roxy-raccoons-pinball-panic-ghoulish-games.json) |
 | Roxy Raccoon's Pinball Panic: Great Gangs | 354199 | [354199-roxy-raccoons-pinball-panic-great-gangs.json](./354199-roxy-raccoons-pinball-panic-great-gangs.json) |
 | Roxy Raccoon's Pinball Panic: Joyous Japan | 226931 | [226931-roxy-raccoons-pinball-panic-joyous-japan.json](./226931-roxy-raccoons-pinball-panic-joyous-japan.json) |
 | Roxy Raccoon's Pinball Panic: Makin' Music | 354196 | [354196-roxy-raccoons-pinball-panic-makin-music.json](./354196-roxy-raccoons-pinball-panic-makin-music.json) |
