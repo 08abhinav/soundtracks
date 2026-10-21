@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Baby CEO?! | 391884 | [391884-a-baby-ceo.json](./391884-a-baby-ceo.json) |
 | A Bad Clicker | 337787 | [337787-a-bad-clicker.json](./337787-a-bad-clicker.json) |
 | A Bad Day | 180555 | [180555-a-bad-day.json](./180555-a-bad-day.json) |
+| A Bad Game of Football | 203751 | [203751-a-bad-game-of-football.json](./203751-a-bad-game-of-football.json) |
 | A Balloon Game | 266127 | [266127-a-balloon-game.json](./266127-a-balloon-game.json) |
 | A Bar Where Men Go To Be Turned Into Horses | 289163 | [289163-a-bar-where-men-go-to-be-turned-into-horses.json](./289163-a-bar-where-men-go-to-be-turned-into-horses.json) |
 | A Bark in the Dark | 225289 | [225289-a-bark-in-the-dark.json](./225289-a-bark-in-the-dark.json) |
@@ -3691,6 +3692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ai to Yume no Kuni Sanrio Puroland: Chanto Dekirukana? Minna to Tanoshii Oyuugikai | 250333 | [250333-ai-to-yume-no-kuni-sanrio-puroland-chanto-dekirukana-minna-to-tanoshii-oyuugikai.json](./250333-ai-to-yume-no-kuni-sanrio-puroland-chanto-dekirukana-minna-to-tanoshii-oyuugikai.json) |
 | Ai to Yume to Bouken Sanrio Puroland! | 250334 | [250334-ai-to-yume-to-bouken-sanrio-puroland.json](./250334-ai-to-yume-to-bouken-sanrio-puroland.json) |
 | AI Unbound | 245865 | [245865-ai-unbound.json](./245865-ai-unbound.json) |
+| AI Under Test | 203734 | [203734-ai-under-test.json](./203734-ai-under-test.json) |
 | AI War 2 | 25648 | [25648-ai-war-2.json](./25648-ai-war-2.json) |
 | AI War 2: The Neinzul Abyss | 174138 | [174138-ai-war-2-the-neinzul-abyss.json](./174138-ai-war-2-the-neinzul-abyss.json) |
 | AI War 2: Titan Edition | 159700 | [159700-ai-war-2-titan-edition.json](./159700-ai-war-2-titan-edition.json) |
@@ -6955,6 +6957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Android Hunter A | 23852 | [23852-android-hunter-a.json](./23852-android-hunter-a.json) |
 | Android John | 32276 | [32276-android-john.json](./32276-android-john.json) |
 | Android Runner | 100820 | [100820-android-runner.json](./100820-android-runner.json) |
+| Android Simulator | 203753 | [203753-android-simulator.json](./203753-android-simulator.json) |
 | Andromalius | 110880 | [110880-andromalius.json](./110880-andromalius.json) |
 | AndroMan on the Moon | 268573 | [268573-androman-on-the-moon.json](./268573-androman-on-the-moon.json) |
 | Andromeda 2 Zombies | 169492 | [169492-andromeda-2-zombies.json](./169492-andromeda-2-zombies.json) |
