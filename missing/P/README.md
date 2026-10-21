@@ -470,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pages of Time | 340879 | [340879-pages-of-time.json](./340879-pages-of-time.json) |
 | Paging Dr. Floppy! | 230793 | [230793-paging-dr-floppy.json](./230793-paging-dr-floppy.json) |
 | Pagliaccionautas | 332285 | [332285-pagliaccionautas.json](./332285-pagliaccionautas.json) |
+| Pago Forest: Dragon's Revenge | 174011 | [174011-pago-forest-dragons-revenge.json](./174011-pago-forest-dragons-revenge.json) |
 | Pagodia | 257571 | [257571-pagodia.json](./257571-pagodia.json) |
 | Pagui | 124178 | [124178-pagui.json](./124178-pagui.json) |
 | Paguroideo | 392178 | [392178-paguroideo.json](./392178-paguroideo.json) |
@@ -7296,6 +7297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plaster World | 57067 | [57067-plaster-world.json](./57067-plaster-world.json) |
 | Plastic Battlegrounds | 363959 | [363959-plastic-battlegrounds.json](./363959-plastic-battlegrounds.json) |
 | Plastic Beach | 285599 | [285599-plastic-beach.json](./285599-plastic-beach.json) |
+| Plastic Blue: lofi beats to study and sleep to | 174013 | [174013-plastic-blue-lofi-beats-to-study-and-sleep-to.json](./174013-plastic-blue-lofi-beats-to-study-and-sleep-to.json) |
 | plastic coquina | 385284 | [385284-plastic-coquina.json](./385284-plastic-coquina.json) |
 | Plastic Invasion: A Super Magical Mermaid Adventure | 302128 | [302128-plastic-invasion-a-super-magical-mermaid-adventure.json](./302128-plastic-invasion-a-super-magical-mermaid-adventure.json) |
 | Plastic Love | 122910 | [122910-plastic-love.json](./122910-plastic-love.json) |
@@ -10679,6 +10681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Premier Eleven | 83433 | [83433-premier-eleven.json](./83433-premier-eleven.json) |
 | Premier Manager | 321435 | [321435-premier-manager.json](./321435-premier-manager.json) |
 | Premier Manager 04/05 | 171941 | [171941-premier-manager-04-05.json](./171941-premier-manager-04-05.json) |
+| Premier Manager 08 | 174003 | [174003-premier-manager-08.json](./174003-premier-manager-08.json) |
 | Premier Manager 2002-03 | 95428 | [95428-premier-manager-2002-03.json](./95428-premier-manager-2002-03.json) |
 | Premier Manager 2004-2005 | 248630 | [248630-premier-manager-2004-2005.json](./248630-premier-manager-2004-2005.json) |
 | Premier Manager 2004-2005 | 49355 | [49355-premier-manager-2004-2005.json](./49355-premier-manager-2004-2005.json) |
@@ -13606,6 +13609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purrfect Stall | 371958 | [371958-purrfect-stall.json](./371958-purrfect-stall.json) |
 | Purrfect Survivors | 260617 | [260617-purrfect-survivors.json](./260617-purrfect-survivors.json) |
 | Purrfect Tanks: The Yarnpocalypse | 391064 | [391064-purrfect-tanks-the-yarnpocalypse.json](./391064-purrfect-tanks-the-yarnpocalypse.json) |
+| Purrfection! The Cat Tossing Game!! | 174023 | [174023-purrfection-the-cat-tossing-game.json](./174023-purrfection-the-cat-tossing-game.json) |
 | Purrfectly Ever After | 150041 | [150041-purrfectly-ever-after.json](./150041-purrfectly-ever-after.json) |
 | Purrkour | 122925 | [122925-purrkour.json](./122925-purrkour.json) |
 | Purrplate | 372987 | [372987-purrplate.json](./372987-purrplate.json) |
