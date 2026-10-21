@@ -2050,6 +2050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Otherworld | 288430 | [288430-legend-of-the-otherworld.json](./288430-legend-of-the-otherworld.json) |
 | Legend of the River King GB | 20514 | [20514-legend-of-the-river-king-gb.json](./20514-legend-of-the-river-king-gb.json) |
 | Legend of the Seven Paladins | 140401 | [140401-legend-of-the-seven-paladins.json](./140401-legend-of-the-seven-paladins.json) |
+| Legend of the Silver Fox | 182734 | [182734-legend-of-the-silver-fox.json](./182734-legend-of-the-silver-fox.json) |
 | Legend of the Skyfish | 27604 | [27604-legend-of-the-skyfish.json](./27604-legend-of-the-skyfish.json) |
 | Legend of the Skyfish 2 | 94965 | [94965-legend-of-the-skyfish-2.json](./94965-legend-of-the-skyfish-2.json) |
 | Legend of the Storm | 340911 | [340911-legend-of-the-storm.json](./340911-legend-of-the-storm.json) |
@@ -3853,6 +3854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil' Airport | 301267 | [301267-lil-airport.json](./301267-lil-airport.json) |
 | Lil' Drone | 186149 | [186149-lil-drone.json](./186149-lil-drone.json) |
 | Lil' Herder | 146891 | [146891-lil-herder.json](./146891-lil-herder.json) |
+| Lil' King | 182743 | [182743-lil-king.json](./182743-lil-king.json) |
 | Lil' Monster | 49920 | [49920-lil-monster.json](./49920-lil-monster.json) |
 | Lil' Pirates | 92160 | [92160-lil-pirates.json](./92160-lil-pirates.json) |
 | Lil' Robo | 331305 | [331305-lil-robo.json](./331305-lil-robo.json) |
