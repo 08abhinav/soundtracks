@@ -2879,6 +2879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Christmas | 383580 | [383580-red-christmas.json](./383580-red-christmas.json) |
 | Red Clash | 251368 | [251368-red-clash.json](./251368-red-clash.json) |
 | Red Colony | 139466 | [139466-red-colony.json](./139466-red-colony.json) |
+| Red Colony 3 | 192073 | [192073-red-colony-3.json](./192073-red-colony-3.json) |
 | Red Comrades 2: For the Great Justice - Reloaded | 33509 | [33509-red-comrades-2-for-the-great-justice-reloaded.json](./33509-red-comrades-2-for-the-great-justice-reloaded.json) |
 | Red Comrades 3: Return of Alaska - Reloaded | 30871 | [30871-red-comrades-3-return-of-alaska-reloaded.json](./30871-red-comrades-3-return-of-alaska-reloaded.json) |
 | Red Comrades: For the Great Justice | 52753 | [52753-red-comrades-for-the-great-justice.json](./52753-red-comrades-for-the-great-justice.json) |
@@ -3152,6 +3153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redcrest: 1993 | 346241 | [346241-redcrest-1993.json](./346241-redcrest-1993.json) |
 | Redd War: Turnabout | 318805 | [318805-redd-war-turnabout.json](./318805-redd-war-turnabout.json) |
 | Redden | 83576 | [83576-redden.json](./83576-redden.json) |
+| Redden: 100denarii | 192064 | [192064-redden-100denarii.json](./192064-redden-100denarii.json) |
 | Reddie and the Redirected Walker: Module 01 - Alpha | 267261 | [267261-reddie-and-the-redirected-walker-module-01-alpha.json](./267261-reddie-and-the-redirected-walker-module-01-alpha.json) |
 | Reddoor | 213205 | [213205-reddoor.json](./213205-reddoor.json) |
 | Redeemart: A Convenient Apocalypse | 226448 | [226448-redeemart-a-convenient-apocalypse.json](./226448-redeemart-a-convenient-apocalypse.json) |
