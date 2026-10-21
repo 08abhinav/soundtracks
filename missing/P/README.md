@@ -3382,6 +3382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Tides: Station to Station | 215695 | [215695-perfect-tides-station-to-station.json](./215695-perfect-tides-station-to-station.json) |
 | Perfect Tower | 87670 | [87670-perfect-tower.json](./87670-perfect-tower.json) |
 | Perfect Traffic Simulator | 140951 | [140951-perfect-traffic-simulator.json](./140951-perfect-traffic-simulator.json) |
+| Perfect Truck Bundle | 199780 | [199780-perfect-truck-bundle.json](./199780-perfect-truck-bundle.json) |
 | Perfect Universe | 15842 | [15842-perfect-universe.json](./15842-perfect-universe.json) |
 | Perfect Universe Play with Gravity | 99545 | [99545-perfect-universe-play-with-gravity.json](./99545-perfect-universe-play-with-gravity.json) |
 | Perfect Victim | 355619 | [355619-perfect-victim.json](./355619-perfect-victim.json) |
@@ -6980,6 +6981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Punch | 332306 | [332306-planet-punch.json](./332306-planet-punch.json) |
 | Planet Puzzle League | 23093 | [23093-planet-puzzle-league.json](./23093-planet-puzzle-league.json) |
 | Planet Quest | 266142 | [266142-planet-quest.json](./266142-planet-quest.json) |
+| Planet Quiz: Complete Edition | 199817 | [199817-planet-quiz-complete-edition.json](./199817-planet-quiz-complete-edition.json) |
 | Planet Quiz: Learn & Discover | 187494 | [187494-planet-quiz-learn-and-discover.json](./187494-planet-quiz-learn-and-discover.json) |
 | Planet Quiz: Learn & Discover - DLC Oceans | 238030 | [238030-planet-quiz-learn-and-discover-dlc-oceans.json](./238030-planet-quiz-learn-and-discover-dlc-oceans.json) |
 | Planet Quiz: Learn & Discover - Forest Life | 227776 | [227776-planet-quiz-learn-and-discover-forest-life.json](./227776-planet-quiz-learn-and-discover-forest-life.json) |
@@ -8632,6 +8634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Scarlet: The Hidden Treasure of Area Zero - Part 2: The Indigo Disk | 239932 | [239932-pokemon-scarlet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json](./239932-pokemon-scarlet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json) |
 | Pokémon Seek & Find | 61005 | [61005-pokemon-seek-and-find.json](./61005-pokemon-seek-and-find.json) |
 | Pokémon Serene Crystal | 337418 | [337418-pokemon-serene-crystal.json](./337418-pokemon-serene-crystal.json) |
+| Pokémon Shattered Dimensions | 199782 | [199782-pokemon-shattered-dimensions.json](./199782-pokemon-shattered-dimensions.json) |
 | Pokémon Shattered Light | 223053 | [223053-pokemon-shattered-light.json](./223053-pokemon-shattered-light.json) |
 | Pokémon Shield | 115653 | [115653-pokemon-shield.json](./115653-pokemon-shield.json) |
 | Pokémon Shield: The Crown Tundra | 252783 | [252783-pokemon-shield-the-crown-tundra.json](./252783-pokemon-shield-the-crown-tundra.json) |
