@@ -9804,6 +9804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Dungeon: Character Pack - Hamster | 291085 | [291085-portal-dungeon-character-pack-hamster.json](./291085-portal-dungeon-character-pack-hamster.json) |
 | Portal Factory | 324335 | [324335-portal-factory.json](./324335-portal-factory.json) |
 | Portal Fantasy | 257931 | [257931-portal-fantasy.json](./257931-portal-fantasy.json) |
+| Portal for the C64 | 203152 | [203152-portal-for-the-c64.json](./203152-portal-for-the-c64.json) |
 | Portal for TIC-80 | 349495 | [349495-portal-for-tic-80.json](./349495-portal-for-tic-80.json) |
 | Portal Golf | 287361 | [287361-portal-golf.json](./287361-portal-golf.json) |
 | Portal Guardian | 389991 | [389991-portal-guardian.json](./389991-portal-guardian.json) |
@@ -10368,6 +10369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerpuff Girls: Mojo Jojo's Pet Project | 8009 | [8009-powerpuff-girls-mojo-jojos-pet-project.json](./8009-powerpuff-girls-mojo-jojos-pet-project.json) |
 | Powerpuff Girls: Mojo's Pet Project | 19427 | [19427-powerpuff-girls-mojos-pet-project.json](./19427-powerpuff-girls-mojos-pet-project.json) |
 | Powerpuff Girls: Pillow Fight | 203083 | [203083-powerpuff-girls-pillow-fight.json](./203083-powerpuff-girls-pillow-fight.json) |
+| Powerpuff Girls: Zom-B-Gone! | 203061 | [203061-powerpuff-girls-zom-b-gone.json](./203061-powerpuff-girls-zom-b-gone.json) |
 | Powers | 254470 | [254470-powers.json](./254470-powers.json) |
 | Powers of Hex | 230943 | [230943-powers-of-hex.json](./230943-powers-of-hex.json) |
 | PowerShift | 242673 | [242673-powershift.json](./242673-powershift.json) |
@@ -10703,6 +10705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Girls Escape | 204088 | [204088-pretty-girls-escape.json](./204088-pretty-girls-escape.json) |
 | Pretty Girls Escape Plus | 275720 | [275720-pretty-girls-escape-plus.json](./275720-pretty-girls-escape-plus.json) |
 | Pretty Girls Four Kings Solitaire | 195797 | [195797-pretty-girls-four-kings-solitaire.json](./195797-pretty-girls-four-kings-solitaire.json) |
+| Pretty Girls Game Collection | 203094 | [203094-pretty-girls-game-collection.json](./203094-pretty-girls-game-collection.json) |
 | Pretty Girls Game Collection 4 | 342770 | [342770-pretty-girls-game-collection-4.json](./342770-pretty-girls-game-collection-4.json) |
 | Pretty Girls Mahjong Solitaire | 34716 | [34716-pretty-girls-mahjong-solitaire.json](./34716-pretty-girls-mahjong-solitaire.json) |
 | Pretty Girls Mahjong Solitaire: Blue | 170376 | [170376-pretty-girls-mahjong-solitaire-blue.json](./170376-pretty-girls-mahjong-solitaire-blue.json) |
