@@ -10000,6 +10000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slaughtra | 344408 | [344408-slaughtra.json](./344408-slaughtra.json) |
 | Slav Tiles | 198505 | [198505-slav-tiles.json](./198505-slav-tiles.json) |
 | Slava Ukraini! | 201582 | [201582-slava-ukraini.json](./201582-slava-ukraini.json) |
+| Slavania | 171819 | [171819-slavania.json](./171819-slavania.json) |
 | Slave Ghost | 112760 | [112760-slave-ghost.json](./112760-slave-ghost.json) |
 | Slave Girl | 97989 | [97989-slave-girl.json](./97989-slave-girl.json) |
 | Slave Master: The Game | 111732 | [111732-slave-master-the-game.json](./111732-slave-master-the-game.json) |
@@ -11515,6 +11516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper 3D | 311780 | [311780-sniper-3d.json](./311780-sniper-3d.json) |
 | Sniper 3D: Fun FPS Shooting | 87378 | [87378-sniper-3d-fun-fps-shooting.json](./87378-sniper-3d-fun-fps-shooting.json) |
 | Sniper and Spotter Climbing a Tower | 125950 | [125950-sniper-and-spotter-climbing-a-tower.json](./125950-sniper-and-spotter-climbing-a-tower.json) |
+| Sniper and Spotter Serving the Motherland | 171779 | [171779-sniper-and-spotter-serving-the-motherland.json](./171779-sniper-and-spotter-serving-the-motherland.json) |
 | Sniper Arena: Online PvP Game | 88766 | [88766-sniper-arena-online-pvp-game.json](./88766-sniper-arena-online-pvp-game.json) |
 | Sniper Assassin | 260888 | [260888-sniper-assassin.json](./260888-sniper-assassin.json) |
 | Sniper Assassin 2 | 314623 | [314623-sniper-assassin-2.json](./314623-sniper-assassin-2.json) |
@@ -14988,6 +14990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders Extreme 2 | 8199 | [8199-space-invaders-extreme-2.json](./8199-space-invaders-extreme-2.json) |
 | Space Invaders Extreme Z | 79611 | [79611-space-invaders-extreme-z.json](./79611-space-invaders-extreme-z.json) |
 | Space Invaders Forever | 139864 | [139864-space-invaders-forever.json](./139864-space-invaders-forever.json) |
+| Space Invaders Forever: Special Edition | 171859 | [171859-space-invaders-forever-special-edition.json](./171859-space-invaders-forever-special-edition.json) |
 | Space Invaders Get Even | 21789 | [21789-space-invaders-get-even.json](./21789-space-invaders-get-even.json) |
 | Space Invaders Gigamax | 401283 | [401283-space-invaders-gigamax.json](./401283-space-invaders-gigamax.json) |
 | Space Invaders II | 46839 | [46839-space-invaders-ii.json](./46839-space-invaders-ii.json) |
@@ -15211,6 +15214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rangers | 7592 | [7592-space-rangers.json](./7592-space-rangers.json) |
 | Space Rangers 2: Dominators | 7593 | [7593-space-rangers-2-dominators.json](./7593-space-rangers-2-dominators.json) |
 | Space Rangers 2: Reboot | 208846 | [208846-space-rangers-2-reboot.json](./208846-space-rangers-2-reboot.json) |
+| Space Rangers: Episode 46 - The Devil Within | 171780 | [171780-space-rangers-episode-46-the-devil-within.json](./171780-space-rangers-episode-46-the-devil-within.json) |
 | Space Rangers: Legacy | 275805 | [275805-space-rangers-legacy.json](./275805-space-rangers-legacy.json) |
 | Space Rangers: Quest | 25617 | [25617-space-rangers-quest.json](./25617-space-rangers-quest.json) |
 | Space Rangers: Quest and Space Rangers HD | 53647 | [53647-space-rangers-quest-and-space-rangers-hd.json](./53647-space-rangers-quest-and-space-rangers-hd.json) |
@@ -15548,6 +15552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceman | 309854 | [309854-spaceman.json](./309854-spaceman.json) |
 | Spaceman 8 | 182704 | [182704-spaceman-8.json](./182704-spaceman-8.json) |
 | Spaceman Defender | 120371 | [120371-spaceman-defender.json](./120371-spaceman-defender.json) |
+| Spaceman in Space | 171781 | [171781-spaceman-in-space.json](./171781-spaceman-in-space.json) |
 | Spaceman Memories | 250972 | [250972-spaceman-memories.json](./250972-spaceman-memories.json) |
 | Spaceman Sid | 330888 | [330888-spaceman-sid.json](./330888-spaceman-sid.json) |
 | Spaceman Sparkles 3 | 33242 | [33242-spaceman-sparkles-3.json](./33242-spaceman-sparkles-3.json) |
@@ -18625,6 +18630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek II: The Wrath of Khan | 218425 | [218425-star-trek-ii-the-wrath-of-khan.json](./218425-star-trek-ii-the-wrath-of-khan.json) |
 | Star Trek III | 69258 | [69258-star-trek-iii.json](./69258-star-trek-iii.json) |
 | Star Trek Klingon | 51380 | [51380-star-trek-klingon.json](./51380-star-trek-klingon.json) |
+| Star Trek Newton: Part One - Anomaly | 171782 | [171782-star-trek-newton-part-one-anomaly.json](./171782-star-trek-newton-part-one-anomaly.json) |
 | Star Trek Online | 7584 | [7584-star-trek-online.json](./7584-star-trek-online.json) |
 | Star Trek Online: Age of Discovery | 112101 | [112101-star-trek-online-age-of-discovery.json](./112101-star-trek-online-age-of-discovery.json) |
 | Star Trek Online: Agents of Yesterday | 23285 | [23285-star-trek-online-agents-of-yesterday.json](./23285-star-trek-online-agents-of-yesterday.json) |
@@ -22150,6 +22156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suba Pogo | 414487 | [414487-suba-pogo.json](./414487-suba-pogo.json) |
 | Subaeria | 12814 | [12814-subaeria.json](./12814-subaeria.json) |
 | SubaraCity | 56281 | [56281-subaracity.json](./56281-subaracity.json) |
+| subAtomic | 171783 | [171783-subatomic.json](./171783-subatomic.json) |
 | Subátor | 254484 | [254484-subator.json](./254484-subator.json) |
 | Subbuteo | 21457 | [21457-subbuteo.json](./21457-subbuteo.json) |
 | Subconscious | 177386 | [177386-subconscious.json](./177386-subconscious.json) |
@@ -22228,6 +22235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submerged Gallery | 290299 | [290299-submerged-gallery.json](./290299-submerged-gallery.json) |
 | Submerged Lights | 392156 | [392156-submerged-lights.json](./392156-submerged-lights.json) |
 | Submerged Mystery: Takodachi | 327399 | [327399-submerged-mystery-takodachi.json](./327399-submerged-mystery-takodachi.json) |
+| Submerged: LaSol | 171784 | [171784-submerged-lasol.json](./171784-submerged-lasol.json) |
 | Submeris | 341931 | [341931-submeris.json](./341931-submeris.json) |
 | Submersa | 386144 | [386144-submersa.json](./386144-submersa.json) |
 | Submersed | 128303 | [128303-submersed.json](./128303-submersed.json) |
@@ -22991,6 +22999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summoner's Gambit | 353894 | [353894-summoners-gambit.json](./353894-summoners-gambit.json) |
 | Summoner's Greed | 158957 | [158957-summoners-greed.json](./158957-summoners-greed.json) |
 | Summoner's Handbook | 181696 | [181696-summoners-handbook.json](./181696-summoners-handbook.json) |
+| Summoner's Mess | 171815 | [171815-summoners-mess.json](./171815-summoners-mess.json) |
 | Summoner's Pieces | 373867 | [373867-summoners-pieces.json](./373867-summoners-pieces.json) |
 | Summoner's Sky | 295562 | [295562-summoners-sky.json](./295562-summoners-sky.json) |
 | Summoner's Survival | 226611 | [226611-summoners-survival.json](./226611-summoners-survival.json) |
@@ -23188,6 +23197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunrise Citadel | 268922 | [268922-sunrise-citadel.json](./268922-sunrise-citadel.json) |
 | Sunrise Down | 312730 | [312730-sunrise-down.json](./312730-sunrise-down.json) |
 | Sunrise of the Time: End of Blue | 375944 | [375944-sunrise-of-the-time-end-of-blue.json](./375944-sunrise-of-the-time-end-of-blue.json) |
+| Sunrise Paradise | 171786 | [171786-sunrise-paradise.json](./171786-sunrise-paradise.json) |
 | Sunrise Village: Farm Game | 248100 | [248100-sunrise-village-farm-game.json](./248100-sunrise-village-farm-game.json) |
 | Sunrise World War | 145271 | [145271-sunrise-world-war.json](./145271-sunrise-world-war.json) |
 | Sunrise: The Game | 187088 | [187088-sunrise-the-game.json](./187088-sunrise-the-game.json) |
