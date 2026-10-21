@@ -1848,6 +1848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Pencil 2 | 175141 | [175141-save-the-pencil-2.json](./175141-save-the-pencil-2.json) |
 | Save the Pet: Draw to Save | 223921 | [223921-save-the-pet-draw-to-save.json](./223921-save-the-pet-draw-to-save.json) |
 | Save the Pirate: Sea Story | 166764 | [166764-save-the-pirate-sea-story.json](./166764-save-the-pirate-sea-story.json) |
+| Save the Pirate: Sea Story - Ice Age | 172389 | [172389-save-the-pirate-sea-story-ice-age.json](./172389-save-the-pirate-sea-story-ice-age.json) |
 | Save the Pirate: Sea Story - Tribal Legacy | 168157 | [168157-save-the-pirate-sea-story-tribal-legacy.json](./168157-save-the-pirate-sea-story-tribal-legacy.json) |
 | Save the Pixels | 112306 | [112306-save-the-pixels.json](./112306-save-the-pixels.json) |
 | Save the Planet | 153425 | [153425-save-the-planet.json](./153425-save-the-planet.json) |
@@ -2897,6 +2898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scruffy's Quest | 265681 | [265681-scruffys-quest.json](./265681-scruffys-quest.json) |
 | Scrumlords | 260634 | [260634-scrumlords.json](./260634-scrumlords.json) |
 | Scrunk | 104027 | [104027-scrunk.json](./104027-scrunk.json) |
+| ScruTiny in the Great Round | 172409 | [172409-scrutiny-in-the-great-round.json](./172409-scrutiny-in-the-great-round.json) |
 | Scruzzleword | 21582 | [21582-scruzzleword.json](./21582-scruzzleword.json) |
 | SCS deOrbit | 36050 | [36050-scs-deorbit.json](./36050-scs-deorbit.json) |
 | Scuba Bear | 178678 | [178678-scuba-bear.json](./178678-scuba-bear.json) |
@@ -3049,7 +3051,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Chase | 292784 | [292784-sea-chase.json](./292784-sea-chase.json) |
 | Sea Chronicles | 249879 | [249879-sea-chronicles.json](./249879-sea-chronicles.json) |
 | Sea Creatures | 112373 | [112373-sea-creatures.json](./112373-sea-creatures.json) |
+| Sea Devil | 172395 | [172395-sea-devil.json](./172395-sea-devil.json) |
 | Sea Dogs: Caribbean Tales | 51868 | [51868-sea-dogs-caribbean-tales.json](./51868-sea-dogs-caribbean-tales.json) |
+| Sea Dogs: To Each His Own - Flying the Jolly Roger | 172374 | [172374-sea-dogs-to-each-his-own-flying-the-jolly-roger.json](./172374-sea-dogs-to-each-his-own-flying-the-jolly-roger.json) |
 | Sea Dogs: To Each His Own - Hero of the Nation | 171618 | [171618-sea-dogs-to-each-his-own-hero-of-the-nation.json](./171618-sea-dogs-to-each-his-own-hero-of-the-nation.json) |
 | Sea Dove | 246792 | [246792-sea-dove.json](./246792-sea-dove.json) |
 | Sea Dragon | 22767 | [22767-sea-dragon.json](./22767-sea-dragon.json) |
@@ -11234,6 +11238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake | 100202 | [100202-snake.json](./100202-snake.json) |
 | Snake | 125831 | [125831-snake.json](./125831-snake.json) |
 | Snake | 170467 | [170467-snake.json](./170467-snake.json) |
+| Snake | 172415 | [172415-snake.json](./172415-snake.json) |
 | Snake | 186242 | [186242-snake.json](./186242-snake.json) |
 | Snake | 195495 | [195495-snake.json](./195495-snake.json) |
 | Snake | 256767 | [256767-snake.json](./256767-snake.json) |
@@ -12015,6 +12020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soba's Gunpaw | 358227 | [358227-sobas-gunpaw.json](./358227-sobas-gunpaw.json) |
 | Sobosuba | 293517 | [293517-sobosuba.json](./293517-sobosuba.json) |
 | Sobreviva Ziggy! | 329012 | [329012-sobreviva-ziggy.json](./329012-sobreviva-ziggy.json) |
+| Soccer | 172399 | [172399-soccer.json](./172399-soccer.json) |
 | Soccer | 172594 | [172594-soccer.json](./172594-soccer.json) |
 | Soccer | 18441 | [18441-soccer.json](./18441-soccer.json) |
 | Soccer | 217962 | [217962-soccer.json](./217962-soccer.json) |
@@ -19266,6 +19272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starr Ringer | 220502 | [220502-starr-ringer.json](./220502-starr-ringer.json) |
 | StarRaver | 237072 | [237072-starraver.json](./237072-starraver.json) |
 | Starry Flowers | 145644 | [145644-starry-flowers.json](./145644-starry-flowers.json) |
+| Starry Knight | 172377 | [172377-starry-knight.json](./172377-starry-knight.json) |
 | Starry Makino | 159835 | [159835-starry-makino.json](./159835-starry-makino.json) |
 | Starry Moon Island | 172980 | [172980-starry-moon-island.json](./172980-starry-moon-island.json) |
 | Starry Moon Island 2 | 181057 | [181057-starry-moon-island-2.json](./181057-starry-moon-island-2.json) |
@@ -22351,6 +22358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus Farm | 151166 | [151166-succubus-farm.json](./151166-succubus-farm.json) |
 | Succubus Girl Story | 192443 | [192443-succubus-girl-story.json](./192443-succubus-girl-story.json) |
 | Succubus Hearts: Demon Love Redemption | 386560 | [386560-succubus-hearts-demon-love-redemption.json](./386560-succubus-hearts-demon-love-redemption.json) |
+| Succubus Hotel | 172366 | [172366-succubus-hotel.json](./172366-succubus-hotel.json) |
 | Succubus Idle | 216072 | [216072-succubus-idle.json](./216072-succubus-idle.json) |
 | Succubus Imprisoned | 83258 | [83258-succubus-imprisoned.json](./83258-succubus-imprisoned.json) |
 | Succubus Memories | 374785 | [374785-succubus-memories.json](./374785-succubus-memories.json) |
@@ -23319,6 +23327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Arcade Soccer | 115136 | [115136-super-arcade-soccer.json](./115136-super-arcade-soccer.json) |
 | Super Arcade Soccer 2026 | 405743 | [405743-super-arcade-soccer-2026.json](./405743-super-arcade-soccer-2026.json) |
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2 - Isle of the Cat Girls | 225902 | [225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json](./225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json) |
+| Super Army of Tentacles 3: The Search for Army of Tentacles 2 - XPack II: Call of Koithulhu | 172367 | [172367-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-xpack-ii-call-of-koithulhu.json](./172367-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-xpack-ii-call-of-koithulhu.json) |
 | Super Arter | 287022 | [287022-super-arter.json](./287022-super-arter.json) |
 | Super Artificial Intelligence Psike | 216871 | [216871-super-artificial-intelligence-psike.json](./216871-super-artificial-intelligence-psike.json) |
 | Super Asqr | 199370 | [199370-super-asqr.json](./199370-super-asqr.json) |
@@ -23697,6 +23706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Duelling Minivans | 71794 | [71794-super-duelling-minivans.json](./71794-super-duelling-minivans.json) |
 | Super Dungeon Boy 2 | 86576 | [86576-super-dungeon-boy-2.json](./86576-super-dungeon-boy-2.json) |
 | Super Dungeon Bros Mega Bundle Pack | 82413 | [82413-super-dungeon-bros-mega-bundle-pack.json](./82413-super-dungeon-bros-mega-bundle-pack.json) |
+| Super Dungeon Bros: Broettes | 172385 | [172385-super-dungeon-bros-broettes.json](./172385-super-dungeon-bros-broettes.json) |
 | Super Dungeon Maker: Fink's Awakening | 174074 | [174074-super-dungeon-maker-finks-awakening.json](./174074-super-dungeon-maker-finks-awakening.json) |
 | Super Dungeon Muncher | 311602 | [311602-super-dungeon-muncher.json](./311602-super-dungeon-muncher.json) |
 | Super Dungeon Run | 34942 | [34942-super-dungeon-run.json](./34942-super-dungeon-run.json) |
