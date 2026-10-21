@@ -4571,6 +4571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Tough Guy | 252023 | [252023-maximum-tough-guy.json](./252023-maximum-tough-guy.json) |
 | Maximum Velocity | 219465 | [219465-maximum-velocity.json](./219465-maximum-velocity.json) |
 | Maximus | 333766 | [333766-maximus.json](./333766-maximus.json) |
+| Maximus 2 | 197681 | [197681-maximus-2.json](./197681-maximus-2.json) |
 | Maximus 2: Fantasy Beat-Em-Up | 196574 | [196574-maximus-2-fantasy-beat-em-up.json](./196574-maximus-2-fantasy-beat-em-up.json) |
 | Maximus 2: Street Gladiators | 237237 | [237237-maximus-2-street-gladiators.json](./237237-maximus-2-street-gladiators.json) |
 | Maxit | 78372 | [78372-maxit.json](./78372-maxit.json) |
@@ -14689,6 +14690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Next Room | 225214 | [225214-murder-next-room.json](./225214-murder-next-room.json) |
 | Murder on Mainstreet | 262299 | [262299-murder-on-mainstreet.json](./262299-murder-on-mainstreet.json) |
 | Murder on Snake Road | 66961 | [66961-murder-on-snake-road.json](./66961-murder-on-snake-road.json) |
+| Murder on Space Station 52 | 197526 | [197526-murder-on-space-station-52.json](./197526-murder-on-space-station-52.json) |
 | Murder on the Disorient Express | 406054 | [406054-murder-on-the-disorient-express.json](./406054-murder-on-the-disorient-express.json) |
 | Murder on the Island | 116871 | [116871-murder-on-the-island.json](./116871-murder-on-the-island.json) |
 | Murder on the Links | 341298 | [341298-murder-on-the-links.json](./341298-murder-on-the-links.json) |
