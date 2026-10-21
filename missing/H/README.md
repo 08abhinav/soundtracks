@@ -9175,6 +9175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt: Showdown - Live by the Blade | 239508 | [239508-hunt-showdown-live-by-the-blade.json](./239508-hunt-showdown-live-by-the-blade.json) |
 | Hunt: Showdown - Meridian Turncoat | 196158 | [196158-hunt-showdown-meridian-turncoat.json](./196158-hunt-showdown-meridian-turncoat.json) |
 | Hunt: Showdown - The Concubine | 226206 | [226206-hunt-showdown-the-concubine.json](./226206-hunt-showdown-the-concubine.json) |
+| Hunt: Showdown - The Kid | 174538 | [174538-hunt-showdown-the-kid.json](./174538-hunt-showdown-the-kid.json) |
 | Hunt: Showdown - The Penitent | 239507 | [239507-hunt-showdown-the-penitent.json](./239507-hunt-showdown-the-penitent.json) |
 | Hunt: Showdown - The Prescient Night | 256741 | [256741-hunt-showdown-the-prescient-night.json](./256741-hunt-showdown-the-prescient-night.json) |
 | Hunt: Showdown - Through the Bone Briar | 166069 | [166069-hunt-showdown-through-the-bone-briar.json](./166069-hunt-showdown-through-the-bone-briar.json) |
