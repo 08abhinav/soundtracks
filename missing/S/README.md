@@ -1937,6 +1937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sawmania | 355124 | [355124-sawmania.json](./355124-sawmania.json) |
 | Sawmill | 312894 | [312894-sawmill.json](./312894-sawmill.json) |
 | Sawmill Simulator | 389735 | [389735-sawmill-simulator.json](./389735-sawmill-simulator.json) |
+| Saxophight | 177222 | [177222-saxophight.json](./177222-saxophight.json) |
 | Say a Prayer | 304327 | [304327-say-a-prayer.json](./304327-say-a-prayer.json) |
 | Say Cheese | 312157 | [312157-say-cheese.json](./312157-say-cheese.json) |
 | Say No to Rom-Coms! | 258359 | [258359-say-no-to-rom-coms.json](./258359-say-no-to-rom-coms.json) |
@@ -6016,6 +6017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelldiver | 356430 | [356430-shelldiver.json](./356430-shelldiver.json) |
 | Shelldom | 330101 | [330101-shelldom.json](./330101-shelldom.json) |
 | Shelled Flame | 182528 | [182528-shelled-flame.json](./182528-shelled-flame.json) |
+| Shelled Shinobi | 177225 | [177225-shelled-shinobi.json](./177225-shelled-shinobi.json) |
 | Shelley Duvall's It's a Bird's Life | 79294 | [79294-shelley-duvalls-its-a-birds-life.json](./79294-shelley-duvalls-its-a-birds-life.json) |
 | Shelley Duvall's Tales of Digby the Dog | 336740 | [336740-shelley-duvalls-tales-of-digby-the-dog.json](./336740-shelley-duvalls-tales-of-digby-the-dog.json) |
 | Shelley Manor | 315223 | [315223-shelley-manor.json](./315223-shelley-manor.json) |
@@ -6509,6 +6511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinkansen 0 | 292568 | [292568-shinkansen-0.json](./292568-shinkansen-0.json) |
 | Shinkansen Card Pull Simulator | 399783 | [399783-shinkansen-card-pull-simulator.json](./399783-shinkansen-card-pull-simulator.json) |
 | Shinkei Suijaku: Indo-hen | 233409 | [233409-shinkei-suijaku-indo-hen.json](./233409-shinkei-suijaku-indo-hen.json) |
+| Shinkendo | 177241 | [177241-shinkendo.json](./177241-shinkendo.json) |
 | Shinki Kakusei Valcross | 412944 | [412944-shinki-kakusei-valcross.json](./412944-shinki-kakusei-valcross.json) |
 | Shinkon Gattai Godannar!! | 70905 | [70905-shinkon-gattai-godannar.json](./70905-shinkon-gattai-godannar.json) |
 | Shinkyoku Soukai Polyphonica: 0~4 wa Full Pack | 269529 | [269529-shinkyoku-soukai-polyphonica-0-4-wa-full-pack.json](./269529-shinkyoku-soukai-polyphonica-0-4-wa-full-pack.json) |
@@ -11157,6 +11160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SMYS: Retro Blocks | 311091 | [311091-smys-retro-blocks.json](./311091-smys-retro-blocks.json) |
 | SMYS: Show Me Your Stairs | 199437 | [199437-smys-show-me-your-stairs.json](./199437-smys-show-me-your-stairs.json) |
 | Snaaker & Friends | 169393 | [169393-snaaker-and-friends.json](./169393-snaaker-and-friends.json) |
+| Snacats | 177239 | [177239-snacats.json](./177239-snacats.json) |
 | Snaccoon | 214496 | [214496-snaccoon.json](./214496-snaccoon.json) |
 | Snack & Slash | 100665 | [100665-snack-and-slash.json](./100665-snack-and-slash.json) |
 | Snack and Quack | 366221 | [366221-snack-and-quack.json](./366221-snack-and-quack.json) |
@@ -22964,6 +22968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumo | 303084 | [303084-sumo.json](./303084-sumo.json) |
 | Sumo Rumble | 307974 | [307974-sumo-rumble.json](./307974-sumo-rumble.json) |
 | Sumo Seals | 211612 | [211612-sumo-seals.json](./211612-sumo-seals.json) |
+| Sumo Smashdown | 177246 | [177246-sumo-smashdown.json](./177246-sumo-smashdown.json) |
 | Sumo Stuntmen 7 | 189987 | [189987-sumo-stuntmen-7.json](./189987-sumo-stuntmen-7.json) |
 | Sumo Tatami | 274893 | [274893-sumo-tatami.json](./274893-sumo-tatami.json) |
 | Sumoman | 28026 | [28026-sumoman.json](./28026-sumoman.json) |
@@ -26520,6 +26525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swamp Thing | 198935 | [198935-swamp-thing.json](./198935-swamp-thing.json) |
 | Swamp Thing | 365685 | [365685-swamp-thing.json](./365685-swamp-thing.json) |
 | Swamp Up | 291193 | [291193-swamp-up.json](./291193-swamp-up.json) |
+| Swamped | 177245 | [177245-swamped.json](./177245-swamped.json) |
 | Swamped! | 309525 | [309525-swamped.json](./309525-swamped.json) |
 | Swampify | 305753 | [305753-swampify.json](./305753-swampify.json) |
 | Swampstar | 201177 | [201177-swampstar.json](./201177-swampstar.json) |
