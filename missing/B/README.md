@@ -8566,6 +8566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodplague Lockdown | 373721 | [373721-bloodplague-lockdown.json](./373721-bloodplague-lockdown.json) |
 | BloodRayne | 1015 | [1015-bloodrayne.json](./1015-bloodrayne.json) |
 | BloodRayne 2 | 1016 | [1016-bloodrayne-2.json](./1016-bloodrayne-2.json) |
+| BloodRayne Absolute Bundle | 186537 | [186537-bloodrayne-absolute-bundle.json](./186537-bloodrayne-absolute-bundle.json) |
 | BloodRayne: Definitive Collection | 400996 | [400996-bloodrayne-definitive-collection.json](./400996-bloodrayne-definitive-collection.json) |
 | BloodRayne: Terminal Cut | 140689 | [140689-bloodrayne-terminal-cut.json](./140689-bloodrayne-terminal-cut.json) |
 | BloodRayne: The Shroud | 77344 | [77344-bloodrayne-the-shroud.json](./77344-bloodrayne-the-shroud.json) |
@@ -8771,6 +8772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blossom Sort | 385285 | [385285-blossom-sort.json](./385285-blossom-sort.json) |
 | Blossom Tales 2: The Minotaur Prince | 172489 | [172489-blossom-tales-2-the-minotaur-prince.json](./172489-blossom-tales-2-the-minotaur-prince.json) |
 | Blossom Voyage | 403740 | [403740-blossom-voyage.json](./403740-blossom-voyage.json) |
+| Blossom: La Jirafa Saga | 186496 | [186496-blossom-la-jirafa-saga.json](./186496-blossom-la-jirafa-saga.json) |
 | Blossoms of Eternity | 339815 | [339815-blossoms-of-eternity.json](./339815-blossoms-of-eternity.json) |
 | Blow & Fly | 189358 | [189358-blow-and-fly.json](./189358-blow-and-fly.json) |
 | Blow Away | 244885 | [244885-blow-away.json](./244885-blow-away.json) |
@@ -10742,6 +10744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Kid Adventures | 128453 | [128453-box-kid-adventures.json](./128453-box-kid-adventures.json) |
 | Box King | 337297 | [337297-box-king.json](./337297-box-king.json) |
 | Box Labyrinth | 120080 | [120080-box-labyrinth.json](./120080-box-labyrinth.json) |
+| Box Logistics | 186502 | [186502-box-logistics.json](./186502-box-logistics.json) |
 | Box Maker | 247396 | [247396-box-maker.json](./247396-box-maker.json) |
 | Box Maze | 31758 | [31758-box-maze.json](./31758-box-maze.json) |
 | Box Maze 2: Agent Cubert | 65830 | [65830-box-maze-2-agent-cubert.json](./65830-box-maze-2-agent-cubert.json) |
@@ -11858,6 +11861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge to Another World: Burnt Dreams - Collector's Edition | 28677 | [28677-bridge-to-another-world-burnt-dreams-collectors-edition.json](./28677-bridge-to-another-world-burnt-dreams-collectors-edition.json) |
 | Bridge to Another World: Burnt Dreams HD | 95659 | [95659-bridge-to-another-world-burnt-dreams-hd.json](./95659-bridge-to-another-world-burnt-dreams-hd.json) |
 | Bridge to Another World: Christmas Flight | 397111 | [397111-bridge-to-another-world-christmas-flight.json](./397111-bridge-to-another-world-christmas-flight.json) |
+| Bridge to Another World: Christmas Flight - Collector's Edition | 186495 | [186495-bridge-to-another-world-christmas-flight-collectors-edition.json](./186495-bridge-to-another-world-christmas-flight-collectors-edition.json) |
 | Bridge to Another World: Cursed Clouds | 240053 | [240053-bridge-to-another-world-cursed-clouds.json](./240053-bridge-to-another-world-cursed-clouds.json) |
 | Bridge to Another World: Cursed Clouds - Collector's Edition | 225009 | [225009-bridge-to-another-world-cursed-clouds-collectors-edition.json](./225009-bridge-to-another-world-cursed-clouds-collectors-edition.json) |
 | Bridge to Another World: Endless Game | 187914 | [187914-bridge-to-another-world-endless-game.json](./187914-bridge-to-another-world-endless-game.json) |
@@ -11914,7 +11918,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bright Memory Collection | 193752 | [193752-bright-memory-collection.json](./193752-bright-memory-collection.json) |
 | Bright Memory Mobile | 174688 | [174688-bright-memory-mobile.json](./174688-bright-memory-mobile.json) |
 | Bright Memory: Infinite | 113739 | [113739-bright-memory-infinite.json](./113739-bright-memory-infinite.json) |
+| Bright Memory: Infinite - Gold Edition | 186531 | [186531-bright-memory-infinite-gold-edition.json](./186531-bright-memory-infinite-gold-edition.json) |
 | Bright Memory: Infinite - Platinum Edition | 212286 | [212286-bright-memory-infinite-platinum-edition.json](./212286-bright-memory-infinite-platinum-edition.json) |
+| Bright Memory: Infinite - Ultimate Edition | 186532 | [186532-bright-memory-infinite-ultimate-edition.json](./186532-bright-memory-infinite-ultimate-edition.json) |
 | Bright Oak | 277016 | [277016-bright-oak.json](./277016-bright-oak.json) |
 | Bright Paw: Definitive Edition | 212285 | [212285-bright-paw-definitive-edition.json](./212285-bright-paw-definitive-edition.json) |
 | Bright Reappear | 254171 | [254171-bright-reappear.json](./254171-bright-reappear.json) |
