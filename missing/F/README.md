@@ -3101,6 +3101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fetch Quest | 140552 | [140552-fetch-quest.json](./140552-fetch-quest.json) |
 | Fetch Quest | 179617 | [179617-fetch-quest.json](./179617-fetch-quest.json) |
 | Fetch Quest Remastered | 361063 | [361063-fetch-quest-remastered.json](./361063-fetch-quest-remastered.json) |
+| Fetch Quests Anonymous | 183799 | [183799-fetch-quests-anonymous.json](./183799-fetch-quests-anonymous.json) |
 | Fetch Re;Quest | 361060 | [361060-fetch-re-quest.json](./361060-fetch-re-quest.json) |
 | Fetidity | 404163 | [404163-fetidity.json](./404163-fetidity.json) |
 | Fetish Club | 298320 | [298320-fetish-club.json](./298320-fetish-club.json) |
@@ -4307,6 +4308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Nemo: The Continuing Adventures | 49269 | [49269-finding-nemo-the-continuing-adventures.json](./49269-finding-nemo-the-continuing-adventures.json) |
 | Finding Ruby | 417356 | [417356-finding-ruby.json](./417356-finding-ruby.json) |
 | Finding Santa Christmas Special | 175440 | [175440-finding-santa-christmas-special.json](./175440-finding-santa-christmas-special.json) |
+| Finding Semolina | 183798 | [183798-finding-semolina.json](./183798-finding-semolina.json) |
 | Finding summer | 114396 | [114396-finding-summer.json](./114396-finding-summer.json) |
 | Finding Teddy 2: Definitive Edition | 132059 | [132059-finding-teddy-2-definitive-edition.json](./132059-finding-teddy-2-definitive-edition.json) |
 | Finding Xavier | 232928 | [232928-finding-xavier.json](./232928-finding-xavier.json) |
