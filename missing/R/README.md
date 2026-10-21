@@ -2971,6 +2971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Green Donkey | 278286 | [278286-red-green-donkey.json](./278286-red-green-donkey.json) |
 | Red Grimly Tale | 397131 | [397131-red-grimly-tale.json](./397131-red-grimly-tale.json) |
 | Red Gun | 196609 | [196609-red-gun.json](./196609-red-gun.json) |
+| Red Hands: 2-Player Game | 174002 | [174002-red-hands-2-player-game.json](./174002-red-hands-2-player-game.json) |
 | Red Haven | 218714 | [218714-red-haven.json](./218714-red-haven.json) |
 | Red Hawk | 411129 | [411129-red-hawk.json](./411129-red-hawk.json) |
 | Red Haze: Bruises Glimmer in Starlight | 325820 | [325820-red-haze-bruises-glimmer-in-starlight.json](./325820-red-haze-bruises-glimmer-in-starlight.json) |
@@ -4411,6 +4412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rest House | 29696 | [29696-rest-house.json](./29696-rest-house.json) |
 | Rest House 2: The Wizard | 131593 | [131593-rest-house-2-the-wizard.json](./131593-rest-house-2-the-wizard.json) |
 | Rest in Paws | 358877 | [358877-rest-in-paws.json](./358877-rest-in-paws.json) |
+| Rest In Peace | 174006 | [174006-rest-in-peace.json](./174006-rest-in-peace.json) |
 | Rest In Peace | 30057 | [30057-rest-in-peace.json](./30057-rest-in-peace.json) |
 | Rest to Landia | 292279 | [292279-rest-to-landia.json](./292279-rest-to-landia.json) |
 | Resta um | 230716 | [230716-resta-um.json](./230716-resta-um.json) |
