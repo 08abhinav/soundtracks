@@ -12878,6 +12878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morbid | 145591 | [145591-morbid.json](./145591-morbid.json) |
 | Morbid | 219628 | [219628-morbid.json](./219628-morbid.json) |
 | Morbid Catastrophe | 248313 | [248313-morbid-catastrophe.json](./248313-morbid-catastrophe.json) |
+| Morbid Inhale | 173000 | [173000-morbid-inhale.json](./173000-morbid-inhale.json) |
 | Morbid Land | 62826 | [62826-morbid-land.json](./62826-morbid-land.json) |
 | Morbid: The Lords of Ire | 237772 | [237772-morbid-the-lords-of-ire.json](./237772-morbid-the-lords-of-ire.json) |
 | Morbid: The Seven Acolytes | 134817 | [134817-morbid-the-seven-acolytes.json](./134817-morbid-the-seven-acolytes.json) |
@@ -16879,6 +16880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic Writer | 165654 | [165654-mythic-writer.json](./165654-mythic-writer.json) |
 | Mythic Yi | 388240 | [388240-mythic-yi.json](./388240-mythic-yi.json) |
 | Mythic Zombies | 143464 | [143464-mythic-zombies.json](./143464-mythic-zombies.json) |
+| Mythic: Forest Warden | 172956 | [172956-mythic-forest-warden.json](./172956-mythic-forest-warden.json) |
 | Mythic: Frost Trials | 215636 | [215636-mythic-frost-trials.json](./215636-mythic-frost-trials.json) |
 | Mythica | 91859 | [91859-mythica.json](./91859-mythica.json) |
 | Mythica Adventures | 216626 | [216626-mythica-adventures.json](./216626-mythica-adventures.json) |
