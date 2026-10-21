@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ukraine Defense Force Tactics | 204321 | [204321-ukraine-defense-force-tactics.json](./204321-ukraine-defense-force-tactics.json) |
 | Ukraine War 2022 | 287734 | [287734-ukraine-war-2022.json](./287734-ukraine-war-2022.json) |
 | Ukrainian ball in search of gas | 91409 | [91409-ukrainian-ball-in-search-of-gas.json](./91409-ukrainian-ball-in-search-of-gas.json) |
+| Ukrainian Farmy | 198267 | [198267-ukrainian-farmy.json](./198267-ukrainian-farmy.json) |
 | Ukrainian Warfare: Gostomel Heroes | 391787 | [391787-ukrainian-warfare-gostomel-heroes.json](./391787-ukrainian-warfare-gostomel-heroes.json) |
 | Ukrainien Agent | 207682 | [207682-ukrainien-agent.json](./207682-ukrainien-agent.json) |
 | Uktena | 150596 | [150596-uktena.json](./150596-uktena.json) |
