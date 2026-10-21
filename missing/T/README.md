@@ -12678,6 +12678,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims Carnival: Bumper Blast | 91768 | [91768-the-sims-carnival-bumper-blast.json](./91768-the-sims-carnival-bumper-blast.json) |
 | The Sims Castaway Stories | 13140 | [13140-the-sims-castaway-stories.json](./13140-the-sims-castaway-stories.json) |
 | The Sims DJ | 67879 | [67879-the-sims-dj.json](./67879-the-sims-dj.json) |
+| The Sims Medieval | 202064 | [202064-the-sims-medieval.json](./202064-the-sims-medieval.json) |
+| The Sims Medieval: Deluxe Edition | 202062 | [202062-the-sims-medieval-deluxe-edition.json](./202062-the-sims-medieval-deluxe-edition.json) |
 | The Sims Mobile | 28558 | [28558-the-sims-mobile.json](./28558-the-sims-mobile.json) |
 | The Sims Online | 13152 | [13152-the-sims-online.json](./13152-the-sims-online.json) |
 | The Sims Pool | 67873 | [67873-the-sims-pool.json](./67873-the-sims-pool.json) |
