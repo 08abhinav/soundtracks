@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaccaria Pinball: Pool Champion 2018 Table | 156105 | [156105-zaccaria-pinball-pool-champion-2018-table.json](./156105-zaccaria-pinball-pool-champion-2018-table.json) |
 | Zaccaria Pinball: Pool Champion Table | 158445 | [158445-zaccaria-pinball-pool-champion-table.json](./158445-zaccaria-pinball-pool-champion-table.json) |
 | Zaccaria Pinball: Postal 2 Table Pack | 215390 | [215390-zaccaria-pinball-postal-2-table-pack.json](./215390-zaccaria-pinball-postal-2-table-pack.json) |
+| Zaccaria Pinball: Postal Redux Pinball Pack | 193104 | [193104-zaccaria-pinball-postal-redux-pinball-pack.json](./193104-zaccaria-pinball-postal-redux-pinball-pack.json) |
 | Zaccaria Pinball: Red Show Table | 158446 | [158446-zaccaria-pinball-red-show-table.json](./158446-zaccaria-pinball-red-show-table.json) |
 | Zaccaria Pinball: Remake Table Pack 1 | 238011 | [238011-zaccaria-pinball-remake-table-pack-1.json](./238011-zaccaria-pinball-remake-table-pack-1.json) |
 | Zaccaria Pinball: Remake Table Pack 2 | 238012 | [238012-zaccaria-pinball-remake-table-pack-2.json](./238012-zaccaria-pinball-remake-table-pack-2.json) |
