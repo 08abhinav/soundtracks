@@ -9330,6 +9330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colors: Zero | 233353 | [233353-colors-zero.json](./233353-colors-zero.json) |
 | Colors! | 162848 | [162848-colors.json](./162848-colors.json) |
 | Colors! Maze | 193486 | [193486-colors-maze.json](./193486-colors-maze.json) |
+| Colors! Maze 2 | 195536 | [195536-colors-maze-2.json](./195536-colors-maze-2.json) |
 | Colors! Platform | 199607 | [199607-colors-platform.json](./199607-colors-platform.json) |
 | Colors’ Heartbeat | 235480 | [235480-colors-heartbeat.json](./235480-colors-heartbeat.json) |
 | ColorSense | 182516 | [182516-colorsense.json](./182516-colorsense.json) |
@@ -11511,6 +11512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosplay Fever!! | 370261 | [370261-cosplay-fever.json](./370261-cosplay-fever.json) |
 | Cosplay House | 275651 | [275651-cosplay-house.json](./275651-cosplay-house.json) |
 | Cosplay Labo: Nekomimi Nurse With Big Breast | 98026 | [98026-cosplay-labo-nekomimi-nurse-with-big-breast.json](./98026-cosplay-labo-nekomimi-nurse-with-big-breast.json) |
+| Cosplay Love!: Enchanted Princess | 195410 | [195410-cosplay-love-enchanted-princess.json](./195410-cosplay-love-enchanted-princess.json) |
 | Cosplay Relaxation | 275137 | [275137-cosplay-relaxation.json](./275137-cosplay-relaxation.json) |
 | Cosplay Relaxation | 276323 | [276323-cosplay-relaxation.json](./276323-cosplay-relaxation.json) |
 | Cosplaying in Costalia: The Tororo Sisters! | 411787 | [411787-cosplaying-in-costalia-the-tororo-sisters.json](./411787-cosplaying-in-costalia-the-tororo-sisters.json) |
@@ -14942,6 +14944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Halo Again | 252123 | [252123-cursed-halo-again.json](./252123-cursed-halo-again.json) |
 | Cursed Hours | 319183 | [319183-cursed-hours.json](./319183-cursed-hours.json) |
 | Cursed House | 186326 | [186326-cursed-house.json](./186326-cursed-house.json) |
+| Cursed House 10 | 195425 | [195425-cursed-house-10.json](./195425-cursed-house-10.json) |
 | Cursed House 11 | 214181 | [214181-cursed-house-11.json](./214181-cursed-house-11.json) |
 | Cursed House 13 | 289813 | [289813-cursed-house-13.json](./289813-cursed-house-13.json) |
 | Cursed House 14 | 337213 | [337213-cursed-house-14.json](./337213-cursed-house-14.json) |
@@ -15576,6 +15579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberspace: Infinite | 150457 | [150457-cyberspace-infinite.json](./150457-cyberspace-infinite.json) |
 | CyberSpeed | 20268 | [20268-cyberspeed.json](./20268-cyberspeed.json) |
 | Cybersphere | 228696 | [228696-cybersphere.json](./228696-cybersphere.json) |
+| Cyberstellar | 195407 | [195407-cyberstellar.json](./195407-cyberstellar.json) |
 | Cyberstorm | 204959 | [204959-cyberstorm.json](./204959-cyberstorm.json) |
 | CyberStorm 2: Corporate Wars | 11028 | [11028-cyberstorm-2-corporate-wars.json](./11028-cyberstorm-2-corporate-wars.json) |
 | Cyberstrike | 22809 | [22809-cyberstrike.json](./22809-cyberstrike.json) |
