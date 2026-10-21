@@ -1321,6 +1321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lava Escape Mine | 168712 | [168712-lava-escape-mine.json](./168712-lava-escape-mine.json) |
 | Lava Fever | 22786 | [22786-lava-fever.json](./22786-lava-fever.json) |
 | Lava Friends | 176186 | [176186-lava-friends.json](./176186-lava-friends.json) |
+| Lava Golf | 176707 | [176707-lava-golf.json](./176707-lava-golf.json) |
 | Lava Hop! | 352344 | [352344-lava-hop.json](./352344-lava-hop.json) |
 | Lava Joe | 181258 | [181258-lava-joe.json](./181258-lava-joe.json) |
 | Lava Pool | 108031 | [108031-lava-pool.json](./108031-lava-pool.json) |
