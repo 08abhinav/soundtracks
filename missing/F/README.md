@@ -3646,6 +3646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Filament | 146233 | [146233-filament.json](./146233-filament.json) |
 | Filament: Marmalade Edition | 154517 | [154517-filament-marmalade-edition.json](./154517-filament-marmalade-edition.json) |
 | Filaments | 405492 | [405492-filaments.json](./405492-filaments.json) |
+| Filch | 182737 | [182737-filch.json](./182737-filch.json) |
 | Filcher | 156718 | [156718-filcher.json](./156718-filcher.json) |
 | File | 126451 | [126451-file.json](./126451-file.json) |
 | File 47 | 337124 | [337124-file-47.json](./337124-file-47.json) |
@@ -9307,6 +9308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Pond | 342285 | [342285-frog-pond.json](./342285-frog-pond.json) |
 | Frog Pond Simulator | 394780 | [394780-frog-pond-simulator.json](./394780-frog-pond-simulator.json) |
 | Frog Quest | 240235 | [240235-frog-quest.json](./240235-frog-quest.json) |
+| Frog Smith | 182717 | [182717-frog-smith.json](./182717-frog-smith.json) |
 | Frog Soup | 315773 | [315773-frog-soup.json](./315773-frog-soup.json) |
 | Frog Space | 133468 | [133468-frog-space.json](./133468-frog-space.json) |
 | Frog Story: The Power Tongue | 289451 | [289451-frog-story-the-power-tongue.json](./289451-frog-story-the-power-tongue.json) |
