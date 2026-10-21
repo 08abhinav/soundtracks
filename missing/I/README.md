@@ -3123,6 +3123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inglorious Waifu VS Nazi Zombies | 156163 | [156163-inglorious-waifu-vs-nazi-zombies.json](./156163-inglorious-waifu-vs-nazi-zombies.json) |
 | Ingot Rush | 174220 | [174220-ingot-rush.json](./174220-ingot-rush.json) |
 | Ingredienta | 169809 | [169809-ingredienta.json](./169809-ingredienta.json) |
+| Ingredients for the Chaos | 195409 | [195409-ingredients-for-the-chaos.json](./195409-ingredients-for-the-chaos.json) |
 | Ingression | 207244 | [207244-ingression.json](./207244-ingression.json) |
 | Ingrid's Back! | 15493 | [15493-ingrids-back.json](./15493-ingrids-back.json) |
 | Ingrids Back | 40964 | [40964-ingrids-back.json](./40964-ingrids-back.json) |
@@ -3356,6 +3357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Input | 391075 | [391075-input.json](./391075-input.json) |
 | Input Chaos | 215926 | [215926-input-chaos.json](./215926-input-chaos.json) |
 | Input6 | 157074 | [157074-input6.json](./157074-input6.json) |
+| Inquir P.T. | 195547 | [195547-inquir-p-t.json](./195547-inquir-p-t.json) |
 | Inquiry Counsel | 389985 | [389985-inquiry-counsel.json](./389985-inquiry-counsel.json) |
 | Inquiry for Justice | 241404 | [241404-inquiry-for-justice.json](./241404-inquiry-for-justice.json) |
 | Inquisition | 69840 | [69840-inquisition.json](./69840-inquisition.json) |
