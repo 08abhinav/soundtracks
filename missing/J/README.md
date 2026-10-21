@@ -2656,6 +2656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping Orb | 295888 | [295888-jumping-orb.json](./295888-jumping-orb.json) |
 | Jumping Over It With Kang KiYun | 120382 | [120382-jumping-over-it-with-kang-kiyun.json](./120382-jumping-over-it-with-kang-kiyun.json) |
 | Jumping Over It With Neko Girl | 143409 | [143409-jumping-over-it-with-neko-girl.json](./143409-jumping-over-it-with-neko-girl.json) |
+| Jumping Pirates | 172983 | [172983-jumping-pirates.json](./172983-jumping-pirates.json) |
 | Jumping Platform Minigame | 158683 | [158683-jumping-platform-minigame.json](./158683-jumping-platform-minigame.json) |
 | Jumping Pop | 46798 | [46798-jumping-pop.json](./46798-jumping-pop.json) |
 | Jumping Tank | 29701 | [29701-jumping-tank.json](./29701-jumping-tank.json) |
@@ -2944,6 +2945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Pixel Dinosaur Craft | 350596 | [350596-jurassic-pixel-dinosaur-craft.json](./350596-jurassic-pixel-dinosaur-craft.json) |
 | Jurassic Racer - Dinosaur Racing Game | 100330 | [100330-jurassic-racer-dinosaur-racing-game.json](./100330-jurassic-racer-dinosaur-racing-game.json) |
 | Jurassic Rampage: Smash the City! | 100329 | [100329-jurassic-rampage-smash-the-city.json](./100329-jurassic-rampage-smash-the-city.json) |
+| Jurassic Snap | 172997 | [172997-jurassic-snap.json](./172997-jurassic-snap.json) |
 | Jurassic Survival Island: Evolve | 194026 | [194026-jurassic-survival-island-evolve.json](./194026-jurassic-survival-island-evolve.json) |
 | Jurassic Tower Defense | 301403 | [301403-jurassic-tower-defense.json](./301403-jurassic-tower-defense.json) |
 | Jurassic War | 14456 | [14456-jurassic-war.json](./14456-jurassic-war.json) |
