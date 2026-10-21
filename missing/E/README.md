@@ -1119,6 +1119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Hunt 2026: The Grand Eggspress | 412312 | [412312-egg-hunt-2026-the-grand-eggspress.json](./412312-egg-hunt-2026-the-grand-eggspress.json) |
 | Egg Hunt Truck | 97143 | [97143-egg-hunt-truck.json](./97143-egg-hunt-truck.json) |
 | Egg Hunt VR | 28784 | [28784-egg-hunt-vr.json](./28784-egg-hunt-vr.json) |
+| Egg Journey Pro | 175107 | [175107-egg-journey-pro.json](./175107-egg-journey-pro.json) |
 | Egg Knight | 119425 | [119425-egg-knight.json](./119425-egg-knight.json) |
 | Egg Maiden | 380779 | [380779-egg-maiden.json](./380779-egg-maiden.json) |
 | Egg Maker | 317361 | [317361-egg-maker.json](./317361-egg-maker.json) |
@@ -2751,6 +2752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Alice: Nana-iro Mahoutsukai Kiki Ippatsu! | 204986 | [204986-endless-alice-nana-iro-mahoutsukai-kiki-ippatsu.json](./204986-endless-alice-nana-iro-mahoutsukai-kiki-ippatsu.json) |
 | Endless Anime Golf | 245773 | [245773-endless-anime-golf.json](./245773-endless-anime-golf.json) |
 | Endless Apocalypse | 249246 | [249246-endless-apocalypse.json](./249246-endless-apocalypse.json) |
+| Endless Archery: Chill & Shoot | 175592 | [175592-endless-archery-chill-and-shoot.json](./175592-endless-archery-chill-and-shoot.json) |
 | Endless Ark | 208087 | [208087-endless-ark.json](./208087-endless-ark.json) |
 | Endless Ascent | 289423 | [289423-endless-ascent.json](./289423-endless-ascent.json) |
 | Endless Asphalt | 382950 | [382950-endless-asphalt.json](./382950-endless-asphalt.json) |
@@ -5031,6 +5033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evening Star 2 | 114296 | [114296-evening-star-2.json](./114296-evening-star-2.json) |
 | Evening Starter | 163765 | [163765-evening-starter.json](./163765-evening-starter.json) |
 | Evening Vibes | 217020 | [217020-evening-vibes.json](./217020-evening-vibes.json) |
+| Evens Only | 175116 | [175116-evens-only.json](./175116-evens-only.json) |
 | Event Horizon | 271755 | [271755-event-horizon.json](./271755-event-horizon.json) |
 | Event Horizon | 295086 | [295086-event-horizon.json](./295086-event-horizon.json) |
 | Event Horizon | 32923 | [32923-event-horizon.json](./32923-event-horizon.json) |
