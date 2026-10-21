@@ -1860,6 +1860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makato: Your Fantasy Shop | 240629 | [240629-makato-your-fantasy-shop.json](./240629-makato-your-fantasy-shop.json) |
 | Makber | 165419 | [165419-makber.json](./165419-makber.json) |
 | Make a Cake | 266136 | [266136-make-a-cake.json](./266136-make-a-cake.json) |
+| Make a Doll | 178842 | [178842-make-a-doll.json](./178842-make-a-doll.json) |
 | Make a Friend | 201828 | [201828-make-a-friend.json](./201828-make-a-friend.json) |
 | Make A Fun Awesome Boss 3: Friendship Always Best | 304216 | [304216-make-a-fun-awesome-boss-3-friendship-always-best.json](./304216-make-a-fun-awesome-boss-3-friendship-always-best.json) |
 | Make a Good Level Contest X3: The Movie - The Contest: The Game | 304213 | [304213-make-a-good-level-contest-x3-the-movie-the-contest-the-game.json](./304213-make-a-good-level-contest-x3-the-movie-the-contest-the-game.json) |
@@ -3280,6 +3281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marko | 19774 | [19774-marko.json](./19774-marko.json) |
 | Marko: Beyond Brave | 223167 | [223167-marko-beyond-brave.json](./223167-marko-beyond-brave.json) |
 | Marko's Magic Football | 368608 | [368608-markos-magic-football.json](./368608-markos-magic-football.json) |
+| Markov Alg | 178829 | [178829-markov-alg.json](./178829-markov-alg.json) |
 | Marks of Ki | 384349 | [384349-marks-of-ki.json](./384349-marks-of-ki.json) |
 | Marks the Spot | 176762 | [176762-marks-the-spot.json](./176762-marks-the-spot.json) |
 | Marksman Shooting | 245298 | [245298-marksman-shooting.json](./245298-marksman-shooting.json) |
@@ -12224,6 +12226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Prom: Second Term | 155070 | [155070-monster-prom-second-term.json](./155070-monster-prom-second-term.json) |
 | Monster Prom: XXL | 132997 | [132997-monster-prom-xxl.json](./132997-monster-prom-xxl.json) |
 | Monster Pub | 100561 | [100561-monster-pub.json](./100561-monster-pub.json) |
+| Monster Pub: Chapter 2 | 178827 | [178827-monster-pub-chapter-2.json](./178827-monster-pub-chapter-2.json) |
 | Monster Puroresu | 266632 | [266632-monster-puroresu.json](./266632-monster-puroresu.json) |
 | Monster Puzzle | 130827 | [130827-monster-puzzle.json](./130827-monster-puzzle.json) |
 | Monster Puzzle | 32304 | [32304-monster-puzzle.json](./32304-monster-puzzle.json) |
@@ -12444,6 +12447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monstrous Love | 221200 | [221200-monstrous-love.json](./221200-monstrous-love.json) |
 | Monstrous Lovers | 148562 | [148562-monstrous-lovers.json](./148562-monstrous-lovers.json) |
 | Monstrous Realms | 236202 | [236202-monstrous-realms.json](./236202-monstrous-realms.json) |
+| Monstructs: Makers and Mayhem | 178832 | [178832-monstructs-makers-and-mayhem.json](./178832-monstructs-makers-and-mayhem.json) |
 | Monstrum | 10554 | [10554-monstrum.json](./10554-monstrum.json) |
 | Monstrum 2 | 119685 | [119685-monstrum-2.json](./119685-monstrum-2.json) |
 | Monstrum: Deluxe Edition | 53377 | [53377-monstrum-deluxe-edition.json](./53377-monstrum-deluxe-edition.json) |
@@ -14848,6 +14852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Museum Multiverse | 364368 | [364368-museum-multiverse.json](./364368-museum-multiverse.json) |
 | Museum Mystery | 291700 | [291700-museum-mystery.json](./291700-museum-mystery.json) |
 | Museum of All Things | 333238 | [333238-museum-of-all-things.json](./333238-museum-of-all-things.json) |
+| Museum of Artists' Split Minds | 178854 | [178854-museum-of-artists-split-minds.json](./178854-museum-of-artists-split-minds.json) |
 | Museum of Extravagance | 169860 | [169860-museum-of-extravagance.json](./169860-museum-of-extravagance.json) |
 | Museum of Immersive Art | 341345 | [341345-museum-of-immersive-art.json](./341345-museum-of-immersive-art.json) |
 | Museum of Mechanics: Lockpicking | 139214 | [139214-museum-of-mechanics-lockpicking.json](./139214-museum-of-mechanics-lockpicking.json) |
