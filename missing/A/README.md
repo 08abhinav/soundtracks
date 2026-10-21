@@ -2253,6 +2253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adam and Eve: Crossy River | 233509 | [233509-adam-and-eve-crossy-river.json](./233509-adam-and-eve-crossy-river.json) |
 | Adam and Eve: The Game - Chapter 1 | 33513 | [33513-adam-and-eve-the-game-chapter-1.json](./33513-adam-and-eve-the-game-chapter-1.json) |
 | Adam Blaster: Atomic Enforcer | 73362 | [73362-adam-blaster-atomic-enforcer.json](./73362-adam-blaster-atomic-enforcer.json) |
+| Adam Savage's Tested VR | 174554 | [174554-adam-savages-tested-vr.json](./174554-adam-savages-tested-vr.json) |
 | Adam Wolfe | 26860 | [26860-adam-wolfe.json](./26860-adam-wolfe.json) |
 | Adam: Lost Memories | 121336 | [121336-adam-lost-memories.json](./121336-adam-lost-memories.json) |
 | Adam: Robot World | 126385 | [126385-adam-robot-world.json](./126385-adam-robot-world.json) |
@@ -2759,7 +2760,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -8953,6 +8953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqualux | 52410 | [52410-aqualux.json](./52410-aqualux.json) |
 | Aquaman: Battle for Atlantis | 3788 | [3788-aquaman-battle-for-atlantis.json](./3788-aquaman-battle-for-atlantis.json) |
 | Aquamarine | 132518 | [132518-aquamarine.json](./132518-aquamarine.json) |
+| Aquamarine Submarine | 174564 | [174564-aquamarine-submarine.json](./174564-aquamarine-submarine.json) |
 | Aquamarine: Explorer's Edition | 390486 | [390486-aquamarine-explorers-edition.json](./390486-aquamarine-explorers-edition.json) |
 | Aquametsis | 278427 | [278427-aquametsis.json](./278427-aquametsis.json) |
 | AquaMoto Racing 3D | 23521 | [23521-aquamoto-racing-3d.json](./23521-aquamoto-racing-3d.json) |
@@ -11158,6 +11159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascension to the Throne: Valkyrie | 27455 | [27455-ascension-to-the-throne-valkyrie.json](./27455-ascension-to-the-throne-valkyrie.json) |
 | Ascension VR | 32106 | [32106-ascension-vr.json](./32106-ascension-vr.json) |
 | Ascension: Deckbuilding Game | 8638 | [8638-ascension-deckbuilding-game.json](./8638-ascension-deckbuilding-game.json) |
+| Ascension: Delirium | 174532 | [174532-ascension-delirium.json](./174532-ascension-delirium.json) |
 | Ascension: The Immortal Alchemist | 318973 | [318973-ascension-the-immortal-alchemist.json](./318973-ascension-the-immortal-alchemist.json) |
 | Ascension: Transition and Silver | 144608 | [144608-ascension-transition-and-silver.json](./144608-ascension-transition-and-silver.json) |
 | Ascent | 185340 | [185340-ascent.json](./185340-ascent.json) |
