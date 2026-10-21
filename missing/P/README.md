@@ -374,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pack Powersports | 112892 | [112892-pack-powersports.json](./112892-pack-powersports.json) |
 | Package chaos | 411698 | [411698-package-chaos.json](./411698-package-chaos.json) |
 | Package Handler VR | 112173 | [112173-package-handler-vr.json](./112173-package-handler-vr.json) |
+| Package Inc | 174530 | [174530-package-inc.json](./174530-package-inc.json) |
 | Package Inspector | 195697 | [195697-package-inspector.json](./195697-package-inspector.json) |
 | Package Man | 131395 | [131395-package-man.json](./131395-package-man.json) |
 | Package Runner | 260615 | [260615-package-runner.json](./260615-package-runner.json) |
@@ -7474,6 +7475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayDice | 212686 | [212686-playdice.json](./212686-playdice.json) |
 | Playdle | 272477 | [272477-playdle.json](./272477-playdle.json) |
 | PlayEnglish | 269501 | [269501-playenglish.json](./269501-playenglish.json) |
+| Player 22 by Rezzil | 174557 | [174557-player-22-by-rezzil.json](./174557-player-22-by-rezzil.json) |
 | Player 9 | 132095 | [132095-player-9.json](./132095-player-9.json) |
 | Player City | 150459 | [150459-player-city.json](./150459-player-city.json) |
 | Player Goes Jump | 286785 | [286785-player-goes-jump.json](./286785-player-goes-jump.json) |
