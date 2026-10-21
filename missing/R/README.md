@@ -4628,6 +4628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Runner | 384316 | [384316-retro-runner.json](./384316-retro-runner.json) |
 | Retro Runner: Endless Runner Adventure | 96490 | [96490-retro-runner-endless-runner-adventure.json](./96490-retro-runner-endless-runner-adventure.json) |
 | Retro Runners X2 | 387725 | [387725-retro-runners-x2.json](./387725-retro-runners-x2.json) |
+| Retro Rush | 176729 | [176729-retro-rush.json](./176729-retro-rush.json) |
 | Retro Santa Run | 327434 | [327434-retro-santa-run.json](./327434-retro-santa-run.json) |
 | Retro Sci-Fi Adventure | 413447 | [413447-retro-sci-fi-adventure.json](./413447-retro-sci-fi-adventure.json) |
 | Retro Shooter Rampage Bundle | 154489 | [154489-retro-shooter-rampage-bundle.json](./154489-retro-shooter-rampage-bundle.json) |
@@ -4894,6 +4895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge of the 'Gator: Gold | 257393 | [257393-revenge-of-the-gator-gold.json](./257393-revenge-of-the-gator-gold.json) |
 | Revenge of the Apes | 40772 | [40772-revenge-of-the-apes.json](./40772-revenge-of-the-apes.json) |
 | Revenge of the Beefsteak Tomatoes | 22760 | [22760-revenge-of-the-beefsteak-tomatoes.json](./22760-revenge-of-the-beefsteak-tomatoes.json) |
+| Revenge of the Boxer: Moscow Criminality | 176695 | [176695-revenge-of-the-boxer-moscow-criminality.json](./176695-revenge-of-the-boxer-moscow-criminality.json) |
 | Revenge of the C5 | 294402 | [294402-revenge-of-the-c5.json](./294402-revenge-of-the-c5.json) |
 | Revenge Of The Colon | 279005 | [279005-revenge-of-the-colon.json](./279005-revenge-of-the-colon.json) |
 | Revenge of the Fallen | 123600 | [123600-revenge-of-the-fallen.json](./123600-revenge-of-the-fallen.json) |
@@ -5297,6 +5299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ria's Hook | 95213 | [95213-rias-hook.json](./95213-rias-hook.json) |
 | Riaaf the Spider | 44114 | [44114-riaaf-the-spider.json](./44114-riaaf-the-spider.json) |
 | Riana Rouge | 3713 | [3713-riana-rouge.json](./3713-riana-rouge.json) |
+| Riba | 176710 | [176710-riba.json](./176710-riba.json) |
 | Ribbeat | 382771 | [382771-ribbeat.json](./382771-ribbeat.json) |
 | Ribbit | 213366 | [213366-ribbit.json](./213366-ribbit.json) |
 | Ribbit Channel | 301895 | [301895-ribbit-channel.json](./301895-ribbit-channel.json) |
@@ -6018,6 +6021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Robots | 301043 | [301043-rise-of-robots.json](./301043-rise-of-robots.json) |
 | Rise of SamuraizerzZz | 156664 | [156664-rise-of-samuraizerzzz.json](./156664-rise-of-samuraizerzzz.json) |
 | Rise of Stars Re:Verse | 226769 | [226769-rise-of-stars-re-verse.json](./226769-rise-of-stars-re-verse.json) |
+| Rise of Stikeez | 176696 | [176696-rise-of-stikeez.json](./176696-rise-of-stikeez.json) |
 | Rise of the Argonauts | 7161 | [7161-rise-of-the-argonauts.json](./7161-rise-of-the-argonauts.json) |
 | Rise of the Blobs | 22157 | [22157-rise-of-the-blobs.json](./22157-rise-of-the-blobs.json) |
 | Rise of the Bugs | 304592 | [304592-rise-of-the-bugs.json](./304592-rise-of-the-bugs.json) |
