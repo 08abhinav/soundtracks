@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nameless Record | 163757 | [163757-nameless-record.json](./163757-nameless-record.json) |
 | Nameless Shells | 267916 | [267916-nameless-shells.json](./267916-nameless-shells.json) |
 | Nameless Worlds | 117585 | [117585-nameless-worlds.json](./117585-nameless-worlds.json) |
+| Nameless: the Hackers | 200322 | [200322-nameless-the-hackers.json](./200322-nameless-the-hackers.json) |
 | Nami | 169846 | [169846-nami.json](./169846-nami.json) |
 | Nami no Iro: The Color of the Waves | 385775 | [385775-nami-no-iro-the-color-of-the-waves.json](./385775-nami-no-iro-the-color-of-the-waves.json) |
 | Nami no Mani Mani - Sazanami Shinryoushou | 70645 | [70645-nami-no-mani-mani-sazanami-shinryoushou.json](./70645-nami-no-mani-mani-sazanami-shinryoushou.json) |
@@ -5343,6 +5344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Notch: The Innocent LunA - Eclipsed SinnerS | 17877 | [17877-notch-the-innocent-luna-eclipsed-sinners.json](./17877-notch-the-innocent-luna-eclipsed-sinners.json) |
 | NotChess | 362748 | [362748-notchess.json](./362748-notchess.json) |
 | NotCoD | 33686 | [33686-notcod.json](./33686-notcod.json) |
+| Note 2 | 200409 | [200409-note-2.json](./200409-note-2.json) |
 | Note Fighter | 110252 | [110252-note-fighter.json](./110252-note-fighter.json) |
 | Note of Janus | 211158 | [211158-note-of-janus.json](./211158-note-of-janus.json) |
 | Note to Self | 70376 | [70376-note-to-self.json](./70376-note-to-self.json) |
