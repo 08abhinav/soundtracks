@@ -1380,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eisen | 240872 | [240872-eisen.json](./240872-eisen.json) |
 | Eisenbahn X: Modellset 1 - Bahnhof, Häuser, Scheunen | 169951 | [169951-eisenbahn-x-modellset-1-bahnhof-hauser-scheunen.json](./169951-eisenbahn-x-modellset-1-bahnhof-hauser-scheunen.json) |
 | Eisenwald: Blood of November | 25607 | [25607-eisenwald-blood-of-november.json](./25607-eisenwald-blood-of-november.json) |
+| Either | 174528 | [174528-either.json](./174528-either.json) |
 | Either Eye | 389442 | [389442-either-eye.json](./389442-either-eye.json) |
 | Eitr | 11181 | [11181-eitr.json](./11181-eitr.json) |
 | Eiyou Tappuri no Kareshi | 301618 | [301618-eiyou-tappuri-no-kareshi.json](./301618-eiyou-tappuri-no-kareshi.json) |
@@ -2343,6 +2344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emily Wants to Play | 16302 | [16302-emily-wants-to-play.json](./16302-emily-wants-to-play.json) |
 | Emily Wants to Play Too | 75074 | [75074-emily-wants-to-play-too.json](./75074-emily-wants-to-play-too.json) |
 | Emily's Bizarre Dreams | 343344 | [343344-emilys-bizarre-dreams.json](./343344-emilys-bizarre-dreams.json) |
+| Emily's Flights | 174531 | [174531-emilys-flights.json](./174531-emilys-flights.json) |
 | Emily's Hotel Solitaire | 227854 | [227854-emilys-hotel-solitaire.json](./227854-emilys-hotel-solitaire.json) |
 | Emin's Journey | 291754 | [291754-emins-journey.json](./291754-emins-journey.json) |
 | Eminus | 143380 | [143380-eminus.json](./143380-eminus.json) |
@@ -3173,6 +3175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enslaved: Odyssey to the West - Pigsy's Perfect 10 | 17468 | [17468-enslaved-odyssey-to-the-west-pigsys-perfect-10.json](./17468-enslaved-odyssey-to-the-west-pigsys-perfect-10.json) |
 | Ensnared | 297091 | [297091-ensnared.json](./297091-ensnared.json) |
 | Ensol | 253963 | [253963-ensol.json](./253963-ensol.json) |
+| Ensorak Riddle | 174533 | [174533-ensorak-riddle.json](./174533-ensorak-riddle.json) |
 | Ensou | 141212 | [141212-ensou.json](./141212-ensou.json) |
 | Enspell | 275145 | [275145-enspell.json](./275145-enspell.json) |
 | Ent | 183892 | [183892-ent.json](./183892-ent.json) |
@@ -4628,6 +4631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Space | 285532 | [285532-eternal-space.json](./285532-eternal-space.json) |
 | Eternal Spectre | 195584 | [195584-eternal-spectre.json](./195584-eternal-spectre.json) |
 | Eternal Spring VR | 290119 | [290119-eternal-spring-vr.json](./290119-eternal-spring-vr.json) |
+| Eternal Starlight | 174548 | [174548-eternal-starlight.json](./174548-eternal-starlight.json) |
 | Eternal Starshine | 182370 | [182370-eternal-starshine.json](./182370-eternal-starshine.json) |
 | Eternal Step | 14388 | [14388-eternal-step.json](./14388-eternal-step.json) |
 | Eternal Struggle | 280081 | [280081-eternal-struggle.json](./280081-eternal-struggle.json) |
