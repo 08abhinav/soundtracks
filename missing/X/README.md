@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 11: Aerosoft - Airport Anchorage | 162784 | [162784-x-plane-11-aerosoft-airport-anchorage.json](./162784-x-plane-11-aerosoft-airport-anchorage.json) |
 | X-Plane 11: Aerosoft - Airport Antalya | 162756 | [162756-x-plane-11-aerosoft-airport-antalya.json](./162756-x-plane-11-aerosoft-airport-antalya.json) |
 | X-Plane 11: Aerosoft - Airport Bali | 162787 | [162787-x-plane-11-aerosoft-airport-bali.json](./162787-x-plane-11-aerosoft-airport-bali.json) |
+| X-Plane 11: Aerosoft - Airport Ben Gurion | 193121 | [193121-x-plane-11-aerosoft-airport-ben-gurion.json](./193121-x-plane-11-aerosoft-airport-ben-gurion.json) |
 | X-Plane 11: Aerosoft - Airport Bergen | 162759 | [162759-x-plane-11-aerosoft-airport-bergen.json](./162759-x-plane-11-aerosoft-airport-bergen.json) |
 | X-Plane 11: Aerosoft - Airport Berlin Brandenburg V2 | 162762 | [162762-x-plane-11-aerosoft-airport-berlin-brandenburg-v2.json](./162762-x-plane-11-aerosoft-airport-berlin-brandenburg-v2.json) |
 | X-Plane 11: Aerosoft - Airport Berlin-Brandenburg | 238541 | [238541-x-plane-11-aerosoft-airport-berlin-brandenburg.json](./238541-x-plane-11-aerosoft-airport-berlin-brandenburg.json) |
@@ -215,12 +216,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 11: Aerosoft - Airport Friedrichshafen | 162803 | [162803-x-plane-11-aerosoft-airport-friedrichshafen.json](./162803-x-plane-11-aerosoft-airport-friedrichshafen.json) |
 | X-Plane 11: Aerosoft - Airport Istanbul | 162758 | [162758-x-plane-11-aerosoft-airport-istanbul.json](./162758-x-plane-11-aerosoft-airport-istanbul.json) |
 | X-Plane 11: Aerosoft - Airport John F. Kennedy International | 162801 | [162801-x-plane-11-aerosoft-airport-john-f-kennedy-international.json](./162801-x-plane-11-aerosoft-airport-john-f-kennedy-international.json) |
+| X-Plane 11: Aerosoft - Airport Kassel | 193118 | [193118-x-plane-11-aerosoft-airport-kassel.json](./193118-x-plane-11-aerosoft-airport-kassel.json) |
 | X-Plane 11: Aerosoft - Airport Lugano | 162765 | [162765-x-plane-11-aerosoft-airport-lugano.json](./162765-x-plane-11-aerosoft-airport-lugano.json) |
 | X-Plane 11: Aerosoft - Airport Maastricht-Aachen | 162789 | [162789-x-plane-11-aerosoft-airport-maastricht-aachen.json](./162789-x-plane-11-aerosoft-airport-maastricht-aachen.json) |
+| X-Plane 11: Aerosoft - Airport Menorca | 193119 | [193119-x-plane-11-aerosoft-airport-menorca.json](./193119-x-plane-11-aerosoft-airport-menorca.json) |
 | X-Plane 11: Aerosoft - Airport Milano Malpensa | 162814 | [162814-x-plane-11-aerosoft-airport-milano-malpensa.json](./162814-x-plane-11-aerosoft-airport-milano-malpensa.json) |
 | X-Plane 11: Aerosoft - Airport Newcastle | 162819 | [162819-x-plane-11-aerosoft-airport-newcastle.json](./162819-x-plane-11-aerosoft-airport-newcastle.json) |
 | X-Plane 11: Aerosoft - Airport Southwest Florida Intl. | 162763 | [162763-x-plane-11-aerosoft-airport-southwest-florida-intl.json](./162763-x-plane-11-aerosoft-airport-southwest-florida-intl.json) |
 | X-Plane 11: Aerosoft - Airport Split | 162775 | [162775-x-plane-11-aerosoft-airport-split.json](./162775-x-plane-11-aerosoft-airport-split.json) |
+| X-Plane 11: Aerosoft - Airport Stuttgart | 193117 | [193117-x-plane-11-aerosoft-airport-stuttgart.json](./193117-x-plane-11-aerosoft-airport-stuttgart.json) |
 | X-Plane 11: Aerosoft - Airport Wilmington | 162800 | [162800-x-plane-11-aerosoft-airport-wilmington.json](./162800-x-plane-11-aerosoft-airport-wilmington.json) |
 | X-Plane 11: Aerosoft - Airport Zurich V2 | 162781 | [162781-x-plane-11-aerosoft-airport-zurich-v2.json](./162781-x-plane-11-aerosoft-airport-zurich-v2.json) |
 | X-Plane 11: Aerosoft - CRJ 200 | 168401 | [168401-x-plane-11-aerosoft-crj-200.json](./168401-x-plane-11-aerosoft-crj-200.json) |
@@ -261,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 11: Airfield Canada - CYHZ: Halifax Stanfield International Airport | 162790 | [162790-x-plane-11-airfield-canada-cyhz-halifax-stanfield-international-airport.json](./162790-x-plane-11-airfield-canada-cyhz-halifax-stanfield-international-airport.json) |
 | X-Plane 11: Airfield Canada - CYQY: J.A. Douglas McCurdy Sydney Airport | 162809 | [162809-x-plane-11-airfield-canada-cyqy-j-a-douglas-mccurdy-sydney-airport.json](./162809-x-plane-11-airfield-canada-cyqy-j-a-douglas-mccurdy-sydney-airport.json) |
 | X-Plane 11: FACO Simulations - F-15C Eagle | 168416 | [168416-x-plane-11-faco-simulations-f-15c-eagle.json](./168416-x-plane-11-faco-simulations-f-15c-eagle.json) |
+| X-Plane 11: FeelThere - KRDU: Raleigh Durham | 193110 | [193110-x-plane-11-feelthere-krdu-raleigh-durham.json](./193110-x-plane-11-feelthere-krdu-raleigh-durham.json) |
 | X-Plane 11: FlyLogic Airport Bern-Belp | 162768 | [162768-x-plane-11-flylogic-airport-bern-belp.json](./162768-x-plane-11-flylogic-airport-bern-belp.json) |
 | X-Plane 11: FSDG - Agadir | 168406 | [168406-x-plane-11-fsdg-agadir.json](./168406-x-plane-11-fsdg-agadir.json) |
 | X-Plane 11: FSDG - Bremen XP | 168427 | [168427-x-plane-11-fsdg-bremen-xp.json](./168427-x-plane-11-fsdg-bremen-xp.json) |
@@ -296,6 +301,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 11: Skyline Simulations - LXGB: Gibraltar Airport | 162761 | [162761-x-plane-11-skyline-simulations-lxgb-gibraltar-airport.json](./162761-x-plane-11-skyline-simulations-lxgb-gibraltar-airport.json) |
 | X-Plane 11: Skyline Simulations - MKJS: Montego Bay Jamaica | 168397 | [168397-x-plane-11-skyline-simulations-mkjs-montego-bay-jamaica.json](./168397-x-plane-11-skyline-simulations-mkjs-montego-bay-jamaica.json) |
 | X-Plane 11: Skyline Simulations CYTZ - Billy Bishop Toronto City Airport | 162807 | [162807-x-plane-11-skyline-simulations-cytz-billy-bishop-toronto-city-airport.json](./162807-x-plane-11-skyline-simulations-cytz-billy-bishop-toronto-city-airport.json) |
+| X-Plane 11: Verticalsim - KBWI: Baltimore Professional Edition XP | 193107 | [193107-x-plane-11-verticalsim-kbwi-baltimore-professional-edition-xp.json](./193107-x-plane-11-verticalsim-kbwi-baltimore-professional-edition-xp.json) |
+| X-Plane 11: Verticalsim - KCRP: Corpus Christi International Airport XP | 193111 | [193111-x-plane-11-verticalsim-kcrp-corpus-christi-international-airport-xp.json](./193111-x-plane-11-verticalsim-kcrp-corpus-christi-international-airport-xp.json) |
+| X-Plane 11: Verticalsim - KFAY: Fayetteville Regional Airport XP | 193115 | [193115-x-plane-11-verticalsim-kfay-fayetteville-regional-airport-xp.json](./193115-x-plane-11-verticalsim-kfay-fayetteville-regional-airport-xp.json) |
+| X-Plane 11: Verticalsim - KGEG: Spokane International Airport XP | 193109 | [193109-x-plane-11-verticalsim-kgeg-spokane-international-airport-xp.json](./193109-x-plane-11-verticalsim-kgeg-spokane-international-airport-xp.json) |
+| X-Plane 11: Verticalsim - KISP: Long Island MacArthur Airport XP | 193113 | [193113-x-plane-11-verticalsim-kisp-long-island-macarthur-airport-xp.json](./193113-x-plane-11-verticalsim-kisp-long-island-macarthur-airport-xp.json) |
+| X-Plane 11: Verticalsim - KMSY: New Orleans International Airport XP | 193120 | [193120-x-plane-11-verticalsim-kmsy-new-orleans-international-airport-xp.json](./193120-x-plane-11-verticalsim-kmsy-new-orleans-international-airport-xp.json) |
+| X-Plane 11: Verticalsim - KMYR: Myrtle Beach International Airport XP | 193108 | [193108-x-plane-11-verticalsim-kmyr-myrtle-beach-international-airport-xp.json](./193108-x-plane-11-verticalsim-kmyr-myrtle-beach-international-airport-xp.json) |
+| X-Plane 11: Verticalsim - KORF: Norfolk International Airport XP | 193116 | [193116-x-plane-11-verticalsim-korf-norfolk-international-airport-xp.json](./193116-x-plane-11-verticalsim-korf-norfolk-international-airport-xp.json) |
+| X-Plane 11: Verticalsim - KPVD: T. F. Green Airport XP | 193112 | [193112-x-plane-11-verticalsim-kpvd-t-f-green-airport-xp.json](./193112-x-plane-11-verticalsim-kpvd-t-f-green-airport-xp.json) |
+| X-Plane 11: Verticalsim - KSRQ: Sarasota-Bradenton International Airport XP | 193114 | [193114-x-plane-11-verticalsim-ksrq-sarasota-bradenton-international-airport-xp.json](./193114-x-plane-11-verticalsim-ksrq-sarasota-bradenton-international-airport-xp.json) |
 | X-Plane 12 | 215544 | [215544-x-plane-12.json](./215544-x-plane-12.json) |
 | X-Plane 12 Global Scenery: Africa | 220533 | [220533-x-plane-12-global-scenery-africa.json](./220533-x-plane-12-global-scenery-africa.json) |
 | X-Plane 12 Global Scenery: Asia | 220637 | [220637-x-plane-12-global-scenery-asia.json](./220637-x-plane-12-global-scenery-asia.json) |
