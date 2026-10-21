@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N64 SP Map Jam | 300421 | [300421-n64-sp-map-jam.json](./300421-n64-sp-map-jam.json) |
 | Na-Re: Great Chain of Being | 341358 | [341358-na-re-great-chain-of-being.json](./341358-na-re-great-chain-of-being.json) |
 | Naals Tales | 311610 | [311610-naals-tales.json](./311610-naals-tales.json) |
+| Naamu: The Lost Essence | 181600 | [181600-naamu-the-lost-essence.json](./181600-naamu-the-lost-essence.json) |
 | Naàra: Contos de Resistencia | 191065 | [191065-naara-contos-de-resistencia.json](./191065-naara-contos-de-resistencia.json) |
 | Naau: The Lost Eye | 121570 | [121570-naau-the-lost-eye.json](./121570-naau-the-lost-eye.json) |
 | Nabi | 320551 | [320551-nabi.json](./320551-nabi.json) |
@@ -1263,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necroblade | 217282 | [217282-necroblade.json](./217282-necroblade.json) |
 | NecroBoy: Path to Evilship | 153006 | [153006-necroboy-path-to-evilship.json](./153006-necroboy-path-to-evilship.json) |
 | Necrobrood | 270845 | [270845-necrobrood.json](./270845-necrobrood.json) |
+| Necrocage Year: Ep1 | 181599 | [181599-necrocage-year-ep1.json](./181599-necrocage-year-ep1.json) |
 | Necrocat | 318009 | [318009-necrocat.json](./318009-necrocat.json) |
 | NecroCatic Clicker | 341362 | [341362-necrocatic-clicker.json](./341362-necrocatic-clicker.json) |
 | NecroCity | 217166 | [217166-necrocity.json](./217166-necrocity.json) |
@@ -3998,6 +4000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Master Toru | 332530 | [332530-ninja-master-toru.json](./332530-ninja-master-toru.json) |
 | Ninja Master's: Haou Ninpou-ko | 39458 | [39458-ninja-masters-haou-ninpou-ko.json](./39458-ninja-masters-haou-ninpou-ko.json) |
 | Ninja Masters | 103632 | [103632-ninja-masters.json](./103632-ninja-masters.json) |
+| Ninja Meow Cat | 181577 | [181577-ninja-meow-cat.json](./181577-ninja-meow-cat.json) |
 | Ninja Miner | 408740 | [408740-ninja-miner.json](./408740-ninja-miner.json) |
 | Ninja Miner 2 | 408741 | [408741-ninja-miner-2.json](./408741-ninja-miner-2.json) |
 | Ninja Ming | 326664 | [326664-ninja-ming.json](./326664-ninja-ming.json) |
