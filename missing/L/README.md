@@ -2703,6 +2703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Les: The Horror Game | 158963 | [158963-les-the-horror-game.json](./158963-les-the-horror-game.json) |
 | Lesbian Mothman Hunters | 151751 | [151751-lesbian-mothman-hunters.json](./151751-lesbian-mothman-hunters.json) |
 | Lesbian Spider-Queens of Mars | 84114 | [84114-lesbian-spider-queens-of-mars.json](./84114-lesbian-spider-queens-of-mars.json) |
+| Lesbian Vampire Dating Online | 184740 | [184740-lesbian-vampire-dating-online.json](./184740-lesbian-vampire-dating-online.json) |
 | Lesbian Vampire Simulator | 177531 | [177531-lesbian-vampire-simulator.json](./177531-lesbian-vampire-simulator.json) |
 | Lesbian Voyeur Simulator | 367204 | [367204-lesbian-voyeur-simulator.json](./367204-lesbian-voyeur-simulator.json) |
 | Lesbian Voyeur Simulator 2 | 196128 | [196128-lesbian-voyeur-simulator-2.json](./196128-lesbian-voyeur-simulator-2.json) |
