@@ -4063,6 +4063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cerberus | 272016 | [272016-cerberus.json](./272016-cerberus.json) |
 | Cerberus Corporation: Red Room | 335246 | [335246-cerberus-corporation-red-room.json](./335246-cerberus-corporation-red-room.json) |
 | Cerberus: Orbital watch | 126392 | [126392-cerberus-orbital-watch.json](./126392-cerberus-orbital-watch.json) |
+| Cerbirds | 180448 | [180448-cerbirds.json](./180448-cerbirds.json) |
 | Cereal Cafe | 351799 | [351799-cereal-cafe.json](./351799-cereal-cafe.json) |
 | Cereal Killer | 326634 | [326634-cereal-killer.json](./326634-cereal-killer.json) |
 | Cereal Soup | 99128 | [99128-cereal-soup.json](./99128-cereal-soup.json) |
@@ -14308,6 +14309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CSR Racing 2 | 55169 | [55169-csr-racing-2.json](./55169-csr-racing-2.json) |
 | CSS Room Escape | 252121 | [252121-css-room-escape.json](./252121-css-room-escape.json) |
 | CSS Traffic Regulation | 364351 | [364351-css-traffic-regulation.json](./364351-css-traffic-regulation.json) |
+| CT Football Manager | 180474 | [180474-ct-football-manager.json](./180474-ct-football-manager.json) |
 | CT Special Forces 3: BioTerror | 43898 | [43898-ct-special-forces-3-bioterror.json](./43898-ct-special-forces-3-bioterror.json) |
 | CT Special Forces 3: BioTerror | 49253 | [49253-ct-special-forces-3-bioterror.json](./49253-ct-special-forces-3-bioterror.json) |
 | CT Special Forces: Back to Hell | 45103 | [45103-ct-special-forces-back-to-hell.json](./45103-ct-special-forces-back-to-hell.json) |
