@@ -728,7 +728,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1400,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bam Bam Boom | 350057 | [350057-bam-bam-boom.json](./350057-bam-bam-boom.json) |
 | Bam Boom Blade | 289344 | [289344-bam-boom-blade.json](./289344-bam-boom-blade.json) |
 | Bam Boost | 256904 | [256904-bam-boost.json](./256904-bam-boost.json) |
+| Bam Fu | 175567 | [175567-bam-fu.json](./175567-bam-fu.json) |
 | Bamb | 182860 | [182860-bamb.json](./182860-bamb.json) |
 | Bamba's Snack Quest | 141093 | [141093-bambas-snack-quest.json](./141093-bambas-snack-quest.json) |
 | Bambas! | 325345 | [325345-bambas.json](./325345-bambas.json) |
@@ -2158,6 +2158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barrel Baller | 356209 | [356209-barrel-baller.json](./356209-barrel-baller.json) |
 | Barrel Blast | 172186 | [172186-barrel-blast.json](./172186-barrel-blast.json) |
 | Barrel Boot Camp | 100571 | [100571-barrel-boot-camp.json](./100571-barrel-boot-camp.json) |
+| Barrel Defender Galaxy | 175563 | [175563-barrel-defender-galaxy.json](./175563-barrel-defender-galaxy.json) |
 | Barrel Full of Monkeys | 223496 | [223496-barrel-full-of-monkeys.json](./223496-barrel-full-of-monkeys.json) |
 | Barrel of DNA | 175220 | [175220-barrel-of-dna.json](./175220-barrel-of-dna.json) |
 | Barrel Rescue | 7438 | [7438-barrel-rescue.json](./7438-barrel-rescue.json) |
@@ -4187,6 +4188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatblock | 306804 | [306804-beatblock.json](./306804-beatblock.json) |
 | BeatBlox | 68648 | [68648-beatblox.json](./68648-beatblox.json) |
 | BeatBox Runner | 160130 | [160130-beatbox-runner.json](./160130-beatbox-runner.json) |
+| Beatbuddy HD | 175102 | [175102-beatbuddy-hd.json](./175102-beatbuddy-hd.json) |
 | Beatbuddy: On Tour | 34170 | [34170-beatbuddy-on-tour.json](./34170-beatbuddy-on-tour.json) |
 | Beatcraft Cyclon | 232683 | [232683-beatcraft-cyclon.json](./232683-beatcraft-cyclon.json) |
 | Beatdown Brawler | 130103 | [130103-beatdown-brawler.json](./130103-beatdown-brawler.json) |
@@ -6588,6 +6590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bisyntho | 284003 | [284003-bisyntho.json](./284003-bisyntho.json) |
 | Bit | 413076 | [413076-bit.json](./413076-bit.json) |
 | Bit Addiction | 277573 | [277573-bit-addiction.json](./277573-bit-addiction.json) |
+| Bit Ballers | 175557 | [175557-bit-ballers.json](./175557-bit-ballers.json) |
 | Bit Bike | 250778 | [250778-bit-bike.json](./250778-bit-bike.json) |
 | Bit Bit Blocks | 61153 | [61153-bit-bit-blocks.json](./61153-bit-bit-blocks.json) |
 | Bit Blaster XL | 33733 | [33733-bit-blaster-xl.json](./33733-bit-blaster-xl.json) |
@@ -6882,6 +6885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Fighter: Super Shadow Fight | 103887 | [103887-black-fighter-super-shadow-fight.json](./103887-black-fighter-super-shadow-fight.json) |
 | Black Fire | 286428 | [286428-black-fire.json](./286428-black-fire.json) |
 | Black Fire | 46087 | [46087-black-fire.json](./46087-black-fire.json) |
+| Black Fist Ninja Run Challenge | 175576 | [175576-black-fist-ninja-run-challenge.json](./175576-black-fist-ninja-run-challenge.json) |
 | Black Flower | 400966 | [400966-black-flower.json](./400966-black-flower.json) |
 | Black Friday | 176745 | [176745-black-friday.json](./176745-black-friday.json) |
 | Black Friday | 249699 | [249699-black-friday.json](./249699-black-friday.json) |
@@ -8293,6 +8297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blond Escape | 176212 | [176212-blond-escape.json](./176212-blond-escape.json) |
 | Blonde Driver | 96435 | [96435-blonde-driver.json](./96435-blonde-driver.json) |
 | Blonde Justice | 37198 | [37198-blonde-justice.json](./37198-blonde-justice.json) |
+| Blonde vs. Brunette Racing | 175593 | [175593-blonde-vs-brunette-racing.json](./175593-blonde-vs-brunette-racing.json) |
 | Blondes | 242963 | [242963-blondes.json](./242963-blondes.json) |
 | Blonsters | 304877 | [304877-blonsters.json](./304877-blonsters.json) |
 | Bloo Kid | 58463 | [58463-bloo-kid.json](./58463-bloo-kid.json) |
@@ -8818,6 +8823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blowback | 184611 | [184611-blowback.json](./184611-blowback.json) |
 | Blower | 180664 | [180664-blower.json](./180664-blower.json) |
 | Blowfly: DungHole Wanderer | 202745 | [202745-blowfly-dunghole-wanderer.json](./202745-blowfly-dunghole-wanderer.json) |
+| Blown Away | 175638 | [175638-blown-away.json](./175638-blown-away.json) |
 | Blown Away | 187703 | [187703-blown-away.json](./187703-blown-away.json) |
 | Blowout & Cosmic Alphabet | 14325 | [14325-blowout-and-cosmic-alphabet.json](./14325-blowout-and-cosmic-alphabet.json) |
 | Blowup | 269109 | [269109-blowup.json](./269109-blowup.json) |
@@ -9266,6 +9272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobo Robot | 129653 | [129653-bobo-robot.json](./129653-bobo-robot.json) |
 | Bobo the Cat | 221984 | [221984-bobo-the-cat.json](./221984-bobo-the-cat.json) |
 | BoBo World: Hospital | 237645 | [237645-bobo-world-hospital.json](./237645-bobo-world-hospital.json) |
+| Bobo: Fun Math Games | 175600 | [175600-bobo-fun-math-games.json](./175600-bobo-fun-math-games.json) |
 | Bobo: In Animia | 380032 | [380032-bobo-in-animia.json](./380032-bobo-in-animia.json) |
 | Bobo's Big Tower | 355170 | [355170-bobos-big-tower.json](./355170-bobos-big-tower.json) |
 | Bobobird | 365141 | [365141-bobobird.json](./365141-bobobird.json) |
@@ -10650,6 +10657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty of One: Panic in the Mines | 321957 | [321957-bounty-of-one-panic-in-the-mines.json](./321957-bounty-of-one-panic-in-the-mines.json) |
 | Bounty Off Road | 332884 | [332884-bounty-off-road.json](./332884-bounty-off-road.json) |
 | Bounty Pro Pulling | 410451 | [410451-bounty-pro-pulling.json](./410451-bounty-pro-pulling.json) |
+| Bounty Racer | 175595 | [175595-bounty-racer.json](./175595-bounty-racer.json) |
 | Bounty Runner | 58161 | [58161-bounty-runner.json](./58161-bounty-runner.json) |
 | Bounty Sisters | 381917 | [381917-bounty-sisters.json](./381917-bounty-sisters.json) |
 | Bounty Star | 210624 | [210624-bounty-star.json](./210624-bounty-star.json) |
@@ -12591,12 +12599,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Mix | 87083 | [87083-bubble-mix.json](./87083-bubble-mix.json) |
 | Bubble Mix 3 in 1 Plus | 90685 | [90685-bubble-mix-3-in-1-plus.json](./90685-bubble-mix-3-in-1-plus.json) |
 | Bubble People | 173265 | [173265-bubble-people.json](./173265-bubble-people.json) |
+| Bubble Pig | 175106 | [175106-bubble-pig.json](./175106-bubble-pig.json) |
 | Bubble Piles | 241615 | [241615-bubble-piles.json](./241615-bubble-piles.json) |
 | Bubble Pirate Shooter | 220812 | [220812-bubble-pirate-shooter.json](./220812-bubble-pirate-shooter.json) |
 | Bubble Pirates | 120256 | [120256-bubble-pirates.json](./120256-bubble-pirates.json) |
 | Bubble Pop Letters & Shapes | 213396 | [213396-bubble-pop-letters-and-shapes.json](./213396-bubble-pop-letters-and-shapes.json) |
 | Bubble Pop Math Challenge Gr. 1-2 Premium | 87255 | [87255-bubble-pop-math-challenge-gr-1-2-premium.json](./87255-bubble-pop-math-challenge-gr-1-2-premium.json) |
 | Bubble Pop! | 181592 | [181592-bubble-pop.json](./181592-bubble-pop.json) |
+| Bubble Popper | 175098 | [175098-bubble-popper.json](./175098-bubble-popper.json) |
 | Bubble Rage | 340228 | [340228-bubble-rage.json](./340228-bubble-rage.json) |
 | Bubble Raider | 110204 | [110204-bubble-raider.json](./110204-bubble-raider.json) |
 | Bubble Riders | 300999 | [300999-bubble-riders.json](./300999-bubble-riders.json) |
@@ -12983,6 +12993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build-a-Bear Workshop: Welcome to Hugsville | 47913 | [47913-build-a-bear-workshop-welcome-to-hugsville.json](./47913-build-a-bear-workshop-welcome-to-hugsville.json) |
 | Build-A-Bearville | 214613 | [214613-build-a-bearville.json](./214613-build-a-bearville.json) |
 | Build-A-Delivery | 257337 | [257337-build-a-delivery.json](./257337-build-a-delivery.json) |
+| Build-a-lot 3: Passport to Europe HD | 175586 | [175586-build-a-lot-3-passport-to-europe-hd.json](./175586-build-a-lot-3-passport-to-europe-hd.json) |
 | Build-a-lot 4: Power Source HD | 99722 | [99722-build-a-lot-4-power-source-hd.json](./99722-build-a-lot-4-power-source-hd.json) |
 | Build-A-Lot: Fairy Tales | 62821 | [62821-build-a-lot-fairy-tales.json](./62821-build-a-lot-fairy-tales.json) |
 | Build-A-Lot: Mysteries | 62820 | [62820-build-a-lot-mysteries.json](./62820-build-a-lot-mysteries.json) |
