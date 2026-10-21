@@ -3157,6 +3157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Warders | 28009 | [28009-hell-warders.json](./28009-hell-warders.json) |
 | Hell Warders - Beta | 36473 | [36473-hell-warders-beta.json](./36473-hell-warders-beta.json) |
 | Hell Warriors | 127380 | [127380-hell-warriors.json](./127380-hell-warriors.json) |
+| Hell Weaver | 192714 | [192714-hell-weaver.json](./192714-hell-weaver.json) |
 | Hell Wedding | 114502 | [114502-hell-wedding.json](./114502-hell-wedding.json) |
 | Hell Worlds Reinvigorated | 333993 | [333993-hell-worlds-reinvigorated.json](./333993-hell-worlds-reinvigorated.json) |
 | Hell Yeah Simulator | 326405 | [326405-hell-yeah-simulator.json](./326405-hell-yeah-simulator.json) |
@@ -7997,6 +7998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Hatch Adventure | 278640 | [278640-hot-hatch-adventure.json](./278640-hot-hatch-adventure.json) |
 | Hot Heat Reset | 224512 | [224512-hot-heat-reset.json](./224512-hot-heat-reset.json) |
 | Hot Hentai Puzzle Vol.1 | 163529 | [163529-hot-hentai-puzzle-vol-1.json](./163529-hot-hentai-puzzle-vol-1.json) |
+| Hot Hentai Puzzle Vol.2 | 192600 | [192600-hot-hentai-puzzle-vol-2.json](./192600-hot-hentai-puzzle-vol-2.json) |
 | Hot Homework Help | 269011 | [269011-hot-homework-help.json](./269011-hot-homework-help.json) |
 | Hot Honey | 163894 | [163894-hot-honey.json](./163894-hot-honey.json) |
 | Hot Ice | 243556 | [243556-hot-ice.json](./243556-hot-ice.json) |
