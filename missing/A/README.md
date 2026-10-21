@@ -2755,7 +2755,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -12281,6 +12280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At Night : Freakshow | 406664 | [406664-at-night-freakshow.json](./406664-at-night-freakshow.json) |
 | At Night: The Nurse | 388279 | [388279-at-night-the-nurse.json](./388279-at-night-the-nurse.json) |
 | At Night: The Student | 385371 | [385371-at-night-the-student.json](./385371-at-night-the-student.json) |
+| At Odds | 176183 | [176183-at-odds.json](./176183-at-odds.json) |
 | At Run Time | 411637 | [411637-at-run-time.json](./411637-at-run-time.json) |
 | At Sixes and Sevens | 342771 | [342771-at-sixes-and-sevens.json](./342771-at-sixes-and-sevens.json) |
 | At Sundown: Shots in the Dark | 27998 | [27998-at-sundown-shots-in-the-dark.json](./27998-at-sundown-shots-in-the-dark.json) |
