@@ -4937,6 +4937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chefrens Pyramid | 142454 | [142454-chefrens-pyramid.json](./142454-chefrens-pyramid.json) |
 | Chefs Arena | 392186 | [392186-chefs-arena.json](./392186-chefs-arena.json) |
 | Chefs Together | 284817 | [284817-chefs-together.json](./284817-chefs-together.json) |
+| ChefSquad | 176703 | [176703-chefsquad.json](./176703-chefsquad.json) |
 | ChefU | 55427 | [55427-chefu.json](./55427-chefu.json) |
 | Chefware | 376535 | [376535-chefware.json](./376535-chefware.json) |
 | Chefy-Chef | 192671 | [192671-chefy-chef.json](./192671-chefy-chef.json) |
@@ -5003,6 +5004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chernov Incident | 392852 | [392852-chernov-incident.json](./392852-chernov-incident.json) |
 | Cherokee Numbers Maze | 375494 | [375494-cherokee-numbers-maze.json](./375494-cherokee-numbers-maze.json) |
 | Cherophobia | 301978 | [301978-cherophobia.json](./301978-cherophobia.json) |
+| Cherry | 176726 | [176726-cherry.json](./176726-cherry.json) |
 | Cherry blossom | 392414 | [392414-cherry-blossom.json](./392414-cherry-blossom.json) |
 | Cherry Blossom | 380064 | [380064-cherry-blossom.json](./380064-cherry-blossom.json) |
 | Cherry Blossom Fleet | 172009 | [172009-cherry-blossom-fleet.json](./172009-cherry-blossom-fleet.json) |
@@ -7666,6 +7668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click and Collect | 199349 | [199349-click-and-collect.json](./199349-click-and-collect.json) |
 | Click and Conquer | 342682 | [342682-click-and-conquer.json](./342682-click-and-conquer.json) |
 | Click and Relax | 153420 | [153420-click-and-relax.json](./153420-click-and-relax.json) |
+| Click and Slay | 176679 | [176679-click-and-slay.json](./176679-click-and-slay.json) |
 | Click Build Repeat | 404419 | [404419-click-build-repeat.json](./404419-click-build-repeat.json) |
 | Click Click Click | 369641 | [369641-click-click-click.json](./369641-click-click-click.json) |
 | Click Cluck | 381145 | [381145-click-cluck.json](./381145-click-cluck.json) |
@@ -11100,6 +11103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core: Licht | 204969 | [204969-core-licht.json](./204969-core-licht.json) |
 | Core.Sys | 351094 | [351094-core-sys.json](./351094-core-sys.json) |
 | Coreborn | 215168 | [215168-coreborn.json](./215168-coreborn.json) |
+| CoreBreach | 176727 | [176727-corebreach.json](./176727-corebreach.json) |
 | Corecraft | 307107 | [307107-corecraft.json](./307107-corecraft.json) |
 | Coregrounds | 11344 | [11344-coregrounds.json](./11344-coregrounds.json) |
 | Corelith | 406237 | [406237-corelith.json](./406237-corelith.json) |
@@ -15389,6 +15393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Courier 2088 | 233666 | [233666-cyber-courier-2088.json](./233666-cyber-courier-2088.json) |
 | Cyber Cult City | 154083 | [154083-cyber-cult-city.json](./154083-cyber-cult-city.json) |
 | Cyber Cycles | 39829 | [39829-cyber-cycles.json](./39829-cyber-cycles.json) |
+| Cyber Diver | 176721 | [176721-cyber-diver.json](./176721-cyber-diver.json) |
 | Cyber Dodge | 42054 | [42054-cyber-dodge.json](./42054-cyber-dodge.json) |
 | Cyber Doll | 71716 | [71716-cyber-doll.json](./71716-cyber-doll.json) |
 | Cyber Dome | 62801 | [62801-cyber-dome.json](./62801-cyber-dome.json) |
