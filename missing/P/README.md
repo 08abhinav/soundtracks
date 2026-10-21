@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Megamix | 322106 | [322106-pac-man-megamix.json](./322106-pac-man-megamix.json) |
 | Pac-Man Museum: Ms. Pac-Man DLC | 343386 | [343386-pac-man-museum-ms-pac-man-dlc.json](./343386-pac-man-museum-ms-pac-man-dlc.json) |
 | Pac-Man Museum+ | 182246 | [182246-pac-man-museum.json](./182246-pac-man-museum.json) |
+| Pac-Man Palace: Festive Folleys | 182728 | [182728-pac-man-palace-festive-folleys.json](./182728-pac-man-palace-festive-folleys.json) |
 | Pac-Man Party | 5089 | [5089-pac-man-party.json](./5089-pac-man-party.json) |
 | Pac-Man Party 3D | 21723 | [21723-pac-man-party-3d.json](./21723-pac-man-party-3d.json) |
 | Pac-Man Power Pack | 145384 | [145384-pac-man-power-pack.json](./145384-pac-man-power-pack.json) |
@@ -3900,6 +3901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PewDuckPie: On the Run | 159178 | [159178-pewduckpie-on-the-run.json](./159178-pewduckpie-on-the-run.json) |
 | PewPew | 154837 | [154837-pewpew.json](./154837-pewpew.json) |
 | PewPew 2 | 140606 | [140606-pewpew-2.json](./140606-pewpew-2.json) |
+| PewPew Live | 182701 | [182701-pewpew-live.json](./182701-pewpew-live.json) |
 | PewPew! | 171373 | [171373-pewpew.json](./171373-pewpew.json) |
 | PewPewSide | 101758 | [101758-pewpewside.json](./101758-pewpewside.json) |
 | Pewt 'em Up! | 203561 | [203561-pewt-em-up.json](./203561-pewt-em-up.json) |
@@ -9139,6 +9141,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polly Pocket: Flower Surprises | 293183 | [293183-polly-pocket-flower-surprises.json](./293183-polly-pocket-flower-surprises.json) |
 | Polly Pocket: Polly Party Pickup | 293182 | [293182-polly-pocket-polly-party-pickup.json](./293182-polly-pocket-polly-party-pickup.json) |
 | Polly Pocket: Polly's Beautiful Bedroom | 293185 | [293185-polly-pocket-pollys-beautiful-bedroom.json](./293185-polly-pocket-pollys-beautiful-bedroom.json) |
+| Polly the Frog | 182713 | [182713-polly-the-frog.json](./182713-polly-the-frog.json) |
+| Polly the Frog 2: Island Hopper | 182711 | [182711-polly-the-frog-2-island-hopper.json](./182711-polly-the-frog-2-island-hopper.json) |
 | Pollywog | 386398 | [386398-pollywog.json](./386398-pollywog.json) |
 | Pollywog Peril | 245180 | [245180-pollywog-peril.json](./245180-pollywog-peril.json) |
 | Polnyj ulyot | 129105 | [129105-polnyj-ulyot.json](./129105-polnyj-ulyot.json) |
@@ -14304,6 +14308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pylon Racer | 114886 | [114886-pylon-racer.json](./114886-pylon-racer.json) |
 | Pylon Town | 234192 | [234192-pylon-town.json](./234192-pylon-town.json) |
 | Pylon: Rogue | 27745 | [27745-pylon-rogue.json](./27745-pylon-rogue.json) |
+| Pyme's Genocide | 182708 | [182708-pymes-genocide.json](./182708-pymes-genocide.json) |
 | PyNori | 336921 | [336921-pynori.json](./336921-pynori.json) |
 | Pyon-pyon Kyaruru no Mahjong-Biyori | 279678 | [279678-pyon-pyon-kyaruru-no-mahjong-biyori.json](./279678-pyon-pyon-kyaruru-no-mahjong-biyori.json) |
 | Pyongyang Racer | 64090 | [64090-pyongyang-racer.json](./64090-pyongyang-racer.json) |
