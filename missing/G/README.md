@@ -6395,6 +6395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravitron360 | 92060 | [92060-gravitron360.json](./92060-gravitron360.json) |
 | Gravitronix | 21035 | [21035-gravitronix.json](./21035-gravitronix.json) |
 | Gravitum | 187287 | [187287-gravitum.json](./187287-gravitum.json) |
+| Gravitus Minus | 185311 | [185311-gravitus-minus.json](./185311-gravitus-minus.json) |
 | GraviTV | 187291 | [187291-gravitv.json](./187291-gravitv.json) |
 | Gravity | 109175 | [109175-gravity.json](./109175-gravity.json) |
 | Gravity | 12125 | [12125-gravity.json](./12125-gravity.json) |
@@ -8015,6 +8016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gumby vs. The Astrobots | 49297 | [49297-gumby-vs-the-astrobots.json](./49297-gumby-vs-the-astrobots.json) |
 | Gumchu Girl | 137682 | [137682-gumchu-girl.json](./137682-gumchu-girl.json) |
 | Gumdrop Gladiator | 381354 | [381354-gumdrop-gladiator.json](./381354-gumdrop-gladiator.json) |
+| Gumdrops | 185331 | [185331-gumdrops.json](./185331-gumdrops.json) |
 | Gummy Bear Idle: No Job, Just Jelly | 369160 | [369160-gummy-bear-idle-no-job-just-jelly.json](./369160-gummy-bear-idle-no-job-just-jelly.json) |
 | Gummy Bears Mini Golf | 85169 | [85169-gummy-bears-mini-golf.json](./85169-gummy-bears-mini-golf.json) |
 | Gummy Bears: Magical Medallion | 50628 | [50628-gummy-bears-magical-medallion.json](./50628-gummy-bears-magical-medallion.json) |
