@@ -250,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babylon Tower | 309172 | [309172-babylon-tower.json](./309172-babylon-tower.json) |
 | Babylon X | 307136 | [307136-babylon-x.json](./307136-babylon-x.json) |
 | Babylonia | 120695 | [120695-babylonia.json](./120695-babylonia.json) |
+| Babyquick: Adventure of the Moon Dragon | 188855 | [188855-babyquick-adventure-of-the-moon-dragon.json](./188855-babyquick-adventure-of-the-moon-dragon.json) |
 | BabyRace | 255122 | [255122-babyrace.json](./255122-babyrace.json) |
 | Babysitter Simulator | 203902 | [203902-babysitter-simulator.json](./203902-babysitter-simulator.json) |
 | Babysitter Steve | 245197 | [245197-babysitter-steve.json](./245197-babysitter-steve.json) |
@@ -2696,6 +2697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Arena | 121647 | [121647-battle-arena.json](./121647-battle-arena.json) |
 | Battle Arena | 358274 | [358274-battle-arena.json](./358274-battle-arena.json) |
 | Battle Arena Nitoushinden | 44773 | [44773-battle-arena-nitoushinden.json](./44773-battle-arena-nitoushinden.json) |
+| Battle Arena Soccer | 188862 | [188862-battle-arena-soccer.json](./188862-battle-arena-soccer.json) |
 | Battle Arena Toshinden | 217927 | [217927-battle-arena-toshinden.json](./217927-battle-arena-toshinden.json) |
 | Battle Arena Toshinden | 225275 | [225275-battle-arena-toshinden.json](./225275-battle-arena-toshinden.json) |
 | Battle Arena Toshinden 2 | 1414 | [1414-battle-arena-toshinden-2.json](./1414-battle-arena-toshinden-2.json) |
@@ -6005,6 +6007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billy Boots' Treasure | 396548 | [396548-billy-boots-treasure.json](./396548-billy-boots-treasure.json) |
 | Billy Boy | 72130 | [72130-billy-boy.json](./72130-billy-boy.json) |
 | Billy Boy's Important Wine Lottery | 317404 | [317404-billy-boys-important-wine-lottery.json](./317404-billy-boys-important-wine-lottery.json) |
+| Billy Bumbum: A Cheeky Puzzler | 188828 | [188828-billy-bumbum-a-cheeky-puzzler.json](./188828-billy-bumbum-a-cheeky-puzzler.json) |
 | Billy Hatcher Hyper Shoot | 341688 | [341688-billy-hatcher-hyper-shoot.json](./341688-billy-hatcher-hyper-shoot.json) |
 | Billy Hatcher Scrambled! | 402766 | [402766-billy-hatcher-scrambled.json](./402766-billy-hatcher-scrambled.json) |
 | Billy la Banlieue | 85733 | [85733-billy-la-banlieue.json](./85733-billy-la-banlieue.json) |
@@ -8858,6 +8861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Estate | 7439 | [7439-blue-estate.json](./7439-blue-estate.json) |
 | Blue fencer Resurrection | 159860 | [159860-blue-fencer-resurrection.json](./159860-blue-fencer-resurrection.json) |
 | Blue Fire | 131868 | [131868-blue-fire.json](./131868-blue-fire.json) |
+| Blue Fire: Void Maker | 188823 | [188823-blue-fire-void-maker.json](./188823-blue-fire-void-maker.json) |
 | Blue Fire: Void of Sorrows | 223954 | [223954-blue-fire-void-of-sorrows.json](./223954-blue-fire-void-of-sorrows.json) |
 | Blue Fish and Underwater Worlds | 146275 | [146275-blue-fish-and-underwater-worlds.json](./146275-blue-fish-and-underwater-worlds.json) |
 | Blue Fish Yokohama | 212824 | [212824-blue-fish-yokohama.json](./212824-blue-fish-yokohama.json) |
