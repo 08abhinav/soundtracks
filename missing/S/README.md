@@ -3536,6 +3536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Word Gardens | 416175 | [416175-secret-word-gardens.json](./416175-secret-word-gardens.json) |
 | Secret World Legends | 28008 | [28008-secret-world-legends.json](./28008-secret-world-legends.json) |
 | Secret Writers Society | 206628 | [206628-secret-writers-society.json](./206628-secret-writers-society.json) |
+| Secretary's Hell | 183249 | [183249-secretarys-hell.json](./183249-secretarys-hell.json) |
 | SecretHitler.io | 256764 | [256764-secrethitler-io.json](./256764-secrethitler-io.json) |
 | Secrets | 179171 | [179171-secrets.json](./179171-secrets.json) |
 | Secrets After Class | 303297 | [303297-secrets-after-class.json](./303297-secrets-after-class.json) |
@@ -7452,6 +7453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuten | 330164 | [330164-shuten.json](./330164-shuten.json) |
 | Shuten Order | 344468 | [344468-shuten-order.json](./344468-shuten-order.json) |
 | Shuten Order: Digital Deluxe Edition | 345702 | [345702-shuten-order-digital-deluxe-edition.json](./345702-shuten-order-digital-deluxe-edition.json) |
+| Shutin | 183244 | [183244-shutin.json](./183244-shutin.json) |
 | Shutix | 120230 | [120230-shutix.json](./120230-shutix.json) |
 | Shutokou Battle Gaiden: Super Technic Challenge | 208469 | [208469-shutokou-battle-gaiden-super-technic-challenge.json](./208469-shutokou-battle-gaiden-super-technic-challenge.json) |
 | Shutokou Battle Online | 215852 | [215852-shutokou-battle-online.json](./215852-shutokou-battle-online.json) |
@@ -7705,6 +7707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sidereal Wanderer | 291712 | [291712-sidereal-wanderer.json](./291712-sidereal-wanderer.json) |
 | SideShow | 70364 | [70364-sideshow.json](./70364-sideshow.json) |
 | Sidewalk Fighter II | 60912 | [60912-sidewalk-fighter-ii.json](./60912-sidewalk-fighter-ii.json) |
+| Sidewalk Sidestep | 183233 | [183233-sidewalk-sidestep.json](./183233-sidewalk-sidestep.json) |
 | Sidewalk Simulator | 324294 | [324294-sidewalk-simulator.json](./324294-sidewalk-simulator.json) |
 | Sideway New York | 16273 | [16273-sideway-new-york.json](./16273-sideway-new-york.json) |
 | Sidewinder | 159249 | [159249-sidewinder.json](./159249-sidewinder.json) |
@@ -7896,6 +7899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silence Notes | 110169 | [110169-silence-notes.json](./110169-silence-notes.json) |
 | Silence of Elven Mage Rin | 372626 | [372626-silence-of-elven-mage-rin.json](./372626-silence-of-elven-mage-rin.json) |
 | Silence of the Sleep | 17819 | [17819-silence-of-the-sleep.json](./17819-silence-of-the-sleep.json) |
+| Silence of the Universe | 183263 | [183263-silence-of-the-universe.json](./183263-silence-of-the-universe.json) |
 | Silence-Dream | 310728 | [310728-silence-dream.json](./310728-silence-dream.json) |
 | Silence, Exile, and Cunning | 391061 | [391061-silence-exile-and-cunning.json](./391061-silence-exile-and-cunning.json) |
 | Silenced: The House | 89438 | [89438-silenced-the-house.json](./89438-silenced-the-house.json) |
@@ -12737,6 +12741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sombreros | 68114 | [68114-sombreros.json](./68114-sombreros.json) |
 | Some Assembly Required | 293380 | [293380-some-assembly-required.json](./293380-some-assembly-required.json) |
 | Some Assembly Required | 343827 | [343827-some-assembly-required.json](./343827-some-assembly-required.json) |
+| Some Birds Help You Escape a Diner | 183225 | [183225-some-birds-help-you-escape-a-diner.json](./183225-some-birds-help-you-escape-a-diner.json) |
 | Some Distant Memory | 121952 | [121952-some-distant-memory.json](./121952-some-distant-memory.json) |
 | Some Goodbyes We Made | 279465 | [279465-some-goodbyes-we-made.json](./279465-some-goodbyes-we-made.json) |
 | Some Heroines Climb Up a Tower to Ask God Why the Game Has a Name That's So Long | 310001 | [310001-some-heroines-climb-up-a-tower-to-ask-god-why-the-game-has-a-name-thats-so-long.json](./310001-some-heroines-climb-up-a-tower-to-ask-god-why-the-game-has-a-name-thats-so-long.json) |
@@ -13815,6 +13820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sophia's World | 173129 | [173129-sophias-world.json](./173129-sophias-world.json) |
 | Sophias Pizza Restaurant | 293636 | [293636-sophias-pizza-restaurant.json](./293636-sophias-pizza-restaurant.json) |
 | Sophica: Temples of Mystery | 114526 | [114526-sophica-temples-of-mystery.json](./114526-sophica-temples-of-mystery.json) |
+| Sophie | 183226 | [183226-sophie.json](./183226-sophie.json) |
 | Sophie: Starlight Whispers | 148440 | [148440-sophie-starlight-whispers.json](./148440-sophie-starlight-whispers.json) |
 | Sophie's Cubes | 143960 | [143960-sophies-cubes.json](./143960-sophies-cubes.json) |
 | Sophie's Dice | 119808 | [119808-sophies-dice.json](./119808-sophies-dice.json) |
@@ -19491,6 +19497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starstruck | 116842 | [116842-starstruck.json](./116842-starstruck.json) |
 | Starstruck | 239651 | [239651-starstruck.json](./239651-starstruck.json) |
 | StarStruck | 220503 | [220503-starstruck.json](./220503-starstruck.json) |
+| Starstruck Vagabond | 183227 | [183227-starstruck-vagabond.json](./183227-starstruck-vagabond.json) |
 | Starsuits! (Remastered+ Edition) | 357317 | [357317-starsuits-remastered-edition.json](./357317-starsuits-remastered-edition.json) |
 | Starsweep | 9529 | [9529-starsweep.json](./9529-starsweep.json) |
 | Starswirl Academy | 203835 | [203835-starswirl-academy.json](./203835-starswirl-academy.json) |
@@ -20489,6 +20496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticky Pigeons | 177023 | [177023-sticky-pigeons.json](./177023-sticky-pigeons.json) |
 | Sticky Sheep | 20726 | [20726-sticky-sheep.json](./20726-sticky-sheep.json) |
 | Sticky Situations | 273404 | [273404-sticky-situations.json](./273404-sticky-situations.json) |
+| Sticky Slimes | 183224 | [183224-sticky-slimes.json](./183224-sticky-slimes.json) |
 | Sticky Splats Matchup | 359437 | [359437-sticky-splats-matchup.json](./359437-sticky-splats-matchup.json) |
 | Sticky Steve's Sticky Situation | 214191 | [214191-sticky-steves-sticky-situation.json](./214191-sticky-steves-sticky-situation.json) |
 | Sticky Struggles | 286599 | [286599-sticky-struggles.json](./286599-sticky-struggles.json) |
@@ -20866,6 +20874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of a Cube | 19108 | [19108-story-of-a-cube.json](./19108-story-of-a-cube.json) |
 | Story of a Gladiator | 125747 | [125747-story-of-a-gladiator.json](./125747-story-of-a-gladiator.json) |
 | Story of a Line | 391850 | [391850-story-of-a-line.json](./391850-story-of-a-line.json) |
+| Story of a Pawn | 183262 | [183262-story-of-a-pawn.json](./183262-story-of-a-pawn.json) |
 | Story of a Tiny Earth: The Symbolic Ages | 172170 | [172170-story-of-a-tiny-earth-the-symbolic-ages.json](./172170-story-of-a-tiny-earth-the-symbolic-ages.json) |
 | Story of Eve - A Hero's Study | 110743 | [110743-story-of-eve-a-heros-study.json](./110743-story-of-eve-a-heros-study.json) |
 | Story of Heterosexuality | 333547 | [333547-story-of-heterosexuality.json](./333547-story-of-heterosexuality.json) |
@@ -25587,6 +25596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superhot Shooter 3D | 223902 | [223902-superhot-shooter-3d.json](./223902-superhot-shooter-3d.json) |
 | Superhot: One of Us Bundle | 155188 | [155188-superhot-one-of-us-bundle.json](./155188-superhot-one-of-us-bundle.json) |
 | Superhuman | 330798 | [330798-superhuman.json](./330798-superhuman.json) |
+| Superhuman Industrial and Immaterial, Incorporated | 183237 | [183237-superhuman-industrial-and-immaterial-incorporated.json](./183237-superhuman-industrial-and-immaterial-incorporated.json) |
 | SuperHyperCube | 20332 | [20332-superhypercube.json](./20332-superhypercube.json) |
 | SuperHyperHappyGame | 311186 | [311186-superhyperhappygame.json](./311186-superhyperhappygame.json) |
 | Superia | 124540 | [124540-superia.json](./124540-superia.json) |
