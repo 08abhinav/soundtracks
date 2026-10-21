@@ -255,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred Seasons 2 | 57930 | [57930-sacred-seasons-2.json](./57930-sacred-seasons-2.json) |
 | Sacred Sword Princesses | 112286 | [112286-sacred-sword-princesses.json](./112286-sacred-sword-princesses.json) |
 | Sacred Underworld | 78933 | [78933-sacred-underworld.json](./78933-sacred-underworld.json) |
+| Sacred Valley | 189871 | [189871-sacred-valley.json](./189871-sacred-valley.json) |
 | Sacred X: Heavens Wonderland | 297342 | [297342-sacred-x-heavens-wonderland.json](./297342-sacred-x-heavens-wonderland.json) |
 | Sacred Zodongga Defense | 234576 | [234576-sacred-zodongga-defense.json](./234576-sacred-zodongga-defense.json) |
 | Sacreligious | 276460 | [276460-sacreligious.json](./276460-sacreligious.json) |
@@ -477,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailing Alone: Aftermath | 312708 | [312708-sailing-alone-aftermath.json](./312708-sailing-alone-aftermath.json) |
 | Sailing Era | 223172 | [223172-sailing-era.json](./223172-sailing-era.json) |
 | Sailing Simulator: Baltic Sea & Caribbean | 195998 | [195998-sailing-simulator-baltic-sea-and-caribbean.json](./195998-sailing-simulator-baltic-sea-and-caribbean.json) |
+| Sailing Stone | 189881 | [189881-sailing-stone.json](./189881-sailing-stone.json) |
 | Sailing the Winds & New Tanks | 375160 | [375160-sailing-the-winds-and-new-tanks.json](./375160-sailing-the-winds-and-new-tanks.json) |
 | Sailist | 244333 | [244333-sailist.json](./244333-sailist.json) |
 | Sailor Cats | 202708 | [202708-sailor-cats.json](./202708-sailor-cats.json) |
@@ -991,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Chess | 149571 | [149571-samurai-chess.json](./149571-samurai-chess.json) |
 | Samurai Conqueror | 374830 | [374830-samurai-conqueror.json](./374830-samurai-conqueror.json) |
 | Samurai Cooking | 155665 | [155665-samurai-cooking.json](./155665-samurai-cooking.json) |
+| Samurai Crawler | 189868 | [189868-samurai-crawler.json](./189868-samurai-crawler.json) |
 | Samurai Daisuke | 233502 | [233502-samurai-daisuke.json](./233502-samurai-daisuke.json) |
 | Samurai Defender | 84903 | [84903-samurai-defender.json](./84903-samurai-defender.json) |
 | Samurai Defender: Ninja Warfare | 104127 | [104127-samurai-defender-ninja-warfare.json](./104127-samurai-defender-ninja-warfare.json) |
@@ -2891,6 +2894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scudhead | 275206 | [275206-scudhead.json](./275206-scudhead.json) |
 | Scuffed Rocket League | 180496 | [180496-scuffed-rocket-league.json](./180496-scuffed-rocket-league.json) |
 | Scuffle Buddies | 59861 | [59861-scuffle-buddies.json](./59861-scuffle-buddies.json) |
+| Scufflers | 189860 | [189860-scufflers.json](./189860-scufflers.json) |
 | Sculplings | 349407 | [349407-sculplings.json](./349407-sculplings.json) |
 | Sculpt | 263763 | [263763-sculpt.json](./263763-sculpt.json) |
 | Sculpt People | 289187 | [289187-sculpt-people.json](./289187-sculpt-people.json) |
@@ -12184,6 +12188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokobear: Summer | 220796 | [220796-sokobear-summer.json](./220796-sokobear-summer.json) |
 | Sokobear: Winter | 171878 | [171878-sokobear-winter.json](./171878-sokobear-winter.json) |
 | Sokobond Express | 164896 | [164896-sokobond-express.json](./164896-sokobond-express.json) |
+| Sokobos | 189863 | [189863-sokobos.json](./189863-sokobos.json) |
 | Sokobos 2 | 347350 | [347350-sokobos-2.json](./347350-sokobos-2.json) |
 | Sokobos: Aphrodite's Trial | 226621 | [226621-sokobos-aphrodites-trial.json](./226621-sokobos-aphrodites-trial.json) |
 | Sokobot | 189150 | [189150-sokobot.json](./189150-sokobot.json) |
@@ -16271,6 +16276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spheria | 83875 | [83875-spheria.json](./83875-spheria.json) |
 | Spherical | 12771 | [12771-spherical.json](./12771-spherical.json) |
 | Spheritis | 17647 | [17647-spheritis.json](./17647-spheritis.json) |
+| Spheriums | 189883 | [189883-spheriums.json](./189883-spheriums.json) |
 | Spherix | 285514 | [285514-spherix.json](./285514-spherix.json) |
 | Sphero | 290298 | [290298-sphero.json](./290298-sphero.json) |
 | Spheroid | 100149 | [100149-spheroid.json](./100149-spheroid.json) |
