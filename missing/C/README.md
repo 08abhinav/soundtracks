@@ -3069,6 +3069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Way Domino | 159552 | [159552-cat-way-domino.json](./159552-cat-way-domino.json) |
 | Cat With Gun | 363369 | [363369-cat-with-gun.json](./363369-cat-with-gun.json) |
 | Cat Word Poker | 131313 | [131313-cat-word-poker.json](./131313-cat-word-poker.json) |
+| Cat World | 201988 | [201988-cat-world.json](./201988-cat-world.json) |
 | Cat-aclysm | 251948 | [251948-cat-aclysm.json](./251948-cat-aclysm.json) |
 | Cat-Car Mission | 359421 | [359421-cat-car-mission.json](./359421-cat-car-mission.json) |
 | Cat-Like Concentration | 276721 | [276721-cat-like-concentration.json](./276721-cat-like-concentration.json) |
@@ -8599,6 +8600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Factory | 312885 | [312885-coin-factory.json](./312885-coin-factory.json) |
 | Coin Factory Idle: Money Games | 249312 | [249312-coin-factory-idle-money-games.json](./249312-coin-factory-idle-money-games.json) |
 | Coin Flipper | 219741 | [219741-coin-flipper.json](./219741-coin-flipper.json) |
+| Coin Germs | 201989 | [201989-coin-germs.json](./201989-coin-germs.json) |
 | Coin Grid | 221374 | [221374-coin-grid.json](./221374-coin-grid.json) |
 | Coin Harvest | 389480 | [389480-coin-harvest.json](./389480-coin-harvest.json) |
 | Coin Hound Lounge | 202015 | [202015-coin-hound-lounge.json](./202015-coin-hound-lounge.json) |
@@ -9851,6 +9853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Compensated Girl | 369100 | [369100-compensated-girl.json](./369100-compensated-girl.json) |
 | Compensation Not Guaranteed | 328419 | [328419-compensation-not-guaranteed.json](./328419-compensation-not-guaranteed.json) |
 | Competition Karate | 25780 | [25780-competition-karate.json](./25780-competition-karate.json) |
+| Competitions At Rosemond Hill | 202065 | [202065-competitions-at-rosemond-hill.json](./202065-competitions-at-rosemond-hill.json) |
 | Competitive Checkers | 262583 | [262583-competitive-checkers.json](./262583-competitive-checkers.json) |
 | Compilation Assassin's Creed: Brotherhood + Revelations | 151207 | [151207-compilation-assassins-creed-brotherhood-revelations.json](./151207-compilation-assassins-creed-brotherhood-revelations.json) |
 | Compilation I Tom Clancy's Ghost Recon: Advanced Warfighter 2 + Tom Clancy's EndWar | 84163 | [84163-compilation-i-tom-clancys-ghost-recon-advanced-warfighter-2-tom-clancys-endwar.json](./84163-compilation-i-tom-clancys-ghost-recon-advanced-warfighter-2-tom-clancys-endwar.json) |
