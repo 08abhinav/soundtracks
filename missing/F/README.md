@@ -4646,6 +4646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefleet | 293743 | [293743-firefleet.json](./293743-firefleet.json) |
 | Fireflies | 108671 | [108671-fireflies.json](./108671-fireflies.json) |
 | Fireflies | 125850 | [125850-fireflies.json](./125850-fireflies.json) |
+| Fireflies | 199286 | [199286-fireflies.json](./199286-fireflies.json) |
 | Fireflies | 233999 | [233999-fireflies.json](./233999-fireflies.json) |
 | Fireflies | 336718 | [336718-fireflies.json](./336718-fireflies.json) |
 | Firefly | 369859 | [369859-firefly.json](./369859-firefly.json) |
@@ -6703,6 +6704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Focus | 381028 | [381028-focus.json](./381028-focus.json) |
 | Focus | 407452 | [407452-focus.json](./407452-focus.json) |
 | Focus and Find Stereogram Training | 364087 | [364087-focus-and-find-stereogram-training.json](./364087-focus-and-find-stereogram-training.json) |
+| Focus Find | 199260 | [199260-focus-find.json](./199260-focus-find.json) |
 | Focus Friend | 367721 | [367721-focus-friend.json](./367721-focus-friend.json) |
 | Focus indies Bundle: Curse of the Dead Gods + Shady Part of Me + Aeon Must Die! | 187499 | [187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json](./187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json) |
 | Focus Knight | 398318 | [398318-focus-knight.json](./398318-focus-knight.json) |
