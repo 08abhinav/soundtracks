@@ -2145,6 +2145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KimodameshiGolf | 266976 | [266976-kimodameshigolf.json](./266976-kimodameshigolf.json) |
 | Kimokawaiii | 304184 | [304184-kimokawaiii.json](./304184-kimokawaiii.json) |
 | Kimomen Demo Kyokon nara School Caste no Chouten ni Tateru!? Gakuen Ichi no Motekawa Shuudan ni Tanetsuke Shimakuri! Yume no Gakuen Harem! | 280641 | [280641-kimomen-demo-kyokon-nara-school-caste-no-chouten-ni-tateru-gakuen-ichi-no-motekawa-shuudan-ni-tanetsuke-shimakuri-yume-no-gakuen-harem.json](./280641-kimomen-demo-kyokon-nara-school-caste-no-chouten-ni-tateru-gakuen-ichi-no-motekawa-shuudan-ni-tanetsuke-shimakuri-yume-no-gakuen-harem.json) |
+| Kimono | 177240 | [177240-kimono.json](./177240-kimono.json) |
 | Kimono Cats | 249774 | [249774-kimono-cats.json](./249774-kimono-cats.json) |
 | Kimono Girls | 286449 | [286449-kimono-girls.json](./286449-kimono-girls.json) |
 | Kin | 84169 | [84169-kin.json](./84169-kin.json) |
@@ -4326,6 +4327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krakout | 37171 | [37171-krakout.json](./37171-krakout.json) |
 | Kraktures | 318981 | [318981-kraktures.json](./318981-kraktures.json) |
 | Kram | 46878 | [46878-kram.json](./46878-kram.json) |
+| Kram Keep | 177209 | [177209-kram-keep.json](./177209-kram-keep.json) |
 | Kramer Hentai Adventure 3 | 138588 | [138588-kramer-hentai-adventure-3.json](./138588-kramer-hentai-adventure-3.json) |
 | Kramora's Shadow | 35192 | [35192-kramoras-shadow.json](./35192-kramoras-shadow.json) |
 | Krampen | 257203 | [257203-krampen.json](./257203-krampen.json) |
