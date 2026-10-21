@@ -14425,6 +14425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyro | 254353 | [254353-pyro.json](./254353-pyro.json) |
 | Pyro | 373724 | [373724-pyro.json](./373724-pyro.json) |
 | Pyro Complete Bundle | 218460 | [218460-pyro-complete-bundle.json](./218460-pyro-complete-bundle.json) |
+| Pyro Fighters | 171821 | [171821-pyro-fighters.json](./171821-pyro-fighters.json) |
 | Pyro Jump Rescue | 293149 | [293149-pyro-jump-rescue.json](./293149-pyro-jump-rescue.json) |
 | Pyro Sand | 146670 | [146670-pyro-sand.json](./146670-pyro-sand.json) |
 | Pyro the Exterminator | 130092 | [130092-pyro-the-exterminator.json](./130092-pyro-the-exterminator.json) |
