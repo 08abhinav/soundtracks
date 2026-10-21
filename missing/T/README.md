@@ -7312,6 +7312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flame's Heir | 301278 | [301278-the-flames-heir.json](./301278-the-flames-heir.json) |
 | The Flames | 176510 | [176510-the-flames.json](./176510-the-flames.json) |
 | The Flames | 200926 | [200926-the-flames.json](./200926-the-flames.json) |
+| The Flames that Follow Us | 177238 | [177238-the-flames-that-follow-us.json](./177238-the-flames-that-follow-us.json) |
 | The Flash | 100289 | [100289-the-flash.json](./100289-the-flash.json) |
 | The Flash | 387115 | [387115-the-flash.json](./387115-the-flash.json) |
 | The Flash | 48945 | [48945-the-flash.json](./48945-the-flash.json) |
@@ -8502,6 +8503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Inevitability | 28804 | [28804-the-inevitability.json](./28804-the-inevitability.json) |
 | The Inexperienced Exorcist | 393597 | [393597-the-inexperienced-exorcist.json](./393597-the-inexperienced-exorcist.json) |
 | The Infected | 138726 | [138726-the-infected.json](./138726-the-infected.json) |
+| The Infected Truth | 177214 | [177214-the-infected-truth.json](./177214-the-infected-truth.json) |
 | The Infecting 3 | 190155 | [190155-the-infecting-3.json](./190155-the-infecting-3.json) |
 | The Infectious Madness of Doctor Dekker 2 | 321046 | [321046-the-infectious-madness-of-doctor-dekker-2.json](./321046-the-infectious-madness-of-doctor-dekker-2.json) |
 | The Infernal Abyss | 337657 | [337657-the-infernal-abyss.json](./337657-the-infernal-abyss.json) |
@@ -15363,6 +15365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thirty Eternal Days | 187153 | [187153-thirty-eternal-days.json](./187153-thirty-eternal-days.json) |
 | Thirty Monsters Challenge 2: Thirty Aliens | 313964 | [313964-thirty-monsters-challenge-2-thirty-aliens.json](./313964-thirty-monsters-challenge-2-thirty-aliens.json) |
 | Thirty One Rummy | 87545 | [87545-thirty-one-rummy.json](./87545-thirty-one-rummy.json) |
+| This Ain't A Normal Game | 177206 | [177206-this-aint-a-normal-game.json](./177206-this-aint-a-normal-game.json) |
 | This Body Isn't Yours | 364659 | [364659-this-body-isnt-yours.json](./364659-this-body-isnt-yours.json) |
 | This Book Is A Dungeon | 34416 | [34416-this-book-is-a-dungeon.json](./34416-this-book-is-a-dungeon.json) |
 | This Box Conveys People | 144239 | [144239-this-box-conveys-people.json](./144239-this-box-conveys-people.json) |
@@ -20658,6 +20661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Fall | 211643 | [211643-tower-fall.json](./211643-tower-fall.json) |
 | Tower Fortress | 75968 | [75968-tower-fortress.json](./75968-tower-fortress.json) |
 | Tower FRA | 55985 | [55985-tower-fra.json](./55985-tower-fra.json) |
+| Tower Guy: Remastered | 177224 | [177224-tower-guy-remastered.json](./177224-tower-guy-remastered.json) |
 | Tower in the Sky | 30843 | [30843-tower-in-the-sky.json](./30843-tower-in-the-sky.json) |
 | Tower Inc. | 369717 | [369717-tower-inc.json](./369717-tower-inc.json) |
 | Tower Keepers | 101736 | [101736-tower-keepers.json](./101736-tower-keepers.json) |
@@ -21131,6 +21135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toz | 124200 | [124200-toz.json](./124200-toz.json) |
 | Tozerath in Ruins | 261968 | [261968-tozerath-in-ruins.json](./261968-tozerath-in-ruins.json) |
 | Toziuha Night: Dracula's Revenge | 192635 | [192635-toziuha-night-draculas-revenge.json](./192635-toziuha-night-draculas-revenge.json) |
+| Toziuha Night: Order of the Alchemists | 177207 | [177207-toziuha-night-order-of-the-alchemists.json](./177207-toziuha-night-order-of-the-alchemists.json) |
 | TP Bullet | 289930 | [289930-tp-bullet.json](./289930-tp-bullet.json) |
 | TP: Dungeon Raiders | 274393 | [274393-tp-dungeon-raiders.json](./274393-tp-dungeon-raiders.json) |
 | TPK | 372077 | [372077-tpk.json](./372077-tpk.json) |
