@@ -3547,6 +3547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Territory | 171036 | [171036-territory.json](./171036-territory.json) |
 | Territory | 57897 | [57897-territory.json](./57897-territory.json) |
 | Territory Control 2 | 204844 | [204844-territory-control-2.json](./204844-territory-control-2.json) |
+| Territory War | 194846 | [194846-territory-war.json](./194846-territory-war.json) |
 | Territory War 3 | 234156 | [234156-territory-war-3.json](./234156-territory-war-3.json) |
 | Territory War Online | 254299 | [254299-territory-war-online.json](./254299-territory-war-online.json) |
 | Territory: Farming and Fighting | 230944 | [230944-territory-farming-and-fighting.json](./230944-territory-farming-and-fighting.json) |
@@ -3602,6 +3603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrorstorm: Ground Zero | 396339 | [396339-terrorstorm-ground-zero.json](./396339-terrorstorm-ground-zero.json) |
 | Terrorween Playdate Bundle | 272820 | [272820-terrorween-playdate-bundle.json](./272820-terrorween-playdate-bundle.json) |
 | Terrovox | 197254 | [197254-terrovox.json](./197254-terrovox.json) |
+| Terry Poorflyer | 195002 | [195002-terry-poorflyer.json](./195002-terry-poorflyer.json) |
 | Terry Tales | 388274 | [388274-terry-tales.json](./388274-terry-tales.json) |
 | Terry The Turtle's Big Adventure | 315502 | [315502-terry-the-turtles-big-adventure.json](./315502-terry-the-turtles-big-adventure.json) |
 | Terry's Big Adventure | 71732 | [71732-terrys-big-adventure.json](./71732-terrys-big-adventure.json) |
@@ -5158,6 +5160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Booty Creek Cheek Freak | 303318 | [303318-the-booty-creek-cheek-freak.json](./303318-the-booty-creek-cheek-freak.json) |
 | The Booze of Monkey Island | 321206 | [321206-the-booze-of-monkey-island.json](./321206-the-booze-of-monkey-island.json) |
 | The Borderless | 406117 | [406117-the-borderless.json](./406117-the-borderless.json) |
+| The Bornless | 194855 | [194855-the-bornless.json](./194855-the-bornless.json) |
 | The Boss | 245161 | [245161-the-boss.json](./245161-the-boss.json) |
 | The Boss Baby: Get That Baby! | 256853 | [256853-the-boss-baby-get-that-baby.json](./256853-the-boss-baby-get-that-baby.json) |
 | The Boss Gangster: Criminal Empire - From the Streets | 400956 | [400956-the-boss-gangster-criminal-empire-from-the-streets.json](./400956-the-boss-gangster-criminal-empire-from-the-streets.json) |
@@ -9672,6 +9675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Link's Journey Deluxe | 241229 | [241229-the-legend-of-zelda-links-journey-deluxe.json](./241229-the-legend-of-zelda-links-journey-deluxe.json) |
 | The Legend of Zelda: Link's Shadow | 269867 | [269867-the-legend-of-zelda-links-shadow.json](./269867-the-legend-of-zelda-links-shadow.json) |
 | The Legend of Zelda: Majora's Mask - Masked Quest | 172482 | [172482-the-legend-of-zelda-majoras-mask-masked-quest.json](./172482-the-legend-of-zelda-majoras-mask-masked-quest.json) |
+| The Legend of Zelda: Majora's Mask - Master Quest | 194833 | [194833-the-legend-of-zelda-majoras-mask-master-quest.json](./194833-the-legend-of-zelda-majoras-mask-master-quest.json) |
 | The Legend of Zelda: Majora's Mask 3D | 8593 | [8593-the-legend-of-zelda-majoras-mask-3d.json](./8593-the-legend-of-zelda-majoras-mask-3d.json) |
 | The Legend of Zelda: Majora's Mask 3D - Special Edition | 141589 | [141589-the-legend-of-zelda-majoras-mask-3d-special-edition.json](./141589-the-legend-of-zelda-majoras-mask-3d-special-edition.json) |
 | The Legend of Zelda: Majora's Mask Randomizer | 241860 | [241860-the-legend-of-zelda-majoras-mask-randomizer.json](./241860-the-legend-of-zelda-majoras-mask-randomizer.json) |
@@ -19110,6 +19114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: Underworld - Limited Edition | 120162 | [120162-tomb-raider-underworld-limited-edition.json](./120162-tomb-raider-underworld-limited-edition.json) |
 | Tomb Reader: TrapLand | 103628 | [103628-tomb-reader-trapland.json](./103628-tomb-reader-trapland.json) |
 | Tomb Robber | 90655 | [90655-tomb-robber.json](./90655-tomb-robber.json) |
+| Tomb Robbing with Friends | 195001 | [195001-tomb-robbing-with-friends.json](./195001-tomb-robbing-with-friends.json) |
 | Tomb Rumble | 153408 | [153408-tomb-rumble.json](./153408-tomb-rumble.json) |
 | Tomb Rumble: Cursed Sorcerer | 170559 | [170559-tomb-rumble-cursed-sorcerer.json](./170559-tomb-rumble-cursed-sorcerer.json) |
 | Tomb Rumble: Cursed Vampire | 170558 | [170558-tomb-rumble-cursed-vampire.json](./170558-tomb-rumble-cursed-vampire.json) |
@@ -19186,6 +19191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomorrow Don't Come: Vicious Cycle | 172124 | [172124-tomorrow-dont-come-vicious-cycle.json](./172124-tomorrow-dont-come-vicious-cycle.json) |
 | Tomorrow for Mar | 199608 | [199608-tomorrow-for-mar.json](./199608-tomorrow-for-mar.json) |
 | Tomorrow is my Birthday | 260088 | [260088-tomorrow-is-my-birthday.json](./260088-tomorrow-is-my-birthday.json) |
+| Tomorrow Never Dies 64 | 194838 | [194838-tomorrow-never-dies-64.json](./194838-tomorrow-never-dies-64.json) |
 | Tomorrow Will Be Dying | 177874 | [177874-tomorrow-will-be-dying.json](./177874-tomorrow-will-be-dying.json) |
 | Tomorrow Won't Come For Those Without | 135658 | [135658-tomorrow-wont-come-for-those-without.json](./135658-tomorrow-wont-come-for-those-without.json) |
 | Tomorrow's Love Puzzle | 287722 | [287722-tomorrows-love-puzzle.json](./287722-tomorrows-love-puzzle.json) |
@@ -21120,6 +21126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traditional Tactics Mobile | 122294 | [122294-traditional-tactics-mobile.json](./122294-traditional-tactics-mobile.json) |
 | Traditional Tactics Ne | 122295 | [122295-traditional-tactics-ne.json](./122295-traditional-tactics-ne.json) |
 | Traditional Tactics Ne+ | 153818 | [153818-traditional-tactics-ne.json](./153818-traditional-tactics-ne.json) |
+| Tradle | 194841 | [194841-tradle.json](./194841-tradle.json) |
 | Traffic | 312583 | [312583-traffic.json](./312583-traffic.json) |
 | Traffic | 319601 | [319601-traffic.json](./319601-traffic.json) |
 | Traffic Chase | 173303 | [173303-traffic-chase.json](./173303-traffic-chase.json) |
