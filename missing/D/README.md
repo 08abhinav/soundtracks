@@ -4356,6 +4356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dei Agminum | 356252 | [356252-dei-agminum.json](./356252-dei-agminum.json) |
 | Deicide | 191481 | [191481-deicide.json](./191481-deicide.json) |
 | Deicide 3: Distorted Existence | 194293 | [194293-deicide-3-distorted-existence.json](./194293-deicide-3-distorted-existence.json) |
+| Deicider | 197533 | [197533-deicider.json](./197533-deicider.json) |
 | Deidthraw | 267266 | [267266-deidthraw.json](./267266-deidthraw.json) |
 | Deified | 381183 | [381183-deified.json](./381183-deified.json) |
 | Deiity | 371367 | [371367-deiity.json](./371367-deiity.json) |
@@ -4487,6 +4488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deliverage | 406212 | [406212-deliverage.json](./406212-deliverage.json) |
 | Deliverance | 14639 | [14639-deliverance.json](./14639-deliverance.json) |
 | Deliverance | 195242 | [195242-deliverance.json](./195242-deliverance.json) |
+| Deliverance | 197567 | [197567-deliverance.json](./197567-deliverance.json) |
 | Deliverance | 221655 | [221655-deliverance.json](./221655-deliverance.json) |
 | Deliverance | 322670 | [322670-deliverance.json](./322670-deliverance.json) |
 | Deliverance | 322990 | [322990-deliverance.json](./322990-deliverance.json) |
@@ -8231,6 +8233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DIY My Lady | 163945 | [163945-diy-my-lady.json](./163945-diy-my-lady.json) |
 | DIY Paper Doll | 277026 | [277026-diy-paper-doll.json](./277026-diy-paper-doll.json) |
 | DIY Slime Maker! Squishy ASMR | 106593 | [106593-diy-slime-maker-squishy-asmr.json](./106593-diy-slime-maker-squishy-asmr.json) |
+| DIY Tour: Indie Rock Simulator | 197552 | [197552-diy-tour-indie-rock-simulator.json](./197552-diy-tour-indie-rock-simulator.json) |
 | Dizzel | 63687 | [63687-dizzel.json](./63687-dizzel.json) |
 | Dizziness | 181375 | [181375-dizziness.json](./181375-dizziness.json) |
 | Dizzy 3 and a Half: Into Magicland | 45239 | [45239-dizzy-3-and-a-half-into-magicland.json](./45239-dizzy-3-and-a-half-into-magicland.json) |
