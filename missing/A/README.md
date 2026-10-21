@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Walk Through Echoes | 159708 | [159708-a-walk-through-echoes.json](./159708-a-walk-through-echoes.json) |
 | A Walk With Yiayia | 151184 | [151184-a-walk-with-yiayia.json](./151184-a-walk-with-yiayia.json) |
 | A Wanderer's Tale: Celebration of the Century | 266415 | [266415-a-wanderers-tale-celebration-of-the-century.json](./266415-a-wanderers-tale-celebration-of-the-century.json) |
+| A War of a Madman's Making | 201451 | [201451-a-war-of-a-madmans-making.json](./201451-a-war-of-a-madmans-making.json) |
 | A War On Christmas 3: World War C | 326632 | [326632-a-war-on-christmas-3-world-war-c.json](./326632-a-war-on-christmas-3-world-war-c.json) |
 | A War On Christmas: Part 2 | 279773 | [279773-a-war-on-christmas-part-2.json](./279773-a-war-on-christmas-part-2.json) |
 | A War Story | 55765 | [55765-a-war-story.json](./55765-a-war-story.json) |
@@ -11772,6 +11773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astoria VR | 201250 | [201250-astoria-vr.json](./201250-astoria-vr.json) |
 | Astoria: Fate's Kiss | 308058 | [308058-astoria-fates-kiss.json](./308058-astoria-fates-kiss.json) |
 | Astoria: The Holders of Power Saga | 51427 | [51427-astoria-the-holders-of-power-saga.json](./51427-astoria-the-holders-of-power-saga.json) |
+| Astortion | 201520 | [201520-astortion.json](./201520-astortion.json) |
 | Astra and The New Constellation | 240119 | [240119-astra-and-the-new-constellation.json](./240119-astra-and-the-new-constellation.json) |
 | Astra Defender | 223311 | [223311-astra-defender.json](./223311-astra-defender.json) |
 | Astra Etherium | 61027 | [61027-astra-etherium.json](./61027-astra-etherium.json) |
