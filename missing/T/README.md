@@ -7546,6 +7546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Life: Path to Success | 207002 | [207002-the-game-of-life-path-to-success.json](./207002-the-game-of-life-path-to-success.json) |
 | The Game of Life: RPG Jinsei Game | 48819 | [48819-the-game-of-life-rpg-jinsei-game.json](./48819-the-game-of-life-rpg-jinsei-game.json) |
 | The Game of Life: SpongeBob SquarePants Edition | 207003 | [207003-the-game-of-life-spongebob-squarepants-edition.json](./207003-the-game-of-life-spongebob-squarepants-edition.json) |
+| The Game of Squids: Ultimate Parody Game | 181000 | [181000-the-game-of-squids-ultimate-parody-game.json](./181000-the-game-of-squids-ultimate-parody-game.json) |
 | The Game of The Playful | 230930 | [230930-the-game-of-the-playful.json](./230930-the-game-of-the-playful.json) |
 | The Game of Unknown | 195127 | [195127-the-game-of-unknown.json](./195127-the-game-of-unknown.json) |
 | The Game of Worlds Tournament! | 57485 | [57485-the-game-of-worlds-tournament.json](./57485-the-game-of-worlds-tournament.json) |
@@ -9095,6 +9096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Caretaker | 333443 | [333443-the-last-caretaker.json](./333443-the-last-caretaker.json) |
 | The Last Case of John Morley | 366598 | [366598-the-last-case-of-john-morley.json](./366598-the-last-case-of-john-morley.json) |
 | The Last Catalyst | 277613 | [277613-the-last-catalyst.json](./277613-the-last-catalyst.json) |
+| The Last Cell | 181020 | [181020-the-last-cell.json](./181020-the-last-cell.json) |
 | The Last Child | 289998 | [289998-the-last-child.json](./289998-the-last-child.json) |
 | The Last Chronomancer | 146352 | [146352-the-last-chronomancer.json](./146352-the-last-chronomancer.json) |
 | The Last City | 202724 | [202724-the-last-city.json](./202724-the-last-city.json) |
@@ -11750,6 +11752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Raid of Brunswick | 397919 | [397919-the-raid-of-brunswick.json](./397919-the-raid-of-brunswick.json) |
 | The Raiden Project | 20301 | [20301-the-raiden-project.json](./20301-the-raiden-project.json) |
 | The Railroad Works | 72047 | [72047-the-railroad-works.json](./72047-the-railroad-works.json) |
+| The Railway | 180999 | [180999-the-railway.json](./180999-the-railway.json) |
 | The Railway Station | 273228 | [273228-the-railway-station.json](./273228-the-railway-station.json) |
 | The Rain Spirit : Code Breaker | 29678 | [29678-the-rain-spirit-code-breaker.json](./29678-the-rain-spirit-code-breaker.json) |
 | The Rainbow Machine | 54972 | [54972-the-rainbow-machine.json](./54972-the-rainbow-machine.json) |
@@ -19457,6 +19460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Many Bots | 366889 | [366889-too-many-bots.json](./366889-too-many-bots.json) |
 | Too Many Cooks | 375838 | [375838-too-many-cooks.json](./375838-too-many-cooks.json) |
 | Too many Geckos! | 148127 | [148127-too-many-geckos.json](./148127-too-many-geckos.json) |
+| Too Many Humans | 181014 | [181014-too-many-humans.json](./181014-too-many-humans.json) |
 | Too Many Kittens | 269839 | [269839-too-many-kittens.json](./269839-too-many-kittens.json) |
 | Too Many Me | 11011 | [11011-too-many-me.json](./11011-too-many-me.json) |
 | Too Many Nights | 315475 | [315475-too-many-nights.json](./315475-too-many-nights.json) |
@@ -25029,6 +25033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TV Thief | 190748 | [190748-tv-thief.json](./190748-tv-thief.json) |
 | TV Tycoon | 206630 | [206630-tv-tycoon.json](./206630-tv-tycoon.json) |
 | TV Vader | 250900 | [250900-tv-vader.json](./250900-tv-vader.json) |
+| TV Yarou Nanana: Get the Scoop! | 180992 | [180992-tv-yarou-nanana-get-the-scoop.json](./180992-tv-yarou-nanana-get-the-scoop.json) |
 | TV-Chan's Great Escape! | 358639 | [358639-tv-chans-great-escape.json](./358639-tv-chans-great-escape.json) |
 | TV1998 | 257354 | [257354-tv1998.json](./257354-tv1998.json) |
 | TVG Journey | 197563 | [197563-tvg-journey.json](./197563-tvg-journey.json) |
