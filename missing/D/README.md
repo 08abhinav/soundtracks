@@ -321,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daiku no Gen-san 2: Akage no Dan no Gyakushuu | 48527 | [48527-daiku-no-gen-san-2-akage-no-dan-no-gyakushuu.json](./48527-daiku-no-gen-san-2-akage-no-dan-no-gyakushuu.json) |
 | Daiku no Gen-san: Kachi-kachi no Tonkachi ga Kachi | 50563 | [50563-daiku-no-gen-san-kachi-kachi-no-tonkachi-ga-kachi.json](./50563-daiku-no-gen-san-kachi-kachi-no-tonkachi-ga-kachi.json) |
 | Daiku no Medium | 159106 | [159106-daiku-no-medium.json](./159106-daiku-no-medium.json) |
+| Daily | 183234 | [183234-daily.json](./183234-daily.json) |
 | Daily Bubble | 224069 | [224069-daily-bubble.json](./224069-daily-bubble.json) |
 | Daily Burden | 390589 | [390589-daily-burden.json](./390589-daily-burden.json) |
 | Daily Chthonicle | 57103 | [57103-daily-chthonicle.json](./57103-daily-chthonicle.json) |
@@ -7577,6 +7578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disconcerting Unease 1 | 275313 | [275313-disconcerting-unease-1.json](./275313-disconcerting-unease-1.json) |
 | Disconcerting Unease 2 | 275320 | [275320-disconcerting-unease-2.json](./275320-disconcerting-unease-2.json) |
 | Disconcordia | 402940 | [402940-disconcordia.json](./402940-disconcordia.json) |
+| Disconnect | 183240 | [183240-disconnect.json](./183240-disconnect.json) |
 | Disconnected | 108899 | [108899-disconnected.json](./108899-disconnected.json) |
 | Disconnected | 184066 | [184066-disconnected.json](./184066-disconnected.json) |
 | Discontrolled | 299565 | [299565-discontrolled.json](./299565-discontrolled.json) |
@@ -10220,6 +10222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot Valley | 362721 | [362721-dot-valley.json](./362721-dot-valley.json) |
 | Dot. | 94201 | [94201-dot.json](./94201-dot.json) |
 | Dot. | 96618 | [96618-dot.json](./96618-dot.json) |
+| Dot.Market 2 | 183236 | [183236-dot-market-2.json](./183236-dot-market-2.json) |
 | Dot's Home | 172440 | [172440-dots-home.json](./172440-dots-home.json) |
 | Dota | 233022 | [233022-dota.json](./233022-dota.json) |
 | Dota 2: New Frontiers | 246900 | [246900-dota-2-new-frontiers.json](./246900-dota-2-new-frontiers.json) |
@@ -12501,6 +12504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DriftZ | 168133 | [168133-driftz.json](./168133-driftz.json) |
 | Drihoo | 194332 | [194332-drihoo.json](./194332-drihoo.json) |
 | DRiiFT Mania | 51117 | [51117-driift-mania.json](./51117-driift-mania.json) |
+| Dril Simulator 2018 | 183254 | [183254-dril-simulator-2018.json](./183254-dril-simulator-2018.json) |
 | Drill and Collect | 249681 | [249681-drill-and-collect.json](./249681-drill-and-collect.json) |
 | Drill and Delve | 382231 | [382231-drill-and-delve.json](./382231-drill-and-delve.json) |
 | Drill and Dig! | 296817 | [296817-drill-and-dig.json](./296817-drill-and-dig.json) |
