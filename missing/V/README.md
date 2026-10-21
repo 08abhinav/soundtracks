@@ -2613,6 +2613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VoidExpanse: Pariahs' Bane | 171331 | [171331-voidexpanse-pariahs-bane.json](./171331-voidexpanse-pariahs-bane.json) |
 | Voidface | 332424 | [332424-voidface.json](./332424-voidface.json) |
 | VoidGate | 111447 | [111447-voidgate.json](./111447-voidgate.json) |
+| Voidhunter | 184221 | [184221-voidhunter.json](./184221-voidhunter.json) |
 | Voidhunter | 216851 | [216851-voidhunter.json](./216851-voidhunter.json) |
 | Voidigo | 143639 | [143639-voidigo.json](./143639-voidigo.json) |
 | Voidland Mystery Goodnight | 215225 | [215225-voidland-mystery-goodnight.json](./215225-voidland-mystery-goodnight.json) |
