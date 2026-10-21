@@ -4301,6 +4301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krai. Digital-Poetry Vol. 1 | 191452 | [191452-krai-digital-poetry-vol-1.json](./191452-krai-digital-poetry-vol-1.json) |
 | Kraino | 91143 | [91143-kraino.json](./91143-kraino.json) |
 | Kraino Origins | 211149 | [211149-kraino-origins.json](./211149-kraino-origins.json) |
+| Kraino ReAnimated | 181566 | [181566-kraino-reanimated.json](./181566-kraino-reanimated.json) |
 | Krakatoa | 45368 | [45368-krakatoa.json](./45368-krakatoa.json) |
 | Krakels ABC: Den galna dammsugaren | 97704 | [97704-krakels-abc-den-galna-dammsugaren.json](./97704-krakels-abc-den-galna-dammsugaren.json) |
 | Krakels ABC: Det Magiska Äventyret | 97703 | [97703-krakels-abc-det-magiska-aventyret.json](./97703-krakels-abc-det-magiska-aventyret.json) |
