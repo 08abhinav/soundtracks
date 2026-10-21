@@ -713,6 +713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Pirate Game About Digging for Treasure and Getting Drunk | 357003 | [357003-a-pirate-game-about-digging-for-treasure-and-getting-drunk.json](./357003-a-pirate-game-about-digging-for-treasure-and-getting-drunk.json) |
 | A Pirate Quartermaster | 120698 | [120698-a-pirate-quartermaster.json](./120698-a-pirate-quartermaster.json) |
 | A Pirate's End | 176276 | [176276-a-pirates-end.json](./176276-a-pirates-end.json) |
+| A Pirate's Pleasure: Bonus Stories | 193124 | [193124-a-pirates-pleasure-bonus-stories.json](./193124-a-pirates-pleasure-bonus-stories.json) |
 | A Pixel Story | 27210 | [27210-a-pixel-story.json](./27210-a-pixel-story.json) |
 | A Place Far Away | 367479 | [367479-a-place-far-away.json](./367479-a-place-far-away.json) |
 | A Place for the Unwilling | 18653 | [18653-a-place-for-the-unwilling.json](./18653-a-place-for-the-unwilling.json) |
@@ -1737,6 +1738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Academy of Drift | 268336 | [268336-academy-of-drift.json](./268336-academy-of-drift.json) |
 | Academy of Magic: A New Beginning | 365802 | [365802-academy-of-magic-a-new-beginning.json](./365802-academy-of-magic-a-new-beginning.json) |
 | Academy of Magic: Dark Possession | 153877 | [153877-academy-of-magic-dark-possession.json](./153877-academy-of-magic-dark-possession.json) |
+| Academy Quest | 193248 | [193248-academy-quest.json](./193248-academy-quest.json) |
 | Academy Romance 7 | 185077 | [185077-academy-romance-7.json](./185077-academy-romance-7.json) |
 | Academy Z: Beginning of the catastrophe | 179935 | [179935-academy-z-beginning-of-the-catastrophe.json](./179935-academy-z-beginning-of-the-catastrophe.json) |
 | Academy: Checkers | 84734 | [84734-academy-checkers.json](./84734-academy-checkers.json) |
@@ -3361,6 +3363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires III: Complete Collection | 28723 | [28723-age-of-empires-iii-complete-collection.json](./28723-age-of-empires-iii-complete-collection.json) |
 | Age of Empires III: Definitive Edition | 55057 | [55057-age-of-empires-iii-definitive-edition.json](./55057-age-of-empires-iii-definitive-edition.json) |
 | Age of Empires III: Definitive Edition - Knights of the Mediterranean | 202424 | [202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json](./202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json) |
+| Age of Empires III: Definitive Edition - Mexico Civilization | 193234 | [193234-age-of-empires-iii-definitive-edition-mexico-civilization.json](./193234-age-of-empires-iii-definitive-edition-mexico-civilization.json) |
 | Age of Empires III: Definitive Edition - United States Civilization | 164609 | [164609-age-of-empires-iii-definitive-edition-united-states-civilization.json](./164609-age-of-empires-iii-definitive-edition-united-states-civilization.json) |
 | Age of Empires III: Definitive Edition – Hero Cosmetic Pack: Lizzie | 265617 | [265617-age-of-empires-iii-definitive-edition-hero-cosmetic-pack-lizzie.json](./265617-age-of-empires-iii-definitive-edition-hero-cosmetic-pack-lizzie.json) |
 | Age of Empires III: The Asian Dynasties Mobile | 145574 | [145574-age-of-empires-iii-the-asian-dynasties-mobile.json](./145574-age-of-empires-iii-the-asian-dynasties-mobile.json) |
