@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RabbitConquest | 250260 | [250260-rabbitconquest.json](./250260-rabbitconquest.json) |
 | RabbitHole Island: Turn-based Vtuber Battles | 374387 | [374387-rabbithole-island-turn-based-vtuber-battles.json](./374387-rabbithole-island-turn-based-vtuber-battles.json) |
 | RabbitJack's Casino | 67960 | [67960-rabbitjacks-casino.json](./67960-rabbitjacks-casino.json) |
+| Rabbitoad | 203663 | [203663-rabbitoad.json](./203663-rabbitoad.json) |
 | Rabbitra 2 | 291846 | [291846-rabbitra-2.json](./291846-rabbitra-2.json) |
 | Rabbits and Magic | 315787 | [315787-rabbits-and-magic.json](./315787-rabbits-and-magic.json) |
 | Rabby in the Land of Sweets | 165646 | [165646-rabby-in-the-land-of-sweets.json](./165646-rabby-in-the-land-of-sweets.json) |
@@ -675,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rageball | 43894 | [43894-rageball.json](./43894-rageball.json) |
 | Rageball League | 174754 | [174754-rageball-league.json](./174754-rageball-league.json) |
 | RageByte | 383677 | [383677-ragebyte.json](./383677-ragebyte.json) |
+| Ragedanger Earth | 203664 | [203664-ragedanger-earth.json](./203664-ragedanger-earth.json) |
 | RageFall | 391191 | [391191-ragefall.json](./391191-ragefall.json) |
 | Rager | 295512 | [295512-rager.json](./295512-rager.json) |
 | Raggie Run | 202130 | [202130-raggie-run.json](./202130-raggie-run.json) |
@@ -2699,6 +2701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recoiled | 149498 | [149498-recoiled.json](./149498-recoiled.json) |
 | Recolit | 152179 | [152179-recolit.json](./152179-recolit.json) |
 | Recollect: Coloring Book | 106002 | [106002-recollect-coloring-book.json](./106002-recollect-coloring-book.json) |
+| Recollection | 203747 | [203747-recollection.json](./203747-recollection.json) |
 | Recollection | 343806 | [343806-recollection.json](./343806-recollection.json) |
 | Recolorize | 357104 | [357104-recolorize.json](./357104-recolorize.json) |
 | Recon Control | 156914 | [156914-recon-control.json](./156914-recon-control.json) |
@@ -5756,6 +5759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring Sculptors | 313155 | [313155-ring-sculptors.json](./313155-ring-sculptors.json) |
 | Ring Stars | 261508 | [261508-ring-stars.json](./261508-ring-stars.json) |
 | Ring Toss Legend | 408939 | [408939-ring-toss-legend.json](./408939-ring-toss-legend.json) |
+| Ring War | 203662 | [203662-ring-war.json](./203662-ring-war.json) |
 | Ring Wars | 56582 | [56582-ring-wars.json](./56582-ring-wars.json) |
 | Ringash | 244299 | [244299-ringash.json](./244299-ringash.json) |
 | Ringbound | 397931 | [397931-ringbound.json](./397931-ringbound.json) |
@@ -6342,6 +6346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Construction Ahead | 313294 | [313294-road-construction-ahead.json](./313294-road-construction-ahead.json) |
 | Road Construction Simulator | 10777 | [10777-road-construction-simulator.json](./10777-road-construction-simulator.json) |
 | Road Dealer Simulator | 253571 | [253571-road-dealer-simulator.json](./253571-road-dealer-simulator.json) |
+| Road Defense: Outsiders | 203754 | [203754-road-defense-outsiders.json](./203754-road-defense-outsiders.json) |
 | Road Diner Simulator | 190463 | [190463-road-diner-simulator.json](./190463-road-diner-simulator.json) |
 | Road Dogs | 28673 | [28673-road-dogs.json](./28673-road-dogs.json) |
 | Road Domination | 236860 | [236860-road-domination.json](./236860-road-domination.json) |
