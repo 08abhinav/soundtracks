@@ -5857,6 +5857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Mio | 174801 | [174801-detective-mio.json](./174801-detective-mio.json) |
 | Detective Mouse | 278865 | [278865-detective-mouse.json](./278865-detective-mouse.json) |
 | Detective Noir | 29608 | [29608-detective-noir.json](./29608-detective-noir.json) |
+| Detective Notes: Lighthouse Mystery Solitaire | 172384 | [172384-detective-notes-lighthouse-mystery-solitaire.json](./172384-detective-notes-lighthouse-mystery-solitaire.json) |
 | Detective Novels Bundle | 125129 | [125129-detective-novels-bundle.json](./125129-detective-novels-bundle.json) |
 | Detective of the Dead | 318179 | [318179-detective-of-the-dead.json](./318179-detective-of-the-dead.json) |
 | Detective Olivia: The Cult of Whisperers | 294448 | [294448-detective-olivia-the-cult-of-whisperers.json](./294448-detective-olivia-the-cult-of-whisperers.json) |
@@ -8676,6 +8677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodgeball Dojo | 309062 | [309062-dodgeball-dojo.json](./309062-dodgeball-dojo.json) |
 | Dodgeball Duel | 208063 | [208063-dodgeball-duel.json](./208063-dodgeball-duel.json) |
 | Dodgeball Simulator VR | 113605 | [113605-dodgeball-simulator-vr.json](./113605-dodgeball-simulator-vr.json) |
+| DodgeBall VR | 172373 | [172373-dodgeball-vr.json](./172373-dodgeball-vr.json) |
 | DodgeBall: Unleashed | 130071 | [130071-dodgeball-unleashed.json](./130071-dodgeball-unleashed.json) |
 | DodgeBlock | 172420 | [172420-dodgeblock.json](./172420-dodgeblock.json) |
 | Dodgebrawl | 403171 | [403171-dodgebrawl.json](./403171-dodgebrawl.json) |
