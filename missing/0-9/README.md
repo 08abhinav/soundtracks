@@ -1823,6 +1823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Puzzle: Wood House | 192241 | [192241-3d-puzzle-wood-house.json](./192241-3d-puzzle-wood-house.json) |
 | 3D Quasars | 12356 | [12356-3d-quasars.json](./12356-3d-quasars.json) |
 | 3D Rally Racing | 175178 | [175178-3d-rally-racing.json](./175178-3d-rally-racing.json) |
+| 3D Realms Anthology | 172419 | [172419-3d-realms-anthology.json](./172419-3d-realms-anthology.json) |
 | 3D Recon | 57651 | [57651-3d-recon.json](./57651-3d-recon.json) |
 | 3D Retro Dungeon Puzzle Challenge | 100567 | [100567-3d-retro-dungeon-puzzle-challenge.json](./100567-3d-retro-dungeon-puzzle-challenge.json) |
 | 3D Reversi | 54936 | [54936-3d-reversi.json](./54936-3d-reversi.json) |
