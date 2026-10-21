@@ -3431,6 +3431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death of the Augnob | 251198 | [251198-death-of-the-augnob.json](./251198-death-of-the-augnob.json) |
 | Death of the King | 314040 | [314040-death-of-the-king.json](./314040-death-of-the-king.json) |
 | Death of the Reprobate | 217250 | [217250-death-of-the-reprobate.json](./217250-death-of-the-reprobate.json) |
+| Death off the Cuff: Remastered | 174021 | [174021-death-off-the-cuff-remastered.json](./174021-death-off-the-cuff-remastered.json) |
 | Death On Holly Ridge | 381319 | [381319-death-on-holly-ridge.json](./381319-death-on-holly-ridge.json) |
 | Death or Glory | 13577 | [13577-death-or-glory.json](./13577-death-or-glory.json) |
 | Death or Glory | 195934 | [195934-death-or-glory.json](./195934-death-or-glory.json) |
@@ -5178,6 +5179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depthbound Descent | 403793 | [403793-depthbound-descent.json](./403793-depthbound-descent.json) |
 | DepthLess | 349450 | [349450-depthless.json](./349450-depthless.json) |
 | DepthMera | 55511 | [55511-depthmera.json](./55511-depthmera.json) |
+| Depthqvr Aqua | 174038 | [174038-depthqvr-aqua.json](./174038-depthqvr-aqua.json) |
 | Depthris | 263973 | [263973-depthris.json](./263973-depthris.json) |
 | Depths Debris | 339074 | [339074-depths-debris.json](./339074-depths-debris.json) |
 | Depths Of Apollyon | 351123 | [351123-depths-of-apollyon.json](./351123-depths-of-apollyon.json) |
@@ -9262,6 +9264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Cock It Up | 66768 | [66768-dont-cock-it-up.json](./66768-dont-cock-it-up.json) |
 | Don't Crash Go | 85092 | [85092-dont-crash-go.json](./85092-dont-crash-go.json) |
 | Don't Crash: The Political Game | 159863 | [159863-dont-crash-the-political-game.json](./159863-dont-crash-the-political-game.json) |
+| Don't Crash: The Zombie Game | 174022 | [174022-dont-crash-the-zombie-game.json](./174022-dont-crash-the-zombie-game.json) |
 | Don't Cross the Line | 85091 | [85091-dont-cross-the-line.json](./85091-dont-cross-the-line.json) |
 | Don't Cross the Streams | 202018 | [202018-dont-cross-the-streams.json](./202018-dont-cross-the-streams.json) |
 | Don't Cut Your Hand 2 | 158729 | [158729-dont-cut-your-hand-2.json](./158729-dont-cut-your-hand-2.json) |
@@ -13617,6 +13620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon D14 | 163573 | [163573-dungeon-d14.json](./163573-dungeon-d14.json) |
 | Dungeon Dad | 191832 | [191832-dungeon-dad.json](./191832-dungeon-dad.json) |
 | Dungeon Dan | 156028 | [156028-dungeon-dan.json](./156028-dungeon-dan.json) |
+| Dungeon Danger Traps | 174043 | [174043-dungeon-danger-traps.json](./174043-dungeon-danger-traps.json) |
 | Dungeon Danger Traps 2 | 372543 | [372543-dungeon-danger-traps-2.json](./372543-dungeon-danger-traps-2.json) |
 | Dungeon Darkness | 176215 | [176215-dungeon-darkness.json](./176215-dungeon-darkness.json) |
 | Dungeon Dealer | 179064 | [179064-dungeon-dealer.json](./179064-dungeon-dealer.json) |
