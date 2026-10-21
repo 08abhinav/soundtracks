@@ -389,10 +389,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octapolis | 55030 | [55030-octapolis.json](./55030-octapolis.json) |
 | OctaRace | 273818 | [273818-octarace.json](./273818-octarace.json) |
 | Octarina | 150760 | [150760-octarina.json](./150760-octarina.json) |
+| Octarine | 184246 | [184246-octarine.json](./184246-octarine.json) |
 | Octave | 180675 | [180675-octave.json](./180675-octave.json) |
 | Octavian | 169153 | [169153-octavian.json](./169153-octavian.json) |
 | Octavio Camacho | 247537 | [247537-octavio-camacho.json](./247537-octavio-camacho.json) |
 | Octbuster: Video Rental Store Cleanup | 414500 | [414500-octbuster-video-rental-store-cleanup.json](./414500-octbuster-video-rental-store-cleanup.json) |
+| Octet | 184249 | [184249-octet.json](./184249-octet.json) |
 | Octillery Vs. Collection | 399055 | [399055-octillery-vs-collection.json](./399055-octillery-vs-collection.json) |
 | Octo Crank | 418589 | [418589-octo-crank.json](./418589-octo-crank.json) |
 | Octo Curse | 251015 | [251015-octo-curse.json](./251015-octo-curse.json) |
