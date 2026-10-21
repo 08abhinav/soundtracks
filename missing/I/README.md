@@ -1452,6 +1452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ifighter 2: The Pacific 1942 | 341075 | [341075-ifighter-2-the-pacific-1942.json](./341075-ifighter-2-the-pacific-1942.json) |
 | iFishing 2: Saltwater Edition | 97446 | [97446-ifishing-2-saltwater-edition.json](./97446-ifishing-2-saltwater-edition.json) |
 | iFishing 3 | 97447 | [97447-ifishing-3.json](./97447-ifishing-3.json) |
+| IFO | 199772 | [199772-ifo.json](./199772-ifo.json) |
 | Ifrit | 215344 | [215344-ifrit.json](./215344-ifrit.json) |
 | IfSunSets | 272172 | [272172-ifsunsets.json](./272172-ifsunsets.json) |
 | Iftar for Two | 364233 | [364233-iftar-for-two.json](./364233-iftar-for-two.json) |
