@@ -2963,6 +2963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Fate Awakening | 196534 | [196534-battle-of-fate-awakening.json](./196534-battle-of-fate-awakening.json) |
 | Battle of Figures | 233400 | [233400-battle-of-figures.json](./233400-battle-of-figures.json) |
 | Battle of Finland: Winter War | 193483 | [193483-battle-of-finland-winter-war.json](./193483-battle-of-finland-winter-war.json) |
+| Battle of Fortresses | 188278 | [188278-battle-of-fortresses.json](./188278-battle-of-fortresses.json) |
 | Battle of Frigates | 61595 | [61595-battle-of-frigates.json](./61595-battle-of-frigates.json) |
 | Battle of Genesis | 269045 | [269045-battle-of-genesis.json](./269045-battle-of-genesis.json) |
 | Battle of Giants: Dinosaurs - Fight For Survival | 66885 | [66885-battle-of-giants-dinosaurs-fight-for-survival.json](./66885-battle-of-giants-dinosaurs-fight-for-survival.json) |
@@ -8205,6 +8206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky Ball | 151040 | [151040-blocky-ball.json](./151040-blocky-ball.json) |
 | Blocky Bee | 26685 | [26685-blocky-bee.json](./26685-blocky-bee.json) |
 | Blocky Cars In Real World | 175332 | [175332-blocky-cars-in-real-world.json](./175332-blocky-cars-in-real-world.json) |
+| Blocky Castle: Tower Challenge | 188304 | [188304-blocky-castle-tower-challenge.json](./188304-blocky-castle-tower-challenge.json) |
 | Blocky Cops | 102697 | [102697-blocky-cops.json](./102697-blocky-cops.json) |
 | Blocky Dungeon | 203913 | [203913-blocky-dungeon.json](./203913-blocky-dungeon.json) |
 | Blocky Farm | 99878 | [99878-blocky-farm.json](./99878-blocky-farm.json) |
