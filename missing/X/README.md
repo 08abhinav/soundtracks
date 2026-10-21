@@ -832,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xump: The Final Run | 153828 | [153828-xump-the-final-run.json](./153828-xump-the-final-run.json) |
 | Xurb | 292382 | [292382-xurb.json](./292382-xurb.json) |
 | Xuxa | 281455 | [281455-xuxa.json](./281455-xuxa.json) |
+| Xuxa e os Duendes 2: No Caminho das Fadas | 185904 | [185904-xuxa-e-os-duendes-2-no-caminho-das-fadas.json](./185904-xuxa-e-os-duendes-2-no-caminho-das-fadas.json) |
 | XV | 212778 | [212778-xv.json](./212778-xv.json) |
 | Xvirus | 397009 | [397009-xvirus.json](./397009-xvirus.json) |
 | XVM | 277404 | [277404-xvm.json](./277404-xvm.json) |
