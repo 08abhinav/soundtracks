@@ -1379,6 +1379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard as Nails | 371636 | [371636-hard-as-nails.json](./371636-hard-as-nails.json) |
 | Hard Ball Wikie | 196890 | [196890-hard-ball-wikie.json](./196890-hard-ball-wikie.json) |
 | Hard Battle | 268903 | [268903-hard-battle.json](./268903-hard-battle.json) |
+| Hard Block Girls: Sex Life | 199814 | [199814-hard-block-girls-sex-life.json](./199814-hard-block-girls-sex-life.json) |
 | Hard Boiled | 228883 | [228883-hard-boiled.json](./228883-hard-boiled.json) |
 | Hard Brain | 266882 | [266882-hard-brain.json](./266882-hard-brain.json) |
 | Hard Bullet | 139702 | [139702-hard-bullet.json](./139702-hard-bullet.json) |
@@ -2964,6 +2965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helicopter 2022 | 220816 | [220816-helicopter-2022.json](./220816-helicopter-2022.json) |
 | Helicopter Escape 3D | 249679 | [249679-helicopter-escape-3d.json](./249679-helicopter-escape-3d.json) |
 | Helicopter Flight Simulator | 319980 | [319980-helicopter-flight-simulator.json](./319980-helicopter-flight-simulator.json) |
+| Helicopter Game | 199806 | [199806-helicopter-game.json](./199806-helicopter-game.json) |
 | Helicopter Gunship DEX | 208606 | [208606-helicopter-gunship-dex.json](./208606-helicopter-gunship-dex.json) |
 | Helicopter Mission | 73853 | [73853-helicopter-mission.json](./73853-helicopter-mission.json) |
 | Helicopter Rescue | 41536 | [41536-helicopter-rescue.json](./41536-helicopter-rescue.json) |
