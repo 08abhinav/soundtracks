@@ -607,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taisen Tokkae Dama | 283394 | [283394-taisen-tokkae-dama.json](./283394-taisen-tokkae-dama.json) |
 | Taisen! Koori Oni | 227366 | [227366-taisen-koori-oni.json](./227366-taisen-koori-oni.json) |
 | Taisen!! Ka to Chan no Kororonpe! | 72947 | [72947-taisen-ka-to-chan-no-kororonpe.json](./72947-taisen-ka-to-chan-no-kororonpe.json) |
+| Taisho Mononoke Ibunroku | 181565 | [181565-taisho-mononoke-ibunroku.json](./181565-taisho-mononoke-ibunroku.json) |
 | Taisho Romance Theater | 366031 | [366031-taisho-romance-theater.json](./366031-taisho-romance-theater.json) |
 | Taisho Taxi Service | 274938 | [274938-taisho-taxi-service.json](./274938-taisho-taxi-service.json) |
 | Taisho x Alice Epilogue | 153498 | [153498-taisho-x-alice-epilogue.json](./153498-taisho-x-alice-epilogue.json) |
@@ -2956,6 +2957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of the Lost | 107410 | [107410-temple-of-the-lost.json](./107410-temple-of-the-lost.json) |
 | Temple of the Thousand-Faced Moon | 271312 | [271312-temple-of-the-thousand-faced-moon.json](./271312-temple-of-the-thousand-faced-moon.json) |
 | Temple Raid | 74503 | [74503-temple-raid.json](./74503-temple-raid.json) |
+| Temple Raider | 181596 | [181596-temple-raider.json](./181596-temple-raider.json) |
 | Temple Roll | 256231 | [256231-temple-roll.json](./256231-temple-roll.json) |
 | Temple Run 2 | 336388 | [336388-temple-run-2.json](./336388-temple-run-2.json) |
 | Temple Run 2 | 7436 | [7436-temple-run-2.json](./7436-temple-run-2.json) |
@@ -9252,6 +9254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Nurse Joy | 321816 | [321816-the-last-nurse-joy.json](./321816-the-last-nurse-joy.json) |
 | The Last Oasis Before Chastity | 298121 | [298121-the-last-oasis-before-chastity.json](./298121-the-last-oasis-before-chastity.json) |
 | The Last Oath | 339902 | [339902-the-last-oath.json](./339902-the-last-oath.json) |
+| The Last of Hero | 181583 | [181583-the-last-of-hero.json](./181583-the-last-of-hero.json) |
 | The Last of the 9 Lives | 319179 | [319179-the-last-of-the-9-lives.json](./319179-the-last-of-the-9-lives.json) |
 | The Last of The Core | 241850 | [241850-the-last-of-the-core.json](./241850-the-last-of-the-core.json) |
 | The Last of the Summer Tank | 286014 | [286014-the-last-of-the-summer-tank.json](./286014-the-last-of-the-summer-tank.json) |
@@ -18589,10 +18592,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TOCA Championship Racing | 8000 | [8000-toca-championship-racing.json](./8000-toca-championship-racing.json) |
 | Toca Hair Salon 3 | 301546 | [301546-toca-hair-salon-3.json](./301546-toca-hair-salon-3.json) |
 | Toca Hair Salon: Christmas Gift | 351756 | [351756-toca-hair-salon-christmas-gift.json](./351756-toca-hair-salon-christmas-gift.json) |
+| Toca Kitchen | 181589 | [181589-toca-kitchen.json](./181589-toca-kitchen.json) |
 | Toca Kitchen 2 | 95708 | [95708-toca-kitchen-2.json](./95708-toca-kitchen-2.json) |
 | Toca Lab: Elements | 74727 | [74727-toca-lab-elements.json](./74727-toca-lab-elements.json) |
 | Toca Life World | 126005 | [126005-toca-life-world.json](./126005-toca-life-world.json) |
 | Toca Life: Town | 74728 | [74728-toca-life-town.json](./74728-toca-life-town.json) |
+| Toca Life: Vacation | 181586 | [181586-toca-life-vacation.json](./181586-toca-life-vacation.json) |
 | Toca Pet Doctor | 74729 | [74729-toca-pet-doctor.json](./74729-toca-pet-doctor.json) |
 | Toca Pisadinha | 237621 | [237621-toca-pisadinha.json](./237621-toca-pisadinha.json) |
 | TOCA Race Driver 2 | 246667 | [246667-toca-race-driver-2.json](./246667-toca-race-driver-2.json) |
