@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La pesadilla de Illojuan | 302719 | [302719-la-pesadilla-de-illojuan.json](./302719-la-pesadilla-de-illojuan.json) |
 | La Prision | 221595 | [221595-la-prision.json](./221595-la-prision.json) |
 | La Pucelle Tactics | 6760 | [6760-la-pucelle-tactics.json](./6760-la-pucelle-tactics.json) |
+| La Pucelle: Ragnarok | 197537 | [197537-la-pucelle-ragnarok.json](./197537-la-pucelle-ragnarok.json) |
 | La Quête du Dentiste | 301396 | [301396-la-quete-du-dentiste.json](./301396-la-quete-du-dentiste.json) |
 | La Quimera | 333606 | [333606-la-quimera.json](./333606-la-quimera.json) |
 | La Rana | 113611 | [113611-la-rana.json](./113611-la-rana.json) |
@@ -6166,6 +6167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Space | 278408 | [278408-lost-in-space.json](./278408-lost-in-space.json) |
 | Lost In Space 2 | 93795 | [93795-lost-in-space-2.json](./93795-lost-in-space-2.json) |
 | Lost In Space: infinite frontier | 183387 | [183387-lost-in-space-infinite-frontier.json](./183387-lost-in-space-infinite-frontier.json) |
+| Lost In Space: The First Adventure | 197549 | [197549-lost-in-space-the-first-adventure.json](./197549-lost-in-space-the-first-adventure.json) |
 | Lost In Static | 319080 | [319080-lost-in-static.json](./319080-lost-in-static.json) |
 | Lost In Sweets | 126525 | [126525-lost-in-sweets.json](./126525-lost-in-sweets.json) |
 | Lost in Terra Mora | 152464 | [152464-lost-in-terra-mora.json](./152464-lost-in-terra-mora.json) |
@@ -7306,6 +7308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminastadt | 295258 | [295258-luminastadt.json](./295258-luminastadt.json) |
 | Luminaya | 372640 | [372640-luminaya.json](./372640-luminaya.json) |
 | LumineNight | 263034 | [263034-luminenight.json](./263034-luminenight.json) |
+| Luminera: The Radiant Journey | 197530 | [197530-luminera-the-radiant-journey.json](./197530-luminera-the-radiant-journey.json) |
 | Lumines | 4689 | [4689-lumines.json](./4689-lumines.json) |
 | Lumines Arise: Digital Deluxe Edition | 363530 | [363530-lumines-arise-digital-deluxe-edition.json](./363530-lumines-arise-digital-deluxe-edition.json) |
 | Lumines II | 4690 | [4690-lumines-ii.json](./4690-lumines-ii.json) |
