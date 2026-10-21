@@ -934,6 +934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Fablecraft: Brawler Collection | 365207 | [365207-tales-of-fablecraft-brawler-collection.json](./365207-tales-of-fablecraft-brawler-collection.json) |
 | Tales of Fablecraft: Storyteller Collection | 365208 | [365208-tales-of-fablecraft-storyteller-collection.json](./365208-tales-of-fablecraft-storyteller-collection.json) |
 | Tales of Fandom Vol. 1: Cress Version | 100158 | [100158-tales-of-fandom-vol-1-cress-version.json](./100158-tales-of-fandom-vol-1-cress-version.json) |
+| Tales of Fandom Vol. 1: Mint Version | 200349 | [200349-tales-of-fandom-vol-1-mint-version.json](./200349-tales-of-fandom-vol-1-mint-version.json) |
 | Tales of Fandom Vol. 2: Luke Version | 100288 | [100288-tales-of-fandom-vol-2-luke-version.json](./100288-tales-of-fandom-vol-2-luke-version.json) |
 | Tales of Fandom Vol. 2: Tear Version | 43459 | [43459-tales-of-fandom-vol-2-tear-version.json](./43459-tales-of-fandom-vol-2-tear-version.json) |
 | Tales of Farhollow | 151496 | [151496-tales-of-farhollow.json](./151496-tales-of-farhollow.json) |
@@ -1779,6 +1780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap It Big | 59470 | [59470-tap-it-big.json](./59470-tap-it-big.json) |
 | Tap Jockey | 175260 | [175260-tap-jockey.json](./175260-tap-jockey.json) |
 | Tap knife VIP | 105959 | [105959-tap-knife-vip.json](./105959-tap-knife-vip.json) |
+| Tap Knight: Idle Adventure | 200326 | [200326-tap-knight-idle-adventure.json](./200326-tap-knight-idle-adventure.json) |
 | Tap Knights: Heroes & Monsters | 86942 | [86942-tap-knights-heroes-and-monsters.json](./86942-tap-knights-heroes-and-monsters.json) |
 | Tap Master | 239038 | [239038-tap-master.json](./239038-tap-master.json) |
 | Tap Master: Mondrian | 333581 | [333581-tap-master-mondrian.json](./333581-tap-master-mondrian.json) |
@@ -6817,6 +6819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Escapists: Duct Tapes Are Forever | 51927 | [51927-the-escapists-duct-tapes-are-forever.json](./51927-the-escapists-duct-tapes-are-forever.json) |
 | The Escapists: Escape Team | 51926 | [51926-the-escapists-escape-team.json](./51926-the-escapists-escape-team.json) |
 | The Escapists: Fhurst Peak Correctional Facility | 51925 | [51925-the-escapists-fhurst-peak-correctional-facility.json](./51925-the-escapists-fhurst-peak-correctional-facility.json) |
+| The Escapists: Prison Escape | 200315 | [200315-the-escapists-prison-escape.json](./200315-the-escapists-prison-escape.json) |
 | The Escapists: Santa's Sweatshop | 171326 | [171326-the-escapists-santas-sweatshop.json](./171326-the-escapists-santas-sweatshop.json) |
 | The Escapists: Supermax Edition | 169242 | [169242-the-escapists-supermax-edition.json](./169242-the-escapists-supermax-edition.json) |
 | The Escapists: The Walking Dead | 11744 | [11744-the-escapists-the-walking-dead.json](./11744-the-escapists-the-walking-dead.json) |
@@ -9301,6 +9304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Sword | 235808 | [235808-the-last-sword.json](./235808-the-last-sword.json) |
 | The Last Tale | 403004 | [403004-the-last-tale.json](./403004-the-last-tale.json) |
 | The Last Tape | 334841 | [334841-the-last-tape.json](./334841-the-last-tape.json) |
+| The Last Tater | 200346 | [200346-the-last-tater.json](./200346-the-last-tater.json) |
 | The Last Taxi | 132822 | [132822-the-last-taxi.json](./132822-the-last-taxi.json) |
 | The Last Team | 421238 | [421238-the-last-team.json](./421238-the-last-team.json) |
 | The Last Tempest | 266635 | [266635-the-last-tempest.json](./266635-the-last-tempest.json) |
@@ -17274,6 +17278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tim Stockdale's Riding Star | 339889 | [339889-tim-stockdales-riding-star.json](./339889-tim-stockdales-riding-star.json) |
 | Tim the Timber | 241198 | [241198-tim-the-timber.json](./241198-tim-the-timber.json) |
 | Tim Tooth | 204204 | [204204-tim-tooth.json](./204204-tim-tooth.json) |
+| Tim-Tim 2: The Almighty Gnome | 200354 | [200354-tim-tim-2-the-almighty-gnome.json](./200354-tim-tim-2-the-almighty-gnome.json) |
 | Tim's Birthday | 150126 | [150126-tims-birthday.json](./150126-tims-birthday.json) |
 | Timagi | 268941 | [268941-timagi.json](./268941-timagi.json) |
 | Timber | 25881 | [25881-timber.json](./25881-timber.json) |
