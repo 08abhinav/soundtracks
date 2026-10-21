@@ -441,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Gin | 270622 | [270622-ultimate-gin.json](./270622-ultimate-gin.json) |
 | Ultimate Godspeed | 202736 | [202736-ultimate-godspeed.json](./202736-ultimate-godspeed.json) |
 | Ultimate Golf Battle | 348111 | [348111-ultimate-golf-battle.json](./348111-ultimate-golf-battle.json) |
+| Ultimate Golf! | 182119 | [182119-ultimate-golf.json](./182119-ultimate-golf.json) |
 | Ultimate Goomboss Challenge | 300254 | [300254-ultimate-goomboss-challenge.json](./300254-ultimate-goomboss-challenge.json) |
 | Ultimate Grandma Simulator | 368252 | [368252-ultimate-grandma-simulator.json](./368252-ultimate-grandma-simulator.json) |
 | Ultimate Guess Game | 408797 | [408797-ultimate-guess-game.json](./408797-ultimate-guess-game.json) |
