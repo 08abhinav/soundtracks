@@ -2008,6 +2008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unmaker | 217452 | [217452-unmaker.json](./217452-unmaker.json) |
 | Unmanned helicopter | 105365 | [105365-unmanned-helicopter.json](./105365-unmanned-helicopter.json) |
 | UnMarked | 185078 | [185078-unmarked.json](./185078-unmarked.json) |
+| Unmask the Rat | 200323 | [200323-unmask-the-rat.json](./200323-unmask-the-rat.json) |
 | Unmasked Truths: Shattered Dreams | 350458 | [350458-unmasked-truths-shattered-dreams.json](./350458-unmasked-truths-shattered-dreams.json) |
 | Unmasked: An Inner Journey | 286041 | [286041-unmasked-an-inner-journey.json](./286041-unmasked-an-inner-journey.json) |
 | Unmatch | 58805 | [58805-unmatch.json](./58805-unmatch.json) |
