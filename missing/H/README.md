@@ -5183,6 +5183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Art: Twilight in The Museum | 294435 | [294435-hidden-art-twilight-in-the-museum.json](./294435-hidden-art-twilight-in-the-museum.json) |
 | Hidden Battle Top-Down 3D | 205004 | [205004-hidden-battle-top-down-3d.json](./205004-hidden-battle-top-down-3d.json) |
 | Hidden Breaking Bed: Top-Down 3D | 269980 | [269980-hidden-breaking-bed-top-down-3d.json](./269980-hidden-breaking-bed-top-down-3d.json) |
+| Hidden Build Top-Down 3D | 192220 | [192220-hidden-build-top-down-3d.json](./192220-hidden-build-top-down-3d.json) |
 | Hidden Capybaras with Orange | 279502 | [279502-hidden-capybaras-with-orange.json](./279502-hidden-capybaras-with-orange.json) |
 | Hidden Capybaras with Orange and Pumpkins: Spooky Halloween Edition | 320320 | [320320-hidden-capybaras-with-orange-and-pumpkins-spooky-halloween-edition.json](./320320-hidden-capybaras-with-orange-and-pumpkins-spooky-halloween-edition.json) |
 | Hidden Capybaras with Orange in the Whimsical Library | 321138 | [321138-hidden-capybaras-with-orange-in-the-whimsical-library.json](./321138-hidden-capybaras-with-orange-in-the-whimsical-library.json) |
