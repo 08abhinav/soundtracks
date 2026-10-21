@@ -4395,6 +4395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Hope | 149685 | [149685-no-hope.json](./149685-no-hope.json) |
 | No Horizon | 109572 | [109572-no-horizon.json](./109572-no-horizon.json) |
 | No Humanity | 152015 | [152015-no-humanity.json](./152015-no-humanity.json) |
+| No Humanity 2: Swing'Em Up | 192608 | [192608-no-humanity-2-swingem-up.json](./192608-no-humanity-2-swingem-up.json) |
 | No Internet | 292053 | [292053-no-internet.json](./292053-no-internet.json) |
 | No JetPacks For Chattini | 346015 | [346015-no-jetpacks-for-chattini.json](./346015-no-jetpacks-for-chattini.json) |
 | No Jokes With Mages | 392373 | [392373-no-jokes-with-mages.json](./392373-no-jokes-with-mages.json) |
