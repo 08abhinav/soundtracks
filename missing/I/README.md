@@ -2909,6 +2909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Country | 265573 | [265573-infinite-country.json](./265573-infinite-country.json) |
 | Infinite Craft | 285172 | [285172-infinite-craft.json](./285172-infinite-craft.json) |
 | Infinite Crosswords | 385317 | [385317-infinite-crosswords.json](./385317-infinite-crosswords.json) |
+| Infinite Cube Defense | 171317 | [171317-infinite-cube-defense.json](./171317-infinite-cube-defense.json) |
 | Infinite Dash | 173800 | [173800-infinite-dash.json](./173800-infinite-dash.json) |
 | Infinite Dunamis | 39013 | [39013-infinite-dunamis.json](./39013-infinite-dunamis.json) |
 | Infinite Dungeon | 386473 | [386473-infinite-dungeon.json](./386473-infinite-dungeon.json) |
@@ -3184,6 +3185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Initial 2: New Stage | 107414 | [107414-initial-2-new-stage.json](./107414-initial-2-new-stage.json) |
 | Initial D | 43854 | [43854-initial-d.json](./43854-initial-d.json) |
 | Initial D Arcade Stage 2 | 201776 | [201776-initial-d-arcade-stage-2.json](./201776-initial-d-arcade-stage-2.json) |
+| Initial D Arcade Stage 5 | 171294 | [171294-initial-d-arcade-stage-5.json](./171294-initial-d-arcade-stage-5.json) |
 | Initial D Arcade Stage 6 AA | 80479 | [80479-initial-d-arcade-stage-6-aa.json](./80479-initial-d-arcade-stage-6-aa.json) |
 | Initial D Extreme Stage | 7354 | [7354-initial-d-extreme-stage.json](./7354-initial-d-extreme-stage.json) |
 | Initial D Gaiden | 62559 | [62559-initial-d-gaiden.json](./62559-initial-d-gaiden.json) |
