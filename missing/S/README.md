@@ -3927,6 +3927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seisho 1999 | 323919 | [323919-seisho-1999.json](./323919-seisho-1999.json) |
 | Seishoku ni Watashi wo | 321620 | [321620-seishoku-ni-watashi-wo.json](./321620-seishoku-ni-watashi-wo.json) |
 | Seishoujo Kantai Virgin Fleet | 290423 | [290423-seishoujo-kantai-virgin-fleet.json](./290423-seishoujo-kantai-virgin-fleet.json) |
+| Seishun Hajimemashita! | 202612 | [202612-seishun-hajimemashita.json](./202612-seishun-hajimemashita.json) |
 | Seishun Quiz Colorful High School | 247541 | [247541-seishun-quiz-colorful-high-school.json](./247541-seishun-quiz-colorful-high-school.json) |
 | Seishun! Bukatsu Aruaru | 251515 | [251515-seishun-bukatsu-aruaru.json](./251515-seishun-bukatsu-aruaru.json) |
 | Seiso Master KEN | 155388 | [155388-seiso-master-ken.json](./155388-seiso-master-ken.json) |
@@ -4679,6 +4680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Battle [Interacademy! NTR Gangbang Game] | 82938 | [82938-sex-battle-interacademy-ntr-gangbang-game.json](./82938-sex-battle-interacademy-ntr-gangbang-game.json) |
 | Sex Campus Story 18+ | 258944 | [258944-sex-campus-story-18.json](./258944-sex-campus-story-18.json) |
 | Sex Care Magical Girl | 82799 | [82799-sex-care-magical-girl.json](./82799-sex-care-magical-girl.json) |
+| Sex Chess | 202535 | [202535-sex-chess.json](./202535-sex-chess.json) |
 | Sex City: 2069 | 259087 | [259087-sex-city-2069.json](./259087-sex-city-2069.json) |
 | Sex Clicker | 367030 | [367030-sex-clicker.json](./367030-sex-clicker.json) |
 | Sex Coach: Hot Yoga | 254038 | [254038-sex-coach-hot-yoga.json](./254038-sex-coach-hot-yoga.json) |
@@ -4968,6 +4970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow and Bone: Enter the Fold | 204448 | [204448-shadow-and-bone-enter-the-fold.json](./204448-shadow-and-bone-enter-the-fold.json) |
 | Shadow and Darkness | 301286 | [301286-shadow-and-darkness.json](./301286-shadow-and-darkness.json) |
 | Shadow and Flame | 319741 | [319741-shadow-and-flame.json](./319741-shadow-and-flame.json) |
+| Shadow Angel | 202627 | [202627-shadow-angel.json](./202627-shadow-angel.json) |
 | Shadow Archer Special | 214452 | [214452-shadow-archer-special.json](./214452-shadow-archer-special.json) |
 | Shadow Archery | 96276 | [96276-shadow-archery.json](./96276-shadow-archery.json) |
 | Shadow Arena | 125357 | [125357-shadow-arena.json](./125357-shadow-arena.json) |
@@ -5678,6 +5681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharing Lights | 192902 | [192902-sharing-lights.json](./192902-sharing-lights.json) |
 | Sharique | 112267 | [112267-sharique.json](./112267-sharique.json) |
 | Shark | 110852 | [110852-shark.json](./110852-shark.json) |
+| Shark Assault Simulator | 202542 | [202542-shark-assault-simulator.json](./202542-shark-assault-simulator.json) |
 | Shark Attack | 134536 | [134536-shark-attack.json](./134536-shark-attack.json) |
 | Shark Attack | 281026 | [281026-shark-attack.json](./281026-shark-attack.json) |
 | Shark Bridge Card Game | 87120 | [87120-shark-bridge-card-game.json](./87120-shark-bridge-card-game.json) |
@@ -13998,6 +14002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Merger | 216873 | [216873-soul-merger.json](./216873-soul-merger.json) |
 | Soul Mirror Relics | 345657 | [345657-soul-mirror-relics.json](./345657-soul-mirror-relics.json) |
 | Soul Nexus | 348569 | [348569-soul-nexus.json](./348569-soul-nexus.json) |
+| Soul Night | 202618 | [202618-soul-night.json](./202618-soul-night.json) |
 | Soul Nomad & the World Eaters | 21235 | [21235-soul-nomad-and-the-world-eaters.json](./21235-soul-nomad-and-the-world-eaters.json) |
 | Soul Oath | 340805 | [340805-soul-oath.json](./340805-soul-oath.json) |
 | Soul of a Robot | 74054 | [74054-soul-of-a-robot.json](./74054-soul-of-a-robot.json) |
@@ -14272,6 +14277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Source Control | 62734 | [62734-source-control.json](./62734-source-control.json) |
 | Sourcelight RPG | 174282 | [174282-sourcelight-rpg.json](./174282-sourcelight-rpg.json) |
 | Sous Raccoon | 366299 | [366299-sous-raccoon.json](./366299-sous-raccoon.json) |
+| Sousaku Alice to Ouji-sama! | 202608 | [202608-sousaku-alice-to-ouji-sama.json](./202608-sousaku-alice-to-ouji-sama.json) |
 | Sousaku Kanojo no Renai Koushiki | 191520 | [191520-sousaku-kanojo-no-renai-koushiki.json](./191520-sousaku-kanojo-no-renai-koushiki.json) |
 | Sousei no Mirage | 208240 | [208240-sousei-no-mirage.json](./208240-sousei-no-mirage.json) |
 | Sousei no Onmyouji | 122890 | [122890-sousei-no-onmyouji.json](./122890-sousei-no-onmyouji.json) |
@@ -14908,6 +14914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Memory: Mushrooms | 363565 | [363565-space-memory-mushrooms.json](./363565-space-memory-mushrooms.json) |
 | Space Memory: Predators | 358897 | [358897-space-memory-predators.json](./358897-space-memory-predators.json) |
 | Space Memory: Rodents | 381173 | [381173-space-memory-rodents.json](./381173-space-memory-rodents.json) |
+| Space Menace | 202544 | [202544-space-menace.json](./202544-space-menace.json) |
 | Space Menace 2 | 325315 | [325315-space-menace-2.json](./325315-space-menace-2.json) |
 | Space Mercenary Defense Force | 228910 | [228910-space-mercenary-defense-force.json](./228910-space-mercenary-defense-force.json) |
 | Space Merchant | 125813 | [125813-space-merchant.json](./125813-space-merchant.json) |
@@ -14956,6 +14963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Panic VR (Room Escape) | 37405 | [37405-space-panic-vr-room-escape.json](./37405-space-panic-vr-room-escape.json) |
 | Space Papers: Planet's Border | 277840 | [277840-space-papers-planets-border.json](./277840-space-papers-planets-border.json) |
 | Space Paranoids | 63774 | [63774-space-paranoids.json](./63774-space-paranoids.json) |
+| Space Penguins | 202628 | [202628-space-penguins.json](./202628-space-penguins.json) |
 | Space Pew Pew | 405934 | [405934-space-pew-pew.json](./405934-space-pew-pew.json) |
 | Space Phallus | 66369 | [66369-space-phallus.json](./66369-space-phallus.json) |
 | Space Piercer | 192251 | [192251-space-piercer.json](./192251-space-piercer.json) |
@@ -20503,6 +20511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stoned | 352202 | [352202-stoned.json](./352202-stoned.json) |
 | Stoned to Death | 404767 | [404767-stoned-to-death.json](./404767-stoned-to-death.json) |
 | Stonedeep | 120405 | [120405-stonedeep.json](./120405-stonedeep.json) |
+| Stonedef | 202530 | [202530-stonedef.json](./202530-stonedef.json) |
 | Stonefall | 416058 | [416058-stonefall.json](./416058-stonefall.json) |
 | Stonefly | 144171 | [144171-stonefly.json](./144171-stonefly.json) |
 | Stonegate | 270213 | [270213-stonegate.json](./270213-stonegate.json) |
