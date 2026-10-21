@@ -702,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Chair Curling | 321220 | [321220-office-chair-curling.json](./321220-office-chair-curling.json) |
 | Office Chimp | 249283 | [249283-office-chimp.json](./249283-office-chimp.json) |
 | Office Crush Dating Simulator | 318718 | [318718-office-crush-dating-simulator.json](./318718-office-crush-dating-simulator.json) |
+| Office Dating Simulator 2020 | 183255 | [183255-office-dating-simulator-2020.json](./183255-office-dating-simulator-2020.json) |
 | Office Elevator | 195159 | [195159-office-elevator.json](./195159-office-elevator.json) |
 | Office Escape | 184937 | [184937-office-escape.json](./184937-office-escape.json) |
 | Office Fever | 223993 | [223993-office-fever.json](./223993-office-fever.json) |
@@ -2787,6 +2788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Option Monster | 266488 | [266488-option-monster.json](./266488-option-monster.json) |
 | Option Tuning Car Battle Spec-R | 80382 | [80382-option-tuning-car-battle-spec-r.json](./80382-option-tuning-car-battle-spec-r.json) |
 | Optional Boss | 135887 | [135887-optional-boss.json](./135887-optional-boss.json) |
+| Optisocubes | 183252 | [183252-optisocubes.json](./183252-optisocubes.json) |
 | OptoLexem | 103528 | [103528-optolexem.json](./103528-optolexem.json) |
 | Opus | 181873 | [181873-opus.json](./181873-opus.json) |
 | Opus 1 - Social Justice War | 81691 | [81691-opus-1-social-justice-war.json](./81691-opus-1-social-justice-war.json) |
