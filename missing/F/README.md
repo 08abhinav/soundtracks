@@ -1804,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far From Dead | 217276 | [217276-far-from-dead.json](./217276-far-from-dead.json) |
 | Far From Home | 393549 | [393549-far-from-home.json](./393549-far-from-home.json) |
 | Far from Noise | 61612 | [61612-far-from-noise.json](./61612-far-from-noise.json) |
+| Far From Normal | 176171 | [176171-far-from-normal.json](./176171-far-from-normal.json) |
 | Far From Orbit | 123521 | [123521-far-from-orbit.json](./123521-far-from-orbit.json) |
 | Far From The Darkness | 328603 | [328603-far-from-the-darkness.json](./328603-far-from-the-darkness.json) |
 | Far from the Tree | 184312 | [184312-far-from-the-tree.json](./184312-far-from-the-tree.json) |
