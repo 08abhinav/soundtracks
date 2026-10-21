@@ -3192,6 +3192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lexagrana | 174196 | [174196-lexagrana.json](./174196-lexagrana.json) |
 | Lexi-Cross | 47117 | [47117-lexi-cross.json](./47117-lexi-cross.json) |
 | Lexibble | 305344 | [305344-lexibble.json](./305344-lexibble.json) |
+| Lexiblox | 175585 | [175585-lexiblox.json](./175585-lexiblox.json) |
 | Lexibook Batman Compact Cyber Arcade Portable Console | 304232 | [304232-lexibook-batman-compact-cyber-arcade-portable-console.json](./304232-lexibook-batman-compact-cyber-arcade-portable-console.json) |
 | Lexibook Electronic Thesaurus: Model DC 750 | 245457 | [245457-lexibook-electronic-thesaurus-model-dc-750.json](./245457-lexibook-electronic-thesaurus-model-dc-750.json) |
 | Lexica | 369673 | [369673-lexica.json](./369673-lexica.json) |
@@ -4093,6 +4094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Up: Dots! | 243098 | [243098-line-up-dots.json](./243098-line-up-dots.json) |
 | Line Up! | 380661 | [380661-line-up.json](./380661-line-up.json) |
 | Line Wobbler | 219119 | [219119-line-wobbler.json](./219119-line-wobbler.json) |
+| Line-3 | 175605 | [175605-line-3.json](./175605-line-3.json) |
 | Line: Disney Tsum Tsum | 38886 | [38886-line-disney-tsum-tsum.json](./38886-line-disney-tsum-tsum.json) |
 | Line: Monster Farm | 246913 | [246913-line-monster-farm.json](./246913-line-monster-farm.json) |
 | Line's Guarder | 252607 | [252607-lines-guarder.json](./252607-lines-guarder.json) |
@@ -5528,6 +5530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LonelyMe | 274359 | [274359-lonelyme.json](./274359-lonelyme.json) |
 | Lonepath | 121462 | [121462-lonepath.json](./121462-lonepath.json) |
 | Loner | 167383 | [167383-loner.json](./167383-loner.json) |
+| Loner | 175614 | [175614-loner.json](./175614-loner.json) |
 | Loner_Dog://Snuff Puppy Carnage Society | 358384 | [358384-loner-dog-snuff-puppy-carnage-society.json](./358384-loner-dog-snuff-puppy-carnage-society.json) |
 | Loner's Spell | 182967 | [182967-loners-spell.json](./182967-loners-spell.json) |
 | Lones | 285331 | [285331-lones.json](./285331-lones.json) |
@@ -5728,6 +5731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loophole | 350443 | [350443-loophole.json](./350443-loophole.json) |
 | Loophole Pie | 364619 | [364619-loophole-pie.json](./364619-loophole-pie.json) |
 | LoopiaLike | 394203 | [394203-loopialike.json](./394203-loopialike.json) |
+| Loopical | 175602 | [175602-loopical.json](./175602-loopical.json) |
 | Looping | 18511 | [18511-looping.json](./18511-looping.json) |
 | Looping Doors: Diner | 342487 | [342487-looping-doors-diner.json](./342487-looping-doors-diner.json) |
 | Looping Doors: Subway | 342488 | [342488-looping-doors-subway.json](./342488-looping-doors-subway.json) |
@@ -6997,6 +7001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LSD: Dream Emulator Retro | 333780 | [333780-lsd-dream-emulator-retro.json](./333780-lsd-dream-emulator-retro.json) |
 | LSD: Revamped | 25031 | [25031-lsd-revamped.json](./25031-lsd-revamped.json) |
 | LSD: The Game | 116998 | [116998-lsd-the-game.json](./116998-lsd-the-game.json) |
+| LSDriver 1+2: Remastered Collection | 174542 | [174542-lsdriver-1-2-remastered-collection.json](./174542-lsdriver-1-2-remastered-collection.json) |
 | LSI Puzzle: Last One | 385752 | [385752-lsi-puzzle-last-one.json](./385752-lsi-puzzle-last-one.json) |
 | LTA: Light-years! Thrusters! Action! | 295166 | [295166-lta-light-years-thrusters-action.json](./295166-lta-light-years-thrusters-action.json) |
 | Lu Bu Maker | 104902 | [104902-lu-bu-maker.json](./104902-lu-bu-maker.json) |
