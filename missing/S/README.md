@@ -14905,6 +14905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Marauder | 49968 | [49968-space-marauder.json](./49968-space-marauder.json) |
 | Space Marine VR - Defenders of Avarax | 302167 | [302167-space-marine-vr-defenders-of-avarax.json](./302167-space-marine-vr-defenders-of-avarax.json) |
 | Space Marines | 94926 | [94926-space-marines.json](./94926-space-marines.json) |
+| Space Marmalade | 199796 | [199796-space-marmalade.json](./199796-space-marmalade.json) |
 | Space Marshals | 46747 | [46747-space-marshals.json](./46747-space-marshals.json) |
 | Space Marshals 2 | 38944 | [38944-space-marshals-2.json](./38944-space-marshals-2.json) |
 | Space Marshals 3 | 205223 | [205223-space-marshals-3.json](./205223-space-marshals-3.json) |
@@ -18699,6 +18700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: The Empire Strikes Back | 219021 | [219021-star-wars-the-empire-strikes-back.json](./219021-star-wars-the-empire-strikes-back.json) |
 | Star Wars: The Empire Strikes Back | 5706 | [5706-star-wars-the-empire-strikes-back.json](./5706-star-wars-the-empire-strikes-back.json) |
 | Star Wars: The Force Unleashed | 197926 | [197926-star-wars-the-force-unleashed.json](./197926-star-wars-the-force-unleashed.json) |
+| Star Wars: The Force Unleashed | 199822 | [199822-star-wars-the-force-unleashed.json](./199822-star-wars-the-force-unleashed.json) |
 | Star Wars: The Force Unleashed | 399219 | [399219-star-wars-the-force-unleashed.json](./399219-star-wars-the-force-unleashed.json) |
 | Star Wars: The Force Unleashed | 399295 | [399295-star-wars-the-force-unleashed.json](./399295-star-wars-the-force-unleashed.json) |
 | Star Wars: The Force Unleashed - Tatooine Mission Pack | 17475 | [17475-star-wars-the-force-unleashed-tatooine-mission-pack.json](./17475-star-wars-the-force-unleashed-tatooine-mission-pack.json) |
@@ -24442,6 +24444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid: X-Fusion | 359002 | [359002-super-metroid-x-fusion.json](./359002-super-metroid-x-fusion.json) |
 | Super Metroid: Y-Faster | 304133 | [304133-super-metroid-y-faster.json](./304133-super-metroid-y-faster.json) |
 | Super Miaoyin | 343816 | [343816-super-miaoyin.json](./343816-super-miaoyin.json) |
+| Super Mike: Classic Adventure Game | 199810 | [199810-super-mike-classic-adventure-game.json](./199810-super-mike-classic-adventure-game.json) |
 | Super Minecraft 64 DS | 270381 | [270381-super-minecraft-64-ds.json](./270381-super-minecraft-64-ds.json) |
 | Super Miners | 333792 | [333792-super-miners.json](./333792-super-miners.json) |
 | Super MineSweeper | 309683 | [309683-super-minesweeper.json](./309683-super-minesweeper.json) |
@@ -25065,6 +25068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Space Acer | 421225 | [421225-super-space-acer.json](./421225-super-space-acer.json) |
 | Super Space Arcade | 260229 | [260229-super-space-arcade.json](./260229-super-space-arcade.json) |
 | Super Space Frogs | 356049 | [356049-super-space-frogs.json](./356049-super-space-frogs.json) |
+| Super Space Galaxy | 199797 | [199797-super-space-galaxy.json](./199797-super-space-galaxy.json) |
 | Super Space Invaders | 12859 | [12859-super-space-invaders.json](./12859-super-space-invaders.json) |
 | Super Space Jump Man | 115628 | [115628-super-space-jump-man.json](./115628-super-space-jump-man.json) |
 | Super Space Meltdown | 34805 | [34805-super-space-meltdown.json](./34805-super-space-meltdown.json) |
