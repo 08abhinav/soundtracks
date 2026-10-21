@@ -4009,6 +4009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Planet Music | 98807 | [98807-beat-planet-music.json](./98807-beat-planet-music.json) |
 | Beat Refle | 209689 | [209689-beat-refle.json](./209689-beat-refle.json) |
 | Beat Rhythm Fever | 350608 | [350608-beat-rhythm-fever.json](./350608-beat-rhythm-fever.json) |
+| Beat Runner | 184788 | [184788-beat-runner.json](./184788-beat-runner.json) |
 | Beat Rush | 105409 | [105409-beat-rush.json](./105409-beat-rush.json) |
 | Beat Rush | 166213 | [166213-beat-rush.json](./166213-beat-rush.json) |
 | Beat Rush | 265414 | [265414-beat-rush.json](./265414-beat-rush.json) |
@@ -4680,6 +4681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Being Left the F*** Alone Simulator | 195962 | [195962-being-left-the-f-alone-simulator.json](./195962-being-left-the-f-alone-simulator.json) |
 | Being Mindful | 168641 | [168641-being-mindful.json](./168641-being-mindful.json) |
 | Being One: Episode 1 | 184076 | [184076-being-one-episode-1.json](./184076-being-one-episode-1.json) |
+| Being One: Episode 2 | 184749 | [184749-being-one-episode-2.json](./184749-being-one-episode-2.json) |
 | Being Stronger While Playing! SilverStar Go DX | 135635 | [135635-being-stronger-while-playing-silverstar-go-dx.json](./135635-being-stronger-while-playing-silverstar-go-dx.json) |
 | Being Struck By Lightning is Probably the Best Way That You Could Die On Account of All of Its Awesomeness | 242647 | [242647-being-struck-by-lightning-is-probably-the-best-way-that-you-could-die-on-account-of-all-of-its-awesomeness.json](./242647-being-struck-by-lightning-is-probably-the-best-way-that-you-could-die-on-account-of-all-of-its-awesomeness.json) |
 | Bejazzled | 94977 | [94977-bejazzled.json](./94977-bejazzled.json) |
@@ -7666,6 +7668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleeding Code | 328968 | [328968-bleeding-code.json](./328968-bleeding-code.json) |
 | Bleeding Kansas | 51939 | [51939-bleeding-kansas.json](./51939-bleeding-kansas.json) |
 | Bleeding Moons | 109914 | [109914-bleeding-moons.json](./109914-bleeding-moons.json) |
+| Bleeding Neon | 184764 | [184764-bleeding-neon.json](./184764-bleeding-neon.json) |
 | Bleeding Roots | 316162 | [316162-bleeding-roots.json](./316162-bleeding-roots.json) |
 | Bleemcast! for Metal Gear Solid | 315682 | [315682-bleemcast-for-metal-gear-solid.json](./315682-bleemcast-for-metal-gear-solid.json) |
 | Bleemcast! for Tekken 3 | 398277 | [398277-bleemcast-for-tekken-3.json](./398277-bleemcast-for-tekken-3.json) |
@@ -8470,6 +8473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Storm | 405339 | [405339-blood-storm.json](./405339-blood-storm.json) |
 | Blood Sunset | 244657 | [244657-blood-sunset.json](./244657-blood-sunset.json) |
 | Blood Sword | 340348 | [340348-blood-sword.json](./340348-blood-sword.json) |
+| Blood Tender | 184770 | [184770-blood-tender.json](./184770-blood-tender.json) |
 | Blood Ties | 78714 | [78714-blood-ties.json](./78714-blood-ties.json) |
 | Blood Ties: A Hidden Object Game with a Bite | 206143 | [206143-blood-ties-a-hidden-object-game-with-a-bite.json](./206143-blood-ties-a-hidden-object-game-with-a-bite.json) |
 | Blood to Bone | 281382 | [281382-blood-to-bone.json](./281382-blood-to-bone.json) |
@@ -8554,6 +8558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodlust | 338255 | [338255-bloodlust.json](./338255-bloodlust.json) |
 | Bloodlust Online | 157015 | [157015-bloodlust-online.json](./157015-bloodlust-online.json) |
 | BloodLust Shadowhunter | 17108 | [17108-bloodlust-shadowhunter.json](./17108-bloodlust-shadowhunter.json) |
+| Bloodlust: Santa Monica | 184751 | [184751-bloodlust-santa-monica.json](./184751-bloodlust-santa-monica.json) |
 | Bloodlust.exe | 370871 | [370871-bloodlust-exe.json](./370871-bloodlust-exe.json) |
 | Bloodmatch | 366728 | [366728-bloodmatch.json](./366728-bloodmatch.json) |
 | BloodMoon | 267484 | [267484-bloodmoon.json](./267484-bloodmoon.json) |
@@ -8587,6 +8592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodsaw | 214401 | [214401-bloodsaw.json](./214401-bloodsaw.json) |
 | Bloodscript//End | 409653 | [409653-bloodscript-end.json](./409653-bloodscript-end.json) |
 | Bloodseed: The Last Helsing | 361286 | [361286-bloodseed-the-last-helsing.json](./361286-bloodseed-the-last-helsing.json) |
+| Bloodseeker | 184777 | [184777-bloodseeker.json](./184777-bloodseeker.json) |
 | BloodShade | 394209 | [394209-bloodshade.json](./394209-bloodshade.json) |
 | Bloodshed | 317982 | [317982-bloodshed.json](./317982-bloodshed.json) |
 | Bloodshell: Conviction | 240684 | [240684-bloodshell-conviction.json](./240684-bloodshell-conviction.json) |
@@ -11777,6 +11783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrickAttack | 76151 | [76151-brickattack.json](./76151-brickattack.json) |
 | BrickBounce | 273381 | [273381-brickbounce.json](./273381-brickbounce.json) |
 | Brickbuster | 77190 | [77190-brickbuster.json](./77190-brickbuster.json) |
+| Brickdown | 184741 | [184741-brickdown.json](./184741-brickdown.json) |
 | Brickerang | 413591 | [413591-brickerang.json](./413591-brickerang.json) |
 | BrickFall: Fun Game of Bricks | 97213 | [97213-brickfall-fun-game-of-bricks.json](./97213-brickfall-fun-game-of-bricks.json) |
 | BrickForce | 18991 | [18991-brickforce.json](./18991-brickforce.json) |
@@ -12812,6 +12819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugged Out | 266619 | [266619-bugged-out.json](./266619-bugged-out.json) |
 | Bugged Out | 391880 | [391880-bugged-out.json](./391880-bugged-out.json) |
 | Bugger Off! | 278712 | [278712-bugger-off.json](./278712-bugger-off.json) |
+| Buggish | 184786 | [184786-buggish.json](./184786-buggish.json) |
 | Buggle Blast | 255721 | [255721-buggle-blast.json](./255721-buggle-blast.json) |
 | Buggos 2 | 342787 | [342787-buggos-2.json](./342787-buggos-2.json) |
 | Buggotchi | 323604 | [323604-buggotchi.json](./323604-buggotchi.json) |
