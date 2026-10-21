@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Defense | 22206 | [22206-jelly-defense.json](./22206-jelly-defense.json) |
 | Jelly Escape | 286641 | [286641-jelly-escape.json](./286641-jelly-escape.json) |
 | Jelly Express | 199592 | [199592-jelly-express.json](./199592-jelly-express.json) |
+| Jelly Forest | 202545 | [202545-jelly-forest.json](./202545-jelly-forest.json) |
 | Jelly Fruits Adventure: Magic Match 3 Puzzle | 262099 | [262099-jelly-fruits-adventure-magic-match-3-puzzle.json](./262099-jelly-fruits-adventure-magic-match-3-puzzle.json) |
 | Jelly God | 221721 | [221721-jelly-god.json](./221721-jelly-god.json) |
 | Jelly in the Dark | 215587 | [215587-jelly-in-the-dark.json](./215587-jelly-in-the-dark.json) |
@@ -2965,6 +2966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just a Game to Test Your lQ | 168625 | [168625-just-a-game-to-test-your-lq.json](./168625-just-a-game-to-test-your-lq.json) |
 | Just a Gun | 405558 | [405558-just-a-gun.json](./405558-just-a-gun.json) |
 | Just A Guy | 217465 | [217465-just-a-guy.json](./217465-just-a-guy.json) |
+| Just A Humble Swordsmith | 202630 | [202630-just-a-humble-swordsmith.json](./202630-just-a-humble-swordsmith.json) |
 | Just a Jumping Square | 87186 | [87186-just-a-jumping-square.json](./87186-just-a-jumping-square.json) |
 | Just a Little Longer | 406317 | [406317-just-a-little-longer.json](./406317-just-a-little-longer.json) |
 | Just a Little Purr Suit | 326228 | [326228-just-a-little-purr-suit.json](./326228-just-a-little-purr-suit.json) |
