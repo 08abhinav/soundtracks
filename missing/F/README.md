@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fableborne | 379584 | [379584-fableborne.json](./379584-fableborne.json) |
 | FableBrawl | 411113 | [411113-fablebrawl.json](./411113-fablebrawl.json) |
 | Fabled Frontier | 257988 | [257988-fabled-frontier.json](./257988-fabled-frontier.json) |
+| Fabled Kingdom | 201538 | [201538-fabled-kingdom.json](./201538-fabled-kingdom.json) |
 | Fabled Lands | 133420 | [133420-fabled-lands.json](./133420-fabled-lands.json) |
 | Fabled Lands: Lords of the Rising Sun | 237354 | [237354-fabled-lands-lords-of-the-rising-sun.json](./237354-fabled-lands-lords-of-the-rising-sun.json) |
 | Fabled Lands: The Serpent King's Domain | 296671 | [296671-fabled-lands-the-serpent-kings-domain.json](./296671-fabled-lands-the-serpent-kings-domain.json) |
@@ -629,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fäiser | 186063 | [186063-faiser.json](./186063-faiser.json) |
 | Fait: The Machine | 122188 | [122188-fait-the-machine.json](./122188-fait-the-machine.json) |
 | Faith | 84197 | [84197-faith.json](./84197-faith.json) |
+| Faith & Shield: 4044 Tower Defense | 201519 | [201519-faith-and-shield-4044-tower-defense.json](./201519-faith-and-shield-4044-tower-defense.json) |
 | Faith & Shield: Tower Defense - Space Wars Game 2022 | 209694 | [209694-faith-and-shield-tower-defense-space-wars-game-2022.json](./209694-faith-and-shield-tower-defense-space-wars-game-2022.json) |
 | Faith Fighter | 71391 | [71391-faith-fighter.json](./71391-faith-fighter.json) |
 | Faith Fighter 2 | 64375 | [64375-faith-fighter-2.json](./64375-faith-fighter-2.json) |
