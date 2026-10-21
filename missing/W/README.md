@@ -2782,6 +2782,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whack the Burglar | 234465 | [234465-whack-the-burglar.json](./234465-whack-the-burglar.json) |
 | Whack the Burglars | 193801 | [193801-whack-the-burglars.json](./193801-whack-the-burglars.json) |
 | Whack the Serial Killer | 90514 | [90514-whack-the-serial-killer.json](./90514-whack-the-serial-killer.json) |
+| Whack the Thieves | 188289 | [188289-whack-the-thieves.json](./188289-whack-the-thieves.json) |
+| Whack Your Boss: Superhero | 188284 | [188284-whack-your-boss-superhero.json](./188284-whack-your-boss-superhero.json) |
 | Whack Your Computer | 356717 | [356717-whack-your-computer.json](./356717-whack-your-computer.json) |
 | Whack Your Ex | 193853 | [193853-whack-your-ex.json](./193853-whack-your-ex.json) |
 | Whack Your Neighbor | 327996 | [327996-whack-your-neighbor.json](./327996-whack-your-neighbor.json) |
@@ -4612,6 +4614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Stars | 20155 | [20155-winter-stars.json](./20155-winter-stars.json) |
 | Winter Stealth | 247765 | [247765-winter-stealth.json](./247765-winter-stealth.json) |
 | Winter Supersports 92 | 57186 | [57186-winter-supersports-92.json](./57186-winter-supersports-92.json) |
+| Winter Survival | 188279 | [188279-winter-survival.json](./188279-winter-survival.json) |
 | Winter Survival Simulator | 309661 | [309661-winter-survival-simulator.json](./309661-winter-survival-simulator.json) |
 | Winter Survivor Protocol | 392125 | [392125-winter-survivor-protocol.json](./392125-winter-survivor-protocol.json) |
 | Winter Tramp | 201683 | [201683-winter-tramp.json](./201683-winter-tramp.json) |
@@ -7172,6 +7175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE WrestleMania 21 | 6251 | [6251-wwe-wrestlemania-21.json](./6251-wwe-wrestlemania-21.json) |
 | WWE WrestleMania X8 | 4573 | [4573-wwe-wrestlemania-x8.json](./4573-wwe-wrestlemania-x8.json) |
 | WWE WrestleMania XIX | 4574 | [4574-wwe-wrestlemania-xix.json](./4574-wwe-wrestlemania-xix.json) |
+| WWE Wrestling Revolution Fight 2018 | 188319 | [188319-wwe-wrestling-revolution-fight-2018.json](./188319-wwe-wrestling-revolution-fight-2018.json) |
 | WWF Attitude | 200414 | [200414-wwf-attitude.json](./200414-wwf-attitude.json) |
 | WWF Attitude | 3643 | [3643-wwf-attitude.json](./3643-wwf-attitude.json) |
 | WWF King of the Ring | 265031 | [265031-wwf-king-of-the-ring.json](./265031-wwf-king-of-the-ring.json) |
