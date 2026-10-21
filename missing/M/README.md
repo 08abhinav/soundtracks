@@ -2701,6 +2701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Margrave Manor 3: The Curse of the Blacksmith's Heart | 210041 | [210041-margrave-manor-3-the-curse-of-the-blacksmiths-heart.json](./210041-margrave-manor-3-the-curse-of-the-blacksmiths-heart.json) |
 | Margrave: The Blacksmith's Daughter | 140989 | [140989-margrave-the-blacksmiths-daughter.json](./140989-margrave-the-blacksmiths-daughter.json) |
 | Margrave: The Blacksmith's Daughter Deluxe Edition | 140990 | [140990-margrave-the-blacksmiths-daughter-deluxe-edition.json](./140990-margrave-the-blacksmiths-daughter-deluxe-edition.json) |
+| Mari and Bayu: The Road Home | 193658 | [193658-mari-and-bayu-the-road-home.json](./193658-mari-and-bayu-the-road-home.json) |
 | Mari and the Black Tower | 68766 | [68766-mari-and-the-black-tower.json](./68766-mari-and-the-black-tower.json) |
 | Mari Is Home | 280180 | [280180-mari-is-home.json](./280180-mari-is-home.json) |
 | Mari's Magical Deliveries | 334204 | [334204-maris-magical-deliveries.json](./334204-maris-magical-deliveries.json) |
@@ -11630,6 +11631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Lost | 367452 | [367452-monkey-lost.json](./367452-monkey-lost.json) |
 | Monkey Magic | 145394 | [145394-monkey-magic.json](./145394-monkey-magic.json) |
 | Monkey Magic | 45220 | [45220-monkey-magic.json](./45220-monkey-magic.json) |
+| Monkey Mansion | 193645 | [193645-monkey-mansion.json](./193645-monkey-mansion.json) |
 | Monkey Math | 253303 | [253303-monkey-math.json](./253303-monkey-math.json) |
 | Monkey Milk | 211124 | [211124-monkey-milk.json](./211124-monkey-milk.json) |
 | Monkey Mischief | 51065 | [51065-monkey-mischief.json](./51065-monkey-mischief.json) |
@@ -16518,6 +16520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Solitaire: Dreamcatcher 2 | 213317 | [213317-mystery-solitaire-dreamcatcher-2.json](./213317-mystery-solitaire-dreamcatcher-2.json) |
 | Mystery Solitaire: Dreamcatcher 3 | 237255 | [237255-mystery-solitaire-dreamcatcher-3.json](./237255-mystery-solitaire-dreamcatcher-3.json) |
 | Mystery Solitaire: Grimm's Tales 2 | 122367 | [122367-mystery-solitaire-grimms-tales-2.json](./122367-mystery-solitaire-grimms-tales-2.json) |
+| Mystery Solitaire: Grimm's Tales 4 | 193649 | [193649-mystery-solitaire-grimms-tales-4.json](./193649-mystery-solitaire-grimms-tales-4.json) |
 | Mystery Solitaire: Grimm's Tales 6 | 208822 | [208822-mystery-solitaire-grimms-tales-6.json](./208822-mystery-solitaire-grimms-tales-6.json) |
 | Mystery Solitaire: Grimm's Tales 7 | 231817 | [231817-mystery-solitaire-grimms-tales-7.json](./231817-mystery-solitaire-grimms-tales-7.json) |
 | Mystery Solitaire: Grimm's Tales 9 | 262586 | [262586-mystery-solitaire-grimms-tales-9.json](./262586-mystery-solitaire-grimms-tales-9.json) |
