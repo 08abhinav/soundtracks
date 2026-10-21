@@ -3338,6 +3338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Innocent Girl | 169369 | [169369-innocent-girl.json](./169369-innocent-girl.json) |
 | Innocent Grape | 298399 | [298399-innocent-grape.json](./298399-innocent-grape.json) |
 | Innocent Life: A Futuristic Harvest Moon | 42852 | [42852-innocent-life-a-futuristic-harvest-moon.json](./42852-innocent-life-a-futuristic-harvest-moon.json) |
+| Innocent Passage | 187134 | [187134-innocent-passage.json](./187134-innocent-passage.json) |
 | Innocent Stuck-up Girls! | 251517 | [251517-innocent-stuck-up-girls.json](./251517-innocent-stuck-up-girls.json) |
 | Innocent Tears | 73742 | [73742-innocent-tears.json](./73742-innocent-tears.json) |
 | Innocent Tour | 270756 | [270756-innocent-tour.json](./270756-innocent-tour.json) |
@@ -4603,6 +4604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Is this Game Trying to Kill Me? Preface | 305196 | [305196-is-this-game-trying-to-kill-me-preface.json](./305196-is-this-game-trying-to-kill-me-preface.json) |
 | Is this potato? | 387665 | [387665-is-this-potato.json](./387665-is-this-potato.json) |
 | Is This Self Care? | 179005 | [179005-is-this-self-care.json](./179005-is-this-self-care.json) |
+| Is This True?! My Cute Kouhai is in Love With Me! | 187115 | [187115-is-this-true-my-cute-kouhai-is-in-love-with-me.json](./187115-is-this-true-my-cute-kouhai-is-in-love-with-me.json) |
 | Is This Undertale | 229595 | [229595-is-this-undertale.json](./229595-is-this-undertale.json) |
 | Is This Weapon? | 245339 | [245339-is-this-weapon.json](./245339-is-this-weapon.json) |
 | Is Today Another Day? | 406797 | [406797-is-today-another-day.json](./406797-is-today-another-day.json) |
