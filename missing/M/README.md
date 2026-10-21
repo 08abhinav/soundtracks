@@ -4238,6 +4238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MatchVentures | 251818 | [251818-matchventures.json](./251818-matchventures.json) |
 | Matchville | 107362 | [107362-matchville.json](./107362-matchville.json) |
 | MatchX | 256228 | [256228-matchx.json](./256228-matchx.json) |
+| Matchy Moods | 174544 | [174544-matchy-moods.json](./174544-matchy-moods.json) |
 | Matchy Star | 83498 | [83498-matchy-star.json](./83498-matchy-star.json) |
 | Matchy Way Tales | 365884 | [365884-matchy-way-tales.json](./365884-matchy-way-tales.json) |
 | MatchyGotchy Z | 109661 | [109661-matchygotchy-z.json](./109661-matchygotchy-z.json) |
@@ -5249,6 +5250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior 5: Mercenaries - Dropship Collection | 154618 | [154618-mechwarrior-5-mercenaries-dropship-collection.json](./154618-mechwarrior-5-mercenaries-dropship-collection.json) |
 | MechWarrior 5: Mercenaries - Heroes of the Inner Sphere | 154619 | [154619-mechwarrior-5-mercenaries-heroes-of-the-inner-sphere.json](./154619-mechwarrior-5-mercenaries-heroes-of-the-inner-sphere.json) |
 | MechWarrior 5: Mercenaries - JumpShip Edition | 173169 | [173169-mechwarrior-5-mercenaries-jumpship-edition.json](./173169-mechwarrior-5-mercenaries-jumpship-edition.json) |
+| MechWarrior 5: Mercenaries - Legend of the Kestrel Lancers | 174540 | [174540-mechwarrior-5-mercenaries-legend-of-the-kestrel-lancers.json](./174540-mechwarrior-5-mercenaries-legend-of-the-kestrel-lancers.json) |
 | MechWarrior 5: Mercenaries - Shadow of Kerensky | 351086 | [351086-mechwarrior-5-mercenaries-shadow-of-kerensky.json](./351086-mechwarrior-5-mercenaries-shadow-of-kerensky.json) |
 | MechWarrior 5: Mercenaries - Solaris Showdown | 291597 | [291597-mechwarrior-5-mercenaries-solaris-showdown.json](./291597-mechwarrior-5-mercenaries-solaris-showdown.json) |
 | MechWarrior Online | 1255 | [1255-mechwarrior-online.json](./1255-mechwarrior-online.json) |
@@ -15685,6 +15687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero One's Justice 2: DLC Pack 3 - Itsuka Kendo | 168258 | [168258-my-hero-ones-justice-2-dlc-pack-3-itsuka-kendo.json](./168258-my-hero-ones-justice-2-dlc-pack-3-itsuka-kendo.json) |
 | My Hero One's Justice 2: DLC Pack 4 - Tetsutetsu Tetsutetsu | 168261 | [168261-my-hero-ones-justice-2-dlc-pack-4-tetsutetsu-tetsutetsu.json](./168261-my-hero-ones-justice-2-dlc-pack-4-tetsutetsu-tetsutetsu.json) |
 | My Hero One's Justice 2: DLC Pack 5 - Gentle & La Brava | 168257 | [168257-my-hero-ones-justice-2-dlc-pack-5-gentle-and-la-brava.json](./168257-my-hero-ones-justice-2-dlc-pack-5-gentle-and-la-brava.json) |
+| My Hero One's Justice 2: DLC Pack 6 - Hitoshi Shinso | 174545 | [174545-my-hero-ones-justice-2-dlc-pack-6-hitoshi-shinso.json](./174545-my-hero-ones-justice-2-dlc-pack-6-hitoshi-shinso.json) |
 | My Hero One's Justice 2: Outlaw Suit Set | 237917 | [237917-my-hero-ones-justice-2-outlaw-suit-set.json](./237917-my-hero-ones-justice-2-outlaw-suit-set.json) |
 | My Hero One's Justice 2: Pack 7 Present Mic | 193195 | [193195-my-hero-ones-justice-2-pack-7-present-mic.json](./193195-my-hero-ones-justice-2-pack-7-present-mic.json) |
 | My Hero One's Justice 2: Pack 8 Kurogiri | 193194 | [193194-my-hero-ones-justice-2-pack-8-kurogiri.json](./193194-my-hero-ones-justice-2-pack-8-kurogiri.json) |
