@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jabberwocky | 112284 | [112284-jabberwocky.json](./112284-jabberwocky.json) |
 | Jabberwocky | 181861 | [181861-jabberwocky.json](./181861-jabberwocky.json) |
 | Jabroni Brawl: Episode 3 | 125123 | [125123-jabroni-brawl-episode-3.json](./125123-jabroni-brawl-episode-3.json) |
+| JacadoLines | 185899 | [185899-jacadolines.json](./185899-jacadolines.json) |
 | Jacal | 223662 | [223662-jacal.json](./223662-jacal.json) |
 | Jacaranda Jim | 93463 | [93463-jacaranda-jim.json](./93463-jacaranda-jim.json) |
 | Jack | 369658 | [369658-jack.json](./369658-jack.json) |
@@ -2694,6 +2695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpStart Preschool | 315521 | [315521-jumpstart-preschool.json](./315521-jumpstart-preschool.json) |
 | JumpStart Reading for Second Graders | 144929 | [144929-jumpstart-reading-for-second-graders.json](./144929-jumpstart-reading-for-second-graders.json) |
 | JumpStart Spanish | 378540 | [378540-jumpstart-spanish.json](./378540-jumpstart-spanish.json) |
+| Jumpstart Spy Masters: Unmask the Prankster | 185887 | [185887-jumpstart-spy-masters-unmask-the-prankster.json](./185887-jumpstart-spy-masters-unmask-the-prankster.json) |
 | JumpStart Toddlers | 129111 | [129111-jumpstart-toddlers.json](./129111-jumpstart-toddlers.json) |
 | JumpStart Wildlife Safari Field Trip | 67348 | [67348-jumpstart-wildlife-safari-field-trip.json](./67348-jumpstart-wildlife-safari-field-trip.json) |
 | JumpStart: Dino Adventure Field Trip | 49923 | [49923-jumpstart-dino-adventure-field-trip.json](./49923-jumpstart-dino-adventure-field-trip.json) |
