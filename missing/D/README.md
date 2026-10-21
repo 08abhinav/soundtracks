@@ -6693,6 +6693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Dug Deeper | 2737 | [2737-dig-dug-deeper.json](./2737-dig-dug-deeper.json) |
 | Dig Dug Island: Minami no Jima no Pukapukapon | 315587 | [315587-dig-dug-island-minami-no-jima-no-pukapukapon.json](./315587-dig-dug-island-minami-no-jima-no-pukapukapon.json) |
 | Dig Dug New Frontier | 350575 | [350575-dig-dug-new-frontier.json](./350575-dig-dug-new-frontier.json) |
+| Dig Dug Revival | 187086 | [187086-dig-dug-revival.json](./187086-dig-dug-revival.json) |
 | Dig Dug: Digging Strike | 47729 | [47729-dig-dug-digging-strike.json](./47729-dig-dug-digging-strike.json) |
 | Dig Dungeon: Roguelike | 233498 | [233498-dig-dungeon-roguelike.json](./233498-dig-dungeon-roguelike.json) |
 | Dig for TCG Cards With Your Friends | 409765 | [409765-dig-for-tcg-cards-with-your-friends.json](./409765-dig-for-tcg-cards-with-your-friends.json) |
@@ -10887,6 +10888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Age II: Warrior Item Pack | 368133 | [368133-dragon-age-ii-warrior-item-pack.json](./368133-dragon-age-ii-warrior-item-pack.json) |
 | Dragon Age II: Warrior Item Pack II | 368140 | [368140-dragon-age-ii-warrior-item-pack-ii.json](./368140-dragon-age-ii-warrior-item-pack-ii.json) |
 | Dragon Age Journeys | 67172 | [67172-dragon-age-journeys.json](./67172-dragon-age-journeys.json) |
+| Dragon Age Legends: Remix 01 | 187130 | [187130-dragon-age-legends-remix-01.json](./187130-dragon-age-legends-remix-01.json) |
 | Dragon Age: Inquisition - Game of the Year Edition | 44545 | [44545-dragon-age-inquisition-game-of-the-year-edition.json](./44545-dragon-age-inquisition-game-of-the-year-edition.json) |
 | Dragon Age: Inquisition - Jaws of Hakkon | 19135 | [19135-dragon-age-inquisition-jaws-of-hakkon.json](./19135-dragon-age-inquisition-jaws-of-hakkon.json) |
 | Dragon Age: Inquisition - Spoils of the Avvar | 367437 | [367437-dragon-age-inquisition-spoils-of-the-avvar.json](./367437-dragon-age-inquisition-spoils-of-the-avvar.json) |
@@ -11208,6 +11210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Kingdoms: A Legend's Beginning | 236322 | [236322-dragon-kingdoms-a-legends-beginning.json](./236322-dragon-kingdoms-a-legends-beginning.json) |
 | Dragon Kings | 269027 | [269027-dragon-kings.json](./269027-dragon-kings.json) |
 | Dragon Knife | 48587 | [48587-dragon-knife.json](./48587-dragon-knife.json) |
+| Dragon Knight | 187132 | [187132-dragon-knight.json](./187132-dragon-knight.json) |
 | Dragon Knight | 31918 | [31918-dragon-knight.json](./31918-dragon-knight.json) |
 | Dragon Knight | 39628 | [39628-dragon-knight.json](./39628-dragon-knight.json) |
 | Dragon Knight | 416720 | [416720-dragon-knight.json](./416720-dragon-knight.json) |
