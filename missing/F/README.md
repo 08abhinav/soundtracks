@@ -3222,6 +3222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field of Glory II: Swifter than Eagles | 234222 | [234222-field-of-glory-ii-swifter-than-eagles.json](./234222-field-of-glory-ii-swifter-than-eagles.json) |
 | Field of Glory: Empires | 112588 | [112588-field-of-glory-empires.json](./112588-field-of-glory-empires.json) |
 | Field of Glory: Empires - Persia 550-330 BCE | 154941 | [154941-field-of-glory-empires-persia-550-330-bce.json](./154941-field-of-glory-empires-persia-550-330-bce.json) |
+| Field of Glory: Kingdoms | 200987 | [200987-field-of-glory-kingdoms.json](./200987-field-of-glory-kingdoms.json) |
 | Field of Nine: Digital Edition 2001 | 49576 | [49576-field-of-nine-digital-edition-2001.json](./49576-field-of-nine-digital-edition-2001.json) |
 | Field of Polarity | 392145 | [392145-field-of-polarity.json](./392145-field-of-polarity.json) |
 | Field of Screams | 375279 | [375279-field-of-screams.json](./375279-field-of-screams.json) |
@@ -3580,6 +3581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Spree 3D | 114936 | [114936-fighting-spree-3d.json](./114936-fighting-spree-3d.json) |
 | Fighting Steel: World War II Surface Combat 1939-1942 | 78006 | [78006-fighting-steel-world-war-ii-surface-combat-1939-1942.json](./78006-fighting-steel-world-war-ii-surface-combat-1939-1942.json) |
 | Fighting Street | 37589 | [37589-fighting-street.json](./37589-fighting-street.json) |
+| Fighting Vipers | 200894 | [200894-fighting-vipers.json](./200894-fighting-vipers.json) |
 | Fighting Vipers | 291605 | [291605-fighting-vipers.json](./291605-fighting-vipers.json) |
 | Fighting Vipers | 39471 | [39471-fighting-vipers.json](./39471-fighting-vipers.json) |
 | Fighting Zombie | 196558 | [196558-fighting-zombie.json](./196558-fighting-zombie.json) |
@@ -5750,6 +5752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flaw | 265539 | [265539-flaw.json](./265539-flaw.json) |
 | Flawed Tactics | 291905 | [291905-flawed-tactics.json](./291905-flawed-tactics.json) |
 | Flawless | 219790 | [219790-flawless.json](./219790-flawless.json) |
+| Flawless Abbey | 200971 | [200971-flawless-abbey.json](./200971-flawless-abbey.json) |
 | Flawless Darkness | 260238 | [260238-flawless-darkness.json](./260238-flawless-darkness.json) |
 | Flaws in the People We Love | 117571 | [117571-flaws-in-the-people-we-love.json](./117571-flaws-in-the-people-we-love.json) |
 | Flay the Obscene: Compilation | 263410 | [263410-flay-the-obscene-compilation.json](./263410-flay-the-obscene-compilation.json) |
