@@ -869,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales From The Under-Realm: After Midnight | 301004 | [301004-tales-from-the-under-realm-after-midnight.json](./301004-tales-from-the-under-realm-after-midnight.json) |
 | Tales from the Under-Realm: Hazel | 149401 | [149401-tales-from-the-under-realm-hazel.json](./149401-tales-from-the-under-realm-hazel.json) |
 | Tales From The Under-Realm: Hazel | 298566 | [298566-tales-from-the-under-realm-hazel.json](./298566-tales-from-the-under-realm-hazel.json) |
+| Tales From the Wasteland | 188301 | [188301-tales-from-the-wasteland.json](./188301-tales-from-the-wasteland.json) |
 | Tales from the Watchtower: The Conjurer | 418553 | [418553-tales-from-the-watchtower-the-conjurer.json](./418553-tales-from-the-watchtower-the-conjurer.json) |
 | Tales From Toyotoki: Arrival of the Witch | 206553 | [206553-tales-from-toyotoki-arrival-of-the-witch.json](./206553-tales-from-toyotoki-arrival-of-the-witch.json) |
 | Tales From Windy Meadow | 55114 | [55114-tales-from-windy-meadow.json](./55114-tales-from-windy-meadow.json) |
@@ -2478,6 +2479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technophobia: Dead Metal Tournament | 224519 | [224519-technophobia-dead-metal-tournament.json](./224519-technophobia-dead-metal-tournament.json) |
 | Technophobia: Do Androids go to Heaven? | 253838 | [253838-technophobia-do-androids-go-to-heaven.json](./253838-technophobia-do-androids-go-to-heaven.json) |
 | Technopoly: Industrial Empire | 233093 | [233093-technopoly-industrial-empire.json](./233093-technopoly-industrial-empire.json) |
+| Technoroid Unison Heart | 188292 | [188292-technoroid-unison-heart.json](./188292-technoroid-unison-heart.json) |
 | TechnoRun | 9251 | [9251-technorun.json](./9251-technorun.json) |
 | TechnoRunner | 156037 | [156037-technorunner.json](./156037-technorunner.json) |
 | Technōs Collection I | 130692 | [130692-technos-collection-i.json](./130692-technos-collection-i.json) |
@@ -11389,6 +11391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pirates of Dark Water | 218350 | [218350-the-pirates-of-dark-water.json](./218350-the-pirates-of-dark-water.json) |
 | The Pirates of Dark Water | 342059 | [342059-the-pirates-of-dark-water.json](./342059-the-pirates-of-dark-water.json) |
 | The Pirates of Dark Water | 8104 | [8104-the-pirates-of-dark-water.json](./8104-the-pirates-of-dark-water.json) |
+| The Pirates: Kingdoms | 188298 | [188298-the-pirates-kingdoms.json](./188298-the-pirates-kingdoms.json) |
 | The Piratescape | 176451 | [176451-the-piratescape.json](./176451-the-piratescape.json) |
 | The Pit | 213417 | [213417-the-pit.json](./213417-the-pit.json) |
 | The Pit | 23513 | [23513-the-pit.json](./23513-the-pit.json) |
@@ -17552,6 +17555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time to Escape | 288605 | [288605-time-to-escape.json](./288605-time-to-escape.json) |
 | Time to Fight | 114319 | [114319-time-to-fight.json](./114319-time-to-fight.json) |
 | Time to Golf | 143711 | [143711-time-to-golf.json](./143711-time-to-golf.json) |
+| Time to Hunt | 188320 | [188320-time-to-hunt.json](./188320-time-to-hunt.json) |
 | Time to Hunt | 200525 | [200525-time-to-hunt.json](./200525-time-to-hunt.json) |
 | Time To Live | 288606 | [288606-time-to-live.json](./288606-time-to-live.json) |
 | Time to Play Bridge | 95582 | [95582-time-to-play-bridge.json](./95582-time-to-play-bridge.json) |
@@ -19979,6 +19983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Accurate Battle Zombielator | 71583 | [71583-totally-accurate-battle-zombielator.json](./71583-totally-accurate-battle-zombielator.json) |
 | Totally Accurate Battlegrounds | 103222 | [103222-totally-accurate-battlegrounds.json](./103222-totally-accurate-battlegrounds.json) |
 | Totally Accurate Dating Simulator | 241505 | [241505-totally-accurate-dating-simulator.json](./241505-totally-accurate-dating-simulator.json) |
+| Totally Accurate GamePlay | 188321 | [188321-totally-accurate-gameplay.json](./188321-totally-accurate-gameplay.json) |
 | Totally Baseball | 127163 | [127163-totally-baseball.json](./127163-totally-baseball.json) |
 | Totally Convenient | 188907 | [188907-totally-convenient.json](./188907-totally-convenient.json) |
 | Totally Jet | 246488 | [246488-totally-jet.json](./246488-totally-jet.json) |
@@ -24111,6 +24116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trucking 3D | 58156 | [58156-trucking-3d.json](./58156-trucking-3d.json) |
 | Trucking School: Truck Simulator Driving 2025 | 376239 | [376239-trucking-school-truck-simulator-driving-2025.json](./376239-trucking-school-truck-simulator-driving-2025.json) |
 | Trucking Simulator | 292984 | [292984-trucking-simulator.json](./292984-trucking-simulator.json) |
+| Trucking Star | 188317 | [188317-trucking-star.json](./188317-trucking-star.json) |
 | Trucks | 145381 | [145381-trucks.json](./145381-trucks.json) |
 | Trucks & Trailers | 10290 | [10290-trucks-and-trailers.json](./10290-trucks-and-trailers.json) |
 | Trucks and Things That Go Puzzle Game | 109022 | [109022-trucks-and-things-that-go-puzzle-game.json](./109022-trucks-and-things-that-go-puzzle-game.json) |
