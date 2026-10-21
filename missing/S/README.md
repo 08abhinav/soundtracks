@@ -1898,6 +1898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saving Ghost | 159710 | [159710-saving-ghost.json](./159710-saving-ghost.json) |
 | Saving Grace | 142201 | [142201-saving-grace.json](./142201-saving-grace.json) |
 | Saving Healer | 223435 | [223435-saving-healer.json](./223435-saving-healer.json) |
+| Saving Money | 177725 | [177725-saving-money.json](./177725-saving-money.json) |
 | Saving Mr. Sparkles | 139363 | [139363-saving-mr-sparkles.json](./139363-saving-mr-sparkles.json) |
 | Saving Mrs. Hinako | 279003 | [279003-saving-mrs-hinako.json](./279003-saving-mrs-hinako.json) |
 | Saving Princess | 358859 | [358859-saving-princess.json](./358859-saving-princess.json) |
@@ -7344,6 +7345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrimp | 314251 | [314251-shrimp.json](./314251-shrimp.json) |
 | Shrimp Game: Overkrill | 292946 | [292946-shrimp-game-overkrill.json](./292946-shrimp-game-overkrill.json) |
 | Shrimp Keeping Simulator | 340371 | [340371-shrimp-keeping-simulator.json](./340371-shrimp-keeping-simulator.json) |
+| Shrimp Slam It | 177740 | [177740-shrimp-slam-it.json](./177740-shrimp-slam-it.json) |
 | Shrimp.io | 286942 | [286942-shrimp-io.json](./286942-shrimp-io.json) |
 | Shrimplation | 364686 | [364686-shrimplation.json](./364686-shrimplation.json) |
 | Shrimpwrecked | 310079 | [310079-shrimpwrecked.json](./310079-shrimpwrecked.json) |
@@ -15423,6 +15425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space/Mech/Pilot | 139924 | [139924-space-mech-pilot.json](./139924-space-mech-pilot.json) |
 | Spaceball | 112177 | [112177-spaceball.json](./112177-spaceball.json) |
 | Spaceball Revolution | 21059 | [21059-spaceball-revolution.json](./21059-spaceball-revolution.json) |
+| Spacebar | 177733 | [177733-spacebar.json](./177733-spacebar.json) |
 | Spacebar | 183334 | [183334-spacebar.json](./183334-spacebar.json) |
 | Spacebar | 344361 | [344361-spacebar.json](./344361-spacebar.json) |
 | Spacebar X | 364998 | [364998-spacebar-x.json](./364998-spacebar-x.json) |
