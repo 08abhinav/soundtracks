@@ -4388,6 +4388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serial Hunter | 191572 | [191572-serial-hunter.json](./191572-serial-hunter.json) |
 | Serial Killers & Zombies: Horror Bundle | 393052 | [393052-serial-killers-and-zombies-horror-bundle.json](./393052-serial-killers-and-zombies-horror-bundle.json) |
 | Serial Lover | 133207 | [133207-serial-lover.json](./133207-serial-lover.json) |
+| Serial Woman | 194857 | [194857-serial-woman.json](./194857-serial-woman.json) |
 | Serial World | 301328 | [301328-serial-world.json](./301328-serial-world.json) |
 | Series Makers Tycoon | 173806 | [173806-series-makers-tycoon.json](./173806-series-makers-tycoon.json) |
 | Series: Your Story Universe | 144197 | [144197-series-your-story-universe.json](./144197-series-your-story-universe.json) |
@@ -4660,6 +4661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sewer Quest | 376007 | [376007-sewer-quest.json](./376007-sewer-quest.json) |
 | Sewer Raiders | 385929 | [385929-sewer-raiders.json](./385929-sewer-raiders.json) |
 | Sewer Rave | 125326 | [125326-sewer-rave.json](./125326-sewer-rave.json) |
+| Sewer Run | 194847 | [194847-sewer-run.json](./194847-sewer-run.json) |
 | Sewercide | 385930 | [385930-sewercide.json](./385930-sewercide.json) |
 | Sewermania | 42179 | [42179-sewermania.json](./42179-sewermania.json) |
 | Sewing Machine Simulator | 312435 | [312435-sewing-machine-simulator.json](./312435-sewing-machine-simulator.json) |
@@ -7820,6 +7822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signal Zone | 381195 | [381195-signal-zone.json](./381195-signal-zone.json) |
 | Signal: Uncharted Lands | 333239 | [333239-signal-uncharted-lands.json](./333239-signal-uncharted-lands.json) |
 | Signal13 | 410346 | [410346-signal13.json](./410346-signal13.json) |
+| Signals of Chaos | 195007 | [195007-signals-of-chaos.json](./195007-signals-of-chaos.json) |
 | Signature | 257073 | [257073-signature.json](./257073-signature.json) |
 | Signed by '89 | 177439 | [177439-signed-by-89.json](./177439-signed-by-89.json) |
 | Signed Mary | 318291 | [318291-signed-mary.json](./318291-signed-mary.json) |
@@ -16532,6 +16535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sping | 145442 | [145442-sping.json](./145442-sping.json) |
 | Spingenuity | 390090 | [390090-spingenuity.json](./390090-spingenuity.json) |
 | SpinGhost | 336712 | [336712-spinghost.json](./336712-spinghost.json) |
+| Spingram | 195009 | [195009-spingram.json](./195009-spingram.json) |
 | Spingun | 30803 | [30803-spingun.json](./30803-spingun.json) |
 | Spinheads | 112844 | [112844-spinheads.json](./112844-spinheads.json) |
 | Spinmaster | 15469 | [15469-spinmaster.json](./15469-spinmaster.json) |
