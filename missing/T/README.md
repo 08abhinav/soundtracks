@@ -9121,6 +9121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Breath | 254025 | [254025-the-last-breath.json](./254025-the-last-breath.json) |
 | The Last Bug | 371339 | [371339-the-last-bug.json](./371339-the-last-bug.json) |
 | The Last Bullet | 117784 | [117784-the-last-bullet.json](./117784-the-last-bullet.json) |
+| The Last Cadet | 172966 | [172966-the-last-cadet.json](./172966-the-last-cadet.json) |
 | The Last Camp | 334177 | [334177-the-last-camp.json](./334177-the-last-camp.json) |
 | The Last Camp 1990 | 289997 | [289997-the-last-camp-1990.json](./289997-the-last-camp-1990.json) |
 | The Last Caretaker | 333443 | [333443-the-last-caretaker.json](./333443-the-last-caretaker.json) |
@@ -13156,6 +13157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stealth House: Secret Key | 101018 | [101018-the-stealth-house-secret-key.json](./101018-the-stealth-house-secret-key.json) |
 | The Stepfather Remake | 332279 | [332279-the-stepfather-remake.json](./332279-the-stepfather-remake.json) |
 | The Steps as We Know Them | 149875 | [149875-the-steps-as-we-know-them.json](./149875-the-steps-as-we-know-them.json) |
+| The Steps of Divynia | 172968 | [172968-the-steps-of-divynia.json](./172968-the-steps-of-divynia.json) |
 | The Stick and the Basket | 215786 | [215786-the-stick-and-the-basket.json](./215786-the-stick-and-the-basket.json) |
 | The Stick Figure Game | 344726 | [344726-the-stick-figure-game.json](./344726-the-stick-figure-game.json) |
 | The Stickman | 341027 | [341027-the-stickman.json](./341027-the-stickman.json) |
@@ -14218,6 +14220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vanishing of Ethan Carter Redux | 102123 | [102123-the-vanishing-of-ethan-carter-redux.json](./102123-the-vanishing-of-ethan-carter-redux.json) |
 | The Vanishing of Ethan Carter VR | 19065 | [19065-the-vanishing-of-ethan-carter-vr.json](./19065-the-vanishing-of-ethan-carter-vr.json) |
 | The Vanishing Train | 380807 | [380807-the-vanishing-train.json](./380807-the-vanishing-train.json) |
+| The VanMan | 172955 | [172955-the-vanman.json](./172955-the-vanman.json) |
 | The Varginha Incident | 2535 | [2535-the-varginha-incident.json](./2535-the-varginha-incident.json) |
 | The Variant Void | 419330 | [419330-the-variant-void.json](./419330-the-variant-void.json) |
 | THE Variety Game Daishugo: Kingyo Sukui, Card, Suji Puzzle, Nikakudori | 136833 | [136833-the-variety-game-daishugo-kingyo-sukui-card-suji-puzzle-nikakudori.json](./136833-the-variety-game-daishugo-kingyo-sukui-card-suji-puzzle-nikakudori.json) |
