@@ -1839,6 +1839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Battle | 85607 | [85607-neon-battle.json](./85607-neon-battle.json) |
 | Neon Beat Rider | 163739 | [163739-neon-beat-rider.json](./163739-neon-beat-rider.json) |
 | Neon Beats | 197652 | [197652-neon-beats.json](./197652-neon-beats.json) |
+| Neon Beats: A Beat Further | 191455 | [191455-neon-beats-a-beat-further.json](./191455-neon-beats-a-beat-further.json) |
 | Neon Beauties: Hentai Photo Puzzle | 417279 | [417279-neon-beauties-hentai-photo-puzzle.json](./417279-neon-beauties-hentai-photo-puzzle.json) |
 | Neon Blast | 113548 | [113548-neon-blast.json](./113548-neon-blast.json) |
 | Neon Blast | 240936 | [240936-neon-blast.json](./240936-neon-blast.json) |
@@ -5473,6 +5474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova's Cube! | 370415 | [370415-novas-cube.json](./370415-novas-cube.json) |
 | Novadrome | 21941 | [21941-novadrome.json](./21941-novadrome.json) |
 | Novalance | 128954 | [128954-novalance.json](./128954-novalance.json) |
+| Novalie | 191610 | [191610-novalie.json](./191610-novalie.json) |
 | Novalight Tetris | 73858 | [73858-novalight-tetris.json](./73858-novalight-tetris.json) |
 | Novantica | 265312 | [265312-novantica.json](./265312-novantica.json) |
 | Novark | 290510 | [290510-novark.json](./290510-novark.json) |
