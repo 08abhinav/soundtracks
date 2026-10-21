@@ -7204,6 +7204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clan Generator | 212244 | [212244-clan-generator.json](./212244-clan-generator.json) |
 | Clan of Champions | 16341 | [16341-clan-of-champions.json](./16341-clan-of-champions.json) |
 | Clan of Death | 150430 | [150430-clan-of-death.json](./150430-clan-of-death.json) |
+| Clan of Lions | 200321 | [200321-clan-of-lions.json](./200321-clan-of-lions.json) |
 | Clan Senki | 102872 | [102872-clan-senki.json](./102872-clan-senki.json) |
 | Clan Wars | 188089 | [188089-clan-wars.json](./188089-clan-wars.json) |
 | Clan Wars | 212162 | [212162-clan-wars.json](./212162-clan-wars.json) |
