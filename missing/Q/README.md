@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QMC: Puritan | 272127 | [272127-qmc-puritan.json](./272127-qmc-puritan.json) |
 | Qomp | 142475 | [142475-qomp.json](./142475-qomp.json) |
 | Qomp2 | 263923 | [263923-qomp2.json](./263923-qomp2.json) |
+| QontoWars | 190492 | [190492-qontowars.json](./190492-qontowars.json) |
 | Qop | 91315 | [91315-qop.json](./91315-qop.json) |
 | Qop 2 | 76379 | [76379-qop-2.json](./76379-qop-2.json) |
 | Qop 3 | 102389 | [102389-qop-3.json](./102389-qop-3.json) |
