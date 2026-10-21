@@ -2128,6 +2128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elvira's Horror Bundle | 186542 | [186542-elviras-horror-bundle.json](./186542-elviras-horror-bundle.json) |
 | Elvira's Horror Pack | 71476 | [71476-elviras-horror-pack.json](./71476-elviras-horror-pack.json) |
 | Elyndor | 402563 | [402563-elyndor.json](./402563-elyndor.json) |
+| Elypse | 182076 | [182076-elypse.json](./182076-elypse.json) |
 | Elysian | 306799 | [306799-elysian.json](./306799-elysian.json) |
 | Elysian Echoes | 265093 | [265093-elysian-echoes.json](./265093-elysian-echoes.json) |
 | Elysian Eclipse | 236282 | [236282-elysian-eclipse.json](./236282-elysian-eclipse.json) |
