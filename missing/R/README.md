@@ -4896,6 +4896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reversal | 78717 | [78717-reversal.json](./78717-reversal.json) |
 | Reversal Challenge | 209197 | [209197-reversal-challenge.json](./209197-reversal-challenge.json) |
 | Reversal of Deck | 283717 | [283717-reversal-of-deck.json](./283717-reversal-of-deck.json) |
+| Reversary | 204197 | [204197-reversary.json](./204197-reversary.json) |
 | Reverse | 153147 | [153147-reverse.json](./153147-reverse.json) |
 | Reverse 1999: A Long Long Way | 374300 | [374300-reverse-1999-a-long-long-way.json](./374300-reverse-1999-a-long-long-way.json) |
 | Reverse 1999: A Nightmare at Green Lake | 279786 | [279786-reverse-1999-a-nightmare-at-green-lake.json](./279786-reverse-1999-a-nightmare-at-green-lake.json) |
@@ -6527,6 +6528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roary the Racing Car: Rollin' Road | 67617 | [67617-roary-the-racing-car-rollin-road.json](./67617-roary-the-racing-car-rollin-road.json) |
 | Roast Party | 98368 | [98368-roast-party.json](./98368-roast-party.json) |
 | Roasting Report: A Narcotics Murder | 154091 | [154091-roasting-report-a-narcotics-murder.json](./154091-roasting-report-a-narcotics-murder.json) |
+| Roasting Report: A Professor Murder | 204255 | [204255-roasting-report-a-professor-murder.json](./204255-roasting-report-a-professor-murder.json) |
 | Rob | 201674 | [201674-rob.json](./201674-rob.json) |
 | Rob & Run | 211731 | [211731-rob-and-run.json](./211731-rob-and-run.json) |
 | Rob Blanc I: Better Days of a Defender of the Universe | 171551 | [171551-rob-blanc-i-better-days-of-a-defender-of-the-universe.json](./171551-rob-blanc-i-better-days-of-a-defender-of-the-universe.json) |
