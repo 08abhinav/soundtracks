@@ -2504,6 +2504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uproot: Lost Leaf | 226752 | [226752-uproot-lost-leaf.json](./226752-uproot-lost-leaf.json) |
 | UpRooted | 224553 | [224553-uprooted.json](./224553-uprooted.json) |
 | Uprooted - a carrot simulator! | 97712 | [97712-uprooted-a-carrot-simulator.json](./97712-uprooted-a-carrot-simulator.json) |
+| UpRunner | 191604 | [191604-uprunner.json](./191604-uprunner.json) |
 | Uprush | 266239 | [266239-uprush.json](./266239-uprush.json) |
 | Upscale Studio: Logic Bundle: 5 in 1 | 379360 | [379360-upscale-studio-logic-bundle-5-in-1.json](./379360-upscale-studio-logic-bundle-5-in-1.json) |
 | Upshift StrikeRacer | 375395 | [375395-upshift-strikeracer.json](./375395-upshift-strikeracer.json) |
