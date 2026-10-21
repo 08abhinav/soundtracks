@@ -373,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Days R | 209742 | [209742-racing-days-r.json](./209742-racing-days-r.json) |
 | Racing Destruction Set | 25892 | [25892-racing-destruction-set.json](./25892-racing-destruction-set.json) |
 | Racing Djani 2 | 156050 | [156050-racing-djani-2.json](./156050-racing-djani-2.json) |
+| Racing Drift | 191611 | [191611-racing-drift.json](./191611-racing-drift.json) |
 | Racing Drift Taxi Car Simulator Ultimate | 251046 | [251046-racing-drift-taxi-car-simulator-ultimate.json](./251046-racing-drift-taxi-car-simulator-ultimate.json) |
 | Racing Empires | 245016 | [245016-racing-empires.json](./245016-racing-empires.json) |
 | Racing Fever | 49352 | [49352-racing-fever.json](./49352-racing-fever.json) |
