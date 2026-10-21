@@ -2313,6 +2313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genokids | 141137 | [141137-genokids.json](./141137-genokids.json) |
 | Genome Guardian 2 | 390598 | [390598-genome-guardian-2.json](./390598-genome-guardian-2.json) |
 | Genomon: Genetic Monsters | 142842 | [142842-genomon-genetic-monsters.json](./142842-genomon-genetic-monsters.json) |
+| Genopanic | 204193 | [204193-genopanic.json](./204193-genopanic.json) |
 | Genpei Kassen | 183870 | [183870-genpei-kassen.json](./183870-genpei-kassen.json) |
 | Genre Hopper | 182532 | [182532-genre-hopper.json](./182532-genre-hopper.json) |
 | Genry's parables: Scientist Story | 164419 | [164419-genrys-parables-scientist-story.json](./164419-genrys-parables-scientist-story.json) |
@@ -5738,6 +5739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Carismo | 277008 | [277008-gran-carismo.json](./277008-gran-carismo.json) |
 | Gran Duel: Shinki Dungeon no Hihou | 50056 | [50056-gran-duel-shinki-dungeon-no-hihou.json](./50056-gran-duel-shinki-dungeon-no-hihou.json) |
 | Gran Empire | 149443 | [149443-gran-empire.json](./149443-gran-empire.json) |
+| Gran Empire: Amane | 204254 | [204254-gran-empire-amane.json](./204254-gran-empire-amane.json) |
 | Gran Saga Idle: Knights x Knights | 319994 | [319994-gran-saga-idle-knights-x-knights.json](./319994-gran-saga-idle-knights-x-knights.json) |
 | Gran Text Auto | 60046 | [60046-gran-text-auto.json](./60046-gran-text-auto.json) |
 | Gran Tower: Wild Knights with Crazy Witches | 116460 | [116460-gran-tower-wild-knights-with-crazy-witches.json](./116460-gran-tower-wild-knights-with-crazy-witches.json) |
