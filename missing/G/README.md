@@ -3207,6 +3207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gift Wrapped | 272556 | [272556-gift-wrapped.json](./272556-gift-wrapped.json) |
 | Gift-Exchange-Machine | 176240 | [176240-gift-exchange-machine.json](./176240-gift-exchange-machine.json) |
 | Gifted Island | 244727 | [244727-gifted-island.json](./244727-gifted-island.json) |
+| Gifter | 183786 | [183786-gifter.json](./183786-gifter.json) |
 | Giftpia | 3931 | [3931-giftpia.json](./3931-giftpia.json) |
 | Gifts from Arthur | 202365 | [202365-gifts-from-arthur.json](./202365-gifts-from-arthur.json) |
 | Gifts, Please | 394430 | [394430-gifts-please.json](./394430-gifts-please.json) |
@@ -6386,6 +6387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravitia | 285909 | [285909-gravitia.json](./285909-gravitia.json) |
 | Gravito | 184265 | [184265-gravito.json](./184265-gravito.json) |
 | Graviton | 122382 | [122382-graviton.json](./122382-graviton.json) |
+| Graviton | 183771 | [183771-graviton.json](./183771-graviton.json) |
 | Graviton Flux | 371957 | [371957-graviton-flux.json](./371957-graviton-flux.json) |
 | Gravitorque DX | 355508 | [355508-gravitorque-dx.json](./355508-gravitorque-dx.json) |
 | Gravitrex | 46506 | [46506-gravitrex.json](./46506-gravitrex.json) |
