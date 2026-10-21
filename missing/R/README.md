@@ -1159,6 +1159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rakugaki Showtime | 46082 | [46082-rakugaki-showtime.json](./46082-rakugaki-showtime.json) |
 | Rakugaki Special | 137919 | [137919-rakugaki-special.json](./137919-rakugaki-special.json) |
 | Rakugo Sentai Kaigyaaku | 411426 | [411426-rakugo-sentai-kaigyaaku.json](./411426-rakugo-sentai-kaigyaaku.json) |
+| Rakuten | 189371 | [189371-rakuten.json](./189371-rakuten.json) |
 | Raldi's Crackhouse | 285343 | [285343-raldis-crackhouse.json](./285343-raldis-crackhouse.json) |
 | Ralf | 111598 | [111598-ralf.json](./111598-ralf.json) |
 | Ralf's Adventure: Aztec Mystery | 140910 | [140910-ralfs-adventure-aztec-mystery.json](./140910-ralfs-adventure-aztec-mystery.json) |
