@@ -7163,6 +7163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Sparta | 144127 | [144127-for-sparta.json](./144127-for-sparta.json) |
 | For Sparta | 343740 | [343740-for-sparta.json](./343740-for-sparta.json) |
 | For Stella | 392276 | [392276-for-stella.json](./392276-for-stella.json) |
+| For Symphony: With All One's Heart | 202609 | [202609-for-symphony-with-all-ones-heart.json](./202609-for-symphony-with-all-ones-heart.json) |
 | For The Fatherland | 408123 | [408123-for-the-fatherland.json](./408123-for-the-fatherland.json) |
 | For the Fish in the Bottle | 402919 | [402919-for-the-fish-in-the-bottle.json](./402919-for-the-fish-in-the-bottle.json) |
 | For the Forge | 348403 | [348403-for-the-forge.json](./348403-for-the-forge.json) |
@@ -9003,6 +9004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': V.S. Neco-Arc | 203230 | [203230-friday-night-funkin-v-s-neco-arc.json](./203230-friday-night-funkin-v-s-neco-arc.json) |
 | Friday Night Funkin': V.S. Whitty | 165075 | [165075-friday-night-funkin-v-s-whitty.json](./165075-friday-night-funkin-v-s-whitty.json) |
 | Friday Night Funkin': V.S. Whitty - Definitive Edition | 195454 | [195454-friday-night-funkin-v-s-whitty-definitive-edition.json](./195454-friday-night-funkin-v-s-whitty-definitive-edition.json) |
+| Friday Night Funkin': Vs 7 Grand Dad | 202611 | [202611-friday-night-funkin-vs-7-grand-dad.json](./202611-friday-night-funkin-vs-7-grand-dad.json) |
 | Friday Night Funkin': Vs Ankha | 186302 | [186302-friday-night-funkin-vs-ankha.json](./186302-friday-night-funkin-vs-ankha.json) |
 | Friday Night Funkin': VS Boykisser | 266414 | [266414-friday-night-funkin-vs-boykisser.json](./266414-friday-night-funkin-vs-boykisser.json) |
 | Friday Night Funkin': vs Impostor | 341839 | [341839-friday-night-funkin-vs-impostor.json](./341839-friday-night-funkin-vs-impostor.json) |
@@ -10534,6 +10536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futanari Have a Heart Too | 384722 | [384722-futanari-have-a-heart-too.json](./384722-futanari-have-a-heart-too.json) |
 | Futanari Jigsaw Puzzle | 212728 | [212728-futanari-jigsaw-puzzle.json](./212728-futanari-jigsaw-puzzle.json) |
 | Futanari Quest | 99592 | [99592-futanari-quest.json](./99592-futanari-quest.json) |
+| Futanari Sex - The New Boss | 202534 | [202534-futanari-sex-the-new-boss.json](./202534-futanari-sex-the-new-boss.json) |
 | Futanari Sex Adventures: Episode 1 | 316388 | [316388-futanari-sex-adventures-episode-1.json](./316388-futanari-sex-adventures-episode-1.json) |
 | Futanari Sex Adventures: Episode 2 | 311582 | [311582-futanari-sex-adventures-episode-2.json](./311582-futanari-sex-adventures-episode-2.json) |
 | Futanari Sex Adventures: Episode 4 | 368101 | [368101-futanari-sex-adventures-episode-4.json](./368101-futanari-sex-adventures-episode-4.json) |
