@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Little Lily Princess | 33333 | [33333-a-little-lily-princess.json](./33333-a-little-lily-princess.json) |
 | A Little Piece of Healing | 308423 | [308423-a-little-piece-of-healing.json](./308423-a-little-piece-of-healing.json) |
 | A Little Rabbit Story | 83521 | [83521-a-little-rabbit-story.json](./83521-a-little-rabbit-story.json) |
+| A Little Rogue | 184232 | [184232-a-little-rogue.json](./184232-a-little-rogue.json) |
 | A Little Shop in Squirrel Town | 139714 | [139714-a-little-shop-in-squirrel-town.json](./139714-a-little-shop-in-squirrel-town.json) |
 | A Little Space | 303892 | [303892-a-little-space.json](./303892-a-little-space.json) |
 | A Little Time | 158419 | [158419-a-little-time.json](./158419-a-little-time.json) |
@@ -9041,6 +9042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arabilis | 197787 | [197787-arabilis.json](./197787-arabilis.json) |
 | Arac | 13804 | [13804-arac.json](./13804-arac.json) |
 | Arachnaut | 415845 | [415845-arachnaut.json](./415845-arachnaut.json) |
+| Arachne | 184245 | [184245-arachne.json](./184245-arachne.json) |
 | Arachnid | 83489 | [83489-arachnid.json](./83489-arachnid.json) |
 | Arachnid Wars | 385934 | [385934-arachnid-wars.json](./385934-arachnid-wars.json) |
 | Arachnid Wars 1.5 | 385935 | [385935-arachnid-wars-1-5.json](./385935-arachnid-wars-1-5.json) |
@@ -9834,6 +9836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archery Simulator 2 | 303344 | [303344-archery-simulator-2.json](./303344-archery-simulator-2.json) |
 | Archery Star | 106630 | [106630-archery-star.json](./106630-archery-star.json) |
 | Archery Tournament | 242563 | [242563-archery-tournament.json](./242563-archery-tournament.json) |
+| Arches | 184230 | [184230-arches.json](./184230-arches.json) |
 | Archesis | 245955 | [245955-archesis.json](./245955-archesis.json) |
 | Archetypal Destroyer | 339311 | [339311-archetypal-destroyer.json](./339311-archetypal-destroyer.json) |
 | Archetype | 80584 | [80584-archetype.json](./80584-archetype.json) |
@@ -11637,6 +11640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assetto Corsa: Tripl3 Pack | 168898 | [168898-assetto-corsa-tripl3-pack.json](./168898-assetto-corsa-tripl3-pack.json) |
 | Assia: Returning to Dreams | 257314 | [257314-assia-returning-to-dreams.json](./257314-assia-returning-to-dreams.json) |
 | Assignment Due: Project Blue | 257555 | [257555-assignment-due-project-blue.json](./257555-assignment-due-project-blue.json) |
+| Assimilate | 184260 | [184260-assimilate.json](./184260-assimilate.json) |
 | Assimilation | 72125 | [72125-assimilation.json](./72125-assimilation.json) |
 | Assimilation X | 150975 | [150975-assimilation-x.json](./150975-assimilation-x.json) |
 | Assistant to the Lost Detective: Remaster | 298126 | [298126-assistant-to-the-lost-detective-remaster.json](./298126-assistant-to-the-lost-detective-remaster.json) |
