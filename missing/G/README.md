@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.G. Series: Shin Hero Ouga | 67370 | [67370-g-g-series-shin-hero-ouga.json](./67370-g-g-series-shin-hero-ouga.json) |
 | G.H.O.S.T. Chronicles: Phantom of the Faire | 209598 | [209598-g-h-o-s-t-chronicles-phantom-of-the-faire.json](./209598-g-h-o-s-t-chronicles-phantom-of-the-faire.json) |
 | G.H.O.S.T. Hunters: The Haunting of Majesty Manor | 209751 | [209751-g-h-o-s-t-hunters-the-haunting-of-majesty-manor.json](./209751-g-h-o-s-t-hunters-the-haunting-of-majesty-manor.json) |
+| G.I. Joe | 178246 | [178246-g-i-joe.json](./178246-g-i-joe.json) |
 | G.I. Joe: A Real American Hero | 218433 | [218433-g-i-joe-a-real-american-hero.json](./218433-g-i-joe-a-real-american-hero.json) |
 | G.I. Joe: A Real American Hero | 8165 | [8165-g-i-joe-a-real-american-hero.json](./8165-g-i-joe-a-real-american-hero.json) |
 | G.I. Joe: Hawk | 218426 | [218426-g-i-joe-hawk.json](./218426-g-i-joe-hawk.json) |
@@ -215,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gachaverse (RPG & Anime Dress Up) | 103668 | [103668-gachaverse-rpg-and-anime-dress-up.json](./103668-gachaverse-rpg-and-anime-dress-up.json) |
 | Gachaverse Studio! | 104531 | [104531-gachaverse-studio.json](./104531-gachaverse-studio.json) |
 | Gachi Adventure: Billy's Legacy | 217447 | [217447-gachi-adventure-billys-legacy.json](./217447-gachi-adventure-billys-legacy.json) |
+| Gachi Bird | 178269 | [178269-gachi-bird.json](./178269-gachi-bird.json) |
 | Gachi Dash | 180005 | [180005-gachi-dash.json](./180005-gachi-dash.json) |
 | Gachi Defense | 285923 | [285923-gachi-defense.json](./285923-gachi-defense.json) |
 | Gachi Dungeon Master | 157470 | [157470-gachi-dungeon-master.json](./157470-gachi-dungeon-master.json) |
@@ -7255,6 +7257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gromada | 69934 | [69934-gromada.json](./69934-gromada.json) |
 | Grombcross | 288692 | [288692-grombcross.json](./288692-grombcross.json) |
 | Grommet Chod | 410325 | [410325-grommet-chod.json](./410325-grommet-chod.json) |
+| Gromopoli | 178244 | [178244-gromopoli.json](./178244-gromopoli.json) |
 | Grompula | 107674 | [107674-grompula.json](./107674-grompula.json) |
 | Gronions | 135762 | [135762-gronions.json](./135762-gronions.json) |
 | Gronk Want Rock | 249502 | [249502-gronk-want-rock.json](./249502-gronk-want-rock.json) |
@@ -7458,6 +7461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Heroes Vip | 107108 | [107108-grow-heroes-vip.json](./107108-grow-heroes-vip.json) |
 | Grow Home | 8774 | [8774-grow-home.json](./8774-grow-home.json) |
 | Grow Home & Grow Up | 354503 | [354503-grow-home-and-grow-up.json](./354503-grow-home-and-grow-up.json) |
+| Grow in the Hole | 178275 | [178275-grow-in-the-hole.json](./178275-grow-in-the-hole.json) |
 | Grow Island | 78848 | [78848-grow-island.json](./78848-grow-island.json) |
 | Grow Nano 3 | 198167 | [198167-grow-nano-3.json](./198167-grow-nano-3.json) |
 | Grow Recovery | 175835 | [175835-grow-recovery.json](./175835-grow-recovery.json) |
