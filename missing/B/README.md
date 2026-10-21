@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babe and Friends: Animated Preschool Adventure | 316923 | [316923-babe-and-friends-animated-preschool-adventure.json](./316923-babe-and-friends-animated-preschool-adventure.json) |
 | Babe or Grave | 212288 | [212288-babe-or-grave.json](./212288-babe-or-grave.json) |
 | Babe-lathe | 296493 | [296493-babe-lathe.json](./296493-babe-lathe.json) |
+| Babel | 181597 | [181597-babel.json](./181597-babel.json) |
 | Babel | 198377 | [198377-babel.json](./198377-babel.json) |
 | Babel | 239161 | [239161-babel.json](./239161-babel.json) |
 | Babel | 385394 | [385394-babel.json](./385394-babel.json) |
@@ -9822,6 +9823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonk | 230865 | [230865-bonk.json](./230865-bonk.json) |
 | Bonk 'N Bash | 379122 | [379122-bonk-n-bash.json](./379122-bonk-n-bash.json) |
 | Bonk 3: Bonk's Big Adventure | 37615 | [37615-bonk-3-bonks-big-adventure.json](./37615-bonk-3-bonks-big-adventure.json) |
+| Bonk the Ball! | 181602 | [181602-bonk-the-ball.json](./181602-bonk-the-ball.json) |
 | Bonk Voyage | 415112 | [415112-bonk-voyage.json](./415112-bonk-voyage.json) |
 | Bonk! | 328554 | [328554-bonk.json](./328554-bonk.json) |
 | Bonk.io | 57077 | [57077-bonk-io.json](./57077-bonk-io.json) |
@@ -12549,6 +12551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Pirates | 120256 | [120256-bubble-pirates.json](./120256-bubble-pirates.json) |
 | Bubble Pop Letters & Shapes | 213396 | [213396-bubble-pop-letters-and-shapes.json](./213396-bubble-pop-letters-and-shapes.json) |
 | Bubble Pop Math Challenge Gr. 1-2 Premium | 87255 | [87255-bubble-pop-math-challenge-gr-1-2-premium.json](./87255-bubble-pop-math-challenge-gr-1-2-premium.json) |
+| Bubble Pop! | 181592 | [181592-bubble-pop.json](./181592-bubble-pop.json) |
 | Bubble Rage | 340228 | [340228-bubble-rage.json](./340228-bubble-rage.json) |
 | Bubble Raider | 110204 | [110204-bubble-raider.json](./110204-bubble-raider.json) |
 | Bubble Riders | 300999 | [300999-bubble-riders.json](./300999-bubble-riders.json) |
