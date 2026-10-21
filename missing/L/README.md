@@ -287,6 +287,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinths of the World: Changing the Past HD | 102683 | [102683-labyrinths-of-the-world-changing-the-past-hd.json](./102683-labyrinths-of-the-world-changing-the-past-hd.json) |
 | Labyrinths of the World: Eternal Winter | 188000 | [188000-labyrinths-of-the-world-eternal-winter.json](./188000-labyrinths-of-the-world-eternal-winter.json) |
 | Labyrinths of the World: Forbidden Muse - Collector's Edition | 55663 | [55663-labyrinths-of-the-world-forbidden-muse-collectors-edition.json](./55663-labyrinths-of-the-world-forbidden-muse-collectors-edition.json) |
+| Labyrinths of the World: Secrets of Easter Island | 198093 | [198093-labyrinths-of-the-world-secrets-of-easter-island.json](./198093-labyrinths-of-the-world-secrets-of-easter-island.json) |
+| Labyrinths of the World: Secrets of Easter Island - Collector's Edition | 198094 | [198094-labyrinths-of-the-world-secrets-of-easter-island-collectors-edition.json](./198094-labyrinths-of-the-world-secrets-of-easter-island-collectors-edition.json) |
 | Labyrinths of the World: Shattered Soul - Collector's Edition | 30674 | [30674-labyrinths-of-the-world-shattered-soul-collectors-edition.json](./30674-labyrinths-of-the-world-shattered-soul-collectors-edition.json) |
 | Labyrinths of the World: Stonehenge Legend | 101652 | [101652-labyrinths-of-the-world-stonehenge-legend.json](./101652-labyrinths-of-the-world-stonehenge-legend.json) |
 | Labyrinths of the World: The Wild Side - Collector's Edition | 128019 | [128019-labyrinths-of-the-world-the-wild-side-collectors-edition.json](./128019-labyrinths-of-the-world-the-wild-side-collectors-edition.json) |
@@ -6626,6 +6628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Letters: First Bloom | 337264 | [337264-love-letters-first-bloom.json](./337264-love-letters-first-bloom.json) |
 | Love Liar | 225646 | [225646-love-liar.json](./225646-love-liar.json) |
 | Love Lime! | 183000 | [183000-love-lime.json](./183000-love-lime.json) |
+| Love Live Heardle | 198109 | [198109-love-live-heardle.json](./198109-love-live-heardle.json) |
 | Love Live! Nijigasaki High School Idol Club: Tokimeki Roadmap to the Future | 282695 | [282695-love-live-nijigasaki-high-school-idol-club-tokimeki-roadmap-to-the-future.json](./282695-love-live-nijigasaki-high-school-idol-club-tokimeki-roadmap-to-the-future.json) |
 | Love Live! School Idol Festival 2: Miracle Live! | 218658 | [218658-love-live-school-idol-festival-2-miracle-live.json](./218658-love-live-school-idol-festival-2-miracle-live.json) |
 | Love Live! School Idol Festival: After School Activity - Wai-Wai! Home Meeting!! | 141248 | [141248-love-live-school-idol-festival-after-school-activity-wai-wai-home-meeting.json](./141248-love-live-school-idol-festival-after-school-activity-wai-wai-home-meeting.json) |
