@@ -3705,6 +3705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nihilore: The Mechanical Empire | 270844 | [270844-nihilore-the-mechanical-empire.json](./270844-nihilore-the-mechanical-empire.json) |
 | Nihilsearch | 146551 | [146551-nihilsearch.json](./146551-nihilsearch.json) |
 | Nihmory | 211711 | [211711-nihmory.json](./211711-nihmory.json) |
+| Nihon Daihyou Team no Kantoku ni Narou! Sekaihatsu, Soccer RPG | 176133 | [176133-nihon-daihyou-team-no-kantoku-ni-narou-sekaihatsu-soccer-rpg.json](./176133-nihon-daihyou-team-no-kantoku-ni-narou-sekaihatsu-soccer-rpg.json) |
 | Nihon Pro Golf Double Eagle | 143673 | [143673-nihon-pro-golf-double-eagle.json](./143673-nihon-pro-golf-double-eagle.json) |
 | Nihon Pro Mahjong Kishikai Kanshuu: Pro ni naru Mahjong DS | 131600 | [131600-nihon-pro-mahjong-kishikai-kanshuu-pro-ni-naru-mahjong-ds.json](./131600-nihon-pro-mahjong-kishikai-kanshuu-pro-ni-naru-mahjong-ds.json) |
 | Nihon Pro Mahjong Renmei Kounin: Honkaku Pro Mahjong: Shin Tetsuman | 369122 | [369122-nihon-pro-mahjong-renmei-kounin-honkaku-pro-mahjong-shin-tetsuman.json](./369122-nihon-pro-mahjong-renmei-kounin-honkaku-pro-mahjong-shin-tetsuman.json) |
@@ -5190,6 +5191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | North of Nowhere | 216970 | [216970-north-of-nowhere.json](./216970-north-of-nowhere.json) |
 | North Pole Workshop | 411062 | [411062-north-pole-workshop.json](./411062-north-pole-workshop.json) |
 | North Salvation | 246475 | [246475-north-salvation.json](./246475-north-salvation.json) |
+| North Shore | 176170 | [176170-north-shore.json](./176170-north-shore.json) |
 | North Shore | 349265 | [349265-north-shore.json](./349265-north-shore.json) |
 | North Star Mining Co. | 327163 | [327163-north-star-mining-co.json](./327163-north-star-mining-co.json) |
 | North Stars | 102143 | [102143-north-stars.json](./102143-north-stars.json) |
