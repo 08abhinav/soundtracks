@@ -2476,6 +2476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome | 368669 | [368669-welcome.json](./368669-welcome.json) |
 | Welcome | 92277 | [92277-welcome.json](./92277-welcome.json) |
 | Welcome Above | 111225 | [111225-welcome-above.json](./111225-welcome-above.json) |
+| Welcome Archaeology Enthusiast | 183250 | [183250-welcome-archaeology-enthusiast.json](./183250-welcome-archaeology-enthusiast.json) |
 | Welcome Back | 153992 | [153992-welcome-back.json](./153992-welcome-back.json) |
 | Welcome Back to 2007 2 | 107376 | [107376-welcome-back-to-2007-2.json](./107376-welcome-back-to-2007-2.json) |
 | Welcome Demon | 397666 | [397666-welcome-demon.json](./397666-welcome-demon.json) |
