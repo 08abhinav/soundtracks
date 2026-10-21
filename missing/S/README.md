@@ -1204,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandbox Skyline | 244129 | [244129-sandbox-skyline.json](./244129-sandbox-skyline.json) |
 | Sandbox Survivors | 415842 | [415842-sandbox-survivors.json](./415842-sandbox-survivors.json) |
 | Sandbox World | 265552 | [265552-sandbox-world.json](./265552-sandbox-world.json) |
+| Sandboxels | 187147 | [187147-sandboxels.json](./187147-sandboxels.json) |
 | Sandcastle | 268655 | [268655-sandcastle.json](./268655-sandcastle.json) |
 | Sandcastle Builder | 62457 | [62457-sandcastle-builder.json](./62457-sandcastle-builder.json) |
 | Sandcastles | 134693 | [134693-sandcastles.json](./134693-sandcastles.json) |
@@ -2034,6 +2035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarab Tales | 35273 | [35273-scarab-tales.json](./35273-scarab-tales.json) |
 | Scarabeus | 48858 | [48858-scarabeus.json](./48858-scarabeus.json) |
 | Scarabeus: Pearls of Nile | 65037 | [65037-scarabeus-pearls-of-nile.json](./65037-scarabeus-pearls-of-nile.json) |
+| Scare Crow | 187090 | [187090-scare-crow.json](./187090-scare-crow.json) |
 | Scare Girl | 380728 | [380728-scare-girl.json](./380728-scare-girl.json) |
 | Scare: Fatal Picture | 253871 | [253871-scare-fatal-picture.json](./253871-scare-fatal-picture.json) |
 | Scare: Fatal Picture - Manga Story | 358433 | [358433-scare-fatal-picture-manga-story.json](./358433-scare-fatal-picture-manga-story.json) |
@@ -6924,6 +6926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooter League: Robot Goal | 198312 | [198312-shooter-league-robot-goal.json](./198312-shooter-league-robot-goal.json) |
 | Shooter of the Arcana | 319948 | [319948-shooter-of-the-arcana.json](./319948-shooter-of-the-arcana.json) |
 | Shooter: Space Shot | 72976 | [72976-shooter-space-shot.json](./72976-shooter-space-shot.json) |
+| Shooter's Island | 187143 | [187143-shooters-island.json](./187143-shooters-island.json) |
 | Shooter95 | 375307 | [375307-shooter95.json](./375307-shooter95.json) |
 | ShooterBall | 143625 | [143625-shooterball.json](./143625-shooterball.json) |
 | Shootero: Galaxy Space Shooter | 248152 | [248152-shootero-galaxy-space-shooter.json](./248152-shootero-galaxy-space-shooter.json) |
@@ -23056,6 +23059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunrise of the Time: End of Blue | 375944 | [375944-sunrise-of-the-time-end-of-blue.json](./375944-sunrise-of-the-time-end-of-blue.json) |
 | Sunrise Village: Farm Game | 248100 | [248100-sunrise-village-farm-game.json](./248100-sunrise-village-farm-game.json) |
 | Sunrise World War | 145271 | [145271-sunrise-world-war.json](./145271-sunrise-world-war.json) |
+| Sunrise: The Game | 187088 | [187088-sunrise-the-game.json](./187088-sunrise-the-game.json) |
 | Sunrise's Order | 216727 | [216727-sunrises-order.json](./216727-sunrises-order.json) |
 | Sunrock Lake | 395774 | [395774-sunrock-lake.json](./395774-sunrock-lake.json) |
 | Sunrose.p8 | 179488 | [179488-sunrose-p8.json](./179488-sunrose-p8.json) |
