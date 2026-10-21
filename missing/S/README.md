@@ -8522,6 +8522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simuliator Sidieniia Na Kryshie | 163858 | [163858-simuliator-sidieniia-na-kryshie.json](./163858-simuliator-sidieniia-na-kryshie.json) |
 | Simulo | 374766 | [374766-simulo.json](./374766-simulo.json) |
 | SimuLove! vol. 1 | 309438 | [309438-simulove-vol-1.json](./309438-simulove-vol-1.json) |
+| Simultaneous Control | 196476 | [196476-simultaneous-control.json](./196476-simultaneous-control.json) |
 | SimuSex | 94335 | [94335-simusex.json](./94335-simusex.json) |
 | Simutek I | 74707 | [74707-simutek-i.json](./74707-simutek-i.json) |
 | Sin | 151822 | [151822-sin.json](./151822-sin.json) |
