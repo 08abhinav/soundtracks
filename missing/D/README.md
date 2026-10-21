@@ -1809,6 +1809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash Quest | 99402 | [99402-dash-quest.json](./99402-dash-quest.json) |
 | Dash Quest Heroes | 78553 | [78553-dash-quest-heroes.json](./78553-dash-quest-heroes.json) |
 | Dash Realm | 173006 | [173006-dash-realm.json](./173006-dash-realm.json) |
+| Dash Shoot Goal | 184255 | [184255-dash-shoot-goal.json](./184255-dash-shoot-goal.json) |
 | Dash Shooters | 211137 | [211137-dash-shooters.json](./211137-dash-shooters.json) |
 | Dash the Fox & Three Dreadful Pigs | 216656 | [216656-dash-the-fox-and-three-dreadful-pigs.json](./216656-dash-the-fox-and-three-dreadful-pigs.json) |
 | Dash till Puff 2 | 39229 | [39229-dash-till-puff-2.json](./39229-dash-till-puff-2.json) |
@@ -4669,6 +4670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delve into Pawssion | 308049 | [308049-delve-into-pawssion.json](./308049-delve-into-pawssion.json) |
 | Delve Survivors | 351789 | [351789-delve-survivors.json](./351789-delve-survivors.json) |
 | Delveborn | 364046 | [364046-delveborn.json](./364046-delveborn.json) |
+| Delvedown | 184223 | [184223-delvedown.json](./184223-delvedown.json) |
 | Delven | 250357 | [250357-delven.json](./250357-delven.json) |
 | Delverium | 291342 | [291342-delverium.json](./291342-delverium.json) |
 | Delverun | 416683 | [416683-delverun.json](./416683-delverun.json) |
@@ -5284,6 +5286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descend | 264044 | [264044-descend.json](./264044-descend.json) |
 | Descend into Madness | 162837 | [162837-descend-into-madness.json](./162837-descend-into-madness.json) |
 | Descend.gg | 232661 | [232661-descend-gg.json](./232661-descend-gg.json) |
+| Descendants of the Hellbeast | 184250 | [184250-descendants-of-the-hellbeast.json](./184250-descendants-of-the-hellbeast.json) |
 | Descended | 265589 | [265589-descended.json](./265589-descended.json) |
 | Descenders | 52200 | [52200-descenders.json](./52200-descenders.json) |
 | Descenders Next | 312871 | [312871-descenders-next.json](./312871-descenders-next.json) |
@@ -6639,6 +6642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diebrary | 244734 | [244734-diebrary.json](./244734-diebrary.json) |
 | Died | 305915 | [305915-died.json](./305915-died.json) |
 | Died of Fear | 44183 | [44183-died-of-fear.json](./44183-died-of-fear.json) |
+| Died's Factory | 184234 | [184234-dieds-factory.json](./184234-dieds-factory.json) |
 | DieFeen | 305161 | [305161-diefeen.json](./305161-diefeen.json) |
 | Diefrosty | 189364 | [189364-diefrosty.json](./189364-diefrosty.json) |
 | Diegesis of The Ruined | 298451 | [298451-diegesis-of-the-ruined.json](./298451-diegesis-of-the-ruined.json) |
@@ -9352,6 +9356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Mess With Your Ex | 414309 | [414309-dont-mess-with-your-ex.json](./414309-dont-mess-with-your-ex.json) |
 | Don't Mind Liam | 317066 | [317066-dont-mind-liam.json](./317066-dont-mind-liam.json) |
 | Don't Mind the Robots | 356596 | [356596-dont-mind-the-robots.json](./356596-dont-mind-the-robots.json) |
+| Don't Miss | 184222 | [184222-dont-miss.json](./184222-dont-miss.json) |
 | Don't Move | 346726 | [346726-dont-move.json](./346726-dont-move.json) |
 | Don't Move | 36126 | [36126-dont-move.json](./36126-dont-move.json) |
 | Don't Not Live | 259508 | [259508-dont-not-live.json](./259508-dont-not-live.json) |
@@ -12648,6 +12653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving Zone 2 | 100860 | [100860-driving-zone-2.json](./100860-driving-zone-2.json) |
 | Driving Zone: Germany | 89287 | [89287-driving-zone-germany.json](./89287-driving-zone-germany.json) |
 | Driving Zone: Japan | 174857 | [174857-driving-zone-japan.json](./174857-driving-zone-japan.json) |
+| Drivinity | 184263 | [184263-drivinity.json](./184263-drivinity.json) |
 | Drivionline | 401856 | [401856-drivionline.json](./401856-drivionline.json) |
 | Drivrooom | 144249 | [144249-drivrooom.json](./144249-drivrooom.json) |
 | Drizzlepath | 12265 | [12265-drizzlepath.json](./12265-drizzlepath.json) |
@@ -13555,6 +13561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Conundrum | 190887 | [190887-dungeon-conundrum.json](./190887-dungeon-conundrum.json) |
 | Dungeon Core Master | 274770 | [274770-dungeon-core-master.json](./274770-dungeon-core-master.json) |
 | Dungeon Coup | 161350 | [161350-dungeon-coup.json](./161350-dungeon-coup.json) |
+| Dungeon Crasher | 184240 | [184240-dungeon-crasher.json](./184240-dungeon-crasher.json) |
 | Dungeon Crawl | 229226 | [229226-dungeon-crawl.json](./229226-dungeon-crawl.json) |
 | Dungeon Crawl 94: What Was Taken | 419947 | [419947-dungeon-crawl-94-what-was-taken.json](./419947-dungeon-crawl-94-what-was-taken.json) |
 | Dungeon Crawl Tower Run | 260633 | [260633-dungeon-crawl-tower-run.json](./260633-dungeon-crawl-tower-run.json) |
@@ -14040,6 +14047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Avalon II - The Island of Darkness | 19476 | [19476-dungeons-of-avalon-ii-the-island-of-darkness.json](./19476-dungeons-of-avalon-ii-the-island-of-darkness.json) |
 | Dungeons of Betrayal | 53929 | [53929-dungeons-of-betrayal.json](./53929-dungeons-of-betrayal.json) |
 | Dungeons of Blood and Dream | 257836 | [257836-dungeons-of-blood-and-dream.json](./257836-dungeons-of-blood-and-dream.json) |
+| Dungeons of Bonk | 184243 | [184243-dungeons-of-bonk.json](./184243-dungeons-of-bonk.json) |
 | Dungeons of Chaos | 68203 | [68203-dungeons-of-chaos.json](./68203-dungeons-of-chaos.json) |
 | Dungeons of Daggorath | 42156 | [42156-dungeons-of-daggorath.json](./42156-dungeons-of-daggorath.json) |
 | Dungeons of Death | 356659 | [356659-dungeons-of-death.json](./356659-dungeons-of-death.json) |
