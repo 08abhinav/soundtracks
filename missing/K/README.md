@@ -4001,6 +4001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kono Uta ga Owattara: When This Song Is Over | 282811 | [282811-kono-uta-ga-owattara-when-this-song-is-over.json](./282811-kono-uta-ga-owattara-when-this-song-is-over.json) |
 | Kono Warui Koneko-chan-me! | 202228 | [202228-kono-warui-koneko-chan-me.json](./202228-kono-warui-koneko-chan-me.json) |
 | Konoha Challenge | 131378 | [131378-konoha-challenge.json](./131378-konoha-challenge.json) |
+| Konoha Ultimate Storm | 193784 | [193784-konoha-ultimate-storm.json](./193784-konoha-ultimate-storm.json) |
 | Konohana 2: Todokanai Requiem | 213827 | [213827-konohana-2-todokanai-requiem.json](./213827-konohana-2-todokanai-requiem.json) |
 | Konohana 3: Itsuwari no Kage no Mukou ni | 213868 | [213868-konohana-3-itsuwari-no-kage-no-mukou-ni.json](./213868-konohana-3-itsuwari-no-kage-no-mukou-ni.json) |
 | Konohana 4: Yami wo Harau Inori | 213933 | [213933-konohana-4-yami-wo-harau-inori.json](./213933-konohana-4-yami-wo-harau-inori.json) |
