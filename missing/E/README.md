@@ -4088,6 +4088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Protocol: Hospital | 369754 | [369754-escape-protocol-hospital.json](./369754-escape-protocol-hospital.json) |
 | Escape PS2 Hagrid | 284232 | [284232-escape-ps2-hagrid.json](./284232-escape-ps2-hagrid.json) |
 | Escape PS3 Hagrid | 284234 | [284234-escape-ps3-hagrid.json](./284234-escape-ps3-hagrid.json) |
+| Escape Purgatory | 197021 | [197021-escape-purgatory.json](./197021-escape-purgatory.json) |
 | Escape Qinglong Mountain Re | 295150 | [295150-escape-qinglong-mountain-re.json](./295150-escape-qinglong-mountain-re.json) |
 | Escape Quest 8:Peace Keeper | 99171 | [99171-escape-quest-8-peace-keeper.json](./99171-escape-quest-8-peace-keeper.json) |
 | Escape Rebooted | 128902 | [128902-escape-rebooted.json](./128902-escape-rebooted.json) |
@@ -5762,6 +5763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exo-tical | 334866 | [334866-exo-tical.json](./334866-exo-tical.json) |
 | Exo: Arena | 257473 | [257473-exo-arena.json](./257473-exo-arena.json) |
 | Exocet | 40641 | [40641-exocet.json](./40641-exocet.json) |
+| Exocide | 197046 | [197046-exocide.json](./197046-exocide.json) |
 | ExoColony: Planet Survival | 226715 | [226715-exocolony-planet-survival.json](./226715-exocolony-planet-survival.json) |
 | Exocomets | 38771 | [38771-exocomets.json](./38771-exocomets.json) |
 | ExoCorps | 121018 | [121018-exocorps.json](./121018-exocorps.json) |
