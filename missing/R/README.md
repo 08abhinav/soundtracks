@@ -3458,6 +3458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regular Show: Paint War | 185662 | [185662-regular-show-paint-war.json](./185662-regular-show-paint-war.json) |
 | Regular Strategy Game | 203759 | [203759-regular-strategy-game.json](./203759-regular-strategy-game.json) |
 | Regular Toad Game | 135125 | [135125-regular-toad-game.json](./135125-regular-toad-game.json) |
+| Regulators | 199251 | [199251-regulators.json](./199251-regulators.json) |
 | Regulus | 40071 | [40071-regulus.json](./40071-regulus.json) |
 | Regulus: The Advent | 373720 | [373720-regulus-the-advent.json](./373720-regulus-the-advent.json) |
 | Regxkcd | 182864 | [182864-regxkcd.json](./182864-regxkcd.json) |
@@ -5276,6 +5277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rich Girl Fashion Mall | 103561 | [103561-rich-girl-fashion-mall.json](./103561-rich-girl-fashion-mall.json) |
 | Rich Girls | 286499 | [286499-rich-girls.json](./286499-rich-girls.json) |
 | Rich Lady's Slave Role Play | 199616 | [199616-rich-ladys-slave-role-play.json](./199616-rich-ladys-slave-role-play.json) |
+| Rich Lands | 199258 | [199258-rich-lands.json](./199258-rich-lands.json) |
 | Rich Life Simulator VR | 50520 | [50520-rich-life-simulator-vr.json](./50520-rich-life-simulator-vr.json) |
 | Rich Mahogany and Human Leather-Bound Books | 271749 | [271749-rich-mahogany-and-human-leather-bound-books.json](./271749-rich-mahogany-and-human-leather-bound-books.json) |
 | Rich Man | 175826 | [175826-rich-man.json](./175826-rich-man.json) |
@@ -5638,6 +5640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift Saviours | 275509 | [275509-rift-saviours.json](./275509-rift-saviours.json) |
 | Rift Survivors | 273442 | [273442-rift-survivors.json](./273442-rift-survivors.json) |
 | Rift Survivors | 373199 | [373199-rift-survivors.json](./373199-rift-survivors.json) |
+| Rift Sweepers | 199283 | [199283-rift-sweepers.json](./199283-rift-sweepers.json) |
 | Rift Walker | 256905 | [256905-rift-walker.json](./256905-rift-walker.json) |
 | Rift Walker | 293677 | [293677-rift-walker.json](./293677-rift-walker.json) |
 | Rift War Tower Defense | 351185 | [351185-rift-war-tower-defense.json](./351185-rift-war-tower-defense.json) |
@@ -5738,6 +5741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RimWorld: P-Music | 370333 | [370333-rimworld-p-music.json](./370333-rimworld-p-music.json) |
 | Rin ga Utau, Mirai no Neiro | 228351 | [228351-rin-ga-utau-mirai-no-neiro.json](./228351-rin-ga-utau-mirai-no-neiro.json) |
 | Rin Kaihou Kudan no Igo Daidou | 37868 | [37868-rin-kaihou-kudan-no-igo-daidou.json](./37868-rin-kaihou-kudan-no-igo-daidou.json) |
+| Rin: The Last Child | 199253 | [199253-rin-the-last-child.json](./199253-rin-the-last-child.json) |
 | Rina's Undercover Train Operation | 392306 | [392306-rinas-undercover-train-operation.json](./392306-rinas-undercover-train-operation.json) |
 | Ring | 11308 | [11308-ring.json](./11308-ring.json) |
 | Ring Academy | 306957 | [306957-ring-academy.json](./306957-ring-academy.json) |
@@ -7523,6 +7527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Aces | 84848 | [84848-rogue-aces.json](./84848-rogue-aces.json) |
 | Rogue Aces Deluxe | 139683 | [139683-rogue-aces-deluxe.json](./139683-rogue-aces-deluxe.json) |
 | Rogue Agent | 99655 | [99655-rogue-agent.json](./99655-rogue-agent.json) |
+| Rogue AI Simulator | 199269 | [199269-rogue-ai-simulator.json](./199269-rogue-ai-simulator.json) |
 | Rogue Alliance | 78968 | [78968-rogue-alliance.json](./78968-rogue-alliance.json) |
 | Rogue Ascent VR | 191914 | [191914-rogue-ascent-vr.json](./191914-rogue-ascent-vr.json) |
 | Rogue Assault | 404373 | [404373-rogue-assault.json](./404373-rogue-assault.json) |
