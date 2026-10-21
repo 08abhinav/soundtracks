@@ -1221,6 +1221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nebula | 53395 | [53395-nebula.json](./53395-nebula.json) |
 | Nebula Cleanup Crew | 373520 | [373520-nebula-cleanup-crew.json](./373520-nebula-cleanup-crew.json) |
 | Nebula Commander | 46509 | [46509-nebula-commander.json](./46509-nebula-commander.json) |
+| Nebula Invasion | 188845 | [188845-nebula-invasion.json](./188845-nebula-invasion.json) |
 | Nebula Miner | 395112 | [395112-nebula-miner.json](./395112-nebula-miner.json) |
 | Nebula Nuker | 75830 | [75830-nebula-nuker.json](./75830-nebula-nuker.json) |
 | Nebula Online | 120181 | [120181-nebula-online.json](./120181-nebula-online.json) |
@@ -5616,6 +5617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nubby's Number Factory | 324225 | [324225-nubbys-number-factory.json](./324225-nubbys-number-factory.json) |
 | NubiaPhobia | 345019 | [345019-nubiaphobia.json](./345019-nubiaphobia.json) |
 | Nubla | 26813 | [26813-nubla.json](./26813-nubla.json) |
+| Nuclear Assault | 188846 | [188846-nuclear-assault.json](./188846-nuclear-assault.json) |
 | Nuclear Blaze | 153876 | [153876-nuclear-blaze.json](./153876-nuclear-blaze.json) |
 | Nuclear Cheetah | 265958 | [265958-nuclear-cheetah.json](./265958-nuclear-cheetah.json) |
 | Nuclear Chunks | 262165 | [262165-nuclear-chunks.json](./262165-nuclear-chunks.json) |
