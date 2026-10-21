@@ -3007,6 +3007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orcs Must Die! 2: Fire and Water Booster Pack | 14539 | [14539-orcs-must-die-2-fire-and-water-booster-pack.json](./14539-orcs-must-die-2-fire-and-water-booster-pack.json) |
 | Orcs Must Die! 3 Bundle | 196681 | [196681-orcs-must-die-3-bundle.json](./196681-orcs-must-die-3-bundle.json) |
 | Orcs Must Die! 3: Cold as Eyes | 193225 | [193225-orcs-must-die-3-cold-as-eyes.json](./193225-orcs-must-die-3-cold-as-eyes.json) |
+| Orcs Must Die! 3: Tipping the Scales | 196475 | [196475-orcs-must-die-3-tipping-the-scales.json](./196475-orcs-must-die-3-tipping-the-scales.json) |
 | Orcs Must Die! Unchained | 9637 | [9637-orcs-must-die-unchained.json](./9637-orcs-must-die-unchained.json) |
 | Orcs Must Die!: Artifacts of Power | 14540 | [14540-orcs-must-die-artifacts-of-power.json](./14540-orcs-must-die-artifacts-of-power.json) |
 | Orcs Must Die!: Lost Adventures | 14541 | [14541-orcs-must-die-lost-adventures.json](./14541-orcs-must-die-lost-adventures.json) |
