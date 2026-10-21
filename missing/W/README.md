@@ -1954,6 +1954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waveat | 362808 | [362808-waveat.json](./362808-waveat.json) |
 | Waveat ReLight V2 | 362811 | [362811-waveat-relight-v2.json](./362811-waveat-relight-v2.json) |
 | Wavebreaker | 411362 | [411362-wavebreaker.json](./411362-wavebreaker.json) |
+| Wavecade | 197008 | [197008-wavecade.json](./197008-wavecade.json) |
 | Wavecrashers | 391751 | [391751-wavecrashers.json](./391751-wavecrashers.json) |
 | Waveform | 15273 | [15273-waveform.json](./15273-waveform.json) |
 | Waveform: Eris | 168945 | [168945-waveform-eris.json](./168945-waveform-eris.json) |
@@ -3778,6 +3779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wicked Brawler | 272267 | [272267-wicked-brawler.json](./272267-wicked-brawler.json) |
 | Wicked Cabins | 352393 | [352393-wicked-cabins.json](./352393-wicked-cabins.json) |
 | Wicked Delights | 404822 | [404822-wicked-delights.json](./404822-wicked-delights.json) |
+| Wicked Dolls | 197023 | [197023-wicked-dolls.json](./197023-wicked-dolls.json) |
 | Wicked Games | 212212 | [212212-wicked-games.json](./212212-wicked-games.json) |
 | Wicked Lands | 144794 | [144794-wicked-lands.json](./144794-wicked-lands.json) |
 | Wicked Little Witch | 353291 | [353291-wicked-little-witch.json](./353291-wicked-little-witch.json) |
