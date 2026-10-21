@@ -1805,6 +1805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accounting+ | 76881 | [76881-accounting.json](./76881-accounting.json) |
 | Accretion | 342680 | [342680-accretion.json](./342680-accretion.json) |
 | AccuBow VR | 337792 | [337792-accubow-vr.json](./337792-accubow-vr.json) |
+| Accurate Coastlines | 182702 | [182702-accurate-coastlines.json](./182702-accurate-coastlines.json) |
 | Accurate Segmentation | 334796 | [334796-accurate-segmentation.json](./334796-accurate-segmentation.json) |
 | Accurate Segmentation 2 | 334829 | [334829-accurate-segmentation-2.json](./334829-accurate-segmentation-2.json) |
 | Accurate Segmentation 3 | 334828 | [334828-accurate-segmentation-3.json](./334828-accurate-segmentation-3.json) |
