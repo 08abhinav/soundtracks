@@ -1198,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Dominoes | 251486 | [251486-paper-dominoes.json](./251486-paper-dominoes.json) |
 | Paper Drifter | 236826 | [236826-paper-drifter.json](./236826-paper-drifter.json) |
 | Paper Dungeons Crawler | 95573 | [95573-paper-dungeons-crawler.json](./95573-paper-dungeons-crawler.json) |
+| Paper Enchantress | 192742 | [192742-paper-enchantress.json](./192742-paper-enchantress.json) |
 | Paper Fire! Rookie | 74138 | [74138-paper-fire-rookie.json](./74138-paper-fire-rookie.json) |
 | Paper Flight: Beyond Time | 236130 | [236130-paper-flight-beyond-time.json](./236130-paper-flight-beyond-time.json) |
 | Paper Flight: Future Battles | 263236 | [263236-paper-flight-future-battles.json](./263236-paper-flight-future-battles.json) |
@@ -5043,6 +5044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilki Filki 2 | 99987 | [99987-pilki-filki-2.json](./99987-pilki-filki-2.json) |
 | Pilko | 149701 | [149701-pilko.json](./149701-pilko.json) |
 | Pill After Pill | 400540 | [400540-pill-after-pill.json](./400540-pill-after-pill.json) |
+| Pill Baby | 192725 | [192725-pill-baby.json](./192725-pill-baby.json) |
 | Pill Box | 277535 | [277535-pill-box.json](./277535-pill-box.json) |
 | Pill Cosbi | 74359 | [74359-pill-cosbi.json](./74359-pill-cosbi.json) |
 | Pill Fight | 345017 | [345017-pill-fight.json](./345017-pill-fight.json) |
@@ -6906,6 +6908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Basket 2009 2010 | 268383 | [268383-planet-basket-2009-2010.json](./268383-planet-basket-2009-2010.json) |
 | Planet Blood | 156591 | [156591-planet-blood.json](./156591-planet-blood.json) |
 | Planet Bom Bom | 345486 | [345486-planet-bom-bom.json](./345486-planet-bom-bom.json) |
+| Planet Boom | 192732 | [192732-planet-boom.json](./192732-planet-boom.json) |
 | Planet Breakout 2 | 224701 | [224701-planet-breakout-2.json](./224701-planet-breakout-2.json) |
 | Planet Centauri | 34841 | [34841-planet-centauri.json](./34841-planet-centauri.json) |
 | Planet Chyton | 391760 | [391760-planet-chyton.json](./391760-planet-chyton.json) |
@@ -7328,6 +7331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platinum White | 307137 | [307137-platinum-white.json](./307137-platinum-white.json) |
 | Plato | 86967 | [86967-plato.json](./86967-plato.json) |
 | Plato Interpreter | 42182 | [42182-plato-interpreter.json](./42182-plato-interpreter.json) |
+| Platonic | 192728 | [192728-platonic.json](./192728-platonic.json) |
 | Platonic Paranoia | 117863 | [117863-platonic-paranoia.json](./117863-platonic-paranoia.json) |
 | Platonically Mauled by a Magic Cougar | 225195 | [225195-platonically-mauled-by-a-magic-cougar.json](./225195-platonically-mauled-by-a-magic-cougar.json) |
 | Platoon | 290275 | [290275-platoon.json](./290275-platoon.json) |
@@ -10951,6 +10955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince Charmless | 178542 | [178542-prince-charmless.json](./178542-prince-charmless.json) |
 | Prince Maker-Braveness | 254544 | [254544-prince-maker-braveness.json](./254544-prince-maker-braveness.json) |
 | Prince Naseem Boxing | 50024 | [50024-prince-naseem-boxing.json](./50024-prince-naseem-boxing.json) |
+| Prince Nikolai and the Vampires | 192602 | [192602-prince-nikolai-and-the-vampires.json](./192602-prince-nikolai-and-the-vampires.json) |
 | Prince of Darkness Jr. | 371973 | [371973-prince-of-darkness-jr.json](./371973-prince-of-darkness-jr.json) |
 | Prince of Destruction | 171528 | [171528-prince-of-destruction.json](./171528-prince-of-destruction.json) |
 | Prince of Egypt | 404332 | [404332-prince-of-egypt.json](./404332-prince-of-egypt.json) |
