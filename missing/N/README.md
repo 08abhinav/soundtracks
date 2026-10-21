@@ -649,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR: Superspeedway | 245430 | [245430-nascar-superspeedway.json](./245430-nascar-superspeedway.json) |
 | NASCAR: The Game 2013 | 21630 | [21630-nascar-the-game-2013.json](./21630-nascar-the-game-2013.json) |
 | Nascence | 129649 | [129649-nascence.json](./129649-nascence.json) |
+| Nascent Prophecy | 183754 | [183754-nascent-prophecy.json](./183754-nascent-prophecy.json) |
 | Naser: Son of Man | 138240 | [138240-naser-son-of-man.json](./138240-naser-son-of-man.json) |
 | Nash Racing 2: Muscle cars | 68598 | [68598-nash-racing-2-muscle-cars.json](./68598-nash-racing-2-muscle-cars.json) |
 | Nash Racing: 70 Seconds Left | 367163 | [367163-nash-racing-70-seconds-left.json](./367163-nash-racing-70-seconds-left.json) |
@@ -1460,6 +1461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NEG: The Threefold Cord | 217255 | [217255-neg-the-threefold-cord.json](./217255-neg-the-threefold-cord.json) |
 | Negaeba Kitto... | 202938 | [202938-negaeba-kitto.json](./202938-negaeba-kitto.json) |
 | Negaia | 57069 | [57069-negaia.json](./57069-negaia.json) |
+| Negative | 183781 | [183781-negative.json](./183781-negative.json) |
 | Negative Atmosphere: Emergency Room | 232667 | [232667-negative-atmosphere-emergency-room.json](./232667-negative-atmosphere-emergency-room.json) |
 | Negative Nancy | 125474 | [125474-negative-nancy.json](./125474-negative-nancy.json) |
 | Negative One | 229779 | [229779-negative-one.json](./229779-negative-one.json) |
@@ -2193,6 +2195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netcode Warriors | 290611 | [290611-netcode-warriors.json](./290611-netcode-warriors.json) |
 | Netcorter: City 2179 | 217385 | [217385-netcorter-city-2179.json](./217385-netcorter-city-2179.json) |
 | Netcrawler | 183883 | [183883-netcrawler.json](./183883-netcrawler.json) |
+| Netcromancer | 183753 | [183753-netcromancer.json](./183753-netcromancer.json) |
 | NetDive | 358862 | [358862-netdive.json](./358862-netdive.json) |
 | Netdreams Sudoku | 276625 | [276625-netdreams-sudoku.json](./276625-netdreams-sudoku.json) |
 | Netflix Infinite Runner | 76873 | [76873-netflix-infinite-runner.json](./76873-netflix-infinite-runner.json) |
@@ -5619,6 +5622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nu: Carnival | 194286 | [194286-nu-carnival.json](./194286-nu-carnival.json) |
 | Nu: Carnival Bliss | 305559 | [305559-nu-carnival-bliss.json](./305559-nu-carnival-bliss.json) |
 | Nu: Ron | 400079 | [400079-nu-ron.json](./400079-nu-ron.json) |
+| Nu//void | 183777 | [183777-nu-void.json](./183777-nu-void.json) |
 | Nuage | 93520 | [93520-nuage.json](./93520-nuage.json) |
 | Nubarron: The adventure of an unlucky gnome | 126978 | [126978-nubarron-the-adventure-of-an-unlucky-gnome.json](./126978-nubarron-the-adventure-of-an-unlucky-gnome.json) |
 | Nubby's Number Factory | 324225 | [324225-nubbys-number-factory.json](./324225-nubbys-number-factory.json) |
@@ -5790,6 +5794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Stomper | 338282 | [338282-number-stomper.json](./338282-number-stomper.json) |
 | Number Sums | 316954 | [316954-number-sums.json](./316954-number-sums.json) |
 | Number Tower | 341490 | [341490-number-tower.json](./341490-number-tower.json) |
+| Number Two Ice Cream Shop! | 183784 | [183784-number-two-ice-cream-shop.json](./183784-number-two-ice-cream-shop.json) |
 | Number Wars | 193474 | [193474-number-wars.json](./193474-number-wars.json) |
 | Number's Addict | 94187 | [94187-numbers-addict.json](./94187-numbers-addict.json) |
 | Number8 | 246794 | [246794-number8.json](./246794-number8.json) |
