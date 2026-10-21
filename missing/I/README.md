@@ -3252,6 +3252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inkblood | 380440 | [380440-inkblood.json](./380440-inkblood.json) |
 | Inkbowser.exe | 283097 | [283097-inkbowser-exe.json](./283097-inkbowser-exe.json) |
 | Inken | 394555 | [394555-inken.json](./394555-inken.json) |
+| Inkfish | 190874 | [190874-inkfish.json](./190874-inkfish.json) |
 | Inkheart | 123332 | [123332-inkheart.json](./123332-inkheart.json) |
 | Inkighter | 244827 | [244827-inkighter.json](./244827-inkighter.json) |
 | Inkjet Apocalypse | 350036 | [350036-inkjet-apocalypse.json](./350036-inkjet-apocalypse.json) |
