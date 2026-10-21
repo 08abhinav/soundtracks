@@ -691,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yondel | 380777 | [380777-yondel.json](./380777-yondel.json) |
 | YonDelver | 201484 | [201484-yondelver.json](./201484-yondelver.json) |
 | Yonder World: Interview with the Void | 190067 | [190067-yonder-world-interview-with-the-void.json](./190067-yonder-world-interview-with-the-void.json) |
+| Yonder: The Cloud Catcher Chronicles - Enhanced Edition | 171288 | [171288-yonder-the-cloud-catcher-chronicles-enhanced-edition.json](./171288-yonder-the-cloud-catcher-chronicles-enhanced-edition.json) |
 | Yondu's Journey | 241260 | [241260-yondus-journey.json](./241260-yondus-journey.json) |
 | Yonenaga Kunio no Shogi Seminar | 54942 | [54942-yonenaga-kunio-no-shogi-seminar.json](./54942-yonenaga-kunio-no-shogi-seminar.json) |
 | Yonesawara Hospital | 203887 | [203887-yonesawara-hospital.json](./203887-yonesawara-hospital.json) |
@@ -1139,6 +1140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Shape Featuring Jenny McCarthy | 50679 | [50679-your-shape-featuring-jenny-mccarthy.json](./50679-your-shape-featuring-jenny-mccarthy.json) |
 | Your Shape Fitness Evolved 2013 | 28347 | [28347-your-shape-fitness-evolved-2013.json](./28347-your-shape-fitness-evolved-2013.json) |
 | Your Shots Count | 277815 | [277815-your-shots-count.json](./277815-your-shots-count.json) |
+| Your Show Has Been Cancelled | 171298 | [171298-your-show-has-been-cancelled.json](./171298-your-show-has-been-cancelled.json) |
 | Your Sinclair Beaut Box March 1993 | 100094 | [100094-your-sinclair-beaut-box-march-1993.json](./100094-your-sinclair-beaut-box-march-1993.json) |
 | Your Sinclair Four Pack December 1990 | 74079 | [74079-your-sinclair-four-pack-december-1990.json](./74079-your-sinclair-four-pack-december-1990.json) |
 | Your Sinclair Magnificent 7 February 1992 | 96509 | [96509-your-sinclair-magnificent-7-february-1992.json](./96509-your-sinclair-magnificent-7-february-1992.json) |
