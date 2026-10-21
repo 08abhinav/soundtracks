@@ -13043,6 +13043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puerto Rico No Está Apaga'o | 96316 | [96316-puerto-rico-no-esta-apagao.json](./96316-puerto-rico-no-esta-apagao.json) |
 | Puerto Viejo | 157394 | [157394-puerto-viejo.json](./157394-puerto-viejo.json) |
 | Puff and the Catnip Caper | 185430 | [185430-puff-and-the-catnip-caper.json](./185430-puff-and-the-catnip-caper.json) |
+| Puff Go | 188287 | [188287-puff-go.json](./188287-puff-go.json) |
 | Puff Love Story | 371903 | [371903-puff-love-story.json](./371903-puff-love-story.json) |
 | Puff Puff the Magic Pipe | 156528 | [156528-puff-puff-the-magic-pipe.json](./156528-puff-puff-the-magic-pipe.json) |
 | Puff Up | 345697 | [345697-puff-up.json](./345697-puff-up.json) |
