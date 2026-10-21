@@ -6788,6 +6788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient and Arcane: Escape Room Bundle | 410840 | [410840-ancient-and-arcane-escape-room-bundle.json](./410840-ancient-and-arcane-escape-room-bundle.json) |
 | Ancient Anguish MUD | 138502 | [138502-ancient-anguish-mud.json](./138502-ancient-anguish-mud.json) |
 | Ancient Archer | 353614 | [353614-ancient-archer.json](./353614-ancient-archer.json) |
+| Ancient Arenas: Chariots | 200986 | [200986-ancient-arenas-chariots.json](./200986-ancient-arenas-chariots.json) |
 | Ancient Arrow | 239666 | [239666-ancient-arrow.json](./239666-ancient-arrow.json) |
 | Ancient Battle: Alexander | 120759 | [120759-ancient-battle-alexander.json](./120759-ancient-battle-alexander.json) |
 | Ancient Battle: Hannibal | 106454 | [106454-ancient-battle-hannibal.json](./106454-ancient-battle-hannibal.json) |
