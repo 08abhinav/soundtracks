@@ -1761,6 +1761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 6: Collapse | 182123 | [182123-far-cry-6-collapse.json](./182123-far-cry-6-collapse.json) |
 | Far Cry 6: Collector's Edition | 149987 | [149987-far-cry-6-collectors-edition.json](./149987-far-cry-6-collectors-edition.json) |
 | Far Cry 6: Control | 182124 | [182124-far-cry-6-control.json](./182124-far-cry-6-control.json) |
+| Far Cry 6: Deluxe Edition | 187108 | [187108-far-cry-6-deluxe-edition.json](./187108-far-cry-6-deluxe-edition.json) |
 | Far Cry 6: Game of the Year Edition | 220800 | [220800-far-cry-6-game-of-the-year-edition.json](./220800-far-cry-6-game-of-the-year-edition.json) |
 | Far Cry 6: Gold Edition | 136403 | [136403-far-cry-6-gold-edition.json](./136403-far-cry-6-gold-edition.json) |
 | Far Cry 6: Limited Edition | 139867 | [139867-far-cry-6-limited-edition.json](./139867-far-cry-6-limited-edition.json) |
@@ -5249,6 +5250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fitness Girl - Studio Coach | 86814 | [86814-fitness-girl-studio-coach.json](./86814-fitness-girl-studio-coach.json) |
 | Fitness Party | 136887 | [136887-fitness-party.json](./136887-fitness-party.json) |
 | Fitriz | 212147 | [212147-fitriz.json](./212147-fitriz.json) |
+| FitStrike | 187138 | [187138-fitstrike.json](./187138-fitstrike.json) |
 | Fittest | 100167 | [100167-fittest.json](./100167-fittest.json) |
 | Fittest | 195931 | [195931-fittest.json](./195931-fittest.json) |
 | Fitting-In | 253942 | [253942-fitting-in.json](./253942-fitting-in.json) |
@@ -6408,6 +6410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floyd of the Jungle | 24987 | [24987-floyd-of-the-jungle.json](./24987-floyd-of-the-jungle.json) |
 | FLS | 127755 | [127755-fls.json](./127755-fls.json) |
 | Flub Fighter | 31218 | [31218-flub-fighter.json](./31218-flub-fighter.json) |
+| Fluctuoid | 187102 | [187102-fluctuoid.json](./187102-fluctuoid.json) |
 | Fluendora: The Realm of Scribes | 411127 | [411127-fluendora-the-realm-of-scribes.json](./411127-fluendora-the-realm-of-scribes.json) |
 | Fluff | 221749 | [221749-fluff.json](./221749-fluff.json) |
 | Fluff | 59479 | [59479-fluff.json](./59479-fluff.json) |
