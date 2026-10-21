@@ -1109,6 +1109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Desire Mute 5 | 250029 | [250029-dark-desire-mute-5.json](./250029-dark-desire-mute-5.json) |
 | Dark Desire Mute 6 | 260412 | [260412-dark-desire-mute-6.json](./260412-dark-desire-mute-6.json) |
 | Dark DieMansion | 405687 | [405687-dark-diemansion.json](./405687-dark-diemansion.json) |
+| Dark Dimension | 195945 | [195945-dark-dimension.json](./195945-dark-dimension.json) |
 | Dark Dimensions: Blade Master | 187913 | [187913-dark-dimensions-blade-master.json](./187913-dark-dimensions-blade-master.json) |
 | Dark Dimensions: City of Ash | 139785 | [139785-dark-dimensions-city-of-ash.json](./139785-dark-dimensions-city-of-ash.json) |
 | Dark Dimensions: City of Ash - Collector's Edition | 74352 | [74352-dark-dimensions-city-of-ash-collectors-edition.json](./74352-dark-dimensions-city-of-ash-collectors-edition.json) |
@@ -3397,6 +3398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death of the Reprobate | 217250 | [217250-death-of-the-reprobate.json](./217250-death-of-the-reprobate.json) |
 | Death On Holly Ridge | 381319 | [381319-death-on-holly-ridge.json](./381319-death-on-holly-ridge.json) |
 | Death or Glory | 13577 | [13577-death-or-glory.json](./13577-death-or-glory.json) |
+| Death or Glory | 195934 | [195934-death-or-glory.json](./195934-death-or-glory.json) |
 | Death or Treat | 215539 | [215539-death-or-treat.json](./215539-death-or-treat.json) |
 | Death Orb | 72629 | [72629-death-orb.json](./72629-death-orb.json) |
 | Death Palette | 171525 | [171525-death-palette.json](./171525-death-palette.json) |
@@ -4384,6 +4386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Déja Vu PD | 395281 | [395281-deja-vu-pd.json](./395281-deja-vu-pd.json) |
 | Deja Vu: Collector's Edition | 167905 | [167905-deja-vu-collectors-edition.json](./167905-deja-vu-collectors-edition.json) |
 | Deja Vu: MacVenture Series | 35913 | [35913-deja-vu-macventure-series.json](./35913-deja-vu-macventure-series.json) |
+| Déjà-Vu VR | 195919 | [195919-deja-vu-vr.json](./195919-deja-vu-vr.json) |
 | Deja-Vu! | 309191 | [309191-deja-vu.json](./309191-deja-vu.json) |
 | Dejar Ir: A Pandemic Soulful Tale | 203803 | [203803-dejar-ir-a-pandemic-soulful-tale.json](./203803-dejar-ir-a-pandemic-soulful-tale.json) |
 | DejaVu | 184406 | [184406-dejavu.json](./184406-dejavu.json) |
@@ -9775,6 +9778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom City | 144214 | [144214-doom-city.json](./144214-doom-city.json) |
 | Doom City | 273233 | [273233-doom-city.json](./273233-doom-city.json) |
 | Doom Core | 275569 | [275569-doom-core.json](./275569-doom-core.json) |
+| Doom Day | 195930 | [195930-doom-day.json](./195930-doom-day.json) |
 | Doom Days: Fire Shooter | 226761 | [226761-doom-days-fire-shooter.json](./226761-doom-days-fire-shooter.json) |
 | Doom Delta | 252029 | [252029-doom-delta.json](./252029-doom-delta.json) |
 | Doom Eternal KaiserCampaign | 344310 | [344310-doom-eternal-kaisercampaign.json](./344310-doom-eternal-kaisercampaign.json) |
@@ -9903,6 +9907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday Overture | 280237 | [280237-doomsday-overture.json](./280237-doomsday-overture.json) |
 | Doomsday Picnic RPG | 288652 | [288652-doomsday-picnic-rpg.json](./288652-doomsday-picnic-rpg.json) |
 | Doomsday Robot Girl | 189974 | [189974-doomsday-robot-girl.json](./189974-doomsday-robot-girl.json) |
+| Doomsday Scavenger | 195942 | [195942-doomsday-scavenger.json](./195942-doomsday-scavenger.json) |
 | Doomsday Survival:Training | 30657 | [30657-doomsday-survival-training.json](./30657-doomsday-survival-training.json) |
 | Doomsday Tower Defense | 357838 | [357838-doomsday-tower-defense.json](./357838-doomsday-tower-defense.json) |
 | Doomsday Vault | 117012 | [117012-doomsday-vault.json](./117012-doomsday-vault.json) |
@@ -10123,6 +10128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorpie | 360015 | [360015-dorpie.json](./360015-dorpie.json) |
 | Dorsaka | 337424 | [337424-dorsaka.json](./337424-dorsaka.json) |
 | Dört Model Müzesi | 166804 | [166804-dort-model-muzesi.json](./166804-dort-model-muzesi.json) |
+| Dorven Digger | 195916 | [195916-dorven-digger.json](./195916-dorven-digger.json) |
 | Dos-Plan | 271105 | [271105-dos-plan.json](./271105-dos-plan.json) |
 | Dose Response | 217458 | [217458-dose-response.json](./217458-dose-response.json) |
 | Doshin the Giant 1 | 159279 | [159279-doshin-the-giant-1.json](./159279-doshin-the-giant-1.json) |
@@ -11793,6 +11799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadwoods Gatekeeper: Prologue | 295494 | [295494-dreadwoods-gatekeeper-prologue.json](./295494-dreadwoods-gatekeeper-prologue.json) |
 | Drealegy | 287046 | [287046-drealegy.json](./287046-drealegy.json) |
 | Dream | 147828 | [147828-dream.json](./147828-dream.json) |
+| Dream | 195928 | [195928-dream.json](./195928-dream.json) |
 | Dream | 3104 | [3104-dream.json](./3104-dream.json) |
 | Dream | 376819 | [376819-dream.json](./376819-dream.json) |
 | Dream | 379649 | [379649-dream.json](./379649-dream.json) |
