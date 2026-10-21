@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.I.P.R.I.P. Warm Up | 29120 | [29120-d-i-p-r-i-p-warm-up.json](./29120-d-i-p-r-i-p-warm-up.json) |
 | D.I.R: Death is Random | 186604 | [186604-d-i-r-death-is-random.json](./186604-d-i-r-death-is-random.json) |
 | D.i.R.T.: Origin of the Species | 69154 | [69154-d-i-r-t-origin-of-the-species.json](./69154-d-i-r-t-origin-of-the-species.json) |
+| D.M.D Ping Pong Game | 199791 | [199791-d-m-d-ping-pong-game.json](./199791-d-m-d-ping-pong-game.json) |
 | D.M.T | 135004 | [135004-d-m-t.json](./135004-d-m-t.json) |
 | D.N. Angel: Crimson Wings | 67374 | [67374-d-n-angel-crimson-wings.json](./67374-d-n-angel-crimson-wings.json) |
 | D.N.A. | 137022 | [137022-d-n-a.json](./137022-d-n-a.json) |
@@ -3293,6 +3294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Drome | 73755 | [73755-death-drome.json](./73755-death-drome.json) |
 | Death Duel | 46224 | [46224-death-duel.json](./46224-death-duel.json) |
 | Death Dungeon | 193995 | [193995-death-dungeon.json](./193995-death-dungeon.json) |
+| Death Dungeon | 199793 | [199793-death-dungeon.json](./199793-death-dungeon.json) |
 | Death Education | 301263 | [301263-death-education.json](./301263-death-education.json) |
 | Death Elevator | 255717 | [255717-death-elevator.json](./255717-death-elevator.json) |
 | Death End Re;Quest | 41061 | [41061-death-end-re-quest.json](./41061-death-end-re-quest.json) |
@@ -3681,6 +3683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decisive Battles of WWII: Korsun Pocket | 768 | [768-decisive-battles-of-wwii-korsun-pocket.json](./768-decisive-battles-of-wwii-korsun-pocket.json) |
 | Decisive Campaigns: Ardennes Offensive | 143427 | [143427-decisive-campaigns-ardennes-offensive.json](./143427-decisive-campaigns-ardennes-offensive.json) |
 | Decisive Campaigns: Barbarossa | 33205 | [33205-decisive-campaigns-barbarossa.json](./33205-decisive-campaigns-barbarossa.json) |
+| Decisive Strike | 199812 | [199812-decisive-strike.json](./199812-decisive-strike.json) |
 | Deck 'Em! | 236650 | [236650-deck-em.json](./236650-deck-em.json) |
 | Deck Adventure | 372254 | [372254-deck-adventure.json](./372254-deck-adventure.json) |
 | Deck Adventurers II | 199570 | [199570-deck-adventurers-ii.json](./199570-deck-adventurers-ii.json) |
@@ -4277,6 +4280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense of the Sodomites | 336679 | [336679-defense-of-the-sodomites.json](./336679-defense-of-the-sodomites.json) |
 | Defense Technica | 10178 | [10178-defense-technica.json](./10178-defense-technica.json) |
 | Defense Tower Simulator | 152775 | [152775-defense-tower-simulator.json](./152775-defense-tower-simulator.json) |
+| Defense Witches | 199787 | [199787-defense-witches.json](./199787-defense-witches.json) |
 | Defense X | 366130 | [366130-defense-x.json](./366130-defense-x.json) |
 | Defense Zone | 17611 | [17611-defense-zone.json](./17611-defense-zone.json) |
 | Defense Zone 2 | 17303 | [17303-defense-zone-2.json](./17303-defense-zone-2.json) |
@@ -4737,6 +4741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Eye | 391666 | [391666-demon-eye.json](./391666-demon-eye.json) |
 | Demon Gate: Crown Defense | 114412 | [114412-demon-gate-crown-defense.json](./114412-demon-gate-crown-defense.json) |
 | Demon Gaze Extra | 148525 | [148525-demon-gaze-extra.json](./148525-demon-gaze-extra.json) |
+| Demon Gaze Extra: Digital Deluxe Edition | 199816 | [199816-demon-gaze-extra-digital-deluxe-edition.json](./199816-demon-gaze-extra-digital-deluxe-edition.json) |
 | Demon Gaze Extra: Memorial Edition | 148520 | [148520-demon-gaze-extra-memorial-edition.json](./148520-demon-gaze-extra-memorial-edition.json) |
 | Demon Go! | 209653 | [209653-demon-go.json](./209653-demon-go.json) |
 | Demon God's Tower | 102869 | [102869-demon-gods-tower.json](./102869-demon-gods-tower.json) |
@@ -9758,6 +9763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Eternal: The Ancient Gods - Part Two | 144731 | [144731-doom-eternal-the-ancient-gods-part-two.json](./144731-doom-eternal-the-ancient-gods-part-two.json) |
 | Doom Eternal: The Rip and Tear Pack | 169908 | [169908-doom-eternal-the-rip-and-tear-pack.json](./169908-doom-eternal-the-rip-and-tear-pack.json) |
 | Doom Eternal: Year One Pass | 293919 | [293919-doom-eternal-year-one-pass.json](./293919-doom-eternal-year-one-pass.json) |
+| Doom EXP | 199804 | [199804-doom-exp.json](./199804-doom-exp.json) |
 | Doom Fighters | 202839 | [202839-doom-fighters.json](./202839-doom-fighters.json) |
 | Doom GTS | 76246 | [76246-doom-gts.json](./76246-doom-gts.json) |
 | Doom Hockey | 254308 | [254308-doom-hockey.json](./254308-doom-hockey.json) |
