@@ -1076,6 +1076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Oasis | 114422 | [114422-last-oasis.json](./114422-last-oasis.json) |
 | Last of Ark | 208664 | [208664-last-of-ark.json](./208664-last-of-ark.json) |
 | Last of Ass | 157161 | [157161-last-of-ass.json](./157161-last-of-ass.json) |
+| Last of Light | 177746 | [177746-last-of-light.json](./177746-last-of-light.json) |
 | Last of the Noticers | 291856 | [291856-last-of-the-noticers.json](./291856-last-of-the-noticers.json) |
 | Last One Standing | 176332 | [176332-last-one-standing.json](./176332-last-one-standing.json) |
 | Last Order | 235994 | [235994-last-order.json](./235994-last-order.json) |
@@ -5559,6 +5560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Lost | 277321 | [277321-long-lost.json](./277321-long-lost.json) |
 | Long Nardy | 264362 | [264362-long-nardy.json](./264362-long-nardy.json) |
 | Long Night | 16941 | [16941-long-night.json](./16941-long-night.json) |
+| Long Nights | 177732 | [177732-long-nights.json](./177732-long-nights.json) |
 | Long Road | 108233 | [108233-long-road.json](./108233-long-road.json) |
 | Long Road | 148914 | [148914-long-road.json](./148914-long-road.json) |
 | Long Run | 273572 | [273572-long-run.json](./273572-long-run.json) |
@@ -5631,6 +5633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loom | 267418 | [267418-loom.json](./267418-loom.json) |
 | Loom Path | 332831 | [332831-loom-path.json](./332831-loom-path.json) |
 | Loomchild | 418773 | [418773-loomchild.json](./418773-loomchild.json) |
+| Looming Darkness | 177763 | [177763-looming-darkness.json](./177763-looming-darkness.json) |
 | Loona Landa | 271127 | [271127-loona-landa.json](./271127-loona-landa.json) |
 | Loondon | 91834 | [91834-loondon.json](./91834-loondon.json) |
 | Looney Toons Dash revived | 100803 | [100803-looney-toons-dash-revived.json](./100803-looney-toons-dash-revived.json) |
@@ -6917,6 +6920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovers in Playa Rosa | 241374 | [241374-lovers-in-playa-rosa.json](./241374-lovers-in-playa-rosa.json) |
 | Lovers of Aether | 117041 | [117041-lovers-of-aether.json](./117041-lovers-of-aether.json) |
 | Lovers’ Fun! | 402457 | [402457-lovers-fun.json](./402457-lovers-fun.json) |
+| Lovesick | 177738 | [177738-lovesick.json](./177738-lovesick.json) |
 | Lovesick | 413796 | [413796-lovesick.json](./413796-lovesick.json) |
 | LoveSoTea | 250279 | [250279-lovesotea.json](./250279-lovesotea.json) |
 | LoveUnholyc: Dark Fantasy Love | 296785 | [296785-loveunholyc-dark-fantasy-love.json](./296785-loveunholyc-dark-fantasy-love.json) |
