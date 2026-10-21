@@ -3353,6 +3353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Mission II | 59475 | [59475-mars-mission-ii.json](./59475-mars-mission-ii.json) |
 | Mars Odyssey | 32929 | [32929-mars-odyssey.json](./32929-mars-odyssey.json) |
 | Mars or Die! | 104047 | [104047-mars-or-die.json](./104047-mars-or-die.json) |
+| Mars Parking Simulator | 193254 | [193254-mars-parking-simulator.json](./193254-mars-parking-simulator.json) |
 | Mars Power Industries Deluxe | 122168 | [122168-mars-power-industries-deluxe.json](./122168-mars-power-industries-deluxe.json) |
 | Mars Quest | 147220 | [147220-mars-quest.json](./147220-mars-quest.json) |
 | Mars Raid | 245455 | [245455-mars-raid.json](./245455-mars-raid.json) |
@@ -16392,6 +16393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: House That Love Built - Collector's Edition | 409715 | [409715-mystery-case-files-house-that-love-built-collectors-edition.json](./409715-mystery-case-files-house-that-love-built-collectors-edition.json) |
 | Mystery Case Files: Huntsville | 5509 | [5509-mystery-case-files-huntsville.json](./5509-mystery-case-files-huntsville.json) |
 | Mystery Case Files: Incident at Pendle Tower | 187973 | [187973-mystery-case-files-incident-at-pendle-tower.json](./187973-mystery-case-files-incident-at-pendle-tower.json) |
+| Mystery Case Files: Incident at Pendle Tower - Collector's Edition | 193105 | [193105-mystery-case-files-incident-at-pendle-tower-collectors-edition.json](./193105-mystery-case-files-incident-at-pendle-tower-collectors-edition.json) |
 | Mystery Case Files: Key to Ravenhearst - Collector's Edition | 118336 | [118336-mystery-case-files-key-to-ravenhearst-collectors-edition.json](./118336-mystery-case-files-key-to-ravenhearst-collectors-edition.json) |
 | Mystery Case Files: Key to Ravenhearst - Collector's Edition & Mystery Case Files: Ravenhearst Unlocked - Collector's Edition | 201821 | [201821-mystery-case-files-key-to-ravenhearst-collectors-edition-and-mystery-case-files-ravenhearst-unlocked-collectors-edition.json](./201821-mystery-case-files-key-to-ravenhearst-collectors-edition-and-mystery-case-files-ravenhearst-unlocked-collectors-edition.json) |
 | Mystery Case Files: MillionHeir | 20276 | [20276-mystery-case-files-millionheir.json](./20276-mystery-case-files-millionheir.json) |
@@ -16559,6 +16561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Trackers: Nightsville Horror HD | 108259 | [108259-mystery-trackers-nightsville-horror-hd.json](./108259-mystery-trackers-nightsville-horror-hd.json) |
 | Mystery Trackers: Paxton Creek Avenger | 89134 | [89134-mystery-trackers-paxton-creek-avenger.json](./89134-mystery-trackers-paxton-creek-avenger.json) |
 | Mystery Trackers: Paxton Creek Avenger Collector's Edition | 153456 | [153456-mystery-trackers-paxton-creek-avenger-collectors-edition.json](./153456-mystery-trackers-paxton-creek-avenger-collectors-edition.json) |
+| Mystery Trackers: Queen of Hearts - Collector's Edition | 193232 | [193232-mystery-trackers-queen-of-hearts-collectors-edition.json](./193232-mystery-trackers-queen-of-hearts-collectors-edition.json) |
 | Mystery Trackers: Raincliff | 191483 | [191483-mystery-trackers-raincliff.json](./191483-mystery-trackers-raincliff.json) |
 | Mystery Trackers: Raincliff - Collector's Edition | 191484 | [191484-mystery-trackers-raincliff-collectors-edition.json](./191484-mystery-trackers-raincliff-collectors-edition.json) |
 | Mystery Trackers: Raincliff's Phantoms | 201829 | [201829-mystery-trackers-raincliffs-phantoms.json](./201829-mystery-trackers-raincliffs-phantoms.json) |
@@ -16816,6 +16819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myths and Legends Bundle: Tunche & Black Book | 188026 | [188026-myths-and-legends-bundle-tunche-and-black-book.json](./188026-myths-and-legends-bundle-tunche-and-black-book.json) |
 | Myths and Legends Online | 130686 | [130686-myths-and-legends-online.json](./130686-myths-and-legends-online.json) |
 | Myths are 100% True | 307806 | [307806-myths-are-100-true.json](./307806-myths-are-100-true.json) |
+| Myths of Gallantium | 193244 | [193244-myths-of-gallantium.json](./193244-myths-of-gallantium.json) |
 | Myths of Moonrise | 214170 | [214170-myths-of-moonrise.json](./214170-myths-of-moonrise.json) |
 | Myths of Rules | 262452 | [262452-myths-of-rules.json](./262452-myths-of-rules.json) |
 | Myths of Switzerland | 370429 | [370429-myths-of-switzerland.json](./370429-myths-of-switzerland.json) |
