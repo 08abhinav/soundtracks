@@ -758,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cam Op Simulator | 326465 | [326465-cam-op-simulator.json](./326465-cam-op-simulator.json) |
 | Cam Quest | 380689 | [380689-cam-quest.json](./380689-cam-quest.json) |
 | Cam4Z: Bodycam Zombie Elevator Survivor | 373682 | [373682-cam4z-bodycam-zombie-elevator-survivor.json](./373682-cam4z-bodycam-zombie-elevator-survivor.json) |
+| Camae | 197015 | [197015-camae.json](./197015-camae.json) |
 | Camazotz no Ongaku | 394769 | [394769-camazotz-no-ongaku.json](./394769-camazotz-no-ongaku.json) |
 | Camazotz no Shuugou | 394764 | [394764-camazotz-no-shuugou.json](./394764-camazotz-no-shuugou.json) |
 | Cambell’s Oddity Box | 387368 | [387368-cambell-s-oddity-box.json](./387368-cambell-s-oddity-box.json) |
@@ -10279,6 +10280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquest: Global Domination | 411737 | [411737-conquest-global-domination.json](./411737-conquest-global-domination.json) |
 | Conquest: Medieval Kingdoms | 147368 | [147368-conquest-medieval-kingdoms.json](./147368-conquest-medieval-kingdoms.json) |
 | Conquest! | 19120 | [19120-conquest.json](./19120-conquest.json) |
+| ConquestAreas | 197045 | [197045-conquestareas.json](./197045-conquestareas.json) |
 | Conquests of Camelot: The Search for the Grail | 7566 | [7566-conquests-of-camelot-the-search-for-the-grail.json](./7566-conquests-of-camelot-the-search-for-the-grail.json) |
 | Conquests of the Longbow: The Legend of Robin Hood | 7567 | [7567-conquests-of-the-longbow-the-legend-of-robin-hood.json](./7567-conquests-of-the-longbow-the-legend-of-robin-hood.json) |
 | Conquian 333 | 89035 | [89035-conquian-333.json](./89035-conquian-333.json) |
@@ -10553,6 +10555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contraband | 152240 | [152240-contraband.json](./152240-contraband.json) |
 | Contraband Patrol Simulator | 364973 | [364973-contraband-patrol-simulator.json](./364973-contraband-patrol-simulator.json) |
 | Contraband Police - Crimson Fall | 381783 | [381783-contraband-police-crimson-fall.json](./381783-contraband-police-crimson-fall.json) |
+| Contrablade World | 197162 | [197162-contrablade-world.json](./197162-contrablade-world.json) |
 | Contract Bridge Solo | 398415 | [398415-contract-bridge-solo.json](./398415-contract-bridge-solo.json) |
 | Contract Cooks | 403578 | [403578-contract-cooks.json](./403578-contract-cooks.json) |
 | Contract Demon | 140911 | [140911-contract-demon.json](./140911-contract-demon.json) |
@@ -11780,6 +11783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covid '99 | 140514 | [140514-covid-99.json](./140514-covid-99.json) |
 | Covid 2069 | 167758 | [167758-covid-2069.json](./167758-covid-2069.json) |
 | Covid 23: Test Labs | 255975 | [255975-covid-23-test-labs.json](./255975-covid-23-test-labs.json) |
+| Covid 69 | 197043 | [197043-covid-69.json](./197043-covid-69.json) |
 | Covid Cafe | 147171 | [147171-covid-cafe.json](./147171-covid-cafe.json) |
 | Covid Chaos | 163821 | [163821-covid-chaos.json](./163821-covid-chaos.json) |
 | Covid City | 147174 | [147174-covid-city.json](./147174-covid-city.json) |
