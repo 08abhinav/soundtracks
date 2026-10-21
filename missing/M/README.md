@@ -1417,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Adventure | 147322 | [147322-mahjong-adventure.json](./147322-mahjong-adventure.json) |
 | Mahjong Aztecs Mysteries | 234187 | [234187-mahjong-aztecs-mysteries.json](./234187-mahjong-aztecs-mysteries.json) |
 | Mahjong Bengal Tiger Adventure: Summer Majong Quest Deluxe | 235282 | [235282-mahjong-bengal-tiger-adventure-summer-majong-quest-deluxe.json](./235282-mahjong-bengal-tiger-adventure-summer-majong-quest-deluxe.json) |
+| Mahjong Business Style | 195013 | [195013-mahjong-business-style.json](./195013-mahjong-business-style.json) |
 | Mahjong by Dogmelon | 101489 | [101489-mahjong-by-dogmelon.json](./101489-mahjong-by-dogmelon.json) |
 | Mahjong Cards - Play classic mahjong solitaire with playing cards | 102830 | [102830-mahjong-cards-play-classic-mahjong-solitaire-with-playing-cards.json](./102830-mahjong-cards-play-classic-mahjong-solitaire-with-playing-cards.json) |
 | Mahjong Carnival | 59735 | [59735-mahjong-carnival.json](./59735-mahjong-carnival.json) |
@@ -7859,6 +7860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MGCM Combat Edition | 264805 | [264805-mgcm-combat-edition.json](./264805-mgcm-combat-edition.json) |
 | MGCM Combat Edition: DLC Char: Kamisaman (Isana Hakari) | 293455 | [293455-mgcm-combat-edition-dlc-char-kamisaman-isana-hakari.json](./293455-mgcm-combat-edition-dlc-char-kamisaman-isana-hakari.json) |
 | MGP Manager | 260382 | [260382-mgp-manager.json](./260382-mgp-manager.json) |
+| MH-Zombie | 194866 | [194866-mh-zombie.json](./194866-mh-zombie.json) |
 | MH17 Strikes Back | 329375 | [329375-mh17-strikes-back.json](./329375-mh17-strikes-back.json) |
 | MHRD | 29883 | [29883-mhrd.json](./29883-mhrd.json) |
 | Mhystaria | 347775 | [347775-mhystaria.json](./347775-mhystaria.json) |
@@ -10648,6 +10650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mito da Criação | 131368 | [131368-mito-da-criacao.json](./131368-mito-da-criacao.json) |
 | Mito Koumon II: Sekai Manyuu Ki | 48773 | [48773-mito-koumon-ii-sekai-manyuu-ki.json](./48773-mito-koumon-ii-sekai-manyuu-ki.json) |
 | Mitoosis | 144788 | [144788-mitoosis.json](./144788-mitoosis.json) |
+| Mitos | 194860 | [194860-mitos.json](./194860-mitos.json) |
 | Mitos.is: The Game | 34786 | [34786-mitos-is-the-game.json](./34786-mitos-is-the-game.json) |
 | Mitosis | 29959 | [29959-mitosis.json](./29959-mitosis.json) |
 | Mitoza | 144270 | [144270-mitoza.json](./144270-mitoza.json) |
@@ -15097,6 +15100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MVP Baseball 2004 | 10627 | [10627-mvp-baseball-2004.json](./10627-mvp-baseball-2004.json) |
 | MVP Baseball 2005 | 796 | [796-mvp-baseball-2005.json](./796-mvp-baseball-2005.json) |
 | MVR | 286762 | [286762-mvr.json](./286762-mvr.json) |
+| Mwizz | 194870 | [194870-mwizz.json](./194870-mwizz.json) |
 | MWT: Tank Battles | 319848 | [319848-mwt-tank-battles.json](./319848-mwt-tank-battles.json) |
 | MX 2002 Featuring Ricky Carmichael | 18265 | [18265-mx-2002-featuring-ricky-carmichael.json](./18265-mx-2002-featuring-ricky-carmichael.json) |
 | MX Bikes | 37424 | [37424-mx-bikes.json](./37424-mx-bikes.json) |
