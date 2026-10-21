@@ -1902,6 +1902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WaterMelon Mosikkaeng | 282246 | [282246-watermelon-mosikkaeng.json](./282246-watermelon-mosikkaeng.json) |
 | Watermelon Party | 119440 | [119440-watermelon-party.json](./119440-watermelon-party.json) |
 | Watermelon Simulator | 325627 | [325627-watermelon-simulator.json](./325627-watermelon-simulator.json) |
+| Watermelon Wars | 190380 | [190380-watermelon-wars.json](./190380-watermelon-wars.json) |
 | Watermelon's Adventure | 310621 | [310621-watermelons-adventure.json](./310621-watermelons-adventure.json) |
 | Waternet | 210651 | [210651-waternet.json](./210651-waternet.json) |
 | Waternet | 230717 | [230717-waternet.json](./230717-waternet.json) |
