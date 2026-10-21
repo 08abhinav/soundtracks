@@ -1299,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangster City: Mafia Car Driving | 234645 | [234645-gangster-city-mafia-car-driving.json](./234645-gangster-city-mafia-car-driving.json) |
 | Gangster Coin Pusher | 255236 | [255236-gangster-coin-pusher.json](./255236-gangster-coin-pusher.json) |
 | Gangster Granny | 38894 | [38894-gangster-granny.json](./38894-gangster-granny.json) |
+| Gangster Granny 3 | 196606 | [196606-gangster-granny-3.json](./196606-gangster-granny-3.json) |
 | Gangster Life: Criminal Untold , Cars, Theft, Police | 241889 | [241889-gangster-life-criminal-untold-cars-theft-police.json](./241889-gangster-life-criminal-untold-cars-theft-police.json) |
 | Gangster Simulator | 150576 | [150576-gangster-simulator.json](./150576-gangster-simulator.json) |
 | Gangster Town | 45650 | [45650-gangster-town.json](./45650-gangster-town.json) |
@@ -2125,6 +2126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | General Knowledge Quiz | 251042 | [251042-general-knowledge-quiz.json](./251042-general-knowledge-quiz.json) |
 | General Mayhem | 179470 | [179470-general-mayhem.json](./179470-general-mayhem.json) |
 | General Population | 169820 | [169820-general-population.json](./169820-general-population.json) |
+| General Practitioner 2 | 196468 | [196468-general-practitioner-2.json](./196468-general-practitioner-2.json) |
 | General Room | 176979 | [176979-general-room.json](./176979-general-room.json) |
 | General Staff: Black Powder | 249226 | [249226-general-staff-black-powder.json](./249226-general-staff-black-powder.json) |
 | General War Memories | 168623 | [168623-general-war-memories.json](./168623-general-war-memories.json) |
@@ -8293,6 +8295,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunnVR | 29908 | [29908-gunnvr.json](./29908-gunnvr.json) |
 | Gunny | 117721 | [117721-gunny.json](./117721-gunny.json) |
 | Gunny Ascend | 347288 | [347288-gunny-ascend.json](./347288-gunny-ascend.json) |
+| Gunny Bunny | 196489 | [196489-gunny-bunny.json](./196489-gunny-bunny.json) |
+| Gunny Bunny: Double Sight | 196499 | [196499-gunny-bunny-double-sight.json](./196499-gunny-bunny-double-sight.json) |
 | GunOre | 350511 | [350511-gunore.json](./350511-gunore.json) |
 | Gunparade March | 64893 | [64893-gunparade-march.json](./64893-gunparade-march.json) |
 | Gunparade Orchestra: Ao no Shou | 64891 | [64891-gunparade-orchestra-ao-no-shou.json](./64891-gunparade-orchestra-ao-no-shou.json) |
