@@ -5131,6 +5131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi Hi Puffy AmiYumi Treasure Island | 141151 | [141151-hi-hi-puffy-amiyumi-treasure-island.json](./141151-hi-hi-puffy-amiyumi-treasure-island.json) |
 | Hi Hi Puffy AmiYumi: Kaznapped! | 2819 | [2819-hi-hi-puffy-amiyumi-kaznapped.json](./2819-hi-hi-puffy-amiyumi-kaznapped.json) |
 | Hi Hi Puffy AmiYumi: The Genie and the Amp | 2818 | [2818-hi-hi-puffy-amiyumi-the-genie-and-the-amp.json](./2818-hi-hi-puffy-amiyumi-the-genie-and-the-amp.json) |
+| Hi Hi Puffy AmiYumi: World Tour | 185937 | [185937-hi-hi-puffy-amiyumi-world-tour.json](./185937-hi-hi-puffy-amiyumi-world-tour.json) |
 | Hi no Homo | 133312 | [133312-hi-no-homo.json](./133312-hi-no-homo.json) |
 | Hi no Ouji: Yamato Takeru | 44438 | [44438-hi-no-ouji-yamato-takeru.json](./44438-hi-no-ouji-yamato-takeru.json) |
 | Hi On Rhythm | 267459 | [267459-hi-on-rhythm.json](./267459-hi-on-rhythm.json) |
