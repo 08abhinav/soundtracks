@@ -728,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -993,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balance of Soccer | 102377 | [102377-balance-of-soccer.json](./102377-balance-of-soccer.json) |
 | Balance of Superpower | 275248 | [275248-balance-of-superpower.json](./275248-balance-of-superpower.json) |
 | Balance of the Planet | 50499 | [50499-balance-of-the-planet.json](./50499-balance-of-the-planet.json) |
+| Balance of World | 174568 | [174568-balance-of-world.json](./174568-balance-of-world.json) |
 | Balance Roll | 115495 | [115495-balance-roll.json](./115495-balance-roll.json) |
 | Balance the Beam | 58218 | [58218-balance-the-beam.json](./58218-balance-the-beam.json) |
 | Balance The Stick | 255844 | [255844-balance-the-stick.json](./255844-balance-the-stick.json) |
@@ -13007,6 +13009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Builder Simulator | 121345 | [121345-builder-simulator.json](./121345-builder-simulator.json) |
 | Builder Simulator VR | 237080 | [237080-builder-simulator-vr.json](./237080-builder-simulator-vr.json) |
 | Builder: Don't Let me Fall | 137643 | [137643-builder-dont-let-me-fall.json](./137643-builder-dont-let-me-fall.json) |
+| Builderment | 174572 | [174572-builderment.json](./174572-builderment.json) |
 | Builderment Idle | 296795 | [296795-builderment-idle.json](./296795-builderment-idle.json) |
 | Builders of China | 139744 | [139744-builders-of-china.json](./139744-builders-of-china.json) |
 | Builders of Egypt | 120901 | [120901-builders-of-egypt.json](./120901-builders-of-egypt.json) |
