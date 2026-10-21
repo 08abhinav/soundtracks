@@ -1341,6 +1341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABC Memory Match | 99415 | [99415-abc-memory-match.json](./99415-abc-memory-match.json) |
 | ABC Mysteriez: Hidden Letters | 88604 | [88604-abc-mysteriez-hidden-letters.json](./88604-abc-mysteriez-hidden-letters.json) |
 | ABC Nanpure Word-a-Pix | 222514 | [222514-abc-nanpure-word-a-pix.json](./222514-abc-nanpure-word-a-pix.json) |
+| ABC Search with Me | 198072 | [198072-abc-search-with-me.json](./198072-abc-search-with-me.json) |
 | ABC Search With Me: Adventure Bundle | 199851 | [199851-abc-search-with-me-adventure-bundle.json](./199851-abc-search-with-me-adventure-bundle.json) |
 | ABC Search with Me: Animal Pack | 199885 | [199885-abc-search-with-me-animal-pack.json](./199885-abc-search-with-me-animal-pack.json) |
 | ABC Search with Me: Food Pack | 199849 | [199849-abc-search-with-me-food-pack.json](./199849-abc-search-with-me-food-pack.json) |
@@ -2721,7 +2722,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -3281,6 +3281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agartha-S | 111653 | [111653-agartha-s.json](./111653-agartha-s.json) |
 | Agassi Tennis Generation | 248735 | [248735-agassi-tennis-generation.json](./248735-agassi-tennis-generation.json) |
 | Agatha Christie Collection | 214003 | [214003-agatha-christie-collection.json](./214003-agatha-christie-collection.json) |
+| Agatha Christie Hidden Object Collection | 198087 | [198087-agatha-christie-hidden-object-collection.json](./198087-agatha-christie-hidden-object-collection.json) |
 | Agatha Christie: 4:50 from Paddington | 135245 | [135245-agatha-christie-4-50-from-paddington.json](./135245-agatha-christie-4-50-from-paddington.json) |
 | Agatha Christie: Dead Man's Folly | 135105 | [135105-agatha-christie-dead-mans-folly.json](./135105-agatha-christie-dead-mans-folly.json) |
 | Agatha Christie: Death on the Nile | 21134 | [21134-agatha-christie-death-on-the-nile.json](./21134-agatha-christie-death-on-the-nile.json) |
@@ -6557,6 +6558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amorphous | 128658 | [128658-amorphous.json](./128658-amorphous.json) |
 | Amorphous | 265242 | [265242-amorphous.json](./265242-amorphous.json) |
 | Amortizer Off-Road | 118294 | [118294-amortizer-off-road.json](./118294-amortizer-off-road.json) |
+| Amos Green's Final Repose | 198104 | [198104-amos-greens-final-repose.json](./198104-amos-greens-final-repose.json) |
 | Amoto's Puf | 47557 | [47557-amotos-puf.json](./47557-amotos-puf.json) |
 | Amour Libre: Free Love | 129794 | [129794-amour-libre-free-love.json](./129794-amour-libre-free-love.json) |
 | AmourVortex | 83846 | [83846-amourvortex.json](./83846-amourvortex.json) |
@@ -7797,6 +7799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annie and the Art Gallery | 192656 | [192656-annie-and-the-art-gallery.json](./192656-annie-and-the-art-gallery.json) |
 | Annie and the Shadow Palace | 158071 | [158071-annie-and-the-shadow-palace.json](./158071-annie-and-the-shadow-palace.json) |
 | Annie Android: Automated Affection | 165510 | [165510-annie-android-automated-affection.json](./165510-annie-android-automated-affection.json) |
+| Annie's Millions: A Hidden Object Shopping Spree! | 198079 | [198079-annies-millions-a-hidden-object-shopping-spree.json](./198079-annies-millions-a-hidden-object-shopping-spree.json) |
 | Annihilate | 215553 | [215553-annihilate.json](./215553-annihilate.json) |
 | Annihilate the Spance | 192985 | [192985-annihilate-the-spance.json](./192985-annihilate-the-spance.json) |
 | Annihilated | 291331 | [291331-annihilated.json](./291331-annihilated.json) |
@@ -13640,6 +13643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aye Leon | 387342 | [387342-aye-leon.json](./387342-aye-leon.json) |
 | Aye! My Liege | 397390 | [397390-aye-my-liege.json](./397390-aye-my-liege.json) |
 | Ayin | 387724 | [387724-ayin.json](./387724-ayin.json) |
+| Ayleouna | 198096 | [198096-ayleouna.json](./198096-ayleouna.json) |
 | Aylin: The Story of Tom | 359072 | [359072-aylin-the-story-of-tom.json](./359072-aylin-the-story-of-tom.json) |
 | Ayni Fairyland | 107896 | [107896-ayni-fairyland.json](./107896-ayni-fairyland.json) |
 | Ayo the Clown | 26755 | [26755-ayo-the-clown.json](./26755-ayo-the-clown.json) |
