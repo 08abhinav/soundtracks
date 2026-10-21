@@ -10664,6 +10664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misty Hollow | 172421 | [172421-misty-hollow.json](./172421-misty-hollow.json) |
 | Misty Island: The Forgotten Story | 356998 | [356998-misty-island-the-forgotten-story.json](./356998-misty-island-the-forgotten-story.json) |
 | Misty Islands | 264488 | [264488-misty-islands.json](./264488-misty-islands.json) |
+| Misty Isles | 179408 | [179408-misty-isles.json](./179408-misty-isles.json) |
 | Misty no Kira-kira Hanjouki | 265217 | [265217-misty-no-kira-kira-hanjouki.json](./265217-misty-no-kira-kira-hanjouki.json) |
 | Misty Puzzle | 350231 | [350231-misty-puzzle.json](./350231-misty-puzzle.json) |
 | Misty's Idle Fishing | 372531 | [372531-mistys-idle-fishing.json](./372531-mistys-idle-fishing.json) |
@@ -15020,6 +15021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musketeer | 365793 | [365793-musketeer.json](./365793-musketeer.json) |
 | Musketeer Growth | 208967 | [208967-musketeer-growth.json](./208967-musketeer-growth.json) |
 | Musketeer of the hell | 164281 | [164281-musketeer-of-the-hell.json](./164281-musketeer-of-the-hell.json) |
+| Musle vs Zombies | 179371 | [179371-musle-vs-zombies.json](./179371-musle-vs-zombies.json) |
 | Musou Glory | 304240 | [304240-musou-glory.json](./304240-musou-glory.json) |
 | Musou Orochi Z | 7480 | [7480-musou-orochi-z.json](./7480-musou-orochi-z.json) |
 | Musou Tourou | 59328 | [59328-musou-tourou.json](./59328-musou-tourou.json) |
@@ -16229,6 +16231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Very Hungry Caterpillar | 321784 | [321784-my-very-hungry-caterpillar.json](./321784-my-very-hungry-caterpillar.json) |
 | My Very Hungry Caterpillar AR | 109544 | [109544-my-very-hungry-caterpillar-ar.json](./109544-my-very-hungry-caterpillar-ar.json) |
 | My Very Own Lair | 158563 | [158563-my-very-own-lair.json](./158563-my-very-own-lair.json) |
+| My Very Own Train Station | 179413 | [179413-my-very-own-train-station.json](./179413-my-very-own-train-station.json) |
 | My Video Game Girlfriend | 206000 | [206000-my-video-game-girlfriend.json](./206000-my-video-game-girlfriend.json) |
 | My Village Life | 166506 | [166506-my-village-life.json](./166506-my-village-life.json) |
 | My Vineyard | 92440 | [92440-my-vineyard.json](./92440-my-vineyard.json) |
