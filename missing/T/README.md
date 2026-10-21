@@ -10862,6 +10862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night of the Exorcism | 332788 | [332788-the-night-of-the-exorcism.json](./332788-the-night-of-the-exorcism.json) |
 | The Night of the Inquisitor | 249924 | [249924-the-night-of-the-inquisitor.json](./249924-the-night-of-the-inquisitor.json) |
 | The Night of the Rabbit: Premium Edition | 53768 | [53768-the-night-of-the-rabbit-premium-edition.json](./53768-the-night-of-the-rabbit-premium-edition.json) |
+| The Night of the Scissors | 199297 | [199297-the-night-of-the-scissors.json](./199297-the-night-of-the-scissors.json) |
 | The Night Owl Murder | 260086 | [260086-the-night-owl-murder.json](./260086-the-night-owl-murder.json) |
 | The Night Ripper | 125259 | [125259-the-night-ripper.json](./125259-the-night-ripper.json) |
 | The Night Shift | 258416 | [258416-the-night-shift.json](./258416-the-night-shift.json) |
