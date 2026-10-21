@@ -2823,6 +2823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castrol Honda Superbike World Champions | 47086 | [47086-castrol-honda-superbike-world-champions.json](./47086-castrol-honda-superbike-world-champions.json) |
 | Castrol Honda World Superbike Team VTR | 278858 | [278858-castrol-honda-world-superbike-team-vtr.json](./278858-castrol-honda-world-superbike-team-vtr.json) |
 | Castrol Honda: World Superbike Team - Superbike Racing | 139243 | [139243-castrol-honda-world-superbike-team-superbike-racing.json](./139243-castrol-honda-world-superbike-team-superbike-racing.json) |
+| Casual Coins | 197687 | [197687-casual-coins.json](./197687-casual-coins.json) |
 | Casual Commando | 157714 | [157714-casual-commando.json](./157714-casual-commando.json) |
 | Casual Crusade | 267355 | [267355-casual-crusade.json](./267355-casual-crusade.json) |
 | Casual Desktop Game | 301412 | [301412-casual-desktop-game.json](./301412-casual-desktop-game.json) |
@@ -13720,6 +13721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CRSED: Cuisine Royale | 231960 | [231960-crsed-cuisine-royale.json](./231960-crsed-cuisine-royale.json) |
 | CRSED: F.O.A.D. - Age of Nagual | 171062 | [171062-crsed-f-o-a-d-age-of-nagual.json](./171062-crsed-f-o-a-d-age-of-nagual.json) |
 | CRSED: F.O.A.D. - Biker Queen | 171057 | [171057-crsed-f-o-a-d-biker-queen.json](./171057-crsed-f-o-a-d-biker-queen.json) |
+| CRSED: F.O.A.D. - Dark Horse | 197562 | [197562-crsed-f-o-a-d-dark-horse.json](./197562-crsed-f-o-a-d-dark-horse.json) |
 | CRSED: F.O.A.D. - Dieselpunk | 222979 | [222979-crsed-f-o-a-d-dieselpunk.json](./222979-crsed-f-o-a-d-dieselpunk.json) |
 | CRSED: F.O.A.D. - Holy Beast | 171059 | [171059-crsed-f-o-a-d-holy-beast.json](./171059-crsed-f-o-a-d-holy-beast.json) |
 | CRSED: F.O.A.D. - Lone Wolf | 171061 | [171061-crsed-f-o-a-d-lone-wolf.json](./171061-crsed-f-o-a-d-lone-wolf.json) |
@@ -15653,6 +15655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CycloManiacs 2 | 234696 | [234696-cyclomaniacs-2.json](./234696-cyclomaniacs-2.json) |
 | CycloManiacs Epic | 234698 | [234698-cyclomaniacs-epic.json](./234698-cyclomaniacs-epic.json) |
 | Cyclone | 133830 | [133830-cyclone.json](./133830-cyclone.json) |
+| Cyclone | 197556 | [197556-cyclone.json](./197556-cyclone.json) |
 | Cyclone Circus: Power Sail Racing | 72112 | [72112-cyclone-circus-power-sail-racing.json](./72112-cyclone-circus-power-sail-racing.json) |
 | CyClones | 8693 | [8693-cyclones.json](./8693-cyclones.json) |
 | Cyclones Playground | 108055 | [108055-cyclones-playground.json](./108055-cyclones-playground.json) |
