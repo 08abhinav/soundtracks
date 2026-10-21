@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labor | 100714 | [100714-labor.json](./100714-labor.json) |
 | Labor Power | 312301 | [312301-labor-power.json](./312301-labor-power.json) |
 | Labor Rights Funeral in Ukraine | 379962 | [379962-labor-rights-funeral-in-ukraine.json](./379962-labor-rights-funeral-in-ukraine.json) |
+| Laboratoriya | 183751 | [183751-laboratoriya.json](./183751-laboratoriya.json) |
 | Laboratory Rat Escape Simulator Pro | 213213 | [213213-laboratory-rat-escape-simulator-pro.json](./213213-laboratory-rat-escape-simulator-pro.json) |
 | Laboratory X-29 | 258550 | [258550-laboratory-x-29.json](./258550-laboratory-x-29.json) |
 | LaborSurviveManual | 246825 | [246825-laborsurvivemanual.json](./246825-laborsurvivemanual.json) |
@@ -5682,6 +5683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop Yourself | 359021 | [359021-loop-yourself.json](./359021-loop-yourself.json) |
 | Loop: New Reality | 333219 | [333219-loop-new-reality.json](./333219-loop-new-reality.json) |
 | Loop: the distress call | 131949 | [131949-loop-the-distress-call.json](./131949-loop-the-distress-call.json) |
+| Loop2Loop | 183776 | [183776-loop2loop.json](./183776-loop2loop.json) |
 | Loop8: Celestial Edition | 221330 | [221330-loop8-celestial-edition.json](./221330-loop8-celestial-edition.json) |
 | Loopback | 197014 | [197014-loopback.json](./197014-loopback.json) |
 | Loopbreaker | 395586 | [395586-loopbreaker.json](./395586-loopbreaker.json) |
@@ -6390,6 +6392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost The Lights | 288270 | [288270-lost-the-lights.json](./288270-lost-the-lights.json) |
 | Lost to Riches | 245900 | [245900-lost-to-riches.json](./245900-lost-to-riches.json) |
 | Lost to Time | 143446 | [143446-lost-to-time.json](./143446-lost-to-time.json) |
+| Lost Tomb | 183793 | [183793-lost-tomb.json](./183793-lost-tomb.json) |
 | Lost Tomb | 23503 | [23503-lost-tomb.json](./23503-lost-tomb.json) |
 | Lost Totem Trajipon! | 402222 | [402222-lost-totem-trajipon.json](./402222-lost-totem-trajipon.json) |
 | Lost Toys | 62996 | [62996-lost-toys.json](./62996-lost-toys.json) |
