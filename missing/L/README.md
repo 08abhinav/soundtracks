@@ -1743,6 +1743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leave Me Alone: A Trip to Hell | 33497 | [33497-leave-me-alone-a-trip-to-hell.json](./33497-leave-me-alone-a-trip-to-hell.json) |
 | Leave Me Alone! | 177953 | [177953-leave-me-alone.json](./177953-leave-me-alone.json) |
 | Leave No One Behind: la Drang | 152994 | [152994-leave-no-one-behind-la-drang.json](./152994-leave-no-one-behind-la-drang.json) |
+| Leave No One Behind: la Drang VR | 203745 | [203745-leave-no-one-behind-la-drang-vr.json](./203745-leave-no-one-behind-la-drang-vr.json) |
 | Leave the Nest | 32662 | [32662-leave-the-nest.json](./32662-leave-the-nest.json) |
 | Leave! | 169795 | [169795-leave.json](./169795-leave.json) |
 | Leavers Rift | 351416 | [351416-leavers-rift.json](./351416-leavers-rift.json) |
@@ -1908,6 +1909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Aladdin | 70969 | [70969-legend-of-aladdin.json](./70969-legend-of-aladdin.json) |
 | Legend Of Apophyxis | 287755 | [287755-legend-of-apophyxis.json](./287755-legend-of-apophyxis.json) |
 | Legend of Arcadia | 242939 | [242939-legend-of-arcadia.json](./242939-legend-of-arcadia.json) |
+| Legend of Arcadieu Bundle | 203726 | [203726-legend-of-arcadieu-bundle.json](./203726-legend-of-arcadieu-bundle.json) |
 | Legend of Asha | 390266 | [390266-legend-of-asha.json](./390266-legend-of-asha.json) |
 | Legend of Assassin: Egypt | 108069 | [108069-legend-of-assassin-egypt.json](./108069-legend-of-assassin-egypt.json) |
 | Legend of Assassin: Siberia | 107830 | [107830-legend-of-assassin-siberia.json](./107830-legend-of-assassin-siberia.json) |
@@ -4219,6 +4221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lion Bubble Tosser: The Queen of the Safari | 259078 | [259078-lion-bubble-tosser-the-queen-of-the-safari.json](./259078-lion-bubble-tosser-the-queen-of-the-safari.json) |
 | Lion Heart Soushuu-hen | 207202 | [207202-lion-heart-soushuu-hen.json](./207202-lion-heart-soushuu-hen.json) |
 | Lion King 3 | 247408 | [247408-lion-king-3.json](./247408-lion-king-3.json) |
+| Lion King II | 203658 | [203658-lion-king-ii.json](./203658-lion-king-ii.json) |
 | Lion Pig: Frozen Run | 259238 | [259238-lion-pig-frozen-run.json](./259238-lion-pig-frozen-run.json) |
 | Lion Quest Infinity | 157519 | [157519-lion-quest-infinity.json](./157519-lion-quest-infinity.json) |
 | Lion Simulator Survival: RPG Animal Battle | 284782 | [284782-lion-simulator-survival-rpg-animal-battle.json](./284782-lion-simulator-survival-rpg-animal-battle.json) |
@@ -7217,6 +7220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lula: The Sexy Empire | 11679 | [11679-lula-the-sexy-empire.json](./11679-lula-the-sexy-empire.json) |
 | Lulanda | 363006 | [363006-lulanda.json](./363006-lulanda.json) |
 | Lull Away | 184339 | [184339-lull-away.json](./184339-lull-away.json) |
+| Lullaby | 203654 | [203654-lullaby.json](./203654-lullaby.json) |
 | Lullaby | 256805 | [256805-lullaby.json](./256805-lullaby.json) |
 | Lullaby Data | 311639 | [311639-lullaby-data.json](./311639-lullaby-data.json) |
 | Lullaby Days | 166703 | [166703-lullaby-days.json](./166703-lullaby-days.json) |
