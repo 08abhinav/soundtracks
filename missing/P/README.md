@@ -3201,6 +3201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pentaction: Medieval | 174247 | [174247-pentaction-medieval.json](./174247-pentaction-medieval.json) |
 | Pentago! | 311350 | [311350-pentago.json](./311350-pentago.json) |
 | Pentagonal Saloon | 120468 | [120468-pentagonal-saloon.json](./120468-pentagonal-saloon.json) |
+| Pentagorat | 178839 | [178839-pentagorat.json](./178839-pentagorat.json) |
 | Pentagram | 26394 | [26394-pentagram.json](./26394-pentagram.json) |
 | Pentaloop | 346671 | [346671-pentaloop.json](./346671-pentaloop.json) |
 | PentaPip | 412805 | [412805-pentapip.json](./412805-pentapip.json) |
@@ -3650,6 +3651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pest Control | 343758 | [343758-pest-control.json](./343758-pest-control.json) |
 | Pest Control in the Crypt | 410303 | [410303-pest-control-in-the-crypt.json](./410303-pest-control-in-the-crypt.json) |
 | Pest Patrol | 85815 | [85815-pest-patrol.json](./85815-pest-patrol.json) |
+| Pest Quest | 178855 | [178855-pest-quest.json](./178855-pest-quest.json) |
 | Pesten | 94531 | [94531-pesten.json](./94531-pesten.json) |
 | Pesterminator: The Western Exterminator | 48080 | [48080-pesterminator-the-western-exterminator.json](./48080-pesterminator-the-western-exterminator.json) |
 | Pesterquest | 122062 | [122062-pesterquest.json](./122062-pesterquest.json) |
@@ -9976,6 +9978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poseidon Wars 3-D | 46134 | [46134-poseidon-wars-3-d.json](./46134-poseidon-wars-3-d.json) |
 | Poseidon: Planet Eleven | 67276 | [67276-poseidon-planet-eleven.json](./67276-poseidon-planet-eleven.json) |
 | Poseidon's Orb | 225516 | [225516-poseidons-orb.json](./225516-poseidons-orb.json) |
+| Posey Picks and the Bus Stop | 178869 | [178869-posey-picks-and-the-bus-stop.json](./178869-posey-picks-and-the-bus-stop.json) |
 | Posh Boutique | 53468 | [53468-posh-boutique.json](./53468-posh-boutique.json) |
 | Posh Boutique 2 | 294454 | [294454-posh-boutique-2.json](./294454-posh-boutique-2.json) |
 | Posibility | 127367 | [127367-posibility.json](./127367-posibility.json) |
