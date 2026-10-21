@@ -865,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandamino | 294548 | [294548-pandamino.json](./294548-pandamino.json) |
 | Pandamonium | 345520 | [345520-pandamonium.json](./345520-pandamonium.json) |
 | PandaMonium: Corporate Carnage | 186131 | [186131-pandamonium-corporate-carnage.json](./186131-pandamonium-corporate-carnage.json) |
+| Pandanda | 189377 | [189377-pandanda.json](./189377-pandanda.json) |
 | Pandara | 123929 | [123929-pandara.json](./123929-pandara.json) |
 | Pandarunium | 291343 | [291343-pandarunium.json](./291343-pandarunium.json) |
 | PandaSG | 157122 | [157122-pandasg.json](./157122-pandasg.json) |
@@ -4600,6 +4601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pico de Pon | 279771 | [279771-pico-de-pon.json](./279771-pico-de-pon.json) |
 | Pico Dino | 288668 | [288668-pico-dino.json](./288668-pico-dino.json) |
 | Pico Driller | 177940 | [177940-pico-driller.json](./177940-pico-driller.json) |
+| Pico Islands | 189360 | [189360-pico-islands.json](./189360-pico-islands.json) |
 | Pico Monsters | 181931 | [181931-pico-monsters.json](./181931-pico-monsters.json) |
 | Pico Park 2 | 314933 | [314933-pico-park-2.json](./314933-pico-park-2.json) |
 | Pico Park: Classic Edition | 288208 | [288208-pico-park-classic-edition.json](./288208-pico-park-classic-edition.json) |
@@ -12276,6 +12278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Skylab 2 | 110106 | [110106-project-skylab-2.json](./110106-project-skylab-2.json) |
 | Project Slippi | 319004 | [319004-project-slippi.json](./319004-project-slippi.json) |
 | Project Smile | 363673 | [363673-project-smile.json](./363673-project-smile.json) |
+| Project Snaqe | 189378 | [189378-project-snaqe.json](./189378-project-snaqe.json) |
 | Project Solaris | 325449 | [325449-project-solaris.json](./325449-project-solaris.json) |
 | Project Spaghetti | 60002 | [60002-project-spaghetti.json](./60002-project-spaghetti.json) |
 | Project Spectrum | 361889 | [361889-project-spectrum.json](./361889-project-spectrum.json) |
