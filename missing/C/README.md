@@ -15092,6 +15092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursor Blast | 348439 | [348439-cursor-blast.json](./348439-cursor-blast.json) |
 | Cursor Car | 182928 | [182928-cursor-car.json](./182928-cursor-car.json) |
 | Cursor Challenge | 33120 | [33120-cursor-challenge.json](./33120-cursor-challenge.json) |
+| Cursor Custodian | 178856 | [178856-cursor-custodian.json](./178856-cursor-custodian.json) |
 | Cursor Story | 237355 | [237355-cursor-story.json](./237355-cursor-story.json) |
 | Cursor Thief | 261893 | [261893-cursor-thief.json](./261893-cursor-thief.json) |
 | Cursor*10 | 29042 | [29042-cursor-10.json](./29042-cursor-10.json) |
