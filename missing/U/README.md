@@ -1126,6 +1126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted: The Lost Legacy - Remastered | 168669 | [168669-uncharted-the-lost-legacy-remastered.json](./168669-uncharted-the-lost-legacy-remastered.json) |
 | Unchosen: Forsaken | 164592 | [164592-unchosen-forsaken.json](./164592-unchosen-forsaken.json) |
 | Uncivil War TCG: Trading Card Game | 99417 | [99417-uncivil-war-tcg-trading-card-game.json](./99417-uncivil-war-tcg-trading-card-game.json) |
+| Uncivilized | 176176 | [176176-uncivilized.json](./176176-uncivilized.json) |
 | Unclaimed World | 17130 | [17130-unclaimed-world.json](./17130-unclaimed-world.json) |
 | Uncle Albert's Fabulous Voyage | 25916 | [25916-uncle-alberts-fabulous-voyage.json](./25916-uncle-alberts-fabulous-voyage.json) |
 | Uncle Albert's Magical Album | 147321 | [147321-uncle-alberts-magical-album.json](./147321-uncle-alberts-magical-album.json) |
@@ -1819,6 +1820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unit 42: Adrift in Space | 395043 | [395043-unit-42-adrift-in-space.json](./395043-unit-42-adrift-in-space.json) |
 | Unit Zero: Operation Black Veil | 371968 | [371968-unit-zero-operation-black-veil.json](./371968-unit-zero-operation-black-veil.json) |
 | Unite | 168631 | [168631-unite.json](./168631-unite.json) |
+| Unite | 176154 | [176154-unite.json](./176154-unite.json) |
 | Unite Cell | 334768 | [334768-unite-cell.json](./334768-unite-cell.json) |
 | United 1944 | 244343 | [244343-united-1944.json](./244343-united-1944.json) |
 | United Assault: Battle of the Bulge | 195231 | [195231-united-assault-battle-of-the-bulge.json](./195231-united-assault-battle-of-the-bulge.json) |
