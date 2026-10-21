@@ -8091,6 +8091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Point'n'Click Lovers: Daedalic Adventure Bundle | 283723 | [283723-pointnclick-lovers-daedalic-adventure-bundle.json](./283723-pointnclick-lovers-daedalic-adventure-bundle.json) |
 | Pointless | 33544 | [33544-pointless.json](./33544-pointless.json) |
 | Pointless Fighting | 360129 | [360129-pointless-fighting.json](./360129-pointless-fighting.json) |
+| Pointless Wars | 183790 | [183790-pointless-wars.json](./183790-pointless-wars.json) |
 | PointlessQuest | 406638 | [406638-pointlessquest.json](./406638-pointlessquest.json) |
 | PointWorks | 371555 | [371555-pointworks.json](./371555-pointworks.json) |
 | Pointy Ends | 149520 | [149520-pointy-ends.json](./149520-pointy-ends.json) |
@@ -9372,6 +9373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pong Quest | 132032 | [132032-pong-quest.json](./132032-pong-quest.json) |
 | Pong Temple | 190725 | [190725-pong-temple.json](./190725-pong-temple.json) |
 | Pong Toss Pro: Frat Party Games | 84810 | [84810-pong-toss-pro-frat-party-games.json](./84810-pong-toss-pro-frat-party-games.json) |
+| Pong: 32 | 183779 | [183779-pong-32.json](./183779-pong-32.json) |
 | Pong: Evolved | 329631 | [329631-pong-evolved.json](./329631-pong-evolved.json) |
 | Pong: The Next Level | 265058 | [265058-pong-the-next-level.json](./265058-pong-the-next-level.json) |
 | Pongarena | 137615 | [137615-pongarena.json](./137615-pongarena.json) |
