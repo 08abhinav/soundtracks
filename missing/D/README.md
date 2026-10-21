@@ -3617,6 +3617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathtrap Dungeon: The Interactive Video Adventure | 129936 | [129936-deathtrap-dungeon-the-interactive-video-adventure.json](./129936-deathtrap-dungeon-the-interactive-video-adventure.json) |
 | Deathtrip | 297872 | [297872-deathtrip.json](./297872-deathtrip.json) |
 | Deathtroopers: The Outpost | 298391 | [298391-deathtroopers-the-outpost.json](./298391-deathtroopers-the-outpost.json) |
+| Deathverse: Let It Die | 178297 | [178297-deathverse-let-it-die.json](./178297-deathverse-let-it-die.json) |
 | Deathward | 397590 | [397590-deathward.json](./397590-deathward.json) |
 | Deathwatch | 221258 | [221258-deathwatch.json](./221258-deathwatch.json) |
 | deathwish | 318690 | [318690-deathwish.json](./318690-deathwish.json) |
@@ -4783,6 +4784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Dash | 239530 | [239530-demon-dash.json](./239530-demon-dash.json) |
 | Demon Demon | 341678 | [341678-demon-demon.json](./341678-demon-demon.json) |
 | Demon Dodger | 255249 | [255249-demon-dodger.json](./255249-demon-dodger.json) |
+| Demon Doif | 178289 | [178289-demon-doif.json](./178289-demon-doif.json) |
 | Demon Driver | 47283 | [47283-demon-driver.json](./47283-demon-driver.json) |
 | Demon Driver: Time to Burn Rubber | 49274 | [49274-demon-driver-time-to-burn-rubber.json](./49274-demon-driver-time-to-burn-rubber.json) |
 | Demon Dust | 327819 | [327819-demon-dust.json](./327819-demon-dust.json) |
