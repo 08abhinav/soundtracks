@@ -4655,6 +4655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Being Struck By Lightning is Probably the Best Way That You Could Die On Account of All of Its Awesomeness | 242647 | [242647-being-struck-by-lightning-is-probably-the-best-way-that-you-could-die-on-account-of-all-of-its-awesomeness.json](./242647-being-struck-by-lightning-is-probably-the-best-way-that-you-could-die-on-account-of-all-of-its-awesomeness.json) |
 | Bejazzled | 94977 | [94977-bejazzled.json](./94977-bejazzled.json) |
 | Bejeweled | 121723 | [121723-bejeweled.json](./121723-bejeweled.json) |
+| Bejeweled | 202092 | [202092-bejeweled.json](./202092-bejeweled.json) |
 | Bejeweled | 8318 | [8318-bejeweled.json](./8318-bejeweled.json) |
 | Bejeweled 2 | 614 | [614-bejeweled-2.json](./614-bejeweled-2.json) |
 | Bejeweled 2 Deluxe | 14806 | [14806-bejeweled-2-deluxe.json](./14806-bejeweled-2-deluxe.json) |
@@ -6082,6 +6083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo for Nintendo Switch | 90236 | [90236-bingo-for-nintendo-switch.json](./90236-bingo-for-nintendo-switch.json) |
 | Bingo Infinity | 96082 | [96082-bingo-infinity.json](./96082-bingo-infinity.json) |
 | Bingo Luau | 366407 | [366407-bingo-luau.json](./366407-bingo-luau.json) |
+| Bingo Master | 201998 | [201998-bingo-master.json](./201998-bingo-master.json) |
 | Bingo Master | 206140 | [206140-bingo-master.json](./206140-bingo-master.json) |
 | Bingo Math | 92407 | [92407-bingo-math.json](./92407-bingo-math.json) |
 | Bingo Party Deluxe | 84988 | [84988-bingo-party-deluxe.json](./84988-bingo-party-deluxe.json) |
@@ -6318,6 +6320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird & Beans | 308408 | [308408-bird-and-beans.json](./308408-bird-and-beans.json) |
 | Bird & Beans | 70765 | [70765-bird-and-beans.json](./70765-bird-and-beans.json) |
 | Bird Alone | 135897 | [135897-bird-alone.json](./135897-bird-alone.json) |
+| Bird and Beans | 201999 | [201999-bird-and-beans.json](./201999-bird-and-beans.json) |
 | Bird And Words: Find Word | 256149 | [256149-bird-and-words-find-word.json](./256149-bird-and-words-find-word.json) |
 | Bird Assassin | 17596 | [17596-bird-assassin.json](./17596-bird-assassin.json) |
 | Bird Bakery | 135239 | [135239-bird-bakery.json](./135239-bird-bakery.json) |
@@ -9723,6 +9726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonfire Stories: Faceless Gravedigger - Collector's Edition | 381374 | [381374-bonfire-stories-faceless-gravedigger-collectors-edition.json](./381374-bonfire-stories-faceless-gravedigger-collectors-edition.json) |
 | Bonfire Stories: Manifest Horror | 417393 | [417393-bonfire-stories-manifest-horror.json](./417393-bonfire-stories-manifest-horror.json) |
 | Bonfire Stories: Manifest Horror - Collector's Edition | 417394 | [417394-bonfire-stories-manifest-horror-collectors-edition.json](./417394-bonfire-stories-manifest-horror-collectors-edition.json) |
+| Bong | 201992 | [201992-bong.json](./201992-bong.json) |
 | Bong Bong | 111549 | [111549-bong-bong.json](./111549-bong-bong.json) |
 | BongBongCapy | 400862 | [400862-bongbongcapy.json](./400862-bongbongcapy.json) |
 | Bongo Cat | 334486 | [334486-bongo-cat.json](./334486-bongo-cat.json) |
@@ -9993,6 +9997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booster Pack Heroes | 400386 | [400386-booster-pack-heroes.json](./400386-booster-pack-heroes.json) |
 | Booster Racers | 303105 | [303105-booster-racers.json](./303105-booster-racers.json) |
 | Boot : Game Dev Sim | 129034 | [129034-boot-game-dev-sim.json](./129034-boot-game-dev-sim.json) |
+| Boot & Shoot | 202066 | [202066-boot-and-shoot.json](./202066-boot-and-shoot.json) |
 | Boot Camp Endless Runner | 223497 | [223497-boot-camp-endless-runner.json](./223497-boot-camp-endless-runner.json) |
 | Boot Camp Tycoon: Built for Victory | 206464 | [206464-boot-camp-tycoon-built-for-victory.json](./206464-boot-camp-tycoon-built-for-victory.json) |
 | Boot Hill Blaster | 74740 | [74740-boot-hill-blaster.json](./74740-boot-hill-blaster.json) |
