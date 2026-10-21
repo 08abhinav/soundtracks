@@ -2762,6 +2762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -11681,6 +11682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assetto Corsa Competizione: 2023 GT World Challenge Pack | 246861 | [246861-assetto-corsa-competizione-2023-gt-world-challenge-pack.json](./246861-assetto-corsa-competizione-2023-gt-world-challenge-pack.json) |
 | Assetto Corsa Competizione: American Track Pack | 208627 | [208627-assetto-corsa-competizione-american-track-pack.json](./208627-assetto-corsa-competizione-american-track-pack.json) |
 | Assetto Corsa Competizione: British GT Pack | 168371 | [168371-assetto-corsa-competizione-british-gt-pack.json](./168371-assetto-corsa-competizione-british-gt-pack.json) |
+| Assetto Corsa Competizione: Day One Edition | 171275 | [171275-assetto-corsa-competizione-day-one-edition.json](./171275-assetto-corsa-competizione-day-one-edition.json) |
 | Assetto Corsa Competizione: GT Racing Game Bundle | 288862 | [288862-assetto-corsa-competizione-gt-racing-game-bundle.json](./288862-assetto-corsa-competizione-gt-racing-game-bundle.json) |
 | Assetto Corsa EVO | 266155 | [266155-assetto-corsa-evo.json](./266155-assetto-corsa-evo.json) |
 | Assetto Corsa Evoluzione | 400702 | [400702-assetto-corsa-evoluzione.json](./400702-assetto-corsa-evoluzione.json) |
