@@ -1318,6 +1318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Hood | 260026 | [260026-under-the-hood.json](./260026-under-the-hood.json) |
 | Under the Island | 151501 | [151501-under-the-island.json](./151501-under-the-island.json) |
 | Under the Jolly Roger + Crossroads Inn: Bring Me That Horizon Bundle | 305487 | [305487-under-the-jolly-roger-crossroads-inn-bring-me-that-horizon-bundle.json](./305487-under-the-jolly-roger-crossroads-inn-bring-me-that-horizon-bundle.json) |
+| Under the Jolly Roger: Complete Edition | 204272 | [204272-under-the-jolly-roger-complete-edition.json](./204272-under-the-jolly-roger-complete-edition.json) |
 | Under The Mask | 281914 | [281914-under-the-mask.json](./281914-under-the-mask.json) |
 | Under the Moon | 204327 | [204327-under-the-moon.json](./204327-under-the-moon.json) |
 | Under the Moon: Crescent | 203289 | [203289-under-the-moon-crescent.json](./203289-under-the-moon-crescent.json) |
