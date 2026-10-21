@@ -8541,6 +8541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rouen | 97935 | [97935-rouen.json](./97935-rouen.json) |
 | Rouge noir | 175904 | [175904-rouge-noir.json](./175904-rouge-noir.json) |
 | Rouge Tank | 295548 | [295548-rouge-tank.json](./295548-rouge-tank.json) |
+| Rouge the Bat in Sonic the Hedgehog | 203162 | [203162-rouge-the-bat-in-sonic-the-hedgehog.json](./203162-rouge-the-bat-in-sonic-the-hedgehog.json) |
 | Rouge.exe | 274986 | [274986-rouge-exe.json](./274986-rouge-exe.json) |
 | Rouge's Flush | 408728 | [408728-rouges-flush.json](./408728-rouges-flush.json) |
 | Rougelight | 86094 | [86094-rougelight.json](./86094-rougelight.json) |
