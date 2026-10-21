@@ -4819,6 +4819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Cry: Horror House | 233460 | [233460-witch-cry-horror-house.json](./233460-witch-cry-horror-house.json) |
 | Witch Elixir | 149370 | [149370-witch-elixir.json](./149370-witch-elixir.json) |
 | Witch Epoch | 203528 | [203528-witch-epoch.json](./203528-witch-epoch.json) |
+| Witch Explorer | 185923 | [185923-witch-explorer.json](./185923-witch-explorer.json) |
 | Witch fly | 216435 | [216435-witch-fly.json](./216435-witch-fly.json) |
 | Witch Girl Got Killed | 212185 | [212185-witch-girl-got-killed.json](./212185-witch-girl-got-killed.json) |
 | Witch Guardians: Quest for the Ancestral Magic | 309036 | [309036-witch-guardians-quest-for-the-ancestral-magic.json](./309036-witch-guardians-quest-for-the-ancestral-magic.json) |
