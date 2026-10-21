@@ -2562,6 +2562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebeloid | 368668 | [368668-rebeloid.json](./368668-rebeloid.json) |
 | Rebeloid VR | 364978 | [364978-rebeloid-vr.json](./364978-rebeloid-vr.json) |
 | Rebels & Redcoats | 122394 | [122394-rebels-and-redcoats.json](./122394-rebels-and-redcoats.json) |
+| Rebels and Redcoats II | 194171 | [194171-rebels-and-redcoats-ii.json](./194171-rebels-and-redcoats-ii.json) |
 | Rebels Prison Escape | 71233 | [71233-rebels-prison-escape.json](./71233-rebels-prison-escape.json) |
 | Rebels: Under the Spell of Magic | 150777 | [150777-rebels-under-the-spell-of-magic.json](./150777-rebels-under-the-spell-of-magic.json) |
 | Rebels: Under the Spell of Magic - Chapter 2 | 193149 | [193149-rebels-under-the-spell-of-magic-chapter-2.json](./193149-rebels-under-the-spell-of-magic-chapter-2.json) |
@@ -3411,6 +3412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refuge For Troubles: Episode 1 - Dear Stranger | 171566 | [171566-refuge-for-troubles-episode-1-dear-stranger.json](./171566-refuge-for-troubles-episode-1-dear-stranger.json) |
 | Refuge of Embers | 236129 | [236129-refuge-of-embers.json](./236129-refuge-of-embers.json) |
 | Refugee: The Second Hearing | 253772 | [253772-refugee-the-second-hearing.json](./253772-refugee-the-second-hearing.json) |
+| Refugity | 194172 | [194172-refugity.json](./194172-refugity.json) |
 | Refunct | 13542 | [13542-refunct.json](./13542-refunct.json) |
 | Refund Me If You Can | 204074 | [204074-refund-me-if-you-can.json](./204074-refund-me-if-you-can.json) |
 | Refund Me If You Can: Lexy's Story | 234106 | [234106-refund-me-if-you-can-lexys-story.json](./234106-refund-me-if-you-can-lexys-story.json) |
@@ -9044,6 +9046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby League Raw | 385080 | [385080-rugby-league-raw.json](./385080-rugby-league-raw.json) |
 | Rugby League Riot | 274478 | [274478-rugby-league-riot.json](./274478-rugby-league-riot.json) |
 | Rugby League Team Manager 2018 | 68707 | [68707-rugby-league-team-manager-2018.json](./68707-rugby-league-team-manager-2018.json) |
+| Rugby Nations 15 | 194164 | [194164-rugby-nations-15.json](./194164-rugby-nations-15.json) |
 | Rugby Nations 16 | 86713 | [86713-rugby-nations-16.json](./86713-rugby-nations-16.json) |
 | Rugby Nations 18 | 86865 | [86865-rugby-nations-18.json](./86865-rugby-nations-18.json) |
 | Rugby Sevens 23 | 240817 | [240817-rugby-sevens-23.json](./240817-rugby-sevens-23.json) |
