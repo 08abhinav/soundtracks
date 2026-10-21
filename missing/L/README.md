@@ -2436,7 +2436,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Minifigures Online | 17874 | [17874-lego-minifigures-online.json](./17874-lego-minifigures-online.json) |
 | LEGO Ninjago: Nindroids | 19766 | [19766-lego-ninjago-nindroids.json](./19766-lego-ninjago-nindroids.json) |
 | LEGO Ninjago: Ride Ninja | 100445 | [100445-lego-ninjago-ride-ninja.json](./100445-lego-ninjago-ride-ninja.json) |
+| LEGO Ninjago: Rise of the snakes | 187123 | [187123-lego-ninjago-rise-of-the-snakes.json](./187123-lego-ninjago-rise-of-the-snakes.json) |
 | LEGO Ninjago: Shadow of Ronin | 19006 | [19006-lego-ninjago-shadow-of-ronin.json](./19006-lego-ninjago-shadow-of-ronin.json) |
+| LEGO Ninjago: Spinjitzu Scavenger Hunt | 187122 | [187122-lego-ninjago-spinjitzu-scavenger-hunt.json](./187122-lego-ninjago-spinjitzu-scavenger-hunt.json) |
 | LEGO Ninjago: Spinjitzu Smash | 251420 | [251420-lego-ninjago-spinjitzu-smash.json](./251420-lego-ninjago-spinjitzu-smash.json) |
 | LEGO Ninjago: Spinjitzu Smash DX | 343140 | [343140-lego-ninjago-spinjitzu-smash-dx.json](./343140-lego-ninjago-spinjitzu-smash-dx.json) |
 | LEGO Ninjago: The Four Paths | 340034 | [340034-lego-ninjago-the-four-paths.json](./340034-lego-ninjago-the-four-paths.json) |
@@ -4306,6 +4308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa to Issho ni Tairiku Oudan: A-Ressha de Ikou | 56555 | [56555-lisa-to-issho-ni-tairiku-oudan-a-ressha-de-ikou.json](./56555-lisa-to-issho-ni-tairiku-oudan-a-ressha-de-ikou.json) |
 | Lisa: Is Fearless | 172490 | [172490-lisa-is-fearless.json](./172490-lisa-is-fearless.json) |
 | Lisa: The Bashful | 172484 | [172484-lisa-the-bashful.json](./172484-lisa-the-bashful.json) |
+| Lisa: The Doleful | 187119 | [187119-lisa-the-doleful.json](./187119-lisa-the-doleful.json) |
 | Lisa: The Downcast | 387510 | [387510-lisa-the-downcast.json](./387510-lisa-the-downcast.json) |
 | Lisa: The Gluttonous | 382794 | [382794-lisa-the-gluttonous.json](./382794-lisa-the-gluttonous.json) |
 | Lisa: The Heartless | 345354 | [345354-lisa-the-heartless.json](./345354-lisa-the-heartless.json) |
