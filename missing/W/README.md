@@ -1250,6 +1250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer: Vermintide 2 - Sister of the Thorn | 155702 | [155702-warhammer-vermintide-2-sister-of-the-thorn.json](./155702-warhammer-vermintide-2-sister-of-the-thorn.json) |
 | Warhammer: Vermintide 2 - Ultimate Edition | 118700 | [118700-warhammer-vermintide-2-ultimate-edition.json](./118700-warhammer-vermintide-2-ultimate-edition.json) |
 | Warhammer: Vermintide 2 - Versus | 314400 | [314400-warhammer-vermintide-2-versus.json](./314400-warhammer-vermintide-2-versus.json) |
+| Warhammer: Vermintide 2 - Warrior Priest Career | 195414 | [195414-warhammer-vermintide-2-warrior-priest-career.json](./195414-warhammer-vermintide-2-warrior-priest-career.json) |
 | Warhammer: Vermintide 2 - Winds of Magic | 115671 | [115671-warhammer-vermintide-2-winds-of-magic.json](./115671-warhammer-vermintide-2-winds-of-magic.json) |
 | Warhaos | 161406 | [161406-warhaos.json](./161406-warhaos.json) |
 | Warhawk | 36532 | [36532-warhawk.json](./36532-warhawk.json) |
@@ -1462,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warplanes Bundle | 238436 | [238436-warplanes-bundle.json](./238436-warplanes-bundle.json) |
 | Warplanes Inc. | 327206 | [327206-warplanes-inc.json](./327206-warplanes-inc.json) |
 | Warplanes: Air Corp | 266302 | [266302-warplanes-air-corp.json](./266302-warplanes-air-corp.json) |
+| Warplanes: Battles over Pacific | 195395 | [195395-warplanes-battles-over-pacific.json](./195395-warplanes-battles-over-pacific.json) |
 | Warplanes: WW1 Sky Aces | 123569 | [123569-warplanes-ww1-sky-aces.json](./123569-warplanes-ww1-sky-aces.json) |
 | Warplanes: WW2 Dogfight | 112929 | [112929-warplanes-ww2-dogfight.json](./112929-warplanes-ww2-dogfight.json) |
 | Warplock | 377152 | [377152-warplock.json](./377152-warplock.json) |
@@ -4538,6 +4540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter | 127791 | [127791-winter.json](./127791-winter.json) |
 | Winter | 194559 | [194559-winter.json](./194559-winter.json) |
 | Winter | 226686 | [226686-winter.json](./226686-winter.json) |
+| Winter and People | 195534 | [195534-winter-and-people.json](./195534-winter-and-people.json) |
 | Winter Cats | 283039 | [283039-winter-cats.json](./283039-winter-cats.json) |
 | Winter Challenge | 131520 | [131520-winter-challenge.json](./131520-winter-challenge.json) |
 | Winter Challenge 2008 | 53123 | [53123-winter-challenge-2008.json](./53123-winter-challenge-2008.json) |
