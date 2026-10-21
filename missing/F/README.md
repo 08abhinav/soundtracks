@@ -6371,6 +6371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower of Ice Blossoming Under the Moon | 82918 | [82918-flower-of-ice-blossoming-under-the-moon.json](./82918-flower-of-ice-blossoming-under-the-moon.json) |
 | Flower Power | 354058 | [354058-flower-power.json](./354058-flower-power.json) |
 | Flower Power: The Adventures of Magical Plants | 324188 | [324188-flower-power-the-adventures-of-magical-plants.json](./324188-flower-power-the-adventures-of-magical-plants.json) |
+| Flower Quest | 182104 | [182104-flower-quest.json](./182104-flower-quest.json) |
 | Flower Shop | 190891 | [190891-flower-shop.json](./190891-flower-shop.json) |
 | Flower Shop of Broken Wonders | 299174 | [299174-flower-shop-of-broken-wonders.json](./299174-flower-shop-of-broken-wonders.json) |
 | Flower Shop: Big City Break | 209457 | [209457-flower-shop-big-city-break.json](./209457-flower-shop-big-city-break.json) |
