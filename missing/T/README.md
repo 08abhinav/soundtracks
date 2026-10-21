@@ -873,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales From The Under-Realm: Hazel | 298566 | [298566-tales-from-the-under-realm-hazel.json](./298566-tales-from-the-under-realm-hazel.json) |
 | Tales From the Wasteland | 188301 | [188301-tales-from-the-wasteland.json](./188301-tales-from-the-wasteland.json) |
 | Tales from the Watchtower: The Conjurer | 418553 | [418553-tales-from-the-watchtower-the-conjurer.json](./418553-tales-from-the-watchtower-the-conjurer.json) |
+| Tales From Toppletown | 180453 | [180453-tales-from-toppletown.json](./180453-tales-from-toppletown.json) |
 | Tales From Toyotoki: Arrival of the Witch | 206553 | [206553-tales-from-toyotoki-arrival-of-the-witch.json](./206553-tales-from-toyotoki-arrival-of-the-witch.json) |
 | Tales From Windy Meadow | 55114 | [55114-tales-from-windy-meadow.json](./55114-tales-from-windy-meadow.json) |
 | Tales In Text: Multiplayer Immersive Adventures | 388281 | [388281-tales-in-text-multiplayer-immersive-adventures.json](./388281-tales-in-text-multiplayer-immersive-adventures.json) |
@@ -3146,6 +3147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Bits | 58305 | [58305-tennis-bits.json](./58305-tennis-bits.json) |
 | Tennis Challenge | 230845 | [230845-tennis-challenge.json](./230845-tennis-challenge.json) |
 | Tennis Challenge | 239563 | [239563-tennis-challenge.json](./239563-tennis-challenge.json) |
+| Tennis Champ! | 180485 | [180485-tennis-champ.json](./180485-tennis-champ.json) |
 | Tennis Champs Returns | 58823 | [58823-tennis-champs-returns.json](./58823-tennis-champs-returns.json) |
 | Tennis Clash | 125197 | [125197-tennis-clash.json](./125197-tennis-clash.json) |
 | Tennis Club Story | 134020 | [134020-tennis-club-story.json](./134020-tennis-club-story.json) |
@@ -8276,6 +8278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House on Ninth Avenue | 260625 | [260625-the-house-on-ninth-avenue.json](./260625-the-house-on-ninth-avenue.json) |
 | The House on the Hill | 387555 | [387555-the-house-on-the-hill.json](./387555-the-house-on-the-hill.json) |
 | The House Remembers | 372752 | [372752-the-house-remembers.json](./372752-the-house-remembers.json) |
+| The House Swich Places | 180463 | [180463-the-house-swich-places.json](./180463-the-house-swich-places.json) |
 | The House That Dripped Blood | 203186 | [203186-the-house-that-dripped-blood.json](./203186-the-house-that-dripped-blood.json) |
 | The House that Jack Built | 25725 | [25725-the-house-that-jack-built.json](./25725-the-house-that-jack-built.json) |
 | The House the Dead Built | 231802 | [231802-the-house-the-dead-built.json](./231802-the-house-the-dead-built.json) |
@@ -9946,6 +9949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Liquid Jet | 347192 | [347192-the-liquid-jet.json](./347192-the-liquid-jet.json) |
 | The Lisa Joyful in Hopeful Christmas Special | 360020 | [360020-the-lisa-joyful-in-hopeful-christmas-special.json](./360020-the-lisa-joyful-in-hopeful-christmas-special.json) |
 | The List | 154092 | [154092-the-list.json](./154092-the-list.json) |
+| The List | 180439 | [180439-the-list.json](./180439-the-list.json) |
 | The Lists VR | 373173 | [373173-the-lists-vr.json](./373173-the-lists-vr.json) |
 | The Lithium Moon Incident | 286060 | [286060-the-lithium-moon-incident.json](./286060-the-lithium-moon-incident.json) |
 | The Litter: Trigo | 339970 | [339970-the-litter-trigo.json](./339970-the-litter-trigo.json) |
@@ -10215,6 +10219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Penguin | 302038 | [302038-the-lost-penguin.json](./302038-the-lost-penguin.json) |
 | The Lost Pisces | 26987 | [26987-the-lost-pisces.json](./26987-the-lost-pisces.json) |
 | The Lost Prince | 261737 | [261737-the-lost-prince.json](./261737-the-lost-prince.json) |
+| The Lost Residents | 180447 | [180447-the-lost-residents.json](./180447-the-lost-residents.json) |
 | The Lost Resort | 87558 | [87558-the-lost-resort.json](./87558-the-lost-resort.json) |
 | The Lost Ride | 46560 | [46560-the-lost-ride.json](./46560-the-lost-ride.json) |
 | The Lost Robot: Jigsaw Puzzle Stories | 155470 | [155470-the-lost-robot-jigsaw-puzzle-stories.json](./155470-the-lost-robot-jigsaw-puzzle-stories.json) |
@@ -12946,6 +12951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Snowman | 275641 | [275641-the-snowman.json](./275641-the-snowman.json) |
 | The Snowman | 299435 | [299435-the-snowman.json](./299435-the-snowman.json) |
 | The Snowman and the Snowdog | 22200 | [22200-the-snowman-and-the-snowdog.json](./22200-the-snowman-and-the-snowdog.json) |
+| The Soccer Player Manager | 180478 | [180478-the-soccer-player-manager.json](./180478-the-soccer-player-manager.json) |
 | The Social Distance Game | 228387 | [228387-the-social-distance-game.json](./228387-the-social-distance-game.json) |
 | The Social Engineer | 286221 | [286221-the-social-engineer.json](./286221-the-social-engineer.json) |
 | The Social Grip: Llama Drama | 406766 | [406766-the-social-grip-llama-drama.json](./406766-the-social-grip-llama-drama.json) |
@@ -17935,6 +17941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Gnome Game | 288591 | [288591-tiny-gnome-game.json](./288591-tiny-gnome-game.json) |
 | Tiny Goalie | 233081 | [233081-tiny-goalie.json](./233081-tiny-goalie.json) |
 | Tiny Gods of the Nile | 191197 | [191197-tiny-gods-of-the-nile.json](./191197-tiny-gods-of-the-nile.json) |
+| Tiny Golf Puzzles | 180464 | [180464-tiny-golf-puzzles.json](./180464-tiny-golf-puzzles.json) |
 | Tiny Guardians | 33841 | [33841-tiny-guardians.json](./33841-tiny-guardians.json) |
 | Tiny Havoc | 424066 | [424066-tiny-havoc.json](./424066-tiny-havoc.json) |
 | Tiny Hawk | 61523 | [61523-tiny-hawk.json](./61523-tiny-hawk.json) |
@@ -17971,6 +17978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Kitchen: Burger Edition | 378593 | [378593-tiny-kitchen-burger-edition.json](./378593-tiny-kitchen-burger-edition.json) |
 | Tiny Kitchen: Sandwich Edition | 380113 | [380113-tiny-kitchen-sandwich-edition.json](./380113-tiny-kitchen-sandwich-edition.json) |
 | Tiny Knight | 33472 | [33472-tiny-knight.json](./33472-tiny-knight.json) |
+| Tiny Knights | 180481 | [180481-tiny-knights.json](./180481-tiny-knights.json) |
 | Tiny Landlord | 213996 | [213996-tiny-landlord.json](./213996-tiny-landlord.json) |
 | Tiny Lands | 142488 | [142488-tiny-lands.json](./142488-tiny-lands.json) |
 | Tiny Lands: Diorama set 1 | 404268 | [404268-tiny-lands-diorama-set-1.json](./404268-tiny-lands-diorama-set-1.json) |
@@ -25541,6 +25549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typer Shark | 205982 | [205982-typer-shark.json](./205982-typer-shark.json) |
 | TypeRacer | 91271 | [91271-typeracer.json](./91271-typeracer.json) |
 | TypeRush | 203185 | [203185-typerush.json](./203185-typerush.json) |
+| TyperWorldCup | 180486 | [180486-typerworldcup.json](./180486-typerworldcup.json) |
 | Typeshift | 27884 | [27884-typeshift.json](./27884-typeshift.json) |
 | TypeSpell Journey | 294290 | [294290-typespell-journey.json](./294290-typespell-journey.json) |
 | Typewriter Monkeys | 365229 | [365229-typewriter-monkeys.json](./365229-typewriter-monkeys.json) |
