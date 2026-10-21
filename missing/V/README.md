@@ -2418,6 +2418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VMod | 129164 | [129164-vmod.json](./129164-vmod.json) |
 | VMX | 334205 | [334205-vmx.json](./334205-vmx.json) |
 | VN Dating Sims: Masa SMA | 214623 | [214623-vn-dating-sims-masa-sma.json](./214623-vn-dating-sims-masa-sma.json) |
+| Vnesis | 192737 | [192737-vnesis.json](./192737-vnesis.json) |
 | Vnm | 307292 | [307292-vnm.json](./307292-vnm.json) |
 | Vocabrawlary | 157089 | [157089-vocabrawlary.json](./157089-vocabrawlary.json) |
 | VocabUScary | 95314 | [95314-vocabuscary.json](./95314-vocabuscary.json) |
