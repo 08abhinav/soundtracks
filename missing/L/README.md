@@ -6432,6 +6432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lottery Winner | 278932 | [278932-lottery-winner.json](./278932-lottery-winner.json) |
 | Lottie! | 388890 | [388890-lottie.json](./388890-lottie.json) |
 | Lotto Fun | 312352 | [312352-lotto-fun.json](./312352-lotto-fun.json) |
+| Lotto Life | 190370 | [190370-lotto-life.json](./190370-lotto-life.json) |
 | Lottso! Express HD | 354977 | [354977-lottso-express-hd.json](./354977-lottso-express-hd.json) |
 | Lotus | 105745 | [105745-lotus.json](./105745-lotus.json) |
 | Lotus | 45249 | [45249-lotus.json](./45249-lotus.json) |
@@ -7727,6 +7728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lynn: The Girl Drawn on Puzzles | 130233 | [130233-lynn-the-girl-drawn-on-puzzles.json](./130233-lynn-the-girl-drawn-on-puzzles.json) |
 | Lynne | 105107 | [105107-lynne.json](./105107-lynne.json) |
 | LyokoVR | 169337 | [169337-lyokovr.json](./169337-lyokovr.json) |
+| Lyonesse | 190493 | [190493-lyonesse.json](./190493-lyonesse.json) |
 | Lyra | 323986 | [323986-lyra.json](./323986-lyra.json) |
 | Lyra and the Echo of the Abyss | 345696 | [345696-lyra-and-the-echo-of-the-abyss.json](./345696-lyra-and-the-echo-of-the-abyss.json) |
 | Lyra the Tenrec | 265073 | [265073-lyra-the-tenrec.json](./265073-lyra-the-tenrec.json) |
