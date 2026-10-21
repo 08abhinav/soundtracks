@@ -1442,6 +1442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Haven | 267590 | [267590-fantastic-haven.json](./267590-fantastic-haven.json) |
 | Fantastic Honey | 154400 | [154400-fantastic-honey.json](./154400-fantastic-honey.json) |
 | Fantastic Journey | 38391 | [38391-fantastic-journey.json](./38391-fantastic-journey.json) |
+| Fantastic Keyboard Party | 185348 | [185348-fantastic-keyboard-party.json](./185348-fantastic-keyboard-party.json) |
 | Fantastic Kingdom | 120421 | [120421-fantastic-kingdom.json](./120421-fantastic-kingdom.json) |
 | Fantastic Marchen: Cake-ya-san Monogatari + Doubutsu Chara Navi Uranai Kosei Shinri Gaku | 49577 | [49577-fantastic-marchen-cake-ya-san-monogatari-doubutsu-chara-navi-uranai-kosei-shinri-gaku.json](./49577-fantastic-marchen-cake-ya-san-monogatari-doubutsu-chara-navi-uranai-kosei-shinri-gaku.json) |
 | Fantastic Pets | 20165 | [20165-fantastic-pets.json](./20165-fantastic-pets.json) |
@@ -2360,6 +2361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat Slice 2 | 185653 | [185653-fat-slice-2.json](./185653-fat-slice-2.json) |
 | Fat Sonic | 330866 | [330866-fat-sonic.json](./330866-fat-sonic.json) |
 | Fat Worm Blows a Sparky | 37075 | [37075-fat-worm-blows-a-sparky.json](./37075-fat-worm-blows-a-sparky.json) |
+| FAT-stronaut | 185352 | [185352-fat-stronaut.json](./185352-fat-stronaut.json) |
 | Fat[EX] Courier Simulator | 106652 | [106652-fat-ex-courier-simulator.json](./106652-fat-ex-courier-simulator.json) |
 | Fata Deum | 122084 | [122084-fata-deum.json](./122084-fata-deum.json) |
 | Fata morgana no Yakata: Collected Edition | 86081 | [86081-fata-morgana-no-yakata-collected-edition.json](./86081-fata-morgana-no-yakata-collected-edition.json) |
@@ -6598,6 +6600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Corps | 47082 | [47082-flying-corps.json](./47082-flying-corps.json) |
 | Flying Corps: Gold | 209461 | [209461-flying-corps-gold.json](./209461-flying-corps-gold.json) |
 | Flying Cut | 257803 | [257803-flying-cut.json](./257803-flying-cut.json) |
+| Flying Death Trap | 185327 | [185327-flying-death-trap.json](./185327-flying-death-trap.json) |
 | Flying Dino Simulator 3D: Pterodactyl | 104671 | [104671-flying-dino-simulator-3d-pterodactyl.json](./104671-flying-dino-simulator-3d-pterodactyl.json) |
 | Flying Disk | 281687 | [281687-flying-disk.json](./281687-flying-disk.json) |
 | Flying Doggy | 270571 | [270571-flying-doggy.json](./270571-flying-doggy.json) |
