@@ -5194,6 +5194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeRailed | 169664 | [169664-derailed.json](./169664-derailed.json) |
 | DeRailed | 179438 | [179438-derailed.json](./179438-derailed.json) |
 | Derange | 129099 | [129099-derange.json](./129099-derange.json) |
+| Deranged | 192724 | [192724-deranged.json](./192724-deranged.json) |
 | Deranged Rabbits | 33389 | [33389-deranged-rabbits.json](./33389-deranged-rabbits.json) |
 | Derby Baseball | 256712 | [256712-derby-baseball.json](./256712-derby-baseball.json) |
 | Derby Champion Club | 386250 | [386250-derby-champion-club.json](./386250-derby-champion-club.json) |
@@ -5727,6 +5728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destructo Truck | 353495 | [353495-destructo-truck.json](./353495-destructo-truck.json) |
 | DestructoPod | 119710 | [119710-destructopod.json](./119710-destructopod.json) |
 | Destructor | 24019 | [24019-destructor.json](./24019-destructor.json) |
+| Destructor Tanks | 192609 | [192609-destructor-tanks.json](./192609-destructor-tanks.json) |
 | Destructor2D | 404984 | [404984-destructor2d.json](./404984-destructor2d.json) |
 | Destructure: Among Debris | 189006 | [189006-destructure-among-debris.json](./189006-destructure-among-debris.json) |
 | Desvelado | 295592 | [295592-desvelado.json](./295592-desvelado.json) |
@@ -5974,6 +5976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deviens Miss France | 269745 | [269745-deviens-miss-france.json](./269745-deviens-miss-france.json) |
 | Devil Assault | 41197 | [41197-devil-assault.json](./41197-devil-assault.json) |
 | Devil Band: Rock the Underworld | 85079 | [85079-devil-band-rock-the-underworld.json](./85079-devil-band-rock-the-underworld.json) |
+| Devil Bartender | 192606 | [192606-devil-bartender.json](./192606-devil-bartender.json) |
 | Devil Below | 293171 | [293171-devil-below.json](./293171-devil-below.json) |
 | Devil Book: Hand-Drawn Action MMO | 146171 | [146171-devil-book-hand-drawn-action-mmo.json](./146171-devil-book-hand-drawn-action-mmo.json) |
 | Devil Catcher | 171414 | [171414-devil-catcher.json](./171414-devil-catcher.json) |
@@ -6521,6 +6524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Didi & Ditto: Kindergarten | 73832 | [73832-didi-and-ditto-kindergarten.json](./73832-didi-and-ditto-kindergarten.json) |
 | Didj Racing: Tiki Tropics | 94158 | [94158-didj-racing-tiki-tropics.json](./94158-didj-racing-tiki-tropics.json) |
 | Didnapper | 295249 | [295249-didnapper.json](./295249-didnapper.json) |
+| Didnapper 2 | 192733 | [192733-didnapper-2.json](./192733-didnapper-2.json) |
 | Die 3 | 269641 | [269641-die-3.json](./269641-die-3.json) |
 | Die After Sunset | 158966 | [158966-die-after-sunset.json](./158966-die-after-sunset.json) |
 | Die Again | 133340 | [133340-die-again.json](./133340-die-again.json) |
