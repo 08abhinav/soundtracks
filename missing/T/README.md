@@ -6276,6 +6276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deepwatch | 341649 | [341649-the-deepwatch.json](./341649-the-deepwatch.json) |
 | The Deepwater Witch | 282518 | [282518-the-deepwater-witch.json](./282518-the-deepwater-witch.json) |
 | The Deer | 117688 | [117688-the-deer.json](./117688-the-deer.json) |
+| The Deerfather | 183765 | [183765-the-deerfather.json](./183765-the-deerfather.json) |
 | The Defender: Farm and Castle | 117626 | [117626-the-defender-farm-and-castle.json](./117626-the-defender-farm-and-castle.json) |
 | The Defender: Farm and Castle 2 | 126931 | [126931-the-defender-farm-and-castle-2.json](./126931-the-defender-farm-and-castle-2.json) |
 | The Defenders: The Second Wave | 35708 | [35708-the-defenders-the-second-wave.json](./35708-the-defenders-the-second-wave.json) |
@@ -6354,6 +6355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devilry Reservation | 239673 | [239673-the-devilry-reservation.json](./239673-the-devilry-reservation.json) |
 | The Devilry Reservation 2 | 356599 | [356599-the-devilry-reservation-2.json](./356599-the-devilry-reservation-2.json) |
 | The Devilry Reservation: Сhapter II | 263036 | [263036-the-devilry-reservation-hapter-ii.json](./263036-the-devilry-reservation-hapter-ii.json) |
+| The Devils Dungeon | 183760 | [183760-the-devils-dungeon.json](./183760-the-devils-dungeon.json) |
 | The Devils: A Visual Novel of WWII | 192381 | [192381-the-devils-a-visual-novel-of-wwii.json](./192381-the-devils-a-visual-novel-of-wwii.json) |
 | The Devilz Work | 315512 | [315512-the-devilz-work.json](./315512-the-devilz-work.json) |
 | The Devious Four Chronicles 8: Goddess Robes | 321461 | [321461-the-devious-four-chronicles-8-goddess-robes.json](./321461-the-devious-four-chronicles-8-goddess-robes.json) |
@@ -11804,6 +11806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rebirth | 257304 | [257304-the-rebirth.json](./257304-the-rebirth.json) |
 | The Rebirth | 327223 | [327223-the-rebirth.json](./327223-the-rebirth.json) |
 | The Rebirth of Kingdom Lo | 244868 | [244868-the-rebirth-of-kingdom-lo.json](./244868-the-rebirth-of-kingdom-lo.json) |
+| The Reconnection Clinic | 183775 | [183775-the-reconnection-clinic.json](./183775-the-reconnection-clinic.json) |
 | The Reconstruction | 130894 | [130894-the-reconstruction.json](./130894-the-reconstruction.json) |
 | The Recurrence | 289968 | [289968-the-recurrence.json](./289968-the-recurrence.json) |
 | The Recursive Dollhouse | 176918 | [176918-the-recursive-dollhouse.json](./176918-the-recursive-dollhouse.json) |
@@ -24579,6 +24582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tukoni: Forest Keepers | 141273 | [141273-tukoni-forest-keepers.json](./141273-tukoni-forest-keepers.json) |
 | TukTuk | 196240 | [196240-tuktuk.json](./196240-tuktuk.json) |
 | TukTuk | 214757 | [214757-tuktuk.json](./214757-tuktuk.json) |
+| Tulak | 183757 | [183757-tulak.json](./183757-tulak.json) |
 | Tulip | 270074 | [270074-tulip.json](./270074-tulip.json) |
 | Tulpa | 36170 | [36170-tulpa.json](./36170-tulpa.json) |
 | Tulpa the Unseen Lover | 414136 | [414136-tulpa-the-unseen-lover.json](./414136-tulpa-the-unseen-lover.json) |
