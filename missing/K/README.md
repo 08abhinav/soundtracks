@@ -467,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaminazo: Mirai kara no Omoi de | 222261 | [222261-kaminazo-mirai-kara-no-omoi-de.json](./222261-kaminazo-mirai-kara-no-omoi-de.json) |
 | Kamiori | 104647 | [104647-kamiori.json](./104647-kamiori.json) |
 | Kamipani! | 91517 | [91517-kamipani.json](./91517-kamipani.json) |
+| Kamisado | 175613 | [175613-kamisado.json](./175613-kamisado.json) |
 | Kamisama Kazoku: Ouen Ganbou | 313414 | [313414-kamisama-kazoku-ouen-ganbou.json](./313414-kamisama-kazoku-ouen-ganbou.json) |
 | Kamisama no Hitsugi | 328215 | [328215-kamisama-no-hitsugi.json](./328215-kamisama-no-hitsugi.json) |
 | Kamisama Spirits of the Shrine | 299000 | [299000-kamisama-spirits-of-the-shrine.json](./299000-kamisama-spirits-of-the-shrine.json) |
@@ -697,6 +698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karate Bros | 336067 | [336067-karate-bros.json](./336067-karate-bros.json) |
 | Karate Challenge | 421220 | [421220-karate-challenge.json](./421220-karate-challenge.json) |
 | Karate Champ | 285600 | [285600-karate-champ.json](./285600-karate-champ.json) |
+| Karate Champ XL | 174539 | [174539-karate-champ-xl.json](./174539-karate-champ-xl.json) |
 | Karate Combat | 13732 | [13732-karate-combat.json](./13732-karate-combat.json) |
 | Karate Do | 239625 | [239625-karate-do.json](./239625-karate-do.json) |
 | Karate Fighter | 141516 | [141516-karate-fighter.json](./141516-karate-fighter.json) |
@@ -1893,6 +1895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill Santa | 279464 | [279464-kill-santa.json](./279464-kill-santa.json) |
 | Kill Shot | 221901 | [221901-kill-shot.json](./221901-kill-shot.json) |
 | Kill Shot Bravo | 59478 | [59478-kill-shot-bravo.json](./59478-kill-shot-bravo.json) |
+| Kill Spree | 175618 | [175618-kill-spree.json](./175618-kill-spree.json) |
 | Kill the Bad Guy | 10481 | [10481-kill-the-bad-guy.json](./10481-kill-the-bad-guy.json) |
 | Kill the Barney | 325819 | [325819-kill-the-barney.json](./325819-kill-the-barney.json) |
 | Kill the Brickman | 362260 | [362260-kill-the-brickman.json](./362260-kill-the-brickman.json) |
@@ -2527,6 +2530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Defense: Hero Legend | 105834 | [105834-kingdom-defense-hero-legend.json](./105834-kingdom-defense-hero-legend.json) |
 | Kingdom Draw | 210507 | [210507-kingdom-draw.json](./210507-kingdom-draw.json) |
 | Kingdom Eighties | 209620 | [209620-kingdom-eighties.json](./209620-kingdom-eighties.json) |
+| Kingdom Fall: Dawn of the Druid | 175635 | [175635-kingdom-fall-dawn-of-the-druid.json](./175635-kingdom-fall-dawn-of-the-druid.json) |
 | Kingdom Flipper | 325539 | [325539-kingdom-flipper.json](./325539-kingdom-flipper.json) |
 | Kingdom Fortress | 337293 | [337293-kingdom-fortress.json](./337293-kingdom-fortress.json) |
 | Kingdom Guard | 194919 | [194919-kingdom-guard.json](./194919-kingdom-guard.json) |
