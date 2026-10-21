@@ -3391,6 +3391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Kid | 331663 | [331663-death-kid.json](./331663-death-kid.json) |
 | Death Kid + There's a Gun in the Office Bundle | 358629 | [358629-death-kid-theres-a-gun-in-the-office-bundle.json](./358629-death-kid-theres-a-gun-in-the-office-bundle.json) |
 | Death Knight | 343460 | [343460-death-knight.json](./343460-death-knight.json) |
+| Death Lap | 174550 | [174550-death-lap.json](./174550-death-lap.json) |
 | Death Lease | 266076 | [266076-death-lease.json](./266076-death-lease.json) |
 | Death Life: Beyond Purgatory | 264019 | [264019-death-life-beyond-purgatory.json](./264019-death-life-beyond-purgatory.json) |
 | Death Live | 123472 | [123472-death-live.json](./123472-death-live.json) |
@@ -6672,6 +6673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diercke Das Geographie-Quiz | 269743 | [269743-diercke-das-geographie-quiz.json](./269743-diercke-das-geographie-quiz.json) |
 | Diercke: Junior-Quiz Geographie | 269744 | [269744-diercke-junior-quiz-geographie.json](./269744-diercke-junior-quiz-geographie.json) |
 | DieRoll | 88263 | [88263-dieroll.json](./88263-dieroll.json) |
+| Dies Irae: Amantes Amentes - Act II: Nihil Difficile Amanti (Kei & Rea Scenario) | 174536 | [174536-dies-irae-amantes-amentes-act-ii-nihil-difficile-amanti-kei-and-rea-scenario.json](./174536-dies-irae-amantes-amentes-act-ii-nihil-difficile-amanti-kei-and-rea-scenario.json) |
 | Dies Irae: Interview with Kaziklu Bey | 115243 | [115243-dies-irae-interview-with-kaziklu-bey.json](./115243-dies-irae-interview-with-kaziklu-bey.json) |
 | Dies Mortis | 185163 | [185163-dies-mortis.json](./185163-dies-mortis.json) |
 | Diesel and Death | 194872 | [194872-diesel-and-death.json](./194872-diesel-and-death.json) |
@@ -10546,6 +10548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down the Hole | 133813 | [133813-down-the-hole.json](./133813-down-the-hole.json) |
 | Down The Mountain | 307338 | [307338-down-the-mountain.json](./307338-down-the-mountain.json) |
 | Down the Oubliette | 152031 | [152031-down-the-oubliette.json](./152031-down-the-oubliette.json) |
+| Down the Rabbit Hole | 174560 | [174560-down-the-rabbit-hole.json](./174560-down-the-rabbit-hole.json) |
 | Down the Ratbit Hole | 271371 | [271371-down-the-ratbit-hole.json](./271371-down-the-ratbit-hole.json) |
 | Down the Shaft | 305176 | [305176-down-the-shaft.json](./305176-down-the-shaft.json) |
 | Down the Trench | 169269 | [169269-down-the-trench.json](./169269-down-the-trench.json) |
@@ -13830,6 +13833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Raid | 350475 | [350475-dungeon-raid.json](./350475-dungeon-raid.json) |
 | Dungeon Raid: Zero Floor | 365888 | [365888-dungeon-raid-zero-floor.json](./365888-dungeon-raid-zero-floor.json) |
 | Dungeon Raider | 192784 | [192784-dungeon-raider.json](./192784-dungeon-raider.json) |
+| Dungeon Raiders | 174566 | [174566-dungeon-raiders.json](./174566-dungeon-raiders.json) |
 | Dungeon Rampage | 142975 | [142975-dungeon-rampage.json](./142975-dungeon-rampage.json) |
 | Dungeon Rankers | 105086 | [105086-dungeon-rankers.json](./105086-dungeon-rankers.json) |
 | Dungeon Raze | 327593 | [327593-dungeon-raze.json](./327593-dungeon-raze.json) |
