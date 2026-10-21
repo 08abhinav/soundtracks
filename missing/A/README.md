@@ -3689,6 +3689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI People | 317314 | [317314-ai-people.json](./317314-ai-people.json) |
 | AI Rebellion | 90465 | [90465-ai-rebellion.json](./90465-ai-rebellion.json) |
 | Ai Ren Lover | 148328 | [148328-ai-ren-lover.json](./148328-ai-ren-lover.json) |
+| AI Roguelite | 192216 | [192216-ai-roguelite.json](./192216-ai-roguelite.json) |
 | AI Roguelite 2D | 287191 | [287191-ai-roguelite-2d.json](./287191-ai-roguelite-2d.json) |
 | AI Roommate: Life With an Artificial Companion | 359217 | [359217-ai-roommate-life-with-an-artificial-companion.json](./359217-ai-roommate-life-with-an-artificial-companion.json) |
 | AI Schoolgirls Murder Mystery | 312674 | [312674-ai-schoolgirls-murder-mystery.json](./312674-ai-schoolgirls-murder-mystery.json) |
@@ -6686,6 +6687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Introvert's Nightmare | 381762 | [381762-an-introverts-nightmare.json](./381762-an-introverts-nightmare.json) |
 | An Iou | 208669 | [208669-an-iou.json](./208669-an-iou.json) |
 | An Island Away | 293090 | [293090-an-island-away.json](./293090-an-island-away.json) |
+| An NPC's Odyssey | 192080 | [192080-an-npcs-odyssey.json](./192080-an-npcs-odyssey.json) |
 | An Oath to the Stars | 28756 | [28756-an-oath-to-the-stars.json](./28756-an-oath-to-the-stars.json) |
 | An Occasional Dream | 55690 | [55690-an-occasional-dream.json](./55690-an-occasional-dream.json) |
 | An Ocean Game | 360588 | [360588-an-ocean-game.json](./360588-an-ocean-game.json) |
@@ -9242,6 +9244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Halley's Comet | 147111 | [147111-arcade-archives-halleys-comet.json](./147111-arcade-archives-halleys-comet.json) |
 | Arcade Archives: Haunted Castle | 99487 | [99487-arcade-archives-haunted-castle.json](./99487-arcade-archives-haunted-castle.json) |
 | Arcade Archives: Heroic Episode | 88594 | [88594-arcade-archives-heroic-episode.json](./88594-arcade-archives-heroic-episode.json) |
+| Arcade Archives: Highway Race | 192078 | [192078-arcade-archives-highway-race.json](./192078-arcade-archives-highway-race.json) |
 | Arcade Archives: Hyper Crash | 409673 | [409673-arcade-archives-hyper-crash.json](./409673-arcade-archives-hyper-crash.json) |
 | Arcade Archives: Hyper Sports | 126493 | [126493-arcade-archives-hyper-sports.json](./126493-arcade-archives-hyper-sports.json) |
 | Arcade Archives: Ice Climber | 68333 | [68333-arcade-archives-ice-climber.json](./68333-arcade-archives-ice-climber.json) |
@@ -10045,6 +10048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Chaos | 223442 | [223442-arena-chaos.json](./223442-arena-chaos.json) |
 | Arena Circus | 179619 | [179619-arena-circus.json](./179619-arena-circus.json) |
 | Arena Constellation | 295012 | [295012-arena-constellation.json](./295012-arena-constellation.json) |
+| Arena Drift Master | 192212 | [192212-arena-drift-master.json](./192212-arena-drift-master.json) |
 | Arena Football | 5731 | [5731-arena-football.json](./5731-arena-football.json) |
 | Arena Gods | 34267 | [34267-arena-gods.json](./34267-arena-gods.json) |
 | Arena II | 359082 | [359082-arena-ii.json](./359082-arena-ii.json) |
