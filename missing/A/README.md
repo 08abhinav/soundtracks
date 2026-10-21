@@ -2229,6 +2229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adam Wolfe | 26860 | [26860-adam-wolfe.json](./26860-adam-wolfe.json) |
 | Adam: Lost Memories | 121336 | [121336-adam-lost-memories.json](./121336-adam-lost-memories.json) |
 | Adam: Robot World | 126385 | [126385-adam-robot-world.json](./126385-adam-robot-world.json) |
+| Adam's Memories | 190889 | [190889-adams-memories.json](./190889-adams-memories.json) |
 | Adam's Venture: Origins | 16298 | [16298-adams-venture-origins.json](./16298-adams-venture-origins.json) |
 | Adam's Venture: Origins - Deluxe Edition | 118747 | [118747-adams-venture-origins-deluxe-edition.json](./118747-adams-venture-origins-deluxe-edition.json) |
 | Adamantine Cruelty | 271248 | [271248-adamantine-cruelty.json](./271248-adamantine-cruelty.json) |
@@ -3212,6 +3213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterlife Pharmaceuticals | 276745 | [276745-afterlife-pharmaceuticals.json](./276745-afterlife-pharmaceuticals.json) |
 | Afterlife Reverie | 337799 | [337799-afterlife-reverie.json](./337799-afterlife-reverie.json) |
 | Afterlife VR | 146139 | [146139-afterlife-vr.json](./146139-afterlife-vr.json) |
+| Afterlife: Killing Death | 191010 | [191010-afterlife-killing-death.json](./191010-afterlife-killing-death.json) |
 | Afterlife: Rickard's Quest | 306641 | [306641-afterlife-rickards-quest.json](./306641-afterlife-rickards-quest.json) |
 | Afterlife: The Game | 318851 | [318851-afterlife-the-game.json](./318851-afterlife-the-game.json) |
 | Afterlife: The Second Dimension | 150554 | [150554-afterlife-the-second-dimension.json](./150554-afterlife-the-second-dimension.json) |
@@ -13267,6 +13269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar Pinball | 144035 | [144035-avatar-pinball.json](./144035-avatar-pinball.json) |
 | Avatar Project (Working Title) | 131442 | [131442-avatar-project-working-title.json](./131442-avatar-project-working-title.json) |
 | Avatar Racedrome | 54704 | [54704-avatar-racedrome.json](./54704-avatar-racedrome.json) |
+| Avatar Raiders | 190875 | [190875-avatar-raiders.json](./190875-avatar-raiders.json) |
 | Avatar Rockets | 77586 | [77586-avatar-rockets.json](./77586-avatar-rockets.json) |
 | Avatar Showdown | 144034 | [144034-avatar-showdown.json](./144034-avatar-showdown.json) |
 | Avatar Snowball Fight | 77608 | [77608-avatar-snowball-fight.json](./77608-avatar-snowball-fight.json) |
