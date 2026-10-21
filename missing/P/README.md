@@ -662,6 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pajama Sam Vol. 2 | 154440 | [154440-pajama-sam-vol-2.json](./154440-pajama-sam-vol-2.json) |
 | Pajama Sam: Don't Fear the Dark | 51107 | [51107-pajama-sam-dont-fear-the-dark.json](./51107-pajama-sam-dont-fear-the-dark.json) |
 | Pajamorama | 133710 | [133710-pajamorama.json](./133710-pajamorama.json) |
+| Pajuu: Always With You | 177208 | [177208-pajuu-always-with-you.json](./177208-pajuu-always-with-you.json) |
 | Pakacuda | 83264 | [83264-pakacuda.json](./83264-pakacuda.json) |
 | Pakicetus | 126516 | [126516-pakicetus.json](./126516-pakicetus.json) |
 | Pakistan Car Simulator Game | 335638 | [335638-pakistan-car-simulator-game.json](./335638-pakistan-car-simulator-game.json) |
@@ -2274,6 +2275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of the Martyrs | 138561 | [138561-path-of-the-martyrs.json](./138561-path-of-the-martyrs.json) |
 | Path of the Midnight Sun | 126443 | [126443-path-of-the-midnight-sun.json](./126443-path-of-the-midnight-sun.json) |
 | Path of the Oxiflame | 319842 | [319842-path-of-the-oxiflame.json](./319842-path-of-the-oxiflame.json) |
+| Path of the Rabbit | 177230 | [177230-path-of-the-rabbit.json](./177230-path-of-the-rabbit.json) |
 | Path of The Runecaster | 399839 | [399839-path-of-the-runecaster.json](./399839-path-of-the-runecaster.json) |
 | Path of the Warrior | 127351 | [127351-path-of-the-warrior.json](./127351-path-of-the-warrior.json) |
 | Path of the Zenith Master | 372016 | [372016-path-of-the-zenith-master.json](./372016-path-of-the-zenith-master.json) |
@@ -12333,6 +12335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Star: Makeover Story | 227983 | [227983-project-star-makeover-story.json](./227983-project-star-makeover-story.json) |
 | Project Starblade | 391151 | [391151-project-starblade.json](./391151-project-starblade.json) |
 | Project Starcrash | 311136 | [311136-project-starcrash.json](./311136-project-starcrash.json) |
+| Project Stardust | 177232 | [177232-project-stardust.json](./177232-project-stardust.json) |
 | Project Starship | 33222 | [33222-project-starship.json](./33222-project-starship.json) |
 | Project Starship X | 126587 | [126587-project-starship-x.json](./126587-project-starship-x.json) |
 | Project Starship X: Limited Edition | 167083 | [167083-project-starship-x-limited-edition.json](./167083-project-starship-x-limited-edition.json) |
