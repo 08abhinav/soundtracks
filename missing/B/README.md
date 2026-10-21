@@ -1175,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Sort | 240194 | [240194-ball-sort.json](./240194-ball-sort.json) |
 | Ball Sort Puzzle | 180152 | [180152-ball-sort-puzzle.json](./180152-ball-sort-puzzle.json) |
 | Ball Space | 369735 | [369735-ball-space.json](./369735-ball-space.json) |
+| Ball Stars of the Animal Kingdom | 185324 | [185324-ball-stars-of-the-animal-kingdom.json](./185324-ball-stars-of-the-animal-kingdom.json) |
 | Ball til You Fall | 242464 | [242464-ball-til-you-fall.json](./242464-ball-til-you-fall.json) |
 | Ball Torture | 205242 | [205242-ball-torture.json](./205242-ball-torture.json) |
 | Ball Tour | 297718 | [297718-ball-tour.json](./297718-ball-tour.json) |
@@ -3450,6 +3451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlestar Galactica Deadlock: Sin and Sacrifice | 115672 | [115672-battlestar-galactica-deadlock-sin-and-sacrifice.json](./115672-battlestar-galactica-deadlock-sin-and-sacrifice.json) |
 | Battlestar Galactica Deadlock: The Broken Alliance | 129482 | [129482-battlestar-galactica-deadlock-the-broken-alliance.json](./129482-battlestar-galactica-deadlock-the-broken-alliance.json) |
 | Battlestar Galactica Online | 23527 | [23527-battlestar-galactica-online.json](./23527-battlestar-galactica-online.json) |
+| Battlestar Galactica: Condition One | 185321 | [185321-battlestar-galactica-condition-one.json](./185321-battlestar-galactica-condition-one.json) |
 | Battlestar Galactica: Scattered Hopes | 361822 | [361822-battlestar-galactica-scattered-hopes.json](./361822-battlestar-galactica-scattered-hopes.json) |
 | Battlestar Galactica: Squadrons | 83398 | [83398-battlestar-galactica-squadrons.json](./83398-battlestar-galactica-squadrons.json) |
 | BattleStar Mazay | 104068 | [104068-battlestar-mazay.json](./104068-battlestar-mazay.json) |
