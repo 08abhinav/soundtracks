@@ -5691,6 +5691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Existensis | 149445 | [149445-existensis.json](./149445-existensis.json) |
 | Existentia | 31805 | [31805-existentia.json](./31805-existentia.json) |
 | Existential | 193503 | [193503-existential.json](./193503-existential.json) |
+| Existential Dilogy | 199819 | [199819-existential-dilogy.json](./199819-existential-dilogy.json) |
 | Exit 13 Gallery Escape | 291243 | [291243-exit-13-gallery-escape.json](./291243-exit-13-gallery-escape.json) |
 | Exit 19 | 184602 | [184602-exit-19.json](./184602-exit-19.json) |
 | Exit 2: Directions | 43146 | [43146-exit-2-directions.json](./43146-exit-2-directions.json) |
