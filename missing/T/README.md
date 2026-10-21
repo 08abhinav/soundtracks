@@ -294,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Shooter | 409738 | [409738-tactical-shooter.json](./409738-tactical-shooter.json) |
 | Tactical Soccer | 42514 | [42514-tactical-soccer.json](./42514-tactical-soccer.json) |
 | Tactical Soccer the New Season | 34477 | [34477-tactical-soccer-the-new-season.json](./34477-tactical-soccer-the-new-season.json) |
+| Tactical Soldier: Undead Rising | 175589 | [175589-tactical-soldier-undead-rising.json](./175589-tactical-soldier-undead-rising.json) |
 | Tactical Strike: Special Forces Shooter | 310710 | [310710-tactical-strike-special-forces-shooter.json](./310710-tactical-strike-special-forces-shooter.json) |
 | Tactical Vengeance: Play the Game | 230924 | [230924-tactical-vengeance-play-the-game.json](./230924-tactical-vengeance-play-the-game.json) |
 | Tactical Warrior | 208388 | [208388-tactical-warrior.json](./208388-tactical-warrior.json) |
@@ -2073,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasty Shafts | 128402 | [128402-tasty-shafts.json](./128402-tasty-shafts.json) |
 | Tasty Slot Machine | 242552 | [242552-tasty-slot-machine.json](./242552-tasty-slot-machine.json) |
 | Tasty Static | 216166 | [216166-tasty-static.json](./216166-tasty-static.json) |
+| Tasty Tadpoles | 175100 | [175100-tasty-tadpoles.json](./175100-tasty-tadpoles.json) |
 | Tasty Town | 114793 | [114793-tasty-town.json](./114793-tasty-town.json) |
 | Tasty Words - Free Word Games | 105973 | [105973-tasty-words-free-word-games.json](./105973-tasty-words-free-word-games.json) |
 | TastyPlanet Back for SecondsHD | 88644 | [88644-tastyplanet-back-for-secondshd.json](./88644-tastyplanet-back-for-secondshd.json) |
@@ -8420,6 +8422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster: Shiny Festa - Melodic Disc | 60081 | [60081-the-idolmaster-shiny-festa-melodic-disc.json](./60081-the-idolmaster-shiny-festa-melodic-disc.json) |
 | The Idolmaster: Shiny TV | 62077 | [62077-the-idolmaster-shiny-tv.json](./62077-the-idolmaster-shiny-tv.json) |
 | The Idolmaster: SideM | 56386 | [56386-the-idolmaster-sidem.json](./56386-the-idolmaster-sidem.json) |
+| The Idolmaster: SideM - Growing Stars | 175617 | [175617-the-idolmaster-sidem-growing-stars.json](./175617-the-idolmaster-sidem-growing-stars.json) |
 | The Idolmaster: SideM - Live on Stage! | 54983 | [54983-the-idolmaster-sidem-live-on-stage.json](./54983-the-idolmaster-sidem-live-on-stage.json) |
 | The Idolmaster: Stella Stage | 68288 | [68288-the-idolmaster-stella-stage.json](./68288-the-idolmaster-stella-stage.json) |
 | The Ignition Factor | 42607 | [42607-the-ignition-factor.json](./42607-the-ignition-factor.json) |
@@ -10815,6 +10818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mysterious Case of Dr. Jekyll & Mr. Hyde | 197946 | [197946-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json](./197946-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json) |
 | The Mysterious Case of Dr. Jekyll & Mr. Hyde | 82157 | [82157-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json](./82157-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json) |
 | The Mysterious Case of Dr.Jekyll and Mr.Hyde | 147945 | [147945-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json](./147945-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json) |
+| The Mysterious Cities of Gold: Secret Paths - Director's Cut | 175577 | [175577-the-mysterious-cities-of-gold-secret-paths-directors-cut.json](./175577-the-mysterious-cities-of-gold-secret-paths-directors-cut.json) |
 | The Mysterious Mine Bouncin' Back Edition | 222344 | [222344-the-mysterious-mine-bouncin-back-edition.json](./222344-the-mysterious-mine-bouncin-back-edition.json) |
 | The Mysterious Misadventures of Mollie & Mordecai | 191120 | [191120-the-mysterious-misadventures-of-mollie-and-mordecai.json](./191120-the-mysterious-misadventures-of-mollie-and-mordecai.json) |
 | The Mystery at Greveholm | 84217 | [84217-the-mystery-at-greveholm.json](./84217-the-mystery-at-greveholm.json) |
@@ -10864,6 +10868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -14869,6 +14874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Zombie Wave | 294259 | [294259-the-zombie-wave.json](./294259-the-zombie-wave.json) |
 | The Zombie Wave: DLC | 298705 | [298705-the-zombie-wave-dlc.json](./298705-the-zombie-wave-dlc.json) |
 | The Zombie's Horror | 156085 | [156085-the-zombies-horror.json](./156085-the-zombies-horror.json) |
+| The Zombies Rave | 175103 | [175103-the-zombies-rave.json](./175103-the-zombies-rave.json) |
 | The Zombiest Adventures in the Perverted Age of Enlightenment With a Pinch of Woodpunk | 28909 | [28909-the-zombiest-adventures-in-the-perverted-age-of-enlightenment-with-a-pinch-of-woodpunk.json](./28909-the-zombiest-adventures-in-the-perverted-age-of-enlightenment-with-a-pinch-of-woodpunk.json) |
 | The Zombland: Enter at Your Peril | 291244 | [291244-the-zombland-enter-at-your-peril.json](./291244-the-zombland-enter-at-your-peril.json) |
 | The Zone | 163855 | [163855-the-zone.json](./163855-the-zone.json) |
@@ -20209,6 +20215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touchgrind BMX | 86849 | [86849-touchgrind-bmx.json](./86849-touchgrind-bmx.json) |
 | Touchgrind BMX | 88294 | [88294-touchgrind-bmx.json](./88294-touchgrind-bmx.json) |
 | Touching Grass Simulator | 348985 | [348985-touching-grass-simulator.json](./348985-touching-grass-simulator.json) |
+| Touching Lights | 175608 | [175608-touching-lights.json](./175608-touching-lights.json) |
 | TouchMaster DS | 21442 | [21442-touchmaster-ds.json](./21442-touchmaster-ds.json) |
 | TouchNothing | 305643 | [305643-touchnothing.json](./305643-touchnothing.json) |
 | TouchSports Tennis 2012 HD | 233744 | [233744-touchsports-tennis-2012-hd.json](./233744-touchsports-tennis-2012-hd.json) |
@@ -20710,6 +20717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Fear | 73743 | [73743-tower-of-fear.json](./73743-tower-of-fear.json) |
 | Tower of Fortune | 130751 | [130751-tower-of-fortune.json](./130751-tower-of-fortune.json) |
 | Tower of Fortune 3 | 197738 | [197738-tower-of-fortune-3.json](./197738-tower-of-fortune-3.json) |
+| Tower of Fortune 4 | 175610 | [175610-tower-of-fortune-4.json](./175610-tower-of-fortune-4.json) |
 | Tower of God M: The Great Journey | 188404 | [188404-tower-of-god-m-the-great-journey.json](./188404-tower-of-god-m-the-great-journey.json) |
 | Tower of God: Great Journey | 231889 | [231889-tower-of-god-great-journey.json](./231889-tower-of-god-great-journey.json) |
 | Tower of Greed | 216326 | [216326-tower-of-greed.json](./216326-tower-of-greed.json) |
@@ -21251,6 +21259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trade Sails | 200718 | [200718-trade-sails.json](./200718-trade-sails.json) |
 | Trade the Crash | 416028 | [416028-trade-the-crash.json](./416028-trade-the-crash.json) |
 | Trader 2 | 94318 | [94318-trader-2.json](./94318-trader-2.json) |
+| Trader HD | 175085 | [175085-trader-hd.json](./175085-trader-hd.json) |
 | Trader Life Simulator | 143666 | [143666-trader-life-simulator.json](./143666-trader-life-simulator.json) |
 | Trader of Stories - Chapter 1 | 95968 | [95968-trader-of-stories-chapter-1.json](./95968-trader-of-stories-chapter-1.json) |
 | Trader of the Night | 219258 | [219258-trader-of-the-night.json](./219258-trader-of-the-night.json) |
@@ -21402,6 +21411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Crisis | 83943 | [83943-train-crisis.json](./83943-train-crisis.json) |
 | Train Defense | 105139 | [105139-train-defense.json](./105139-train-defense.json) |
 | Train Depart | 285858 | [285858-train-depart.json](./285858-train-depart.json) |
+| Train Drive Ats 2 | 175113 | [175113-train-drive-ats-2.json](./175113-train-drive-ats-2.json) |
 | Train Drive ATS 3 Kintetsu Nara Line | 109505 | [109505-train-drive-ats-3-kintetsu-nara-line.json](./109505-train-drive-ats-3-kintetsu-nara-line.json) |
 | Train Driver 2 | 176687 | [176687-train-driver-2.json](./176687-train-driver-2.json) |
 | Train Driver Journey 2 - Iberia Interior | 88222 | [88222-train-driver-journey-2-iberia-interior.json](./88222-train-driver-journey-2-iberia-interior.json) |
@@ -23240,6 +23250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Trap | 70936 | [70936-treasure-trap.json](./70936-treasure-trap.json) |
 | Treasure Trove Through Time | 176282 | [176282-treasure-trove-through-time.json](./176282-treasure-trove-through-time.json) |
 | Treasure World | 21125 | [21125-treasure-world.json](./21125-treasure-world.json) |
+| TreasureHunter by R.Garfield | 175579 | [175579-treasurehunter-by-r-garfield.json](./175579-treasurehunter-by-r-garfield.json) |
 | Treasurenauts | 27447 | [27447-treasurenauts.json](./27447-treasurenauts.json) |
 | Treasures Boom | 256158 | [256158-treasures-boom.json](./256158-treasures-boom.json) |
 | Treasures of Montezuma Blitz | 65272 | [65272-treasures-of-montezuma-blitz.json](./65272-treasures-of-montezuma-blitz.json) |
