@@ -5290,6 +5290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodfolks | 61704 | [61704-goodfolks.json](./61704-goodfolks.json) |
 | Goodgame Empire | 70902 | [70902-goodgame-empire.json](./70902-goodgame-empire.json) |
 | GoodGod | 355080 | [355080-goodgod.json](./355080-goodgod.json) |
+| Goodlands | 192594 | [192594-goodlands.json](./192594-goodlands.json) |
 | Goodness Gracious | 98230 | [98230-goodness-gracious.json](./98230-goodness-gracious.json) |
 | Goodness Rakes | 231607 | [231607-goodness-rakes.json](./231607-goodness-rakes.json) |
 | Goodnight | 184981 | [184981-goodnight.json](./184981-goodnight.json) |
@@ -7212,6 +7213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grocery Shop Simulator | 322408 | [322408-grocery-shop-simulator.json](./322408-grocery-shop-simulator.json) |
 | Grocery Simulator | 306657 | [306657-grocery-simulator.json](./306657-grocery-simulator.json) |
 | Grocery Store Simulator | 326420 | [326420-grocery-store-simulator.json](./326420-grocery-store-simulator.json) |
+| Grocket | 192741 | [192741-grocket.json](./192741-grocket.json) |
 | Groda | 338537 | [338537-groda.json](./338537-groda.json) |
 | Grog | 276924 | [276924-grog.json](./276924-grog.json) |
 | Grog 'n Glory | 291739 | [291739-grog-n-glory.json](./291739-grog-n-glory.json) |
