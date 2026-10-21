@@ -728,7 +728,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -8021,6 +8020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Dungeon | 151305 | [151305-block-dungeon.json](./151305-block-dungeon.json) |
 | Block Factory | 79670 | [79670-block-factory.json](./79670-block-factory.json) |
 | Block Fall Simulator 2019 | 123887 | [123887-block-fall-simulator-2019.json](./123887-block-fall-simulator-2019.json) |
+| Block Farm Club | 176713 | [176713-block-farm-club.json](./176713-block-farm-club.json) |
 | Block Fight | 201553 | [201553-block-fight.json](./201553-block-fight.json) |
 | Block Five | 71613 | [71613-block-five.json](./71613-block-five.json) |
 | Block Flying | 247077 | [247077-block-flying.json](./247077-block-flying.json) |
@@ -12920,6 +12920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugsnax: The Isle of Bigsnax | 178326 | [178326-bugsnax-the-isle-of-bigsnax.json](./178326-bugsnax-the-isle-of-bigsnax.json) |
 | Bugspeed Collider | 34127 | [34127-bugspeed-collider.json](./34127-bugspeed-collider.json) |
 | BugSquash | 346562 | [346562-bugsquash.json](./346562-bugsquash.json) |
+| Bugsted: Back to the Moon | 176698 | [176698-bugsted-back-to-the-moon.json](./176698-bugsted-back-to-the-moon.json) |
 | Bugtris | 130674 | [130674-bugtris.json](./130674-bugtris.json) |
 | BugWorld | 254003 | [254003-bugworld.json](./254003-bugworld.json) |
 | Bugworld: Online | 139148 | [139148-bugworld-online.json](./139148-bugworld-online.json) |
