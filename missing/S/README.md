@@ -7136,6 +7136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short Circuit | 29036 | [29036-short-circuit.json](./29036-short-circuit.json) |
 | Short Circuit VR | 111616 | [111616-short-circuit-vr.json](./111616-short-circuit-vr.json) |
 | Short Fuse | 296804 | [296804-short-fuse.json](./296804-short-fuse.json) |
+| Short Hop Laser | 172976 | [172976-short-hop-laser.json](./172976-short-hop-laser.json) |
 | Short Life | 108798 | [108798-short-life.json](./108798-short-life.json) |
 | Short Maps for Short People | 281356 | [281356-short-maps-for-short-people.json](./281356-short-maps-for-short-people.json) |
 | Short Maps for Short People 2 | 281357 | [281357-short-maps-for-short-people-2.json](./281357-short-maps-for-short-people-2.json) |
@@ -12741,6 +12742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solo Noble | 175374 | [175374-solo-noble.json](./175374-solo-noble.json) |
 | Solo Raid: Mage | 394614 | [394614-solo-raid-mage.json](./394614-solo-raid-mage.json) |
 | Solo Records | 177936 | [177936-solo-records.json](./177936-solo-records.json) |
+| Solo Royale | 172950 | [172950-solo-royale.json](./172950-solo-royale.json) |
 | Solo Tactics | 374790 | [374790-solo-tactics.json](./374790-solo-tactics.json) |
 | Solo_Poker | 118936 | [118936-solo-poker.json](./118936-solo-poker.json) |
 | Solomania | 329378 | [329378-solomania.json](./329378-solomania.json) |
@@ -16411,6 +16413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spice World | 44907 | [44907-spice-world.json](./44907-spice-world.json) |
 | SpiceX | 362994 | [362994-spicex.json](./362994-spicex.json) |
 | Spicy Fruit | 293678 | [293678-spicy-fruit.json](./293678-spicy-fruit.json) |
+| Spidded | 172951 | [172951-spidded.json](./172951-spidded.json) |
 | Spider | 230674 | [230674-spider.json](./230674-spider.json) |
 | Spider | 320132 | [320132-spider.json](./320132-spider.json) |
 | Spider | 379979 | [379979-spider.json](./379979-spider.json) |
@@ -16688,6 +16691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinheads | 112844 | [112844-spinheads.json](./112844-spinheads.json) |
 | Spinmaster | 15469 | [15469-spinmaster.json](./15469-spinmaster.json) |
 | Spinner Galactic | 56375 | [56375-spinner-galactic.json](./56375-spinner-galactic.json) |
+| Spinner Invaders | 172967 | [172967-spinner-invaders.json](./172967-spinner-invaders.json) |
 | Spinner Invaders 2: A Mad Revenge | 220669 | [220669-spinner-invaders-2-a-mad-revenge.json](./220669-spinner-invaders-2-a-mad-revenge.json) |
 | Spinnin' Flare | 72338 | [72338-spinnin-flare.json](./72338-spinnin-flare.json) |
 | Spinning Around | 75790 | [75790-spinning-around.json](./75790-spinning-around.json) |
@@ -17772,6 +17776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squared Adventure | 311262 | [311262-squared-adventure.json](./311262-squared-adventure.json) |
 | Squared Notebook Fight | 377413 | [377413-squared-notebook-fight.json](./377413-squared-notebook-fight.json) |
 | Squared Straight | 374819 | [374819-squared-straight.json](./374819-squared-straight.json) |
+| Squared Up | 172959 | [172959-squared-up.json](./172959-squared-up.json) |
 | Squared: Adjacent Stones | 241996 | [241996-squared-adjacent-stones.json](./241996-squared-adjacent-stones.json) |
 | Squaredance | 58308 | [58308-squaredance.json](./58308-squaredance.json) |
 | Squaredle | 213881 | [213881-squaredle.json](./213881-squaredle.json) |
@@ -19262,6 +19267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarRaver | 237072 | [237072-starraver.json](./237072-starraver.json) |
 | Starry Flowers | 145644 | [145644-starry-flowers.json](./145644-starry-flowers.json) |
 | Starry Makino | 159835 | [159835-starry-makino.json](./159835-starry-makino.json) |
+| Starry Moon Island | 172980 | [172980-starry-moon-island.json](./172980-starry-moon-island.json) |
 | Starry Moon Island 2 | 181057 | [181057-starry-moon-island-2.json](./181057-starry-moon-island-2.json) |
 | Starry Moon Island 2: Break Out MP01 | 190576 | [190576-starry-moon-island-2-break-out-mp01.json](./190576-starry-moon-island-2-break-out-mp01.json) |
 | Starry Moon Island 2: Break Out MP02 | 190575 | [190575-starry-moon-island-2-break-out-mp02.json](./190575-starry-moon-island-2-break-out-mp02.json) |
@@ -20757,6 +20763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stonefly | 144171 | [144171-stonefly.json](./144171-stonefly.json) |
 | Stonegate | 270213 | [270213-stonegate.json](./270213-stonegate.json) |
 | Stoneguard | 285983 | [285983-stoneguard.json](./285983-stoneguard.json) |
+| Stoneheart | 172957 | [172957-stoneheart.json](./172957-stoneheart.json) |
 | Stoneheart Archive | 409697 | [409697-stoneheart-archive.json](./409697-stoneheart-archive.json) |
 | Stonehearth | 5447 | [5447-stonehearth.json](./5447-stonehearth.json) |
 | Stonehenge VR | 33137 | [33137-stonehenge-vr.json](./33137-stonehenge-vr.json) |
