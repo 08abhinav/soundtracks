@@ -1079,6 +1079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Trilogy | 37177 | [37177-samurai-trilogy.json](./37177-samurai-trilogy.json) |
 | Samurai vs Zombies Defense | 63402 | [63402-samurai-vs-zombies-defense.json](./63402-samurai-vs-zombies-defense.json) |
 | Samurai vs. Zombies Defense 2 | 127047 | [127047-samurai-vs-zombies-defense-2.json](./127047-samurai-vs-zombies-defense-2.json) |
+| Samurai war era Hunter | 186503 | [186503-samurai-war-era-hunter.json](./186503-samurai-war-era-hunter.json) |
 | Samurai Warrior | 263464 | [263464-samurai-warrior.json](./263464-samurai-warrior.json) |
 | Samurai Warriors | 6027 | [6027-samurai-warriors.json](./6027-samurai-warriors.json) |
 | Samurai Warriors 2 | 7173 | [7173-samurai-warriors-2.json](./7173-samurai-warriors-2.json) |
@@ -5208,6 +5209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Strikers | 270194 | [270194-shadow-strikers.json](./270194-shadow-strikers.json) |
 | Shadow Survival | 219602 | [219602-shadow-survival.json](./219602-shadow-survival.json) |
 | Shadow Tactics: Aiko's Choice - Deluxe Edition | 331844 | [331844-shadow-tactics-aikos-choice-deluxe-edition.json](./331844-shadow-tactics-aikos-choice-deluxe-edition.json) |
+| Shadow Tactics: Anniversary Bundle | 186540 | [186540-shadow-tactics-anniversary-bundle.json](./186540-shadow-tactics-anniversary-bundle.json) |
 | Shadow Tactics: Blades of the Shogun - Deluxe Edition | 331845 | [331845-shadow-tactics-blades-of-the-shogun-deluxe-edition.json](./331845-shadow-tactics-blades-of-the-shogun-deluxe-edition.json) |
 | Shadow Tactics: Blades of the Shogun - Ultimate Bundle | 331516 | [331516-shadow-tactics-blades-of-the-shogun-ultimate-bundle.json](./331516-shadow-tactics-blades-of-the-shogun-ultimate-bundle.json) |
 | Shadow the Hedgehog | 4105 | [4105-shadow-the-hedgehog.json](./4105-shadow-the-hedgehog.json) |
@@ -8556,6 +8558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulator Simulator | 128586 | [128586-simulator-simulator.json](./128586-simulator-simulator.json) |
 | Simulator Z | 277838 | [277838-simulator-z.json](./277838-simulator-z.json) |
 | Simulator: Parking Lot | 323510 | [323510-simulator-parking-lot.json](./323510-simulator-parking-lot.json) |
+| Simulatte: Coffee Shop Simulator | 186501 | [186501-simulatte-coffee-shop-simulator.json](./186501-simulatte-coffee-shop-simulator.json) |
 | Simulcra | 15367 | [15367-simulcra.json](./15367-simulcra.json) |
 | Simuliator Pryghaniia Po Garazham | 154280 | [154280-simuliator-pryghaniia-po-garazham.json](./154280-simuliator-pryghaniia-po-garazham.json) |
 | Simuliator Sidieniia Na Kryshie | 163858 | [163858-simuliator-sidieniia-na-kryshie.json](./163858-simuliator-sidieniia-na-kryshie.json) |
