@@ -988,6 +988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handball Action Total | 76617 | [76617-handball-action-total.json](./76617-handball-action-total.json) |
 | Handball Manager 07/08 | 152027 | [152027-handball-manager-07-08.json](./152027-handball-manager-07-08.json) |
 | Handball Manager 2022 | 193497 | [193497-handball-manager-2022.json](./193497-handball-manager-2022.json) |
+| Handball Pelota | 193773 | [193773-handball-pelota.json](./193773-handball-pelota.json) |
 | Handdogg | 185154 | [185154-handdogg.json](./185154-handdogg.json) |
 | Handgun Football | 391243 | [391243-handgun-football.json](./391243-handgun-football.json) |
 | Handheld Pinball - Robot, Pirate, & Holiday Themes | 108452 | [108452-handheld-pinball-robot-pirate-and-holiday-themes.json](./108452-handheld-pinball-robot-pirate-and-holiday-themes.json) |
@@ -5573,6 +5574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Tails | 390571 | [390571-hidden-tails.json](./390571-hidden-tails.json) |
 | Hidden Tales | 233482 | [233482-hidden-tales.json](./233482-hidden-tales.json) |
 | Hidden Target | 54090 | [54090-hidden-target.json](./54090-hidden-target.json) |
+| Hidden Tavern Top-Down 3D | 193656 | [193656-hidden-tavern-top-down-3d.json](./193656-hidden-tavern-top-down-3d.json) |
 | Hidden Temple Adventure | 248650 | [248650-hidden-temple-adventure.json](./248650-hidden-temple-adventure.json) |
 | Hidden Things Beach Elves | 397210 | [397210-hidden-things-beach-elves.json](./397210-hidden-things-beach-elves.json) |
 | Hidden Things Forest Elves | 348816 | [348816-hidden-things-forest-elves.json](./348816-hidden-things-forest-elves.json) |
