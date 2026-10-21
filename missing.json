@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T00:48:41.186Z",
-  "total_missing": 239856,
+  "generated_at": "2026-10-21T01:03:25.150Z",
+  "total_missing": 239906,
   "games": [
     {
       "igdb_id": 191680,
@@ -23682,6 +23682,11 @@
       "file": "missing/A/159110-action-pack-i-prince-of-persia-revelations-and-prince-of-persia-rival-swords.json"
     },
     {
+      "igdb_id": 202058,
+      "game_name": "Action Pack: Armed Forces Corp. and Terrorist Takedown 2",
+      "file": "missing/A/202058-action-pack-armed-forces-corp-and-terrorist-takedown-2.json"
+    },
+    {
       "igdb_id": 128587,
       "game_name": "Action Painting Pro",
       "file": "missing/A/128587-action-painting-pro.json"
@@ -32270,6 +32275,11 @@
       "igdb_id": 231844,
       "game_name": "Air Attack VR",
       "file": "missing/A/231844-air-attack-vr.json"
+    },
+    {
+      "igdb_id": 201996,
+      "game_name": "Air Ball",
+      "file": "missing/A/201996-air-ball.json"
     },
     {
       "igdb_id": 146818,
@@ -44747,6 +44757,11 @@
       "file": "missing/A/96855-american-railroads-summit-river-and-pine-valley.json"
     },
     {
+      "igdb_id": 202055,
+      "game_name": "American Rodeo: Bull Rider 2000",
+      "file": "missing/A/202055-american-rodeo-bull-rider-2000.json"
+    },
+    {
       "igdb_id": 94948,
       "game_name": "American Sign Language Tutor",
       "file": "missing/A/94948-american-sign-language-tutor.json"
@@ -46187,6 +46202,11 @@
       "file": "missing/A/250946-an-ankou.json"
     },
     {
+      "igdb_id": 201985,
+      "game_name": "An Anniversary Dinner",
+      "file": "missing/A/201985-an-anniversary-dinner.json"
+    },
+    {
       "igdb_id": 221774,
       "game_name": "An Annventure to End Them All",
       "file": "missing/A/221774-an-annventure-to-end-them-all.json"
@@ -47372,6 +47392,11 @@
       "file": "missing/A/359748-ancient-secret.json"
     },
     {
+      "igdb_id": 202057,
+      "game_name": "Ancient Secrets: Voyage in Time",
+      "file": "missing/A/202057-ancient-secrets-voyage-in-time.json"
+    },
+    {
       "igdb_id": 351121,
       "game_name": "Ancient Shadows: Awakening",
       "file": "missing/A/351121-ancient-shadows-awakening.json"
@@ -47435,6 +47460,11 @@
       "igdb_id": 202099,
       "game_name": "Ancient TriPeaks",
       "file": "missing/A/202099-ancient-tripeaks.json"
+    },
+    {
+      "igdb_id": 202056,
+      "game_name": "Ancient TriPeaks & Ancient Spiders",
+      "file": "missing/A/202056-ancient-tripeaks-and-ancient-spiders.json"
     },
     {
       "igdb_id": 262855,
@@ -48957,6 +48987,11 @@
       "file": "missing/A/87865-angry-birds-champions.json"
     },
     {
+      "igdb_id": 202090,
+      "game_name": "Angry Birds Coca-Cola",
+      "file": "missing/A/202090-angry-birds-coca-cola.json"
+    },
+    {
       "igdb_id": 264224,
       "game_name": "Angry Birds Dice",
       "file": "missing/A/264224-angry-birds-dice.json"
@@ -49050,6 +49085,11 @@
       "igdb_id": 325566,
       "game_name": "Angry Birds Matching",
       "file": "missing/A/325566-angry-birds-matching.json"
+    },
+    {
+      "igdb_id": 202075,
+      "game_name": "Angry Birds McDonald's",
+      "file": "missing/A/202075-angry-birds-mcdonalds.json"
     },
     {
       "igdb_id": 237496,
@@ -61852,6 +61892,11 @@
       "file": "missing/A/63249-archers-bowmans-battle.json"
     },
     {
+      "igdb_id": 201993,
+      "game_name": "Archery",
+      "file": "missing/A/201993-archery.json"
+    },
+    {
       "igdb_id": 247023,
       "game_name": "Archery",
       "file": "missing/A/247023-archery.json"
@@ -66375,6 +66420,11 @@
       "igdb_id": 262463,
       "game_name": "Arrow Flick",
       "file": "missing/A/262463-arrow-flick.json"
+    },
+    {
+      "igdb_id": 201987,
+      "game_name": "Arrow Match",
+      "file": "missing/A/201987-arrow-match.json"
     },
     {
       "igdb_id": 227979,
@@ -105147,6 +105197,11 @@
       "file": "missing/B/121723-bejeweled.json"
     },
     {
+      "igdb_id": 202092,
+      "game_name": "Bejeweled",
+      "file": "missing/B/202092-bejeweled.json"
+    },
+    {
       "igdb_id": 8318,
       "game_name": "Bejeweled",
       "file": "missing/B/8318-bejeweled.json"
@@ -112282,6 +112337,11 @@
       "file": "missing/B/366407-bingo-luau.json"
     },
     {
+      "igdb_id": 201998,
+      "game_name": "Bingo Master",
+      "file": "missing/B/201998-bingo-master.json"
+    },
+    {
       "igdb_id": 206140,
       "game_name": "Bingo Master",
       "file": "missing/B/206140-bingo-master.json"
@@ -113460,6 +113520,11 @@
       "igdb_id": 135897,
       "game_name": "Bird Alone",
       "file": "missing/B/135897-bird-alone.json"
+    },
+    {
+      "igdb_id": 201999,
+      "game_name": "Bird and Beans",
+      "file": "missing/B/201999-bird-and-beans.json"
     },
     {
       "igdb_id": 256149,
@@ -130487,6 +130552,11 @@
       "file": "missing/B/417394-bonfire-stories-manifest-horror-collectors-edition.json"
     },
     {
+      "igdb_id": 201992,
+      "game_name": "Bong",
+      "file": "missing/B/201992-bong.json"
+    },
+    {
       "igdb_id": 111549,
       "game_name": "Bong Bong",
       "file": "missing/B/111549-bong-bong.json"
@@ -131835,6 +131905,11 @@
       "igdb_id": 129034,
       "game_name": "Boot : Game Dev Sim",
       "file": "missing/B/129034-boot-game-dev-sim.json"
+    },
+    {
+      "igdb_id": 202066,
+      "game_name": "Boot & Shoot",
+      "file": "missing/B/202066-boot-and-shoot.json"
     },
     {
       "igdb_id": 223497,
@@ -166692,6 +166767,11 @@
       "file": "missing/C/131313-cat-word-poker.json"
     },
     {
+      "igdb_id": 201988,
+      "game_name": "Cat World",
+      "file": "missing/C/201988-cat-world.json"
+    },
+    {
       "igdb_id": 251948,
       "game_name": "Cat-aclysm",
       "file": "missing/C/251948-cat-aclysm.json"
@@ -194347,6 +194427,11 @@
       "file": "missing/C/219741-coin-flipper.json"
     },
     {
+      "igdb_id": 201989,
+      "game_name": "Coin Germs",
+      "file": "missing/C/201989-coin-germs.json"
+    },
+    {
       "igdb_id": 221374,
       "game_name": "Coin Grid",
       "file": "missing/C/221374-coin-grid.json"
@@ -200605,6 +200690,11 @@
       "igdb_id": 25780,
       "game_name": "Competition Karate",
       "file": "missing/C/25780-competition-karate.json"
+    },
+    {
+      "igdb_id": 202065,
+      "game_name": "Competitions At Rosemond Hill",
+      "file": "missing/C/202065-competitions-at-rosemond-hill.json"
     },
     {
       "igdb_id": 262583,
@@ -239012,6 +239102,11 @@
       "file": "missing/D/46247-dashin-desperadoes.json"
     },
     {
+      "igdb_id": 201997,
+      "game_name": "Dashing Adventurer",
+      "file": "missing/D/201997-dashing-adventurer.json"
+    },
+    {
       "igdb_id": 332276,
       "game_name": "Dashing Dasher",
       "file": "missing/D/332276-dashing-dasher.json"
@@ -258412,6 +258507,11 @@
       "file": "missing/D/73358-detana-twinbee-yahho-deluxe-pack.json"
     },
     {
+      "igdb_id": 202072,
+      "game_name": "Detana!! TwinBee",
+      "file": "missing/D/202072-detana-twinbee.json"
+    },
+    {
       "igdb_id": 202103,
       "game_name": "Detana!! TwinBee",
       "file": "missing/D/202103-detana-twinbee.json"
@@ -258930,6 +259030,11 @@
       "igdb_id": 118885,
       "game_name": "Detective Stories Bundle",
       "file": "missing/D/118885-detective-stories-bundle.json"
+    },
+    {
+      "igdb_id": 202069,
+      "game_name": "Detective Stories: Hollywood",
+      "file": "missing/D/202069-detective-stories-hollywood.json"
     },
     {
       "igdb_id": 148553,
@@ -263477,6 +263582,11 @@
       "file": "missing/D/345964-digi-doll.json"
     },
     {
+      "igdb_id": 202074,
+      "game_name": "Digi-tiles",
+      "file": "missing/D/202074-digi-tiles.json"
+    },
+    {
       "igdb_id": 402281,
       "game_name": "Digiclimb",
       "file": "missing/D/402281-digiclimb.json"
@@ -267532,6 +267642,11 @@
       "file": "missing/D/399706-discovery-islands.json"
     },
     {
+      "igdb_id": 202079,
+      "game_name": "Discovery Kids Snake Safari",
+      "file": "missing/D/202079-discovery-kids-snake-safari.json"
+    },
+    {
       "igdb_id": 72755,
       "game_name": "Discovery Kids: Dolphin Discovery",
       "file": "missing/D/72755-discovery-kids-dolphin-discovery.json"
@@ -268817,6 +268932,11 @@
       "file": "missing/D/21086-disneys-a-christmas-carol.json"
     },
     {
+      "igdb_id": 202089,
+      "game_name": "Disney's Active Play: The Lion King II - Simba's Pride",
+      "file": "missing/D/202089-disneys-active-play-the-lion-king-ii-simbas-pride.json"
+    },
+    {
       "igdb_id": 209035,
       "game_name": "Disney's Activity Center: Winnie the Pooh",
       "file": "missing/D/209035-disneys-activity-center-winnie-the-pooh.json"
@@ -269440,6 +269560,11 @@
       "igdb_id": 209033,
       "game_name": "Disney's You Can Fly! with Tinker Bell",
       "file": "missing/D/209033-disneys-you-can-fly-with-tinker-bell.json"
+    },
+    {
+      "igdb_id": 202076,
+      "game_name": "Disney/Pixar Learning: 2nd & 3rd Grade",
+      "file": "missing/D/202076-disney-pixar-learning-2nd-and-3rd-grade.json"
     },
     {
       "igdb_id": 108251,
@@ -283315,6 +283440,21 @@
       "igdb_id": 66111,
       "game_name": "Dracula Hakushaku",
       "file": "missing/D/66111-dracula-hakushaku.json"
+    },
+    {
+      "igdb_id": 202071,
+      "game_name": "Dracula III: The Path of the Dragon - Part 1: The Strange Case of Martha",
+      "file": "missing/D/202071-dracula-iii-the-path-of-the-dragon-part-1-the-strange-case-of-martha.json"
+    },
+    {
+      "igdb_id": 202070,
+      "game_name": "Dracula III: The Path of the Dragon - Part 2: The Myth of the Vampire",
+      "file": "missing/D/202070-dracula-iii-the-path-of-the-dragon-part-2-the-myth-of-the-vampire.json"
+    },
+    {
+      "igdb_id": 202073,
+      "game_name": "Dracula III: The Path of the Dragon - Part 3: The Destruction of the Evil",
+      "file": "missing/D/202073-dracula-iii-the-path-of-the-dragon-part-3-the-destruction-of-the-evil.json"
     },
     {
       "igdb_id": 71727,
@@ -403522,6 +403662,11 @@
       "file": "missing/G/56468-gimme-five.json"
     },
     {
+      "igdb_id": 201984,
+      "game_name": "Gimme Friction Baby",
+      "file": "missing/G/201984-gimme-friction-baby.json"
+    },
+    {
       "igdb_id": 401611,
       "game_name": "Gimme Space Battle",
       "file": "missing/G/401611-gimme-space-battle.json"
@@ -469272,6 +469417,11 @@
       "file": "missing/H/357855-horse-plinko.json"
     },
     {
+      "igdb_id": 202001,
+      "game_name": "Horse Race",
+      "file": "missing/H/202001-horse-race.json"
+    },
+    {
       "igdb_id": 76958,
       "game_name": "Horse Race Starter",
       "file": "missing/H/76958-horse-race-starter.json"
@@ -530420,6 +530570,11 @@
       "igdb_id": 302606,
       "game_name": "Kids Station: Soreike! Anpanman",
       "file": "missing/K/302606-kids-station-soreike-anpanman.json"
+    },
+    {
+      "igdb_id": 202059,
+      "game_name": "Kids Tetris",
+      "file": "missing/K/202059-kids-tetris.json"
     },
     {
       "igdb_id": 100614,
@@ -610332,6 +610487,11 @@
       "file": "missing/M/1306-medal-of-honor-warfighter.json"
     },
     {
+      "igdb_id": 202061,
+      "game_name": "Medal of Honor: Warfighter - Digital Deluxe Edition",
+      "file": "missing/M/202061-medal-of-honor-warfighter-digital-deluxe-edition.json"
+    },
+    {
       "igdb_id": 105803,
       "game_name": "Medal of Valor 4",
       "file": "missing/M/105803-medal-of-valor-4.json"
@@ -627890,6 +628050,11 @@
       "igdb_id": 286616,
       "game_name": "Mike's Lonely Journey",
       "file": "missing/M/286616-mikes-lonely-journey.json"
+    },
+    {
+      "igdb_id": 202087,
+      "game_name": "Mike's Monstrous Adventure",
+      "file": "missing/M/202087-mikes-monstrous-adventure.json"
     },
     {
       "igdb_id": 324110,
@@ -665527,6 +665692,11 @@
       "file": "missing/M/53392-mysterious-city-vegas.json"
     },
     {
+      "igdb_id": 202082,
+      "game_name": "Mysterious City: Golden Prague",
+      "file": "missing/M/202082-mysterious-city-golden-prague.json"
+    },
+    {
       "igdb_id": 228941,
       "game_name": "Mysterious Crimes Bundle",
       "file": "missing/M/228941-mysterious-crimes-bundle.json"
@@ -665755,6 +665925,11 @@
       "igdb_id": 5516,
       "game_name": "Mystery Case Files: Escape from Ravenhearst",
       "file": "missing/M/5516-mystery-case-files-escape-from-ravenhearst.json"
+    },
+    {
+      "igdb_id": 202083,
+      "game_name": "Mystery Case Files: Fates Carnival - Collector's Edition",
+      "file": "missing/M/202083-mystery-case-files-fates-carnival-collectors-edition.json"
     },
     {
       "igdb_id": 409715,
@@ -666077,6 +666252,11 @@
       "file": "missing/M/84148-mystery-masters.json"
     },
     {
+      "igdb_id": 202084,
+      "game_name": "Mystery Masters Maze of Mystery",
+      "file": "missing/M/202084-mystery-masters-maze-of-mystery.json"
+    },
+    {
       "igdb_id": 201820,
       "game_name": "Mystery Masters: Carnival of Crime - Collector's Edition",
       "file": "missing/M/201820-mystery-masters-carnival-of-crime-collectors-edition.json"
@@ -666110,6 +666290,16 @@
       "igdb_id": 200962,
       "game_name": "Mystery Masters: Supernatural Stories",
       "file": "missing/M/200962-mystery-masters-supernatural-stories.json"
+    },
+    {
+      "igdb_id": 202085,
+      "game_name": "Mystery Masters: The Secret of the Pharaoh's Amulet",
+      "file": "missing/M/202085-mystery-masters-the-secret-of-the-pharaohs-amulet.json"
+    },
+    {
+      "igdb_id": 202086,
+      "game_name": "Mystery Masters: The Secret Stories Collection",
+      "file": "missing/M/202086-mystery-masters-the-secret-stories-collection.json"
     },
     {
       "igdb_id": 206747,
@@ -683670,6 +683860,11 @@
       "igdb_id": 308564,
       "game_name": "Nicktoons: Snap Shot",
       "file": "missing/N/308564-nicktoons-snap-shot.json"
+    },
+    {
+      "igdb_id": 202081,
+      "game_name": "Nicktoons: Summer Camp",
+      "file": "missing/N/202081-nicktoons-summer-camp.json"
     },
     {
       "igdb_id": 95614,
@@ -730777,6 +730972,11 @@
       "file": "missing/P/62213-paso-comic-purupuru-paradise-santa-claus-tokushuu.json"
     },
     {
+      "igdb_id": 202088,
+      "game_name": "Paso Pico McDonald's de Asobo!",
+      "file": "missing/P/202088-paso-pico-mcdonalds-de-asobo.json"
+    },
+    {
       "igdb_id": 360680,
       "game_name": "PASS",
       "file": "missing/P/360680-pass.json"
@@ -743820,6 +744020,11 @@
       "igdb_id": 390035,
       "game_name": "Picto-Cross: 1 Nonogram per Day",
       "file": "missing/P/390035-picto-cross-1-nonogram-per-day.json"
+    },
+    {
+      "igdb_id": 201983,
+      "game_name": "Pictode Collection",
+      "file": "missing/P/201983-pictode-collection.json"
     },
     {
       "igdb_id": 157920,
@@ -757870,6 +758075,11 @@
       "igdb_id": 59443,
       "game_name": "PlayTribes",
       "file": "missing/P/59443-playtribes.json"
+    },
+    {
+      "igdb_id": 201991,
+      "game_name": "Playtris",
+      "file": "missing/P/201991-playtris.json"
     },
     {
       "igdb_id": 56155,
@@ -883602,6 +883812,11 @@
       "file": "missing/S/150575-shuutai-headless.json"
     },
     {
+      "igdb_id": 202002,
+      "game_name": "Shuv-It",
+      "file": "missing/S/202002-shuv-it.json"
+    },
+    {
       "igdb_id": 254483,
       "game_name": "Shuwa no Mori",
       "file": "missing/S/254483-shuwa-no-mori.json"
@@ -901232,6 +901447,11 @@
       "file": "missing/S/390127-smol-toad.json"
     },
     {
+      "igdb_id": 201994,
+      "game_name": "Smolitaire",
+      "file": "missing/S/201994-smolitaire.json"
+    },
+    {
       "igdb_id": 127989,
       "game_name": "Smolsies",
       "file": "missing/S/127989-smolsies.json"
@@ -902500,6 +902720,11 @@
       "igdb_id": 195497,
       "game_name": "Snakes",
       "file": "missing/S/195497-snakes.json"
+    },
+    {
+      "igdb_id": 201995,
+      "game_name": "Snakes",
+      "file": "missing/S/201995-snakes.json"
     },
     {
       "igdb_id": 147984,
@@ -1046897,6 +1047122,16 @@
       "file": "missing/T/67879-the-sims-dj.json"
     },
     {
+      "igdb_id": 202064,
+      "game_name": "The Sims Medieval",
+      "file": "missing/T/202064-the-sims-medieval.json"
+    },
+    {
+      "igdb_id": 202062,
+      "game_name": "The Sims Medieval: Deluxe Edition",
+      "file": "missing/T/202062-the-sims-medieval-deluxe-edition.json"
+    },
+    {
       "igdb_id": 28558,
       "game_name": "The Sims Mobile",
       "file": "missing/T/28558-the-sims-mobile.json"
@@ -1125577,6 +1125812,11 @@
       "file": "missing/V/223413-vacoo-the-adventure-in-garbage-city.json"
     },
     {
+      "igdb_id": 202067,
+      "game_name": "Vactics",
+      "file": "missing/V/202067-vactics.json"
+    },
+    {
       "igdb_id": 274673,
       "game_name": "Vacuum",
       "file": "missing/V/274673-vacuum.json"
@@ -1181607,6 +1181847,11 @@
       "file": "missing/Y/321818-yachoukitan.json"
     },
     {
+      "igdb_id": 201986,
+      "game_name": "Yacht",
+      "file": "missing/Y/201986-yacht.json"
+    },
+    {
       "igdb_id": 376676,
       "game_name": "Yacht",
       "file": "missing/Y/376676-yacht.json"
@@ -1185750,6 +1185995,11 @@
       "igdb_id": 361263,
       "game_name": "You Can't Win This Game",
       "file": "missing/Y/361263-you-cant-win-this-game.json"
+    },
+    {
+      "igdb_id": 201990,
+      "game_name": "You Cannot Go Back!",
+      "file": "missing/Y/201990-you-cannot-go-back.json"
     },
     {
       "igdb_id": 123466,
