@@ -1946,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Fighter 2 | 199020 | [199020-virtua-fighter-2.json](./199020-virtua-fighter-2.json) |
 | Virtua Fighter 2 | 225566 | [225566-virtua-fighter-2.json](./225566-virtua-fighter-2.json) |
 | Virtua Fighter 2 vs. Tekken 2 | 143507 | [143507-virtua-fighter-2-vs-tekken-2.json](./143507-virtua-fighter-2-vs-tekken-2.json) |
+| Virtua Fighter 3tb | 203161 | [203161-virtua-fighter-3tb.json](./203161-virtua-fighter-3tb.json) |
 | Virtua Fighter 3tb Online | 279763 | [279763-virtua-fighter-3tb-online.json](./279763-virtua-fighter-3tb-online.json) |
 | Virtua Fighter 4 | 1552 | [1552-virtua-fighter-4.json](./1552-virtua-fighter-4.json) |
 | Virtua Fighter 4: Evolution | 22239 | [22239-virtua-fighter-4-evolution.json](./22239-virtua-fighter-4-evolution.json) |
