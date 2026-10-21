@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailor's Grave | 323572 | [323572-sailors-grave.json](./323572-sailors-grave.json) |
 | Sailor's Grave: the Curse of the Cook | 118279 | [118279-sailors-grave-the-curse-of-the-cook.json](./118279-sailors-grave-the-curse-of-the-cook.json) |
 | Sailor's Stories Solitaire | 196881 | [196881-sailors-stories-solitaire.json](./196881-sailors-stories-solitaire.json) |
+| SailSim | 204266 | [204266-sailsim.json](./204266-sailsim.json) |
 | Sailwind | 180225 | [180225-sailwind.json](./180225-sailwind.json) |
 | Saily Seas | 297507 | [297507-saily-seas.json](./297507-saily-seas.json) |
 | Saimai Rd | 196635 | [196635-saimai-rd.json](./196635-saimai-rd.json) |
@@ -5724,6 +5725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharp Shooter | 213884 | [213884-sharp-shooter.json](./213884-sharp-shooter.json) |
 | Sharp Shooter Bundle: S.N.I.P.E.R Hunter Scope + Knights & Guns | 196824 | [196824-sharp-shooter-bundle-s-n-i-p-e-r-hunter-scope-knights-and-guns.json](./196824-sharp-shooter-bundle-s-n-i-p-e-r-hunter-scope-knights-and-guns.json) |
 | Sharp Shot | 5696 | [5696-sharp-shot.json](./5696-sharp-shot.json) |
+| Sharp Storm | 204195 | [204195-sharp-storm.json](./204195-sharp-storm.json) |
 | Sharp Trigger | 349845 | [349845-sharp-trigger.json](./349845-sharp-trigger.json) |
 | Sharp Trigger 2 | 394145 | [394145-sharp-trigger-2.json](./394145-sharp-trigger-2.json) |
 | Sharp Trouble | 192938 | [192938-sharp-trouble.json](./192938-sharp-trouble.json) |
@@ -18511,6 +18513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Genesis | 400347 | [400347-star-wars-genesis.json](./400347-star-wars-genesis.json) |
 | Star Wars Jedi Cross-Gen Bundle Edition | 312974 | [312974-star-wars-jedi-cross-gen-bundle-edition.json](./312974-star-wars-jedi-cross-gen-bundle-edition.json) |
 | Star Wars Jedi: Survivor - Deluxe Edition | 227942 | [227942-star-wars-jedi-survivor-deluxe-edition.json](./227942-star-wars-jedi-survivor-deluxe-edition.json) |
+| Star Wars Knights of the Old Republic Bundle | 204280 | [204280-star-wars-knights-of-the-old-republic-bundle.json](./204280-star-wars-knights-of-the-old-republic-bundle.json) |
 | Star Wars Math: Jabba's Game Galaxy | 73254 | [73254-star-wars-math-jabbas-game-galaxy.json](./73254-star-wars-math-jabbas-game-galaxy.json) |
 | Star Wars Mod: Galactic Warfare | 299135 | [299135-star-wars-mod-galactic-warfare.json](./299135-star-wars-mod-galactic-warfare.json) |
 | Star Wars Outlaws: A Pirate's Fortune | 315805 | [315805-star-wars-outlaws-a-pirates-fortune.json](./315805-star-wars-outlaws-a-pirates-fortune.json) |
@@ -22944,6 +22947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunsoft Mahjong Solitaire: Shanghai Legend | 276952 | [276952-sunsoft-mahjong-solitaire-shanghai-legend.json](./276952-sunsoft-mahjong-solitaire-shanghai-legend.json) |
 | Sunstone of Time | 421822 | [421822-sunstone-of-time.json](./421822-sunstone-of-time.json) |
 | Sunwards | 138467 | [138467-sunwards.json](./138467-sunwards.json) |
+| Sunwave Hotel | 204192 | [204192-sunwave-hotel.json](./204192-sunwave-hotel.json) |
 | Sunya | 253006 | [253006-sunya.json](./253006-sunya.json) |
 | Sunyata CCG | 403554 | [403554-sunyata-ccg.json](./403554-sunyata-ccg.json) |
 | SUP Multiplayer Racing | 88760 | [88760-sup-multiplayer-racing.json](./88760-sup-multiplayer-racing.json) |
@@ -23661,6 +23665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Imagination | 193143 | [193143-super-jigsaw-puzzle-generations-imagination.json](./193143-super-jigsaw-puzzle-generations-imagination.json) |
 | Super Jigsaw Puzzle: Generations - Italy Puzzles | 155594 | [155594-super-jigsaw-puzzle-generations-italy-puzzles.json](./155594-super-jigsaw-puzzle-generations-italy-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Japan Puzzles | 155641 | [155641-super-jigsaw-puzzle-generations-japan-puzzles.json](./155641-super-jigsaw-puzzle-generations-japan-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Kenya | 204191 | [204191-super-jigsaw-puzzle-generations-kenya.json](./204191-super-jigsaw-puzzle-generations-kenya.json) |
 | Super Jigsaw Puzzle: Generations - Kittens 2 | 195278 | [195278-super-jigsaw-puzzle-generations-kittens-2.json](./195278-super-jigsaw-puzzle-generations-kittens-2.json) |
 | Super Jigsaw Puzzle: Generations - Kittens Puzzles | 155590 | [155590-super-jigsaw-puzzle-generations-kittens-puzzles.json](./155590-super-jigsaw-puzzle-generations-kittens-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Landscapes 3 | 259088 | [259088-super-jigsaw-puzzle-generations-landscapes-3.json](./259088-super-jigsaw-puzzle-generations-landscapes-3.json) |
