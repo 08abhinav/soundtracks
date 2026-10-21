@@ -8675,6 +8675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hrdina | 119543 | [119543-hrdina.json](./119543-hrdina.json) |
 | HRmageddon | 397409 | [397409-hrmageddon.json](./397409-hrmageddon.json) |
 | Hrolfr vs. Evil Skulls | 379721 | [379721-hrolfr-vs-evil-skulls.json](./379721-hrolfr-vs-evil-skulls.json) |
+| Hroogar | 200314 | [200314-hroogar.json](./200314-hroogar.json) |
 | Hrumka | 277825 | [277825-hrumka.json](./277825-hrumka.json) |
 | HS Galaxy | 147450 | [147450-hs-galaxy.json](./147450-hs-galaxy.json) |
 | HSHS | 303574 | [303574-hshs.json](./303574-hshs.json) |
