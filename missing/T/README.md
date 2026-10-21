@@ -336,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taddle Quest | 224608 | [224608-taddle-quest.json](./224608-taddle-quest.json) |
 | Tadeo Jones y el Manuscrito Perdido | 82043 | [82043-tadeo-jones-y-el-manuscrito-perdido.json](./82043-tadeo-jones-y-el-manuscrito-perdido.json) |
 | Tadpole Swimmer | 110822 | [110822-tadpole-swimmer.json](./110822-tadpole-swimmer.json) |
+| Tadpole Tap | 187089 | [187089-tadpole-tap.json](./187089-tadpole-tap.json) |
 | Tadpole Treble Encore | 142698 | [142698-tadpole-treble-encore.json](./142698-tadpole-treble-encore.json) |
 | Tae Bo Girl Dress Up | 62596 | [62596-tae-bo-girl-dress-up.json](./62596-tae-bo-girl-dress-up.json) |
 | Taekwondo | 93478 | [93478-taekwondo.json](./93478-taekwondo.json) |
@@ -21090,6 +21091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Track Attack: Changes Everything | 251202 | [251202-track-attack-changes-everything.json](./251202-track-attack-changes-everything.json) |
 | Track Craft | 318717 | [318717-track-craft.json](./318717-track-craft.json) |
 | Track Masters Pro | 338953 | [338953-track-masters-pro.json](./338953-track-masters-pro.json) |
+| Track Mayhem | 187104 | [187104-track-mayhem.json](./187104-track-mayhem.json) |
 | Track My Train | 356645 | [356645-track-my-train.json](./356645-track-my-train.json) |
 | Track No.9 | 339808 | [339808-track-no-9.json](./339808-track-no-9.json) |
 | Track Racing: The Holy Rosary | 275133 | [275133-track-racing-the-holy-rosary.json](./275133-track-racing-the-holy-rosary.json) |
@@ -22572,6 +22574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traitor | 275639 | [275639-traitor.json](./275639-traitor.json) |
 | Traitor | 372252 | [372252-traitor.json](./372252-traitor.json) |
 | Traitor Nightly | 183454 | [183454-traitor-nightly.json](./183454-traitor-nightly.json) |
+| Traitor: Feducall | 187107 | [187107-traitor-feducall.json](./187107-traitor-feducall.json) |
 | Traitor's Kitchen | 372225 | [372225-traitors-kitchen.json](./372225-traitors-kitchen.json) |
 | Traitorous Trek | 263967 | [263967-traitorous-trek.json](./263967-traitorous-trek.json) |
 | Traitors | 336336 | [336336-traitors.json](./336336-traitors.json) |
