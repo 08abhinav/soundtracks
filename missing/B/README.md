@@ -6728,6 +6728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitzee | 340219 | [340219-bitzee.json](./340219-bitzee.json) |
 | Bitzee Disney | 340222 | [340222-bitzee-disney.json](./340222-bitzee-disney.json) |
 | Bitzee Magicals | 340221 | [340221-bitzee-magicals.json](./340221-bitzee-magicals.json) |
+| Bitzy | 183770 | [183770-bitzy.json](./183770-bitzy.json) |
 | BiuBiu Jungle | 118209 | [118209-biubiu-jungle.json](./118209-biubiu-jungle.json) |
 | Biwar: Legend of Dragon Slayer | 204713 | [204713-biwar-legend-of-dragon-slayer.json](./204713-biwar-legend-of-dragon-slayer.json) |
 | Biz Builder Delux | 147773 | [147773-biz-builder-delux.json](./147773-biz-builder-delux.json) |
@@ -6750,6 +6751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bizzarioware | 185148 | [185148-bizzarioware.json](./185148-bizzarioware.json) |
 | Bizzy Robo | 259030 | [259030-bizzy-robo.json](./259030-bizzy-robo.json) |
 | BJ's Bara Jam Kitchen | 183889 | [183889-bjs-bara-jam-kitchen.json](./183889-bjs-bara-jam-kitchen.json) |
+| Bjorn to Dance | 183763 | [183763-bjorn-to-dance.json](./183763-bjorn-to-dance.json) |
 | Björnes Magasin | 92829 | [92829-bjornes-magasin.json](./92829-bjornes-magasin.json) |
 | BK Concentration | 312953 | [312953-bk-concentration.json](./312953-bk-concentration.json) |
 | BK Simulator | 396121 | [396121-bk-simulator.json](./396121-bk-simulator.json) |
