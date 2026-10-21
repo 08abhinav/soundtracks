@@ -10678,6 +10678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Box Box! | 379055 | [379055-box-box-box.json](./379055-box-box-box.json) |
 | Box Boy! + Box Girl! | 115281 | [115281-box-boy-box-girl.json](./115281-box-boy-box-girl.json) |
 | Box Cats Puzzle | 158928 | [158928-box-cats-puzzle.json](./158928-box-cats-puzzle.json) |
+| Box Cats Puzzle: Cat Year 2022 | 195426 | [195426-box-cats-puzzle-cat-year-2022.json](./195426-box-cats-puzzle-cat-year-2022.json) |
 | Box Chaos | 328553 | [328553-box-chaos.json](./328553-box-chaos.json) |
 | Box Clicker | 303058 | [303058-box-clicker.json](./303058-box-clicker.json) |
 | Box Critters | 146293 | [146293-box-critters.json](./146293-box-critters.json) |
