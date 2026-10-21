@@ -2568,6 +2568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Cells: Return to Castlevania | 228520 | [228520-dead-cells-return-to-castlevania.json](./228520-dead-cells-return-to-castlevania.json) |
 | Dead Cells: Return to Castlevania - Signature Edition | 387498 | [387498-dead-cells-return-to-castlevania-signature-edition.json](./387498-dead-cells-return-to-castlevania-signature-edition.json) |
 | Dead Cells: Return to Castlevania Edition | 270582 | [270582-dead-cells-return-to-castlevania-edition.json](./270582-dead-cells-return-to-castlevania-edition.json) |
+| Dead Cells: Road to the Sea | 186533 | [186533-dead-cells-road-to-the-sea.json](./186533-dead-cells-road-to-the-sea.json) |
 | Dead Cells: The Bad Seed | 127256 | [127256-dead-cells-the-bad-seed.json](./127256-dead-cells-the-bad-seed.json) |
 | Dead Cells: The End Is Near | 314131 | [314131-dead-cells-the-end-is-near.json](./314131-dead-cells-the-end-is-near.json) |
 | Dead Cells: The Fatal Seed Bundle | 154957 | [154957-dead-cells-the-fatal-seed-bundle.json](./154957-dead-cells-the-fatal-seed-bundle.json) |
@@ -6198,6 +6199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dezaemon DD | 182337 | [182337-dezaemon-dd.json](./182337-dezaemon-dd.json) |
 | Dezaemon Kids! | 98463 | [98463-dezaemon-kids.json](./98463-dezaemon-kids.json) |
 | Dezaemon Plus | 65770 | [65770-dezaemon-plus.json](./65770-dezaemon-plus.json) |
+| Dezlooca Anthology | 186498 | [186498-dezlooca-anthology.json](./186498-dezlooca-anthology.json) |
 | Dezzan | 117118 | [117118-dezzan.json](./117118-dezzan.json) |
 | DFClicker | 396731 | [396731-dfclicker.json](./396731-dfclicker.json) |
 | Dfiance | 323371 | [323371-dfiance.json](./323371-dfiance.json) |
@@ -11698,6 +11700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw and Go! | 276129 | [276129-draw-and-go.json](./276129-draw-and-go.json) |
 | Draw and Lie | 147973 | [147973-draw-and-lie.json](./147973-draw-and-lie.json) |
 | Draw Around | 142402 | [142402-draw-around.json](./142402-draw-around.json) |
+| Draw Battle! | 186526 | [186526-draw-battle.json](./186526-draw-battle.json) |
 | Draw Breaker | 341058 | [341058-draw-breaker.json](./341058-draw-breaker.json) |
 | Draw Chilly | 104808 | [104808-draw-chilly.json](./104808-draw-chilly.json) |
 | Draw From Earth | 163914 | [163914-draw-from-earth.json](./163914-draw-from-earth.json) |
