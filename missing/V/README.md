@@ -1113,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venus Voyager 2 | 292882 | [292882-venus-voyager-2.json](./292882-venus-voyager-2.json) |
 | Venus: Improbable Dream | 145404 | [145404-venus-improbable-dream.json](./145404-venus-improbable-dream.json) |
 | Venus: The Last Ascent | 407293 | [407293-venus-the-last-ascent.json](./407293-venus-the-last-ascent.json) |
+| VenusBlood Hollow International | 186513 | [186513-venusblood-hollow-international.json](./186513-venusblood-hollow-international.json) |
 | VenusBlood Ragnarok International | 348435 | [348435-venusblood-ragnarok-international.json](./348435-venusblood-ragnarok-international.json) |
 | Venusian Vengeance | 35704 | [35704-venusian-vengeance.json](./35704-venusian-vengeance.json) |
 | Venusville | 312829 | [312829-venusville.json](./312829-venusville.json) |
