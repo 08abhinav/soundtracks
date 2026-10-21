@@ -1566,6 +1566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parallax | 384255 | [384255-parallax.json](./384255-parallax.json) |
 | Parallax Tunnel | 149540 | [149540-parallax-tunnel.json](./149540-parallax-tunnel.json) |
 | Parallel | 103267 | [103267-parallel.json](./103267-parallel.json) |
+| Parallel | 185341 | [185341-parallel.json](./185341-parallel.json) |
 | Parallel | 259643 | [259643-parallel.json](./259643-parallel.json) |
 | Parallel | 280166 | [280166-parallel.json](./280166-parallel.json) |
 | Parallel | 342083 | [342083-parallel.json](./342083-parallel.json) |
@@ -2265,6 +2266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Survival | 412274 | [412274-path-of-survival.json](./412274-path-of-survival.json) |
 | Path of Tengri | 202716 | [202716-path-of-tengri.json](./202716-path-of-tengri.json) |
 | Path of the Bogatyr | 356569 | [356569-path-of-the-bogatyr.json](./356569-path-of-the-bogatyr.json) |
+| Path of the Dead | 185335 | [185335-path-of-the-dead.json](./185335-path-of-the-dead.json) |
 | Path of the Heart | 364885 | [364885-path-of-the-heart.json](./364885-path-of-the-heart.json) |
 | Path of the Martyrs | 138561 | [138561-path-of-the-martyrs.json](./138561-path-of-the-martyrs.json) |
 | Path of the Midnight Sun | 126443 | [126443-path-of-the-midnight-sun.json](./126443-path-of-the-midnight-sun.json) |
