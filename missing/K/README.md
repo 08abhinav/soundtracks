@@ -929,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katharsis Project | 117624 | [117624-katharsis-project.json](./117624-katharsis-project.json) |
 | Katharsis: The second act | 82366 | [82366-katharsis-the-second-act.json](./82366-katharsis-the-second-act.json) |
 | Kathy Rain 2: Soothsayer | 322691 | [322691-kathy-rain-2-soothsayer.json](./322691-kathy-rain-2-soothsayer.json) |
+| Kathy Rain: Director's Cut - Deluxe Edition | 186517 | [186517-kathy-rain-directors-cut-deluxe-edition.json](./186517-kathy-rain-directors-cut-deluxe-edition.json) |
 | Kati the Astronaut | 212642 | [212642-kati-the-astronaut.json](./212642-kati-the-astronaut.json) |
 | Katie | 99612 | [99612-katie.json](./99612-katie.json) |
 | Katin Svět | 223679 | [223679-katin-svet.json](./223679-katin-svet.json) |
@@ -2636,6 +2637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Two Crowns: Essentials Pack | 324494 | [324494-kingdom-two-crowns-essentials-pack.json](./324494-kingdom-two-crowns-essentials-pack.json) |
 | Kingdom Two Crowns: Jarl Edition | 186896 | [186896-kingdom-two-crowns-jarl-edition.json](./186896-kingdom-two-crowns-jarl-edition.json) |
 | Kingdom Two Crowns: Norse Lands | 175663 | [175663-kingdom-two-crowns-norse-lands.json](./175663-kingdom-two-crowns-norse-lands.json) |
+| Kingdom Two Crowns: Norse Lands Edition | 186529 | [186529-kingdom-two-crowns-norse-lands-edition.json](./186529-kingdom-two-crowns-norse-lands-edition.json) |
 | Kingdom Under Fire II | 6414 | [6414-kingdom-under-fire-ii.json](./6414-kingdom-under-fire-ii.json) |
 | Kingdom Under Fire: A War of Heroes | 18112 | [18112-kingdom-under-fire-a-war-of-heroes.json](./18112-kingdom-under-fire-a-war-of-heroes.json) |
 | Kingdom Under Fire: Circle of Doom | 18108 | [18108-kingdom-under-fire-circle-of-doom.json](./18108-kingdom-under-fire-circle-of-doom.json) |
