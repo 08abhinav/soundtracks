@@ -2666,6 +2666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teeworlds | 35005 | [35005-teeworlds.json](./35005-teeworlds.json) |
 | Tegami Bachi: Kokoro Tsumugu-mono he | 269514 | [269514-tegami-bachi-kokoro-tsumugu-mono-he.json](./269514-tegami-bachi-kokoro-tsumugu-mono-he.json) |
 | Tegra: Post Apocalypse Survival | 231886 | [231886-tegra-post-apocalypse-survival.json](./231886-tegra-post-apocalypse-survival.json) |
+| Tegridy Puzzles | 195417 | [195417-tegridy-puzzles.json](./195417-tegridy-puzzles.json) |
 | Tegzer | 288691 | [288691-tegzer.json](./288691-tegzer.json) |
 | Teh Scrunglybois: Working Title | 382920 | [382920-teh-scrunglybois-working-title.json](./382920-teh-scrunglybois-working-title.json) |
 | Tehawar Puzzle! | 310284 | [310284-tehawar-puzzle.json](./310284-tehawar-puzzle.json) |
@@ -9069,6 +9070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Days of the Third Age | 356169 | [356169-the-last-days-of-the-third-age.json](./356169-the-last-days-of-the-third-age.json) |
 | The Last DeadEnd | 100575 | [100575-the-last-deadend.json](./100575-the-last-deadend.json) |
 | The Last Deathbound | 127014 | [127014-the-last-deathbound.json](./127014-the-last-deathbound.json) |
+| The Last Defense | 195393 | [195393-the-last-defense.json](./195393-the-last-defense.json) |
 | The Last Defense TD | 194971 | [194971-the-last-defense-td.json](./194971-the-last-defense-td.json) |
 | The Last Defense! | 154264 | [154264-the-last-defense.json](./154264-the-last-defense.json) |
 | The Last Delivery Man on Earth | 374593 | [374593-the-last-delivery-man-on-earth.json](./374593-the-last-delivery-man-on-earth.json) |
@@ -13949,6 +13951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimate Might and Magic Archives | 206778 | [206778-the-ultimate-might-and-magic-archives.json](./206778-the-ultimate-might-and-magic-archives.json) |
 | The Ultimate Red Ball Challenge | 67210 | [67210-the-ultimate-red-ball-challenge.json](./67210-the-ultimate-red-ball-challenge.json) |
 | The ultimate secret of the universe: Soul | 169922 | [169922-the-ultimate-secret-of-the-universe-soul.json](./169922-the-ultimate-secret-of-the-universe-soul.json) |
+| The Ultimate Shot | 195535 | [195535-the-ultimate-shot.json](./195535-the-ultimate-shot.json) |
 | The Ultimate Showdown | 34428 | [34428-the-ultimate-showdown.json](./34428-the-ultimate-showdown.json) |
 | The Ultimate Simpsons Doom | 196021 | [196021-the-ultimate-simpsons-doom.json](./196021-the-ultimate-simpsons-doom.json) |
 | The Ultimate Sports Quiz | 241454 | [241454-the-ultimate-sports-quiz.json](./241454-the-ultimate-sports-quiz.json) |
