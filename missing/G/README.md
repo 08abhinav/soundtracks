@@ -1835,6 +1835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear Works | 48999 | [48999-gear-works.json](./48999-gear-works.json) |
 | Gear: Full Circle | 57010 | [57010-gear-full-circle.json](./57010-gear-full-circle.json) |
 | Gear.Club | 55983 | [55983-gear-club.json](./55983-gear-club.json) |
+| Gear.Club Stradale | 194331 | [194331-gear-club-stradale.json](./194331-gear-club-stradale.json) |
 | Gear.Club Unlimited 1 & 2 | 409521 | [409521-gear-club-unlimited-1-and-2.json](./409521-gear-club-unlimited-1-and-2.json) |
 | Gear.Club Unlimited 2: Definitive Edition | 172590 | [172590-gear-club-unlimited-2-definitive-edition.json](./172590-gear-club-unlimited-2-definitive-edition.json) |
 | Gear.Club Unlimited 2: Tracks Edition | 139963 | [139963-gear-club-unlimited-2-tracks-edition.json](./139963-gear-club-unlimited-2-tracks-edition.json) |
@@ -5237,6 +5238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Morgan Eve | 332443 | [332443-good-morgan-eve.json](./332443-good-morgan-eve.json) |
 | Good Morning | 381133 | [381133-good-morning.json](./381133-good-morning.json) |
 | Good Morning Cruel City | 278518 | [278518-good-morning-cruel-city.json](./278518-good-morning-cruel-city.json) |
+| Good Morning Hon | 194328 | [194328-good-morning-hon.json](./194328-good-morning-hon.json) |
 | Good Morning Is A Social Construct | 231393 | [231393-good-morning-is-a-social-construct.json](./231393-good-morning-is-a-social-construct.json) |
 | Good Morning Is Good Night | 342027 | [342027-good-morning-is-good-night.json](./342027-good-morning-is-good-night.json) |
 | Good Morning My Darling | 377936 | [377936-good-morning-my-darling.json](./377936-good-morning-my-darling.json) |
