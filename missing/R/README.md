@@ -1784,6 +1784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ray & Stoic Gronk | 211985 | [211985-ray-and-stoic-gronk.json](./211985-ray-and-stoic-gronk.json) |
 | Ray And Cooper | 310584 | [310584-ray-and-cooper.json](./310584-ray-and-cooper.json) |
 | Ray Attack | 148470 | [148470-ray-attack.json](./148470-ray-attack.json) |
+| Ray Bibbia | 181598 | [181598-ray-bibbia.json](./181598-ray-bibbia.json) |
 | Ray Blade | 98027 | [98027-ray-blade.json](./98027-ray-blade.json) |
 | Ray Breaker | 98047 | [98047-ray-breaker.json](./98047-ray-breaker.json) |
 | Ray Eager | 126593 | [126593-ray-eager.json](./126593-ray-eager.json) |
@@ -5742,6 +5743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rika Suzuki | 97328 | [97328-rika-suzuki.json](./97328-rika-suzuki.json) |
 | Riki 8Bit Game Collection | 322554 | [322554-riki-8bit-game-collection.json](./322554-riki-8bit-game-collection.json) |
 | Riki's Risky Ride | 192261 | [192261-rikis-risky-ride.json](./192261-rikis-risky-ride.json) |
+| Rikka Plus | 181564 | [181564-rikka-plus.json](./181564-rikka-plus.json) |
 | Rikki & Vikki | 113515 | [113515-rikki-and-vikki.json](./113515-rikki-and-vikki.json) |
 | Rikki Kuu | 220708 | [220708-rikki-kuu.json](./220708-rikki-kuu.json) |
 | Rikorisu: Lycoris Radiata | 77864 | [77864-rikorisu-lycoris-radiata.json](./77864-rikorisu-lycoris-radiata.json) |
