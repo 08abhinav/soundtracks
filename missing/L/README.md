@@ -7127,6 +7127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucy's Expedition | 209399 | [209399-lucys-expedition.json](./209399-lucys-expedition.json) |
 | Lucy's Heaven | 226176 | [226176-lucys-heaven.json](./226176-lucys-heaven.json) |
 | Lucy's Journey | 258735 | [258735-lucys-journey.json](./258735-lucys-journey.json) |
+| Lucy's Levitation | 194832 | [194832-lucys-levitation.json](./194832-lucys-levitation.json) |
 | Lucy's World | 229001 | [229001-lucys-world.json](./229001-lucys-world.json) |
 | Ludaro | 341535 | [341535-ludaro.json](./341535-ludaro.json) |
 | Luddite Rampage | 349651 | [349651-luddite-rampage.json](./349651-luddite-rampage.json) |
