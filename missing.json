@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T10:48:59.940Z",
-  "total_missing": 241855,
+  "generated_at": "2026-10-21T11:04:54.083Z",
+  "total_missing": 241905,
   "games": [
     {
       "igdb_id": 191680,
@@ -31217,6 +31217,11 @@
       "file": "missing/A/211421-agony-lords-of-hell.json"
     },
     {
+      "igdb_id": 179925,
+      "game_name": "Agora",
+      "file": "missing/A/179925-agora.json"
+    },
+    {
       "igdb_id": 211419,
       "game_name": "Agora",
       "file": "missing/A/211419-agora.json"
@@ -54432,6 +54437,11 @@
       "file": "missing/A/83146-anthesis.json"
     },
     {
+      "igdb_id": 179919,
+      "game_name": "Anthill",
+      "file": "missing/A/179919-anthill.json"
+    },
+    {
       "igdb_id": 343048,
       "game_name": "Anthill Village",
       "file": "missing/A/343048-anthill-village.json"
@@ -63512,6 +63522,11 @@
       "file": "missing/A/14599-arena.json"
     },
     {
+      "igdb_id": 179899,
+      "game_name": "Arena",
+      "file": "missing/A/179899-arena.json"
+    },
+    {
       "igdb_id": 266878,
       "game_name": "Arena",
       "file": "missing/A/266878-arena.json"
@@ -68465,6 +68480,11 @@
       "igdb_id": 54645,
       "game_name": "Ary and the Secret of Seasons",
       "file": "missing/A/54645-ary-and-the-secret-of-seasons.json"
+    },
+    {
+      "igdb_id": 179884,
+      "game_name": "​ARZA: Adrenaline Rush Zombie Assault",
+      "file": "missing/0-9/179884-arza-adrenaline-rush-zombie-assault.json"
     },
     {
       "igdb_id": 103569,
@@ -137282,6 +137302,11 @@
       "file": "missing/B/136511-braid-anniversary-edition.json"
     },
     {
+      "igdb_id": 179894,
+      "game_name": "Braiiinz",
+      "file": "missing/B/179894-braiiinz.json"
+    },
+    {
       "igdb_id": 130707,
       "game_name": "Brain",
       "file": "missing/B/130707-brain.json"
@@ -142747,6 +142772,11 @@
       "file": "missing/B/76299-broadway-1849.json"
     },
     {
+      "igdb_id": 179926,
+      "game_name": "Brober man",
+      "file": "missing/B/179926-brober-man.json"
+    },
+    {
       "igdb_id": 159866,
       "game_name": "Brobot",
       "file": "missing/B/159866-brobot.json"
@@ -144292,9 +144322,49 @@
       "file": "missing/B/134429-bs-bokujou-monogatari.json"
     },
     {
+      "igdb_id": 179913,
+      "game_name": "BS Bokujou Monogatari: Dai-1-wa",
+      "file": "missing/B/179913-bs-bokujou-monogatari-dai-1-wa.json"
+    },
+    {
+      "igdb_id": 179914,
+      "game_name": "BS Bokujou Monogatari: Dai-2-wa",
+      "file": "missing/B/179914-bs-bokujou-monogatari-dai-2-wa.json"
+    },
+    {
+      "igdb_id": 179915,
+      "game_name": "BS Bokujou Monogatari: Dai-3-wa",
+      "file": "missing/B/179915-bs-bokujou-monogatari-dai-3-wa.json"
+    },
+    {
+      "igdb_id": 179916,
+      "game_name": "BS Bokujou Monogatari: Dai-4-wa",
+      "file": "missing/B/179916-bs-bokujou-monogatari-dai-4-wa.json"
+    },
+    {
       "igdb_id": 134416,
       "game_name": "BS Dragon Quest",
       "file": "missing/B/134416-bs-dragon-quest.json"
+    },
+    {
+      "igdb_id": 179907,
+      "game_name": "BS Dragon Quest: Dai-1-wa",
+      "file": "missing/B/179907-bs-dragon-quest-dai-1-wa.json"
+    },
+    {
+      "igdb_id": 179908,
+      "game_name": "BS Dragon Quest: Dai-2-wa",
+      "file": "missing/B/179908-bs-dragon-quest-dai-2-wa.json"
+    },
+    {
+      "igdb_id": 179909,
+      "game_name": "BS Dragon Quest: Dai-3-wa",
+      "file": "missing/B/179909-bs-dragon-quest-dai-3-wa.json"
+    },
+    {
+      "igdb_id": 179910,
+      "game_name": "BS Dragon Quest: Dai-4-wa",
+      "file": "missing/B/179910-bs-dragon-quest-dai-4-wa.json"
     },
     {
       "igdb_id": 286625,
@@ -144310,6 +144380,26 @@
       "igdb_id": 38348,
       "game_name": "BS F-Zero Grand Prix 2: Practice",
       "file": "missing/B/38348-bs-f-zero-grand-prix-2-practice.json"
+    },
+    {
+      "igdb_id": 179903,
+      "game_name": "BS F-Zero Grand Prix: Dai-1-shuu - Knight League",
+      "file": "missing/B/179903-bs-f-zero-grand-prix-dai-1-shuu-knight-league.json"
+    },
+    {
+      "igdb_id": 179904,
+      "game_name": "BS F-Zero Grand Prix: Dai-2-shuu - Queen League",
+      "file": "missing/B/179904-bs-f-zero-grand-prix-dai-2-shuu-queen-league.json"
+    },
+    {
+      "igdb_id": 179905,
+      "game_name": "BS F-Zero Grand Prix: Dai-3-shuu - King League",
+      "file": "missing/B/179905-bs-f-zero-grand-prix-dai-3-shuu-king-league.json"
+    },
+    {
+      "igdb_id": 179906,
+      "game_name": "BS F-Zero Grand Prix: Dai-4-shuu - Ace League",
+      "file": "missing/B/179906-bs-f-zero-grand-prix-dai-4-shuu-ace-league.json"
     },
     {
       "igdb_id": 178586,
@@ -144345,6 +144435,26 @@
       "igdb_id": 134430,
       "game_name": "BS Fuurai no Shiren: Surara wo Sukue",
       "file": "missing/B/134430-bs-fuurai-no-shiren-surara-wo-sukue.json"
+    },
+    {
+      "igdb_id": 179897,
+      "game_name": "BS Fuurai no Shiren: Surara wo Sukue - Dai-1-shuu",
+      "file": "missing/B/179897-bs-fuurai-no-shiren-surara-wo-sukue-dai-1-shuu.json"
+    },
+    {
+      "igdb_id": 179900,
+      "game_name": "BS Fuurai no Shiren: Surara wo Sukue - Dai-2-shuu",
+      "file": "missing/B/179900-bs-fuurai-no-shiren-surara-wo-sukue-dai-2-shuu.json"
+    },
+    {
+      "igdb_id": 179901,
+      "game_name": "BS Fuurai no Shiren: Surara wo Sukue - Dai-3-shuu",
+      "file": "missing/B/179901-bs-fuurai-no-shiren-surara-wo-sukue-dai-3-shuu.json"
+    },
+    {
+      "igdb_id": 179902,
+      "game_name": "BS Fuurai no Shiren: Surara wo Sukue - Dai-4-shuu",
+      "file": "missing/B/179902-bs-fuurai-no-shiren-surara-wo-sukue-dai-4-shuu.json"
     },
     {
       "igdb_id": 68733,
@@ -144437,9 +144547,29 @@
       "file": "missing/B/134495-bs-monopoly-kouza-boardwalk-he-no-michi.json"
     },
     {
+      "igdb_id": 179911,
+      "game_name": "BS Nichibutsu Mahjong: Renshuu Mahjong - Ichimantou",
+      "file": "missing/B/179911-bs-nichibutsu-mahjong-renshuu-mahjong-ichimantou.json"
+    },
+    {
+      "igdb_id": 179912,
+      "game_name": "BS Nichibutsu Mahjong: Renshuu Mahjong - Nimantou",
+      "file": "missing/B/179912-bs-nichibutsu-mahjong-renshuu-mahjong-nimantou.json"
+    },
+    {
       "igdb_id": 134433,
       "game_name": "BS Parlor! Parlor!",
       "file": "missing/B/134433-bs-parlor-parlor.json"
+    },
+    {
+      "igdb_id": 179917,
+      "game_name": "BS Parlor! Parlor!: Dai-1-shuu",
+      "file": "missing/B/179917-bs-parlor-parlor-dai-1-shuu.json"
+    },
+    {
+      "igdb_id": 179918,
+      "game_name": "BS Parlor! Parlor!: Dai-2-shuu",
+      "file": "missing/B/179918-bs-parlor-parlor-dai-2-shuu.json"
     },
     {
       "igdb_id": 134434,
@@ -202347,6 +202477,11 @@
       "file": "missing/C/56292-complikated.json"
     },
     {
+      "igdb_id": 179930,
+      "game_name": "Components",
+      "file": "missing/C/179930-components.json"
+    },
+    {
       "igdb_id": 174195,
       "game_name": "Componut",
       "file": "missing/C/174195-componut.json"
@@ -228662,6 +228797,11 @@
       "file": "missing/C/41512-cut-the-rope-time-travel.json"
     },
     {
+      "igdb_id": 179891,
+      "game_name": "Cut Them Off",
+      "file": "missing/C/179891-cut-them-off.json"
+    },
+    {
       "igdb_id": 150461,
       "game_name": "Cut Them Up",
       "file": "missing/C/150461-cut-them-up.json"
@@ -248115,6 +248255,11 @@
       "igdb_id": 125741,
       "game_name": "Deardrops Distortion",
       "file": "missing/D/125741-deardrops-distortion.json"
+    },
+    {
+      "igdb_id": 179889,
+      "game_name": "Dearest You",
+      "file": "missing/D/179889-dearest-you.json"
     },
     {
       "igdb_id": 236410,
@@ -284137,6 +284282,11 @@
       "file": "missing/D/198731-doug.json"
     },
     {
+      "igdb_id": 179888,
+      "game_name": "Doug From Accounting",
+      "file": "missing/D/179888-doug-from-accounting.json"
+    },
+    {
       "igdb_id": 135606,
       "game_name": "Doug Hates His Job",
       "file": "missing/D/135606-doug-hates-his-job.json"
@@ -284640,6 +284790,11 @@
       "igdb_id": 201169,
       "game_name": "Downpurr",
       "file": "missing/D/201169-downpurr.json"
+    },
+    {
+      "igdb_id": 179928,
+      "game_name": "DownRiver",
+      "file": "missing/D/179928-downriver.json"
     },
     {
       "igdb_id": 191161,
@@ -346795,6 +346950,11 @@
       "igdb_id": 185012,
       "game_name": "Farmer Fran: Running Out of Sunlight!",
       "file": "missing/F/185012-farmer-fran-running-out-of-sunlight.json"
+    },
+    {
+      "igdb_id": 179892,
+      "game_name": "Farmer Phil and the Zombie Alien Robot Apocalypse",
+      "file": "missing/F/179892-farmer-phil-and-the-zombie-alien-robot-apocalypse.json"
     },
     {
       "igdb_id": 129019,
@@ -465587,6 +465747,11 @@
       "file": "missing/H/125355-hit-n-rush.json"
     },
     {
+      "igdb_id": 179921,
+      "game_name": "Hit N Descent",
+      "file": "missing/H/179921-hit-n-descent.json"
+    },
+    {
       "igdb_id": 319010,
       "game_name": "Hit n' Bit",
       "file": "missing/H/319010-hit-n-bit.json"
@@ -470047,6 +470212,11 @@
       "file": "missing/H/288046-honey-homer-rps.json"
     },
     {
+      "igdb_id": 179931,
+      "game_name": "Honey Hunt",
+      "file": "missing/H/179931-honey-hunt.json"
+    },
+    {
       "igdb_id": 328248,
       "game_name": "Honey Kingdom",
       "file": "missing/H/328248-honey-kingdom.json"
@@ -471940,6 +472110,11 @@
       "igdb_id": 83590,
       "game_name": "HorD: High or Die",
       "file": "missing/H/83590-hord-high-or-die.json"
+    },
+    {
+      "igdb_id": 179898,
+      "game_name": "Horde",
+      "file": "missing/H/179898-horde.json"
     },
     {
       "igdb_id": 334304,
@@ -650557,6 +650732,11 @@
       "file": "missing/M/197648-monster-truck-soccer.json"
     },
     {
+      "igdb_id": 179924,
+      "game_name": "Monster Truck Story",
+      "file": "missing/M/179924-monster-truck-story.json"
+    },
+    {
       "igdb_id": 337224,
       "game_name": "Monster Truck Trip 2",
       "file": "missing/M/337224-monster-truck-trip-2.json"
@@ -700302,6 +700482,11 @@
       "file": "missing/N/117801-not-so-heart.json"
     },
     {
+      "igdb_id": 179887,
+      "game_name": "Not So Instant Messaging",
+      "file": "missing/N/179887-not-so-instant-messaging.json"
+    },
+    {
       "igdb_id": 98775,
       "game_name": "Not So Middle Ages",
       "file": "missing/N/98775-not-so-middle-ages.json"
@@ -712282,6 +712467,11 @@
       "file": "missing/O/80493-one-goal-spirit.json"
     },
     {
+      "igdb_id": 179882,
+      "game_name": "One Got in the House",
+      "file": "missing/O/179882-one-got-in-the-house.json"
+    },
+    {
       "igdb_id": 126908,
       "game_name": "One Gun 2: Stickman",
       "file": "missing/O/126908-one-gun-2-stickman.json"
@@ -722485,6 +722675,11 @@
       "igdb_id": 272338,
       "game_name": "Out of Scale: A Kurzgesagt Adventure",
       "file": "missing/O/272338-out-of-scale-a-kurzgesagt-adventure.json"
+    },
+    {
+      "igdb_id": 179922,
+      "game_name": "Out of Service",
+      "file": "missing/O/179922-out-of-service.json"
     },
     {
       "igdb_id": 311148,
@@ -763682,6 +763877,11 @@
       "file": "missing/P/410419-playing-field-2.json"
     },
     {
+      "igdb_id": 179923,
+      "game_name": "Playing God VR",
+      "file": "missing/P/179923-playing-god-vr.json"
+    },
+    {
       "igdb_id": 34628,
       "game_name": "Playing History - The Plague",
       "file": "missing/P/34628-playing-history-the-plague.json"
@@ -784485,6 +784685,11 @@
       "igdb_id": 413079,
       "game_name": "Procession Engine",
       "file": "missing/P/413079-procession-engine.json"
+    },
+    {
+      "igdb_id": 179932,
+      "game_name": "Procrastinaire: Solitairy Confinement",
+      "file": "missing/P/179932-procrastinaire-solitairy-confinement.json"
     },
     {
       "igdb_id": 270951,
@@ -836452,6 +836657,11 @@
       "file": "missing/R/171553-rob-blanc-iii-the-temporal-terrorists.json"
     },
     {
+      "igdb_id": 179920,
+      "game_name": "Rob for Two",
+      "file": "missing/R/179920-rob-for-two.json"
+    },
+    {
       "igdb_id": 183029,
       "game_name": "Rob'n Run",
       "file": "missing/R/183029-robn-run.json"
@@ -876882,6 +877092,11 @@
       "file": "missing/S/194847-sewer-run.json"
     },
     {
+      "igdb_id": 179895,
+      "game_name": "Sewer's Plague: Into the nest",
+      "file": "missing/S/179895-sewers-plague-into-the-nest.json"
+    },
+    {
       "igdb_id": 385930,
       "game_name": "Sewercide",
       "file": "missing/S/385930-sewercide.json"
@@ -890940,6 +891155,11 @@
       "igdb_id": 71778,
       "game_name": "Shwip",
       "file": "missing/S/71778-shwip.json"
+    },
+    {
+      "igdb_id": 179927,
+      "game_name": "Shy",
+      "file": "missing/S/179927-shy.json"
     },
     {
       "igdb_id": 223915,
@@ -971472,6 +971692,11 @@
       "file": "missing/S/42417-super-drift-out.json"
     },
     {
+      "igdb_id": 179929,
+      "game_name": "Super Drill Defense+",
+      "file": "missing/S/179929-super-drill-defense.json"
+    },
+    {
       "igdb_id": 176959,
       "game_name": "Super Drill Diver!",
       "file": "missing/S/176959-super-drill-diver.json"
@@ -1011400,6 +1011625,11 @@
       "igdb_id": 207031,
       "game_name": "Text Express",
       "file": "missing/T/207031-text-express.json"
+    },
+    {
+      "igdb_id": 179890,
+      "game_name": "Text me when you get home",
+      "file": "missing/T/179890-text-me-when-you-get-home.json"
     },
     {
       "igdb_id": 169740,
@@ -1052935,6 +1053165,11 @@
       "igdb_id": 333107,
       "game_name": "The Second Circle",
       "file": "missing/T/333107-the-second-circle.json"
+    },
+    {
+      "igdb_id": 179896,
+      "game_name": "The Second Floor",
+      "file": "missing/T/179896-the-second-floor.json"
     },
     {
       "igdb_id": 93494,
@@ -1119642,6 +1119877,11 @@
       "file": "missing/T/174261-typomancer-in-the-feathers-way.json"
     },
     {
+      "igdb_id": 179893,
+      "game_name": "Typos and Brains",
+      "file": "missing/T/179893-typos-and-brains.json"
+    },
+    {
       "igdb_id": 371867,
       "game_name": "Tyr",
       "file": "missing/T/371867-tyr.json"
@@ -1166227,6 +1166467,11 @@
       "file": "missing/W/289005-whentaken.json"
     },
     {
+      "igdb_id": 179885,
+      "game_name": "Where Ages Go",
+      "file": "missing/W/179885-where-ages-go.json"
+    },
+    {
       "igdb_id": 333996,
       "game_name": "Where Am I?: GeoGuess Game",
       "file": "missing/W/333996-where-am-i-geoguess-game.json"
@@ -1205785,6 +1206030,11 @@
       "igdb_id": 388115,
       "game_name": "Zombie Inglor",
       "file": "missing/Z/388115-zombie-inglor.json"
+    },
+    {
+      "igdb_id": 179883,
+      "game_name": "Zombie Invasion",
+      "file": "missing/Z/179883-zombie-invasion.json"
     },
     {
       "igdb_id": 337751,
