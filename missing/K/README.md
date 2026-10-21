@@ -1773,6 +1773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Station: Motto! Oja Majo Do-Re-Mi - Mahodou Smile Party | 58774 | [58774-kids-station-motto-oja-majo-do-re-mi-mahodou-smile-party.json](./58774-kids-station-motto-oja-majo-do-re-mi-mahodou-smile-party.json) |
 | Kids Station: Oja Majo Doremi Dokkan! Maho-dou Eigo Festival | 389454 | [389454-kids-station-oja-majo-doremi-dokkan-maho-dou-eigo-festival.json](./389454-kids-station-oja-majo-doremi-dokkan-maho-dou-eigo-festival.json) |
 | Kids Station: Soreike! Anpanman | 302606 | [302606-kids-station-soreike-anpanman.json](./302606-kids-station-soreike-anpanman.json) |
+| Kids Tetris | 202059 | [202059-kids-tetris.json](./202059-kids-tetris.json) |
 | Kids Train Sim | 100614 | [100614-kids-train-sim.json](./100614-kids-train-sim.json) |
 | Kids Trucks: Puzzles - Education Edition | 96183 | [96183-kids-trucks-puzzles-education-edition.json](./96183-kids-trucks-puzzles-education-edition.json) |
 | Kids Vehicles Fire Truck games | 107649 | [107649-kids-vehicles-fire-truck-games.json](./107649-kids-vehicles-fire-truck-games.json) |
