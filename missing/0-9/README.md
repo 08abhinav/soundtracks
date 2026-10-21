@@ -1080,6 +1080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1st Kochobo Dourado | 215199 | [215199-1st-kochobo-dourado.json](./215199-1st-kochobo-dourado.json) |
 | 1st Person Pinball | 12429 | [12429-1st-person-pinball.json](./12429-1st-person-pinball.json) |
 | 1st Video Game | 245162 | [245162-1st-video-game.json](./245162-1st-video-game.json) |
+| 1st&Goal | 175582 | [175582-1st-and-goal.json](./175582-1st-and-goal.json) |
 | 1v1 Arcade Soccer | 58469 | [58469-1v1-arcade-soccer.json](./58469-1v1-arcade-soccer.json) |
 | 1v1 Cube Game | 135143 | [135143-1v1-cube-game.json](./135143-1v1-cube-game.json) |
 | 1vs1: Battle Royale for the throne | 116226 | [116226-1vs1-battle-royale-for-the-throne.json](./116226-1vs1-battle-royale-for-the-throne.json) |
@@ -1451,6 +1452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2K1X Subzero Heroes | 304215 | [304215-2k1x-subzero-heroes.json](./304215-2k1x-subzero-heroes.json) |
 | 2Kxx | 358078 | [358078-2kxx.json](./358078-2kxx.json) |
 | 2MD: VR Football Evolution | 160137 | [160137-2md-vr-football-evolution.json](./160137-2md-vr-football-evolution.json) |
+| 2MD: VR Football Unleashed | 174552 | [174552-2md-vr-football-unleashed.json](./174552-2md-vr-football-unleashed.json) |
 | 2MD: VR Football Unleashed All Star | 216445 | [216445-2md-vr-football-unleashed-all-star.json](./216445-2md-vr-football-unleashed-all-star.json) |
 | 2Me | 358079 | [358079-2me.json](./358079-2me.json) |
 | 2Metal | 331359 | [331359-2metal.json](./331359-2metal.json) |
