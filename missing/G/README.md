@@ -6668,6 +6668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greedland | 237194 | [237194-greedland.json](./237194-greedland.json) |
 | Greedling: 2D Boss Rush | 409409 | [409409-greedling-2d-boss-rush.json](./409409-greedling-2d-boss-rush.json) |
 | Greedventory | 204507 | [204507-greedventory.json](./204507-greedventory.json) |
+| Greedy | 178858 | [178858-greedy.json](./178858-greedy.json) |
 | Greedy Crush | 113171 | [113171-greedy-crush.json](./113171-greedy-crush.json) |
 | Greedy Dungeon | 153395 | [153395-greedy-dungeon.json](./153395-greedy-dungeon.json) |
 | Greedy Dungeons | 86521 | [86521-greedy-dungeons.json](./86521-greedy-dungeons.json) |
