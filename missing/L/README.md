@@ -1367,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawn Mower Racing | 353956 | [353956-lawn-mower-racing.json](./353956-lawn-mower-racing.json) |
 | Lawn Mowing Simulator | 145134 | [145134-lawn-mowing-simulator.json](./145134-lawn-mowing-simulator.json) |
 | Lawn Mowing Simulator VR | 284830 | [284830-lawn-mowing-simulator-vr.json](./284830-lawn-mowing-simulator-vr.json) |
+| Lawn Mowing Simulator: Ancient Britain | 196062 | [196062-lawn-mowing-simulator-ancient-britain.json](./196062-lawn-mowing-simulator-ancient-britain.json) |
 | Lawn Mowing Simulator: Dino Safari | 196154 | [196154-lawn-mowing-simulator-dino-safari.json](./196154-lawn-mowing-simulator-dino-safari.json) |
 | Lawn Mowing Simulator: Landmark Edition | 201779 | [201779-lawn-mowing-simulator-landmark-edition.json](./201779-lawn-mowing-simulator-landmark-edition.json) |
 | Lawn Order | 413028 | [413028-lawn-order.json](./413028-lawn-order.json) |
@@ -7593,6 +7594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust Element: Season 1 | 262229 | [262229-lust-element-season-1.json](./262229-lust-element-season-1.json) |
 | Lust Eternal | 379529 | [379529-lust-eternal.json](./379529-lust-eternal.json) |
 | Lust for Darkness VR | 193508 | [193508-lust-for-darkness-vr.json](./193508-lust-for-darkness-vr.json) |
+| Lust for Darkness VR: M Edition | 196060 | [196060-lust-for-darkness-vr-m-edition.json](./196060-lust-for-darkness-vr-m-edition.json) |
 | Lust for Darkness: Dawn Edition | 131980 | [131980-lust-for-darkness-dawn-edition.json](./131980-lust-for-darkness-dawn-edition.json) |
 | Lust for Lucre | 305760 | [305760-lust-for-lucre.json](./305760-lust-for-lucre.json) |
 | Lust for Speed | 152807 | [152807-lust-for-speed.json](./152807-lust-for-speed.json) |
