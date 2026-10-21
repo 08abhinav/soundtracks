@@ -3282,6 +3282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gimme a Break: Shijou Saikyou no Quiz-ou Ketteisen 2 | 267652 | [267652-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen-2.json](./267652-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen-2.json) |
 | Gimme Five | 56468 | [56468-gimme-five.json](./56468-gimme-five.json) |
 | Gimme Friction Baby | 201984 | [201984-gimme-friction-baby.json](./201984-gimme-friction-baby.json) |
+| Gimme Money! Neverquaker | 181563 | [181563-gimme-money-neverquaker.json](./181563-gimme-money-neverquaker.json) |
 | Gimme Space Battle | 401611 | [401611-gimme-space-battle.json](./401611-gimme-space-battle.json) |
 | Gimmick | 415500 | [415500-gimmick.json](./415500-gimmick.json) |
 | Gimmick in the Chaos Dimension | 144880 | [144880-gimmick-in-the-chaos-dimension.json](./144880-gimmick-in-the-chaos-dimension.json) |
@@ -3298,6 +3299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gin Rummy | 377838 | [377838-gin-rummy.json](./377838-gin-rummy.json) |
 | Gin Rummy 3D Premium | 133118 | [133118-gin-rummy-3d-premium.json](./133118-gin-rummy-3d-premium.json) |
 | Gin Rummy Classic | 370435 | [370435-gin-rummy-classic.json](./370435-gin-rummy-classic.json) |
+| Gin Rummy Deluxe | 181590 | [181590-gin-rummy-deluxe.json](./181590-gin-rummy-deluxe.json) |
 | Gin Rummy Royale | 88576 | [88576-gin-rummy-royale.json](./88576-gin-rummy-royale.json) |
 | Gin Rummy Ultra | 87640 | [87640-gin-rummy-ultra.json](./87640-gin-rummy-ultra.json) |
 | Gin Rummy: Casino Card Game | 88612 | [88612-gin-rummy-casino-card-game.json](./88612-gin-rummy-casino-card-game.json) |
