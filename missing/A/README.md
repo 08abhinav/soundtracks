@@ -1343,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abby Normalli in Mayhem Mansion | 377424 | [377424-abby-normalli-in-mayhem-mansion.json](./377424-abby-normalli-in-mayhem-mansion.json) |
 | Abbys Endless Adventure | 77591 | [77591-abbys-endless-adventure.json](./77591-abbys-endless-adventure.json) |
 | ABC Book 3D: Learn English | 377423 | [377423-abc-book-3d-learn-english.json](./377423-abc-book-3d-learn-english.json) |
+| ABC Flappy | 188838 | [188838-abc-flappy.json](./188838-abc-flappy.json) |
 | ABC Hide and Seek | 351424 | [351424-abc-hide-and-seek.json](./351424-abc-hide-and-seek.json) |
 | ABC Hunt | 74977 | [74977-abc-hunt.json](./74977-abc-hunt.json) |
 | ABC Match with Me | 193300 | [193300-abc-match-with-me.json](./193300-abc-match-with-me.json) |
@@ -4912,6 +4913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Abduction Experience | 369371 | [369371-alien-abduction-experience.json](./369371-alien-abduction-experience.json) |
 | Alien Accident | 192744 | [192744-alien-accident.json](./192744-alien-accident.json) |
 | Alien Afteflife | 182807 | [182807-alien-afteflife.json](./182807-alien-afteflife.json) |
+| Alien Age | 188836 | [188836-alien-age.json](./188836-alien-age.json) |
 | Alien Agent X | 385882 | [385882-alien-agent-x.json](./385882-alien-agent-x.json) |
 | Alien Animals: Sandbox | 154463 | [154463-alien-animals-sandbox.json](./154463-alien-animals-sandbox.json) |
 | Alien Apocalypse | 390010 | [390010-alien-apocalypse.json](./390010-alien-apocalypse.json) |
@@ -12929,6 +12931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auri's Tales | 113042 | [113042-auris-tales.json](./113042-auris-tales.json) |
 | Auris | 421353 | [421353-auris.json](./421353-auris.json) |
 | Aurium 2 | 317062 | [317062-aurium-2.json](./317062-aurium-2.json) |
+| Auro the Bunny | 188848 | [188848-auro-the-bunny.json](./188848-auro-the-bunny.json) |
 | Auro: A Monster-Bumping Adventure | 33099 | [33099-auro-a-monster-bumping-adventure.json](./33099-auro-a-monster-bumping-adventure.json) |
 | Aurora | 170459 | [170459-aurora.json](./170459-aurora.json) |
 | Aurora | 171522 | [171522-aurora.json](./171522-aurora.json) |
