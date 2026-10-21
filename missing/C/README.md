@@ -2238,6 +2238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartel Tycoon: Lieutenants Pack - La Familia | 243673 | [243673-cartel-tycoon-lieutenants-pack-la-familia.json](./243673-cartel-tycoon-lieutenants-pack-la-familia.json) |
 | Cartel Tycoon: San Rafaela | 252371 | [252371-cartel-tycoon-san-rafaela.json](./252371-cartel-tycoon-san-rafaela.json) |
 | Cartels & Cutthroats | 22497 | [22497-cartels-and-cutthroats.json](./22497-cartels-and-cutthroats.json) |
+| Carter Story | 202637 | [202637-carter-story.json](./202637-carter-story.json) |
 | Carth | 164061 | [164061-carth.json](./164061-carth.json) |
 | Cartier 06 | 335139 | [335139-cartier-06.json](./335139-cartier-06.json) |
 | Carto | 101448 | [101448-carto.json](./101448-carto.json) |
@@ -4700,6 +4701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasm Bound | 250896 | [250896-chasm-bound.json](./250896-chasm-bound.json) |
 | Chasm Crawl | 277761 | [277761-chasm-crawl.json](./277761-chasm-crawl.json) |
 | Chasmal | 231798 | [231798-chasmal.json](./231798-chasmal.json) |
+| Chaste Tris | 202615 | [202615-chaste-tris.json](./202615-chaste-tris.json) |
 | Chat Arena | 115424 | [115424-chat-arena.json](./115424-chat-arena.json) |
 | Chat Guess Games | 280857 | [280857-chat-guess-games.json](./280857-chat-guess-games.json) |
 | Chat Noir | 319438 | [319438-chat-noir.json](./319438-chat-noir.json) |
@@ -11235,6 +11237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Armada | 269983 | [269983-cosmic-armada.json](./269983-cosmic-armada.json) |
 | Cosmic Avenger | 18504 | [18504-cosmic-avenger.json](./18504-cosmic-avenger.json) |
 | Cosmic Badger | 197746 | [197746-cosmic-badger.json](./197746-cosmic-badger.json) |
+| Cosmic Ball Tournament | 202638 | [202638-cosmic-ball-tournament.json](./202638-cosmic-ball-tournament.json) |
 | Cosmic Batter Defense | 205993 | [205993-cosmic-batter-defense.json](./205993-cosmic-batter-defense.json) |
 | Cosmic Blastards | 275873 | [275873-cosmic-blastards.json](./275873-cosmic-blastards.json) |
 | Cosmic Bouncer | 15918 | [15918-cosmic-bouncer.json](./15918-cosmic-bouncer.json) |
@@ -15351,6 +15354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Strike | 194001 | [194001-cyber-strike.json](./194001-cyber-strike.json) |
 | Cyber Strike | 282002 | [282002-cyber-strike.json](./282002-cyber-strike.json) |
 | Cyber Surf | 89679 | [89679-cyber-surf.json](./89679-cyber-surf.json) |
+| Cyber Sweep | 202620 | [202620-cyber-sweep.json](./202620-cyber-sweep.json) |
 | Cyber Tamer | 245936 | [245936-cyber-tamer.json](./245936-cyber-tamer.json) |
 | Cyber Tank | 40107 | [40107-cyber-tank.json](./40107-cyber-tank.json) |
 | Cyber Tank 2 | 330194 | [330194-cyber-tank-2.json](./330194-cyber-tank-2.json) |
