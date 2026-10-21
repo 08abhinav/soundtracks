@@ -9169,6 +9169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sker Ritual: Skerville Slasher | 322721 | [322721-sker-ritual-skerville-slasher.json](./322721-sker-ritual-skerville-slasher.json) |
 | Sker Ritual: Stranger Danger | 241317 | [241317-sker-ritual-stranger-danger.json](./241317-sker-ritual-stranger-danger.json) |
 | Sker Ritual: The Quiet Ones | 235843 | [235843-sker-ritual-the-quiet-ones.json](./235843-sker-ritual-the-quiet-ones.json) |
+| Sketch Crawler | 189353 | [189353-sketch-crawler.json](./189353-sketch-crawler.json) |
 | Sketch Doom | 247518 | [247518-sketch-doom.json](./247518-sketch-doom.json) |
 | Sketch Heads | 250224 | [250224-sketch-heads.json](./250224-sketch-heads.json) |
 | Sketch Magician | 347100 | [347100-sketch-magician.json](./347100-sketch-magician.json) |
@@ -10691,6 +10692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Iron | 156897 | [156897-small-iron.json](./156897-small-iron.json) |
 | Small Islands | 176339 | [176339-small-islands.json](./176339-small-islands.json) |
 | Small Kingdoms | 262959 | [262959-small-kingdoms.json](./262959-small-kingdoms.json) |
+| Small Life | 189382 | [189382-small-life.json](./189382-small-life.json) |
 | Small Living World 2 | 355699 | [355699-small-living-world-2.json](./355699-small-living-world-2.json) |
 | Small Maze | 311603 | [311603-small-maze.json](./311603-small-maze.json) |
 | Small Mouse Big House | 378402 | [378402-small-mouse-big-house.json](./378402-small-mouse-big-house.json) |
@@ -23681,6 +23683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Gridder | 57144 | [57144-super-gridder.json](./57144-super-gridder.json) |
 | Super Gridland | 197753 | [197753-super-gridland.json](./197753-super-gridland.json) |
 | Super GTR Racing | 97115 | [97115-super-gtr-racing.json](./97115-super-gtr-racing.json) |
+| Super Gunfight | 189354 | [189354-super-gunfight.json](./189354-super-gunfight.json) |
 | Super GunWorld 2 | 27300 | [27300-super-gunworld-2.json](./27300-super-gunworld-2.json) |
 | Super Gussun Oyoyo | 42641 | [42641-super-gussun-oyoyo.json](./42641-super-gussun-oyoyo.json) |
 | Super Gussun Oyoyo 2 | 38385 | [38385-super-gussun-oyoyo-2.json](./38385-super-gussun-oyoyo-2.json) |
