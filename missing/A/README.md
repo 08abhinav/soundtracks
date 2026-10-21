@@ -4433,6 +4433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akuma-kun: Makai no Wana | 48605 | [48605-akuma-kun-makai-no-wana.json](./48605-akuma-kun-makai-no-wana.json) |
 | Akuma: Cyberpunk Rhythm Action | 192636 | [192636-akuma-cyberpunk-rhythm-action.json](./192636-akuma-cyberpunk-rhythm-action.json) |
 | Akuma: Demon Spawn | 72177 | [72177-akuma-demon-spawn.json](./72177-akuma-demon-spawn.json) |
+| Akuma: Wrath of the Fallen | 177223 | [177223-akuma-wrath-of-the-fallen.json](./177223-akuma-wrath-of-the-fallen.json) |
 | Akumajou Densetsu | 151162 | [151162-akumajou-densetsu.json](./151162-akumajou-densetsu.json) |
 | Akumajou Densetsu | 353301 | [353301-akumajou-densetsu.json](./353301-akumajou-densetsu.json) |
 | Akumajou Dracula | 215375 | [215375-akumajou-dracula.json](./215375-akumajou-dracula.json) |
@@ -7191,6 +7192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angels Fall First | 17279 | [17279-angels-fall-first.json](./17279-angels-fall-first.json) |
 | Angels in Orbit | 389021 | [389021-angels-in-orbit.json](./389021-angels-in-orbit.json) |
 | Angels of Amsterdam | 223488 | [223488-angels-of-amsterdam.json](./223488-angels-of-amsterdam.json) |
+| Angels of Battle | 177247 | [177247-angels-of-battle.json](./177247-angels-of-battle.json) |
 | Angels of Death Episode.Eddie | 137047 | [137047-angels-of-death-episode-eddie.json](./137047-angels-of-death-episode-eddie.json) |
 | Angels of Fasaria | 36110 | [36110-angels-of-fasaria.json](./36110-angels-of-fasaria.json) |
 | Angels Online | 84460 | [84460-angels-online.json](./84460-angels-online.json) |
@@ -12287,6 +12289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At the Hedges of Time | 208263 | [208263-at-the-hedges-of-time.json](./208263-at-the-hedges-of-time.json) |
 | At the Party | 203878 | [203878-at-the-party.json](./203878-at-the-party.json) |
 | At the Poison's Edge | 297556 | [297556-at-the-poisons-edge.json](./297556-at-the-poisons-edge.json) |
+| At the Same Time | 177226 | [177226-at-the-same-time.json](./177226-at-the-same-time.json) |
 | At the Tale End | 108882 | [108882-at-the-tale-end.json](./108882-at-the-tale-end.json) |
 | At What Cost | 382376 | [382376-at-what-cost.json](./382376-at-what-cost.json) |
 | At Winter's End | 264698 | [264698-at-winters-end.json](./264698-at-winters-end.json) |
