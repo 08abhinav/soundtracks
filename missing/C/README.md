@@ -7794,6 +7794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climbing Over It with a Spear Only Up | 304795 | [304795-climbing-over-it-with-a-spear-only-up.json](./304795-climbing-over-it-with-a-spear-only-up.json) |
 | Climbing Simplified | 392812 | [392812-climbing-simplified.json](./392812-climbing-simplified.json) |
 | Climbing The Eidolon | 383513 | [383513-climbing-the-eidolon.json](./383513-climbing-the-eidolon.json) |
+| ClimbJong | 194174 | [194174-climbjong.json](./194174-climbjong.json) |
 | Climbtime | 31171 | [31171-climbtime.json](./31171-climbtime.json) |
 | Clinch Legends | 369101 | [369101-clinch-legends.json](./369101-clinch-legends.json) |
 | Cling to Blindness | 367729 | [367729-cling-to-blindness.json](./367729-cling-to-blindness.json) |
@@ -9981,6 +9982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conan Exiles: Savage Edition | 164771 | [164771-conan-exiles-savage-edition.json](./164771-conan-exiles-savage-edition.json) |
 | Conan Exiles: Seekers of the Dawn Pack | 164775 | [164775-conan-exiles-seekers-of-the-dawn-pack.json](./164775-conan-exiles-seekers-of-the-dawn-pack.json) |
 | Conan Exiles: Treasures of Turan Pack | 164779 | [164779-conan-exiles-treasures-of-turan-pack.json](./164779-conan-exiles-treasures-of-turan-pack.json) |
+| Conan Room | 194321 | [194321-conan-room.json](./194321-conan-room.json) |
 | Conan the Cimmerian | 12009 | [12009-conan-the-cimmerian.json](./12009-conan-the-cimmerian.json) |
 | Conan the mighty pig | 32411 | [32411-conan-the-mighty-pig.json](./32411-conan-the-mighty-pig.json) |
 | Conan Unconquered | 113208 | [113208-conan-unconquered.json](./113208-conan-unconquered.json) |
@@ -11469,6 +11471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmonauta | 129486 | [129486-cosmonauta.json](./129486-cosmonauta.json) |
 | Cosmonious High | 194955 | [194955-cosmonious-high.json](./194955-cosmonious-high.json) |
 | Cosmonuts | 86200 | [86200-cosmonuts.json](./86200-cosmonuts.json) |
+| CosmoNutz | 194173 | [194173-cosmonutz.json](./194173-cosmonutz.json) |
 | Cosmophage | 148552 | [148552-cosmophage.json](./148552-cosmophage.json) |
 | Cosmophobia | 330216 | [330216-cosmophobia.json](./330216-cosmophobia.json) |
 | CosmoPirates | 258553 | [258553-cosmopirates.json](./258553-cosmopirates.json) |
@@ -11855,6 +11858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowpocalypse | 118382 | [118382-cowpocalypse.json](./118382-cowpocalypse.json) |
 | Cowpocalypse | 274776 | [274776-cowpocalypse.json](./274776-cowpocalypse.json) |
 | Cows Gone Mad: Battle for Pasture Prime | 411676 | [411676-cows-gone-mad-battle-for-pasture-prime.json](./411676-cows-gone-mad-battle-for-pasture-prime.json) |
+| Cows In Space | 194178 | [194178-cows-in-space.json](./194178-cows-in-space.json) |
 | Cows VS Vikings | 112592 | [112592-cows-vs-vikings.json](./112592-cows-vs-vikings.json) |
 | Cows&Co | 207799 | [207799-cows-and-co.json](./207799-cows-and-co.json) |
 | Cowtastic Cafe | 316823 | [316823-cowtastic-cafe.json](./316823-cowtastic-cafe.json) |
