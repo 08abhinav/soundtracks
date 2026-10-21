@@ -6159,6 +6159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Stories: The Gift of the Magi | 57126 | [57126-christmas-stories-the-gift-of-the-magi.json](./57126-christmas-stories-the-gift-of-the-magi.json) |
 | Christmas Stories: The Legend of Toymakers - Collector's Edition | 294932 | [294932-christmas-stories-the-legend-of-toymakers-collectors-edition.json](./294932-christmas-stories-the-legend-of-toymakers-collectors-edition.json) |
 | Christmas Stories: Yulemen | 187966 | [187966-christmas-stories-yulemen.json](./187966-christmas-stories-yulemen.json) |
+| Christmas Stories: Yulemen - Collector's Edition | 188854 | [188854-christmas-stories-yulemen-collectors-edition.json](./188854-christmas-stories-yulemen-collectors-edition.json) |
 | Christmas Story | 378202 | [378202-christmas-story.json](./378202-christmas-story.json) |
 | Christmas Sweeper 3 | 227365 | [227365-christmas-sweeper-3.json](./227365-christmas-sweeper-3.json) |
 | Christmas Time 2019 | 114326 | [114326-christmas-time-2019.json](./114326-christmas-time-2019.json) |
