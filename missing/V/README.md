@@ -2381,6 +2381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vivid Army | 389485 | [389485-vivid-army.json](./389485-vivid-army.json) |
 | Vivid Conceptions | 93152 | [93152-vivid-conceptions.json](./93152-vivid-conceptions.json) |
 | Vivid Knight | 148301 | [148301-vivid-knight.json](./148301-vivid-knight.json) |
+| Vivid Surf | 171315 | [171315-vivid-surf.json](./171315-vivid-surf.json) |
 | Vivid Tale | 235817 | [235817-vivid-tale.json](./235817-vivid-tale.json) |
 | Vivid Twinkler: Frozen Flame | 377753 | [377753-vivid-twinkler-frozen-flame.json](./377753-vivid-twinkler-frozen-flame.json) |
 | Vivid Twinkler! | 377750 | [377750-vivid-twinkler.json](./377750-vivid-twinkler.json) |
