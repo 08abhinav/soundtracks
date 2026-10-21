@@ -2208,6 +2208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AD&D Dark Sun Online: Crimson Sands | 71724 | [71724-ad-and-d-dark-sun-online-crimson-sands.json](./71724-ad-and-d-dark-sun-online-crimson-sands.json) |
 | Ada Towers | 83493 | [83493-ada-towers.json](./83493-ada-towers.json) |
 | ADAC: The Simulation | 76623 | [76623-adac-the-simulation.json](./76623-adac-the-simulation.json) |
+| Adaca | 197542 | [197542-adaca.json](./197542-adaca.json) |
 | Adachi Ballin' | 412453 | [412453-adachi-ballin.json](./412453-adachi-ballin.json) |
 | Adachi Dating Simulator | 240470 | [240470-adachi-dating-simulator.json](./240470-adachi-dating-simulator.json) |
 | Adagio | 329900 | [329900-adagio.json](./329900-adagio.json) |
@@ -2314,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adidas Power Soccer | 20302 | [20302-adidas-power-soccer.json](./20302-adidas-power-soccer.json) |
 | Adidas Power Soccer 98 | 43935 | [43935-adidas-power-soccer-98.json](./43935-adidas-power-soccer-98.json) |
 | Adios | 138270 | [138270-adios.json](./138270-adios.json) |
+| Adios Amigos: Galactic Explorers | 197685 | [197685-adios-amigos-galactic-explorers.json](./197685-adios-amigos-galactic-explorers.json) |
 | Adit 11 | 379557 | [379557-adit-11.json](./379557-adit-11.json) |
 | Adiverboz | 379558 | [379558-adiverboz.json](./379558-adiverboz.json) |
 | Adivinhe a Cor! | 282805 | [282805-adivinhe-a-cor.json](./282805-adivinhe-a-cor.json) |
@@ -11979,6 +11981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Rider | 126327 | [126327-astro-rider.json](./126327-astro-rider.json) |
 | Astro Smash 'n' Blast! | 233553 | [233553-astro-smash-n-blast.json](./233553-astro-smash-n-blast.json) |
 | Astro Spider: Between Threads and Stars | 364067 | [364067-astro-spider-between-threads-and-stars.json](./364067-astro-spider-between-threads-and-stars.json) |
+| Astro Traveler | 197534 | [197534-astro-traveler.json](./197534-astro-traveler.json) |
 | Astro Tripper | 16265 | [16265-astro-tripper.json](./16265-astro-tripper.json) |
 | Astro Universe | 140969 | [140969-astro-universe.json](./140969-astro-universe.json) |
 | Astro Volleyball | 241823 | [241823-astro-volleyball.json](./241823-astro-volleyball.json) |
@@ -13604,6 +13607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axolotl | 195486 | [195486-axolotl.json](./195486-axolotl.json) |
 | Axolotl | 267997 | [267997-axolotl.json](./267997-axolotl.json) |
 | Axolotl Kingdom | 245940 | [245940-axolotl-kingdom.json](./245940-axolotl-kingdom.json) |
+| Axolotl Stars | 197683 | [197683-axolotl-stars.json](./197683-axolotl-stars.json) |
 | Axolotl Swim | 389113 | [389113-axolotl-swim.json](./389113-axolotl-swim.json) |
 | Axom: Conquest | 333357 | [333357-axom-conquest.json](./333357-axom-conquest.json) |
 | Axon Hero | 217278 | [217278-axon-hero.json](./217278-axon-hero.json) |
