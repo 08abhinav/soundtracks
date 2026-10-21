@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | #IDARB | 9888 | [9888-idarb.json](./9888-idarb.json) |
 | #Killallzombies | 26369 | [26369-killallzombies.json](./26369-killallzombies.json) |
 | #Leo-kun White Day Kikaku | 376686 | [376686-leo-kun-white-day-kikaku.json](./376686-leo-kun-white-day-kikaku.json) |
+| #Me | 193792 | [193792-me.json](./193792-me.json) |
 | #NoLimitFantasy, Super Puzzles Dream | 146680 | [146680-nolimitfantasy-super-puzzles-dream.json](./146680-nolimitfantasy-super-puzzles-dream.json) |
 | #OneRoom | 106639 | [106639-oneroom.json](./106639-oneroom.json) |
 | #RaceDieRun | 122792 | [122792-racedierun.json](./122792-racedierun.json) |
