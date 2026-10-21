@@ -2562,6 +2562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Protocol | 294505 | [294505-void-protocol.json](./294505-void-protocol.json) |
 | Void Protocol | 346634 | [346634-void-protocol.json](./346634-void-protocol.json) |
 | Void Protocol | 377288 | [377288-void-protocol.json](./377288-void-protocol.json) |
+| Void Racer: Extreme | 174561 | [174561-void-racer-extreme.json](./174561-void-racer-extreme.json) |
 | Void Raider | 362041 | [362041-void-raider.json](./362041-void-raider.json) |
 | Void Raiders | 335962 | [335962-void-raiders.json](./335962-void-raiders.json) |
 | Void Rangers | 31277 | [31277-void-rangers.json](./31277-void-rangers.json) |
