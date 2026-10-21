@@ -2485,6 +2485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oozing Islands | 165685 | [165685-oozing-islands.json](./165685-oozing-islands.json) |
 | Oozora Hectare Nouen | 175137 | [175137-oozora-hectare-nouen.json](./175137-oozora-hectare-nouen.json) |
 | Oozumou Tamashii | 44383 | [44383-oozumou-tamashii.json](./44383-oozumou-tamashii.json) |
+| OP: Adventure of Pirates | 193787 | [193787-op-adventure-of-pirates.json](./193787-op-adventure-of-pirates.json) |
 | OP. After-Mass N1 | 216967 | [216967-op-after-mass-n1.json](./216967-op-after-mass-n1.json) |
 | OP.1953 | 263339 | [263339-op-1953.json](./263339-op-1953.json) |
 | OPA: Super Janken | 341513 | [341513-opa-super-janken.json](./341513-opa-super-janken.json) |
