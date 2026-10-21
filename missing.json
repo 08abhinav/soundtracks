@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T00:18:41.569Z",
-  "total_missing": 239756,
+  "generated_at": "2026-10-21T00:33:35.786Z",
+  "total_missing": 239806,
   "games": [
     {
       "igdb_id": 191680,
@@ -440,6 +440,11 @@
       "igdb_id": 307298,
       "game_name": "(A)woken",
       "file": "missing/0-9/307298-a-woken.json"
+    },
+    {
+      "igdb_id": 203163,
+      "game_name": "(Another) Shadow the Hedgehog in Sonic the Hedgehog",
+      "file": "missing/0-9/203163-another-shadow-the-hedgehog-in-sonic-the-hedgehog.json"
     },
     {
       "igdb_id": 86731,
@@ -28755,6 +28760,11 @@
       "igdb_id": 119330,
       "game_name": "After the Fall",
       "file": "missing/A/119330-after-the-fall.json"
+    },
+    {
+      "igdb_id": 203158,
+      "game_name": "After the Fall",
+      "file": "missing/A/203158-after-the-fall.json"
     },
     {
       "igdb_id": 237751,
@@ -105945,6 +105955,11 @@
       "igdb_id": 363891,
       "game_name": "Ben 10: Backpack",
       "file": "missing/B/363891-ben-10-backpack.json"
+    },
+    {
+      "igdb_id": 203084,
+      "game_name": "Ben 10: Ben to the Rescue",
+      "file": "missing/B/203084-ben-10-ben-to-the-rescue.json"
     },
     {
       "igdb_id": 221061,
@@ -260467,6 +260482,11 @@
       "file": "missing/D/21668-dexter-the-game.json"
     },
     {
+      "igdb_id": 203085,
+      "game_name": "Dexter's Lab: Dee Dee's Moon Squad",
+      "file": "missing/D/203085-dexters-lab-dee-dees-moon-squad.json"
+    },
+    {
       "igdb_id": 23608,
       "game_name": "Dexter's Laboratory Security Alert!",
       "file": "missing/D/23608-dexters-laboratory-security-alert.json"
@@ -272260,6 +272280,11 @@
       "igdb_id": 301932,
       "game_name": "Doctor Who: Don't Blink",
       "file": "missing/D/301932-doctor-who-dont-blink.json"
+    },
+    {
+      "igdb_id": 203087,
+      "game_name": "Doctor Who: Duo Bundle",
+      "file": "missing/D/203087-doctor-who-duo-bundle.json"
     },
     {
       "igdb_id": 47842,
@@ -306445,6 +306470,11 @@
       "igdb_id": 374686,
       "game_name": "Ed, Edd n Eddy: Cul-de-Sac Smash",
       "file": "missing/E/374686-ed-edd-n-eddy-cul-de-sac-smash.json"
+    },
+    {
+      "igdb_id": 203093,
+      "game_name": "Ed, Edd n Eddy: Ed Over Heels",
+      "file": "missing/E/203093-ed-edd-n-eddy-ed-over-heels.json"
     },
     {
       "igdb_id": 2816,
@@ -371847,6 +371877,11 @@
       "file": "missing/F/207275-formula-bit-racing-dx.json"
     },
     {
+      "igdb_id": 203075,
+      "game_name": "Formula Bwoah",
+      "file": "missing/F/203075-formula-bwoah.json"
+    },
+    {
       "igdb_id": 99409,
       "game_name": "Formula Car Racing Simulator",
       "file": "missing/F/99409-formula-car-racing-simulator.json"
@@ -414175,6 +414210,11 @@
       "igdb_id": 384172,
       "game_name": "Gop Stop Auto",
       "file": "missing/G/384172-gop-stop-auto.json"
+    },
+    {
+      "igdb_id": 203176,
+      "game_name": "GoPets",
+      "file": "missing/G/203176-gopets.json"
     },
     {
       "igdb_id": 124019,
@@ -498765,6 +498805,11 @@
       "igdb_id": 403833,
       "game_name": "Into The Haunted Land",
       "file": "missing/I/403833-into-the-haunted-land.json"
+    },
+    {
+      "igdb_id": 203159,
+      "game_name": "Into the Haze",
+      "file": "missing/I/203159-into-the-haze.json"
     },
     {
       "igdb_id": 276749,
@@ -590497,6 +590542,11 @@
       "file": "missing/M/214010-magnet-effect.json"
     },
     {
+      "igdb_id": 203091,
+      "game_name": "Magnet Face",
+      "file": "missing/M/203091-magnet-face.json"
+    },
+    {
       "igdb_id": 235665,
       "game_name": "Magnet Jack",
       "file": "missing/M/235665-magnet-jack.json"
@@ -600765,6 +600815,11 @@
       "igdb_id": 86858,
       "game_name": "Marshawn Lynch Pro Football",
       "file": "missing/M/86858-marshawn-lynch-pro-football.json"
+    },
+    {
+      "igdb_id": 203155,
+      "game_name": "Marshie's Malloween Mix-Up",
+      "file": "missing/M/203155-marshies-malloween-mix-up.json"
     },
     {
       "igdb_id": 121770,
@@ -615760,6 +615815,11 @@
       "igdb_id": 203178,
       "game_name": "Meine Liebe II: Hokori to Seigi to Ai",
       "file": "missing/M/203178-meine-liebe-ii-hokori-to-seigi-to-ai.json"
+    },
+    {
+      "igdb_id": 203177,
+      "game_name": "Meine Liebe: Yuubinaru Kioku",
+      "file": "missing/M/203177-meine-liebe-yuubinaru-kioku.json"
     },
     {
       "igdb_id": 395851,
@@ -641440,6 +641500,11 @@
       "igdb_id": 184971,
       "game_name": "Monigote Fantasy",
       "file": "missing/M/184971-monigote-fantasy.json"
+    },
+    {
+      "igdb_id": 203076,
+      "game_name": "Monique: Passion Hôtesse de Caisse",
+      "file": "missing/M/203076-monique-passion-hotesse-de-caisse.json"
     },
     {
       "igdb_id": 276466,
@@ -683090,6 +683155,11 @@
       "igdb_id": 77186,
       "game_name": "Nick Carter: Il Mistero del Tesoro Degli Incaz!",
       "file": "missing/N/77186-nick-carter-il-mistero-del-tesoro-degli-incaz.json"
+    },
+    {
+      "igdb_id": 203154,
+      "game_name": "Nick Extreme Sports",
+      "file": "missing/N/203154-nick-extreme-sports.json"
     },
     {
       "igdb_id": 295038,
@@ -769212,6 +769282,11 @@
       "file": "missing/P/257931-portal-fantasy.json"
     },
     {
+      "igdb_id": 203152,
+      "game_name": "Portal for the C64",
+      "file": "missing/P/203152-portal-for-the-c64.json"
+    },
+    {
       "igdb_id": 349495,
       "game_name": "Portal for TIC-80",
       "file": "missing/P/349495-portal-for-tic-80.json"
@@ -772032,6 +772107,11 @@
       "file": "missing/P/203083-powerpuff-girls-pillow-fight.json"
     },
     {
+      "igdb_id": 203061,
+      "game_name": "Powerpuff Girls: Zom-B-Gone!",
+      "file": "missing/P/203061-powerpuff-girls-zom-b-gone.json"
+    },
+    {
       "igdb_id": 254470,
       "game_name": "Powers",
       "file": "missing/P/254470-powers.json"
@@ -773705,6 +773785,11 @@
       "igdb_id": 195797,
       "game_name": "Pretty Girls Four Kings Solitaire",
       "file": "missing/P/195797-pretty-girls-four-kings-solitaire.json"
+    },
+    {
+      "igdb_id": 203094,
+      "game_name": "Pretty Girls Game Collection",
+      "file": "missing/P/203094-pretty-girls-game-collection.json"
     },
     {
       "igdb_id": 342770,
@@ -793107,6 +793192,11 @@
       "file": "missing/Q/202932-quake-deaths-dominion.json"
     },
     {
+      "igdb_id": 203156,
+      "game_name": "Quake: DM4 Jam",
+      "file": "missing/Q/203156-quake-dm4-jam.json"
+    },
+    {
       "igdb_id": 196646,
       "game_name": "Quake: Doom Tintin Jam",
       "file": "missing/Q/196646-quake-doom-tintin-jam.json"
@@ -793295,6 +793385,11 @@
       "igdb_id": 196632,
       "game_name": "Quake: Underwater Jam",
       "file": "missing/Q/196632-quake-underwater-jam.json"
+    },
+    {
+      "igdb_id": 203157,
+      "game_name": "Quake: Unused Jam",
+      "file": "missing/Q/203157-quake-unused-jam.json"
     },
     {
       "igdb_id": 196631,
@@ -839365,6 +839460,11 @@
       "igdb_id": 295548,
       "game_name": "Rouge Tank",
       "file": "missing/R/295548-rouge-tank.json"
+    },
+    {
+      "igdb_id": 203162,
+      "game_name": "Rouge the Bat in Sonic the Hedgehog",
+      "file": "missing/R/203162-rouge-the-bat-in-sonic-the-hedgehog.json"
     },
     {
       "igdb_id": 274986,
@@ -887392,14 +887492,79 @@
       "file": "missing/S/130774-simple-1500-series-vol-65-the-golf.json"
     },
     {
+      "igdb_id": 203064,
+      "game_name": "Simple 1500 Series Vol. 66: The Kaiten - Mawasun Da!!",
+      "file": "missing/S/203064-simple-1500-series-vol-66-the-kaiten-mawasun-da.json"
+    },
+    {
       "igdb_id": 66013,
       "game_name": "Simple 1500 Series Vol. 7: The Card",
       "file": "missing/S/66013-simple-1500-series-vol-7-the-card.json"
     },
     {
+      "igdb_id": 203065,
+      "game_name": "Simple 1500 Series Vol. 70: The War Simulation - Nin no Tsukurishisha-tachi",
+      "file": "missing/S/203065-simple-1500-series-vol-70-the-war-simulation-nin-no-tsukurishisha-tachi.json"
+    },
+    {
+      "igdb_id": 203067,
+      "game_name": "Simple 1500 Series Vol. 71: The Renai Simulation 2",
+      "file": "missing/S/203067-simple-1500-series-vol-71-the-renai-simulation-2.json"
+    },
+    {
+      "igdb_id": 203068,
+      "game_name": "Simple 1500 Series Vol. 72: The Beach Volley",
+      "file": "missing/S/203068-simple-1500-series-vol-72-the-beach-volley.json"
+    },
+    {
+      "igdb_id": 203069,
+      "game_name": "Simple 1500 Series Vol. 73: The Invaders - Space Invaders 1500",
+      "file": "missing/S/203069-simple-1500-series-vol-73-the-invaders-space-invaders-1500.json"
+    },
+    {
+      "igdb_id": 203070,
+      "game_name": "Simple 1500 Series Vol. 75: The Double Shooting - Raystorm & Raycrisis",
+      "file": "missing/S/203070-simple-1500-series-vol-75-the-double-shooting-raystorm-and-raycrisis.json"
+    },
+    {
       "igdb_id": 209500,
       "game_name": "Simple 1500 Series Vol. 77: The Suiei",
       "file": "missing/S/209500-simple-1500-series-vol-77-the-suiei.json"
+    },
+    {
+      "igdb_id": 203072,
+      "game_name": "Simple 1500 Series Vol. 78: The Zero Yon",
+      "file": "missing/S/203072-simple-1500-series-vol-78-the-zero-yon.json"
+    },
+    {
+      "igdb_id": 203073,
+      "game_name": "Simple 1500 Series Vol. 79: The Shisenshou",
+      "file": "missing/S/203073-simple-1500-series-vol-79-the-shisenshou.json"
+    },
+    {
+      "igdb_id": 203078,
+      "game_name": "Simple 1500 Series Vol. 82: The Sensuikan",
+      "file": "missing/S/203078-simple-1500-series-vol-82-the-sensuikan.json"
+    },
+    {
+      "igdb_id": 203079,
+      "game_name": "Simple 1500 Series Vol. 84: The Intro Quiz",
+      "file": "missing/S/203079-simple-1500-series-vol-84-the-intro-quiz.json"
+    },
+    {
+      "igdb_id": 203080,
+      "game_name": "Simple 1500 Series Vol. 85: The Sengoku Bushou - Tenka Touitsu no Yabou",
+      "file": "missing/S/203080-simple-1500-series-vol-85-the-sengoku-bushou-tenka-touitsu-no-yabou.json"
+    },
+    {
+      "igdb_id": 203081,
+      "game_name": "Simple 1500 Series Vol. 86: The Onigokko",
+      "file": "missing/S/203081-simple-1500-series-vol-86-the-onigokko.json"
+    },
+    {
+      "igdb_id": 203082,
+      "game_name": "Simple 1500 Series Vol. 87: The Kyoutei",
+      "file": "missing/S/203082-simple-1500-series-vol-87-the-kyoutei.json"
     },
     {
       "igdb_id": 203119,
@@ -910487,6 +910652,11 @@
       "file": "missing/S/136921-sonic-2-megamix.json"
     },
     {
+      "igdb_id": 203167,
+      "game_name": "Sonic 2 Retro Remix",
+      "file": "missing/S/203167-sonic-2-retro-remix.json"
+    },
+    {
       "igdb_id": 227799,
       "game_name": "Sonic 2 SMS Remake",
       "file": "missing/S/227799-sonic-2-sms-remake.json"
@@ -911020,6 +911190,11 @@
       "igdb_id": 12855,
       "game_name": "Sonic Boom",
       "file": "missing/S/12855-sonic-boom.json"
+    },
+    {
+      "igdb_id": 203165,
+      "game_name": "Sonic Boom",
+      "file": "missing/S/203165-sonic-boom.json"
     },
     {
       "igdb_id": 297603,
@@ -913565,6 +913740,11 @@
       "igdb_id": 294466,
       "game_name": "Sonic the Hedgehog: Minigame Laptop",
       "file": "missing/S/294466-sonic-the-hedgehog-minigame-laptop.json"
+    },
+    {
+      "igdb_id": 203164,
+      "game_name": "Sonic the Hedgehog: OmoChao Edition",
+      "file": "missing/S/203164-sonic-the-hedgehog-omochao-edition.json"
     },
     {
       "igdb_id": 301516,
@@ -942072,6 +942252,16 @@
       "file": "missing/S/30868-starry-nights-helix.json"
     },
     {
+      "igdb_id": 203173,
+      "game_name": "Starry Sky: After Autumn",
+      "file": "missing/S/203173-starry-sky-after-autumn.json"
+    },
+    {
+      "igdb_id": 203174,
+      "game_name": "Starry Sky: After Autumn Portable",
+      "file": "missing/S/203174-starry-sky-after-autumn-portable.json"
+    },
+    {
       "igdb_id": 201758,
       "game_name": "Starry Sky: After Spring",
       "file": "missing/S/201758-starry-sky-after-spring.json"
@@ -942100,6 +942290,21 @@
       "igdb_id": 203813,
       "game_name": "Starry Sky: After Winter Portable",
       "file": "missing/S/203813-starry-sky-after-winter-portable.json"
+    },
+    {
+      "igdb_id": 203168,
+      "game_name": "Starry Sky: in Autumn",
+      "file": "missing/S/203168-starry-sky-in-autumn.json"
+    },
+    {
+      "igdb_id": 203171,
+      "game_name": "Starry Sky: in Autumn 3D",
+      "file": "missing/S/203171-starry-sky-in-autumn-3d.json"
+    },
+    {
+      "igdb_id": 203170,
+      "game_name": "Starry Sky: in Autumn Portable",
+      "file": "missing/S/203170-starry-sky-in-autumn-portable.json"
     },
     {
       "igdb_id": 76449,
@@ -956392,6 +956597,11 @@
       "file": "missing/S/103935-succession-rack-o-style-game.json"
     },
     {
+      "igdb_id": 203066,
+      "game_name": "Successor",
+      "file": "missing/S/203066-successor.json"
+    },
+    {
       "igdb_id": 115578,
       "game_name": "Successor of the Moon",
       "file": "missing/S/115578-successor-of-the-moon.json"
@@ -968200,6 +968410,11 @@
       "igdb_id": 4188,
       "game_name": "Super Monkey Ball Adventure",
       "file": "missing/S/4188-super-monkey-ball-adventure.json"
+    },
+    {
+      "igdb_id": 203169,
+      "game_name": "Super Monkey Ball Gaiden",
+      "file": "missing/S/203169-super-monkey-ball-gaiden.json"
     },
     {
       "igdb_id": 6622,
@@ -1057312,6 +1057527,11 @@
       "file": "missing/T/284953-thems-fightin-herds-baihe.json"
     },
     {
+      "igdb_id": 203089,
+      "game_name": "Them's Fightin' Herds: Deluxe Edition",
+      "file": "missing/T/203089-thems-fightin-herds-deluxe-edition.json"
+    },
+    {
       "igdb_id": 284952,
       "game_name": "Them's Fightin' Herds: Nidra",
       "file": "missing/T/284952-thems-fightin-herds-nidra.json"
@@ -1083865,6 +1084085,11 @@
       "igdb_id": 203647,
       "game_name": "Touhou Kouma Daimeikyuu",
       "file": "missing/T/203647-touhou-kouma-daimeikyuu.json"
+    },
+    {
+      "igdb_id": 203160,
+      "game_name": "Touhou Kouma Meikyuu: Adventures of Reimu",
+      "file": "missing/T/203160-touhou-kouma-meikyuu-adventures-of-reimu.json"
     },
     {
       "igdb_id": 377364,
@@ -1134177,6 +1134402,11 @@
       "file": "missing/V/143507-virtua-fighter-2-vs-tekken-2.json"
     },
     {
+      "igdb_id": 203161,
+      "game_name": "Virtua Fighter 3tb",
+      "file": "missing/V/203161-virtua-fighter-3tb.json"
+    },
+    {
       "igdb_id": 279763,
       "game_name": "Virtua Fighter 3tb Online",
       "file": "missing/V/279763-virtua-fighter-3tb-online.json"
@@ -1159397,6 +1159627,11 @@
       "file": "missing/W/409656-whys-and-wonders-secrets-of-our-bodies.json"
     },
     {
+      "igdb_id": 203175,
+      "game_name": "Whyville",
+      "file": "missing/W/203175-whyville.json"
+    },
+    {
       "igdb_id": 272466,
       "game_name": "Wi-fi Dungeon: Organism Online",
       "file": "missing/W/272466-wi-fi-dungeon-organism-online.json"
@@ -1164685,6 +1164920,11 @@
       "igdb_id": 110902,
       "game_name": "Witch of the Woods",
       "file": "missing/W/110902-witch-of-the-woods.json"
+    },
+    {
+      "igdb_id": 203090,
+      "game_name": "Witch on the Holy Night: Limited Edition",
+      "file": "missing/W/203090-witch-on-the-holy-night-limited-edition.json"
     },
     {
       "igdb_id": 334293,
@@ -1184012,6 +1184252,11 @@
       "file": "missing/Y/100556-yoiyami-dancers.json"
     },
     {
+      "igdb_id": 203077,
+      "game_name": "Yoiyami Densetsu: The Legend of Twilight",
+      "file": "missing/Y/203077-yoiyami-densetsu-the-legend-of-twilight.json"
+    },
+    {
       "igdb_id": 69353,
       "game_name": "Yoiyami Dreamer: Voice of the Dreambringer",
       "file": "missing/Y/69353-yoiyami-dreamer-voice-of-the-dreambringer.json"
@@ -1189180,6 +1189425,11 @@
       "igdb_id": 232829,
       "game_name": "Yuuwaku no Toiki",
       "file": "missing/Y/232829-yuuwaku-no-toiki.json"
+    },
+    {
+      "igdb_id": 203166,
+      "game_name": "Yuuwaku Office Ren'ai-ka",
+      "file": "missing/Y/203166-yuuwaku-office-renai-ka.json"
     },
     {
       "igdb_id": 9688,
