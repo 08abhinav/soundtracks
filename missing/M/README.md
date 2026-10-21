@@ -841,6 +841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Dungeon Hero: Freedom or Death | 328102 | [328102-magic-dungeon-hero-freedom-or-death.json](./328102-magic-dungeon-hero-freedom-or-death.json) |
 | Magic Easter Escape | 315573 | [315573-magic-easter-escape.json](./315573-magic-easter-escape.json) |
 | Magic Emperor 1 | 148867 | [148867-magic-emperor-1.json](./148867-magic-emperor-1.json) |
+| Magic Encyclopedia: First Story | 175070 | [175070-magic-encyclopedia-first-story.json](./175070-magic-encyclopedia-first-story.json) |
 | Magic Encyclopedia: Illusions | 99383 | [99383-magic-encyclopedia-illusions.json](./99383-magic-encyclopedia-illusions.json) |
 | Magic Escape | 273468 | [273468-magic-escape.json](./273468-magic-escape.json) |
 | Magic Factory | 115047 | [115047-magic-factory.json](./115047-magic-factory.json) |
@@ -4874,6 +4875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MazeQuest 2 | 109641 | [109641-mazequest-2.json](./109641-mazequest-2.json) |
 | Mazer | 339313 | [339313-mazer.json](./339313-mazer.json) |
 | Mazer | 4317 | [4317-mazer.json](./4317-mazer.json) |
+| Mazer Blazer | 175623 | [175623-mazer-blazer.json](./175623-mazer-blazer.json) |
 | Mazer Laser | 319341 | [319341-mazer-laser.json](./319341-mazer-laser.json) |
 | Mazera | 94679 | [94679-mazera.json](./94679-mazera.json) |
 | Mazes | 312261 | [312261-mazes.json](./312261-mazes.json) |
@@ -8009,6 +8011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey Mania: The Timeless Adventures of Mickey Mouse | 256367 | [256367-mickey-mania-the-timeless-adventures-of-mickey-mouse.json](./256367-mickey-mania-the-timeless-adventures-of-mickey-mouse.json) |
 | Mickey Mauser: The Wrath of the Rat | 324150 | [324150-mickey-mauser-the-wrath-of-the-rat.json](./324150-mickey-mauser-the-wrath-of-the-rat.json) |
 | Mickey Mouse | 153449 | [153449-mickey-mouse.json](./153449-mickey-mouse.json) |
+| Mickey Mouse | 175636 | [175636-mickey-mouse.json](./175636-mickey-mouse.json) |
 | Mickey Mouse | 198817 | [198817-mickey-mouse.json](./198817-mickey-mouse.json) |
 | Mickey Mouse | 200335 | [200335-mickey-mouse.json](./200335-mickey-mouse.json) |
 | Mickey Mouse | 78680 | [78680-mickey-mouse.json](./78680-mickey-mouse.json) |
@@ -9526,6 +9529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MineDeeper | 376265 | [376265-minedeeper.json](./376265-minedeeper.json) |
 | Minedle | 375535 | [375535-minedle.json](./375535-minedle.json) |
 | MineDrill Redux | 41945 | [41945-minedrill-redux.json](./41945-minedrill-redux.json) |
+| Minefield | 175624 | [175624-minefield.json](./175624-minefield.json) |
 | Minefield | 39724 | [39724-minefield.json](./39724-minefield.json) |
 | Minefield Combat | 315660 | [315660-minefield-combat.json](./315660-minefield-combat.json) |
 | Minefields | 299512 | [299512-minefields.json](./299512-minefields.json) |
@@ -9652,6 +9656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper: Next-Gen | 403630 | [403630-minesweeper-next-gen.json](./403630-minesweeper-next-gen.json) |
 | Minesweeper: Soukaitei | 308607 | [308607-minesweeper-soukaitei.json](./308607-minesweeper-soukaitei.json) |
 | Minesweeper: The Clean One | 180245 | [180245-minesweeper-the-clean-one.json](./180245-minesweeper-the-clean-one.json) |
+| Minesweeper: Widget Edition | 175570 | [175570-minesweeper-widget-edition.json](./175570-minesweeper-widget-edition.json) |
 | MineSweeper.R | 389523 | [389523-minesweeper-r.json](./389523-minesweeper-r.json) |
 | Mineswifter | 138189 | [138189-mineswifter.json](./138189-mineswifter.json) |
 | Minetic | 349893 | [349893-minetic.json](./349893-minetic.json) |
@@ -9675,6 +9680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Attack Submarine | 57763 | [57763-mini-attack-submarine.json](./57763-mini-attack-submarine.json) |
 | Mini Basketball | 194630 | [194630-mini-basketball.json](./194630-mini-basketball.json) |
 | Mini Battle Ground | 191033 | [191033-mini-battle-ground.json](./191033-mini-battle-ground.json) |
+| Mini Blaster | 175611 | [175611-mini-blaster.json](./175611-mini-blaster.json) |
 | Mini Car Coin Collector | 390609 | [390609-mini-car-coin-collector.json](./390609-mini-car-coin-collector.json) |
 | Mini Car Racing | 148355 | [148355-mini-car-racing.json](./148355-mini-car-racing.json) |
 | Mini Car Racing: Tiny Split Screen Tournament | 169157 | [169157-mini-car-racing-tiny-split-screen-tournament.json](./169157-mini-car-racing-tiny-split-screen-tournament.json) |
@@ -12310,6 +12316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Traveler | 270058 | [270058-monster-traveler.json](./270058-monster-traveler.json) |
 | Monster Trek | 245194 | [245194-monster-trek.json](./245194-monster-trek.json) |
 | Monster Trivia | 100119 | [100119-monster-trivia.json](./100119-monster-trivia.json) |
+| Monster Trouble Anniversary Edition | 175590 | [175590-monster-trouble-anniversary-edition.json](./175590-monster-trouble-anniversary-edition.json) |
 | Monster Truck | 332857 | [332857-monster-truck.json](./332857-monster-truck.json) |
 | Monster Truck Arena: Battle Royale | 322419 | [322419-monster-truck-arena-battle-royale.json](./322419-monster-truck-arena-battle-royale.json) |
 | Monster Truck Championship | 132220 | [132220-monster-truck-championship.json](./132220-monster-truck-championship.json) |
@@ -13640,6 +13647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motor Rally 2 | 358836 | [358836-motor-rally-2.json](./358836-motor-rally-2.json) |
 | Motor Show | 85957 | [85957-motor-show.json](./85957-motor-show.json) |
 | Motor Storm | 247039 | [247039-motor-storm.json](./247039-motor-storm.json) |
+| Motor Stunt Xtreme | 175596 | [175596-motor-stunt-xtreme.json](./175596-motor-stunt-xtreme.json) |
 | Motor Toon Grand Prix | 43887 | [43887-motor-toon-grand-prix.json](./43887-motor-toon-grand-prix.json) |
 | Motor Toon Grand Prix | 45109 | [45109-motor-toon-grand-prix.json](./45109-motor-toon-grand-prix.json) |
 | Motor Town: Behind the Wheel | 148781 | [148781-motor-town-behind-the-wheel.json](./148781-motor-town-behind-the-wheel.json) |
@@ -14961,6 +14969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Box: Hip Hop vol.2 | 316272 | [316272-music-box-hip-hop-vol-2.json](./316272-music-box-hip-hop-vol-2.json) |
 | Music Boy 3D | 90191 | [90191-music-boy-3d.json](./90191-music-boy-3d.json) |
 | Music Catch 2 | 216325 | [216325-music-catch-2.json](./216325-music-catch-2.json) |
+| Music Charades | 175092 | [175092-music-charades.json](./175092-music-charades.json) |
 | Music Chase 1: The Music In Me | 399836 | [399836-music-chase-1-the-music-in-me.json](./399836-music-chase-1-the-music-in-me.json) |
 | Music Club Manager | 126616 | [126616-music-club-manager.json](./126616-music-club-manager.json) |
 | Music Composer | 100301 | [100301-music-composer.json](./100301-music-composer.json) |
