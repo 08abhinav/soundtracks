@@ -616,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 BC: A Mediterranean Odyssey | 12353 | [12353-1001-bc-a-mediterranean-odyssey.json](./12353-1001-bc-a-mediterranean-odyssey.json) |
 | 1001 Black Raven Jigsaw | 199356 | [199356-1001-black-raven-jigsaw.json](./199356-1001-black-raven-jigsaw.json) |
 | 1001 Crystal Mazes Collection | 66625 | [66625-1001-crystal-mazes-collection.json](./66625-1001-crystal-mazes-collection.json) |
+| 1001 Jigsaw American Puzzles | 195421 | [195421-1001-jigsaw-american-puzzles.json](./195421-1001-jigsaw-american-puzzles.json) |
 | 1001 Jigsaw Detective | 166639 | [166639-1001-jigsaw-detective.json](./166639-1001-jigsaw-detective.json) |
 | 1001 Jigsaw Detective 3 | 268027 | [268027-1001-jigsaw-detective-3.json](./268027-1001-jigsaw-detective-3.json) |
 | 1001 Jigsaw Detective 4 | 262879 | [262879-1001-jigsaw-detective-4.json](./262879-1001-jigsaw-detective-4.json) |
