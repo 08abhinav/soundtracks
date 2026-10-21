@@ -1348,6 +1348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IdleTowerDefense | 357843 | [357843-idletowerdefense.json](./357843-idletowerdefense.json) |
 | Idlewood Outpost | 373340 | [373340-idlewood-outpost.json](./373340-idlewood-outpost.json) |
 | Idling Gears | 237081 | [237081-idling-gears.json](./237081-idling-gears.json) |
+| Idling Idol | 186505 | [186505-idling-idol.json](./186505-idling-idol.json) |
 | Idly God | 209637 | [209637-idly-god.json](./209637-idly-god.json) |
 | Ido no Akai | 151851 | [151851-ido-no-akai.json](./151851-ido-no-akai.json) |
 | Idol Connect -AsteriskLive- | 56164 | [56164-idol-connect-asterisklive.json](./56164-idol-connect-asterisklive.json) |
@@ -3094,6 +3095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inflatum | 295879 | [295879-inflatum.json](./295879-inflatum.json) |
 | Infliction | 55282 | [55282-infliction.json](./55282-infliction.json) |
 | Inflorescences | 249217 | [249217-inflorescences.json](./249217-inflorescences.json) |
+| Influence | 186525 | [186525-influence.json](./186525-influence.json) |
 | Influence | 210032 | [210032-influence.json](./210032-influence.json) |
 | Influence | 25482 | [25482-influence.json](./25482-influence.json) |
 | Influenced | 179675 | [179675-influenced.json](./179675-influenced.json) |
@@ -3676,6 +3678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intellivision Shark! Shark! Gen2 | 61858 | [61858-intellivision-shark-shark-gen2.json](./61858-intellivision-shark-shark-gen2.json) |
 | Intellivision Skiing | 228882 | [228882-intellivision-skiing.json](./228882-intellivision-skiing.json) |
 | Intemporel | 132537 | [132537-intemporel.json](./132537-intemporel.json) |
+| Intense Love Shot | 186514 | [186514-intense-love-shot.json](./186514-intense-love-shot.json) |
 | Intense! Miyu-chan and Teacher's Rock-Paper-Scissors Battle! | 340756 | [340756-intense-miyu-chan-and-teachers-rock-paper-scissors-battle.json](./340756-intense-miyu-chan-and-teachers-rock-paper-scissors-battle.json) |
 | Intensive Care ( Hospital Interactive Story ) | 101104 | [101104-intensive-care-hospital-interactive-story.json](./101104-intensive-care-hospital-interactive-story.json) |
 | Intensive Exposure | 23725 | [23725-intensive-exposure.json](./23725-intensive-exposure.json) |
