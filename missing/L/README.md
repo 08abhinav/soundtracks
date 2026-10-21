@@ -3456,6 +3456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of a Goldfish | 364670 | [364670-life-of-a-goldfish.json](./364670-life-of-a-goldfish.json) |
 | Life of a Lonely Indie Game Developer | 324888 | [324888-life-of-a-lonely-indie-game-developer.json](./324888-life-of-a-lonely-indie-game-developer.json) |
 | Life of a Mercenary | 132606 | [132606-life-of-a-mercenary.json](./132606-life-of-a-mercenary.json) |
+| Life of a Polygon | 177231 | [177231-life-of-a-polygon.json](./177231-life-of-a-polygon.json) |
 | Life of a Space Force Captain | 190947 | [190947-life-of-a-space-force-captain.json](./190947-life-of-a-space-force-captain.json) |
 | Life of a Thug | 306341 | [306341-life-of-a-thug.json](./306341-life-of-a-thug.json) |
 | Life of an NPC | 381128 | [381128-life-of-an-npc.json](./381128-life-of-an-npc.json) |
@@ -6197,6 +6198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Memory | 228087 | [228087-lost-in-memory.json](./228087-lost-in-memory.json) |
 | Lost In Night | 90202 | [90202-lost-in-night.json](./90202-lost-in-night.json) |
 | Lost in Nowhere | 275556 | [275556-lost-in-nowhere.json](./275556-lost-in-nowhere.json) |
+| Lost in Pandation | 177215 | [177215-lost-in-pandation.json](./177215-lost-in-pandation.json) |
 | Lost in Paradise | 20528 | [20528-lost-in-paradise.json](./20528-lost-in-paradise.json) |
 | Lost in Paradise | 416689 | [416689-lost-in-paradise.json](./416689-lost-in-paradise.json) |
 | Lost In Parallels | 216631 | [216631-lost-in-parallels.json](./216631-lost-in-parallels.json) |
