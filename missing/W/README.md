@@ -750,6 +750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of the Human Tanks: Limited Operations | 11693 | [11693-war-of-the-human-tanks-limited-operations.json](./11693-war-of-the-human-tanks-limited-operations.json) |
 | War of the Human Tanks: Limited Operations - Unlimited Edition | 53145 | [53145-war-of-the-human-tanks-limited-operations-unlimited-edition.json](./53145-war-of-the-human-tanks-limited-operations-unlimited-edition.json) |
 | War of the Lance | 50494 | [50494-war-of-the-lance.json](./50494-war-of-the-lance.json) |
+| War of the Lilies: An Eons Lost Story | 182100 | [182100-war-of-the-lilies-an-eons-lost-story.json](./182100-war-of-the-lilies-an-eons-lost-story.json) |
 | War of the Mars | 151075 | [151075-war-of-the-mars.json](./151075-war-of-the-mars.json) |
 | War of the Monsters | 3208 | [3208-war-of-the-monsters.json](./3208-war-of-the-monsters.json) |
 | War of the Ring | 356066 | [356066-war-of-the-ring.json](./356066-war-of-the-ring.json) |
@@ -4950,6 +4951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witching Hour | 154077 | [154077-witching-hour.json](./154077-witching-hour.json) |
 | Witching Hour | 261158 | [261158-witching-hour.json](./261158-witching-hour.json) |
 | Witching Hour | 410130 | [410130-witching-hour.json](./410130-witching-hour.json) |
+| Witching Morning | 182134 | [182134-witching-morning.json](./182134-witching-morning.json) |
 | Witching Stone | 284839 | [284839-witching-stone.json](./284839-witching-stone.json) |
 | Witching Tower | 90121 | [90121-witching-tower.json](./90121-witching-tower.json) |
 | Witching Tower: Heroes | 132252 | [132252-witching-tower-heroes.json](./132252-witching-tower-heroes.json) |
