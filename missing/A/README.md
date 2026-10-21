@@ -1413,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aberrate Inc. | 377431 | [377431-aberrate-inc.json](./377431-aberrate-inc.json) |
 | Aberration | 187259 | [187259-aberration.json](./187259-aberration.json) |
 | Aberration Analyst | 167393 | [167393-aberration-analyst.json](./167393-aberration-analyst.json) |
+| Abettor | 172993 | [172993-abettor.json](./172993-abettor.json) |
 | Abglantz | 216775 | [216775-abglantz.json](./216775-abglantz.json) |
 | Abh | 173184 | [173184-abh.json](./173184-abh.json) |
 | Abha | 111036 | [111036-abha.json](./111036-abha.json) |
@@ -1576,6 +1577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absum | 366999 | [366999-absum.json](./366999-absum.json) |
 | Absurbia: A Trashy Satire of Suburban Outcries | 159858 | [159858-absurbia-a-trashy-satire-of-suburban-outcries.json](./159858-absurbia-a-trashy-satire-of-suburban-outcries.json) |
 | Absurd | 240208 | [240208-absurd.json](./240208-absurd.json) |
+| Absurd Chess | 172982 | [172982-absurd-chess.json](./172982-absurd-chess.json) |
 | Absurd Story: Back Home | 259500 | [259500-absurd-story-back-home.json](./259500-absurd-story-back-home.json) |
 | Absurd Trolley Problems | 267592 | [267592-absurd-trolley-problems.json](./267592-absurd-trolley-problems.json) |
 | Absurdika: Rebuild | 342800 | [342800-absurdika-rebuild.json](./342800-absurdika-rebuild.json) |
@@ -4689,6 +4691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alea Lacta Est | 300419 | [300419-alea-lacta-est.json](./300419-alea-lacta-est.json) |
 | Aleato | 349112 | [349112-aleato.json](./349112-aleato.json) |
 | Alebound | 356021 | [356021-alebound.json](./356021-alebound.json) |
+| Alec Adventure | 172971 | [172971-alec-adventure.json](./172971-alec-adventure.json) |
 | Aledorn | 197154 | [197154-aledorn.json](./197154-aledorn.json) |
 | Alef's Blademaker: Arms Shop | 304244 | [304244-alefs-blademaker-arms-shop.json](./304244-alefs-blademaker-arms-shop.json) |
 | Alegraz | 391895 | [391895-alegraz.json](./391895-alegraz.json) |
