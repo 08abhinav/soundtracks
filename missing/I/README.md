@@ -1430,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | If My Heart had Wings: Flight Diary - New Wings: Akari | 117522 | [117522-if-my-heart-had-wings-flight-diary-new-wings-akari.json](./117522-if-my-heart-had-wings-flight-diary-new-wings-akari.json) |
 | If Nil then | 201326 | [201326-if-nil-then.json](./201326-if-nil-then.json) |
 | If on a Winter's Night, Four Travelers | 144554 | [144554-if-on-a-winters-night-four-travelers.json](./144554-if-on-a-winters-night-four-travelers.json) |
+| If One Thing Changed | 183259 | [183259-if-one-thing-changed.json](./183259-if-one-thing-changed.json) |
 | If Only... | 75012 | [75012-if-only.json](./75012-if-only.json) |
 | If Platformers Were Rpgs | 181796 | [181796-if-platformers-were-rpgs.json](./181796-if-platformers-were-rpgs.json) |
 | If Solitaire | 417476 | [417476-if-solitaire.json](./417476-if-solitaire.json) |
@@ -5031,6 +5032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's a Gas! | 325080 | [325080-its-a-gas.json](./325080-its-a-gas.json) |
 | It's a Giant! | 185102 | [185102-its-a-giant.json](./185102-its-a-giant.json) |
 | It's a Knockout | 77615 | [77615-its-a-knockout.json](./77615-its-a-knockout.json) |
+| It's a living | 183223 | [183223-its-a-living.json](./183223-its-a-living.json) |
 | It's a Match!! | 268987 | [268987-its-a-match.json](./268987-its-a-match.json) |
 | It's A Me | 202391 | [202391-its-a-me.json](./202391-its-a-me.json) |
 | It's A Promise | 225513 | [225513-its-a-promise.json](./225513-its-a-promise.json) |
