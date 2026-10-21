@@ -656,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Caterpillar | 33411 | [33411-bad-caterpillar.json](./33411-bad-caterpillar.json) |
 | Bad Cheese | 320146 | [320146-bad-cheese.json](./320146-bad-cheese.json) |
 | Bad Chicken | 212906 | [212906-bad-chicken.json](./212906-bad-chicken.json) |
+| Bad Cops | 199776 | [199776-bad-cops.json](./199776-bad-cops.json) |
 | Bad Credit | 190420 | [190420-bad-credit.json](./190420-bad-credit.json) |
 | Bad Day | 104824 | [104824-bad-day.json](./104824-bad-day.json) |
 | Bad Day Betsy | 109863 | [109863-bad-day-betsy.json](./109863-bad-day-betsy.json) |
@@ -6559,6 +6560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Legend | 137365 | [137365-bit-legend.json](./137365-bit-legend.json) |
 | Bit Lost | 363963 | [363963-bit-lost.json](./363963-bit-lost.json) |
 | Bit Maze | 406319 | [406319-bit-maze.json](./406319-bit-maze.json) |
+| Bit Orchard: Animal Valley | 199892 | [199892-bit-orchard-animal-valley.json](./199892-bit-orchard-animal-valley.json) |
 | Bit Orchard: Animal Valley - Amazing Edition | 256762 | [256762-bit-orchard-animal-valley-amazing-edition.json](./256762-bit-orchard-animal-valley-amazing-edition.json) |
 | Bit Orchard: Animal Valley - Complete Edition | 232997 | [232997-bit-orchard-animal-valley-complete-edition.json](./232997-bit-orchard-animal-valley-complete-edition.json) |
 | Bit Orchard: Animal Valley - Director's Cut | 246876 | [246876-bit-orchard-animal-valley-directors-cut.json](./246876-bit-orchard-animal-valley-directors-cut.json) |
