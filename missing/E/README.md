@@ -4424,6 +4424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESports Simulator | 309522 | [309522-esports-simulator.json](./309522-esports-simulator.json) |
 | Esports Team Manager | 356710 | [356710-esports-team-manager.json](./356710-esports-team-manager.json) |
 | Espresso Economics | 339773 | [339773-espresso-economics.json](./339773-espresso-economics.json) |
+| Espresso Tycoon | 194825 | [194825-espresso-tycoon.json](./194825-espresso-tycoon.json) |
 | Espresso Tycoon & Prison Simulator | 332010 | [332010-espresso-tycoon-and-prison-simulator.json](./332010-espresso-tycoon-and-prison-simulator.json) |
 | Espresso Tycoon & Tank Mechanic Simulator | 331926 | [331926-espresso-tycoon-and-tank-mechanic-simulator.json](./331926-espresso-tycoon-and-tank-mechanic-simulator.json) |
 | Espresso Tycoon & Thief Simulator | 331903 | [331903-espresso-tycoon-and-thief-simulator.json](./331903-espresso-tycoon-and-thief-simulator.json) |
