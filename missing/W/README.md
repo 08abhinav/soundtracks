@@ -1752,6 +1752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wataju: My Super Fulfilling Real Life | 216786 | [216786-wataju-my-super-fulfilling-real-life.json](./216786-wataju-my-super-fulfilling-real-life.json) |
 | Watamari Part2: A Fake Marriage? | 375295 | [375295-watamari-part2-a-fake-marriage.json](./375295-watamari-part2-a-fake-marriage.json) |
 | Watamari: A Match Made in Heaven Part1 | 215664 | [215664-watamari-a-match-made-in-heaven-part1.json](./215664-watamari-a-match-made-in-heaven-part1.json) |
+| Watamelon's Adventure | 182731 | [182731-watamelons-adventure.json](./182731-watamelons-adventure.json) |
 | WatanOS | 208572 | [208572-watanos.json](./208572-watanos.json) |
 | Wataoma Extra | 97668 | [97668-wataoma-extra.json](./97668-wataoma-extra.json) |
 | Wataru no Pinball | 284451 | [284451-wataru-no-pinball.json](./284451-wataru-no-pinball.json) |
@@ -1947,6 +1948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave Circles | 117840 | [117840-wave-circles.json](./117840-wave-circles.json) |
 | Wave Defense: Trappist | 325337 | [325337-wave-defense-trappist.json](./325337-wave-defense-trappist.json) |
 | Wave Dungeon | 276138 | [276138-wave-dungeon.json](./276138-wave-dungeon.json) |
+| Wave Function Collapse | 182700 | [182700-wave-function-collapse.json](./182700-wave-function-collapse.json) |
 | Wave Gods: Ammo Night | 395781 | [395781-wave-gods-ammo-night.json](./395781-wave-gods-ammo-night.json) |
 | Wave Machine | 179602 | [179602-wave-machine.json](./179602-wave-machine.json) |
 | Wave Magic VR | 31723 | [31723-wave-magic-vr.json](./31723-wave-magic-vr.json) |
@@ -2988,6 +2990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whatnever | 348782 | [348782-whatnever.json](./348782-whatnever.json) |
 | WhatRogue: Exile Land | 319760 | [319760-whatrogue-exile-land.json](./319760-whatrogue-exile-land.json) |
 | Whatsamusic | 228599 | [228599-whatsamusic.json](./228599-whatsamusic.json) |
+| Whatta Horrible Year | 182695 | [182695-whatta-horrible-year.json](./182695-whatta-horrible-year.json) |
 | WHC: The Game About Witch Hunter's Moving Castle You've Been So Long Waiting For | 87984 | [87984-whc-the-game-about-witch-hunters-moving-castle-youve-been-so-long-waiting-for.json](./87984-whc-the-game-about-witch-hunters-moving-castle-youve-been-so-long-waiting-for.json) |
 | Wheat and Wrath | 400319 | [400319-wheat-and-wrath.json](./400319-wheat-and-wrath.json) |
 | Wheat Fairy of Daya | 249752 | [249752-wheat-fairy-of-daya.json](./249752-wheat-fairy-of-daya.json) |
@@ -5218,6 +5221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizordum | 216197 | [216197-wizordum.json](./216197-wizordum.json) |
 | Wizrogue: Labyrinth of Wizardry | 28557 | [28557-wizrogue-labyrinth-of-wizardry.json](./28557-wizrogue-labyrinth-of-wizardry.json) |
 | Wizschool: Ancient Book of Magic | 338347 | [338347-wizschool-ancient-book-of-magic.json](./338347-wizschool-ancient-book-of-magic.json) |
+| Wizsnooks | 182735 | [182735-wizsnooks.json](./182735-wizsnooks.json) |
 | Wiztern | 194298 | [194298-wiztern.json](./194298-wiztern.json) |
 | Wiztyle | 370841 | [370841-wiztyle.json](./370841-wiztyle.json) |
 | WizUp! | 290917 | [290917-wizup.json](./290917-wizup.json) |
