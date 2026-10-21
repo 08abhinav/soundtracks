@@ -2234,6 +2234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schizo Simulator | 133761 | [133761-schizo-simulator.json](./133761-schizo-simulator.json) |
 | Schizofrenia | 78890 | [78890-schizofrenia.json](./78890-schizofrenia.json) |
 | Schizoid | 21809 | [21809-schizoid.json](./21809-schizoid.json) |
+| Schizoids | 201453 | [201453-schizoids.json](./201453-schizoids.json) |
 | Schizophrenia | 133203 | [133203-schizophrenia.json](./133203-schizophrenia.json) |
 | Schizophrenia: R.E.M. Protocol | 357741 | [357741-schizophrenia-r-e-m-protocol.json](./357741-schizophrenia-r-e-m-protocol.json) |
 | Schizophrenic Rooms | 230857 | [230857-schizophrenic-rooms.json](./230857-schizophrenic-rooms.json) |
@@ -3270,6 +3271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seasonal Soccer | 90188 | [90188-seasonal-soccer.json](./90188-seasonal-soccer.json) |
 | Seasonaut | 384671 | [384671-seasonaut.json](./384671-seasonaut.json) |
 | SeasonPark | 263440 | [263440-seasonpark.json](./263440-seasonpark.json) |
+| Seasons | 201524 | [201524-seasons.json](./201524-seasons.json) |
 | Seasons | 94938 | [94938-seasons.json](./94938-seasons.json) |
 | Seasons after Fall | 15821 | [15821-seasons-after-fall.json](./15821-seasons-after-fall.json) |
 | Seasons of Chiba | 351636 | [351636-seasons-of-chiba.json](./351636-seasons-of-chiba.json) |
@@ -5836,6 +5838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Hates Unicorns | 189979 | [189979-she-hates-unicorns.json](./189979-she-hates-unicorns.json) |
 | She Hungers | 397665 | [397665-she-hungers.json](./397665-she-hungers.json) |
 | She is Home Alone | 310373 | [310373-she-is-home-alone.json](./310373-she-is-home-alone.json) |
+| She is mad: Pay your demon | 201522 | [201522-she-is-mad-pay-your-demon.json](./201522-she-is-mad-pay-your-demon.json) |
 | She is Mermaid | 102086 | [102086-she-is-mermaid.json](./102086-she-is-mermaid.json) |
 | She is Sexaroid | 148439 | [148439-she-is-sexaroid.json](./148439-she-is-sexaroid.json) |
 | She is... | 413045 | [413045-she-is.json](./413045-she-is.json) |
@@ -9316,6 +9319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skools Out | 338809 | [338809-skools-out.json](./338809-skools-out.json) |
 | Skoory Rush | 250463 | [250463-skoory-rush.json](./250463-skoory-rush.json) |
 | Skorecery | 113577 | [113577-skorecery.json](./113577-skorecery.json) |
+| Skotos: Levels Pack | 201534 | [201534-skotos-levels-pack.json](./201534-skotos-levels-pack.json) |
 | Skout | 9358 | [9358-skout.json](./9358-skout.json) |
 | Skrach.it | 345450 | [345450-skrach-it.json](./345450-skrach-it.json) |
 | Skramble | 40928 | [40928-skramble.json](./40928-skramble.json) |
@@ -15207,6 +15211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Trucker | 212234 | [212234-space-trucker.json](./212234-space-trucker.json) |
 | Space Tunnel | 55823 | [55823-space-tunnel.json](./55823-space-tunnel.json) |
 | Space Turbo | 201008 | [201008-space-turbo.json](./201008-space-turbo.json) |
+| Space Turbo 2 | 201448 | [201448-space-turbo-2.json](./201448-space-turbo-2.json) |
 | Space Turret Gunner | 103961 | [103961-space-turret-gunner.json](./103961-space-turret-gunner.json) |
 | Space Tyrant | 30348 | [30348-space-tyrant.json](./30348-space-tyrant.json) |
 | Space UFO | 329991 | [329991-space-ufo.json](./329991-space-ufo.json) |
@@ -21588,6 +21593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stripe Physics | 95315 | [95315-stripe-physics.json](./95315-stripe-physics.json) |
 | Stripes | 305557 | [305557-stripes.json](./305557-stripes.json) |
 | Striping Fruits | 147410 | [147410-striping-fruits.json](./147410-striping-fruits.json) |
+| Stripped of Title: Backlash - Episode 1 | 201532 | [201532-stripped-of-title-backlash-episode-1.json](./201532-stripped-of-title-backlash-episode-1.json) |
 | Stripper Anya 2: X-MiGuFighters | 75168 | [75168-stripper-anya-2-x-migufighters.json](./75168-stripper-anya-2-x-migufighters.json) |
 | Stripper Anya: Christmas Special | 385311 | [385311-stripper-anya-christmas-special.json](./385311-stripper-anya-christmas-special.json) |
 | Stripper Anya: Demon Slayer | 51511 | [51511-stripper-anya-demon-slayer.json](./51511-stripper-anya-demon-slayer.json) |
@@ -23752,6 +23758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Sweets Puzzles | 155608 | [155608-super-jigsaw-puzzle-generations-sweets-puzzles.json](./155608-super-jigsaw-puzzle-generations-sweets-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Technology | 196677 | [196677-super-jigsaw-puzzle-generations-technology.json](./196677-super-jigsaw-puzzle-generations-technology.json) |
 | Super Jigsaw Puzzle: Generations - Tools | 261736 | [261736-super-jigsaw-puzzle-generations-tools.json](./261736-super-jigsaw-puzzle-generations-tools.json) |
+| Super Jigsaw Puzzle: Generations - Trains 2 | 201452 | [201452-super-jigsaw-puzzle-generations-trains-2.json](./201452-super-jigsaw-puzzle-generations-trains-2.json) |
 | Super Jigsaw Puzzle: Generations - Trains Puzzles | 155610 | [155610-super-jigsaw-puzzle-generations-trains-puzzles.json](./155610-super-jigsaw-puzzle-generations-trains-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - United Kingdom | 155597 | [155597-super-jigsaw-puzzle-generations-united-kingdom.json](./155597-super-jigsaw-puzzle-generations-united-kingdom.json) |
 | Super Jigsaw Puzzle: Generations - USA Puzzles | 155634 | [155634-super-jigsaw-puzzle-generations-usa-puzzles.json](./155634-super-jigsaw-puzzle-generations-usa-puzzles.json) |
