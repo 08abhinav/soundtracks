@@ -7966,6 +7966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hangman's Noose | 58222 | [58222-the-hangmans-noose.json](./58222-the-hangmans-noose.json) |
 | The Happies: Doomsday Stories | 247879 | [247879-the-happies-doomsday-stories.json](./247879-the-happies-doomsday-stories.json) |
 | The Happiest Days of Your Life | 13870 | [13870-the-happiest-days-of-your-life.json](./13870-the-happiest-days-of-your-life.json) |
+| The Happy Dismal Town | 192718 | [192718-the-happy-dismal-town.json](./192718-the-happy-dismal-town.json) |
 | The Happy Hereafter | 17521 | [17521-the-happy-hereafter.json](./17521-the-happy-hereafter.json) |
 | The Happyhills Homicide | 209496 | [209496-the-happyhills-homicide.json](./209496-the-happyhills-homicide.json) |
 | The Harakin | 385968 | [385968-the-harakin.json](./385968-the-harakin.json) |
@@ -8259,6 +8260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Humans 2: Jurassic Levels | 39032 | [39032-the-humans-2-jurassic-levels.json](./39032-the-humans-2-jurassic-levels.json) |
 | The Humans Collection | 103199 | [103199-the-humans-collection.json](./103199-the-humans-collection.json) |
 | The Humans: Meet the Ancestors | 78749 | [78749-the-humans-meet-the-ancestors.json](./78749-the-humans-meet-the-ancestors.json) |
+| The Humbling of a Holy Maiden | 192723 | [192723-the-humbling-of-a-holy-maiden.json](./192723-the-humbling-of-a-holy-maiden.json) |
 | The Hunchback of Notre Dame | 54301 | [54301-the-hunchback-of-notre-dame.json](./54301-the-hunchback-of-notre-dame.json) |
 | The Hundred Line: Last Defense Academy - Digital Deluxe Edition | 338007 | [338007-the-hundred-line-last-defense-academy-digital-deluxe-edition.json](./338007-the-hundred-line-last-defense-academy-digital-deluxe-edition.json) |
 | The Hundred Line: Last Defense Academy - Nintendo Switch Version with Sleeve | 385732 | [385732-the-hundred-line-last-defense-academy-nintendo-switch-version-with-sleeve.json](./385732-the-hundred-line-last-defense-academy-nintendo-switch-version-with-sleeve.json) |
