@@ -2174,6 +2174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generation Zero: US Weapons Pack | 234928 | [234928-generation-zero-us-weapons-pack.json](./234928-generation-zero-us-weapons-pack.json) |
 | Generation Zero: US Weapons Pack 2 | 234925 | [234925-generation-zero-us-weapons-pack-2.json](./234925-generation-zero-us-weapons-pack-2.json) |
 | Generations | 237260 | [237260-generations.json](./237260-generations.json) |
+| Generations of Destruction | 189879 | [189879-generations-of-destruction.json](./189879-generations-of-destruction.json) |
 | Generative Quest | 267414 | [267414-generative-quest.json](./267414-generative-quest.json) |
 | Generic Brazilian Favela Game with Generic Enemies 2003 | 264894 | [264894-generic-brazilian-favela-game-with-generic-enemies-2003.json](./264894-generic-brazilian-favela-game-with-generic-enemies-2003.json) |
 | Generic Fighter Maybe | 358350 | [358350-generic-fighter-maybe.json](./358350-generic-fighter-maybe.json) |
@@ -4917,6 +4918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Trails 3 | 100016 | [100016-golden-trails-3.json](./100016-golden-trails-3.json) |
 | Golden Trails: The New Western Rush | 54056 | [54056-golden-trails-the-new-western-rush.json](./54056-golden-trails-the-new-western-rush.json) |
 | Golden Treasure: The Great Green | 117849 | [117849-golden-treasure-the-great-green.json](./117849-golden-treasure-the-great-green.json) |
+| Golden Underfoot | 189890 | [189890-golden-underfoot.json](./189890-golden-underfoot.json) |
 | Golden Voyage | 18525 | [18525-golden-voyage.json](./18525-golden-voyage.json) |
 | Golden war spirit | 119607 | [119607-golden-war-spirit.json](./119607-golden-war-spirit.json) |
 | Golden Warden | 310836 | [310836-golden-warden.json](./310836-golden-warden.json) |
@@ -7481,6 +7483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grub Guardian | 395883 | [395883-grub-guardian.json](./395883-grub-guardian.json) |
 | Grub Truck | 295859 | [295859-grub-truck.json](./295859-grub-truck.json) |
 | Grubby Fingers | 343305 | [343305-grubby-fingers.json](./343305-grubby-fingers.json) |
+| GrubDash Driver: Food Delivery Driver Simulator | 189861 | [189861-grubdash-driver-food-delivery-driver-simulator.json](./189861-grubdash-driver-food-delivery-driver-simulator.json) |
 | Grudge | 278516 | [278516-grudge.json](./278516-grudge.json) |
 | Grudge Murder: Flight | 298685 | [298685-grudge-murder-flight.json](./298685-grudge-murder-flight.json) |
 | Grudge Warriors | 19269 | [19269-grudge-warriors.json](./19269-grudge-warriors.json) |
