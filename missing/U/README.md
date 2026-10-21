@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | uDodge:Practice Tool | 94870 | [94870-udodge-practice-tool.json](./94870-udodge-practice-tool.json) |
 | Udoiana Raunes | 247089 | [247089-udoiana-raunes.json](./247089-udoiana-raunes.json) |
 | Udom Nebdon | 180708 | [180708-udom-nebdon.json](./180708-udom-nebdon.json) |
+| Udongein X | 171809 | [171809-udongein-x.json](./171809-udongein-x.json) |
 | Udongein X: Seiran | 226367 | [226367-udongein-x-seiran.json](./226367-udongein-x-seiran.json) |
 | UdoRin | 213963 | [213963-udorin.json](./213963-udorin.json) |
 | Udos sagner: Sveakampen | 64389 | [64389-udos-sagner-sveakampen.json](./64389-udos-sagner-sveakampen.json) |
