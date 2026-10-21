@@ -5789,6 +5789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Sky | 244502 | [244502-shattered-sky.json](./244502-shattered-sky.json) |
 | Shattered Slime | 160218 | [160218-shattered-slime.json](./160218-shattered-slime.json) |
 | Shattered Souls | 316428 | [316428-shattered-souls.json](./316428-shattered-souls.json) |
+| Shattered State | 203750 | [203750-shattered-state.json](./203750-shattered-state.json) |
 | Shattered Stone | 185545 | [185545-shattered-stone.json](./185545-shattered-stone.json) |
 | Shattered Vault | 390783 | [390783-shattered-vault.json](./390783-shattered-vault.json) |
 | Shattered Void | 340380 | [340380-shattered-void.json](./340380-shattered-void.json) |
@@ -8666,6 +8667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinned | 217411 | [217411-sinned.json](./217411-sinned.json) |
 | Sinner | 118817 | [118817-sinner.json](./118817-sinner.json) |
 | Sinner | 291249 | [291249-sinner.json](./291249-sinner.json) |
+| Sinner 97 | 203755 | [203755-sinner-97.json](./203755-sinner-97.json) |
 | Sinner's Grimoire | 359340 | [359340-sinners-grimoire.json](./359340-sinners-grimoire.json) |
 | Sinner's Tavern | 235623 | [235623-sinners-tavern.json](./235623-sinners-tavern.json) |
 | Sinners Landing | 235771 | [235771-sinners-landing.json](./235771-sinners-landing.json) |
@@ -10213,6 +10215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Islands | 188468 | [188468-slime-islands.json](./188468-slime-islands.json) |
 | Slime Jump | 411758 | [411758-slime-jump.json](./411758-slime-jump.json) |
 | Slime Jumper | 34316 | [34316-slime-jumper.json](./34316-slime-jumper.json) |
+| Slime Jumper Adventure | 203748 | [203748-slime-jumper-adventure.json](./203748-slime-jumper-adventure.json) |
 | Slime Killer | 163910 | [163910-slime-killer.json](./163910-slime-killer.json) |
 | Slime Kingdom | 102192 | [102192-slime-kingdom.json](./102192-slime-kingdom.json) |
 | Slime Knight | 246785 | [246785-slime-knight.json](./246785-slime-knight.json) |
@@ -17406,6 +17409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy/Cell | 404994 | [404994-spy-cell.json](./404994-spy-cell.json) |
 | Spycraft: The Great Game | 2232 | [2232-spycraft-the-great-game.json](./2232-spycraft-the-great-game.json) |
 | Spyder | 93470 | [93470-spyder.json](./93470-spyder.json) |
+| Spyer | 203735 | [203735-spyer.json](./203735-spyer.json) |
 | Spyhack | 90138 | [90138-spyhack.json](./90138-spyhack.json) |
 | SpyHunt | 330294 | [330294-spyhunt.json](./330294-spyhunt.json) |
 | SpyHunter | 248443 | [248443-spyhunter.json](./248443-spyhunter.json) |
@@ -23777,6 +23781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Lesbian Animal RPG | 138659 | [138659-super-lesbian-animal-rpg.json](./138659-super-lesbian-animal-rpg.json) |
 | Super Life: Franchise Lord | 195188 | [195188-super-life-franchise-lord.json](./195188-super-life-franchise-lord.json) |
 | Super Liftpia | 279531 | [279531-super-liftpia.json](./279531-super-liftpia.json) |
+| Super Lion King | 203656 | [203656-super-lion-king.json](./203656-super-lion-king.json) |
 | Super Liquid Soccer | 190414 | [190414-super-liquid-soccer.json](./190414-super-liquid-soccer.json) |
 | Super Little Acorns 3D Turbo | 23523 | [23523-super-little-acorns-3d-turbo.json](./23523-super-little-acorns-3d-turbo.json) |
 | Super Live Stadium | 301384 | [301384-super-live-stadium.json](./301384-super-live-stadium.json) |
