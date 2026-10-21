@@ -8149,6 +8149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hidden Object Show Seasons 1 & 2 | 207010 | [207010-the-hidden-object-show-seasons-1-and-2.json](./207010-the-hidden-object-show-seasons-1-and-2.json) |
 | The Hidden Object Show: Season 2 | 207009 | [207009-the-hidden-object-show-season-2.json](./207009-the-hidden-object-show-season-2.json) |
 | The Hidden Prophecies of Nostradamus | 210208 | [210208-the-hidden-prophecies-of-nostradamus.json](./210208-the-hidden-prophecies-of-nostradamus.json) |
+| The Hidden Room | 176678 | [176678-the-hidden-room.json](./176678-the-hidden-room.json) |
 | The Hidden Room: Pyramid | 244383 | [244383-the-hidden-room-pyramid.json](./244383-the-hidden-room-pyramid.json) |
 | The Hidden Scrolls | 368805 | [368805-the-hidden-scrolls.json](./368805-the-hidden-scrolls.json) |
 | The Hidden: Source | 70647 | [70647-the-hidden-source.json](./70647-the-hidden-source.json) |
@@ -10860,6 +10861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -21399,6 +21401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Defense | 105139 | [105139-train-defense.json](./105139-train-defense.json) |
 | Train Depart | 285858 | [285858-train-depart.json](./285858-train-depart.json) |
 | Train Drive ATS 3 Kintetsu Nara Line | 109505 | [109505-train-drive-ats-3-kintetsu-nara-line.json](./109505-train-drive-ats-3-kintetsu-nara-line.json) |
+| Train Driver 2 | 176687 | [176687-train-driver-2.json](./176687-train-driver-2.json) |
 | Train Driver Journey 2 - Iberia Interior | 88222 | [88222-train-driver-journey-2-iberia-interior.json](./88222-train-driver-journey-2-iberia-interior.json) |
 | Train Driver Journey 3 - Waldabavale to Karrah Bay | 100617 | [100617-train-driver-journey-3-waldabavale-to-karrah-bay.json](./100617-train-driver-journey-3-waldabavale-to-karrah-bay.json) |
 | Train Driver Journey 4 - Introduction to Steam | 86881 | [86881-train-driver-journey-4-introduction-to-steam.json](./86881-train-driver-journey-4-introduction-to-steam.json) |
