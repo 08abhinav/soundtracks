@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U-Boot - submarine game | 87713 | [87713-u-boot-submarine-game.json](./87713-u-boot-submarine-game.json) |
 | U-Boot 1945 | 102969 | [102969-u-boot-1945.json](./102969-u-boot-1945.json) |
 | U-Boot: The Board Game - Digital Edition | 346372 | [346372-u-boot-the-board-game-digital-edition.json](./346372-u-boot-the-board-game-digital-edition.json) |
+| U-ena: Far Fireworks | 187728 | [187728-u-ena-far-fireworks.json](./187728-u-ena-far-fireworks.json) |
 | U-Force Power Games | 48873 | [48873-u-force-power-games.json](./48873-u-force-power-games.json) |
 | U-jin no Furi-furi Girls | 37751 | [37751-u-jin-no-furi-furi-girls.json](./37751-u-jin-no-furi-furi-girls.json) |
 | U-jin: Janjuu Gakuen | 42210 | [42210-u-jin-janjuu-gakuen.json](./42210-u-jin-janjuu-gakuen.json) |
