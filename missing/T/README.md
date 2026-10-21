@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | T H E YV | 127979 | [127979-t-h-e-yv.json](./127979-t-h-e-yv.json) |
 | T kara Hajimaru Monogatari | 172737 | [172737-t-kara-hajimaru-monogatari.json](./172737-t-kara-hajimaru-monogatari.json) |
+| T_ | 178850 | [178850-t.json](./178850-t.json) |
 | T-Bird | 122967 | [122967-t-bird.json](./122967-t-bird.json) |
 | T-Crisis 4 110% A.I. Turbo Remix Tetris | 374227 | [374227-t-crisis-4-110-a-i-turbo-remix-tetris.json](./374227-t-crisis-4-110-a-i-turbo-remix-tetris.json) |
 | T-Dragon Quest 2: Mazoku no Daichi | 325651 | [325651-t-dragon-quest-2-mazoku-no-daichi.json](./325651-t-dragon-quest-2-mazoku-no-daichi.json) |
@@ -4883,6 +4884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beast | 100210 | [100210-the-beast.json](./100210-the-beast.json) |
 | The Beast | 176856 | [176856-the-beast.json](./176856-the-beast.json) |
 | The Beast | 374223 | [374223-the-beast.json](./374223-the-beast.json) |
+| The Beast in the Maze | 178824 | [178824-the-beast-in-the-maze.json](./178824-the-beast-in-the-maze.json) |
 | The Beast Inside | 88116 | [88116-the-beast-inside.json](./88116-the-beast-inside.json) |
 | The Beast Is yet to Come | 373685 | [373685-the-beast-is-yet-to-come.json](./373685-the-beast-is-yet-to-come.json) |
 | The Beast of Gevaudan | 120103 | [120103-the-beast-of-gevaudan.json](./120103-the-beast-of-gevaudan.json) |
@@ -10660,6 +10662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The monotony of carrots | 179936 | [179936-the-monotony-of-carrots.json](./179936-the-monotony-of-carrots.json) |
 | The Monster | 111019 | [111019-the-monster.json](./111019-the-monster.json) |
 | The Monster Breeder | 126558 | [126558-the-monster-breeder.json](./126558-the-monster-breeder.json) |
+| The Monster in the Woods | 178870 | [178870-the-monster-in-the-woods.json](./178870-the-monster-in-the-woods.json) |
 | The Monster of Memory: Destiny | 150765 | [150765-the-monster-of-memory-destiny.json](./150765-the-monster-of-memory-destiny.json) |
 | The Monster Under Your Skin | 207563 | [207563-the-monster-under-your-skin.json](./207563-the-monster-under-your-skin.json) |
 | The Monster War | 289980 | [289980-the-monster-war.json](./289980-the-monster-war.json) |
@@ -15206,6 +15209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They're Not Monsters | 250759 | [250759-theyre-not-monsters.json](./250759-theyre-not-monsters.json) |
 | Theyest Thou | 129272 | [129272-theyest-thou.json](./129272-theyest-thou.json) |
 | TheZone | 146225 | [146225-thezone.json](./146225-thezone.json) |
+| Thicc Wet Paper Layers | 178862 | [178862-thicc-wet-paper-layers.json](./178862-thicc-wet-paper-layers.json) |
 | THICC: The Himalayan Ice Climbing Challenge | 190021 | [190021-thicc-the-himalayan-ice-climbing-challenge.json](./190021-thicc-the-himalayan-ice-climbing-challenge.json) |
 | Thick Air | 31392 | [31392-thick-air.json](./31392-thick-air.json) |
 | Thick as Thieves | 224511 | [224511-thick-as-thieves.json](./224511-thick-as-thieves.json) |
@@ -15249,6 +15253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief's Adventure | 372490 | [372490-thiefs-adventure.json](./372490-thiefs-adventure.json) |
 | Thief's Market | 384798 | [384798-thiefs-market.json](./384798-thiefs-market.json) |
 | Thief's Roulette | 129137 | [129137-thiefs-roulette.json](./129137-thiefs-roulette.json) |
+| Thief's Treasure | 178843 | [178843-thiefs-treasure.json](./178843-thiefs-treasure.json) |
 | Thiefbot | 183990 | [183990-thiefbot.json](./183990-thiefbot.json) |
 | ThiefRl2 | 184578 | [184578-thiefrl2.json](./184578-thiefrl2.json) |
 | Thievery | 105326 | [105326-thievery.json](./105326-thievery.json) |
@@ -15527,6 +15532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thou Shalt Be Brave | 134566 | [134566-thou-shalt-be-brave.json](./134566-thou-shalt-be-brave.json) |
 | Thou Shalt Not Kill | 312220 | [312220-thou-shalt-not-kill.json](./312220-thou-shalt-not-kill.json) |
 | Though the Heavens Fall | 266423 | [266423-though-the-heavens-fall.json](./266423-though-the-heavens-fall.json) |
+| Thought Police | 178834 | [178834-thought-police.json](./178834-thought-police.json) |
 | Thoughtform Invasion | 292085 | [292085-thoughtform-invasion.json](./292085-thoughtform-invasion.json) |
 | Thoughts | 416575 | [416575-thoughts.json](./416575-thoughts.json) |
 | Thousand Arms | 15461 | [15461-thousand-arms.json](./15461-thousand-arms.json) |
@@ -17769,6 +17775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timewreck Tales | 173037 | [173037-timewreck-tales.json](./173037-timewreck-tales.json) |
 | Timez Attack | 133752 | [133752-timez-attack.json](./133752-timez-attack.json) |
 | TimeZero | 58813 | [58813-timezero.json](./58813-timezero.json) |
+| Timidna's Beginning | 178866 | [178866-timidnas-beginning.json](./178866-timidnas-beginning.json) |
 | Timing Hero | 112232 | [112232-timing-hero.json](./112232-timing-hero.json) |
 | Timing X | 402370 | [402370-timing-x.json](./402370-timing-x.json) |
 | TiminGooo! | 178339 | [178339-timingooo.json](./178339-timingooo.json) |
