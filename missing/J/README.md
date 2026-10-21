@@ -875,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeremy McGrath's Offroad | 20828 | [20828-jeremy-mcgraths-offroad.json](./20828-jeremy-mcgraths-offroad.json) |
 | Jeremy the Health Inspector | 353826 | [353826-jeremy-the-health-inspector.json](./353826-jeremy-the-health-inspector.json) |
 | Jeremy, No! | 385986 | [385986-jeremy-no.json](./385986-jeremy-no.json) |
+| Jericho Dungeon | 192730 | [192730-jericho-dungeon.json](./192730-jericho-dungeon.json) |
 | Jericho Mirage | 210133 | [210133-jericho-mirage.json](./210133-jericho-mirage.json) |
 | Jericho Road | 14135 | [14135-jericho-road.json](./14135-jericho-road.json) |
 | Jericho's Rose | 173246 | [173246-jerichos-rose.json](./173246-jerichos-rose.json) |
