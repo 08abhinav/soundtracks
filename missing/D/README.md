@@ -8751,6 +8751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Pairs | 98906 | [98906-dog-pairs.json](./98906-dog-pairs.json) |
 | Dog Petting Simulator | 182237 | [182237-dog-petting-simulator.json](./182237-dog-petting-simulator.json) |
 | Dog Plays in Space Bundle | 230824 | [230824-dog-plays-in-space-bundle.json](./230824-dog-plays-in-space-bundle.json) |
+| Dog Pound Theater | 179391 | [179391-dog-pound-theater.json](./179391-dog-pound-theater.json) |
 | Dog Puzzle | 239773 | [239773-dog-puzzle.json](./239773-dog-puzzle.json) |
 | Dog Run - Pet Dog Simulator | 107062 | [107062-dog-run-pet-dog-simulator.json](./107062-dog-run-pet-dog-simulator.json) |
 | Dog School: Lovely Puppy | 222179 | [222179-dog-school-lovely-puppy.json](./222179-dog-school-lovely-puppy.json) |
