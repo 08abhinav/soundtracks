@@ -1253,6 +1253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2017 Collection | 327362 | [327362-2017-collection.json](./327362-2017-collection.json) |
 | 2018 FIFA World Cup Russia | 317514 | [317514-2018-fifa-world-cup-russia.json](./317514-2018-fifa-world-cup-russia.json) |
 | 202 Game Collection | 206119 | [206119-202-game-collection.json](./206119-202-game-collection.json) |
+| 2020 Celeste Spring Community Collab | 199801 | [199801-2020-celeste-spring-community-collab.json](./199801-2020-celeste-spring-community-collab.json) |
 | 2020 The God of Highschool with Naver Webtoon | 137555 | [137555-2020-the-god-of-highschool-with-naver-webtoon.json](./137555-2020-the-god-of-highschool-with-naver-webtoon.json) |
 | 2020: My Country | 56363 | [56363-2020-my-country.json](./56363-2020-my-country.json) |
 | 2020! | 261523 | [261523-2020.json](./261523-2020.json) |
