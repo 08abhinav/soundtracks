@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daemonium | 247668 | [247668-daemonium.json](./247668-daemonium.json) |
 | Daemonologie | 179677 | [179677-daemonologie.json](./179677-daemonologie.json) |
 | Daemonologie | 313586 | [313586-daemonologie.json](./313586-daemonologie.json) |
+| Daemons, Love & Carnage | 177216 | [177216-daemons-love-and-carnage.json](./177216-daemons-love-and-carnage.json) |
 | Daemonstration | 179752 | [179752-daemonstration.json](./179752-daemonstration.json) |
 | Daemonum | 223147 | [223147-daemonum.json](./223147-daemonum.json) |
 | Daemonum | 224564 | [224564-daemonum.json](./224564-daemonum.json) |
@@ -2961,6 +2962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadball Specialist | 58191 | [58191-deadball-specialist.json](./58191-deadball-specialist.json) |
 | DeadballCrusader | 290951 | [290951-deadballcrusader.json](./290951-deadballcrusader.json) |
 | Deadbeat Heroes | 74197 | [74197-deadbeat-heroes.json](./74197-deadbeat-heroes.json) |
+| Deadbeats Encore | 177201 | [177201-deadbeats-encore.json](./177201-deadbeats-encore.json) |
 | Deadblast | 248331 | [248331-deadblast.json](./248331-deadblast.json) |
 | DeadBlitz | 261655 | [261655-deadblitz.json](./261655-deadblitz.json) |
 | Deadbolt | 18389 | [18389-deadbolt.json](./18389-deadbolt.json) |
@@ -3400,6 +3402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Match | 416694 | [416694-death-match.json](./416694-death-match.json) |
 | Death Maze | 109613 | [109613-death-maze.json](./109613-death-maze.json) |
 | Death Merchant | 293228 | [293228-death-merchant.json](./293228-death-merchant.json) |
+| Death Metro | 177200 | [177200-death-metro.json](./177200-death-metro.json) |
 | Death Mile | 259241 | [259241-death-mile.json](./259241-death-mile.json) |
 | Death Moon | 156712 | [156712-death-moon.json](./156712-death-moon.json) |
 | Death Moon | 316962 | [316962-death-moon.json](./316962-death-moon.json) |
@@ -5096,6 +5099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Density Limit | 243284 | [243284-density-limit.json](./243284-density-limit.json) |
 | Densou Tenshi Valforce | 383622 | [383622-densou-tenshi-valforce.json](./383622-densou-tenshi-valforce.json) |
 | Dental Madness: Cavity Mania | 166758 | [166758-dental-madness-cavity-mania.json](./166758-dental-madness-cavity-mania.json) |
+| Dental Recviem | 177236 | [177236-dental-recviem.json](./177236-dental-recviem.json) |
 | Dental Strike | 290699 | [290699-dental-strike.json](./290699-dental-strike.json) |
 | Dentist Bling: Complete Edition | 294832 | [294832-dentist-bling-complete-edition.json](./294832-dentist-bling-complete-edition.json) |
 | Dentist Bling: Fantasy Edition | 304782 | [304782-dentist-bling-fantasy-edition.json](./304782-dentist-bling-fantasy-edition.json) |
@@ -7725,6 +7729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disk NG 2 | 220148 | [220148-disk-ng-2.json](./220148-disk-ng-2.json) |
 | Disk Station #0 | 78958 | [78958-disk-station-0.json](./78958-disk-station-0.json) |
 | Disk-0 Madness | 255074 | [255074-disk-0-madness.json](./255074-disk-0-madness.json) |
+| Diskophoros | 177233 | [177233-diskophoros.json](./177233-diskophoros.json) |
 | Dislyte | 172684 | [172684-dislyte.json](./172684-dislyte.json) |
 | Dismal Anhedonia Land | 179654 | [179654-dismal-anhedonia-land.json](./179654-dismal-anhedonia-land.json) |
 | Dismal Passages | 229221 | [229221-dismal-passages.json](./229221-dismal-passages.json) |
@@ -10013,6 +10018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dooria | 158231 | [158231-dooria.json](./158231-dooria.json) |
 | Doorka | 346154 | [346154-doorka.json](./346154-doorka.json) |
 | Doorman | 200358 | [200358-doorman.json](./200358-doorman.json) |
+| Doorpuncher | 177243 | [177243-doorpuncher.json](./177243-doorpuncher.json) |
 | Doors | 168388 | [168388-doors.json](./168388-doors.json) |
 | Doors | 16987 | [16987-doors.json](./16987-doors.json) |
 | Doors | 223422 | [223422-doors.json](./223422-doors.json) |
