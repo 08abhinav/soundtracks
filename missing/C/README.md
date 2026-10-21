@@ -3147,6 +3147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catacombs Pack | 154420 | [154420-catacombs-pack.json](./154420-catacombs-pack.json) |
 | Catacombs: The Asper Case | 235854 | [235854-catacombs-the-asper-case.json](./235854-catacombs-the-asper-case.json) |
 | Cataegis : The White Wind | 35920 | [35920-cataegis-the-white-wind.json](./35920-cataegis-the-white-wind.json) |
+| Catafalque | 191615 | [191615-catafalque.json](./191615-catafalque.json) |
 | Catagaia | 236871 | [236871-catagaia.json](./236871-catagaia.json) |
 | Catagrams | 333575 | [333575-catagrams.json](./333575-catagrams.json) |
 | Catal Carta | 416639 | [416639-catal-carta.json](./416639-catal-carta.json) |
