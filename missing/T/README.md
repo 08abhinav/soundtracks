@@ -285,6 +285,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Mind 2 | 125278 | [125278-tactical-mind-2.json](./125278-tactical-mind-2.json) |
 | Tactical Nexus | 126929 | [126929-tactical-nexus.json](./126929-tactical-nexus.json) |
 | Tactical Nexus: Chapter 3 - Tactical Cloud- | 174134 | [174134-tactical-nexus-chapter-3-tactical-cloud.json](./174134-tactical-nexus-chapter-3-tactical-cloud.json) |
+| Tactical Nexus: Chapter 4 - Tactical Star | 174546 | [174546-tactical-nexus-chapter-4-tactical-star.json](./174546-tactical-nexus-chapter-4-tactical-star.json) |
+| Tactical Nexus: Chapter 5 - Tactical Night | 174547 | [174547-tactical-nexus-chapter-5-tactical-night.json](./174547-tactical-nexus-chapter-5-tactical-night.json) |
 | Tactical Operations Force | 189941 | [189941-tactical-operations-force.json](./189941-tactical-operations-force.json) |
 | Tactical Ops: Assault on Terror | 8778 | [8778-tactical-ops-assault-on-terror.json](./8778-tactical-ops-assault-on-terror.json) |
 | Tactical Poker | 88668 | [88668-tactical-poker.json](./88668-tactical-poker.json) |
@@ -1341,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamak. | 263593 | [263593-tamak.json](./263593-tamak.json) |
 | Tamako | 366315 | [366315-tamako.json](./366315-tamako.json) |
 | Tamale Loco: Rumble in the Desert | 173076 | [173076-tamale-loco-rumble-in-the-desert.json](./173076-tamale-loco-rumble-in-the-desert.json) |
+| Tamale Loco: Rumble in the Desert 2 | 174563 | [174563-tamale-loco-rumble-in-the-desert-2.json](./174563-tamale-loco-rumble-in-the-desert-2.json) |
 | Tamamon | 380687 | [380687-tamamon.json](./380687-tamamon.json) |
 | TamaOtchi | 229850 | [229850-tamaotchi.json](./229850-tamaotchi.json) |
 | Tamara | 339483 | [339483-tamara.json](./339483-tamara.json) |
@@ -2970,6 +2973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple Run 3 | 380808 | [380808-temple-run-3.json](./380808-temple-run-3.json) |
 | Temple Run VR | 358824 | [358824-temple-run-vr.json](./358824-temple-run-vr.json) |
 | Temple Run: Oz | 63613 | [63613-temple-run-oz.json](./63613-temple-run-oz.json) |
+| Temple Run: Puzzle Adventure | 174571 | [174571-temple-run-puzzle-adventure.json](./174571-temple-run-puzzle-adventure.json) |
 | Temple Run: Treasure Hunters | 233503 | [233503-temple-run-treasure-hunters.json](./233503-temple-run-treasure-hunters.json) |
 | Temple Scramble | 111525 | [111525-temple-scramble.json](./111525-temple-scramble.json) |
 | Temple with Traps | 167166 | [167166-temple-with-traps.json](./167166-temple-with-traps.json) |
@@ -5802,6 +5806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Corner Cafe | 390184 | [390184-the-corner-cafe.json](./390184-the-corner-cafe.json) |
 | The Cornfield Road | 304161 | [304161-the-cornfield-road.json](./304161-the-cornfield-road.json) |
 | The Coroner Saga | 114335 | [114335-the-coroner-saga.json](./114335-the-coroner-saga.json) |
+| The Coroner Saga: Episode 2 - When night falls | 174534 | [174534-the-coroner-saga-episode-2-when-night-falls.json](./174534-the-coroner-saga-episode-2-when-night-falls.json) |
 | The Corporation | 397161 | [397161-the-corporation.json](./397161-the-corporation.json) |
 | The Corpse | 376714 | [376714-the-corpse.json](./376714-the-corpse.json) |
 | The Corpse Crusade | 207711 | [207711-the-corpse-crusade.json](./207711-the-corpse-crusade.json) |
@@ -10868,7 +10873,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -10958,6 +10962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night Before Star Wars | 233653 | [233653-the-night-before-star-wars.json](./233653-the-night-before-star-wars.json) |
 | The Night Fisherman | 134493 | [134493-the-night-fisherman.json](./134493-the-night-fisherman.json) |
 | The Night Guard | 295385 | [295385-the-night-guard.json](./295385-the-night-guard.json) |
+| The Night is Darkening | 174573 | [174573-the-night-is-darkening.json](./174573-the-night-is-darkening.json) |
 | The Night Is Long | 350010 | [350010-the-night-is-long.json](./350010-the-night-is-long.json) |
 | The Night Jackals Vol. 1 | 289975 | [289975-the-night-jackals-vol-1.json](./289975-the-night-jackals-vol-1.json) |
 | The Night Journey | 105505 | [105505-the-night-journey.json](./105505-the-night-journey.json) |
@@ -18076,6 +18081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Sim | 181223 | [181223-tiny-sim.json](./181223-tiny-sim.json) |
 | Tiny Sokoban | 228391 | [228391-tiny-sokoban.json](./228391-tiny-sokoban.json) |
 | Tiny Solar System | 221150 | [221150-tiny-solar-system.json](./221150-tiny-solar-system.json) |
+| Tiny Space Program | 174525 | [174525-tiny-space-program.json](./174525-tiny-space-program.json) |
 | Tiny Squads | 244628 | [244628-tiny-squads.json](./244628-tiny-squads.json) |
 | Tiny Starfighters | 317413 | [317413-tiny-starfighters.json](./317413-tiny-starfighters.json) |
 | Tiny Step | 267333 | [267333-tiny-step.json](./267333-tiny-step.json) |
@@ -18526,6 +18532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Victory | 274471 | [274471-to-victory.json](./274471-to-victory.json) |
 | To Your Stations! | 135750 | [135750-to-your-stations.json](./135750-to-your-stations.json) |
 | To-Fu Collection | 206765 | [206765-to-fu-collection.json](./206765-to-fu-collection.json) |
+| To-Fu Ninja - Fruit Yama Style | 174565 | [174565-to-fu-ninja-fruit-yama-style.json](./174565-to-fu-ninja-fruit-yama-style.json) |
 | To-Fu Oh! Sushi | 252139 | [252139-to-fu-oh-sushi.json](./252139-to-fu-oh-sushi.json) |
 | To-Fu: The Trials of Chi | 364556 | [364556-to-fu-the-trials-of-chi.json](./364556-to-fu-the-trials-of-chi.json) |
 | TO: Crossfire | 272321 | [272321-to-crossfire.json](./272321-to-crossfire.json) |
