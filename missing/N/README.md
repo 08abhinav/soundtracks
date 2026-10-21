@@ -5139,6 +5139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Normal Fastfood Fantasy | 98480 | [98480-normal-fastfood-fantasy.json](./98480-normal-fastfood-fantasy.json) |
 | Normal Fishing | 269213 | [269213-normal-fishing.json](./269213-normal-fishing.json) |
 | Normal Golf Game | 355571 | [355571-normal-golf-game.json](./355571-normal-golf-game.json) |
+| Normal Human Face Simulator | 177235 | [177235-normal-human-face-simulator.json](./177235-normal-human-face-simulator.json) |
 | Normal Person | 285977 | [285977-normal-person.json](./285977-normal-person.json) |
 | Normal Shmup | 250378 | [250378-normal-shmup.json](./250378-normal-shmup.json) |
 | Normal Super Mario Bros. | 279718 | [279718-normal-super-mario-bros.json](./279718-normal-super-mario-bros.json) |
