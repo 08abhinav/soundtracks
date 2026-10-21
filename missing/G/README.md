@@ -4498,6 +4498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Please Help Me | 293861 | [293861-god-please-help-me.json](./293861-god-please-help-me.json) |
 | God Save Birmingham | 314428 | [314428-god-save-birmingham.json](./314428-god-save-birmingham.json) |
 | God Save the Queen | 176321 | [176321-god-save-the-queen.json](./176321-god-save-the-queen.json) |
+| God Save Us | 193247 | [193247-god-save-us.json](./193247-god-save-us.json) |
 | God Shot | 399852 | [399852-god-shot.json](./399852-god-shot.json) |
 | God Simulator | 191570 | [191570-god-simulator.json](./191570-god-simulator.json) |
 | God Simulator | 31883 | [31883-god-simulator.json](./31883-god-simulator.json) |
