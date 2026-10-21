@@ -2810,6 +2810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inferno: Deathfield | 82051 | [82051-inferno-deathfield.json](./82051-inferno-deathfield.json) |
 | Inferno: The Odyssey Continues | 70324 | [70324-inferno-the-odyssey-continues.json](./70324-inferno-the-odyssey-continues.json) |
 | Inferno’s Embrace | 298902 | [298902-inferno-s-embrace.json](./298902-inferno-s-embrace.json) |
+| Infernoculus | 180465 | [180465-infernoculus.json](./180465-infernoculus.json) |
 | Infernovasion | 269663 | [269663-infernovasion.json](./269663-infernovasion.json) |
 | Infernum Bound | 337094 | [337094-infernum-bound.json](./337094-infernum-bound.json) |
 | Inferos Numine: Descent Into Darkness | 211092 | [211092-inferos-numine-descent-into-darkness.json](./211092-inferos-numine-descent-into-darkness.json) |
