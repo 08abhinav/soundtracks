@@ -1339,6 +1339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IdleDiablo | 406143 | [406143-idlediablo.json](./406143-idlediablo.json) |
 | IdleDragon | 379011 | [379011-idledragon.json](./379011-idledragon.json) |
 | Idlemon | 390637 | [390637-idlemon.json](./390637-idlemon.json) |
+| Idlemon Tales | 188306 | [188306-idlemon-tales.json](./188306-idlemon-tales.json) |
 | Idlenetics | 233886 | [233886-idlenetics.json](./233886-idlenetics.json) |
 | IdleOn | 143440 | [143440-idleon.json](./143440-idleon.json) |
 | Idleplex | 261270 | [261270-idleplex.json](./261270-idleplex.json) |
