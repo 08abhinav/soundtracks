@@ -2576,6 +2576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Diorama | 183398 | [183398-castle-diorama.json](./183398-castle-diorama.json) |
 | Castle Elsinore | 146106 | [146106-castle-elsinore.json](./146106-castle-elsinore.json) |
 | Castle Empire | 263969 | [263969-castle-empire.json](./263969-castle-empire.json) |
+| Castle Escape | 187100 | [187100-castle-escape.json](./187100-castle-escape.json) |
 | Castle Evalon | 323931 | [323931-castle-evalon.json](./323931-castle-evalon.json) |
 | Castle Explorer | 79838 | [79838-castle-explorer.json](./79838-castle-explorer.json) |
 | Castle Explorer: Heroes and rings | 167906 | [167906-castle-explorer-heroes-and-rings.json](./167906-castle-explorer-heroes-and-rings.json) |
@@ -3073,6 +3074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Tales: Fish | 403426 | [403426-cat-tales-fish.json](./403426-cat-tales-fish.json) |
 | Cat Tales: Premium Edition | 241396 | [241396-cat-tales-premium-edition.json](./241396-cat-tales-premium-edition.json) |
 | Cat Tiles: Matching Puzzle | 232377 | [232377-cat-tiles-matching-puzzle.json](./232377-cat-tiles-matching-puzzle.json) |
+| Cat Town | 187133 | [187133-cat-town.json](./187133-cat-town.json) |
 | Cat Train | 177493 | [177493-cat-train.json](./177493-cat-train.json) |
 | Cat Trax | 40689 | [40689-cat-trax.json](./40689-cat-trax.json) |
 | Cat Tree | 326792 | [326792-cat-tree.json](./326792-cat-tree.json) |
@@ -9262,6 +9264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Halloween Pack | 162609 | [162609-coloring-pixels-halloween-pack.json](./162609-coloring-pixels-halloween-pack.json) |
 | Coloring Pixels: Illusions Pack | 225003 | [225003-coloring-pixels-illusions-pack.json](./225003-coloring-pixels-illusions-pack.json) |
 | Coloring Pixels: Insects Pack | 225004 | [225004-coloring-pixels-insects-pack.json](./225004-coloring-pixels-insects-pack.json) |
+| Coloring Pixels: Isometric 2 | 187141 | [187141-coloring-pixels-isometric-2.json](./187141-coloring-pixels-isometric-2.json) |
 | Coloring Pixels: Isometric 3 Pack | 351618 | [351618-coloring-pixels-isometric-3-pack.json](./351618-coloring-pixels-isometric-3-pack.json) |
 | Coloring Pixels: Isometric Pack | 162604 | [162604-coloring-pixels-isometric-pack.json](./162604-coloring-pixels-isometric-pack.json) |
 | Coloring Pixels: Japan Pack | 241318 | [241318-coloring-pixels-japan-pack.json](./241318-coloring-pixels-japan-pack.json) |
@@ -9653,6 +9656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comit the Astrodian 3 | 65821 | [65821-comit-the-astrodian-3.json](./65821-comit-the-astrodian-3.json) |
 | Comix Breaker | 174262 | [174262-comix-breaker.json](./174262-comix-breaker.json) |
 | Comix Zero | 324330 | [324330-comix-zero.json](./324330-comix-zero.json) |
+| Comixxx Desires | 187146 | [187146-comixxx-desires.json](./187146-comixxx-desires.json) |
 | Comixxx Duality | 196141 | [196141-comixxx-duality.json](./196141-comixxx-duality.json) |
 | Comixxx Flirtatious | 379647 | [379647-comixxx-flirtatious.json](./379647-comixxx-flirtatious.json) |
 | Comixxx Strip | 392936 | [392936-comixxx-strip.json](./392936-comixxx-strip.json) |
@@ -10497,6 +10501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Consume Thy Flesh: The Pumpkin Smashing Sim | 189137 | [189137-consume-thy-flesh-the-pumpkin-smashing-sim.json](./189137-consume-thy-flesh-the-pumpkin-smashing-sim.json) |
 | Consummate:Missing World | 51974 | [51974-consummate-missing-world.json](./51974-consummate-missing-world.json) |
 | Consumption | 179537 | [179537-consumption.json](./179537-consumption.json) |
+| Contact | 187113 | [187113-contact.json](./187113-contact.json) |
 | Contact | 357745 | [357745-contact.json](./357745-contact.json) |
 | Contact : Last Defence | 114868 | [114868-contact-last-defence.json](./114868-contact-last-defence.json) |
 | Contact Draw: Football | 102915 | [102915-contact-draw-football.json](./102915-contact-draw-football.json) |
@@ -12898,6 +12903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creep Rides | 118759 | [118759-creep-rides.json](./118759-creep-rides.json) |
 | Creep Shock | 265429 | [265429-creep-shock.json](./265429-creep-shock.json) |
 | Creep Zone | 331913 | [331913-creep-zone.json](./331913-creep-zone.json) |
+| Creep: The Last Tube | 187131 | [187131-creep-the-last-tube.json](./187131-creep-the-last-tube.json) |
 | Creeper | 179582 | [179582-creeper.json](./179582-creeper.json) |
 | Creeper Goo | 163814 | [163814-creeper-goo.json](./163814-creeper-goo.json) |
 | Creeper World | 7595 | [7595-creeper-world.json](./7595-creeper-world.json) |
