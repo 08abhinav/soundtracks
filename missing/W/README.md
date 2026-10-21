@@ -4576,6 +4576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Games Collection | 324192 | [324192-winter-games-collection.json](./324192-winter-games-collection.json) |
 | Winter Games Collection + Advent Calendar | 357021 | [357021-winter-games-collection-advent-calendar.json](./357021-winter-games-collection-advent-calendar.json) |
 | Winter Gifts | 412164 | [412164-winter-gifts.json](./412164-winter-gifts.json) |
+| Winter Grae | 188827 | [188827-winter-grae.json](./188827-winter-grae.json) |
 | Winter Heat | 367954 | [367954-winter-heat.json](./367954-winter-heat.json) |
 | Winter Is... | 92389 | [92389-winter-is.json](./92389-winter-is.json) |
 | Winter Lord | 329133 | [329133-winter-lord.json](./329133-winter-lord.json) |
