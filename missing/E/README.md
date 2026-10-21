@@ -1104,6 +1104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Drop | 264233 | [264233-egg-drop.json](./264233-egg-drop.json) |
 | Egg Drop Soup | 414301 | [414301-egg-drop-soup.json](./414301-egg-drop-soup.json) |
 | Egg Finder | 360457 | [360457-egg-finder.json](./360457-egg-finder.json) |
+| Egg Fly | 191011 | [191011-egg-fly.json](./191011-egg-fly.json) |
 | Egg Fried Rice | 307268 | [307268-egg-fried-rice.json](./307268-egg-fried-rice.json) |
 | Egg Harvester | 409637 | [409637-egg-harvester.json](./409637-egg-harvester.json) |
 | Egg Head in Space | 232317 | [232317-egg-head-in-space.json](./232317-egg-head-in-space.json) |
