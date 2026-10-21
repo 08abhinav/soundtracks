@@ -9899,6 +9899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Living Handra | 186669 | [186669-the-living-handra.json](./186669-the-living-handra.json) |
 | The Living Remain | 103536 | [103536-the-living-remain.json](./103536-the-living-remain.json) |
 | The Lizard King | 239154 | [239154-the-lizard-king.json](./239154-the-lizard-king.json) |
+| The Lizartian | 202614 | [202614-the-lizartian.json](./202614-the-lizartian.json) |
 | The Llama | 387343 | [387343-the-llama.json](./387343-the-llama.json) |
 | The Llama L | 214476 | [214476-the-llama-l.json](./214476-the-llama-l.json) |
 | The Llamasoft Collection | 379135 | [379135-the-llamasoft-collection.json](./379135-the-llamasoft-collection.json) |
@@ -13194,6 +13195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Swine | 137693 | [137693-the-swine.json](./137693-the-swine.json) |
 | The Switch-Worker | 184490 | [184490-the-switch-worker.json](./184490-the-switch-worker.json) |
 | The Swoop 64 | 145429 | [145429-the-swoop-64.json](./145429-the-swoop-64.json) |
+| The Sword and Peachblossom | 202639 | [202639-the-sword-and-peachblossom.json](./202639-the-sword-and-peachblossom.json) |
 | The Sword and the Fish | 233661 | [233661-the-sword-and-the-fish.json](./233661-the-sword-and-the-fish.json) |
 | The Sword and the Slime | 121455 | [121455-the-sword-and-the-slime.json](./121455-the-sword-and-the-slime.json) |
 | The Sword of Ares for Quake | 196720 | [196720-the-sword-of-ares-for-quake.json](./196720-the-sword-of-ares-for-quake.json) |
@@ -24876,6 +24878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Apartment | 331887 | [331887-twilight-apartment.json](./331887-twilight-apartment.json) |
 | Twilight Array | 267790 | [267790-twilight-array.json](./267790-twilight-array.json) |
 | Twilight Blood | 227898 | [227898-twilight-blood.json](./227898-twilight-blood.json) |
+| Twilight Bride: Vormslegend | 202621 | [202621-twilight-bride-vormslegend.json](./202621-twilight-bride-vormslegend.json) |
 | Twilight Canyon | 306421 | [306421-twilight-canyon.json](./306421-twilight-canyon.json) |
 | Twilight City | 315643 | [315643-twilight-city.json](./315643-twilight-city.json) |
 | Twilight Crusade | 227902 | [227902-twilight-crusade.json](./227902-twilight-crusade.json) |
