@@ -1590,6 +1590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rasternauts | 134965 | [134965-rasternauts.json](./134965-rasternauts.json) |
 | Rat Arena | 106585 | [106585-rat-arena.json](./106585-rat-arena.json) |
 | Rat Attack! | 3415 | [3415-rat-attack.json](./3415-rat-attack.json) |
+| Rat Bastard | 184771 | [184771-rat-bastard.json](./184771-rat-bastard.json) |
 | Rat Catcher | 257862 | [257862-rat-catcher.json](./257862-rat-catcher.json) |
 | Rat Chef | 207597 | [207597-rat-chef.json](./207597-rat-chef.json) |
 | Rat Climber | 330135 | [330135-rat-climber.json](./330135-rat-climber.json) |
@@ -1692,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravaged: Zombie Apocalypse | 10752 | [10752-ravaged-zombie-apocalypse.json](./10752-ravaged-zombie-apocalypse.json) |
 | Ravager | 55676 | [55676-ravager.json](./55676-ravager.json) |
 | Ravager: Moon-friendly Edition | 360450 | [360450-ravager-moon-friendly-edition.json](./360450-ravager-moon-friendly-edition.json) |
+| Rave and Claw | 184785 | [184785-rave-and-claw.json](./184785-rave-and-claw.json) |
 | Rave Gazebo | 275723 | [275723-rave-gazebo.json](./275723-rave-gazebo.json) |
 | Rave Heart | 143421 | [143421-rave-heart.json](./143421-rave-heart.json) |
 | Rave: Ultimate Battle | 63349 | [63349-rave-ultimate-battle.json](./63349-rave-ultimate-battle.json) |
