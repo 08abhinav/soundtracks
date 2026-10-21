@@ -4560,6 +4560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal One: Memories of Kumo Island | 369760 | [369760-eternal-one-memories-of-kumo-island.json](./369760-eternal-one-memories-of-kumo-island.json) |
 | Eternal Palace Sakura | 342002 | [342002-eternal-palace-sakura.json](./342002-eternal-palace-sakura.json) |
 | Eternal Perk | 142133 | [142133-eternal-perk.json](./142133-eternal-perk.json) |
+| Eternal Pinball RPG | 203746 | [203746-eternal-pinball-rpg.json](./203746-eternal-pinball-rpg.json) |
 | Eternal Poison | 21334 | [21334-eternal-poison.json](./21334-eternal-poison.json) |
 | Eternal Puppet | 291394 | [291394-eternal-puppet.json](./291394-eternal-puppet.json) |
 | Eternal Quest | 154266 | [154266-eternal-quest.json](./154266-eternal-quest.json) |
