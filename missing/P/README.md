@@ -1566,6 +1566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parallel Doomensions | 308071 | [308071-parallel-doomensions.json](./308071-parallel-doomensions.json) |
 | Parallel Harmony ~Getsuyou no Tobira wa Suiyou no Mukou ni~ | 153737 | [153737-parallel-harmony-getsuyou-no-tobira-wa-suiyou-no-mukou-ni.json](./153737-parallel-harmony-getsuyou-no-tobira-wa-suiyou-no-mukou-ni.json) |
 | Parallel Kingdom | 70600 | [70600-parallel-kingdom.json](./70600-parallel-kingdom.json) |
+| Parallel Lab | 198114 | [198114-parallel-lab.json](./198114-parallel-lab.json) |
 | Parallel Olympus | 156132 | [156132-parallel-olympus.json](./156132-parallel-olympus.json) |
 | Parallel Pixel | 103422 | [103422-parallel-pixel.json](./103422-parallel-pixel.json) |
 | Parallel Plague: Good Old Days | 290487 | [290487-parallel-plague-good-old-days.json](./290487-parallel-plague-good-old-days.json) |
@@ -11685,6 +11686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Profiteer | 311858 | [311858-profiteer.json](./311858-profiteer.json) |
 | PROFITS 2167: Planetary Resource Optimization & Freight Infrastructure Technician Simulator | 397201 | [397201-profits-2167-planetary-resource-optimization-and-freight-infrastructure-technician-simulator.json](./397201-profits-2167-planetary-resource-optimization-and-freight-infrastructure-technician-simulator.json) |
 | Profound | 277594 | [277594-profound.json](./277594-profound.json) |
+| Profound Red | 198100 | [198100-profound-red.json](./198100-profound-red.json) |
 | Profundum | 112769 | [112769-profundum.json](./112769-profundum.json) |
 | Profundus | 341468 | [341468-profundus.json](./341468-profundus.json) |
 | PROG | 301955 | [301955-prog.json](./301955-prog.json) |
@@ -12923,6 +12925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PUBG Mobile: Season 19 | 158952 | [158952-pubg-mobile-season-19.json](./158952-pubg-mobile-season-19.json) |
 | PUBG Mobile: Season 20 | 158953 | [158953-pubg-mobile-season-20.json](./158953-pubg-mobile-season-20.json) |
 | PUBG: Battlegrounds - Season 16 | 198264 | [198264-pubg-battlegrounds-season-16.json](./198264-pubg-battlegrounds-season-16.json) |
+| PUBG: Battlegrounds - Season 17 | 198265 | [198265-pubg-battlegrounds-season-17.json](./198265-pubg-battlegrounds-season-17.json) |
 | PUBG: Battlegrounds - Season 18 | 217520 | [217520-pubg-battlegrounds-season-18.json](./217520-pubg-battlegrounds-season-18.json) |
 | PUBG: Battlegrounds - Season 19 | 222785 | [222785-pubg-battlegrounds-season-19.json](./222785-pubg-battlegrounds-season-19.json) |
 | PUBG: Battlegrounds - Season 20 | 222786 | [222786-pubg-battlegrounds-season-20.json](./222786-pubg-battlegrounds-season-20.json) |
@@ -13863,6 +13866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Game | 366919 | [366919-puzzle-game.json](./366919-puzzle-game.json) |
 | Puzzle Game | 97201 | [97201-puzzle-game.json](./97201-puzzle-game.json) |
 | Puzzle Game Blast | 90741 | [90741-puzzle-game-blast.json](./90741-puzzle-game-blast.json) |
+| Puzzle Game Bundle | 198073 | [198073-puzzle-game-bundle.json](./198073-puzzle-game-bundle.json) |
 | Puzzle Games | 98818 | [98818-puzzle-games.json](./98818-puzzle-games.json) |
 | Puzzle Games Bundle | 226316 | [226316-puzzle-games-bundle.json](./226316-puzzle-games-bundle.json) |
 | Puzzle Games for Children | 352830 | [352830-puzzle-games-for-children.json](./352830-puzzle-games-for-children.json) |
