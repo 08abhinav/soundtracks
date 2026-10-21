@@ -2123,6 +2123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn Patrol | 12038 | [12038-dawn-patrol.json](./12038-dawn-patrol.json) |
 | Dawn Patrol | 13235 | [13235-dawn-patrol.json](./13235-dawn-patrol.json) |
 | Dawn Patrol | 13236 | [13236-dawn-patrol.json](./13236-dawn-patrol.json) |
+| Dawn Patrol | 181548 | [181548-dawn-patrol.json](./181548-dawn-patrol.json) |
 | DAWN: Darkness Awaits Withstand the Night | 333664 | [333664-dawn-darkness-awaits-withstand-the-night.json](./333664-dawn-darkness-awaits-withstand-the-night.json) |
 | Dawn: Instagram Model | 336059 | [336059-dawn-instagram-model.json](./336059-dawn-instagram-model.json) |
 | Dawn's Light 2 | 31176 | [31176-dawns-light-2.json](./31176-dawns-light-2.json) |
@@ -5143,6 +5144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deprived | 390754 | [390754-deprived.json](./390754-deprived.json) |
 | Depth | 11291 | [11291-depth.json](./11291-depth.json) |
 | Depth Ascend | 311644 | [311644-depth-ascend.json](./311644-depth-ascend.json) |
+| Depth Charge | 181549 | [181549-depth-charge.json](./181549-depth-charge.json) |
 | Depth Charge | 282718 | [282718-depth-charge.json](./282718-depth-charge.json) |
 | Depth Complaint | 343587 | [343587-depth-complaint.json](./343587-depth-complaint.json) |
 | Depth Diver | 302067 | [302067-depth-diver.json](./302067-depth-diver.json) |
@@ -5597,6 +5599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destinies | 152884 | [152884-destinies.json](./152884-destinies.json) |
 | Destino Indomable | 322350 | [322350-destino-indomable.json](./322350-destino-indomable.json) |
 | Destiny | 100186 | [100186-destiny.json](./100186-destiny.json) |
+| Destiny | 181550 | [181550-destiny.json](./181550-destiny.json) |
 | Destiny 2: Armory Collection | 243051 | [243051-destiny-2-armory-collection.json](./243051-destiny-2-armory-collection.json) |
 | Destiny 2: Beyond Light - Deluxe Edition | 139825 | [139825-destiny-2-beyond-light-deluxe-edition.json](./139825-destiny-2-beyond-light-deluxe-edition.json) |
 | Destiny 2: Beyond Light - Season of the Chosen | 144047 | [144047-destiny-2-beyond-light-season-of-the-chosen.json](./144047-destiny-2-beyond-light-season-of-the-chosen.json) |
@@ -6689,6 +6692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diffusion | 316771 | [316771-diffusion.json](./316771-diffusion.json) |
 | Dig | 304283 | [304283-dig.json](./304283-dig.json) |
 | Dig | 333199 | [333199-dig.json](./333199-dig.json) |
+| Dig 'em | 181551 | [181551-dig-em.json](./181551-dig-em.json) |
 | Dig & Spike Volleyball | 94194 | [94194-dig-and-spike-volleyball.json](./94194-dig-and-spike-volleyball.json) |
 | Dig 4 Destruction | 31981 | [31981-dig-4-destruction.json](./31981-dig-4-destruction.json) |
 | Dig a Road | 310048 | [310048-dig-a-road.json](./310048-dig-a-road.json) |
@@ -6952,6 +6956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dim | 329686 | [329686-dim.json](./329686-dim.json) |
 | Dim Glow | 158193 | [158193-dim-glow.json](./158193-dim-glow.json) |
 | Dim X: Dimensional Explorer | 354576 | [354576-dim-x-dimensional-explorer.json](./354576-dim-x-dimensional-explorer.json) |
+| Dim: A Light in the Dark | 181594 | [181594-dim-a-light-in-the-dark.json](./181594-dim-a-light-in-the-dark.json) |
 | Dima Rescues Ira | 75157 | [75157-dima-rescues-ira.json](./75157-dima-rescues-ira.json) |
 | Dimachaerus | 301248 | [301248-dimachaerus.json](./301248-dimachaerus.json) |
 | Dimahoo | 38527 | [38527-dimahoo.json](./38527-dimahoo.json) |
@@ -7240,6 +7245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Battlegrounds | 57127 | [57127-dinosaur-battlegrounds.json](./57127-dinosaur-battlegrounds.json) |
 | Dinosaur Bones Digging Simulator 2026 | 386366 | [386366-dinosaur-bones-digging-simulator-2026.json](./386366-dinosaur-bones-digging-simulator-2026.json) |
 | Dinosaur Cousin Squad | 338286 | [338286-dinosaur-cousin-squad.json](./338286-dinosaur-cousin-squad.json) |
+| Dinosaur Dig | 181552 | [181552-dinosaur-dig.json](./181552-dinosaur-dig.json) |
 | Dinosaur Discovery | 109172 | [109172-dinosaur-discovery.json](./109172-dinosaur-discovery.json) |
 | Dinosaur Games Simulator 2018 | 105967 | [105967-dinosaur-games-simulator-2018.json](./105967-dinosaur-games-simulator-2018.json) |
 | Dinosaur Hunt | 34491 | [34491-dinosaur-hunt.json](./34491-dinosaur-hunt.json) |
@@ -10004,6 +10010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doors | 223422 | [223422-doors.json](./223422-doors.json) |
 | Doors | 339295 | [339295-doors.json](./339295-doors.json) |
 | Doors & Rooms | 112745 | [112745-doors-and-rooms.json](./112745-doors-and-rooms.json) |
+| Doors & Rooms: Perfect Escape | 181587 | [181587-doors-and-rooms-perfect-escape.json](./181587-doors-and-rooms-perfect-escape.json) |
 | Doors and Doors | 244498 | [244498-doors-and-doors.json](./244498-doors-and-doors.json) |
 | Doors Closed | 415070 | [415070-doors-closed.json](./415070-doors-closed.json) |
 | Doors More Doors | 320347 | [320347-doors-more-doors.json](./320347-doors-more-doors.json) |
@@ -11118,6 +11125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Blade 2 | 410339 | [410339-dragon-blade-2.json](./410339-dragon-blade-2.json) |
 | Dragon Blast | 107035 | [107035-dragon-blast.json](./107035-dragon-blast.json) |
 | Dragon Blast: Crazy Action Super Hero Game | 159808 | [159808-dragon-blast-crazy-action-super-hero-game.json](./159808-dragon-blast-crazy-action-super-hero-game.json) |
+| Dragon Blaster | 181553 | [181553-dragon-blaster.json](./181553-dragon-blaster.json) |
 | Dragon Blaze | 272700 | [272700-dragon-blaze.json](./272700-dragon-blaze.json) |
 | Dragon Blaze | 39659 | [39659-dragon-blaze.json](./39659-dragon-blaze.json) |
 | Dragon Block C | 395101 | [395101-dragon-block-c.json](./395101-dragon-block-c.json) |
