@@ -968,6 +968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakutou Dochers: Bumps-jima ha Oosawagi | 44449 | [44449-bakutou-dochers-bumps-jima-ha-oosawagi.json](./44449-bakutou-dochers-bumps-jima-ha-oosawagi.json) |
 | Bakutsuri Bar Hunter | 118316 | [118316-bakutsuri-bar-hunter.json](./118316-bakutsuri-bar-hunter.json) |
 | Bal | 290930 | [290930-bal.json](./290930-bal.json) |
+| BAL Solid | 172383 | [172383-bal-solid.json](./172383-bal-solid.json) |
 | Bala na Manga | 238994 | [238994-bala-na-manga.json](./238994-bala-na-manga.json) |
 | Balaball | 373012 | [373012-balaball.json](./373012-balaball.json) |
 | Balacera Brothers | 135745 | [135745-balacera-brothers.json](./135745-balacera-brothers.json) |
@@ -10704,6 +10705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowler | 95920 | [95920-bowler.json](./95920-bowler.json) |
 | Bowlers | 384080 | [384080-bowlers.json](./384080-bowlers.json) |
 | Bowling | 131535 | [131535-bowling.json](./131535-bowling.json) |
+| Bowling | 172404 | [172404-bowling.json](./172404-bowling.json) |
 | Bowling | 246283 | [246283-bowling.json](./246283-bowling.json) |
 | Bowling | 247004 | [247004-bowling.json](./247004-bowling.json) |
 | Bowling | 291999 | [291999-bowling.json](./291999-bowling.json) |
