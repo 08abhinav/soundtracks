@@ -1842,6 +1842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dashosaur DX | 341922 | [341922-dashosaur-dx.json](./341922-dashosaur-dx.json) |
 | DashPoint | 420472 | [420472-dashpoint.json](./420472-dashpoint.json) |
 | Dashpunch | 319805 | [319805-dashpunch.json](./319805-dashpunch.json) |
+| Dashwalk Dueling | 189376 | [189376-dashwalk-dueling.json](./189376-dashwalk-dueling.json) |
 | Dashy Crashy 100 | 317385 | [317385-dashy-crashy-100.json](./317385-dashy-crashy-100.json) |
 | Dashy Ducks | 58623 | [58623-dashy-ducks.json](./58623-dashy-ducks.json) |
 | Dashy Square VR | 32253 | [32253-dashy-square-vr.json](./32253-dashy-square-vr.json) |
@@ -4586,6 +4587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Vector | 332859 | [332859-delta-vector.json](./332859-delta-vector.json) |
 | Delta Warp | 43978 | [43978-delta-warp.json](./43978-delta-warp.json) |
 | Delta Wing | 28562 | [28562-delta-wing.json](./28562-delta-wing.json) |
+| Delta Zero | 189346 | [189346-delta-zero.json](./189346-delta-zero.json) |
 | Delta-V Racing | 247434 | [247434-delta-v-racing.json](./247434-delta-v-racing.json) |
 | Delta's Discs | 412989 | [412989-deltas-discs.json](./412989-deltas-discs.json) |
 | Delta0 | 140267 | [140267-delta0.json](./140267-delta0.json) |
@@ -6628,6 +6630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Died | 305915 | [305915-died.json](./305915-died.json) |
 | Died of Fear | 44183 | [44183-died-of-fear.json](./44183-died-of-fear.json) |
 | DieFeen | 305161 | [305161-diefeen.json](./305161-diefeen.json) |
+| Diefrosty | 189364 | [189364-diefrosty.json](./189364-diefrosty.json) |
 | Diegesis of The Ruined | 298451 | [298451-diegesis-of-the-ruined.json](./298451-diegesis-of-the-ruined.json) |
 | Diego Balls | 343830 | [343830-diego-balls.json](./343830-diego-balls.json) |
 | Diego: Mission Red Tomato | 160211 | [160211-diego-mission-red-tomato.json](./160211-diego-mission-red-tomato.json) |
@@ -12240,6 +12243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamscape Journey | 180653 | [180653-dreamscape-journey.json](./180653-dreamscape-journey.json) |
 | Dreamscape Return | 290920 | [290920-dreamscape-return.json](./290920-dreamscape-return.json) |
 | Dreamscape Runners | 238503 | [238503-dreamscape-runners.json](./238503-dreamscape-runners.json) |
+| DreamScapes Dimensions | 189339 | [189339-dreamscapes-dimensions.json](./189339-dreamscapes-dimensions.json) |
 | Dreamscapes: Nightmare's Heir | 59908 | [59908-dreamscapes-nightmares-heir.json](./59908-dreamscapes-nightmares-heir.json) |
 | Dreamscapes: The Full Journey | 410379 | [410379-dreamscapes-the-full-journey.json](./410379-dreamscapes-the-full-journey.json) |
 | Dreamscapes: The Sandman - Collector's Edition | 356189 | [356189-dreamscapes-the-sandman-collectors-edition.json](./356189-dreamscapes-the-sandman-collectors-edition.json) |
