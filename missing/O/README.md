@@ -1741,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Giant Leap | 31735 | [31735-one-giant-leap.json](./31735-one-giant-leap.json) |
 | One Girl Army | 324699 | [324699-one-girl-army.json](./324699-one-girl-army.json) |
 | One Goal Spirit | 80493 | [80493-one-goal-spirit.json](./80493-one-goal-spirit.json) |
+| One Got in the House | 179882 | [179882-one-got-in-the-house.json](./179882-one-got-in-the-house.json) |
 | One Gun 2: Stickman | 126908 | [126908-one-gun-2-stickman.json](./126908-one-gun-2-stickman.json) |
 | One Gun: Cat | 106908 | [106908-one-gun-cat.json](./106908-one-gun-cat.json) |
 | One Hand Clapping | 103408 | [103408-one-hand-clapping.json](./103408-one-hand-clapping.json) |
@@ -3778,6 +3779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Range | 403204 | [403204-out-of-range.json](./403204-out-of-range.json) |
 | Out of Reach | 181805 | [181805-out-of-reach.json](./181805-out-of-reach.json) |
 | Out of Scale: A Kurzgesagt Adventure | 272338 | [272338-out-of-scale-a-kurzgesagt-adventure.json](./272338-out-of-scale-a-kurzgesagt-adventure.json) |
+| Out of Service | 179922 | [179922-out-of-service.json](./179922-out-of-service.json) |
 | Out of Shape | 311148 | [311148-out-of-shape.json](./311148-out-of-shape.json) |
 | Out of Shapes | 133382 | [133382-out-of-shapes.json](./133382-out-of-shapes.json) |
 | Out of Sight | 199126 | [199126-out-of-sight.json](./199126-out-of-sight.json) |
