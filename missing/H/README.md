@@ -7583,6 +7583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hordes of Chaos X | 268759 | [268759-hordes-of-chaos-x.json](./268759-hordes-of-chaos-x.json) |
 | Hordes of Enemies Bundle | 331524 | [331524-hordes-of-enemies-bundle.json](./331524-hordes-of-enemies-bundle.json) |
 | Hordes of Hunger | 244839 | [244839-hordes-of-hunger.json](./244839-hordes-of-hunger.json) |
+| Hordes of Zendar | 196461 | [196461-hordes-of-zendar.json](./196461-hordes-of-zendar.json) |
 | Hordes.io | 125365 | [125365-hordes-io.json](./125365-hordes-io.json) |
 | Hordound | 207764 | [207764-hordound.json](./207764-hordound.json) |
 | Horg's Brewery | 333608 | [333608-horgs-brewery.json](./333608-horgs-brewery.json) |
