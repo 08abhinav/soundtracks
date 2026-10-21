@@ -1184,6 +1184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Space Marine III | 335432 | [335432-warhammer-40-000-space-marine-iii.json](./335432-warhammer-40-000-space-marine-iii.json) |
 | Warhammer 40,000: Space Marine VR - Defenders of Avarax | 402514 | [402514-warhammer-40-000-space-marine-vr-defenders-of-avarax.json](./402514-warhammer-40-000-space-marine-vr-defenders-of-avarax.json) |
 | Warhammer 40,000: Space Wolf | 30283 | [30283-warhammer-40-000-space-wolf.json](./30283-warhammer-40-000-space-wolf.json) |
+| Warhammer 40,000: Space Wolf - Complete Edition | 186519 | [186519-warhammer-40-000-space-wolf-complete-edition.json](./186519-warhammer-40-000-space-wolf-complete-edition.json) |
 | Warhammer 40,000: Space Wolf - Drenn Redblade | 163385 | [163385-warhammer-40-000-space-wolf-drenn-redblade.json](./163385-warhammer-40-000-space-wolf-drenn-redblade.json) |
 | Warhammer 40,000: Space Wolf - Fall of Kanak | 163386 | [163386-warhammer-40-000-space-wolf-fall-of-kanak.json](./163386-warhammer-40-000-space-wolf-fall-of-kanak.json) |
 | Warhammer 40,000: Space Wolf - Saga of the Great Awakening | 163384 | [163384-warhammer-40-000-space-wolf-saga-of-the-great-awakening.json](./163384-warhammer-40-000-space-wolf-saga-of-the-great-awakening.json) |
