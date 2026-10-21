@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LabyrInk | 252287 | [252287-labyrink.json](./252287-labyrink.json) |
 | Labyrinth | 129067 | [129067-labyrinth.json](./129067-labyrinth.json) |
 | Labyrinth | 129619 | [129619-labyrinth.json](./129619-labyrinth.json) |
+| Labyrinth | 178288 | [178288-labyrinth.json](./178288-labyrinth.json) |
 | Labyrinth | 18211 | [18211-labyrinth.json](./18211-labyrinth.json) |
 | Labyrinth | 206701 | [206701-labyrinth.json](./206701-labyrinth.json) |
 | Labyrinth | 249273 | [249273-labyrinth.json](./249273-labyrinth.json) |
@@ -348,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lady Gaga Revenge 2 | 66039 | [66039-lady-gaga-revenge-2.json](./66039-lady-gaga-revenge-2.json) |
 | Lady Godiva: Naked Eye | 310741 | [310741-lady-godiva-naked-eye.json](./310741-lady-godiva-naked-eye.json) |
 | Lady Hunt | 192660 | [192660-lady-hunt.json](./192660-lady-hunt.json) |
+| Lady in a Leotard With a Gun | 178308 | [178308-lady-in-a-leotard-with-a-gun.json](./178308-lady-in-a-leotard-with-a-gun.json) |
 | Lady in tomb: Beneath the ocean | 220749 | [220749-lady-in-tomb-beneath-the-ocean.json](./220749-lady-in-tomb-beneath-the-ocean.json) |
 | Lady In Wading | 40649 | [40649-lady-in-wading.json](./40649-lady-in-wading.json) |
 | Lady Killer | 40338 | [40338-lady-killer.json](./40338-lady-killer.json) |
@@ -2185,6 +2187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Kailrate | 309212 | [309212-legends-of-kailrate.json](./309212-legends-of-kailrate.json) |
 | Legends of Kingdom Rush | 159076 | [159076-legends-of-kingdom-rush.json](./159076-legends-of-kingdom-rush.json) |
 | Legends of Koyannis | 110368 | [110368-legends-of-koyannis.json](./110368-legends-of-koyannis.json) |
+| Legends of Libra | 178253 | [178253-legends-of-libra.json](./178253-legends-of-libra.json) |
 | Legends of Loot | 64346 | [64346-legends-of-loot.json](./64346-legends-of-loot.json) |
 | Legends of Luisa Llama | 239078 | [239078-legends-of-luisa-llama.json](./239078-legends-of-luisa-llama.json) |
 | Legends of Lunia | 193974 | [193974-legends-of-lunia.json](./193974-legends-of-lunia.json) |
