@@ -2287,6 +2287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genius Quiz Youtubers 3 | 241930 | [241930-genius-quiz-youtubers-3.json](./241930-genius-quiz-youtubers-3.json) |
 | Genius Quiz Yugi | 241927 | [241927-genius-quiz-yugi.json](./241927-genius-quiz-yugi.json) |
 | Genius Shooter | 196540 | [196540-genius-shooter.json](./196540-genius-shooter.json) |
+| Genius vs. Antichrist 1 | 201530 | [201530-genius-vs-antichrist-1.json](./201530-genius-vs-antichrist-1.json) |
 | Genius: Im Zentrum der Macht | 86122 | [86122-genius-im-zentrum-der-macht.json](./86122-genius-im-zentrum-der-macht.json) |
 | Genji: Days of the Blade | 7315 | [7315-genji-days-of-the-blade.json](./7315-genji-days-of-the-blade.json) |
 | Genji: Time Suspense Adventure | 66150 | [66150-genji-time-suspense-adventure.json](./66150-genji-time-suspense-adventure.json) |
@@ -7049,6 +7050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GrimGrimoire OnceMore: Limited Edition | 283698 | [283698-grimgrimoire-oncemore-limited-edition.json](./283698-grimgrimoire-oncemore-limited-edition.json) |
 | Grimguard Tactics | 304952 | [304952-grimguard-tactics.json](./304952-grimguard-tactics.json) |
 | Grimhook | 277334 | [277334-grimhook.json](./277334-grimhook.json) |
+| Grimhunt | 201446 | [201446-grimhunt.json](./201446-grimhunt.json) |
 | GrimKeep | 339144 | [339144-grimkeep.json](./339144-grimkeep.json) |
 | Grimlands | 65048 | [65048-grimlands.json](./65048-grimlands.json) |
 | Grimlight | 200727 | [200727-grimlight.json](./200727-grimlight.json) |
