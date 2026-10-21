@@ -1907,6 +1907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saving Simon | 115162 | [115162-saving-simon.json](./115162-saving-simon.json) |
 | Saving Sparksville | 338146 | [338146-saving-sparksville.json](./338146-saving-sparksville.json) |
 | Saving Stages | 132595 | [132595-saving-stages.json](./132595-saving-stages.json) |
+| Saving Synthwave City | 179389 | [179389-saving-synthwave-city.json](./179389-saving-synthwave-city.json) |
 | Saving You From Yourself | 133467 | [133467-saving-you-from-yourself.json](./133467-saving-you-from-yourself.json) |
 | Savior | 121034 | [121034-savior.json](./121034-savior.json) |
 | Savior | 155016 | [155016-savior.json](./155016-savior.json) |
@@ -2305,6 +2306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Exit Class 8 | 360079 | [360079-school-exit-class-8.json](./360079-school-exit-class-8.json) |
 | School Fantasy | 267423 | [267423-school-fantasy.json](./267423-school-fantasy.json) |
 | School Flight Simulator | 234650 | [234650-school-flight-simulator.json](./234650-school-flight-simulator.json) |
+| School for the Friendless | 179366 | [179366-school-for-the-friendless.json](./179366-school-for-the-friendless.json) |
 | School Girl Apartment Paradise | 210314 | [210314-school-girl-apartment-paradise.json](./210314-school-girl-apartment-paradise.json) |
 | School Girl/Zombie Hunter | 41827 | [41827-school-girl-zombie-hunter.json](./41827-school-girl-zombie-hunter.json) |
 | School Girls Dance | 296755 | [296755-school-girls-dance.json](./296755-school-girls-dance.json) |
@@ -5655,6 +5657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShapeNeon Chaos | 157119 | [157119-shapeneon-chaos.json](./157119-shapeneon-chaos.json) |
 | Shapeo | 327437 | [327437-shapeo.json](./327437-shapeo.json) |
 | ShapeOminoes | 197721 | [197721-shapeominoes.json](./197721-shapeominoes.json) |
+| ShapePlacer | 179352 | [179352-shapeplacer.json](./179352-shapeplacer.json) |
 | Shaper | 240810 | [240810-shaper.json](./240810-shaper.json) |
 | ShapeR | 204936 | [204936-shaper.json](./204936-shaper.json) |
 | Shaper Runners | 231903 | [231903-shaper-runners.json](./231903-shaper-runners.json) |
@@ -9623,6 +9626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Scaffold | 392131 | [392131-sky-scaffold.json](./392131-sky-scaffold.json) |
 | Sky Seeker | 159840 | [159840-sky-seeker.json](./159840-sky-seeker.json) |
 | Sky Septima | 146659 | [146659-sky-septima.json](./146659-sky-septima.json) |
+| Sky Serpents | 179381 | [179381-sky-serpents.json](./179381-sky-serpents.json) |
 | Sky Settlers | 258422 | [258422-sky-settlers.json](./258422-sky-settlers.json) |
 | Sky Shark | 331282 | [331282-sky-shark.json](./331282-sky-shark.json) |
 | Sky Shepherd | 117103 | [117103-sky-shepherd.json](./117103-sky-shepherd.json) |
@@ -11969,6 +11973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soap Opera Dash | 56905 | [56905-soap-opera-dash.json](./56905-soap-opera-dash.json) |
 | Soap Slide | 369177 | [369177-soap-slide.json](./369177-soap-slide.json) |
 | Soap: Bubbles vs. microbes | 183888 | [183888-soap-bubbles-vs-microbes.json](./183888-soap-bubbles-vs-microbes.json) |
+| Soaper | 179377 | [179377-soaper.json](./179377-soaper.json) |
 | Soapland Story | 67386 | [67386-soapland-story.json](./67386-soapland-story.json) |
 | Soapy Tales | 392763 | [392763-soapy-tales.json](./392763-soapy-tales.json) |
 | Soar | 236803 | [236803-soar.json](./236803-soar.json) |
@@ -14403,6 +14408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Source beginning | 111434 | [111434-source-beginning.json](./111434-source-beginning.json) |
 | Source Code | 340199 | [340199-source-code.json](./340199-source-code.json) |
 | Source Control | 62734 | [62734-source-control.json](./62734-source-control.json) |
+| Source of Power | 179359 | [179359-source-of-power.json](./179359-source-of-power.json) |
 | Sourcelight RPG | 174282 | [174282-sourcelight-rpg.json](./174282-sourcelight-rpg.json) |
 | Sous Raccoon | 366299 | [366299-sous-raccoon.json](./366299-sous-raccoon.json) |
 | Sousaku Alice to Ouji-sama! | 202608 | [202608-sousaku-alice-to-ouji-sama.json](./202608-sousaku-alice-to-ouji-sama.json) |
@@ -15450,6 +15456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaced | 93176 | [93176-spaced.json](./93176-spaced.json) |
 | Spaced Liberation | 305645 | [305645-spaced-liberation.json](./305645-spaced-liberation.json) |
 | Spaced Out | 296360 | [296360-spaced-out.json](./296360-spaced-out.json) |
+| Spacedust Defender | 179410 | [179410-spacedust-defender.json](./179410-spacedust-defender.json) |
 | SpaceDweller | 59864 | [59864-spacedweller.json](./59864-spacedweller.json) |
 | SpaceEngine | 7585 | [7585-spaceengine.json](./7585-spaceengine.json) |
 | SpaceEx Commander | 157530 | [157530-spaceex-commander.json](./157530-spaceex-commander.json) |
@@ -17778,6 +17785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squeakross: Free Content Update | 392279 | [392279-squeakross-free-content-update.json](./392279-squeakross-free-content-update.json) |
 | Squeakross: Home Squeak Home | 305074 | [305074-squeakross-home-squeak-home.json](./305074-squeakross-home-squeak-home.json) |
 | Squeaky Clean | 146552 | [146552-squeaky-clean.json](./146552-squeaky-clean.json) |
+| Squeaky Squirrel | 179357 | [179357-squeaky-squirrel.json](./179357-squeaky-squirrel.json) |
 | Squeeballs Party | 21213 | [21213-squeeballs-party.json](./21213-squeeballs-party.json) |
 | Squeeballs Party | 414802 | [414802-squeeballs-party.json](./414802-squeeballs-party.json) |
 | Squeebing Up the Tower of Friendship | 258406 | [258406-squeebing-up-the-tower-of-friendship.json](./258406-squeebing-up-the-tower-of-friendship.json) |
@@ -22368,6 +22376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suddenly Bird | 274672 | [274672-suddenly-bird.json](./274672-suddenly-bird.json) |
 | Suddenly Meow | 166810 | [166810-suddenly-meow.json](./166810-suddenly-meow.json) |
 | Suddenly Meow 2 | 197932 | [197932-suddenly-meow-2.json](./197932-suddenly-meow-2.json) |
+| Suddenly She's Here | 179363 | [179363-suddenly-shes-here.json](./179363-suddenly-shes-here.json) |
 | Sudeki | 6179 | [6179-sudeki.json](./6179-sudeki.json) |
 | Sudo Cats | 221263 | [221263-sudo-cats.json](./221263-sudo-cats.json) |
 | Sudo King | 267545 | [267545-sudo-king.json](./267545-sudo-king.json) |
