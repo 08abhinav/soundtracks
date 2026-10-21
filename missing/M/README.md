@@ -596,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maestro | 184279 | [184279-maestro.json](./184279-maestro.json) |
 | Maestro | 306924 | [306924-maestro.json](./306924-maestro.json) |
 | Maestro Mario | 328592 | [328592-maestro-mario.json](./328592-maestro-mario.json) |
+| Maestro VR | 174017 | [174017-maestro-vr.json](./174017-maestro-vr.json) |
 | Maestro: Attack on Titan | 414808 | [414808-maestro-attack-on-titan.json](./414808-maestro-attack-on-titan.json) |
 | Maestro: Duel of the Fates | 344161 | [344161-maestro-duel-of-the-fates.json](./344161-maestro-duel-of-the-fates.json) |
 | Maestro: Music from the Void - Collector's Edition | 104804 | [104804-maestro-music-from-the-void-collectors-edition.json](./104804-maestro-music-from-the-void-collectors-edition.json) |
@@ -1023,6 +1024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic the Wandering | 311585 | [311585-magic-the-wandering.json](./311585-magic-the-wandering.json) |
 | Magic Thief | 190915 | [190915-magic-thief.json](./190915-magic-thief.json) |
 | Magic Tiles Saga: Upbeat Music | 100858 | [100858-magic-tiles-saga-upbeat-music.json](./100858-magic-tiles-saga-upbeat-music.json) |
+| Magic Time | 174019 | [174019-magic-time.json](./174019-magic-time.json) |
 | Magic Tiny Lands | 367494 | [367494-magic-tiny-lands.json](./367494-magic-tiny-lands.json) |
 | Magic Toenail | 247478 | [247478-magic-toenail.json](./247478-magic-toenail.json) |
 | Magic Touch | 280672 | [280672-magic-touch.json](./280672-magic-touch.json) |
@@ -16479,6 +16481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Box 5: Elements | 292251 | [292251-mystery-box-5-elements.json](./292251-mystery-box-5-elements.json) |
 | Mystery Box VR: Hidden Secrets | 343773 | [343773-mystery-box-vr-hidden-secrets.json](./343773-mystery-box-vr-hidden-secrets.json) |
 | Mystery Box: Escape The Room | 259740 | [259740-mystery-box-escape-the-room.json](./259740-mystery-box-escape-the-room.json) |
+| Mystery Box: Hidden Secrets | 174041 | [174041-mystery-box-hidden-secrets.json](./174041-mystery-box-hidden-secrets.json) |
 | Mystery Box: The Journey | 257360 | [257360-mystery-box-the-journey.json](./257360-mystery-box-the-journey.json) |
 | Mystery Case Files: 13th Skull | 5515 | [5515-mystery-case-files-13th-skull.json](./5515-mystery-case-files-13th-skull.json) |
 | Mystery Case Files: Black Crown - Collector's Edition | 127100 | [127100-mystery-case-files-black-crown-collectors-edition.json](./127100-mystery-case-files-black-crown-collectors-edition.json) |
