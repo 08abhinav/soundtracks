@@ -2634,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Werewolf Goldfish | 309054 | [309054-werewolf-goldfish.json](./309054-werewolf-goldfish.json) |
 | Werewolf Hunter X | 114244 | [114244-werewolf-hunter-x.json](./114244-werewolf-hunter-x.json) |
 | Werewolf Hunter: Survive the Howl | 330808 | [330808-werewolf-hunter-survive-the-howl.json](./330808-werewolf-hunter-survive-the-howl.json) |
+| Werewolf in the Wild | 183794 | [183794-werewolf-in-the-wild.json](./183794-werewolf-in-the-wild.json) |
 | Werewolf Island | 61150 | [61150-werewolf-island.json](./61150-werewolf-island.json) |
 | Werewolf Life | 81973 | [81973-werewolf-life.json](./81973-werewolf-life.json) |
 | Werewolf Online | 420656 | [420656-werewolf-online.json](./420656-werewolf-online.json) |
@@ -3205,6 +3206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Is My Family | 118792 | [118792-where-is-my-family.json](./118792-where-is-my-family.json) |
 | Where Is My Hat? | 345652 | [345652-where-is-my-hat.json](./345652-where-is-my-hat.json) |
 | Where is My Home? | 410996 | [410996-where-is-my-home.json](./410996-where-is-my-home.json) |
+| Where Is My Human? | 183792 | [183792-where-is-my-human.json](./183792-where-is-my-human.json) |
 | Where is my mind | 25764 | [25764-where-is-my-mind.json](./25764-where-is-my-mind.json) |
 | Where Is My Parking Spot | 141016 | [141016-where-is-my-parking-spot.json](./141016-where-is-my-parking-spot.json) |
 | Where Is My Pet? | 417359 | [417359-where-is-my-pet.json](./417359-where-is-my-pet.json) |
