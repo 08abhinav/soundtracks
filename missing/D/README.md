@@ -1338,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Place 3 | 272028 | [272028-dark-place-3.json](./272028-dark-place-3.json) |
 | Dark Place 4 | 272029 | [272029-dark-place-4.json](./272029-dark-place-4.json) |
 | Dark Place 5 | 272030 | [272030-dark-place-5.json](./272030-dark-place-5.json) |
+| Dark Planet | 175625 | [175625-dark-planet.json](./175625-dark-planet.json) |
 | Dark Planet: Battle for Natrolis | 23457 | [23457-dark-planet-battle-for-natrolis.json](./23457-dark-planet-battle-for-natrolis.json) |
 | Dark Presence | 67962 | [67962-dark-presence.json](./67962-dark-presence.json) |
 | Dark Prisms | 243972 | [243972-dark-prisms.json](./243972-dark-prisms.json) |
@@ -2131,6 +2132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn's Light 2 | 31176 | [31176-dawns-light-2.json](./31176-dawns-light-2.json) |
 | Dawn's Light 3 | 324737 | [324737-dawns-light-3.json](./324737-dawns-light-3.json) |
 | Dawnbringer | 129604 | [129604-dawnbringer.json](./129604-dawnbringer.json) |
+| Dawncaster: Deckbuilding RPG | 175097 | [175097-dawncaster-deckbuilding-rpg.json](./175097-dawncaster-deckbuilding-rpg.json) |
 | Dawngate | 11327 | [11327-dawngate.json](./11327-dawngate.json) |
 | Dawning Evil | 331088 | [331088-dawning-evil.json](./331088-dawning-evil.json) |
 | Dawning Subaru, and The Owl lurking in the twilight. | 317706 | [317706-dawning-subaru-and-the-owl-lurking-in-the-twilight.json](./317706-dawning-subaru-and-the-owl-lurking-in-the-twilight.json) |
@@ -9606,6 +9608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong II | 112423 | [112423-donkey-kong-ii.json](./112423-donkey-kong-ii.json) |
 | Donkey Kong II | 305302 | [305302-donkey-kong-ii.json](./305302-donkey-kong-ii.json) |
 | Donkey Kong II | 367846 | [367846-donkey-kong-ii.json](./367846-donkey-kong-ii.json) |
+| Donkey Kong Jr. | 175637 | [175637-donkey-kong-jr.json](./175637-donkey-kong-jr.json) |
 | Donkey Kong Jr. | 200535 | [200535-donkey-kong-jr.json](./200535-donkey-kong-jr.json) |
 | Donkey Kong Jr. | 231742 | [231742-donkey-kong-jr.json](./231742-donkey-kong-jr.json) |
 | Donkey Kong Jr. | 231743 | [231743-donkey-kong-jr.json](./231743-donkey-kong-jr.json) |
@@ -12285,6 +12288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams of Sand | 306347 | [306347-dreams-of-sand.json](./306347-dreams-of-sand.json) |
 | Dreams of Saturn 2.0 | 326647 | [326647-dreams-of-saturn-2-0.json](./326647-dreams-of-saturn-2-0.json) |
 | Dreams of Solari - Chapter 1 | 120376 | [120376-dreams-of-solari-chapter-1.json](./120376-dreams-of-solari-chapter-1.json) |
+| Dreams of the Elements | 175620 | [175620-dreams-of-the-elements.json](./175620-dreams-of-the-elements.json) |
 | Dreams of the Void | 290614 | [290614-dreams-of-the-void.json](./290614-dreams-of-the-void.json) |
 | Dreams of Valhalla | 250448 | [250448-dreams-of-valhalla.json](./250448-dreams-of-valhalla.json) |
 | Dreams of Witchtown | 67282 | [67282-dreams-of-witchtown.json](./67282-dreams-of-witchtown.json) |
@@ -13446,6 +13450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumball Rush | 278950 | [278950-dumball-rush.json](./278950-dumball-rush.json) |
 | Dumbass Survivors | 344338 | [344338-dumbass-survivors.json](./344338-dumbass-survivors.json) |
 | Dumber dwarves | 182724 | [182724-dumber-dwarves.json](./182724-dumber-dwarves.json) |
+| Dumber League | 175063 | [175063-dumber-league.json](./175063-dumber-league.json) |
 | Dumbino | 307569 | [307569-dumbino.json](./307569-dumbino.json) |
 | Dumbo's Flying Circus | 40639 | [40639-dumbos-flying-circus.json](./40639-dumbos-flying-circus.json) |
 | Dumbot | 330173 | [330173-dumbot.json](./330173-dumbot.json) |
