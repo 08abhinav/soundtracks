@@ -1022,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldi's Basics: Encounter Doors | 353384 | [353384-baldis-basics-encounter-doors.json](./353384-baldis-basics-encounter-doors.json) |
 | Baldi's Farm! | 263665 | [263665-baldis-farm.json](./263665-baldis-farm.json) |
 | Baldies | 90071 | [90071-baldies.json](./90071-baldies.json) |
+| Baldimore's Highschool | 183230 | [183230-baldimores-highschool.json](./183230-baldimores-highschool.json) |
 | Baldis Advanced 3D Math Class | 372196 | [372196-baldis-advanced-3d-math-class.json](./372196-baldis-advanced-3d-math-class.json) |
 | Baldis Basics 2: High School | 105781 | [105781-baldis-basics-2-high-school.json](./105781-baldis-basics-2-high-school.json) |
 | Baldis Basics Calculator Sim | 106637 | [106637-baldis-basics-calculator-sim.json](./106637-baldis-basics-calculator-sim.json) |
@@ -11121,6 +11122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brandish 4: Nemureru Kami no Tou | 105741 | [105741-brandish-4-nemureru-kami-no-tou.json](./105741-brandish-4-nemureru-kami-no-tou.json) |
 | Brandnew Boy | 38975 | [38975-brandnew-boy.json](./38975-brandnew-boy.json) |
 | Brands Hatch | 55997 | [55997-brands-hatch.json](./55997-brands-hatch.json) |
+| Brane | 183261 | [183261-brane.json](./183261-brane.json) |
 | Brane: Prototype | 104586 | [104586-brane-prototype.json](./104586-brane-prototype.json) |
 | Branmarker | 65035 | [65035-branmarker.json](./65035-branmarker.json) |
 | Branmarker 2 | 64977 | [64977-branmarker-2.json](./64977-branmarker-2.json) |
@@ -12169,6 +12171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bronze Hoof | 127083 | [127083-bronze-hoof.json](./127083-bronze-hoof.json) |
 | Bronzebeard's Tavern | 258955 | [258955-bronzebeards-tavern.json](./258955-bronzebeards-tavern.json) |
 | Bronzebeard's Tavern: Founder's Pack | 292752 | [292752-bronzebeards-tavern-founders-pack.json](./292752-bronzebeards-tavern-founders-pack.json) |
+| Bronzette | 183267 | [183267-bronzette.json](./183267-bronzette.json) |
 | Brood | 116514 | [116514-brood.json](./116514-brood.json) |
 | Brood of Hatred | 261444 | [261444-brood-of-hatred.json](./261444-brood-of-hatred.json) |
 | BroodStar | 140204 | [140204-broodstar.json](./140204-broodstar.json) |
