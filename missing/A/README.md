@@ -643,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Nanobot | 233124 | [233124-a-nanobot.json](./233124-a-nanobot.json) |
 | A Near Dawn | 74241 | [74241-a-near-dawn.json](./74241-a-near-dawn.json) |
 | A Nest for Us | 259499 | [259499-a-nest-for-us.json](./259499-a-nest-for-us.json) |
+| A Neverending Night | 183772 | [183772-a-neverending-night.json](./183772-a-neverending-night.json) |
 | A New Adventure: FaYoh 2 | 131374 | [131374-a-new-adventure-fayoh-2.json](./131374-a-new-adventure-fayoh-2.json) |
 | A New Beginning: Final Cut Edition | 52535 | [52535-a-new-beginning-final-cut-edition.json](./52535-a-new-beginning-final-cut-edition.json) |
 | A New Don | 183433 | [183433-a-new-don.json](./183433-a-new-don.json) |
@@ -950,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale of Two Flowers | 380229 | [380229-a-tale-of-two-flowers.json](./380229-a-tale-of-two-flowers.json) |
 | A Tale of Two Kingdoms | 29264 | [29264-a-tale-of-two-kingdoms.json](./29264-a-tale-of-two-kingdoms.json) |
 | A Tale of Two Lovers | 271116 | [271116-a-tale-of-two-lovers.json](./271116-a-tale-of-two-lovers.json) |
+| A Tarot Reading | 183787 | [183787-a-tarot-reading.json](./183787-a-tarot-reading.json) |
 | A Taste for Murder | 90881 | [90881-a-taste-for-murder.json](./90881-a-taste-for-murder.json) |
 | A Taste of Home | 380772 | [380772-a-taste-of-home.json](./380772-a-taste-of-home.json) |
 | A Tasting Flight of Names | 315625 | [315625-a-tasting-flight-of-names.json](./315625-a-tasting-flight-of-names.json) |
@@ -960,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Thin Line | 28030 | [28030-a-thin-line.json](./28030-a-thin-line.json) |
 | A Thousand Mouths to Scream | 338179 | [338179-a-thousand-mouths-to-scream.json](./338179-a-thousand-mouths-to-scream.json) |
 | A thousand words that I could tell you | 257539 | [257539-a-thousand-words-that-i-could-tell-you.json](./257539-a-thousand-words-that-i-could-tell-you.json) |
+| A Thousand Words to Tell I Love You | 183791 | [183791-a-thousand-words-to-tell-i-love-you.json](./183791-a-thousand-words-to-tell-i-love-you.json) |
 | A Thug's Ascension | 250817 | [250817-a-thugs-ascension.json](./250817-a-thugs-ascension.json) |
 | A Time of Life | 166666 | [166666-a-time-of-life.json](./166666-a-time-of-life.json) |
 | A Time Traveller's Guide to Past Delicacies | 285882 | [285882-a-time-travellers-guide-to-past-delicacies.json](./285882-a-time-travellers-guide-to-past-delicacies.json) |
@@ -13063,6 +13066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto WWII Equips | 374825 | [374825-auto-wwii-equips.json](./374825-auto-wwii-equips.json) |
 | Auto X | 246311 | [246311-auto-x.json](./246311-auto-x.json) |
 | Auto-Crisis | 330022 | [330022-auto-crisis.json](./330022-auto-crisis.json) |
+| Auto-Miner | 183795 | [183795-auto-miner.json](./183795-auto-miner.json) |
 | Auto-Staccato | 81087 | [81087-auto-staccato.json](./81087-auto-staccato.json) |
 | Auto-Upturn | 48692 | [48692-auto-upturn.json](./48692-auto-upturn.json) |
 | Autobahn Chaos | 179138 | [179138-autobahn-chaos.json](./179138-autobahn-chaos.json) |
