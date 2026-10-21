@@ -1950,6 +1950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown Memories: Lost Reality | 264534 | [264534-unknown-memories-lost-reality.json](./264534-unknown-memories-lost-reality.json) |
 | Unknown Nightmare | 93779 | [93779-unknown-nightmare.json](./93779-unknown-nightmare.json) |
 | Unknown Pain: Hardcore | 96694 | [96694-unknown-pain-hardcore.json](./96694-unknown-pain-hardcore.json) |
+| Unknown Path | 172964 | [172964-unknown-path.json](./172964-unknown-path.json) |
 | Unknown Place | 287226 | [287226-unknown-place.json](./287226-unknown-place.json) |
 | Unknown Planet | 149470 | [149470-unknown-planet.json](./149470-unknown-planet.json) |
 | Unknown Presence | 274508 | [274508-unknown-presence.json](./274508-unknown-presence.json) |
