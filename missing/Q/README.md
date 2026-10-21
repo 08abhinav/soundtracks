@@ -275,11 +275,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake VR | 196018 | [196018-quake-vr.json](./196018-quake-vr.json) |
 | Quake: A Roman Wilderness of Pain | 196709 | [196709-quake-a-roman-wilderness-of-pain.json](./196709-quake-a-roman-wilderness-of-pain.json) |
 | Quake: Alkaline Jam | 196802 | [196802-quake-alkaline-jam.json](./196802-quake-alkaline-jam.json) |
+| Quake: Altars of Storm | 196460 | [196460-quake-altars-of-storm.json](./196460-quake-altars-of-storm.json) |
 | Quake: Arcade Tournament Edition | 405632 | [405632-quake-arcade-tournament-edition.json](./405632-quake-arcade-tournament-edition.json) |
 | Quake: Autumn Haunting | 202931 | [202931-quake-autumn-haunting.json](./202931-quake-autumn-haunting.json) |
+| Quake: Backsteingotik | 196494 | [196494-quake-backsteingotik.json](./196494-quake-backsteingotik.json) |
 | Quake: Bestial Devastation | 196503 | [196503-quake-bestial-devastation.json](./196503-quake-bestial-devastation.json) |
+| Quake: Blue Monday Jam | 196488 | [196488-quake-blue-monday-jam.json](./196488-quake-blue-monday-jam.json) |
 | Quake: Carved in Flesh | 196659 | [196659-quake-carved-in-flesh.json](./196659-quake-carved-in-flesh.json) |
 | Quake: Cassandra Calamity | 196520 | [196520-quake-cassandra-calamity.json](./196520-quake-cassandra-calamity.json) |
+| Quake: Coffee Quake | 196490 | [196490-quake-coffee-quake.json](./196490-quake-coffee-quake.json) |
 | Quake: Contract Revoked | 280187 | [280187-quake-contract-revoked.json](./280187-quake-contract-revoked.json) |
 | Quake: Coppertone Summer Jam | 196500 | [196500-quake-coppertone-summer-jam.json](./196500-quake-coppertone-summer-jam.json) |
 | Quake: Dawn of the Machine | 412530 | [412530-quake-dawn-of-the-machine.json](./412530-quake-dawn-of-the-machine.json) |
@@ -292,13 +296,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake: Five Rivers Land | 196706 | [196706-quake-five-rivers-land.json](./196706-quake-five-rivers-land.json) |
 | Quake: For My Babies | 196645 | [196645-quake-for-my-babies.json](./196645-quake-for-my-babies.json) |
 | Quake: Forgotten Sepulcher | 196638 | [196638-quake-forgotten-sepulcher.json](./196638-quake-forgotten-sepulcher.json) |
+| Quake: Func Jam | 196496 | [196496-quake-func-jam.json](./196496-quake-func-jam.json) |
+| Quake: Func Jam 2 | 196495 | [196495-quake-func-jam-2.json](./196495-quake-func-jam-2.json) |
 | Quake: Func Jam 3 | 196568 | [196568-quake-func-jam-3.json](./196568-quake-func-jam-3.json) |
+| Quake: Func Jam 4 | 196607 | [196607-quake-func-jam-4.json](./196607-quake-func-jam-4.json) |
 | Quake: Func Jam 5 | 196618 | [196618-quake-func-jam-5.json](./196618-quake-func-jam-5.json) |
 | Quake: Func Jam 6 | 196623 | [196623-quake-func-jam-6.json](./196623-quake-func-jam-6.json) |
 | Quake: Func Jam 7 | 196624 | [196624-quake-func-jam-7.json](./196624-quake-func-jam-7.json) |
 | Quake: Func Jam 8 | 196628 | [196628-quake-func-jam-8.json](./196628-quake-func-jam-8.json) |
 | Quake: Func Jam X | 196630 | [196630-quake-func-jam-x.json](./196630-quake-func-jam-x.json) |
+| Quake: Func Xmas Jam 2017 | 196492 | [196492-quake-func-xmas-jam-2017.json](./196492-quake-func-xmas-jam-2017.json) |
+| Quake: Halloween Jam | 196484 | [196484-quake-halloween-jam.json](./196484-quake-halloween-jam.json) |
+| Quake: Halloween Jam 2 | 196486 | [196486-quake-halloween-jam-2.json](./196486-quake-halloween-jam-2.json) |
+| Quake: Halloween Jam 3 | 196485 | [196485-quake-halloween-jam-3.json](./196485-quake-halloween-jam-3.json) |
+| Quake: Halloween Jam 4 | 196487 | [196487-quake-halloween-jam-4.json](./196487-quake-halloween-jam-4.json) |
 | Quake: Imhotep's Legacy | 196501 | [196501-quake-imhoteps-legacy.json](./196501-quake-imhoteps-legacy.json) |
+| Quake: Insomnia | 196497 | [196497-quake-insomnia.json](./196497-quake-insomnia.json) |
 | Quake: January Jump Jam | 202930 | [202930-quake-january-jump-jam.json](./202930-quake-january-jump-jam.json) |
 | Quake: January Jump Jam 2 | 202928 | [202928-quake-january-jump-jam-2.json](./202928-quake-january-jump-jam-2.json) |
 | Quake: Marcher Fortress | 196538 | [196538-quake-marcher-fortress.json](./196538-quake-marcher-fortress.json) |
@@ -315,16 +328,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake: Retro Jam Windtunnel | 196726 | [196726-quake-retro-jam-windtunnel.json](./196726-quake-retro-jam-windtunnel.json) |
 | Quake: Rubicon | 325922 | [325922-quake-rubicon.json](./325922-quake-rubicon.json) |
 | Quake: Sewer Jam | 196799 | [196799-quake-sewer-jam.json](./196799-quake-sewer-jam.json) |
+| Quake: SMEJ Jam | 196491 | [196491-quake-smej-jam.json](./196491-quake-smej-jam.json) |
 | Quake: Soul of Evil | 196644 | [196644-quake-soul-of-evil.json](./196644-quake-soul-of-evil.json) |
 | Quake: Soul of Evil - Indian Summer | 196650 | [196650-quake-soul-of-evil-indian-summer.json](./196650-quake-soul-of-evil-indian-summer.json) |
+| Quake: Ter Shibboleth | 196463 | [196463-quake-ter-shibboleth.json](./196463-quake-ter-shibboleth.json) |
 | Quake: The Final Descent | 196723 | [196723-quake-the-final-descent.json](./196723-quake-the-final-descent.json) |
 | Quake: The Offering | 46627 | [46627-quake-the-offering.json](./46627-quake-the-offering.json) |
 | Quake: The Punishment Due | 280188 | [280188-quake-the-punishment-due.json](./280188-quake-the-punishment-due.json) |
+| Quake: Torrent of Impurities | 196498 | [196498-quake-torrent-of-impurities.json](./196498-quake-torrent-of-impurities.json) |
 | Quake: Travail | 203189 | [203189-quake-travail.json](./203189-quake-travail.json) |
 | Quake: Underdark Overbright & Copper | 199075 | [199075-quake-underdark-overbright-and-copper.json](./199075-quake-underdark-overbright-and-copper.json) |
 | Quake: Underwater Jam | 196632 | [196632-quake-underwater-jam.json](./196632-quake-underwater-jam.json) |
+| Quake: Unforgiven | 196459 | [196459-quake-unforgiven.json](./196459-quake-unforgiven.json) |
 | Quake: Unused Jam | 203157 | [203157-quake-unused-jam.json](./203157-quake-unused-jam.json) |
 | Quake: Warp Spasm | 196631 | [196631-quake-warp-spasm.json](./196631-quake-warp-spasm.json) |
+| Quake: Xmas Jam 2018 | 196464 | [196464-quake-xmas-jam-2018.json](./196464-quake-xmas-jam-2018.json) |
+| Quake: Xmas Jam 2019 | 196465 | [196465-quake-xmas-jam-2019.json](./196465-quake-xmas-jam-2019.json) |
+| Quake: Xmas Jam 2020 | 196462 | [196462-quake-xmas-jam-2020.json](./196462-quake-xmas-jam-2020.json) |
+| Quake: Xmas Jam 2021 | 196466 | [196466-quake-xmas-jam-2021.json](./196466-quake-xmas-jam-2021.json) |
 | Quake3Quest | 328304 | [328304-quake3quest.json](./328304-quake3quest.json) |
 | Quakeguy Goes to White Castle | 271234 | [271234-quakeguy-goes-to-white-castle.json](./271234-quakeguy-goes-to-white-castle.json) |
 | QuakeWorld | 300456 | [300456-quakeworld.json](./300456-quakeworld.json) |
@@ -979,6 +1000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quote Codes | 80855 | [80855-quote-codes.json](./80855-quote-codes.json) |
 | Quote Unquote: Crossword puzzles meet famous quotations! | 70899 | [70899-quote-unquote-crossword-puzzles-meet-famous-quotations.json](./70899-quote-unquote-crossword-puzzles-meet-famous-quotations.json) |
 | Quotes Quest - Match 3 | 114164 | [114164-quotes-quest-match-3.json](./114164-quotes-quest-match-3.json) |
+| Quoth | 196458 | [196458-quoth.json](./196458-quoth.json) |
 | Quoth The Raven | 268727 | [268727-quoth-the-raven.json](./268727-quoth-the-raven.json) |
 | QuoVadis | 125792 | [125792-quovadis.json](./125792-quovadis.json) |
 | QuoVadis 2: Wakusei Kyoushuu Ovan Rei | 123631 | [123631-quovadis-2-wakusei-kyoushuu-ovan-rei.json](./123631-quovadis-2-wakusei-kyoushuu-ovan-rei.json) |
