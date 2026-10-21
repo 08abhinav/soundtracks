@@ -3475,6 +3475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret of the Vikings 2: The World Tree | 265113 | [265113-secret-of-the-vikings-2-the-world-tree.json](./265113-secret-of-the-vikings-2-the-world-tree.json) |
 | Secret of the Vikings: Mystery island | 199300 | [199300-secret-of-the-vikings-mystery-island.json](./199300-secret-of-the-vikings-mystery-island.json) |
 | Secret Of World | 315032 | [315032-secret-of-world.json](./315032-secret-of-world.json) |
+| Secret Oops! | 194337 | [194337-secret-oops.json](./194337-secret-oops.json) |
 | Secret Paths to the Sea | 70382 | [70382-secret-paths-to-the-sea.json](./70382-secret-paths-to-the-sea.json) |
 | Secret Paws: Cozy Apartments | 363887 | [363887-secret-paws-cozy-apartments.json](./363887-secret-paws-cozy-apartments.json) |
 | Secret Paws: Cozy Offices | 348838 | [348838-secret-paws-cozy-offices.json](./348838-secret-paws-cozy-offices.json) |
@@ -8250,6 +8251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simon's Cat in Purrfect Pitch | 233208 | [233208-simons-cat-in-purrfect-pitch.json](./233208-simons-cat-in-purrfect-pitch.json) |
 | Simon's Cat: Crunch Time | 86936 | [86936-simons-cat-crunch-time.json](./86936-simons-cat-crunch-time.json) |
 | Simon's Cat: Pop Time | 105515 | [105515-simons-cat-pop-time.json](./105515-simons-cat-pop-time.json) |
+| Simon's Cat: Story Time | 194333 | [194333-simons-cat-story-time.json](./194333-simons-cat-story-time.json) |
 | Simon's Journey | 71002 | [71002-simons-journey.json](./71002-simons-journey.json) |
 | Simov | 130639 | [130639-simov.json](./130639-simov.json) |
 | Simp Attack | 157117 | [157117-simp-attack.json](./157117-simp-attack.json) |
@@ -11640,6 +11642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Moto Racing Freedom | 29593 | [29593-snow-moto-racing-freedom.json](./29593-snow-moto-racing-freedom.json) |
 | Snow Moto: Racing Adventure | 283810 | [283810-snow-moto-racing-adventure.json](./283810-snow-moto-racing-adventure.json) |
 | Snow of Spirit | 215546 | [215546-snow-of-spirit.json](./215546-snow-of-spirit.json) |
+| Snow Off Road | 194165 | [194165-snow-off-road.json](./194165-snow-off-road.json) |
 | Snow Pinball: Santa's Christmas Factory! | 104476 | [104476-snow-pinball-santas-christmas-factory.json](./104476-snow-pinball-santas-christmas-factory.json) |
 | Snow Plow | 192872 | [192872-snow-plow.json](./192872-snow-plow.json) |
 | Snow Plow Train Simulator 3D - Russia | 87104 | [87104-snow-plow-train-simulator-3d-russia.json](./87104-snow-plow-train-simulator-3d-russia.json) |
@@ -16587,6 +16590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiralagon | 122342 | [122342-spiralagon.json](./122342-spiralagon.json) |
 | Spiraling Snow | 246547 | [246547-spiraling-snow.json](./246547-spiraling-snow.json) |
 | Spire Adventure | 233422 | [233422-spire-adventure.json](./233422-spire-adventure.json) |
+| Spire Blast | 194335 | [194335-spire-blast.json](./194335-spire-blast.json) |
 | Spire Horizon | 257687 | [257687-spire-horizon.json](./257687-spire-horizon.json) |
 | Spire Horizon Online | 304871 | [304871-spire-horizon-online.json](./304871-spire-horizon-online.json) |
 | Spire Horizon: Companion Expansion | 259496 | [259496-spire-horizon-companion-expansion.json](./259496-spire-horizon-companion-expansion.json) |
@@ -18160,6 +18164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Evil | 245144 | [245144-star-evil.json](./245144-star-evil.json) |
 | Star Exodus | 217306 | [217306-star-exodus.json](./217306-star-exodus.json) |
 | Star Explorers | 32051 | [32051-star-explorers.json](./32051-star-explorers.json) |
+| Star Fetched | 194338 | [194338-star-fetched.json](./194338-star-fetched.json) |
 | Star Fetchers : Episode 1 | 220500 | [220500-star-fetchers-episode-1.json](./220500-star-fetchers-episode-1.json) |
 | Star Fetchers: Escape from Pork Belly | 298240 | [298240-star-fetchers-escape-from-pork-belly.json](./298240-star-fetchers-escape-from-pork-belly.json) |
 | Star Fiction | 348276 | [348276-star-fiction.json](./348276-star-fiction.json) |
@@ -19423,6 +19428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarTropics | 15901 | [15901-startropics.json](./15901-startropics.json) |
 | Startup Company: Console Edition | 228020 | [228020-startup-company-console-edition.json](./228020-startup-company-console-edition.json) |
 | Startup Freak | 74369 | [74369-startup-freak.json](./74369-startup-freak.json) |
+| Startup Grave | 194169 | [194169-startup-grave.json](./194169-startup-grave.json) |
 | Startup Trail | 373260 | [373260-startup-trail.json](./373260-startup-trail.json) |
 | StartUp! Gym | 221362 | [221362-startup-gym.json](./221362-startup-gym.json) |
 | Starva Saga | 391184 | [391184-starva-saga.json](./391184-starva-saga.json) |
