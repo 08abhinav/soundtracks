@@ -726,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Larry Ragland's 4x4 Challenge | 93468 | [93468-larry-raglands-4x4-challenge.json](./93468-larry-raglands-4x4-challenge.json) |
 | Larry the Dinosaur 2: Something in the Cola | 217509 | [217509-larry-the-dinosaur-2-something-in-the-cola.json](./217509-larry-the-dinosaur-2-something-in-the-cola.json) |
 | Larry the Unlucky: Part 2 | 164602 | [164602-larry-the-unlucky-part-2.json](./164602-larry-the-unlucky-part-2.json) |
+| Larry the Unlucky: Part 3 | 188847 | [188847-larry-the-unlucky-part-3.json](./188847-larry-the-unlucky-part-3.json) |
 | Larry Vales II: Dead Girls are Easy | 76463 | [76463-larry-vales-ii-dead-girls-are-easy.json](./76463-larry-vales-ii-dead-girls-are-easy.json) |
 | Larry: Wet Dreams Dry Twice | 200194 | [200194-larry-wet-dreams-dry-twice.json](./200194-larry-wet-dreams-dry-twice.json) |
 | Larry's Lab | 373527 | [373527-larrys-lab.json](./373527-larrys-lab.json) |
@@ -1594,6 +1595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leafy Trails: Magic Tree | 264556 | [264556-leafy-trails-magic-tree.json](./264556-leafy-trails-magic-tree.json) |
 | League Bowling | 40206 | [40206-league-bowling.json](./40206-league-bowling.json) |
 | League Funny | 243543 | [243543-league-funny.json](./243543-league-funny.json) |
+| League Manager 2022 | 188979 | [188979-league-manager-2022.json](./188979-league-manager-2022.json) |
 | League Manager 2023 | 235696 | [235696-league-manager-2023.json](./235696-league-manager-2023.json) |
 | League of Abyss | 312573 | [312573-league-of-abyss.json](./312573-league-of-abyss.json) |
 | League of Angels | 23610 | [23610-league-of-angels.json](./23610-league-of-angels.json) |
@@ -7666,6 +7668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lux Intacta | 217286 | [217286-lux-intacta.json](./217286-lux-intacta.json) |
 | Lux Licentia | 383204 | [383204-lux-licentia.json](./383204-lux-licentia.json) |
 | Lux mina | 163036 | [163036-lux-mina.json](./163036-lux-mina.json) |
+| Lux Primora | 188861 | [188861-lux-primora.json](./188861-lux-primora.json) |
 | Lux Sine | 149030 | [149030-lux-sine.json](./149030-lux-sine.json) |
 | Lux Ski Jump | 151472 | [151472-lux-ski-jump.json](./151472-lux-ski-jump.json) |
 | Lux umbra | 56595 | [56595-lux-umbra.json](./56595-lux-umbra.json) |
