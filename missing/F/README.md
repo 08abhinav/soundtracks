@@ -2034,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmer Bundle | 271840 | [271840-farmer-bundle.json](./271840-farmer-bundle.json) |
 | Farmer Drift! | 246430 | [246430-farmer-drift.json](./246430-farmer-drift.json) |
 | Farmer Fran: Running Out of Sunlight! | 185012 | [185012-farmer-fran-running-out-of-sunlight.json](./185012-farmer-fran-running-out-of-sunlight.json) |
+| Farmer Phil and the Zombie Alien Robot Apocalypse | 179892 | [179892-farmer-phil-and-the-zombie-alien-robot-apocalypse.json](./179892-farmer-phil-and-the-zombie-alien-robot-apocalypse.json) |
 | Farmer Pug Dash | 129019 | [129019-farmer-pug-dash.json](./129019-farmer-pug-dash.json) |
 | Farmer Simulator | 253956 | [253956-farmer-simulator.json](./253956-farmer-simulator.json) |
 | Farmer Survivors | 270516 | [270516-farmer-survivors.json](./270516-farmer-survivors.json) |
