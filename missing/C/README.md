@@ -6931,6 +6931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Bike Messenger 3D | 102847 | [102847-city-bike-messenger-3d.json](./102847-city-bike-messenger-3d.json) |
 | City Block | 369721 | [369721-city-block.json](./369721-city-block.json) |
 | City Blocks | 108037 | [108037-city-blocks.json](./108037-city-blocks.json) |
+| City Blocks | 183269 | [183269-city-blocks.json](./183269-city-blocks.json) |
 | City Builder | 101595 | [101595-city-builder.json](./101595-city-builder.json) |
 | City Builder | 51045 | [51045-city-builder.json](./51045-city-builder.json) |
 | City Builder Pro | 391239 | [391239-city-builder-pro.json](./391239-city-builder-pro.json) |
@@ -9661,6 +9662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coming Home | 347152 | [347152-coming-home.json](./347152-coming-home.json) |
 | Coming home absolutely twisted with a load of swords | 178034 | [178034-coming-home-absolutely-twisted-with-a-load-of-swords.json](./178034-coming-home-absolutely-twisted-with-a-load-of-swords.json) |
 | Coming Out on Top | 36928 | [36928-coming-out-on-top.json](./36928-coming-out-on-top.json) |
+| Coming Out Simulator | 183221 | [183221-coming-out-simulator.json](./183221-coming-out-simulator.json) |
 | Coming Out Simulator 2014 | 60030 | [60030-coming-out-simulator-2014.json](./60030-coming-out-simulator-2014.json) |
 | Comish Clicker - Idle Tycoon | 95822 | [95822-comish-clicker-idle-tycoon.json](./95822-comish-clicker-idle-tycoon.json) |
 | Comit in Cosmo Knight's Revenge | 112853 | [112853-comit-in-cosmo-knights-revenge.json](./112853-comit-in-cosmo-knights-revenge.json) |
@@ -13850,6 +13852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crunchdown | 397696 | [397696-crunchdown.json](./397696-crunchdown.json) |
 | Cruncher | 60202 | [60202-cruncher.json](./60202-cruncher.json) |
 | Crunchies Munchies | 336084 | [336084-crunchies-munchies.json](./336084-crunchies-munchies.json) |
+| Crunchy Lunch | 183235 | [183235-crunchy-lunch.json](./183235-crunchy-lunch.json) |
 | Crunchy Numbers Math Arcade | 205082 | [205082-crunchy-numbers-math-arcade.json](./205082-crunchy-numbers-math-arcade.json) |
 | Crunda | 333043 | [333043-crunda.json](./333043-crunda.json) |
 | Crunky | 204200 | [204200-crunky.json](./204200-crunky.json) |
