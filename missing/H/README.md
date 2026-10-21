@@ -9693,6 +9693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypnagogia | 144747 | [144747-hypnagogia.json](./144747-hypnagogia.json) |
 | Hypnagogia: Boundless Dreams | 159865 | [159865-hypnagogia-boundless-dreams.json](./159865-hypnagogia-boundless-dreams.json) |
 | Hypnagogia: Broken Dreams | 398266 | [398266-hypnagogia-broken-dreams.json](./398266-hypnagogia-broken-dreams.json) |
+| Hypnagonia | 199264 | [199264-hypnagonia.json](./199264-hypnagonia.json) |
 | Hypno Tetris | 269469 | [269469-hypno-tetris.json](./269469-hypno-tetris.json) |
 | Hypno-Mart | 246815 | [246815-hypno-mart.json](./246815-hypno-mart.json) |
 | Hypno's Lullaby | 140537 | [140537-hypnos-lullaby.json](./140537-hypnos-lullaby.json) |
