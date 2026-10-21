@@ -7743,6 +7743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blink | 413761 | [413761-blink.json](./413761-blink.json) |
 | Blink and Die Replay | 319351 | [319351-blink-and-die-replay.json](./319351-blink-and-die-replay.json) |
 | Blink Blonk | 285878 | [285878-blink-blonk.json](./285878-blink-blonk.json) |
+| Blink God | 202632 | [202632-blink-god.json](./202632-blink-god.json) |
 | Blink the Bulb | 31099 | [31099-blink-the-bulb.json](./31099-blink-the-bulb.json) |
 | Blink: Rogues | 110324 | [110324-blink-rogues.json](./110324-blink-rogues.json) |
 | Blink: The Last Night | 179722 | [179722-blink-the-last-night.json](./179722-blink-the-last-night.json) |
@@ -9679,6 +9680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonelab | 198230 | [198230-bonelab.json](./198230-bonelab.json) |
 | Boneless VR | 302352 | [302352-boneless-vr.json](./302352-boneless-vr.json) |
 | Boneless Zombie | 34913 | [34913-boneless-zombie.json](./34913-boneless-zombie.json) |
+| Bonelords | 202536 | [202536-bonelords.json](./202536-bonelords.json) |
 | Bonely Hearts Club | 411802 | [411802-bonely-hearts-club.json](./411802-bonely-hearts-club.json) |
 | Boneman's Buttons | 181627 | [181627-bonemans-buttons.json](./181627-bonemans-buttons.json) |
 | Boner | 25557 | [25557-boner.json](./25557-boner.json) |
