@@ -857,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda's Village | 241886 | [241886-pandas-village.json](./241886-pandas-village.json) |
 | PandaBomber | 367559 | [367559-pandabomber.json](./367559-pandabomber.json) |
 | Pandaclip: The Black Thief | 296763 | [296763-pandaclip-the-black-thief.json](./296763-pandaclip-the-black-thief.json) |
+| Pandaman | 201461 | [201461-pandaman.json](./201461-pandaman.json) |
 | Pandamino | 294548 | [294548-pandamino.json](./294548-pandamino.json) |
 | Pandamonium | 345520 | [345520-pandamonium.json](./345520-pandamonium.json) |
 | PandaMonium: Corporate Carnage | 186131 | [186131-pandamonium-corporate-carnage.json](./186131-pandamonium-corporate-carnage.json) |
@@ -1327,6 +1328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperly | 403748 | [403748-paperly.json](./403748-paperly.json) |
 | Paperly: Paper Plane Adventure | 194040 | [194040-paperly-paper-plane-adventure.json](./194040-paperly-paper-plane-adventure.json) |
 | Paperman | 385577 | [385577-paperman.json](./385577-paperman.json) |
+| Paperman: Adventure Delivered | 201528 | [201528-paperman-adventure-delivered.json](./201528-paperman-adventure-delivered.json) |
 | Paperplanes | 218678 | [218678-paperplanes.json](./218678-paperplanes.json) |
 | PaperPlanets | 106612 | [106612-paperplanets.json](./106612-paperplanets.json) |
 | Paperquarium | 249458 | [249458-paperquarium.json](./249458-paperquarium.json) |
@@ -1422,6 +1424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Par 72 Golf IV | 95696 | [95696-par-72-golf-iv.json](./95696-par-72-golf-iv.json) |
 | Par Golf | 92101 | [92101-par-golf.json](./92101-par-golf.json) |
 | Para Bellum | 297877 | [297877-para-bellum.json](./297877-para-bellum.json) |
+| Para Eyes | 201525 | [201525-para-eyes.json](./201525-para-eyes.json) |
 | Para Para Paradise | 395996 | [395996-para-para-paradise.json](./395996-para-para-paradise.json) |
 | Para-Lax | 211144 | [211144-para-lax.json](./211144-para-lax.json) |
 | Para-sol | 309651 | [309651-para-sol.json](./309651-para-sol.json) |
@@ -1595,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paramorfosi | 274369 | [274369-paramorfosi.json](./274369-paramorfosi.json) |
 | Paramount Hero | 212843 | [212843-paramount-hero.json](./212843-paramount-hero.json) |
 | Paranatural | 310763 | [310763-paranatural.json](./310763-paranatural.json) |
+| Paranecro | 201459 | [201459-paranecro.json](./201459-paranecro.json) |
 | Paranoia | 107149 | [107149-paranoia.json](./107149-paranoia.json) |
 | Paranoia | 165050 | [165050-paranoia.json](./165050-paranoia.json) |
 | Paranoia 2: Savior | 123592 | [123592-paranoia-2-savior.json](./123592-paranoia-2-savior.json) |
@@ -1646,6 +1650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Mutagens: Cargo | 329209 | [329209-paranormal-mutagens-cargo.json](./329209-paranormal-mutagens-cargo.json) |
 | Paranormal Night Shift | 328009 | [328009-paranormal-night-shift.json](./328009-paranormal-night-shift.json) |
 | Paranormal Observation | 220622 | [220622-paranormal-observation.json](./220622-paranormal-observation.json) |
+| Paranormal Organization: Magic Academy | 201454 | [201454-paranormal-organization-magic-academy.json](./201454-paranormal-organization-magic-academy.json) |
 | Paranormal Place | 304660 | [304660-paranormal-place.json](./304660-paranormal-place.json) |
 | Paranormal Pop | 250488 | [250488-paranormal-pop.json](./250488-paranormal-pop.json) |
 | Paranormal Power | 304625 | [304625-paranormal-power.json](./304625-paranormal-power.json) |
@@ -9680,6 +9685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poppit! Sprint | 366445 | [366445-poppit-sprint.json](./366445-poppit-sprint.json) |
 | Poppix | 105535 | [105535-poppix.json](./105535-poppix.json) |
 | Popple to Mahou no Crayon | 408947 | [408947-popple-to-mahou-no-crayon.json](./408947-popple-to-mahou-no-crayon.json) |
+| Popplings | 201457 | [201457-popplings.json](./201457-popplings.json) |
 | Poppy Birds | 267955 | [267955-poppy-birds.json](./267955-poppy-birds.json) |
 | Poppy It! Playtime | 281420 | [281420-poppy-it-playtime.json](./281420-poppy-it-playtime.json) |
 | Poppy Kart | 13884 | [13884-poppy-kart.json](./13884-poppy-kart.json) |
@@ -11093,6 +11099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PrincessGuardians | 114563 | [114563-princessguardians.json](./114563-princessguardians.json) |
 | PrincessGuardiansParodyH | 118343 | [118343-princessguardiansparodyh.json](./118343-princessguardiansparodyh.json) |
 | Principia: Master of Science | 32826 | [32826-principia-master-of-science.json](./32826-principia-master-of-science.json) |
+| Principle of Karma | 201447 | [201447-principle-of-karma.json](./201447-principle-of-karma.json) |
 | Pringles | 45559 | [45559-pringles.json](./45559-pringles.json) |
 | Pringles Chip Racer | 335431 | [335431-pringles-chip-racer.json](./335431-pringles-chip-racer.json) |
 | Prinny 1 & 2: Exploded and Reloaded | 133809 | [133809-prinny-1-and-2-exploded-and-reloaded.json](./133809-prinny-1-and-2-exploded-and-reloaded.json) |
