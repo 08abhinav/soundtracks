@@ -2090,6 +2090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Hoplite | 216738 | [216738-legendary-hoplite.json](./216738-legendary-hoplite.json) |
 | Legendary Journeys | 150281 | [150281-legendary-journeys.json](./150281-legendary-journeys.json) |
 | Legendary Knight | 130087 | [130087-legendary-knight.json](./130087-legendary-knight.json) |
+| Legendary Knight | 199786 | [199786-legendary-knight.json](./199786-legendary-knight.json) |
 | Legendary Larry | 224022 | [224022-legendary-larry.json](./224022-legendary-larry.json) |
 | Legendary Mahjong | 53269 | [53269-legendary-mahjong.json](./53269-legendary-mahjong.json) |
 | Legendary Master Idle | 251233 | [251233-legendary-master-idle.json](./251233-legendary-master-idle.json) |
@@ -2784,6 +2785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Find Larry! | 279431 | [279431-lets-find-larry.json](./279431-lets-find-larry.json) |
 | Let's Fish! Hooked On | 21022 | [21022-lets-fish-hooked-on.json](./21022-lets-fish-hooked-on.json) |
 | Let's Get Bakin' | 342130 | [342130-lets-get-bakin.json](./342130-lets-get-bakin.json) |
+| Let's Get Changed! Nyanzou & Kumakichi: Escape Game | 199895 | [199895-lets-get-changed-nyanzou-and-kumakichi-escape-game.json](./199895-lets-get-changed-nyanzou-and-kumakichi-escape-game.json) |
 | Let's Get Cookin' | 342009 | [342009-lets-get-cookin.json](./342009-lets-get-cookin.json) |
 | Let's Get Cookin' for Thanksgivin' | 342022 | [342022-lets-get-cookin-for-thanksgivin.json](./342022-lets-get-cookin-for-thanksgivin.json) |
 | Let's Get Cookin' Some More... | 342020 | [342020-lets-get-cookin-some-more.json](./342020-lets-get-cookin-some-more.json) |
@@ -4731,6 +4733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Wing | 79591 | [79591-little-wing.json](./79591-little-wing.json) |
 | Little Wings Deliveries | 333658 | [333658-little-wings-deliveries.json](./333658-little-wings-deliveries.json) |
 | Little Witch | 145613 | [145613-little-witch.json](./145613-little-witch.json) |
+| Little Witch | 199811 | [199811-little-witch.json](./199811-little-witch.json) |
 | Little Witch Academia: Chamber of Time | 36506 | [36506-little-witch-academia-chamber-of-time.json](./36506-little-witch-academia-chamber-of-time.json) |
 | Little Witch Academia: VR Broom Racing | 139341 | [139341-little-witch-academia-vr-broom-racing.json](./139341-little-witch-academia-vr-broom-racing.json) |
 | Little Witch Luana | 126647 | [126647-little-witch-luana.json](./126647-little-witch-luana.json) |
@@ -7563,6 +7566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lusófona Games Collection 2023 | 260335 | [260335-lusofona-games-collection-2023.json](./260335-lusofona-games-collection-2023.json) |
 | Lusófona Games Collection 2024 | 309888 | [309888-lusofona-games-collection-2024.json](./309888-lusofona-games-collection-2024.json) |
 | Lusófona Games Collection 2025 | 406292 | [406292-lusofona-games-collection-2025.json](./406292-lusofona-games-collection-2025.json) |
+| Lust & Magic: Chisalla in a Flower Basket | 199775 | [199775-lust-and-magic-chisalla-in-a-flower-basket.json](./199775-lust-and-magic-chisalla-in-a-flower-basket.json) |
 | Lust Academy: Season 1 | 195223 | [195223-lust-academy-season-1.json](./195223-lust-academy-season-1.json) |
 | Lust Academy: Season 2 | 223351 | [223351-lust-academy-season-2.json](./223351-lust-academy-season-2.json) |
 | Lust Academy: Season 3 | 289462 | [289462-lust-academy-season-3.json](./289462-lust-academy-season-3.json) |
