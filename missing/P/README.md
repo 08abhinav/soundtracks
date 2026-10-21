@@ -6541,6 +6541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelForces.io | 130211 | [130211-pixelforces-io.json](./130211-pixelforces-io.json) |
 | Pixelgroove | 292441 | [292441-pixelgroove.json](./292441-pixelgroove.json) |
 | PixelGround | 191848 | [191848-pixelground.json](./191848-pixelground.json) |
+| PixelGround: Expansion Pack | 197560 | [197560-pixelground-expansion-pack.json](./197560-pixelground-expansion-pack.json) |
 | Pixelgunners | 25802 | [25802-pixelgunners.json](./25802-pixelgunners.json) |
 | Pixeline and the Jungle Treasure | 64502 | [64502-pixeline-and-the-jungle-treasure.json](./64502-pixeline-and-the-jungle-treasure.json) |
 | Pixeline Skolebøger: Dansk | 64501 | [64501-pixeline-skoleb-ger-dansk.json](./64501-pixeline-skoleb-ger-dansk.json) |
@@ -6754,6 +6755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Snake! | 202023 | [202023-pizza-snake.json](./202023-pizza-snake.json) |
 | Pizza Spy | 273438 | [273438-pizza-spy.json](./273438-pizza-spy.json) |
 | Pizza Syndicate | 373071 | [373071-pizza-syndicate.json](./373071-pizza-syndicate.json) |
+| Pizza Synthwave | 197527 | [197527-pizza-synthwave.json](./197527-pizza-synthwave.json) |
 | Pizza the Pie | 175357 | [175357-pizza-the-pie.json](./175357-pizza-the-pie.json) |
 | Pizza Time Arcade | 128912 | [128912-pizza-time-arcade.json](./128912-pizza-time-arcade.json) |
 | Pizza Time Explosion | 125445 | [125445-pizza-time-explosion.json](./125445-pizza-time-explosion.json) |
@@ -7034,6 +7036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Zoo: North America Animal Pack | 174129 | [174129-planet-zoo-north-america-animal-pack.json](./174129-planet-zoo-north-america-animal-pack.json) |
 | Planet Zoo: Oceania Pack | 266381 | [266381-planet-zoo-oceania-pack.json](./266381-planet-zoo-oceania-pack.json) |
 | Planet Zoo: Tropical Pack | 243535 | [243535-planet-zoo-tropical-pack.json](./243535-planet-zoo-tropical-pack.json) |
+| Planet Zoo: Wetlands Animal Pack | 197558 | [197558-planet-zoo-wetlands-animal-pack.json](./197558-planet-zoo-wetlands-animal-pack.json) |
 | Planet Zoo: Zookeepers Animal Pack | 336614 | [336614-planet-zoo-zookeepers-animal-pack.json](./336614-planet-zoo-zookeepers-animal-pack.json) |
 | Planet-Fall | 290997 | [290997-planet-fall.json](./290997-planet-fall.json) |
 | Planet-Plants+Space-Seed | 395501 | [395501-planet-plants-space-seed.json](./395501-planet-plants-space-seed.json) |
@@ -7298,6 +7301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platformica | 57054 | [57054-platformica.json](./57054-platformica.json) |
 | Platforming Experience Required | 339598 | [339598-platforming-experience-required.json](./339598-platforming-experience-required.json) |
 | Platformity | 203758 | [203758-platformity.json](./203758-platformity.json) |
+| Platformory | 197553 | [197553-platformory.json](./197553-platformory.json) |
 | Platforms Unlimited | 101323 | [101323-platforms-unlimited.json](./101323-platforms-unlimited.json) |
 | Plati and the Tower of Time | 310739 | [310739-plati-and-the-tower-of-time.json](./310739-plati-and-the-tower-of-time.json) |
 | Plati Nalog: Favorite Russian Game | 88083 | [88083-plati-nalog-favorite-russian-game.json](./88083-plati-nalog-favorite-russian-game.json) |
@@ -12530,6 +12534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ProSoccer 2190 | 138723 | [138723-prosoccer-2190.json](./138723-prosoccer-2190.json) |
 | Prospect | 253511 | [253511-prospect.json](./253511-prospect.json) |
 | Prospect Renegade | 294375 | [294375-prospect-renegade.json](./294375-prospect-renegade.json) |
+| Prospector | 197564 | [197564-prospector.json](./197564-prospector.json) |
 | Prospector | 296680 | [296680-prospector.json](./296680-prospector.json) |
 | Prospector | 91935 | [91935-prospector.json](./91935-prospector.json) |
 | Prospector Stanley | 183553 | [183553-prospector-stanley.json](./183553-prospector-stanley.json) |
