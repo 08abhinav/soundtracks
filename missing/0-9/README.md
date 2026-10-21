@@ -2292,6 +2292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 69 Berta Hot | 211390 | [211390-69-berta-hot.json](./211390-69-berta-hot.json) |
 | 69 Cindy Love | 164593 | [164593-69-cindy-love.json](./164593-69-cindy-love.json) |
 | 69 Ember Hot | 222961 | [222961-69-ember-hot.json](./222961-69-ember-hot.json) |
+| 69 Erika Love | 171307 | [171307-69-erika-love.json](./171307-69-erika-love.json) |
 | 69 Hitomi Love | 173837 | [173837-69-hitomi-love.json](./173837-69-hitomi-love.json) |
 | 69 Lily Hot | 190929 | [190929-69-lily-hot.json](./190929-69-lily-hot.json) |
 | 69 Love | 337782 | [337782-69-love.json](./337782-69-love.json) |
