@@ -7070,6 +7070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Symphony | 251051 | [251051-angel-symphony.json](./251051-angel-symphony.json) |
 | Angel Tear: Goddess Betrayed | 291845 | [291845-angel-tear-goddess-betrayed.json](./291845-angel-tear-goddess-betrayed.json) |
 | Angel Tears | 169444 | [169444-angel-tears.json](./169444-angel-tears.json) |
+| Angel Town 4 | 196611 | [196611-angel-town-4.json](./196611-angel-town-4.json) |
 | Angel Valley | 297065 | [297065-angel-valley.json](./297065-angel-valley.json) |
 | Angel Whisper: The Suspense Visual Novel Left Behind by a Game Creator. | 268096 | [268096-angel-whisper-the-suspense-visual-novel-left-behind-by-a-game-creator.json](./268096-angel-whisper-the-suspense-visual-novel-left-behind-by-a-game-creator.json) |
 | Angel Wings | 102168 | [102168-angel-wings.json](./102168-angel-wings.json) |
