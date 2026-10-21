@@ -10091,6 +10091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minnie's Eggs-Aspirating Hen House | 246513 | [246513-minnies-eggs-aspirating-hen-house.json](./246513-minnies-eggs-aspirating-hen-house.json) |
 | Minnie's Fruit Fiasco | 246514 | [246514-minnies-fruit-fiasco.json](./246514-minnies-fruit-fiasco.json) |
 | Minnie's Pearls | 246515 | [246515-minnies-pearls.json](./246515-minnies-pearls.json) |
+| Mino Monsters | 176697 | [176697-mino-monsters.json](./176697-mino-monsters.json) |
 | Minoes | 133250 | [133250-minoes.json](./133250-minoes.json) |
 | Minor Deity | 371478 | [371478-minor-deity.json](./371478-minor-deity.json) |
 | Minor Miner: Mining Action | 232035 | [232035-minor-miner-mining-action.json](./232035-minor-miner-mining-action.json) |
@@ -10725,6 +10726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mix Dunk: King of Basketball | 274884 | [274884-mix-dunk-king-of-basketball.json](./274884-mix-dunk-king-of-basketball.json) |
 | Mix Superstar | 262371 | [262371-mix-superstar.json](./262371-mix-superstar.json) |
 | Mix the Forgotten | 247872 | [247872-mix-the-forgotten.json](./247872-mix-the-forgotten.json) |
+| Mix TV Presents: Eminem | 176686 | [176686-mix-tv-presents-eminem.json](./176686-mix-tv-presents-eminem.json) |
 | Mix Universe | 341015 | [341015-mix-universe.json](./341015-mix-universe.json) |
 | Mix-A-Max | 230929 | [230929-mix-a-max.json](./230929-mix-a-max.json) |
 | Mix-Sign: Girl with 3 Signs | 127845 | [127845-mix-sign-girl-with-3-signs.json](./127845-mix-sign-girl-with-3-signs.json) |
