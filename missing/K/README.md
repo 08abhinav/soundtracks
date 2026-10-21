@@ -3417,6 +3417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight's Pride | 340885 | [340885-knights-pride.json](./340885-knights-pride.json) |
 | Knight's Quest | 356665 | [356665-knights-quest.json](./356665-knights-quest.json) |
 | Knight's Quest | 356666 | [356666-knights-quest.json](./356666-knights-quest.json) |
+| Knight's Raid: Lost Skytopia | 191608 | [191608-knights-raid-lost-skytopia.json](./191608-knights-raid-lost-skytopia.json) |
 | Knight's Redemption: War for Freedom | 298577 | [298577-knights-redemption-war-for-freedom.json](./298577-knights-redemption-war-for-freedom.json) |
 | Knight's Retreat | 132512 | [132512-knights-retreat.json](./132512-knights-retreat.json) |
 | Knight's Rush | 23923 | [23923-knights-rush.json](./23923-knights-rush.json) |
@@ -4279,6 +4280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krack The Hack | 268341 | [268341-krack-the-hack.json](./268341-krack-the-hack.json) |
 | Kraft & Slash | 176348 | [176348-kraft-and-slash.json](./176348-kraft-and-slash.json) |
 | Krafteers | 174863 | [174863-krafteers.json](./174863-krafteers.json) |
+| Krai. Digital-Poetry Vol. 1 | 191452 | [191452-krai-digital-poetry-vol-1.json](./191452-krai-digital-poetry-vol-1.json) |
 | Kraino | 91143 | [91143-kraino.json](./91143-kraino.json) |
 | Kraino Origins | 211149 | [211149-kraino-origins.json](./211149-kraino-origins.json) |
 | Krakatoa | 45368 | [45368-krakatoa.json](./45368-krakatoa.json) |
@@ -4749,6 +4751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyora | 325587 | [325587-kyora.json](./325587-kyora.json) |
 | Kyoro-chan Land | 206598 | [206598-kyoro-chan-land.json](./206598-kyoro-chan-land.json) |
 | Kyoro-chan Land | 206604 | [206604-kyoro-chan-land.json](./206604-kyoro-chan-land.json) |
+| Kyoro-chan no Purikura Daisakusen | 191602 | [191602-kyoro-chan-no-purikura-daisakusen.json](./191602-kyoro-chan-no-purikura-daisakusen.json) |
 | Kyoryu | 315130 | [315130-kyoryu.json](./315130-kyoryu.json) |
 | Kyosho | 320817 | [320817-kyosho.json](./320817-kyosho.json) |
 | Kyoto | 128630 | [128630-kyoto.json](./128630-kyoto.json) |
