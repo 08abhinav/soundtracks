@@ -3025,6 +3025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Se.Kirara | 397404 | [397404-se-kirara.json](./397404-se-kirara.json) |
 | SE3 Protocol: Last Drop | 415877 | [415877-se3-protocol-last-drop.json](./415877-se3-protocol-last-drop.json) |
 | Sea Animal Kingdom Battle Simulator: Sea Monster | 104466 | [104466-sea-animal-kingdom-battle-simulator-sea-monster.json](./104466-sea-animal-kingdom-battle-simulator-sea-monster.json) |
+| Sea Bass Fishing | 176136 | [176136-sea-bass-fishing.json](./176136-sea-bass-fishing.json) |
 | Sea Bass Fishing 2 | 299829 | [299829-sea-bass-fishing-2.json](./299829-sea-bass-fishing-2.json) |
 | Sea Battle | 134381 | [134381-sea-battle.json](./134381-sea-battle.json) |
 | Sea Battle | 86250 | [86250-sea-battle.json](./86250-sea-battle.json) |
@@ -5349,6 +5350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows | 318203 | [318203-shadows.json](./318203-shadows.json) |
 | Shadows 2: Perfidia | 29178 | [29178-shadows-2-perfidia.json](./29178-shadows-2-perfidia.json) |
 | Shadows Are Alive | 265526 | [265526-shadows-are-alive.json](./265526-shadows-are-alive.json) |
+| Shadows Behind the Throne | 176172 | [176172-shadows-behind-the-throne.json](./176172-shadows-behind-the-throne.json) |
 | Shadows Behind the Throne 2 | 158178 | [158178-shadows-behind-the-throne-2.json](./158178-shadows-behind-the-throne-2.json) |
 | Shadows Beneath the Badge: An Undercover Affair | 337705 | [337705-shadows-beneath-the-badge-an-undercover-affair.json](./337705-shadows-beneath-the-badge-an-undercover-affair.json) |
 | Shadows Bounce Once | 332484 | [332484-shadows-bounce-once.json](./332484-shadows-bounce-once.json) |
@@ -6232,6 +6234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shifting Edge | 183278 | [183278-shifting-edge.json](./183278-shifting-edge.json) |
 | Shifting Planes of Existence | 271793 | [271793-shifting-planes-of-existence.json](./271793-shifting-planes-of-existence.json) |
 | Shifting Sand Land | 308232 | [308232-shifting-sand-land.json](./308232-shifting-sand-land.json) |
+| Shifting Sands | 176180 | [176180-shifting-sands.json](./176180-shifting-sands.json) |
 | Shifting Sands | 367543 | [367543-shifting-sands.json](./367543-shifting-sands.json) |
 | Shifting World | 23399 | [23399-shifting-world.json](./23399-shifting-world.json) |
 | Shiftlings | 9215 | [9215-shiftlings.json](./9215-shiftlings.json) |
@@ -20187,6 +20190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Shapers | 333033 | [333033-stellar-shapers.json](./333033-stellar-shapers.json) |
 | Stellar Shipyard | 388717 | [388717-stellar-shipyard.json](./388717-stellar-shipyard.json) |
 | Stellar Smooch | 60758 | [60758-stellar-smooch.json](./60758-stellar-smooch.json) |
+| Stellar Sovereigns | 176178 | [176178-stellar-sovereigns.json](./176178-stellar-sovereigns.json) |
 | Stellar Squad | 101738 | [101738-stellar-squad.json](./101738-stellar-squad.json) |
 | Stellar Stroll | 244323 | [244323-stellar-stroll.json](./244323-stellar-stroll.json) |
 | Stellar Survivor | 119476 | [119476-stellar-survivor.json](./119476-stellar-survivor.json) |
@@ -27026,6 +27030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switchy Road DeluX | 147608 | [147608-switchy-road-delux.json](./147608-switchy-road-delux.json) |
 | Switzerland Omelette Deluxe | 351398 | [351398-switzerland-omelette-deluxe.json](./351398-switzerland-omelette-deluxe.json) |
 | SWIV | 12789 | [12789-swiv.json](./12789-swiv.json) |
+| Swivel Shooter | 176150 | [176150-swivel-shooter.json](./176150-swivel-shooter.json) |
 | SWmud | 228912 | [228912-swmud.json](./228912-swmud.json) |
 | Swole | 398664 | [398664-swole.json](./398664-swole.json) |
 | Swolemochao 1 & 2: Gym of the Year Edition | 265882 | [265882-swolemochao-1-and-2-gym-of-the-year-edition.json](./265882-swolemochao-1-and-2-gym-of-the-year-edition.json) |
