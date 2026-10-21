@@ -1373,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harbinger's Horse GT | 183586 | [183586-harbingers-horse-gt.json](./183586-harbingers-horse-gt.json) |
 | Harbingers of Desspair | 320959 | [320959-harbingers-of-desspair.json](./320959-harbingers-of-desspair.json) |
 | Harbingers of Destiny | 392412 | [392412-harbingers-of-destiny.json](./392412-harbingers-of-destiny.json) |
+| Harbingers: Infinity War | 188297 | [188297-harbingers-infinity-war.json](./188297-harbingers-infinity-war.json) |
 | Harbingers: Last Survival | 188361 | [188361-harbingers-last-survival.json](./188361-harbingers-last-survival.json) |
 | Harbor Captain | 294042 | [294042-harbor-captain.json](./294042-harbor-captain.json) |
 | Harbor Escape | 40671 | [40671-harbor-escape.json](./40671-harbor-escape.json) |
