@@ -1982,6 +1982,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm to Table | 356719 | [356719-farm-to-table.json](./356719-farm-to-table.json) |
 | Farm Together | 86737 | [86737-farm-together.json](./86737-farm-together.json) |
 | Farm Together: Candy Pack | 223573 | [223573-farm-together-candy-pack.json](./223573-farm-together-candy-pack.json) |
+| Farm Together: Fantasy Pack | 203729 | [203729-farm-together-fantasy-pack.json](./203729-farm-together-fantasy-pack.json) |
+| Farm Together: Polar Pack | 203727 | [203727-farm-together-polar-pack.json](./203727-farm-together-polar-pack.json) |
 | Farm Together: Season 4 Bundle | 223594 | [223594-farm-together-season-4-bundle.json](./223594-farm-together-season-4-bundle.json) |
 | Farm Together: Wedding Pack | 223576 | [223576-farm-together-wedding-pack.json](./223576-farm-together-wedding-pack.json) |
 | Farm Town | 62237 | [62237-farm-town.json](./62237-farm-town.json) |
@@ -4346,6 +4348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finite Jest | 415925 | [415925-finite-jest.json](./415925-finite-jest.json) |
 | Finite State Automaton Challenges | 271106 | [271106-finite-state-automaton-challenges.json](./271106-finite-state-automaton-challenges.json) |
 | Finite State Automaton Challenges 2 | 278926 | [278926-finite-state-automaton-challenges-2.json](./278926-finite-state-automaton-challenges-2.json) |
+| Finity | 203749 | [203749-finity.json](./203749-finity.json) |
 | Finity | 322936 | [322936-finity.json](./322936-finity.json) |
 | Finkles World | 66947 | [66947-finkles-world.json](./66947-finkles-world.json) |
 | Finland Corruption Simulator | 245771 | [245771-finland-corruption-simulator.json](./245771-finland-corruption-simulator.json) |
@@ -8162,6 +8165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fountain | 292987 | [292987-fountain.json](./292987-fountain.json) |
 | Fountain | 395120 | [395120-fountain.json](./395120-fountain.json) |
 | Fountain of Dreams | 73799 | [73799-fountain-of-dreams.json](./73799-fountain-of-dreams.json) |
+| Fountains | 203752 | [203752-fountains.json](./203752-fountains.json) |
 | Fountains: Shattered Shape | 414457 | [414457-fountains-shattered-shape.json](./414457-fountains-shattered-shape.json) |
 | Fountaintale | 313435 | [313435-fountaintale.json](./313435-fountaintale.json) |
 | Fountaintale: Chapter 1 | 313436 | [313436-fountaintale-chapter-1.json](./313436-fountaintale-chapter-1.json) |
