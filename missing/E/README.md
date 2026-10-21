@@ -522,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ebanashi: Kaiwa | 195216 | [195216-ebanashi-kaiwa.json](./195216-ebanashi-kaiwa.json) |
 | EBaseball MLB Pro Spirit | 321590 | [321590-ebaseball-mlb-pro-spirit.json](./321590-ebaseball-mlb-pro-spirit.json) |
 | eBaseball Pawafuru Puroyakyu 2020 | 136798 | [136798-ebaseball-pawafuru-puroyakyu-2020.json](./136798-ebaseball-pawafuru-puroyakyu-2020.json) |
+| eBaseball Pawafuru Puroyakyu 2022 | 187105 | [187105-ebaseball-pawafuru-puroyakyu-2022.json](./187105-ebaseball-pawafuru-puroyakyu-2022.json) |
 | eBaseball Professional Yakyuu Spirits 2021: Grand Slam | 143624 | [143624-ebaseball-professional-yakyuu-spirits-2021-grand-slam.json](./143624-ebaseball-professional-yakyuu-spirits-2021-grand-slam.json) |
 | EBaseball: Pro Spirit | 393762 | [393762-ebaseball-pro-spirit.json](./393762-ebaseball-pro-spirit.json) |
 | eBaseball: Pro Spirit 2026 | 410262 | [410262-ebaseball-pro-spirit-2026.json](./410262-ebaseball-pro-spirit-2026.json) |
@@ -2304,6 +2305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergents Trading Card Game | 183603 | [183603-emergents-trading-card-game.json](./183603-emergents-trading-card-game.json) |
 | Emerging Tactical | 278421 | [278421-emerging-tactical.json](./278421-emerging-tactical.json) |
 | Emerita | 177787 | [177787-emerita.json](./177787-emerita.json) |
+| Emeritus Pong | 187128 | [187128-emeritus-pong.json](./187128-emeritus-pong.json) |
 | Emerland Solitaire Journey | 99099 | [99099-emerland-solitaire-journey.json](./99099-emerland-solitaire-journey.json) |
 | Emerland Solitaire: Endless Journey | 32079 | [32079-emerland-solitaire-endless-journey.json](./32079-emerland-solitaire-endless-journey.json) |
 | Emery | 261672 | [261672-emery.json](./261672-emery.json) |
