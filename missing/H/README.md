@@ -3225,6 +3225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellcat Ace | 25042 | [25042-hellcat-ace.json](./25042-hellcat-ace.json) |
 | Hellcats: Missions at Leyte Gulf | 337196 | [337196-hellcats-missions-at-leyte-gulf.json](./337196-hellcats-missions-at-leyte-gulf.json) |
 | Hellcome | 241288 | [241288-hellcome.json](./241288-hellcome.json) |
+| Hellcoming | 185336 | [185336-hellcoming.json](./185336-hellcoming.json) |
 | HellCopter | 223071 | [223071-hellcopter.json](./223071-hellcopter.json) |
 | Hellcrackers | 371629 | [371629-hellcrackers.json](./371629-hellcrackers.json) |
 | Hellcrossing | 245797 | [245797-hellcrossing.json](./245797-hellcrossing.json) |
