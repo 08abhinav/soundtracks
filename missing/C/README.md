@@ -3271,6 +3271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catchee | 197694 | [197694-catchee.json](./197694-catchee.json) |
 | Catching | 117654 | [117654-catching.json](./117654-catching.json) |
 | Catching a Ride | 173057 | [173057-catching-a-ride.json](./173057-catching-a-ride.json) |
+| Catching Fairies | 184742 | [184742-catching-fairies.json](./184742-catching-fairies.json) |
 | Catching Features | 21465 | [21465-catching-features.json](./21465-catching-features.json) |
 | Catching Spirits | 236769 | [236769-catching-spirits.json](./236769-catching-spirits.json) |
 | CatchKing | 215227 | [215227-catchking.json](./215227-catchking.json) |
@@ -7222,6 +7223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claim the Forest: Settling Peace | 399618 | [399618-claim-the-forest-settling-peace.json](./399618-claim-the-forest-settling-peace.json) |
 | Claim your Free BitBuddy Today! | 197064 | [197064-claim-your-free-bitbuddy-today.json](./197064-claim-your-free-bitbuddy-today.json) |
 | Claims & Caverns | 414284 | [414284-claims-and-caverns.json](./414284-claims-and-caverns.json) |
+| Clair & Lune | 184768 | [184768-clair-and-lune.json](./184768-clair-and-lune.json) |
 | Clair Obscur: Expedition 33 - Thank You Update | 381336 | [381336-clair-obscur-expedition-33-thank-you-update.json](./381336-clair-obscur-expedition-33-thank-you-update.json) |
 | Clair Obscur: Expedition 33 – Deluxe Edition | 333209 | [333209-clair-obscur-expedition-33-deluxe-edition.json](./333209-clair-obscur-expedition-33-deluxe-edition.json) |
 | Claire | 10082 | [10082-claire.json](./10082-claire.json) |
@@ -14907,6 +14909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of the Amethyst Skull | 364568 | [364568-curse-of-the-amethyst-skull.json](./364568-curse-of-the-amethyst-skull.json) |
 | Curse of the Arrow | 184410 | [184410-curse-of-the-arrow.json](./184410-curse-of-the-arrow.json) |
 | Curse of the Azure Bonds | 2461 | [2461-curse-of-the-azure-bonds.json](./2461-curse-of-the-azure-bonds.json) |
+| Curse of the Blood Moon | 184746 | [184746-curse-of-the-blood-moon.json](./184746-curse-of-the-blood-moon.json) |
 | Curse of the Cobra | 229050 | [229050-curse-of-the-cobra.json](./229050-curse-of-the-cobra.json) |
 | Curse of the Corsair | 245953 | [245953-curse-of-the-corsair.json](./245953-curse-of-the-corsair.json) |
 | Curse of the Countess | 413230 | [413230-curse-of-the-countess.json](./413230-curse-of-the-countess.json) |
