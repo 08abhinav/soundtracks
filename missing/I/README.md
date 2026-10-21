@@ -2907,6 +2907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Dash | 173800 | [173800-infinite-dash.json](./173800-infinite-dash.json) |
 | Infinite Dunamis | 39013 | [39013-infinite-dunamis.json](./39013-infinite-dunamis.json) |
 | Infinite Dungeon | 386473 | [386473-infinite-dungeon.json](./386473-infinite-dungeon.json) |
+| Infinite Dungeon Crawler: The Abysmal Furnaces | 174535 | [174535-infinite-dungeon-crawler-the-abysmal-furnaces.json](./174535-infinite-dungeon-crawler-the-abysmal-furnaces.json) |
 | Infinite Dungeon Crawler: The Frozen Expanse | 170797 | [170797-infinite-dungeon-crawler-the-frozen-expanse.json](./170797-infinite-dungeon-crawler-the-frozen-expanse.json) |
 | Infinite Dungeon Crawler: The Infernal Dungeons | 155348 | [155348-infinite-dungeon-crawler-the-infernal-dungeons.json](./155348-infinite-dungeon-crawler-the-infernal-dungeons.json) |
 | Infinite Dungeon Crawler: The Swampy Isles | 250799 | [250799-infinite-dungeon-crawler-the-swampy-isles.json](./250799-infinite-dungeon-crawler-the-swampy-isles.json) |
