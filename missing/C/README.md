@@ -5416,6 +5416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken vs. Road | 319873 | [319873-chicken-vs-road.json](./319873-chicken-vs-road.json) |
 | Chicken Wars | 48001 | [48001-chicken-wars.json](./48001-chicken-wars.json) |
 | Chicken Wiggle | 54656 | [54656-chicken-wiggle.json](./54656-chicken-wiggle.json) |
+| Chicken with Dynamites | 174570 | [174570-chicken-with-dynamites.json](./174570-chicken-with-dynamites.json) |
 | Chicken! | 152982 | [152982-chicken.json](./152982-chicken.json) |
 | Chicken's Revenge | 206969 | [206969-chickens-revenge.json](./206969-chickens-revenge.json) |
 | Chicken's Run | 181922 | [181922-chickens-run.json](./181922-chickens-run.json) |
