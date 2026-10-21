@@ -4081,6 +4081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go | 13722 | [13722-go.json](./13722-go.json) |
 | Go | 218000 | [218000-go.json](./218000-go.json) |
 | Go 3D | 68624 | [68624-go-3d.json](./68624-go-3d.json) |
+| Go Ace It | 192198 | [192198-go-ace-it.json](./192198-go-ace-it.json) |
 | Go All Out: Free to Play | 130190 | [130190-go-all-out-free-to-play.json](./130190-go-all-out-free-to-play.json) |
 | Go Ape Ship! | 376467 | [376467-go-ape-ship.json](./376467-go-ape-ship.json) |
 | Go Babies | 368661 | [368661-go-babies.json](./368661-go-babies.json) |
@@ -5562,6 +5563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotcha! The Sport! | 5848 | [5848-gotcha-the-sport.json](./5848-gotcha-the-sport.json) |
 | Gotchaball | 252006 | [252006-gotchaball.json](./252006-gotchaball.json) |
 | Gotchi Guardians | 354980 | [354980-gotchi-guardians.json](./354980-gotchi-guardians.json) |
+| Goth Dating Sim 2022 | 192221 | [192221-goth-dating-sim-2022.json](./192221-goth-dating-sim-2022.json) |
 | Goth Obsession | 401266 | [401266-goth-obsession.json](./401266-goth-obsession.json) |
 | Gotha | 92102 | [92102-gotha.json](./92102-gotha.json) |
 | Gotham City Impostors: Pretty Poison | 170876 | [170876-gotham-city-impostors-pretty-poison.json](./170876-gotham-city-impostors-pretty-poison.json) |
