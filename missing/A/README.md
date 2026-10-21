@@ -1377,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abducted: The Night Hunters | 145578 | [145578-abducted-the-night-hunters.json](./145578-abducted-the-night-hunters.json) |
 | Abducting Mjolnir | 180759 | [180759-abducting-mjolnir.json](./180759-abducting-mjolnir.json) |
 | Abduction | 14202 | [14202-abduction.json](./14202-abduction.json) |
+| Abduction | 186493 | [186493-abduction.json](./186493-abduction.json) |
 | Abduction | 268333 | [268333-abduction.json](./268333-abduction.json) |
 | Abduction | 288123 | [288123-abduction.json](./288123-abduction.json) |
 | Abduction Bit | 30664 | [30664-abduction-bit.json](./30664-abduction-bit.json) |
@@ -10854,6 +10855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArtDeco Backgammon 3D | 90684 | [90684-artdeco-backgammon-3d.json](./90684-artdeco-backgammon-3d.json) |
 | Artdink Game Log: Aquanaut’s Holiday | 397629 | [397629-artdink-game-log-aquanaut-s-holiday.json](./397629-artdink-game-log-aquanaut-s-holiday.json) |
 | Artdink Game Log: Tail of the Sun | 377258 | [377258-artdink-game-log-tail-of-the-sun.json](./377258-artdink-game-log-tail-of-the-sun.json) |
+| Artech War Game Bundle | 186541 | [186541-artech-war-game-bundle.json](./186541-artech-war-game-bundle.json) |
 | Artelius | 68893 | [68893-artelius.json](./68893-artelius.json) |
 | Artemis | 185542 | [185542-artemis.json](./185542-artemis.json) |
 | Artemis Blue | 321543 | [321543-artemis-blue.json](./321543-artemis-blue.json) |
