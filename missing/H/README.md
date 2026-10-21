@@ -584,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Racer | 50040 | [50040-halloween-racer.json](./50040-halloween-racer.json) |
 | Halloween Revenge | 310620 | [310620-halloween-revenge.json](./310620-halloween-revenge.json) |
 | Halloween Riddles Mysterious Griddlers | 168430 | [168430-halloween-riddles-mysterious-griddlers.json](./168430-halloween-riddles-mysterious-griddlers.json) |
+| Halloween Scrooge | 178250 | [178250-halloween-scrooge.json](./178250-halloween-scrooge.json) |
 | Halloween Secrets: The Blood Vow | 416583 | [416583-halloween-secrets-the-blood-vow.json](./416583-halloween-secrets-the-blood-vow.json) |
 | Halloween Secrets: The Blood Vow - Collector's Edition | 362829 | [362829-halloween-secrets-the-blood-vow-collectors-edition.json](./362829-halloween-secrets-the-blood-vow-collectors-edition.json) |
 | Halloween Sewers | 393136 | [393136-halloween-sewers.json](./393136-halloween-sewers.json) |
@@ -2156,6 +2157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunting Memories | 337671 | [337671-haunting-memories.json](./337671-haunting-memories.json) |
 | Haunting Mysteries: The Island of Lost Souls - Collector's Edition | 355528 | [355528-haunting-mysteries-the-island-of-lost-souls-collectors-edition.json](./355528-haunting-mysteries-the-island-of-lost-souls-collectors-edition.json) |
 | Haunting of Mageburrow | 402361 | [402361-haunting-of-mageburrow.json](./402361-haunting-of-mageburrow.json) |
+| Haunting on Howard Hill | 178266 | [178266-haunting-on-howard-hill.json](./178266-haunting-on-howard-hill.json) |
 | Haunting Record: Phantom Street | 326090 | [326090-haunting-record-phantom-street.json](./326090-haunting-record-phantom-street.json) |
 | Haunting Record: Sins of Lust | 320818 | [320818-haunting-record-sins-of-lust.json](./320818-haunting-record-sins-of-lust.json) |
 | Haunting Starring Polterguy | 8100 | [8100-haunting-starring-polterguy.json](./8100-haunting-starring-polterguy.json) |
@@ -5007,6 +5009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexcrawl | 413606 | [413606-hexcrawl.json](./413606-hexcrawl.json) |
 | Hexdo | 312822 | [312822-hexdo.json](./312822-hexdo.json) |
 | Hexdoku | 164902 | [164902-hexdoku.json](./164902-hexdoku.json) |
+| Hexed | 178262 | [178262-hexed.json](./178262-hexed.json) |
 | Hexed | 86520 | [86520-hexed.json](./86520-hexed.json) |
 | Hexed Pet Adventures | 393596 | [393596-hexed-pet-adventures.json](./393596-hexed-pet-adventures.json) |
 | Hexed Time | 356115 | [356115-hexed-time.json](./356115-hexed-time.json) |
