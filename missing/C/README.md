@@ -2398,6 +2398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino De Luxe | 131274 | [131274-casino-de-luxe.json](./131274-casino-de-luxe.json) |
 | Casino De Pink | 41372 | [41372-casino-de-pink.json](./41372-casino-de-pink.json) |
 | Casino FunPak | 117931 | [117931-casino-funpak.json](./117931-casino-funpak.json) |
+| Casino Golf | 204283 | [204283-casino-golf.json](./204283-casino-golf.json) |
 | Casino Heist | 243587 | [243587-casino-heist.json](./243587-casino-heist.json) |
 | Casino Heist: Aruba | 327449 | [327449-casino-heist-aruba.json](./327449-casino-heist-aruba.json) |
 | Casino Heist: Escape Room | 302052 | [302052-casino-heist-escape-room.json](./302052-casino-heist-escape-room.json) |
@@ -4005,6 +4006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Century: Age of Ashes - Heroes of the Continent Bundle | 286546 | [286546-century-age-of-ashes-heroes-of-the-continent-bundle.json](./286546-century-age-of-ashes-heroes-of-the-continent-bundle.json) |
 | Century: Age of Ashes - Mercenary Edition | 227699 | [227699-century-age-of-ashes-mercenary-edition.json](./227699-century-age-of-ashes-mercenary-edition.json) |
 | Century: Age of Ashes - Myth Starter Edition | 218516 | [218516-century-age-of-ashes-myth-starter-edition.json](./218516-century-age-of-ashes-myth-starter-edition.json) |
+| Century: Age of Ashes - Ravager Edition | 204274 | [204274-century-age-of-ashes-ravager-edition.json](./204274-century-age-of-ashes-ravager-edition.json) |
 | Century: Age of Ashes - Rimeblood Premium Edition | 259607 | [259607-century-age-of-ashes-rimeblood-premium-edition.json](./259607-century-age-of-ashes-rimeblood-premium-edition.json) |
 | Century: Age of Ashes - Stormraiser Premium Edition | 218451 | [218451-century-age-of-ashes-stormraiser-premium-edition.json](./218451-century-age-of-ashes-stormraiser-premium-edition.json) |
 | Century: Age of Ashes - The Journeyer Edition | 218492 | [218492-century-age-of-ashes-the-journeyer-edition.json](./218492-century-age-of-ashes-the-journeyer-edition.json) |
@@ -9121,6 +9123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Book: Mandalas | 319314 | [319314-coloring-book-mandalas.json](./319314-coloring-book-mandalas.json) |
 | Coloring Book: Ocean Animals | 204294 | [204294-coloring-book-ocean-animals.json](./204294-coloring-book-ocean-animals.json) |
 | Coloring Book: Spring 2022 DLC Pack | 223595 | [223595-coloring-book-spring-2022-dlc-pack.json](./223595-coloring-book-spring-2022-dlc-pack.json) |
+| Coloring Book: Treasure Adventure | 204293 | [204293-coloring-book-treasure-adventure.json](./204293-coloring-book-treasure-adventure.json) |
 | Coloring Bundle | 317237 | [317237-coloring-bundle.json](./317237-coloring-bundle.json) |
 | Coloring Game | 114998 | [114998-coloring-game.json](./114998-coloring-game.json) |
 | Coloring Game 10k | 362358 | [362358-coloring-game-10k.json](./362358-coloring-game-10k.json) |
