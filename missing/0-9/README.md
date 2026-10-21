@@ -758,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10S | 134323 | [134323-10s.json](./134323-10s.json) |
 | 10S Forever | 343951 | [343951-10s-forever.json](./343951-10s-forever.json) |
 | 10SII | 143489 | [143489-10sii.json](./143489-10sii.json) |
+| 10th Corpse | 172960 | [172960-10th-corpse.json](./172960-10th-corpse.json) |
 | 10tons Adventure Puzzles Bundle | 82461 | [82461-10tons-adventure-puzzles-bundle.json](./82461-10tons-adventure-puzzles-bundle.json) |
 | 11 Doors: Escape From Prison | 358066 | [358066-11-doors-escape-from-prison.json](./358066-11-doors-escape-from-prison.json) |
 | 11 Eyes: CrossOver | 47396 | [47396-11-eyes-crossover.json](./47396-11-eyes-crossover.json) |
