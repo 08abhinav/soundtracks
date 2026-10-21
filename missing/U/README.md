@@ -175,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFL: Ultimate UFL club | 332086 | [332086-ufl-ultimate-ufl-club.json](./332086-ufl-ultimate-ufl-club.json) |
 | UFM: Unidentified Fantastic Maiden | 74933 | [74933-ufm-unidentified-fantastic-maiden.json](./74933-ufm-unidentified-fantastic-maiden.json) |
 | UFO | 100199 | [100199-ufo.json](./100199-ufo.json) |
+| UFO 2: Extraterrestrials | 195935 | [195935-ufo-2-extraterrestrials.json](./195935-ufo-2-extraterrestrials.json) |
 | UFO 50 | 54555 | [54555-ufo-50.json](./54555-ufo-50.json) |
 | UFO Chase | 110855 | [110855-ufo-chase.json](./110855-ufo-chase.json) |
 | UFO Clones | 100698 | [100698-ufo-clones.json](./100698-ufo-clones.json) |
