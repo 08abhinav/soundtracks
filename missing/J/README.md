@@ -2849,6 +2849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junko | 286124 | [286124-junko.json](./286124-junko.json) |
 | Junkoid | 215859 | [215859-junkoid.json](./215859-junkoid.json) |
 | Junkpunk: Arena | 153856 | [153856-junkpunk-arena.json](./153856-junkpunk-arena.json) |
+| Junkraft | 177211 | [177211-junkraft.json](./177211-junkraft.json) |
 | JunkRats | 353805 | [353805-junkrats.json](./353805-junkrats.json) |
 | JunkStar | 183265 | [183265-junkstar.json](./183265-junkstar.json) |
 | Junkworld | 174745 | [174745-junkworld.json](./174745-junkworld.json) |
