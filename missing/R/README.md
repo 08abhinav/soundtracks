@@ -6605,6 +6605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rob Blanc I: Better Days of a Defender of the Universe | 171551 | [171551-rob-blanc-i-better-days-of-a-defender-of-the-universe.json](./171551-rob-blanc-i-better-days-of-a-defender-of-the-universe.json) |
 | Rob Blanc II: Planet of the Pasteurised Pestilence | 171552 | [171552-rob-blanc-ii-planet-of-the-pasteurised-pestilence.json](./171552-rob-blanc-ii-planet-of-the-pasteurised-pestilence.json) |
 | Rob Blanc III: The Temporal Terrorists | 171553 | [171553-rob-blanc-iii-the-temporal-terrorists.json](./171553-rob-blanc-iii-the-temporal-terrorists.json) |
+| Rob for Two | 179920 | [179920-rob-for-two.json](./179920-rob-for-two.json) |
 | Rob'n Run | 183029 | [183029-robn-run.json](./183029-robn-run.json) |
 | Robbbot | 73877 | [73877-robbbot.json](./73877-robbbot.json) |
 | Robbeary | 266675 | [266675-robbeary.json](./266675-robbeary.json) |
