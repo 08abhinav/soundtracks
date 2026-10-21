@@ -1980,6 +1980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Partway | 422092 | [422092-partway.json](./422092-partway.json) |
 | Party Animal | 92431 | [92431-party-animal.json](./92431-party-animal.json) |
 | Party Animals | 137989 | [137989-party-animals.json](./137989-party-animals.json) |
+| Party Animals | 180445 | [180445-party-animals.json](./180445-party-animals.json) |
 | Party Animals: Deluxe Edition | 267777 | [267777-party-animals-deluxe-edition.json](./267777-party-animals-deluxe-edition.json) |
 | Party Arcade | 109436 | [109436-party-arcade.json](./109436-party-arcade.json) |
 | Party Arcade: Enhanced Edition | 330186 | [330186-party-arcade-enhanced-edition.json](./330186-party-arcade-enhanced-edition.json) |
@@ -3030,6 +3031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penalty | 312265 | [312265-penalty.json](./312265-penalty.json) |
 | Penalty Challenge | 311227 | [311227-penalty-challenge.json](./311227-penalty-challenge.json) |
 | Penalty Kick | 287540 | [287540-penalty-kick.json](./287540-penalty-kick.json) |
+| Penalty Kick '91 | 180475 | [180475-penalty-kick-91.json](./180475-penalty-kick-91.json) |
 | Penalty Shoot-Out Soccer: 2010 World Champion | 174233 | [174233-penalty-shoot-out-soccer-2010-world-champion.json](./174233-penalty-shoot-out-soccer-2010-world-champion.json) |
 | Penalty Shooters Footy | 241061 | [241061-penalty-shooters-footy.json](./241061-penalty-shooters-footy.json) |
 | Penalty Soccer 2012 | 259560 | [259560-penalty-soccer-2012.json](./259560-penalty-soccer-2012.json) |
@@ -3675,6 +3677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Dog | 178682 | [178682-pet-dog.json](./178682-pet-dog.json) |
 | Pet Dragon Girl | 230892 | [230892-pet-dragon-girl.json](./230892-pet-dragon-girl.json) |
 | Pet Evolution | 174765 | [174765-pet-evolution.json](./174765-pet-evolution.json) |
+| Pet Furball | 180451 | [180451-pet-furball.json](./180451-pet-furball.json) |
 | Pet Grooming Studio | 293207 | [293207-pet-grooming-studio.json](./293207-pet-grooming-studio.json) |
 | Pet Hero vs. Zombie | 341119 | [341119-pet-hero-vs-zombie.json](./341119-pet-hero-vs-zombie.json) |
 | Pet Hospital | 85342 | [85342-pet-hospital.json](./85342-pet-hospital.json) |
@@ -4849,6 +4852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigeon | 311457 | [311457-pigeon.json](./311457-pigeon.json) |
 | Pigeon Coo-lette | 362394 | [362394-pigeon-coo-lette.json](./362394-pigeon-coo-lette.json) |
 | Pigeon Dev Games Collection | 140914 | [140914-pigeon-dev-games-collection.json](./140914-pigeon-dev-games-collection.json) |
+| Pigeon Game | 180442 | [180442-pigeon-game.json](./180442-pigeon-game.json) |
 | Pigeon Guild | 361068 | [361068-pigeon-guild.json](./361068-pigeon-guild.json) |
 | Pigeon Hater | 336116 | [336116-pigeon-hater.json](./336116-pigeon-hater.json) |
 | Pigeon Hunter | 369121 | [369121-pigeon-hunter.json](./369121-pigeon-hunter.json) |
@@ -9374,6 +9378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pong Kombat | 73326 | [73326-pong-kombat.json](./73326-pong-kombat.json) |
 | Pong Legends | 263661 | [263661-pong-legends.json](./263661-pong-legends.json) |
 | Pong Like | 96123 | [96123-pong-like.json](./96123-pong-like.json) |
+| Pong No Friends | 180480 | [180480-pong-no-friends.json](./180480-pong-no-friends.json) |
 | Pong Ping | 238352 | [238352-pong-ping.json](./238352-pong-ping.json) |
 | Pong Pong Candy | 84812 | [84812-pong-pong-candy.json](./84812-pong-pong-candy.json) |
 | Pong Pong's Learning Adventure: Animals | 361609 | [361609-pong-pongs-learning-adventure-animals.json](./361609-pong-pongs-learning-adventure-animals.json) |
