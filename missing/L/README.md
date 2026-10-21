@@ -2742,6 +2742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let Them Fight | 262841 | [262841-let-them-fight.json](./262841-let-them-fight.json) |
 | Let There Be Cat! | 183539 | [183539-let-there-be-cat.json](./183539-let-there-be-cat.json) |
 | Let There Be Life | 35984 | [35984-let-there-be-life.json](./35984-let-there-be-life.json) |
+| Let There Be Light | 197025 | [197025-let-there-be-light.json](./197025-let-there-be-light.json) |
 | Let There Be Smite! | 414288 | [414288-let-there-be-smite.json](./414288-let-there-be-smite.json) |
 | Let Your Egg People Grow Into Large Trees | 248804 | [248804-let-your-egg-people-grow-into-large-trees.json](./248804-let-your-egg-people-grow-into-large-trees.json) |
 | Let Yourself Out, Eddie Kaspbrak! | 158724 | [158724-let-yourself-out-eddie-kaspbrak.json](./158724-let-yourself-out-eddie-kaspbrak.json) |
@@ -5660,6 +5661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop: New Reality | 333219 | [333219-loop-new-reality.json](./333219-loop-new-reality.json) |
 | Loop: the distress call | 131949 | [131949-loop-the-distress-call.json](./131949-loop-the-distress-call.json) |
 | Loop8: Celestial Edition | 221330 | [221330-loop8-celestial-edition.json](./221330-loop8-celestial-edition.json) |
+| Loopback | 197014 | [197014-loopback.json](./197014-loopback.json) |
 | Loopbreaker | 395586 | [395586-loopbreaker.json](./395586-loopbreaker.json) |
 | LoopBreaker | 335241 | [335241-loopbreaker.json](./335241-loopbreaker.json) |
 | Loopdio | 321425 | [321425-loopdio.json](./321425-loopdio.json) |
@@ -6186,6 +6188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in the Mythic Island | 100306 | [100306-lost-in-the-mythic-island.json](./100306-lost-in-the-mythic-island.json) |
 | Lost in the Nightmare | 71719 | [71719-lost-in-the-nightmare.json](./71719-lost-in-the-nightmare.json) |
 | Lost in the Open | 208609 | [208609-lost-in-the-open.json](./208609-lost-in-the-open.json) |
+| Lost in the Pages | 197033 | [197033-lost-in-the-pages.json](./197033-lost-in-the-pages.json) |
 | Lost in the Past: A Heart's Remembrance Labyrinth | 287210 | [287210-lost-in-the-past-a-hearts-remembrance-labyrinth.json](./287210-lost-in-the-past-a-hearts-remembrance-labyrinth.json) |
 | Lost in the Roots | 298235 | [298235-lost-in-the-roots.json](./298235-lost-in-the-roots.json) |
 | Lost in the Sand | 215641 | [215641-lost-in-the-sand.json](./215641-lost-in-the-sand.json) |
@@ -7230,6 +7233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lukewarm Ironclad | 113702 | [113702-lukewarm-ironclad.json](./113702-lukewarm-ironclad.json) |
 | Lukewarm Massacre: The Killer Who May or May Not Be a Moron. | 292760 | [292760-lukewarm-massacre-the-killer-who-may-or-may-not-be-a-moron.json](./292760-lukewarm-massacre-the-killer-who-may-or-may-not-be-a-moron.json) |
 | Lukewarm Massacre: The Spirit of Light | 303641 | [303641-lukewarm-massacre-the-spirit-of-light.json](./303641-lukewarm-massacre-the-spirit-of-light.json) |
+| Lukia | 197031 | [197031-lukia.json](./197031-lukia.json) |
 | LUL inc. | 186238 | [186238-lul-inc.json](./186238-lul-inc.json) |
 | Lula 3D | 3712 | [3712-lula-3d.json](./3712-lula-3d.json) |
 | Lula Virtual Babe | 94697 | [94697-lula-virtual-babe.json](./94697-lula-virtual-babe.json) |
@@ -7246,6 +7250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lully Muk's Christmas Adventure | 183271 | [183271-lully-muks-christmas-adventure.json](./183271-lully-muks-christmas-adventure.json) |
 | Lulu & Ennoi: Sacred Suit Girls | 119621 | [119621-lulu-and-ennoi-sacred-suit-girls.json](./119621-lulu-and-ennoi-sacred-suit-girls.json) |
 | Lulu Fighter for LOL | 243096 | [243096-lulu-fighter-for-lol.json](./243096-lulu-fighter-for-lol.json) |
+| Lulu Way | 197164 | [197164-lulu-way.json](./197164-lulu-way.json) |
 | Lulu's Temple | 195696 | [195696-lulus-temple.json](./195696-lulus-temple.json) |
 | Lum: Hide from Nightmares | 211180 | [211180-lum-hide-from-nightmares.json](./211180-lum-hide-from-nightmares.json) |
 | Luma | 323981 | [323981-luma.json](./323981-luma.json) |
