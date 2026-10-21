@@ -889,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BakeryDiary | 391624 | [391624-bakerydiary.json](./391624-bakerydiary.json) |
 | Baki Hanma: Blood Arena | 337462 | [337462-baki-hanma-blood-arena.json](./337462-baki-hanma-blood-arena.json) |
 | Baki the Grappler: Ultimate Championship | 44109 | [44109-baki-the-grappler-ultimate-championship.json](./44109-baki-the-grappler-ultimate-championship.json) |
+| Baki: King of Souls | 194155 | [194155-baki-king-of-souls.json](./194155-baki-king-of-souls.json) |
 | Baking Bad | 372028 | [372028-baking-bad.json](./372028-baking-bad.json) |
 | Baking Bustle | 158536 | [158536-baking-bustle.json](./158536-baking-bustle.json) |
 | Baking Bustle: Ashley's Dream - Collector's Edition | 339607 | [339607-baking-bustle-ashleys-dream-collectors-edition.json](./339607-baking-bustle-ashleys-dream-collectors-edition.json) |
@@ -2871,6 +2872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Heroine Crisis | 189972 | [189972-battle-heroine-crisis.json](./189972-battle-heroine-crisis.json) |
 | Battle High 2 | 19093 | [19093-battle-high-2.json](./19093-battle-high-2.json) |
 | Battle High School | 91922 | [91922-battle-high-school.json](./91922-battle-high-school.json) |
+| Battle Hunters Zero | 194167 | [194167-battle-hunters-zero.json](./194167-battle-hunters-zero.json) |
 | Battle In Space | 212470 | [212470-battle-in-space.json](./212470-battle-in-space.json) |
 | Battle Insects | 52644 | [52644-battle-insects.json](./52644-battle-insects.json) |
 | Battle Island | 69491 | [69491-battle-island.json](./69491-battle-island.json) |
@@ -6568,6 +6570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Heroes Quest | 256664 | [256664-bit-heroes-quest.json](./256664-bit-heroes-quest.json) |
 | Bit Heroes Runner | 263569 | [263569-bit-heroes-runner.json](./263569-bit-heroes-runner.json) |
 | Bit Hotel | 227988 | [227988-bit-hotel.json](./227988-bit-hotel.json) |
+| Bit Journey | 194175 | [194175-bit-journey.json](./194175-bit-journey.json) |
 | Bit Legend | 137365 | [137365-bit-legend.json](./137365-bit-legend.json) |
 | Bit Lost | 363963 | [363963-bit-lost.json](./363963-bit-lost.json) |
 | Bit Maze | 406319 | [406319-bit-maze.json](./406319-bit-maze.json) |
@@ -7423,6 +7426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast the Past | 110144 | [110144-blast-the-past.json](./110144-blast-the-past.json) |
 | Blast Thru | 127141 | [127141-blast-thru.json](./127141-blast-thru.json) |
 | Blast Valley: Flip the Gun | 96015 | [96015-blast-valley-flip-the-gun.json](./96015-blast-valley-flip-the-gun.json) |
+| Blast Waves | 194183 | [194183-blast-waves.json](./194183-blast-waves.json) |
 | Blast Works: Build, Trade, Destroy | 4720 | [4720-blast-works-build-trade-destroy.json](./4720-blast-works-build-trade-destroy.json) |
 | Blast X | 97819 | [97819-blast-x.json](./97819-blast-x.json) |
 | Blast-a-Bug! | 324338 | [324338-blast-a-bug.json](./324338-blast-a-bug.json) |
@@ -8926,6 +8930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Tower Chronicle | 413739 | [413739-blue-tower-chronicle.json](./413739-blue-tower-chronicle.json) |
 | Blue Volta | 120251 | [120251-blue-volta.json](./120251-blue-volta.json) |
 | Blue Wars | 193947 | [193947-blue-wars.json](./193947-blue-wars.json) |
+| Blue Wars | 194159 | [194159-blue-wars.json](./194159-blue-wars.json) |
 | Blue Wednesday | 216668 | [216668-blue-wednesday.json](./216668-blue-wednesday.json) |
 | Blue Wednesday: Deluxe Edition | 280633 | [280633-blue-wednesday-deluxe-edition.json](./280633-blue-wednesday-deluxe-edition.json) |
 | Blue Whale | 75320 | [75320-blue-whale.json](./75320-blue-whale.json) |
@@ -12983,6 +12988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Hell Action Roguelites | 333753 | [333753-bullet-hell-action-roguelites.json](./333753-bullet-hell-action-roguelites.json) |
 | Bullet Hell Advanced | 100592 | [100592-bullet-hell-advanced.json](./100592-bullet-hell-advanced.json) |
 | Bullet Hell Collection: Volume 1 | 283596 | [283596-bullet-hell-collection-volume-1.json](./283596-bullet-hell-collection-volume-1.json) |
+| Bullet Hell Heroes | 194158 | [194158-bullet-hell-heroes.json](./194158-bullet-hell-heroes.json) |
 | Bullet Hell Monday | 57089 | [57089-bullet-hell-monday.json](./57089-bullet-hell-monday.json) |
 | Bullet Inferno | 368494 | [368494-bullet-inferno.json](./368494-bullet-inferno.json) |
 | Bullet Life 2010 | 32641 | [32641-bullet-life-2010.json](./32641-bullet-life-2010.json) |
