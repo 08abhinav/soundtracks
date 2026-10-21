@@ -4457,6 +4457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Galaxy | 126953 | [126953-chaos-galaxy.json](./126953-chaos-galaxy.json) |
 | Chaos Galaxy | 304960 | [304960-chaos-galaxy.json](./304960-chaos-galaxy.json) |
 | Chaos Galaxy 2 | 148997 | [148997-chaos-galaxy-2.json](./148997-chaos-galaxy-2.json) |
+| Chaos Girl | 192201 | [192201-chaos-girl.json](./192201-chaos-girl.json) |
 | Chaos Heat | 122943 | [122943-chaos-heat.json](./122943-chaos-heat.json) |
 | Chaos Hero | 335328 | [335328-chaos-hero.json](./335328-chaos-hero.json) |
 | Chaos Hero | 373821 | [373821-chaos-hero.json](./373821-chaos-hero.json) |
@@ -4796,6 +4797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkers Lounge 3D | 223633 | [223633-checkers-lounge-3d.json](./223633-checkers-lounge-3d.json) |
 | Checkers Master | 147775 | [147775-checkers-master.json](./147775-checkers-master.json) |
 | Checkers Master | 346113 | [346113-checkers-master.json](./346113-checkers-master.json) |
+| Checkers Minimal | 192075 | [192075-checkers-minimal.json](./192075-checkers-minimal.json) |
 | Checkers Online | 225746 | [225746-checkers-online.json](./225746-checkers-online.json) |
 | Checkers Premium | 87269 | [87269-checkers-premium.json](./87269-checkers-premium.json) |
 | Checkers Quest Bundle | 231068 | [231068-checkers-quest-bundle.json](./231068-checkers-quest-bundle.json) |
@@ -11621,6 +11623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Clash | 290852 | [290852-counter-clash.json](./290852-counter-clash.json) |
 | Counter Crossline: Crime War | 219304 | [219304-counter-crossline-crime-war.json](./219304-counter-crossline-crime-war.json) |
 | Counter Delta 2: Eastern Crisis | 259574 | [259574-counter-delta-2-eastern-crisis.json](./259574-counter-delta-2-eastern-crisis.json) |
+| Counter Delta: The Bullet Rain | 192065 | [192065-counter-delta-the-bullet-rain.json](./192065-counter-delta-the-bullet-rain.json) |
 | Counter Fight | 30643 | [30643-counter-fight.json](./30643-counter-fight.json) |
 | Counter Fight Ichiran | 172146 | [172146-counter-fight-ichiran.json](./172146-counter-fight-ichiran.json) |
 | Counter Force | 393042 | [393042-counter-force.json](./393042-counter-force.json) |
@@ -13787,6 +13790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruise Line Tycoon | 47938 | [47938-cruise-line-tycoon.json](./47938-cruise-line-tycoon.json) |
 | Cruise Party | 51121 | [51121-cruise-party.json](./51121-cruise-party.json) |
 | Cruise Ship Handling | 189952 | [189952-cruise-ship-handling.json](./189952-cruise-ship-handling.json) |
+| Cruise Ship Horse Racing | 192215 | [192215-cruise-ship-horse-racing.json](./192215-cruise-ship-horse-racing.json) |
 | Cruise Ship Manager | 207269 | [207269-cruise-ship-manager.json](./207269-cruise-ship-manager.json) |
 | Cruise Ship Tycoon | 50394 | [50394-cruise-ship-tycoon.json](./50394-cruise-ship-tycoon.json) |
 | Cruise Ships Manager | 218698 | [218698-cruise-ships-manager.json](./218698-cruise-ships-manager.json) |
