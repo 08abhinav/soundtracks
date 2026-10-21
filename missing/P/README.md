@@ -1567,6 +1567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parahcuy | 321493 | [321493-parahcuy.json](./321493-parahcuy.json) |
 | Paraido | 265781 | [265781-paraido.json](./265781-paraido.json) |
 | Paraiso | 299390 | [299390-paraiso.json](./299390-paraiso.json) |
+| Paralax VR Aim Trainer | 172361 | [172361-paralax-vr-aim-trainer.json](./172361-paralax-vr-aim-trainer.json) |
 | ParaLegends | 357177 | [357177-paralegends.json](./357177-paralegends.json) |
 | Parallax | 211628 | [211628-parallax.json](./211628-parallax.json) |
 | Parallax | 271743 | [271743-parallax.json](./271743-parallax.json) |
@@ -5561,6 +5562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pink Elephant | 186310 | [186310-pink-elephant.json](./186310-pink-elephant.json) |
 | Pink Explorer | 210877 | [210877-pink-explorer.json](./210877-pink-explorer.json) |
 | Pink Gear 2 | 119583 | [119583-pink-gear-2.json](./119583-pink-gear-2.json) |
+| Pink Gear Collection | 172411 | [172411-pink-gear-collection.json](./172411-pink-gear-collection.json) |
 | Pink Girls | 243156 | [243156-pink-girls.json](./243156-pink-girls.json) |
 | Pink Glow Fall Down | 175561 | [175561-pink-glow-fall-down.json](./175561-pink-glow-fall-down.json) |
 | Pink Goes to Hollywood | 42474 | [42474-pink-goes-to-hollywood.json](./42474-pink-goes-to-hollywood.json) |
@@ -10683,6 +10685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Premier Buggy Racing Tour | 68617 | [68617-premier-buggy-racing-tour.json](./68617-premier-buggy-racing-tour.json) |
 | Premier Eleven | 83433 | [83433-premier-eleven.json](./83433-premier-eleven.json) |
 | Premier Manager | 321435 | [321435-premier-manager.json](./321435-premier-manager.json) |
+| Premier Manager 02/03 | 172369 | [172369-premier-manager-02-03.json](./172369-premier-manager-02-03.json) |
 | Premier Manager 04/05 | 171941 | [171941-premier-manager-04-05.json](./171941-premier-manager-04-05.json) |
 | Premier Manager 08 | 174003 | [174003-premier-manager-08.json](./174003-premier-manager-08.json) |
 | Premier Manager 2002-03 | 95428 | [95428-premier-manager-2002-03.json](./95428-premier-manager-2002-03.json) |
