@@ -2508,6 +2508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Backrooms Anomaly | 348462 | [348462-dead-by-backrooms-anomaly.json](./348462-dead-by-backrooms-anomaly.json) |
 | Dead By DayLight | 339698 | [339698-dead-by-daylight.json](./339698-dead-by-daylight.json) |
 | Dead by Daylight Mobile | 137700 | [137700-dead-by-daylight-mobile.json](./137700-dead-by-daylight-mobile.json) |
+| Dead by Daylight: 5th Anniversary Edition | 171862 | [171862-dead-by-daylight-5th-anniversary-edition.json](./171862-dead-by-daylight-5th-anniversary-edition.json) |
 | Dead by Daylight: A Binding of Kin Chapter | 168867 | [168867-dead-by-daylight-a-binding-of-kin-chapter.json](./168867-dead-by-daylight-a-binding-of-kin-chapter.json) |
 | Dead by Daylight: A Lullaby for the Dark Chapter | 76224 | [76224-dead-by-daylight-a-lullaby-for-the-dark-chapter.json](./76224-dead-by-daylight-a-lullaby-for-the-dark-chapter.json) |
 | Dead by Daylight: A Nightmare on Elm Street | 76226 | [76226-dead-by-daylight-a-nightmare-on-elm-street.json](./76226-dead-by-daylight-a-nightmare-on-elm-street.json) |
@@ -3603,6 +3604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathsmiles | 6963 | [6963-deathsmiles.json](./6963-deathsmiles.json) |
 | Deathsmiles I & II | 139183 | [139183-deathsmiles-i-and-ii.json](./139183-deathsmiles-i-and-ii.json) |
 | Deathsmiles I & II: Gothic wa Mahou Otome 5 Characters | 203958 | [203958-deathsmiles-i-and-ii-gothic-wa-mahou-otome-5-characters.json](./203958-deathsmiles-i-and-ii-gothic-wa-mahou-otome-5-characters.json) |
+| Deathsmiles I & II: Gothic wa Mahou Otome Love Max Edition | 171264 | [171264-deathsmiles-i-and-ii-gothic-wa-mahou-otome-love-max-edition.json](./171264-deathsmiles-i-and-ii-gothic-wa-mahou-otome-love-max-edition.json) |
 | Deathsmiles II: Makai no Merry Christmas | 68011 | [68011-deathsmiles-ii-makai-no-merry-christmas.json](./68011-deathsmiles-ii-makai-no-merry-christmas.json) |
 | Deathsmiles IIX: Makai no Merry Christmas | 80459 | [80459-deathsmiles-iix-makai-no-merry-christmas.json](./80459-deathsmiles-iix-makai-no-merry-christmas.json) |
 | Deathsmiles Mega Black Label | 79852 | [79852-deathsmiles-mega-black-label.json](./79852-deathsmiles-mega-black-label.json) |
@@ -5750,6 +5752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destruction Darius | 121430 | [121430-destruction-darius.json](./121430-destruction-darius.json) |
 | Destruction Darius 2 | 121432 | [121432-destruction-darius-2.json](./121432-destruction-darius-2.json) |
 | Destruction Derby | 1168 | [1168-destruction-derby.json](./1168-destruction-derby.json) |
+| Destruction Derby | 171266 | [171266-destruction-derby.json](./171266-destruction-derby.json) |
 | Destruction Derby 2 | 1170 | [1170-destruction-derby-2.json](./1170-destruction-derby-2.json) |
 | Destruction Derby 64 | 10686 | [10686-destruction-derby-64.json](./10686-destruction-derby-64.json) |
 | Destruction Derby: Arenas | 1171 | [1171-destruction-derby-arenas.json](./1171-destruction-derby-arenas.json) |
@@ -9229,6 +9232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domovoy | 316785 | [316785-domovoy.json](./316785-domovoy.json) |
 | Domum | 211965 | [211965-domum.json](./211965-domum.json) |
 | Domus Abscondita | 312765 | [312765-domus-abscondita.json](./312765-domus-abscondita.json) |
+| Domynyo | 171302 | [171302-domynyo.json](./171302-domynyo.json) |
 | Don Bluth Presents Dragon's Lair 20th Anniversary Special Edition | 84222 | [84222-don-bluth-presents-dragons-lair-20th-anniversary-special-edition.json](./84222-don-bluth-presents-dragons-lair-20th-anniversary-special-edition.json) |
 | Don Bradman Cricket 14 | 6967 | [6967-don-bradman-cricket-14.json](./6967-don-bradman-cricket-14.json) |
 | Don Dim Dum | 248899 | [248899-don-dim-dum.json](./248899-don-dim-dum.json) |
@@ -10889,6 +10893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drag Battle | 249688 | [249688-drag-battle.json](./249688-drag-battle.json) |
 | Drag Battle Top Fuel | 192870 | [192870-drag-battle-top-fuel.json](./192870-drag-battle-top-fuel.json) |
 | Drag Clash Pro: Hot Rod Racing | 194254 | [194254-drag-clash-pro-hot-rod-racing.json](./194254-drag-clash-pro-hot-rod-racing.json) |
+| Drag Engineer | 171301 | [171301-drag-engineer.json](./171301-drag-engineer.json) |
 | Drag Fight | 208981 | [208981-drag-fight.json](./208981-drag-fight.json) |
 | Drag Journey | 215113 | [215113-drag-journey.json](./215113-drag-journey.json) |
 | Drag Journey: Nitro | 219113 | [219113-drag-journey-nitro.json](./219113-drag-journey-nitro.json) |
