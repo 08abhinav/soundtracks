@@ -4516,6 +4516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Rocks | 360920 | [360920-chaos-rocks.json](./360920-chaos-rocks.json) |
 | Chaos Saw | 236771 | [236771-chaos-saw.json](./236771-chaos-saw.json) |
 | Chaos Seed: Feng Shui Kairouki | 15833 | [15833-chaos-seed-feng-shui-kairouki.json](./15833-chaos-seed-feng-shui-kairouki.json) |
+| Chaos Sisters | 177248 | [177248-chaos-sisters.json](./177248-chaos-sisters.json) |
 | Chaos Souls | 75042 | [75042-chaos-souls.json](./75042-chaos-souls.json) |
 | Chaos Starter | 116876 | [116876-chaos-starter.json](./116876-chaos-starter.json) |
 | Chaos Stone Wars | 331382 | [331382-chaos-stone-wars.json](./331382-chaos-stone-wars.json) |
