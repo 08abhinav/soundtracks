@@ -4137,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chainball! | 184257 | [184257-chainball.json](./184257-chainball.json) |
 | ChainBeet | 292615 | [292615-chainbeet.json](./292615-chainbeet.json) |
 | Chainbound | 384797 | [384797-chainbound.json](./384797-chainbound.json) |
+| Chaincards | 179370 | [179370-chaincards.json](./179370-chaincards.json) |
 | ChainDive | 66743 | [66743-chaindive.json](./66743-chaindive.json) |
 | Chained | 309352 | [309352-chained.json](./309352-chained.json) |
 | Chained 2 Violence | 346691 | [346691-chained-2-violence.json](./346691-chained-2-violence.json) |
@@ -12921,6 +12922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creatures of Aether | 139140 | [139140-creatures-of-aether.json](./139140-creatures-of-aether.json) |
 | Creatures of Ava: Deluxe Edition | 312976 | [312976-creatures-of-ava-deluxe-edition.json](./312976-creatures-of-ava-deluxe-edition.json) |
 | Creatures of Ava: WDC Charity Backpack Trinkets Set | 312835 | [312835-creatures-of-ava-wdc-charity-backpack-trinkets-set.json](./312835-creatures-of-ava-wdc-charity-backpack-trinkets-set.json) |
+| Creatures of Energy | 179384 | [179384-creatures-of-energy.json](./179384-creatures-of-energy.json) |
 | Creatures of Ravenwood | 251969 | [251969-creatures-of-ravenwood.json](./251969-creatures-of-ravenwood.json) |
 | Creatures of the Deep | 224418 | [224418-creatures-of-the-deep.json](./224418-creatures-of-the-deep.json) |
 | Creatures of the Night | 335391 | [335391-creatures-of-the-night.json](./335391-creatures-of-the-night.json) |
@@ -13210,6 +13212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson III | 335119 | [335119-crimson-iii.json](./335119-crimson-iii.json) |
 | Crimson Katana Exa Label | 365112 | [365112-crimson-katana-exa-label.json](./365112-crimson-katana-exa-label.json) |
 | Crimson Keep | 230177 | [230177-crimson-keep.json](./230177-crimson-keep.json) |
+| Crimson King's | 179399 | [179399-crimson-kings.json](./179399-crimson-kings.json) |
 | Crimson Knight | 367525 | [367525-crimson-knight.json](./367525-crimson-knight.json) |
 | Crimson Light | 104141 | [104141-crimson-light.json](./104141-crimson-light.json) |
 | Crimson Mansion | 362404 | [362404-crimson-mansion.json](./362404-crimson-mansion.json) |
@@ -13776,6 +13779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crownbreak | 404894 | [404894-crownbreak.json](./404894-crownbreak.json) |
 | Crownbreakers | 348230 | [348230-crownbreakers.json](./348230-crownbreakers.json) |
 | Crowncity | 284992 | [284992-crowncity.json](./284992-crowncity.json) |
+| Crowned | 179390 | [179390-crowned.json](./179390-crowned.json) |
 | Crowned | 259055 | [259055-crowned.json](./259055-crowned.json) |
 | Crowned in Steel | 278482 | [278482-crowned-in-steel.json](./278482-crowned-in-steel.json) |
 | CrownFall | 82506 | [82506-crownfall.json](./82506-crownfall.json) |
@@ -13926,6 +13930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader Kings III: Wards & Wardens | 292107 | [292107-crusader-kings-iii-wards-and-wardens.json](./292107-crusader-kings-iii-wards-and-wardens.json) |
 | Crusader of Aurium | 317058 | [317058-crusader-of-aurium.json](./317058-crusader-of-aurium.json) |
 | Crusader of Centy | 4552 | [4552-crusader-of-centy.json](./4552-crusader-of-centy.json) |
+| Crusader Party | 179398 | [179398-crusader-party.json](./179398-crusader-party.json) |
 | Crusader: Adventure Out of Time | 72113 | [72113-crusader-adventure-out-of-time.json](./72113-crusader-adventure-out-of-time.json) |
 | Crusader: Dungeon Series | 197273 | [197273-crusader-dungeon-series.json](./197273-crusader-dungeon-series.json) |
 | Crusader: No Regret | 656 | [656-crusader-no-regret.json](./656-crusader-no-regret.json) |
