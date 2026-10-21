@@ -5080,6 +5080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Departure | 96681 | [96681-departure.json](./96681-departure.json) |
 | Departure Dash | 122039 | [122039-departure-dash.json](./122039-departure-dash.json) |
 | Departure!! Shipping Freighter | 299483 | [299483-departure-shipping-freighter.json](./299483-departure-shipping-freighter.json) |
+| Departure. | 196472 | [196472-departure.json](./196472-departure.json) |
 | Dependency Psychological Test | 367854 | [367854-dependency-psychological-test.json](./367854-dependency-psychological-test.json) |
 | Dependium | 411617 | [411617-dependium.json](./411617-dependium.json) |
 | Deperson | 291190 | [291190-deperson.json](./291190-deperson.json) |
