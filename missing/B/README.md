@@ -752,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Vibes | 171378 | [171378-bad-vibes.json](./171378-bad-vibes.json) |
 | Bad Way | 189204 | [189204-bad-way.json](./189204-bad-way.json) |
 | Bad Weekend | 273135 | [273135-bad-weekend.json](./273135-bad-weekend.json) |
+| Bad Writer | 195016 | [195016-bad-writer.json](./195016-bad-writer.json) |
 | Bad-Boon Strikes Back | 341706 | [341706-bad-boon-strikes-back.json](./341706-bad-boon-strikes-back.json) |
 | Bada Space Station | 146355 | [146355-bada-space-station.json](./146355-bada-space-station.json) |
 | Badaboom | 233203 | [233203-badaboom.json](./233203-badaboom.json) |
@@ -1268,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Chess | 339097 | [339097-balloon-chess.json](./339097-balloon-chess.json) |
 | Balloon De Fight'99 | 173077 | [173077-balloon-de-fight99.json](./173077-balloon-de-fight99.json) |
 | Balloon Diaspora | 60453 | [60453-balloon-diaspora.json](./60453-balloon-diaspora.json) |
+| Balloon Duel | 194845 | [194845-balloon-duel.json](./194845-balloon-duel.json) |
 | Balloon Fast Run | 330185 | [330185-balloon-fast-run.json](./330185-balloon-fast-run.json) |
 | Balloon Fiesta 3D | 114935 | [114935-balloon-fiesta-3d.json](./114935-balloon-fiesta-3d.json) |
 | Balloon Fight | 195030 | [195030-balloon-fight.json](./195030-balloon-fight.json) |
@@ -6333,6 +6335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird & Beans | 70765 | [70765-bird-and-beans.json](./70765-bird-and-beans.json) |
 | Bird Alone | 135897 | [135897-bird-alone.json](./135897-bird-alone.json) |
 | Bird and Beans | 201999 | [201999-bird-and-beans.json](./201999-bird-and-beans.json) |
+| Bird and Beast Fantasy | 195003 | [195003-bird-and-beast-fantasy.json](./195003-bird-and-beast-fantasy.json) |
 | Bird And Words: Find Word | 256149 | [256149-bird-and-words-find-word.json](./256149-bird-and-words-find-word.json) |
 | Bird Assassin | 17596 | [17596-bird-assassin.json](./17596-bird-assassin.json) |
 | Bird Bakery | 135239 | [135239-bird-bakery.json](./135239-bird-bakery.json) |
@@ -12498,6 +12501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Struggle II: Rebubbled | 116257 | [116257-bubble-struggle-ii-rebubbled.json](./116257-bubble-struggle-ii-rebubbled.json) |
 | Bubble Surge | 343858 | [343858-bubble-surge.json](./343858-bubble-surge.json) |
 | Bubble Symphony | 39422 | [39422-bubble-symphony.json](./39422-bubble-symphony.json) |
+| Bubble Tale | 194852 | [194852-bubble-tale.json](./194852-bubble-tale.json) |
 | Bubble Tanks | 210285 | [210285-bubble-tanks.json](./210285-bubble-tanks.json) |
 | Bubble Tanks 3 | 210291 | [210291-bubble-tanks-3.json](./210291-bubble-tanks-3.json) |
 | Bubble Tanks Arenas | 210293 | [210293-bubble-tanks-arenas.json](./210293-bubble-tanks-arenas.json) |
