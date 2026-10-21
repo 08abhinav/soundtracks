@@ -2772,6 +2772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opposite Attack | 328309 | [328309-opposite-attack.json](./328309-opposite-attack.json) |
 | Opposite Day | 313243 | [313243-opposite-day.json](./313243-opposite-day.json) |
 | Opposite Day 2 | 329173 | [329173-opposite-day-2.json](./329173-opposite-day-2.json) |
+| Opposite Lock Rally | 176674 | [176674-opposite-lock-rally.json](./176674-opposite-lock-rally.json) |
 | Oppositely Opal | 58699 | [58699-oppositely-opal.json](./58699-oppositely-opal.json) |
 | Opposites | 202775 | [202775-opposites.json](./202775-opposites.json) |
 | Opposoddo | 184384 | [184384-opposoddo.json](./184384-opposoddo.json) |
@@ -3741,6 +3742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out Here Alone | 235757 | [235757-out-here-alone.json](./235757-out-here-alone.json) |
 | Out in Space | 218472 | [218472-out-in-space.json](./218472-out-in-space.json) |
 | Out in Space Bundle: Tin Can & Orbit.Industries | 266246 | [266246-out-in-space-bundle-tin-can-and-orbit-industries.json](./266246-out-in-space-bundle-tin-can-and-orbit-industries.json) |
+| Out Live: Be Eliminate Yesterday | 176718 | [176718-out-live-be-eliminate-yesterday.json](./176718-out-live-be-eliminate-yesterday.json) |
 | Out Live: It's Far a Future on Planet | 37666 | [37666-out-live-its-far-a-future-on-planet.json](./37666-out-live-its-far-a-future-on-planet.json) |
 | Out of Ammo | 177536 | [177536-out-of-ammo.json](./177536-out-of-ammo.json) |
 | Out of Ammo | 23990 | [23990-out-of-ammo.json](./23990-out-of-ammo.json) |
