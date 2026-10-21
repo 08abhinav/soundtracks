@@ -14210,6 +14210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzlewood Quests Premium | 194899 | [194899-puzzlewood-quests-premium.json](./194899-puzzlewood-quests-premium.json) |
 | PuzzleXor | 412258 | [412258-puzzlexor.json](./412258-puzzlexor.json) |
 | Puzzlez: A Shapez Game | 416764 | [416764-puzzlez-a-shapez-game.json](./416764-puzzlez-a-shapez-game.json) |
+| Puzzlezon | 181013 | [181013-puzzlezon.json](./181013-puzzlezon.json) |
 | Puzzline | 224541 | [224541-puzzline.json](./224541-puzzline.json) |
 | Puzzling Languages: German/English | 115493 | [115493-puzzling-languages-german-english.json](./115493-puzzling-languages-german-english.json) |
 | Puzzling Peaks EXE | 158690 | [158690-puzzling-peaks-exe.json](./158690-puzzling-peaks-exe.json) |
