@@ -9847,6 +9847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archery Simulator | 332264 | [332264-archery-simulator.json](./332264-archery-simulator.json) |
 | Archery Simulator 2 | 303344 | [303344-archery-simulator-2.json](./303344-archery-simulator-2.json) |
 | Archery Star | 106630 | [106630-archery-star.json](./106630-archery-star.json) |
+| Archery Talent | 181580 | [181580-archery-talent.json](./181580-archery-talent.json) |
 | Archery Tournament | 242563 | [242563-archery-tournament.json](./242563-archery-tournament.json) |
 | Arches | 184230 | [184230-arches.json](./184230-arches.json) |
 | Archesis | 245955 | [245955-archesis.json](./245955-archesis.json) |
@@ -13805,6 +13806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aztez | 8651 | [8651-aztez.json](./8651-aztez.json) |
 | Aztlán Codex: El códice de los ancestros | 304684 | [304684-aztlan-codex-el-codice-de-los-ancestros.json](./304684-aztlan-codex-el-codice-de-los-ancestros.json) |
 | Aztlan Uncovered | 201308 | [201308-aztlan-uncovered.json](./201308-aztlan-uncovered.json) |
+| Azu Plus | 181558 | [181558-azu-plus.json](./181558-azu-plus.json) |
 | Azu Quiz Daioh | 98059 | [98059-azu-quiz-daioh.json](./98059-azu-quiz-daioh.json) |
 | Azu-Beach | 140485 | [140485-azu-beach.json](./140485-azu-beach.json) |
 | Azu-Tama | 222183 | [222183-azu-tama.json](./222183-azu-tama.json) |
