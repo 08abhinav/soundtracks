@@ -7013,6 +7013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Elves | 223321 | [223321-city-of-elves.json](./223321-city-of-elves.json) |
 | City of Fools | 35520 | [35520-city-of-fools.json](./35520-city-of-fools.json) |
 | City of Forever 7 Days | 208204 | [208204-city-of-forever-7-days.json](./208204-city-of-forever-7-days.json) |
+| City of Gangsters: Atlantic City | 186536 | [186536-city-of-gangsters-atlantic-city.json](./186536-city-of-gangsters-atlantic-city.json) |
 | City of Gangsters: Bourbon Bootlegging | 227404 | [227404-city-of-gangsters-bourbon-bootlegging.json](./227404-city-of-gangsters-bourbon-bootlegging.json) |
 | City of Gangsters: Criminal Record | 193747 | [193747-city-of-gangsters-criminal-record.json](./193747-city-of-gangsters-criminal-record.json) |
 | City of Gangsters: Deluxe Edition | 173783 | [173783-city-of-gangsters-deluxe-edition.json](./173783-city-of-gangsters-deluxe-edition.json) |
@@ -13969,6 +13970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crying Aseimei Sendou | 45540 | [45540-crying-aseimei-sendou.json](./45540-crying-aseimei-sendou.json) |
 | Crying is not Enough | 99085 | [99085-crying-is-not-enough.json](./99085-crying-is-not-enough.json) |
 | Crying Pony | 245950 | [245950-crying-pony.json](./245950-crying-pony.json) |
+| Crying Suns: Deluxe Edition | 186520 | [186520-crying-suns-deluxe-edition.json](./186520-crying-suns-deluxe-edition.json) |
 | Cryken Part3 | 345996 | [345996-cryken-part3.json](./345996-cryken-part3.json) |
 | Cryken Part4 | 351226 | [351226-cryken-part4.json](./351226-cryken-part4.json) |
 | Cryline | 55271 | [55271-cryline.json](./55271-cryline.json) |
@@ -14479,6 +14481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubeGate | 266178 | [266178-cubegate.json](./266178-cubegate.json) |
 | CubeGod | 291371 | [291371-cubegod.json](./291371-cubegod.json) |
 | CubeGun | 17372 | [17372-cubegun.json](./17372-cubegun.json) |
+| CubeHook VR | 186499 | [186499-cubehook-vr.json](./186499-cubehook-vr.json) |
 | Cubeism 2: Baroque Edition | 218149 | [218149-cubeism-2-baroque-edition.json](./218149-cubeism-2-baroque-edition.json) |
 | Cubeka | 129626 | [129626-cubeka.json](./129626-cubeka.json) |
 | Cubekiller | 96625 | [96625-cubekiller.json](./96625-cubekiller.json) |
@@ -14805,6 +14808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupid Parasite: Sweet and Spicy Darling | 200558 | [200558-cupid-parasite-sweet-and-spicy-darling.json](./200558-cupid-parasite-sweet-and-spicy-darling.json) |
 | Cupid Parasite: Sweet and Spicy Darling - Day One Edition | 287041 | [287041-cupid-parasite-sweet-and-spicy-darling-day-one-edition.json](./287041-cupid-parasite-sweet-and-spicy-darling-day-one-edition.json) |
 | Cupid Parasite/Cupid Parasite: Sweet and Spicy Darling – Day One Edition | 287042 | [287042-cupid-parasite-cupid-parasite-sweet-and-spicy-darling-day-one-edition.json](./287042-cupid-parasite-cupid-parasite-sweet-and-spicy-darling-day-one-edition.json) |
+| Cupid Story: First Date | 186508 | [186508-cupid-story-first-date.json](./186508-cupid-story-first-date.json) |
 | Cupid's Bargain | 392422 | [392422-cupids-bargain.json](./392422-cupids-bargain.json) |
 | Cupid's Chatroom | 309162 | [309162-cupids-chatroom.json](./309162-cupids-chatroom.json) |
 | Cupids Arrow | 399422 | [399422-cupids-arrow.json](./399422-cupids-arrow.json) |
