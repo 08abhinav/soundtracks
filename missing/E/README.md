@@ -2209,6 +2209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emblems: Sunless Vow | 294291 | [294291-emblems-sunless-vow.json](./294291-emblems-sunless-vow.json) |
 | Embodiment | 211125 | [211125-embodiment.json](./211125-embodiment.json) |
 | Embr | 117312 | [117312-embr.json](./117312-embr.json) |
+| Embr: Secret Hosr | 193106 | [193106-embr-secret-hosr.json](./193106-embr-secret-hosr.json) |
 | Embrace | 177866 | [177866-embrace.json](./177866-embrace.json) |
 | Embrace of Ocean: Story of Hope | 51956 | [51956-embrace-of-ocean-story-of-hope.json](./51956-embrace-of-ocean-story-of-hope.json) |
 | Embrace the Fear | 29773 | [29773-embrace-the-fear.json](./29773-embrace-the-fear.json) |
@@ -4068,6 +4069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Lite | 88579 | [88579-escape-lite.json](./88579-escape-lite.json) |
 | Escape Lizards | 31903 | [31903-escape-lizards.json](./31903-escape-lizards.json) |
 | Escape Machines | 26823 | [26823-escape-machines.json](./26823-escape-machines.json) |
+| Escape Master | 193240 | [193240-escape-master.json](./193240-escape-master.json) |
 | Escape MCP | 71385 | [71385-escape-mcp.json](./71385-escape-mcp.json) |
 | Escape Memoirs: Bank Heist | 349988 | [349988-escape-memoirs-bank-heist.json](./349988-escape-memoirs-bank-heist.json) |
 | Escape Memoirs: Mansion Heist | 204840 | [204840-escape-memoirs-mansion-heist.json](./204840-escape-memoirs-mansion-heist.json) |
@@ -4517,6 +4519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Dread 2 | 126955 | [126955-eternal-dread-2.json](./126955-eternal-dread-2.json) |
 | Eternal Dread 3 | 236111 | [236111-eternal-dread-3.json](./236111-eternal-dread-3.json) |
 | Eternal Dreamers | 140609 | [140609-eternal-dreamers.json](./140609-eternal-dreamers.json) |
+| Eternal Dreamers: Sylfie, the Electric | 193242 | [193242-eternal-dreamers-sylfie-the-electric.json](./193242-eternal-dreamers-sylfie-the-electric.json) |
 | Eternal Dungeon | 140589 | [140589-eternal-dungeon.json](./140589-eternal-dungeon.json) |
 | Eternal Eden | 6766 | [6766-eternal-eden.json](./6766-eternal-eden.json) |
 | Eternal Edge | 96251 | [96251-eternal-edge.json](./96251-eternal-edge.json) |
