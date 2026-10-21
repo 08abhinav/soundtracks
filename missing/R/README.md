@@ -4860,6 +4860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReVeN | 62098 | [62098-reven.json](./62098-reven.json) |
 | ReVeN: XBridge | 33990 | [33990-reven-xbridge.json](./33990-reven-xbridge.json) |
 | Revenaevum | 421835 | [421835-revenaevum.json](./421835-revenaevum.json) |
+| Revenance | 177219 | [177219-revenance.json](./177219-revenance.json) |
 | Revenant | 242007 | [242007-revenant.json](./242007-revenant.json) |
 | Revenant | 26630 | [26630-revenant.json](./26630-revenant.json) |
 | Revenant | 283101 | [283101-revenant.json](./283101-revenant.json) |
