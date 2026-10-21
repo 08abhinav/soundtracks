@@ -1677,6 +1677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormalized | 213837 | [213837-paranormalized.json](./213837-paranormalized.json) |
 | Paranormasight: The Mermaid's Curse | 388426 | [388426-paranormasight-the-mermaids-curse.json](./388426-paranormasight-the-mermaids-curse.json) |
 | Paranox | 273828 | [273828-paranox.json](./273828-paranox.json) |
+| Paranoya | 204269 | [204269-paranoya.json](./204269-paranoya.json) |
 | ParaParaParadise 2nd mix | 78946 | [78946-paraparaparadise-2nd-mix.json](./78946-paraparaparadise-2nd-mix.json) |
 | Paraplasm: Beyond the Veil | 295160 | [295160-paraplasm-beyond-the-veil.json](./295160-paraplasm-beyond-the-veil.json) |
 | PaRappa the Rapper | 269666 | [269666-parappa-the-rapper.json](./269666-parappa-the-rapper.json) |
@@ -13596,6 +13597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putin takes taxes | 86569 | [86569-putin-takes-taxes.json](./86569-putin-takes-taxes.json) |
 | Putin, Boobs and Trump | 96940 | [96940-putin-boobs-and-trump.json](./96940-putin-boobs-and-trump.json) |
 | Putin, Trump and Xin Jinping | 108375 | [108375-putin-trump-and-xin-jinping.json](./108375-putin-trump-and-xin-jinping.json) |
+| Putinator | 204264 | [204264-putinator.json](./204264-putinator.json) |
 | Putinist Slayer | 204895 | [204895-putinist-slayer.json](./204895-putinist-slayer.json) |
 | Putinization | 102919 | [102919-putinization.json](./102919-putinization.json) |
 | Putrefaction | 26533 | [26533-putrefaction.json](./26533-putrefaction.json) |
