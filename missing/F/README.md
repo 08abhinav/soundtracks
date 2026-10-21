@@ -1541,6 +1541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Illness | 339115 | [339115-fantasy-illness.json](./339115-fantasy-illness.json) |
 | Fantasy Inn Simulator | 157127 | [157127-fantasy-inn-simulator.json](./157127-fantasy-inn-simulator.json) |
 | Fantasy Island | 114925 | [114925-fantasy-island.json](./114925-fantasy-island.json) |
+| Fantasy Island | 181578 | [181578-fantasy-island.json](./181578-fantasy-island.json) |
 | Fantasy Item Company | 216158 | [216158-fantasy-item-company.json](./216158-fantasy-item-company.json) |
 | Fantasy Jigsaw Puzzle 4 | 169146 | [169146-fantasy-jigsaw-puzzle-4.json](./169146-fantasy-jigsaw-puzzle-4.json) |
 | Fantasy Jigsaw Puzzle 5 | 174118 | [174118-fantasy-jigsaw-puzzle-5.json](./174118-fantasy-jigsaw-puzzle-5.json) |
@@ -4527,6 +4528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Shadow Dragon and the Blade of Light - 30th Anniversary Edition | 140611 | [140611-fire-emblem-shadow-dragon-and-the-blade-of-light-30th-anniversary-edition.json](./140611-fire-emblem-shadow-dragon-and-the-blade-of-light-30th-anniversary-edition.json) |
 | Fire Emblem: Souls of the Forest | 227963 | [227963-fire-emblem-souls-of-the-forest.json](./227963-fire-emblem-souls-of-the-forest.json) |
 | Fire Emblem: Storge | 312345 | [312345-fire-emblem-storge.json](./312345-fire-emblem-storge.json) |
+| Fire Emblem: The Binding Blade - Project Ember | 181560 | [181560-fire-emblem-the-binding-blade-project-ember.json](./181560-fire-emblem-the-binding-blade-project-ember.json) |
 | Fire Emblem: The Dark Amulet | 382588 | [382588-fire-emblem-the-dark-amulet.json](./382588-fire-emblem-the-dark-amulet.json) |
 | Fire Emblem: The Dragon Herald | 214535 | [214535-fire-emblem-the-dragon-herald.json](./214535-fire-emblem-the-dragon-herald.json) |
 | Fire Emblem: The Four Kings | 214494 | [214494-fire-emblem-the-four-kings.json](./214494-fire-emblem-the-four-kings.json) |
@@ -4772,6 +4774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First & Sight Words | 106470 | [106470-first-and-sight-words.json](./106470-first-and-sight-words.json) |
 | First Age | 393751 | [393751-first-age.json](./393751-first-age.json) |
 | First Anchor | 69559 | [69559-first-anchor.json](./69559-first-anchor.json) |
+| First Bite | 181574 | [181574-first-bite.json](./181574-first-bite.json) |
 | First Bite: Bad Blood | 221167 | [221167-first-bite-bad-blood.json](./221167-first-bite-bad-blood.json) |
 | First Blood | 312895 | [312895-first-blood.json](./312895-first-blood.json) |
 | First Break | 293639 | [293639-first-break.json](./293639-first-break.json) |
@@ -7751,6 +7754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forrader Hero | 210920 | [210920-forrader-hero.json](./210920-forrader-hero.json) |
 | Forradia Forever | 102054 | [102054-forradia-forever.json](./102054-forradia-forever.json) |
 | Forrest Gump: Match 3 Game | 208389 | [208389-forrest-gump-match-3-game.json](./208389-forrest-gump-match-3-game.json) |
+| Forsake | 181576 | [181576-forsake.json](./181576-forsake.json) |
 | Forsake The Rake | 240240 | [240240-forsake-the-rake.json](./240240-forsake-the-rake.json) |
 | Forsaken | 196138 | [196138-forsaken.json](./196138-forsaken.json) |
 | Forsaken | 321637 | [321637-forsaken.json](./321637-forsaken.json) |
