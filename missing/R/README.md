@@ -3459,6 +3459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reggie's Adventures: Part 1 - Escape From Paradise | 230502 | [230502-reggies-adventures-part-1-escape-from-paradise.json](./230502-reggies-adventures-part-1-escape-from-paradise.json) |
 | Reggor F. | 361722 | [361722-reggor-f.json](./361722-reggor-f.json) |
 | RegicideX | 265579 | [265579-regicidex.json](./265579-regicidex.json) |
+| Regiment of Armour | 172388 | [172388-regiment-of-armour.json](./172388-regiment-of-armour.json) |
 | Regimental Chess | 35461 | [35461-regimental-chess.json](./35461-regimental-chess.json) |
 | Regiments: Winds of Change | 270935 | [270935-regiments-winds-of-change.json](./270935-regiments-winds-of-change.json) |
 | Regina & Mac World | 147186 | [147186-regina-and-mac-world.json](./147186-regina-and-mac-world.json) |
