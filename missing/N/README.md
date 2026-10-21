@@ -4391,6 +4391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Gods, Only Ducks | 415902 | [415902-no-gods-only-ducks.json](./415902-no-gods-only-ducks.json) |
 | No Gravity: The Plague Of Mind | 42846 | [42846-no-gravity-the-plague-of-mind.json](./42846-no-gravity-the-plague-of-mind.json) |
 | No Greater Glory: The American Civil War | 72017 | [72017-no-greater-glory-the-american-civil-war.json](./72017-no-greater-glory-the-american-civil-war.json) |
+| No Haste | 186510 | [186510-no-haste.json](./186510-no-haste.json) |
 | No Heroes | 62814 | [62814-no-heroes.json](./62814-no-heroes.json) |
 | No Heroes Allowed: No Puzzles Either! | 8663 | [8663-no-heroes-allowed-no-puzzles-either.json](./8663-no-heroes-allowed-no-puzzles-either.json) |
 | No Heroes Allowed! | 234732 | [234732-no-heroes-allowed.json](./234732-no-heroes-allowed.json) |
