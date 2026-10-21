@@ -5995,6 +5995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Alice: Destined Lovers in Wonderland | 75422 | [75422-lost-alice-destined-lovers-in-wonderland.json](./75422-lost-alice-destined-lovers-in-wonderland.json) |
 | Lost Alone | 167223 | [167223-lost-alone.json](./167223-lost-alone.json) |
 | Lost Alone EP.1: Little Sister | 185649 | [185649-lost-alone-ep-1-little-sister.json](./185649-lost-alone-ep-1-little-sister.json) |
+| Lost Alone Ep.2: Daddy | 185912 | [185912-lost-alone-ep-2-daddy.json](./185912-lost-alone-ep-2-daddy.json) |
 | Lost Alone Ultimate | 245026 | [245026-lost-alone-ultimate.json](./245026-lost-alone-ultimate.json) |
 | Lost Along The Way | 253919 | [253919-lost-along-the-way.json](./253919-lost-along-the-way.json) |
 | Lost Amulets | 116457 | [116457-lost-amulets.json](./116457-lost-amulets.json) |
@@ -6303,6 +6304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Oddies | 243097 | [243097-lost-oddies.json](./243097-lost-oddies.json) |
 | Lost Odyssey: Seeker of the Deep! | 120313 | [120313-lost-odyssey-seeker-of-the-deep.json](./120313-lost-odyssey-seeker-of-the-deep.json) |
 | Lost Oliver | 235595 | [235595-lost-oliver.json](./235595-lost-oliver.json) |
+| Lost on Jupiter | 185927 | [185927-lost-on-jupiter.json](./185927-lost-on-jupiter.json) |
 | Lost Orbit | 21597 | [21597-lost-orbit.json](./21597-lost-orbit.json) |
 | Lost Orbit: Terminal Velocity | 120185 | [120185-lost-orbit-terminal-velocity.json](./120185-lost-orbit-terminal-velocity.json) |
 | Lost Order | 22789 | [22789-lost-order.json](./22789-lost-order.json) |
