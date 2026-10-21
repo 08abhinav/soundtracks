@@ -2031,6 +2031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scare Girl | 380728 | [380728-scare-girl.json](./380728-scare-girl.json) |
 | Scare: Fatal Picture | 253871 | [253871-scare-fatal-picture.json](./253871-scare-fatal-picture.json) |
 | Scare: Fatal Picture - Manga Story | 358433 | [358433-scare-fatal-picture-manga-story.json](./358433-scare-fatal-picture-manga-story.json) |
+| Scare: Project of Fear | 192210 | [192210-scare-project-of-fear.json](./192210-scare-project-of-fear.json) |
 | Scarecropia | 279258 | [279258-scarecropia.json](./279258-scarecropia.json) |
 | Scarecrow | 176841 | [176841-scarecrow.json](./176841-scarecrow.json) |
 | Scarecrow Co-op 2 | 260015 | [260015-scarecrow-co-op-2.json](./260015-scarecrow-co-op-2.json) |
@@ -2609,6 +2610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP-9779-JP | 391645 | [391645-scp-9779-jp.json](./391645-scp-9779-jp.json) |
 | SCP-D38813 | 291024 | [291024-scp-d38813.json](./291024-scp-d38813.json) |
 | SCP: A Star Replicator | 320555 | [320555-scp-a-star-replicator.json](./320555-scp-a-star-replicator.json) |
+| SCP: Abhorrent | 192213 | [192213-scp-abhorrent.json](./192213-scp-abhorrent.json) |
 | SCP: Blackout | 111246 | [111246-scp-blackout.json](./111246-scp-blackout.json) |
 | SCP: Bloodwater | 272936 | [272936-scp-bloodwater.json](./272936-scp-bloodwater.json) |
 | Scp: Breakout | 173187 | [173187-scp-breakout.json](./173187-scp-breakout.json) |
@@ -10664,6 +10666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Bird Poem | 348580 | [348580-small-bird-poem.json](./348580-small-bird-poem.json) |
 | Small Buttons | 96768 | [96768-small-buttons.json](./96768-small-buttons.json) |
 | Small Cell | 224657 | [224657-small-cell.json](./224657-small-cell.json) |
+| Small Crystal | 192200 | [192200-small-crystal.json](./192200-small-crystal.json) |
 | Small Demon | 280107 | [280107-small-demon.json](./280107-small-demon.json) |
 | Small Dragon Big Appetite | 340360 | [340360-small-dragon-big-appetite.json](./340360-small-dragon-big-appetite.json) |
 | Small Hero Survive | 301624 | [301624-small-hero-survive.json](./301624-small-hero-survive.json) |
@@ -13554,6 +13557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog: The Freedom Fighters | 330700 | [330700-sonic-the-hedgehog-the-freedom-fighters.json](./330700-sonic-the-hedgehog-the-freedom-fighters.json) |
 | Sonic the Hedgehog: Time Attacked | 228594 | [228594-sonic-the-hedgehog-time-attacked.json](./228594-sonic-the-hedgehog-time-attacked.json) |
 | Sonic the Hedgehog: Triple Trouble | 19556 | [19556-sonic-the-hedgehog-triple-trouble.json](./19556-sonic-the-hedgehog-triple-trouble.json) |
+| Sonic the Hedgehog: Ultimate Bundle | 192196 | [192196-sonic-the-hedgehog-ultimate-bundle.json](./192196-sonic-the-hedgehog-ultimate-bundle.json) |
 | Sonic the Hedgehog: Very Hard Mode | 241881 | [241881-sonic-the-hedgehog-very-hard-mode.json](./241881-sonic-the-hedgehog-very-hard-mode.json) |
 | Sonic the Hedgehog's Gameworld | 52188 | [52188-sonic-the-hedgehogs-gameworld.json](./52188-sonic-the-hedgehogs-gameworld.json) |
 | Sonic The New Adventure | 321078 | [321078-sonic-the-new-adventure.json](./321078-sonic-the-new-adventure.json) |
@@ -15014,6 +15018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Panic VR (Room Escape) | 37405 | [37405-space-panic-vr-room-escape.json](./37405-space-panic-vr-room-escape.json) |
 | Space Papers: Planet's Border | 277840 | [277840-space-papers-planets-border.json](./277840-space-papers-planets-border.json) |
 | Space Paranoids | 63774 | [63774-space-paranoids.json](./63774-space-paranoids.json) |
+| Space Party | 192061 | [192061-space-party.json](./192061-space-party.json) |
 | Space Penguins | 202628 | [202628-space-penguins.json](./202628-space-penguins.json) |
 | Space Pew Pew | 405934 | [405934-space-pew-pew.json](./405934-space-pew-pew.json) |
 | Space Phallus | 66369 | [66369-space-phallus.json](./66369-space-phallus.json) |
@@ -24893,6 +24898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Serpent Snake 3D | 412292 | [412292-super-serpent-snake-3d.json](./412292-super-serpent-snake-3d.json) |
 | Super Sexy Swiss | 303210 | [303210-super-sexy-swiss.json](./303210-super-sexy-swiss.json) |
 | Super Seymour Saves the Plant | 18573 | [18573-super-seymour-saves-the-plant.json](./18573-super-seymour-saves-the-plant.json) |
+| Super Shadow Break: Showdown! Ninja vs. The Three Kaijus | 192062 | [192062-super-shadow-break-showdown-ninja-vs-the-three-kaijus.json](./192062-super-shadow-break-showdown-ninja-vs-the-three-kaijus.json) |
 | Super Shadow Dudes | 180186 | [180186-super-shadow-dudes.json](./180186-super-shadow-dudes.json) |
 | Super Shadow of the Beast | 42453 | [42453-super-shadow-of-the-beast.json](./42453-super-shadow-of-the-beast.json) |
 | Super Shanghai: Dragon's Eye | 406085 | [406085-super-shanghai-dragons-eye.json](./406085-super-shanghai-dragons-eye.json) |
