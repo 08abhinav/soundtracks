@@ -9546,6 +9546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberic 2 | 91561 | [91561-bomberic-2.json](./91561-bomberic-2.json) |
 | Bomberland | 179150 | [179150-bomberland.json](./179150-bomberland.json) |
 | Bomberman | 162426 | [162426-bomberman.json](./162426-bomberman.json) |
+| Bomberman | 198067 | [198067-bomberman.json](./198067-bomberman.json) |
 | Bomberman | 22287 | [22287-bomberman.json](./22287-bomberman.json) |
 | Bomberman | 287647 | [287647-bomberman.json](./287647-bomberman.json) |
 | Bomberman | 3445 | [3445-bomberman.json](./3445-bomberman.json) |
