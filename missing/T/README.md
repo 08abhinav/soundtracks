@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taekwondo | 93478 | [93478-taekwondo.json](./93478-taekwondo.json) |
 | TaekwonGirl | 329087 | [329087-taekwongirl.json](./329087-taekwongirl.json) |
 | Taern | 55929 | [55929-taern.json](./55929-taern.json) |
+| Taffy Tales | 191607 | [191607-taffy-tales.json](./191607-taffy-tales.json) |
 | Tafl Champions: Ancient Chess | 159577 | [159577-tafl-champions-ancient-chess.json](./159577-tafl-champions-ancient-chess.json) |
 | Tafl PTK | 296997 | [296997-tafl-ptk.json](./296997-tafl-ptk.json) |
 | Taflheim | 415313 | [415313-taflheim.json](./415313-taflheim.json) |
@@ -6074,6 +6075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Defender | 199092 | [199092-the-dark-defender.json](./199092-the-dark-defender.json) |
 | The Dark Delivers | 335694 | [335694-the-dark-delivers.json](./335694-the-dark-delivers.json) |
 | The Dark Dungeon | 196291 | [196291-the-dark-dungeon.json](./196291-the-dark-dungeon.json) |
+| The Dark Dwellers | 191609 | [191609-the-dark-dwellers.json](./191609-the-dark-dwellers.json) |
 | The Dark Eye | 11682 | [11682-the-dark-eye.json](./11682-the-dark-eye.json) |
 | The Dark Eye Bundle | 218463 | [218463-the-dark-eye-bundle.json](./218463-the-dark-eye-bundle.json) |
 | The Dark Eye Bundle | 275896 | [275896-the-dark-eye-bundle.json](./275896-the-dark-eye-bundle.json) |
@@ -8811,6 +8813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters | 207007 | [207007-the-king-of-fighters.json](./207007-the-king-of-fighters.json) |
 | The King of Fighters '94 | 15426 | [15426-the-king-of-fighters-94.json](./15426-the-king-of-fighters-94.json) |
 | The King of Fighters '95 | 15427 | [15427-the-king-of-fighters-95.json](./15427-the-king-of-fighters-95.json) |
+| The King of Fighters '95 | 191473 | [191473-the-king-of-fighters-95.json](./191473-the-king-of-fighters-95.json) |
 | The King of Fighters '96 Collection | 75462 | [75462-the-king-of-fighters-96-collection.json](./75462-the-king-of-fighters-96-collection.json) |
 | The King of Fighters '97 | 15428 | [15428-the-king-of-fighters-97.json](./15428-the-king-of-fighters-97.json) |
 | The King of Fighters '97 OL | 80566 | [80566-the-king-of-fighters-97-ol.json](./80566-the-king-of-fighters-97-ol.json) |
@@ -8882,6 +8885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XV: Team Garou | 195801 | [195801-the-king-of-fighters-xv-team-garou.json](./195801-the-king-of-fighters-xv-team-garou.json) |
 | The King of Fighters: AFK | 364038 | [364038-the-king-of-fighters-afk.json](./364038-the-king-of-fighters-afk.json) |
 | The King of Fighters: Dream Match 1999 | 45861 | [45861-the-king-of-fighters-dream-match-1999.json](./45861-the-king-of-fighters-dream-match-1999.json) |
+| The King of Fighters: Heat of Battle | 191476 | [191476-the-king-of-fighters-heat-of-battle.json](./191476-the-king-of-fighters-heat-of-battle.json) |
 | The King of Fighters: Kyo | 43841 | [43841-the-king-of-fighters-kyo.json](./43841-the-king-of-fighters-kyo.json) |
 | The King of Fighters: Maximum Impact - Maniax | 47322 | [47322-the-king-of-fighters-maximum-impact-maniax.json](./47322-the-king-of-fighters-maximum-impact-maniax.json) |
 | The King of Fighters: World | 26802 | [26802-the-king-of-fighters-world.json](./26802-the-king-of-fighters-world.json) |
@@ -14533,6 +14537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch of Sherdorne Forest | 248112 | [248112-the-witch-of-sherdorne-forest.json](./248112-the-witch-of-sherdorne-forest.json) |
 | The Witch of the Wake | 320008 | [320008-the-witch-of-the-wake.json](./320008-the-witch-of-the-wake.json) |
 | The Witch Veils: The Mansion | 288622 | [288622-the-witch-veils-the-mansion.json](./288622-the-witch-veils-the-mansion.json) |
+| The Witch-in-Training and the Magic Seal | 191619 | [191619-the-witch-in-training-and-the-magic-seal.json](./191619-the-witch-in-training-and-the-magic-seal.json) |
 | The Witch, Wife, & the Wish | 245735 | [245735-the-witch-wife-and-the-wish.json](./245735-the-witch-wife-and-the-wish.json) |
 | The Witch's Assistant | 290800 | [290800-the-witchs-assistant.json](./290800-the-witchs-assistant.json) |
 | The Witch's Cauldron | 240731 | [240731-the-witchs-cauldron.json](./240731-the-witchs-cauldron.json) |
@@ -19365,6 +19370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Hot to Hold | 416739 | [416739-too-hot-to-hold.json](./416739-too-hot-to-hold.json) |
 | Too Human | 292152 | [292152-too-human.json](./292152-too-human.json) |
 | Too Human | 5648 | [5648-too-human.json](./5648-too-human.json) |
+| Too Impatient | 191470 | [191470-too-impatient.json](./191470-too-impatient.json) |
 | Too Loud | 120694 | [120694-too-loud.json](./120694-too-loud.json) |
 | Too Many Bots | 366889 | [366889-too-many-bots.json](./366889-too-many-bots.json) |
 | Too Many Cooks | 375838 | [375838-too-many-cooks.json](./375838-too-many-cooks.json) |
@@ -24205,6 +24211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try Again | 219526 | [219526-try-again.json](./219526-try-again.json) |
 | Try Again | 249388 | [249388-try-again.json](./249388-try-again.json) |
 | Try Dying | 319713 | [319713-try-dying.json](./319713-try-dying.json) |
+| Try Harder | 191613 | [191613-try-harder.json](./191613-try-harder.json) |
 | Try if you can 100 | 283030 | [283030-try-if-you-can-100.json](./283030-try-if-you-can-100.json) |
 | Try Me | 204260 | [204260-try-me.json](./204260-try-me.json) |
 | Try not to die | 126919 | [126919-try-not-to-die.json](./126919-try-not-to-die.json) |
@@ -24618,6 +24625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Dash | 329066 | [329066-turbo-dash.json](./329066-turbo-dash.json) |
 | Turbo Dash Kart 2023 Racing | 266065 | [266065-turbo-dash-kart-2023-racing.json](./266065-turbo-dash-kart-2023-racing.json) |
 | Turbo Dismount 2 | 319769 | [319769-turbo-dismount-2.json](./319769-turbo-dismount-2.json) |
+| Turbo Driving Racing 3D | 191630 | [191630-turbo-driving-racing-3d.json](./191630-turbo-driving-racing-3d.json) |
 | Turbo DX | 313106 | [313106-turbo-dx.json](./313106-turbo-dx.json) |
 | Turbo Esprit | 26430 | [26430-turbo-esprit.json](./26430-turbo-esprit.json) |
 | Turbo Fat | 236872 | [236872-turbo-fat.json](./236872-turbo-fat.json) |
