@@ -4346,6 +4346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deflex V | 315510 | [315510-deflex-v.json](./315510-deflex-v.json) |
 | Deformed | 244248 | [244248-deformed.json](./244248-deformed.json) |
 | Deformers | 207118 | [207118-deformers.json](./207118-deformers.json) |
+| Deformity | 189854 | [189854-deformity.json](./189854-deformity.json) |
 | Deformuseum | 405485 | [405485-deformuseum.json](./405485-deformuseum.json) |
 | Defragmenting | 390232 | [390232-defragmenting.json](./390232-defragmenting.json) |
 | Defrain | 103390 | [103390-defrain.json](./103390-defrain.json) |
