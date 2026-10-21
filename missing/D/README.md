@@ -8911,6 +8911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Chefs | 185083 | [185083-doki-doki-chefs.json](./185083-doki-doki-chefs.json) |
 | Doki Doki Compatibility Quest: 3 | 59830 | [59830-doki-doki-compatibility-quest-3.json](./59830-doki-doki-compatibility-quest-3.json) |
 | Doki Doki Corrupted Files | 259649 | [259649-doki-doki-corrupted-files.json](./259649-doki-doki-corrupted-files.json) |
+| Doki Doki Densha Sekai | 177771 | [177771-doki-doki-densha-sekai.json](./177771-doki-doki-densha-sekai.json) |
 | Doki Doki Despair | 333918 | [333918-doki-doki-despair.json](./333918-doki-doki-despair.json) |
 | Doki Doki Dollmaker | 246651 | [246651-doki-doki-dollmaker.json](./246651-doki-doki-dollmaker.json) |
 | Doki Doki Don't | 333784 | [333784-doki-doki-dont.json](./333784-doki-doki-dont.json) |
@@ -12327,6 +12328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamWatcher | 145430 | [145430-dreamwatcher.json](./145430-dreamwatcher.json) |
 | Dreamwater | 252385 | [252385-dreamwater.json](./252385-dreamwater.json) |
 | Dreamweb | 2489 | [2489-dreamweb.json](./2489-dreamweb.json) |
+| Dreamwhale II | 177752 | [177752-dreamwhale-ii.json](./177752-dreamwhale-ii.json) |
 | Dreamwild | 223094 | [223094-dreamwild.json](./223094-dreamwild.json) |
 | Dreamwillow | 184661 | [184661-dreamwillow.json](./184661-dreamwillow.json) |
 | DreamWoods 2 | 361164 | [361164-dreamwoods-2.json](./361164-dreamwoods-2.json) |
