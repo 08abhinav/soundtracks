@@ -1348,6 +1348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KenKen: Train Your Brain | 68022 | [68022-kenken-train-your-brain.json](./68022-kenken-train-your-brain.json) |
 | Kenkoku no Shokudou | 222367 | [222367-kenkoku-no-shokudou.json](./222367-kenkoku-no-shokudou.json) |
 | Kennedy Approach | 25920 | [25920-kennedy-approach.json](./25920-kennedy-approach.json) |
+| Kenney's Zombies | 184224 | [184224-kenneys-zombies.json](./184224-kenneys-zombies.json) |
 | Kenny 7 | 253310 | [253310-kenny-7.json](./253310-kenny-7.json) |
 | Kenny vs. Spenny: Best Friends/Worst Enemies | 303697 | [303697-kenny-vs-spenny-best-friends-worst-enemies.json](./303697-kenny-vs-spenny-best-friends-worst-enemies.json) |
 | Kenny vs. Spenny: The Handheld Game | 395002 | [395002-kenny-vs-spenny-the-handheld-game.json](./395002-kenny-vs-spenny-the-handheld-game.json) |
@@ -3241,6 +3242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KleptoCorns | 192105 | [192105-kleptocorns.json](./192105-kleptocorns.json) |
 | KleptoDogs | 105792 | [105792-kleptodogs.json](./105792-kleptodogs.json) |
 | Kleptomaniacs | 348807 | [348807-kleptomaniacs.json](./348807-kleptomaniacs.json) |
+| Kleptonaut | 184261 | [184261-kleptonaut.json](./184261-kleptonaut.json) |
 | Kleromancy | 422464 | [422464-kleromancy.json](./422464-kleromancy.json) |
 | Kletba Vlčího Moru | 254048 | [254048-kletba-vlciho-moru.json](./254048-kletba-vlciho-moru.json) |
 | Kletka | 312279 | [312279-kletka.json](./312279-kletka.json) |
@@ -4609,6 +4611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KunKunNight | 273463 | [273463-kunkunnight.json](./273463-kunkunnight.json) |
 | KunKunPrison | 384772 | [384772-kunkunprison.json](./384772-kunkunprison.json) |
 | Kunlun Fight | 30180 | [30180-kunlun-fight.json](./30180-kunlun-fight.json) |
+| Kunoichi | 184244 | [184244-kunoichi.json](./184244-kunoichi.json) |
 | Kunoichi Beat | 369589 | [369589-kunoichi-beat.json](./369589-kunoichi-beat.json) |
 | Kunoichi Demon Slayers | 262793 | [262793-kunoichi-demon-slayers.json](./262793-kunoichi-demon-slayers.json) |
 | Kunoichi Ninja | 122218 | [122218-kunoichi-ninja.json](./122218-kunoichi-ninja.json) |
@@ -4805,6 +4808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyuiin | 78524 | [78524-kyuiin.json](./78524-kyuiin.json) |
 | Kyukyoku TigerHeli: Toaplan Arcade Garage | 399782 | [399782-kyukyoku-tigerheli-toaplan-arcade-garage.json](./399782-kyukyoku-tigerheli-toaplan-arcade-garage.json) |
 | Kyumori Episode1 | 175985 | [175985-kyumori-episode1.json](./175985-kyumori-episode1.json) |
+| Kyun! | 184268 | [184268-kyun.json](./184268-kyun.json) |
 | Kyurinaga's Revenge | 25308 | [25308-kyurinagas-revenge.json](./25308-kyurinagas-revenge.json) |
 | Kyushu Jade | 128314 | [128314-kyushu-jade.json](./128314-kyushu-jade.json) |
 | Kyuuketsu Hime Yui: Senyashou | 393601 | [393601-kyuuketsu-hime-yui-senyashou.json](./393601-kyuuketsu-hime-yui-senyashou.json) |
