@@ -16035,6 +16035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sticker Zoo | 367558 | [367558-my-sticker-zoo.json](./367558-my-sticker-zoo.json) |
 | My Stop Smoking Coach with Allen Carr | 70638 | [70638-my-stop-smoking-coach-with-allen-carr.json](./70638-my-stop-smoking-coach-with-allen-carr.json) |
 | My Stop Smoking Coach: Allen Carr's EasyWay | 123359 | [123359-my-stop-smoking-coach-allen-carrs-easyway.json](./123359-my-stop-smoking-coach-allen-carrs-easyway.json) |
+| My Story | 186500 | [186500-my-story.json](./186500-my-story.json) |
 | My Story: Choose Your Own Path | 87010 | [87010-my-story-choose-your-own-path.json](./87010-my-story-choose-your-own-path.json) |
 | My Strange Girlfriend | 299516 | [299516-my-strange-girlfriend.json](./299516-my-strange-girlfriend.json) |
 | My Strange Girlfriends | 248926 | [248926-my-strange-girlfriends.json](./248926-my-strange-girlfriends.json) |
