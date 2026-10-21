@@ -1354,6 +1354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlocks Deeds | 260626 | [260626-warlocks-deeds.json](./260626-warlocks-deeds.json) |
 | Warlocks Deeds: Desolation horde | 282252 | [282252-warlocks-deeds-desolation-horde.json](./282252-warlocks-deeds-desolation-horde.json) |
 | Warlocks Deeds: Uncharted Realms | 275614 | [275614-warlocks-deeds-uncharted-realms.json](./275614-warlocks-deeds-uncharted-realms.json) |
+| Warlocks Entanglement | 172970 | [172970-warlocks-entanglement.json](./172970-warlocks-entanglement.json) |
 | Warlocks Quarry: Random Worlds + Explorer | 243773 | [243773-warlocks-quarry-random-worlds-explorer.json](./243773-warlocks-quarry-random-worlds-explorer.json) |
 | Warlode | 400530 | [400530-warlode.json](./400530-warlode.json) |
 | Warlondor | 401740 | [401740-warlondor.json](./401740-warlondor.json) |
@@ -2381,6 +2382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wedgie Toss 2 | 67888 | [67888-wedgie-toss-2.json](./67888-wedgie-toss-2.json) |
 | Wednesday | 179022 | [179022-wednesday.json](./179022-wednesday.json) |
 | Wednesday 13th | 419353 | [419353-wednesday-13th.json](./419353-wednesday-13th.json) |
+| Wednesday Basketball | 172979 | [172979-wednesday-basketball.json](./172979-wednesday-basketball.json) |
 | Wednesday Night | 358638 | [358638-wednesday-night.json](./358638-wednesday-night.json) |
 | Wednesdays | 333946 | [333946-wednesdays.json](./333946-wednesdays.json) |
 | Wee Tanks! | 142708 | [142708-wee-tanks.json](./142708-wee-tanks.json) |
@@ -5058,6 +5060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Without Kungfu Shut Up | 111578 | [111578-without-kungfu-shut-up.json](./111578-without-kungfu-shut-up.json) |
 | Without Memory | 53043 | [53043-without-memory.json](./53043-without-memory.json) |
 | Without My Arms | 141176 | [141176-without-my-arms.json](./141176-without-my-arms.json) |
+| Without Pain | 172952 | [172952-without-pain.json](./172952-without-pain.json) |
 | Without Portalgun Collection | 417433 | [417433-without-portalgun-collection.json](./417433-without-portalgun-collection.json) |
 | Without Romance | 158542 | [158542-without-romance.json](./158542-without-romance.json) |
 | Without Wings | 340932 | [340932-without-wings.json](./340932-without-wings.json) |
@@ -7308,5 +7311,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wyvern Studios Solitaire: Solitaire Favorites | 294004 | [294004-wyvern-studios-solitaire-solitaire-favorites.json](./294004-wyvern-studios-solitaire-solitaire-favorites.json) |
 | Wyvern Warriors | 410079 | [410079-wyvern-warriors.json](./410079-wyvern-warriors.json) |
 | Wyvern Wings | 109439 | [109439-wyvern-wings.json](./109439-wyvern-wings.json) |
+| Wyvia | 172963 | [172963-wyvia.json](./172963-wyvia.json) |
 | WYzards | 275017 | [275017-wyzards.json](./275017-wyzards.json) |
 | Wzrds | 360754 | [360754-wzrds.json](./360754-wzrds.json) |
