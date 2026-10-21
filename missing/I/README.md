@@ -651,6 +651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm Wizard: Magic Combat Game | 419914 | [419914-im-wizard-magic-combat-game.json](./419914-im-wizard-magic-combat-game.json) |
 | I'Max Shougi II | 419312 | [419312-imax-shougi-ii.json](./419312-imax-shougi-ii.json) |
 | I'mitation: The Eight Suicide Note | 132258 | [132258-imitation-the-eight-suicide-note.json](./132258-imitation-the-eight-suicide-note.json) |
+| I've Been Busy Being Dead | 182131 | [182131-ive-been-busy-being-dead.json](./182131-ive-been-busy-being-dead.json) |
 | I've Fallen For You! | 319944 | [319944-ive-fallen-for-you.json](./319944-ive-fallen-for-you.json) |
 | I've Got a Brand New Pair of Legs | 129498 | [129498-ive-got-a-brand-new-pair-of-legs.json](./129498-ive-got-a-brand-new-pair-of-legs.json) |
 | I've Got to Run! | 85189 | [85189-ive-got-to-run.json](./85189-ive-got-to-run.json) |
@@ -5275,6 +5276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Izanami | 294262 | [294262-izanami.json](./294262-izanami.json) |
 | Izanami's Dream Battle | 30822 | [30822-izanamis-dream-battle.json](./30822-izanamis-dream-battle.json) |
 | IzanamiYako | 348212 | [348212-izanamiyako.json](./348212-izanamiyako.json) |
+| Izel's Observatory | 182082 | [182082-izels-observatory.json](./182082-izels-observatory.json) |
 | Izeriya | 32938 | [32938-izeriya.json](./32938-izeriya.json) |
 | Izil's Adventures: Blackfeather's Legacy | 186089 | [186089-izils-adventures-blackfeathers-legacy.json](./186089-izils-adventures-blackfeathers-legacy.json) |
 | IziMiniGame | 125853 | [125853-iziminigame.json](./125853-iziminigame.json) |
