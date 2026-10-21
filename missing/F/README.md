@@ -1803,6 +1803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far from the Tree | 184312 | [184312-far-from-the-tree.json](./184312-far-from-the-tree.json) |
 | Far Future Tourism | 133994 | [133994-far-future-tourism.json](./133994-far-future-tourism.json) |
 | Far Horizon | 291163 | [291163-far-horizon.json](./291163-far-horizon.json) |
+| Far Lands | 189367 | [189367-far-lands.json](./189367-far-lands.json) |
 | Far Lands | 411567 | [411567-far-lands.json](./411567-far-lands.json) |
 | Far light | 166775 | [166775-far-light.json](./166775-far-light.json) |
 | Far Mining | 405984 | [405984-far-mining.json](./405984-far-mining.json) |
@@ -2417,6 +2418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Labyrinth | 4496 | [4496-fatal-labyrinth.json](./4496-fatal-labyrinth.json) |
 | Fatal Midnight | 280731 | [280731-fatal-midnight.json](./280731-fatal-midnight.json) |
 | Fatal Passion: Art Prison | 139775 | [139775-fatal-passion-art-prison.json](./139775-fatal-passion-art-prison.json) |
+| Fatal Paws | 189351 | [189351-fatal-paws.json](./189351-fatal-paws.json) |
 | Fatal Pursuit | 362996 | [362996-fatal-pursuit.json](./362996-fatal-pursuit.json) |
 | Fatal Run | 12323 | [12323-fatal-run.json](./12323-fatal-run.json) |
 | Fatal Seduction | 63871 | [63871-fatal-seduction.json](./63871-fatal-seduction.json) |
@@ -4829,6 +4831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First They're Sour | 179186 | [179186-first-theyre-sour.json](./179186-first-theyre-sour.json) |
 | First Things First | 60006 | [60006-first-things-first.json](./60006-first-things-first.json) |
 | First Time in Hawaii | 236002 | [236002-first-time-in-hawaii.json](./236002-first-time-in-hawaii.json) |
+| First Time in Paris | 189365 | [189365-first-time-in-paris.json](./189365-first-time-in-paris.json) |
 | First Time In Paris: Collector's Edition | 209143 | [209143-first-time-in-paris-collectors-edition.json](./209143-first-time-in-paris-collectors-edition.json) |
 | First Time in Rome | 207323 | [207323-first-time-in-rome.json](./207323-first-time-in-rome.json) |
 | First Time in Rome: Collector's Edition | 226335 | [226335-first-time-in-rome-collectors-edition.json](./226335-first-time-in-rome-collectors-edition.json) |
@@ -7386,6 +7389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Smasher | 337413 | [337413-forest-smasher.json](./337413-forest-smasher.json) |
 | Forest spiders | 123891 | [123891-forest-spiders.json](./123891-forest-spiders.json) |
 | Forest Spirit | 261679 | [261679-forest-spirit.json](./261679-forest-spirit.json) |
+| Forest Star | 189356 | [189356-forest-star.json](./189356-forest-star.json) |
 | Forest Survival | 109382 | [109382-forest-survival.json](./109382-forest-survival.json) |
 | Forest Survival | 381032 | [381032-forest-survival.json](./381032-forest-survival.json) |
 | Forest Time | 373517 | [373517-forest-time.json](./373517-forest-time.json) |
