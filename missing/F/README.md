@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Circus '92 | 37714 | [37714-f1-circus-92.json](./37714-f1-circus-92.json) |
 | F1 Circus CD | 45865 | [45865-f1-circus-cd.json](./45865-f1-circus-cd.json) |
 | F1 Circus MD | 125458 | [125458-f1-circus-md.json](./125458-f1-circus-md.json) |
+| F1 Circus Special: Pole to Win | 185879 | [185879-f1-circus-special-pole-to-win.json](./185879-f1-circus-special-pole-to-win.json) |
 | F1 GP Circuits | 47210 | [47210-f1-gp-circuits.json](./47210-f1-gp-circuits.json) |
 | F1 Grand Prix | 38472 | [38472-f1-grand-prix.json](./38472-f1-grand-prix.json) |
 | F1 Grand Prix Star II | 218114 | [218114-f1-grand-prix-star-ii.json](./218114-f1-grand-prix-star-ii.json) |
@@ -256,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fables of the Kingdom V: Collector's Edition | 337250 | [337250-fables-of-the-kingdom-v-collectors-edition.json](./337250-fables-of-the-kingdom-v-collectors-edition.json) |
 | Fablewood Chronicles | 413112 | [413112-fablewood-chronicles.json](./413112-fablewood-chronicles.json) |
 | Fabric of Reality | 219767 | [219767-fabric-of-reality.json](./219767-fabric-of-reality.json) |
+| FabStyle | 185897 | [185897-fabstyle.json](./185897-fabstyle.json) |
 | Fabular: Once upon a Spacetime | 116429 | [116429-fabular-once-upon-a-spacetime.json](./116429-fabular-once-upon-a-spacetime.json) |
 | Fábulas Porteñas | 316123 | [316123-fabulas-portenas.json](./316123-fabulas-portenas.json) |
 | Fabuloso's Fantastic Flight | 343380 | [343380-fabulosos-fantastic-flight.json](./343380-fabulosos-fantastic-flight.json) |
@@ -2885,6 +2887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feign | 172516 | [172516-feign.json](./172516-feign.json) |
 | Feisty Fauna | 193345 | [193345-feisty-fauna.json](./193345-feisty-fauna.json) |
 | Feisty Feet | 42769 | [42769-feisty-feet.json](./42769-feisty-feet.json) |
+| Feisty Heist | 185933 | [185933-feisty-heist.json](./185933-feisty-heist.json) |
 | Fèitǔ Báixuěgōngzhǔ | 348855 | [348855-feitu-baixuegongzhu.json](./348855-feitu-baixuegongzhu.json) |
 | Feitu Huiguniang | 348846 | [348846-feitu-huiguniang.json](./348846-feitu-huiguniang.json) |
 | Fèitǔ Xiǎohóngmào | 340970 | [340970-feitu-xiaohongmao.json](./340970-feitu-xiaohongmao.json) |
