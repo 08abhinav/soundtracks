@@ -2752,6 +2752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wet Robot Dreams | 142351 | [142351-wet-robot-dreams.json](./142351-wet-robot-dreams.json) |
 | Wet Sand | 235587 | [235587-wet-sand.json](./235587-wet-sand.json) |
 | Wet Slits | 349277 | [349277-wet-slits.json](./349277-wet-slits.json) |
+| Wet Squirrels | 177753 | [177753-wet-squirrels.json](./177753-wet-squirrels.json) |
 | Wet Steps | 158072 | [158072-wet-steps.json](./158072-wet-steps.json) |
 | Wet Waifu | 161367 | [161367-wet-waifu.json](./161367-wet-waifu.json) |
 | Wet Warfare | 109679 | [109679-wet-warfare.json](./109679-wet-warfare.json) |
@@ -4586,6 +4587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Events | 41012 | [41012-winter-events.json](./41012-winter-events.json) |
 | Winter Falling: Battle Tactics | 173251 | [173251-winter-falling-battle-tactics.json](./173251-winter-falling-battle-tactics.json) |
 | Winter Falling: Price of Life | 176352 | [176352-winter-falling-price-of-life.json](./176352-winter-falling-price-of-life.json) |
+| Winter Fox | 177762 | [177762-winter-fox.json](./177762-winter-fox.json) |
 | Winter Fragments | 285045 | [285045-winter-fragments.json](./285045-winter-fragments.json) |
 | Winter Games | 281634 | [281634-winter-games.json](./281634-winter-games.json) |
 | Winter Games | 281636 | [281636-winter-games.json](./281636-winter-games.json) |
