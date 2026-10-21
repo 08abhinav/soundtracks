@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth of Galleria: The Moon Society - Special Soul Pact Quest | 232468 | [232468-labyrinth-of-galleria-the-moon-society-special-soul-pact-quest.json](./232468-labyrinth-of-galleria-the-moon-society-special-soul-pact-quest.json) |
 | Labyrinth of Light | 236796 | [236796-labyrinth-of-light.json](./236796-labyrinth-of-light.json) |
 | Labyrinth of Loci | 57510 | [57510-labyrinth-of-loci.json](./57510-labyrinth-of-loci.json) |
+| Labyrinth of Luna | 188308 | [188308-labyrinth-of-luna.json](./188308-labyrinth-of-luna.json) |
 | Labyrinth of Rage | 262966 | [262966-labyrinth-of-rage.json](./262966-labyrinth-of-rage.json) |
 | Labyrinth of the Chaka King | 142733 | [142733-labyrinth-of-the-chaka-king.json](./142733-labyrinth-of-the-chaka-king.json) |
 | Labyrinth of the Crystal Princess | 406652 | [406652-labyrinth-of-the-crystal-princess.json](./406652-labyrinth-of-the-crystal-princess.json) |
@@ -1992,6 +1993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Mortal | 203852 | [203852-legend-of-mortal.json](./203852-legend-of-mortal.json) |
 | Legend of Mushroom | 296826 | [296826-legend-of-mushroom.json](./296826-legend-of-mushroom.json) |
 | Legend of Mysteria RPG | 53268 | [53268-legend-of-mysteria-rpg.json](./53268-legend-of-mysteria-rpg.json) |
+| Legend of Pandonia | 188315 | [188315-legend-of-pandonia.json](./188315-legend-of-pandonia.json) |
 | Legend of Parry King | 309506 | [309506-legend-of-parry-king.json](./309506-legend-of-parry-king.json) |
 | Legend Of Peks: Halloween Horror | 272753 | [272753-legend-of-peks-halloween-horror.json](./272753-legend-of-peks-halloween-horror.json) |
 | Legend of Penguin | 290996 | [290996-legend-of-penguin.json](./290996-legend-of-penguin.json) |
