@@ -208,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haex | 404685 | [404685-haex.json](./404685-haex.json) |
 | Hafermann | 177297 | [177297-hafermann.json](./177297-hafermann.json) |
 | Haffy DX | 336168 | [336168-haffy-dx.json](./336168-haffy-dx.json) |
+| Haftsin Maker | 182092 | [182092-haftsin-maker.json](./182092-haftsin-maker.json) |
 | Hag | 245946 | [245946-hag.json](./245946-hag.json) |
 | Hag's Castle | 105115 | [105115-hags-castle.json](./105115-hags-castle.json) |
 | Hagalegacy | 311113 | [311113-hagalegacy.json](./311113-hagalegacy.json) |
@@ -5735,6 +5736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Dive | 233747 | [233747-high-dive.json](./233747-high-dive.json) |
 | High Dragon Tower | 357842 | [357842-high-dragon-tower.json](./357842-high-dragon-tower.json) |
 | High Energy Heroes | 271207 | [271207-high-energy-heroes.json](./271207-high-energy-heroes.json) |
+| High Factory | 182097 | [182097-high-factory.json](./182097-high-factory.json) |
 | High Fidelity | 34749 | [34749-high-fidelity.json](./34749-high-fidelity.json) |
 | High Five! | 132819 | [132819-high-five.json](./132819-high-five.json) |
 | High Flyer | 332463 | [332463-high-flyer.json](./332463-high-flyer.json) |
@@ -6885,6 +6887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hololive GoroGoro Mountain DX | 384189 | [384189-hololive-gorogoro-mountain-dx.json](./384189-hololive-gorogoro-mountain-dx.json) |
 | Hololive Holo's Hanafuda | 339960 | [339960-hololive-holos-hanafuda.json](./339960-hololive-holos-hanafuda.json) |
 | Hololive Horror | 210581 | [210581-hololive-horror.json](./210581-hololive-horror.json) |
+| Hololive Isekai | 182106 | [182106-hololive-isekai.json](./182106-hololive-isekai.json) |
 | Hololive Treasure Mountain | 311821 | [311821-hololive-treasure-mountain.json](./311821-hololive-treasure-mountain.json) |
 | Hololive Treasure Mountain MegaPack | 346007 | [346007-hololive-treasure-mountain-megapack.json](./346007-hololive-treasure-mountain-megapack.json) |
 | Hololore: Amethyst | 266868 | [266868-hololore-amethyst.json](./266868-hololore-amethyst.json) |
@@ -9547,6 +9550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Paddle Block Rusher | 222323 | [222323-hyper-paddle-block-rusher.json](./222323-hyper-paddle-block-rusher.json) |
 | Hyper Panda | 332832 | [332832-hyper-panda.json](./332832-hyper-panda.json) |
 | Hyper Pixel Man | 413684 | [413684-hyper-pixel-man.json](./413684-hyper-pixel-man.json) |
+| Hyper Pixel Ten Thousand | 182083 | [182083-hyper-pixel-ten-thousand.json](./182083-hyper-pixel-ten-thousand.json) |
 | Hyper Pop | 234131 | [234131-hyper-pop.json](./234131-hyper-pop.json) |
 | Hyper Princess Pitch | 79745 | [79745-hyper-princess-pitch.json](./79745-hyper-princess-pitch.json) |
 | Hyper Rally | 29034 | [29034-hyper-rally.json](./29034-hyper-rally.json) |
