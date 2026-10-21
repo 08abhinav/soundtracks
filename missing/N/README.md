@@ -599,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR 09 | 7104 | [7104-nascar-09.json](./7104-nascar-09.json) |
 | NASCAR 2000 | 70272 | [70272-nascar-2000.json](./70272-nascar-2000.json) |
 | NASCAR 2001 | 45099 | [45099-nascar-2001.json](./45099-nascar-2001.json) |
+| Nascar 21: Ignition - Day 1 Edition | 171271 | [171271-nascar-21-ignition-day-1-edition.json](./171271-nascar-21-ignition-day-1-edition.json) |
 | NASCAR 21: Ignition - Victory Edition | 220801 | [220801-nascar-21-ignition-victory-edition.json](./220801-nascar-21-ignition-victory-edition.json) |
 | NASCAR 26 | 412990 | [412990-nascar-26.json](./412990-nascar-26.json) |
 | NASCAR 98 | 176683 | [176683-nascar-98.json](./176683-nascar-98.json) |
@@ -1841,6 +1842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Abyss: Deluxe Edition | 169182 | [169182-neon-abyss-deluxe-edition.json](./169182-neon-abyss-deluxe-edition.json) |
 | Neon Abyss: The Lovable Rogues Pack | 237993 | [237993-neon-abyss-the-lovable-rogues-pack.json](./237993-neon-abyss-the-lovable-rogues-pack.json) |
 | Neon Apex: Beyond the Limit | 332863 | [332863-neon-apex-beyond-the-limit.json](./332863-neon-apex-beyond-the-limit.json) |
+| Neon Arena | 171309 | [171309-neon-arena.json](./171309-neon-arena.json) |
 | Neon Arena | 30516 | [30516-neon-arena.json](./30516-neon-arena.json) |
 | Neon Baller 0.1 | 151706 | [151706-neon-baller-0-1.json](./151706-neon-baller-0-1.json) |
 | Neon Bash | 301804 | [301804-neon-bash.json](./301804-neon-bash.json) |
