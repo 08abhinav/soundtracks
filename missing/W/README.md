@@ -3337,6 +3337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiff of Fear | 101978 | [101978-whiff-of-fear.json](./101978-whiff-of-fear.json) |
 | Whiffle Blasters | 116850 | [116850-whiffle-blasters.json](./116850-whiffle-blasters.json) |
 | While 1: | 364620 | [364620-while-1.json](./364620-while-1.json) |
+| While Dreaming | 185357 | [185357-while-dreaming.json](./185357-while-dreaming.json) |
 | While Mom is Away | 312552 | [312552-while-mom-is-away.json](./312552-while-mom-is-away.json) |
 | While Sleeping | 312553 | [312553-while-sleeping.json](./312553-while-sleeping.json) |
 | While the Whole World Laughs | 241486 | [241486-while-the-whole-world-laughs.json](./241486-while-the-whole-world-laughs.json) |
