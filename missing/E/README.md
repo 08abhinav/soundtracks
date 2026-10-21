@@ -5999,6 +5999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explosive Pursuit | 112487 | [112487-explosive-pursuit.json](./112487-explosive-pursuit.json) |
 | Explosive Racing | 44854 | [44854-explosive-racing.json](./44854-explosive-racing.json) |
 | Explosive Shooting Star Beetle | 311809 | [311809-explosive-shooting-star-beetle.json](./311809-explosive-shooting-star-beetle.json) |
+| Explosive Snooker | 188852 | [188852-explosive-snooker.json](./188852-explosive-snooker.json) |
 | Explosive Track | 226672 | [226672-explosive-track.json](./226672-explosive-track.json) |
 | Explosiver | 192227 | [192227-explosiver.json](./192227-explosiver.json) |
 | Explottens: The time is meow! | 36933 | [36933-explottens-the-time-is-meow.json](./36933-explottens-the-time-is-meow.json) |
