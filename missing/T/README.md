@@ -3519,6 +3519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terranigma: Boss Rush | 343033 | [343033-terranigma-boss-rush.json](./343033-terranigma-boss-rush.json) |
 | TerranLands | 258513 | [258513-terranlands.json](./258513-terranlands.json) |
 | Terranny | 238536 | [238536-terranny.json](./238536-terranny.json) |
+| Terranova | 176160 | [176160-terranova.json](./176160-terranova.json) |
 | Terranova | 193634 | [193634-terranova.json](./193634-terranova.json) |
 | Terrapets | 140467 | [140467-terrapets.json](./140467-terrapets.json) |
 | Terrapins | 185141 | [185141-terrapins.json](./185141-terrapins.json) |
@@ -7908,6 +7909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Greater | 301342 | [301342-the-greater.json](./301342-the-greater.json) |
 | The Greatest Chef | 322098 | [322098-the-greatest-chef.json](./322098-the-greatest-chef.json) |
 | The Greatest Game in the World | 182975 | [182975-the-greatest-game-in-the-world.json](./182975-the-greatest-game-in-the-world.json) |
+| The Greatest Survival | 176149 | [176149-the-greatest-survival.json](./176149-the-greatest-survival.json) |
 | The Greedy MaxCoon | 96658 | [96658-the-greedy-maxcoon.json](./96658-the-greedy-maxcoon.json) |
 | The Green Book | 311569 | [311569-the-green-book.json](./311569-the-green-book.json) |
 | The Green Hook Fighter | 377075 | [377075-the-green-hook-fighter.json](./377075-the-green-hook-fighter.json) |
@@ -10156,6 +10158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Bear | 53923 | [53923-the-lost-bear.json](./53923-the-lost-bear.json) |
 | The Lost Block | 386377 | [386377-the-lost-block.json](./386377-the-lost-block.json) |
 | The Lost Bloodline | 218676 | [218676-the-lost-bloodline.json](./218676-the-lost-bloodline.json) |
+| The Lost Bullets | 176159 | [176159-the-lost-bullets.json](./176159-the-lost-bullets.json) |
 | The Lost Cases of Sherlock Holmes | 10978 | [10978-the-lost-cases-of-sherlock-holmes.json](./10978-the-lost-cases-of-sherlock-holmes.json) |
 | The Lost Cases of Sherlock Holmes 2 | 10979 | [10979-the-lost-cases-of-sherlock-holmes-2.json](./10979-the-lost-cases-of-sherlock-holmes-2.json) |
 | The Lost Castle In Darkmist | 40369 | [40369-the-lost-castle-in-darkmist.json](./40369-the-lost-castle-in-darkmist.json) |
@@ -10861,7 +10864,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
-| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -23293,6 +23295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treehouse Trouble | 181133 | [181133-treehouse-trouble.json](./181133-treehouse-trouble.json) |
 | Treehouse Truants | 69333 | [69333-treehouse-truants.json](./69333-treehouse-truants.json) |
 | Treekeepers | 219535 | [219535-treekeepers.json](./219535-treekeepers.json) |
+| Treelogy | 176173 | [176173-treelogy.json](./176173-treelogy.json) |
 | Treepury | 303802 | [303802-treepury.json](./303802-treepury.json) |
 | Trees Adventure | 398044 | [398044-trees-adventure.json](./398044-trees-adventure.json) |
 | Trees and Jellyfish | 338610 | [338610-trees-and-jellyfish.json](./338610-trees-and-jellyfish.json) |
