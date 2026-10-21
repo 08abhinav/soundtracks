@@ -13343,6 +13343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CropBytes | 235307 | [235307-cropbytes.json](./235307-cropbytes.json) |
 | Cropia | 374198 | [374198-cropia.json](./374198-cropia.json) |
 | Cropisle TD | 266095 | [266095-cropisle-td.json](./266095-cropisle-td.json) |
+| Cropped | 201465 | [201465-cropped.json](./201465-cropped.json) |
 | Cropple | 243963 | [243963-cropple.json](./243963-cropple.json) |
 | Croppy Boy | 157110 | [157110-croppy-boy.json](./157110-croppy-boy.json) |
 | Crops and Conveyors | 189126 | [189126-crops-and-conveyors.json](./189126-crops-and-conveyors.json) |
@@ -15475,6 +15476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpet Graveyard | 176778 | [176778-cyberpet-graveyard.json](./176778-cyberpet-graveyard.json) |
 | CyberPigeon | 264679 | [264679-cyberpigeon.json](./264679-cyberpigeon.json) |
 | Cyberplug | 153343 | [153343-cyberplug.json](./153343-cyberplug.json) |
+| Cyberpoly | 201444 | [201444-cyberpoly.json](./201444-cyberpoly.json) |
 | Cyberpong VR | 58629 | [58629-cyberpong-vr.json](./58629-cyberpong-vr.json) |
 | Cyberpop | 219982 | [219982-cyberpop.json](./219982-cyberpop.json) |
 | Cyberpulse | 150973 | [150973-cyberpulse.json](./150973-cyberpulse.json) |
