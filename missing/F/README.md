@@ -4906,6 +4906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Season | 350506 | [350506-fish-season.json](./350506-fish-season.json) |
 | Fish Simulator: Agonik Lake | 240761 | [240761-fish-simulator-agonik-lake.json](./240761-fish-simulator-agonik-lake.json) |
 | Fish Stick Protocol | 340540 | [340540-fish-stick-protocol.json](./340540-fish-stick-protocol.json) |
+| Fish Story | 189876 | [189876-fish-story.json](./189876-fish-story.json) |
 | Fish Story | 230691 | [230691-fish-story.json](./230691-fish-story.json) |
 | Fish Survivor: Feed, Grow and Evolve! | 266996 | [266996-fish-survivor-feed-grow-and-evolve.json](./266996-fish-survivor-feed-grow-and-evolve.json) |
 | Fish Swarm: Within Inches | 383962 | [383962-fish-swarm-within-inches.json](./383962-fish-swarm-within-inches.json) |
@@ -8831,6 +8832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom Fighter | 77299 | [77299-freedom-fighter.json](./77299-freedom-fighter.json) |
 | Freedom Fighters | 719 | [719-freedom-fighters.json](./719-freedom-fighters.json) |
 | Freedom Fighters Fangame | 332469 | [332469-freedom-fighters-fangame.json](./332469-freedom-fighters-fangame.json) |
+| Freedom Flight | 190000 | [190000-freedom-flight.json](./190000-freedom-flight.json) |
 | Freedom Force | 68361 | [68361-freedom-force.json](./68361-freedom-force.json) |
 | Freedom Force | 720 | [720-freedom-force.json](./720-freedom-force.json) |
 | Freedom Isn't Free | 130119 | [130119-freedom-isnt-free.json](./130119-freedom-isnt-free.json) |
