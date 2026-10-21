@@ -8950,6 +8950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PokéScape | 342832 | [342832-pokescape.json](./342832-pokescape.json) |
 | Pokescape: A Pokémon Escape Room | 340210 | [340210-pokescape-a-pokemon-escape-room.json](./340210-pokescape-a-pokemon-escape-room.json) |
 | PokéSmash | 191883 | [191883-pokesmash.json](./191883-pokesmash.json) |
+| PokéSnake | 171293 | [171293-pokesnake.json](./171293-pokesnake.json) |
 | Poketale | 309973 | [309973-poketale.json](./309973-poketale.json) |
 | Poketan | 70064 | [70064-poketan.json](./70064-poketan.json) |
 | Poketibia | 356024 | [356024-poketibia.json](./356024-poketibia.json) |
@@ -12464,6 +12465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Break//Down | 400524 | [400524-project-break-down.json](./400524-project-break-down.json) |
 | Project: Catalepsy | 395571 | [395571-project-catalepsy.json](./395571-project-catalepsy.json) |
 | Project: Colt | 396528 | [396528-project-colt.json](./396528-project-colt.json) |
+| Project: Cow | 171313 | [171313-project-cow.json](./171313-project-cow.json) |
 | Project: Cube | 395473 | [395473-project-cube.json](./395473-project-cube.json) |
 | Project: Dream | 220658 | [220658-project-dream.json](./220658-project-dream.json) |
 | Project: Drift | 174783 | [174783-project-drift.json](./174783-project-drift.json) |
