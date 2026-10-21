@@ -5679,6 +5679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exertus | 120109 | [120109-exertus.json](./120109-exertus.json) |
 | Exes Assault!! | 187397 | [187397-exes-assault.json](./187397-exes-assault.json) |
 | Exeter Castle | 370016 | [370016-exeter-castle.json](./370016-exeter-castle.json) |
+| Exfiltraitor | 181562 | [181562-exfiltraitor.json](./181562-exfiltraitor.json) |
 | Exfiltrator: Cyber Stealth Missions | 204464 | [204464-exfiltrator-cyber-stealth-missions.json](./204464-exfiltrator-cyber-stealth-missions.json) |
 | Exhaust | 80168 | [80168-exhaust.json](./80168-exhaust.json) |
 | Exhibit of Sorrows | 321126 | [321126-exhibit-of-sorrows.json](./321126-exhibit-of-sorrows.json) |
