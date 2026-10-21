@@ -1630,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid Made Maze | 204243 | [204243-maid-made-maze.json](./204243-maid-made-maze.json) |
 | Maid Madness | 130340 | [130340-maid-madness.json](./130340-maid-madness.json) |
 | Maid Mansion | 25826 | [25826-maid-mansion.json](./25826-maid-mansion.json) |
+| Maid Master | 188302 | [188302-maid-master.json](./188302-maid-master.json) |
 | Maid Moving Boxes | 376447 | [376447-maid-moving-boxes.json](./376447-maid-moving-boxes.json) |
 | Maid of Salvation | 369620 | [369620-maid-of-salvation.json](./369620-maid-of-salvation.json) |
 | Maid of the Dead | 284495 | [284495-maid-of-the-dead.json](./284495-maid-of-the-dead.json) |
@@ -3384,6 +3385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars: The New Eden | 215618 | [215618-mars-the-new-eden.json](./215618-mars-the-new-eden.json) |
 | Mars: War Logs | 1830 | [1830-mars-war-logs.json](./1830-mars-war-logs.json) |
 | Mars4 | 266175 | [266175-mars4.json](./266175-mars4.json) |
+| Marscapes | 188274 | [188274-marscapes.json](./188274-marscapes.json) |
 | MarsCity3026 | 406242 | [406242-marscity3026.json](./406242-marscity3026.json) |
 | Marsel: The Alien Clown | 245920 | [245920-marsel-the-alien-clown.json](./245920-marsel-the-alien-clown.json) |
 | Marsh | 270151 | [270151-marsh.json](./270151-marsh.json) |
@@ -6934,6 +6936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Menyr | 260638 | [260638-menyr.json](./260638-menyr.json) |
 | Menzoberranzan | 2515 | [2515-menzoberranzan.json](./2515-menzoberranzan.json) |
 | Meo+ | 249363 | [249363-meo.json](./249363-meo.json) |
+| Meong Puzzel | 188285 | [188285-meong-puzzel.json](./188285-meong-puzzel.json) |
 | Meongnyang Animal Hospital Companion Animal Health Guardian! | 234554 | [234554-meongnyang-animal-hospital-companion-animal-health-guardian.json](./234554-meongnyang-animal-hospital-companion-animal-health-guardian.json) |
 | Meor | 144609 | [144609-meor.json](./144609-meor.json) |
 | Meow | 183951 | [183951-meow.json](./183951-meow.json) |
@@ -11164,6 +11167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modyssey | 323234 | [323234-modyssey.json](./323234-modyssey.json) |
 | Moe | 113853 | [113853-moe.json](./113853-moe.json) |
 | MOE Emo Girls Multiplayer | 300373 | [300373-moe-emo-girls-multiplayer.json](./300373-moe-emo-girls-multiplayer.json) |
+| Moe Girl | 188426 | [188426-moe-girl.json](./188426-moe-girl.json) |
 | Moe Hypnotist: Share Dreams With You | 113658 | [113658-moe-hypnotist-share-dreams-with-you.json](./113658-moe-hypnotist-share-dreams-with-you.json) |
 | Moe Jigsaw | 90253 | [90253-moe-jigsaw.json](./90253-moe-jigsaw.json) |
 | Moe Jigsaw: Abnormal Lovers Pack | 162921 | [162921-moe-jigsaw-abnormal-lovers-pack.json](./162921-moe-jigsaw-abnormal-lovers-pack.json) |
@@ -15363,6 +15367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Daddy, My Christmas | 266140 | [266140-my-daddy-my-christmas.json](./266140-my-daddy-my-christmas.json) |
 | My Daily Pets | 270976 | [270976-my-daily-pets.json](./270976-my-daily-pets.json) |
 | My Dangerous Life | 156700 | [156700-my-dangerous-life.json](./156700-my-dangerous-life.json) |
+| My Darkest Moment | 188312 | [188312-my-darkest-moment.json](./188312-my-darkest-moment.json) |
 | My Dating Agency | 307910 | [307910-my-dating-agency.json](./307910-my-dating-agency.json) |
 | My Daughter In Family Ai | 322996 | [322996-my-daughter-in-family-ai.json](./322996-my-daughter-in-family-ai.json) |
 | My Day Challenge | 341348 | [341348-my-day-challenge.json](./341348-my-day-challenge.json) |
@@ -16094,6 +16099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sweet! Housemate | 330596 | [330596-my-sweet-housemate.json](./330596-my-sweet-housemate.json) |
 | My Swordsman | 230899 | [230899-my-swordsman.json](./230899-my-swordsman.json) |
 | My Talking Angela | 87017 | [87017-my-talking-angela.json](./87017-my-talking-angela.json) |
+| My Talking Angela 2 | 188295 | [188295-my-talking-angela-2.json](./188295-my-talking-angela-2.json) |
 | My Talking Angela 2+ | 291985 | [291985-my-talking-angela-2.json](./291985-my-talking-angela-2.json) |
 | My Talking Cat Lily | 257255 | [257255-my-talking-cat-lily.json](./257255-my-talking-cat-lily.json) |
 | My Talking Dog 2 | 269099 | [269099-my-talking-dog-2.json](./269099-my-talking-dog-2.json) |
