@@ -4257,6 +4257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nishijin Pachinko Tengoku EX | 387123 | [387123-nishijin-pachinko-tengoku-ex.json](./387123-nishijin-pachinko-tengoku-ex.json) |
 | Nishimura Kyoutarou Mystery: Blue Train Satsujin Jiken | 48802 | [48802-nishimura-kyoutarou-mystery-blue-train-satsujin-jiken.json](./48802-nishimura-kyoutarou-mystery-blue-train-satsujin-jiken.json) |
 | Nishimura Kyoutarou Mystery: Super Express Satsujin Jiken | 48801 | [48801-nishimura-kyoutarou-mystery-super-express-satsujin-jiken.json](./48801-nishimura-kyoutarou-mystery-super-express-satsujin-jiken.json) |
+| Nishimura Kyoutarou Travel Mystery: Akugyaku no Kisetsu | 198691 | [198691-nishimura-kyoutarou-travel-mystery-akugyaku-no-kisetsu.json](./198691-nishimura-kyoutarou-travel-mystery-akugyaku-no-kisetsu.json) |
 | Nissan Presents Over Drivin' GT-R | 45454 | [45454-nissan-presents-over-drivin-gt-r.json](./45454-nissan-presents-over-drivin-gt-r.json) |
 | Nissan Presents: Over Drivin' Skyline Memorial | 200009 | [200009-nissan-presents-over-drivin-skyline-memorial.json](./200009-nissan-presents-over-drivin-skyline-memorial.json) |
 | Nissebanden i Grønland | 288107 | [288107-nissebanden-i-gr-nland.json](./288107-nissebanden-i-gr-nland.json) |
@@ -4513,6 +4514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Plumbing Required | 58506 | [58506-no-plumbing-required.json](./58506-no-plumbing-required.json) |
 | No Pressure: Hive War | 274961 | [274961-no-pressure-hive-war.json](./274961-no-pressure-hive-war.json) |
 | No Prey, No Pay | 176458 | [176458-no-prey-no-pay.json](./176458-no-prey-no-pay.json) |
+| No Prince Needed | 198687 | [198687-no-prince-needed.json](./198687-no-prince-needed.json) |
 | No Prospect Company | 99087 | [99087-no-prospect-company.json](./99087-no-prospect-company.json) |
 | No Random Novels | 226127 | [226127-no-random-novels.json](./226127-no-random-novels.json) |
 | No Reality | 130307 | [130307-no-reality.json](./130307-no-reality.json) |
