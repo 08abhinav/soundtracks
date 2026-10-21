@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachi-Slot Aruze Oukoku Pocket: Dekahel | 56737 | [56737-pachi-slot-aruze-oukoku-pocket-dekahel.json](./56737-pachi-slot-aruze-oukoku-pocket-dekahel.json) |
 | Pachi-Slot Gambler | 42238 | [42238-pachi-slot-gambler.json](./42238-pachi-slot-gambler.json) |
 | Pachi-Slot Higurashi no Naku Koro ni Matsuri | 263021 | [263021-pachi-slot-higurashi-no-naku-koro-ni-matsuri.json](./263021-pachi-slot-higurashi-no-naku-koro-ni-matsuri.json) |
+| Pachi-Slot Kanzen Kouryaku Uni-Colle'97 | 176134 | [176134-pachi-slot-kanzen-kouryaku-uni-colle97.json](./176134-pachi-slot-kanzen-kouryaku-uni-colle97.json) |
 | Pachi-Slot Kanzen Kouryaku: Universal Shindai Nyuuka Volume 1 | 66960 | [66960-pachi-slot-kanzen-kouryaku-universal-shindai-nyuuka-volume-1.json](./66960-pachi-slot-kanzen-kouryaku-universal-shindai-nyuuka-volume-1.json) |
 | Pachi-Slot Kenkyuu | 37900 | [37900-pachi-slot-kenkyuu.json](./37900-pachi-slot-kenkyuu.json) |
 | Pachi-Slot Land: Pachi-pachi Coin no Densetsu | 37899 | [37899-pachi-slot-land-pachi-pachi-coin-no-densetsu.json](./37899-pachi-slot-land-pachi-pachi-coin-no-densetsu.json) |
@@ -6015,6 +6016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pivot of Hearts | 191165 | [191165-pivot-of-hearts.json](./191165-pivot-of-hearts.json) |
 | Pivot Puzzles | 65780 | [65780-pivot-puzzles.json](./65780-pivot-puzzles.json) |
 | Pivot XL | 99426 | [99426-pivot-xl.json](./99426-pivot-xl.json) |
+| Pivotal | 176151 | [176151-pivotal.json](./176151-pivotal.json) |
 | Pivoting People | 105942 | [105942-pivoting-people.json](./105942-pivoting-people.json) |
 | Pivross | 96125 | [96125-pivross.json](./96125-pivross.json) |
 | Piwall | 81939 | [81939-piwall.json](./81939-piwall.json) |
@@ -11510,6 +11512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Fishing Challenge | 78688 | [78688-pro-fishing-challenge.json](./78688-pro-fishing-challenge.json) |
 | Pro Fishing Simulator | 111579 | [111579-pro-fishing-simulator.json](./111579-pro-fishing-simulator.json) |
 | Pro Fishing Simulator: Predator Edition | 115022 | [115022-pro-fishing-simulator-predator-edition.json](./115022-pro-fishing-simulator-predator-edition.json) |
+| Pro Flight Simulator | 176146 | [176146-pro-flight-simulator.json](./176146-pro-flight-simulator.json) |
 | Pro Flight Simulator | 322410 | [322410-pro-flight-simulator.json](./322410-pro-flight-simulator.json) |
 | Pro Flight Simulator New York Premium Edition | 88363 | [88363-pro-flight-simulator-new-york-premium-edition.json](./88363-pro-flight-simulator-new-york-premium-edition.json) |
 | Pro Flight Simulator: Deluxe | 324128 | [324128-pro-flight-simulator-deluxe.json](./324128-pro-flight-simulator-deluxe.json) |
