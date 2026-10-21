@@ -7603,6 +7603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guacomole | 234104 | [234104-guacomole.json](./234104-guacomole.json) |
 | Guadalcanal | 53162 | [53162-guadalcanal.json](./53162-guadalcanal.json) |
 | Guadalcanal Campaign | 23992 | [23992-guadalcanal-campaign.json](./23992-guadalcanal-campaign.json) |
+| Guaishou | 177228 | [177228-guaishou.json](./177228-guaishou.json) |
 | Guàishòu | 277970 | [277970-guaishou.json](./277970-guaishou.json) |
 | Guānyú Sīmén Shì de Yīxiē Chuányán | 397690 | [397690-guanyu-simen-shi-de-yixie-chuanyan.json](./397690-guanyu-simen-shi-de-yixie-chuanyan.json) |
 | Guānyú Wǒ Bèi Xuéjiě Jiǎn Huí Jiā Dāng Nǚyǒu Zhè Jiàn Shì | 397226 | [397226-guanyu-wo-bei-xuejie-jian-hui-jia-dang-nuyou-zhe-jian-shi.json](./397226-guanyu-wo-bei-xuejie-jian-hui-jia-dang-nuyou-zhe-jian-shi.json) |
