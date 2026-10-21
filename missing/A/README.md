@@ -2749,6 +2749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Julia | 176317 | [176317-adventures-of-julia.json](./176317-adventures-of-julia.json) |
 | Adventures of Keith Night: After a Shadow | 73733 | [73733-adventures-of-keith-night-after-a-shadow.json](./73733-adventures-of-keith-night-after-a-shadow.json) |
 | Adventures of Kok | 55367 | [55367-adventures-of-kok.json](./55367-adventures-of-kok.json) |
+| Adventures of Lolo | 191467 | [191467-adventures-of-lolo.json](./191467-adventures-of-lolo.json) |
 | Adventures of Lolo 2 | 6472 | [6472-adventures-of-lolo-2.json](./6472-adventures-of-lolo-2.json) |
 | Adventures of Lolo 3 | 7547 | [7547-adventures-of-lolo-3.json](./7547-adventures-of-lolo-3.json) |
 | Adventures of Maddog Williams in the Dungeons of Duridian | 50500 | [50500-adventures-of-maddog-williams-in-the-dungeons-of-duridian.json](./50500-adventures-of-maddog-williams-in-the-dungeons-of-duridian.json) |
@@ -3197,6 +3198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterglow: A New World Rising | 272126 | [272126-afterglow-a-new-world-rising.json](./272126-afterglow-a-new-world-rising.json) |
 | Aftergreen | 416832 | [416832-aftergreen.json](./416832-aftergreen.json) |
 | Aftergrinder | 28900 | [28900-aftergrinder.json](./28900-aftergrinder.json) |
+| AfterHours | 191628 | [191628-afterhours.json](./191628-afterhours.json) |
 | Afterimage: Deluxe Edition | 234215 | [234215-afterimage-deluxe-edition.json](./234215-afterimage-deluxe-edition.json) |
 | Afterinfection | 153013 | [153013-afterinfection.json](./153013-afterinfection.json) |
 | Afterlands | 268893 | [268893-afterlands.json](./268893-afterlands.json) |
@@ -6051,6 +6053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaura on the High Seas | 238364 | [238364-amaura-on-the-high-seas.json](./238364-amaura-on-the-high-seas.json) |
 | Amaya's Lost Soul | 213982 | [213982-amayas-lost-soul.json](./213982-amayas-lost-soul.json) |
 | Amayakashi na Kanojo: Boseiteki na Ayakashi Musume to Ama Ero Seikatsu Hajimemasu | 194578 | [194578-amayakashi-na-kanojo-boseiteki-na-ayakashi-musume-to-ama-ero-seikatsu-hajimemasu.json](./194578-amayakashi-na-kanojo-boseiteki-na-ayakashi-musume-to-ama-ero-seikatsu-hajimemasu.json) |
+| Amayui Labyrinth Meister | 191634 | [191634-amayui-labyrinth-meister.json](./191634-amayui-labyrinth-meister.json) |
 | Amaz'd | 367747 | [367747-amazd.json](./367747-amazd.json) |
 | Amaze | 29235 | [29235-amaze.json](./29235-amaze.json) |
 | Amaze 2 | 36472 | [36472-amaze-2.json](./36472-amaze-2.json) |
