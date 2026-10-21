@@ -8185,6 +8185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hound of Shadow | 12147 | [12147-the-hound-of-shadow.json](./12147-the-hound-of-shadow.json) |
 | The Hour Has Come | 110951 | [110951-the-hour-has-come.json](./110951-the-hour-has-come.json) |
 | The House | 17440 | [17440-the-house.json](./17440-the-house.json) |
+| The House | 195921 | [195921-the-house.json](./195921-the-house.json) |
 | The House | 240315 | [240315-the-house.json](./240315-the-house.json) |
 | The House | 352303 | [352303-the-house.json](./352303-the-house.json) |
 | The House 2 | 249610 | [249610-the-house-2.json](./249610-the-house-2.json) |
@@ -9871,6 +9872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lion King II: Simba's Pride: Special Edition - Timon And Pumbaa’s Virtual Safari 2.0: Prideland Pachiderm Safari | 325090 | [325090-the-lion-king-ii-simbas-pride-special-edition-timon-and-pumbaa-s-virtual-safari-2-0-prideland-pachiderm-safari.json](./325090-the-lion-king-ii-simbas-pride-special-edition-timon-and-pumbaa-s-virtual-safari-2-0-prideland-pachiderm-safari.json) |
 | The Lion King Legeng | 203655 | [203655-the-lion-king-legeng.json](./203655-the-lion-king-legeng.json) |
 | The Lion King V: Timon & Pumbaa | 203657 | [203657-the-lion-king-v-timon-and-pumbaa.json](./203657-the-lion-king-v-timon-and-pumbaa.json) |
+| The Lion King: Legacy Cartridge Collection | 195932 | [195932-the-lion-king-legacy-cartridge-collection.json](./195932-the-lion-king-legacy-cartridge-collection.json) |
 | The Lion King: Platinum Edition - Timon And Pumbaa’s Virtual Safari Boat Tour | 325093 | [325093-the-lion-king-platinum-edition-timon-and-pumbaa-s-virtual-safari-boat-tour.json](./325093-the-lion-king-platinum-edition-timon-and-pumbaa-s-virtual-safari-boat-tour.json) |
 | The Lion King: Platinum Edition - Timon And Pumbaa’s Virtual Safari Jeep Tour | 325092 | [325092-the-lion-king-platinum-edition-timon-and-pumbaa-s-virtual-safari-jeep-tour.json](./325092-the-lion-king-platinum-edition-timon-and-pumbaa-s-virtual-safari-jeep-tour.json) |
 | The Lion King: Timon & Pumbaa | 217955 | [217955-the-lion-king-timon-and-pumbaa.json](./217955-the-lion-king-timon-and-pumbaa.json) |
@@ -10636,6 +10638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Most Beautiful Room in the World | 273413 | [273413-the-most-beautiful-room-in-the-world.json](./273413-the-most-beautiful-room-in-the-world.json) |
 | The Most Boring Game Ever | 150751 | [150751-the-most-boring-game-ever.json](./150751-the-most-boring-game-ever.json) |
 | The Most Boring Life Ever | 161758 | [161758-the-most-boring-life-ever.json](./161758-the-most-boring-life-ever.json) |
+| The Most Boring Life Ever 2: Work From Home | 195924 | [195924-the-most-boring-life-ever-2-work-from-home.json](./195924-the-most-boring-life-ever-2-work-from-home.json) |
 | The Most Challenging Game | 81683 | [81683-the-most-challenging-game.json](./81683-the-most-challenging-game.json) |
 | The Most Desperate Angel | 205672 | [205672-the-most-desperate-angel.json](./205672-the-most-desperate-angel.json) |
 | The Most Difficult Ball Game | 387617 | [387617-the-most-difficult-ball-game.json](./387617-the-most-difficult-ball-game.json) |
@@ -11536,6 +11539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Psychedelic Quest | 177451 | [177451-the-psychedelic-quest.json](./177451-the-psychedelic-quest.json) |
 | The Psychiatrist: Major Depression | 115530 | [115530-the-psychiatrist-major-depression.json](./115530-the-psychiatrist-major-depression.json) |
 | The Psychic | 106491 | [106491-the-psychic.json](./106491-the-psychic.json) |
+| The Psychoduck | 195913 | [195913-the-psychoduck.json](./195913-the-psychoduck.json) |
 | The Psychologist | 319934 | [319934-the-psychologist.json](./319934-the-psychologist.json) |
 | The Psychotron | 72061 | [72061-the-psychotron.json](./72061-the-psychotron.json) |
 | The PTSD Mod | 312622 | [312622-the-ptsd-mod.json](./312622-the-ptsd-mod.json) |
@@ -14588,6 +14592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wonder Sword | 327585 | [327585-the-wonder-sword.json](./327585-the-wonder-sword.json) |
 | The Wonderful 101 | 264890 | [264890-the-wonderful-101.json](./264890-the-wonderful-101.json) |
 | The Wonderful 101: Remastered | 129240 | [129240-the-wonderful-101-remastered.json](./129240-the-wonderful-101-remastered.json) |
+| The Wonderful 101: Remastered - The Prince Vorkken | 196065 | [196065-the-wonderful-101-remastered-the-prince-vorkken.json](./196065-the-wonderful-101-remastered-the-prince-vorkken.json) |
 | The Wonderful 101: Remastered - The Wonderful One: After School Hero - Part 1 | 250349 | [250349-the-wonderful-101-remastered-the-wonderful-one-after-school-hero-part-1.json](./250349-the-wonderful-101-remastered-the-wonderful-one-after-school-hero-part-1.json) |
 | The Wonderful 101: Remastered - The Wonderful One: After School Hero - Part 2 | 251116 | [251116-the-wonderful-101-remastered-the-wonderful-one-after-school-hero-part-2.json](./251116-the-wonderful-101-remastered-the-wonderful-one-after-school-hero-part-2.json) |
 | The Wonderful Adventures of Sip | 235803 | [235803-the-wonderful-adventures-of-sip.json](./235803-the-wonderful-adventures-of-sip.json) |
