@@ -967,6 +967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Will Thank Me as Fast as You Thank a Werewolf | 139305 | [139305-you-will-thank-me-as-fast-as-you-thank-a-werewolf.json](./139305-you-will-thank-me-as-fast-as-you-thank-a-werewolf.json) |
 | You Will Travel No More | 177825 | [177825-you-will-travel-no-more.json](./177825-you-will-travel-no-more.json) |
 | You You N Music | 159800 | [159800-you-you-n-music.json](./159800-you-you-n-music.json) |
+| You, A Man, and A Knife | 183245 | [183245-you-a-man-and-a-knife.json](./183245-you-a-man-and-a-knife.json) |
 | You, Calligrapher | 148448 | [148448-you-calligrapher.json](./148448-you-calligrapher.json) |
 | You, Error. | 390716 | [390716-you-error.json](./390716-you-error.json) |
 | You, Me and Empty Words | 150153 | [150153-you-me-and-empty-words.json](./150153-you-me-and-empty-words.json) |
