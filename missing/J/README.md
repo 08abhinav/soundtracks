@@ -522,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Janusz: The Handyman Simulator | 163404 | [163404-janusz-the-handyman-simulator.json](./163404-janusz-the-handyman-simulator.json) |
 | Janyuuki Goku Randa | 44409 | [44409-janyuuki-goku-randa.json](./44409-janyuuki-goku-randa.json) |
 | Japan Food Adventure - Tokyo | 100316 | [100316-japan-food-adventure-tokyo.json](./100316-japan-food-adventure-tokyo.json) |
+| Japan Food Adventure HD | 174576 | [174576-japan-food-adventure-hd.json](./174576-japan-food-adventure-hd.json) |
 | Japan Mahjong | 334660 | [334660-japan-mahjong.json](./334660-japan-mahjong.json) |
 | Japan Stigmatized Property | 357171 | [357171-japan-stigmatized-property.json](./357171-japan-stigmatized-property.json) |
 | Japan Stigmatized Property 2 | 382003 | [382003-japan-stigmatized-property-2.json](./382003-japan-stigmatized-property-2.json) |
@@ -1078,6 +1079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Coloring | 401156 | [401156-jewel-coloring.json](./401156-jewel-coloring.json) |
 | Jewel Craft | 209996 | [209996-jewel-craft.json](./209996-jewel-craft.json) |
 | Jewel Craft Fusion | 277323 | [277323-jewel-craft-fusion.json](./277323-jewel-craft-fusion.json) |
+| Jewel Craft HD | 175601 | [175601-jewel-craft-hd.json](./175601-jewel-craft-hd.json) |
 | Jewel Crush | 233434 | [233434-jewel-crush.json](./233434-jewel-crush.json) |
 | Jewel Defender | 230747 | [230747-jewel-defender.json](./230747-jewel-defender.json) |
 | Jewel Diamonds | 215396 | [215396-jewel-diamonds.json](./215396-jewel-diamonds.json) |
@@ -2473,6 +2475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Bug | 25696 | [25696-jump-bug.json](./25696-jump-bug.json) |
 | Jump Burger | 292003 | [292003-jump-burger.json](./292003-jump-burger.json) |
 | Jump Coaster | 40051 | [40051-jump-coaster.json](./40051-jump-coaster.json) |
+| Jump Doll Super | 175562 | [175562-jump-doll-super.json](./175562-jump-doll-super.json) |
 | Jump Doper | 114863 | [114863-jump-doper.json](./114863-jump-doper.json) |
 | Jump Duck | 407306 | [407306-jump-duck.json](./407306-jump-duck.json) |
 | Jump Force: Character Pack 10 - Shoto Todoroki | 167770 | [167770-jump-force-character-pack-10-shoto-todoroki.json](./167770-jump-force-character-pack-10-shoto-todoroki.json) |
