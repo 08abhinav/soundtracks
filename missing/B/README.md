@@ -7457,6 +7457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasting Bad | 326112 | [326112-blasting-bad.json](./326112-blasting-bad.json) |
 | Blasting Courier | 181047 | [181047-blasting-courier.json](./181047-blasting-courier.json) |
 | BlastLast | 310263 | [310263-blastlast.json](./310263-blastlast.json) |
+| BlastMania | 201458 | [201458-blastmania.json](./201458-blastmania.json) |
 | BlastMorph: Pinball | 372572 | [372572-blastmorph-pinball.json](./372572-blastmorph-pinball.json) |
 | Blasto | 377825 | [377825-blasto.json](./377825-blasto.json) |
 | Blasto | 86213 | [86213-blasto.json](./86213-blasto.json) |
@@ -7653,6 +7654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleu | 187169 | [187169-bleu.json](./187169-bleu.json) |
 | Bleu Bayou | 349836 | [349836-bleu-bayou.json](./349836-bleu-bayou.json) |
 | Blewie | 157482 | [157482-blewie.json](./157482-blewie.json) |
+| Blickel | 201450 | [201450-blickel.json](./201450-blickel.json) |
 | Blight | 211161 | [211161-blight.json](./211161-blight.json) |
 | Blight Bubbles | 260289 | [260289-blight-bubbles.json](./260289-blight-bubbles.json) |
 | Blight Doctors | 415867 | [415867-blight-doctors.json](./415867-blight-doctors.json) |
