@@ -2342,10 +2342,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCKO | 410955 | [410955-dcko.json](./410955-dcko.json) |
 | DCop | 270117 | [270117-dcop.json](./270117-dcop.json) |
 | DCR: Drive.Crash.Repeat | 108296 | [108296-dcr-drive-crash-repeat.json](./108296-dcr-drive-crash-repeat.json) |
+| DCS World: A-10C II Iron Flag Part 1 Campaign | 195416 | [195416-dcs-world-a-10c-ii-iron-flag-part-1-campaign.json](./195416-dcs-world-a-10c-ii-iron-flag-part-1-campaign.json) |
 | DCS World: A-10C Operation Agile Spear Campaign by Combat King Simulations | 325720 | [325720-dcs-world-a-10c-operation-agile-spear-campaign-by-combat-king-simulations.json](./325720-dcs-world-a-10c-operation-agile-spear-campaign-by-combat-king-simulations.json) |
 | DCS World: Afghanistan | 332795 | [332795-dcs-world-afghanistan.json](./332795-dcs-world-afghanistan.json) |
+| DCS World: AH-64D | 195402 | [195402-dcs-world-ah-64d.json](./195402-dcs-world-ah-64d.json) |
 | DCS World: AH-64D Outpost Campaign by Stone Sky | 324898 | [324898-dcs-world-ah-64d-outpost-campaign-by-stone-sky.json](./324898-dcs-world-ah-64d-outpost-campaign-by-stone-sky.json) |
 | DCS World: AH-64D The Four Horsemen Campaign by Fight's On Simulations | 325110 | [325110-dcs-world-ah-64d-the-four-horsemen-campaign-by-fights-on-simulations.json](./325110-dcs-world-ah-64d-the-four-horsemen-campaign-by-fights-on-simulations.json) |
+| DCS World: AV-8B Hormuz Freedom Campaign by SorelRo | 195401 | [195401-dcs-world-av-8b-hormuz-freedom-campaign-by-sorelro.json](./195401-dcs-world-av-8b-hormuz-freedom-campaign-by-sorelro.json) |
 | DCS World: AV-8B Kerman Campaign by Ground Pounder Sims | 325249 | [325249-dcs-world-av-8b-kerman-campaign-by-ground-pounder-sims.json](./325249-dcs-world-av-8b-kerman-campaign-by-ground-pounder-sims.json) |
 | DCS World: Black Shark 3 | 324663 | [324663-dcs-world-black-shark-3.json](./324663-dcs-world-black-shark-3.json) |
 | DCS World: C-130J | 408108 | [408108-dcs-world-c-130j.json](./408108-dcs-world-c-130j.json) |
@@ -2367,6 +2370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: F/A-18C - Aggressors BFM Campaign | 169958 | [169958-dcs-world-f-a-18c-aggressors-bfm-campaign.json](./169958-dcs-world-f-a-18c-aggressors-bfm-campaign.json) |
 | DCS World: F/A-18C Arctic Thunder Campaign | 324732 | [324732-dcs-world-f-a-18c-arctic-thunder-campaign.json](./324732-dcs-world-f-a-18c-arctic-thunder-campaign.json) |
 | DCS World: F/A-18C Inherent Resolve Campaign by Looking Glass | 325248 | [325248-dcs-world-f-a-18c-inherent-resolve-campaign-by-looking-glass.json](./325248-dcs-world-f-a-18c-inherent-resolve-campaign-by-looking-glass.json) |
+| DCS World: F/A-18C Operation Cerberus North by Ground Pounder Sims | 195399 | [195399-dcs-world-f-a-18c-operation-cerberus-north-by-ground-pounder-sims.json](./195399-dcs-world-f-a-18c-operation-cerberus-north-by-ground-pounder-sims.json) |
 | DCS World: F/A-18C Operation Mountain Breeze by Sandman Simulations | 316379 | [316379-dcs-world-f-a-18c-operation-mountain-breeze-by-sandman-simulations.json](./316379-dcs-world-f-a-18c-operation-mountain-breeze-by-sandman-simulations.json) |
 | DCS World: F/A-18C Rise of the Persian Lion Campaign | 162862 | [162862-dcs-world-f-a-18c-rise-of-the-persian-lion-campaign.json](./162862-dcs-world-f-a-18c-rise-of-the-persian-lion-campaign.json) |
 | DCS World: F/A-18C Rise of the Persian Lion II Campaign by Badger 633 | 325538 | [325538-dcs-world-f-a-18c-rise-of-the-persian-lion-ii-campaign-by-badger-633.json](./325538-dcs-world-f-a-18c-rise-of-the-persian-lion-ii-campaign-by-badger-633.json) |
@@ -2379,16 +2383,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: La-7 by OctopusG | 408111 | [408111-dcs-world-la-7-by-octopusg.json](./408111-dcs-world-la-7-by-octopusg.json) |
 | DCS World: MAD AH-64D Campaign by Stone Sky | 325533 | [325533-dcs-world-mad-ah-64d-campaign-by-stone-sky.json](./325533-dcs-world-mad-ah-64d-campaign-by-stone-sky.json) |
 | DCS World: MAD Black Shark Campaign by Stone Sky | 273000 | [273000-dcs-world-mad-black-shark-campaign-by-stone-sky.json](./273000-dcs-world-mad-black-shark-campaign-by-stone-sky.json) |
+| DCS World: MAD Campaign by Stone Sky | 195400 | [195400-dcs-world-mad-campaign-by-stone-sky.json](./195400-dcs-world-mad-campaign-by-stone-sky.json) |
 | DCS World: MAD JF-17 Thunder Campaign by Stone Sky | 325540 | [325540-dcs-world-mad-jf-17-thunder-campaign-by-stone-sky.json](./325540-dcs-world-mad-jf-17-thunder-campaign-by-stone-sky.json) |
 | DCS World: Marianas | 162859 | [162859-dcs-world-marianas.json](./162859-dcs-world-marianas.json) |
 | DCS World: Marianas WWII Map | 408127 | [408127-dcs-world-marianas-wwii-map.json](./408127-dcs-world-marianas-wwii-map.json) |
 | DCS World: Mi-8MTV2 and Ka-50: Memory of a Hero Campaign by Stone Sky | 325910 | [325910-dcs-world-mi-8mtv2-and-ka-50-memory-of-a-hero-campaign-by-stone-sky.json](./325910-dcs-world-mi-8mtv2-and-ka-50-memory-of-a-hero-campaign-by-stone-sky.json) |
+| DCS World: MiG-21bis Battle of Krasnodar Campaign | 195404 | [195404-dcs-world-mig-21bis-battle-of-krasnodar-campaign.json](./195404-dcs-world-mig-21bis-battle-of-krasnodar-campaign.json) |
 | DCS World: MiG-21bis Constant Peg Campaign by Bunyap Campaigns | 325721 | [325721-dcs-world-mig-21bis-constant-peg-campaign-by-bunyap-campaigns.json](./325721-dcs-world-mig-21bis-constant-peg-campaign-by-bunyap-campaigns.json) |
 | DCS World: MiG-29 | 162861 | [162861-dcs-world-mig-29.json](./162861-dcs-world-mig-29.json) |
 | DCS World: Mosquito FB VI - V for Victory Campaign by Reflected Simulations | 325251 | [325251-dcs-world-mosquito-fb-vi-v-for-victory-campaign-by-reflected-simulations.json](./325251-dcs-world-mosquito-fb-vi-v-for-victory-campaign-by-reflected-simulations.json) |
 | DCS World: Mosquito FB VI Freeman's Folly Campaign by SUNTS Simulations | 408214 | [408214-dcs-world-mosquito-fb-vi-freemans-folly-campaign-by-sunts-simulations.json](./408214-dcs-world-mosquito-fb-vi-freemans-folly-campaign-by-sunts-simulations.json) |
 | DCS World: Normandy 2.0 | 323965 | [323965-dcs-world-normandy-2-0.json](./323965-dcs-world-normandy-2-0.json) |
 | DCS World: NS 430 Navigation System for C-101EB by Eagle Dynamics, Aerges | 325911 | [325911-dcs-world-ns-430-navigation-system-for-c-101eb-by-eagle-dynamics-aerges.json](./325911-dcs-world-ns-430-navigation-system-for-c-101eb-by-eagle-dynamics-aerges.json) |
+| DCS World: NS 430 Navigation System for C-101СС | 195415 | [195415-dcs-world-ns-430-navigation-system-for-c-101.json](./195415-dcs-world-ns-430-navigation-system-for-c-101.json) |
 | DCS World: NS 430 Navigation System for Mi-8MTV2 Cockpit | 325912 | [325912-dcs-world-ns-430-navigation-system-for-mi-8mtv2-cockpit.json](./325912-dcs-world-ns-430-navigation-system-for-mi-8mtv2-cockpit.json) |
 | DCS World: NS 430 Navigation System for MiG-29A Cockpit | 408109 | [408109-dcs-world-ns-430-navigation-system-for-mig-29a-cockpit.json](./408109-dcs-world-ns-430-navigation-system-for-mig-29a-cockpit.json) |
 | DCS World: OH-58D Kiowa Warrior | 304372 | [304372-dcs-world-oh-58d-kiowa-warrior.json](./304372-dcs-world-oh-58d-kiowa-warrior.json) |
@@ -2398,6 +2405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: Su-27 | 162867 | [162867-dcs-world-su-27.json](./162867-dcs-world-su-27.json) |
 | DCS World: Su-33 | 162866 | [162866-dcs-world-su-33.json](./162866-dcs-world-su-33.json) |
 | DCS World: The Museum Relic Campaign | 162856 | [162856-dcs-world-the-museum-relic-campaign.json](./162856-dcs-world-the-museum-relic-campaign.json) |
+| DCS World: UH-1H Paradise Lost Campaign | 195403 | [195403-dcs-world-uh-1h-paradise-lost-campaign.json](./195403-dcs-world-uh-1h-paradise-lost-campaign.json) |
 | DCS World: UH-1H Peacekeeper Lebanon Campaign by Flying Cyking | 324908 | [324908-dcs-world-uh-1h-peacekeeper-lebanon-campaign-by-flying-cyking.json](./324908-dcs-world-uh-1h-peacekeeper-lebanon-campaign-by-flying-cyking.json) |
 | DCS World: UH-1H The Huey Last Show Campaign by SorelRo | 257864 | [257864-dcs-world-uh-1h-the-huey-last-show-campaign-by-sorelro.json](./257864-dcs-world-uh-1h-the-huey-last-show-campaign-by-sorelro.json) |
 | DCS World: UH-1H Worlds Apart Stormfront Campaign by Low-Level-Heaven Mission Development | 325096 | [325096-dcs-world-uh-1h-worlds-apart-stormfront-campaign-by-low-level-heaven-mission-development.json](./325096-dcs-world-uh-1h-worlds-apart-stormfront-campaign-by-low-level-heaven-mission-development.json) |
@@ -2652,6 +2660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Humanity | 269034 | [269034-dead-humanity.json](./269034-dead-humanity.json) |
 | Dead Hungry Diner | 8442 | [8442-dead-hungry-diner.json](./8442-dead-hungry-diner.json) |
 | Dead Hunter | 119760 | [119760-dead-hunter.json](./119760-dead-hunter.json) |
+| Dead Ice | 195544 | [195544-dead-ice.json](./195544-dead-ice.json) |
 | Dead In Antares | 334669 | [334669-dead-in-antares.json](./334669-dead-in-antares.json) |
 | Dead In Bermuda | 18440 | [18440-dead-in-bermuda.json](./18440-dead-in-bermuda.json) |
 | Dead in Time | 103453 | [103453-dead-in-time.json](./103453-dead-in-time.json) |
@@ -10456,6 +10465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down n' Up | 207564 | [207564-down-n-up.json](./207564-down-n-up.json) |
 | Down Pit | 412348 | [412348-down-pit.json](./412348-down-pit.json) |
 | Down the Darkest Pit | 381953 | [381953-down-the-darkest-pit.json](./381953-down-the-darkest-pit.json) |
+| Down The Dead | 195392 | [195392-down-the-dead.json](./195392-down-the-dead.json) |
 | Down the Drain | 256830 | [256830-down-the-drain.json](./256830-down-the-drain.json) |
 | Down the Dungeon | 393545 | [393545-down-the-dungeon.json](./393545-down-the-dungeon.json) |
 | Down the Hill! | 259239 | [259239-down-the-hill.json](./259239-down-the-hill.json) |
