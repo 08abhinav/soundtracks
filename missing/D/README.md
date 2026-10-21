@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daily Chthonicle | 57103 | [57103-daily-chthonicle.json](./57103-daily-chthonicle.json) |
 | Daily Dadish | 233003 | [233003-daily-dadish.json](./233003-daily-dadish.json) |
 | Daily Driven Racer | 334474 | [334474-daily-driven-racer.json](./334474-daily-driven-racer.json) |
+| Daily Dungeon | 198690 | [198690-daily-dungeon.json](./198690-daily-dungeon.json) |
 | Daily Dungeon Club | 216714 | [216714-daily-dungeon-club.json](./216714-daily-dungeon-club.json) |
 | Daily Espada | 34690 | [34690-daily-espada.json](./34690-daily-espada.json) |
 | Daily Mah Jong | 95663 | [95663-daily-mah-jong.json](./95663-daily-mah-jong.json) |
@@ -420,6 +421,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daldzah | 277978 | [277978-daldzah.json](./277978-daldzah.json) |
 | Dale & Dawson Stationery Supplies | 296326 | [296326-dale-and-dawson-stationery-supplies.json](./296326-dale-and-dawson-stationery-supplies.json) |
 | Dale and Peakot | 270736 | [270736-dale-and-peakot.json](./270736-dale-and-peakot.json) |
+| Dale Earnhardt Winner's Circle | 198718 | [198718-dale-earnhardt-winners-circle.json](./198718-dale-earnhardt-winners-circle.json) |
+| Dale Earnhardt Winner's Circle: Pacesetter Games | 198719 | [198719-dale-earnhardt-winners-circle-pacesetter-games.json](./198719-dale-earnhardt-winners-circle-pacesetter-games.json) |
 | Dalek Attack | 12029 | [12029-dalek-attack.json](./12029-dalek-attack.json) |
 | Dalek Mod | 232664 | [232664-dalek-mod.json](./232664-dalek-mod.json) |
 | Dalek: Dissolution Earth | 239580 | [239580-dalek-dissolution-earth.json](./239580-dalek-dissolution-earth.json) |
@@ -502,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dan Kitchen's Tomcat: The F-14 Fighter Simulator | 12344 | [12344-dan-kitchens-tomcat-the-f-14-fighter-simulator.json](./12344-dan-kitchens-tomcat-the-f-14-fighter-simulator.json) |
 | Dan Laser | 334676 | [334676-dan-laser.json](./334676-dan-laser.json) |
 | Dan Marino's Powerplay Football | 408059 | [408059-dan-marinos-powerplay-football.json](./408059-dan-marinos-powerplay-football.json) |
+| Dan Marino's Quarterback Challenge | 198720 | [198720-dan-marinos-quarterback-challenge.json](./198720-dan-marinos-quarterback-challenge.json) |
 | Dan McFox: Head Hunter | 58667 | [58667-dan-mcfox-head-hunter.json](./58667-dan-mcfox-head-hunter.json) |
 | Dan Sisal's 501 Darts Trainer | 168305 | [168305-dan-sisals-501-darts-trainer.json](./168305-dan-sisals-501-darts-trainer.json) |
 | Dan the Inmortal | 211043 | [211043-dan-the-inmortal.json](./211043-dan-the-inmortal.json) |
@@ -4182,6 +4186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend Your Nuts 2 | 399466 | [399466-defend-your-nuts-2.json](./399466-defend-your-nuts-2.json) |
 | Defenda | 45350 | [45350-defenda.json](./45350-defenda.json) |
 | Defender | 150104 | [150104-defender.json](./150104-defender.json) |
+| Defender | 198721 | [198721-defender.json](./198721-defender.json) |
 | Defender | 228072 | [228072-defender.json](./228072-defender.json) |
 | Defender | 239136 | [239136-defender.json](./239136-defender.json) |
 | Defender | 278270 | [278270-defender.json](./278270-defender.json) |
@@ -4358,6 +4363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deiland: Pocket Planet | 145240 | [145240-deiland-pocket-planet.json](./145240-deiland-pocket-planet.json) |
 | Deimos Hotel | 382280 | [382280-deimos-hotel.json](./382280-deimos-hotel.json) |
 | Deimos' Endless Pursuit of Becoming Deimos: Part One | 307258 | [307258-deimos-endless-pursuit-of-becoming-deimos-part-one.json](./307258-deimos-endless-pursuit-of-becoming-deimos-part-one.json) |
+| Deion Sanders Baseball | 198722 | [198722-deion-sanders-baseball.json](./198722-deion-sanders-baseball.json) |
 | Deios II: Deidia | 26366 | [26366-deios-ii-deidia.json](./26366-deios-ii-deidia.json) |
 | Deirdre | 395695 | [395695-deirdre.json](./395695-deirdre.json) |
 | Deities Flush | 324113 | [324113-deities-flush.json](./324113-deities-flush.json) |
@@ -4994,6 +5000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dennis og Bellini: Rævestreger i Hønsegården | 91268 | [91268-dennis-og-bellini-r-vestreger-i-h-nsegarden.json](./91268-dennis-og-bellini-r-vestreger-i-h-nsegarden.json) |
 | Dennis og Bellini: Slapafnien | 91452 | [91452-dennis-og-bellini-slapafnien.json](./91452-dennis-og-bellini-slapafnien.json) |
 | Dennis og Bellini: Stridens Æble | 91451 | [91451-dennis-og-bellini-stridens-ble.json](./91451-dennis-og-bellini-stridens-ble.json) |
+| Dennis the Menace | 198723 | [198723-dennis-the-menace.json](./198723-dennis-the-menace.json) |
 | Dennis the Menace | 248767 | [248767-dennis-the-menace.json](./248767-dennis-the-menace.json) |
 | Dennis the Menace | 311314 | [311314-dennis-the-menace.json](./311314-dennis-the-menace.json) |
 | Dennis the Menace Redux | 219078 | [219078-dennis-the-menace-redux.json](./219078-dennis-the-menace-redux.json) |
@@ -6785,6 +6792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon World Vice | 339254 | [339254-digimon-world-vice.json](./339254-digimon-world-vice.json) |
 | Digimon World: Digital Card Battle | 186116 | [186116-digimon-world-digital-card-battle.json](./186116-digimon-world-digital-card-battle.json) |
 | Digimon World: Next Order | 225498 | [225498-digimon-world-next-order.json](./225498-digimon-world-next-order.json) |
+| Digimon Yolei and Hawkmon | 198725 | [198725-digimon-yolei-and-hawkmon.json](./198725-digimon-yolei-and-hawkmon.json) |
 | Digimon: Heroic Battle Spirit | 332590 | [332590-digimon-heroic-battle-spirit.json](./332590-digimon-heroic-battle-spirit.json) |
 | Digiquad | 301500 | [301500-digiquad.json](./301500-digiquad.json) |
 | Digit & Dash | 60255 | [60255-digit-and-dash.json](./60255-digit-and-dash.json) |
@@ -7222,6 +7230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur'us | 65584 | [65584-dinosaurus.json](./65584-dinosaurus.json) |
 | Dinosaurily | 242511 | [242511-dinosaurily.json](./242511-dinosaurily.json) |
 | Dinosaurium | 395865 | [395865-dinosaurium.json](./395865-dinosaurium.json) |
+| Dinosaurs | 198726 | [198726-dinosaurs.json](./198726-dinosaurs.json) |
 | Dinosaurs - Connect the Dots and Add Colors | 86725 | [86725-dinosaurs-connect-the-dots-and-add-colors.json](./86725-dinosaurs-connect-the-dots-and-add-colors.json) |
 | Dinosaurs A Prehistoric Adventure | 57128 | [57128-dinosaurs-a-prehistoric-adventure.json](./57128-dinosaurs-a-prehistoric-adventure.json) |
 | Dinosaurs and Animal Friends to the Rescue | 353999 | [353999-dinosaurs-and-animal-friends-to-the-rescue.json](./353999-dinosaurs-and-animal-friends-to-the-rescue.json) |
@@ -7817,6 +7826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Atlantis: The Lost Empire | 248625 | [248625-disneys-atlantis-the-lost-empire.json](./248625-disneys-atlantis-the-lost-empire.json) |
 | Disney's Atlantis: The Lost Empire | 9056 | [9056-disneys-atlantis-the-lost-empire.json](./9056-disneys-atlantis-the-lost-empire.json) |
 | Disney's Atlantis: The Lost Empire - Trial by Fire | 78004 | [78004-disneys-atlantis-the-lost-empire-trial-by-fire.json](./78004-disneys-atlantis-the-lost-empire-trial-by-fire.json) |
+| Disney's Beauty and the Beast | 198696 | [198696-disneys-beauty-and-the-beast.json](./198696-disneys-beauty-and-the-beast.json) |
 | Disney's Beauty and the Beast: A Board Game Adventure | 65583 | [65583-disneys-beauty-and-the-beast-a-board-game-adventure.json](./65583-disneys-beauty-and-the-beast-a-board-game-adventure.json) |
 | Disney's Beauty and the Beast: Belle's Quest | 46233 | [46233-disneys-beauty-and-the-beast-belles-quest.json](./46233-disneys-beauty-and-the-beast-belles-quest.json) |
 | Disney's Beauty and the Beast: LCD Wrist Game | 200503 | [200503-disneys-beauty-and-the-beast-lcd-wrist-game.json](./200503-disneys-beauty-and-the-beast-lcd-wrist-game.json) |
@@ -7828,6 +7838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Chicken Little | 248552 | [248552-disneys-chicken-little.json](./248552-disneys-chicken-little.json) |
 | Disney's Chicken Little: Ace in Action | 200995 | [200995-disneys-chicken-little-ace-in-action.json](./200995-disneys-chicken-little-ace-in-action.json) |
 | Disney's Chicken Little: Ace in Action | 20627 | [20627-disneys-chicken-little-ace-in-action.json](./20627-disneys-chicken-little-ace-in-action.json) |
+| Disney's Chip 'n Dale Rescue Rangers | 198717 | [198717-disneys-chip-n-dale-rescue-rangers.json](./198717-disneys-chip-n-dale-rescue-rangers.json) |
 | Disney's Chip 'n Dale Rescue Rangers: The Adventure in Nimnul's Castle | 78641 | [78641-disneys-chip-n-dale-rescue-rangers-the-adventure-in-nimnuls-castle.json](./78641-disneys-chip-n-dale-rescue-rangers-the-adventure-in-nimnuls-castle.json) |
 | Disney's Cinderella: Magical Dreams | 49376 | [49376-disneys-cinderella-magical-dreams.json](./49376-disneys-cinderella-magical-dreams.json) |
 | Disney's Classic Games | 205612 | [205612-disneys-classic-games.json](./205612-disneys-classic-games.json) |
@@ -7840,6 +7851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Donald Duck: Goin' Quackers | 53943 | [53943-disneys-donald-duck-goin-quackers.json](./53943-disneys-donald-duck-goin-quackers.json) |
 | Disney's Doug: Doug's Big Game | 49942 | [49942-disneys-doug-dougs-big-game.json](./49942-disneys-doug-dougs-big-game.json) |
 | Disney's DuckTales | 145268 | [145268-disneys-ducktales.json](./145268-disneys-ducktales.json) |
+| Disney's DuckTales | 198733 | [198733-disneys-ducktales.json](./198733-disneys-ducktales.json) |
 | Disney's DuckTales | 6487 | [6487-disneys-ducktales.json](./6487-disneys-ducktales.json) |
 | Disney's DuckTales 2 | 145272 | [145272-disneys-ducktales-2.json](./145272-disneys-ducktales-2.json) |
 | Disney's DuckTales 2 | 6488 | [6488-disneys-ducktales-2.json](./6488-disneys-ducktales-2.json) |
@@ -10217,6 +10229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Down | 368149 | [368149-double-down.json](./368149-double-down.json) |
 | Double Dragon | 138806 | [138806-double-dragon.json](./138806-double-dragon.json) |
 | Double Dragon | 175799 | [175799-double-dragon.json](./175799-double-dragon.json) |
+| Double Dragon | 198727 | [198727-double-dragon.json](./198727-double-dragon.json) |
 | Double Dragon | 200154 | [200154-double-dragon.json](./200154-double-dragon.json) |
 | Double Dragon | 201319 | [201319-double-dragon.json](./201319-double-dragon.json) |
 | Double Dragon | 201322 | [201322-double-dragon.json](./201322-double-dragon.json) |
@@ -10239,6 +10252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon & Kunio-kun: Retro Brawler Bundle | 147789 | [147789-double-dragon-and-kunio-kun-retro-brawler-bundle.json](./147789-double-dragon-and-kunio-kun-retro-brawler-bundle.json) |
 | Double Dragon 3: The Arcade Game | 46277 | [46277-double-dragon-3-the-arcade-game.json](./46277-double-dragon-3-the-arcade-game.json) |
 | Double Dragon 3: The Rosetta Stone | 10194 | [10194-double-dragon-3-the-rosetta-stone.json](./10194-double-dragon-3-the-rosetta-stone.json) |
+| Double Dragon 3: The Rosetta Stone | 198729 | [198729-double-dragon-3-the-rosetta-stone.json](./198729-double-dragon-3-the-rosetta-stone.json) |
 | Double Dragon 3: The Rosetta Stone | 281515 | [281515-double-dragon-3-the-rosetta-stone.json](./281515-double-dragon-3-the-rosetta-stone.json) |
 | Double Dragon 3: The Rosetta Stone | 281516 | [281516-double-dragon-3-the-rosetta-stone.json](./281516-double-dragon-3-the-rosetta-stone.json) |
 | Double Dragon 3: The Rosetta Stone | 281517 | [281517-double-dragon-3-the-rosetta-stone.json](./281517-double-dragon-3-the-rosetta-stone.json) |
@@ -10249,6 +10263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon Dodgeball | 374779 | [374779-double-dragon-dodgeball.json](./374779-double-dragon-dodgeball.json) |
 | Double Dragon II | 136134 | [136134-double-dragon-ii.json](./136134-double-dragon-ii.json) |
 | Double Dragon II SNES Port | 377224 | [377224-double-dragon-ii-snes-port.json](./377224-double-dragon-ii-snes-port.json) |
+| Double Dragon II: The Revenge | 198728 | [198728-double-dragon-ii-the-revenge.json](./198728-double-dragon-ii-the-revenge.json) |
 | Double Dragon II: The Revenge | 281506 | [281506-double-dragon-ii-the-revenge.json](./281506-double-dragon-ii-the-revenge.json) |
 | Double Dragon II: The Revenge | 281507 | [281507-double-dragon-ii-the-revenge.json](./281507-double-dragon-ii-the-revenge.json) |
 | Double Dragon II: The Revenge | 281508 | [281508-double-dragon-ii-the-revenge.json](./281508-double-dragon-ii-the-revenge.json) |
@@ -10263,6 +10278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon Revive: Additional Character Color | 375155 | [375155-double-dragon-revive-additional-character-color.json](./375155-double-dragon-revive-additional-character-color.json) |
 | Double Dragon SNES Port | 377222 | [377222-double-dragon-snes-port.json](./377222-double-dragon-snes-port.json) |
 | Double Dragon Trilogy | 23805 | [23805-double-dragon-trilogy.json](./23805-double-dragon-trilogy.json) |
+| Double Dribble | 198730 | [198730-double-dribble.json](./198730-double-dribble.json) |
 | Double Dribble | 4699 | [4699-double-dribble.json](./4699-double-dribble.json) |
 | Double Dribble: 5 on 5 | 48952 | [48952-double-dribble-5-on-5.json](./48952-double-dribble-5-on-5.json) |
 | Double Duck | 403447 | [403447-double-duck.json](./403447-double-duck.json) |
@@ -10373,6 +10389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoudingMan | 264015 | [264015-doudingman.json](./264015-doudingman.json) |
 | DoudingMan: Expansion Packs | 288899 | [288899-doudingman-expansion-packs.json](./288899-doudingman-expansion-packs.json) |
 | Dòudìzhǔ VR | 89423 | [89423-doudizhu-vr.json](./89423-doudizhu-vr.json) |
+| Doug | 198731 | [198731-doug.json](./198731-doug.json) |
 | Doug Hates His Job | 135606 | [135606-doug-hates-his-job.json](./135606-doug-hates-his-job.json) |
 | Doug Huggem | 294809 | [294809-doug-huggem.json](./294809-doug-huggem.json) |
 | Doug The Digger | 347187 | [347187-doug-the-digger.json](./347187-doug-the-digger.json) |
@@ -10554,6 +10571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Dumont's Wild P.A.R.T.I. | 7563 | [7563-dr-dumonts-wild-p-a-r-t-i.json](./7563-dr-dumonts-wild-p-a-r-t-i.json) |
 | Dr. Emmerson's Nocturnes | 244355 | [244355-dr-emmersons-nocturnes.json](./244355-dr-emmersons-nocturnes.json) |
 | Dr. Emoji | 181147 | [181147-dr-emoji.json](./181147-dr-emoji.json) |
+| Dr. Fad | 198732 | [198732-dr-fad.json](./198732-dr-fad.json) |
 | Dr. Fetus' Mean Meat Machine | 242082 | [242082-dr-fetus-mean-meat-machine.json](./242082-dr-fetus-mean-meat-machine.json) |
 | Dr. Finklestein's Marvelous Room | 275560 | [275560-dr-finklesteins-marvelous-room.json](./275560-dr-finklesteins-marvelous-room.json) |
 | Dr. Frank's Build-A-Boyfriend | 177900 | [177900-dr-franks-build-a-boyfriend.json](./177900-dr-franks-build-a-boyfriend.json) |
