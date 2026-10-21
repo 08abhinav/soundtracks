@@ -7421,6 +7421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grounded: Fully Yoked Edition | 297696 | [297696-grounded-fully-yoked-edition.json](./297696-grounded-fully-yoked-edition.json) |
 | GroundFall | 116928 | [116928-groundfall.json](./116928-groundfall.json) |
 | Groundhog Day: Like Father Like Son | 114782 | [114782-groundhog-day-like-father-like-son.json](./114782-groundhog-day-like-father-like-son.json) |
+| Groundhog Life | 183241 | [183241-groundhog-life.json](./183241-groundhog-life.json) |
 | Grounds of Glory | 114873 | [114873-grounds-of-glory.json](./114873-grounds-of-glory.json) |
 | Groundskeeper | 183402 | [183402-groundskeeper.json](./183402-groundskeeper.json) |
 | Groundskeeper 2 | 22101 | [22101-groundskeeper-2.json](./22101-groundskeeper-2.json) |
