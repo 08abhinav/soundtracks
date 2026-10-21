@@ -581,6 +581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Pinball | 89159 | [89159-halloween-pinball.json](./89159-halloween-pinball.json) |
 | Halloween Pumpkin Brawl | 317447 | [317447-halloween-pumpkin-brawl.json](./317447-halloween-pumpkin-brawl.json) |
 | Halloween Pumpkin Story | 74380 | [74380-halloween-pumpkin-story.json](./74380-halloween-pumpkin-story.json) |
+| Halloween Puzzle | 172998 | [172998-halloween-puzzle.json](./172998-halloween-puzzle.json) |
 | Halloween Racer | 101020 | [101020-halloween-racer.json](./101020-halloween-racer.json) |
 | Halloween Racer | 50040 | [50040-halloween-racer.json](./50040-halloween-racer.json) |
 | Halloween Revenge | 310620 | [310620-halloween-revenge.json](./310620-halloween-revenge.json) |
@@ -5297,6 +5298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Fears | 86916 | [86916-hidden-fears.json](./86916-hidden-fears.json) |
 | Hidden Fears: Moonlight Edition | 121101 | [121101-hidden-fears-moonlight-edition.json](./121101-hidden-fears-moonlight-edition.json) |
 | Hidden Files : Echoes of JFK | 122096 | [122096-hidden-files-echoes-of-jfk.json](./122096-hidden-files-echoes-of-jfk.json) |
+| Hidden Flowers | 172977 | [172977-hidden-flowers.json](./172977-hidden-flowers.json) |
 | Hidden Folks | 26809 | [26809-hidden-folks.json](./26809-hidden-folks.json) |
 | Hidden Folks 2 | 404849 | [404849-hidden-folks-2.json](./404849-hidden-folks-2.json) |
 | Hidden Forest | 160272 | [160272-hidden-forest.json](./160272-hidden-forest.json) |
@@ -6210,6 +6212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hipster Chess | 256438 | [256438-hipster-chess.json](./256438-hipster-chess.json) |
 | Hipster Kickball | 396384 | [396384-hipster-kickball.json](./396384-hipster-kickball.json) |
 | Hipster Sheep | 114736 | [114736-hipster-sheep.json](./114736-hipster-sheep.json) |
+| HipWitch | 172985 | [172985-hipwitch.json](./172985-hipwitch.json) |
 | HiQ Ace | 115771 | [115771-hiq-ace.json](./115771-hiq-ace.json) |
 | Hira Hira Hihiru | 221418 | [221418-hira-hira-hihiru.json](./221418-hira-hira-hihiru.json) |
 | Hiraeth | 280264 | [280264-hiraeth.json](./280264-hiraeth.json) |
@@ -7781,6 +7784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Ken | 262374 | [262374-horror-ken.json](./262374-horror-ken.json) |
 | Horror Legends | 111603 | [111603-horror-legends.json](./111603-horror-legends.json) |
 | Horror Loop | 259590 | [259590-horror-loop.json](./259590-horror-loop.json) |
+| Horror Maze | 172996 | [172996-horror-maze.json](./172996-horror-maze.json) |
 | Horror Maze 2 | 246838 | [246838-horror-maze-2.json](./246838-horror-maze-2.json) |
 | Horror Maze: Sci-Fi Edition | 110155 | [110155-horror-maze-sci-fi-edition.json](./110155-horror-maze-sci-fi-edition.json) |
 | Horror Night | 197551 | [197551-horror-night.json](./197551-horror-night.json) |
@@ -8931,6 +8935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Heritage | 346177 | [346177-human-heritage.json](./346177-human-heritage.json) |
 | Human Host | 403164 | [403164-human-host.json](./403164-human-host.json) |
 | Human Killing Machine | 12148 | [12148-human-killing-machine.json](./12148-human-killing-machine.json) |
+| Human Madness | 172954 | [172954-human-madness.json](./172954-human-madness.json) |
 | Human Milk Seller | 291467 | [291467-human-milk-seller.json](./291467-human-milk-seller.json) |
 | Human Multiplayer Game | 243558 | [243558-human-multiplayer-game.json](./243558-human-multiplayer-game.json) |
 | Human or Not | 212126 | [212126-human-or-not.json](./212126-human-or-not.json) |
