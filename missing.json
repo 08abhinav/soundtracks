@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T08:34:30.645Z",
-  "total_missing": 241405,
+  "generated_at": "2026-10-21T08:49:31.050Z",
+  "total_missing": 241455,
   "games": [
     {
       "igdb_id": 191680,
@@ -17300,6 +17300,11 @@
       "igdb_id": 339915,
       "game_name": "A Simple Platformer",
       "file": "missing/A/339915-a-simple-platformer.json"
+    },
+    {
+      "igdb_id": 184790,
+      "game_name": "A Simple Rage Kind of Game",
+      "file": "missing/A/184790-a-simple-rage-kind-of-game.json"
     },
     {
       "igdb_id": 213247,
@@ -102382,6 +102387,11 @@
       "file": "missing/B/350608-beat-rhythm-fever.json"
     },
     {
+      "igdb_id": 184788,
+      "game_name": "Beat Runner",
+      "file": "missing/B/184788-beat-runner.json"
+    },
+    {
       "igdb_id": 105409,
       "game_name": "Beat Rush",
       "file": "missing/B/105409-beat-rush.json"
@@ -105735,6 +105745,11 @@
       "igdb_id": 184076,
       "game_name": "Being One: Episode 1",
       "file": "missing/B/184076-being-one-episode-1.json"
+    },
+    {
+      "igdb_id": 184749,
+      "game_name": "Being One: Episode 2",
+      "file": "missing/B/184749-being-one-episode-2.json"
     },
     {
       "igdb_id": 135635,
@@ -120667,6 +120682,11 @@
       "file": "missing/B/109914-bleeding-moons.json"
     },
     {
+      "igdb_id": 184764,
+      "game_name": "Bleeding Neon",
+      "file": "missing/B/184764-bleeding-neon.json"
+    },
+    {
       "igdb_id": 316162,
       "game_name": "Bleeding Roots",
       "file": "missing/B/316162-bleeding-roots.json"
@@ -124687,6 +124707,11 @@
       "file": "missing/B/340348-blood-sword.json"
     },
     {
+      "igdb_id": 184770,
+      "game_name": "Blood Tender",
+      "file": "missing/B/184770-blood-tender.json"
+    },
+    {
       "igdb_id": 78714,
       "game_name": "Blood Ties",
       "file": "missing/B/78714-blood-ties.json"
@@ -125107,6 +125132,11 @@
       "file": "missing/B/17108-bloodlust-shadowhunter.json"
     },
     {
+      "igdb_id": 184751,
+      "game_name": "Bloodlust: Santa Monica",
+      "file": "missing/B/184751-bloodlust-santa-monica.json"
+    },
+    {
       "igdb_id": 370871,
       "game_name": "Bloodlust.exe",
       "file": "missing/B/370871-bloodlust-exe.json"
@@ -125270,6 +125300,11 @@
       "igdb_id": 361286,
       "game_name": "Bloodseed: The Last Helsing",
       "file": "missing/B/361286-bloodseed-the-last-helsing.json"
+    },
+    {
+      "igdb_id": 184777,
+      "game_name": "Bloodseeker",
+      "file": "missing/B/184777-bloodseeker.json"
     },
     {
       "igdb_id": 394209,
@@ -141222,6 +141257,11 @@
       "file": "missing/B/77190-brickbuster.json"
     },
     {
+      "igdb_id": 184741,
+      "game_name": "Brickdown",
+      "file": "missing/B/184741-brickdown.json"
+    },
+    {
       "igdb_id": 413591,
       "game_name": "Brickerang",
       "file": "missing/B/413591-brickerang.json"
@@ -146395,6 +146435,11 @@
       "igdb_id": 278712,
       "game_name": "Bugger Off!",
       "file": "missing/B/278712-bugger-off.json"
+    },
+    {
+      "igdb_id": 184786,
+      "game_name": "Buggish",
+      "file": "missing/B/184786-buggish.json"
     },
     {
       "igdb_id": 255721,
@@ -168702,6 +168747,11 @@
       "file": "missing/C/173057-catching-a-ride.json"
     },
     {
+      "igdb_id": 184742,
+      "game_name": "Catching Fairies",
+      "file": "missing/C/184742-catching-fairies.json"
+    },
+    {
       "igdb_id": 21465,
       "game_name": "Catching Features",
       "file": "missing/C/21465-catching-features.json"
@@ -188460,6 +188510,11 @@
       "igdb_id": 414284,
       "game_name": "Claims & Caverns",
       "file": "missing/C/414284-claims-and-caverns.json"
+    },
+    {
+      "igdb_id": 184768,
+      "game_name": "Clair & Lune",
+      "file": "missing/C/184768-clair-and-lune.json"
     },
     {
       "igdb_id": 381336,
@@ -226892,6 +226947,11 @@
       "file": "missing/C/2461-curse-of-the-azure-bonds.json"
     },
     {
+      "igdb_id": 184746,
+      "game_name": "Curse of the Blood Moon",
+      "file": "missing/C/184746-curse-of-the-blood-moon.json"
+    },
+    {
       "igdb_id": 229050,
       "game_name": "Curse of the Cobra",
       "file": "missing/C/229050-curse-of-the-cobra.json"
@@ -260442,6 +260502,11 @@
       "file": "missing/D/10795-detective-grimoire-secret-of-the-swamp.json"
     },
     {
+      "igdb_id": 184784,
+      "game_name": "Detective GUI",
+      "file": "missing/D/184784-detective-gui.json"
+    },
+    {
       "igdb_id": 26992,
       "game_name": "Detective Hayseed: Hollywood",
       "file": "missing/D/26992-detective-hayseed-hollywood.json"
@@ -267905,6 +267970,11 @@
       "igdb_id": 201841,
       "game_name": "Dio Simulator Remastered",
       "file": "missing/D/201841-dio-simulator-remastered.json"
+    },
+    {
+      "igdb_id": 184747,
+      "game_name": "Dio's Bizarre Boutique",
+      "file": "missing/D/184747-dios-bizarre-boutique.json"
     },
     {
       "igdb_id": 207336,
@@ -285387,6 +285457,11 @@
       "file": "missing/D/170341-draculas-castle.json"
     },
     {
+      "igdb_id": 184752,
+      "game_name": "Dracula's Castle",
+      "file": "missing/D/184752-draculas-castle.json"
+    },
+    {
       "igdb_id": 277490,
       "game_name": "Dracula's Castle",
       "file": "missing/D/277490-draculas-castle.json"
@@ -285400,6 +285475,11 @@
       "igdb_id": 43142,
       "game_name": "Dracula's Library",
       "file": "missing/D/43142-draculas-library.json"
+    },
+    {
+      "igdb_id": 184755,
+      "game_name": "Dracula's Pizza Delivery",
+      "file": "missing/D/184755-draculas-pizza-delivery.json"
     },
     {
       "igdb_id": 270020,
@@ -339317,6 +339397,11 @@
       "file": "missing/F/98501-fake-lay.json"
     },
     {
+      "igdb_id": 184789,
+      "game_name": "Fake News",
+      "file": "missing/F/184789-fake-news.json"
+    },
+    {
       "igdb_id": 236273,
       "game_name": "Fake Signals",
       "file": "missing/F/236273-fake-signals.json"
@@ -356907,6 +356992,11 @@
       "file": "missing/F/127772-find-me-horror-game.json"
     },
     {
+      "igdb_id": 184761,
+      "game_name": "Find me...",
+      "file": "missing/F/184761-find-me.json"
+    },
+    {
       "igdb_id": 356748,
       "game_name": "Find Meow in Wild West",
       "file": "missing/F/356748-find-meow-in-wild-west.json"
@@ -366700,6 +366790,11 @@
       "igdb_id": 238479,
       "game_name": "Flirting with Yasmine",
       "file": "missing/F/238479-flirting-with-yasmine.json"
+    },
+    {
+      "igdb_id": 184748,
+      "game_name": "Flitspire",
+      "file": "missing/F/184748-flitspire.json"
     },
     {
       "igdb_id": 29418,
@@ -534267,6 +534362,11 @@
       "file": "missing/K/320322-kill-all-lice.json"
     },
     {
+      "igdb_id": 184776,
+      "game_name": "Kill All Vampires",
+      "file": "missing/K/184776-kill-all-vampires.json"
+    },
+    {
       "igdb_id": 95303,
       "game_name": "Kill all Zombies",
       "file": "missing/K/95303-kill-all-zombies.json"
@@ -562565,6 +562665,11 @@
       "igdb_id": 84114,
       "game_name": "Lesbian Spider-Queens of Mars",
       "file": "missing/L/84114-lesbian-spider-queens-of-mars.json"
+    },
+    {
+      "igdb_id": 184740,
+      "game_name": "Lesbian Vampire Dating Online",
+      "file": "missing/L/184740-lesbian-vampire-dating-online.json"
     },
     {
       "igdb_id": 177531,
@@ -598535,6 +598640,11 @@
       "igdb_id": 323844,
       "game_name": "Man For Takeaway",
       "file": "missing/M/323844-man-for-takeaway.json"
+    },
+    {
+      "igdb_id": 184765,
+      "game_name": "Man Helsing",
+      "file": "missing/M/184765-man-helsing.json"
     },
     {
       "igdb_id": 316355,
@@ -648932,6 +649042,16 @@
       "file": "missing/M/4104-monster-rancher.json"
     },
     {
+      "igdb_id": 184782,
+      "game_name": "Monster Rancher 1 DX",
+      "file": "missing/M/184782-monster-rancher-1-dx.json"
+    },
+    {
+      "igdb_id": 184783,
+      "game_name": "Monster Rancher 2 DX",
+      "file": "missing/M/184783-monster-rancher-2-dx.json"
+    },
+    {
       "igdb_id": 104241,
       "game_name": "Monster Rancher Battle Card GB",
       "file": "missing/M/104241-monster-rancher-battle-card-gb.json"
@@ -688452,6 +688572,11 @@
       "file": "missing/N/102752-night-city-tokyo-drift-clumsy-ninja-chasing-cars.json"
     },
     {
+      "igdb_id": 184763,
+      "game_name": "Night Class: A Vampire Story",
+      "file": "missing/N/184763-night-class-a-vampire-story.json"
+    },
+    {
       "igdb_id": 376476,
       "game_name": "Night Clerk",
       "file": "missing/N/376476-night-clerk.json"
@@ -723317,6 +723442,11 @@
       "file": "missing/O/247169-overbeast.json"
     },
     {
+      "igdb_id": 184753,
+      "game_name": "OverBite",
+      "file": "missing/O/184753-overbite.json"
+    },
+    {
       "igdb_id": 20000,
       "game_name": "OverBlood 2",
       "file": "missing/O/20000-overblood-2.json"
@@ -723540,6 +723670,11 @@
       "igdb_id": 333382,
       "game_name": "Overencumbered In Another World",
       "file": "missing/O/333382-overencumbered-in-another-world.json"
+    },
+    {
+      "igdb_id": 184773,
+      "game_name": "Overexposure",
+      "file": "missing/O/184773-overexposure.json"
     },
     {
       "igdb_id": 17253,
@@ -742197,6 +742332,11 @@
       "file": "missing/P/356202-perisno.json"
     },
     {
+      "igdb_id": 184743,
+      "game_name": "Periwinkle Blues",
+      "file": "missing/P/184743-periwinkle-blues.json"
+    },
+    {
       "igdb_id": 372990,
       "game_name": "Perk Up",
       "file": "missing/P/372990-perk-up.json"
@@ -746945,6 +747085,11 @@
       "igdb_id": 117474,
       "game_name": "Phucker in the Gulag",
       "file": "missing/P/117474-phucker-in-the-gulag.json"
+    },
+    {
+      "igdb_id": 184769,
+      "game_name": "Phucker in the Woods: Volume 0",
+      "file": "missing/P/184769-phucker-in-the-woods-volume-0.json"
     },
     {
       "igdb_id": 410210,
@@ -775340,6 +775485,11 @@
       "igdb_id": 411102,
       "game_name": "Potential Man",
       "file": "missing/P/411102-potential-man.json"
+    },
+    {
+      "igdb_id": 184781,
+      "game_name": "Pothead",
+      "file": "missing/P/184781-pothead.json"
     },
     {
       "igdb_id": 392362,
@@ -809892,6 +810042,11 @@
       "file": "missing/R/3415-rat-attack.json"
     },
     {
+      "igdb_id": 184771,
+      "game_name": "Rat Bastard",
+      "file": "missing/R/184771-rat-bastard.json"
+    },
+    {
       "igdb_id": 257862,
       "game_name": "Rat Catcher",
       "file": "missing/R/257862-rat-catcher.json"
@@ -810400,6 +810555,11 @@
       "igdb_id": 360450,
       "game_name": "Ravager: Moon-friendly Edition",
       "file": "missing/R/360450-ravager-moon-friendly-edition.json"
+    },
+    {
+      "igdb_id": 184785,
+      "game_name": "Rave and Claw",
+      "file": "missing/R/184785-rave-and-claw.json"
     },
     {
       "igdb_id": 275723,
@@ -869372,6 +869532,11 @@
       "file": "missing/S/32098-secret-santa.json"
     },
     {
+      "igdb_id": 184758,
+      "game_name": "Secret Satiation",
+      "file": "missing/S/184758-secret-satiation.json"
+    },
+    {
       "igdb_id": 114383,
       "game_name": "Secret Savings",
       "file": "missing/S/114383-secret-savings.json"
@@ -882892,6 +883057,11 @@
       "file": "missing/S/266869-shigeru-planet.json"
     },
     {
+      "igdb_id": 184767,
+      "game_name": "Shih Ho",
+      "file": "missing/S/184767-shih-ho.json"
+    },
+    {
       "igdb_id": 125859,
       "game_name": "Shihori Escape",
       "file": "missing/S/125859-shihori-escape.json"
@@ -895690,6 +895860,11 @@
       "igdb_id": 139422,
       "game_name": "SinsFromGod",
       "file": "missing/S/139422-sinsfromgod.json"
+    },
+    {
+      "igdb_id": 184779,
+      "game_name": "SinsFromGod 2",
+      "file": "missing/S/184779-sinsfromgod-2.json"
     },
     {
       "igdb_id": 212647,
@@ -942720,6 +942895,11 @@
       "igdb_id": 407309,
       "game_name": "Star Cosmic",
       "file": "missing/S/407309-star-cosmic.json"
+    },
+    {
+      "igdb_id": 184774,
+      "game_name": "Star Court",
+      "file": "missing/S/184774-star-court.json"
     },
     {
       "igdb_id": 329131,
@@ -1016607,6 +1016787,11 @@
       "file": "missing/T/331669-the-candle.json"
     },
     {
+      "igdb_id": 184762,
+      "game_name": "The Candles Breathe",
+      "file": "missing/T/184762-the-candles-breathe.json"
+    },
+    {
       "igdb_id": 399135,
       "game_name": "The Candy Adventure",
       "file": "missing/T/399135-the-candy-adventure.json"
@@ -1016730,6 +1016915,11 @@
       "igdb_id": 182877,
       "game_name": "The Cards You're Dealt",
       "file": "missing/T/182877-the-cards-youre-dealt.json"
+    },
+    {
+      "igdb_id": 184766,
+      "game_name": "The Caretaker",
+      "file": "missing/T/184766-the-caretaker.json"
     },
     {
       "igdb_id": 361046,
@@ -1047182,6 +1047372,11 @@
       "file": "missing/T/152493-the-power-latch-kid.json"
     },
     {
+      "igdb_id": 184775,
+      "game_name": "The Power of Blood",
+      "file": "missing/T/184775-the-power-of-blood.json"
+    },
+    {
       "igdb_id": 118369,
       "game_name": "The power of chaos",
       "file": "missing/T/118369-the-power-of-chaos.json"
@@ -1048850,6 +1049045,11 @@
       "igdb_id": 198262,
       "game_name": "The Red Crystal: The Seven Secrets of Life",
       "file": "missing/T/198262-the-red-crystal-the-seven-secrets-of-life.json"
+    },
+    {
+      "igdb_id": 184759,
+      "game_name": "The Red Devil",
+      "file": "missing/T/184759-the-red-devil.json"
     },
     {
       "igdb_id": 267674,
@@ -1065205,6 +1065405,11 @@
       "igdb_id": 74688,
       "game_name": "These nights in Cairo",
       "file": "missing/T/74688-these-nights-in-cairo.json"
+    },
+    {
+      "igdb_id": 184745,
+      "game_name": "These Out of Control Booty Shaking Kittens are Ruining My Castlevania!",
+      "file": "missing/T/184745-these-out-of-control-booty-shaking-kittens-are-ruining-my-castlevania.json"
     },
     {
       "igdb_id": 22920,
@@ -1087317,6 +1087522,11 @@
       "file": "missing/T/11236-tooth-protectors.json"
     },
     {
+      "igdb_id": 184750,
+      "game_name": "Toothless Vampire",
+      "file": "missing/T/184750-toothless-vampire.json"
+    },
+    {
       "igdb_id": 160221,
       "game_name": "Toothy History",
       "file": "missing/T/160221-toothy-history.json"
@@ -1104880,6 +1105090,11 @@
       "igdb_id": 206078,
       "game_name": "Travelrama USA",
       "file": "missing/T/206078-travelrama-usa.json"
+    },
+    {
+      "igdb_id": 184744,
+      "game_name": "Travels in Od",
+      "file": "missing/T/184744-travels-in-od.json"
     },
     {
       "igdb_id": 416181,
@@ -1134412,6 +1134627,11 @@
       "file": "missing/V/243152-vampire-girls.json"
     },
     {
+      "igdb_id": 184760,
+      "game_name": "Vampire Heist",
+      "file": "missing/V/184760-vampire-heist.json"
+    },
+    {
       "igdb_id": 370479,
       "game_name": "Vampire Hunt",
       "file": "missing/V/370479-vampire-hunt.json"
@@ -1134510,6 +1134730,11 @@
       "igdb_id": 138187,
       "game_name": "Vampire Night Shift",
       "file": "missing/V/138187-vampire-night-shift.json"
+    },
+    {
+      "igdb_id": 184756,
+      "game_name": "Vampire Nights",
+      "file": "missing/V/184756-vampire-nights.json"
     },
     {
       "igdb_id": 385269,
@@ -1134715,6 +1134940,11 @@
       "igdb_id": 230199,
       "game_name": "Vampire Tourist",
       "file": "missing/V/230199-vampire-tourist.json"
+    },
+    {
+      "igdb_id": 184754,
+      "game_name": "Vampire Vengeance",
+      "file": "missing/V/184754-vampire-vengeance.json"
     },
     {
       "igdb_id": 145688,
@@ -1134965,6 +1135195,11 @@
       "igdb_id": 68009,
       "game_name": "Vampires: Bloodlust",
       "file": "missing/V/68009-vampires-bloodlust.json"
+    },
+    {
+      "igdb_id": 184778,
+      "game_name": "Vampires: The New Birth",
+      "file": "missing/V/184778-vampires-the-new-birth.json"
     },
     {
       "igdb_id": 169435,
@@ -1135790,6 +1136025,11 @@
       "igdb_id": 116103,
       "game_name": "Vast",
       "file": "missing/V/116103-vast.json"
+    },
+    {
+      "igdb_id": 184787,
+      "game_name": "Vast",
+      "file": "missing/V/184787-vast.json"
     },
     {
       "igdb_id": 350495,
@@ -1183392,6 +1183632,11 @@
       "file": "missing/W/271744-wroth.json"
     },
     {
+      "igdb_id": 184780,
+      "game_name": "Wrought Flesh",
+      "file": "missing/W/184780-wrought-flesh.json"
+    },
+    {
       "igdb_id": 5292,
       "game_name": "WSC Real 08: World Snooker Championship",
       "file": "missing/W/5292-wsc-real-08-world-snooker-championship.json"
@@ -1194565,6 +1194810,11 @@
       "igdb_id": 29108,
       "game_name": "Your Friend Hana",
       "file": "missing/Y/29108-your-friend-hana.json"
+    },
+    {
+      "igdb_id": 184772,
+      "game_name": "Your Friendly Neighborhood Vampire Detective",
+      "file": "missing/Y/184772-your-friendly-neighborhood-vampire-detective.json"
     },
     {
       "igdb_id": 276455,
