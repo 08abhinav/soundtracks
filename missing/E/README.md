@@ -1266,6 +1266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egress - The Test of STS-417 | 168393 | [168393-egress-the-test-of-sts-417.json](./168393-egress-the-test-of-sts-417.json) |
 | Egress Protocol | 327940 | [327940-egress-protocol.json](./327940-egress-protocol.json) |
 | Egress Protocol | 375856 | [375856-egress-protocol.json](./375856-egress-protocol.json) |
+| Egression | 201460 | [201460-egression.json](./201460-egression.json) |
 | Egret II Mini: Arcade Memories Vol. I | 229835 | [229835-egret-ii-mini-arcade-memories-vol-i.json](./229835-egret-ii-mini-arcade-memories-vol-i.json) |
 | Egret II Mini: Arcade Memories Vol. II | 265645 | [265645-egret-ii-mini-arcade-memories-vol-ii.json](./265645-egret-ii-mini-arcade-memories-vol-ii.json) |
 | Egypt | 94952 | [94952-egypt.json](./94952-egypt.json) |
@@ -6183,6 +6184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye Contact | 145920 | [145920-eye-contact.json](./145920-eye-contact.json) |
 | Eye Contact: Hanako | 105236 | [105236-eye-contact-hanako.json](./105236-eye-contact-hanako.json) |
 | Eye For Blood | 217327 | [217327-eye-for-blood.json](./217327-eye-for-blood.json) |
+| Eye For Eye | 201544 | [201544-eye-for-eye.json](./201544-eye-for-eye.json) |
 | Eye in the Sky | 28294 | [28294-eye-in-the-sky.json](./28294-eye-in-the-sky.json) |
 | Eye Juice | 403205 | [403205-eye-juice.json](./403205-eye-juice.json) |
 | Eye Must Jump | 108876 | [108876-eye-must-jump.json](./108876-eye-must-jump.json) |
