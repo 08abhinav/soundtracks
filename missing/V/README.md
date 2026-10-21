@@ -1923,6 +1923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virche Evermore: ErroR:salvation | 147480 | [147480-virche-evermore-error-salvation.json](./147480-virche-evermore-error-salvation.json) |
 | Vircoban | 322276 | [322276-vircoban.json](./322276-vircoban.json) |
 | VireFit | 116171 | [116171-virefit.json](./116171-virefit.json) |
+| Virgil's Purgatory | 179397 | [179397-virgils-purgatory.json](./179397-virgils-purgatory.json) |
 | Virgin Angel | 187742 | [187742-virgin-angel.json](./187742-virgin-angel.json) |
 | Virgin Atlantic Challenge | 142439 | [142439-virgin-atlantic-challenge.json](./142439-virgin-atlantic-challenge.json) |
 | Virgin Queen | 59740 | [59740-virgin-queen.json](./59740-virgin-queen.json) |
@@ -3175,6 +3176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRtender | 28655 | [28655-vrtender.json](./28655-vrtender.json) |
 | Vrtillery | 179486 | [179486-vrtillery.json](./179486-vrtillery.json) |
 | VRun | 36984 | [36984-vrun.json](./36984-vrun.json) |
+| VrUs | 179372 | [179372-vrus.json](./179372-vrus.json) |
 | Vs Block Breaker | 64457 | [64457-vs-block-breaker.json](./64457-vs-block-breaker.json) |
 | VS Sonic: Dash & Spin | 223136 | [223136-vs-sonic-dash-and-spin.json](./223136-vs-sonic-dash-and-spin.json) |
 | Vs Suicide Mouse | 278448 | [278448-vs-suicide-mouse.json](./278448-vs-suicide-mouse.json) |
