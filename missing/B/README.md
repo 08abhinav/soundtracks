@@ -4520,6 +4520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beetle Ninja | 145265 | [145265-beetle-ninja.json](./145265-beetle-ninja.json) |
 | Beetle Uprising | 55506 | [55506-beetle-uprising.json](./55506-beetle-uprising.json) |
 | Beetle.io | 240338 | [240338-beetle-io.json](./240338-beetle-io.json) |
+| Beetlebum | 204198 | [204198-beetlebum.json](./204198-beetlebum.json) |
 | Beetlejuice: Bad as Can | 55287 | [55287-beetlejuice-bad-as-can.json](./55287-beetlejuice-bad-as-can.json) |
 | Beetlejuice: Horrific Hijinx from the Neitherworld! | 80889 | [80889-beetlejuice-horrific-hijinx-from-the-neitherworld.json](./80889-beetlejuice-horrific-hijinx-from-the-neitherworld.json) |
 | Beetlenaut | 62197 | [62197-beetlenaut.json](./62197-beetlenaut.json) |
@@ -5242,6 +5243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bewildebots | 114497 | [114497-bewildebots.json](./114497-bewildebots.json) |
 | Bewilder House | 229534 | [229534-bewilder-house.json](./229534-bewilder-house.json) |
 | Bewildered | 192640 | [192640-bewildered.json](./192640-bewildered.json) |
+| Bewilderword | 204284 | [204284-bewilderword.json](./204284-bewilderword.json) |
 | Bewitched | 296602 | [296602-bewitched.json](./296602-bewitched.json) |
 | Bewitched Hearts | 179703 | [179703-bewitched-hearts.json](./179703-bewitched-hearts.json) |
 | Bewitching Boba | 388701 | [388701-bewitching-boba.json](./388701-bewitching-boba.json) |
