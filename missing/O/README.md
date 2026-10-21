@@ -3614,6 +3614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Bad Ending | 354487 | [354487-our-bad-ending.json](./354487-our-bad-ending.json) |
 | Our Baseball Club Manager Girl Was Framed in a Bunk Bed so I Banged Her | 83220 | [83220-our-baseball-club-manager-girl-was-framed-in-a-bunk-bed-so-i-banged-her.json](./83220-our-baseball-club-manager-girl-was-framed-in-a-bunk-bed-so-i-banged-her.json) |
 | Our Battle Has Just Begun! episode 1 | 154242 | [154242-our-battle-has-just-begun-episode-1.json](./154242-our-battle-has-just-begun-episode-1.json) |
+| Our Battle Has Just Begun! Episode 2 | 192069 | [192069-our-battle-has-just-begun-episode-2.json](./192069-our-battle-has-just-begun-episode-2.json) |
 | Our Beautiful Earth | 154431 | [154431-our-beautiful-earth.json](./154431-our-beautiful-earth.json) |
 | Our Beautiful Earth 2 | 164887 | [164887-our-beautiful-earth-2.json](./164887-our-beautiful-earth-2.json) |
 | Our Beautiful Earth 3 | 294447 | [294447-our-beautiful-earth-3.json](./294447-our-beautiful-earth-3.json) |
