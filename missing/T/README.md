@@ -6132,6 +6132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkest Emptiness | 219552 | [219552-the-darkest-emptiness.json](./219552-the-darkest-emptiness.json) |
 | The Darkest Files | 214233 | [214233-the-darkest-files.json](./214233-the-darkest-files.json) |
 | The Darkest Paths: Missing Files | 235985 | [235985-the-darkest-paths-missing-files.json](./235985-the-darkest-paths-missing-files.json) |
+| The Darkest Star | 197013 | [197013-the-darkest-star.json](./197013-the-darkest-star.json) |
 | The Darkest Tales | 138874 | [138874-the-darkest-tales.json](./138874-the-darkest-tales.json) |
 | The Darkest Tales: Extended Edition | 221630 | [221630-the-darkest-tales-extended-edition.json](./221630-the-darkest-tales-extended-edition.json) |
 | The Darkest Woods | 103762 | [103762-the-darkest-woods.json](./103762-the-darkest-woods.json) |
@@ -7389,6 +7390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Found Magic | 386426 | [386426-the-found-magic.json](./386426-the-found-magic.json) |
 | The Founders of Daytona Beach Also Founded Dayton, Ohio | 360606 | [360606-the-founders-of-daytona-beach-also-founded-dayton-ohio.json](./360606-the-founders-of-daytona-beach-also-founded-dayton-ohio.json) |
 | The Fountain War | 110264 | [110264-the-fountain-war.json](./110264-the-fountain-war.json) |
+| The Four Elements: Zombies | 197049 | [197049-the-four-elements-zombies.json](./197049-the-four-elements-zombies.json) |
 | The Four Kings Casino and Slots | 16797 | [16797-the-four-kings-casino-and-slots.json](./16797-the-four-kings-casino-and-slots.json) |
 | The Four Old Gods | 136442 | [136442-the-four-old-gods.json](./136442-the-four-old-gods.json) |
 | The Four Rooms | 362727 | [362727-the-four-rooms.json](./362727-the-four-rooms.json) |
@@ -8476,6 +8478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Inspector | 175911 | [175911-the-inspector.json](./175911-the-inspector.json) |
 | The Institute: A Becky Brogan Adventure | 125380 | [125380-the-institute-a-becky-brogan-adventure.json](./125380-the-institute-a-becky-brogan-adventure.json) |
 | The Instruction Manual | 202384 | [202384-the-instruction-manual.json](./202384-the-instruction-manual.json) |
+| The Instruments of Faith: Padua's Destiny | 197009 | [197009-the-instruments-of-faith-paduas-destiny.json](./197009-the-instruments-of-faith-paduas-destiny.json) |
 | The Interactive Adventures of Dog Mendonça and Pizzaboy | 17976 | [17976-the-interactive-adventures-of-dog-mendonca-and-pizzaboy.json](./17976-the-interactive-adventures-of-dog-mendonca-and-pizzaboy.json) |
 | The Interdiction Zone | 274191 | [274191-the-interdiction-zone.json](./274191-the-interdiction-zone.json) |
 | The Interlude | 118172 | [118172-the-interlude.json](./118172-the-interlude.json) |
@@ -13229,6 +13232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sword of Hope | 10946 | [10946-the-sword-of-hope.json](./10946-the-sword-of-hope.json) |
 | The Sword of Hope II | 10947 | [10947-the-sword-of-hope-ii.json](./10947-the-sword-of-hope-ii.json) |
 | The Sword of Ianna | 221902 | [221902-the-sword-of-ianna.json](./221902-the-sword-of-ianna.json) |
+| The Sword of Rhivenia | 197048 | [197048-the-sword-of-rhivenia.json](./197048-the-sword-of-rhivenia.json) |
 | The Sword Witch's Apprentice | 351037 | [351037-the-sword-witchs-apprentice.json](./351037-the-sword-witchs-apprentice.json) |
 | The Swordbearer | 204329 | [204329-the-swordbearer.json](./204329-the-swordbearer.json) |
 | The Swords | 57720 | [57720-the-swords.json](./57720-the-swords.json) |
@@ -18712,6 +18716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Cop | 148506 | [148506-tokyo-cop.json](./148506-tokyo-cop.json) |
 | Tokyo Crash Mobs | 20171 | [20171-tokyo-crash-mobs.json](./20171-tokyo-crash-mobs.json) |
 | Tokyo Day | 399166 | [399166-tokyo-day.json](./399166-tokyo-day.json) |
+| Tokyo Debunker | 197035 | [197035-tokyo-debunker.json](./197035-tokyo-debunker.json) |
 | Tokyo Desire: Deck Builders | 292461 | [292461-tokyo-desire-deck-builders.json](./292461-tokyo-desire-deck-builders.json) |
 | Tokyo Detectives: Case 01 | 192167 | [192167-tokyo-detectives-case-01.json](./192167-tokyo-detectives-case-01.json) |
 | Tokyo Detectives: Case 02 | 192168 | [192168-tokyo-detectives-case-02.json](./192168-tokyo-detectives-case-02.json) |
@@ -24792,6 +24797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turrican III | 37098 | [37098-turrican-iii.json](./37098-turrican-iii.json) |
 | Turrican: Ultra Collector's Edition | 137330 | [137330-turrican-ultra-collectors-edition.json](./137330-turrican-ultra-collectors-edition.json) |
 | Turrim 3D | 176250 | [176250-turrim-3d.json](./176250-turrim-3d.json) |
+| Turro 2022 | 197010 | [197010-turro-2022.json](./197010-turro-2022.json) |
 | TuRT ToSS | 180681 | [180681-turt-toss.json](./180681-turt-toss.json) |
 | Turte | 309885 | [309885-turte.json](./309885-turte.json) |
 | Turtle | 340391 | [340391-turtle.json](./340391-turtle.json) |
