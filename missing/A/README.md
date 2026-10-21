@@ -561,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Lost Man | 403628 | [403628-a-lost-man.json](./403628-a-lost-man.json) |
 | A Lost Note | 244748 | [244748-a-lost-note.json](./244748-a-lost-note.json) |
 | A Lost Room | 29058 | [29058-a-lost-room.json](./29058-a-lost-room.json) |
+| A Lot of Asteroids | 185347 | [185347-a-lot-of-asteroids.json](./185347-a-lot-of-asteroids.json) |
 | A Lounge Somewhere | 352388 | [352388-a-lounge-somewhere.json](./352388-a-lounge-somewhere.json) |
 | A Love Letter in Snowfall | 411049 | [411049-a-love-letter-in-snowfall.json](./411049-a-love-letter-in-snowfall.json) |
 | A Love Like Broken Glass | 410440 | [410440-a-love-like-broken-glass.json](./410440-a-love-like-broken-glass.json) |
@@ -4509,6 +4510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Albatross Koukairoku | 156033 | [156033-albatross-koukairoku.json](./156033-albatross-koukairoku.json) |
 | Albatroz | 255084 | [255084-albatroz.json](./255084-albatroz.json) |
 | Albedo | 14161 | [14161-albedo.json](./14161-albedo.json) |
+| Albedo | 185312 | [185312-albedo.json](./185312-albedo.json) |
 | Albedo and Cast of the Seven Godsends | 99482 | [99482-albedo-and-cast-of-the-seven-godsends.json](./99482-albedo-and-cast-of-the-seven-godsends.json) |
 | Albedon Wars | 118222 | [118222-albedon-wars.json](./118222-albedon-wars.json) |
 | Albegas | 63214 | [63214-albegas.json](./63214-albegas.json) |
@@ -4880,6 +4882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice's Lullaby | 171476 | [171476-alices-lullaby.json](./171476-alices-lullaby.json) |
 | Alice's Magical Mahjong | 205118 | [205118-alices-magical-mahjong.json](./205118-alices-magical-mahjong.json) |
 | Alice's Mergeland Adventure | 220223 | [220223-alices-mergeland-adventure.json](./220223-alices-mergeland-adventure.json) |
+| Alice's Moo-vie night | 185359 | [185359-alices-moo-vie-night.json](./185359-alices-moo-vie-night.json) |
 | Alice's Patchworks 2 | 31438 | [31438-alices-patchworks-2.json](./31438-alices-patchworks-2.json) |
 | Alice's Space Adventure | 57910 | [57910-alices-space-adventure.json](./57910-alices-space-adventure.json) |
 | Alice's Spiritual Judge | 202677 | [202677-alices-spiritual-judge.json](./202677-alices-spiritual-judge.json) |
@@ -8916,6 +8919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquanaut | 83910 | [83910-aquanaut.json](./83910-aquanaut.json) |
 | Aquanaut's Holiday | 20589 | [20589-aquanauts-holiday.json](./20589-aquanauts-holiday.json) |
 | Aquanaut's Holiday: Hidden Memories | 7271 | [7271-aquanauts-holiday-hidden-memories.json](./7271-aquanauts-holiday-hidden-memories.json) |
+| AquaNautic: Underwater Submarine Simulator | 185339 | [185339-aquanautic-underwater-submarine-simulator.json](./185339-aquanautic-underwater-submarine-simulator.json) |
 | Aquanima | 357313 | [357313-aquanima.json](./357313-aquanima.json) |
 | AquaNimble | 32167 | [32167-aquanimble.json](./32167-aquanimble.json) |
 | Aquanoid | 46629 | [46629-aquanoid.json](./46629-aquanoid.json) |
@@ -11108,6 +11112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascension: Deckbuilding Game | 8638 | [8638-ascension-deckbuilding-game.json](./8638-ascension-deckbuilding-game.json) |
 | Ascension: The Immortal Alchemist | 318973 | [318973-ascension-the-immortal-alchemist.json](./318973-ascension-the-immortal-alchemist.json) |
 | Ascension: Transition and Silver | 144608 | [144608-ascension-transition-and-silver.json](./144608-ascension-transition-and-silver.json) |
+| Ascent | 185340 | [185340-ascent.json](./185340-ascent.json) |
 | Ascent | 330540 | [330540-ascent.json](./330540-ascent.json) |
 | Ascent DX | 336896 | [336896-ascent-dx.json](./336896-ascent-dx.json) |
 | Ascent of Ashes | 226229 | [226229-ascent-of-ashes.json](./226229-ascent-of-ashes.json) |
