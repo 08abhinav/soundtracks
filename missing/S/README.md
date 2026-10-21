@@ -4663,6 +4663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seventh Cross Evolution | 45788 | [45788-seventh-cross-evolution.json](./45788-seventh-cross-evolution.json) |
 | Seventh Lair | 194970 | [194970-seventh-lair.json](./194970-seventh-lair.json) |
 | Seventh Rebirth | 25103 | [25103-seventh-rebirth.json](./25103-seventh-rebirth.json) |
+| Seventh Saga | 184254 | [184254-seventh-saga.json](./184254-seventh-saga.json) |
 | Seventh Song | 309510 | [309510-seventh-song.json](./309510-seventh-song.json) |
 | Sever | 401313 | [401313-sever.json](./401313-sever.json) |
 | Sever the Wicked! | 363470 | [363470-sever-the-wicked.json](./363470-sever-the-wicked.json) |
@@ -11796,6 +11797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowlord | 273264 | [273264-snowlord.json](./273264-snowlord.json) |
 | Snowman | 25012 | [25012-snowman.json](./25012-snowman.json) |
 | Snowman Adventure | 186265 | [186265-snowman-adventure.json](./186265-snowman-adventure.json) |
+| Snowman Arena | 184236 | [184236-snowman-arena.json](./184236-snowman-arena.json) |
 | Snowman Attack | 262078 | [262078-snowman-attack.json](./262078-snowman-attack.json) |
 | Snowman from Russia | 54735 | [54735-snowman-from-russia.json](./54735-snowman-from-russia.json) |
 | Snowman Mo | 333154 | [333154-snowman-mo.json](./333154-snowman-mo.json) |
@@ -12176,6 +12178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sok-Worlds | 132036 | [132036-sok-worlds.json](./132036-sok-worlds.json) |
 | Sokama | 318532 | [318532-sokama.json](./318532-sokama.json) |
 | Sokfest | 240314 | [240314-sokfest.json](./240314-sokfest.json) |
+| Sokker Mayhem | 184251 | [184251-sokker-mayhem.json](./184251-sokker-mayhem.json) |
 | Sokko Seitokai: Sonic Council | 165073 | [165073-sokko-seitokai-sonic-council.json](./165073-sokko-seitokai-sonic-council.json) |
 | Sokkqer | 182173 | [182173-sokkqer.json](./182173-sokkqer.json) |
 | Soko Banana | 333712 | [333712-soko-banana.json](./333712-soko-banana.json) |
@@ -13793,6 +13796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soon, Only the Ocean | 412938 | [412938-soon-only-the-ocean.json](./412938-soon-only-the-ocean.json) |
 | Soona | 128923 | [128923-soona.json](./128923-soona.json) |
 | Soopah Doopah Poopah | 138151 | [138151-soopah-doopah-poopah.json](./138151-soopah-doopah-poopah.json) |
+| Sooper Fighterz: 24 Hour Challenge | 184228 | [184228-sooper-fighterz-24-hour-challenge.json](./184228-sooper-fighterz-24-hour-challenge.json) |
 | Sooper Wooper 64 | 379143 | [379143-sooper-wooper-64.json](./379143-sooper-wooper-64.json) |
 | Soot | 198500 | [198500-soot.json](./198500-soot.json) |
 | Soot | 231085 | [231085-soot.json](./231085-soot.json) |
@@ -15514,6 +15518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceSlog | 197908 | [197908-spaceslog.json](./197908-spaceslog.json) |
 | SpaceSoldier3D | 320160 | [320160-spacesoldier3d.json](./320160-spacesoldier3d.json) |
 | Spacesona | 323552 | [323552-spacesona.json](./323552-spacesona.json) |
+| Spacesportsball | 184256 | [184256-spacesportsball.json](./184256-spacesportsball.json) |
 | Spacestation Pheta | 344477 | [344477-spacestation-pheta.json](./344477-spacestation-pheta.json) |
 | SpaceStationSim | 20645 | [20645-spacestationsim.json](./20645-spacestationsim.json) |
 | SpaceTac | 47171 | [47171-spacetac.json](./47171-spacetac.json) |
@@ -19069,6 +19074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stargoose Warrior | 51285 | [51285-stargoose-warrior.json](./51285-stargoose-warrior.json) |
 | Stargrove Scramble | 177939 | [177939-stargrove-scramble.json](./177939-stargrove-scramble.json) |
 | Stargunner | 19379 | [19379-stargunner.json](./19379-stargunner.json) |
+| Starguy IV | 184252 | [184252-starguy-iv.json](./184252-starguy-iv.json) |
 | Starhack | 291013 | [291013-starhack.json](./291013-starhack.json) |
 | StarHawk | 79624 | [79624-starhawk.json](./79624-starhawk.json) |
 | Starheim | 270093 | [270093-starheim.json](./270093-starheim.json) |
