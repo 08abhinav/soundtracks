@@ -1877,6 +1877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Divide | 359521 | [359521-neon-divide.json](./359521-neon-divide.json) |
 | Neon Doctrine's Greatest Hits Vol. 1 | 304811 | [304811-neon-doctrines-greatest-hits-vol-1.json](./304811-neon-doctrines-greatest-hits-vol-1.json) |
 | Neon Dodge | 391749 | [391749-neon-dodge.json](./391749-neon-dodge.json) |
+| Neon Dragons | 189870 | [189870-neon-dragons.json](./189870-neon-dragons.json) |
 | Neon Drift Ultra | 412997 | [412997-neon-drift-ultra.json](./412997-neon-drift-ultra.json) |
 | Neon Drifter: Cyber Racing | 283258 | [283258-neon-drifter-cyber-racing.json](./283258-neon-drifter-cyber-racing.json) |
 | Neon Drive | 31180 | [31180-neon-drive.json](./31180-neon-drive.json) |
