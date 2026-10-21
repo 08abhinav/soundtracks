@@ -1878,6 +1878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Fury’s First Fury | 402497 | [402497-john-fury-s-first-fury.json](./402497-john-fury-s-first-fury.json) |
 | John Gleep | 410343 | [410343-john-gleep.json](./410343-john-gleep.json) |
 | John Hero | 188291 | [188291-john-hero.json](./188291-john-hero.json) |
+| John Killmen | 178841 | [178841-john-killmen.json](./178841-john-killmen.json) |
 | John Lowe's Ultimate Darts | 72162 | [72162-john-lowes-ultimate-darts.json](./72162-john-lowes-ultimate-darts.json) |
 | John Mad Run | 58603 | [58603-john-mad-run.json](./58603-john-mad-run.json) |
 | John Madden American Football | 45589 | [45589-john-madden-american-football.json](./45589-john-madden-american-football.json) |
@@ -2738,6 +2739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | June | 147218 | [147218-june.json](./147218-june.json) |
 | June | 203676 | [203676-june.json](./203676-june.json) |
 | june 18 2024 (White people in China) | 318232 | [318232-june-18-2024-white-people-in-china.json](./318232-june-18-2024-white-people-in-china.json) |
+| June 20th | 178836 | [178836-june-20th.json](./178836-june-20th.json) |
 | June 30th | 229591 | [229591-june-30th.json](./229591-june-30th.json) |
 | June Bride Nightmare | 356620 | [356620-june-bride-nightmare.json](./356620-june-bride-nightmare.json) |
 | June Exhibit | 205963 | [205963-june-exhibit.json](./205963-june-exhibit.json) |
