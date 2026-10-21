@@ -3472,6 +3472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epicross | 357752 | [357752-epicross.json](./357752-epicross.json) |
 | Epics of Distant Realm 2: Holy Return | 189950 | [189950-epics-of-distant-realm-2-holy-return.json](./189950-epics-of-distant-realm-2-holy-return.json) |
 | Epics of Distant Realm: Remastered Edition | 114266 | [114266-epics-of-distant-realm-remastered-edition.json](./114266-epics-of-distant-realm-remastered-edition.json) |
+| EpicShop | 176676 | [176676-epicshop.json](./176676-epicshop.json) |
 | Epicure | 133363 | [133363-epicure.json](./133363-epicure.json) |
 | Epicurean | 397261 | [397261-epicurean.json](./397261-epicurean.json) |
 | Epidemic | 20299 | [20299-epidemic.json](./20299-epidemic.json) |
