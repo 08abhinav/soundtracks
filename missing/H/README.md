@@ -921,6 +921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hana's Campus Life! | 149907 | [149907-hanas-campus-life.json](./149907-hanas-campus-life.json) |
 | Hanabi | 131388 | [131388-hanabi.json](./131388-hanabi.json) |
 | Hanabi and Ghost Girl | 405738 | [405738-hanabi-and-ghost-girl.json](./405738-hanabi-and-ghost-girl.json) |
+| Hanabi Fantast | 179382 | [179382-hanabi-fantast.json](./179382-hanabi-fantast.json) |
 | Hanabi Shokunin ni Narou 2 | 279782 | [279782-hanabi-shokunin-ni-narou-2.json](./279782-hanabi-shokunin-ni-narou-2.json) |
 | Hanabi: Hana Type B | 409869 | [409869-hanabi-hana-type-b.json](./409869-hanabi-hana-type-b.json) |
 | Hanabira Ep1: When the Petals Fade Away | 387114 | [387114-hanabira-ep1-when-the-petals-fade-away.json](./387114-hanabira-ep1-when-the-petals-fade-away.json) |
@@ -7094,6 +7095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homebound: New Beginnings | 237214 | [237214-homebound-new-beginnings.json](./237214-homebound-new-beginnings.json) |
 | Homebrew32 | 279473 | [279473-homebrew32.json](./279473-homebrew32.json) |
 | Homecall | 310789 | [310789-homecall.json](./310789-homecall.json) |
+| Homecoming | 179386 | [179386-homecoming.json](./179386-homecoming.json) |
 | Homecoming | 271314 | [271314-homecoming.json](./271314-homecoming.json) |
 | Homecoming: Kitaku | 323708 | [323708-homecoming-kitaku.json](./323708-homecoming-kitaku.json) |
 | Homecoming: My Monster-Hunter Girlfriend | 270609 | [270609-homecoming-my-monster-hunter-girlfriend.json](./270609-homecoming-my-monster-hunter-girlfriend.json) |
