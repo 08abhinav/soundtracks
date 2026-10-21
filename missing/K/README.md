@@ -2923,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kishin Douji Zenki: Denei Raibu | 42538 | [42538-kishin-douji-zenki-denei-raibu.json](./42538-kishin-douji-zenki-denei-raibu.json) |
 | Kishin Douji Zenki: Tenchi Meidou | 38360 | [38360-kishin-douji-zenki-tenchi-meidou.json](./38360-kishin-douji-zenki-tenchi-meidou.json) |
 | Kishin Hishou Demonbane | 72666 | [72666-kishin-hishou-demonbane.json](./72666-kishin-hishou-demonbane.json) |
+| Kishin Houkou Demonbane | 203648 | [203648-kishin-houkou-demonbane.json](./203648-kishin-houkou-demonbane.json) |
 | Kishin Kourinden Oni | 37957 | [37957-kishin-kourinden-oni.json](./37957-kishin-kourinden-oni.json) |
 | Kishki | 376480 | [376480-kishki.json](./376480-kishki.json) |
 | Kismet | 19042 | [19042-kismet.json](./19042-kismet.json) |
