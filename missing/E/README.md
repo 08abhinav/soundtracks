@@ -949,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edgar's Room | 189939 | [189939-edgars-room.json](./189939-edgars-room.json) |
 | Edge Case | 208266 | [208266-edge-case.json](./208266-edge-case.json) |
 | Edge Extended | 391112 | [391112-edge-extended.json](./391112-edge-extended.json) |
+| Edge Not Found | 177234 | [177234-edge-not-found.json](./177234-edge-not-found.json) |
 | Edge of Atlantis | 28946 | [28946-edge-of-atlantis.json](./28946-edge-of-atlantis.json) |
 | Edge of Book | 130229 | [130229-edge-of-book.json](./130229-edge-of-book.json) |
 | Edge of Collapse | 214387 | [214387-edge-of-collapse.json](./214387-edge-of-collapse.json) |
@@ -1917,6 +1918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elfscape: Ancestors | 297923 | [297923-elfscape-ancestors.json](./297923-elfscape-ancestors.json) |
 | Elfsquad7 | 93501 | [93501-elfsquad7.json](./93501-elfsquad7.json) |
 | Elhosea | 287710 | [287710-elhosea.json](./287710-elhosea.json) |
+| Eli | 177205 | [177205-eli.json](./177205-eli.json) |
 | Eli Girls | 379635 | [379635-eli-girls.json](./379635-eli-girls.json) |
 | Eli's Ladder | 40642 | [40642-elis-ladder.json](./40642-elis-ladder.json) |
 | Elibean Nights | 135718 | [135718-elibean-nights.json](./135718-elibean-nights.json) |
