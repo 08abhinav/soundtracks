@@ -5384,6 +5384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX3: Williams Pinball - Volume 5 | 164004 | [164004-pinball-fx3-williams-pinball-volume-5.json](./164004-pinball-fx3-williams-pinball-volume-5.json) |
 | Pinball Gardener | 185001 | [185001-pinball-gardener.json](./185001-pinball-gardener.json) |
 | Pinball Girlfriend | 207187 | [207187-pinball-girlfriend.json](./207187-pinball-girlfriend.json) |
+| Pinball Graffiti | 176691 | [176691-pinball-graffiti.json](./176691-pinball-graffiti.json) |
 | Pinball Groupies | 192627 | [192627-pinball-groupies.json](./192627-pinball-groupies.json) |
 | Pinball Hall of Fame: The Gottlieb Collection | 4067 | [4067-pinball-hall-of-fame-the-gottlieb-collection.json](./4067-pinball-hall-of-fame-the-gottlieb-collection.json) |
 | Pinball Hall of Fame: The Williams Collection | 5099 | [5099-pinball-hall-of-fame-the-williams-collection.json](./5099-pinball-hall-of-fame-the-williams-collection.json) |
@@ -10773,6 +10774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Presto Starto | 183425 | [183425-presto-starto.json](./183425-presto-starto.json) |
 | Preston Sterling and the Legend of Excalibur | 55868 | [55868-preston-sterling-and-the-legend-of-excalibur.json](./55868-preston-sterling-and-the-legend-of-excalibur.json) |
 | PreStrafe | 374804 | [374804-prestrafe.json](./374804-prestrafe.json) |
+| Pretend Cars Racing | 176673 | [176673-pretend-cars-racing.json](./176673-pretend-cars-racing.json) |
 | Pretend Cars Racing 2 | 302222 | [302222-pretend-cars-racing-2.json](./302222-pretend-cars-racing-2.json) |
 | Pretend Dead Friend | 271308 | [271308-pretend-dead-friend.json](./271308-pretend-dead-friend.json) |
 | Pretend it's not There | 324689 | [324689-pretend-its-not-there.json](./324689-pretend-its-not-there.json) |
