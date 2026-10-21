@@ -1075,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Sword Destiny | 65399 | [65399-samurai-sword-destiny.json](./65399-samurai-sword-destiny.json) |
 | Samurai Sword Stage | 236784 | [236784-samurai-sword-stage.json](./236784-samurai-sword-stage.json) |
 | Samurai Sword VR | 27699 | [27699-samurai-sword-vr.json](./27699-samurai-sword-vr.json) |
+| Samurai Tactics | 187744 | [187744-samurai-tactics.json](./187744-samurai-tactics.json) |
 | Samurai Trilogy | 37177 | [37177-samurai-trilogy.json](./37177-samurai-trilogy.json) |
 | Samurai vs Zombies Defense | 63402 | [63402-samurai-vs-zombies-defense.json](./63402-samurai-vs-zombies-defense.json) |
 | Samurai vs. Zombies Defense 2 | 127047 | [127047-samurai-vs-zombies-defense-2.json](./127047-samurai-vs-zombies-defense-2.json) |
@@ -5694,6 +5695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shardlight: Special Edition | 51912 | [51912-shardlight-special-edition.json](./51912-shardlight-special-edition.json) |
 | Shardpunk: Verminfall - Rat Pack | 255149 | [255149-shardpunk-verminfall-rat-pack.json](./255149-shardpunk-verminfall-rat-pack.json) |
 | Shards of Azuria | 32164 | [32164-shards-of-azuria.json](./32164-shards-of-azuria.json) |
+| Shards of Chaos | 187729 | [187729-shards-of-chaos.json](./187729-shards-of-chaos.json) |
 | Shards of Epoch Past | 301697 | [301697-shards-of-epoch-past.json](./301697-shards-of-epoch-past.json) |
 | Shards of Hope | 184044 | [184044-shards-of-hope.json](./184044-shards-of-hope.json) |
 | Shards of Nogard | 207310 | [207310-shards-of-nogard.json](./207310-shards-of-nogard.json) |
@@ -14556,6 +14558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Bounce | 178984 | [178984-space-bounce.json](./178984-space-bounce.json) |
 | Space Box Battle Arena | 164968 | [164968-space-box-battle-arena.json](./164968-space-box-battle-arena.json) |
 | Space Break | 142853 | [142853-space-break.json](./142853-space-break.json) |
+| Space Break 2 | 187710 | [187710-space-break-2.json](./187710-space-break-2.json) |
 | Space Break 2 Head to Head | 214059 | [214059-space-break-2-head-to-head.json](./214059-space-break-2-head-to-head.json) |
 | Space Bross | 348832 | [348832-space-bross.json](./348832-space-bross.json) |
 | Space Bubble Cat | 145476 | [145476-space-bubble-cat.json](./145476-space-bubble-cat.json) |
@@ -14934,6 +14937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Junk Scavenger | 305197 | [305197-space-junk-scavenger.json](./305197-space-junk-scavenger.json) |
 | Space Junk Seekers | 277889 | [277889-space-junk-seekers.json](./277889-space-junk-seekers.json) |
 | Space Junkies | 37080 | [37080-space-junkies.json](./37080-space-junkies.json) |
+| Space Kabaam | 187709 | [187709-space-kabaam.json](./187709-space-kabaam.json) |
 | Space Kabaam: Dagger | 392284 | [392284-space-kabaam-dagger.json](./392284-space-kabaam-dagger.json) |
 | Space KaBaam: Neon | 335076 | [335076-space-kabaam-neon.json](./335076-space-kabaam-neon.json) |
 | Space KaBAAM: Neon II | 342725 | [342725-space-kabaam-neon-ii.json](./342725-space-kabaam-neon-ii.json) |
@@ -20682,6 +20686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stop Stress: A Day of Fury | 67253 | [67253-stop-stress-a-day-of-fury.json](./67253-stop-stress-a-day-of-fury.json) |
 | Stop the Blight | 338748 | [338748-stop-the-blight.json](./338748-stop-the-blight.json) |
 | Stop the Bus | 83464 | [83464-stop-the-bus.json](./83464-stop-the-bus.json) |
+| Stop the Bus! | 187701 | [187701-stop-the-bus.json](./187701-stop-the-bus.json) |
 | Stop the Cult | 189913 | [189913-stop-the-cult.json](./189913-stop-the-cult.json) |
 | Stop the Press! | 381631 | [381631-stop-the-press.json](./381631-stop-the-press.json) |
 | Stop the Saturnians! | 188841 | [188841-stop-the-saturnians.json](./188841-stop-the-saturnians.json) |
