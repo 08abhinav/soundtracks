@@ -2071,6 +2071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paska Battle Style! | 111885 | [111885-paska-battle-style.json](./111885-paska-battle-style.json) |
 | Paskal's Path | 213646 | [213646-paskals-path.json](./213646-paskals-path.json) |
 | Paso Comic PuruPuru Paradise: Santa Claus Tokushuu | 62213 | [62213-paso-comic-purupuru-paradise-santa-claus-tokushuu.json](./62213-paso-comic-purupuru-paradise-santa-claus-tokushuu.json) |
+| Paso Pico McDonald's de Asobo! | 202088 | [202088-paso-pico-mcdonalds-de-asobo.json](./202088-paso-pico-mcdonalds-de-asobo.json) |
 | PASS | 360680 | [360680-pass.json](./360680-pass.json) |
 | Pass On | 183076 | [183076-pass-on.json](./183076-pass-on.json) |
 | Pass Problems | 264555 | [264555-pass-problems.json](./264555-pass-problems.json) |
@@ -4680,6 +4681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pictlogica Final Fantasy: Nearly Equal | 343426 | [343426-pictlogica-final-fantasy-nearly-equal.json](./343426-pictlogica-final-fantasy-nearly-equal.json) |
 | Pictlogica: Final Fantasy | 36998 | [36998-pictlogica-final-fantasy.json](./36998-pictlogica-final-fantasy.json) |
 | Picto-Cross: 1 Nonogram per Day | 390035 | [390035-picto-cross-1-nonogram-per-day.json](./390035-picto-cross-1-nonogram-per-day.json) |
+| Pictode Collection | 201983 | [201983-pictode-collection.json](./201983-pictode-collection.json) |
 | Pictoglyph | 157920 | [157920-pictoglyph.json](./157920-pictoglyph.json) |
 | PictoImage | 84824 | [84824-pictoimage.json](./84824-pictoimage.json) |
 | Pictooi | 154591 | [154591-pictooi.json](./154591-pictooi.json) |
@@ -7490,6 +7492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playtown Genesis | 319376 | [319376-playtown-genesis.json](./319376-playtown-genesis.json) |
 | Playtown Remake | 332807 | [332807-playtown-remake.json](./332807-playtown-remake.json) |
 | PlayTribes | 59443 | [59443-playtribes.json](./59443-playtribes.json) |
+| Playtris | 201991 | [201991-playtris.json](./201991-playtris.json) |
 | Playtron | 56155 | [56155-playtron.json](./56155-playtron.json) |
 | PlayVille | 366253 | [366253-playville.json](./366253-playville.json) |
 | Playworld Superheroes | 23230 | [23230-playworld-superheroes.json](./23230-playworld-superheroes.json) |
