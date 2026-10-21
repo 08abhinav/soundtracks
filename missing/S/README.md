@@ -1870,6 +1870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Your Crabies | 347500 | [347500-save-your-crabies.json](./347500-save-your-crabies.json) |
 | Save Your Soul | 370187 | [370187-save-your-soul.json](./370187-save-your-soul.json) |
 | Save: Teaser - Before the Dawn | 313463 | [313463-save-teaser-before-the-dawn.json](./313463-save-teaser-before-the-dawn.json) |
+| Saved | 193249 | [193249-saved.json](./193249-saved.json) |
 | SaveHer! | 86408 | [86408-saveher.json](./86408-saveher.json) |
 | SaveKunkun | 336656 | [336656-savekunkun.json](./336656-savekunkun.json) |
 | Saven | 373265 | [373265-saven.json](./373265-saven.json) |
@@ -8776,6 +8777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sir Fallen: Shadows of the Phoenixheart | 316128 | [316128-sir-fallen-shadows-of-the-phoenixheart.json](./316128-sir-fallen-shadows-of-the-phoenixheart.json) |
 | Sir Fallen: Supporter Pack | 312008 | [312008-sir-fallen-supporter-pack.json](./312008-sir-fallen-supporter-pack.json) |
 | Sir Fred | 270668 | [270668-sir-fred.json](./270668-sir-fred.json) |
+| Sir Galgano: A Medieval Tale | 193245 | [193245-sir-galgano-a-medieval-tale.json](./193245-sir-galgano-a-medieval-tale.json) |
 | Sir Lancelot | 23574 | [23574-sir-lancelot.json](./23574-sir-lancelot.json) |
 | Sir Loin | 93997 | [93997-sir-loin.json](./93997-sir-loin.json) |
 | Sir Lovelot | 132982 | [132982-sir-lovelot.json](./132982-sir-lovelot.json) |
@@ -23503,6 +23505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dynamite Fishing | 61126 | [61126-super-dynamite-fishing.json](./61126-super-dynamite-fishing.json) |
 | Super DynoStory | 215025 | [215025-super-dynostory.json](./215025-super-dynostory.json) |
 | Super EarthBound | 323181 | [323181-super-earthbound.json](./323181-super-earthbound.json) |
+| Super Egg 2020 | 193123 | [193123-super-egg-2020.json](./193123-super-egg-2020.json) |
 | Super Elastic | 276164 | [276164-super-elastic.json](./276164-super-elastic.json) |
 | Super Elf Jump | 93818 | [93818-super-elf-jump.json](./93818-super-elf-jump.json) |
 | Super Ember Kaboom | 199284 | [199284-super-ember-kaboom.json](./199284-super-ember-kaboom.json) |
