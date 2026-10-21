@@ -4204,6 +4204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overball | 208899 | [208899-overball.json](./208899-overball.json) |
 | Overball | 409222 | [409222-overball.json](./409222-overball.json) |
 | Overbeast | 247169 | [247169-overbeast.json](./247169-overbeast.json) |
+| OverBite | 184753 | [184753-overbite.json](./184753-overbite.json) |
 | OverBlood 2 | 20000 | [20000-overblood-2.json](./20000-overblood-2.json) |
 | Overboard | 122430 | [122430-overboard.json](./122430-overboard.json) |
 | Overboard! | 151067 | [151067-overboard.json](./151067-overboard.json) |
@@ -4249,6 +4250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overdungeon - Mr.Almighty (Card Pack) | 208372 | [208372-overdungeon-mr-almighty-card-pack.json](./208372-overdungeon-mr-almighty-card-pack.json) |
 | Overduty VR: Battle Royale | 81943 | [81943-overduty-vr-battle-royale.json](./81943-overduty-vr-battle-royale.json) |
 | Overencumbered In Another World | 333382 | [333382-overencumbered-in-another-world.json](./333382-overencumbered-in-another-world.json) |
+| Overexposure | 184773 | [184773-overexposure.json](./184773-overexposure.json) |
 | Overfall | 17253 | [17253-overfall.json](./17253-overfall.json) |
 | OverField | 306810 | [306810-overfield.json](./306810-overfield.json) |
 | Overflo Game | 126538 | [126538-overflo-game.json](./126538-overflo-game.json) |
