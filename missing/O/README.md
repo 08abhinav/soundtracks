@@ -3110,6 +3110,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ore Klast | 410404 | [410404-ore-klast.json](./410404-ore-klast.json) |
 | Ore Market Masters Simulator | 326393 | [326393-ore-market-masters-simulator.json](./326393-ore-market-masters-simulator.json) |
 | Ore ni Hatarakette Iwaretemo Tori | 60197 | [60197-ore-ni-hatarakette-iwaretemo-tori.json](./60197-ore-ni-hatarakette-iwaretemo-tori.json) |
+| Ore no Animism: Heaven Chapter | 171804 | [171804-ore-no-animism-heaven-chapter.json](./171804-ore-no-animism-heaven-chapter.json) |
+| Ore No Animism: Hell Chapter | 171803 | [171803-ore-no-animism-hell-chapter.json](./171803-ore-no-animism-hell-chapter.json) |
+| Ore no Animism: Resurrection Chapter | 171805 | [171805-ore-no-animism-resurrection-chapter.json](./171805-ore-no-animism-resurrection-chapter.json) |
 | Ore no Dungeon | 58165 | [58165-ore-no-dungeon.json](./58165-ore-no-dungeon.json) |
 | Ore no Hitomi de Maruhadaka! Fukachi na Mirai to Misukasu Vision | 401162 | [401162-ore-no-hitomi-de-maruhadaka-fukachi-na-mirai-to-misukasu-vision.json](./401162-ore-no-hitomi-de-maruhadaka-fukachi-na-mirai-to-misukasu-vision.json) |
 | Ore no Imouto ga Konna ni Kawaii wake ga Nai Portable | 66192 | [66192-ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-portable.json](./66192-ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-portable.json) |
