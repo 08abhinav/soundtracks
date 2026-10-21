@@ -1227,6 +1227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talking Ginger 2 | 344922 | [344922-talking-ginger-2.json](./344922-talking-ginger-2.json) |
 | Talking in Circles | 302491 | [302491-talking-in-circles.json](./302491-talking-in-circles.json) |
 | Talking in the Distance | 179159 | [179159-talking-in-the-distance.json](./179159-talking-in-the-distance.json) |
+| Talking Kiteboards by Flexifoil | 203739 | [203739-talking-kiteboards-by-flexifoil.json](./203739-talking-kiteboards-by-flexifoil.json) |
 | Talking Larry the Bird | 344921 | [344921-talking-larry-the-bird.json](./344921-talking-larry-the-bird.json) |
 | Talking Marvel Comics X-Men | 217718 | [217718-talking-marvel-comics-x-men.json](./217718-talking-marvel-comics-x-men.json) |
 | Talking Phrasebook | 85424 | [85424-talking-phrasebook.json](./85424-talking-phrasebook.json) |
@@ -4762,6 +4763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Basement's Calling | 338314 | [338314-the-basements-calling.json](./338314-the-basements-calling.json) |
 | The Basketball Quiz | 219173 | [219173-the-basketball-quiz.json](./219173-the-basketball-quiz.json) |
 | The Basment | 380119 | [380119-the-basment.json](./380119-the-basment.json) |
+| THE Bass Fishing | 203730 | [203730-the-bass-fishing.json](./203730-the-bass-fishing.json) |
 | The Bastonnes | 204102 | [204102-the-bastonnes.json](./204102-the-bastonnes.json) |
 | The Bat | 333986 | [333986-the-bat.json](./333986-the-bat.json) |
 | The Batchelor | 301406 | [301406-the-batchelor.json](./301406-the-batchelor.json) |
@@ -7708,6 +7710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grade 5B Case Files | 389007 | [389007-the-grade-5b-case-files.json](./389007-the-grade-5b-case-files.json) |
 | The Grading Game | 104541 | [104541-the-grading-game.json](./104541-the-grading-game.json) |
 | The Grafted Gear | 348665 | [348665-the-grafted-gear.json](./348665-the-grafted-gear.json) |
+| The Gramsby Summoning | 203650 | [203650-the-gramsby-summoning.json](./203650-the-gramsby-summoning.json) |
 | The Grand Adventures of Leo | 274376 | [274376-the-grand-adventures-of-leo.json](./274376-the-grand-adventures-of-leo.json) |
 | The Grand Ball | 36496 | [36496-the-grand-ball.json](./36496-the-grand-ball.json) |
 | The Grand Ball: Deluxe Edition | 53741 | [53741-the-grand-ball-deluxe-edition.json](./53741-the-grand-ball-deluxe-edition.json) |
@@ -9841,6 +9844,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lion King | 3166 | [3166-the-lion-king.json](./3166-the-lion-king.json) |
 | The Lion King 1½ - Timon And Pumbaa’s Virtual Safari 1.5: The Lion King Prideland Adventure | 325091 | [325091-the-lion-king-11-2-timon-and-pumbaa-s-virtual-safari-1-5-the-lion-king-prideland-adventure.json](./325091-the-lion-king-11-2-timon-and-pumbaa-s-virtual-safari-1-5-the-lion-king-prideland-adventure.json) |
 | The Lion King II: Simba's Pride: Special Edition - Timon And Pumbaa’s Virtual Safari 2.0: Prideland Pachiderm Safari | 325090 | [325090-the-lion-king-ii-simbas-pride-special-edition-timon-and-pumbaa-s-virtual-safari-2-0-prideland-pachiderm-safari.json](./325090-the-lion-king-ii-simbas-pride-special-edition-timon-and-pumbaa-s-virtual-safari-2-0-prideland-pachiderm-safari.json) |
+| The Lion King Legeng | 203655 | [203655-the-lion-king-legeng.json](./203655-the-lion-king-legeng.json) |
+| The Lion King V: Timon & Pumbaa | 203657 | [203657-the-lion-king-v-timon-and-pumbaa.json](./203657-the-lion-king-v-timon-and-pumbaa.json) |
 | The Lion King: Platinum Edition - Timon And Pumbaa’s Virtual Safari Boat Tour | 325093 | [325093-the-lion-king-platinum-edition-timon-and-pumbaa-s-virtual-safari-boat-tour.json](./325093-the-lion-king-platinum-edition-timon-and-pumbaa-s-virtual-safari-boat-tour.json) |
 | The Lion King: Platinum Edition - Timon And Pumbaa’s Virtual Safari Jeep Tour | 325092 | [325092-the-lion-king-platinum-edition-timon-and-pumbaa-s-virtual-safari-jeep-tour.json](./325092-the-lion-king-platinum-edition-timon-and-pumbaa-s-virtual-safari-jeep-tour.json) |
 | The Lion King: Timon & Pumbaa | 217955 | [217955-the-lion-king-timon-and-pumbaa.json](./217955-the-lion-king-timon-and-pumbaa.json) |
@@ -20153,6 +20158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Kosuzu no Butsuri Game! | 256898 | [256898-touhou-kosuzu-no-butsuri-game.json](./256898-touhou-kosuzu-no-butsuri-game.json) |
 | Touhou Kouhentan | 214371 | [214371-touhou-kouhentan.json](./214371-touhou-kouhentan.json) |
 | Touhou Koukayaku The Game | 293322 | [293322-touhou-koukayaku-the-game.json](./293322-touhou-koukayaku-the-game.json) |
+| Touhou Kouma Daimeikyuu | 203647 | [203647-touhou-kouma-daimeikyuu.json](./203647-touhou-kouma-daimeikyuu.json) |
 | Touhou Koumadan | 377364 | [377364-touhou-koumadan.json](./377364-touhou-koumadan.json) |
 | Touhou Koumakyou: New Classic - The Embodiment of Scarlet Devil | 405461 | [405461-touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil.json](./405461-touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil.json) |
 | Touhou Koumakyou: New Classic - The Embodiment of Scarlet Devil: Deluxe Edition | 418331 | [418331-touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil-deluxe-edition.json](./418331-touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil-deluxe-edition.json) |
@@ -20214,7 +20220,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Rinrinki: Crafts of the Lucky Beast | 356040 | [356040-touhou-rinrinki-crafts-of-the-lucky-beast.json](./356040-touhou-rinrinki-crafts-of-the-lucky-beast.json) |
 | Touhou Risouen: Terminus of Unreal Darkside | 360202 | [360202-touhou-risouen-terminus-of-unreal-darkside.json](./360202-touhou-risouen-terminus-of-unreal-darkside.json) |
 | Touhou Rock Maiden 2: Houraisan Kaguya no Nazo | 202934 | [202934-touhou-rock-maiden-2-houraisan-kaguya-no-nazo.json](./202934-touhou-rock-maiden-2-houraisan-kaguya-no-nazo.json) |
+| Touhou Rock Maiden 3: Houraisan Kaguya no Saigo!? | 203649 | [203649-touhou-rock-maiden-3-houraisan-kaguya-no-saigo.json](./203649-touhou-rock-maiden-3-houraisan-kaguya-no-saigo.json) |
 | Touhou Rock Maiden FC | 202936 | [202936-touhou-rock-maiden-fc.json](./202936-touhou-rock-maiden-fc.json) |
+| Touhou Rock Maiden FC 2: History's Greatest Sermon!! | 203652 | [203652-touhou-rock-maiden-fc-2-historys-greatest-sermon.json](./203652-touhou-rock-maiden-fc-2-historys-greatest-sermon.json) |
 | Touhou Rock Maiden FC 3: Little Native Goddess's Revival | 386119 | [386119-touhou-rock-maiden-fc-3-little-native-goddesss-revival.json](./386119-touhou-rock-maiden-fc-3-little-native-goddesss-revival.json) |
 | Touhou Saikotan: Servants of Harvest Wish | 246678 | [246678-touhou-saikotan-servants-of-harvest-wish.json](./246678-touhou-saikotan-servants-of-harvest-wish.json) |
 | Touhou Seicross | 204492 | [204492-touhou-seicross.json](./204492-touhou-seicross.json) |
