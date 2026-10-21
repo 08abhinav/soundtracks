@@ -1338,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sānguózhì Qúnyīng Zhuàn | 410976 | [410976-sanguozhi-qunying-zhuan.json](./410976-sanguozhi-qunying-zhuan.json) |
 | Sānguózhì Zhī Jiāngwéi Zhuàn | 415514 | [415514-sanguozhi-zhi-jiangwei-zhuan.json](./415514-sanguozhi-zhi-jiangwei-zhuan.json) |
 | Sānguózhì: Chìbì zhī Zhàn | 48289 | [48289-sanguozhi-chibi-zhi-zhan.json](./48289-sanguozhi-chibi-zhi-zhan.json) |
+| Sangvori | 185328 | [185328-sangvori.json](./185328-sangvori.json) |
 | Sangwich | 186069 | [186069-sangwich.json](./186069-sangwich.json) |
 | Sānhé Dàshén | 114279 | [114279-sanhe-dashen.json](./114279-sanhe-dashen.json) |
 | Sani Yang's Laboratory | 330229 | [330229-sani-yangs-laboratory.json](./330229-sani-yangs-laboratory.json) |
@@ -11154,6 +11155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snail Mail | 84877 | [84877-snail-mail.json](./84877-snail-mail.json) |
 | Snail Maze | 46118 | [46118-snail-maze.json](./46118-snail-maze.json) |
 | Snail Simulator | 272721 | [272721-snail-simulator.json](./272721-snail-simulator.json) |
+| Snail Storm | 185330 | [185330-snail-storm.json](./185330-snail-storm.json) |
 | Snail Story: Love Edition | 193500 | [193500-snail-story-love-edition.json](./193500-snail-story-love-edition.json) |
 | Snail Trainer | 282541 | [282541-snail-trainer.json](./282541-snail-trainer.json) |
 | Snail Trek: Chapter 3 - Lettuce Be | 81675 | [81675-snail-trek-chapter-3-lettuce-be.json](./81675-snail-trek-chapter-3-lettuce-be.json) |
@@ -17669,6 +17671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square vs Triangles | 156054 | [156054-square-vs-triangles.json](./156054-square-vs-triangles.json) |
 | Square Wave | 246779 | [246779-square-wave.json](./246779-square-wave.json) |
 | Square Word: Back to Work | 260545 | [260545-square-word-back-to-work.json](./260545-square-word-back-to-work.json) |
+| Square Word: Christmas Edition | 185349 | [185349-square-word-christmas-edition.json](./185349-square-word-christmas-edition.json) |
 | Square Word: Hello Winter! | 268960 | [268960-square-word-hello-winter.json](./268960-square-word-hello-winter.json) |
 | Square Worlds | 185538 | [185538-square-worlds.json](./185538-square-worlds.json) |
 | Square x Square | 55815 | [55815-square-x-square.json](./55815-square-x-square.json) |
@@ -19746,6 +19749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam Engine Simulator | 249057 | [249057-steam-engine-simulator.json](./249057-steam-engine-simulator.json) |
 | Steam Engine Simulator: Power Generation | 276602 | [276602-steam-engine-simulator-power-generation.json](./276602-steam-engine-simulator-power-generation.json) |
 | Steam Girls | 410406 | [410406-steam-girls.json](./410406-steam-girls.json) |
+| Steam Heart | 185323 | [185323-steam-heart.json](./185323-steam-heart.json) |
 | Steam Heroes | 10926 | [10926-steam-heroes.json](./10926-steam-heroes.json) |
 | Steam Highwayman | 174265 | [174265-steam-highwayman.json](./174265-steam-highwayman.json) |
 | Steam Marines 2 | 57889 | [57889-steam-marines-2.json](./57889-steam-marines-2.json) |
@@ -23394,6 +23398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Chicken Jumper | 172471 | [172471-super-chicken-jumper.json](./172471-super-chicken-jumper.json) |
 | Super Chili Man | 392203 | [392203-super-chili-man.json](./392203-super-chili-man.json) |
 | Super Chillers: The Chat Room | 372641 | [372641-super-chillers-the-chat-room.json](./372641-super-chillers-the-chat-room.json) |
+| Super Chinchilla Speed Typing Grand Prix 3000 | 185343 | [185343-super-chinchilla-speed-typing-grand-prix-3000.json](./185343-super-chinchilla-speed-typing-grand-prix-3000.json) |
 | Super Chinese 1-2 Advance | 63963 | [63963-super-chinese-1-2-advance.json](./63963-super-chinese-1-2-advance.json) |
 | Super Chinese Fighter EX | 50557 | [50557-super-chinese-fighter-ex.json](./50557-super-chinese-fighter-ex.json) |
 | Super Chipflake Ü: Quest for the Uncooked Schnitzel | 338787 | [338787-super-chipflake-u-quest-for-the-uncooked-schnitzel.json](./338787-super-chipflake-u-quest-for-the-uncooked-schnitzel.json) |
@@ -23672,6 +23677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Gerry | 113641 | [113641-super-gerry.json](./113641-super-gerry.json) |
 | Super Ghouls 'n Ghosts | 219488 | [219488-super-ghouls-n-ghosts.json](./219488-super-ghouls-n-ghosts.json) |
 | Super Ghouls'n Ghosts Restoration | 247446 | [247446-super-ghoulsn-ghosts-restoration.json](./247446-super-ghoulsn-ghosts-restoration.json) |
+| Super Gigadroid | 185316 | [185316-super-gigadroid.json](./185316-super-gigadroid.json) |
 | Super Girl | 187301 | [187301-super-girl.json](./187301-super-girl.json) |
 | Super Glitch Dash | 146221 | [146221-super-glitch-dash.json](./146221-super-glitch-dash.json) |
 | Super Glove Ball | 48234 | [48234-super-glove-ball.json](./48234-super-glove-ball.json) |
@@ -26536,6 +26542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SwayBods | 233233 | [233233-swaybods.json](./233233-swaybods.json) |
 | SwayBods: Physics Puzzle Game | 292423 | [292423-swaybods-physics-puzzle-game.json](./292423-swaybods-physics-puzzle-game.json) |
 | Swaying Girl | 159875 | [159875-swaying-girl.json](./159875-swaying-girl.json) |
+| Swear to God | 185344 | [185344-swear-to-god.json](./185344-swear-to-god.json) |
 | Sweater? Ok!: The Dilogy | 127370 | [127370-sweater-ok-the-dilogy.json](./127370-sweater-ok-the-dilogy.json) |
 | SweatShop | 32204 | [32204-sweatshop.json](./32204-sweatshop.json) |
 | Sweatshop HD | 15448 | [15448-sweatshop-hd.json](./15448-sweatshop-hd.json) |
@@ -26693,6 +26700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Rock Paper Scissors | 392918 | [392918-sweet-rock-paper-scissors.json](./392918-sweet-rock-paper-scissors.json) |
 | Sweet Room | 392901 | [392901-sweet-room.json](./392901-sweet-room.json) |
 | Sweet Run | 392919 | [392919-sweet-run.json](./392919-sweet-run.json) |
+| Sweet Runaway | 185333 | [185333-sweet-runaway.json](./185333-sweet-runaway.json) |
 | Sweet Sailor | 339443 | [339443-sweet-sailor.json](./339443-sweet-sailor.json) |
 | Sweet Science: The Girls of Silversee Castle | 239656 | [239656-sweet-science-the-girls-of-silversee-castle.json](./239656-sweet-science-the-girls-of-silversee-castle.json) |
 | Sweet Season | 268652 | [268652-sweet-season.json](./268652-sweet-season.json) |
