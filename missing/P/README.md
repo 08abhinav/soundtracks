@@ -9983,6 +9983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Post Apocalyptic Mayhem | 16229 | [16229-post-apocalyptic-mayhem.json](./16229-post-apocalyptic-mayhem.json) |
 | Post Apocalyptic Petra | 185377 | [185377-post-apocalyptic-petra.json](./185377-post-apocalyptic-petra.json) |
 | Post Cards | 142994 | [142994-post-cards.json](./142994-post-cards.json) |
+| Post fur Ritter Rost | 187121 | [187121-post-fur-ritter-rost.json](./187121-post-fur-ritter-rost.json) |
 | Post Ghost | 307717 | [307717-post-ghost.json](./307717-post-ghost.json) |
 | Post Haste | 111881 | [111881-post-haste.json](./111881-post-haste.json) |
 | Post Hello | 118449 | [118449-post-hello.json](./118449-post-hello.json) |
@@ -13414,6 +13415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Blood | 310933 | [310933-pure-blood.json](./310933-pure-blood.json) |
 | Pure Bowl VR | 146674 | [146674-pure-bowl-vr.json](./146674-pure-bowl-vr.json) |
 | Pure Chaotix | 326817 | [326817-pure-chaotix.json](./326817-pure-chaotix.json) |
+| Pure Chase 80's | 187094 | [187094-pure-chase-80s.json](./187094-pure-chase-80s.json) |
 | Pure Chess: Grandmaster Edition | 82428 | [82428-pure-chess-grandmaster-edition.json](./82428-pure-chess-grandmaster-edition.json) |
 | Pure Crosswords | 199889 | [199889-pure-crosswords.json](./199889-pure-crosswords.json) |
 | Pure Electric Love "Everyone else!" Ema Sakura | 105976 | [105976-pure-electric-love-everyone-else-ema-sakura.json](./105976-pure-electric-love-everyone-else-ema-sakura.json) |
