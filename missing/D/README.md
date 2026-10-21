@@ -10227,6 +10227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dottania | 197232 | [197232-dottania.json](./197232-dottania.json) |
 | Dottie Dreads Nought | 313475 | [313475-dottie-dreads-nought.json](./313475-dottie-dreads-nought.json) |
 | Dottie Flowers | 290260 | [290260-dottie-flowers.json](./290260-dottie-flowers.json) |
+| Dotto Botto | 192218 | [192218-dotto-botto.json](./192218-dotto-botto.json) |
 | Dottori-kun | 40099 | [40099-dottori-kun.json](./40099-dottori-kun.json) |
 | Dotty | 265692 | [265692-dotty.json](./265692-dotty.json) |
 | Dotu | 330110 | [330110-dotu.json](./330110-dotu.json) |
@@ -13262,6 +13263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duga | 111752 | [111752-duga.json](./111752-duga.json) |
 | Dugashoba! | 202251 | [202251-dugashoba.json](./202251-dugashoba.json) |
 | Dugeundugeun Dijeoteu Kape | 220287 | [220287-dugeundugeun-dijeoteu-kape.json](./220287-dugeundugeun-dijeoteu-kape.json) |
+| Duggy | 192071 | [192071-duggy.json](./192071-duggy.json) |
 | Dui | 263110 | [263110-dui.json](./263110-dui.json) |
 | DUI | 254360 | [254360-dui.json](./254360-dui.json) |
 | Duil | 161348 | [161348-duil.json](./161348-duil.json) |
