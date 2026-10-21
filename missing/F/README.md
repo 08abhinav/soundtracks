@@ -1024,6 +1024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FallNation Lost Stories | 294941 | [294941-fallnation-lost-stories.json](./294941-fallnation-lost-stories.json) |
 | Fallout 1.5: Resurrection | 237828 | [237828-fallout-1-5-resurrection.json](./237828-fallout-1-5-resurrection.json) |
 | Fallout 2 Restoration Project Updated | 416640 | [416640-fallout-2-restoration-project-updated.json](./416640-fallout-2-restoration-project-updated.json) |
+| Fallout 3 / Oblivion Duo Pack | 171798 | [171798-fallout-3-oblivion-duo-pack.json](./171798-fallout-3-oblivion-duo-pack.json) |
 | Fallout 3: Broken Steel and Point Lookout | 202169 | [202169-fallout-3-broken-steel-and-point-lookout.json](./202169-fallout-3-broken-steel-and-point-lookout.json) |
 | Fallout 3: Game of the Year Edition | 21892 | [21892-fallout-3-game-of-the-year-edition.json](./21892-fallout-3-game-of-the-year-edition.json) |
 | Fallout 3: Mothership Zeta | 10300 | [10300-fallout-3-mothership-zeta.json](./10300-fallout-3-mothership-zeta.json) |
@@ -1881,6 +1882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farjius no Jakoutei: Neo Metal Fantasy | 69862 | [69862-farjius-no-jakoutei-neo-metal-fantasy.json](./69862-farjius-no-jakoutei-neo-metal-fantasy.json) |
 | FarKae City | 183835 | [183835-farkae-city.json](./183835-farkae-city.json) |
 | Farkas: the Last Redhaft | 301088 | [301088-farkas-the-last-redhaft.json](./301088-farkas-the-last-redhaft.json) |
+| Farkeep | 171808 | [171808-farkeep.json](./171808-farkeep.json) |
 | Farkle Dice | 175607 | [175607-farkle-dice.json](./175607-farkle-dice.json) |
 | Farkle King | 243745 | [243745-farkle-king.json](./243745-farkle-king.json) |
 | Farkle mania | 232290 | [232290-farkle-mania.json](./232290-farkle-mania.json) |
@@ -9348,6 +9350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog vs Mural Girl 2: The Back Layer | 409762 | [409762-frog-vs-mural-girl-2-the-back-layer.json](./409762-frog-vs-mural-girl-2-the-back-layer.json) |
 | Frog Wizard Gem Quest | 228993 | [228993-frog-wizard-gem-quest.json](./228993-frog-wizard-gem-quest.json) |
 | Frog's Adventure | 259738 | [259738-frogs-adventure.json](./259738-frogs-adventure.json) |
+| Frog's Princess | 171822 | [171822-frogs-princess.json](./171822-frogs-princess.json) |
 | Frogatto | 92280 | [92280-frogatto.json](./92280-frogatto.json) |
 | Frogatto & Friends | 176702 | [176702-frogatto-and-friends.json](./176702-frogatto-and-friends.json) |
 | Frogatto & Friends | 343974 | [343974-frogatto-and-friends.json](./343974-frogatto-and-friends.json) |
