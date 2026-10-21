@@ -690,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo Infinite: Operation Infinite | 381718 | [381718-halo-infinite-operation-infinite.json](./381718-halo-infinite-operation-infinite.json) |
 | Halo Infinite: Season 2 - Lone Wolves | 196656 | [196656-halo-infinite-season-2-lone-wolves.json](./196656-halo-infinite-season-2-lone-wolves.json) |
 | Halo Infinite: Season 4 - Infection | 250295 | [250295-halo-infinite-season-4-infection.json](./250295-halo-infinite-season-4-infection.json) |
+| Halo Infinite: Steelbook Edition | 171280 | [171280-halo-infinite-steelbook-edition.json](./171280-halo-infinite-steelbook-edition.json) |
 | Halo Infinite: Winter Update | 225485 | [225485-halo-infinite-winter-update.json](./225485-halo-infinite-winter-update.json) |
 | Halo Infinte: Operation - Anvil | 335852 | [335852-halo-infinte-operation-anvil.json](./335852-halo-infinte-operation-anvil.json) |
 | Halo Online | 60459 | [60459-halo-online.json](./60459-halo-online.json) |
@@ -1822,6 +1823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: Intuitive Ranch Master | 219076 | [219076-harvest-moon-intuitive-ranch-master.json](./219076-harvest-moon-intuitive-ranch-master.json) |
 | Harvest Moon: Light of Hope | 28843 | [28843-harvest-moon-light-of-hope.json](./28843-harvest-moon-light-of-hope.json) |
 | Harvest Moon: Light of Hope - Special Edition: Divine Marriageable Characters Pack | 225043 | [225043-harvest-moon-light-of-hope-special-edition-divine-marriageable-characters-pack.json](./225043-harvest-moon-light-of-hope-special-edition-divine-marriageable-characters-pack.json) |
+| Harvest Moon: Light of Hope - Special Edition: Doc's & Melanie's Special Episodes | 171296 | [171296-harvest-moon-light-of-hope-special-edition-docs-and-melanies-special-episodes.json](./171296-harvest-moon-light-of-hope-special-edition-docs-and-melanies-special-episodes.json) |
 | Harvest Moon: Light of Hope - Special Edition: New Marriageable Characters Pack | 171415 | [171415-harvest-moon-light-of-hope-special-edition-new-marriageable-characters-pack.json](./171415-harvest-moon-light-of-hope-special-edition-new-marriageable-characters-pack.json) |
 | Harvest Moon: Magical Melody | 3386 | [3386-harvest-moon-magical-melody.json](./3386-harvest-moon-magical-melody.json) |
 | Harvest Moon: One World - Collector's Edition | 200691 | [200691-harvest-moon-one-world-collectors-edition.json](./200691-harvest-moon-one-world-collectors-edition.json) |
@@ -2070,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Hotel: Silent Waters | 182280 | [182280-haunted-hotel-silent-waters.json](./182280-haunted-hotel-silent-waters.json) |
 | Haunted Hotel: Silent Waters - Collector's Edition | 186678 | [186678-haunted-hotel-silent-waters-collectors-edition.json](./186678-haunted-hotel-silent-waters-collectors-edition.json) |
 | Haunted Hotel: Stay in the Light | 43149 | [43149-haunted-hotel-stay-in-the-light.json](./43149-haunted-hotel-stay-in-the-light.json) |
+| Haunted Hotel: The Axiom Butcher - Collector's Edition | 171308 | [171308-haunted-hotel-the-axiom-butcher-collectors-edition.json](./171308-haunted-hotel-the-axiom-butcher-collectors-edition.json) |
 | Haunted Hotel: The Thirteenth | 182281 | [182281-haunted-hotel-the-thirteenth.json](./182281-haunted-hotel-the-thirteenth.json) |
 | Haunted Hotel: The X | 57725 | [57725-haunted-hotel-the-x.json](./57725-haunted-hotel-the-x.json) |
 | Haunted Hotel: The X - Collector's Edition | 154920 | [154920-haunted-hotel-the-x-collectors-edition.json](./154920-haunted-hotel-the-x-collectors-edition.json) |
@@ -7667,6 +7670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon Chase Turbo: Summer Vibes | 170427 | [170427-horizon-chase-turbo-summer-vibes.json](./170427-horizon-chase-turbo-summer-vibes.json) |
 | Horizon Forbidden West: Collector's Edition | 170034 | [170034-horizon-forbidden-west-collectors-edition.json](./170034-horizon-forbidden-west-collectors-edition.json) |
 | Horizon Forbidden West: Complete Edition | 268842 | [268842-horizon-forbidden-west-complete-edition.json](./268842-horizon-forbidden-west-complete-edition.json) |
+| Horizon Forbidden West: Launch Edition | 171276 | [171276-horizon-forbidden-west-launch-edition.json](./171276-horizon-forbidden-west-launch-edition.json) |
 | Horizon Forbidden West: Major Update 1.14 | 227890 | [227890-horizon-forbidden-west-major-update-1-14.json](./227890-horizon-forbidden-west-major-update-1-14.json) |
 | Horizon Forbidden West: Regalla Edition | 173110 | [173110-horizon-forbidden-west-regalla-edition.json](./173110-horizon-forbidden-west-regalla-edition.json) |
 | Horizon Heat | 241223 | [241223-horizon-heat.json](./241223-horizon-heat.json) |
