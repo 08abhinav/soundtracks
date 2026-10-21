@@ -446,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call Center | 287208 | [287208-call-center.json](./287208-call-center.json) |
 | Call Center Tycoon | 292311 | [292311-call-center-tycoon.json](./292311-call-center-tycoon.json) |
 | Call Each New Year | 104082 | [104082-call-each-new-year.json](./104082-call-each-new-year.json) |
+| Call For Backup | 190383 | [190383-call-for-backup.json](./190383-call-for-backup.json) |
 | Call from the Abyss | 291179 | [291179-call-from-the-abyss.json](./291179-call-from-the-abyss.json) |
 | Call From the Darkness | 337465 | [337465-call-from-the-darkness.json](./337465-call-from-the-darkness.json) |
 | Call fur Help | 271647 | [271647-call-fur-help.json](./271647-call-fur-help.json) |
@@ -11446,6 +11447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Magnat | 337058 | [337058-cosmo-magnat.json](./337058-cosmo-magnat.json) |
 | Cosmo Nash: Culinary Courier | 290990 | [290990-cosmo-nash-culinary-courier.json](./290990-cosmo-nash-culinary-courier.json) |
 | Cosmo Odyssey 2: Comeback to Origin | 238550 | [238550-cosmo-odyssey-2-comeback-to-origin.json](./238550-cosmo-odyssey-2-comeback-to-origin.json) |
+| Cosmo Player Z | 190495 | [190495-cosmo-player-z.json](./190495-cosmo-player-z.json) |
 | Cosmo Police Galivan | 28825 | [28825-cosmo-police-galivan.json](./28825-cosmo-police-galivan.json) |
 | Cosmo Police Galivan II: Arrow of Justice | 38213 | [38213-cosmo-police-galivan-ii-arrow-of-justice.json](./38213-cosmo-police-galivan-ii-arrow-of-justice.json) |
 | Cosmo Race | 196335 | [196335-cosmo-race.json](./196335-cosmo-race.json) |
@@ -14305,6 +14307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ctrlsink | 390252 | [390252-ctrlsink.json](./390252-ctrlsink.json) |
 | CTU: Counter Terrorism Unit | 34586 | [34586-ctu-counter-terrorism-unit.json](./34586-ctu-counter-terrorism-unit.json) |
 | CTU: Marine Sharpshooter | 27560 | [27560-ctu-marine-sharpshooter.json](./27560-ctu-marine-sharpshooter.json) |
+| Cu-Blit | 190372 | [190372-cu-blit.json](./190372-cu-blit.json) |
 | Cu-On-Pa BS Ban | 134436 | [134436-cu-on-pa-bs-ban.json](./134436-cu-on-pa-bs-ban.json) |
 | Cu-On-Pa SFC | 64338 | [64338-cu-on-pa-sfc.json](./64338-cu-on-pa-sfc.json) |
 | Cu63 | 183934 | [183934-cu63.json](./183934-cu63.json) |
