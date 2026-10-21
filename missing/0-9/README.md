@@ -2650,6 +2650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Àohuáng Yì Jiànjué | 114337 | [114337-aohuang-yi-jianjue.json](./114337-aohuang-yi-jianjue.json) |
 | Är Alfons Åberg hemma? | 336033 | [336033-ar-alfons-aberg-hemma.json](./336033-ar-alfons-aberg-hemma.json) |
 | Àrengard: Invasion | 228081 | [228081-arengard-invasion.json](./228081-arengard-invasion.json) |
+| ​ARZA: Adrenaline Rush Zombie Assault | 179884 | [179884-arza-adrenaline-rush-zombie-assault.json](./179884-arza-adrenaline-rush-zombie-assault.json) |
 | Āsh | 408828 | [408828-ash.json](./408828-ash.json) |
 | Çimen Adventures: Story Teller | 338528 | [338528-cimen-adventures-story-teller.json](./338528-cimen-adventures-story-teller.json) |
 | Čtyřka | 416576 | [416576-ctyrka.json](./416576-ctyrka.json) |
