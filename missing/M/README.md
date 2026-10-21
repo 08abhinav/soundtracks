@@ -7920,6 +7920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miautemágica | 393559 | [393559-miautemagica.json](./393559-miautemagica.json) |
 | Miazma or the Devil's Stone | 99012 | [99012-miazma-or-the-devils-stone.json](./99012-miazma-or-the-devils-stone.json) |
 | Mibibli's Quest | 33229 | [33229-mibiblis-quest.json](./33229-mibiblis-quest.json) |
+| Mibo: Escape Adventure | 194156 | [194156-mibo-escape-adventure.json](./194156-mibo-escape-adventure.json) |
 | Miboujin Nikki: Akogare no Ano Hito to Hitotsu Yane no Shita | 82972 | [82972-miboujin-nikki-akogare-no-ano-hito-to-hitotsu-yane-no-shita.json](./82972-miboujin-nikki-akogare-no-ano-hito-to-hitotsu-yane-no-shita.json) |
 | Miburi and Teburi | 230271 | [230271-miburi-and-teburi.json](./230271-miburi-and-teburi.json) |
 | Mica King | 414749 | [414749-mica-king.json](./414749-mica-king.json) |
@@ -8969,6 +8970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millie Meter and Her Adventures in the Oak Tree | 57571 | [57571-millie-meter-and-her-adventures-in-the-oak-tree.json](./57571-millie-meter-and-her-adventures-in-the-oak-tree.json) |
 | Millie Meter's Nutrition Adventure | 71964 | [71964-millie-meters-nutrition-adventure.json](./71964-millie-meters-nutrition-adventure.json) |
 | Millika Village | 101749 | [101749-millika-village.json](./101749-millika-village.json) |
+| Millikan's Reach | 194319 | [194319-millikans-reach.json](./194319-millikans-reach.json) |
 | Million Arthur: Arcana Blood | 44529 | [44529-million-arthur-arcana-blood.json](./44529-million-arthur-arcana-blood.json) |
 | Million Bouillon | 405630 | [405630-million-bouillon.json](./405630-million-bouillon.json) |
 | Million Depth | 262869 | [262869-million-depth.json](./262869-million-depth.json) |
@@ -14292,6 +14294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Rein! Give me your Approval please! | 355178 | [355178-ms-rein-give-me-your-approval-please.json](./355178-ms-rein-give-me-your-approval-please.json) |
 | Ms. Rufiia's Struggle for Repayment: To Be a Lewd Arcdaemon | 82882 | [82882-ms-rufiias-struggle-for-repayment-to-be-a-lewd-arcdaemon.json](./82882-ms-rufiias-struggle-for-repayment-to-be-a-lewd-arcdaemon.json) |
 | Ms. Space Fury | 40925 | [40925-ms-space-fury.json](./40925-ms-space-fury.json) |
+| Ms. Spell | 194177 | [194177-ms-spell.json](./194177-ms-spell.json) |
 | Ms. Spinderella | 408299 | [408299-ms-spinderella.json](./408299-ms-spinderella.json) |
 | Ms. Squeaker's Home for the Sick | 109402 | [109402-ms-squeakers-home-for-the-sick.json](./109402-ms-squeakers-home-for-the-sick.json) |
 | Ms.Lemons | 240156 | [240156-ms-lemons.json](./240156-ms-lemons.json) |
