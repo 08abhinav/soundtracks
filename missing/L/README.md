@@ -981,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Game of the Decade 2019 | 229630 | [229630-last-game-of-the-decade-2019.json](./229630-last-game-of-the-decade-2019.json) |
 | Last Gang Standing | 159843 | [159843-last-gang-standing.json](./159843-last-gang-standing.json) |
 | Last Genesis | 175851 | [175851-last-genesis.json](./175851-last-genesis.json) |
+| Last Gleam | 182073 | [182073-last-gleam.json](./182073-last-gleam.json) |
 | Last Group Out | 189196 | [189196-last-group-out.json](./189196-last-group-out.json) |
 | Last Guest | 346778 | [346778-last-guest.json](./346778-last-guest.json) |
 | Last Half of Darkness | 312756 | [312756-last-half-of-darkness.json](./312756-last-half-of-darkness.json) |
@@ -4467,6 +4468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Drift | 158106 | [158106-little-drift.json](./158106-little-drift.json) |
 | Little Droid 2: Escape | 312144 | [312144-little-droid-2-escape.json](./312144-little-droid-2-escape.json) |
 | Little Duck Adventure | 303102 | [303102-little-duck-adventure.json](./303102-little-duck-adventure.json) |
+| Little Duck's Big Adventure: A Bitsy RPG | 182099 | [182099-little-ducks-big-adventure-a-bitsy-rpg.json](./182099-little-ducks-big-adventure-a-bitsy-rpg.json) |
 | Little Dungeon Stories | 118128 | [118128-little-dungeon-stories.json](./118128-little-dungeon-stories.json) |
 | Little Duty 1 | 249444 | [249444-little-duty-1.json](./249444-little-duty-1.json) |
 | Little Eden | 260208 | [260208-little-eden.json](./260208-little-eden.json) |
@@ -4720,6 +4722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Space Rangers | 181221 | [181221-little-space-rangers.json](./181221-little-space-rangers.json) |
 | Little Spaceman | 339161 | [339161-little-spaceman.json](./339161-little-spaceman.json) |
 | Little Sparks | 189168 | [189168-little-sparks.json](./189168-little-sparks.json) |
+| Little Sprout Garden | 182103 | [182103-little-sprout-garden.json](./182103-little-sprout-garden.json) |
 | Little Spy | 184418 | [184418-little-spy.json](./184418-little-spy.json) |
 | Little Square Things | 114288 | [114288-little-square-things.json](./114288-little-square-things.json) |
 | Little Squire's Quests | 146778 | [146778-little-squires-quests.json](./146778-little-squires-quests.json) |
@@ -4818,6 +4821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LittleBigSoko | 101621 | [101621-littlebigsoko.json](./101621-littlebigsoko.json) |
 | Littlebird/TrueEyes | 221268 | [221268-littlebird-trueeyes.json](./221268-littlebird-trueeyes.json) |
 | Littlebird/TrueEyes | 241524 | [241524-littlebird-trueeyes.json](./241524-littlebird-trueeyes.json) |
+| LittleCity | 182091 | [182091-littlecity.json](./182091-littlecity.json) |
 | LittleHero | 204288 | [204288-littlehero.json](./204288-littlehero.json) |
 | LittleMouseHero | 285912 | [285912-littlemousehero.json](./285912-littlemousehero.json) |
 | Littleroot Researchers | 195087 | [195087-littleroot-researchers.json](./195087-littleroot-researchers.json) |
@@ -5728,6 +5732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loopy Ball | 239290 | [239290-loopy-ball.json](./239290-loopy-ball.json) |
 | Loopy Blocks | 254151 | [254151-loopy-blocks.json](./254151-loopy-blocks.json) |
 | Loopy Goes Fishing | 364650 | [364650-loopy-goes-fishing.json](./364650-loopy-goes-fishing.json) |
+| Loopy Particle Simulator | 182079 | [182079-loopy-particle-simulator.json](./182079-loopy-particle-simulator.json) |
 | Loopy Tennis | 317228 | [317228-loopy-tennis.json](./317228-loopy-tennis.json) |
 | Loopy Treasure | 180764 | [180764-loopy-treasure.json](./180764-loopy-treasure.json) |
 | Loopy Wizard | 200138 | [200138-loopy-wizard.json](./200138-loopy-wizard.json) |
@@ -6925,6 +6930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Low G Man: The Low Gravity Man | 48028 | [48028-low-g-man-the-low-gravity-man.json](./48028-low-g-man-the-low-gravity-man.json) |
 | Low Grav Racer | 63231 | [63231-low-grav-racer.json](./63231-low-grav-racer.json) |
 | Low Grav Racer 2 | 63192 | [63192-low-grav-racer-2.json](./63192-low-grav-racer-2.json) |
+| Low Knight | 182072 | [182072-low-knight.json](./182072-low-knight.json) |
 | Low Light Combat | 158954 | [158954-low-light-combat.json](./158954-low-light-combat.json) |
 | Low Mem Sky | 181253 | [181253-low-mem-sky.json](./181253-low-mem-sky.json) |
 | Low Oxygen | 239697 | [239697-low-oxygen.json](./239697-low-oxygen.json) |
