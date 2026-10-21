@@ -4389,6 +4389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Boy | 31721 | [31721-hero-boy.json](./31721-hero-boy.json) |
 | Hero Bump | 184101 | [184101-hero-bump.json](./184101-hero-bump.json) |
 | Hero Cantare | 130642 | [130642-hero-cantare.json](./130642-hero-cantare.json) |
+| Hero Chest | 197161 | [197161-hero-chest.json](./197161-hero-chest.json) |
 | Hero Conquest | 83215 | [83215-hero-conquest.json](./83215-hero-conquest.json) |
 | Hero Cummy | 285398 | [285398-hero-cummy.json](./285398-hero-cummy.json) |
 | Hero Defence | 25095 | [25095-hero-defence.json](./25095-hero-defence.json) |
@@ -7772,6 +7773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse | 114273 | [114273-horse.json](./114273-horse.json) |
 | Horse & Horse | 401802 | [401802-horse-and-horse.json](./401802-horse-and-horse.json) |
 | Horse 2 | 339396 | [339396-horse-2.json](./339396-horse-2.json) |
+| Horse and Go Seek | 197041 | [197041-horse-and-go-seek.json](./197041-horse-and-go-seek.json) |
 | Horse Blocks - Puzzle Games | 100719 | [100719-horse-blocks-puzzle-games.json](./100719-horse-blocks-puzzle-games.json) |
 | Horse Camp | 209884 | [209884-horse-camp.json](./209884-horse-camp.json) |
 | Horse Club Adventures 2: Gold Edition | 252625 | [252625-horse-club-adventures-2-gold-edition.json](./252625-horse-club-adventures-2-gold-edition.json) |
