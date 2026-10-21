@@ -3261,6 +3261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DearCraft | 96653 | [96653-dearcraft.json](./96653-dearcraft.json) |
 | Deardrops | 50444 | [50444-deardrops.json](./50444-deardrops.json) |
 | Deardrops Distortion | 125741 | [125741-deardrops-distortion.json](./125741-deardrops-distortion.json) |
+| Dearest You | 179889 | [179889-dearest-you.json](./179889-dearest-you.json) |
 | Dearg | 236410 | [236410-dearg.json](./236410-dearg.json) |
 | DearMyFriend | 285005 | [285005-dearmyfriend.json](./285005-dearmyfriend.json) |
 | DearS | 60880 | [60880-dears.json](./60880-dears.json) |
@@ -10465,6 +10466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoudingMan: Expansion Packs | 288899 | [288899-doudingman-expansion-packs.json](./288899-doudingman-expansion-packs.json) |
 | Dòudìzhǔ VR | 89423 | [89423-doudizhu-vr.json](./89423-doudizhu-vr.json) |
 | Doug | 198731 | [198731-doug.json](./198731-doug.json) |
+| Doug From Accounting | 179888 | [179888-doug-from-accounting.json](./179888-doug-from-accounting.json) |
 | Doug Hates His Job | 135606 | [135606-doug-hates-his-job.json](./135606-doug-hates-his-job.json) |
 | Doug Huggem | 294809 | [294809-doug-huggem.json](./294809-doug-huggem.json) |
 | Doug The Digger | 347187 | [347187-doug-the-digger.json](./347187-doug-the-digger.json) |
@@ -10566,6 +10568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Download RAM Idle 2 | 400221 | [400221-download-ram-idle-2.json](./400221-download-ram-idle-2.json) |
 | Downpour Dash! | 303485 | [303485-downpour-dash.json](./303485-downpour-dash.json) |
 | Downpurr | 201169 | [201169-downpurr.json](./201169-downpurr.json) |
+| DownRiver | 179928 | [179928-downriver.json](./179928-downriver.json) |
 | Downroll | 191161 | [191161-downroll.json](./191161-downroll.json) |
 | Downshot | 308353 | [308353-downshot.json](./308353-downshot.json) |
 | DownSouth | 391048 | [391048-downsouth.json](./391048-downsouth.json) |
