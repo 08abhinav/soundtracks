@@ -1185,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Star Pillars | 87976 | [87976-magical-star-pillars.json](./87976-magical-star-pillars.json) |
 | Magical Starsign | 15839 | [15839-magical-starsign.json](./15839-magical-starsign.json) |
 | Magical Stick Girl Miracle Kurun | 125427 | [125427-magical-stick-girl-miracle-kurun.json](./125427-magical-stick-girl-miracle-kurun.json) |
+| Magical Stick Girl Miracle Kurun Survival! | 204253 | [204253-magical-stick-girl-miracle-kurun-survival.json](./204253-magical-stick-girl-miracle-kurun-survival.json) |
 | Magical Stock Princess | 157066 | [157066-magical-stock-princess.json](./157066-magical-stock-princess.json) |
 | Magical Strings | 157719 | [157719-magical-strings.json](./157719-magical-strings.json) |
 | Magical Taluluto-kun | 180301 | [180301-magical-taluluto-kun.json](./180301-magical-taluluto-kun.json) |
@@ -7411,6 +7412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Max Returns | 38373 | [38373-metal-max-returns.json](./38373-metal-max-returns.json) |
 | Metal Max Xeno | 74874 | [74874-metal-max-xeno.json](./74874-metal-max-xeno.json) |
 | Metal Max Xeno Reborn | 117015 | [117015-metal-max-xeno-reborn.json](./117015-metal-max-xeno-reborn.json) |
+| Metal Max Xeno Reborn: Digital Deluxe Edition | 204291 | [204291-metal-max-xeno-reborn-digital-deluxe-edition.json](./204291-metal-max-xeno-reborn-digital-deluxe-edition.json) |
 | Metal Max Xeno: Limited Edition | 201054 | [201054-metal-max-xeno-limited-edition.json](./201054-metal-max-xeno-limited-edition.json) |
 | Metal Max: Fireworks | 75850 | [75850-metal-max-fireworks.json](./75850-metal-max-fireworks.json) |
 | Metal Max: Wild West | 123900 | [123900-metal-max-wild-west.json](./123900-metal-max-wild-west.json) |
@@ -10227,6 +10229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misao: Definitive Edition | 74567 | [74567-misao-definitive-edition.json](./74567-misao-definitive-edition.json) |
 | Misc. | 159079 | [159079-misc.json](./159079-misc.json) |
 | Misc. A Tiny Tale | 138025 | [138025-misc-a-tiny-tale.json](./138025-misc-a-tiny-tale.json) |
+| Mischief Dungeon Life | 204285 | [204285-mischief-dungeon-life.json](./204285-mischief-dungeon-life.json) |
 | Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Asha Edition | 225040 | [225040-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-asha-edition.json](./225040-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-asha-edition.json) |
 | Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Clara Edition | 232996 | [232996-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-clara-edition.json](./232996-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-clara-edition.json) |
 | Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Dorothy Edition | 225496 | [225496-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-dorothy-edition.json](./225496-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-dorothy-edition.json) |
