@@ -3512,6 +3512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Reflections Collection | 201864 | [201864-secret-reflections-collection.json](./201864-secret-reflections-collection.json) |
 | Secret Romance With Streamer Girls | 251526 | [251526-secret-romance-with-streamer-girls.json](./251526-secret-romance-with-streamer-girls.json) |
 | Secret Santa | 32098 | [32098-secret-santa.json](./32098-secret-santa.json) |
+| Secret Satiation | 184758 | [184758-secret-satiation.json](./184758-secret-satiation.json) |
 | Secret Savings | 114383 | [114383-secret-savings.json](./114383-secret-savings.json) |
 | Secret School | 290498 | [290498-secret-school.json](./290498-secret-school.json) |
 | Secret Scout in the Temple of Demise | 48200 | [48200-secret-scout-in-the-temple-of-demise.json](./48200-secret-scout-in-the-temple-of-demise.json) |
@@ -6216,6 +6217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shigatsu Boujitsu, Hana Kudaru Yoru | 398357 | [398357-shigatsu-boujitsu-hana-kudaru-yoru.json](./398357-shigatsu-boujitsu-hana-kudaru-yoru.json) |
 | Shigatsu Youka | 275642 | [275642-shigatsu-youka.json](./275642-shigatsu-youka.json) |
 | Shigeru Planet | 266869 | [266869-shigeru-planet.json](./266869-shigeru-planet.json) |
+| Shih Ho | 184767 | [184767-shih-ho.json](./184767-shih-ho.json) |
 | Shihori Escape | 125859 | [125859-shihori-escape.json](./125859-shihori-escape.json) |
 | Shiin | 55839 | [55839-shiin.json](./55839-shiin.json) |
 | Shiina Maho no Himitsu: Name ha H de Omoitsukimasu | 396485 | [396485-shiina-maho-no-himitsu-name-ha-h-de-omoitsukimasu.json](./396485-shiina-maho-no-himitsu-name-ha-h-de-omoitsukimasu.json) |
@@ -8776,6 +8778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinsations 2: Modern Gods | 332432 | [332432-sinsations-2-modern-gods.json](./332432-sinsations-2-modern-gods.json) |
 | SinSeed | 142680 | [142680-sinseed.json](./142680-sinseed.json) |
 | SinsFromGod | 139422 | [139422-sinsfromgod.json](./139422-sinsfromgod.json) |
+| SinsFromGod 2 | 184779 | [184779-sinsfromgod-2.json](./184779-sinsfromgod-2.json) |
 | SinsFromGod Remake | 212647 | [212647-sinsfromgod-remake.json](./212647-sinsfromgod-remake.json) |
 | Sint Nicolaas | 122964 | [122964-sint-nicolaas.json](./122964-sint-nicolaas.json) |
 | Sintel: The Game | 61722 | [61722-sintel-the-game.json](./61722-sintel-the-game.json) |
@@ -18181,6 +18184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Control: Origins - Earth Rising | 116143 | [116143-star-control-origins-earth-rising.json](./116143-star-control-origins-earth-rising.json) |
 | Star Control: Origins - Multiverse | 124805 | [124805-star-control-origins-multiverse.json](./124805-star-control-origins-multiverse.json) |
 | Star Cosmic | 407309 | [407309-star-cosmic.json](./407309-star-cosmic.json) |
+| Star Court | 184774 | [184774-star-court.json](./184774-star-court.json) |
 | Star Crafter | 329131 | [329131-star-crafter.json](./329131-star-crafter.json) |
 | Star Crew | 329938 | [329938-star-crew.json](./329938-star-crew.json) |
 | Star Crisis | 66377 | [66377-star-crisis.json](./66377-star-crisis.json) |
