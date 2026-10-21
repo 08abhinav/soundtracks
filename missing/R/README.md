@@ -733,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok Survivors: Valhalla | 235683 | [235683-ragnarok-survivors-valhalla.json](./235683-ragnarok-survivors-valhalla.json) |
 | Ragnarok Tactics | 243421 | [243421-ragnarok-tactics.json](./243421-ragnarok-tactics.json) |
 | Ragnarök TD | 237209 | [237209-ragnarok-td.json](./237209-ragnarok-td.json) |
+| Ragnarok V: Returns | 188299 | [188299-ragnarok-v-returns.json](./188299-ragnarok-v-returns.json) |
 | Ragnarok Violet | 63653 | [63653-ragnarok-violet.json](./63653-ragnarok-violet.json) |
 | Ragnarok: Back to Glory | 338348 | [338348-ragnarok-back-to-glory.json](./338348-ragnarok-back-to-glory.json) |
 | Ragnarok: Fallen Legends | 227932 | [227932-ragnarok-fallen-legends.json](./227932-ragnarok-fallen-legends.json) |
@@ -3910,6 +3911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rent a Girl | 350491 | [350491-rent-a-girl.json](./350491-rent-a-girl.json) |
 | Rent a Girlfriend: The Horizon Line and Her in a Swimsuit | 323726 | [323726-rent-a-girlfriend-the-horizon-line-and-her-in-a-swimsuit.json](./323726-rent-a-girlfriend-the-horizon-line-and-her-in-a-swimsuit.json) |
 | Rent Please!: Landlord Sim | 247214 | [247214-rent-please-landlord-sim.json](./247214-rent-please-landlord-sim.json) |
+| Rent-a-Girlfriend: Heroine All Stars | 188277 | [188277-rent-a-girlfriend-heroine-all-stars.json](./188277-rent-a-girlfriend-heroine-all-stars.json) |
 | Rent-A-Hero | 145509 | [145509-rent-a-hero.json](./145509-rent-a-hero.json) |
 | Rent-A-Hero | 6001 | [6001-rent-a-hero.json](./6001-rent-a-hero.json) |
 | Rent-A-Hero No. 1 | 6002 | [6002-rent-a-hero-no-1.json](./6002-rent-a-hero-no-1.json) |
@@ -5212,6 +5214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Heaven Megamix: Sonic 2 Edition | 314490 | [314490-rhythm-heaven-megamix-sonic-2-edition.json](./314490-rhythm-heaven-megamix-sonic-2-edition.json) |
 | Rhythm Hell | 257080 | [257080-rhythm-hell.json](./257080-rhythm-hell.json) |
 | Rhythm Hero | 152869 | [152869-rhythm-hero.json](./152869-rhythm-hero.json) |
+| Rhythm Journey | 188305 | [188305-rhythm-journey.json](./188305-rhythm-journey.json) |
 | Rhythm Knights | 153929 | [153929-rhythm-knights.json](./153929-rhythm-knights.json) |
 | Rhythm Knights: Double Treble | 199460 | [199460-rhythm-knights-double-treble.json](./199460-rhythm-knights-double-treble.json) |
 | Rhythm League Heroes | 276181 | [276181-rhythm-league-heroes.json](./276181-rhythm-league-heroes.json) |
@@ -8844,6 +8847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Clicker | 183885 | [183885-rpg-clicker.json](./183885-rpg-clicker.json) |
 | RPG Creator for iOS | 61099 | [61099-rpg-creator-for-ios.json](./61099-rpg-creator-for-ios.json) |
 | RPG Developer Bakin | 228016 | [228016-rpg-developer-bakin.json](./228016-rpg-developer-bakin.json) |
+| RPG Dice: Heroes of Whitestone | 188294 | [188294-rpg-dice-heroes-of-whitestone.json](./188294-rpg-dice-heroes-of-whitestone.json) |
 | RPG Driver | 126560 | [126560-rpg-driver.json](./126560-rpg-driver.json) |
 | RPG Fighter League | 30700 | [30700-rpg-fighter-league.json](./30700-rpg-fighter-league.json) |
 | RPG Fitness VR | 388900 | [388900-rpg-fitness-vr.json](./388900-rpg-fitness-vr.json) |
