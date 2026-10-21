@@ -2825,6 +2825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whale Well | 312626 | [312626-whale-well.json](./312626-whale-well.json) |
 | Whale's Voyage | 2522 | [2522-whales-voyage.json](./2522-whales-voyage.json) |
 | Whale's Voyage II: Die Übermacht | 94397 | [94397-whales-voyage-ii-die-ubermacht.json](./94397-whales-voyage-ii-die-ubermacht.json) |
+| Whale's Waldo | 180452 | [180452-whales-waldo.json](./180452-whales-waldo.json) |
 | Whalefall Haven | 349400 | [349400-whalefall-haven.json](./349400-whalefall-haven.json) |
 | Wham the Music Box | 45314 | [45314-wham-the-music-box.json](./45314-wham-the-music-box.json) |
 | What a Ball | 225727 | [225727-what-a-ball.json](./225727-what-a-ball.json) |
@@ -3921,6 +3922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Cats | 365662 | [365662-wild-cats.json](./365662-wild-cats.json) |
 | Wild Cats of Wasteland | 117131 | [117131-wild-cats-of-wasteland.json](./117131-wild-cats-of-wasteland.json) |
 | Wild Cheetah Sim 3D | 330725 | [330725-wild-cheetah-sim-3d.json](./330725-wild-cheetah-sim-3d.json) |
+| Wild Child | 180443 | [180443-wild-child.json](./180443-wild-child.json) |
 | Wild City | 253481 | [253481-wild-city.json](./253481-wild-city.json) |
 | Wild City | 350594 | [350594-wild-city.json](./350594-wild-city.json) |
 | Wild Cosmos | 381862 | [381862-wild-cosmos.json](./381862-wild-cosmos.json) |
@@ -5266,6 +5268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wobbly Heist | 411623 | [411623-wobbly-heist.json](./411623-wobbly-heist.json) |
 | Wobbly Life | 133344 | [133344-wobbly-life.json](./133344-wobbly-life.json) |
 | Wobbuffet's Puzzle Pack | 233984 | [233984-wobbuffets-puzzle-pack.json](./233984-wobbuffets-puzzle-pack.json) |
+| Wobolob Classic | 180477 | [180477-wobolob-classic.json](./180477-wobolob-classic.json) |
 | Wodopom | 315677 | [315677-wodopom.json](./315677-wodopom.json) |
 | Woe | 211577 | [211577-woe.json](./211577-woe.json) |
 | Woebegone Woods | 149897 | [149897-woebegone-woods.json](./149897-woebegone-woods.json) |
@@ -5581,6 +5584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wooden Nickel | 115663 | [115663-wooden-nickel.json](./115663-wooden-nickel.json) |
 | Wooden Ocean | 55232 | [55232-wooden-ocean.json](./55232-wooden-ocean.json) |
 | Wooden Sen'SeY | 10341 | [10341-wooden-sensey.json](./10341-wooden-sensey.json) |
+| Woodfarer | 180450 | [180450-woodfarer.json](./180450-woodfarer.json) |
 | WoodHeart | 160160 | [160160-woodheart.json](./160160-woodheart.json) |
 | Woodla: The Tower | 251199 | [251199-woodla-the-tower.json](./251199-woodla-the-tower.json) |
 | Woodland | 230719 | [230719-woodland.json](./230719-woodland.json) |
