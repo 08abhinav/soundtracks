@@ -4427,6 +4427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire 'n Ice | 48671 | [48671-fire-n-ice.json](./48671-fire-n-ice.json) |
 | Fire & Brimstone | 336714 | [336714-fire-and-brimstone.json](./336714-fire-and-brimstone.json) |
 | Fire & Crown: A Romantic Tale of the Hundred Years' War | 390761 | [390761-fire-and-crown-a-romantic-tale-of-the-hundred-years-war.json](./390761-fire-and-crown-a-romantic-tale-of-the-hundred-years-war.json) |
+| Fire & Fondness 2 | 176708 | [176708-fire-and-fondness-2.json](./176708-fire-and-fondness-2.json) |
 | Fire & Forget: The Final Assault | 53041 | [53041-fire-and-forget-the-final-assault.json](./53041-fire-and-forget-the-final-assault.json) |
 | Fire & Ice: The Daring Adventures of Cool Coyote | 12099 | [12099-fire-and-ice-the-daring-adventures-of-cool-coyote.json](./12099-fire-and-ice-the-daring-adventures-of-cool-coyote.json) |
 | Fire & Light: Thrones of Tyberion | 364878 | [364878-fire-and-light-thrones-of-tyberion.json](./364878-fire-and-light-thrones-of-tyberion.json) |
@@ -6859,6 +6860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fonzi Fuddy: Ace Defective | 322050 | [322050-fonzi-fuddy-ace-defective.json](./322050-fonzi-fuddy-ace-defective.json) |
 | Foo Foo | 138148 | [138148-foo-foo.json](./138148-foo-foo.json) |
 | Fooaaahh! | 182451 | [182451-fooaaahh.json](./182451-fooaaahh.json) |
+| Foobar 0 | 176722 | [176722-foobar-0.json](./176722-foobar-0.json) |
 | Foobse | 403541 | [403541-foobse.json](./403541-foobse.json) |
 | Food Adventures | 395173 | [395173-food-adventures.json](./395173-food-adventures.json) |
 | Food and Girls | 148363 | [148363-food-and-girls.json](./148363-food-and-girls.json) |
@@ -8598,6 +8600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Franchise Hockey Manager 5 | 110453 | [110453-franchise-hockey-manager-5.json](./110453-franchise-hockey-manager-5.json) |
 | Franchise Hockey Manager 6 | 122838 | [122838-franchise-hockey-manager-6.json](./122838-franchise-hockey-manager-6.json) |
 | Franchise Hockey Manager 7 | 141510 | [141510-franchise-hockey-manager-7.json](./141510-franchise-hockey-manager-7.json) |
+| Franchise Hockey Manager 8 | 176712 | [176712-franchise-hockey-manager-8.json](./176712-franchise-hockey-manager-8.json) |
 | Franchise Hockey Manager 9 | 220867 | [220867-franchise-hockey-manager-9.json](./220867-franchise-hockey-manager-9.json) |
 | Franchise Wars | 117179 | [117179-franchise-wars.json](./117179-franchise-wars.json) |
 | Francisca | 32062 | [32062-francisca.json](./32062-francisca.json) |
@@ -9334,6 +9337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Wizard Gem Quest | 228993 | [228993-frog-wizard-gem-quest.json](./228993-frog-wizard-gem-quest.json) |
 | Frog's Adventure | 259738 | [259738-frogs-adventure.json](./259738-frogs-adventure.json) |
 | Frogatto | 92280 | [92280-frogatto.json](./92280-frogatto.json) |
+| Frogatto & Friends | 176702 | [176702-frogatto-and-friends.json](./176702-frogatto-and-friends.json) |
 | Frogatto & Friends | 343974 | [343974-frogatto-and-friends.json](./343974-frogatto-and-friends.json) |
 | Frogatto & Friends | 343976 | [343976-frogatto-and-friends.json](./343976-frogatto-and-friends.json) |
 | FrogBall | 182169 | [182169-frogball.json](./182169-frogball.json) |
