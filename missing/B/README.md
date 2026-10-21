@@ -724,6 +724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3163,6 +3164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleborn: Oscar Mike vs. The Battle School | 403138 | [403138-battleborn-oscar-mike-vs-the-battle-school.json](./403138-battleborn-oscar-mike-vs-the-battle-school.json) |
 | Battleborn: Phoebe and the Heart of Ekkunar | 403141 | [403141-battleborn-phoebe-and-the-heart-of-ekkunar.json](./403141-battleborn-phoebe-and-the-heart-of-ekkunar.json) |
 | Battleborn: Toby's Friendship Raid | 403135 | [403135-battleborn-tobys-friendship-raid.json](./403135-battleborn-tobys-friendship-raid.json) |
+| Battlebots | 198698 | [198698-battlebots.json](./198698-battlebots.json) |
 | Battlebots | 200686 | [200686-battlebots.json](./200686-battlebots.json) |
 | Battlecade | 276256 | [276256-battlecade.json](./276256-battlecade.json) |
 | BattleCap | 302105 | [302105-battlecap.json](./302105-battlecap.json) |
@@ -4525,6 +4527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beetle Uprising | 55506 | [55506-beetle-uprising.json](./55506-beetle-uprising.json) |
 | Beetle.io | 240338 | [240338-beetle-io.json](./240338-beetle-io.json) |
 | Beetlebum | 204198 | [204198-beetlebum.json](./204198-beetlebum.json) |
+| Beetlejuice | 198700 | [198700-beetlejuice.json](./198700-beetlejuice.json) |
 | Beetlejuice: Bad as Can | 55287 | [55287-beetlejuice-bad-as-can.json](./55287-beetlejuice-bad-as-can.json) |
 | Beetlejuice: Horrific Hijinx from the Neitherworld! | 80889 | [80889-beetlejuice-horrific-hijinx-from-the-neitherworld.json](./80889-beetlejuice-horrific-hijinx-from-the-neitherworld.json) |
 | Beetlenaut | 62197 | [62197-beetlenaut.json](./62197-beetlenaut.json) |
@@ -9030,6 +9033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bo Bear | 347014 | [347014-bo-bear.json](./347014-bo-bear.json) |
 | Bó Cócó Zinha | 255545 | [255545-bo-coco-zinha.json](./255545-bo-coco-zinha.json) |
 | Bo Jackson Baseball | 8673 | [8673-bo-jackson-baseball.json](./8673-bo-jackson-baseball.json) |
+| Bo Jackson Football and Baseball | 198701 | [198701-bo-jackson-football-and-baseball.json](./198701-bo-jackson-football-and-baseball.json) |
 | Bō: Path of the Teal Lotus - Tanuki Kabuki | 335294 | [335294-bo-path-of-the-teal-lotus-tanuki-kabuki.json](./335294-bo-path-of-the-teal-lotus-tanuki-kabuki.json) |
 | Boa Retina | 134663 | [134663-boa-retina.json](./134663-boa-retina.json) |
 | BOAA: Baako | 138222 | [138222-boaa-baako.json](./138222-boaa-baako.json) |
@@ -12160,6 +12164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bruce and Box | 300777 | [300777-bruce-and-box.json](./300777-bruce-and-box.json) |
 | Bruce Campbell vs Ganon | 251701 | [251701-bruce-campbell-vs-ganon.json](./251701-bruce-campbell-vs-ganon.json) |
 | Bruce Lee | 13447 | [13447-bruce-lee.json](./13447-bruce-lee.json) |
+| Bruce Lee | 198702 | [198702-bruce-lee.json](./198702-bruce-lee.json) |
 | Bruce Lee Dragon Run | 103926 | [103926-bruce-lee-dragon-run.json](./103926-bruce-lee-dragon-run.json) |
 | Bruce Lee II | 41203 | [41203-bruce-lee-ii.json](./41203-bruce-lee-ii.json) |
 | Bruce Lee: Dragon Warrior HD | 66740 | [66740-bruce-lee-dragon-warrior-hd.json](./66740-bruce-lee-dragon-warrior-hd.json) |
@@ -12208,11 +12213,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal Doom | 126295 | [126295-brutal-doom.json](./126295-brutal-doom.json) |
 | Brutal Doom 64 | 25583 | [25583-brutal-doom-64.json](./25583-brutal-doom-64.json) |
 | Brutal Doom: Ali Jr's Challenge | 199067 | [199067-brutal-doom-ali-jrs-challenge.json](./199067-brutal-doom-ali-jrs-challenge.json) |
+| Brutal Doom: ZioMcCall's Vision | 198693 | [198693-brutal-doom-ziomccalls-vision.json](./198693-brutal-doom-ziomccalls-vision.json) |
 | Brutal Half-Life | 195991 | [195991-brutal-half-life.json](./195991-brutal-half-life.json) |
 | Brutal Inventions | 88003 | [88003-brutal-inventions.json](./88003-brutal-inventions.json) |
 | Brutal John 2 | 199287 | [199287-brutal-john-2.json](./199287-brutal-john-2.json) |
 | Brutal Katana | 304832 | [304832-brutal-katana.json](./304832-brutal-katana.json) |
 | Brutal Mario | 132862 | [132862-brutal-mario.json](./132862-brutal-mario.json) |
+| Brutal Minecraft Eternal | 198682 | [198682-brutal-minecraft-eternal.json](./198682-brutal-minecraft-eternal.json) |
 | Brutal MooD | 95589 | [95589-brutal-mood.json](./95589-brutal-mood.json) |
 | Brutal Rage | 132657 | [132657-brutal-rage.json](./132657-brutal-rage.json) |
 | Brutal Runner | 81049 | [81049-brutal-runner.json](./81049-brutal-runner.json) |
@@ -12220,11 +12227,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal Sports Football | 14350 | [14350-brutal-sports-football.json](./14350-brutal-sports-football.json) |
 | Brutal Sports Football | 40814 | [40814-brutal-sports-football.json](./40814-brutal-sports-football.json) |
 | Brutal Street 2 | 103893 | [103893-brutal-street-2.json](./103893-brutal-street-2.json) |
+| Brutal Strife | 198683 | [198683-brutal-strife.json](./198683-brutal-strife.json) |
 | Brutal Strike | 235459 | [235459-brutal-strike.json](./235459-brutal-strike.json) |
 | Brutal Universe | 178979 | [178979-brutal-universe.json](./178979-brutal-universe.json) |
 | Brutal Unreal 99 | 202848 | [202848-brutal-unreal-99.json](./202848-brutal-unreal-99.json) |
 | Brutal Warrior | 114439 | [114439-brutal-warrior.json](./114439-brutal-warrior.json) |
 | Brutal Wizardry | 159869 | [159869-brutal-wizardry.json](./159869-brutal-wizardry.json) |
+| Brutal Wolfenstein 3D | 198685 | [198685-brutal-wolfenstein-3d.json](./198685-brutal-wolfenstein-3d.json) |
+| Brutal Wolfenstein: Uber Hero Edition | 198684 | [198684-brutal-wolfenstein-uber-hero-edition.json](./198684-brutal-wolfenstein-uber-hero-edition.json) |
 | Brutal: Above the Claw | 45879 | [45879-brutal-above-the-claw.json](./45879-brutal-above-the-claw.json) |
 | Brutal: Paws of Fury | 4449 | [4449-brutal-paws-of-fury.json](./4449-brutal-paws-of-fury.json) |
 | BrutalAliens | 107903 | [107903-brutalaliens.json](./107903-brutalaliens.json) |
@@ -12751,6 +12761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BugPot | 419991 | [419991-bugpot.json](./419991-bugpot.json) |
 | Bugs | 332238 | [332238-bugs.json](./332238-bugs.json) |
 | Bugs and Bullets | 235055 | [235055-bugs-and-bullets.json](./235055-bugs-and-bullets.json) |
+| Bugs Bunny | 198703 | [198703-bugs-bunny.json](./198703-bugs-bunny.json) |
 | Bugs Bunny | 46887 | [46887-bugs-bunny.json](./46887-bugs-bunny.json) |
 | Bugs Bunny & Taz: Time Busters | 3045 | [3045-bugs-bunny-and-taz-time-busters.json](./3045-bugs-bunny-and-taz-time-busters.json) |
 | Bugs Bunny Birthday Bash | 283812 | [283812-bugs-bunny-birthday-bash.json](./283812-bugs-bunny-birthday-bash.json) |
@@ -13749,6 +13760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butt Naked & Big Guns | 158208 | [158208-butt-naked-and-big-guns.json](./158208-butt-naked-and-big-guns.json) |
 | Butt Sniffin Pugs | 25645 | [25645-butt-sniffin-pugs.json](./25645-butt-sniffin-pugs.json) |
 | Butt Ugly Martians: B.K.M. Battles | 49281 | [49281-butt-ugly-martians-b-k-m-battles.json](./49281-butt-ugly-martians-b-k-m-battles.json) |
+| Butt-Ugly Martians | 198704 | [198704-butt-ugly-martians.json](./198704-butt-ugly-martians.json) |
 | Butt-Ugly Martians: Zoom or Doom | 3841 | [3841-butt-ugly-martians-zoom-or-doom.json](./3841-butt-ugly-martians-zoom-or-doom.json) |
 | Butter & Friends Babysitter Sim | 75148 | [75148-butter-and-friends-babysitter-sim.json](./75148-butter-and-friends-babysitter-sim.json) |
 | ButteredLilly's Random Quotes & Avatar Remote | 303716 | [303716-butteredlillys-random-quotes-and-avatar-remote.json](./303716-butteredlillys-random-quotes-and-avatar-remote.json) |
