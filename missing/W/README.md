@@ -6992,6 +6992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrongly Accused | 384115 | [384115-wrongly-accused.json](./384115-wrongly-accused.json) |
 | Wroom Wroom Puzzles | 261343 | [261343-wroom-wroom-puzzles.json](./261343-wroom-wroom-puzzles.json) |
 | Wroth | 271744 | [271744-wroth.json](./271744-wroth.json) |
+| Wrought Flesh | 184780 | [184780-wrought-flesh.json](./184780-wrought-flesh.json) |
 | WSC Real 08: World Snooker Championship | 5292 | [5292-wsc-real-08-world-snooker-championship.json](./5292-wsc-real-08-world-snooker-championship.json) |
 | WSC Real 11 | 95364 | [95364-wsc-real-11.json](./95364-wsc-real-11.json) |
 | Wsg | 176388 | [176388-wsg.json](./176388-wsg.json) |
