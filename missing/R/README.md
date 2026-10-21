@@ -1409,6 +1409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Random Rooms | 86761 | [86761-random-rooms.json](./86761-random-rooms.json) |
 | Random Thing Game | 236278 | [236278-random-thing-game.json](./236278-random-thing-game.json) |
 | Random War | 118807 | [118807-random-war.json](./118807-random-war.json) |
+| Random-Pac | 187085 | [187085-random-pac.json](./187085-random-pac.json) |
 | Randomax | 319752 | [319752-randomax.json](./319752-randomax.json) |
 | Randomice | 294044 | [294044-randomice.json](./294044-randomice.json) |
 | RandoMine | 221098 | [221098-randomine.json](./221098-randomine.json) |
@@ -4515,6 +4516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retribution | 94404 | [94404-retribution.json](./94404-retribution.json) |
 | Retribution: 25th Anniversary Edition | 324749 | [324749-retribution-25th-anniversary-edition.json](./324749-retribution-25th-anniversary-edition.json) |
 | Retribution: Universal Requiem | 164875 | [164875-retribution-universal-requiem.json](./164875-retribution-universal-requiem.json) |
+| Retrievable | 187106 | [187106-retrievable.json](./187106-retrievable.json) |
 | Retrieval | 303741 | [303741-retrieval.json](./303741-retrieval.json) |
 | Retrieval | 405598 | [405598-retrieval.json](./405598-retrieval.json) |
 | Retrieving the Past: Steam Edition | 195241 | [195241-retrieving-the-past-steam-edition.json](./195241-retrieving-the-past-steam-edition.json) |
@@ -5539,6 +5541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riders of the Wild | 275835 | [275835-riders-of-the-wild.json](./275835-riders-of-the-wild.json) |
 | Riders Republic: 360 Edition | 263514 | [263514-riders-republic-360-edition.json](./263514-riders-republic-360-edition.json) |
 | Riders Republic: Complete Edition | 263515 | [263515-riders-republic-complete-edition.json](./263515-riders-republic-complete-edition.json) |
+| Riders Republic: Deluxe Edition | 187109 | [187109-riders-republic-deluxe-edition.json](./187109-riders-republic-deluxe-edition.json) |
 | Riders Republic: Freeride Edition | 201047 | [201047-riders-republic-freeride-edition.json](./201047-riders-republic-freeride-edition.json) |
 | Riders Republic: Gold Edition | 139834 | [139834-riders-republic-gold-edition.json](./139834-riders-republic-gold-edition.json) |
 | Riders Republic: Limited Edition | 139839 | [139839-riders-republic-limited-edition.json](./139839-riders-republic-limited-edition.json) |
@@ -7578,6 +7581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Citadel | 299379 | [299379-rogue-citadel.json](./299379-rogue-citadel.json) |
 | Rogue City: Casual Top Down Shooter | 266434 | [266434-rogue-city-casual-top-down-shooter.json](./266434-rogue-city-casual-top-down-shooter.json) |
 | Rogue Climber | 312746 | [312746-rogue-climber.json](./312746-rogue-climber.json) |
+| Rogue Command | 187101 | [187101-rogue-command.json](./187101-rogue-command.json) |
 | Rogue Company | 122235 | [122235-rogue-company.json](./122235-rogue-company.json) |
 | Rogue Company Mobile | 175694 | [175694-rogue-company-mobile.json](./175694-rogue-company-mobile.json) |
 | Rogue Company: Cannon Holiday Pack | 406763 | [406763-rogue-company-cannon-holiday-pack.json](./406763-rogue-company-cannon-holiday-pack.json) |
@@ -8221,6 +8225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ronin Rush | 304713 | [304713-ronin-rush.json](./304713-ronin-rush.json) |
 | Ronin Trail | 206588 | [206588-ronin-trail.json](./206588-ronin-trail.json) |
 | Ronin: Samurai Redemption | 216936 | [216936-ronin-samurai-redemption.json](./216936-ronin-samurai-redemption.json) |
+| Ronin: Tales of a Ghost | 187117 | [187117-ronin-tales-of-a-ghost.json](./187117-ronin-tales-of-a-ghost.json) |
 | Ronin: The Last Samurai | 174599 | [174599-ronin-the-last-samurai.json](./174599-ronin-the-last-samurai.json) |
 | Ronin: Two Souls | 139474 | [139474-ronin-two-souls.json](./139474-ronin-two-souls.json) |
 | Ronin's Requiem | 305289 | [305289-ronins-requiem.json](./305289-ronins-requiem.json) |
