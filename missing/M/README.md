@@ -273,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Head | 311471 | [311471-mad-head.json](./311471-mad-head.json) |
 | Mad Hunter | 30416 | [30416-mad-hunter.json](./30416-mad-hunter.json) |
 | Mad Hunting Simulator VR | 113268 | [113268-mad-hunting-simulator-vr.json](./113268-mad-hunting-simulator-vr.json) |
+| Mad Island | 184247 | [184247-mad-island.json](./184247-mad-island.json) |
 | Mad Jyacer | 276250 | [276250-mad-jyacer.json](./276250-mad-jyacer.json) |
 | Mad King Redemption | 361874 | [361874-mad-king-redemption.json](./361874-mad-king-redemption.json) |
 | Mad King's Lair: Tome of Destruction | 266755 | [266755-mad-kings-lair-tome-of-destruction.json](./266755-mad-kings-lair-tome-of-destruction.json) |
@@ -11207,6 +11208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moe Moe World War II-3 | 120374 | [120374-moe-moe-world-war-ii-3.json](./120374-moe-moe-world-war-ii-3.json) |
 | Moe Moe World War II-3: Deluxe Edition | 128903 | [128903-moe-moe-world-war-ii-3-deluxe-edition.json](./128903-moe-moe-world-war-ii-3-deluxe-edition.json) |
 | Moe Moe: No Limit Off Beat Action Shooting | 343416 | [343416-moe-moe-no-limit-off-beat-action-shooting.json](./343416-moe-moe-no-limit-off-beat-action-shooting.json) |
+| Moe Outbreak | 184267 | [184267-moe-outbreak.json](./184267-moe-outbreak.json) |
 | Moe Reversi | 113482 | [113482-moe-reversi.json](./113482-moe-reversi.json) |
 | Moe Slot Beach no Shizuku | 292088 | [292088-moe-slot-beach-no-shizuku.json](./292088-moe-slot-beach-no-shizuku.json) |
 | Moe Waifu H | 240179 | [240179-moe-waifu-h.json](./240179-moe-waifu-h.json) |
@@ -14654,6 +14656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder at Masquerade Manor | 223682 | [223682-murder-at-masquerade-manor.json](./223682-murder-at-masquerade-manor.json) |
 | Murder at Midnight | 146697 | [146697-murder-at-midnight.json](./146697-murder-at-midnight.json) |
 | Murder at Mystic High | 252279 | [252279-murder-at-mystic-high.json](./252279-murder-at-mystic-high.json) |
+| Murder at Ravenswood | 184225 | [184225-murder-at-ravenswood.json](./184225-murder-at-ravenswood.json) |
 | Murder at the Birch Tree Theater | 296477 | [296477-murder-at-the-birch-tree-theater.json](./296477-murder-at-the-birch-tree-theater.json) |
 | Murder at the Cat Show | 194317 | [194317-murder-at-the-cat-show.json](./194317-murder-at-the-cat-show.json) |
 | Murder at the Disco | 271792 | [271792-murder-at-the-disco.json](./271792-murder-at-the-disco.json) |
@@ -14775,6 +14778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murk | 143924 | [143924-murk.json](./143924-murk.json) |
 | Murkon's Refuge | 65490 | [65490-murkons-refuge.json](./65490-murkons-refuge.json) |
 | Murkon's Vengeance | 65491 | [65491-murkons-vengeance.json](./65491-murkons-vengeance.json) |
+| Murky | 184237 | [184237-murky.json](./184237-murky.json) |
 | Murky Divers | 303304 | [303304-murky-divers.json](./303304-murky-divers.json) |
 | Murky Horizon | 66622 | [66622-murky-horizon.json](./66622-murky-horizon.json) |
 | Murky Waters | 133156 | [133156-murky-waters.json](./133156-murky-waters.json) |
