@@ -8148,6 +8148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silverwood Bay: An Eleanor Grey Mystery | 291246 | [291246-silverwood-bay-an-eleanor-grey-mystery.json](./291246-silverwood-bay-an-eleanor-grey-mystery.json) |
 | Silverworld | 98770 | [98770-silverworld.json](./98770-silverworld.json) |
 | Silverybield Foss | 138778 | [138778-silverybield-foss.json](./138778-silverybield-foss.json) |
+| SIM Chef: Restaurant management | 197047 | [197047-sim-chef-restaurant-management.json](./197047-sim-chef-restaurant-management.json) |
 | Sim Cinema Deluxe | 139154 | [139154-sim-cinema-deluxe.json](./139154-sim-cinema-deluxe.json) |
 | SIM Dispatcher | 140311 | [140311-sim-dispatcher.json](./140311-sim-dispatcher.json) |
 | Sim Empire | 116820 | [116820-sim-empire.json](./116820-sim-empire.json) |
@@ -8765,6 +8766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sir Lancelot | 23574 | [23574-sir-lancelot.json](./23574-sir-lancelot.json) |
 | Sir Loin | 93997 | [93997-sir-loin.json](./93997-sir-loin.json) |
 | Sir Lovelot | 132982 | [132982-sir-lovelot.json](./132982-sir-lovelot.json) |
+| Sir Magical Jelly | 197027 | [197027-sir-magical-jelly.json](./197027-sir-magical-jelly.json) |
 | Sir Noggin | 376556 | [376556-sir-noggin.json](./376556-sir-noggin.json) |
 | Sir Questionnaire | 96201 | [96201-sir-questionnaire.json](./96201-sir-questionnaire.json) |
 | Sir Squire | 220496 | [220496-sir-squire.json](./220496-sir-squire.json) |
@@ -14458,6 +14460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Ball | 86751 | [86751-space-ball.json](./86751-space-ball.json) |
 | Space Ball VR | 258602 | [258602-space-ball-vr.json](./258602-space-ball-vr.json) |
 | Space Baller | 133431 | [133431-space-baller.json](./133431-space-baller.json) |
+| Space Ballers | 197163 | [197163-space-ballers.json](./197163-space-ballers.json) |
 | Space Ballet | 25758 | [25758-space-ballet.json](./25758-space-ballet.json) |
 | Space Bandit | 150577 | [150577-space-bandit.json](./150577-space-bandit.json) |
 | Space Bandits | 42176 | [42176-space-bandits.json](./42176-space-bandits.json) |
@@ -20524,6 +20527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone House Orphanage | 153127 | [153127-stone-house-orphanage.json](./153127-stone-house-orphanage.json) |
 | Stone In Galaxy | 112796 | [112796-stone-in-galaxy.json](./112796-stone-in-galaxy.json) |
 | Stone it! | 157422 | [157422-stone-it.json](./157422-stone-it.json) |
+| Stone Mirth on Earth | 197159 | [197159-stone-mirth-on-earth.json](./197159-stone-mirth-on-earth.json) |
 | Stone of Adventure | 421827 | [421827-stone-of-adventure.json](./421827-stone-of-adventure.json) |
 | Stone of Destiny | 242796 | [242796-stone-of-destiny.json](./242796-stone-of-destiny.json) |
 | Stone Rage | 74256 | [74256-stone-rage.json](./74256-stone-rage.json) |
@@ -21016,6 +21020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strawberry Park | 312732 | [312732-strawberry-park.json](./312732-strawberry-park.json) |
 | Strawberry Punch | 130664 | [130664-strawberry-punch.json](./130664-strawberry-punch.json) |
 | Strawberry Quest | 382370 | [382370-strawberry-quest.json](./382370-strawberry-quest.json) |
+| Strawberry Samurai | 197024 | [197024-strawberry-samurai.json](./197024-strawberry-samurai.json) |
 | Strawberry Shortcake: And Her Berry Best Friends | 23813 | [23813-strawberry-shortcake-and-her-berry-best-friends.json](./23813-strawberry-shortcake-and-her-berry-best-friends.json) |
 | Strawberry Shortcake: Berry Rush | 259535 | [259535-strawberry-shortcake-berry-rush.json](./259535-strawberry-shortcake-berry-rush.json) |
 | Strawberry Shortcake: Summertime Adventure - Special Edition | 49501 | [49501-strawberry-shortcake-summertime-adventure-special-edition.json](./49501-strawberry-shortcake-summertime-adventure-special-edition.json) |
