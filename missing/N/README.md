@@ -3084,6 +3084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nickelodeon All-Star Brawl 2: Ultimate Edition | 275498 | [275498-nickelodeon-all-star-brawl-2-ultimate-edition.json](./275498-nickelodeon-all-star-brawl-2-ultimate-edition.json) |
 | Nickelodeon All-Star Brawl 2: Zuko Brawl Pack | 300929 | [300929-nickelodeon-all-star-brawl-2-zuko-brawl-pack.json](./300929-nickelodeon-all-star-brawl-2-zuko-brawl-pack.json) |
 | Nickelodeon All-Star Brawl: Hugh Neutron | 212790 | [212790-nickelodeon-all-star-brawl-hugh-neutron.json](./212790-nickelodeon-all-star-brawl-hugh-neutron.json) |
+| Nickelodeon All-Star Brawl: Jenny | 202624 | [202624-nickelodeon-all-star-brawl-jenny.json](./202624-nickelodeon-all-star-brawl-jenny.json) |
 | Nickelodeon All-Star Brawl: Rocko Brawler Pack | 230985 | [230985-nickelodeon-all-star-brawl-rocko-brawler-pack.json](./230985-nickelodeon-all-star-brawl-rocko-brawler-pack.json) |
 | Nickelodeon All-Star Brawl: StageHazardRemoverMod | 330977 | [330977-nickelodeon-all-star-brawl-stagehazardremovermod.json](./330977-nickelodeon-all-star-brawl-stagehazardremovermod.json) |
 | Nickelodeon All-Star Brawl: Turbo Mode | 330975 | [330975-nickelodeon-all-star-brawl-turbo-mode.json](./330975-nickelodeon-all-star-brawl-turbo-mode.json) |
