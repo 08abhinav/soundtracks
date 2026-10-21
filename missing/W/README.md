@@ -764,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of the Vikings | 5678 | [5678-war-of-the-vikings.json](./5678-war-of-the-vikings.json) |
 | War of the Visions: Final Fantasy Brave Exvius | 112885 | [112885-war-of-the-visions-final-fantasy-brave-exvius.json](./112885-war-of-the-visions-final-fantasy-brave-exvius.json) |
 | War of the Western Deep | 310069 | [310069-war-of-the-western-deep.json](./310069-war-of-the-western-deep.json) |
+| War of the Worlds | 175633 | [175633-war-of-the-worlds.json](./175633-war-of-the-worlds.json) |
 | War of the Worlds | 232866 | [232866-war-of-the-worlds.json](./232866-war-of-the-worlds.json) |
 | War of the Worlds | 333949 | [333949-war-of-the-worlds.json](./333949-war-of-the-worlds.json) |
 | War of the Worlds | 39425 | [39425-war-of-the-worlds.json](./39425-war-of-the-worlds.json) |
@@ -1050,6 +1051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wargame: Red Dragon - Double Nation Pack Reds | 226885 | [226885-wargame-red-dragon-double-nation-pack-reds.json](./226885-wargame-red-dragon-double-nation-pack-reds.json) |
 | Wargame: Red Dragon - Nation Pack: Israel | 226884 | [226884-wargame-red-dragon-nation-pack-israel.json](./226884-wargame-red-dragon-nation-pack-israel.json) |
 | Wargame: Red Dragon - Nation Pack: Netherlands | 170456 | [170456-wargame-red-dragon-nation-pack-netherlands.json](./170456-wargame-red-dragon-nation-pack-netherlands.json) |
+| Wargame: Red Dragon - Nation Pack: South Africa | 174537 | [174537-wargame-red-dragon-nation-pack-south-africa.json](./174537-wargame-red-dragon-nation-pack-south-africa.json) |
 | Wargame: Red Dragon - Norse Dragons | 170454 | [170454-wargame-red-dragon-norse-dragons.json](./170454-wargame-red-dragon-norse-dragons.json) |
 | Wargame: Red Dragon - Second Korean War | 170455 | [170455-wargame-red-dragon-second-korean-war.json](./170455-wargame-red-dragon-second-korean-war.json) |
 | Wargame: Red Dragon - The Millionth Mile | 170457 | [170457-wargame-red-dragon-the-millionth-mile.json](./170457-wargame-red-dragon-the-millionth-mile.json) |
@@ -1864,6 +1866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Me! | 202649 | [202649-water-me.json](./202649-water-me.json) |
 | Water of M | 399065 | [399065-water-of-m.json](./399065-water-of-m.json) |
 | Water Park: Fun Water Slides | 96974 | [96974-water-park-fun-water-slides.json](./96974-water-park-fun-water-slides.json) |
+| Water Physics Simulation | 175640 | [175640-water-physics-simulation.json](./175640-water-physics-simulation.json) |
 | Water Pipeline | 55235 | [55235-water-pipeline.json](./55235-water-pipeline.json) |
 | Water Pipes | 104092 | [104092-water-pipes.json](./104092-water-pipes.json) |
 | Water Pipes 3 | 102842 | [102842-water-pipes-3.json](./102842-water-pipes-3.json) |
@@ -4160,6 +4163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildlife Rescue Simulator | 287695 | [287695-wildlife-rescue-simulator.json](./287695-wildlife-rescue-simulator.json) |
 | Wildlife Simulator: Bear | 86905 | [86905-wildlife-simulator-bear.json](./86905-wildlife-simulator-bear.json) |
 | Wildlife Simulator: Crocodile | 96723 | [96723-wildlife-simulator-crocodile.json](./96723-wildlife-simulator-crocodile.json) |
+| Wildlife Simulator: Shark | 175575 | [175575-wildlife-simulator-shark.json](./175575-wildlife-simulator-shark.json) |
 | Wildlife Simulator: Wolf | 86902 | [86902-wildlife-simulator-wolf.json](./86902-wildlife-simulator-wolf.json) |
 | WildLife Tetris | 144621 | [144621-wildlife-tetris.json](./144621-wildlife-tetris.json) |
 | Wildlife Tycoon: Venture Africa | 91661 | [91661-wildlife-tycoon-venture-africa.json](./91661-wildlife-tycoon-venture-africa.json) |
@@ -4878,6 +4882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Slide | 190413 | [190413-witch-slide.json](./190413-witch-slide.json) |
 | Witch Soup | 176490 | [176490-witch-soup.json](./176490-witch-soup.json) |
 | Witch Spring 2 | 174732 | [174732-witch-spring-2.json](./174732-witch-spring-2.json) |
+| Witch Spring 3 | 174526 | [174526-witch-spring-3.json](./174526-witch-spring-3.json) |
 | Witch Spring 4 | 174733 | [174733-witch-spring-4.json](./174733-witch-spring-4.json) |
 | Witch Stone | 165665 | [165665-witch-stone.json](./165665-witch-stone.json) |
 | Witch Stories | 329681 | [329681-witch-stories.json](./329681-witch-stories.json) |
@@ -6298,6 +6303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Subways: Volume 1 - The Path | 36284 | [36284-world-of-subways-volume-1-the-path.json](./36284-world-of-subways-volume-1-the-path.json) |
 | World of Subways: Volume 2 - U7 Berlin | 17999 | [17999-world-of-subways-volume-2-u7-berlin.json](./17999-world-of-subways-volume-2-u7-berlin.json) |
 | World of Subways: Volume 3 - London Underground Circle Line | 18000 | [18000-world-of-subways-volume-3-london-underground-circle-line.json](./18000-world-of-subways-volume-3-london-underground-circle-line.json) |
+| World of Sword 3 | 174527 | [174527-world-of-sword-3.json](./174527-world-of-sword-3.json) |
 | World of Talesworth: Idle MMO Simulator | 212897 | [212897-world-of-talesworth-idle-mmo-simulator.json](./212897-world-of-talesworth-idle-mmo-simulator.json) |
 | World of Tanks - Panther/M10 Pack (VII German Medium Tank) | 398326 | [398326-world-of-tanks-panther-m10-pack-vii-german-medium-tank.json](./398326-world-of-tanks-panther-m10-pack-vii-german-medium-tank.json) |
 | World of Tanks 2.0 | 361878 | [361878-world-of-tanks-2-0.json](./361878-world-of-tanks-2-0.json) |
