@@ -3702,6 +3702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Errant: Hunter's Soul | 200748 | [200748-errant-hunters-soul.json](./200748-errant-hunters-soul.json) |
 | Errante | 185559 | [185559-errante.json](./185559-errante.json) |
 | Errasaga | 381599 | [381599-errasaga.json](./381599-errasaga.json) |
+| Erroneous | 199263 | [199263-erroneous.json](./199263-erroneous.json) |
 | Error | 112907 | [112907-error.json](./112907-error.json) |
 | Error | 142776 | [142776-error.json](./142776-error.json) |
 | Error #53 | 63010 | [63010-error-53.json](./63010-error-53.json) |
