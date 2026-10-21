@@ -3687,6 +3687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lighthouse of the Souls | 344966 | [344966-lighthouse-of-the-souls.json](./344966-lighthouse-of-the-souls.json) |
 | Lighthouse Simulator | 262802 | [262802-lighthouse-simulator.json](./262802-lighthouse-simulator.json) |
 | Lighthouse: The Dark Being | 12439 | [12439-lighthouse-the-dark-being.json](./12439-lighthouse-the-dark-being.json) |
+| Lighting Climbing | 195391 | [195391-lighting-climbing.json](./195391-lighting-climbing.json) |
 | Lighting End VR | 29677 | [29677-lighting-end-vr.json](./29677-lighting-end-vr.json) |
 | Lighting Lanterns | 346593 | [346593-lighting-lanterns.json](./346593-lighting-lanterns.json) |
 | Lightkeeper | 375543 | [375543-lightkeeper.json](./375543-lightkeeper.json) |
