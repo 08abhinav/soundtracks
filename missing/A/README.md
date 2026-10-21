@@ -656,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A New Reckoning | 61707 | [61707-a-new-reckoning.json](./61707-a-new-reckoning.json) |
 | A New World | 268882 | [268882-a-new-world.json](./268882-a-new-world.json) |
 | A New World Of Turnabouts | 303770 | [303770-a-new-world-of-turnabouts.json](./303770-a-new-world-of-turnabouts.json) |
+| A Night at Manster Mansion | 178826 | [178826-a-night-at-manster-mansion.json](./178826-a-night-at-manster-mansion.json) |
 | A Night at Moka Efti: A Babylon Berlin Story | 409210 | [409210-a-night-at-moka-efti-a-babylon-berlin-story.json](./409210-a-night-at-moka-efti-a-babylon-berlin-story.json) |
 | A Night at Sea | 228996 | [228996-a-night-at-sea.json](./228996-a-night-at-sea.json) |
 | A Night at the Watermill | 266072 | [266072-a-night-at-the-watermill.json](./266072-a-night-at-the-watermill.json) |
@@ -4383,6 +4384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akina: Dotei Hunt Hen | 97773 | [97773-akina-dotei-hunt-hen.json](./97773-akina-dotei-hunt-hen.json) |
 | Akinakes | 342231 | [342231-akinakes.json](./342231-akinakes.json) |
 | Akindo | 200052 | [200052-akindo.json](./200052-akindo.json) |
+| Akir8 | 178852 | [178852-akir8.json](./178852-akir8.json) |
 | Akira | 14234 | [14234-akira.json](./14234-akira.json) |
 | Akira | 248743 | [248743-akira.json](./248743-akira.json) |
 | Akira | 248744 | [248744-akira.json](./248744-akira.json) |
@@ -8441,6 +8443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anywhere You've Been | 178601 | [178601-anywhere-youve-been.json](./178601-anywhere-youve-been.json) |
 | AnywhereVR | 115772 | [115772-anywherevr.json](./115772-anywherevr.json) |
 | Anzeigenhauptmeister Simulator | 292510 | [292510-anzeigenhauptmeister-simulator.json](./292510-anzeigenhauptmeister-simulator.json) |
+| Anzu | 178846 | [178846-anzu.json](./178846-anzu.json) |
 | Anzu | 325056 | [325056-anzu.json](./325056-anzu.json) |
 | AO International Tennis | 98964 | [98964-ao-international-tennis.json](./98964-ao-international-tennis.json) |
 | Ao no Kanata no Four Rhythm 4th Anniversary Box | 124030 | [124030-ao-no-kanata-no-four-rhythm-4th-anniversary-box.json](./124030-ao-no-kanata-no-four-rhythm-4th-anniversary-box.json) |
@@ -10194,6 +10197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argos | 12256 | [12256-argos.json](./12256-argos.json) |
 | Argos: Riders on the Storm | 224509 | [224509-argos-riders-on-the-storm.json](./224509-argos-riders-on-the-storm.json) |
 | Argosy | 408092 | [408092-argosy.json](./408092-argosy.json) |
+| Argousze | 178853 | [178853-argousze.json](./178853-argousze.json) |
 | Arguice no Tsubasa | 381406 | [381406-arguice-no-tsubasa.json](./381406-arguice-no-tsubasa.json) |
 | Argument Wars | 207833 | [207833-argument-wars.json](./207833-argument-wars.json) |
 | Argumentum Ad Culpam | 248012 | [248012-argumentum-ad-culpam.json](./248012-argumentum-ad-culpam.json) |
