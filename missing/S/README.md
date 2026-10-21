@@ -4701,6 +4701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sewer Raiders | 385929 | [385929-sewer-raiders.json](./385929-sewer-raiders.json) |
 | Sewer Rave | 125326 | [125326-sewer-rave.json](./125326-sewer-rave.json) |
 | Sewer Run | 194847 | [194847-sewer-run.json](./194847-sewer-run.json) |
+| Sewer's Plague: Into the nest | 179895 | [179895-sewers-plague-into-the-nest.json](./179895-sewers-plague-into-the-nest.json) |
 | Sewercide | 385930 | [385930-sewercide.json](./385930-sewercide.json) |
 | Sewermania | 42179 | [42179-sewermania.json](./42179-sewermania.json) |
 | Sewing Machine Simulator | 312435 | [312435-sewing-machine-simulator.json](./312435-sewing-machine-simulator.json) |
@@ -7513,6 +7514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuyan Saga: All Episodes | 103995 | [103995-shuyan-saga-all-episodes.json](./103995-shuyan-saga-all-episodes.json) |
 | Shuyun Huazhang | 335360 | [335360-shuyun-huazhang.json](./335360-shuyun-huazhang.json) |
 | Shwip | 71778 | [71778-shwip.json](./71778-shwip.json) |
+| Shy | 179927 | [179927-shy.json](./179927-shy.json) |
 | Shy Boy: Escape Game | 223915 | [223915-shy-boy-escape-game.json](./223915-shy-boy-escape-game.json) |
 | Shy Bunnies | 95834 | [95834-shy-bunnies.json](./95834-shy-bunnies.json) |
 | Shy Cats + Shy Dogs | 332039 | [332039-shy-cats-shy-dogs.json](./332039-shy-cats-shy-dogs.json) |
@@ -23617,6 +23619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Drift 3D | 252111 | [252111-super-drift-3d.json](./252111-super-drift-3d.json) |
 | Super Drift Blade | 310056 | [310056-super-drift-blade.json](./310056-super-drift-blade.json) |
 | Super Drift Out | 42417 | [42417-super-drift-out.json](./42417-super-drift-out.json) |
+| Super Drill Defense+ | 179929 | [179929-super-drill-defense.json](./179929-super-drill-defense.json) |
 | Super Drill Diver! | 176959 | [176959-super-drill-diver.json](./176959-super-drill-diver.json) |
 | Super Drill Panic | 398996 | [398996-super-drill-panic.json](./398996-super-drill-panic.json) |
 | Super Drink Bros. | 141162 | [141162-super-drink-bros.json](./141162-super-drink-bros.json) |
