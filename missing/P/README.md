@@ -587,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paintball Madness | 356204 | [356204-paintball-madness.json](./356204-paintball-madness.json) |
 | Paintball NET | 125951 | [125951-paintball-net.json](./125951-paintball-net.json) |
 | PaintBall War 2 | 154464 | [154464-paintball-war-2.json](./154464-paintball-war-2.json) |
+| Paintball with Friends | 195940 | [195940-paintball-with-friends.json](./195940-paintball-with-friends.json) |
 | Paintballers: MLPB 2024 | 295344 | [295344-paintballers-mlpb-2024.json](./295344-paintballers-mlpb-2024.json) |
 | Paintboss - Car Painting VR | 75909 | [75909-paintboss-car-painting-vr.json](./75909-paintboss-car-painting-vr.json) |
 | Paintbrush Warrior | 339130 | [339130-paintbrush-warrior.json](./339130-paintbrush-warrior.json) |
@@ -1426,6 +1427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Par 72 Golf IV | 95696 | [95696-par-72-golf-iv.json](./95696-par-72-golf-iv.json) |
 | Par Golf | 92101 | [92101-par-golf.json](./92101-par-golf.json) |
 | Para Bellum | 297877 | [297877-para-bellum.json](./297877-para-bellum.json) |
+| Para Bellum: Hold the Line | 195914 | [195914-para-bellum-hold-the-line.json](./195914-para-bellum-hold-the-line.json) |
 | Para Eyes | 201525 | [201525-para-eyes.json](./201525-para-eyes.json) |
 | Para Para Paradise | 395996 | [395996-para-para-paradise.json](./395996-para-para-paradise.json) |
 | Para-Lax | 211144 | [211144-para-lax.json](./211144-para-lax.json) |
@@ -1801,6 +1803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Park Inc | 146878 | [146878-park-inc.json](./146878-park-inc.json) |
 | Park It at All Costs! | 373125 | [373125-park-it-at-all-costs.json](./373125-park-it-at-all-costs.json) |
 | Park It! | 310740 | [310740-park-it.json](./310740-park-it.json) |
+| Park Life: Circuit of Happiness | 195918 | [195918-park-life-circuit-of-happiness.json](./195918-park-life-circuit-of-happiness.json) |
 | Park Master | 254751 | [254751-park-master.json](./254751-park-master.json) |
 | Park My Car | 392198 | [392198-park-my-car.json](./392198-park-my-car.json) |
 | Park of Monster | 120906 | [120906-park-of-monster.json](./120906-park-of-monster.json) |
