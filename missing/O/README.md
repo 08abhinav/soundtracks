@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Occult Crime Police | 178899 | [178899-occult-crime-police.json](./178899-occult-crime-police.json) |
 | Occult PreRaise | 74980 | [74980-occult-preraise.json](./74980-occult-preraise.json) |
 | Occult Raise | 43110 | [43110-occult-raise.json](./43110-occult-raise.json) |
+| Occult: Satanic interrogation | 174574 | [174574-occult-satanic-interrogation.json](./174574-occult-satanic-interrogation.json) |
 | Occult: Scarlet Elegy | 404973 | [404973-occult-scarlet-elegy.json](./404973-occult-scarlet-elegy.json) |
 | OcculThieves | 272374 | [272374-occulthieves.json](./272374-occulthieves.json) |
 | Occultism | 347478 | [347478-occultism.json](./347478-occultism.json) |
@@ -2884,6 +2885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbatak | 217881 | [217881-orbatak.json](./217881-orbatak.json) |
 | Orbatron | 149955 | [149955-orbatron.json](./149955-orbatron.json) |
 | Orbb | 68917 | [68917-orbb.json](./68917-orbb.json) |
+| Orbeat: Pop Asteroids on Beat | 175571 | [175571-orbeat-pop-asteroids-on-beat.json](./175571-orbeat-pop-asteroids-on-beat.json) |
 | Orbeats | 290995 | [290995-orbeats.json](./290995-orbeats.json) |
 | Orbem Explore | 307874 | [307874-orbem-explore.json](./307874-orbem-explore.json) |
 | Orbfall | 403097 | [403097-orbfall.json](./403097-orbfall.json) |
@@ -2935,6 +2937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital Dogfight VR | 117661 | [117661-orbital-dogfight-vr.json](./117661-orbital-dogfight-vr.json) |
 | Orbital Drop Shipping | 257919 | [257919-orbital-drop-shipping.json](./257919-orbital-drop-shipping.json) |
 | Orbital Frenzy | 376452 | [376452-orbital-frenzy.json](./376452-orbital-frenzy.json) |
+| Orbital HD | 175574 | [175574-orbital-hd.json](./175574-orbital-hd.json) |
 | Orbital Invaders | 156656 | [156656-orbital-invaders.json](./156656-orbital-invaders.json) |
 | Orbital Maintenance Technician | 419344 | [419344-orbital-maintenance-technician.json](./419344-orbital-maintenance-technician.json) |
 | Orbital Money | 223999 | [223999-orbital-money.json](./223999-orbital-money.json) |
@@ -3949,6 +3952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outdoors Unleashed: Africa 3D | 23671 | [23671-outdoors-unleashed-africa-3d.json](./23671-outdoors-unleashed-africa-3d.json) |
 | Outdoors Unlimited | 137088 | [137088-outdoors-unlimited.json](./137088-outdoors-unlimited.json) |
 | OutDrive | 18077 | [18077-outdrive.json](./18077-outdrive.json) |
+| Outer | 175597 | [175597-outer.json](./175597-outer.json) |
 | Outer Base | 259394 | [259394-outer-base.json](./259394-outer-base.json) |
 | Outer Darkness | 212963 | [212963-outer-darkness.json](./212963-outer-darkness.json) |
 | Outer Empires | 67317 | [67317-outer-empires.json](./67317-outer-empires.json) |
