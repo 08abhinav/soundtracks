@@ -4709,6 +4709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrozen | 298417 | [298417-retrozen.json](./298417-retrozen.json) |
 | Retrys | 355576 | [355576-retrys.json](./355576-retrys.json) |
 | Retsnom | 34946 | [34946-retsnom.json](./34946-retsnom.json) |
+| Rettend: File 1 | 185931 | [185931-rettend-file-1.json](./185931-rettend-file-1.json) |
 | Rettungssimulator Online | 144937 | [144937-rettungssimulator-online.json](./144937-rettungssimulator-online.json) |
 | Return | 177418 | [177418-return.json](./177418-return.json) |
 | Return | 186010 | [186010-return.json](./186010-return.json) |
@@ -7887,6 +7888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll the World | 137347 | [137347-roll-the-world.json](./137347-roll-the-world.json) |
 | Roll to Ruin | 418256 | [418256-roll-to-ruin.json](./418256-roll-to-ruin.json) |
 | Roll Turtle | 208577 | [208577-roll-turtle.json](./208577-roll-turtle.json) |
+| Roll-o-Rama | 185883 | [185883-roll-o-rama.json](./185883-roll-o-rama.json) |
 | Roll: A Puzzle Contraption | 303664 | [303664-roll-a-puzzle-contraption.json](./303664-roll-a-puzzle-contraption.json) |
 | Roll! | 110114 | [110114-roll.json](./110114-roll.json) |
 | Roll.io | 108260 | [108260-roll-io.json](./108260-roll-io.json) |
