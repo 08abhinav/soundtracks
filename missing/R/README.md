@@ -7938,6 +7938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Balls | 193428 | [193428-rolling-balls.json](./193428-rolling-balls.json) |
 | Rolling Bird | 113510 | [113510-rolling-bird.json](./113510-rolling-bird.json) |
 | Rolling Car | 156215 | [156215-rolling-car.json](./156215-rolling-car.json) |
+| Rolling Car | 198069 | [198069-rolling-car.json](./198069-rolling-car.json) |
 | Rolling Car: Deluxe Edition | 204300 | [204300-rolling-car-deluxe-edition.json](./204300-rolling-car-deluxe-edition.json) |
 | Rolling Crash | 277500 | [277500-rolling-crash.json](./277500-rolling-crash.json) |
 | Rolling Cube | 148691 | [148691-rolling-cube.json](./148691-rolling-cube.json) |
