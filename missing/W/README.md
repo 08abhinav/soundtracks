@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacky World of Sports | 5260 | [5260-wacky-world-of-sports.json](./5260-wacky-world-of-sports.json) |
 | Wacky Zoo GP | 66926 | [66926-wacky-zoo-gp.json](./66926-wacky-zoo-gp.json) |
 | Waco Resurrection | 308429 | [308429-waco-resurrection.json](./308429-waco-resurrection.json) |
+| Wadality | 189887 | [189887-wadality.json](./189887-wadality.json) |
 | Wadanohara and the Great Blue Sea | 46614 | [46614-wadanohara-and-the-great-blue-sea.json](./46614-wadanohara-and-the-great-blue-sea.json) |
 | Wadanohara and the Great Blue Sea -Reboot- | 142190 | [142190-wadanohara-and-the-great-blue-sea-reboot.json](./142190-wadanohara-and-the-great-blue-sea-reboot.json) |
 | Waddle Dev Vs Kirby Dark Dawn | 395700 | [395700-waddle-dev-vs-kirby-dark-dawn.json](./395700-waddle-dev-vs-kirby-dark-dawn.json) |
@@ -1453,6 +1454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warped Universe | 366030 | [366030-warped-universe.json](./366030-warped-universe.json) |
 | Warpfire | 364554 | [364554-warpfire.json](./364554-warpfire.json) |
 | Warpfire.io | 412425 | [412425-warpfire-io.json](./412425-warpfire-io.json) |
+| Warpflux | 189882 | [189882-warpflux.json](./189882-warpflux.json) |
 | WarpForce | 55876 | [55876-warpforce.json](./55876-warpforce.json) |
 | Warpgate Pioneers | 280105 | [280105-warpgate-pioneers.json](./280105-warpgate-pioneers.json) |
 | Warpie | 188034 | [188034-warpie.json](./188034-warpie.json) |
@@ -2563,6 +2565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to the World of ZJ the Ball | 215121 | [215121-welcome-to-the-world-of-zj-the-ball.json](./215121-welcome-to-the-world-of-zj-the-ball.json) |
 | Welcome to the Yokai Inn | 298924 | [298924-welcome-to-the-yokai-inn.json](./298924-welcome-to-the-yokai-inn.json) |
 | Welcome to West Feedback | 60764 | [60764-welcome-to-west-feedback.json](./60764-welcome-to-west-feedback.json) |
+| Welcome to Your Immune System | 189992 | [189992-welcome-to-your-immune-system.json](./189992-welcome-to-your-immune-system.json) |
 | Welcome to your Life | 403672 | [403672-welcome-to-your-life.json](./403672-welcome-to-your-life.json) |
 | Welcome to: Doki Doki Literature Club, Player! | 336089 | [336089-welcome-to-doki-doki-literature-club-player.json](./336089-welcome-to-doki-doki-literature-club-player.json) |
 | Welcome To... Chicheser OVN 3 : The Mysterious Affair At The Violet Hotel | 131587 | [131587-welcome-to-chicheser-ovn-3-the-mysterious-affair-at-the-violet-hotel.json](./131587-welcome-to-chicheser-ovn-3-the-mysterious-affair-at-the-violet-hotel.json) |
@@ -4292,6 +4295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind Giants | 334353 | [334353-wind-giants.json](./334353-wind-giants.json) |
 | Wind Horizon | 57027 | [57027-wind-horizon.json](./57027-wind-horizon.json) |
 | Wind Love | 259589 | [259589-wind-love.json](./259589-wind-love.json) |
+| Wind of Life | 189866 | [189866-wind-of-life.json](./189866-wind-of-life.json) |
 | Wind Peaks | 135843 | [135843-wind-peaks.json](./135843-wind-peaks.json) |
 | Wind Peaks 2 | 236284 | [236284-wind-peaks-2.json](./236284-wind-peaks-2.json) |
 | Wind Rider | 294258 | [294258-wind-rider.json](./294258-wind-rider.json) |
@@ -6001,6 +6005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Basketball Manager Tycoon | 9365 | [9365-world-basketball-manager-tycoon.json](./9365-world-basketball-manager-tycoon.json) |
 | World Basketball Tycoon | 52129 | [52129-world-basketball-tycoon.json](./52129-world-basketball-tycoon.json) |
 | World Beast War | 138230 | [138230-world-beast-war.json](./138230-world-beast-war.json) |
+| World Boss | 189872 | [189872-world-boss.json](./189872-world-boss.json) |
 | World Bowling | 49005 | [49005-world-bowling.json](./49005-world-bowling.json) |
 | World Boxing | 48599 | [48599-world-boxing.json](./48599-world-boxing.json) |
 | World Boxing Challenge | 237372 | [237372-world-boxing-challenge.json](./237372-world-boxing-challenge.json) |
@@ -6441,6 +6446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Tour Tennis | 29140 | [29140-world-tour-tennis.json](./29140-world-tour-tennis.json) |
 | World Travel Solitaire | 415964 | [415964-world-travel-solitaire.json](./415964-world-travel-solitaire.json) |
 | World Traveler VR | 118990 | [118990-world-traveler-vr.json](./118990-world-traveler-vr.json) |
+| World Tree | 189999 | [189999-world-tree.json](./189999-world-tree.json) |
 | World Tree Inferno | 347198 | [347198-world-tree-inferno.json](./347198-world-tree-inferno.json) |
 | World Trigger: Borderless Mission | 12892 | [12892-world-trigger-borderless-mission.json](./12892-world-trigger-borderless-mission.json) |
 | World Truck Driving Simulator | 103891 | [103891-world-truck-driving-simulator.json](./103891-world-truck-driving-simulator.json) |
