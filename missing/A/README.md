@@ -1078,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Whittle Tale | 384174 | [384174-a-whittle-tale.json](./384174-a-whittle-tale.json) |
 | A Whole New Ball Game | 304311 | [304311-a-whole-new-ball-game.json](./304311-a-whole-new-ball-game.json) |
 | A Whole Wolfrush | 329682 | [329682-a-whole-wolfrush.json](./329682-a-whole-wolfrush.json) |
+| A Wholesome Game About Farming | 199292 | [199292-a-wholesome-game-about-farming.json](./199292-a-wholesome-game-about-farming.json) |
 | A Wild Heist | 390106 | [390106-a-wild-heist.json](./390106-a-wild-heist.json) |
 | A Wild Time Travelling Clone Dancing | 128952 | [128952-a-wild-time-travelling-clone-dancing.json](./128952-a-wild-time-travelling-clone-dancing.json) |
 | A Winding Path | 157709 | [157709-a-winding-path.json](./157709-a-winding-path.json) |
@@ -2791,6 +2792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aebal | 167174 | [167174-aebal.json](./167174-aebal.json) |
 | Aëdemphia | 125943 | [125943-aedemphia.json](./125943-aedemphia.json) |
 | Aedis Eclipse: Generation of Chaos | 44523 | [44523-aedis-eclipse-generation-of-chaos.json](./44523-aedis-eclipse-generation-of-chaos.json) |
+| Aegis Descent | 199281 | [199281-aegis-descent.json](./199281-aegis-descent.json) |
 | Aegis Dilemma: Veritas Omnia Vincit | 279265 | [279265-aegis-dilemma-veritas-omnia-vincit.json](./279265-aegis-dilemma-veritas-omnia-vincit.json) |
 | Aegis Force: The Scorian War | 328227 | [328227-aegis-force-the-scorian-war.json](./328227-aegis-force-the-scorian-war.json) |
 | Aegis Kingdoms | 216463 | [216463-aegis-kingdoms.json](./216463-aegis-kingdoms.json) |
@@ -5265,6 +5267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Abug! | 334745 | [334745-all-abug.json](./334745-all-abug.json) |
 | All Alone | 307276 | [307276-all-alone.json](./307276-all-alone.json) |
 | All Alone on a Small Island | 185013 | [185013-all-alone-on-a-small-island.json](./185013-all-alone-on-a-small-island.json) |
+| All Alone with Mannie | 199256 | [199256-all-alone-with-mannie.json](./199256-all-alone-with-mannie.json) |
 | All Ashes and Illusions | 173825 | [173825-all-ashes-and-illusions.json](./173825-all-ashes-and-illusions.json) |
 | All Aspect Warfare | 16065 | [16065-all-aspect-warfare.json](./16065-all-aspect-warfare.json) |
 | All At Once | 361005 | [361005-all-at-once.json](./361005-all-at-once.json) |
@@ -8254,6 +8257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antiny 0 | 180127 | [180127-antiny-0.json](./180127-antiny-0.json) |
 | Antioch: Scarlet Bay | 18451 | [18451-antioch-scarlet-bay.json](./18451-antioch-scarlet-bay.json) |
 | Antioma | 344912 | [344912-antioma.json](./344912-antioma.json) |
+| Antipaint | 199294 | [199294-antipaint.json](./199294-antipaint.json) |
 | Antipathy | 326668 | [326668-antipathy.json](./326668-antipathy.json) |
 | Antiphona no Seikahime: Tenshi no Score Op.A | 56523 | [56523-antiphona-no-seikahime-tenshi-no-score-op-a.json](./56523-antiphona-no-seikahime-tenshi-no-score-op-a.json) |
 | AntiPodal | 342658 | [342658-antipodal.json](./342658-antipodal.json) |
@@ -10740,6 +10744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art is dead | 273646 | [273646-art-is-dead.json](./273646-art-is-dead.json) |
 | Art Jigsaw Puzzles | 303666 | [303666-art-jigsaw-puzzles.json](./303666-art-jigsaw-puzzles.json) |
 | Art Mahjong 2 | 91526 | [91526-art-mahjong-2.json](./91526-art-mahjong-2.json) |
+| Art Mahjong 4 | 199293 | [199293-art-mahjong-4.json](./199293-art-mahjong-4.json) |
 | Art Mahjongg | 91524 | [91524-art-mahjongg.json](./91524-art-mahjongg.json) |
 | Art Mahjongg Egypt | 52423 | [52423-art-mahjongg-egypt.json](./52423-art-mahjongg-egypt.json) |
 | Art Master 2 | 227374 | [227374-art-master-2.json](./227374-art-master-2.json) |
