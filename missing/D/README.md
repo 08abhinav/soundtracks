@@ -2040,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Davy Jones' Locker | 177024 | [177024-davy-jones-locker.json](./177024-davy-jones-locker.json) |
 | Davy's Debris | 201537 | [201537-davys-debris.json](./201537-davys-debris.json) |
 | Davy's Dreams of Chasing Things | 323366 | [323366-davys-dreams-of-chasing-things.json](./323366-davys-dreams-of-chasing-things.json) |
+| Dawes-24 | 185356 | [185356-dawes-24.json](./185356-dawes-24.json) |
 | Dawgs: The Revenge | 400905 | [400905-dawgs-the-revenge.json](./400905-dawgs-the-revenge.json) |
 | Dawn | 29216 | [29216-dawn.json](./29216-dawn.json) |
 | Dawn | 319979 | [319979-dawn.json](./319979-dawn.json) |
@@ -6923,6 +6924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digseum | 325317 | [325317-digseum.json](./325317-digseum.json) |
 | DigSite | 334333 | [334333-digsite.json](./334333-digsite.json) |
 | DigWorld | 404408 | [404408-digworld.json](./404408-digworld.json) |
+| Diiwi Islands | 185358 | [185358-diiwi-islands.json](./185358-diiwi-islands.json) |
 | Dijeweled Remastered | 388905 | [388905-dijeweled-remastered.json](./388905-dijeweled-remastered.json) |
 | Dik Journey | 310920 | [310920-dik-journey.json](./310920-dik-journey.json) |
 | Dikembe Mutombo's 4 1/2 Weeks to Save the World | 79618 | [79618-dikembe-mutombos-4-1-2-weeks-to-save-the-world.json](./79618-dikembe-mutombos-4-1-2-weeks-to-save-the-world.json) |
@@ -13200,6 +13202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ducky Dan | 94212 | [94212-ducky-dan.json](./94212-ducky-dan.json) |
 | Ducky Dash | 320761 | [320761-ducky-dash.json](./320761-ducky-dash.json) |
 | Ducky Dive | 232579 | [232579-ducky-dive.json](./232579-ducky-dive.json) |
+| Ducky Sokoban | 185314 | [185314-ducky-sokoban.json](./185314-ducky-sokoban.json) |
 | Ducky: The Brave | 313577 | [313577-ducky-the-brave.json](./313577-ducky-the-brave.json) |
 | Ducky's Delivery Service | 241902 | [241902-duckys-delivery-service.json](./241902-duckys-delivery-service.json) |
 | Duco | 408956 | [408956-duco.json](./408956-duco.json) |
