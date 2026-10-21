@@ -552,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ody Mos | 201497 | [201497-ody-mos.json](./201497-ody-mos.json) |
 | Odyssee Die | 356843 | [356843-odyssee-die.json](./356843-odyssee-die.json) |
 | Odyssée Numérique | 242946 | [242946-odyssee-numerique.json](./242946-odyssee-numerique.json) |
+| Odysseus | 178255 | [178255-odysseus.json](./178255-odysseus.json) |
 | Odysseus Kosmos and his Robot Quest | 65838 | [65838-odysseus-kosmos-and-his-robot-quest.json](./65838-odysseus-kosmos-and-his-robot-quest.json) |
 | Odysseus Kosmos and his Robot Quest: Episode 1 | 81812 | [81812-odysseus-kosmos-and-his-robot-quest-episode-1.json](./81812-odysseus-kosmos-and-his-robot-quest-episode-1.json) |
 | Odysseus Kosmos and his Robot Quest: Episode 2 | 171339 | [171339-odysseus-kosmos-and-his-robot-quest-episode-2.json](./171339-odysseus-kosmos-and-his-robot-quest-episode-2.json) |
