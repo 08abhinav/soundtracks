@@ -4222,6 +4222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chalo Chalo | 34292 | [34292-chalo-chalo.json](./34292-chalo-chalo.json) |
 | Chalvo 55: Super Puzzle Action | 7821 | [7821-chalvo-55-super-puzzle-action.json](./7821-chalvo-55-super-puzzle-action.json) |
 | Chambara | 21933 | [21933-chambara.json](./21933-chambara.json) |
+| Chamber | 182693 | [182693-chamber.json](./182693-chamber.json) |
 | Chamber of Darkness | 96853 | [96853-chamber-of-darkness.json](./96853-chamber-of-darkness.json) |
 | Chamber of Hex | 257381 | [257381-chamber-of-hex.json](./257381-chamber-of-hex.json) |
 | Chamber of the Sci-Mutant Priestess | 81786 | [81786-chamber-of-the-sci-mutant-priestess.json](./81786-chamber-of-the-sci-mutant-priestess.json) |
@@ -14470,6 +14471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Rush | 112340 | [112340-cube-rush.json](./112340-cube-rush.json) |
 | Cube Samurai: RUN! | 36290 | [36290-cube-samurai-run.json](./36290-cube-samurai-run.json) |
 | Cube School | 408905 | [408905-cube-school.json](./408905-cube-school.json) |
+| Cube Shift | 182715 | [182715-cube-shift.json](./182715-cube-shift.json) |
 | Cube Smash | 129087 | [129087-cube-smash.json](./129087-cube-smash.json) |
 | Cube Snake | 318968 | [318968-cube-snake.json](./318968-cube-snake.json) |
 | Cube Snap 2 | 86882 | [86882-cube-snap-2.json](./86882-cube-snap-2.json) |
