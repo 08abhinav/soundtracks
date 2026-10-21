@@ -1549,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandle Tale: A League of Legends Story - Deluxe Edition | 283158 | [283158-bandle-tale-a-league-of-legends-story-deluxe-edition.json](./283158-bandle-tale-a-league-of-legends-story-deluxe-edition.json) |
 | Bandle Tale: Bigger-On-The-Inside Pack | 283187 | [283187-bandle-tale-bigger-on-the-inside-pack.json](./283187-bandle-tale-bigger-on-the-inside-pack.json) |
 | Bandle Tale: Scout Recon Pack | 336133 | [336133-bandle-tale-scout-recon-pack.json](./336133-bandle-tale-scout-recon-pack.json) |
+| BandMaster | 185898 | [185898-bandmaster.json](./185898-bandmaster.json) |
 | Bandocracy | 415143 | [415143-bandocracy.json](./415143-bandocracy.json) |
 | BandRoll | 236294 | [236294-bandroll.json](./236294-bandroll.json) |
 | Bane Murrain | 271080 | [271080-bane-murrain.json](./271080-bane-murrain.json) |
@@ -4978,6 +4979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BentoBot | 102084 | [102084-bentobot.json](./102084-bentobot.json) |
 | Beowulf Classic | 323805 | [323805-beowulf-classic.json](./323805-beowulf-classic.json) |
 | Beowulf: The Mobile Game | 23488 | [23488-beowulf-the-mobile-game.json](./23488-beowulf-the-mobile-game.json) |
+| Beppo's Hole in One Golf | 185932 | [185932-beppos-hole-in-one-golf.json](./185932-beppos-hole-in-one-golf.json) |
 | Bepuzzled Animals Jigsaw Puzzle | 120090 | [120090-bepuzzled-animals-jigsaw-puzzle.json](./120090-bepuzzled-animals-jigsaw-puzzle.json) |
 | Bepuzzled Jigsaw Puzzle: Aquatic | 241662 | [241662-bepuzzled-jigsaw-puzzle-aquatic.json](./241662-bepuzzled-jigsaw-puzzle-aquatic.json) |
 | Bepuzzled Jigsaw Puzzle: Japan | 241658 | [241658-bepuzzled-jigsaw-puzzle-japan.json](./241658-bepuzzled-jigsaw-puzzle-japan.json) |
@@ -10371,6 +10373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottoms Up | 176941 | [176941-bottoms-up.json](./176941-bottoms-up.json) |
 | Bottop | 329196 | [329196-bottop.json](./329196-bottop.json) |
 | Botworld Odyssey | 315339 | [315339-botworld-odyssey.json](./315339-botworld-odyssey.json) |
+| Botzin!!! | 185925 | [185925-botzin.json](./185925-botzin.json) |
 | Bou Ningen Challenge! | 222520 | [222520-bou-ningen-challenge.json](./222520-bou-ningen-challenge.json) |
 | Bou's Revenge | 308351 | [308351-bous-revenge.json](./308351-bous-revenge.json) |
 | Bouboum | 155866 | [155866-bouboum.json](./155866-bouboum.json) |
