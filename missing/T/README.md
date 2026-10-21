@@ -7072,6 +7072,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Family Skeleton | 72343 | [72343-the-family-skeleton.json](./72343-the-family-skeleton.json) |
 | The Family Trip | 394449 | [394449-the-family-trip.json](./394449-the-family-trip.json) |
 | The FamiRes | 66172 | [66172-the-famires.json](./66172-the-famires.json) |
+| The Famires: Ano Machi wo Dokusen Seyo | 178277 | [178277-the-famires-ano-machi-wo-dokusen-seyo.json](./178277-the-famires-ano-machi-wo-dokusen-seyo.json) |
+| The FamiRes: Powerup Kit | 178286 | [178286-the-famires-powerup-kit.json](./178286-the-famires-powerup-kit.json) |
 | The Famires: Shijou Saikyou no Menu | 178348 | [178348-the-famires-shijou-saikyou-no-menu.json](./178348-the-famires-shijou-saikyou-no-menu.json) |
 | The Famous Diver | 90179 | [90179-the-famous-diver.json](./90179-the-famous-diver.json) |
 | The Famous Five Adventure Game | 90845 | [90845-the-famous-five-adventure-game.json](./90845-the-famous-five-adventure-game.json) |
@@ -17654,6 +17656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Twins Mosaics: Haunted Images | 383722 | [383722-time-twins-mosaics-haunted-images.json](./383722-time-twins-mosaics-haunted-images.json) |
 | Time Twins Mosaics: Tales of Avalon | 383724 | [383724-time-twins-mosaics-tales-of-avalon.json](./383724-time-twins-mosaics-tales-of-avalon.json) |
 | Time Twins Mosaics: Winter Splash | 383725 | [383725-time-twins-mosaics-winter-splash.json](./383725-time-twins-mosaics-winter-splash.json) |
+| Time Twist: Rekishi no Katasumi de... | 178257 | [178257-time-twist-rekishi-no-katasumi-de.json](./178257-time-twist-rekishi-no-katasumi-de.json) |
 | Time Twist: Rekishi no Katasumi de... - Kouhen | 41360 | [41360-time-twist-rekishi-no-katasumi-de-kouhen.json](./41360-time-twist-rekishi-no-katasumi-de-kouhen.json) |
 | Time Twist: Rekishi no Katasumi de... - Zenpen | 41361 | [41361-time-twist-rekishi-no-katasumi-de-zenpen.json](./41361-time-twist-rekishi-no-katasumi-de-zenpen.json) |
 | Time Up | 68597 | [68597-time-up.json](./68597-time-up.json) |
@@ -23878,6 +23881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trog Smash Island | 296081 | [296081-trog-smash-island.json](./296081-trog-smash-island.json) |
 | Trogday Micro Game | 200949 | [200949-trogday-micro-game.json](./200949-trogday-micro-game.json) |
 | Troggle Trouble Math | 93191 | [93191-troggle-trouble-math.json](./93191-troggle-trouble-math.json) |
+| Trogloxene | 178256 | [178256-trogloxene.json](./178256-trogloxene.json) |
 | Trois Mouvements Perpétuels | 277291 | [277291-trois-mouvements-perpetuels.json](./277291-trois-mouvements-perpetuels.json) |
 | Trojan | 236835 | [236835-trojan.json](./236835-trojan.json) |
 | Trojan | 270316 | [270316-trojan.json](./270316-trojan.json) |
