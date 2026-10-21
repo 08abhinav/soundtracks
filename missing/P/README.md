@@ -6972,6 +6972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Dysphoria | 181744 | [181744-planet-dysphoria.json](./181744-planet-dysphoria.json) |
 | Planet Ennea | 229653 | [229653-planet-ennea.json](./229653-planet-ennea.json) |
 | Planet Explorers | 5573 | [5573-planet-explorers.json](./5573-planet-explorers.json) |
+| Planet Express | 177773 | [177773-planet-express.json](./177773-planet-express.json) |
 | Planet Extincter | 365734 | [365734-planet-extincter.json](./365734-planet-extincter.json) |
 | Planet Factory | 326051 | [326051-planet-factory.json](./326051-planet-factory.json) |
 | Planet Fights | 239323 | [239323-planet-fights.json](./239323-planet-fights.json) |
