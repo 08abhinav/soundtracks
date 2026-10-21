@@ -810,6 +810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of the Bear and the Beech Tree | 398347 | [398347-tale-of-the-bear-and-the-beech-tree.json](./398347-tale-of-the-bear-and-the-beech-tree.json) |
 | Tale of the Bullet Knight | 358730 | [358730-tale-of-the-bullet-knight.json](./358730-tale-of-the-bullet-knight.json) |
 | Tale of the Fragmented Star: Single Fragment Version | 109477 | [109477-tale-of-the-fragmented-star-single-fragment-version.json](./109477-tale-of-the-fragmented-star-single-fragment-version.json) |
+| Tale of the Gallant Jiraiya | 179388 | [179388-tale-of-the-gallant-jiraiya.json](./179388-tale-of-the-gallant-jiraiya.json) |
 | Tale of the Kissing Bandit | 217768 | [217768-tale-of-the-kissing-bandit.json](./217768-tale-of-the-kissing-bandit.json) |
 | Tale of the Seas | 287744 | [287744-tale-of-the-seas.json](./287744-tale-of-the-seas.json) |
 | Tale of the Shadow World | 267681 | [267681-tale-of-the-shadow-world.json](./267681-tale-of-the-shadow-world.json) |
@@ -5479,6 +5480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cavern | 29684 | [29684-the-cavern.json](./29684-the-cavern.json) |
 | The Caverns | 229736 | [229736-the-caverns.json](./229736-the-caverns.json) |
 | The Caverns of Hammerfest | 55979 | [55979-the-caverns-of-hammerfest.json](./55979-the-caverns-of-hammerfest.json) |
+| The Caves | 179367 | [179367-the-caves.json](./179367-the-caves.json) |
 | The Celestial Tales | 275689 | [275689-the-celestial-tales.json](./275689-the-celestial-tales.json) |
 | The Celestra | 191090 | [191090-the-celestra.json](./191090-the-celestra.json) |
 | The Cell | 131348 | [131348-the-cell.json](./131348-the-cell.json) |
@@ -6217,6 +6219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Day We Met was a Regular Day in the Infinitely Looping Highschool, is That Normal? | 192953 | [192953-the-day-we-met-was-a-regular-day-in-the-infinitely-looping-highschool-is-that-normal.json](./192953-the-day-we-met-was-a-regular-day-in-the-infinitely-looping-highschool-is-that-normal.json) |
 | The Days Without Gods | 356826 | [356826-the-days-without-gods.json](./356826-the-days-without-gods.json) |
 | The DBK Holiday Special | 261465 | [261465-the-dbk-holiday-special.json](./261465-the-dbk-holiday-special.json) |
+| The Dead Blue Adventure | 179379 | [179379-the-dead-blue-adventure.json](./179379-the-dead-blue-adventure.json) |
 | The Dead Case | 186139 | [186139-the-dead-case.json](./186139-the-dead-case.json) |
 | The Dead City | 376715 | [376715-the-dead-city.json](./376715-the-dead-city.json) |
 | The Dead Daughter | 371623 | [371623-the-dead-daughter.json](./371623-the-dead-daughter.json) |
@@ -7035,6 +7038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fall of Magic Castle | 378368 | [378368-the-fall-of-magic-castle.json](./378368-the-fall-of-magic-castle.json) |
 | The Fall of Nemesis: Clash of the Kaijujin | 62681 | [62681-the-fall-of-nemesis-clash-of-the-kaijujin.json](./62681-the-fall-of-nemesis-clash-of-the-kaijujin.json) |
 | The Fall of Porcupine: Last Days of Summer | 257281 | [257281-the-fall-of-porcupine-last-days-of-summer.json](./257281-the-fall-of-porcupine-last-days-of-summer.json) |
+| The Fall Of Rallys Factory: Episode 1- The Fallen Hopes | 179402 | [179402-the-fall-of-rallys-factory-episode-1-the-fallen-hopes.json](./179402-the-fall-of-rallys-factory-episode-1-the-fallen-hopes.json) |
 | The Fall of Rallys Factory: Episode 2 - It's for Science | 186347 | [186347-the-fall-of-rallys-factory-episode-2-its-for-science.json](./186347-the-fall-of-rallys-factory-episode-2-its-for-science.json) |
 | The Fall of Rome | 262401 | [262401-the-fall-of-rome.json](./262401-the-fall-of-rome.json) |
 | The fall of the Buxhaven family | 184840 | [184840-the-fall-of-the-buxhaven-family.json](./184840-the-fall-of-the-buxhaven-family.json) |
@@ -14488,6 +14492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wednesday | 169661 | [169661-the-wednesday.json](./169661-the-wednesday.json) |
 | The Weeping Swan: Ten Days of the City's Fall | 329217 | [329217-the-weeping-swan-ten-days-of-the-citys-fall.json](./329217-the-weeping-swan-ten-days-of-the-citys-fall.json) |
 | The Weight of a Soul | 230546 | [230546-the-weight-of-a-soul.json](./230546-the-weight-of-a-soul.json) |
+| The Weird One | 179364 | [179364-the-weird-one.json](./179364-the-weird-one.json) |
 | The Well | 169799 | [169799-the-well.json](./169799-the-well.json) |
 | The Well of Heaven-Reaching | 310713 | [310713-the-well-of-heaven-reaching.json](./310713-the-well-of-heaven-reaching.json) |
 | The Well of Life Cannot Move | 298630 | [298630-the-well-of-life-cannot-move.json](./298630-the-well-of-life-cannot-move.json) |
