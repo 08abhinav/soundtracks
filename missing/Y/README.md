@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yafti | 93760 | [93760-yafti.json](./93760-yafti.json) |
 | Yag | 114196 | [114196-yag.json](./114196-yag.json) |
 | Yaga | 103048 | [103048-yaga.json](./103048-yaga.json) |
+| Yaga: Armful Edition | 186527 | [186527-yaga-armful-edition.json](./186527-yaga-armful-edition.json) |
 | Yaga: Roots of Evil | 186902 | [186902-yaga-roots-of-evil.json](./186902-yaga-roots-of-evil.json) |
 | Yagami Hiroki no Game-Taste: Munasawagi no Yokan | 166496 | [166496-yagami-hiroki-no-game-taste-munasawagi-no-yokan.json](./166496-yagami-hiroki-no-game-taste-munasawagi-no-yokan.json) |
 | Yagazem Elements | 334332 | [334332-yagazem-elements.json](./334332-yagazem-elements.json) |
