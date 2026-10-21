@@ -929,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Boy Camera Memory | 328594 | [328594-game-boy-camera-memory.json](./328594-game-boy-camera-memory.json) |
 | Game Boy Camera: Gold Zelda Edition | 228549 | [228549-game-boy-camera-gold-zelda-edition.json](./228549-game-boy-camera-gold-zelda-edition.json) |
 | Game Boy Gallery | 72282 | [72282-game-boy-gallery.json](./72282-game-boy-gallery.json) |
+| Game Boy Music | 185880 | [185880-game-boy-music.json](./185880-game-boy-music.json) |
 | Game Boy Wars | 1687 | [1687-game-boy-wars.json](./1687-game-boy-wars.json) |
 | Game Boy Wars 2 | 1689 | [1689-game-boy-wars-2.json](./1689-game-boy-wars-2.json) |
 | Game Boy Wars 3 | 1690 | [1690-game-boy-wars-3.json](./1690-game-boy-wars-3.json) |
@@ -4428,6 +4429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Came to the Cave | 70298 | [70298-god-came-to-the-cave.json](./70298-god-came-to-the-cave.json) |
 | God Cop Bad Cop | 157518 | [157518-god-cop-bad-cop.json](./157518-god-cop-bad-cop.json) |
 | God Crafter | 309456 | [309456-god-crafter.json](./309456-god-crafter.json) |
+| God Damn the Garden | 185915 | [185915-god-damn-the-garden.json](./185915-god-damn-the-garden.json) |
 | God Devils | 287520 | [287520-god-devils.json](./287520-god-devils.json) |
 | God Eater | 11844 | [11844-god-eater.json](./11844-god-eater.json) |
 | God Eater 2 | 11853 | [11853-god-eater-2.json](./11853-god-eater-2.json) |
