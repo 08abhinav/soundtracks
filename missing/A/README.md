@@ -836,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Simple Garbage Sorting Game | 329705 | [329705-a-simple-garbage-sorting-game.json](./329705-a-simple-garbage-sorting-game.json) |
 | A Simple Love Story | 25072 | [25072-a-simple-love-story.json](./25072-a-simple-love-story.json) |
 | A Simple Platformer | 339915 | [339915-a-simple-platformer.json](./339915-a-simple-platformer.json) |
+| A Simple Rage Kind of Game | 184790 | [184790-a-simple-rage-kind-of-game.json](./184790-a-simple-rage-kind-of-game.json) |
 | A Simple Request | 213247 | [213247-a-simple-request.json](./213247-a-simple-request.json) |
 | A Simple Shooter | 179578 | [179578-a-simple-shooter.json](./179578-a-simple-shooter.json) |
 | A Simple Square | 236226 | [236226-a-simple-square.json](./236226-a-simple-square.json) |
