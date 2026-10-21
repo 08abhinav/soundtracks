@@ -565,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land's End | 12883 | [12883-lands-end.json](./12883-lands-end.json) |
 | Land94 | 300266 | [300266-land94.json](./300266-land94.json) |
 | Landborne | 250036 | [250036-landborne.json](./250036-landborne.json) |
+| LandCombat: Ren | 193243 | [193243-landcombat-ren.json](./193243-landcombat-ren.json) |
 | Landelver | 285970 | [285970-landelver.json](./285970-landelver.json) |
 | Lander 8009 VR | 37039 | [37039-lander-8009-vr.json](./37039-lander-8009-vr.json) |
 | Landfall | 56511 | [56511-landfall.json](./56511-landfall.json) |
