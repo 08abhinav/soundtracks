@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T11:51:06.231Z",
-  "total_missing": 242055,
+  "generated_at": "2026-10-21T11:56:57.506Z",
+  "total_missing": 242054,
   "games": [
     {
       "igdb_id": 191680,
@@ -567520,11 +567520,6 @@
       "igdb_id": 102144,
       "game_name": "Life Goals",
       "file": "missing/L/102144-life-goals.json"
-    },
-    {
-      "igdb_id": 6580,
-      "game_name": "Life Goes On: Done to Death",
-      "file": "missing/L/6580-life-goes-on-done-to-death.json"
     },
     {
       "igdb_id": 121610,
