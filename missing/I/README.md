@@ -2217,6 +2217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Search Of... | 159715 | [159715-in-search-of.json](./159715-in-search-of.json) |
 | In Season | 340755 | [340755-in-season.json](./340755-in-season.json) |
 | In Shape | 191123 | [191123-in-shape.json](./191123-in-shape.json) |
+| In Shape 2 | 189363 | [189363-in-shape-2.json](./189363-in-shape-2.json) |
 | In Silence | 140038 | [140038-in-silence.json](./140038-in-silence.json) |
 | In Silence Waits | 377211 | [377211-in-silence-waits.json](./377211-in-silence-waits.json) |
 | In Silico | 348241 | [348241-in-silico.json](./348241-in-silico.json) |
