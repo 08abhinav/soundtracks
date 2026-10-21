@@ -2948,6 +2948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Goes Faster | 173090 | [173090-red-goes-faster.json](./173090-red-goes-faster.json) |
 | Red Green Donkey | 278286 | [278286-red-green-donkey.json](./278286-red-green-donkey.json) |
 | Red Grimly Tale | 397131 | [397131-red-grimly-tale.json](./397131-red-grimly-tale.json) |
+| Red Gun | 196609 | [196609-red-gun.json](./196609-red-gun.json) |
 | Red Haven | 218714 | [218714-red-haven.json](./218714-red-haven.json) |
 | Red Hawk | 411129 | [411129-red-hawk.json](./411129-red-hawk.json) |
 | Red Haze: Bruises Glimmer in Starlight | 325820 | [325820-red-haze-bruises-glimmer-in-starlight.json](./325820-red-haze-bruises-glimmer-in-starlight.json) |
@@ -6497,6 +6498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roadhouse Simulator: Prologue | 405347 | [405347-roadhouse-simulator-prologue.json](./405347-roadhouse-simulator-prologue.json) |
 | Roadies: Unsung Heroes | 313447 | [313447-roadies-unsung-heroes.json](./313447-roadies-unsung-heroes.json) |
 | Roadkill | 13054 | [13054-roadkill.json](./13054-roadkill.json) |
+| Roadkill | 196474 | [196474-roadkill.json](./196474-roadkill.json) |
 | Roadkill | 343687 | [343687-roadkill.json](./343687-roadkill.json) |
 | RoadKill | 4089 | [4089-roadkill.json](./4089-roadkill.json) |
 | Roadkill Raceway | 235176 | [235176-roadkill-raceway.json](./235176-roadkill-raceway.json) |
