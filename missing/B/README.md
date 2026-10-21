@@ -812,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bag Fight: Handful Edition | 410852 | [410852-bag-fight-handful-edition.json](./410852-bag-fight-handful-edition.json) |
 | Bag Game | 411696 | [411696-bag-game.json](./411696-bag-game.json) |
 | Bag Hero | 345985 | [345985-bag-hero.json](./345985-bag-hero.json) |
+| Bag of Holding | 182698 | [182698-bag-of-holding.json](./182698-bag-of-holding.json) |
 | Bagarre | 386970 | [386970-bagarre.json](./386970-bagarre.json) |
 | Bagasaurus | 147213 | [147213-bagasaurus.json](./147213-bagasaurus.json) |
 | Bagdex | 237832 | [237832-bagdex.json](./237832-bagdex.json) |
