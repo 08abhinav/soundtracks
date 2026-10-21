@@ -6017,6 +6017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Working Noir | 255857 | [255857-working-noir.json](./255857-working-noir.json) |
 | Working Stiffs | 281335 | [281335-working-stiffs.json](./281335-working-stiffs.json) |
 | Working Through The End | 388180 | [388180-working-through-the-end.json](./388180-working-through-the-end.json) |
+| Working Tidal | 176142 | [176142-working-tidal.json](./176142-working-tidal.json) |
 | Working Woman Barbie | 144856 | [144856-working-woman-barbie.json](./144856-working-woman-barbie.json) |
 | Working95 | 412562 | [412562-working95.json](./412562-working95.json) |
 | Workplace Fantasy All Age Edition | 273797 | [273797-workplace-fantasy-all-age-edition.json](./273797-workplace-fantasy-all-age-edition.json) |
