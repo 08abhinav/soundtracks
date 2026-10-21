@@ -1717,6 +1717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zooports: The Football | 145303 | [145303-zooports-the-football.json](./145303-zooports-the-football.json) |
 | Zoor: Majuu Tsukai Densetsu | 3650 | [3650-zoor-majuu-tsukai-densetsu.json](./3650-zoor-majuu-tsukai-densetsu.json) |
 | ZooRacers | 218961 | [218961-zooracers.json](./218961-zooracers.json) |
+| ZooSim | 190496 | [190496-zoosim.json](./190496-zoosim.json) |
 | Zooted | 240184 | [240184-zooted.json](./240184-zooted.json) |
 | Zootopia! | 200982 | [200982-zootopia.json](./200982-zootopia.json) |
 | Zootto Mahjong! | 37744 | [37744-zootto-mahjong.json](./37744-zootto-mahjong.json) |
