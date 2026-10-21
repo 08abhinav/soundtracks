@@ -1151,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Train Home | 131385 | [131385-last-train-home.json](./131385-last-train-home.json) |
 | Last Ultima | 269088 | [269088-last-ultima.json](./269088-last-ultima.json) |
 | Last Upload | 419136 | [419136-last-upload.json](./419136-last-upload.json) |
+| Last Vanguard | 199290 | [199290-last-vanguard.json](./199290-last-vanguard.json) |
 | Last Victim: House of Fear | 329086 | [329086-last-victim-house-of-fear.json](./329086-last-victim-house-of-fear.json) |
 | Last Viking: God of Valhalla | 214031 | [214031-last-viking-god-of-valhalla.json](./214031-last-viking-god-of-valhalla.json) |
 | Last Viking: Ragnarok Loop | 291485 | [291485-last-viking-ragnarok-loop.json](./291485-last-viking-ragnarok-loop.json) |
@@ -6992,6 +6993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucidus Mortem | 154075 | [154075-lucidus-mortem.json](./154075-lucidus-mortem.json) |
 | Lucie | 90834 | [90834-lucie.json](./90834-lucie.json) |
 | Lucie's Bistro | 215787 | [215787-lucies-bistro.json](./215787-lucies-bistro.json) |
+| Lucie's Potager | 199261 | [199261-lucies-potager.json](./199261-lucies-potager.json) |
 | Luciel Angel Mission | 314060 | [314060-luciel-angel-mission.json](./314060-luciel-angel-mission.json) |
 | Lucifer Ring | 43873 | [43873-lucifer-ring.json](./43873-lucifer-ring.json) |
 | Lucifer's Ballroom Bonanza | 246531 | [246531-lucifers-ballroom-bonanza.json](./246531-lucifers-ballroom-bonanza.json) |
