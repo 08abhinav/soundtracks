@@ -1623,6 +1623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harold's Bad Day | 396709 | [396709-harolds-bad-day.json](./396709-harolds-bad-day.json) |
 | Harold's Mission | 330388 | [330388-harolds-mission.json](./330388-harolds-mission.json) |
 | Harold's Walk | 306569 | [306569-harolds-walk.json](./306569-harolds-walk.json) |
+| Haron: The Riverside | 188822 | [188822-haron-the-riverside.json](./188822-haron-the-riverside.json) |
 | Harp | 145597 | [145597-harp.json](./145597-harp.json) |
 | Harp | 72346 | [72346-harp.json](./72346-harp.json) |
 | Harp & Chrysanthemum | 356213 | [356213-harp-and-chrysanthemum.json](./356213-harp-and-chrysanthemum.json) |
@@ -3040,6 +3041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Architect | 117590 | [117590-hell-architect.json](./117590-hell-architect.json) |
 | Hell Awaits | 229366 | [229366-hell-awaits.json](./229366-hell-awaits.json) |
 | Hell Blood: Inferno Retro Shooter | 378804 | [378804-hell-blood-inferno-retro-shooter.json](./378804-hell-blood-inferno-retro-shooter.json) |
+| Hell Bound Monsters | 188837 | [188837-hell-bound-monsters.json](./188837-hell-bound-monsters.json) |
 | Hell Bug | 371376 | [371376-hell-bug.json](./371376-hell-bug.json) |
 | Hell Builder | 352221 | [352221-hell-builder.json](./352221-hell-builder.json) |
 | Hell Cab | 57625 | [57625-hell-cab.json](./57625-hell-cab.json) |
@@ -6266,6 +6268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hisshou! Pachi-Slot Fan | 59911 | [59911-hisshou-pachi-slot-fan.json](./59911-hisshou-pachi-slot-fan.json) |
 | Hissy Fit: Make Snake Break | 347175 | [347175-hissy-fit-make-snake-break.json](./347175-hissy-fit-make-snake-break.json) |
 | Hist Maker | 103183 | [103183-hist-maker.json](./103183-hist-maker.json) |
+| Histera | 188868 | [188868-histera.json](./188868-histera.json) |
 | Histerya | 296796 | [296796-histerya.json](./296796-histerya.json) |
 | Histo-Time | 336710 | [336710-histo-time.json](./336710-histo-time.json) |
 | Histoire | 294589 | [294589-histoire.json](./294589-histoire.json) |
