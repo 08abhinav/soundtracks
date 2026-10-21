@@ -284,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake: Coppertone Summer Jam | 196500 | [196500-quake-coppertone-summer-jam.json](./196500-quake-coppertone-summer-jam.json) |
 | Quake: Dawn of the Machine | 412530 | [412530-quake-dawn-of-the-machine.json](./412530-quake-dawn-of-the-machine.json) |
 | Quake: Death's Dominion | 202932 | [202932-quake-deaths-dominion.json](./202932-quake-deaths-dominion.json) |
+| Quake: DM4 Jam | 203156 | [203156-quake-dm4-jam.json](./203156-quake-dm4-jam.json) |
 | Quake: Doom Tintin Jam | 196646 | [196646-quake-doom-tintin-jam.json](./196646-quake-doom-tintin-jam.json) |
 | Quake: Dwell | 195992 | [195992-quake-dwell.json](./195992-quake-dwell.json) |
 | Quake: Egyptoagula | 196658 | [196658-quake-egyptoagula.json](./196658-quake-egyptoagula.json) |
@@ -322,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake: Travail | 203189 | [203189-quake-travail.json](./203189-quake-travail.json) |
 | Quake: Underdark Overbright & Copper | 199075 | [199075-quake-underdark-overbright-and-copper.json](./199075-quake-underdark-overbright-and-copper.json) |
 | Quake: Underwater Jam | 196632 | [196632-quake-underwater-jam.json](./196632-quake-underwater-jam.json) |
+| Quake: Unused Jam | 203157 | [203157-quake-unused-jam.json](./203157-quake-unused-jam.json) |
 | Quake: Warp Spasm | 196631 | [196631-quake-warp-spasm.json](./196631-quake-warp-spasm.json) |
 | Quake3Quest | 328304 | [328304-quake3quest.json](./328304-quake3quest.json) |
 | Quakeguy Goes to White Castle | 271234 | [271234-quakeguy-goes-to-white-castle.json](./271234-quakeguy-goes-to-white-castle.json) |
