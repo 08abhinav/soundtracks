@@ -2673,6 +2673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urok | 380735 | [380735-urok.json](./380735-urok.json) |
 | Uros: A Trip Through Shadows | 154800 | [154800-uros-a-trip-through-shadows.json](./154800-uros-a-trip-through-shadows.json) |
 | Urotsukidouji | 123014 | [123014-urotsukidouji.json](./123014-urotsukidouji.json) |
+| Urquel, the black dragon | 182722 | [182722-urquel-the-black-dragon.json](./182722-urquel-the-black-dragon.json) |
 | Ursid | 367572 | [367572-ursid.json](./367572-ursid.json) |
 | Ursine Science | 260162 | [260162-ursine-science.json](./260162-ursine-science.json) |
 | Urtuk: The Desolation | 98073 | [98073-urtuk-the-desolation.json](./98073-urtuk-the-desolation.json) |
