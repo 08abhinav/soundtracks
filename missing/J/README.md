@@ -1837,6 +1837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joey Wamoney's: The Metamorphosis | 278464 | [278464-joey-wamoneys-the-metamorphosis.json](./278464-joey-wamoneys-the-metamorphosis.json) |
 | Joey's Shisha Simulator | 326412 | [326412-joeys-shisha-simulator.json](./326412-joeys-shisha-simulator.json) |
 | Jogger | 14137 | [14137-jogger.json](./14137-jogger.json) |
+| JoggerKnight | 183774 | [183774-joggerknight.json](./183774-joggerknight.json) |
 | Joggernauts | 60230 | [60230-joggernauts.json](./60230-joggernauts.json) |
 | Jogging | 358834 | [358834-jogging.json](./358834-jogging.json) |
 | Jogging | 359729 | [359729-jogging.json](./359729-jogging.json) |
