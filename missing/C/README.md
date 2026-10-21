@@ -7323,6 +7323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Digital: Rumble Smash | 241666 | [241666-clash-of-digital-rumble-smash.json](./241666-clash-of-digital-rumble-smash.json) |
 | Clash of Elementalists | 62114 | [62114-clash-of-elementalists.json](./62114-clash-of-elementalists.json) |
 | Clash of Elements | 233216 | [233216-clash-of-elements.json](./233216-clash-of-elements.json) |
+| Clash of Empire | 181581 | [181581-clash-of-empire.json](./181581-clash-of-empire.json) |
 | Clash of Evil: The Comeback | 272815 | [272815-clash-of-evil-the-comeback.json](./272815-clash-of-evil-the-comeback.json) |
 | Clash of Fingers | 237958 | [237958-clash-of-fingers.json](./237958-clash-of-fingers.json) |
 | Clash of Irons: Blitzkrieg | 157483 | [157483-clash-of-irons-blitzkrieg.json](./157483-clash-of-irons-blitzkrieg.json) |
@@ -8063,6 +8064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudspan | 364879 | [364879-cloudspan.json](./364879-cloudspan.json) |
 | CloudStudy | 296358 | [296358-cloudstudy.json](./296358-cloudstudy.json) |
 | Cloudtop Chaos | 348858 | [348858-cloudtop-chaos.json](./348858-cloudtop-chaos.json) |
+| Cloudtrail Islands | 181601 | [181601-cloudtrail-islands.json](./181601-cloudtrail-islands.json) |
 | Cloudwalkers | 356280 | [356280-cloudwalkers.json](./356280-cloudwalkers.json) |
 | Cloudy & Stormy: Pawtastic Adventure | 333911 | [333911-cloudy-and-stormy-pawtastic-adventure.json](./333911-cloudy-and-stormy-pawtastic-adventure.json) |
 | Cloudy Day | 361267 | [361267-cloudy-day.json](./361267-cloudy-day.json) |
