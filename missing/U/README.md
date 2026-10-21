@@ -1415,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground Fortress | 308360 | [308360-underground-fortress.json](./308360-underground-fortress.json) |
 | Underground Gnome | 264986 | [264986-underground-gnome.json](./264986-underground-gnome.json) |
 | Underground Life | 172676 | [172676-underground-life.json](./172676-underground-life.json) |
+| Underground Lords | 197051 | [197051-underground-lords.json](./197051-underground-lords.json) |
 | Underground Miner | 129673 | [129673-underground-miner.json](./129673-underground-miner.json) |
 | Underground Mission | 327641 | [327641-underground-mission.json](./327641-underground-mission.json) |
 | Underground Nomads | 369094 | [369094-underground-nomads.json](./369094-underground-nomads.json) |
