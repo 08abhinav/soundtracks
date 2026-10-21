@@ -12896,6 +12896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drugz: 2D Drug Empire Simulator | 253398 | [253398-drugz-2d-drug-empire-simulator.json](./253398-drugz-2d-drug-empire-simulator.json) |
 | Druid | 13613 | [13613-druid.json](./13613-druid.json) |
 | Druid | 305921 | [305921-druid.json](./305921-druid.json) |
+| Druid and His Circle of Animals | 176157 | [176157-druid-and-his-circle-of-animals.json](./176157-druid-and-his-circle-of-animals.json) |
 | Druid: Daemons of the Mind | 2506 | [2506-druid-daemons-of-the-mind.json](./2506-druid-daemons-of-the-mind.json) |
 | Druid: Test of faith | 192770 | [192770-druid-test-of-faith.json](./192770-druid-test-of-faith.json) |
 | Druid: Yamie no Tsuisekisha | 268642 | [268642-druid-yamie-no-tsuisekisha.json](./268642-druid-yamie-no-tsuisekisha.json) |
