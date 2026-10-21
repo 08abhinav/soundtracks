@@ -5708,6 +5708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop Spot | 423244 | [423244-loop-spot.json](./423244-loop-spot.json) |
 | Loop the Loop: The Mansion of Gluttony | 387558 | [387558-loop-the-loop-the-mansion-of-gluttony.json](./387558-loop-the-loop-the-mansion-of-gluttony.json) |
 | Loop Theory | 288817 | [288817-loop-theory.json](./288817-loop-theory.json) |
+| Loop Timer | 171318 | [171318-loop-timer.json](./171318-loop-timer.json) |
 | Loop Trace | 417455 | [417455-loop-trace.json](./417455-loop-trace.json) |
 | Loop Train | 179447 | [179447-loop-train.json](./179447-loop-train.json) |
 | Loop x Loop | 414105 | [414105-loop-x-loop.json](./414105-loop-x-loop.json) |
@@ -6583,7 +6584,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Chronicles: Salvation - Collector's Edition | 89407 | [89407-love-chronicles-salvation-collectors-edition.json](./89407-love-chronicles-salvation-collectors-edition.json) |
 | Love Clear | 136757 | [136757-love-clear.json](./136757-love-clear.json) |
 | Love Collection 4-in-1 | 404259 | [404259-love-collection-4-in-1.json](./404259-love-collection-4-in-1.json) |
+| Love Colors: All in One | 171312 | [171312-love-colors-all-in-one.json](./171312-love-colors-all-in-one.json) |
 | Love Colors: Everyday Pixels | 195230 | [195230-love-colors-everyday-pixels.json](./195230-love-colors-everyday-pixels.json) |
+| Love Colors: Happy Pixels | 171311 | [171311-love-colors-happy-pixels.json](./171311-love-colors-happy-pixels.json) |
+| Love Colors: Pixel Adventurer | 171310 | [171310-love-colors-pixel-adventurer.json](./171310-love-colors-pixel-adventurer.json) |
 | Love Colors: Pixel Seasons | 195229 | [195229-love-colors-pixel-seasons.json](./195229-love-colors-pixel-seasons.json) |
 | Love Com: Punch de Cont. | 253239 | [253239-love-com-punch-de-cont.json](./253239-love-com-punch-de-cont.json) |
 | Love Com: Punch de Konto | 61443 | [61443-love-com-punch-de-konto.json](./61443-love-com-punch-de-konto.json) |
