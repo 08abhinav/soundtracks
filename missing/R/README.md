@@ -6201,6 +6201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ritual | 123401 | [123401-ritual.json](./123401-ritual.json) |
 | Ritual | 302707 | [302707-ritual.json](./302707-ritual.json) |
 | Ritual | 327677 | [327677-ritual.json](./327677-ritual.json) |
+| Ritual Night | 189853 | [189853-ritual-night.json](./189853-ritual-night.json) |
 | Ritual of Raven | 281390 | [281390-ritual-of-raven.json](./281390-ritual-of-raven.json) |
 | Ritual of the Moon | 113185 | [113185-ritual-of-the-moon.json](./113185-ritual-of-the-moon.json) |
 | Ritual on the Eve | 112200 | [112200-ritual-on-the-eve.json](./112200-ritual-on-the-eve.json) |
@@ -8056,6 +8057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roman Sands RE:Build | 229067 | [229067-roman-sands-re-build.json](./229067-roman-sands-re-build.json) |
 | Roman the Worm | 105336 | [105336-roman-the-worm.json](./105336-roman-the-worm.json) |
 | Roman Trahtenberg: V poiskah ideal'nogo anekdota | 403581 | [403581-roman-trahtenberg-v-poiskah-idealnogo-anekdota.json](./403581-roman-trahtenberg-v-poiskah-idealnogo-anekdota.json) |
+| Roman Wars: Deck Building Game | 189867 | [189867-roman-wars-deck-building-game.json](./189867-roman-wars-deck-building-game.json) |
 | Roman Way | 137888 | [137888-roman-way.json](./137888-roman-way.json) |
 | Romance | 153739 | [153739-romance.json](./153739-romance.json) |
 | Romance - Hidden Object Games | 86918 | [86918-romance-hidden-object-games.json](./86918-romance-hidden-object-games.json) |
@@ -8430,6 +8432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rorschach | 94150 | [94150-rorschach.json](./94150-rorschach.json) |
 | Rory McIlroy Golf | 23216 | [23216-rory-mcilroy-golf.json](./23216-rory-mcilroy-golf.json) |
 | Rory's Restaurant: Origins | 188416 | [188416-rorys-restaurant-origins.json](./188416-rorys-restaurant-origins.json) |
+| Rory's Restaurant: Winter Rush | 190001 | [190001-rorys-restaurant-winter-rush.json](./190001-rorys-restaurant-winter-rush.json) |
 | Ros | 101631 | [101631-ros.json](./101631-ros.json) |
 | Rosa Musou | 214765 | [214765-rosa-musou.json](./214765-rosa-musou.json) |
 | Rosa's Quest | 402869 | [402869-rosas-quest.json](./402869-rosas-quest.json) |
