@@ -2285,6 +2285,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Kong | 18763 | [18763-king-kong.json](./18763-king-kong.json) |
 | King Kong | 198793 | [198793-king-kong.json](./198793-king-kong.json) |
 | King Kong | 198794 | [198794-king-kong.json](./198794-king-kong.json) |
+| King Kong | 200320 | [200320-king-kong.json](./200320-king-kong.json) |
+| King Kong | 200324 | [200324-king-kong.json](./200324-king-kong.json) |
+| King Kong | 200328 | [200328-king-kong.json](./200328-king-kong.json) |
 | King Kong 2: Ikari no Megaton Punch | 48690 | [48690-king-kong-2-ikari-no-megaton-punch.json](./48690-king-kong-2-ikari-no-megaton-punch.json) |
 | King Kong City Destroyer | 291478 | [291478-king-kong-city-destroyer.json](./291478-king-kong-city-destroyer.json) |
 | King Krieg Survivors | 295683 | [295683-king-krieg-survivors.json](./295683-king-krieg-survivors.json) |
