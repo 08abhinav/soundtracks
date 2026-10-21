@@ -601,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR 2001 | 45099 | [45099-nascar-2001.json](./45099-nascar-2001.json) |
 | NASCAR 21: Ignition - Victory Edition | 220801 | [220801-nascar-21-ignition-victory-edition.json](./220801-nascar-21-ignition-victory-edition.json) |
 | NASCAR 26 | 412990 | [412990-nascar-26.json](./412990-nascar-26.json) |
+| NASCAR 98 | 176683 | [176683-nascar-98.json](./176683-nascar-98.json) |
 | NASCAR 98 | 45515 | [45515-nascar-98.json](./45515-nascar-98.json) |
 | NASCAR 98: Collector's Edition | 203728 | [203728-nascar-98-collectors-edition.json](./203728-nascar-98-collectors-edition.json) |
 | NASCAR Acceleration Pack | 85989 | [85989-nascar-acceleration-pack.json](./85989-nascar-acceleration-pack.json) |
@@ -2371,6 +2372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never7: The End of Infinity | 18018 | [18018-never7-the-end-of-infinity.json](./18018-never7-the-end-of-infinity.json) |
 | NeverAwake Flashback | 369062 | [369062-neverawake-flashback.json](./369062-neverawake-flashback.json) |
 | Neverball | 51247 | [51247-neverball.json](./51247-neverball.json) |
+| Neverboard | 176715 | [176715-neverboard.json](./176715-neverboard.json) |
 | Neverbound | 413798 | [413798-neverbound.json](./413798-neverbound.json) |
 | NeverBound | 90248 | [90248-neverbound.json](./90248-neverbound.json) |
 | Neverdaunt:8Bit | 301100 | [301100-neverdaunt-8bit.json](./301100-neverdaunt-8bit.json) |
@@ -2855,6 +2857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Blitz 2003 | 47365 | [47365-nfl-blitz-2003.json](./47365-nfl-blitz-2003.json) |
 | NFL Blitz 99 | 39599 | [39599-nfl-blitz-99.json](./39599-nfl-blitz-99.json) |
 | NFL Blitz Pro | 47337 | [47337-nfl-blitz-pro.json](./47337-nfl-blitz-pro.json) |
+| NFL Clash | 176689 | [176689-nfl-clash.json](./176689-nfl-clash.json) |
 | NFL Coaches Club Football | 82801 | [82801-nfl-coaches-club-football.json](./82801-nfl-coaches-club-football.json) |
 | NFL Fever 2000 | 68305 | [68305-nfl-fever-2000.json](./68305-nfl-fever-2000.json) |
 | NFL Fever 2002 | 5961 | [5961-nfl-fever-2002.json](./5961-nfl-fever-2002.json) |
@@ -4608,6 +4611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Visitors Allowed | 404885 | [404885-no-visitors-allowed.json](./404885-no-visitors-allowed.json) |
 | No Walking, No Problem! | 286574 | [286574-no-walking-no-problem.json](./286574-no-walking-no-problem.json) |
 | No Walls in Heaven | 369657 | [369657-no-walls-in-heaven.json](./369657-no-walls-in-heaven.json) |
+| No Water in Hell | 176714 | [176714-no-water-in-hell.json](./176714-no-water-in-hell.json) |
 | No Wave | 128583 | [128583-no-wave.json](./128583-no-wave.json) |
 | No way back | 177835 | [177835-no-way-back.json](./177835-no-way-back.json) |
 | No Way Back | 222757 | [222757-no-way-back.json](./222757-no-way-back.json) |
@@ -5676,6 +5680,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Submarine inc | 208072 | [208072-nuclear-submarine-inc.json](./208072-nuclear-submarine-inc.json) |
 | Nuclear Throne | 3227 | [3227-nuclear-throne.json](./3227-nuclear-throne.json) |
 | Nuclear Throne 3D | 375427 | [375427-nuclear-throne-3d.json](./375427-nuclear-throne-3d.json) |
+| Nuclear Throne Together | 176694 | [176694-nuclear-throne-together.json](./176694-nuclear-throne-together.json) |
+| Nuclear Throne Together: Hard Mode | 176720 | [176720-nuclear-throne-together-hard-mode.json](./176720-nuclear-throne-together-hard-mode.json) |
+| Nuclear Throne: Territorial Expansion | 176701 | [176701-nuclear-throne-territorial-expansion.json](./176701-nuclear-throne-territorial-expansion.json) |
 | Nuclear Tides | 333435 | [333435-nuclear-tides.json](./333435-nuclear-tides.json) |
 | Nuclear Titbit | 113375 | [113375-nuclear-titbit.json](./113375-nuclear-titbit.json) |
 | Nuclear Titbit 2 | 250593 | [250593-nuclear-titbit-2.json](./250593-nuclear-titbit-2.json) |
