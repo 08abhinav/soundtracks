@@ -7638,6 +7638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Auto Sport Racing | 372042 | [372042-formula-auto-sport-racing.json](./372042-formula-auto-sport-racing.json) |
 | Formula Bit Racing | 150956 | [150956-formula-bit-racing.json](./150956-formula-bit-racing.json) |
 | Formula Bit Racing DX | 207275 | [207275-formula-bit-racing-dx.json](./207275-formula-bit-racing-dx.json) |
+| Formula Bwoah | 203075 | [203075-formula-bwoah.json](./203075-formula-bwoah.json) |
 | Formula Car Racing Simulator | 99409 | [99409-formula-car-racing-simulator.json](./99409-formula-car-racing-simulator.json) |
 | Formula Cartoon All Stars | 59924 | [59924-formula-cartoon-all-stars.json](./59924-formula-cartoon-all-stars.json) |
 | Formula Challenge | 230693 | [230693-formula-challenge.json](./230693-formula-challenge.json) |
