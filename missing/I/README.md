@@ -1977,6 +1977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imobilidade Urbana | 283611 | [283611-imobilidade-urbana.json](./283611-imobilidade-urbana.json) |
 | Imogen | 13728 | [13728-imogen.json](./13728-imogen.json) |
 | Imomushi | 270856 | [270856-imomushi.json](./270856-imomushi.json) |
+| Imoto | 174051 | [174051-imoto.json](./174051-imoto.json) |
 | Imouto no Seiiki | 59880 | [59880-imouto-no-seiiki.json](./59880-imouto-no-seiiki.json) |
 | Imouto Paradise! 2 | 407358 | [407358-imouto-paradise-2.json](./407358-imouto-paradise-2.json) |
 | Imouto Paradise! 3 | 404219 | [404219-imouto-paradise-3.json](./404219-imouto-paradise-3.json) |
