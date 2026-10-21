@@ -2937,6 +2937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heldric: The Legend of the Shoemaker | 17233 | [17233-heldric-the-legend-of-the-shoemaker.json](./17233-heldric-the-legend-of-the-shoemaker.json) |
 | Helen | 272210 | [272210-helen.json](./272210-helen.json) |
 | Helen Keller Simulator | 412205 | [412205-helen-keller-simulator.json](./412205-helen-keller-simulator.json) |
+| Helen's Doll House | 184269 | [184269-helens-doll-house.json](./184269-helens-doll-house.json) |
 | Helen's Mysterious Castle | 27991 | [27991-helens-mysterious-castle.json](./27991-helens-mysterious-castle.json) |
 | Helena: Cloud District | 416638 | [416638-helena-cloud-district.json](./416638-helena-cloud-district.json) |
 | Helena's Flowers | 184904 | [184904-helenas-flowers.json](./184904-helenas-flowers.json) |
@@ -7933,6 +7934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Host Master Deux: Quest for Identity | 62185 | [62185-host-master-deux-quest-for-identity.json](./62185-host-master-deux-quest-for-identity.json) |
 | Host no Abunai Sekai | 264091 | [264091-host-no-abunai-sekai.json](./264091-host-no-abunai-sekai.json) |
 | Host Security Guard | 278641 | [278641-host-security-guard.json](./278641-host-security-guard.json) |
+| Hostage | 184226 | [184226-hostage.json](./184226-hostage.json) |
 | Hostage Heart | 417565 | [417565-hostage-heart.json](./417565-hostage-heart.json) |
 | HostageHub | 263988 | [263988-hostagehub.json](./263988-hostagehub.json) |
 | Hostages | 343204 | [343204-hostages.json](./343204-hostages.json) |
