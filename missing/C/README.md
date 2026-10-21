@@ -6365,6 +6365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChronoBlade | 63877 | [63877-chronoblade.json](./63877-chronoblade.json) |
 | Chronoblast Maximum Force | 129532 | [129532-chronoblast-maximum-force.json](./129532-chronoblast-maximum-force.json) |
 | ChronoBreach | 117045 | [117045-chronobreach.json](./117045-chronobreach.json) |
+| ChronoBreach Ultra | 195947 | [195947-chronobreach-ultra.json](./195947-chronobreach-ultra.json) |
 | Chronobreak | 185475 | [185475-chronobreak.json](./185475-chronobreak.json) |
 | Chronocide | 295155 | [295155-chronocide.json](./295155-chronocide.json) |
 | Chronoclasm | 338810 | [338810-chronoclasm.json](./338810-chronoclasm.json) |
@@ -12618,6 +12619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Indian: Minion Skins | 157556 | [157556-crazy-indian-minion-skins.json](./157556-crazy-indian-minion-skins.json) |
 | Crazy Indian: Monster Skins | 157557 | [157557-crazy-indian-monster-skins.json](./157557-crazy-indian-monster-skins.json) |
 | Crazy Insane Monster Invaders | 152387 | [152387-crazy-insane-monster-invaders.json](./152387-crazy-insane-monster-invaders.json) |
+| Crazy Invader ShootEm Down | 195912 | [195912-crazy-invader-shootem-down.json](./195912-crazy-invader-shootem-down.json) |
 | Crazy Jack | 301496 | [301496-crazy-jack.json](./301496-crazy-jack.json) |
 | Crazy Jetpack | 205576 | [205576-crazy-jetpack.json](./205576-crazy-jetpack.json) |
 | Crazy Jump | 158121 | [158121-crazy-jump.json](./158121-crazy-jump.json) |
