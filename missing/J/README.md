@@ -46,7 +46,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.League GG Pro-Striker '94 | 126010 | [126010-j-league-gg-pro-striker-94.json](./126010-j-league-gg-pro-striker-94.json) |
 | J.League Greatest Eleven Soccer | 37684 | [37684-j-league-greatest-eleven-soccer.json](./37684-j-league-greatest-eleven-soccer.json) |
 | J.League Jikkyou Honoo no Striker | 220856 | [220856-j-league-jikkyou-honoo-no-striker.json](./220856-j-league-jikkyou-honoo-no-striker.json) |
+| J.League Jikkyou Winning Eleven '98-'99 | 181568 | [181568-j-league-jikkyou-winning-eleven-98-99.json](./181568-j-league-jikkyou-winning-eleven-98-99.json) |
+| J.League Jikkyou Winning Eleven 2000 | 181569 | [181569-j-league-jikkyou-winning-eleven-2000.json](./181569-j-league-jikkyou-winning-eleven-2000.json) |
+| J.League Jikkyou Winning Eleven 2000 2nd | 181571 | [181571-j-league-jikkyou-winning-eleven-2000-2nd.json](./181571-j-league-jikkyou-winning-eleven-2000-2nd.json) |
+| J.League Jikkyou Winning Eleven 2001 | 181572 | [181572-j-league-jikkyou-winning-eleven-2001.json](./181572-j-league-jikkyou-winning-eleven-2001.json) |
 | J.League Jikkyou Winning Eleven 3 | 220865 | [220865-j-league-jikkyou-winning-eleven-3.json](./220865-j-league-jikkyou-winning-eleven-3.json) |
+| J.League Jikkyou Winning Eleven 97 | 181567 | [181567-j-league-jikkyou-winning-eleven-97.json](./181567-j-league-jikkyou-winning-eleven-97.json) |
 | J.League Live 64 | 3521 | [3521-j-league-live-64.json](./3521-j-league-live-64.json) |
 | J.League Pro Soccer Club wo Tsukurou! | 65005 | [65005-j-league-pro-soccer-club-wo-tsukurou.json](./65005-j-league-pro-soccer-club-wo-tsukurou.json) |
 | J.League Pro Soccer Club wo Tsukurou! '04 | 62764 | [62764-j-league-pro-soccer-club-wo-tsukurou-04.json](./62764-j-league-pro-soccer-club-wo-tsukurou-04.json) |
