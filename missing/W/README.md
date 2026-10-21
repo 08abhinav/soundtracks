@@ -4741,6 +4741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wish Upon a Block | 388707 | [388707-wish-upon-a-block.json](./388707-wish-upon-a-block.json) |
 | Wish Upon a Cat | 356718 | [356718-wish-upon-a-cat.json](./356718-wish-upon-a-cat.json) |
 | Wish Upon a Llama | 258962 | [258962-wish-upon-a-llama.json](./258962-wish-upon-a-llama.json) |
+| Wish World | 197546 | [197546-wish-world.json](./197546-wish-world.json) |
 | Wish You All the Best | 402934 | [402934-wish-you-all-the-best.json](./402934-wish-you-all-the-best.json) |
 | Wish You Happiness | 310043 | [310043-wish-you-happiness.json](./310043-wish-you-happiness.json) |
 | Wishbind | 254578 | [254578-wishbind.json](./254578-wishbind.json) |
@@ -6475,6 +6476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War Robot | 180713 | [180713-world-war-robot.json](./180713-world-war-robot.json) |
 | World War Toons | 60364 | [60364-world-war-toons.json](./60364-world-war-toons.json) |
 | World War Toons: Tank Arena VR | 230241 | [230241-world-war-toons-tank-arena-vr.json](./230241-world-war-toons-tank-arena-vr.json) |
+| World War ToonZ | 197536 | [197536-world-war-toonz.json](./197536-world-war-toonz.json) |
 | World War Touch | 174333 | [174333-world-war-touch.json](./174333-world-war-touch.json) |
 | World War V: Last Call | 370839 | [370839-world-war-v-last-call.json](./370839-world-war-v-last-call.json) |
 | World War Z | 115272 | [115272-world-war-z.json](./115272-world-war-z.json) |
