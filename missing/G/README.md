@@ -6384,6 +6384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravitee Wars Online | 95940 | [95940-gravitee-wars-online.json](./95940-gravitee-wars-online.json) |
 | Graviter | 417310 | [417310-graviter.json](./417310-graviter.json) |
 | Gravitia | 285909 | [285909-gravitia.json](./285909-gravitia.json) |
+| Gravito | 184265 | [184265-gravito.json](./184265-gravito.json) |
 | Graviton | 122382 | [122382-graviton.json](./122382-graviton.json) |
 | Graviton Flux | 371957 | [371957-graviton-flux.json](./371957-graviton-flux.json) |
 | Gravitorque DX | 355508 | [355508-gravitorque-dx.json](./355508-gravitorque-dx.json) |
@@ -6661,6 +6662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greedy Dungeon | 153395 | [153395-greedy-dungeon.json](./153395-greedy-dungeon.json) |
 | Greedy Dungeons | 86521 | [86521-greedy-dungeons.json](./86521-greedy-dungeons.json) |
 | Greedy Frog | 55120 | [55120-greedy-frog.json](./55120-greedy-frog.json) |
+| Greedy Goblin | 184219 | [184219-greedy-goblin.json](./184219-greedy-goblin.json) |
 | Greedy Goblins | 125787 | [125787-greedy-goblins.json](./125787-greedy-goblins.json) |
 | Greedy Goose | 306430 | [306430-greedy-goose.json](./306430-greedy-goose.json) |
 | Greedy Guns | 40556 | [40556-greedy-guns.json](./40556-greedy-guns.json) |
