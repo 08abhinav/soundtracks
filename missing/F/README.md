@@ -1707,6 +1707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasyland: All Heroes | 170313 | [170313-fantasyland-all-heroes.json](./170313-fantasyland-all-heroes.json) |
 | Fantasynth | 54726 | [54726-fantasynth.json](./54726-fantasynth.json) |
 | Fantasynth One | 157548 | [157548-fantasynth-one.json](./157548-fantasynth-one.json) |
+| Fantatale | 193791 | [193791-fantatale.json](./193791-fantatale.json) |
 | Fantaventura | 129717 | [129717-fantaventura.json](./129717-fantaventura.json) |
 | FantaVision | 376693 | [376693-fantavision.json](./376693-fantavision.json) |
 | Fantavision 202X | 229133 | [229133-fantavision-202x.json](./229133-fantavision-202x.json) |
@@ -4606,6 +4607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireball Wizard | 192846 | [192846-fireball-wizard.json](./192846-fireball-wizard.json) |
 | Firebase Defence | 110519 | [110519-firebase-defence.json](./110519-firebase-defence.json) |
 | Firebat: Revolution | 317550 | [317550-firebat-revolution.json](./317550-firebat-revolution.json) |
+| Firebird | 193655 | [193655-firebird.json](./193655-firebird.json) |
 | Firebird | 287023 | [287023-firebird.json](./287023-firebird.json) |
 | Firebird - The Unfinished | 99215 | [99215-firebird-the-unfinished.json](./99215-firebird-the-unfinished.json) |
 | Firebird: Tale of the Stolen Light | 381017 | [381017-firebird-tale-of-the-stolen-light.json](./381017-firebird-tale-of-the-stolen-light.json) |
