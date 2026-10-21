@@ -3716,6 +3716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mary Skelter 2 | 89548 | [89548-mary-skelter-2.json](./89548-mary-skelter-2.json) |
 | Mary Skelter 2: Limited Edition | 166266 | [166266-mary-skelter-2-limited-edition.json](./166266-mary-skelter-2-limited-edition.json) |
 | Mary Skelter Finale | 131974 | [131974-mary-skelter-finale.json](./131974-mary-skelter-finale.json) |
+| Mary Skelter Finale: Day One Edition | 171284 | [171284-mary-skelter-finale-day-one-edition.json](./171284-mary-skelter-finale-day-one-edition.json) |
 | Mary Skelter Finale: Limited Edition | 166179 | [166179-mary-skelter-finale-limited-edition.json](./166179-mary-skelter-finale-limited-edition.json) |
 | Mary Skelter: Locked Up in Love - True End | 410472 | [410472-mary-skelter-locked-up-in-love-true-end.json](./410472-mary-skelter-locked-up-in-love-true-end.json) |
 | Mary Skelter: Locked Up in Love – Blood High | 410471 | [410471-mary-skelter-locked-up-in-love-blood-high.json](./410471-mary-skelter-locked-up-in-love-blood-high.json) |
@@ -6701,6 +6702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memoriapolis | 264932 | [264932-memoriapolis.json](./264932-memoriapolis.json) |
 | Memoriedit | 373521 | [373521-memoriedit.json](./373521-memoriedit.json) |
 | Memories | 123314 | [123314-memories.json](./123314-memories.json) |
+| Memories | 171316 | [171316-memories.json](./171316-memories.json) |
 | Memories | 174752 | [174752-memories.json](./174752-memories.json) |
 | Memories | 195943 | [195943-memories.json](./195943-memories.json) |
 | Memories | 234107 | [234107-memories.json](./234107-memories.json) |
@@ -11624,6 +11626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mônica Dentuça | 216273 | [216273-monica-dentuca.json](./216273-monica-dentuca.json) |
 | Mônica no Castelo do Dragão | 9557 | [9557-monica-no-castelo-do-dragao.json](./9557-monica-no-castelo-do-dragao.json) |
 | Monica's Paradox | 276222 | [276222-monicas-paradox.json](./276222-monicas-paradox.json) |
+| Monica's Revenge Tragedy | 171299 | [171299-monicas-revenge-tragedy.json](./171299-monicas-revenge-tragedy.json) |
 | Monigote Fantasy | 184971 | [184971-monigote-fantasy.json](./184971-monigote-fantasy.json) |
 | Monique: Passion Hôtesse de Caisse | 203076 | [203076-monique-passion-hotesse-de-caisse.json](./203076-monique-passion-hotesse-de-caisse.json) |
 | Monishiri Quiz Taiko no Kyouryuu | 276466 | [276466-monishiri-quiz-taiko-no-kyouryuu.json](./276466-monishiri-quiz-taiko-no-kyouryuu.json) |
@@ -16750,6 +16753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Pillars: Remastered | 291150 | [291150-mystic-pillars-remastered.json](./291150-mystic-pillars-remastered.json) |
 | Mystic Realm Dizzy | 181208 | [181208-mystic-realm-dizzy.json](./181208-mystic-realm-dizzy.json) |
 | Mystic Rest Stop | 327949 | [327949-mystic-rest-stop.json](./327949-mystic-rest-stop.json) |
+| Mystic Rhythms | 171292 | [171292-mystic-rhythms.json](./171292-mystic-rhythms.json) |
 | Mystic Ruin: A New Dawn | 150619 | [150619-mystic-ruin-a-new-dawn.json](./150619-mystic-ruin-a-new-dawn.json) |
 | Mystic Ruins | 106432 | [106432-mystic-ruins.json](./106432-mystic-ruins.json) |
 | Mystic RUS-files | 117635 | [117635-mystic-rus-files.json](./117635-mystic-rus-files.json) |
