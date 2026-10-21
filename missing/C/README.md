@@ -8112,6 +8112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Sports Collection: Definitive Edition | 400198 | [400198-club-sports-collection-definitive-edition.json](./400198-club-sports-collection-definitive-edition.json) |
 | Club Sports Collection: Premium Edition | 395676 | [395676-club-sports-collection-premium-edition.json](./395676-club-sports-collection-premium-edition.json) |
 | Club Sports Collection: Superior Edition | 413576 | [413576-club-sports-collection-superior-edition.json](./413576-club-sports-collection-superior-edition.json) |
+| Club Suicide | 196493 | [196493-club-suicide.json](./196493-club-suicide.json) |
 | Club Vanentine | 228689 | [228689-club-vanentine.json](./228689-club-vanentine.json) |
 | Clubhouse Games | 18597 | [18597-clubhouse-games.json](./18597-clubhouse-games.json) |
 | Clubhouse Games Express: Card Classics | 70418 | [70418-clubhouse-games-express-card-classics.json](./70418-clubhouse-games-express-card-classics.json) |
@@ -8655,6 +8656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coins | 312027 | [312027-coins.json](./312027-coins.json) |
 | Coins Collector Sport Car | 213027 | [213027-coins-collector-sport-car.json](./213027-coins-collector-sport-car.json) |
 | Coins Invaders | 188936 | [188936-coins-invaders.json](./188936-coins-invaders.json) |
+| Coins Muncher | 196610 | [196610-coins-muncher.json](./196610-coins-muncher.json) |
 | Coins Only! | 373113 | [373113-coins-only.json](./373113-coins-only.json) |
 | Coinsweeper | 385932 | [385932-coinsweeper.json](./385932-coinsweeper.json) |
 | Coiny Block | 98441 | [98441-coiny-block.json](./98441-coiny-block.json) |
