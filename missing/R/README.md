@@ -5244,6 +5244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Party | 20232 | [20232-rhythm-party.json](./20232-rhythm-party.json) |
 | Rhythm Plus | 207148 | [207148-rhythm-plus.json](./207148-rhythm-plus.json) |
 | Rhythm Producer | 275708 | [275708-rhythm-producer.json](./275708-rhythm-producer.json) |
+| Rhythm Quest | 178876 | [178876-rhythm-quest.json](./178876-rhythm-quest.json) |
 | Rhythm Racer | 406108 | [406108-rhythm-racer.json](./406108-rhythm-racer.json) |
 | Rhythm Racer 2 | 235075 | [235075-rhythm-racer-2.json](./235075-rhythm-racer-2.json) |
 | Rhythm Rat Rampage | 361864 | [361864-rhythm-rat-rampage.json](./361864-rhythm-rat-rampage.json) |
@@ -7817,6 +7818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roguesphere | 297227 | [297227-roguesphere.json](./297227-roguesphere.json) |
 | Roguestorm Beats | 416651 | [416651-roguestorm-beats.json](./416651-roguestorm-beats.json) |
 | Roguesweeper | 389126 | [389126-roguesweeper.json](./389126-roguesweeper.json) |
+| RogueSweeper | 178851 | [178851-roguesweeper.json](./178851-roguesweeper.json) |
 | RogueType | 221142 | [221142-roguetype.json](./221142-roguetype.json) |
 | RogueVerse | 120777 | [120777-rogueverse.json](./120777-rogueverse.json) |
 | RogueVirus | 372621 | [372621-roguevirus.json](./372621-roguevirus.json) |
