@@ -6012,6 +6012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip TD: Tower Defense | 217481 | [217481-flip-td-tower-defense.json](./217481-flip-td-tower-defense.json) |
 | Flip That Coin! | 284573 | [284573-flip-that-coin.json](./284573-flip-that-coin.json) |
 | Flip the Birdie | 252711 | [252711-flip-the-birdie.json](./252711-flip-the-birdie.json) |
+| Flip the Buddy | 192076 | [192076-flip-the-buddy.json](./192076-flip-the-buddy.json) |
 | Flip the Rocket | 101102 | [101102-flip-the-rocket.json](./101102-flip-the-rocket.json) |
 | Flip Trickster | 89215 | [89215-flip-trickster.json](./89215-flip-trickster.json) |
 | Flip Trickster: Parkour Simulator | 96708 | [96708-flip-trickster-parkour-simulator.json](./96708-flip-trickster-parkour-simulator.json) |
@@ -9754,6 +9755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Juice Rody Shop | 235061 | [235061-fruit-juice-rody-shop.json](./235061-fruit-juice-rody-shop.json) |
 | Fruit Killer | 246448 | [246448-fruit-killer.json](./246448-fruit-killer.json) |
 | Fruit Language Opinions | 128637 | [128637-fruit-language-opinions.json](./128637-fruit-language-opinions.json) |
+| Fruit Legacy | 192217 | [192217-fruit-legacy.json](./192217-fruit-legacy.json) |
 | Fruit Link Go 3 | 89585 | [89585-fruit-link-go-3.json](./89585-fruit-link-go-3.json) |
 | Fruit Lockers Reborn! 2 | 114318 | [114318-fruit-lockers-reborn-2.json](./114318-fruit-lockers-reborn-2.json) |
 | Fruit Logic | 233923 | [233923-fruit-logic.json](./233923-fruit-logic.json) |
