@@ -7030,6 +7030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luce Spenta | 371240 | [371240-luce-spenta.json](./371240-luce-spenta.json) |
 | Luce's Journey: A Victorian Trading Tale | 271210 | [271210-luces-journey-a-victorian-trading-tale.json](./271210-luces-journey-a-victorian-trading-tale.json) |
 | Lucen | 132795 | [132795-lucen.json](./132795-lucen.json) |
+| Lucent Bounds | 172995 | [172995-lucent-bounds.json](./172995-lucent-bounds.json) |
 | Lucent Heart | 36437 | [36437-lucent-heart.json](./36437-lucent-heart.json) |
 | Lucent VR | 400936 | [400936-lucent-vr.json](./400936-lucent-vr.json) |
 | Lucera | 356678 | [356678-lucera.json](./356678-lucera.json) |
