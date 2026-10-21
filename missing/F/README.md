@@ -4641,6 +4641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireblaster | 69256 | [69256-fireblaster.json](./69256-fireblaster.json) |
 | Firebloo Girls | 262559 | [262559-firebloo-girls.json](./262559-firebloo-girls.json) |
 | Fireblue Jam | 272160 | [272160-fireblue-jam.json](./272160-fireblue-jam.json) |
+| Firebox | 177770 | [177770-firebox.json](./177770-firebox.json) |
 | Fireboy & Watergirl 2: The Forest Temple | 246976 | [246976-fireboy-and-watergirl-2-the-forest-temple.json](./246976-fireboy-and-watergirl-2-the-forest-temple.json) |
 | Fireboy & Watergirl 3: The Ice Temple | 122938 | [122938-fireboy-and-watergirl-3-the-ice-temple.json](./122938-fireboy-and-watergirl-3-the-ice-temple.json) |
 | Fireboy & Watergirl 4: The Crystal Temple | 122936 | [122936-fireboy-and-watergirl-4-the-crystal-temple.json](./122936-fireboy-and-watergirl-4-the-crystal-temple.json) |
@@ -4806,6 +4807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Gen | 285328 | [285328-first-gen.json](./285328-first-gen.json) |
 | First Hand | 280713 | [280713-first-hand.json](./280713-first-hand.json) |
 | First Impact: Rise of a Hero | 30712 | [30712-first-impact-rise-of-a-hero.json](./30712-first-impact-rise-of-a-hero.json) |
+| First Kiss | 177741 | [177741-first-kiss.json](./177741-first-kiss.json) |
 | First Kiss at a Spooky Soiree | 144233 | [144233-first-kiss-at-a-spooky-soiree.json](./144233-first-kiss-at-a-spooky-soiree.json) |
 | First Kiss Stories | 384644 | [384644-first-kiss-stories.json](./384644-first-kiss-stories.json) |
 | First Kiss Story II | 125206 | [125206-first-kiss-story-ii.json](./125206-first-kiss-story-ii.json) |
@@ -6900,6 +6902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Maze | 234678 | [234678-food-maze.json](./234678-food-maze.json) |
 | Food Monster and Animals Memory Match | 82354 | [82354-food-monster-and-animals-memory-match.json](./82354-food-monster-and-animals-memory-match.json) |
 | Food Network: Cook or Be Cooked | 4858 | [4858-food-network-cook-or-be-cooked.json](./4858-food-network-cook-or-be-cooked.json) |
+| Food of Fortune | 177745 | [177745-food-of-fortune.json](./177745-food-of-fortune.json) |
 | Food Poppers | 189031 | [189031-food-poppers.json](./189031-food-poppers.json) |
 | Food Processing Simulator | 374904 | [374904-food-processing-simulator.json](./374904-food-processing-simulator.json) |
 | Food Store Simulator | 413448 | [413448-food-store-simulator.json](./413448-food-store-simulator.json) |
