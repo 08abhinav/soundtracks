@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Candy Hunt | 384337 | [384337-ultimate-candy-hunt.json](./384337-ultimate-candy-hunt.json) |
 | Ultimate Car Company Tycoon | 390108 | [390108-ultimate-car-company-tycoon.json](./390108-ultimate-car-company-tycoon.json) |
 | Ultimate Car Driving: Classics | 96775 | [96775-ultimate-car-driving-classics.json](./96775-ultimate-car-driving-classics.json) |
+| Ultimate Card Games | 200981 | [200981-ultimate-card-games.json](./200981-ultimate-card-games.json) |
 | Ultimate Cards | 14519 | [14519-ultimate-cards.json](./14519-ultimate-cards.json) |
 | Ultimate Cartridge Collection Deluxe | 207709 | [207709-ultimate-cartridge-collection-deluxe.json](./207709-ultimate-cartridge-collection-deluxe.json) |
 | Ultimate Casino | 203349 | [203349-ultimate-casino.json](./203349-ultimate-casino.json) |
