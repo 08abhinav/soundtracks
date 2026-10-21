@@ -1278,6 +1278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Nebula: Episode One | 67242 | [67242-dark-nebula-episode-one.json](./67242-dark-nebula-episode-one.json) |
 | Dark Nebulae Online | 179017 | [179017-dark-nebulae-online.json](./179017-dark-nebulae-online.json) |
 | Dark Neighbors | 351612 | [351612-dark-neighbors.json](./351612-dark-neighbors.json) |
+| Dark Nemesis: Infinite Quest | 194160 | [194160-dark-nemesis-infinite-quest.json](./194160-dark-nemesis-infinite-quest.json) |
 | Dark Nest: Snake Contract | 368580 | [368580-dark-nest-snake-contract.json](./368580-dark-nest-snake-contract.json) |
 | Dark Night | 33742 | [33742-dark-night.json](./33742-dark-night.json) |
 | Dark Night Maze | 232938 | [232938-dark-night-maze.json](./232938-dark-night-maze.json) |
@@ -6753,6 +6754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digi-tiles | 202074 | [202074-digi-tiles.json](./202074-digi-tiles.json) |
 | Digiclimb | 402281 | [402281-digiclimb.json](./402281-digiclimb.json) |
 | DigiGods: Build and Battle | 325874 | [325874-digigods-build-and-battle.json](./325874-digigods-build-and-battle.json) |
+| Digimon | 194324 | [194324-digimon.json](./194324-digimon.json) |
 | Digimon 2 | 247398 | [247398-digimon-2.json](./247398-digimon-2.json) |
 | Digimon 20th Anniversary Digivice | 270626 | [270626-digimon-20th-anniversary-digivice.json](./270626-digimon-20th-anniversary-digivice.json) |
 | Digimon 6 | 247399 | [247399-digimon-6.json](./247399-digimon-6.json) |
@@ -12446,6 +12448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drifty Drive | 112271 | [112271-drifty-drive.json](./112271-drifty-drive.json) |
 | Drifty Pool | 187835 | [187835-drifty-pool.json](./187835-drifty-pool.json) |
 | DriftZ | 168133 | [168133-driftz.json](./168133-driftz.json) |
+| Drihoo | 194332 | [194332-drihoo.json](./194332-drihoo.json) |
 | DRiiFT Mania | 51117 | [51117-driift-mania.json](./51117-driift-mania.json) |
 | Drill and Collect | 249681 | [249681-drill-and-collect.json](./249681-drill-and-collect.json) |
 | Drill and Delve | 382231 | [382231-drill-and-delve.json](./382231-drill-and-delve.json) |
