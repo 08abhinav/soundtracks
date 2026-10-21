@@ -9915,6 +9915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minigolf | 171902 | [171902-minigolf.json](./171902-minigolf.json) |
 | Minigolf | 307596 | [307596-minigolf.json](./307596-minigolf.json) |
 | MiniGolf | 101972 | [101972-minigolf.json](./101972-minigolf.json) |
+| Minigolf Adventure | 176147 | [176147-minigolf-adventure.json](./176147-minigolf-adventure.json) |
 | Minigolf Adventure: Cherry Blossom Valley | 221698 | [221698-minigolf-adventure-cherry-blossom-valley.json](./221698-minigolf-adventure-cherry-blossom-valley.json) |
 | Minigolf Blast | 95583 | [95583-minigolf-blast.json](./95583-minigolf-blast.json) |
 | Minigolf Galaxy | 275597 | [275597-minigolf-galaxy.json](./275597-minigolf-galaxy.json) |
@@ -10620,6 +10621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistaker | 129713 | [129713-mistaker.json](./129713-mistaker.json) |
 | Mistakes Were Made | 179036 | [179036-mistakes-were-made.json](./179036-mistakes-were-made.json) |
 | Mistbound | 370667 | [370667-mistbound.json](./370667-mistbound.json) |
+| MistDominion WorldGenerator | 176167 | [176167-mistdominion-worldgenerator.json](./176167-mistdominion-worldgenerator.json) |
 | Mister 9 | 289771 | [289771-mister-9.json](./289771-mister-9.json) |
 | Mister Antonio | 322243 | [322243-mister-antonio.json](./322243-mister-antonio.json) |
 | Mister Burnhouse | 118826 | [118826-mister-burnhouse.json](./118826-mister-burnhouse.json) |
@@ -11180,6 +11182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Zombie | 24943 | [24943-modern-zombie.json](./24943-modern-zombie.json) |
 | ModernArcheryVR | 100832 | [100832-modernarcheryvr.json](./100832-modernarcheryvr.json) |
 | Modest Kind | 68613 | [68613-modest-kind.json](./68613-modest-kind.json) |
+| Modi i Nanna: Sprytne Smyki | 176138 | [176138-modi-i-nanna-sprytne-smyki.json](./176138-modi-i-nanna-sprytne-smyki.json) |
 | Modice | 421198 | [421198-modice.json](./421198-modice.json) |
 | Modified Spaceship | 301605 | [301605-modified-spaceship.json](./301605-modified-spaceship.json) |
 | ModNation Racers | 4841 | [4841-modnation-racers.json](./4841-modnation-racers.json) |
@@ -16347,6 +16350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myriad Death | 336758 | [336758-myriad-death.json](./336758-myriad-death.json) |
 | Myriad Mayhem | 258208 | [258208-myriad-mayhem.json](./258208-myriad-mayhem.json) |
 | Myriad Realms | 406296 | [406296-myriad-realms.json](./406296-myriad-realms.json) |
+| Myriads: Renaissance | 176168 | [176168-myriads-renaissance.json](./176168-myriads-renaissance.json) |
 | Myriavora | 154584 | [154584-myriavora.json](./154584-myriavora.json) |
 | Myridian: The Last Stand | 128969 | [128969-myridian-the-last-stand.json](./128969-myridian-the-last-stand.json) |
 | Myrk: Echoes of the Forgotten | 367141 | [367141-myrk-echoes-of-the-forgotten.json](./367141-myrk-echoes-of-the-forgotten.json) |
