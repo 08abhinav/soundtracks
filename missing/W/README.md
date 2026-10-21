@@ -3716,6 +3716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who wants to strip this babe?: Hentai Teacher | 280445 | [280445-who-wants-to-strip-this-babe-hentai-teacher.json](./280445-who-wants-to-strip-this-babe-hentai-teacher.json) |
 | Who Wants to Win a Banana Hoard? | 328606 | [328606-who-wants-to-win-a-banana-hoard.json](./328606-who-wants-to-win-a-banana-hoard.json) |
 | Who Was The Cat? | 335740 | [335740-who-was-the-cat.json](./335740-who-was-the-cat.json) |
+| Who Will... | 178848 | [178848-who-will.json](./178848-who-will.json) |
 | Who's at the Door? | 347265 | [347265-whos-at-the-door.json](./347265-whos-at-the-door.json) |
 | Who's Beast | 358263 | [358263-whos-beast.json](./358263-whos-beast.json) |
 | Who's Behind The Mexican UFO's | 419340 | [419340-whos-behind-the-mexican-ufos.json](./419340-whos-behind-the-mexican-ufos.json) |
@@ -5379,6 +5380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfsbane | 71702 | [71702-wolfsbane.json](./71702-wolfsbane.json) |
 | Wolfschanze | 81168 | [81168-wolfschanze.json](./81168-wolfschanze.json) |
 | Wolfschanze II | 27646 | [27646-wolfschanze-ii.json](./27646-wolfschanze-ii.json) |
+| Wolfskin's Curse | 178868 | [178868-wolfskins-curse.json](./178868-wolfskins-curse.json) |
 | Wolfsong | 33568 | [33568-wolfsong.json](./33568-wolfsong.json) |
 | Wolfstar Adventures in the Inu System | 213405 | [213405-wolfstar-adventures-in-the-inu-system.json](./213405-wolfstar-adventures-in-the-inu-system.json) |
 | Wolfstride | 134952 | [134952-wolfstride.json](./134952-wolfstride.json) |
