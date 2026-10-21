@@ -1230,6 +1230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Percent | 277345 | [277345-idle-percent.json](./277345-idle-percent.json) |
 | Idle Physio: Clinic Tycoon | 417461 | [417461-idle-physio-clinic-tycoon.json](./417461-idle-physio-clinic-tycoon.json) |
 | Idle Pinball | 330171 | [330171-idle-pinball.json](./330171-idle-pinball.json) |
+| Idle Pins | 176704 | [176704-idle-pins.json](./176704-idle-pins.json) |
 | Idle Pirate Legend | 281448 | [281448-idle-pirate-legend.json](./281448-idle-pirate-legend.json) |
 | Idle Pirate Ship | 220164 | [220164-idle-pirate-ship.json](./220164-idle-pirate-ship.json) |
 | Idle Pixel Battle | 411410 | [411410-idle-pixel-battle.json](./411410-idle-pixel-battle.json) |
