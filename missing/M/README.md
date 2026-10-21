@@ -2594,6 +2594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Parkour 2: Roll and Roll | 163186 | [163186-marble-parkour-2-roll-and-roll.json](./163186-marble-parkour-2-roll-and-roll.json) |
 | Marble Partner | 119756 | [119756-marble-partner.json](./119756-marble-partner.json) |
 | Marble Power Blast | 114133 | [114133-marble-power-blast.json](./114133-marble-power-blast.json) |
+| Marble Puzzle Blast: Rescue Adventure | 195427 | [195427-marble-puzzle-blast-rescue-adventure.json](./195427-marble-puzzle-blast-rescue-adventure.json) |
 | Marble Race Creator | 244848 | [244848-marble-race-creator.json](./244848-marble-race-creator.json) |
 | Marble Racing | 137570 | [137570-marble-racing.json](./137570-marble-racing.json) |
 | Marble Racing Manager | 388747 | [388747-marble-racing-manager.json](./388747-marble-racing-manager.json) |
@@ -9667,6 +9668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Game Compil 3 | 322796 | [322796-mini-game-compil-3.json](./322796-mini-game-compil-3.json) |
 | Mini Game Machine | 346761 | [346761-mini-game-machine.json](./346761-mini-game-machine.json) |
 | Mini Garden Cafe | 260153 | [260153-mini-garden-cafe.json](./260153-mini-garden-cafe.json) |
+| Mini Gardens | 195420 | [195420-mini-gardens.json](./195420-mini-gardens.json) |
 | Mini Ghost | 29623 | [29623-mini-ghost.json](./29623-mini-ghost.json) |
 | Mini Gold Coop | 98365 | [98365-mini-gold-coop.json](./98365-mini-gold-coop.json) |
 | Mini Golf | 209506 | [209506-mini-golf.json](./209506-mini-golf.json) |
