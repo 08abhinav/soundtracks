@@ -5636,6 +5636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pip's Big Discovery | 407269 | [407269-pips-big-discovery.json](./407269-pips-big-discovery.json) |
 | Pip's Potion Shop | 391289 | [391289-pips-potion-shop.json](./391289-pips-potion-shop.json) |
 | Pip's Tale | 382449 | [382449-pips-tale.json](./382449-pips-tale.json) |
+| Pipe | 187747 | [187747-pipe.json](./187747-pipe.json) |
 | Pipe | 358445 | [358445-pipe.json](./358445-pipe.json) |
 | Pipe Ball | 197732 | [197732-pipe-ball.json](./197732-pipe-ball.json) |
 | Pipe by BMX Streets | 89977 | [89977-pipe-by-bmx-streets.json](./89977-pipe-by-bmx-streets.json) |
@@ -5871,6 +5872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of the Caribbean: New Horizons | 310699 | [310699-pirates-of-the-caribbean-new-horizons.json](./310699-pirates-of-the-caribbean-new-horizons.json) |
 | Pirates of the Caribbean: The Curse of the Black Pearl | 19218 | [19218-pirates-of-the-caribbean-the-curse-of-the-black-pearl.json](./19218-pirates-of-the-caribbean-the-curse-of-the-black-pearl.json) |
 | Pirates of the Caribbean: Tides of War | 97500 | [97500-pirates-of-the-caribbean-tides-of-war.json](./97500-pirates-of-the-caribbean-tides-of-war.json) |
+| Pirates of the Maverta | 187731 | [187731-pirates-of-the-maverta.json](./187731-pirates-of-the-maverta.json) |
 | Pirates of the Sea | 165770 | [165770-pirates-of-the-sea.json](./165770-pirates-of-the-sea.json) |
 | Pirates on Target | 187536 | [187536-pirates-on-target.json](./187536-pirates-on-target.json) |
 | Pirates Outlaws 2: Heritage | 320892 | [320892-pirates-outlaws-2-heritage.json](./320892-pirates-outlaws-2-heritage.json) |
