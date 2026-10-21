@@ -9425,6 +9425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don’t Sleep with the Fishes | 403674 | [403674-don-t-sleep-with-the-fishes.json](./403674-don-t-sleep-with-the-fishes.json) |
 | Don't Sleep: Hard Mode | 375539 | [375539-dont-sleep-hard-mode.json](./375539-dont-sleep-hard-mode.json) |
 | Don't Spill | 167385 | [167385-dont-spill.json](./167385-dont-spill.json) |
+| Don't Spill Your Coffee! | 176685 | [176685-dont-spill-your-coffee.json](./176685-dont-spill-your-coffee.json) |
 | Don't Stand Out | 90134 | [90134-dont-stand-out.json](./90134-dont-stand-out.json) |
 | Don't Stare | 153936 | [153936-dont-stare.json](./153936-dont-stare.json) |
 | Don't Starve Alone Pack Plus | 227173 | [227173-dont-starve-alone-pack-plus.json](./227173-dont-starve-alone-pack-plus.json) |
@@ -10015,6 +10016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Door to Door | 34244 | [34244-door-to-door.json](./34244-door-to-door.json) |
 | Door XP | 178956 | [178956-door-xp.json](./178956-door-xp.json) |
 | Door4: Ultimatum | 319686 | [319686-door4-ultimatum.json](./319686-door4-ultimatum.json) |
+| Doorbell Game! | 176728 | [176728-doorbell-game.json](./176728-doorbell-game.json) |
 | Dooria | 158231 | [158231-dooria.json](./158231-dooria.json) |
 | Doorka | 346154 | [346154-doorka.json](./346154-doorka.json) |
 | Doorman | 200358 | [200358-doorman.json](./200358-doorman.json) |
@@ -13146,6 +13148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Duck Goose | 358870 | [358870-duck-duck-goose.json](./358870-duck-duck-goose.json) |
 | Duck Duck Hotel | 384083 | [384083-duck-duck-hotel.json](./384083-duck-duck-hotel.json) |
 | Duck Duck Plays the Blues | 182994 | [182994-duck-duck-plays-the-blues.json](./182994-duck-duck-plays-the-blues.json) |
+| Duck Duck Rocket | 176724 | [176724-duck-duck-rocket.json](./176724-duck-duck-rocket.json) |
 | Duck Duck Shark | 390163 | [390163-duck-duck-shark.json](./390163-duck-duck-shark.json) |
 | Duck Duck Shoot | 330181 | [330181-duck-duck-shoot.json](./330181-duck-duck-shoot.json) |
 | Duck Duck Swap | 218155 | [218155-duck-duck-swap.json](./218155-duck-duck-swap.json) |
