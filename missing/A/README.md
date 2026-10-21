@@ -5888,6 +5888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alto | 403811 | [403811-alto.json](./403811-alto.json) |
 | Alto Trek | 232414 | [232414-alto-trek.json](./232414-alto-trek.json) |
 | Alto: Ingyaku Meikyu no Himemiko | 98030 | [98030-alto-ingyaku-meikyu-no-himemiko.json](./98030-alto-ingyaku-meikyu-no-himemiko.json) |
+| Alto's Adventure: The Spirit of the Mountain | 194329 | [194329-altos-adventure-the-spirit-of-the-mountain.json](./194329-altos-adventure-the-spirit-of-the-mountain.json) |
 | Altruism | 147451 | [147451-altruism.json](./147451-altruism.json) |
 | Altruistic | 349453 | [349453-altruistic.json](./349453-altruistic.json) |
 | AltspaceVR | 34369 | [34369-altspacevr.json](./34369-altspacevr.json) |
@@ -10840,6 +10841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artery Gear: Fusion | 152111 | [152111-artery-gear-fusion.json](./152111-artery-gear-fusion.json) |
 | Artesnaut | 419371 | [419371-artesnaut.json](./419371-artesnaut.json) |
 | Arthas: The Game | 238581 | [238581-arthas-the-game.json](./238581-arthas-the-game.json) |
+| Arthdal Chronicles | 194153 | [194153-arthdal-chronicles.json](./194153-arthdal-chronicles.json) |
 | Arthur | 184975 | [184975-arthur.json](./184975-arthur.json) |
 | Arthur & Susan: Almost Detectives | 270534 | [270534-arthur-and-susan-almost-detectives.json](./270534-arthur-and-susan-almost-detectives.json) |
 | Arthur and the Invisibles | 200689 | [200689-arthur-and-the-invisibles.json](./200689-arthur-and-the-invisibles.json) |
