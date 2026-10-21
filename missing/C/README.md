@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Makeup Party Salon | 90185 | [90185-candy-makeup-party-salon.json](./90185-candy-makeup-party-salon.json) |
 | Candy Mandy | 114956 | [114956-candy-mandy.json](./114956-candy-mandy.json) |
 | Candy Mania Star | 87094 | [87094-candy-mania-star.json](./87094-candy-mania-star.json) |
+| Candy Match 3 | 191012 | [191012-candy-match-3.json](./191012-candy-match-3.json) |
 | Candy Merged | 103559 | [103559-candy-merged.json](./103559-candy-merged.json) |
 | Candy Mountain Massacre | 270206 | [270206-candy-mountain-massacre.json](./270206-candy-mountain-massacre.json) |
 | Candy Mountain Massacre 2 | 270207 | [270207-candy-mountain-massacre-2.json](./270207-candy-mountain-massacre-2.json) |
@@ -11193,6 +11194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corridor Sigma | 199382 | [199382-corridor-sigma.json](./199382-corridor-sigma.json) |
 | Corridor VR | 279489 | [279489-corridor-vr.json](./279489-corridor-vr.json) |
 | Corridor Z | 60298 | [60298-corridor-z.json](./60298-corridor-z.json) |
+| Corridors | 191027 | [191027-corridors.json](./191027-corridors.json) |
 | Corridors | 418277 | [418277-corridors.json](./418277-corridors.json) |
 | Corridors of Their Memories | 149093 | [149093-corridors-of-their-memories.json](./149093-corridors-of-their-memories.json) |
 | Corrigendum | 333983 | [333983-corrigendum.json](./333983-corrigendum.json) |
