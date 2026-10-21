@@ -1082,6 +1082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olav & the Lute | 131996 | [131996-olav-and-the-lute.json](./131996-olav-and-the-lute.json) |
 | Olber's Paradox | 392816 | [392816-olbers-paradox.json](./392816-olbers-paradox.json) |
 | Old Car Crusher Crane & Dump Truck Driver | 99721 | [99721-old-car-crusher-crane-and-dump-truck-driver.json](./99721-old-car-crusher-crane-and-dump-truck-driver.json) |
+| Old Coin Pusher Friends | 172958 | [172958-old-coin-pusher-friends.json](./172958-old-coin-pusher-friends.json) |
 | Old Coin Pusher Friends 2 | 249058 | [249058-old-coin-pusher-friends-2.json](./249058-old-coin-pusher-friends-2.json) |
 | Old Coin Pusher Friends 3 | 307977 | [307977-old-coin-pusher-friends-3.json](./307977-old-coin-pusher-friends-3.json) |
 | Old Coin Pusher Gaiden | 411143 | [411143-old-coin-pusher-gaiden.json](./411143-old-coin-pusher-gaiden.json) |
@@ -2090,6 +2091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Way to Die | 60205 | [60205-one-way-to-die.json](./60205-one-way-to-die.json) |
 | One Way to Die: Steam Edition | 90613 | [90613-one-way-to-die-steam-edition.json](./90613-one-way-to-die-steam-edition.json) |
 | One way to exit | 33284 | [33284-one-way-to-exit.json](./33284-one-way-to-exit.json) |
+| One Way to Exit 2 | 172986 | [172986-one-way-to-exit-2.json](./172986-one-way-to-exit-2.json) |
 | One Way Trip | 23280 | [23280-one-way-trip.json](./23280-one-way-trip.json) |
 | One Wee Robot | 392277 | [392277-one-wee-robot.json](./392277-one-wee-robot.json) |
 | One Week at Flumpty's | 259404 | [259404-one-week-at-flumptys.json](./259404-one-week-at-flumptys.json) |
