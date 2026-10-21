@@ -7436,6 +7436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuumatsu Shoujo to Saishuukai | 370553 | [370553-shuumatsu-shoujo-to-saishuukai.json](./370553-shuumatsu-shoujo-to-saishuukai.json) |
 | Shuusou Gyoku | 123608 | [123608-shuusou-gyoku.json](./123608-shuusou-gyoku.json) |
 | Shuutai Headless | 150575 | [150575-shuutai-headless.json](./150575-shuutai-headless.json) |
+| Shuv-It | 202002 | [202002-shuv-it.json](./202002-shuv-it.json) |
 | Shuwa no Mori | 254483 | [254483-shuwa-no-mori.json](./254483-shuwa-no-mori.json) |
 | Shuwa Shuwa Guin! | 383940 | [383940-shuwa-shuwa-guin.json](./383940-shuwa-shuwa-guin.json) |
 | ShuXian Chronicles: Idle Ascension | 358471 | [358471-shuxian-chronicles-idle-ascension.json](./358471-shuxian-chronicles-idle-ascension.json) |
@@ -10962,6 +10963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smol Snek | 281526 | [281526-smol-snek.json](./281526-smol-snek.json) |
 | Smol Survivors | 307057 | [307057-smol-survivors.json](./307057-smol-survivors.json) |
 | Smol Toad | 390127 | [390127-smol-toad.json](./390127-smol-toad.json) |
+| Smolitaire | 201994 | [201994-smolitaire.json](./201994-smolitaire.json) |
 | Smolsies | 127989 | [127989-smolsies.json](./127989-smolsies.json) |
 | Smoop Can't Sleep! | 175847 | [175847-smoop-cant-sleep.json](./175847-smoop-cant-sleep.json) |
 | Smooth Criminal | 91913 | [91913-smooth-criminal.json](./91913-smooth-criminal.json) |
@@ -11216,6 +11218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnakeQR | 146844 | [146844-snakeqr.json](./146844-snakeqr.json) |
 | Snaker 64 | 244757 | [244757-snaker-64.json](./244757-snaker-64.json) |
 | Snakes | 195497 | [195497-snakes.json](./195497-snakes.json) |
+| Snakes | 201995 | [201995-snakes.json](./201995-snakes.json) |
 | Snakes & Ladders | 147984 | [147984-snakes-and-ladders.json](./147984-snakes-and-ladders.json) |
 | Snakes & Ladders in Aquarium | 54379 | [54379-snakes-and-ladders-in-aquarium.json](./54379-snakes-and-ladders-in-aquarium.json) |
 | Snakes and Ladders | 106570 | [106570-snakes-and-ladders.json](./106570-snakes-and-ladders.json) |
