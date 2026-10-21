@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waffles' Cranked Stories | 382500 | [382500-waffles-cranked-stories.json](./382500-waffles-cranked-stories.json) |
 | Wag | 312562 | [312562-wag.json](./312562-wag.json) |
 | Wag Royale | 124613 | [124613-wag-royale.json](./124613-wag-royale.json) |
+| Waga Himegimi ni Eikan o | 187745 | [187745-waga-himegimi-ni-eikan-o.json](./187745-waga-himegimi-ni-eikan-o.json) |
 | Waga Seishun no Arcadia | 385731 | [385731-waga-seishun-no-arcadia.json](./385731-waga-seishun-no-arcadia.json) |
 | Wagamama Fairy: Mirumo de Pon! DokiDoki Memorial Panic | 284596 | [284596-wagamama-fairy-mirumo-de-pon-dokidoki-memorial-panic.json](./284596-wagamama-fairy-mirumo-de-pon-dokidoki-memorial-panic.json) |
 | Wagamama Fairy: Mirumo de Pon! Hachinin no Toki no Yousei | 284597 | [284597-wagamama-fairy-mirumo-de-pon-hachinin-no-toki-no-yousei.json](./284597-wagamama-fairy-mirumo-de-pon-hachinin-no-toki-no-yousei.json) |
@@ -2188,6 +2189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Have Evangelion at Home | 363911 | [363911-we-have-evangelion-at-home.json](./363911-we-have-evangelion-at-home.json) |
 | We Have To Let You Go | 350779 | [350779-we-have-to-let-you-go.json](./350779-we-have-to-let-you-go.json) |
 | We Heist Too | 304885 | [304885-we-heist-too.json](./304885-we-heist-too.json) |
+| We Hidden | 187719 | [187719-we-hidden.json](./187719-we-hidden.json) |
 | We Hunt Them in the Dark | 356693 | [356693-we-hunt-them-in-the-dark.json](./356693-we-hunt-them-in-the-dark.json) |
 | We Interns | 357252 | [357252-we-interns.json](./357252-we-interns.json) |
 | We Kill Monsters | 255092 | [255092-we-kill-monsters.json](./255092-we-kill-monsters.json) |
@@ -3066,6 +3068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When Eyes Close | 360745 | [360745-when-eyes-close.json](./360745-when-eyes-close.json) |
 | When Hell Freezes Over | 407416 | [407416-when-hell-freezes-over.json](./407416-when-hell-freezes-over.json) |
 | When Honor Dies | 216831 | [216831-when-honor-dies.json](./216831-when-honor-dies.json) |
+| When I Die | 187741 | [187741-when-i-die.json](./187741-when-i-die.json) |
 | When I Reincarnate, I'm a Cube!? | 153970 | [153970-when-i-reincarnate-im-a-cube.json](./153970-when-i-reincarnate-im-a-cube.json) |
 | When I Said "It's Ok To Be Cringe" I Didn't Mean Like That | 300677 | [300677-when-i-said-its-ok-to-be-cringe-i-didnt-mean-like-that.json](./300677-when-i-said-its-ok-to-be-cringe-i-didnt-mean-like-that.json) |
 | When I was a boycow | 178675 | [178675-when-i-was-a-boycow.json](./178675-when-i-was-a-boycow.json) |
