@@ -1005,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Bandit | 19697 | [19697-candy-bandit.json](./19697-candy-bandit.json) |
 | Candy Bandits | 392221 | [392221-candy-bandits.json](./392221-candy-bandits.json) |
 | Candy Blitz Deluxe | 59469 | [59469-candy-blitz-deluxe.json](./59469-candy-blitz-deluxe.json) |
+| Candy Boo: Esports Edition | 175619 | [175619-candy-boo-esports-edition.json](./175619-candy-boo-esports-edition.json) |
 | Candy Box | 3269 | [3269-candy-box.json](./3269-candy-box.json) |
 | Candy Box | 327664 | [327664-candy-box.json](./327664-candy-box.json) |
 | Candy Box 2 | 62779 | [62779-candy-box-2.json](./62779-candy-box-2.json) |
@@ -2297,6 +2298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Network: Toon Jam! | 206759 | [206759-cartoon-network-toon-jam.json](./206759-cartoon-network-toon-jam.json) |
 | Cartoon Pet Game | 335068 | [335068-cartoon-pet-game.json](./335068-cartoon-pet-game.json) |
 | Cartoon Rage | 239216 | [239216-cartoon-rage.json](./239216-cartoon-rage.json) |
+| Cartoon Roach: Fun Ninja Game | 175599 | [175599-cartoon-roach-fun-ninja-game.json](./175599-cartoon-roach-fun-ninja-game.json) |
 | Cartoon Tower Defense | 186568 | [186568-cartoon-tower-defense.json](./186568-cartoon-tower-defense.json) |
 | Cartoon Universe | 247576 | [247576-cartoon-universe.json](./247576-cartoon-universe.json) |
 | Cartoon Wars | 230784 | [230784-cartoon-wars.json](./230784-cartoon-wars.json) |
@@ -4615,6 +4617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlie and The Chocolate Factory DVD Games | 343343 | [343343-charlie-and-the-chocolate-factory-dvd-games.json](./343343-charlie-and-the-chocolate-factory-dvd-games.json) |
 | Charlie Blasts Territory | 10665 | [10665-charlie-blasts-territory.json](./10665-charlie-blasts-territory.json) |
 | Charlie Brown’s All-Stars | 291918 | [291918-charlie-brown-s-all-stars.json](./291918-charlie-brown-s-all-stars.json) |
+| Charlie Charlie the Challenge and Game | 175076 | [175076-charlie-charlie-the-challenge-and-game.json](./175076-charlie-charlie-the-challenge-and-game.json) |
 | Charlie Foxtrot & The Galaxy of Tomorrow | 166692 | [166692-charlie-foxtrot-and-the-galaxy-of-tomorrow.json](./166692-charlie-foxtrot-and-the-galaxy-of-tomorrow.json) |
 | Charlie from the swamp | 152781 | [152781-charlie-from-the-swamp.json](./152781-charlie-from-the-swamp.json) |
 | Charlie II | 72264 | [72264-charlie-ii.json](./72264-charlie-ii.json) |
@@ -6165,6 +6168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Shopper Simulator | 137466 | [137466-christmas-shopper-simulator.json](./137466-christmas-shopper-simulator.json) |
 | Christmas Slots: Casino Game | 369341 | [369341-christmas-slots-casino-game.json](./369341-christmas-slots-casino-game.json) |
 | Christmas Smash | 400469 | [400469-christmas-smash.json](./400469-christmas-smash.json) |
+| Christmas Solitaire | 175578 | [175578-christmas-solitaire.json](./175578-christmas-solitaire.json) |
 | Christmas Soul | 372805 | [372805-christmas-soul.json](./372805-christmas-soul.json) |
 | Christmas Store: Santa's Supermarket Simulator | 326468 | [326468-christmas-store-santas-supermarket-simulator.json](./326468-christmas-store-santas-supermarket-simulator.json) |
 | Christmas Stories: A Christmas Carol | 139768 | [139768-christmas-stories-a-christmas-carol.json](./139768-christmas-stories-a-christmas-carol.json) |
@@ -7656,6 +7660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleromancy | 199305 | [199305-cleromancy.json](./199305-cleromancy.json) |
 | Cleveland 1968 | 319933 | [319933-cleveland-1968.json](./319933-cleveland-1968.json) |
 | Clever & Smart: A Movie Adventure | 98237 | [98237-clever-and-smart-a-movie-adventure.json](./98237-clever-and-smart-a-movie-adventure.json) |
+| Clever cubed | 175082 | [175082-clever-cubed.json](./175082-clever-cubed.json) |
 | Clever Dog | 346051 | [346051-clever-dog.json](./346051-clever-dog.json) |
 | Clever Frog | 340209 | [340209-clever-frog.json](./340209-clever-frog.json) |
 | Clever Girl | 184639 | [184639-clever-girl.json](./184639-clever-girl.json) |
@@ -8616,6 +8621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffie Simulator | 345613 | [345613-coffie-simulator.json](./345613-coffie-simulator.json) |
 | Coffin | 94136 | [94136-coffin.json](./94136-coffin.json) |
 | Coffin Counseling | 179704 | [179704-coffin-counseling.json](./179704-coffin-counseling.json) |
+| Coffin Mall | 175615 | [175615-coffin-mall.json](./175615-coffin-mall.json) |
 | Coffin Rot Brewing Co. | 121291 | [121291-coffin-rot-brewing-co.json](./121291-coffin-rot-brewing-co.json) |
 | Coffinman | 337463 | [337463-coffinman.json](./337463-coffinman.json) |
 | Cog Fire | 291483 | [291483-cog-fire.json](./291483-cog-fire.json) |
@@ -10410,6 +10416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Constantine | 236004 | [236004-constantine.json](./236004-constantine.json) |
 | Constantine | 5787 | [5787-constantine.json](./5787-constantine.json) |
 | Constantine Scores | 328420 | [328420-constantine-scores.json](./328420-constantine-scores.json) |
+| Constellar | 175062 | [175062-constellar.json](./175062-constellar.json) |
 | Constellar | 380082 | [380082-constellar.json](./380082-constellar.json) |
 | Constellation Courier | 309127 | [309127-constellation-courier.json](./309127-constellation-courier.json) |
 | Constellation Distantia | 30090 | [30090-constellation-distantia.json](./30090-constellation-distantia.json) |
@@ -11350,6 +11357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Cash | 117782 | [117782-cosmic-cash.json](./117782-cosmic-cash.json) |
 | Cosmic Castaway | 177731 | [177731-cosmic-castaway.json](./177731-cosmic-castaway.json) |
 | Cosmic Castaway | 380084 | [380084-cosmic-castaway.json](./380084-cosmic-castaway.json) |
+| Cosmic Cat | 175072 | [175072-cosmic-cat.json](./175072-cosmic-cat.json) |
 | Cosmic Cat | 361677 | [361677-cosmic-cat.json](./361677-cosmic-cat.json) |
 | Cosmic Causeway: Trailblazer II | 40936 | [40936-cosmic-causeway-trailblazer-ii.json](./40936-cosmic-causeway-trailblazer-ii.json) |
 | Cosmic Challenge Racing | 196336 | [196336-cosmic-challenge-racing.json](./196336-cosmic-challenge-racing.json) |
@@ -12787,6 +12795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Shooters 2 | 204475 | [204475-crazy-shooters-2.json](./204475-crazy-shooters-2.json) |
 | Crazy Shopping | 123966 | [123966-crazy-shopping.json](./123966-crazy-shopping.json) |
 | Crazy Shot | 12414 | [12414-crazy-shot.json](./12414-crazy-shot.json) |
+| Crazy Skies: Endless Arcade Flyer | 175560 | [175560-crazy-skies-endless-arcade-flyer.json](./175560-crazy-skies-endless-arcade-flyer.json) |
 | Crazy Snowboard | 87553 | [87553-crazy-snowboard.json](./87553-crazy-snowboard.json) |
 | Crazy Soccer | 104631 | [104631-crazy-soccer.json](./104631-crazy-soccer.json) |
 | Crazy Sonic | 352784 | [352784-crazy-sonic.json](./352784-crazy-sonic.json) |
@@ -14819,6 +14828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cum on Bus | 241293 | [241293-cum-on-bus.json](./241293-cum-on-bus.json) |
 | Cum On! Bukkake Ranch! | 322950 | [322950-cum-on-bukkake-ranch.json](./322950-cum-on-bukkake-ranch.json) |
 | Cum Queens | 285131 | [285131-cum-queens.json](./285131-cum-queens.json) |
+| Cumanbins | 175093 | [175093-cumanbins.json](./175093-cumanbins.json) |
 | Cumboy in Space | 370467 | [370467-cumboy-in-space.json](./370467-cumboy-in-space.json) |
 | Cumboy in Space 2 | 370443 | [370443-cumboy-in-space-2.json](./370443-cumboy-in-space-2.json) |
 | Cumdor no Tou: Zetsubou no Majo | 342061 | [342061-cumdor-no-tou-zetsubou-no-majo.json](./342061-cumdor-no-tou-zetsubou-no-majo.json) |
