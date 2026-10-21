@@ -5082,6 +5082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rewriter | 181632 | [181632-rewriter.json](./181632-rewriter.json) |
 | Rewritten | 294552 | [294552-rewritten.json](./294552-rewritten.json) |
 | Rewritten Recalls | 269182 | [269182-rewritten-recalls.json](./269182-rewritten-recalls.json) |
+| Rex | 195939 | [195939-rex.json](./195939-rex.json) |
 | Rex | 215321 | [215321-rex.json](./215321-rex.json) |
 | Rex | 45348 | [45348-rex.json](./45348-rex.json) |
 | ReX | 99193 | [99193-rex.json](./99193-rex.json) |
@@ -6653,6 +6654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Oh vs. Uchu Mega Fight | 351570 | [351570-robo-oh-vs-uchu-mega-fight.json](./351570-robo-oh-vs-uchu-mega-fight.json) |
 | Robo Panic | 307599 | [307599-robo-panic.json](./307599-robo-panic.json) |
 | Robo Pit | 20249 | [20249-robo-pit.json](./20249-robo-pit.json) |
+| Robo pocket: 3d fighter with rollback | 195925 | [195925-robo-pocket-3d-fighter-with-rollback.json](./195925-robo-pocket-3d-fighter-with-rollback.json) |
 | Robo Pose | 296354 | [296354-robo-pose.json](./296354-robo-pose.json) |
 | Robo Quest | 171545 | [171545-robo-quest.json](./171545-robo-quest.json) |
 | Robo Rampage | 371014 | [371014-robo-rampage.json](./371014-robo-rampage.json) |
