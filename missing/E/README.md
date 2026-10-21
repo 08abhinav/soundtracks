@@ -932,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edengrall | 129102 | [129102-edengrall.json](./129102-edengrall.json) |
 | Edens Zero Deluxe Edition | 336887 | [336887-edens-zero-deluxe-edition.json](./336887-edens-zero-deluxe-edition.json) |
 | Edens Zero: Pocket Galaxy | 174888 | [174888-edens-zero-pocket-galaxy.json](./174888-edens-zero-pocket-galaxy.json) |
+| Edentobi | 188282 | [188282-edentobi.json](./188282-edentobi.json) |
 | Edentopia | 245882 | [245882-edentopia.json](./245882-edentopia.json) |
 | Edenya | 281659 | [281659-edenya.json](./281659-edenya.json) |
 | Edepth Angel: Pinocchio's Murder | 83609 | [83609-edepth-angel-pinocchios-murder.json](./83609-edepth-angel-pinocchios-murder.json) |
@@ -5434,6 +5435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evocation: Beyond the Dream | 262408 | [262408-evocation-beyond-the-dream.json](./262408-evocation-beyond-the-dream.json) |
 | Evocation: Oltre il Sogno | 242533 | [242533-evocation-oltre-il-sogno.json](./242533-evocation-oltre-il-sogno.json) |
 | Evochron Legacy | 34560 | [34560-evochron-legacy.json](./34560-evochron-legacy.json) |
+| Evochron Mobile | 188288 | [188288-evochron-mobile.json](./188288-evochron-mobile.json) |
 | EvoGene | 248314 | [248314-evogene.json](./248314-evogene.json) |
 | Evoids | 331434 | [331434-evoids.json](./331434-evoids.json) |
 | Evoke | 111613 | [111613-evoke.json](./111613-evoke.json) |
@@ -5848,6 +5850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exorcist Fairy | 164084 | [164084-exorcist-fairy.json](./164084-exorcist-fairy.json) |
 | Exorcist Hotline | 399270 | [399270-exorcist-hotline.json](./399270-exorcist-hotline.json) |
 | Exorcist II | 209181 | [209181-exorcist-ii.json](./209181-exorcist-ii.json) |
+| Exorcist in Island | 188276 | [188276-exorcist-in-island.json](./188276-exorcist-in-island.json) |
 | Exorcist Onmyoji | 304875 | [304875-exorcist-onmyoji.json](./304875-exorcist-onmyoji.json) |
 | Exorcist Shrine Maiden Miharu: The Licentious Journal of her Captive Violation | 82696 | [82696-exorcist-shrine-maiden-miharu-the-licentious-journal-of-her-captive-violation.json](./82696-exorcist-shrine-maiden-miharu-the-licentious-journal-of-her-captive-violation.json) |
 | Exorcist Simulator | 259005 | [259005-exorcist-simulator.json](./259005-exorcist-simulator.json) |
