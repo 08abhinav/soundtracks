@@ -2227,6 +2227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5x Qube : addictive puzzle grid fill 10/10 | 88672 | [88672-5x-qube-addictive-puzzle-grid-fill-10-10.json](./88672-5x-qube-addictive-puzzle-grid-fill-10-10.json) |
 | 6 | 34296 | [34296-6.json](./34296-6.json) |
 | 6 Colors | 93366 | [93366-6-colors.json](./93366-6-colors.json) |
+| 6 Day Assassin | 171790 | [171790-6-day-assassin.json](./171790-6-day-assassin.json) |
 | 6 Days a Sacrifice | 71502 | [71502-6-days-a-sacrifice.json](./71502-6-days-a-sacrifice.json) |
 | 6 Feet Under | 177938 | [177938-6-feet-under.json](./177938-6-feet-under.json) |
 | 6 ft Blunder | 307231 | [307231-6-ft-blunder.json](./307231-6-ft-blunder.json) |
