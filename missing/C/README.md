@@ -6395,6 +6395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrysalis | 113559 | [113559-chrysalis.json](./113559-chrysalis.json) |
 | Chrysalis | 321638 | [321638-chrysalis.json](./321638-chrysalis.json) |
 | Chrysalis | 57122 | [57122-chrysalis.json](./57122-chrysalis.json) |
+| Chrysalis Inc. | 199351 | [199351-chrysalis-inc.json](./199351-chrysalis-inc.json) |
 | Chrysalis: Chrome Butterfly | 389559 | [389559-chrysalis-chrome-butterfly.json](./389559-chrysalis-chrome-butterfly.json) |
 | Chrysanthemum: On the Way to Sweet Dreams | 391235 | [391235-chrysanthemum-on-the-way-to-sweet-dreams.json](./391235-chrysanthemum-on-the-way-to-sweet-dreams.json) |
 | Chrysler Classic Racing | 51042 | [51042-chrysler-classic-racing.json](./51042-chrysler-classic-racing.json) |
@@ -7603,6 +7604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clic the ABC 123 Laptop | 333121 | [333121-clic-the-abc-123-laptop.json](./333121-clic-the-abc-123-laptop.json) |
 | Cliché Adventure | 159712 | [159712-cliche-adventure.json](./159712-cliche-adventure.json) |
 | Cliché Quest | 397603 | [397603-cliche-quest.json](./397603-cliche-quest.json) |
+| Click and Collect | 199349 | [199349-click-and-collect.json](./199349-click-and-collect.json) |
 | Click and Conquer | 342682 | [342682-click-and-conquer.json](./342682-click-and-conquer.json) |
 | Click and Relax | 153420 | [153420-click-and-relax.json](./153420-click-and-relax.json) |
 | Click Build Repeat | 404419 | [404419-click-build-repeat.json](./404419-click-build-repeat.json) |
