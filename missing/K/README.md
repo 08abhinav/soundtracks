@@ -438,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamigami no Asobi InFinite | 136474 | [136474-kamigami-no-asobi-infinite.json](./136474-kamigami-no-asobi-infinite.json) |
 | Kamigami no Asobi Ludere Deorum: Unite Edition | 165172 | [165172-kamigami-no-asobi-ludere-deorum-unite-edition.json](./165172-kamigami-no-asobi-ludere-deorum-unite-edition.json) |
 | Kamigami no Asobi: Ludere Deorum | 125461 | [125461-kamigami-no-asobi-ludere-deorum.json](./125461-kamigami-no-asobi-ludere-deorum.json) |
+| Kamigami: Clash of the Gods | 190378 | [190378-kamigami-clash-of-the-gods.json](./190378-kamigami-clash-of-the-gods.json) |
 | Kamigami: Spirits of the Nature | 258004 | [258004-kamigami-spirits-of-the-nature.json](./258004-kamigami-spirits-of-the-nature.json) |
 | Kamihi yori: Tokiori-hen | 288827 | [288827-kamihi-yori-tokiori-hen.json](./288827-kamihi-yori-tokiori-hen.json) |
 | Kamihime Project R | 98529 | [98529-kamihime-project-r.json](./98529-kamihime-project-r.json) |
@@ -1490,6 +1491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KeyFortress | 406294 | [406294-keyfortress.json](./406294-keyfortress.json) |
 | Keyframes | 309185 | [309185-keyframes.json](./309185-keyframes.json) |
 | Keyg | 108385 | [108385-keyg.json](./108385-keyg.json) |
+| KeyHero | 190368 | [190368-keyhero.json](./190368-keyhero.json) |
 | Keyhole Spy: Fantasy Passion | 110382 | [110382-keyhole-spy-fantasy-passion.json](./110382-keyhole-spy-fantasy-passion.json) |
 | Keyhole Spy: Frozen Hotties | 111266 | [111266-keyhole-spy-frozen-hotties.json](./111266-keyhole-spy-frozen-hotties.json) |
 | Keyhole Spy: Hot Nurses | 109390 | [109390-keyhole-spy-hot-nurses.json](./109390-keyhole-spy-hot-nurses.json) |
