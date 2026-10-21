@@ -5879,6 +5879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highline Volleyball VR | 315316 | [315316-highline-volleyball-vr.json](./315316-highline-volleyball-vr.json) |
 | Highnoon | 11304 | [11304-highnoon.json](./11304-highnoon.json) |
 | Highpoint | 202917 | [202917-highpoint.json](./202917-highpoint.json) |
+| HighQ Quiz | 172370 | [172370-highq-quiz.json](./172370-highq-quiz.json) |
 | Highreach | 348331 | [348331-highreach.json](./348331-highreach.json) |
 | Highrise | 292832 | [292832-highrise.json](./292832-highrise.json) |
 | Highrise City | 147440 | [147440-highrise-city.json](./147440-highrise-city.json) |
