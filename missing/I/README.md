@@ -1937,6 +1937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Truth | 33087 | [33087-immortal-truth.json](./33087-immortal-truth.json) |
 | Immortal Wayfarer | 402420 | [402420-immortal-wayfarer.json](./402420-immortal-wayfarer.json) |
 | Immortal: And the Death that Follows | 217325 | [217325-immortal-and-the-death-that-follows.json](./217325-immortal-and-the-death-that-follows.json) |
+| Immortal: Mors tud, vita mea | 178831 | [178831-immortal-mors-tud-vita-mea.json](./178831-immortal-mors-tud-vita-mea.json) |
 | Immortal: Unchained | 55038 | [55038-immortal-unchained.json](./55038-immortal-unchained.json) |
 | Immortal: Unchained - Storm Breaker | 118202 | [118202-immortal-unchained-storm-breaker.json](./118202-immortal-unchained-storm-breaker.json) |
 | Immortal's Way | 302068 | [302068-immortals-way.json](./302068-immortals-way.json) |
@@ -3179,6 +3180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Initial Daydream | 272464 | [272464-initial-daydream.json](./272464-initial-daydream.json) |
 | Initial Drift Online | 148573 | [148573-initial-drift-online.json](./148573-initial-drift-online.json) |
 | Initial Drift Online: Car Pack | 243067 | [243067-initial-drift-online-car-pack.json](./243067-initial-drift-online-car-pack.json) |
+| Initial Prospect | 178844 | [178844-initial-prospect.json](./178844-initial-prospect.json) |
 | Initial Unity | 342282 | [342282-initial-unity.json](./342282-initial-unity.json) |
 | Initiating Station Plus | 374225 | [374225-initiating-station-plus.json](./374225-initiating-station-plus.json) |
 | Initium | 112219 | [112219-initium.json](./112219-initium.json) |
