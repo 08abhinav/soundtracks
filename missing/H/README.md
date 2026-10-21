@@ -2847,6 +2847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hedgehog's Dilemma | 374418 | [374418-hedgehogs-dilemma.json](./374418-hedgehogs-dilemma.json) |
 | Hedgehogs in Space | 54080 | [54080-hedgehogs-in-space.json](./54080-hedgehogs-in-space.json) |
 | Hedgehot: Battle Strike | 217498 | [217498-hedgehot-battle-strike.json](./217498-hedgehot-battle-strike.json) |
+| Hedgerow | 178875 | [178875-hedgerow.json](./178875-hedgerow.json) |
 | HedgeWars | 28346 | [28346-hedgewars.json](./28346-hedgewars.json) |
 | Hedgie Simulator | 170935 | [170935-hedgie-simulator.json](./170935-hedgie-simulator.json) |
 | Hedon Bloodrite | 183074 | [183074-hedon-bloodrite.json](./183074-hedon-bloodrite.json) |
@@ -9615,6 +9616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperbaroque | 186759 | [186759-hyperbaroque.json](./186759-hyperbaroque.json) |
 | Hyperbeat | 295876 | [295876-hyperbeat.json](./295876-hyperbeat.json) |
 | Hyperbeat Multiplayer | 394646 | [394646-hyperbeat-multiplayer.json](./394646-hyperbeat-multiplayer.json) |
+| Hyperbeatz | 178867 | [178867-hyperbeatz.json](./178867-hyperbeatz.json) |
 | Hyperblade | 191070 | [191070-hyperblade.json](./191070-hyperblade.json) |
 | Hyperblade | 344579 | [344579-hyperblade.json](./344579-hyperblade.json) |
 | Hyperblade | 51379 | [51379-hyperblade.json](./51379-hyperblade.json) |
