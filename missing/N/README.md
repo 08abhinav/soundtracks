@@ -3124,6 +3124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nicktoons: Freeze Frame Frenzy | 2766 | [2766-nicktoons-freeze-frame-frenzy.json](./2766-nicktoons-freeze-frame-frenzy.json) |
 | Nicktoons: Movin' | 7982 | [7982-nicktoons-movin.json](./7982-nicktoons-movin.json) |
 | Nicktoons: Snap Shot | 308564 | [308564-nicktoons-snap-shot.json](./308564-nicktoons-snap-shot.json) |
+| Nicktoons: Summer Camp | 202081 | [202081-nicktoons-summer-camp.json](./202081-nicktoons-summer-camp.json) |
 | Nicky: The Home Alone Golf Ball | 95614 | [95614-nicky-the-home-alone-golf-ball.json](./95614-nicky-the-home-alone-golf-ball.json) |
 | Nico Puchi Girls Runway | 222519 | [222519-nico-puchi-girls-runway.json](./222519-nico-puchi-girls-runway.json) |
 | Nico Yazawa is Dreaming | 242094 | [242094-nico-yazawa-is-dreaming.json](./242094-nico-yazawa-is-dreaming.json) |
