@@ -3240,6 +3240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redout: V.E.R.T.E.X. Pack | 226974 | [226974-redout-v-e-r-t-e-x-pack.json](./226974-redout-v-e-r-t-e-x-pack.json) |
 | ReDraft: The Fantasy Football Simulator | 414361 | [414361-redraft-the-fantasy-football-simulator.json](./414361-redraft-the-fantasy-football-simulator.json) |
 | ReDrawn: The Painted Tower | 188035 | [188035-redrawn-the-painted-tower.json](./188035-redrawn-the-painted-tower.json) |
+| ReDrawn: The Painted Tower - Collector's Edition | 193231 | [193231-redrawn-the-painted-tower-collectors-edition.json](./193231-redrawn-the-painted-tower-collectors-edition.json) |
 | Redriver 2 | 232854 | [232854-redriver-2.json](./232854-redriver-2.json) |
 | Redrock | 270721 | [270721-redrock.json](./270721-redrock.json) |
 | Redroom | 367532 | [367532-redroom.json](./367532-redroom.json) |
@@ -5804,6 +5805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ringo's Roundup | 292278 | [292278-ringos-roundup.json](./292278-ringos-roundup.json) |
 | Ringognir 3 | 68336 | [68336-ringognir-3.json](./68336-ringognir-3.json) |
 | RingoWord | 241335 | [241335-ringoword.json](./241335-ringoword.json) |
+| RingRacer | 193252 | [193252-ringracer.json](./193252-ringracer.json) |
 | Rings | 179069 | [179069-rings.json](./179069-rings.json) |
 | Rings of Harmony | 285928 | [285928-rings-of-harmony.json](./285928-rings-of-harmony.json) |
 | Rings of Hell | 160217 | [160217-rings-of-hell.json](./160217-rings-of-hell.json) |
@@ -6091,6 +6093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Storm 2: Vietnam | 18166 | [18166-rising-storm-2-vietnam.json](./18166-rising-storm-2-vietnam.json) |
 | Rising Sun | 850 | [850-rising-sun.json](./850-rising-sun.json) |
 | Rising Sun Mahjong | 257079 | [257079-rising-sun-mahjong.json](./257079-rising-sun-mahjong.json) |
+| Rising Sun VR | 193125 | [193125-rising-sun-vr.json](./193125-rising-sun-vr.json) |
 | Rising Sun: Iron Aces | 212218 | [212218-rising-sun-iron-aces.json](./212218-rising-sun-iron-aces.json) |
 | Rising Super Chef 2 | 99399 | [99399-rising-super-chef-2.json](./99399-rising-super-chef-2.json) |
 | Rising Sushi | 174287 | [174287-rising-sushi.json](./174287-rising-sushi.json) |
@@ -9805,6 +9808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rustle | 181346 | [181346-rustle.json](./181346-rustle.json) |
 | Rustled Pete | 212822 | [212822-rustled-pete.json](./212822-rustled-pete.json) |
 | Rustler | 99302 | [99302-rustler.json](./99302-rustler.json) |
+| Rustler: Murder Madness | 193103 | [193103-rustler-murder-madness.json](./193103-rustler-murder-madness.json) |
 | Rustler: Vinci | 193205 | [193205-rustler-vinci.json](./193205-rustler-vinci.json) |
 | Rustling Leaves | 249781 | [249781-rustling-leaves.json](./249781-rustling-leaves.json) |
 | Rustmourne | 406184 | [406184-rustmourne.json](./406184-rustmourne.json) |
