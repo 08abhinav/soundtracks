@@ -2311,6 +2311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathfinder: Wrath of the Righteous - Commander Edition | 166283 | [166283-pathfinder-wrath-of-the-righteous-commander-edition.json](./166283-pathfinder-wrath-of-the-righteous-commander-edition.json) |
 | Pathfinder: Wrath of the Righteous - Faces of War | 193128 | [193128-pathfinder-wrath-of-the-righteous-faces-of-war.json](./193128-pathfinder-wrath-of-the-righteous-faces-of-war.json) |
 | Pathfinder: Wrath of the Righteous - Game of the Year Edition | 331855 | [331855-pathfinder-wrath-of-the-righteous-game-of-the-year-edition.json](./331855-pathfinder-wrath-of-the-righteous-game-of-the-year-edition.json) |
+| Pathfinder: Wrath of the Righteous - Inevitable Excess | 193126 | [193126-pathfinder-wrath-of-the-righteous-inevitable-excess.json](./193126-pathfinder-wrath-of-the-righteous-inevitable-excess.json) |
 | Pathfinder: Wrath of the Righteous - Limited Edition | 206675 | [206675-pathfinder-wrath-of-the-righteous-limited-edition.json](./206675-pathfinder-wrath-of-the-righteous-limited-edition.json) |
 | Pathfinder: Wrath of the Righteous - Love Beyond Death | 186869 | [186869-pathfinder-wrath-of-the-righteous-love-beyond-death.json](./186869-pathfinder-wrath-of-the-righteous-love-beyond-death.json) |
 | Pathfinder: Wrath of the Righteous - Mythic Edition | 166284 | [166284-pathfinder-wrath-of-the-righteous-mythic-edition.json](./166284-pathfinder-wrath-of-the-righteous-mythic-edition.json) |
@@ -9020,6 +9021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Girls on the Case! | 231433 | [231433-police-girls-on-the-case.json](./231433-police-girls-on-the-case.json) |
 | Police Helicopter Simulator | 111959 | [111959-police-helicopter-simulator.json](./111959-police-helicopter-simulator.json) |
 | Police Heroes | 240666 | [240666-police-heroes.json](./240666-police-heroes.json) |
+| Police Hot Pursuit | 193239 | [193239-police-hot-pursuit.json](./193239-police-hot-pursuit.json) |
 | Police Monster Drift | 147238 | [147238-police-monster-drift.json](./147238-police-monster-drift.json) |
 | Police Officer | 415218 | [415218-police-officer.json](./415218-police-officer.json) |
 | Police on Duty | 209656 | [209656-police-on-duty.json](./209656-police-on-duty.json) |
