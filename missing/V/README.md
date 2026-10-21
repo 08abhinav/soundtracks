@@ -2265,6 +2265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visitor | 104903 | [104903-visitor.json](./104903-visitor.json) |
 | Visitor | 177557 | [177557-visitor.json](./177557-visitor.json) |
 | Visitor 2 | 117696 | [117696-visitor-2.json](./117696-visitor-2.json) |
+| Visitor Center | 185313 | [185313-visitor-center.json](./185313-visitor-center.json) |
 | VISK | 248914 | [248914-visk.json](./248914-visk.json) |
 | Vism | 224943 | [224943-vism.json](./224943-vism.json) |
 | Vispire | 275574 | [275574-vispire.json](./275574-vispire.json) |
