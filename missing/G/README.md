@@ -2458,6 +2458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geograph Seal | 63819 | [63819-geograph-seal.json](./63819-geograph-seal.json) |
 | Geographical Adventures | 191450 | [191450-geographical-adventures.json](./191450-geographical-adventures.json) |
 | Geography Champion | 105933 | [105933-geography-champion.json](./105933-geography-champion.json) |
+| Geography Quiz Festival: Guess the Countries | 187097 | [187097-geography-quiz-festival-guess-the-countries.json](./187097-geography-quiz-festival-guess-the-countries.json) |
 | GeographyHelp | 316158 | [316158-geographyhelp.json](./316158-geographyhelp.json) |
 | GeoGrid | 301361 | [301361-geogrid.json](./301361-geogrid.json) |
 | GeoGuess | 142736 | [142736-geoguess.json](./142736-geoguess.json) |
