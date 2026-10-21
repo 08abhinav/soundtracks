@@ -5504,6 +5504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects: Romantic Love - Castle: Scary Mystery Ghost - The Secret Forest | 88266 | [88266-hidden-objects-romantic-love-castle-scary-mystery-ghost-the-secret-forest.json](./88266-hidden-objects-romantic-love-castle-scary-mystery-ghost-the-secret-forest.json) |
 | Hidden Objects: Secret Vampire Rooms - Lost Kingdom: My Village | 86700 | [86700-hidden-objects-secret-vampire-rooms-lost-kingdom-my-village.json](./86700-hidden-objects-secret-vampire-rooms-lost-kingdom-my-village.json) |
 | Hidden Objects: Sherlock Holmes Mystery Case - The Big Apartment: My Mysterious House - The Big Hotel | 86723 | [86723-hidden-objects-sherlock-holmes-mystery-case-the-big-apartment-my-mysterious-house-the-big-hotel.json](./86723-hidden-objects-sherlock-holmes-mystery-case-the-big-apartment-my-mysterious-house-the-big-hotel.json) |
+| Hidden Objects: Sleeping Beauty | 195423 | [195423-hidden-objects-sleeping-beauty.json](./195423-hidden-objects-sleeping-beauty.json) |
 | Hidden Objects: The Big Circus Mystery - My Watch Shop: Wanted Dead or Alive | 107677 | [107677-hidden-objects-the-big-circus-mystery-my-watch-shop-wanted-dead-or-alive.json](./107677-hidden-objects-the-big-circus-mystery-my-watch-shop-wanted-dead-or-alive.json) |
 | Hidden Objects: Travel London - Farm: Detective | 88669 | [88669-hidden-objects-travel-london-farm-detective.json](./88669-hidden-objects-travel-london-farm-detective.json) |
 | Hidden Objects: Victoria in Egypt - Cheops Pyramid | 200197 | [200197-hidden-objects-victoria-in-egypt-cheops-pyramid.json](./200197-hidden-objects-victoria-in-egypt-cheops-pyramid.json) |
@@ -6707,6 +6708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday Jigsaw Christmas | 195445 | [195445-holiday-jigsaw-christmas.json](./195445-holiday-jigsaw-christmas.json) |
 | Holiday Jigsaw Christmas 3 | 216442 | [216442-holiday-jigsaw-christmas-3.json](./216442-holiday-jigsaw-christmas-3.json) |
 | Holiday Jigsaw Easter | 169136 | [169136-holiday-jigsaw-easter.json](./169136-holiday-jigsaw-easter.json) |
+| Holiday Jigsaw Easter 2 | 195408 | [195408-holiday-jigsaw-easter-2.json](./195408-holiday-jigsaw-easter-2.json) |
 | Holiday Jigsaw Easter 4 | 296208 | [296208-holiday-jigsaw-easter-4.json](./296208-holiday-jigsaw-easter-4.json) |
 | Holiday Jigsaw Halloween | 168429 | [168429-holiday-jigsaw-halloween.json](./168429-holiday-jigsaw-halloween.json) |
 | Holiday Jigsaw Valentine's Day 3 | 296813 | [296813-holiday-jigsaw-valentines-day-3.json](./296813-holiday-jigsaw-valentines-day-3.json) |
@@ -7768,6 +7770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horrors Glade | 333366 | [333366-horrors-glade.json](./333366-horrors-glade.json) |
 | Horrors of Helmsfirth | 263701 | [263701-horrors-of-helmsfirth.json](./263701-horrors-of-helmsfirth.json) |
 | Horrors of Space | 152021 | [152021-horrors-of-space.json](./152021-horrors-of-space.json) |
+| Horrors of the North | 195537 | [195537-horrors-of-the-north.json](./195537-horrors-of-the-north.json) |
 | Horrortale | 332880 | [332880-horrortale.json](./332880-horrortale.json) |
 | Horrortale: Waterfall | 332881 | [332881-horrortale-waterfall.json](./332881-horrortale-waterfall.json) |
 | HorrorVale | 120814 | [120814-horrorvale.json](./120814-horrorvale.json) |
@@ -8934,6 +8937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humans Took My Neighbors! | 149697 | [149697-humans-took-my-neighbors.json](./149697-humans-took-my-neighbors.json) |
 | Humans Vs Ghouls | 153372 | [153372-humans-vs-ghouls.json](./153372-humans-vs-ghouls.json) |
 | Humans vs. Monsters | 303561 | [303561-humans-vs-monsters.json](./303561-humans-vs-monsters.json) |
+| Humans vs. Tigers | 195413 | [195413-humans-vs-tigers.json](./195413-humans-vs-tigers.json) |
 | Humans vs. Vampires | 199060 | [199060-humans-vs-vampires.json](./199060-humans-vs-vampires.json) |
 | Humble Abode | 43185 | [43185-humble-abode.json](./43185-humble-abode.json) |
 | Humble Haunted House | 376267 | [376267-humble-haunted-house.json](./376267-humble-haunted-house.json) |
