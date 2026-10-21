@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR 21: Ignition - Victory Edition | 220801 | [220801-nascar-21-ignition-victory-edition.json](./220801-nascar-21-ignition-victory-edition.json) |
 | NASCAR 26 | 412990 | [412990-nascar-26.json](./412990-nascar-26.json) |
 | NASCAR 98 | 45515 | [45515-nascar-98.json](./45515-nascar-98.json) |
+| NASCAR 98: Collector's Edition | 203728 | [203728-nascar-98-collectors-edition.json](./203728-nascar-98-collectors-edition.json) |
 | NASCAR Acceleration Pack | 85989 | [85989-nascar-acceleration-pack.json](./85989-nascar-acceleration-pack.json) |
 | NASCAR Arcade Rush: Project-X Edition | 263547 | [263547-nascar-arcade-rush-project-x-edition.json](./263547-nascar-arcade-rush-project-x-edition.json) |
 | Nascar Arcade Rush: Project-X Pack | 267081 | [267081-nascar-arcade-rush-project-x-pack.json](./267081-nascar-arcade-rush-project-x-pack.json) |
