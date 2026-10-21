@@ -5664,10 +5664,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 3 Improvement | 219088 | [219088-mega-man-3-improvement.json](./219088-mega-man-3-improvement.json) |
 | Mega Man 3 Revamped | 218313 | [218313-mega-man-3-revamped.json](./218313-mega-man-3-revamped.json) |
 | Mega Man 30th Anniversary Bundle | 110814 | [110814-mega-man-30th-anniversary-bundle.json](./110814-mega-man-30th-anniversary-bundle.json) |
+| Mega Man 4 Mobile | 171825 | [171825-mega-man-4-mobile.json](./171825-mega-man-4-mobile.json) |
 | Mega Man 4 Voyage | 210490 | [210490-mega-man-4-voyage.json](./210490-mega-man-4-voyage.json) |
 | Mega Man 4 Voyage: Blue Version | 252392 | [252392-mega-man-4-voyage-blue-version.json](./252392-mega-man-4-voyage-blue-version.json) |
 | Mega Man 4: Ridley X Hack 13 | 276029 | [276029-mega-man-4-ridley-x-hack-13.json](./276029-mega-man-4-ridley-x-hack-13.json) |
 | Mega Man 5 | 1718 | [1718-mega-man-5.json](./1718-mega-man-5.json) |
+| Mega Man 5 Mobile | 171826 | [171826-mega-man-5-mobile.json](./171826-mega-man-5-mobile.json) |
 | Mega Man 6 Mobile | 103490 | [103490-mega-man-6-mobile.json](./103490-mega-man-6-mobile.json) |
 | Mega Man 64: Recompiled | 400965 | [400965-mega-man-64-recompiled.json](./400965-mega-man-64-recompiled.json) |
 | Mega Man 7 | 1720 | [1720-mega-man-7.json](./1720-mega-man-7.json) |
@@ -12877,6 +12879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moraff's World | 74053 | [74053-moraffs-world.json](./74053-moraffs-world.json) |
 | Morals Are Optional | 58641 | [58641-morals-are-optional.json](./58641-morals-are-optional.json) |
 | Morana Online | 358221 | [358221-morana-online.json](./358221-morana-online.json) |
+| Moratheia | 171835 | [171835-moratheia.json](./171835-moratheia.json) |
 | Moratorium: Don’t Beat This Game | 279519 | [279519-moratorium-don-t-beat-this-game.json](./279519-moratorium-don-t-beat-this-game.json) |
 | Morbid | 145591 | [145591-morbid.json](./145591-morbid.json) |
 | Morbid | 219628 | [219628-morbid.json](./219628-morbid.json) |
