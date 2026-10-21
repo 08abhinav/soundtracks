@@ -2094,6 +2094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Archer: Rebirth | 224029 | [224029-legendary-archer-rebirth.json](./224029-legendary-archer-rebirth.json) |
 | Legendary Armory | 347475 | [347475-legendary-armory.json](./347475-legendary-armory.json) |
 | Legendary Blacksmith | 249311 | [249311-legendary-blacksmith.json](./249311-legendary-blacksmith.json) |
+| Legendary Boxing Belt | 181040 | [181040-legendary-boxing-belt.json](./181040-legendary-boxing-belt.json) |
 | Legendary Creatures | 347476 | [347476-legendary-creatures.json](./347476-legendary-creatures.json) |
 | Legendary Creatures 2 | 271374 | [271374-legendary-creatures-2.json](./271374-legendary-creatures-2.json) |
 | Legendary Dwarves: Retribution | 187893 | [187893-legendary-dwarves-retribution.json](./187893-legendary-dwarves-retribution.json) |
@@ -3290,6 +3291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liberty Step | 222000 | [222000-liberty-step.json](./222000-liberty-step.json) |
 | Liberty Wings | 65038 | [65038-liberty-wings.json](./65038-liberty-wings.json) |
 | Liberty's Kids | 186062 | [186062-libertys-kids.json](./186062-libertys-kids.json) |
+| Liblade | 181032 | [181032-liblade.json](./181032-liblade.json) |
 | Libra of the Vampire Princess | 37392 | [37392-libra-of-the-vampire-princess.json](./37392-libra-of-the-vampire-princess.json) |
 | Libra of the Vampire Princess: Lycoris & Aoi in The Promise Plus Iris in Homeworld | 90627 | [90627-libra-of-the-vampire-princess-lycoris-and-aoi-in-the-promise-plus-iris-in-homeworld.json](./90627-libra-of-the-vampire-princess-lycoris-and-aoi-in-the-promise-plus-iris-in-homeworld.json) |
 | Librarian: Tidy Up the Arcane Library! | 393398 | [393398-librarian-tidy-up-the-arcane-library.json](./393398-librarian-tidy-up-the-arcane-library.json) |
@@ -4728,6 +4730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Square Things | 114288 | [114288-little-square-things.json](./114288-little-square-things.json) |
 | Little Squire's Quests | 146778 | [146778-little-squires-quests.json](./146778-little-squires-quests.json) |
 | Little Squirrel Cabin | 377926 | [377926-little-squirrel-cabin.json](./377926-little-squirrel-cabin.json) |
+| Little Stars | 180996 | [180996-little-stars.json](./180996-little-stars.json) |
 | Little Strategy | 65384 | [65384-little-strategy.json](./65384-little-strategy.json) |
 | Little Strays | 324140 | [324140-little-strays.json](./324140-little-strays.json) |
 | Little Strays 2 | 389064 | [389064-little-strays-2.json](./389064-little-strays-2.json) |
