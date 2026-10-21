@@ -5409,6 +5409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goospace | 240812 | [240812-goospace.json](./240812-goospace.json) |
 | Goosthetic | 337210 | [337210-goosthetic.json](./337210-goosthetic.json) |
 | Gop Stop Auto | 384172 | [384172-gop-stop-auto.json](./384172-gop-stop-auto.json) |
+| GoPets | 203176 | [203176-gopets.json](./203176-gopets.json) |
 | GoPets: Vacation Island | 124019 | [124019-gopets-vacation-island.json](./124019-gopets-vacation-island.json) |
 | Gopher | 22764 | [22764-gopher.json](./22764-gopher.json) |
 | Gophers | 185035 | [185035-gophers.json](./185035-gophers.json) |
