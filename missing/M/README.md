@@ -4809,6 +4809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Slider | 143969 | [143969-maze-slider.json](./143969-maze-slider.json) |
 | Maze Survivor | 408979 | [408979-maze-survivor.json](./408979-maze-survivor.json) |
 | Maze Tanks | 252222 | [252222-maze-tanks.json](./252222-maze-tanks.json) |
+| Maze the Quest | 197029 | [197029-maze-the-quest.json](./197029-maze-the-quest.json) |
 | Maze Trials | 67601 | [67601-maze-trials.json](./67601-maze-trials.json) |
 | Maze Twister | 191820 | [191820-maze-twister.json](./191820-maze-twister.json) |
 | Maze Up! | 74243 | [74243-maze-up.json](./74243-maze-up.json) |
