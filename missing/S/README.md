@@ -8249,8 +8249,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 1500 Series Vol. 56: The Sniper | 57130 | [57130-simple-1500-series-vol-56-the-sniper.json](./57130-simple-1500-series-vol-56-the-sniper.json) |
 | Simple 1500 Series Vol. 58: The Sumo | 124665 | [124665-simple-1500-series-vol-58-the-sumo.json](./124665-simple-1500-series-vol-58-the-sumo.json) |
 | Simple 1500 Series Vol. 65: The Golf | 130774 | [130774-simple-1500-series-vol-65-the-golf.json](./130774-simple-1500-series-vol-65-the-golf.json) |
+| Simple 1500 Series Vol. 66: The Kaiten - Mawasun Da!! | 203064 | [203064-simple-1500-series-vol-66-the-kaiten-mawasun-da.json](./203064-simple-1500-series-vol-66-the-kaiten-mawasun-da.json) |
 | Simple 1500 Series Vol. 7: The Card | 66013 | [66013-simple-1500-series-vol-7-the-card.json](./66013-simple-1500-series-vol-7-the-card.json) |
+| Simple 1500 Series Vol. 70: The War Simulation - Nin no Tsukurishisha-tachi | 203065 | [203065-simple-1500-series-vol-70-the-war-simulation-nin-no-tsukurishisha-tachi.json](./203065-simple-1500-series-vol-70-the-war-simulation-nin-no-tsukurishisha-tachi.json) |
+| Simple 1500 Series Vol. 71: The Renai Simulation 2 | 203067 | [203067-simple-1500-series-vol-71-the-renai-simulation-2.json](./203067-simple-1500-series-vol-71-the-renai-simulation-2.json) |
+| Simple 1500 Series Vol. 72: The Beach Volley | 203068 | [203068-simple-1500-series-vol-72-the-beach-volley.json](./203068-simple-1500-series-vol-72-the-beach-volley.json) |
+| Simple 1500 Series Vol. 73: The Invaders - Space Invaders 1500 | 203069 | [203069-simple-1500-series-vol-73-the-invaders-space-invaders-1500.json](./203069-simple-1500-series-vol-73-the-invaders-space-invaders-1500.json) |
+| Simple 1500 Series Vol. 75: The Double Shooting - Raystorm & Raycrisis | 203070 | [203070-simple-1500-series-vol-75-the-double-shooting-raystorm-and-raycrisis.json](./203070-simple-1500-series-vol-75-the-double-shooting-raystorm-and-raycrisis.json) |
 | Simple 1500 Series Vol. 77: The Suiei | 209500 | [209500-simple-1500-series-vol-77-the-suiei.json](./209500-simple-1500-series-vol-77-the-suiei.json) |
+| Simple 1500 Series Vol. 78: The Zero Yon | 203072 | [203072-simple-1500-series-vol-78-the-zero-yon.json](./203072-simple-1500-series-vol-78-the-zero-yon.json) |
+| Simple 1500 Series Vol. 79: The Shisenshou | 203073 | [203073-simple-1500-series-vol-79-the-shisenshou.json](./203073-simple-1500-series-vol-79-the-shisenshou.json) |
+| Simple 1500 Series Vol. 82: The Sensuikan | 203078 | [203078-simple-1500-series-vol-82-the-sensuikan.json](./203078-simple-1500-series-vol-82-the-sensuikan.json) |
+| Simple 1500 Series Vol. 84: The Intro Quiz | 203079 | [203079-simple-1500-series-vol-84-the-intro-quiz.json](./203079-simple-1500-series-vol-84-the-intro-quiz.json) |
+| Simple 1500 Series Vol. 85: The Sengoku Bushou - Tenka Touitsu no Yabou | 203080 | [203080-simple-1500-series-vol-85-the-sengoku-bushou-tenka-touitsu-no-yabou.json](./203080-simple-1500-series-vol-85-the-sengoku-bushou-tenka-touitsu-no-yabou.json) |
+| Simple 1500 Series Vol. 86: The Onigokko | 203081 | [203081-simple-1500-series-vol-86-the-onigokko.json](./203081-simple-1500-series-vol-86-the-onigokko.json) |
+| Simple 1500 Series Vol. 87: The Kyoutei | 203082 | [203082-simple-1500-series-vol-87-the-kyoutei.json](./203082-simple-1500-series-vol-87-the-kyoutei.json) |
 | Simple 1500 Series Vol. 91: The Gambler - Honoo no Tobaku Densetsu | 203119 | [203119-simple-1500-series-vol-91-the-gambler-honoo-no-tobaku-densetsu.json](./203119-simple-1500-series-vol-91-the-gambler-honoo-no-tobaku-densetsu.json) |
 | Simple 1500 Series Vol. 92: The Tozan RPG | 203121 | [203121-simple-1500-series-vol-92-the-tozan-rpg.json](./203121-simple-1500-series-vol-92-the-tozan-rpg.json) |
 | Simple 1500 Series Vol. 96: The Yakyuu 2 | 203124 | [203124-simple-1500-series-vol-96-the-yakyuu-2.json](./203124-simple-1500-series-vol-96-the-yakyuu-2.json) |
@@ -12868,6 +12881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic 2 Dimps Edition | 136920 | [136920-sonic-2-dimps-edition.json](./136920-sonic-2-dimps-edition.json) |
 | Sonic 2 In 1 | 56739 | [56739-sonic-2-in-1.json](./56739-sonic-2-in-1.json) |
 | Sonic 2 Megamix | 136921 | [136921-sonic-2-megamix.json](./136921-sonic-2-megamix.json) |
+| Sonic 2 Retro Remix | 203167 | [203167-sonic-2-retro-remix.json](./203167-sonic-2-retro-remix.json) |
 | Sonic 2 SMS Remake | 227799 | [227799-sonic-2-sms-remake.json](./227799-sonic-2-sms-remake.json) |
 | Sonic 2: Chaos Adventure | 333957 | [333957-sonic-2-chaos-adventure.json](./333957-sonic-2-chaos-adventure.json) |
 | Sonic 2.5 | 333711 | [333711-sonic-2-5.json](./333711-sonic-2-5.json) |
@@ -12975,6 +12989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Blasters | 334140 | [334140-sonic-blasters.json](./334140-sonic-blasters.json) |
 | Sonic Blaze | 330512 | [330512-sonic-blaze.json](./330512-sonic-blaze.json) |
 | Sonic Boom | 12855 | [12855-sonic-boom.json](./12855-sonic-boom.json) |
+| Sonic Boom | 203165 | [203165-sonic-boom.json](./203165-sonic-boom.json) |
 | Sonic Boom Cannon | 297603 | [297603-sonic-boom-cannon.json](./297603-sonic-boom-cannon.json) |
 | Sonic Boom Cannon 2 | 297604 | [297604-sonic-boom-cannon-2.json](./297604-sonic-boom-cannon-2.json) |
 | Sonic Boom Racing | 330592 | [330592-sonic-boom-racing.json](./330592-sonic-boom-racing.json) |
@@ -13483,6 +13498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog: Lost Future | 330530 | [330530-sonic-the-hedgehog-lost-future.json](./330530-sonic-the-hedgehog-lost-future.json) |
 | Sonic the Hedgehog: Mecha Madness | 326826 | [326826-sonic-the-hedgehog-mecha-madness.json](./326826-sonic-the-hedgehog-mecha-madness.json) |
 | Sonic the Hedgehog: Minigame Laptop | 294466 | [294466-sonic-the-hedgehog-minigame-laptop.json](./294466-sonic-the-hedgehog-minigame-laptop.json) |
+| Sonic the Hedgehog: OmoChao Edition | 203164 | [203164-sonic-the-hedgehog-omochao-edition.json](./203164-sonic-the-hedgehog-omochao-edition.json) |
 | Sonic the Hedgehog: Project Mettrix | 301516 | [301516-sonic-the-hedgehog-project-mettrix.json](./301516-sonic-the-hedgehog-project-mettrix.json) |
 | Sonic the Hedgehog: Rebirth of the Azure Wind | 326834 | [326834-sonic-the-hedgehog-rebirth-of-the-azure-wind.json](./326834-sonic-the-hedgehog-rebirth-of-the-azure-wind.json) |
 | Sonic the Hedgehog: Spinball | 237308 | [237308-sonic-the-hedgehog-spinball.json](./237308-sonic-the-hedgehog-spinball.json) |
@@ -19183,12 +19199,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starry Moon Island: Tank Advance MP10 | 190615 | [190615-starry-moon-island-tank-advance-mp10.json](./190615-starry-moon-island-tank-advance-mp10.json) |
 | Starry Night | 246493 | [246493-starry-night.json](./246493-starry-night.json) |
 | Starry Nights: Helix | 30868 | [30868-starry-nights-helix.json](./30868-starry-nights-helix.json) |
+| Starry Sky: After Autumn | 203173 | [203173-starry-sky-after-autumn.json](./203173-starry-sky-after-autumn.json) |
+| Starry Sky: After Autumn Portable | 203174 | [203174-starry-sky-after-autumn-portable.json](./203174-starry-sky-after-autumn-portable.json) |
 | Starry Sky: After Spring | 201758 | [201758-starry-sky-after-spring.json](./201758-starry-sky-after-spring.json) |
 | Starry Sky: After Spring Portable | 201833 | [201833-starry-sky-after-spring-portable.json](./201833-starry-sky-after-spring-portable.json) |
 | Starry Sky: After Summer | 202824 | [202824-starry-sky-after-summer.json](./202824-starry-sky-after-summer.json) |
 | Starry Sky: After Summer Portable | 202825 | [202825-starry-sky-after-summer-portable.json](./202825-starry-sky-after-summer-portable.json) |
 | Starry Sky: After Winter | 203794 | [203794-starry-sky-after-winter.json](./203794-starry-sky-after-winter.json) |
 | Starry Sky: After Winter Portable | 203813 | [203813-starry-sky-after-winter-portable.json](./203813-starry-sky-after-winter-portable.json) |
+| Starry Sky: in Autumn | 203168 | [203168-starry-sky-in-autumn.json](./203168-starry-sky-in-autumn.json) |
+| Starry Sky: in Autumn 3D | 203171 | [203171-starry-sky-in-autumn-3d.json](./203171-starry-sky-in-autumn-3d.json) |
+| Starry Sky: in Autumn Portable | 203170 | [203170-starry-sky-in-autumn-portable.json](./203170-starry-sky-in-autumn-portable.json) |
 | Starry Sky: In Spring | 76449 | [76449-starry-sky-in-spring.json](./76449-starry-sky-in-spring.json) |
 | Starry Sky: in Spring 3D | 201302 | [201302-starry-sky-in-spring-3d.json](./201302-starry-sky-in-spring-3d.json) |
 | Starry Sky: in Summer | 202820 | [202820-starry-sky-in-summer.json](./202820-starry-sky-in-summer.json) |
@@ -22047,6 +22068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Successfully Learning Mathematics: Year 4 | 85402 | [85402-successfully-learning-mathematics-year-4.json](./85402-successfully-learning-mathematics-year-4.json) |
 | Successfully Learning Mathematics: Year 5 | 85401 | [85401-successfully-learning-mathematics-year-5.json](./85401-successfully-learning-mathematics-year-5.json) |
 | Succession - Rack-O style game | 103935 | [103935-succession-rack-o-style-game.json](./103935-succession-rack-o-style-game.json) |
+| Successor | 203066 | [203066-successor.json](./203066-successor.json) |
 | Successor of the Moon | 115578 | [115578-successor-of-the-moon.json](./115578-successor-of-the-moon.json) |
 | Successor to Your Throne | 271935 | [271935-successor-to-your-throne.json](./271935-successor-to-your-throne.json) |
 | Succubers! Dark Covenant | 320229 | [320229-succubers-dark-covenant.json](./320229-succubers-dark-covenant.json) |
@@ -24409,6 +24431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monkey Ball 2 | 2928 | [2928-super-monkey-ball-2.json](./2928-super-monkey-ball-2.json) |
 | Super Monkey Ball Adventure | 248530 | [248530-super-monkey-ball-adventure.json](./248530-super-monkey-ball-adventure.json) |
 | Super Monkey Ball Adventure | 4188 | [4188-super-monkey-ball-adventure.json](./4188-super-monkey-ball-adventure.json) |
+| Super Monkey Ball Gaiden | 203169 | [203169-super-monkey-ball-gaiden.json](./203169-super-monkey-ball-gaiden.json) |
 | Super Monkey Ball Jr. | 6622 | [6622-super-monkey-ball-jr.json](./6622-super-monkey-ball-jr.json) |
 | Super Monkey Ball Stardust | 352178 | [352178-super-monkey-ball-stardust.json](./352178-super-monkey-ball-stardust.json) |
 | Super Monkey Ball: Banana Blitz | 5200 | [5200-super-monkey-ball-banana-blitz.json](./5200-super-monkey-ball-banana-blitz.json) |
