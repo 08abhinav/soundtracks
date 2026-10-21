@@ -1155,6 +1155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Hike | 264592 | [264592-magical-hike.json](./264592-magical-hike.json) |
 | Magical Houshin | 248471 | [248471-magical-houshin.json](./248471-magical-houshin.json) |
 | Magical Jewelry | 48670 | [48670-magical-jewelry.json](./48670-magical-jewelry.json) |
+| Magical Journey | 196482 | [196482-magical-journey.json](./196482-magical-journey.json) |
 | Magical Kids Doropie | 48333 | [48333-magical-kids-doropie.json](./48333-magical-kids-doropie.json) |
 | Magical Literary Heroine Natsuki Saves The Literature Club! | 334273 | [334273-magical-literary-heroine-natsuki-saves-the-literature-club.json](./334273-magical-literary-heroine-natsuki-saves-the-literature-club.json) |
 | Magical Magic World | 250261 | [250261-magical-magic-world.json](./250261-magical-magic-world.json) |
@@ -4277,6 +4278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Combat Challenge | 55124 | [55124-math-combat-challenge.json](./55124-math-combat-challenge.json) |
 | Math Duel | 251043 | [251043-math-duel.json](./251043-math-duel.json) |
 | Math Evolve: A Fun Math Game | 175372 | [175372-math-evolve-a-fun-math-game.json](./175372-math-evolve-a-fun-math-game.json) |
+| Math Expressions | 196477 | [196477-math-expressions.json](./196477-math-expressions.json) |
 | Math Fight | 266126 | [266126-math-fight.json](./266126-math-fight.json) |
 | Math Fight: Multiplayer Game | 251531 | [251531-math-fight-multiplayer-game.json](./251531-math-fight-multiplayer-game.json) |
 | Math for Kids | 89519 | [89519-math-for-kids.json](./89519-math-for-kids.json) |
@@ -7026,6 +7028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merchant of Phenistoria | 159574 | [159574-merchant-of-phenistoria.json](./159574-merchant-of-phenistoria.json) |
 | Merchant of the Six Kingdoms | 236180 | [236180-merchant-of-the-six-kingdoms.json](./236180-merchant-of-the-six-kingdoms.json) |
 | Merchant Prince | 19705 | [19705-merchant-prince.json](./19705-merchant-prince.json) |
+| Merchant to the Stars | 196612 | [196612-merchant-to-the-stars.json](./196612-merchant-to-the-stars.json) |
 | Merchant's Game | 164519 | [164519-merchants-game.json](./164519-merchants-game.json) |
 | Merchant's Odyssey | 270518 | [270518-merchants-odyssey.json](./270518-merchants-odyssey.json) |
 | Merchant's Rise | 393964 | [393964-merchants-rise.json](./393964-merchants-rise.json) |
