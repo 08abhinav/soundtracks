@@ -4871,6 +4871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazeing | 306384 | [306384-mazeing.json](./306384-mazeing.json) |
 | Mazekko Tower | 83814 | [83814-mazekko-tower.json](./83814-mazekko-tower.json) |
 | Mazelit: Rolling With Style | 295346 | [295346-mazelit-rolling-with-style.json](./295346-mazelit-rolling-with-style.json) |
+| Mazeman | 172396 | [172396-mazeman.json](./172396-mazeman.json) |
 | Mazeman | 174276 | [174276-mazeman.json](./174276-mazeman.json) |
 | MazeMaze | 253478 | [253478-mazemaze.json](./253478-mazemaze.json) |
 | Mazemerizzz II | 389997 | [389997-mazemerizzz-ii.json](./389997-mazemerizzz-ii.json) |
@@ -7888,6 +7889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mezase! Top Pro Green ni Kakeru Yume | 48775 | [48775-mezase-top-pro-green-ni-kakeru-yume.json](./48775-mezase-top-pro-green-ni-kakeru-yume.json) |
 | Mezase!! Tsuri Master DS | 345136 | [345136-mezase-tsuri-master-ds.json](./345136-mezase-tsuri-master-ds.json) |
 | Mezma's Revenge | 302504 | [302504-mezmas-revenge.json](./302504-mezmas-revenge.json) |
+| Mezmeratu | 172380 | [172380-mezmeratu.json](./172380-mezmeratu.json) |
 | Mezzanine | 219636 | [219636-mezzanine.json](./219636-mezzanine.json) |
 | Mezzer | 177244 | [177244-mezzer.json](./177244-mezzer.json) |
 | Mezzo Piano: Oshare & Lesson | 327597 | [327597-mezzo-piano-oshare-and-lesson.json](./327597-mezzo-piano-oshare-and-lesson.json) |
@@ -10565,6 +10567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Rovee | 297845 | [297845-mission-rovee.json](./297845-mission-rovee.json) |
 | Mission Runway | 15795 | [15795-mission-runway.json](./15795-mission-runway.json) |
 | Mission Sigma | 236693 | [236693-mission-sigma.json](./236693-mission-sigma.json) |
+| Mission Sunlight | 172405 | [172405-mission-sunlight.json](./172405-mission-sunlight.json) |
 | Mission Supernova | 93040 | [93040-mission-supernova.json](./93040-mission-supernova.json) |
 | Mission Survive | 40682 | [40682-mission-survive.json](./40682-mission-survive.json) |
 | Mission to Earth | 388212 | [388212-mission-to-earth.json](./388212-mission-to-earth.json) |
