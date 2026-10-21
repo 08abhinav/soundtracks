@@ -728,7 +728,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5323,6 +5322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond | 131452 | [131452-beyond.json](./131452-beyond.json) |
 | Beyond | 222887 | [222887-beyond.json](./222887-beyond.json) |
 | Beyond | 294256 | [294256-beyond.json](./294256-beyond.json) |
+| Beyond a Steel Sky: Beyond a Steel Book Edition | 171279 | [171279-beyond-a-steel-sky-beyond-a-steel-book-edition.json](./171279-beyond-a-steel-sky-beyond-a-steel-book-edition.json) |
 | Beyond A Steel Sky: Utopia Edition | 170029 | [170029-beyond-a-steel-sky-utopia-edition.json](./170029-beyond-a-steel-sky-utopia-edition.json) |
 | Beyond a Total Loss | 117563 | [117563-beyond-a-total-loss.json](./117563-beyond-a-total-loss.json) |
 | Beyond Arm's Reach | 65784 | [65784-beyond-arms-reach.json](./65784-beyond-arms-reach.json) |
