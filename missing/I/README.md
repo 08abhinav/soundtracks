@@ -4028,6 +4028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intra | 332673 | [332673-intra.json](./332673-intra.json) |
 | Intra-System: Trust Issues | 194282 | [194282-intra-system-trust-issues.json](./194282-intra-system-trust-issues.json) |
 | Intralism | 31786 | [31786-intralism.json](./31786-intralism.json) |
+| Intralism: Rebuild | 192721 | [192721-intralism-rebuild.json](./192721-intralism-rebuild.json) |
 | Intrana | 310207 | [310207-intrana.json](./310207-intrana.json) |
 | Intransigent | 326275 | [326275-intransigent.json](./326275-intransigent.json) |
 | Intraquartz | 215034 | [215034-intraquartz.json](./215034-intraquartz.json) |
@@ -4052,6 +4053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Introspectus | 398353 | [398353-introspectus.json](./398353-introspectus.json) |
 | Introvert | 337573 | [337573-introvert.json](./337573-introvert.json) |
 | Introvert Quest | 30327 | [30327-introvert-quest.json](./30327-introvert-quest.json) |
+| Introvert: Consequences | 192727 | [192727-introvert-consequences.json](./192727-introvert-consequences.json) |
 | Intruder | 245134 | [245134-intruder.json](./245134-intruder.json) |
 | Intruder | 292079 | [292079-intruder.json](./292079-intruder.json) |
 | Intruder | 313504 | [313504-intruder.json](./313504-intruder.json) |
