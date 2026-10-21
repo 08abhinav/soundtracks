@@ -2056,6 +2056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bargain Wargame | 273668 | [273668-bargain-wargame.json](./273668-bargain-wargame.json) |
 | Barge | 380000 | [380000-barge.json](./380000-barge.json) |
 | Barge | 79747 | [79747-barge.json](./79747-barge.json) |
+| Barghest | 177727 | [177727-barghest.json](./177727-barghest.json) |
 | Bargin to Win | 213438 | [213438-bargin-to-win.json](./213438-bargin-to-win.json) |
 | BarGirls | 400463 | [400463-bargirls.json](./400463-bargirls.json) |
 | Bargue | 203903 | [203903-bargue.json](./203903-bargue.json) |
@@ -5379,6 +5380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Space Remastered | 108616 | [108616-beyond-space-remastered.json](./108616-beyond-space-remastered.json) |
 | Beyond Stories: Jester | 338231 | [338231-beyond-stories-jester.json](./338231-beyond-stories-jester.json) |
 | Beyond Tenmei | 303714 | [303714-beyond-tenmei.json](./303714-beyond-tenmei.json) |
+| Beyond Terra | 177737 | [177737-beyond-terra.json](./177737-beyond-terra.json) |
 | Beyond the Abyss | 86126 | [86126-beyond-the-abyss.json](./86126-beyond-the-abyss.json) |
 | Beyond the Beyond | 20303 | [20303-beyond-the-beyond.json](./20303-beyond-the-beyond.json) |
 | Beyond the Black Hole | 73792 | [73792-beyond-the-black-hole.json](./73792-beyond-the-black-hole.json) |
@@ -9169,6 +9171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob & Dob | 177570 | [177570-bob-and-dob.json](./177570-bob-and-dob.json) |
 | Bob and Kuura: Lost in Snowglobe | 114564 | [114564-bob-and-kuura-lost-in-snowglobe.json](./114564-bob-and-kuura-lost-in-snowglobe.json) |
 | Bob and Prickle | 122054 | [122054-bob-and-prickle.json](./122054-bob-and-prickle.json) |
+| Bob and Rob | 177748 | [177748-bob-and-rob.json](./177748-bob-and-rob.json) |
 | Bob and the Alien Fire Flies | 304224 | [304224-bob-and-the-alien-fire-flies.json](./304224-bob-and-the-alien-fire-flies.json) |
 | Bob Does Not Care | 181903 | [181903-bob-does-not-care.json](./181903-bob-does-not-care.json) |
 | Bob Don't Sleep! | 369201 | [369201-bob-dont-sleep.json](./369201-bob-dont-sleep.json) |
