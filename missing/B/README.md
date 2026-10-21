@@ -6138,6 +6138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo Wackadoo Watch | 231828 | [231828-bingo-wackadoo-watch.json](./231828-bingo-wackadoo-watch.json) |
 | Bingo: Pet Rescue | 258965 | [258965-bingo-pet-rescue.json](./258965-bingo-pet-rescue.json) |
 | Bingo!!! | 106757 | [106757-bingo.json](./106757-bingo.json) |
+| Bingus: My Beloved | 190888 | [190888-bingus-my-beloved.json](./190888-bingus-my-beloved.json) |
 | Biniax | 93357 | [93357-biniax.json](./93357-biniax.json) |
 | Biniku no Kaori: Bangai Hen | 237405 | [237405-biniku-no-kaori-bangai-hen.json](./237405-biniku-no-kaori-bangai-hen.json) |
 | Binky Mcmxcix: The Labyrinthe | 215177 | [215177-binky-mcmxcix-the-labyrinthe.json](./215177-binky-mcmxcix-the-labyrinthe.json) |
@@ -8618,6 +8619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Doctor | 249866 | [249866-bloody-doctor.json](./249866-bloody-doctor.json) |
 | Bloody Downsizing | 224665 | [224665-bloody-downsizing.json](./224665-bloody-downsizing.json) |
 | Bloody Ending | 129672 | [129672-bloody-ending.json](./129672-bloody-ending.json) |
+| Bloody Everybody | 190885 | [190885-bloody-everybody.json](./190885-bloody-everybody.json) |
 | Bloody Faerie | 89948 | [89948-bloody-faerie.json](./89948-bloody-faerie.json) |
 | Bloody Feet | 297874 | [297874-bloody-feet.json](./297874-bloody-feet.json) |
 | Bloody Fun Day | 386991 | [386991-bloody-fun-day.json](./386991-bloody-fun-day.json) |
@@ -9771,6 +9773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bong | 201992 | [201992-bong.json](./201992-bong.json) |
 | Bong Bong | 111549 | [111549-bong-bong.json](./111549-bong-bong.json) |
 | BongBongCapy | 400862 | [400862-bongbongcapy.json](./400862-bongbongcapy.json) |
+| Bongirl | 191003 | [191003-bongirl.json](./191003-bongirl.json) |
 | Bongo Cat | 334486 | [334486-bongo-cat.json](./334486-bongo-cat.json) |
 | Bongo Loves the Bible | 146262 | [146262-bongo-loves-the-bible.json](./146262-bongo-loves-the-bible.json) |
 | Bongo Quest | 190472 | [190472-bongo-quest.json](./190472-bongo-quest.json) |
@@ -10250,6 +10253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boss Up | 365056 | [365056-boss-up.json](./365056-boss-up.json) |
 | Boss, Blind, Brandy | 349989 | [349989-boss-blind-brandy.json](./349989-boss-blind-brandy.json) |
 | Boss! | 60766 | [60766-boss.json](./60766-boss.json) |
+| Bossa Presents | 190883 | [190883-bossa-presents.json](./190883-bossa-presents.json) |
 | BossCrafter | 298388 | [298388-bosscrafter.json](./298388-bosscrafter.json) |
 | Bosses | 235821 | [235821-bosses.json](./235821-bosses.json) |
 | Bossfall | 414157 | [414157-bossfall.json](./414157-bossfall.json) |
