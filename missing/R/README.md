@@ -6337,6 +6337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River Song | 245359 | [245359-river-song.json](./245359-river-song.json) |
 | River Strike | 414792 | [414792-river-strike.json](./414792-river-strike.json) |
 | River Striker | 175174 | [175174-river-striker.json](./175174-river-striker.json) |
+| River Tails: Stronger Together | 182115 | [182115-river-tails-stronger-together.json](./182115-river-tails-stronger-together.json) |
 | River Tiles | 135693 | [135693-river-tiles.json](./135693-river-tiles.json) |
 | River Town Factory | 286429 | [286429-river-town-factory.json](./286429-river-town-factory.json) |
 | River Towns | 324918 | [324918-river-towns.json](./324918-river-towns.json) |
@@ -8254,6 +8255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rontgard | 398553 | [398553-rontgard.json](./398553-rontgard.json) |
 | Ronza | 370781 | [370781-ronza.json](./370781-ronza.json) |
 | Roober | 251993 | [251993-roober.json](./251993-roober.json) |
+| Roody: 2d | 182087 | [182087-roody-2d.json](./182087-roody-2d.json) |
 | Roof Genocide | 193492 | [193492-roof-genocide.json](./193492-roof-genocide.json) |
 | Roof Jump Stunt Driver | 231054 | [231054-roof-jump-stunt-driver.json](./231054-roof-jump-stunt-driver.json) |
 | Roof Jumping: Stunt Driver Sim | 104087 | [104087-roof-jumping-stunt-driver-sim.json](./104087-roof-jumping-stunt-driver-sim.json) |
@@ -8483,6 +8485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose & Camellia: The Legendary Rose Bride | 227726 | [227726-rose-and-camellia-the-legendary-rose-bride.json](./227726-rose-and-camellia-the-legendary-rose-bride.json) |
 | Rose & Time | 60526 | [60526-rose-and-time.json](./60526-rose-and-time.json) |
 | Rose and Cross | 304468 | [304468-rose-and-cross.json](./304468-rose-and-cross.json) |
+| Rose and Locket | 182109 | [182109-rose-and-locket.json](./182109-rose-and-locket.json) |
 | Rose City Revenge: The Beginning | 220632 | [220632-rose-city-revenge-the-beginning.json](./220632-rose-city-revenge-the-beginning.json) |
 | Rose Cottage | 286673 | [286673-rose-cottage.json](./286673-rose-cottage.json) |
 | Rose From The Depths | 249623 | [249623-rose-from-the-depths.json](./249623-rose-from-the-depths.json) |
