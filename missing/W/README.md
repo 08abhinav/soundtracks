@@ -2625,6 +2625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Werewolf Stand-alone | 117823 | [117823-werewolf-stand-alone.json](./117823-werewolf-stand-alone.json) |
 | Werewolf Tycoon: Web Edition | 102031 | [102031-werewolf-tycoon-web-edition.json](./102031-werewolf-tycoon-web-edition.json) |
 | Werewolf Voice: Best Board Game | 130212 | [130212-werewolf-voice-best-board-game.json](./130212-werewolf-voice-best-board-game.json) |
+| Werewolf: The Apocalypse - Earthblood Champion of Gaia Edition | 198092 | [198092-werewolf-the-apocalypse-earthblood-champion-of-gaia-edition.json](./198092-werewolf-the-apocalypse-earthblood-champion-of-gaia-edition.json) |
 | Werewolf: The Apocalypse - Earthblood Champion of Gaia Pack | 149967 | [149967-werewolf-the-apocalypse-earthblood-champion-of-gaia-pack.json](./149967-werewolf-the-apocalypse-earthblood-champion-of-gaia-pack.json) |
 | Werewolf: The Apocalypse - Earthblood: The Exiled One | 146174 | [146174-werewolf-the-apocalypse-earthblood-the-exiled-one.json](./146174-werewolf-the-apocalypse-earthblood-the-exiled-one.json) |
 | Werewolf: The Apocalypse - Purgatory | 302808 | [302808-werewolf-the-apocalypse-purgatory.json](./302808-werewolf-the-apocalypse-purgatory.json) |
