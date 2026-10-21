@@ -1217,6 +1217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Infection | 331340 | [331340-zombie-infection.json](./331340-zombie-infection.json) |
 | Zombie Infection 2 | 223015 | [223015-zombie-infection-2.json](./223015-zombie-infection-2.json) |
 | Zombie Inglor | 388115 | [388115-zombie-inglor.json](./388115-zombie-inglor.json) |
+| Zombie Invasion | 179883 | [179883-zombie-invasion.json](./179883-zombie-invasion.json) |
 | Zombie Invasion | 337751 | [337751-zombie-invasion.json](./337751-zombie-invasion.json) |
 | Zombie Invasion: FPS Defense | 269097 | [269097-zombie-invasion-fps-defense.json](./269097-zombie-invasion-fps-defense.json) |
 | Zombie Island | 127084 | [127084-zombie-island.json](./127084-zombie-island.json) |
