@@ -211,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tabu Oyunu XL - Pro | 105950 | [105950-tabu-oyunu-xl-pro.json](./105950-tabu-oyunu-xl-pro.json) |
 | Tabuada Divertida | 290078 | [290078-tabuada-divertida.json](./290078-tabuada-divertida.json) |
 | Tabula | 376545 | [376545-tabula.json](./376545-tabula.json) |
+| Tabula Rasa | 177739 | [177739-tabula-rasa.json](./177739-tabula-rasa.json) |
 | Tabula Rasa | 21525 | [21525-tabula-rasa.json](./21525-tabula-rasa.json) |
 | Tabula Sono | 219563 | [219563-tabula-sono.json](./219563-tabula-sono.json) |
 | Tabulo | 337994 | [337994-tabulo.json](./337994-tabulo.json) |
@@ -7411,6 +7412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forge: Steel Frontier | 414869 | [414869-the-forge-steel-frontier.json](./414869-the-forge-steel-frontier.json) |
 | The Forger | 166060 | [166060-the-forger.json](./166060-the-forger.json) |
 | The Forgers | 352186 | [352186-the-forgers.json](./352186-the-forgers.json) |
+| The Forgoatten Isles | 177749 | [177749-the-forgoatten-isles.json](./177749-the-forgoatten-isles.json) |
 | The Forgotten Boundary | 201485 | [201485-the-forgotten-boundary.json](./201485-the-forgotten-boundary.json) |
 | The Forgotten City: Cloud Version | 173145 | [173145-the-forgotten-city-cloud-version.json](./173145-the-forgotten-city-cloud-version.json) |
 | The Forgotten City: Digital Collector's Edition | 167179 | [167179-the-forgotten-city-digital-collectors-edition.json](./167179-the-forgotten-city-digital-collectors-edition.json) |
@@ -8525,6 +8527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Inn-Sanity | 279266 | [279266-the-inn-sanity.json](./279266-the-inn-sanity.json) |
 | The Inner Darkness | 27919 | [27919-the-inner-darkness.json](./27919-the-inner-darkness.json) |
 | The Inner Demons | 262785 | [262785-the-inner-demons.json](./262785-the-inner-demons.json) |
+| The Inner Light | 177754 | [177754-the-inner-light.json](./177754-the-inner-light.json) |
 | The Inner Sea | 33517 | [33517-the-inner-sea.json](./33517-the-inner-sea.json) |
 | The Inner World: The Puzzle | 10971 | [10971-the-inner-world-the-puzzle.json](./10971-the-inner-world-the-puzzle.json) |
 | The Innsmouth Case | 129197 | [129197-the-innsmouth-case.json](./129197-the-innsmouth-case.json) |
@@ -9322,6 +9325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Quest | 185158 | [185158-the-last-quest.json](./185158-the-last-quest.json) |
 | The Last Refuge | 324329 | [324329-the-last-refuge.json](./324329-the-last-refuge.json) |
 | The Last Refuge | 72109 | [72109-the-last-refuge.json](./72109-the-last-refuge.json) |
+| The Last Resistance | 177728 | [177728-the-last-resistance.json](./177728-the-last-resistance.json) |
 | The Last Resourcer | 347772 | [347772-the-last-resourcer.json](./347772-the-last-resourcer.json) |
 | The Last Revenant | 280881 | [280881-the-last-revenant.json](./280881-the-last-revenant.json) |
 | The Last Road | 414813 | [414813-the-last-road.json](./414813-the-last-road.json) |
@@ -13899,6 +13903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Train | 50065 | [50065-the-train.json](./50065-the-train.json) |
 | The Train Can't Escape Without XXX!? | 353915 | [353915-the-train-cant-escape-without-xxx.json](./353915-the-train-cant-escape-without-xxx.json) |
 | The Train Giant | 10002 | [10002-the-train-giant.json](./10002-the-train-giant.json) |
+| The Train of Souls | 177772 | [177772-the-train-of-souls.json](./177772-the-train-of-souls.json) |
 | The Train Part 2 | 307376 | [307376-the-train-part-2.json](./307376-the-train-part-2.json) |
 | The Train: Escape to Normandy | 47183 | [47183-the-train-escape-to-normandy.json](./47183-the-train-escape-to-normandy.json) |
 | The Training Diary of a Novice Magician Shin | 82810 | [82810-the-training-diary-of-a-novice-magician-shin.json](./82810-the-training-diary-of-a-novice-magician-shin.json) |
@@ -14076,6 +14081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Undead Lawyer | 402843 | [402843-the-undead-lawyer.json](./402843-the-undead-lawyer.json) |
 | The Under | 75708 | [75708-the-under.json](./75708-the-under.json) |
 | The Under Presents | 132208 | [132208-the-under-presents.json](./132208-the-under-presents.json) |
+| The Undercroft 12 | 177734 | [177734-the-undercroft-12.json](./177734-the-undercroft-12.json) |
 | The Underdog | 373013 | [373013-the-underdog.json](./373013-the-underdog.json) |
 | The Underdog Tycoon | 366121 | [366121-the-underdog-tycoon.json](./366121-the-underdog-tycoon.json) |
 | The Underground King | 118843 | [118843-the-underground-king.json](./118843-the-underground-king.json) |
@@ -22911,6 +22917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapper's Delight | 32701 | [32701-trappers-delight.json](./32701-trappers-delight.json) |
 | Trappuzzler | 158173 | [158173-trappuzzler.json](./158173-trappuzzler.json) |
 | Trappy Climb | 181870 | [181870-trappy-climb.json](./181870-trappy-climb.json) |
+| Trappy Duck | 177761 | [177761-trappy-duck.json](./177761-trappy-duck.json) |
 | Trappy Dungeon | 180563 | [180563-trappy-dungeon.json](./180563-trappy-dungeon.json) |
 | Trappy Mine | 181859 | [181859-trappy-mine.json](./181859-trappy-mine.json) |
 | Traps 'n' Treasures | 37275 | [37275-traps-n-treasures.json](./37275-traps-n-treasures.json) |
