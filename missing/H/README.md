@@ -6523,6 +6523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ho Ho Ho Sokoban | 411131 | [411131-ho-ho-ho-sokoban.json](./411131-ho-ho-ho-sokoban.json) |
 | Ho-Ho-Home Invasion | 141655 | [141655-ho-ho-home-invasion.json](./141655-ho-ho-home-invasion.json) |
 | Ho-Ho-Maze! | 340476 | [340476-ho-ho-maze.json](./340476-ho-ho-maze.json) |
+| Ho-K | 180470 | [180470-ho-k.json](./180470-ho-k.json) |
 | Ho'omana'o Mau: A Somber Daydream | 400216 | [400216-hoomanao-mau-a-somber-daydream.json](./400216-hoomanao-mau-a-somber-daydream.json) |
 | Hoa | 136981 | [136981-hoa.json](./136981-hoa.json) |
 | Hoard | 7402 | [7402-hoard.json](./7402-hoard.json) |
@@ -7390,6 +7391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hook & Roll | 401738 | [401738-hook-and-roll.json](./401738-hook-and-roll.json) |
 | Hook 2 | 192626 | [192626-hook-2.json](./192626-hook-2.json) |
 | Hook Champ | 67249 | [67249-hook-champ.json](./67249-hook-champ.json) |
+| Hook it, Drift it, Race it | 180490 | [180490-hook-it-drift-it-race-it.json](./180490-hook-it-drift-it-race-it.json) |
 | Hook Line & Sinker | 284780 | [284780-hook-line-and-sinker.json](./284780-hook-line-and-sinker.json) |
 | Hook Line and Sniper | 319365 | [319365-hook-line-and-sniper.json](./319365-hook-line-and-sniper.json) |
 | Hook Master | 152939 | [152939-hook-master.json](./152939-hook-master.json) |
@@ -9437,6 +9439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydraulic Slam | 337773 | [337773-hydraulic-slam.json](./337773-hydraulic-slam.json) |
 | Hydro | 344997 | [344997-hydro.json](./344997-hydro.json) |
 | Hydro Chicks | 407987 | [407987-hydro-chicks.json](./407987-hydro-chicks.json) |
+| Hydro Storm 2 | 180487 | [180487-hydro-storm-2.json](./180487-hydro-storm-2.json) |
 | Hydro Thunder | 217932 | [217932-hydro-thunder.json](./217932-hydro-thunder.json) |
 | Hydro Thunder | 3370 | [3370-hydro-thunder.json](./3370-hydro-thunder.json) |
 | Hydrofoil Generation | 190237 | [190237-hydrofoil-generation.json](./190237-hydrofoil-generation.json) |
