@@ -6672,6 +6672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digerati Couch Co-op Vol. 2 | 166688 | [166688-digerati-couch-co-op-vol-2.json](./166688-digerati-couch-co-op-vol-2.json) |
 | Digerati Pixel Art Bundle Part 1 | 90663 | [90663-digerati-pixel-art-bundle-part-1.json](./90663-digerati-pixel-art-bundle-part-1.json) |
 | Digerati Presents: If You Don't Have Xbox Game Pass Bundle | 200513 | [200513-digerati-presents-if-you-dont-have-xbox-game-pass-bundle.json](./200513-digerati-presents-if-you-dont-have-xbox-game-pass-bundle.json) |
+| Digerati Presents: Indie Darling Bundle Vol. 5 | 204275 | [204275-digerati-presents-indie-darling-bundle-vol-5.json](./204275-digerati-presents-indie-darling-bundle-vol-5.json) |
 | Digerati Presents: The Dungeon Crawl Vol. 1 | 147884 | [147884-digerati-presents-the-dungeon-crawl-vol-1.json](./147884-digerati-presents-the-dungeon-crawl-vol-1.json) |
 | Digfender | 109064 | [109064-digfender.json](./109064-digfender.json) |
 | Digger | 172721 | [172721-digger.json](./172721-digger.json) |
@@ -7101,6 +7102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Strike | 85563 | [85563-dino-strike.json](./85563-dino-strike.json) |
 | Dino Surf | 239895 | [239895-dino-surf.json](./239895-dino-surf.json) |
 | Dino Survivors | 276211 | [276211-dino-survivors.json](./276211-dino-survivors.json) |
+| Dino Tales | 204286 | [204286-dino-tales.json](./204286-dino-tales.json) |
 | Dino Tamers | 146333 | [146333-dino-tamers.json](./146333-dino-tamers.json) |
 | Dino Time Raiders | 388161 | [388161-dino-time-raiders.json](./388161-dino-time-raiders.json) |
 | Dino Tour VR | 286787 | [286787-dino-tour-vr.json](./286787-dino-tour-vr.json) |
@@ -9354,6 +9356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Touch the Snail | 394829 | [394829-dont-touch-the-snail.json](./394829-dont-touch-the-snail.json) |
 | Don't Touch the Spikes | 225291 | [225291-dont-touch-the-spikes.json](./225291-dont-touch-the-spikes.json) |
 | Don't Touch this Button! | 158161 | [158161-dont-touch-this-button.json](./158161-dont-touch-this-button.json) |
+| Don't Toy With Me | 204257 | [204257-dont-toy-with-me.json](./204257-dont-toy-with-me.json) |
 | Don't Trust | 311121 | [311121-dont-trust.json](./311121-dont-trust.json) |
 | Don’t Turn off the Light | 390080 | [390080-don-t-turn-off-the-light.json](./390080-don-t-turn-off-the-light.json) |
 | Don't Turn Your Back On The City | 256797 | [256797-dont-turn-your-back-on-the-city.json](./256797-dont-turn-your-back-on-the-city.json) |
@@ -9610,6 +9613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Defense | 366295 | [366295-doodle-defense.json](./366295-doodle-defense.json) |
 | Doodle Destroy | 343619 | [343619-doodle-destroy.json](./343619-doodle-destroy.json) |
 | Doodle Devil: 3volution | 147737 | [147737-doodle-devil-3volution.json](./147737-doodle-devil-3volution.json) |
+| Doodle Devil: 3volution - Puzzles & Quests | 204290 | [204290-doodle-devil-3volution-puzzles-and-quests.json](./204290-doodle-devil-3volution-puzzles-and-quests.json) |
 | Doodle Devil: Dark Side | 386861 | [386861-doodle-devil-dark-side.json](./386861-doodle-devil-dark-side.json) |
 | Doodle Devil: Pack | 212360 | [212360-doodle-devil-pack.json](./212360-doodle-devil-pack.json) |
 | Doodle Drive | 208649 | [208649-doodle-drive.json](./208649-doodle-drive.json) |
