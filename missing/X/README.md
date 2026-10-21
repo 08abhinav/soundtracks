@@ -662,6 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xilosaga | 284832 | [284832-xilosaga.json](./284832-xilosaga.json) |
 | Xilost | 118354 | [118354-xilost.json](./118354-xilost.json) |
 | Ximen Lizhi Biography | 278639 | [278639-ximen-lizhi-biography.json](./278639-ximen-lizhi-biography.json) |
+| Xīn Dòuluó Dàlù: Dònghuà Kǎpái Xīn Bàzhǔ! | 172416 | [172416-xin-douluo-dalu-donghua-kapai-xin-bazhu.json](./172416-xin-douluo-dalu-donghua-kapai-xin-bazhu.json) |
 | Xīn Jiàn Xiá Qíngyuán | 350571 | [350571-xin-jian-xia-qingyuan.json](./350571-xin-jian-xia-qingyuan.json) |
 | Xin Jianxia Qingyuan | 86014 | [86014-xin-jianxia-qingyuan.json](./86014-xin-jianxia-qingyuan.json) |
 | Xin Juedai Shuangjiao | 85726 | [85726-xin-juedai-shuangjiao.json](./85726-xin-juedai-shuangjiao.json) |
