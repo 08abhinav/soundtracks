@@ -408,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Coffee Shop | 348036 | [348036-galactic-coffee-shop.json](./348036-galactic-coffee-shop.json) |
 | Galactic Command Echo Squad SE | 17156 | [17156-galactic-command-echo-squad-se.json](./17156-galactic-command-echo-squad-se.json) |
 | Galactic Commandos | 250014 | [250014-galactic-commandos.json](./250014-galactic-commandos.json) |
+| Galactic Conflict | 200312 | [200312-galactic-conflict.json](./200312-galactic-conflict.json) |
 | Galactic Conquest | 94918 | [94918-galactic-conquest.json](./94918-galactic-conquest.json) |
 | Galactic Core | 278601 | [278601-galactic-core.json](./278601-galactic-core.json) |
 | Galactic Core: The Lost Fleet | 30100 | [30100-galactic-core-the-lost-fleet.json](./30100-galactic-core-the-lost-fleet.json) |
@@ -1900,6 +1901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geese vs. Cthulhu | 123915 | [123915-geese-vs-cthulhu.json](./123915-geese-vs-cthulhu.json) |
 | Geeste | 99667 | [99667-geeste.json](./99667-geeste.json) |
 | Gefangen in der Drachenfestung | 255553 | [255553-gefangen-in-der-drachenfestung.json](./255553-gefangen-in-der-drachenfestung.json) |
+| Gefeuert! Dein letzter Tag | 200337 | [200337-gefeuert-dein-letzter-tag.json](./200337-gefeuert-dein-letzter-tag.json) |
 | Geflect | 181908 | [181908-geflect.json](./181908-geflect.json) |
 | Geg 2: Nazad v Budushchee | 303242 | [303242-geg-2-nazad-v-budushchee.json](./303242-geg-2-nazad-v-budushchee.json) |
 | GeGeGe no Kitaro | 166545 | [166545-gegege-no-kitaro.json](./166545-gegege-no-kitaro.json) |
