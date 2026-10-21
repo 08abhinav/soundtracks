@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yenemy | 248728 | [248728-yenemy.json](./248728-yenemy.json) |
 | Yenght | 94258 | [94258-yenght.json](./94258-yenght.json) |
 | Yeolhyeol Kangho W | 215830 | [215830-yeolhyeol-kangho-w.json](./215830-yeolhyeol-kangho-w.json) |
+| Yeolleb Warrior | 187145 | [187145-yeolleb-warrior.json](./187145-yeolleb-warrior.json) |
 | Yeomna: The Legend of Dongbaek | 152239 | [152239-yeomna-the-legend-of-dongbaek.json](./152239-yeomna-the-legend-of-dongbaek.json) |
 | Yeonkyung | 336004 | [336004-yeonkyung.json](./336004-yeonkyung.json) |
 | Yeoubul | 166754 | [166754-yeoubul.json](./166754-yeoubul.json) |
