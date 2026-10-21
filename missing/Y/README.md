@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yabai Otoko ni Nanpa Sareru Game | 347737 | [347737-yabai-otoko-ni-nanpa-sareru-game.json](./347737-yabai-otoko-ni-nanpa-sareru-game.json) |
 | Yabba Dabba Doo! | 26344 | [26344-yabba-dabba-doo.json](./26344-yabba-dabba-doo.json) |
 | Yachoukitan | 321818 | [321818-yachoukitan.json](./321818-yachoukitan.json) |
+| Yacht | 201986 | [201986-yacht.json](./201986-yacht.json) |
 | Yacht | 376676 | [376676-yacht.json](./376676-yacht.json) |
 | Yacht Dice Family | 360497 | [360497-yacht-dice-family.json](./360497-yacht-dice-family.json) |
 | Yacht Dice: Global League | 187262 | [187262-yacht-dice-global-league.json](./187262-yacht-dice-global-league.json) |
@@ -859,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Can't Fuck on an Empty Stomach | 118145 | [118145-you-cant-fuck-on-an-empty-stomach.json](./118145-you-cant-fuck-on-an-empty-stomach.json) |
 | You Can't Save Her | 320410 | [320410-you-cant-save-her.json](./320410-you-cant-save-her.json) |
 | You Can't Win This Game | 361263 | [361263-you-cant-win-this-game.json](./361263-you-cant-win-this-game.json) |
+| You Cannot Go Back! | 201990 | [201990-you-cannot-go-back.json](./201990-you-cannot-go-back.json) |
 | You Complete Me | 123466 | [123466-you-complete-me.json](./123466-you-complete-me.json) |
 | You Deserve | 32036 | [32036-you-deserve.json](./32036-you-deserve.json) |
 | You Do Jump | 202012 | [202012-you-do-jump.json](./202012-you-do-jump.json) |
