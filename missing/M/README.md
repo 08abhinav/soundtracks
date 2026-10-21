@@ -5208,6 +5208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechers | 257250 | [257250-mechers.json](./257250-mechers.json) |
 | Mechinus | 99497 | [99497-mechinus.json](./99497-mechinus.json) |
 | Mechjestic | 293653 | [293653-mechjestic.json](./293653-mechjestic.json) |
+| MechNest | 182121 | [182121-mechnest.json](./182121-mechnest.json) |
 | Mecho Wars | 52567 | [52567-mecho-wars.json](./52567-mecho-wars.json) |
 | Mecho Wars: Desert Ashes | 114174 | [114174-mecho-wars-desert-ashes.json](./114174-mecho-wars-desert-ashes.json) |
 | MechoEcho | 33730 | [33730-mechoecho.json](./33730-mechoecho.json) |
@@ -8768,6 +8769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Party | 29865 | [29865-mighty-party.json](./29865-mighty-party.json) |
 | Mighty Quest: Rogue Palace | 248635 | [248635-mighty-quest-rogue-palace.json](./248635-mighty-quest-rogue-palace.json) |
 | Mighty Rescuer | 359737 | [359737-mighty-rescuer.json](./359737-mighty-rescuer.json) |
+| Mighty Retro Zero | 182102 | [182102-mighty-retro-zero.json](./182102-mighty-retro-zero.json) |
 | Mighty Rodent | 73777 | [73777-mighty-rodent.json](./73777-mighty-rodent.json) |
 | Mighty Strike Team | 59869 | [59869-mighty-strike-team.json](./59869-mighty-strike-team.json) |
 | Mighty Switch Force! | 22919 | [22919-mighty-switch-force.json](./22919-mighty-switch-force.json) |
@@ -16363,6 +16365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myst V: End of Ages - Limited Edition | 51833 | [51833-myst-v-end-of-ages-limited-edition.json](./51833-myst-v-end-of-ages-limited-edition.json) |
 | Myst: Through the Ages Collection | 230816 | [230816-myst-through-the-ages-collection.json](./230816-myst-through-the-ages-collection.json) |
 | MyStar | 126595 | [126595-mystar.json](./126595-mystar.json) |
+| Mystera Legacy | 182084 | [182084-mystera-legacy.json](./182084-mystera-legacy.json) |
 | Mystereet: Detective Vacation | 122855 | [122855-mystereet-detective-vacation.json](./122855-mystereet-detective-vacation.json) |
 | Mystereet: Fukagyaku Sekai no Tantei Shinshi | 61540 | [61540-mystereet-fukagyaku-sekai-no-tantei-shinshi.json](./61540-mystereet-fukagyaku-sekai-no-tantei-shinshi.json) |
 | Mystereet: Other Side of Church | 122856 | [122856-mystereet-other-side-of-church.json](./122856-mystereet-other-side-of-church.json) |
