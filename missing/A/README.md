@@ -7267,6 +7267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Celt Warrior | 157124 | [157124-angry-celt-warrior.json](./157124-angry-celt-warrior.json) |
 | Angry Chef World Tour | 381671 | [381671-angry-chef-world-tour.json](./381671-angry-chef-world-tour.json) |
 | Angry Choice | 268147 | [268147-angry-choice.json](./268147-angry-choice.json) |
+| Angry Dad | 189869 | [189869-angry-dad.json](./189869-angry-dad.json) |
 | Angry Dog | 399631 | [399631-angry-dog.json](./399631-angry-dog.json) |
 | Angry Emoji the Game | 169927 | [169927-angry-emoji-the-game.json](./169927-angry-emoji-the-game.json) |
 | Angry Fugu | 144993 | [144993-angry-fugu.json](./144993-angry-fugu.json) |
@@ -10375,6 +10376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arm of Satan | 254021 | [254021-arm-of-satan.json](./254021-arm-of-satan.json) |
 | Arm Wrestling | 38517 | [38517-arm-wrestling.json](./38517-arm-wrestling.json) |
 | Arm Wrestling Clicker | 231983 | [231983-arm-wrestling-clicker.json](./231983-arm-wrestling-clicker.json) |
+| Arm Wrestling Reborn | 190004 | [190004-arm-wrestling-reborn.json](./190004-arm-wrestling-reborn.json) |
 | Arma 2: Army of the Czech Republic | 15869 | [15869-arma-2-army-of-the-czech-republic.json](./15869-arma-2-army-of-the-czech-republic.json) |
 | Arma 2: British Armed Forces | 15867 | [15867-arma-2-british-armed-forces.json](./15867-arma-2-british-armed-forces.json) |
 | Arma 2: Private Military Company | 15868 | [15868-arma-2-private-military-company.json](./15868-arma-2-private-military-company.json) |
