@@ -622,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Divide 2 | 43808 | [43808-zero-divide-2.json](./43808-zero-divide-2.json) |
 | Zero Division | 223277 | [223277-zero-division.json](./223277-zero-division.json) |
 | Zero End: Chapter One | 264510 | [264510-zero-end-chapter-one.json](./264510-zero-end-chapter-one.json) |
+| Zero Escape | 194163 | [194163-zero-escape.json](./194163-zero-escape.json) |
 | Zero Escape Trilogy | 52108 | [52108-zero-escape-trilogy.json](./52108-zero-escape-trilogy.json) |
 | Zero Escape: Nine Hours, Nine Persons, Nine Doors | 319754 | [319754-zero-escape-nine-hours-nine-persons-nine-doors.json](./319754-zero-escape-nine-hours-nine-persons-nine-doors.json) |
 | Zero Escape: The Nonary Games | 25343 | [25343-zero-escape-the-nonary-games.json](./25343-zero-escape-the-nonary-games.json) |
@@ -1394,6 +1395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Walking: VIP | 95827 | [95827-zombie-walking-vip.json](./95827-zombie-walking-vip.json) |
 | Zombie War | 187378 | [187378-zombie-war.json](./187378-zombie-war.json) |
 | Zombie War | 411138 | [411138-zombie-war.json](./411138-zombie-war.json) |
+| Zombie War: New World | 194157 | [194157-zombie-war-new-world.json](./194157-zombie-war-new-world.json) |
 | Zombie Warrior Man | 349890 | [349890-zombie-warrior-man.json](./349890-zombie-warrior-man.json) |
 | Zombie Wars | 151263 | [151263-zombie-wars.json](./151263-zombie-wars.json) |
 | Zombie Warz | 238459 | [238459-zombie-warz.json](./238459-zombie-warz.json) |
