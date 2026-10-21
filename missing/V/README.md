@@ -3010,6 +3010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Pong | 196035 | [196035-vr-pong.json](./196035-vr-pong.json) |
 | VR Porn Hentai Teachers | 368059 | [368059-vr-porn-hentai-teachers.json](./368059-vr-porn-hentai-teachers.json) |
 | VR Prison Showdown：rookie Guard Rumble | 364063 | [364063-vr-prison-showdown-rookie-guard-rumble.json](./364063-vr-prison-showdown-rookie-guard-rumble.json) |
+| VR Puppet Game | 195927 | [195927-vr-puppet-game.json](./195927-vr-puppet-game.json) |
 | VR Quest: SCP-087 | 114229 | [114229-vr-quest-scp-087.json](./114229-vr-quest-scp-087.json) |
 | VR Quiet Life | 139716 | [139716-vr-quiet-life.json](./139716-vr-quiet-life.json) |
 | VR Racing on Dinosaur Island | 236175 | [236175-vr-racing-on-dinosaur-island.json](./236175-vr-racing-on-dinosaur-island.json) |
