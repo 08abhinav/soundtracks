@@ -2906,6 +2906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EndlessShinyBlues | 139707 | [139707-endlessshinyblues.json](./139707-endlessshinyblues.json) |
 | Endlight | 157905 | [157905-endlight.json](./157905-endlight.json) |
 | Endline | 144984 | [144984-endline.json](./144984-endline.json) |
+| Endling | 187734 | [187734-endling.json](./187734-endling.json) |
 | Endling: Extinction is Forever | 105623 | [105623-endling-extinction-is-forever.json](./105623-endling-extinction-is-forever.json) |
 | Endo | 158503 | [158503-endo.json](./158503-endo.json) |
 | Endocrisis | 143368 | [143368-endocrisis.json](./143368-endocrisis.json) |
