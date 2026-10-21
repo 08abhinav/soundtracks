@@ -10235,6 +10235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Land | 197631 | [197631-mirror-land.json](./197631-mirror-land.json) |
 | Mirror Land | 91986 | [91986-mirror-land.json](./91986-mirror-land.json) |
 | Mirror Layers | 98557 | [98557-mirror-layers.json](./98557-mirror-layers.json) |
+| Mirror Lover | 187706 | [187706-mirror-lover.json](./187706-mirror-lover.json) |
 | Mirror Match | 363965 | [363965-mirror-match.json](./363965-mirror-match.json) |
 | Mirror Mirror | 230701 | [230701-mirror-mirror.json](./230701-mirror-mirror.json) |
 | Mirror Mirror | 340938 | [340938-mirror-mirror.json](./340938-mirror-mirror.json) |
