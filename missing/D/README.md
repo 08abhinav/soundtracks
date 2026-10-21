@@ -3982,6 +3982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Rock Galactic: Ultimate Edition | 188047 | [188047-deep-rock-galactic-ultimate-edition.json](./188047-deep-rock-galactic-ultimate-edition.json) |
 | Deep Room | 347559 | [347559-deep-room.json](./347559-deep-room.json) |
 | Deep Rune | 153962 | [153962-deep-rune.json](./153962-deep-rune.json) |
+| Deep Russian Depression | 188866 | [188866-deep-russian-depression.json](./188866-deep-russian-depression.json) |
 | Deep Saturation | 359071 | [359071-deep-saturation.json](./359071-deep-saturation.json) |
 | Deep Scan | 80208 | [80208-deep-scan.json](./80208-deep-scan.json) |
 | Deep Scanner | 287778 | [287778-deep-scanner.json](./287778-deep-scanner.json) |
