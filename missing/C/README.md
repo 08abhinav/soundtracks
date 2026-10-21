@@ -4815,6 +4815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkered Flag | 40815 | [40815-checkered-flag.json](./40815-checkered-flag.json) |
 | Checkers | 11151 | [11151-checkers.json](./11151-checkers.json) |
 | Checkers | 131515 | [131515-checkers.json](./131515-checkers.json) |
+| Checkers | 172406 | [172406-checkers.json](./172406-checkers.json) |
 | Checkers | 88367 | [88367-checkers.json](./88367-checkers.json) |
 | Checkers 3D | 146515 | [146515-checkers-3d.json](./146515-checkers-3d.json) |
 | Checkers at War | 52495 | [52495-checkers-at-war.json](./52495-checkers-at-war.json) |
@@ -10051,6 +10052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conan Exiles: Seekers of the Dawn Pack | 164775 | [164775-conan-exiles-seekers-of-the-dawn-pack.json](./164775-conan-exiles-seekers-of-the-dawn-pack.json) |
 | Conan Exiles: Treasures of Turan Pack | 164779 | [164779-conan-exiles-treasures-of-turan-pack.json](./164779-conan-exiles-treasures-of-turan-pack.json) |
 | Conan Room | 194321 | [194321-conan-room.json](./194321-conan-room.json) |
+| Conan the Barbarian | 172401 | [172401-conan-the-barbarian.json](./172401-conan-the-barbarian.json) |
 | Conan the Cimmerian | 12009 | [12009-conan-the-cimmerian.json](./12009-conan-the-cimmerian.json) |
 | Conan the mighty pig | 32411 | [32411-conan-the-mighty-pig.json](./32411-conan-the-mighty-pig.json) |
 | Conan Unconquered | 113208 | [113208-conan-unconquered.json](./113208-conan-unconquered.json) |
@@ -14953,6 +14955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse | 31822 | [31822-curse.json](./31822-curse.json) |
 | Curse Ahoy! | 176305 | [176305-curse-ahoy.json](./176305-curse-ahoy.json) |
 | Curse Chapter: Dawnthief | 382365 | [382365-curse-chapter-dawnthief.json](./382365-curse-chapter-dawnthief.json) |
+| Curse Crackers: For Whom the Belle Toils | 172413 | [172413-curse-crackers-for-whom-the-belle-toils.json](./172413-curse-crackers-for-whom-the-belle-toils.json) |
 | Curse Errant | 278928 | [278928-curse-errant.json](./278928-curse-errant.json) |
 | Curse in our heads | 103452 | [103452-curse-in-our-heads.json](./103452-curse-in-our-heads.json) |
 | Curse Lsland | 157925 | [157925-curse-lsland.json](./157925-curse-lsland.json) |
