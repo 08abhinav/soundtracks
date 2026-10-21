@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiju Khaos | 123335 | [123335-kaiju-khaos.json](./123335-kaiju-khaos.json) |
 | Kaiju Klimb | 178375 | [178375-kaiju-klimb.json](./178375-kaiju-klimb.json) |
 | Kaiju No. 8: The Game | 343892 | [343892-kaiju-no-8-the-game.json](./343892-kaiju-no-8-the-game.json) |
+| Kaiju Noir | 180458 | [180458-kaiju-noir.json](./180458-kaiju-noir.json) |
 | Kaiju Panic | 13190 | [13190-kaiju-panic.json](./13190-kaiju-panic.json) |
 | Kaiju Wars + Legend of Keepers: Monsters & Demons Bundle | 287111 | [287111-kaiju-wars-legend-of-keepers-monsters-and-demons-bundle.json](./287111-kaiju-wars-legend-of-keepers-monsters-and-demons-bundle.json) |
 | Kaiju-A-GoGo | 36155 | [36155-kaiju-a-gogo.json](./36155-kaiju-a-gogo.json) |
@@ -4046,6 +4047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kontrol Flow | 142196 | [142196-kontrol-flow.json](./142196-kontrol-flow.json) |
 | Konung 1 + 2 | 153008 | [153008-konung-1-2.json](./153008-konung-1-2.json) |
 | Konung III: Ties of the Dynasty | 13162 | [13162-konung-iii-ties-of-the-dynasty.json](./13162-konung-iii-ties-of-the-dynasty.json) |
+| Konyok-Gorbunok | 180455 | [180455-konyok-gorbunok.json](./180455-konyok-gorbunok.json) |
 | Koob Dog | 289777 | [289777-koob-dog.json](./289777-koob-dog.json) |
 | Koodbool | 308448 | [308448-koodbool.json](./308448-koodbool.json) |
 | Kook | 245829 | [245829-kook.json](./245829-kook.json) |
