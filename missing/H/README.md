@@ -7783,6 +7783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Park Tycoon | 87897 | [87897-horse-park-tycoon.json](./87897-horse-park-tycoon.json) |
 | Horse Park Tycoon 2 | 116445 | [116445-horse-park-tycoon-2.json](./116445-horse-park-tycoon-2.json) |
 | Horse Plinko | 357855 | [357855-horse-plinko.json](./357855-horse-plinko.json) |
+| Horse Race | 202001 | [202001-horse-race.json](./202001-horse-race.json) |
 | Horse Race Starter | 76958 | [76958-horse-race-starter.json](./76958-horse-race-starter.json) |
 | Horse Racing | 284951 | [284951-horse-racing.json](./284951-horse-racing.json) |
 | Horse Racing | 47279 | [47279-horse-racing.json](./47279-horse-racing.json) |
