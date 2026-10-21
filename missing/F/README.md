@@ -3198,6 +3198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiddler's Wood | 323615 | [323615-fiddlers-wood.json](./323615-fiddlers-wood.json) |
 | Fidel: Dungeon Rescue | 36724 | [36724-fidel-dungeon-rescue.json](./36724-fidel-dungeon-rescue.json) |
 | Fidelity | 116549 | [116549-fidelity.json](./116549-fidelity.json) |
+| Fidelium Automata | 183256 | [183256-fidelium-automata.json](./183256-fidelium-automata.json) |
 | Fideos | 329024 | [329024-fideos.json](./329024-fideos.json) |
 | Fidget Pong | 69371 | [69371-fidget-pong.json](./69371-fidget-pong.json) |
 | Fidget Spinner | 100888 | [100888-fidget-spinner.json](./100888-fidget-spinner.json) |
@@ -3638,6 +3639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Figures of Heroes | 230925 | [230925-figures-of-heroes.json](./230925-figures-of-heroes.json) |
 | Figures of Shadows | 374068 | [374068-figures-of-shadows.json](./374068-figures-of-shadows.json) |
 | Figurine Shop Simulator | 346592 | [346592-figurine-shop-simulator.json](./346592-figurine-shop-simulator.json) |
+| Fiil Mark 37 | 183246 | [183246-fiil-mark-37.json](./183246-fiil-mark-37.json) |
 | FIL | 160096 | [160096-fil.json](./160096-fil.json) |
 | Fila Decathlon | 62641 | [62641-fila-decathlon.json](./62641-fila-decathlon.json) |
 | Filament | 121885 | [121885-filament.json](./121885-filament.json) |
