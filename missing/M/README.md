@@ -4632,6 +4632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayban | 341646 | [341646-mayban.json](./341646-mayban.json) |
 | Maybe Drinking. Russian Style | 102298 | [102298-maybe-drinking-russian-style.json](./102298-maybe-drinking-russian-style.json) |
 | Maybe I Can | 153957 | [153957-maybe-i-can.json](./153957-maybe-i-can.json) |
+| Maybe Immortal | 190369 | [190369-maybe-immortal.json](./190369-maybe-immortal.json) |
 | Maybe It Meant Something | 406560 | [406560-maybe-it-meant-something.json](./406560-maybe-it-meant-something.json) |
 | Maybe Tomorrow | 238740 | [238740-maybe-tomorrow.json](./238740-maybe-tomorrow.json) |
 | Maybe: Interactive Stories | 139886 | [139886-maybe-interactive-stories.json](./139886-maybe-interactive-stories.json) |
@@ -10752,6 +10753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mizbak's Adventure | 37653 | [37653-mizbaks-adventure.json](./37653-mizbaks-adventure.json) |
 | Mizeria | 262823 | [262823-mizeria.json](./262823-mizeria.json) |
 | Mizi No!: Paperwork | 382491 | [382491-mizi-no-paperwork.json](./382491-mizi-no-paperwork.json) |
+| Mizu | 190365 | [190365-mizu.json](./190365-mizu.json) |
 | Mizu | 229701 | [229701-mizu.json](./229701-mizu.json) |
 | Mizu no Senritsu | 220576 | [220576-mizu-no-senritsu.json](./220576-mizu-no-senritsu.json) |
 | Mizu no Senritsu 2: Hi no Kioku | 67305 | [67305-mizu-no-senritsu-2-hi-no-kioku.json](./67305-mizu-no-senritsu-2-hi-no-kioku.json) |
