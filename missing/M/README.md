@@ -16248,6 +16248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mycopunk | 342011 | [342011-mycopunk.json](./342011-mycopunk.json) |
 | MycoRelic | 274470 | [274470-mycorelic.json](./274470-mycorelic.json) |
 | Mycorrhiza | 178904 | [178904-mycorrhiza.json](./178904-mycorrhiza.json) |
+| Mycosis | 189362 | [189362-mycosis.json](./189362-mycosis.json) |
 | Mycro | 152858 | [152858-mycro.json](./152858-mycro.json) |
 | Mycroft Holmes Simulator | 360885 | [360885-mycroft-holmes-simulator.json](./360885-mycroft-holmes-simulator.json) |
 | Mycubium | 356294 | [356294-mycubium.json](./356294-mycubium.json) |
