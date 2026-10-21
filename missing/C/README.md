@@ -3835,6 +3835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celebrity Smackdown | 389039 | [389039-celebrity-smackdown.json](./389039-celebrity-smackdown.json) |
 | Celebrity Sports Showdown | 4753 | [4753-celebrity-sports-showdown.json](./4753-celebrity-sports-showdown.json) |
 | Celerity | 183396 | [183396-celerity.json](./183396-celerity.json) |
+| Celerity | 185903 | [185903-celerity.json](./185903-celerity.json) |
 | Celestarium | 226300 | [226300-celestarium.json](./226300-celestarium.json) |
 | Celestay Craft&Slowlife | 399260 | [399260-celestay-craft-and-slowlife.json](./399260-celestay-craft-and-slowlife.json) |
 | Celeste 64: Fragments of the Mountain | 284430 | [284430-celeste-64-fragments-of-the-mountain.json](./284430-celeste-64-fragments-of-the-mountain.json) |
@@ -4249,6 +4250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chameleon: DYH | 203401 | [203401-chameleon-dyh.json](./203401-chameleon-dyh.json) |
 | Chameleon: DYH - Chapter 2 | 243613 | [243613-chameleon-dyh-chapter-2.json](./243613-chameleon-dyh-chapter-2.json) |
 | Chameleon: To Dye For! | 72713 | [72713-chameleon-to-dye-for.json](./72713-chameleon-to-dye-for.json) |
+| Chameneon | 185921 | [185921-chameneon.json](./185921-chameneon.json) |
 | Champ Against Chumps | 108839 | [108839-champ-against-chumps.json](./108839-champ-against-chumps.json) |
 | Champ Asterocks | 94689 | [94689-champ-asterocks.json](./94689-champ-asterocks.json) |
 | Champ at Dawn | 231349 | [231349-champ-at-dawn.json](./231349-champ-at-dawn.json) |
@@ -6095,6 +6097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Griddlers: Journey to Santa | 88653 | [88653-christmas-griddlers-journey-to-santa.json](./88653-christmas-griddlers-journey-to-santa.json) |
 | Christmas Hair Salon | 96837 | [96837-christmas-hair-salon.json](./96837-christmas-hair-salon.json) |
 | Christmas Hidden Objects | 102729 | [102729-christmas-hidden-objects.json](./102729-christmas-hidden-objects.json) |
+| Christmas Horror | 185877 | [185877-christmas-horror.json](./185877-christmas-horror.json) |
 | Christmas Horror Land | 336538 | [336538-christmas-horror-land.json](./336538-christmas-horror-land.json) |
 | Christmas Horse 4 | 280858 | [280858-christmas-horse-4.json](./280858-christmas-horse-4.json) |
 | Christmas Hustle | 320384 | [320384-christmas-hustle.json](./320384-christmas-hustle.json) |
@@ -9896,6 +9899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Compass of the Destiny: Istanbul | 239794 | [239794-compass-of-the-destiny-istanbul.json](./239794-compass-of-the-destiny-istanbul.json) |
 | Compass Rose | 124632 | [124632-compass-rose.json](./124632-compass-rose.json) |
 | Compassion | 179680 | [179680-compassion.json](./179680-compassion.json) |
+| Compassionate Simulation | 185910 | [185910-compassionate-simulation.json](./185910-compassionate-simulation.json) |
 | Compensated Girl | 369100 | [369100-compensated-girl.json](./369100-compensated-girl.json) |
 | Compensation Not Guaranteed | 328419 | [328419-compensation-not-guaranteed.json](./328419-compensation-not-guaranteed.json) |
 | Competition Karate | 25780 | [25780-competition-karate.json](./25780-competition-karate.json) |
@@ -10281,6 +10285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conqueror's Blade: Season VI - Scourge of Winter | 158101 | [158101-conquerors-blade-season-vi-scourge-of-winter.json](./158101-conquerors-blade-season-vi-scourge-of-winter.json) |
 | Conqueror's Blade: Season VII - Wolves of Ragnarok | 158108 | [158108-conquerors-blade-season-vii-wolves-of-ragnarok.json](./158108-conquerors-blade-season-vii-wolves-of-ragnarok.json) |
 | Conqueror's Blade: Season VIII - Dynasty | 158110 | [158110-conquerors-blade-season-viii-dynasty.json](./158110-conquerors-blade-season-viii-dynasty.json) |
+| Conqueror's Blade: Season X - Highlanders | 185949 | [185949-conquerors-blade-season-x-highlanders.json](./185949-conquerors-blade-season-x-highlanders.json) |
 | Conqueror's Blade: Three Kingdoms | 411543 | [411543-conquerors-blade-three-kingdoms.json](./411543-conquerors-blade-three-kingdoms.json) |
 | Conquest | 339778 | [339778-conquest.json](./339778-conquest.json) |
 | Conquest | 379715 | [379715-conquest.json](./379715-conquest.json) |
@@ -12785,6 +12790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy World | 189026 | [189026-crazy-world.json](./189026-crazy-world.json) |
 | Crazy World of Caleb | 302946 | [302946-crazy-world-of-caleb.json](./302946-crazy-world-of-caleb.json) |
 | Crazy World of Caleb: Level 1 to 7 | 311190 | [311190-crazy-world-of-caleb-level-1-to-7.json](./311190-crazy-world-of-caleb-level-1-to-7.json) |
+| Crazy Zen Codeword | 185902 | [185902-crazy-zen-codeword.json](./185902-crazy-zen-codeword.json) |
 | Crazy Zoo | 202737 | [202737-crazy-zoo.json](./202737-crazy-zoo.json) |
 | Crazy-Spy | 58772 | [58772-crazy-spy.json](./58772-crazy-spy.json) |
 | CrazyBus | 9077 | [9077-crazybus.json](./9077-crazybus.json) |
@@ -13990,6 +13996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryohazard | 297815 | [297815-cryohazard.json](./297815-cryohazard.json) |
 | Cryoloop | 141809 | [141809-cryoloop.json](./141809-cryoloop.json) |
 | CryoNation | 278166 | [278166-cryonation.json](./278166-cryonation.json) |
+| Cryonauts | 185945 | [185945-cryonauts.json](./185945-cryonauts.json) |
 | Cryorise | 378609 | [378609-cryorise.json](./378609-cryorise.json) |
 | Cryostasis | 2967 | [2967-cryostasis.json](./2967-cryostasis.json) |
 | Cryowakers | 266428 | [266428-cryowakers.json](./266428-cryowakers.json) |
@@ -14107,6 +14114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crysis Trilogy | 52852 | [52852-crysis-trilogy.json](./52852-crysis-trilogy.json) |
 | Crysis Warhead | 336 | [336-crysis-warhead.json](./336-crysis-warhead.json) |
 | Crysis Wreckage | 51292 | [51292-crysis-wreckage.json](./51292-crysis-wreckage.json) |
+| Crysis: Back to Hell | 185893 | [185893-crysis-back-to-hell.json](./185893-crysis-back-to-hell.json) |
 | Crysmalia: Dawn of Darkness | 228485 | [228485-crysmalia-dawn-of-darkness.json](./228485-crysmalia-dawn-of-darkness.json) |
 | Cryspace | 240746 | [240746-cryspace.json](./240746-cryspace.json) |
 | Crystal | 145275 | [145275-crystal.json](./145275-crystal.json) |
@@ -15510,6 +15518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberfield | 258614 | [258614-cyberfield.json](./258614-cyberfield.json) |
 | Cyberflight | 152497 | [152497-cyberflight.json](./152497-cyberflight.json) |
 | Cyberflow | 61679 | [61679-cyberflow.json](./61679-cyberflow.json) |
+| Cyberfrags '69 | 185885 | [185885-cyberfrags-69.json](./185885-cyberfrags-69.json) |
 | CyberFuck 2069 | 216401 | [216401-cyberfuck-2069.json](./216401-cyberfuck-2069.json) |
 | Cybergeist | 156537 | [156537-cybergeist.json](./156537-cybergeist.json) |
 | Cybergenic Ranger: Secret of the 7th Planet | 74000 | [74000-cybergenic-ranger-secret-of-the-7th-planet.json](./74000-cybergenic-ranger-secret-of-the-7th-planet.json) |
