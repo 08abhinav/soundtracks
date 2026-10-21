@@ -2228,6 +2228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cart by Cart | 406723 | [406723-cart-by-cart.json](./406723-cart-by-cart.json) |
 | Cart Capers | 335393 | [335393-cart-capers.json](./335393-cart-capers.json) |
 | Cart Crawlers | 184637 | [184637-cart-crawlers.json](./184637-cart-crawlers.json) |
+| Cart Farmer | 177743 | [177743-cart-farmer.json](./177743-cart-farmer.json) |
 | Cart Fury | 43275 | [43275-cart-fury.json](./43275-cart-fury.json) |
 | Cart Fury: Championship Racing | 78637 | [78637-cart-fury-championship-racing.json](./78637-cart-fury-championship-racing.json) |
 | Cart Legends | 258329 | [258329-cart-legends.json](./258329-cart-legends.json) |
@@ -2366,6 +2367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Case Records: Lost Night | 334350 | [334350-case-records-lost-night.json](./334350-case-records-lost-night.json) |
 | Case Simulator Weapons and Armors | 111619 | [111619-case-simulator-weapons-and-armors.json](./111619-case-simulator-weapons-and-armors.json) |
 | Case Solved: The London Files | 392811 | [392811-case-solved-the-london-files.json](./392811-case-solved-the-london-files.json) |
+| Case White | 177768 | [177768-case-white.json](./177768-case-white.json) |
 | Casebook Trilogy: Special Edition | 67277 | [67277-casebook-trilogy-special-edition.json](./67277-casebook-trilogy-special-edition.json) |
 | Casebook: Episode 0 - The Missing Urn | 335437 | [335437-casebook-episode-0-the-missing-urn.json](./335437-casebook-episode-0-the-missing-urn.json) |
 | CaseCracker2 | 301425 | [301425-casecracker2.json](./301425-casecracker2.json) |
@@ -4230,6 +4232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chamber | 182693 | [182693-chamber.json](./182693-chamber.json) |
 | Chamber of Darkness | 96853 | [96853-chamber-of-darkness.json](./96853-chamber-of-darkness.json) |
 | Chamber of Hex | 257381 | [257381-chamber-of-hex.json](./257381-chamber-of-hex.json) |
+| Chamber of the Greblicks | 177759 | [177759-chamber-of-the-greblicks.json](./177759-chamber-of-the-greblicks.json) |
 | Chamber of the Sci-Mutant Priestess | 81786 | [81786-chamber-of-the-sci-mutant-priestess.json](./81786-chamber-of-the-sci-mutant-priestess.json) |
 | Chamber One | 394528 | [394528-chamber-one.json](./394528-chamber-one.json) |
 | Chamber Shift | 393536 | [393536-chamber-shift.json](./393536-chamber-shift.json) |
@@ -6684,6 +6687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circle | 289387 | [289387-circle.json](./289387-circle.json) |
 | Circle | 320435 | [320435-circle.json](./320435-circle.json) |
 | Circle = Circle | 293853 | [293853-circle-circle.json](./293853-circle-circle.json) |
+| Circle Bash | 177755 | [177755-circle-bash.json](./177755-circle-bash.json) |
 | Circle Breakout | 128577 | [128577-circle-breakout.json](./128577-circle-breakout.json) |
 | Circle Dodge | 267770 | [267770-circle-dodge.json](./267770-circle-dodge.json) |
 | Circle Empires | 104937 | [104937-circle-empires.json](./104937-circle-empires.json) |
@@ -11337,6 +11341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Carnage | 45883 | [45883-cosmic-carnage.json](./45883-cosmic-carnage.json) |
 | Cosmic Carnage: Prologue | 277943 | [277943-cosmic-carnage-prologue.json](./277943-cosmic-carnage-prologue.json) |
 | Cosmic Cash | 117782 | [117782-cosmic-cash.json](./117782-cosmic-cash.json) |
+| Cosmic Castaway | 177731 | [177731-cosmic-castaway.json](./177731-cosmic-castaway.json) |
 | Cosmic Castaway | 380084 | [380084-cosmic-castaway.json](./380084-cosmic-castaway.json) |
 | Cosmic Cat | 361677 | [361677-cosmic-cat.json](./361677-cosmic-cat.json) |
 | Cosmic Causeway: Trailblazer II | 40936 | [40936-cosmic-causeway-trailblazer-ii.json](./40936-cosmic-causeway-trailblazer-ii.json) |
@@ -14281,6 +14286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystals and Curses | 81987 | [81987-crystals-and-curses.json](./81987-crystals-and-curses.json) |
 | Crystals of Amalgam | 183023 | [183023-crystals-of-amalgam.json](./183023-crystals-of-amalgam.json) |
 | Crystals of Carus | 13834 | [13834-crystals-of-carus.json](./13834-crystals-of-carus.json) |
+| Crystals of Irm | 177742 | [177742-crystals-of-irm.json](./177742-crystals-of-irm.json) |
 | Crystalverse | 25796 | [25796-crystalverse.json](./25796-crystalverse.json) |
 | Crystalyn | 406900 | [406900-crystalyn.json](./406900-crystalyn.json) |
 | Crystant | 392154 | [392154-crystant.json](./392154-crystant.json) |
