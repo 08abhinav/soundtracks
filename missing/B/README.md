@@ -8051,6 +8051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Twist Challenge | 338250 | [338250-block-twist-challenge.json](./338250-block-twist-challenge.json) |
 | Block Warfare Zombies | 343814 | [343814-block-warfare-zombies.json](./343814-block-warfare-zombies.json) |
 | Block Warriors | 55236 | [55236-block-warriors.json](./55236-block-warriors.json) |
+| Block Warriors: Definitive Edition | 195917 | [195917-block-warriors-definitive-edition.json](./195917-block-warriors-definitive-edition.json) |
 | Block Wars | 77224 | [77224-block-wars.json](./77224-block-wars.json) |
 | Block Wars: Falling Duel | 421186 | [421186-block-wars-falling-duel.json](./421186-block-wars-falling-duel.json) |
 | Block Witch | 401299 | [401299-block-witch.json](./401299-block-witch.json) |
@@ -9477,6 +9478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Squad | 5662 | [5662-bomb-squad.json](./5662-bomb-squad.json) |
 | Bomb Squad Academy | 28012 | [28012-bomb-squad-academy.json](./28012-bomb-squad-academy.json) |
 | Bomb Sweeper VR | 187179 | [187179-bomb-sweeper-vr.json](./187179-bomb-sweeper-vr.json) |
+| Bomb Sweeper: Mine Finder | 195936 | [195936-bomb-sweeper-mine-finder.json](./195936-bomb-sweeper-mine-finder.json) |
 | Bomb the City | 57669 | [57669-bomb-the-city.json](./57669-bomb-the-city.json) |
 | Bomb the Hill | 400674 | [400674-bomb-the-hill.json](./400674-bomb-the-hill.json) |
 | Bomb the Monsters! | 35638 | [35638-bomb-the-monsters.json](./35638-bomb-the-monsters.json) |
@@ -11447,6 +11449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BreakBall: Time Travel | 146890 | [146890-breakball-time-travel.json](./146890-breakball-time-travel.json) |
 | Breakbeat Alley | 200048 | [200048-breakbeat-alley.json](./200048-breakbeat-alley.json) |
 | BreakBlast | 153330 | [153330-breakblast.json](./153330-breakblast.json) |
+| Breakdown | 195948 | [195948-breakdown.json](./195948-breakdown.json) |
 | Breakdown | 5756 | [5756-breakdown.json](./5756-breakdown.json) |
 | Breaker | 134344 | [134344-breaker.json](./134344-breaker.json) |
 | Breaker | 175825 | [175825-breaker.json](./175825-breaker.json) |
