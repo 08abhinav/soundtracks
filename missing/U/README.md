@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraball | 170897 | [170897-ultraball.json](./170897-ultraball.json) |
 | Ultraball | 82318 | [82318-ultraball.json](./82318-ultraball.json) |
 | Ultrabots | 68909 | [68909-ultrabots.json](./68909-ultrabots.json) |
+| Ultrabouters | 177242 | [177242-ultrabouters.json](./177242-ultrabouters.json) |
 | Ultrabox | 267943 | [267943-ultrabox.json](./267943-ultrabox.json) |
 | Ultrabox No. 2 | 267942 | [267942-ultrabox-no-2.json](./267942-ultrabox-no-2.json) |
 | Ultrabugs | 116793 | [116793-ultrabugs.json](./116793-ultrabugs.json) |
@@ -2675,6 +2676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urok | 380735 | [380735-urok.json](./380735-urok.json) |
 | Uros: A Trip Through Shadows | 154800 | [154800-uros-a-trip-through-shadows.json](./154800-uros-a-trip-through-shadows.json) |
 | Urotsukidouji | 123014 | [123014-urotsukidouji.json](./123014-urotsukidouji.json) |
+| Urplace | 177212 | [177212-urplace.json](./177212-urplace.json) |
 | Urquel, the black dragon | 182722 | [182722-urquel-the-black-dragon.json](./182722-urquel-the-black-dragon.json) |
 | Ursid | 367572 | [367572-ursid.json](./367572-ursid.json) |
 | Ursine Science | 260162 | [260162-ursine-science.json](./260162-ursine-science.json) |
