@@ -2706,6 +2706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpy Hunt | 114866 | [114866-jumpy-hunt.json](./114866-jumpy-hunt.json) |
 | Jumpy Jack | 343977 | [343977-jumpy-jack.json](./343977-jumpy-jack.json) |
 | Jumpy Kitten | 101672 | [101672-jumpy-kitten.json](./101672-jumpy-kitten.json) |
+| Jumpy Mia | 195008 | [195008-jumpy-mia.json](./195008-jumpy-mia.json) |
 | Jumpy Paws: World Adventures | 258022 | [258022-jumpy-paws-world-adventures.json](./258022-jumpy-paws-world-adventures.json) |
 | Jumpy Penguin | 104702 | [104702-jumpy-penguin.json](./104702-jumpy-penguin.json) |
 | Jumpy Red Bird: Tube Hopper | 175313 | [175313-jumpy-red-bird-tube-hopper.json](./175313-jumpy-red-bird-tube-hopper.json) |
