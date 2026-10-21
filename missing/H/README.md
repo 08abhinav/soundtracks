@@ -540,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Candy Break Head to Head | 210084 | [210084-halloween-candy-break-head-to-head.json](./210084-halloween-candy-break-head-to-head.json) |
 | Halloween Candy Fun | 221077 | [221077-halloween-candy-fun.json](./221077-halloween-candy-fun.json) |
 | Halloween Chronicles: Behind the Door | 187938 | [187938-halloween-chronicles-behind-the-door.json](./187938-halloween-chronicles-behind-the-door.json) |
+| Halloween Chronicles: Behind the Door - Collector's Edition | 191459 | [191459-halloween-chronicles-behind-the-door-collectors-edition.json](./191459-halloween-chronicles-behind-the-door-collectors-edition.json) |
 | Halloween Chronicles: Cursed Family | 186014 | [186014-halloween-chronicles-cursed-family.json](./186014-halloween-chronicles-cursed-family.json) |
 | Halloween Chronicles: Cursed Family - Collector's Edition | 186015 | [186015-halloween-chronicles-cursed-family-collectors-edition.json](./186015-halloween-chronicles-cursed-family-collectors-edition.json) |
 | Halloween Chronicles: Evil Behind a Mask | 139197 | [139197-halloween-chronicles-evil-behind-a-mask.json](./139197-halloween-chronicles-evil-behind-a-mask.json) |
@@ -994,6 +995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handgun Football | 391243 | [391243-handgun-football.json](./391243-handgun-football.json) |
 | Handheld Pinball - Robot, Pirate, & Holiday Themes | 108452 | [108452-handheld-pinball-robot-pirate-and-holiday-themes.json](./108452-handheld-pinball-robot-pirate-and-holiday-themes.json) |
 | Handicap Golf | 94661 | [94661-handicap-golf.json](./94661-handicap-golf.json) |
+| Handkerchief | 191627 | [191627-handkerchief.json](./191627-handkerchief.json) |
 | Handle With Care | 133864 | [133864-handle-with-care.json](./133864-handle-with-care.json) |
 | Handle With Care.. | 330816 | [330816-handle-with-care.json](./330816-handle-with-care.json) |
 | Handlime | 402439 | [402439-handlime.json](./402439-handlime.json) |
@@ -1103,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanna Barbera's Turbo Toons | 42619 | [42619-hanna-barberas-turbo-toons.json](./42619-hanna-barberas-turbo-toons.json) |
 | Hanna in a Choppa | 416744 | [416744-hanna-in-a-choppa.json](./416744-hanna-in-a-choppa.json) |
 | Hanna in a Choppa 2 | 416746 | [416746-hanna-in-a-choppa-2.json](./416746-hanna-in-a-choppa-2.json) |
+| Hanna in a Choppa 3 | 191624 | [191624-hanna-in-a-choppa-3.json](./191624-hanna-in-a-choppa-3.json) |
 | Hannah & Henry | 257067 | [257067-hannah-and-henry.json](./257067-hannah-and-henry.json) |
 | Hannah and the Ice Caves | 338367 | [338367-hannah-and-the-ice-caves.json](./338367-hannah-and-the-ice-caves.json) |
 | Hannah and the Kreludor Caves | 338381 | [338381-hannah-and-the-kreludor-caves.json](./338381-hannah-and-the-kreludor-caves.json) |
