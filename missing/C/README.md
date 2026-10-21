@@ -6737,6 +6737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cirque du Flea | 366412 | [366412-cirque-du-flea.json](./366412-cirque-du-flea.json) |
 | Cirrus | 165115 | [165115-cirrus.json](./165115-cirrus.json) |
 | Cirrus Business | 253987 | [253987-cirrus-business.json](./253987-cirrus-business.json) |
+| Cis Penance: Transgender Lives in Wait in the UK | 199807 | [199807-cis-penance-transgender-lives-in-wait-in-the-uk.json](./199807-cis-penance-transgender-lives-in-wait-in-the-uk.json) |
 | Cisco Heat | 12005 | [12005-cisco-heat.json](./12005-cisco-heat.json) |
 | Citadale Resurrection | 234583 | [234583-citadale-resurrection.json](./234583-citadale-resurrection.json) |
 | Citadale Resurrection: Darkness my Curse | 261867 | [261867-citadale-resurrection-darkness-my-curse.json](./261867-citadale-resurrection-darkness-my-curse.json) |
