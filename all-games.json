@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T22:25:50.318Z",
-  "total_soundtracks": 2355,
+  "generated_at": "2026-10-21T11:55:50.446Z",
+  "total_soundtracks": 2356,
   "games": [
     {
       "igdb_id": 7522,
@@ -14,8 +14,8 @@
       "albums": [
         {
           "album_name": "0 A.D (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/0-a-d-original-game-soundtrack/1396473699?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/0-a-d-original-game-soundtrack/1396473699?uo=4",
           "album_link_url": "https://album.link/i/1396473699"
         }
       ]
@@ -150,8 +150,8 @@
       "albums": [
         {
           "album_name": "33 Immortals (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/33-immortals-original-soundtrack/1800447956?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/33-immortals-original-soundtrack/1800447956?uo=4",
           "album_link_url": "https://album.link/i/1800447956"
         }
       ]
@@ -220,8 +220,8 @@
       "albums": [
         {
           "album_name": "A Hat in Time (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/a-hat-in-time-original-game-soundtrack/1299393881?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/a-hat-in-time-original-game-soundtrack/1299393881?uo=4",
           "album_link_url": "https://album.link/i/1299393881"
         }
       ]
@@ -372,8 +372,8 @@
       "albums": [
         {
           "album_name": "Absolver",
-          "spotify_url": "https://music.apple.com/us/album/absolver/1281122592?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/absolver/1281122592?uo=4",
           "album_link_url": "https://album.link/i/1281122592"
         }
       ]
@@ -414,8 +414,8 @@
       "albums": [
         {
           "album_name": "ACE COMBAT 7: Skies Unknown (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/ace-combat-7-skies-unknown-original-soundtrack/1724893711?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/ace-combat-7-skies-unknown-original-soundtrack/1724893711?uo=4",
           "album_link_url": "https://album.link/i/1724893711"
         }
       ]
@@ -568,8 +568,8 @@
       "albums": [
         {
           "album_name": "Afterparty",
-          "spotify_url": "https://music.apple.com/us/album/afterparty/1804710578?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/afterparty/1804710578?uo=4",
           "album_link_url": "https://album.link/i/1804710578"
         }
       ]
@@ -810,8 +810,8 @@
         },
         {
           "album_name": "Follow You Into The Dark (feat. Rakel) - Single",
-          "spotify_url": "https://music.apple.com/us/album/follow-you-into-the-dark-feat-rakel-single/1708860239?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/follow-you-into-the-dark-feat-rakel-single/1708860239?uo=4",
           "album_link_url": "https://album.link/i/1708860239"
         }
       ]
@@ -1038,8 +1038,8 @@
       "albums": [
         {
           "album_name": "Ancestors: The Humankind Odyssey (Official Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/ancestors-the-humankind-odyssey-official-soundtrack/1527723283?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/ancestors-the-humankind-odyssey-official-soundtrack/1527723283?uo=4",
           "album_link_url": "https://album.link/i/1527723283"
         }
       ]
@@ -1052,8 +1052,8 @@
       "albums": [
         {
           "album_name": "Anger Foot (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/anger-foot-original-soundtrack/1755913370?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/anger-foot-original-soundtrack/1755913370?uo=4",
           "album_link_url": "https://album.link/i/1755913370"
         }
       ]
@@ -1392,8 +1392,8 @@
       "albums": [
         {
           "album_name": "Arctic Awakening (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/arctic-awakening-original-game-soundtrack/1839607348?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/arctic-awakening-original-game-soundtrack/1839607348?uo=4",
           "album_link_url": "https://album.link/i/1839607348"
         }
       ]
@@ -1644,20 +1644,20 @@
         },
         {
           "album_name": "Assassin's Creed 4: Black Flag (Sea Shanty Edition) [Original Game Soundtrack]",
-          "spotify_url": "https://music.apple.com/us/album/assassins-creed-4-black-flag-sea-shanty-edition-original/1640100747?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/assassins-creed-4-black-flag-sea-shanty-edition-original/1640100747?uo=4",
           "album_link_url": "https://album.link/i/1640100747"
         },
         {
           "album_name": "Assassin's Creed 4: Black Flag (Sea Shanty Edition, Vol. 2) [Original Game Soundtrack]",
-          "spotify_url": "https://music.apple.com/us/album/assassins-creed-4-black-flag-sea-shanty-edition-vol/1640088677?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/assassins-creed-4-black-flag-sea-shanty-edition-vol/1640088677?uo=4",
           "album_link_url": "https://album.link/i/1640088677"
         },
         {
           "album_name": "Assassin's Creed 4: Black Flag (The Complete Edition) [Original Game Soundtrack]",
-          "spotify_url": "https://music.apple.com/us/album/assassins-creed-4-black-flag-the-complete-edition/1640108719?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/assassins-creed-4-black-flag-the-complete-edition/1640108719?uo=4",
           "album_link_url": "https://album.link/i/1640108719"
         }
       ]
@@ -1670,20 +1670,20 @@
       "albums": [
         {
           "album_name": "Assassin's Creed Mirage (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/assassins-creed-mirage-original-game-soundtrack/1706138098?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/assassins-creed-mirage-original-game-soundtrack/1706138098?uo=4",
           "album_link_url": "https://album.link/i/1706138098"
         },
         {
           "album_name": "Assassin's Creed Mirage : Into the Light (From the Cinematic World Premiere) - Single",
-          "spotify_url": "https://music.apple.com/us/album/assassins-creed-mirage-into-the-light-from-the/1650361974?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/assassins-creed-mirage-into-the-light-from-the/1650361974?uo=4",
           "album_link_url": "https://album.link/i/1650361974"
         },
         {
           "album_name": "Assassin's Creed Mirage: Valley of Memory (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/assassins-creed-mirage-valley-of-memory-original/1850997103?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/assassins-creed-mirage-valley-of-memory-original/1850997103?uo=4",
           "album_link_url": "https://album.link/i/1850997103"
         }
       ]
@@ -1974,14 +1974,14 @@
       "albums": [
         {
           "album_name": "Astroneer (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/astroneer-original-game-soundtrack/1184503748?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/astroneer-original-game-soundtrack/1184503748?uo=4",
           "album_link_url": "https://album.link/i/1184503748"
         },
         {
           "album_name": "Astroneer (Original Game Soundtrack) Volume 2",
-          "spotify_url": "https://music.apple.com/us/album/astroneer-original-game-soundtrack-volume-2/1313308881?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/astroneer-original-game-soundtrack-volume-2/1313308881?uo=4",
           "album_link_url": "https://album.link/i/1313308881"
         }
       ]
@@ -2022,8 +2022,8 @@
       "albums": [
         {
           "album_name": "Atelier Yumia: the Alchemist of Memories & the Envisioned Land (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/atelier-yumia-the-alchemist-of-memories-the/1837059774?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/atelier-yumia-the-alchemist-of-memories-the/1837059774?uo=4",
           "album_link_url": "https://album.link/i/1837059774"
         }
       ]
@@ -2036,8 +2036,8 @@
       "albums": [
         {
           "album_name": "Atlas Fallen (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/atlas-fallen-original-game-soundtrack/1724853286?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/atlas-fallen-original-game-soundtrack/1724853286?uo=4",
           "album_link_url": "https://album.link/i/1724853286"
         }
       ]
@@ -2088,20 +2088,20 @@
       "albums": [
         {
           "album_name": "Avatar: Frontiers of Pandora (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/avatar-frontiers-of-pandora-original-game-soundtrack/1716963311?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/avatar-frontiers-of-pandora-original-game-soundtrack/1716963311?uo=4",
           "album_link_url": "https://album.link/i/1716963311"
         },
         {
           "album_name": "Avatar: Frontiers of Pandora - From the Ashes (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/avatar-frontiers-of-pandora-from-the-ashes-original/1860022847?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/avatar-frontiers-of-pandora-from-the-ashes-original/1860022847?uo=4",
           "album_link_url": "https://album.link/i/1860022847"
         },
         {
           "album_name": "Avatar: Frontiers of Pandora - Secrets of the Spires (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/avatar-frontiers-of-pandora-secrets-of-the/1778719367?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/avatar-frontiers-of-pandora-secrets-of-the/1778719367?uo=4",
           "album_link_url": "https://album.link/i/1778719367"
         }
       ]
@@ -2212,8 +2212,8 @@
       "albums": [
         {
           "album_name": "BABYLON'S FALL ORIGINAL SOUNDTRACK",
-          "spotify_url": "https://music.apple.com/us/album/babylons-fall-original-soundtrack/1610985916?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/babylons-fall-original-soundtrack/1610985916?uo=4",
           "album_link_url": "https://album.link/i/1610985916"
         }
       ]
@@ -2294,8 +2294,8 @@
       "albums": [
         {
           "album_name": "BALL x PIT (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/ball-x-pit-original-game-soundtrack/1839128069?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/ball-x-pit-original-game-soundtrack/1839128069?uo=4",
           "album_link_url": "https://album.link/i/1839128069"
         }
       ]
@@ -2434,8 +2434,8 @@
       "albums": [
         {
           "album_name": "Batman: Arkham Shadow (Original Video Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/batman-arkham-shadow-original-video-game-soundtrack/1794869007?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/batman-arkham-shadow-original-video-game-soundtrack/1794869007?uo=4",
           "album_link_url": "https://album.link/i/1794869007"
         }
       ]
@@ -2546,8 +2546,8 @@
       "albums": [
         {
           "album_name": "Battlefield 2042 (Official Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/battlefield-2042-official-soundtrack/1583611639?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/battlefield-2042-official-soundtrack/1583611639?uo=4",
           "album_link_url": "https://album.link/i/1583611639"
         }
       ]
@@ -2606,8 +2606,8 @@
         },
         {
           "album_name": "Battlefield 4 (Original Soundtrack) [Premium Edition]",
-          "spotify_url": "https://music.apple.com/us/album/battlefield-4-original-soundtrack-premium-edition/1460182990?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/battlefield-4-original-soundtrack-premium-edition/1460182990?uo=4",
           "album_link_url": "https://album.link/i/1460182990"
         }
       ]
@@ -3092,8 +3092,8 @@
       "albums": [
         {
           "album_name": "Blacksad Under the Skin (Original Score)",
-          "spotify_url": "https://music.apple.com/us/album/blacksad-under-the-skin-original-score/1488898005?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/blacksad-under-the-skin-original-score/1488898005?uo=4",
           "album_link_url": "https://album.link/i/1488898005"
         }
       ]
@@ -3120,8 +3120,8 @@
       "albums": [
         {
           "album_name": "Blades of Fire Soundtrack",
-          "spotify_url": "https://music.apple.com/us/album/blades-of-fire-soundtrack/1817492580?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/blades-of-fire-soundtrack/1817492580?uo=4",
           "album_link_url": "https://album.link/i/1817492580"
         }
       ]
@@ -3162,8 +3162,8 @@
       "albums": [
         {
           "album_name": "Übermensch (from Bleak Faith: Forsaken) - Single",
-          "spotify_url": "https://music.apple.com/us/album/%C3%BCbermensch-from-bleak-faith-forsaken-single/1570538934?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/%C3%BCbermensch-from-bleak-faith-forsaken-single/1570538934?uo=4",
           "album_link_url": "https://album.link/i/1570538934"
         }
       ]
@@ -3320,14 +3320,14 @@
       "albums": [
         {
           "album_name": "『BLUE PROTOCOL』Music Collection",
-          "spotify_url": "https://music.apple.com/us/album/blue-protocol-music-collection/1797758696?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/blue-protocol-music-collection/1797758696?uo=4",
           "album_link_url": "https://album.link/i/1797758696"
         },
         {
           "album_name": "『BLUE PROTOCOL』Songs Collection「星の彼方へ / バファリア聖歌」 - EP",
-          "spotify_url": "https://music.apple.com/us/album/blue-protocol-songs-collection-%E6%98%9F%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%B8-%E3%83%90%E3%83%95%E3%82%A1%E3%83%AA%E3%82%A2%E8%81%96%E6%AD%8C-ep/1746439816?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/blue-protocol-songs-collection-%E6%98%9F%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%B8-%E3%83%90%E3%83%95%E3%82%A1%E3%83%AA%E3%82%A2%E8%81%96%E6%AD%8C-ep/1746439816?uo=4",
           "album_link_url": "https://album.link/i/1746439816"
         }
       ]
@@ -3340,8 +3340,8 @@
       "albums": [
         {
           "album_name": "Bō: Path of the Teal Lotus (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/b%C5%8D-path-of-the-teal-lotus-original-game-soundtrack/1756886758?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/b%C5%8D-path-of-the-teal-lotus-original-game-soundtrack/1756886758?uo=4",
           "album_link_url": "https://album.link/i/1756886758"
         }
       ]
@@ -3604,8 +3604,8 @@
       "albums": [
         {
           "album_name": "BrokenLore: UNFOLLOW Original Soundtrack (feat. Shorelle) - Single",
-          "spotify_url": "https://music.apple.com/us/album/brokenlore-unfollow-original-soundtrack-feat-shorelle/1711757115?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/brokenlore-unfollow-original-soundtrack-feat-shorelle/1711757115?uo=4",
           "album_link_url": "https://album.link/i/1711757115"
         }
       ]
@@ -3660,8 +3660,8 @@
       "albums": [
         {
           "album_name": "Bubsy 4D (Main Theme) - Single",
-          "spotify_url": "https://music.apple.com/us/album/bubsy-4d-main-theme-single/1843871745?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/bubsy-4d-main-theme-single/1843871745?uo=4",
           "album_link_url": "https://album.link/i/1843871745"
         }
       ]
@@ -3702,8 +3702,8 @@
       "albums": [
         {
           "album_name": "Bye Sweet Carole (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/bye-sweet-carole-original-game-soundtrack/1834071514?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/bye-sweet-carole-original-game-soundtrack/1834071514?uo=4",
           "album_link_url": "https://album.link/i/1834071514"
         }
       ]
@@ -4030,14 +4030,14 @@
       "albums": [
         {
           "album_name": "Caravan SandWitch (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/caravan-sandwitch-original-game-soundtrack/1762933484?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/caravan-sandwitch-original-game-soundtrack/1762933484?uo=4",
           "album_link_url": "https://album.link/i/1762933484"
         },
         {
           "album_name": "Pensée Dérobée (From Caravan SandWitch) - Single",
-          "spotify_url": "https://music.apple.com/us/album/pens%C3%A9e-d%C3%A9rob%C3%A9e-from-caravan-sandwitch-single/1760169435?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/pens%C3%A9e-d%C3%A9rob%C3%A9e-from-caravan-sandwitch-single/1760169435?uo=4",
           "album_link_url": "https://album.link/i/1760169435"
         }
       ]
@@ -4050,8 +4050,8 @@
       "albums": [
         {
           "album_name": "Carmageddon: Rogue Shift (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/carmageddon-rogue-shift-original-game-soundtrack/1849313072?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/carmageddon-rogue-shift-original-game-soundtrack/1849313072?uo=4",
           "album_link_url": "https://album.link/i/1849313072"
         }
       ]
@@ -4064,8 +4064,8 @@
       "albums": [
         {
           "album_name": "Carrion (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/carrion-original-game-soundtrack/1524271050?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/carrion-original-game-soundtrack/1524271050?uo=4",
           "album_link_url": "https://album.link/i/1524271050"
         }
       ]
@@ -4162,8 +4162,8 @@
       "albums": [
         {
           "album_name": "Cat Quest III (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/cat-quest-iii-original-game-soundtrack/1762343344?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/cat-quest-iii-original-game-soundtrack/1762343344?uo=4",
           "album_link_url": "https://album.link/i/1762343344"
         }
       ]
@@ -4272,8 +4272,8 @@
       "albums": [
         {
           "album_name": "Chernobylite (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/chernobylite-original-soundtrack/1603631498?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/chernobylite-original-soundtrack/1603631498?uo=4",
           "album_link_url": "https://album.link/i/1603631498"
         }
       ]
@@ -4300,8 +4300,8 @@
       "albums": [
         {
           "album_name": "Children of Morta (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/children-of-morta-original-game-soundtrack/1581604536?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/children-of-morta-original-game-soundtrack/1581604536?uo=4",
           "album_link_url": "https://album.link/i/1581604536"
         }
       ]
@@ -4412,8 +4412,8 @@
       "albums": [
         {
           "album_name": "Citizen Sleeper 2: Starward Vector (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/citizen-sleeper-2-starward-vector-original-game-soundtrack/1784270571?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/citizen-sleeper-2-starward-vector-original-game-soundtrack/1784270571?uo=4",
           "album_link_url": "https://album.link/i/1784270571"
         }
       ]
@@ -4484,8 +4484,8 @@
       "albums": [
         {
           "album_name": "Cleared Hot Sound Track",
-          "spotify_url": "https://music.apple.com/us/album/cleared-hot-sound-track/1891190047?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/cleared-hot-sound-track/1891190047?uo=4",
           "album_link_url": "https://album.link/i/1891190047"
         }
       ]
@@ -4512,8 +4512,8 @@
       "albums": [
         {
           "album_name": "CloverPit (Original Soundtrack) - Single",
-          "spotify_url": "https://music.apple.com/us/album/cloverpit-original-soundtrack-single/1842729435?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/cloverpit-original-soundtrack-single/1842729435?uo=4",
           "album_link_url": "https://album.link/i/1842729435"
         }
       ]
@@ -4588,8 +4588,8 @@
       "albums": [
         {
           "album_name": "Code Violet (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/code-violet-original-game-soundtrack/1866128877?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/code-violet-original-game-soundtrack/1866128877?uo=4",
           "album_link_url": "https://album.link/i/1866128877"
         }
       ]
@@ -4776,8 +4776,8 @@
       "albums": [
         {
           "album_name": "Conan Exiles (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/conan-exiles-original-soundtrack/1568919439?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/conan-exiles-original-soundtrack/1568919439?uo=4",
           "album_link_url": "https://album.link/i/1568919439"
         }
       ]
@@ -4790,8 +4790,8 @@
       "albums": [
         {
           "album_name": "Concord (Original Video Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/concord-original-video-game-soundtrack/1762647182?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/concord-original-video-game-soundtrack/1762647182?uo=4",
           "album_link_url": "https://album.link/i/1762647182"
         }
       ]
@@ -5042,14 +5042,14 @@
       "albums": [
         {
           "album_name": "Creatures of Ava (Announcement Trailer Theme) - Single",
-          "spotify_url": "https://music.apple.com/us/album/creatures-of-ava-announcement-trailer-theme-single/1747265175?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/creatures-of-ava-announcement-trailer-theme-single/1747265175?uo=4",
           "album_link_url": "https://album.link/i/1747265175"
         },
         {
           "album_name": "Creatures of Ava (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/creatures-of-ava-original-game-soundtrack/1768709973?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/creatures-of-ava-original-game-soundtrack/1768709973?uo=4",
           "album_link_url": "https://album.link/i/1768709973"
         }
       ]
@@ -5306,8 +5306,8 @@
       "albums": [
         {
           "album_name": "Cuphead - The Delicious Last Course (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/cuphead-the-delicious-last-course-original-soundtrack/1632758089?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/cuphead-the-delicious-last-course-original-soundtrack/1632758089?uo=4",
           "album_link_url": "https://album.link/i/1632758089"
         }
       ]
@@ -5390,8 +5390,8 @@
       "albums": [
         {
           "album_name": "DAEMON X MACHINA Original Soundtrack",
-          "spotify_url": "https://music.apple.com/us/album/daemon-x-machina-original-soundtrack/1479691576?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/daemon-x-machina-original-soundtrack/1479691576?uo=4",
           "album_link_url": "https://album.link/i/1479691576"
         }
       ]
@@ -5432,14 +5432,14 @@
       "albums": [
         {
           "album_name": "ニューダンガンロンパV3 みんなのコロシアイ新学期 オリジナルサウンドトラック クロ",
-          "spotify_url": "https://music.apple.com/us/album/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%80%E3%83%B3%E3%82%AC%E3%83%B3%E3%83%AD%E3%83%B3%E3%83%91v3-%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E3%82%B3%E3%83%AD%E3%82%B7%E3%82%A2%E3%82%A4%E6%96%B0%E5%AD%A6%E6%9C%9F-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF-%E3%82%AF%E3%83%AD/1289072552?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%80%E3%83%B3%E3%82%AC%E3%83%B3%E3%83%AD%E3%83%B3%E3%83%91v3-%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E3%82%B3%E3%83%AD%E3%82%B7%E3%82%A2%E3%82%A4%E6%96%B0%E5%AD%A6%E6%9C%9F-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF-%E3%82%AF%E3%83%AD/1289072552?uo=4",
           "album_link_url": "https://album.link/i/1289072552"
         },
         {
           "album_name": "ニューダンガンロンパV3 みんなのコロシアイ新学期 オリジナルサウンドトラック シロ",
-          "spotify_url": "https://music.apple.com/us/album/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%80%E3%83%B3%E3%82%AC%E3%83%B3%E3%83%AD%E3%83%B3%E3%83%91v3-%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E3%82%B3%E3%83%AD%E3%82%B7%E3%82%A2%E3%82%A4%E6%96%B0%E5%AD%A6%E6%9C%9F-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF-%E3%82%B7%E3%83%AD/1288943583?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%80%E3%83%B3%E3%82%AC%E3%83%B3%E3%83%AD%E3%83%B3%E3%83%91v3-%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E3%82%B3%E3%83%AD%E3%82%B7%E3%82%A2%E3%82%A4%E6%96%B0%E5%AD%A6%E6%9C%9F-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF-%E3%82%B7%E3%83%AD/1288943583?uo=4",
           "album_link_url": "https://album.link/i/1288943583"
         }
       ]
@@ -5672,8 +5672,8 @@
       "albums": [
         {
           "album_name": "Date Everything (Official Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/date-everything-official-game-soundtrack/1815781909?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/date-everything-official-game-soundtrack/1815781909?uo=4",
           "album_link_url": "https://album.link/i/1815781909"
         }
       ]
@@ -5686,20 +5686,20 @@
       "albums": [
         {
           "album_name": "Dauntless, Vol. 1 (Official Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/dauntless-vol-1-official-game-soundtrack/1468000250?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/dauntless-vol-1-official-game-soundtrack/1468000250?uo=4",
           "album_link_url": "https://album.link/i/1468000250"
         },
         {
           "album_name": "Dauntless, Vol. 2 (Official Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/dauntless-vol-2-official-game-soundtrack/1535563180?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/dauntless-vol-2-official-game-soundtrack/1535563180?uo=4",
           "album_link_url": "https://album.link/i/1535563180"
         },
         {
           "album_name": "Dauntless, Vol. 3 (Official Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/dauntless-vol-3-official-game-soundtrack/1646471761?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/dauntless-vol-3-official-game-soundtrack/1646471761?uo=4",
           "album_link_url": "https://album.link/i/1646471761"
         }
       ]
@@ -5834,26 +5834,26 @@
       "albums": [
         {
           "album_name": "Beyond Heaven (Live Style Edit) from DEADRISING Deluxe Remaster - Single",
-          "spotify_url": "https://music.apple.com/us/album/beyond-heaven-live-style-edit-from-deadrising-deluxe/1753929966?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/beyond-heaven-live-style-edit-from-deadrising-deluxe/1753929966?uo=4",
           "album_link_url": "https://album.link/i/1753929966"
         },
         {
           "album_name": "DEAD RISING Deluxe Remaster - Ambient & Horror",
-          "spotify_url": "https://music.apple.com/us/album/dead-rising-deluxe-remaster-ambient-horror/1768999561?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/dead-rising-deluxe-remaster-ambient-horror/1768999561?uo=4",
           "album_link_url": "https://album.link/i/1768999561"
         },
         {
           "album_name": "DEAD RISING Deluxe Remaster - Relax & Fun",
-          "spotify_url": "https://music.apple.com/us/album/dead-rising-deluxe-remaster-relax-fun/1769164230?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/dead-rising-deluxe-remaster-relax-fun/1769164230?uo=4",
           "album_link_url": "https://album.link/i/1769164230"
         },
         {
           "album_name": "DEAD RISING Deluxe Remaster - Rock & Alternative",
-          "spotify_url": "https://music.apple.com/us/album/dead-rising-deluxe-remaster-rock-alternative/1768986885?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/dead-rising-deluxe-remaster-rock-alternative/1768986885?uo=4",
           "album_link_url": "https://album.link/i/1768986885"
         }
       ]
@@ -5922,8 +5922,8 @@
       "albums": [
         {
           "album_name": "Dead Static Drive (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/dead-static-drive-original-game-soundtrack/1850755043?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/dead-static-drive-original-game-soundtrack/1850755043?uo=4",
           "album_link_url": "https://album.link/i/1850755043"
         }
       ]
@@ -5978,8 +5978,8 @@
       "albums": [
         {
           "album_name": "Death Howl (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/death-howl-original-game-soundtrack/1858185421?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/death-howl-original-game-soundtrack/1858185421?uo=4",
           "album_link_url": "https://album.link/i/1858185421"
         }
       ]
@@ -6040,8 +6040,8 @@
       "albums": [
         {
           "album_name": "Death's Gambit (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/deaths-gambit-original-soundtrack/1438703795?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/deaths-gambit-original-soundtrack/1438703795?uo=4",
           "album_link_url": "https://album.link/i/1438703795"
         }
       ]
@@ -6120,8 +6120,8 @@
       "albums": [
         {
           "album_name": "Deliver At All Costs (Original Game Soundtrack) [feat. Solid Sounds]",
-          "spotify_url": "https://music.apple.com/us/album/deliver-at-all-costs-original-game-soundtrack-feat/1815771261?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/deliver-at-all-costs-original-game-soundtrack-feat/1815771261?uo=4",
           "album_link_url": "https://album.link/i/1815771261"
         }
       ]
@@ -6220,8 +6220,8 @@
       "albums": [
         {
           "album_name": "Demon Tides (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/demon-tides-original-game-soundtrack/1871532363?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/demon-tides-original-game-soundtrack/1871532363?uo=4",
           "album_link_url": "https://album.link/i/1871532363"
         }
       ]
@@ -6334,20 +6334,20 @@
       "albums": [
         {
           "album_name": "Desperados III, Vol. 1 (Official Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/desperados-iii-vol-1-official-game-soundtrack/1515963792?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/desperados-iii-vol-1-official-game-soundtrack/1515963792?uo=4",
           "album_link_url": "https://album.link/i/1515963792"
         },
         {
           "album_name": "Desperados III, Vol. 2 (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/desperados-iii-vol-2-original-game-soundtrack/1512674121?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/desperados-iii-vol-2-original-game-soundtrack/1512674121?uo=4",
           "album_link_url": "https://album.link/i/1512674121"
         },
         {
           "album_name": "Desperados III, Vol. 3 (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/desperados-iii-vol-3-original-game-soundtrack/1513052160?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/desperados-iii-vol-3-original-game-soundtrack/1513052160?uo=4",
           "album_link_url": "https://album.link/i/1513052160"
         }
       ]
@@ -6598,8 +6598,8 @@
       "albums": [
         {
           "album_name": "Diablo Immortal (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/diablo-immortal-original-soundtrack/1833020944?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/diablo-immortal-original-soundtrack/1833020944?uo=4",
           "album_link_url": "https://album.link/i/1833020944"
         }
       ]
@@ -6916,8 +6916,8 @@
       "albums": [
         {
           "album_name": "DokeV - ROCKSTAR (Original Game Soundtrack) - EP",
-          "spotify_url": "https://music.apple.com/us/album/dokev-rockstar-original-game-soundtrack-ep/1780284348?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/dokev-rockstar-original-game-soundtrack-ep/1780284348?uo=4",
           "album_link_url": "https://album.link/i/1780284348"
         }
       ]
@@ -7112,8 +7112,8 @@
       "albums": [
         {
           "album_name": "Dosa Divas (Original Video Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/dosa-divas-original-video-game-soundtrack/1890991981?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/dosa-divas-original-video-game-soundtrack/1890991981?uo=4",
           "album_link_url": "https://album.link/i/1890991981"
         }
       ]
@@ -7272,8 +7272,8 @@
       "albums": [
         {
           "album_name": "Dragonkin: The Banished (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/dragonkin-the-banished-original-game-soundtrack/1833064565?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/dragonkin-the-banished-original-game-soundtrack/1833064565?uo=4",
           "album_link_url": "https://album.link/i/1833064565"
         }
       ]
@@ -7342,8 +7342,8 @@
       "albums": [
         {
           "album_name": "Driveclub Original Game Soundtrack (Remixes)",
-          "spotify_url": "https://music.apple.com/us/album/driveclub-original-game-soundtrack-remixes/1678587227?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/driveclub-original-game-soundtrack-remixes/1678587227?uo=4",
           "album_link_url": "https://album.link/i/1678587227"
         }
       ]
@@ -7398,14 +7398,14 @@
       "albums": [
         {
           "album_name": "Unwind the Helix of Destiny (Duet Night Abyss Original Soundtrack Vol.1)",
-          "spotify_url": "https://music.apple.com/us/album/unwind-the-helix-of-destiny-duet-night-abyss/1852635266?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/unwind-the-helix-of-destiny-duet-night-abyss/1852635266?uo=4",
           "album_link_url": "https://album.link/i/1852635266"
         },
         {
           "album_name": "Unwind the Helix of Destiny (Duet Night Abyss Original Soundtrack Vol.2)",
-          "spotify_url": "https://music.apple.com/us/album/unwind-the-helix-of-destiny-duet-night-abyss/1853780904?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/unwind-the-helix-of-destiny-duet-night-abyss/1853780904?uo=4",
           "album_link_url": "https://album.link/i/1853780904"
         }
       ]
@@ -7502,14 +7502,14 @@
       "albums": [
         {
           "album_name": "Dustborn (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/dustborn-original-game-soundtrack/1763069973?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/dustborn-original-game-soundtrack/1763069973?uo=4",
           "album_link_url": "https://album.link/i/1763069973"
         },
         {
           "album_name": "Good Ways to Cry (From Dustborn) - Single",
-          "spotify_url": "https://music.apple.com/us/album/good-ways-to-cry-from-dustborn-single/1762847076?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/good-ways-to-cry-from-dustborn-single/1762847076?uo=4",
           "album_link_url": "https://album.link/i/1762847076"
         }
       ]
@@ -7522,8 +7522,8 @@
       "albums": [
         {
           "album_name": "Dwarf Fortress (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/dwarf-fortress-original-game-soundtrack/1656317303?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/dwarf-fortress-original-game-soundtrack/1656317303?uo=4",
           "album_link_url": "https://album.link/i/1656317303"
         }
       ]
@@ -7604,8 +7604,8 @@
       "albums": [
         {
           "album_name": "Dynasty Warriors: Origins + Visions of Four Heroes (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/dynasty-warriors-origins-visions-of-four-heroes/1880302431?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/dynasty-warriors-origins-visions-of-four-heroes/1880302431?uo=4",
           "album_link_url": "https://album.link/i/1880302431"
         }
       ]
@@ -7646,26 +7646,26 @@
       "albums": [
         {
           "album_name": "Easy Delivery Co. 101.7 FM (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/easy-delivery-co-101-7-fm-original-soundtrack/1835977740?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/easy-delivery-co-101-7-fm-original-soundtrack/1835977740?uo=4",
           "album_link_url": "https://album.link/i/1835977740"
         },
         {
           "album_name": "Easy Delivery Co. 101.7 FM Demo Tape (Original Soundtrack) - EP",
-          "spotify_url": "https://music.apple.com/us/album/easy-delivery-co-101-7-fm-demo-tape-original-soundtrack-ep/1836057319?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/easy-delivery-co-101-7-fm-demo-tape-original-soundtrack-ep/1836057319?uo=4",
           "album_link_url": "https://album.link/i/1836057319"
         },
         {
           "album_name": "Easy Delivery Co., Pt.1 (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/easy-delivery-co-pt-1-original-soundtrack/1831383952?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/easy-delivery-co-pt-1-original-soundtrack/1831383952?uo=4",
           "album_link_url": "https://album.link/i/1831383952"
         },
         {
           "album_name": "It's No Problem (Easy Delivery Co. Original Soundtrack) - Single",
-          "spotify_url": "https://music.apple.com/us/album/its-no-problem-easy-delivery-co-original-soundtrack-single/1844623248?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/its-no-problem-easy-delivery-co-original-soundtrack-single/1844623248?uo=4",
           "album_link_url": "https://album.link/i/1844623248"
         }
       ]
@@ -7678,8 +7678,8 @@
       "albums": [
         {
           "album_name": "Eclipsium (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/eclipsium-original-game-soundtrack/1839920175?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/eclipsium-original-game-soundtrack/1839920175?uo=4",
           "album_link_url": "https://album.link/i/1839920175"
         }
       ]
@@ -7706,8 +7706,8 @@
       "albums": [
         {
           "album_name": "Flags of Brave (feat. Sarah Àlainn) - Single",
-          "spotify_url": "https://music.apple.com/us/album/flags-of-brave-feat-sarah-%C3%A0lainn-single/1735360540?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/flags-of-brave-feat-sarah-%C3%A0lainn-single/1735360540?uo=4",
           "album_link_url": "https://album.link/i/1735360540"
         }
       ]
@@ -7886,14 +7886,14 @@
       "albums": [
         {
           "album_name": "Enigma of Fear (Original Sound Track Volume 1)",
-          "spotify_url": "https://music.apple.com/us/album/enigma-of-fear-original-sound-track-volume-1/1786149436?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/enigma-of-fear-original-sound-track-volume-1/1786149436?uo=4",
           "album_link_url": "https://album.link/i/1786149436"
         },
         {
           "album_name": "Enigma of Fear (Original Sound Track Volume 2)",
-          "spotify_url": "https://music.apple.com/us/album/enigma-of-fear-original-sound-track-volume-2/1788319768?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/enigma-of-fear-original-sound-track-volume-2/1788319768?uo=4",
           "album_link_url": "https://album.link/i/1788319768"
         }
       ]
@@ -7920,8 +7920,8 @@
       "albums": [
         {
           "album_name": "Enter the Gungeon (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/enter-the-gungeon-original-soundtrack/1113431896?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/enter-the-gungeon-original-soundtrack/1113431896?uo=4",
           "album_link_url": "https://album.link/i/1113431896"
         }
       ]
@@ -8018,8 +8018,8 @@
       "albums": [
         {
           "album_name": "Esoteric Ebb, Vol. 1 (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/esoteric-ebb-vol-1-original-soundtrack/1882323085?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/esoteric-ebb-vol-1-original-soundtrack/1882323085?uo=4",
           "album_link_url": "https://album.link/i/1882323085"
         }
       ]
@@ -8060,8 +8060,8 @@
       "albums": [
         {
           "album_name": "Europa Universalis V (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/europa-universalis-v-original-game-soundtrack/1819494174?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/europa-universalis-v-original-game-soundtrack/1819494174?uo=4",
           "album_link_url": "https://album.link/i/1819494174"
         }
       ]
@@ -8088,20 +8088,20 @@
       "albums": [
         {
           "album_name": "The EVERSPACE™ 2 (Official Soundtrack) [Expansion Tracks]",
-          "spotify_url": "https://music.apple.com/us/album/the-everspace-2-official-soundtrack-expansion-tracks/1832911450?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/the-everspace-2-official-soundtrack-expansion-tracks/1832911450?uo=4",
           "album_link_url": "https://album.link/i/1832911450"
         },
         {
           "album_name": "The EVERSPACE™ 2, Vol. 1 (Official Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/the-everspace-2-vol-1-official-soundtrack/1832911352?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/the-everspace-2-vol-1-official-soundtrack/1832911352?uo=4",
           "album_link_url": "https://album.link/i/1832911352"
         },
         {
           "album_name": "The EVERSPACE™ 2, Vol. 2 (Official Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/the-everspace-2-vol-2-official-soundtrack/1832910949?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/the-everspace-2-vol-2-official-soundtrack/1832910949?uo=4",
           "album_link_url": "https://album.link/i/1832910949"
         }
       ]
@@ -8128,8 +8128,8 @@
       "albums": [
         {
           "album_name": "Evil Genius 2: World Domination",
-          "spotify_url": "https://music.apple.com/us/album/evil-genius-2-world-domination/1635588885?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/evil-genius-2-world-domination/1635588885?uo=4",
           "album_link_url": "https://album.link/i/1635588885"
         }
       ]
@@ -9174,8 +9174,8 @@
       "albums": [
         {
           "album_name": "Floatlands",
-          "spotify_url": "https://music.apple.com/us/album/floatlands/1381096859?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/floatlands/1381096859?uo=4",
           "album_link_url": "https://album.link/i/1381096859"
         }
       ]
@@ -9544,8 +9544,8 @@
       "albums": [
         {
           "album_name": "Friday the 13th: The Game (Official Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/friday-the-13th-the-game-official-game-soundtrack/1440201796?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/friday-the-13th-the-game-official-game-soundtrack/1440201796?uo=4",
           "album_link_url": "https://album.link/i/1440201796"
         }
       ]
@@ -9564,8 +9564,8 @@
         },
         {
           "album_name": "Frostpunk Expansions (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/frostpunk-expansions-original-soundtrack/1564354484?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/frostpunk-expansions-original-soundtrack/1564354484?uo=4",
           "album_link_url": "https://album.link/i/1564354484"
         }
       ]
@@ -9690,8 +9690,8 @@
       "albums": [
         {
           "album_name": "Garten of Banban 8: Anti Devil (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/garten-of-banban-8-anti-devil-original-game-soundtrack/1836505340?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/garten-of-banban-8-anti-devil-original-game-soundtrack/1836505340?uo=4",
           "album_link_url": "https://album.link/i/1836505340"
         }
       ]
@@ -9970,8 +9970,8 @@
       "albums": [
         {
           "album_name": "Get Even (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/get-even-original-soundtrack/1238451700?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/get-even-original-soundtrack/1238451700?uo=4",
           "album_link_url": "https://album.link/i/1238451700"
         }
       ]
@@ -10040,8 +10040,8 @@
       "albums": [
         {
           "album_name": "Ghost of Yōtei Legends (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/ghost-of-y%C5%8Dtei-legends-original-soundtrack/1887165944?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/ghost-of-y%C5%8Dtei-legends-original-soundtrack/1887165944?uo=4",
           "album_link_url": "https://album.link/i/1887165944"
         }
       ]
@@ -10054,8 +10054,8 @@
       "albums": [
         {
           "album_name": "Ghost Song (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/ghost-song-original-game-soundtrack/1650917141?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/ghost-song-original-game-soundtrack/1650917141?uo=4",
           "album_link_url": "https://album.link/i/1650917141"
         }
       ]
@@ -10068,8 +10068,8 @@
       "albums": [
         {
           "album_name": "Ghostrunner (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/ghostrunner-original-soundtrack/1538078931?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/ghostrunner-original-soundtrack/1538078931?uo=4",
           "album_link_url": "https://album.link/i/1538078931"
         }
       ]
@@ -10326,8 +10326,8 @@
       "albums": [
         {
           "album_name": "Godfall (Music from the Video Game)",
-          "spotify_url": "https://music.apple.com/us/album/godfall-music-from-the-video-game/1537461882?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/godfall-music-from-the-video-game/1537461882?uo=4",
           "album_link_url": "https://album.link/i/1537461882"
         }
       ]
@@ -10424,8 +10424,8 @@
       "albums": [
         {
           "album_name": "Goodnight Universe (Original Video Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/goodnight-universe-original-video-game-soundtrack/1854320361?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/goodnight-universe-original-video-game-soundtrack/1854320361?uo=4",
           "album_link_url": "https://album.link/i/1854320361"
         }
       ]
@@ -10466,8 +10466,8 @@
       "albums": [
         {
           "album_name": "GRAFT - Single",
-          "spotify_url": "https://music.apple.com/us/album/graft-single/1770986832?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/graft-single/1770986832?uo=4",
           "album_link_url": "https://album.link/i/1770986832"
         }
       ]
@@ -10480,14 +10480,14 @@
       "albums": [
         {
           "album_name": "GRAN TURISMO 7 JAZZ SELECTION BEST LAP vol.2(Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/gran-turismo-7-jazz-selection-best-lap-vol-2-soundtrack/1721838566?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/gran-turismo-7-jazz-selection-best-lap-vol-2-soundtrack/1721838566?uo=4",
           "album_link_url": "https://album.link/i/1721838566"
         },
         {
           "album_name": "GRAN TURISMO 7 ORIGINAL SOUNDTRACK BEST LAP vol.1",
-          "spotify_url": "https://music.apple.com/us/album/gran-turismo-7-original-soundtrack-best-lap-vol-1/1721847632?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/gran-turismo-7-original-soundtrack-best-lap-vol-1/1721847632?uo=4",
           "album_link_url": "https://album.link/i/1721847632"
         }
       ]
@@ -10514,8 +10514,8 @@
       "albums": [
         {
           "album_name": "Granblue Fantasy: Relink (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/granblue-fantasy-relink-original-soundtrack/1730691892?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/granblue-fantasy-relink-original-soundtrack/1730691892?uo=4",
           "album_link_url": "https://album.link/i/1730691892"
         }
       ]
@@ -10660,8 +10660,8 @@
       "albums": [
         {
           "album_name": "Gravity Rush 2 (Original Soundtrack Japan Deluxe Edition)",
-          "spotify_url": "https://music.apple.com/us/album/gravity-rush-2-original-soundtrack-japan-deluxe-edition/1251233028?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/gravity-rush-2-original-soundtrack-japan-deluxe-edition/1251233028?uo=4",
           "album_link_url": "https://album.link/i/1251233028"
         }
       ]
@@ -10716,8 +10716,8 @@
       "albums": [
         {
           "album_name": "GreedFall: The Dying World (Complete Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/greedfall-the-dying-world-complete-original-soundtrack/1878676297?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/greedfall-the-dying-world-complete-original-soundtrack/1878676297?uo=4",
           "album_link_url": "https://album.link/i/1878676297"
         }
       ]
@@ -10744,8 +10744,8 @@
       "albums": [
         {
           "album_name": "Grim Dawn (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/grim-dawn-original-soundtrack/839003914?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/grim-dawn-original-soundtrack/839003914?uo=4",
           "album_link_url": "https://album.link/i/839003914"
         }
       ]
@@ -10772,8 +10772,8 @@
       "albums": [
         {
           "album_name": "Grounded 2 (Official Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/grounded-2-official-game-soundtrack/1829671179?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/grounded-2-official-game-soundtrack/1829671179?uo=4",
           "album_link_url": "https://album.link/i/1829671179"
         }
       ]
@@ -10886,14 +10886,14 @@
       "albums": [
         {
           "album_name": "GWENT: the Witcher Card Game (Deluxe) [Original Game Soundtrack]",
-          "spotify_url": "https://music.apple.com/us/album/gwent-the-witcher-card-game-deluxe-original-game/1610779191?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/gwent-the-witcher-card-game-deluxe-original-game/1610779191?uo=4",
           "album_link_url": "https://album.link/i/1610779191"
         },
         {
           "album_name": "GWENT: the Witcher Card Game (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/gwent-the-witcher-card-game-original-game-soundtrack/1445723918?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/gwent-the-witcher-card-game-original-game-soundtrack/1445723918?uo=4",
           "album_link_url": "https://album.link/i/1445723918"
         }
       ]
@@ -10906,8 +10906,8 @@
       "albums": [
         {
           "album_name": "HABROMANIA (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/habromania-original-game-soundtrack/1846580881?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/habromania-original-game-soundtrack/1846580881?uo=4",
           "album_link_url": "https://album.link/i/1846580881"
         }
       ]
@@ -10962,8 +10962,8 @@
       "albums": [
         {
           "album_name": "Hail to the Rainbow (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/hail-to-the-rainbow-original-game-soundtrack/1856182636?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/hail-to-the-rainbow-original-game-soundtrack/1856182636?uo=4",
           "album_link_url": "https://album.link/i/1856182636"
         }
       ]
@@ -11188,8 +11188,8 @@
       "albums": [
         {
           "album_name": "Halo Wars 2 (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/halo-wars-2-original-soundtrack/1682542980?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/halo-wars-2-original-soundtrack/1682542980?uo=4",
           "album_link_url": "https://album.link/i/1682542980"
         }
       ]
@@ -11428,8 +11428,8 @@
       "albums": [
         {
           "album_name": "Haven (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/haven-original-game-soundtrack/1541662378?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/haven-original-game-soundtrack/1541662378?uo=4",
           "album_link_url": "https://album.link/i/1541662378"
         }
       ]
@@ -11516,8 +11516,8 @@
       "albums": [
         {
           "album_name": "Hell Pie (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/hell-pie-original-game-soundtrack/1644145297?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/hell-pie-original-game-soundtrack/1644145297?uo=4",
           "album_link_url": "https://album.link/i/1644145297"
         }
       ]
@@ -11626,8 +11626,8 @@
         },
         {
           "album_name": "Heroes of the Storm (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/heroes-of-the-storm-original-soundtrack/1815478441?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/heroes-of-the-storm-original-soundtrack/1815478441?uo=4",
           "album_link_url": "https://album.link/i/1815478441"
         }
       ]
@@ -11654,8 +11654,8 @@
       "albums": [
         {
           "album_name": "High on Life, Vol. 1 (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/high-on-life-vol-1-original-soundtrack/1665729766?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/high-on-life-vol-1-original-soundtrack/1665729766?uo=4",
           "album_link_url": "https://album.link/i/1665729766"
         }
       ]
@@ -11688,14 +11688,14 @@
       "albums": [
         {
           "album_name": "The Call of Wardens (HIGHGUARD Original Soundtrack Original Soundtrack) [English Version] - Single",
-          "spotify_url": "https://music.apple.com/us/album/the-call-of-wardens-highguard-original/1873364312?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/the-call-of-wardens-highguard-original/1873364312?uo=4",
           "album_link_url": "https://album.link/i/1873364312"
         },
         {
           "album_name": "ウォーデンの呼び声 (HIGHGUARD Original Soundtrack - OST) [Japanese Version] - Single",
-          "spotify_url": "https://music.apple.com/us/album/%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%87%E3%83%B3%E3%81%AE%E5%91%BC%E3%81%B3%E5%A3%B0-highguard-original-soundtrack-ost-japanese/1873365267?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%87%E3%83%B3%E3%81%AE%E5%91%BC%E3%81%B3%E5%A3%B0-highguard-original-soundtrack-ost-japanese/1873365267?uo=4",
           "album_link_url": "https://album.link/i/1873365267"
         }
       ]
@@ -11862,8 +11862,8 @@
       "albums": [
         {
           "album_name": "Homeworld 3 (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/homeworld-3-original-soundtrack/1745081505?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/homeworld-3-original-soundtrack/1745081505?uo=4",
           "album_link_url": "https://album.link/i/1745081505"
         }
       ]
@@ -11946,8 +11946,8 @@
       "albums": [
         {
           "album_name": "Hotel Galactic (Original Early Access Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/hotel-galactic-original-early-access-game-soundtrack/1829093277?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/hotel-galactic-original-early-access-game-soundtrack/1829093277?uo=4",
           "album_link_url": "https://album.link/i/1829093277"
         }
       ]
@@ -11960,8 +11960,8 @@
       "albums": [
         {
           "album_name": "Hotline Miami 2",
-          "spotify_url": "https://music.apple.com/us/album/hotline-miami-2/1217893568?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/hotline-miami-2/1217893568?uo=4",
           "album_link_url": "https://album.link/i/1217893568"
         }
       ]
@@ -12002,8 +12002,8 @@
       "albums": [
         {
           "album_name": "HUMANKIND (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/humankind-original-game-soundtrack/1578911803?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/humankind-original-game-soundtrack/1578911803?uo=4",
           "album_link_url": "https://album.link/i/1578911803"
         }
       ]
@@ -12236,8 +12236,8 @@
       "albums": [
         {
           "album_name": "INDIKA (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/indika-original-game-soundtrack/1769984536?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/indika-original-game-soundtrack/1769984536?uo=4",
           "album_link_url": "https://album.link/i/1769984536"
         }
       ]
@@ -12278,8 +12278,8 @@
       "albums": [
         {
           "album_name": "Industries of Titan Official Soundtrack",
-          "spotify_url": "https://music.apple.com/us/album/industries-of-titan-official-soundtrack/1669069296?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/industries-of-titan-official-soundtrack/1669069296?uo=4",
           "album_link_url": "https://album.link/i/1669069296"
         }
       ]
@@ -12472,14 +12472,14 @@
       "albums": [
         {
           "album_name": "Insurgency: Sandstorm (Original Video Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/insurgency-sandstorm-original-video-game-soundtrack/1708391877?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/insurgency-sandstorm-original-video-game-soundtrack/1708391877?uo=4",
           "album_link_url": "https://album.link/i/1708391877"
         },
         {
           "album_name": "Insurgency: Sandstorm (Original Video Game Soundtrack), Vol. II",
-          "spotify_url": "https://music.apple.com/us/album/insurgency-sandstorm-original-video-game-soundtrack/1783316406?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/insurgency-sandstorm-original-video-game-soundtrack/1783316406?uo=4",
           "album_link_url": "https://album.link/i/1783316406"
         }
       ]
@@ -12520,8 +12520,8 @@
       "albums": [
         {
           "album_name": "Invincible VS (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/invincible-vs-original-game-soundtrack/1884287801?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/invincible-vs-original-game-soundtrack/1884287801?uo=4",
           "album_link_url": "https://album.link/i/1884287801"
         }
       ]
@@ -12596,8 +12596,8 @@
       "albums": [
         {
           "album_name": "Is This Seat Taken? (Original Game Soundtrack) - EP",
-          "spotify_url": "https://music.apple.com/us/album/is-this-seat-taken-original-game-soundtrack-ep/1830248552?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/is-this-seat-taken-original-game-soundtrack-ep/1830248552?uo=4",
           "album_link_url": "https://album.link/i/1830248552"
         }
       ]
@@ -12764,8 +12764,8 @@
       "albums": [
         {
           "album_name": "Jurassic World Evolution (Official Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/jurassic-world-evolution-official-game-soundtrack/1701111795?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/jurassic-world-evolution-official-game-soundtrack/1701111795?uo=4",
           "album_link_url": "https://album.link/i/1701111795"
         }
       ]
@@ -12900,8 +12900,8 @@
       "albums": [
         {
           "album_name": "KILLER INN ORIGINAL SOUNDTRACK Vol. 1",
-          "spotify_url": "https://music.apple.com/us/album/killer-inn-original-soundtrack-vol-1/1872874872?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/killer-inn-original-soundtrack-vol-1/1872874872?uo=4",
           "album_link_url": "https://album.link/i/1872874872"
         }
       ]
@@ -12914,8 +12914,8 @@
       "albums": [
         {
           "album_name": "Killing Floor 2 (Video Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/killing-floor-2-video-game-soundtrack/982942195?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/killing-floor-2-video-game-soundtrack/982942195?uo=4",
           "album_link_url": "https://album.link/i/982942195"
         }
       ]
@@ -13108,8 +13108,8 @@
       "albums": [
         {
           "album_name": "Kingdoms of Amalur: Reckoning (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/kingdoms-of-amalur-reckoning-original-game-soundtrack/1484888625?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/kingdoms-of-amalur-reckoning-original-game-soundtrack/1484888625?uo=4",
           "album_link_url": "https://album.link/i/1484888625"
         }
       ]
@@ -13192,8 +13192,8 @@
       "albums": [
         {
           "album_name": "祇:Path of the Goddess オリジナル・サウンドトラック",
-          "spotify_url": "https://music.apple.com/us/album/%E7%A5%87-path-of-the-goddess-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/1770464357?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/%E7%A5%87-path-of-the-goddess-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/1770464357?uo=4",
           "album_link_url": "https://album.link/i/1770464357"
         }
       ]
@@ -13290,8 +13290,8 @@
       "albums": [
         {
           "album_name": "Last Sentinel: Chapter Green, Vol. 1 (Original Game Soundtrack) - Single",
-          "spotify_url": "https://music.apple.com/us/album/last-sentinel-chapter-green-vol-1-original-game-soundtrack/1885208502?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/last-sentinel-chapter-green-vol-1-original-game-soundtrack/1885208502?uo=4",
           "album_link_url": "https://album.link/i/1885208502"
         }
       ]
@@ -13456,8 +13456,8 @@
       "albums": [
         {
           "album_name": "Legacy of Kain: Soul Reaver - The Dead Shall Rise (Official Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/legacy-of-kain-soul-reaver-the-dead-shall-rise/1871224645?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/legacy-of-kain-soul-reaver-the-dead-shall-rise/1871224645?uo=4",
           "album_link_url": "https://album.link/i/1871224645"
         }
       ]
@@ -13526,8 +13526,8 @@
       "albums": [
         {
           "album_name": "LEGO® Horizon Adventures™ (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/lego-horizon-adventures-original-game-soundtrack/1805638652?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/lego-horizon-adventures-original-game-soundtrack/1805638652?uo=4",
           "album_link_url": "https://album.link/i/1805638652"
         }
       ]
@@ -13602,9 +13602,23 @@
       "albums": [
         {
           "album_name": "Lies of P (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/lies-of-p-original-game-soundtrack/1716825829?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/lies-of-p-original-game-soundtrack/1716825829?uo=4",
           "album_link_url": "https://album.link/i/1716825829"
+        }
+      ]
+    },
+    {
+      "igdb_id": 6580,
+      "game_name": "Life Goes On: Done to Death",
+      "game_url": "https://ostdb.net/games/life-goes-on-done-to-death",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f2d50c27b055582415f79f0b",
+      "albums": [
+        {
+          "album_name": "Life Goes On: Done to Death (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4atlMNxSYSO6JDmpWnXJIC",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -13616,8 +13630,8 @@
       "albums": [
         {
           "album_name": "Life is Strange Before the Storm - Single",
-          "spotify_url": "https://music.apple.com/us/album/life-is-strange-before-the-storm-single/1775015392?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/life-is-strange-before-the-storm-single/1775015392?uo=4",
           "album_link_url": "https://album.link/i/1775015392"
         }
       ]
@@ -13644,8 +13658,8 @@
       "albums": [
         {
           "album_name": "Life is Strange: Reunion (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/life-is-strange-reunion-original-game-soundtrack/1884158728?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/life-is-strange-reunion-original-game-soundtrack/1884158728?uo=4",
           "album_link_url": "https://album.link/i/1884158728"
         }
       ]
@@ -13672,8 +13686,8 @@
       "albums": [
         {
           "album_name": "Like a Dragon: Ishin! Complete Karaoke Songs",
-          "spotify_url": "https://music.apple.com/us/album/like-a-dragon-ishin-complete-karaoke-songs/1656182148?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/like-a-dragon-ishin-complete-karaoke-songs/1656182148?uo=4",
           "album_link_url": "https://album.link/i/1656182148"
         }
       ]
@@ -13770,14 +13784,14 @@
       "albums": [
         {
           "album_name": "Little Kitty Big City (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/little-kitty-big-city-original-soundtrack/1738342035?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/little-kitty-big-city-original-soundtrack/1738342035?uo=4",
           "album_link_url": "https://album.link/i/1738342035"
         },
         {
           "album_name": "Little Kitty, Big City: The Picture Purrfect Update (Original Soundtrack) - EP",
-          "spotify_url": "https://music.apple.com/us/album/little-kitty-big-city-the-picture-purrfect-update/1839317244?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/little-kitty-big-city-the-picture-purrfect-update/1839317244?uo=4",
           "album_link_url": "https://album.link/i/1839317244"
         }
       ]
@@ -13978,8 +13992,8 @@
       "albums": [
         {
           "album_name": "Lords of the Fallen (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/lords-of-the-fallen-original-soundtrack/1745071453?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/lords-of-the-fallen-original-soundtrack/1745071453?uo=4",
           "album_link_url": "https://album.link/i/1745071453"
         }
       ]
@@ -13992,14 +14006,14 @@
       "albums": [
         {
           "album_name": "All That You Are (From \"Lost Ember\") - Single",
-          "spotify_url": "https://music.apple.com/us/album/all-that-you-are-from-lost-ember-single/1268248634?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/all-that-you-are-from-lost-ember-single/1268248634?uo=4",
           "album_link_url": "https://album.link/i/1268248634"
         },
         {
           "album_name": "Lost Ember (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/lost-ember-original-game-soundtrack/1489214612?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/lost-ember-original-game-soundtrack/1489214612?uo=4",
           "album_link_url": "https://album.link/i/1489214612"
         }
       ]
@@ -14026,8 +14040,8 @@
       "albums": [
         {
           "album_name": "Lost in Random: The Eternal Die Official Soundtrack",
-          "spotify_url": "https://music.apple.com/us/album/lost-in-random-the-eternal-die-official-soundtrack/1820923645?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/lost-in-random-the-eternal-die-official-soundtrack/1820923645?uo=4",
           "album_link_url": "https://album.link/i/1820923645"
         }
       ]
@@ -14130,8 +14144,8 @@
       "albums": [
         {
           "album_name": "Lumines Arise (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/lumines-arise-original-soundtrack/1877399644?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/lumines-arise-original-soundtrack/1877399644?uo=4",
           "album_link_url": "https://album.link/i/1877399644"
         }
       ]
@@ -14186,8 +14200,8 @@
       "albums": [
         {
           "album_name": "Luto (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/luto-original-soundtrack/1871913613?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/luto-original-soundtrack/1871913613?uo=4",
           "album_link_url": "https://album.link/i/1871913613"
         }
       ]
@@ -14504,8 +14518,8 @@
       "albums": [
         {
           "album_name": "Marvel's Deadpool VR (Original Video Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/marvels-deadpool-vr-original-video-game-soundtrack/1860107533?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/marvels-deadpool-vr-original-video-game-soundtrack/1860107533?uo=4",
           "album_link_url": "https://album.link/i/1860107533"
         }
       ]
@@ -15226,8 +15240,8 @@
       "albums": [
         {
           "album_name": "Metal Slug Tactics (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/metal-slug-tactics-original-game-soundtrack/1776636935?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/metal-slug-tactics-original-game-soundtrack/1776636935?uo=4",
           "album_link_url": "https://album.link/i/1776636935"
         }
       ]
@@ -15412,8 +15426,8 @@
       "albums": [
         {
           "album_name": "Mindwave Demo Original Game Soundtrack",
-          "spotify_url": "https://music.apple.com/us/album/mindwave-demo-original-game-soundtrack/1830296146?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/mindwave-demo-original-game-soundtrack/1830296146?uo=4",
           "album_link_url": "https://album.link/i/1830296146"
         }
       ]
@@ -15446,56 +15460,56 @@
       "albums": [
         {
           "album_name": "Minecraft Dungeons (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/minecraft-dungeons-original-game-soundtrack/1519531249?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/minecraft-dungeons-original-game-soundtrack/1519531249?uo=4",
           "album_link_url": "https://album.link/i/1519531249"
         },
         {
           "album_name": "Minecraft Dungeons: Creeping Winter (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/minecraft-dungeons-creeping-winter-original-game-soundtrack/1538086136?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/minecraft-dungeons-creeping-winter-original-game-soundtrack/1538086136?uo=4",
           "album_link_url": "https://album.link/i/1538086136"
         },
         {
           "album_name": "Minecraft Dungeons: Echoing Void (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/minecraft-dungeons-echoing-void-original-game-soundtrack/1574850123?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/minecraft-dungeons-echoing-void-original-game-soundtrack/1574850123?uo=4",
           "album_link_url": "https://album.link/i/1574850123"
         },
         {
           "album_name": "Minecraft Dungeons: Flames of the Nether (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/minecraft-dungeons-flames-of-the-nether-original/1554245292?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/minecraft-dungeons-flames-of-the-nether-original/1554245292?uo=4",
           "album_link_url": "https://album.link/i/1554245292"
         },
         {
           "album_name": "Minecraft Dungeons: Hidden Depths (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/minecraft-dungeons-hidden-depths-original-game-soundtrack/1565487180?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/minecraft-dungeons-hidden-depths-original-game-soundtrack/1565487180?uo=4",
           "album_link_url": "https://album.link/i/1565487180"
         },
         {
           "album_name": "Minecraft Dungeons: Howling Peaks (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/minecraft-dungeons-howling-peaks-original-game-soundtrack/1542345851?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/minecraft-dungeons-howling-peaks-original-game-soundtrack/1542345851?uo=4",
           "album_link_url": "https://album.link/i/1542345851"
         },
         {
           "album_name": "Minecraft Dungeons: Jungle Awakens (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/minecraft-dungeons-jungle-awakens-original-game-soundtrack/1519528877?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/minecraft-dungeons-jungle-awakens-original-game-soundtrack/1519528877?uo=4",
           "album_link_url": "https://album.link/i/1519528877"
         },
         {
           "album_name": "Minecraft Dungeons: Seasonal Adventures (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/minecraft-dungeons-seasonal-adventures-original-game/1690806866?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/minecraft-dungeons-seasonal-adventures-original-game/1690806866?uo=4",
           "album_link_url": "https://album.link/i/1690806866"
         },
         {
           "album_name": "Minecraft Dungeons: Ultimate Additions (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/minecraft-dungeons-ultimate-additions-original-game/1582949423?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/minecraft-dungeons-ultimate-additions-original-game/1582949423?uo=4",
           "album_link_url": "https://album.link/i/1582949423"
         }
       ]
@@ -15606,8 +15620,8 @@
       "albums": [
         {
           "album_name": "Mineko's Night Market (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/minekos-night-market-original-game-soundtrack/1736348740?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/minekos-night-market-original-game-soundtrack/1736348740?uo=4",
           "album_link_url": "https://album.link/i/1736348740"
         }
       ]
@@ -15912,8 +15926,8 @@
       "albums": [
         {
           "album_name": "Saru (From Morbid Metal) - Single",
-          "spotify_url": "https://music.apple.com/us/album/saru-from-morbid-metal-single/1840670106?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/saru-from-morbid-metal-single/1840670106?uo=4",
           "album_link_url": "https://album.link/i/1840670106"
         }
       ]
@@ -16248,8 +16262,8 @@
       "albums": [
         {
           "album_name": "Narita Boy",
-          "spotify_url": "https://music.apple.com/us/album/narita-boy/1728859021?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/narita-boy/1728859021?uo=4",
           "album_link_url": "https://album.link/i/1728859021"
         }
       ]
@@ -16430,8 +16444,8 @@
       "albums": [
         {
           "album_name": "Need for Speed Payback (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/need-for-speed-payback-original-game-soundtrack/1513368364?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/need-for-speed-payback-original-game-soundtrack/1513368364?uo=4",
           "album_link_url": "https://album.link/i/1513368364"
         }
       ]
@@ -16576,8 +16590,8 @@
       "albums": [
         {
           "album_name": "Neva Prologue (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/neva-prologue-original-soundtrack/1873035980?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/neva-prologue-original-soundtrack/1873035980?uo=4",
           "album_link_url": "https://album.link/i/1873035980"
         }
       ]
@@ -16782,8 +16796,8 @@
       "albums": [
         {
           "album_name": "Nine Sols (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/nine-sols-original-soundtrack/1753187376?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/nine-sols-original-soundtrack/1753187376?uo=4",
           "album_link_url": "https://album.link/i/1753187376"
         }
       ]
@@ -16824,8 +16838,8 @@
       "albums": [
         {
           "album_name": "仁王 オリジナルサウンドトラック",
-          "spotify_url": "https://music.apple.com/us/album/%E4%BB%81%E7%8E%8B-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/1502226324?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/%E4%BB%81%E7%8E%8B-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/1502226324?uo=4",
           "album_link_url": "https://album.link/i/1502226324"
         }
       ]
@@ -16920,8 +16934,8 @@
       "albums": [
         {
           "album_name": "No Sleep for Kaname Date - from Ai: the Somnium Files (Complete Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/no-sleep-for-kaname-date-from-ai-the-somnium-files/1825527993?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/no-sleep-for-kaname-date-from-ai-the-somnium-files/1825527993?uo=4",
           "album_link_url": "https://album.link/i/1825527993"
         }
       ]
@@ -16976,14 +16990,14 @@
       "albums": [
         {
           "album_name": "Noita, Vol. 1 (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/noita-vol-1-original-game-soundtrack/1481320002?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/noita-vol-1-original-game-soundtrack/1481320002?uo=4",
           "album_link_url": "https://album.link/i/1481320002"
         },
         {
           "album_name": "Noita, Vol. 2 (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/noita-vol-2-original-game-soundtrack/1521670900?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/noita-vol-2-original-game-soundtrack/1521670900?uo=4",
           "album_link_url": "https://album.link/i/1521670900"
         }
       ]
@@ -17038,8 +17052,8 @@
       "albums": [
         {
           "album_name": "OCTOPATH TRAVELER Original Soundtrack",
-          "spotify_url": "https://music.apple.com/us/album/octopath-traveler-original-soundtrack/1406665639?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/octopath-traveler-original-soundtrack/1406665639?uo=4",
           "album_link_url": "https://album.link/i/1406665639"
         }
       ]
@@ -17188,8 +17202,8 @@
       "albums": [
         {
           "album_name": "七日世界 (Original Soundtrack, Pt. 1)",
-          "spotify_url": "https://music.apple.com/us/album/%E4%B8%83%E6%97%A5%E4%B8%96%E7%95%8C-original-soundtrack-pt-1/1756061492?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/%E4%B8%83%E6%97%A5%E4%B8%96%E7%95%8C-original-soundtrack-pt-1/1756061492?uo=4",
           "album_link_url": "https://album.link/i/1756061492"
         }
       ]
@@ -17416,8 +17430,8 @@
       "albums": [
         {
           "album_name": "Outlast II (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/outlast-ii-original-game-soundtrack/1228266432?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/outlast-ii-original-game-soundtrack/1228266432?uo=4",
           "album_link_url": "https://album.link/i/1228266432"
         }
       ]
@@ -17512,26 +17526,26 @@
       "albums": [
         {
           "album_name": "Pacific Drive (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/pacific-drive-original-soundtrack/1745066550?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/pacific-drive-original-soundtrack/1745066550?uo=4",
           "album_link_url": "https://album.link/i/1745066550"
         },
         {
           "album_name": "Pacific Drive Radio Soundtrack Vol. 2",
-          "spotify_url": "https://music.apple.com/us/album/pacific-drive-radio-soundtrack-vol-2/1806119369?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/pacific-drive-radio-soundtrack-vol-2/1806119369?uo=4",
           "album_link_url": "https://album.link/i/1806119369"
         },
         {
           "album_name": "Pacific Drive: Whispers in the Woods (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/pacific-drive-whispers-in-the-woods-original-soundtrack/1888447199?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/pacific-drive-whispers-in-the-woods-original-soundtrack/1888447199?uo=4",
           "album_link_url": "https://album.link/i/1888447199"
         },
         {
           "album_name": "Radio Soundtrack, Vol. 3 (From 'pacific Drive')",
-          "spotify_url": "https://music.apple.com/us/album/radio-soundtrack-vol-3-from-pacific-drive/1881945865?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/radio-soundtrack-vol-3-from-pacific-drive/1881945865?uo=4",
           "album_link_url": "https://album.link/i/1881945865"
         }
       ]
@@ -17758,8 +17772,8 @@
       "albums": [
         {
           "album_name": "Pepper Grinder (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/pepper-grinder-original-soundtrack/1745068247?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/pepper-grinder-original-soundtrack/1745068247?uo=4",
           "album_link_url": "https://album.link/i/1745068247"
         }
       ]
@@ -18216,32 +18230,32 @@
       "albums": [
         {
           "album_name": "Pony Town (Original Game Soundtrack), Vol. 1",
-          "spotify_url": "https://music.apple.com/us/album/pony-town-original-game-soundtrack-vol-1/1554557441?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/pony-town-original-game-soundtrack-vol-1/1554557441?uo=4",
           "album_link_url": "https://album.link/i/1554557441"
         },
         {
           "album_name": "Pony Town (Original Game Soundtrack), Vol. 2",
-          "spotify_url": "https://music.apple.com/us/album/pony-town-original-game-soundtrack-vol-2/1554708589?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/pony-town-original-game-soundtrack-vol-2/1554708589?uo=4",
           "album_link_url": "https://album.link/i/1554708589"
         },
         {
           "album_name": "Pony Town (Original Game Soundtrack), Vol. 3",
-          "spotify_url": "https://music.apple.com/us/album/pony-town-original-game-soundtrack-vol-3/1554895911?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/pony-town-original-game-soundtrack-vol-3/1554895911?uo=4",
           "album_link_url": "https://album.link/i/1554895911"
         },
         {
           "album_name": "Pony Town Bakery update (Original Game Soundtrack) - Single",
-          "spotify_url": "https://music.apple.com/us/album/pony-town-bakery-update-original-game-soundtrack-single/1570454581?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/pony-town-bakery-update-original-game-soundtrack-single/1570454581?uo=4",
           "album_link_url": "https://album.link/i/1570454581"
         },
         {
           "album_name": "Pony Town Library Update (Original Game Soundtrack) - Single",
-          "spotify_url": "https://music.apple.com/us/album/pony-town-library-update-original-game-soundtrack-single/1662381051?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/pony-town-library-update-original-game-soundtrack-single/1662381051?uo=4",
           "album_link_url": "https://album.link/i/1662381051"
         }
       ]
@@ -18314,8 +18328,8 @@
       "albums": [
         {
           "album_name": "POSSESSOR(S) (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/possessor-s-original-soundtrack/1851302948?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/possessor-s-original-soundtrack/1851302948?uo=4",
           "album_link_url": "https://album.link/i/1851302948"
         }
       ]
@@ -18328,14 +18342,14 @@
       "albums": [
         {
           "album_name": "Post Trauma (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/post-trauma-original-soundtrack/1810521799?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/post-trauma-original-soundtrack/1810521799?uo=4",
           "album_link_url": "https://album.link/i/1810521799"
         },
         {
           "album_name": "Post Trauma - Single",
-          "spotify_url": "https://music.apple.com/us/album/post-trauma-single/1774961123?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/post-trauma-single/1774961123?uo=4",
           "album_link_url": "https://album.link/i/1774961123"
         }
       ]
@@ -18502,8 +18516,8 @@
       "albums": [
         {
           "album_name": "Project CARS (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/project-cars-original-soundtrack/1008677481?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/project-cars-original-soundtrack/1008677481?uo=4",
           "album_link_url": "https://album.link/i/1008677481"
         }
       ]
@@ -18516,8 +18530,8 @@
       "albums": [
         {
           "album_name": "Project Songbird (Official Video Game Soundtrack & Dakota's Demos)",
-          "spotify_url": "https://music.apple.com/us/album/project-songbird-official-video-game-soundtrack-dakotas/1890698487?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/project-songbird-official-video-game-soundtrack-dakotas/1890698487?uo=4",
           "album_link_url": "https://album.link/i/1890698487"
         }
       ]
@@ -18736,8 +18750,8 @@
       "albums": [
         {
           "album_name": "Raidou Remastered: the Mystery of the Soulless Army (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/raidou-remastered-the-mystery-of-the-soulless/1818244861?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/raidou-remastered-the-mystery-of-the-soulless/1818244861?uo=4",
           "album_link_url": "https://album.link/i/1818244861"
         }
       ]
@@ -18934,8 +18948,8 @@
       "albums": [
         {
           "album_name": "Ready or Not (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/ready-or-not-original-soundtrack/1755413766?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/ready-or-not-original-soundtrack/1755413766?uo=4",
           "album_link_url": "https://album.link/i/1755413766"
         }
       ]
@@ -19094,8 +19108,8 @@
       "albums": [
         {
           "album_name": "Redfall: Original Game Soundtrack",
-          "spotify_url": "https://music.apple.com/us/album/redfall-original-game-soundtrack/1683192350?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/redfall-original-game-soundtrack/1683192350?uo=4",
           "album_link_url": "https://album.link/i/1683192350"
         }
       ]
@@ -19122,8 +19136,8 @@
       "albums": [
         {
           "album_name": "Relooted (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/relooted-original-soundtrack/1862636303?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/relooted-original-soundtrack/1862636303?uo=4",
           "album_link_url": "https://album.link/i/1862636303"
         }
       ]
@@ -19288,8 +19302,8 @@
       "albums": [
         {
           "album_name": "RESIDENT EVIL 4 (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/resident-evil-4-original-soundtrack/1707997369?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/resident-evil-4-original-soundtrack/1707997369?uo=4",
           "album_link_url": "https://album.link/i/1707997369"
         },
         {
@@ -19536,8 +19550,8 @@
       "albums": [
         {
           "album_name": "Return to Monkey Island (Original Video Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/return-to-monkey-island-original-video-game-soundtrack/1706182743?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/return-to-monkey-island-original-video-game-soundtrack/1706182743?uo=4",
           "album_link_url": "https://album.link/i/1706182743"
         }
       ]
@@ -19550,14 +19564,14 @@
       "albums": [
         {
           "album_name": "Returnal (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/returnal-original-soundtrack/1565460719?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/returnal-original-soundtrack/1565460719?uo=4",
           "album_link_url": "https://album.link/i/1565460719"
         },
         {
           "album_name": "Returnal, Vol. 2 (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/returnal-vol-2-original-soundtrack/1617701697?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/returnal-vol-2-original-soundtrack/1617701697?uo=4",
           "album_link_url": "https://album.link/i/1617701697"
         }
       ]
@@ -19626,8 +19640,8 @@
       "albums": [
         {
           "album_name": "Riders Republic (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/riders-republic-original-game-soundtrack/1590373590?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/riders-republic-original-game-soundtrack/1590373590?uo=4",
           "album_link_url": "https://album.link/i/1590373590"
         }
       ]
@@ -19668,8 +19682,8 @@
       "albums": [
         {
           "album_name": "RiME (Deluxe Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/rime-deluxe-soundtrack/1236238983?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/rime-deluxe-soundtrack/1236238983?uo=4",
           "album_link_url": "https://album.link/i/1236238983"
         }
       ]
@@ -19844,8 +19858,8 @@
       "albums": [
         {
           "album_name": "Riven - The Soundtrack",
-          "spotify_url": "https://music.apple.com/us/album/riven-the-soundtrack/319255281?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/riven-the-soundtrack/319255281?uo=4",
           "album_link_url": "https://album.link/i/319255281"
         }
       ]
@@ -19886,8 +19900,8 @@
       "albums": [
         {
           "album_name": "Robinson: The Journey (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/robinson-the-journey-original-soundtrack/1746292612?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/robinson-the-journey-original-soundtrack/1746292612?uo=4",
           "album_link_url": "https://album.link/i/1746292612"
         }
       ]
@@ -20026,8 +20040,8 @@
       "albums": [
         {
           "album_name": "ロマンシング サガ2 リベンジオブザセブン Original Soundtrack",
-          "spotify_url": "https://music.apple.com/us/album/%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0-%E3%82%B5%E3%82%AC2-%E3%83%AA%E3%83%99%E3%83%B3%E3%82%B8%E3%82%AA%E3%83%96%E3%82%B6%E3%82%BB%E3%83%96%E3%83%B3-original-soundtrack/1773944591?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0-%E3%82%B5%E3%82%AC2-%E3%83%AA%E3%83%99%E3%83%B3%E3%82%B8%E3%82%AA%E3%83%96%E3%82%B6%E3%82%BB%E3%83%96%E3%83%B3-original-soundtrack/1773944591?uo=4",
           "album_link_url": "https://album.link/i/1773944591"
         }
       ]
@@ -20194,8 +20208,8 @@
       "albums": [
         {
           "album_name": "Sable (Original Video Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/sable-original-video-game-soundtrack/1581665050?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/sable-original-video-game-soundtrack/1581665050?uo=4",
           "album_link_url": "https://album.link/i/1581665050"
         }
       ]
@@ -20208,8 +20222,8 @@
       "albums": [
         {
           "album_name": "Saints Row (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/saints-row-original-soundtrack/1660725568?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/saints-row-original-soundtrack/1660725568?uo=4",
           "album_link_url": "https://album.link/i/1660725568"
         }
       ]
@@ -20312,8 +20326,8 @@
       "albums": [
         {
           "album_name": "Satisfactory (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/satisfactory-original-game-soundtrack/1777461781?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/satisfactory-original-game-soundtrack/1777461781?uo=4",
           "album_link_url": "https://album.link/i/1777461781"
         }
       ]
@@ -20326,8 +20340,8 @@
       "albums": [
         {
           "album_name": "SCARLET NEXUS Original Soundtrack",
-          "spotify_url": "https://music.apple.com/us/album/scarlet-nexus-original-soundtrack/1840140122?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/scarlet-nexus-original-soundtrack/1840140122?uo=4",
           "album_link_url": "https://album.link/i/1840140122"
         }
       ]
@@ -20484,8 +20498,8 @@
       "albums": [
         {
           "album_name": "Sea of Solitude (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/sea-of-solitude-original-soundtrack/1470363266?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/sea-of-solitude-original-soundtrack/1470363266?uo=4",
           "album_link_url": "https://album.link/i/1470363266"
         }
       ]
@@ -20536,8 +20550,8 @@
       "albums": [
         {
           "album_name": "SEASON: A letter to the future (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/season-a-letter-to-the-future-original-soundtrack/1668889357?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/season-a-letter-to-the-future-original-soundtrack/1668889357?uo=4",
           "album_link_url": "https://album.link/i/1668889357"
         }
       ]
@@ -20592,8 +20606,8 @@
       "albums": [
         {
           "album_name": "Serious Sam 4 (Video Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/serious-sam-4-video-game-soundtrack/1555315981?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/serious-sam-4-video-game-soundtrack/1555315981?uo=4",
           "album_link_url": "https://album.link/i/1555315981"
         }
       ]
@@ -20718,8 +20732,8 @@
       "albums": [
         {
           "album_name": "Shadow Warrior 3 (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/shadow-warrior-3-original-soundtrack/1745065037?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/shadow-warrior-3-original-soundtrack/1745065037?uo=4",
           "album_link_url": "https://album.link/i/1745065037"
         }
       ]
@@ -21200,8 +21214,8 @@
       "albums": [
         {
           "album_name": "skate. (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/skate-original-soundtrack/1514706097?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/skate-original-soundtrack/1514706097?uo=4",
           "album_link_url": "https://album.link/i/1514706097"
         }
       ]
@@ -21262,8 +21276,8 @@
       "albums": [
         {
           "album_name": "Skydance's BEHEMOTH (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/skydances-behemoth-original-game-soundtrack/1810311737?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/skydances-behemoth-original-game-soundtrack/1810311737?uo=4",
           "album_link_url": "https://album.link/i/1810311737"
         }
       ]
@@ -21360,8 +21374,8 @@
       "albums": [
         {
           "album_name": "Sleep Awake (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/sleep-awake-original-game-soundtrack/1853942095?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/sleep-awake-original-game-soundtrack/1853942095?uo=4",
           "album_link_url": "https://album.link/i/1853942095"
         }
       ]
@@ -21430,8 +21444,8 @@
       "albums": [
         {
           "album_name": "Slitterhead (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/slitterhead-original-game-soundtrack/1784820377?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/slitterhead-original-game-soundtrack/1784820377?uo=4",
           "album_link_url": "https://album.link/i/1784820377"
         }
       ]
@@ -21458,8 +21472,8 @@
       "albums": [
         {
           "album_name": "SMITE 2 (Official Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/smite-2-official-game-soundtrack/1760409404?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/smite-2-official-game-soundtrack/1760409404?uo=4",
           "album_link_url": "https://album.link/i/1760409404"
         }
       ]
@@ -21542,8 +21556,8 @@
       "albums": [
         {
           "album_name": "Solar Ash (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/solar-ash-original-soundtrack/1643125222?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/solar-ash-original-soundtrack/1643125222?uo=4",
           "album_link_url": "https://album.link/i/1643125222"
         }
       ]
@@ -21598,8 +21612,8 @@
       "albums": [
         {
           "album_name": "Somerville (Original Video Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/somerville-original-video-game-soundtrack/1711799339?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/somerville-original-video-game-soundtrack/1711799339?uo=4",
           "album_link_url": "https://album.link/i/1711799339"
         }
       ]
@@ -21818,8 +21832,8 @@
       "albums": [
         {
           "album_name": "Sons Of The Forest (Main Theme) Epic Cover - Single",
-          "spotify_url": "https://music.apple.com/us/album/sons-of-the-forest-main-theme-epic-cover-single/1841096732?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/sons-of-the-forest-main-theme-epic-cover-single/1841096732?uo=4",
           "album_link_url": "https://album.link/i/1841096732"
         }
       ]
@@ -21944,8 +21958,8 @@
       "albums": [
         {
           "album_name": "Space Hulk: Deathwing (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/space-hulk-deathwing-original-soundtrack/1745114592?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/space-hulk-deathwing-original-soundtrack/1745114592?uo=4",
           "album_link_url": "https://album.link/i/1745114592"
         }
       ]
@@ -22066,8 +22080,8 @@
       "albums": [
         {
           "album_name": "Spellbreak (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/spellbreak-original-game-soundtrack/1584226155?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/spellbreak-original-game-soundtrack/1584226155?uo=4",
           "album_link_url": "https://album.link/i/1584226155"
         }
       ]
@@ -22136,8 +22150,8 @@
       "albums": [
         {
           "album_name": "Spyro Reignited Trilogy (Official Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/spyro-reignited-trilogy-official-game-soundtrack/1702933759?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/spyro-reignited-trilogy-official-game-soundtrack/1702933759?uo=4",
           "album_link_url": "https://album.link/i/1702933759"
         }
       ]
@@ -22472,8 +22486,8 @@
       "albums": [
         {
           "album_name": "StarCraft 2: Legacy of the Void Soundtrack",
-          "spotify_url": "https://music.apple.com/us/album/starcraft-2-legacy-of-the-void-soundtrack/1810417351?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/starcraft-2-legacy-of-the-void-soundtrack/1810417351?uo=4",
           "album_link_url": "https://album.link/i/1810417351"
         }
       ]
@@ -22566,8 +22580,8 @@
       "albums": [
         {
           "album_name": "StarRupture (Original Video Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/starrupture-original-video-game-soundtrack/1862484945?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/starrupture-original-video-game-soundtrack/1862484945?uo=4",
           "album_link_url": "https://album.link/i/1862484945"
         }
       ]
@@ -22608,8 +22622,8 @@
       "albums": [
         {
           "album_name": "Steel Seed (Original Game Soundtrack) - Single",
-          "spotify_url": "https://music.apple.com/us/album/steel-seed-original-game-soundtrack-single/1808746968?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/steel-seed-original-game-soundtrack-single/1808746968?uo=4",
           "album_link_url": "https://album.link/i/1808746968"
         }
       ]
@@ -22698,8 +22712,8 @@
       "albums": [
         {
           "album_name": "Still Wakes the Deep (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/still-wakes-the-deep-original-soundtrack/1746500611?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/still-wakes-the-deep-original-soundtrack/1746500611?uo=4",
           "album_link_url": "https://album.link/i/1746500611"
         }
       ]
@@ -22740,8 +22754,8 @@
       "albums": [
         {
           "album_name": "Strange Antiquities (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/strange-antiquities-original-soundtrack/1832578890?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/strange-antiquities-original-soundtrack/1832578890?uo=4",
           "album_link_url": "https://album.link/i/1832578890"
         }
       ]
@@ -22810,8 +22824,8 @@
       "albums": [
         {
           "album_name": "Street Fighter V (Arcade Edition) [Original Soundtrack]",
-          "spotify_url": "https://music.apple.com/us/album/street-fighter-v-arcade-edition-original-soundtrack/1341577409?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/street-fighter-v-arcade-edition-original-soundtrack/1341577409?uo=4",
           "album_link_url": "https://album.link/i/1341577409"
         }
       ]
@@ -22964,8 +22978,8 @@
       "albums": [
         {
           "album_name": "Styx: Blades of Greed (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/styx-blades-of-greed-original-game-soundtrack/1878398482?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/styx-blades-of-greed-original-game-soundtrack/1878398482?uo=4",
           "album_link_url": "https://album.link/i/1878398482"
         }
       ]
@@ -23076,8 +23090,8 @@
       "albums": [
         {
           "album_name": "Suicide Squad: Kill the Justice League (Original Video Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/suicide-squad-kill-the-justice-league-original-video/1725044347?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/suicide-squad-kill-the-justice-league-original-video/1725044347?uo=4",
           "album_link_url": "https://album.link/i/1725044347"
         }
       ]
@@ -23220,8 +23234,8 @@
       "albums": [
         {
           "album_name": "Super Meat Boy Forever (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/super-meat-boy-forever-original-soundtrack/1546648358?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/super-meat-boy-forever-original-soundtrack/1546648358?uo=4",
           "album_link_url": "https://album.link/i/1546648358"
         }
       ]
@@ -23318,8 +23332,8 @@
       "albums": [
         {
           "album_name": "Syberia 3 (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/syberia-3-original-game-soundtrack/1867243966?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/syberia-3-original-game-soundtrack/1867243966?uo=4",
           "album_link_url": "https://album.link/i/1867243966"
         }
       ]
@@ -23374,8 +23388,8 @@
       "albums": [
         {
           "album_name": "Tactical Breach Wizards (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/tactical-breach-wizards-original-game-soundtrack/1769289561?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/tactical-breach-wizards-original-game-soundtrack/1769289561?uo=4",
           "album_link_url": "https://album.link/i/1769289561"
         }
       ]
@@ -23750,8 +23764,8 @@
       "albums": [
         {
           "album_name": "Tempest Rising (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/tempest-rising-original-game-soundtrack/1828806556?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/tempest-rising-original-game-soundtrack/1828806556?uo=4",
           "album_link_url": "https://album.link/i/1828806556"
         }
       ]
@@ -23778,8 +23792,8 @@
       "albums": [
         {
           "album_name": "Terminator Survivors (The Aftermath Trailer soundtrack) - Single",
-          "spotify_url": "https://music.apple.com/us/album/terminator-survivors-the-aftermath-trailer-soundtrack/1738445443?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/terminator-survivors-the-aftermath-trailer-soundtrack/1738445443?uo=4",
           "album_link_url": "https://album.link/i/1738445443"
         }
       ]
@@ -23850,14 +23864,14 @@
       "albums": [
         {
           "album_name": "TETR.IO Holidays 2024 (Original Game Soundtrack) - EP",
-          "spotify_url": "https://music.apple.com/us/album/tetr-io-holidays-2024-original-game-soundtrack-ep/1784924273?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/tetr-io-holidays-2024-original-game-soundtrack-ep/1784924273?uo=4",
           "album_link_url": "https://album.link/i/1784924273"
         },
         {
           "album_name": "Zenith Tower (TETR.IO Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/zenith-tower-tetr-io-original-game-soundtrack/1784168523?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/zenith-tower-tetr-io-original-game-soundtrack/1784168523?uo=4",
           "album_link_url": "https://album.link/i/1784168523"
         }
       ]
@@ -23926,8 +23940,8 @@
       "albums": [
         {
           "album_name": "The Ascent (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/the-ascent-original-game-soundtrack/1826900384?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/the-ascent-original-game-soundtrack/1826900384?uo=4",
           "album_link_url": "https://album.link/i/1826900384"
         }
       ]
@@ -24114,8 +24128,8 @@
       "albums": [
         {
           "album_name": "The Casting of Frank Stone (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/the-casting-of-frank-stone-original-game-soundtrack/1770791616?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/the-casting-of-frank-stone-original-game-soundtrack/1770791616?uo=4",
           "album_link_url": "https://album.link/i/1770791616"
         }
       ]
@@ -24184,8 +24198,8 @@
       "albums": [
         {
           "album_name": "The Crew 2 (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/the-crew-2-original-game-soundtrack/1594441555?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/the-crew-2-original-game-soundtrack/1594441555?uo=4",
           "album_link_url": "https://album.link/i/1594441555"
         }
       ]
@@ -24324,8 +24338,8 @@
       "albums": [
         {
           "album_name": "The Elder Scrolls Online (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/the-elder-scrolls-online-original-game-soundtrack/847627830?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/the-elder-scrolls-online-original-game-soundtrack/847627830?uo=4",
           "album_link_url": "https://album.link/i/847627830"
         },
         {
@@ -24336,8 +24350,8 @@
         },
         {
           "album_name": "The Elder Scrolls Online: Blackwood (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/the-elder-scrolls-online-blackwood-original-game/1571293943?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/the-elder-scrolls-online-blackwood-original-game/1571293943?uo=4",
           "album_link_url": "https://album.link/i/1571293943"
         },
         {
@@ -24354,8 +24368,8 @@
         },
         {
           "album_name": "The Elder Scrolls Online: High Isle (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/the-elder-scrolls-online-high-isle-original-game/1634424577?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/the-elder-scrolls-online-high-isle-original-game/1634424577?uo=4",
           "album_link_url": "https://album.link/i/1634424577"
         },
         {
@@ -24378,8 +24392,8 @@
         },
         {
           "album_name": "The Elder Scrolls Online: Summerset (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/the-elder-scrolls-online-summerset-original-game/1421236503?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/the-elder-scrolls-online-summerset-original-game/1421236503?uo=4",
           "album_link_url": "https://album.link/i/1421236503"
         }
       ]
@@ -24600,8 +24614,8 @@
       "albums": [
         {
           "album_name": "The Forever Winter (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/the-forever-winter-original-game-soundtrack/1770372804?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/the-forever-winter-original-game-soundtrack/1770372804?uo=4",
           "album_link_url": "https://album.link/i/1770372804"
         }
       ]
@@ -24698,8 +24712,8 @@
       "albums": [
         {
           "album_name": "HUNDRED LINE -最終防衛学園- Original Soundtrack",
-          "spotify_url": "https://music.apple.com/us/album/hundred-line-%E6%9C%80%E7%B5%82%E9%98%B2%E8%A1%9B%E5%AD%A6%E5%9C%92-original-soundtrack/1868934594?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/hundred-line-%E6%9C%80%E7%B5%82%E9%98%B2%E8%A1%9B%E5%AD%A6%E5%9C%92-original-soundtrack/1868934594?uo=4",
           "album_link_url": "https://album.link/i/1868934594"
         }
       ]
@@ -25058,8 +25072,8 @@
       "albums": [
         {
           "album_name": "The Medium (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/the-medium-original-game-soundtrack/1746308052?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/the-medium-original-game-soundtrack/1746308052?uo=4",
           "album_link_url": "https://album.link/i/1746308052"
         }
       ]
@@ -25338,8 +25352,8 @@
       "albums": [
         {
           "album_name": "The Rogue Prince of Persia (The Complete Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/the-rogue-prince-of-persia-the-complete-soundtrack/1830448225?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/the-rogue-prince-of-persia-the-complete-soundtrack/1830448225?uo=4",
           "album_link_url": "https://album.link/i/1830448225"
         }
       ]
@@ -25408,14 +25422,14 @@
       "albums": [
         {
           "album_name": "七つの大罪 オリジナル・サウンドトラック",
-          "spotify_url": "https://music.apple.com/us/album/%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/1537790373?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/1537790373?uo=4",
           "album_link_url": "https://album.link/i/1537790373"
         },
         {
           "album_name": "七つの大罪 オリジナル・サウンドトラック 2",
-          "spotify_url": "https://music.apple.com/us/album/%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF-2/1537791355?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/%E4%B8%83%E3%81%A4%E3%81%AE%E5%A4%A7%E7%BD%AA-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF-2/1537791355?uo=4",
           "album_link_url": "https://album.link/i/1537791355"
         }
       ]
@@ -25574,8 +25588,8 @@
       "albums": [
         {
           "album_name": "The Surge 2 (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/the-surge-2-original-game-soundtrack/1571149387?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/the-surge-2-original-game-soundtrack/1571149387?uo=4",
           "album_link_url": "https://album.link/i/1571149387"
         }
       ]
@@ -25658,8 +25672,8 @@
       "albums": [
         {
           "album_name": "The Turing Test (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/the-turing-test-original-game-soundtrack/1149057891?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/the-turing-test-original-game-soundtrack/1149057891?uo=4",
           "album_link_url": "https://album.link/i/1149057891"
         }
       ]
@@ -25998,8 +26012,8 @@
       "albums": [
         {
           "album_name": "Tiny Glade (Original Video Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/tiny-glade-original-video-game-soundtrack/1770531849?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/tiny-glade-original-video-game-soundtrack/1770531849?uo=4",
           "album_link_url": "https://album.link/i/1770531849"
         }
       ]
@@ -26096,14 +26110,14 @@
       "albums": [
         {
           "album_name": "Karma Police (Tom Clancy's Ghost Recon Breakpoint Game: Announce Trailer Cover Song) - Single",
-          "spotify_url": "https://music.apple.com/us/album/karma-police-tom-clancys-ghost-recon-breakpoint-game/1475648408?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/karma-police-tom-clancys-ghost-recon-breakpoint-game/1475648408?uo=4",
           "album_link_url": "https://album.link/i/1475648408"
         },
         {
           "album_name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/tom-clancys-ghost-recon-breakpoint-original-game-soundtrack/1593869909?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/tom-clancys-ghost-recon-breakpoint-original-game-soundtrack/1593869909?uo=4",
           "album_link_url": "https://album.link/i/1593869909"
         }
       ]
@@ -26368,8 +26382,8 @@
       "albums": [
         {
           "album_name": "Towa and the Guardians of the Sacred Tree Original Soundtrack",
-          "spotify_url": "https://music.apple.com/us/album/towa-and-the-guardians-of-the/1843022579?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/towa-and-the-guardians-of-the/1843022579?uo=4",
           "album_link_url": "https://album.link/i/1843022579"
         }
       ]
@@ -26382,8 +26396,8 @@
       "albums": [
         {
           "album_name": "Town to City (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/town-to-city-original-game-soundtrack/1835718039?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/town-to-city-original-game-soundtrack/1835718039?uo=4",
           "album_link_url": "https://album.link/i/1835718039"
         }
       ]
@@ -26396,8 +26410,8 @@
       "albums": [
         {
           "album_name": "Trails in the Sky 1st Chapter Original Soundtrack",
-          "spotify_url": "https://music.apple.com/us/album/trails-in-the-sky-1st-chapter-original-soundtrack/1853770441?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/trails-in-the-sky-1st-chapter-original-soundtrack/1853770441?uo=4",
           "album_link_url": "https://album.link/i/1853770441"
         }
       ]
@@ -26590,20 +26604,20 @@
       "albums": [
         {
           "album_name": "Tropico 6, Vol. 1 (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/tropico-6-vol-1-original-game-soundtrack/1756969401?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/tropico-6-vol-1-original-game-soundtrack/1756969401?uo=4",
           "album_link_url": "https://album.link/i/1756969401"
         },
         {
           "album_name": "Tropico 6, Vol. 2 (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/tropico-6-vol-2-original-game-soundtrack/1767680159?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/tropico-6-vol-2-original-game-soundtrack/1767680159?uo=4",
           "album_link_url": "https://album.link/i/1767680159"
         },
         {
           "album_name": "Tropico 6, Vol. 3 (Original Game Soundtrack) - EP",
-          "spotify_url": "https://music.apple.com/us/album/tropico-6-vol-3-original-game-soundtrack-ep/1767236858?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/tropico-6-vol-3-original-game-soundtrack-ep/1767236858?uo=4",
           "album_link_url": "https://album.link/i/1767236858"
         }
       ]
@@ -26944,14 +26958,14 @@
       "albums": [
         {
           "album_name": "Unicorn Overlord Orchestral Album ~Atlus X Vanillaware Works~",
-          "spotify_url": "https://music.apple.com/us/album/unicorn-overlord-orchestral-album-atlus-x-vanillaware/1815406178?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/unicorn-overlord-orchestral-album-atlus-x-vanillaware/1815406178?uo=4",
           "album_link_url": "https://album.link/i/1815406178"
         },
         {
           "album_name": "ユニコーンオーバーロード オリジナル・サウンドトラック",
-          "spotify_url": "https://music.apple.com/us/album/%E3%83%A6%E3%83%8B%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%89-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/1729313125?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/%E3%83%A6%E3%83%8B%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%89-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/1729313125?uo=4",
           "album_link_url": "https://album.link/i/1729313125"
         }
       ]
@@ -27082,8 +27096,8 @@
       "albums": [
         {
           "album_name": "Untitled Goose Game (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/untitled-goose-game-original-soundtrack/1858300347?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/untitled-goose-game-original-soundtrack/1858300347?uo=4",
           "album_link_url": "https://album.link/i/1858300347"
         }
       ]
@@ -27338,8 +27352,8 @@
       "albums": [
         {
           "album_name": "Vestige of the Past (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/vestige-of-the-past-original-soundtrack/1535312575?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/vestige-of-the-past-original-soundtrack/1535312575?uo=4",
           "album_link_url": "https://album.link/i/1535312575"
         }
       ]
@@ -27394,8 +27408,8 @@
       "albums": [
         {
           "album_name": "Visage (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/visage-original-game-soundtrack/1811122497?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/visage-original-game-soundtrack/1811122497?uo=4",
           "album_link_url": "https://album.link/i/1811122497"
         }
       ]
@@ -27408,8 +27422,8 @@
       "albums": [
         {
           "album_name": "聖剣伝説 VISIONS of MANA Original Soundtrack",
-          "spotify_url": "https://music.apple.com/us/album/%E8%81%96%E5%89%A3%E4%BC%9D%E8%AA%AC-visions-of-mana-original-soundtrack/1765291659?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/%E8%81%96%E5%89%A3%E4%BC%9D%E8%AA%AC-visions-of-mana-original-soundtrack/1765291659?uo=4",
           "album_link_url": "https://album.link/i/1765291659"
         }
       ]
@@ -27634,26 +27648,26 @@
       "albums": [
         {
           "album_name": "Warhammer 40,000: Darktide (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/warhammer-40-000-darktide-original-soundtrack/1745118506?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/warhammer-40-000-darktide-original-soundtrack/1745118506?uo=4",
           "album_link_url": "https://album.link/i/1745118506"
         },
         {
           "album_name": "Warhammer 40,000: Darktide Vol. 2 (Original Soundtrack) - EP",
-          "spotify_url": "https://music.apple.com/us/album/warhammer-40-000-darktide-vol-2-original-soundtrack-ep/1745068273?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/warhammer-40-000-darktide-vol-2-original-soundtrack-ep/1745068273?uo=4",
           "album_link_url": "https://album.link/i/1745068273"
         },
         {
           "album_name": "Warhammer 40,000: Darktide Vol. 3 (Original Soundtrack) - EP",
-          "spotify_url": "https://music.apple.com/us/album/warhammer-40-000-darktide-vol-3-original-soundtrack-ep/1754977418?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/warhammer-40-000-darktide-vol-3-original-soundtrack-ep/1754977418?uo=4",
           "album_link_url": "https://album.link/i/1754977418"
         },
         {
           "album_name": "Warhammer 40,000: Darktide Vol. 4 (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/warhammer-40-000-darktide-vol-4-original-soundtrack/1830302185?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/warhammer-40-000-darktide-vol-4-original-soundtrack/1830302185?uo=4",
           "album_link_url": "https://album.link/i/1830302185"
         }
       ]
@@ -27694,8 +27708,8 @@
       "albums": [
         {
           "album_name": "Warhammer 40,000: Dawn of War III (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/warhammer-40-000-dawn-of-war-iii-original-soundtrack/1745067632?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/warhammer-40-000-dawn-of-war-iii-original-soundtrack/1745067632?uo=4",
           "album_link_url": "https://album.link/i/1745067632"
         }
       ]
@@ -27994,8 +28008,8 @@
       "albums": [
         {
           "album_name": "Weird West (Original Soundtrack) [Weird Wolves Tracks] - EP",
-          "spotify_url": "https://music.apple.com/us/album/weird-west-original-soundtrack-weird-wolves-tracks-ep/1638962974?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/weird-west-original-soundtrack-weird-wolves-tracks-ep/1638962974?uo=4",
           "album_link_url": "https://album.link/i/1638962974"
         }
       ]
@@ -28008,8 +28022,8 @@
       "albums": [
         {
           "album_name": "Werewolf: The Apocalypse - Earthblood (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/werewolf-the-apocalypse-earthblood-original-game/1553795965?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/werewolf-the-apocalypse-earthblood-original-game/1553795965?uo=4",
           "album_link_url": "https://album.link/i/1553795965"
         }
       ]
@@ -28166,8 +28180,8 @@
       "albums": [
         {
           "album_name": "Wildgate (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/wildgate-original-game-soundtrack/1834323015?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/wildgate-original-game-soundtrack/1834323015?uo=4",
           "album_link_url": "https://album.link/i/1834323015"
         }
       ]
@@ -28194,8 +28208,8 @@
       "albums": [
         {
           "album_name": "Windblown (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/windblown-original-game-soundtrack/1848418181?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/windblown-original-game-soundtrack/1848418181?uo=4",
           "album_link_url": "https://album.link/i/1848418181"
         }
       ]
@@ -28236,8 +28250,8 @@
       "albums": [
         {
           "album_name": "Winter Burrow (Original Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/winter-burrow-original-soundtrack/1869190008?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/winter-burrow-original-soundtrack/1869190008?uo=4",
           "album_link_url": "https://album.link/i/1869190008"
         }
       ]
@@ -28292,8 +28306,8 @@
       "albums": [
         {
           "album_name": "Wo Long: Fallen Dynasty オリジナル・サウンドトラック",
-          "spotify_url": "https://music.apple.com/us/album/wo-long-fallen-dynasty-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/1674126497?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/wo-long-fallen-dynasty-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/1674126497?uo=4",
           "album_link_url": "https://album.link/i/1674126497"
         }
       ]
@@ -28306,8 +28320,8 @@
       "albums": [
         {
           "album_name": "Wolcen : Lords of Mayhem (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/wolcen-lords-of-mayhem-original-game-soundtrack/1487371517?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/wolcen-lords-of-mayhem-original-game-soundtrack/1487371517?uo=4",
           "album_link_url": "https://album.link/i/1487371517"
         }
       ]
@@ -28376,8 +28390,8 @@
       "albums": [
         {
           "album_name": "World of Goo 2 (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/world-of-goo-2-original-game-soundtrack/1782984637?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/world-of-goo-2-original-game-soundtrack/1782984637?uo=4",
           "album_link_url": "https://album.link/i/1782984637"
         }
       ]
@@ -28618,14 +28632,14 @@
       "albums": [
         {
           "album_name": "A Decade at Sea (Anniversary Soundtrack Collection)",
-          "spotify_url": "https://music.apple.com/us/album/a-decade-at-sea-anniversary-soundtrack-collection/1865570857?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/a-decade-at-sea-anniversary-soundtrack-collection/1865570857?uo=4",
           "album_link_url": "https://album.link/i/1865570857"
         },
         {
           "album_name": "Composer’s Choice (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/composers-choice-original-game-soundtrack/1574533806?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/composers-choice-original-game-soundtrack/1574533806?uo=4",
           "album_link_url": "https://album.link/i/1574533806"
         }
       ]
@@ -28878,8 +28892,8 @@
       "albums": [
         {
           "album_name": "龍が如く 極3 / 龍が如く3外伝 Dark Ties Original Soundtrack",
-          "spotify_url": "https://music.apple.com/us/album/%E9%BE%8D%E3%81%8C%E5%A6%82%E3%81%8F-%E6%A5%B53-%E9%BE%8D%E3%81%8C%E5%A6%82%E3%81%8F3%E5%A4%96%E4%BC%9D-dark-ties-original-soundtrack/1873461027?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/%E9%BE%8D%E3%81%8C%E5%A6%82%E3%81%8F-%E6%A5%B53-%E9%BE%8D%E3%81%8C%E5%A6%82%E3%81%8F3%E5%A4%96%E4%BC%9D-dark-ties-original-soundtrack/1873461027?uo=4",
           "album_link_url": "https://album.link/i/1873461027"
         }
       ]
@@ -28892,8 +28906,8 @@
       "albums": [
         {
           "album_name": "龍が如く 極3 / 龍が如く3外伝 Dark Ties Original Soundtrack",
-          "spotify_url": "https://music.apple.com/us/album/%E9%BE%8D%E3%81%8C%E5%A6%82%E3%81%8F-%E6%A5%B53-%E9%BE%8D%E3%81%8C%E5%A6%82%E3%81%8F3%E5%A4%96%E4%BC%9D-dark-ties-original-soundtrack/1873461027?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/%E9%BE%8D%E3%81%8C%E5%A6%82%E3%81%8F-%E6%A5%B53-%E9%BE%8D%E3%81%8C%E5%A6%82%E3%81%8F3%E5%A4%96%E4%BC%9D-dark-ties-original-soundtrack/1873461027?uo=4",
           "album_link_url": "https://album.link/i/1873461027"
         }
       ]
@@ -28960,8 +28974,8 @@
       "albums": [
         {
           "album_name": "Yooka-Laylee (Original Game Soundtrack)",
-          "spotify_url": "https://music.apple.com/us/album/yooka-laylee-original-game-soundtrack/1501664719?uo=4",
-          "apple_music_url": null,
+          "spotify_url": "",
+          "apple_music_url": "https://music.apple.com/us/album/yooka-laylee-original-game-soundtrack/1501664719?uo=4",
           "album_link_url": "https://album.link/i/1501664719"
         }
       ]
