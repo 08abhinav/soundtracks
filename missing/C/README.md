@@ -4808,6 +4808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Check vs. Mate: Floating Island DLC | 142984 | [142984-check-vs-mate-floating-island-dlc.json](./142984-check-vs-mate-floating-island-dlc.json) |
 | Check-In | 169134 | [169134-check-in.json](./169134-check-in.json) |
 | Check-In Chaos | 410448 | [410448-check-in-chaos.json](./410448-check-in-chaos.json) |
+| Check, please!: Restaurant Simulator | 174028 | [174028-check-please-restaurant-simulator.json](./174028-check-please-restaurant-simulator.json) |
 | Checked Out | 366136 | [366136-checked-out.json](./366136-checked-out.json) |
 | Checker Connector | 116952 | [116952-checker-connector.json](./116952-checker-connector.json) |
 | Checker King | 92408 | [92408-checker-king.json](./92408-checker-king.json) |
@@ -7010,6 +7011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Island 4 | 88498 | [88498-city-island-4.json](./88498-city-island-4.json) |
 | City Island: Paradise Sim | 181653 | [181653-city-island-paradise-sim.json](./181653-city-island-paradise-sim.json) |
 | City League Softball | 209400 | [209400-city-league-softball.json](./209400-city-league-softball.json) |
+| City Legends: The Curse of the Crimson Shadow - Collector's Edition | 174039 | [174039-city-legends-the-curse-of-the-crimson-shadow-collectors-edition.json](./174039-city-legends-the-curse-of-the-crimson-shadow-collectors-edition.json) |
 | City Legends: The Ghost of Misty Hill - Collector's Edition | 251844 | [251844-city-legends-the-ghost-of-misty-hill-collectors-edition.json](./251844-city-legends-the-ghost-of-misty-hill-collectors-edition.json) |
 | City Legends: The Ghost of Misty Hill - DLC | 252238 | [252238-city-legends-the-ghost-of-misty-hill-dlc.json](./252238-city-legends-the-ghost-of-misty-hill-dlc.json) |
 | City Legends: Trapped In Mirror - Collector's Edition | 212835 | [212835-city-legends-trapped-in-mirror-collectors-edition.json](./212835-city-legends-trapped-in-mirror-collectors-edition.json) |
@@ -9065,6 +9067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color FX Space Invaders | 245534 | [245534-color-fx-space-invaders.json](./245534-color-fx-space-invaders.json) |
 | Color Game | 151295 | [151295-color-game.json](./151295-color-game.json) |
 | Color Guardian | 109407 | [109407-color-guardian.json](./109407-color-guardian.json) |
+| Color Guys | 174047 | [174047-color-guys.json](./174047-color-guys.json) |
 | Color Hero | 116358 | [116358-color-hero.json](./116358-color-hero.json) |
 | Color Hockey | 105510 | [105510-color-hockey.json](./105510-color-hockey.json) |
 | Color Hunt: Number Jigsaw Puzzle | 289810 | [289810-color-hunt-number-jigsaw-puzzle.json](./289810-color-hunt-number-jigsaw-puzzle.json) |
@@ -11715,6 +11718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter-Strike Techno: Zombies | 332267 | [332267-counter-strike-techno-zombies.json](./332267-counter-strike-techno-zombies.json) |
 | Counter-Strike: Source Offensive | 287621 | [287621-counter-strike-source-offensive.json](./287621-counter-strike-source-offensive.json) |
 | Counter-Stroke: Grand Building | 212146 | [212146-counter-stroke-grand-building.json](./212146-counter-stroke-grand-building.json) |
+| Counter-Terrorism Ops | 174025 | [174025-counter-terrorism-ops.json](./174025-counter-terrorism-ops.json) |
 | Counterattack | 256877 | [256877-counterattack.json](./256877-counterattack.json) |
 | CounterAttack | 33278 | [33278-counterattack.json](./33278-counterattack.json) |
 | CounterAttack: Uprising | 268324 | [268324-counterattack-uprising.json](./268324-counterattack-uprising.json) |
@@ -12123,6 +12127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crackinho Beat' em up in the World | 127120 | [127120-crackinho-beat-em-up-in-the-world.json](./127120-crackinho-beat-em-up-in-the-world.json) |
 | Crackle Cradle | 57187 | [57187-crackle-cradle.json](./57187-crackle-cradle.json) |
 | Crackout | 48292 | [48292-crackout.json](./48292-crackout.json) |
+| Cracks | 174015 | [174015-cracks.json](./174015-cracks.json) |
 | Cracks Where the Light Gets In | 245795 | [245795-cracks-where-the-light-gets-in.json](./245795-cracks-where-the-light-gets-in.json) |
 | Crackshot | 183982 | [183982-crackshot.json](./183982-crackshot.json) |
 | Cracksman | 346054 | [346054-cracksman.json](./346054-cracksman.json) |
@@ -13201,6 +13206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminal Profile Who’s the Culprit?! | 403735 | [403735-criminal-profile-who-s-the-culprit.json](./403735-criminal-profile-who-s-the-culprit.json) |
 | Criminal Pursuit Force | 110349 | [110349-criminal-pursuit-force.json](./110349-criminal-pursuit-force.json) |
 | Criminal Run | 40741 | [40741-criminal-run.json](./40741-criminal-run.json) |
+| Criminal Russia | 174027 | [174027-criminal-russia.json](./174027-criminal-russia.json) |
 | Criminal Stories: CSI Episode | 215394 | [215394-criminal-stories-csi-episode.json](./215394-criminal-stories-csi-episode.json) |
 | Criminal Stories: Presumed Partners | 417709 | [417709-criminal-stories-presumed-partners.json](./417709-criminal-stories-presumed-partners.json) |
 | Criminally Overdue | 179055 | [179055-criminally-overdue.json](./179055-criminally-overdue.json) |
@@ -14643,6 +14649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubicolor | 33430 | [33430-cubicolor.json](./33430-cubicolor.json) |
 | Cubicorner | 84096 | [84096-cubicorner.json](./84096-cubicorner.json) |
 | CubicPanic | 98980 | [98980-cubicpanic.json](./98980-cubicpanic.json) |
+| Cubicus | 174046 | [174046-cubicus.json](./174046-cubicus.json) |
 | Cubidle | 311473 | [311473-cubidle.json](./311473-cubidle.json) |
 | Cubie Adventure | 97967 | [97967-cubie-adventure.json](./97967-cubie-adventure.json) |
 | Cubieverse | 297339 | [297339-cubieverse.json](./297339-cubieverse.json) |
