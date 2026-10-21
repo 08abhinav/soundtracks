@@ -5011,6 +5011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bernband | 348252 | [348252-bernband.json](./348252-bernband.json) |
 | Bernie's Nightmare | 105586 | [105586-bernies-nightmare.json](./105586-bernies-nightmare.json) |
 | Berries Challenge | 159830 | [159830-berries-challenge.json](./159830-berries-challenge.json) |
+| Berry | 193250 | [193250-berry.json](./193250-berry.json) |
 | Berry Barrel Blitz | 302766 | [302766-berry-barrel-blitz.json](./302766-berry-barrel-blitz.json) |
 | Berry Bash | 301055 | [301055-berry-bash.json](./301055-berry-bash.json) |
 | Berry Brother | 257662 | [257662-berry-brother.json](./257662-berry-brother.json) |
@@ -10688,6 +10689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Boy! + Box Girl! | 115281 | [115281-box-boy-box-girl.json](./115281-box-boy-box-girl.json) |
 | Box Cats Puzzle | 158928 | [158928-box-cats-puzzle.json](./158928-box-cats-puzzle.json) |
 | Box Cats Puzzle: Cat Year 2022 | 195426 | [195426-box-cats-puzzle-cat-year-2022.json](./195426-box-cats-puzzle-cat-year-2022.json) |
+| Box Cats Puzzle: Halloween | 193122 | [193122-box-cats-puzzle-halloween.json](./193122-box-cats-puzzle-halloween.json) |
 | Box Chaos | 328553 | [328553-box-chaos.json](./328553-box-chaos.json) |
 | Box Clicker | 303058 | [303058-box-clicker.json](./303058-box-clicker.json) |
 | Box Critters | 146293 | [146293-box-critters.json](./146293-box-critters.json) |
@@ -13063,6 +13065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullezine | 266106 | [266106-bullezine.json](./266106-bullezine.json) |
 | Bullfight | 40059 | [40059-bullfight.json](./40059-bullfight.json) |
 | Bullfight Ring no Hasha | 59428 | [59428-bullfight-ring-no-hasha.json](./59428-bullfight-ring-no-hasha.json) |
+| Bullfighter Neon | 193238 | [193238-bullfighter-neon.json](./193238-bullfighter-neon.json) |
 | Bullring | 281373 | [281373-bullring.json](./281373-bullring.json) |
 | Bulls and Bears | 92154 | [92154-bulls-and-bears.json](./92154-bulls-and-bears.json) |
 | Bulls and Cows | 210592 | [210592-bulls-and-cows.json](./210592-bulls-and-cows.json) |
