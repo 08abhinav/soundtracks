@@ -2535,6 +2535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Pachinko | 384212 | [384212-void-pachinko.json](./384212-void-pachinko.json) |
 | Void Phantom | 388256 | [388256-void-phantom.json](./388256-void-phantom.json) |
 | VOID PRIEST | 414163 | [414163-void-priest.json](./414163-void-priest.json) |
+| Void Prison | 199274 | [199274-void-prison.json](./199274-void-prison.json) |
 | Void Protocol | 294505 | [294505-void-protocol.json](./294505-void-protocol.json) |
 | Void Protocol | 346634 | [346634-void-protocol.json](./346634-void-protocol.json) |
 | Void Protocol | 377288 | [377288-void-protocol.json](./377288-void-protocol.json) |
