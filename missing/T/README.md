@@ -8625,6 +8625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Island Castaway: Lost World | 107264 | [107264-the-island-castaway-lost-world.json](./107264-the-island-castaway-lost-world.json) |
 | The Island of Bad Women | 360082 | [360082-the-island-of-bad-women.json](./360082-the-island-of-bad-women.json) |
 | The Island of Dr. Frankenstein | 21784 | [21784-the-island-of-dr-frankenstein.json](./21784-the-island-of-dr-frankenstein.json) |
+| The Island of Dr. Yepstein | 171304 | [171304-the-island-of-dr-yepstein.json](./171304-the-island-of-dr-yepstein.json) |
 | The Island of Kesmai | 344888 | [344888-the-island-of-kesmai.json](./344888-the-island-of-kesmai.json) |
 | The Island of Lost Hope | 73528 | [73528-the-island-of-lost-hope.json](./73528-the-island-of-lost-hope.json) |
 | The Island of Robot Poets | 419870 | [419870-the-island-of-robot-poets.json](./419870-the-island-of-robot-poets.json) |
@@ -8960,6 +8961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XV: Character "Sylvie Paula Paula" | 249759 | [249759-the-king-of-fighters-xv-character-sylvie-paula-paula.json](./249759-the-king-of-fighters-xv-character-sylvie-paula-paula.json) |
 | The King of Fighters XV: Characters - Kim Kaphwan | 243761 | [243761-the-king-of-fighters-xv-characters-kim-kaphwan.json](./243761-the-king-of-fighters-xv-characters-kim-kaphwan.json) |
 | The King of Fighters XV: Characters Mature & Vice | 317839 | [317839-the-king-of-fighters-xv-characters-mature-and-vice.json](./317839-the-king-of-fighters-xv-characters-mature-and-vice.json) |
+| The King of Fighters XV: Day One Edition | 171281 | [171281-the-king-of-fighters-xv-day-one-edition.json](./171281-the-king-of-fighters-xv-day-one-edition.json) |
 | The King of Fighters XV: Deluxe Edition | 172556 | [172556-the-king-of-fighters-xv-deluxe-edition.json](./172556-the-king-of-fighters-xv-deluxe-edition.json) |
 | The King of Fighters XV: DLC Costume "Classic Leona" | 332031 | [332031-the-king-of-fighters-xv-dlc-costume-classic-leona.json](./332031-the-king-of-fighters-xv-dlc-costume-classic-leona.json) |
 | The King of Fighters XV: Omega Edition | 185982 | [185982-the-king-of-fighters-xv-omega-edition.json](./185982-the-king-of-fighters-xv-omega-edition.json) |
@@ -10897,6 +10899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -11949,6 +11952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Renovator | 117070 | [117070-the-renovator.json](./117070-the-renovator.json) |
 | The Renovator: Origins | 193413 | [193413-the-renovator-origins.json](./193413-the-renovator-origins.json) |
 | The Repair House | 234542 | [234542-the-repair-house.json](./234542-the-repair-house.json) |
+| The Repairing Mantis | 171295 | [171295-the-repairing-mantis.json](./171295-the-repairing-mantis.json) |
 | The Report: The Eastwind Creature | 319767 | [319767-the-report-the-eastwind-creature.json](./319767-the-report-the-eastwind-creature.json) |
 | The Reposessor | 71161 | [71161-the-reposessor.json](./71161-the-reposessor.json) |
 | The Repossessor | 81338 | [81338-the-repossessor.json](./81338-the-repossessor.json) |
@@ -25180,6 +25184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TV Manager 2: Premium version | 24733 | [24733-tv-manager-2-premium-version.json](./24733-tv-manager-2-premium-version.json) |
 | TV Night | 177800 | [177800-tv-night.json](./177800-tv-night.json) |
 | TV no Himitsu: Gyoukai Aruaru wo Sagase! | 251627 | [251627-tv-no-himitsu-gyoukai-aruaru-wo-sagase.json](./251627-tv-no-himitsu-gyoukai-aruaru-wo-sagase.json) |
+| TV Pinball | 171267 | [171267-tv-pinball.json](./171267-tv-pinball.json) |
 | TV School House II: Math Fun | 94125 | [94125-tv-school-house-ii-math-fun.json](./94125-tv-school-house-ii-math-fun.json) |
 | TV Show King | 21825 | [21825-tv-show-king.json](./21825-tv-show-king.json) |
 | TV Show King 2 | 50724 | [50724-tv-show-king-2.json](./50724-tv-show-king-2.json) |
