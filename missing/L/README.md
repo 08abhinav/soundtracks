@@ -5622,6 +5622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loong: The Power of the Dragon | 23526 | [23526-loong-the-power-of-the-dragon.json](./23526-loong-the-power-of-the-dragon.json) |
 | Loonicycle | 366569 | [366569-loonicycle.json](./366569-loonicycle.json) |
 | Loonies 8192 | 175654 | [175654-loonies-8192.json](./175654-loonies-8192.json) |
+| Loonies Puzzle | 194180 | [194180-loonies-puzzle.json](./194180-loonies-puzzle.json) |
 | Loonley Toons Run | 105767 | [105767-loonley-toons-run.json](./105767-loonley-toons-run.json) |
 | Loony | 197934 | [197934-loony.json](./197934-loony.json) |
 | Loony Balloon | 41543 | [41543-loony-balloon.json](./41543-loony-balloon.json) |
