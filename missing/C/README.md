@@ -4358,6 +4358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Changes | 23934 | [23934-changes.json](./23934-changes.json) |
 | changeType() | 201128 | [201128-changetype.json](./201128-changetype.json) |
 | Chánggē Xíng | 129094 | [129094-changge-xing.json](./129094-changge-xing.json) |
+| Changkabang! | 203651 | [203651-changkabang.json](./203651-changkabang.json) |
 | Channel 3 | 276042 | [276042-channel-3.json](./276042-channel-3.json) |
 | Channel 4 Midnight | 385434 | [385434-channel-4-midnight.json](./385434-channel-4-midnight.json) |
 | Channel 51 | 372282 | [372282-channel-51.json](./372282-channel-51.json) |
