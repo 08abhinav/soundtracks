@@ -12571,6 +12571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire + | 93826 | [93826-solitaire.json](./93826-solitaire.json) |
 | Solitaire 220 Plus | 31102 | [31102-solitaire-220-plus.json](./31102-solitaire-220-plus.json) |
 | Solitaire 3D | 89738 | [89738-solitaire-3d.json](./89738-solitaire-3d.json) |
+| Solitaire Adventure: The Resurrection of Faneruel | 174543 | [174543-solitaire-adventure-the-resurrection-of-faneruel.json](./174543-solitaire-adventure-the-resurrection-of-faneruel.json) |
 | Solitaire After Hours | 386147 | [386147-solitaire-after-hours.json](./386147-solitaire-after-hours.json) |
 | Solitaire Antics Deluxe | 68906 | [68906-solitaire-antics-deluxe.json](./68906-solitaire-antics-deluxe.json) |
 | Solitaire Antics Ultimate | 208876 | [208876-solitaire-antics-ultimate.json](./208876-solitaire-antics-ultimate.json) |
@@ -14798,6 +14799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Expedition | 146100 | [146100-space-expedition.json](./146100-space-expedition.json) |
 | Space Explore VR | 318276 | [318276-space-explore-vr.json](./318276-space-explore-vr.json) |
 | Space Explorer Iyo!! | 180513 | [180513-space-explorer-iyo.json](./180513-space-explorer-iyo.json) |
+| Space Explorers | 174549 | [174549-space-explorers.json](./174549-space-explorers.json) |
 | Space Explorers: Lunar Mission | 214477 | [214477-space-explorers-lunar-mission.json](./214477-space-explorers-lunar-mission.json) |
 | Space Explorers: Red Planet | 207117 | [207117-space-explorers-red-planet.json](./207117-space-explorers-red-planet.json) |
 | Space Explorers: Reload | 105250 | [105250-space-explorers-reload.json](./105250-space-explorers-reload.json) |
@@ -14906,6 +14908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hauler | 182800 | [182800-space-hauler.json](./182800-space-hauler.json) |
 | Space Haven | 103246 | [103246-space-haven.json](./103246-space-haven.json) |
 | Space Hawks | 13035 | [13035-space-hawks.json](./13035-space-hawks.json) |
+| Space Hero 50 | 174569 | [174569-space-hero-50.json](./174569-space-hero-50.json) |
 | Space Hero Line | 43518 | [43518-space-hero-line.json](./43518-space-hero-line.json) |
 | Space Hexcite: Maetel Legend EX | 49808 | [49808-space-hexcite-maetel-legend-ex.json](./49808-space-hexcite-maetel-legend-ex.json) |
 | Space Hitchhiker Stop | 360563 | [360563-space-hitchhiker-stop.json](./360563-space-hitchhiker-stop.json) |
@@ -15147,6 +15150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Pilot Alliance | 182834 | [182834-space-pilot-alliance.json](./182834-space-pilot-alliance.json) |
 | Space Pinball | 50595 | [50595-space-pinball.json](./50595-space-pinball.json) |
 | Space Pirate Trainer | 34041 | [34041-space-pirate-trainer.json](./34041-space-pirate-trainer.json) |
+| Space Pirate Trainer DX | 174556 | [174556-space-pirate-trainer-dx.json](./174556-space-pirate-trainer-dx.json) |
 | Space Pirates | 176837 | [176837-space-pirates.json](./176837-space-pirates.json) |
 | Space Pirates for Life | 241390 | [241390-space-pirates-for-life.json](./241390-space-pirates-for-life.json) |
 | Space Pizza | 263920 | [263920-space-pizza.json](./263920-space-pizza.json) |
@@ -16368,6 +16372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SphereFace | 28749 | [28749-sphereface.json](./28749-sphereface.json) |
 | SphereKnight | 109484 | [109484-sphereknight.json](./109484-sphereknight.json) |
 | Sphereout | 250382 | [250382-sphereout.json](./250382-sphereout.json) |
+| Spheres | 174551 | [174551-spheres.json](./174551-spheres.json) |
 | Spheres Episode 1: Nalong | 145609 | [145609-spheres-episode-1-nalong.json](./145609-spheres-episode-1-nalong.json) |
 | Spheres of Chaos | 13245 | [13245-spheres-of-chaos.json](./13245-spheres-of-chaos.json) |
 | Spheres: The Ancient Fuses | 118335 | [118335-spheres-the-ancient-fuses.json](./118335-spheres-the-ancient-fuses.json) |
