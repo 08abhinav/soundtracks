@@ -1339,6 +1339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garage: Bad Dream Adventure | 152048 | [152048-garage-bad-dream-adventure.json](./152048-garage-bad-dream-adventure.json) |
 | Garage: Bad Dream Adventure | 24947 | [24947-garage-bad-dream-adventure.json](./24947-garage-bad-dream-adventure.json) |
 | Garage: Tidy Up! | 414762 | [414762-garage-tidy-up.json](./414762-garage-tidy-up.json) |
+| Garage: Vamp | 197559 | [197559-garage-vamp.json](./197559-garage-vamp.json) |
 | Garagem SA | 345628 | [345628-garagem-sa.json](./345628-garagem-sa.json) |
 | Garaji | 415414 | [415414-garaji.json](./415414-garaji.json) |
 | Garaku Tale | 122882 | [122882-garaku-tale.json](./122882-garaku-tale.json) |
@@ -8277,6 +8278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunmetal Gothic | 252581 | [252581-gunmetal-gothic.json](./252581-gunmetal-gothic.json) |
 | GunNail | 39837 | [39837-gunnail.json](./39837-gunnail.json) |
 | Gunnel Vision | 305993 | [305993-gunnel-vision.json](./305993-gunnel-vision.json) |
+| Gunner | 197555 | [197555-gunner.json](./197555-gunner.json) |
 | Gunner 2 | 54073 | [54073-gunner-2.json](./54073-gunner-2.json) |
 | Gunner 3 | 259821 | [259821-gunner-3.json](./259821-gunner-3.json) |
 | Gunner 3 | 87808 | [87808-gunner-3.json](./87808-gunner-3.json) |
