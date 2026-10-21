@@ -1470,6 +1470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warpie | 188034 | [188034-warpie.json](./188034-warpie.json) |
 | Warpin: Creation (VR) | 30724 | [30724-warpin-creation-vr.json](./30724-warpin-creation-vr.json) |
 | Warpips | 146438 | [146438-warpips.json](./146438-warpips.json) |
+| Warpitout | 172412 | [172412-warpitout.json](./172412-warpitout.json) |
 | WarPlan | 125460 | [125460-warplan.json](./125460-warplan.json) |
 | WarPlan Pacific | 143426 | [143426-warplan-pacific.json](./143426-warplan-pacific.json) |
 | Warplane Inc. | 152801 | [152801-warplane-inc.json](./152801-warplane-inc.json) |
@@ -6278,6 +6279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Outlaws: Sprint Cars 2002 | 23474 | [23474-world-of-outlaws-sprint-cars-2002.json](./23474-world-of-outlaws-sprint-cars-2002.json) |
 | World of Padman | 51251 | [51251-world-of-padman.json](./51251-world-of-padman.json) |
 | World of Paranoia | 167292 | [167292-world-of-paranoia.json](./167292-world-of-paranoia.json) |
+| World of Pets | 172381 | [172381-world-of-pets.json](./172381-world-of-pets.json) |
 | World of Pets: Multiplayer | 174593 | [174593-world-of-pets-multiplayer.json](./174593-world-of-pets-multiplayer.json) |
 | World of Pool | 45995 | [45995-world-of-pool.json](./45995-world-of-pool.json) |
 | World of Radiance: The Girl in the Shadows | 403075 | [403075-world-of-radiance-the-girl-in-the-shadows.json](./403075-world-of-radiance-the-girl-in-the-shadows.json) |
