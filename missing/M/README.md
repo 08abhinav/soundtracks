@@ -1669,6 +1669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mail Tail | 236932 | [236932-mail-tail.json](./236932-mail-tail.json) |
 | Mail Time + Cat Cafe Manager | 357023 | [357023-mail-time-cat-cafe-manager.json](./357023-mail-time-cat-cafe-manager.json) |
 | Mail To The Moon | 362336 | [362336-mail-to-the-moon.json](./362336-mail-to-the-moon.json) |
+| Mailbag for a Tattered Nation | 202607 | [202607-mailbag-for-a-tattered-nation.json](./202607-mailbag-for-a-tattered-nation.json) |
 | Mailbag Mayhem | 62191 | [62191-mailbag-mayhem.json](./62191-mailbag-mayhem.json) |
 | Mailfrog | 178040 | [178040-mailfrog.json](./178040-mailfrog.json) |
 | MailPop | 249070 | [249070-mailpop.json](./249070-mailpop.json) |
@@ -2377,6 +2378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mannequin Syndrome | 345853 | [345853-mannequin-syndrome.json](./345853-mannequin-syndrome.json) |
 | Mannequin The Spotting | 255690 | [255690-mannequin-the-spotting.json](./255690-mannequin-the-spotting.json) |
 | Manners Be Damned! | 330900 | [330900-manners-be-damned.json](./330900-manners-be-damned.json) |
+| Manny Boxing VR | 202634 | [202634-manny-boxing-vr.json](./202634-manny-boxing-vr.json) |
 | Manny's | 260528 | [260528-mannys.json](./260528-mannys.json) |
 | Manny's 2 | 329018 | [329018-mannys-2.json](./329018-mannys-2.json) |
 | Manny's Mechanical Emporium | 224679 | [224679-mannys-mechanical-emporium.json](./224679-mannys-mechanical-emporium.json) |
@@ -5202,6 +5204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechwarrior 5: Clans - Ghost Bear Flash Storm | 345013 | [345013-mechwarrior-5-clans-ghost-bear-flash-storm.json](./345013-mechwarrior-5-clans-ghost-bear-flash-storm.json) |
 | MechWarrior 5: Clans - Trials of War | 402397 | [402397-mechwarrior-5-clans-trials-of-war.json](./402397-mechwarrior-5-clans-trials-of-war.json) |
 | Mechwarrior 5: Clans - Wolves of Tukayyid | 377889 | [377889-mechwarrior-5-clans-wolves-of-tukayyid.json](./377889-mechwarrior-5-clans-wolves-of-tukayyid.json) |
+| MechWarrior 5: Mercenaries - Call to Arms | 202533 | [202533-mechwarrior-5-mercenaries-call-to-arms.json](./202533-mechwarrior-5-mercenaries-call-to-arms.json) |
 | MechWarrior 5: Mercenaries - Chaos Reign | 402396 | [402396-mechwarrior-5-mercenaries-chaos-reign.json](./402396-mechwarrior-5-mercenaries-chaos-reign.json) |
 | MechWarrior 5: Mercenaries - Dropship Collection | 154618 | [154618-mechwarrior-5-mercenaries-dropship-collection.json](./154618-mechwarrior-5-mercenaries-dropship-collection.json) |
 | MechWarrior 5: Mercenaries - Heroes of the Inner Sphere | 154619 | [154619-mechwarrior-5-mercenaries-heroes-of-the-inner-sphere.json](./154619-mechwarrior-5-mercenaries-heroes-of-the-inner-sphere.json) |
@@ -6242,6 +6245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megami Ibunroku Persona Digital Collection | 263596 | [263596-megami-ibunroku-persona-digital-collection.json](./263596-megami-ibunroku-persona-digital-collection.json) |
 | Megami Meguri | 222529 | [222529-megami-meguri.json](./222529-megami-meguri.json) |
 | Megami no Etsubo | 122926 | [122926-megami-no-etsubo.json](./122926-megami-no-etsubo.json) |
+| Megami Quest 2 | 202606 | [202606-megami-quest-2.json](./202606-megami-quest-2.json) |
 | Megami Tensei Gaiden: Last Bible | 225584 | [225584-megami-tensei-gaiden-last-bible.json](./225584-megami-tensei-gaiden-last-bible.json) |
 | Megami Tensei Gaiden: Last Bible | 49830 | [49830-megami-tensei-gaiden-last-bible.json](./49830-megami-tensei-gaiden-last-bible.json) |
 | Megami Tensei Gaiden: Last Bible II | 265053 | [265053-megami-tensei-gaiden-last-bible-ii.json](./265053-megami-tensei-gaiden-last-bible-ii.json) |
@@ -7055,6 +7059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge AirPlane | 227501 | [227501-merge-airplane.json](./227501-merge-airplane.json) |
 | Merge Archers: Bow and Arrow | 245687 | [245687-merge-archers-bow-and-arrow.json](./245687-merge-archers-bow-and-arrow.json) |
 | Merge Battle | 102592 | [102592-merge-battle.json](./102592-merge-battle.json) |
+| Merge Beasts: Defense Game | 202622 | [202622-merge-beasts-defense-game.json](./202622-merge-beasts-defense-game.json) |
 | Merge Bistro | 248103 | [248103-merge-bistro.json](./248103-merge-bistro.json) |
 | Merge Blast | 221090 | [221090-merge-blast.json](./221090-merge-blast.json) |
 | Merge Block Puzzle | 306541 | [306541-merge-block-puzzle.json](./306541-merge-block-puzzle.json) |
@@ -15770,6 +15775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Many Masks | 422468 | [422468-my-many-masks.json](./422468-my-many-masks.json) |
 | My Mario Game | 335715 | [335715-my-mario-game.json](./335715-my-mario-game.json) |
 | My Mart | 420668 | [420668-my-mart.json](./420668-my-mart.json) |
+| My Master's A Moron | 202626 | [202626-my-masters-a-moron.json](./202626-my-masters-a-moron.json) |
 | My Mates | 346244 | [346244-my-mates.json](./346244-my-mates.json) |
 | My Melody & Kuromi no Machigai Sagashi | 286950 | [286950-my-melody-and-kuromi-no-machigai-sagashi.json](./286950-my-melody-and-kuromi-no-machigai-sagashi.json) |
 | My Melody Angel Book: Denshi Techou & Enjoy Game | 196254 | [196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json](./196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json) |
