@@ -1233,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer: Chaosbane - Magnus Edition | 115065 | [115065-warhammer-chaosbane-magnus-edition.json](./115065-warhammer-chaosbane-magnus-edition.json) |
 | Warhammer: Chaosbane - Slayer Edition | 139948 | [139948-warhammer-chaosbane-slayer-edition.json](./139948-warhammer-chaosbane-slayer-edition.json) |
 | Warhammer: Chaosbane - Tomb Kings | 154602 | [154602-warhammer-chaosbane-tomb-kings.json](./154602-warhammer-chaosbane-tomb-kings.json) |
+| Warhammer: Chaosbane - Witch Hunter | 171806 | [171806-warhammer-chaosbane-witch-hunter.json](./171806-warhammer-chaosbane-witch-hunter.json) |
 | Warhammer: Doomwheel | 98025 | [98025-warhammer-doomwheel.json](./98025-warhammer-doomwheel.json) |
 | Warhammer: End Times - Vermintide Collector's Edition | 53139 | [53139-warhammer-end-times-vermintide-collectors-edition.json](./53139-warhammer-end-times-vermintide-collectors-edition.json) |
 | Warhammer: End Times - Vermintide Death on the Reik | 148715 | [148715-warhammer-end-times-vermintide-death-on-the-reik.json](./148715-warhammer-end-times-vermintide-death-on-the-reik.json) |
@@ -3047,7 +3048,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
-| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -4066,6 +4066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West VR | 104075 | [104075-wild-west-vr.json](./104075-wild-west-vr.json) |
 | Wild West Wendy | 73560 | [73560-wild-west-wendy.json](./73560-wild-west-wendy.json) |
 | Wild West World | 73529 | [73529-wild-west-world.json](./73529-wild-west-world.json) |
+| Wild West Z | 171812 | [171812-wild-west-z.json](./171812-wild-west-z.json) |
 | Wild West: Hidden Object Games | 233454 | [233454-wild-west-hidden-object-games.json](./233454-wild-west-hidden-object-games.json) |
 | Wild West: The Last Cowboy | 372534 | [372534-wild-west-the-last-cowboy.json](./372534-wild-west-the-last-cowboy.json) |
 | Wild Western | 18060 | [18060-wild-western.json](./18060-wild-western.json) |
@@ -4191,6 +4192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WildStandZ | 357405 | [357405-wildstandz.json](./357405-wildstandz.json) |
 | WildTrax & Hypercar Bundle | 410842 | [410842-wildtrax-and-hypercar-bundle.json](./410842-wildtrax-and-hypercar-bundle.json) |
 | WildTrax Racing | 147761 | [147761-wildtrax-racing.json](./147761-wildtrax-racing.json) |
+| Wildwood | 171855 | [171855-wildwood.json](./171855-wildwood.json) |
 | Wildwood | 279754 | [279754-wildwood.json](./279754-wildwood.json) |
 | Wildwood Down | 264519 | [264519-wildwood-down.json](./264519-wildwood-down.json) |
 | Wildwood: Graveyard Defense | 217539 | [217539-wildwood-graveyard-defense.json](./217539-wildwood-graveyard-defense.json) |
