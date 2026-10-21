@@ -7076,6 +7076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet's Edge | 14422 | [14422-planets-edge.json](./14422-planets-edge.json) |
 | Planeta | 158054 | [158054-planeta.json](./158054-planeta.json) |
 | Planeta 55 | 244169 | [244169-planeta-55.json](./244169-planeta-55.json) |
+| Planeta Dollynho | 181570 | [181570-planeta-dollynho.json](./181570-planeta-dollynho.json) |
 | Planetarian | 44468 | [44468-planetarian.json](./44468-planetarian.json) |
 | Planetarian HD | 28685 | [28685-planetarian-hd.json](./28685-planetarian-hd.json) |
 | Planetarian: The Reverie of a Little Planet & Snow Globe | 303870 | [303870-planetarian-the-reverie-of-a-little-planet-and-snow-globe.json](./303870-planetarian-the-reverie-of-a-little-planet-and-snow-globe.json) |
@@ -7944,6 +7945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket RPG | 61075 | [61075-pocket-rpg.json](./61075-pocket-rpg.json) |
 | Pocket Rumble | 27534 | [27534-pocket-rumble.json](./27534-pocket-rumble.json) |
 | Pocket Runners | 97264 | [97264-pocket-runners.json](./97264-pocket-runners.json) |
+| Pocket Sheep | 181588 | [181588-pocket-sheep.json](./181588-pocket-sheep.json) |
 | Pocket Shooter Hardcore | 57691 | [57691-pocket-shooter-hardcore.json](./57691-pocket-shooter-hardcore.json) |
 | Pocket Size Epoch-Man | 284221 | [284221-pocket-size-epoch-man.json](./284221-pocket-size-epoch-man.json) |
 | Pocket Skate | 214020 | [214020-pocket-skate.json](./214020-pocket-skate.json) |
