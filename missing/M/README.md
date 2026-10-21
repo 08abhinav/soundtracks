@@ -12768,6 +12768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moorhuhn Combat | 144596 | [144596-moorhuhn-combat.json](./144596-moorhuhn-combat.json) |
 | Moorhuhn Deluxe | 144593 | [144593-moorhuhn-deluxe.json](./144593-moorhuhn-deluxe.json) |
 | Moorhuhn in Südafrika | 282543 | [282543-moorhuhn-in-sudafrika.json](./282543-moorhuhn-in-sudafrika.json) |
+| Moorhuhn Jump and Run: Traps and Treasures | 187093 | [187093-moorhuhn-jump-and-run-traps-and-treasures.json](./187093-moorhuhn-jump-and-run-traps-and-treasures.json) |
 | Moorhuhn Jump and Run: Traps and Treasures 2 | 196642 | [196642-moorhuhn-jump-and-run-traps-and-treasures-2.json](./196642-moorhuhn-jump-and-run-traps-and-treasures-2.json) |
 | Moorhuhn Jump and Run: Traps and Treasures 3 | 320462 | [320462-moorhuhn-jump-and-run-traps-and-treasures-3.json](./320462-moorhuhn-jump-and-run-traps-and-treasures-3.json) |
 | Moorhuhn Kart | 47070 | [47070-moorhuhn-kart.json](./47070-moorhuhn-kart.json) |
@@ -16348,6 +16349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysteria ~Occult Shadows~ | 108626 | [108626-mysteria-occult-shadows.json](./108626-mysteria-occult-shadows.json) |
 | Mysteria of the World: The Forest of Death | 188950 | [188950-mysteria-of-the-world-the-forest-of-death.json](./188950-mysteria-of-the-world-the-forest-of-death.json) |
 | Mysteries & Nightmares: Morgiana | 35445 | [35445-mysteries-and-nightmares-morgiana.json](./35445-mysteries-and-nightmares-morgiana.json) |
+| Mysteries of Darkness | 187120 | [187120-mysteries-of-darkness.json](./187120-mysteries-of-darkness.json) |
 | Mysteries of Fence | 52086 | [52086-mysteries-of-fence.json](./52086-mysteries-of-fence.json) |
 | Mysteries of Horus | 54222 | [54222-mysteries-of-horus.json](./54222-mysteries-of-horus.json) |
 | Mysteries of Magic Island | 124741 | [124741-mysteries-of-magic-island.json](./124741-mysteries-of-magic-island.json) |
