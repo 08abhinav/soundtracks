@@ -1783,6 +1783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Train Sim | 100614 | [100614-kids-train-sim.json](./100614-kids-train-sim.json) |
 | Kids Trucks: Puzzles - Education Edition | 96183 | [96183-kids-trucks-puzzles-education-edition.json](./96183-kids-trucks-puzzles-education-edition.json) |
 | Kids Vehicles Fire Truck games | 107649 | [107649-kids-vehicles-fire-truck-games.json](./107649-kids-vehicles-fire-truck-games.json) |
+| Kids vs Zombies: Donuts Brawl | 188283 | [188283-kids-vs-zombies-donuts-brawl.json](./188283-kids-vs-zombies-donuts-brawl.json) |
 | Kids: Farm Coloring | 147783 | [147783-kids-farm-coloring.json](./147783-kids-farm-coloring.json) |
 | Kids: Farm Puzzle | 154590 | [154590-kids-farm-puzzle.json](./154590-kids-farm-puzzle.json) |
 | Kids: Zoo Puzzle | 215395 | [215395-kids-zoo-puzzle.json](./215395-kids-zoo-puzzle.json) |
@@ -3493,6 +3494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights Combo | 299403 | [299403-knights-combo.json](./299403-knights-combo.json) |
 | Knights Conquest | 123060 | [123060-knights-conquest.json](./123060-knights-conquest.json) |
 | Knights End | 390270 | [390270-knights-end.json](./390270-knights-end.json) |
+| Knights Fight 2: New Blood | 188313 | [188313-knights-fight-2-new-blood.json](./188313-knights-fight-2-new-blood.json) |
 | Knights Hunt | 72501 | [72501-knights-hunt.json](./72501-knights-hunt.json) |
 | Knights in the Nightmare | 20690 | [20690-knights-in-the-nightmare.json](./20690-knights-in-the-nightmare.json) |
 | Knights in the Nightmare Remaster | 222421 | [222421-knights-in-the-nightmare-remaster.json](./222421-knights-in-the-nightmare-remaster.json) |
