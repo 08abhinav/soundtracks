@@ -1814,6 +1814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kikai Shushi: MachinE SeeD | 366021 | [366021-kikai-shushi-machine-seed.json](./366021-kikai-shushi-machine-seed.json) |
 | Kikai: The Silent Cat | 261221 | [261221-kikai-the-silent-cat.json](./261221-kikai-the-silent-cat.json) |
 | Kikaijikake no Merceneria | 386112 | [386112-kikaijikake-no-merceneria.json](./386112-kikaijikake-no-merceneria.json) |
+| Kikak | 183796 | [183796-kikak.json](./183796-kikak.json) |
 | Kikan Bakumatsu Ibun Last Cavalier | 59912 | [59912-kikan-bakumatsu-ibun-last-cavalier.json](./59912-kikan-bakumatsu-ibun-last-cavalier.json) |
 | Kiken Drive: 2nd Lap | 273464 | [273464-kiken-drive-2nd-lap.json](./273464-kiken-drive-2nd-lap.json) |
 | Kiki | 237267 | [237267-kiki.json](./237267-kiki.json) |
