@@ -1164,6 +1164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Rows | 103879 | [103879-ball-rows.json](./103879-ball-rows.json) |
 | Ball Run | 118797 | [118797-ball-run.json](./118797-ball-run.json) |
 | Ball Run and Rush | 108384 | [108384-ball-run-and-rush.json](./108384-ball-run-and-rush.json) |
+| Ball Rush | 192063 | [192063-ball-rush.json](./192063-ball-rush.json) |
 | Ball Rush 2 | 322656 | [322656-ball-rush-2.json](./322656-ball-rush-2.json) |
 | Ball Rush 3 | 402296 | [402296-ball-rush-3.json](./402296-ball-rush-3.json) |
 | Ball Shoot Aim Challenge | 334085 | [334085-ball-shoot-aim-challenge.json](./334085-ball-shoot-aim-challenge.json) |
@@ -2535,6 +2536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bathhouse Creatures | 331274 | [331274-bathhouse-creatures.json](./331274-bathhouse-creatures.json) |
 | Bathos | 92842 | [92842-bathos.json](./92842-bathos.json) |
 | Bathroom Chef | 101627 | [101627-bathroom-chef.json](./101627-bathroom-chef.json) |
+| Bathtime Toys | 192206 | [192206-bathtime-toys.json](./192206-bathtime-toys.json) |
 | Bathysphere | 415144 | [415144-bathysphere.json](./415144-bathysphere.json) |
 | Batla | 36058 | [36058-batla.json](./36058-batla.json) |
 | Batloff: Cyprus | 123391 | [123391-batloff-cyprus.json](./123391-batloff-cyprus.json) |
@@ -4722,6 +4724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bellatrix e o Palácio do Tempo | 276032 | [276032-bellatrix-e-o-palacio-do-tempo.json](./276032-bellatrix-e-o-palacio-do-tempo.json) |
 | Bellatrix: Tales of Orionis | 269459 | [269459-bellatrix-tales-of-orionis.json](./269459-bellatrix-tales-of-orionis.json) |
 | Bellboy Boris | 260562 | [260562-bellboy-boris.json](./260562-bellboy-boris.json) |
+| Belle Automata | 192208 | [192208-belle-automata.json](./192208-belle-automata.json) |
 | Belle Boomerang | 150127 | [150127-belle-boomerang.json](./150127-belle-boomerang.json) |
 | Belle Citique | 347813 | [347813-belle-citique.json](./347813-belle-citique.json) |
 | Belle-de-Nuit | 156552 | [156552-belle-de-nuit.json](./156552-belle-de-nuit.json) |
@@ -5814,6 +5817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BigDay | 80972 | [80972-bigday.json](./80972-bigday.json) |
 | Bigface Marsh | 179179 | [179179-bigface-marsh.json](./179179-bigface-marsh.json) |
 | BigFest | 21586 | [21586-bigfest.json](./21586-bigfest.json) |
+| Bigfield 2042 | 192222 | [192222-bigfield-2042.json](./192222-bigfield-2042.json) |
 | Bigflap Attack | 152052 | [152052-bigflap-attack.json](./152052-bigflap-attack.json) |
 | BigFool | 307942 | [307942-bigfool.json](./307942-bigfool.json) |
 | Bigfoot | 218339 | [218339-bigfoot.json](./218339-bigfoot.json) |
@@ -7488,6 +7492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlastMorph: Pinball | 372572 | [372572-blastmorph-pinball.json](./372572-blastmorph-pinball.json) |
 | Blasto | 377825 | [377825-blasto.json](./377825-blasto.json) |
 | Blasto | 86213 | [86213-blasto.json](./86213-blasto.json) |
+| Blastocitos | 192205 | [192205-blastocitos.json](./192205-blastocitos.json) |
 | Blastoids | 394380 | [394380-blastoids.json](./394380-blastoids.json) |
 | Blaston | 135122 | [135122-blaston.json](./135122-blaston.json) |
 | Blaston Spectator | 199641 | [199641-blaston-spectator.json](./199641-blaston-spectator.json) |
@@ -7972,6 +7977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Dizzy | 235099 | [235099-block-dizzy.json](./235099-block-dizzy.json) |
 | Block Dodge Challenge | 121584 | [121584-block-dodge-challenge.json](./121584-block-dodge-challenge.json) |
 | Block Drop | 396758 | [396758-block-drop.json](./396758-block-drop.json) |
+| Block Dropper | 192197 | [192197-block-dropper.json](./192197-block-dropper.json) |
 | Block Droppin Blitz | 362335 | [362335-block-droppin-blitz.json](./362335-block-droppin-blitz.json) |
 | Block Dude | 142772 | [142772-block-dude.json](./142772-block-dude.json) |
 | Block Dude Deluxe | 338247 | [338247-block-dude-deluxe.json](./338247-block-dude-deluxe.json) |
@@ -11510,6 +11516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breaking Gates | 141008 | [141008-breaking-gates.json](./141008-breaking-gates.json) |
 | Breaking Good | 51968 | [51968-breaking-good.json](./51968-breaking-good.json) |
 | Breaking Mad | 123515 | [123515-breaking-mad.json](./123515-breaking-mad.json) |
+| Breaking Newton | 192214 | [192214-breaking-newton.json](./192214-breaking-newton.json) |
 | Breaking Point | 393532 | [393532-breaking-point.json](./393532-breaking-point.json) |
 | Breaking Survivors | 258968 | [258968-breaking-survivors.json](./258968-breaking-survivors.json) |
 | Breaking the 4th wall | 128914 | [128914-breaking-the-4th-wall.json](./128914-breaking-the-4th-wall.json) |
@@ -12593,6 +12600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buccaneers | 247389 | [247389-buccaneers.json](./247389-buccaneers.json) |
 | Buccaneers Shipshape | 203899 | [203899-buccaneers-shipshape.json](./203899-buccaneers-shipshape.json) |
 | Buccaneers! | 125132 | [125132-buccaneers.json](./125132-buccaneers.json) |
+| Buccaneers! The New Age of Piracy | 192209 | [192209-buccaneers-the-new-age-of-piracy.json](./192209-buccaneers-the-new-age-of-piracy.json) |
 | Buciyo 5 | 307829 | [307829-buciyo-5.json](./307829-buciyo-5.json) |
 | Buck | 33521 | [33521-buck.json](./33521-buck.json) |
 | Buck and the Coin of Destiny | 315070 | [315070-buck-and-the-coin-of-destiny.json](./315070-buck-and-the-coin-of-destiny.json) |
