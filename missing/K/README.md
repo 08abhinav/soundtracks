@@ -1859,6 +1859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill AI | 288812 | [288812-kill-ai.json](./288812-kill-ai.json) |
 | Kill All Enemies | 340009 | [340009-kill-all-enemies.json](./340009-kill-all-enemies.json) |
 | Kill All Lice | 320322 | [320322-kill-all-lice.json](./320322-kill-all-lice.json) |
+| Kill All Vampires | 184776 | [184776-kill-all-vampires.json](./184776-kill-all-vampires.json) |
 | Kill all Zombies | 95303 | [95303-kill-all-zombies.json](./95303-kill-all-zombies.json) |
 | Kill Ball | 286077 | [286077-kill-ball.json](./286077-kill-ball.json) |
 | Kill Barney | 338037 | [338037-kill-barney.json](./338037-kill-barney.json) |
