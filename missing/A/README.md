@@ -1923,6 +1923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aces Over Airfields | 379462 | [379462-aces-over-airfields.json](./379462-aces-over-airfields.json) |
 | Aces Over Europe | 12386 | [12386-aces-over-europe.json](./12386-aces-over-europe.json) |
 | Aces Slots Riches of Olympus | 95321 | [95321-aces-slots-riches-of-olympus.json](./95321-aces-slots-riches-of-olympus.json) |
+| Aces Under the Moonlight | 202543 | [202543-aces-under-the-moonlight.json](./202543-aces-under-the-moonlight.json) |
 | Aces Up Solitaire card game | 90400 | [90400-aces-up-solitaire-card-game.json](./90400-aces-up-solitaire-card-game.json) |
 | Aces Up: Easthaven Solitaire | 106745 | [106745-aces-up-easthaven-solitaire.json](./106745-aces-up-easthaven-solitaire.json) |
 | Aces Up! | 366399 | [366399-aces-up.json](./366399-aces-up.json) |
@@ -8693,6 +8694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appare-den: Fukuryuu no Shou | 243782 | [243782-appare-den-fukuryuu-no-shou.json](./243782-appare-den-fukuryuu-no-shou.json) |
 | Appare! Shogi Jiisan | 269650 | [269650-appare-shogi-jiisan.json](./269650-appare-shogi-jiisan.json) |
 | Apparition: Player vs. Players | 376821 | [376821-apparition-player-vs-players.json](./376821-apparition-player-vs-players.json) |
+| Apparitions | 202537 | [202537-apparitions.json](./202537-apparitions.json) |
 | Appearances | 244774 | [244774-appearances.json](./244774-appearances.json) |
 | Appeeling Personality | 346103 | [346103-appeeling-personality.json](./346103-appeeling-personality.json) |
 | Appel | 381201 | [381201-appel.json](./381201-appel.json) |
