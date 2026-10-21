@@ -2306,6 +2306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emery | 261672 | [261672-emery.json](./261672-emery.json) |
 | Emery Hearts | 286226 | [286226-emery-hearts.json](./286226-emery-hearts.json) |
 | Emetic Skimmer | 55185 | [55185-emetic-skimmer.json](./55185-emetic-skimmer.json) |
+| Emi & The Super Boba | 192735 | [192735-emi-and-the-super-boba.json](./192735-emi-and-the-super-boba.json) |
 | Emi-chan no Moero Yakyuuken | 41373 | [41373-emi-chan-no-moero-yakyuuken.json](./41373-emi-chan-no-moero-yakyuuken.json) |
 | Emi: Christmas Special | 277747 | [277747-emi-christmas-special.json](./277747-emi-christmas-special.json) |
 | Emi: New Beginning | 225600 | [225600-emi-new-beginning.json](./225600-emi-new-beginning.json) |
@@ -5493,6 +5494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolve: Ultimate Edition | 99767 | [99767-evolve-ultimate-edition.json](./99767-evolve-ultimate-edition.json) |
 | Evolve! Lite | 60256 | [60256-evolve-lite.json](./60256-evolve-lite.json) |
 | Evolvedustry | 135623 | [135623-evolvedustry.json](./135623-evolvedustry.json) |
+| Evolver | 192592 | [192592-evolver.json](./192592-evolver.json) |
 | Evolver | 356224 | [356224-evolver.json](./356224-evolver.json) |
 | Evons | 408718 | [408718-evons.json](./408718-evons.json) |
 | Evony | 77044 | [77044-evony.json](./77044-evony.json) |
