@@ -5665,6 +5665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide-And-Seek | 86196 | [86196-hide-and-seek.json](./86196-hide-and-seek.json) |
 | Hide.io | 102269 | [102269-hide-io.json](./102269-hide-io.json) |
 | Hideandhunt | 204826 | [204826-hideandhunt.json](./204826-hideandhunt.json) |
+| Hideaway | 195946 | [195946-hideaway.json](./195946-hideaway.json) |
 | Hideaways Lost Island | 53212 | [53212-hideaways-lost-island.json](./53212-hideaways-lost-island.json) |
 | Hideaways: Foggy Valley | 84519 | [84519-hideaways-foggy-valley.json](./84519-hideaways-foggy-valley.json) |
 | Hideko | 326201 | [326201-hideko.json](./326201-hideko.json) |
@@ -9125,6 +9126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huntdown: Overtime | 387607 | [387607-huntdown-overtime.json](./387607-huntdown-overtime.json) |
 | Hunted | 168933 | [168933-hunted.json](./168933-hunted.json) |
 | Hunted | 188370 | [188370-hunted.json](./188370-hunted.json) |
+| Hunted | 195944 | [195944-hunted.json](./195944-hunted.json) |
 | Hunted | 411137 | [411137-hunted.json](./411137-hunted.json) |
 | Hunted By Monsters: Haunting In The Castle Dungeon | 240875 | [240875-hunted-by-monsters-haunting-in-the-castle-dungeon.json](./240875-hunted-by-monsters-haunting-in-the-castle-dungeon.json) |
 | Hunted Dream House | 75668 | [75668-hunted-dream-house.json](./75668-hunted-dream-house.json) |
