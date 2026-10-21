@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TableTop Soccer: Redux | 280253 | [280253-tabletop-soccer-redux.json](./280253-tabletop-soccer-redux.json) |
 | Tabletop Speed | 235123 | [235123-tabletop-speed.json](./235123-tabletop-speed.json) |
 | Tabletop Tavern | 373282 | [373282-tabletop-tavern.json](./373282-tabletop-tavern.json) |
+| Tabletop Warriors | 190884 | [190884-tabletop-warriors.json](./190884-tabletop-warriors.json) |
 | Tabletopia: Altiplano | 162874 | [162874-tabletopia-altiplano.json](./162874-tabletopia-altiplano.json) |
 | Tabletopia: Aquanauts | 162891 | [162891-tabletopia-aquanauts.json](./162891-tabletopia-aquanauts.json) |
 | Tabletopia: Argent - the Consortium | 162882 | [162882-tabletopia-argent-the-consortium.json](./162882-tabletopia-argent-the-consortium.json) |
@@ -3554,6 +3555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Territorial Hissing | 261686 | [261686-territorial-hissing.json](./261686-territorial-hissing.json) |
 | Territorial.io | 152149 | [152149-territorial-io.json](./152149-territorial-io.json) |
 | Territory | 171036 | [171036-territory.json](./171036-territory.json) |
+| Territory | 190998 | [190998-territory.json](./190998-territory.json) |
 | Territory | 57897 | [57897-territory.json](./57897-territory.json) |
 | Territory Control 2 | 204844 | [204844-territory-control-2.json](./204844-territory-control-2.json) |
 | Territory War | 194846 | [194846-territory-war.json](./194846-territory-war.json) |
@@ -12559,6 +12561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Simpsons: Bug Squad! | 307953 | [307953-the-simpsons-bug-squad.json](./307953-the-simpsons-bug-squad.json) |
 | The Simpsons: Cartoon Studio | 2838 | [2838-the-simpsons-cartoon-studio.json](./2838-the-simpsons-cartoon-studio.json) |
 | The Simpsons: Itchy & Scratchy in Miniature Golf Madness | 2836 | [2836-the-simpsons-itchy-and-scratchy-in-miniature-golf-madness.json](./2836-the-simpsons-itchy-and-scratchy-in-miniature-golf-madness.json) |
+| The Simpsons: Itchy & Scratchy Land | 190876 | [190876-the-simpsons-itchy-and-scratchy-land.json](./190876-the-simpsons-itchy-and-scratchy-land.json) |
 | The Simpsons: Minutes to Meltdown | 256656 | [256656-the-simpsons-minutes-to-meltdown.json](./256656-the-simpsons-minutes-to-meltdown.json) |
 | The Simpsons: Tapped Out | 2845 | [2845-the-simpsons-tapped-out.json](./2845-the-simpsons-tapped-out.json) |
 | The Simpsons: Virtual Springfield | 2839 | [2839-the-simpsons-virtual-springfield.json](./2839-the-simpsons-virtual-springfield.json) |
@@ -13480,6 +13483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Thirteenth Floor | 177309 | [177309-the-thirteenth-floor.json](./177309-the-thirteenth-floor.json) |
 | The Thirty Nine Steps | 63664 | [63664-the-thirty-nine-steps.json](./63664-the-thirty-nine-steps.json) |
 | The Thor Trilogy | 71967 | [71967-the-thor-trilogy.json](./71967-the-thor-trilogy.json) |
+| The Thorn of Warldia | 190886 | [190886-the-thorn-of-warldia.json](./190886-the-thorn-of-warldia.json) |
 | The Thorns of War | 183445 | [183445-the-thorns-of-war.json](./183445-the-thorns-of-war.json) |
 | The Thought Saved for Last | 63539 | [63539-the-thought-saved-for-last.json](./63539-the-thought-saved-for-last.json) |
 | The Thread of Fate | 335383 | [335383-the-thread-of-fate.json](./335383-the-thread-of-fate.json) |
@@ -15471,6 +15475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | thread and Needle | 301922 | [301922-thread-and-needle.json](./301922-thread-and-needle.json) |
 | Threadbare | 364664 | [364664-threadbare.json](./364664-threadbare.json) |
 | Threadbound | 182979 | [182979-threadbound.json](./182979-threadbound.json) |
+| Threaded | 191001 | [191001-threaded.json](./191001-threaded.json) |
 | Threadline | 396214 | [396214-threadline.json](./396214-threadline.json) |
 | Threads of Destiny | 33921 | [33921-threads-of-destiny.json](./33921-threads-of-destiny.json) |
 | Threads of Fate | 28402 | [28402-threads-of-fate.json](./28402-threads-of-fate.json) |
@@ -21674,6 +21679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Classic: C-424 | 357392 | [357392-train-simulator-classic-c-424.json](./357392-train-simulator-classic-c-424.json) |
 | Train Simulator Classic: CR400AF Loco Add-On | 339157 | [339157-train-simulator-classic-cr400af-loco-add-on.json](./339157-train-simulator-classic-cr400af-loco-add-on.json) |
 | Train Simulator Classic: DB BR 218 'V 164' | 279013 | [279013-train-simulator-classic-db-br-218-v-164.json](./279013-train-simulator-classic-db-br-218-v-164.json) |
+| Train Simulator Classic: DB BR 247 Loco | 191019 | [191019-train-simulator-classic-db-br-247-loco.json](./191019-train-simulator-classic-db-br-247-loco.json) |
 | Train Simulator Classic: DB Fas 126 | 290805 | [290805-train-simulator-classic-db-fas-126.json](./290805-train-simulator-classic-db-fas-126.json) |
 | Train Simulator Classic: Drautalbahn - Klagenfurt: Spittal Millstättersee Route | 227143 | [227143-train-simulator-classic-drautalbahn-klagenfurt-spittal-millstattersee-route.json](./227143-train-simulator-classic-drautalbahn-klagenfurt-spittal-millstattersee-route.json) |
 | Train Simulator Classic: E60 Electric Locomotive | 236543 | [236543-train-simulator-classic-e60-electric-locomotive.json](./236543-train-simulator-classic-e60-electric-locomotive.json) |
@@ -21713,14 +21719,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Real: The Keihin Kyuukou | 79179 | [79179-train-simulator-real-the-keihin-kyuukou.json](./79179-train-simulator-real-the-keihin-kyuukou.json) |
 | Train Simulator VR | 74679 | [74679-train-simulator-vr.json](./74679-train-simulator-vr.json) |
 | Train Simulator: Allgäubahn: Kempten - Lindau & Immenstadt: Oberstdorf Route | 156403 | [156403-train-simulator-allgaubahn-kempten-lindau-and-immenstadt-oberstdorf-route.json](./156403-train-simulator-allgaubahn-kempten-lindau-and-immenstadt-oberstdorf-route.json) |
+| Train Simulator: Amtrak P42DC 50th Anniversary - Collector’s Edition | 191020 | [191020-train-simulator-amtrak-p42dc-50th-anniversary-collector-s-edition.json](./191020-train-simulator-amtrak-p42dc-50th-anniversary-collector-s-edition.json) |
 | Train Simulator: B&O Kingwood Branch: Tunnelton - Kingwood Route Add-On | 156384 | [156384-train-simulator-b-and-o-kingwood-branch-tunnelton-kingwood-route-add-on.json](./156384-train-simulator-b-and-o-kingwood-branch-tunnelton-kingwood-route-add-on.json) |
 | Train Simulator: Bahnstrecke Riesa - Dresden Route Add-On | 156404 | [156404-train-simulator-bahnstrecke-riesa-dresden-route-add-on.json](./156404-train-simulator-bahnstrecke-riesa-dresden-route-add-on.json) |
+| Train Simulator: Bahnstrecke Strasbourg - Karlsruhe Route | 191015 | [191015-train-simulator-bahnstrecke-strasbourg-karlsruhe-route.json](./191015-train-simulator-bahnstrecke-strasbourg-karlsruhe-route.json) |
 | Train Simulator: Berlin-Wittenberg Route Add-On | 156340 | [156340-train-simulator-berlin-wittenberg-route-add-on.json](./156340-train-simulator-berlin-wittenberg-route-add-on.json) |
 | Train Simulator: Birmingham Cross City Line: Lichfield - Bromsgrove & Redditch Route Add-On | 156405 | [156405-train-simulator-birmingham-cross-city-line-lichfield-bromsgrove-and-redditch-route-add-on.json](./156405-train-simulator-birmingham-cross-city-line-lichfield-bromsgrove-and-redditch-route-add-on.json) |
 | Train Simulator: BR Class 105 DMU Add-On | 156337 | [156337-train-simulator-br-class-105-dmu-add-on.json](./156337-train-simulator-br-class-105-dmu-add-on.json) |
 | Train Simulator: Cajon Pass Route Add-On | 156475 | [156475-train-simulator-cajon-pass-route-add-on.json](./156475-train-simulator-cajon-pass-route-add-on.json) |
 | Train Simulator: Canadian National Peace River Route Add-On | 156400 | [156400-train-simulator-canadian-national-peace-river-route-add-on.json](./156400-train-simulator-canadian-national-peace-river-route-add-on.json) |
 | Train Simulator: Canadian Pacific AC4400CW Loco Add-On | 156339 | [156339-train-simulator-canadian-pacific-ac4400cw-loco-add-on.json](./156339-train-simulator-canadian-pacific-ac4400cw-loco-add-on.json) |
+| Train Simulator: Canadian Pacific SD60 Loco | 191021 | [191021-train-simulator-canadian-pacific-sd60-loco.json](./191021-train-simulator-canadian-pacific-sd60-loco.json) |
+| Train Simulator: Chatham Main Line: London Victoria & Blackfriars - Dover & Ramsgate Route | 191016 | [191016-train-simulator-chatham-main-line-london-victoria-and-blackfriars-dover-and-ramsgate-route.json](./191016-train-simulator-chatham-main-line-london-victoria-and-blackfriars-dover-and-ramsgate-route.json) |
 | Train Simulator: Chiltern Main Line: London - Birmingham Route Add-On | 156489 | [156489-train-simulator-chiltern-main-line-london-birmingham-route-add-on.json](./156489-train-simulator-chiltern-main-line-london-birmingham-route-add-on.json) |
 | Train Simulator: China Clay for Export Route Add-On | 156375 | [156375-train-simulator-china-clay-for-export-route-add-on.json](./156375-train-simulator-china-clay-for-export-route-add-on.json) |
 | Train Simulator: China Railways CR400BF | 253450 | [253450-train-simulator-china-railways-cr400bf.json](./253450-train-simulator-china-railways-cr400bf.json) |
@@ -21728,6 +21738,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: Clear Creek Narrow Gauge Route Add-On | 156410 | [156410-train-simulator-clear-creek-narrow-gauge-route-add-on.json](./156410-train-simulator-clear-creek-narrow-gauge-route-add-on.json) |
 | Train Simulator: Cologne-Dusseldorf Route Add-On | 156476 | [156476-train-simulator-cologne-dusseldorf-route-add-on.json](./156476-train-simulator-cologne-dusseldorf-route-add-on.json) |
 | Train Simulator: Colton & Northern Route Add-On | 156378 | [156378-train-simulator-colton-and-northern-route-add-on.json](./156378-train-simulator-colton-and-northern-route-add-on.json) |
+| Train Simulator: CSX SD45-2 Loco | 191017 | [191017-train-simulator-csx-sd45-2-loco.json](./191017-train-simulator-csx-sd45-2-loco.json) |
+| Train Simulator: DB BR 187 Loco | 191014 | [191014-train-simulator-db-br-187-loco.json](./191014-train-simulator-db-br-187-loco.json) |
 | Train Simulator: Doncaster Works Route Add-On | 156407 | [156407-train-simulator-doncaster-works-route-add-on.json](./156407-train-simulator-doncaster-works-route-add-on.json) |
 | Train Simulator: EA-692 | 306071 | [306071-train-simulator-ea-692.json](./306071-train-simulator-ea-692.json) |
 | Train Simulator: East Coast Main Line London-Peterborough Route Add-On | 90494 | [90494-train-simulator-east-coast-main-line-london-peterborough-route-add-on.json](./90494-train-simulator-east-coast-main-line-london-peterborough-route-add-on.json) |
@@ -21769,13 +21781,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: Midland Main Line: Nottingham - Lincoln Route | 207742 | [207742-train-simulator-midland-main-line-nottingham-lincoln-route.json](./207742-train-simulator-midland-main-line-nottingham-lincoln-route.json) |
 | Train Simulator: Mittenwaldbahn: Garmisch-Partenkirchen - Innsbruck Route Add-On | 156387 | [156387-train-simulator-mittenwaldbahn-garmisch-partenkirchen-innsbruck-route-add-on.json](./156387-train-simulator-mittenwaldbahn-garmisch-partenkirchen-innsbruck-route-add-on.json) |
 | Train Simulator: Montana Hi-Line: Shelby - Havre Route Add-On | 156477 | [156477-train-simulator-montana-hi-line-shelby-havre-route-add-on.json](./156477-train-simulator-montana-hi-line-shelby-havre-route-add-on.json) |
+| Train Simulator: Mount Shasta Line: Dunsmuir - Klamath Falls Route | 191013 | [191013-train-simulator-mount-shasta-line-dunsmuir-klamath-falls-route.json](./191013-train-simulator-mount-shasta-line-dunsmuir-klamath-falls-route.json) |
 | Train Simulator: MRCE ER20 Eurorunner Loco Add-On | 156342 | [156342-train-simulator-mrce-er20-eurorunner-loco-add-on.json](./156342-train-simulator-mrce-er20-eurorunner-loco-add-on.json) |
 | Train Simulator: Munich - Garmisch-Partenkirchen Route Add-On | 156353 | [156353-train-simulator-munich-garmisch-partenkirchen-route-add-on.json](./156353-train-simulator-munich-garmisch-partenkirchen-route-add-on.json) |
 | Train Simulator: Munich - Rosenheim Route Add-On | 156350 | [156350-train-simulator-munich-rosenheim-route-add-on.json](./156350-train-simulator-munich-rosenheim-route-add-on.json) |
 | Train Simulator: Munich-Augsburg Route Add-On | 156392 | [156392-train-simulator-munich-augsburg-route-add-on.json](./156392-train-simulator-munich-augsburg-route-add-on.json) |
 | Train Simulator: Münster - Bremen Route Add-On | 156472 | [156472-train-simulator-munster-bremen-route-add-on.json](./156472-train-simulator-munster-bremen-route-add-on.json) |
+| Train Simulator: New Zealand DJ Loco Pack | 191025 | [191025-train-simulator-new-zealand-dj-loco-pack.json](./191025-train-simulator-new-zealand-dj-loco-pack.json) |
 | Train Simulator: Norddeutsche-Bahn: Kiel - Lübeck Route Add-On | 156390 | [156390-train-simulator-norddeutsche-bahn-kiel-lubeck-route-add-on.json](./156390-train-simulator-norddeutsche-bahn-kiel-lubeck-route-add-on.json) |
 | Train Simulator: Norfolk Southern SD70ACU | 265716 | [265716-train-simulator-norfolk-southern-sd70acu.json](./265716-train-simulator-norfolk-southern-sd70acu.json) |
+| Train Simulator: Norfolk Southern SD70M Loco | 191022 | [191022-train-simulator-norfolk-southern-sd70m-loco.json](./191022-train-simulator-norfolk-southern-sd70m-loco.json) |
 | Train Simulator: North Jersey Coast Line Route Add-On | 156394 | [156394-train-simulator-north-jersey-coast-line-route-add-on.json](./156394-train-simulator-north-jersey-coast-line-route-add-on.json) |
 | Train Simulator: North Somerset Railway Route Add-On | 156397 | [156397-train-simulator-north-somerset-railway-route-add-on.json](./156397-train-simulator-north-somerset-railway-route-add-on.json) |
 | Train Simulator: Northeast Corridor: New York - Philadelphia Route Add-On | 156352 | [156352-train-simulator-northeast-corridor-new-york-philadelphia-route-add-on.json](./156352-train-simulator-northeast-corridor-new-york-philadelphia-route-add-on.json) |
@@ -21790,6 +21805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: Ringbahn Berlin Circle | 293694 | [293694-train-simulator-ringbahn-berlin-circle.json](./293694-train-simulator-ringbahn-berlin-circle.json) |
 | Train Simulator: Riviera Line in the Fifties: Exeter - Kingswear Route Add-On | 156485 | [156485-train-simulator-riviera-line-in-the-fifties-exeter-kingswear-route-add-on.json](./156485-train-simulator-riviera-line-in-the-fifties-exeter-kingswear-route-add-on.json) |
 | Train Simulator: Rudolfsbahn: Bruck an der Mur - Selzthal & Knittelfeld | 293693 | [293693-train-simulator-rudolfsbahn-bruck-an-der-mur-selzthal-and-knittelfeld.json](./293693-train-simulator-rudolfsbahn-bruck-an-der-mur-selzthal-and-knittelfeld.json) |
+| Train Simulator: Salzburg - Mühldorf Route | 191023 | [191023-train-simulator-salzburg-muhldorf-route.json](./191023-train-simulator-salzburg-muhldorf-route.json) |
 | Train Simulator: Sherman Hill Route Add-On | 156480 | [156480-train-simulator-sherman-hill-route-add-on.json](./156480-train-simulator-sherman-hill-route-add-on.json) |
 | Train Simulator: Somerset & Dorset Railway Route Add-On | 156487 | [156487-train-simulator-somerset-and-dorset-railway-route-add-on.json](./156487-train-simulator-somerset-and-dorset-railway-route-add-on.json) |
 | Train Simulator: South Devon Main Line: Highbridge and Burnham - Plymouth Route Add-On | 154256 | [154256-train-simulator-south-devon-main-line-highbridge-and-burnham-plymouth-route-add-on.json](./154256-train-simulator-south-devon-main-line-highbridge-and-burnham-plymouth-route-add-on.json) |
@@ -21801,6 +21817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: Südbahn: Bruck an der Mur - Maribor Route Add-On | 156346 | [156346-train-simulator-sudbahn-bruck-an-der-mur-maribor-route-add-on.json](./156346-train-simulator-sudbahn-bruck-an-der-mur-maribor-route-add-on.json) |
 | Train Simulator: Surselva Line: Reichenau-Tamins - Disentis/Mustér Route Add-On | 156349 | [156349-train-simulator-surselva-line-reichenau-tamins-disentis-muster-route-add-on.json](./156349-train-simulator-surselva-line-reichenau-tamins-disentis-muster-route-add-on.json) |
 | Train Simulator: Tauernbahn: Schwarzach-Sankt Veit - Spittal an der Drau Route Add-On | 154255 | [154255-train-simulator-tauernbahn-schwarzach-sankt-veit-spittal-an-der-drau-route-add-on.json](./154255-train-simulator-tauernbahn-schwarzach-sankt-veit-spittal-an-der-drau-route-add-on.json) |
+| Train Simulator: Thameslink BR Class 700 EMU | 191018 | [191018-train-simulator-thameslink-br-class-700-emu.json](./191018-train-simulator-thameslink-br-class-700-emu.json) |
 | Train Simulator: The Holiday Express | 53745 | [53745-train-simulator-the-holiday-express.json](./53745-train-simulator-the-holiday-express.json) |
 | Train Simulator: The Kyle Line: Inverness - Kyle of Lochalsh Route Add-On | 156396 | [156396-train-simulator-the-kyle-line-inverness-kyle-of-lochalsh-route-add-on.json](./156396-train-simulator-the-kyle-line-inverness-kyle-of-lochalsh-route-add-on.json) |
 | Train Simulator: The Racetrack: Aurora - Chicago Route Add-On | 156347 | [156347-train-simulator-the-racetrack-aurora-chicago-route-add-on.json](./156347-train-simulator-the-racetrack-aurora-chicago-route-add-on.json) |
@@ -21821,6 +21838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: West Highland Line Extension Route Add-On | 156359 | [156359-train-simulator-west-highland-line-extension-route-add-on.json](./156359-train-simulator-west-highland-line-extension-route-add-on.json) |
 | Train Simulator: West Somerset Railway Route Add-On | 90493 | [90493-train-simulator-west-somerset-railway-route-add-on.json](./90493-train-simulator-west-somerset-railway-route-add-on.json) |
 | Train Simulator: Western Lines of Scotland Route Add-On | 156360 | [156360-train-simulator-western-lines-of-scotland-route-add-on.json](./156360-train-simulator-western-lines-of-scotland-route-add-on.json) |
+| Train Simulator: Western Maryland BL2 Loco | 191024 | [191024-train-simulator-western-maryland-bl2-loco.json](./191024-train-simulator-western-maryland-bl2-loco.json) |
 | Train Simulator: Western Pacific GP20 High Nose Loco | 211898 | [211898-train-simulator-western-pacific-gp20-high-nose-loco.json](./211898-train-simulator-western-pacific-gp20-high-nose-loco.json) |
 | Train Station 2 | 233385 | [233385-train-station-2.json](./233385-train-station-2.json) |
 | Train Station Project | 334234 | [334234-train-station-project.json](./334234-train-station-project.json) |
