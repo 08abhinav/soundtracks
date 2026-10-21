@@ -8001,6 +8001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Dodge! | 158721 | [158721-hot-dodge.json](./158721-hot-dodge.json) |
 | Hot Dog Bush | 159351 | [159351-hot-dog-bush.json](./159351-hot-dog-bush.json) |
 | Hot Dog Champion | 19147 | [19147-hot-dog-champion.json](./19147-hot-dog-champion.json) |
+| Hot Dog Dreamer | 182694 | [182694-hot-dog-dreamer.json](./182694-hot-dog-dreamer.json) |
 | Hot Dog King | 20369 | [20369-hot-dog-king.json](./20369-hot-dog-king.json) |
 | Hot Dog King: A Fast Food Empire | 70328 | [70328-hot-dog-king-a-fast-food-empire.json](./70328-hot-dog-king-a-fast-food-empire.json) |
 | Hot Dog Reporter | 267555 | [267555-hot-dog-reporter.json](./267555-hot-dog-reporter.json) |
@@ -9060,6 +9061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Froo | 259976 | [259976-hungry-froo.json](./259976-hungry-froo.json) |
 | Hungry Ghosts | 43433 | [43433-hungry-ghosts.json](./43433-hungry-ghosts.json) |
 | Hungry Giraffe | 20808 | [20808-hungry-giraffe.json](./20808-hungry-giraffe.json) |
+| Hungry Harry 3D | 182710 | [182710-hungry-harry-3d.json](./182710-hungry-harry-3d.json) |
 | Hungry Hearts Diner 2: Moonlit Memories | 172603 | [172603-hungry-hearts-diner-2-moonlit-memories.json](./172603-hungry-hearts-diner-2-moonlit-memories.json) |
 | Hungry Hearts Diner: Memories | 280280 | [280280-hungry-hearts-diner-memories.json](./280280-hungry-hearts-diner-memories.json) |
 | Hungry Hearts Ramen: Soulful Bowl | 370455 | [370455-hungry-hearts-ramen-soulful-bowl.json](./370455-hungry-hearts-ramen-soulful-bowl.json) |
