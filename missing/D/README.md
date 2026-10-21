@@ -2905,6 +2905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Town Defense | 370253 | [370253-dead-town-defense.json](./370253-dead-town-defense.json) |
 | Dead Town Survival | 370243 | [370243-dead-town-survival.json](./370243-dead-town-survival.json) |
 | Dead Town Tales | 235209 | [235209-dead-town-tales.json](./235209-dead-town-tales.json) |
+| Dead Town: Zombie Survival | 191453 | [191453-dead-town-zombie-survival.json](./191453-dead-town-zombie-survival.json) |
 | Dead TrailZ | 35753 | [35753-dead-trailz.json](./35753-dead-trailz.json) |
 | Dead Train | 208435 | [208435-dead-train.json](./208435-dead-train.json) |
 | Dead Transmission | 190033 | [190033-dead-transmission.json](./190033-dead-transmission.json) |
@@ -9200,6 +9201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Break My Heart | 273911 | [273911-dont-break-my-heart.json](./273911-dont-break-my-heart.json) |
 | Don't Break the Egg | 397660 | [397660-dont-break-the-egg.json](./397660-dont-break-the-egg.json) |
 | Don't Break The Eggs | 359722 | [359722-dont-break-the-eggs.json](./359722-dont-break-the-eggs.json) |
+| Don't Bug Me! | 191456 | [191456-dont-bug-me.json](./191456-dont-bug-me.json) |
 | Don't Burn | 118998 | [118998-dont-burn.json](./118998-dont-burn.json) |
 | Don't Burst My Balloon | 373875 | [373875-dont-burst-my-balloon.json](./373875-dont-burst-my-balloon.json) |
 | Don't Call Me Mama But Yes I Am Your Mama | 181853 | [181853-dont-call-me-mama-but-yes-i-am-your-mama.json](./181853-dont-call-me-mama-but-yes-i-am-your-mama.json) |
@@ -10479,6 +10481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down Pit | 412348 | [412348-down-pit.json](./412348-down-pit.json) |
 | Down the Darkest Pit | 381953 | [381953-down-the-darkest-pit.json](./381953-down-the-darkest-pit.json) |
 | Down The Dead | 195392 | [195392-down-the-dead.json](./195392-down-the-dead.json) |
+| Down the Deep | 191612 | [191612-down-the-deep.json](./191612-down-the-deep.json) |
 | Down the Drain | 256830 | [256830-down-the-drain.json](./256830-down-the-drain.json) |
 | Down the Dungeon | 393545 | [393545-down-the-dungeon.json](./393545-down-the-dungeon.json) |
 | Down the Hill! | 259239 | [259239-down-the-hill.json](./259239-down-the-hill.json) |
@@ -14043,6 +14046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DungeonUp | 34808 | [34808-dungeonup.json](./34808-dungeonup.json) |
 | Dungeum | 310793 | [310793-dungeum.json](./310793-dungeum.json) |
 | DunginDragin | 386400 | [386400-dungindragin.json](./386400-dungindragin.json) |
+| Dungleon | 191637 | [191637-dungleon.json](./191637-dungleon.json) |
 | Dungless 2 | 164512 | [164512-dungless-2.json](./164512-dungless-2.json) |
 | Dungman: The Dungeon Crawler | 214016 | [214016-dungman-the-dungeon-crawler.json](./214016-dungman-the-dungeon-crawler.json) |
 | Dungreed | 76816 | [76816-dungreed.json](./76816-dungreed.json) |
