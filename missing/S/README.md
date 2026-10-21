@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.E.U.I.S. | 24886 | [24886-s-e-u-i-s.json](./24886-s-e-u-i-s.json) |
 | S.E.X. Retreat: WellCum In! | 278381 | [278381-s-e-x-retreat-wellcum-in.json](./278381-s-e-x-retreat-wellcum-in.json) |
 | S.F.77 | 104838 | [104838-s-f-77.json](./104838-s-f-77.json) |
+| S.H.E. | 183800 | [183800-s-h-e.json](./183800-s-h-e.json) |
 | S.I.N. Unit: Ghost Investigation & Removal | 165528 | [165528-s-i-n-unit-ghost-investigation-and-removal.json](./165528-s-i-n-unit-ghost-investigation-and-removal.json) |
 | S.I.P. SE: Safety is Power | 302386 | [302386-s-i-p-se-safety-is-power.json](./302386-s-i-p-se-safety-is-power.json) |
 | S.K.R.U.B. Squad | 412352 | [412352-s-k-r-u-b-squad.json](./412352-s-k-r-u-b-squad.json) |
@@ -4101,6 +4102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senda Salvaje | 272301 | [272301-senda-salvaje.json](./272301-senda-salvaje.json) |
 | Sender Unknown: The Woods | 74404 | [74404-sender-unknown-the-woods.json](./74404-sender-unknown-the-woods.json) |
 | Senderos de Fugüm | 326606 | [326606-senderos-de-fugum.json](./326606-senderos-de-fugum.json) |
+| Seneca | 183756 | [183756-seneca.json](./183756-seneca.json) |
 | Seneca 7: A Cyberpunk Odyssey | 201643 | [201643-seneca-7-a-cyberpunk-odyssey.json](./201643-seneca-7-a-cyberpunk-odyssey.json) |
 | Senet | 71209 | [71209-senet.json](./71209-senet.json) |
 | Senet Deluxe | 99975 | [99975-senet-deluxe.json](./99975-senet-deluxe.json) |
@@ -9642,6 +9644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skybase | 294267 | [294267-skybase.json](./294267-skybase.json) |
 | Skybase: Space Station Simulator | 208952 | [208952-skybase-space-station-simulator.json](./208952-skybase-space-station-simulator.json) |
 | Skyblazer | 42581 | [42581-skyblazer.json](./42581-skyblazer.json) |
+| Skyblazor | 183766 | [183766-skyblazor.json](./183766-skyblazor.json) |
 | Skyblivion | 301423 | [301423-skyblivion.json](./301423-skyblivion.json) |
 | Skyblock Chaos | 301347 | [301347-skyblock-chaos.json](./301347-skyblock-chaos.json) |
 | Skyblock Infinite | 380725 | [380725-skyblock-infinite.json](./380725-skyblock-infinite.json) |
@@ -27014,6 +27017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Lost Song - Limited Edition | 313299 | [313299-sword-art-online-lost-song-limited-edition.json](./313299-sword-art-online-lost-song-limited-edition.json) |
 | Sword Art Online: Unleash Blading | 318998 | [318998-sword-art-online-unleash-blading.json](./318998-sword-art-online-unleash-blading.json) |
 | Sword Art Online: Variant Showdown | 196564 | [196564-sword-art-online-variant-showdown.json](./196564-sword-art-online-variant-showdown.json) |
+| Sword Boy | 183783 | [183783-sword-boy.json](./183783-sword-boy.json) |
 | Sword Bros | 75063 | [75063-sword-bros.json](./75063-sword-bros.json) |
 | Sword Chronicles: Awaken | 262378 | [262378-sword-chronicles-awaken.json](./262378-sword-chronicles-awaken.json) |
 | Sword Coast Legends: Deluxe Campaign Edition | 53701 | [53701-sword-coast-legends-deluxe-campaign-edition.json](./53701-sword-coast-legends-deluxe-campaign-edition.json) |
@@ -27396,6 +27400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synduality: Echo of Ada | 217601 | [217601-synduality-echo-of-ada.json](./217601-synduality-echo-of-ada.json) |
 | Synduality: Echo of Ada - Deluxe Edition | 317828 | [317828-synduality-echo-of-ada-deluxe-edition.json](./317828-synduality-echo-of-ada-deluxe-edition.json) |
 | Synduality: Echo of Ada - Ultimate Edition | 317829 | [317829-synduality-echo-of-ada-ultimate-edition.json](./317829-synduality-echo-of-ada-ultimate-edition.json) |
+| Syne | 183759 | [183759-syne.json](./183759-syne.json) |
 | Synergia: NextGen Edition | 268330 | [268330-synergia-nextgen-edition.json](./268330-synergia-nextgen-edition.json) |
 | Synergia: Sunrise | 253393 | [253393-synergia-sunrise.json](./253393-synergia-sunrise.json) |
 | Synergism | 150569 | [150569-synergism.json](./150569-synergism.json) |
