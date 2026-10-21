@@ -1336,6 +1336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necrowarp | 129691 | [129691-necrowarp.json](./129691-necrowarp.json) |
 | Necrowhisper | 388907 | [388907-necrowhisper.json](./388907-necrowhisper.json) |
 | NecroWorm | 131969 | [131969-necroworm.json](./131969-necroworm.json) |
+| Nectar | 201541 | [201541-nectar.json](./201541-nectar.json) |
 | Nectar | 267025 | [267025-nectar.json](./267025-nectar.json) |
 | Nectar of the Gods: The Hive and Spidey Party Bugs Bundle | 171019 | [171019-nectar-of-the-gods-the-hive-and-spidey-party-bugs-bundle.json](./171019-nectar-of-the-gods-the-hive-and-spidey-party-bugs-bundle.json) |
 | Nectar Thief | 177829 | [177829-nectar-thief.json](./177829-nectar-thief.json) |
@@ -4026,6 +4027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Shuriken Master | 300855 | [300855-ninja-shuriken-master.json](./300855-ninja-shuriken-master.json) |
 | Ninja Slayer: Neo-Saitama In Flames | 298395 | [298395-ninja-slayer-neo-saitama-in-flames.json](./298395-ninja-slayer-neo-saitama-in-flames.json) |
 | Ninja Smasher! | 30625 | [30625-ninja-smasher.json](./30625-ninja-smasher.json) |
+| Ninja Sneaking R | 201533 | [201533-ninja-sneaking-r.json](./201533-ninja-sneaking-r.json) |
 | Ninja Sneaking VS | 244892 | [244892-ninja-sneaking-vs.json](./244892-ninja-sneaking-vs.json) |
 | Ninja Specialist | 207184 | [207184-ninja-specialist.json](./207184-ninja-specialist.json) |
 | Ninja Spinki Challenges!! | 56904 | [56904-ninja-spinki-challenges.json](./56904-ninja-spinki-challenges.json) |
