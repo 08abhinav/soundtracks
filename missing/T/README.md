@@ -3046,6 +3046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenders Fight | 245818 | [245818-tenders-fight.json](./245818-tenders-fight.json) |
 | Tendo Blade | 202973 | [202973-tendo-blade.json](./202973-tendo-blade.json) |
 | Tendryll | 211232 | [211232-tendryll.json](./211232-tendryll.json) |
+| Tendy: Robot Gardener | 199777 | [199777-tendy-robot-gardener.json](./199777-tendy-robot-gardener.json) |
 | TendyTrainer | 112803 | [112803-tendytrainer.json](./112803-tendytrainer.json) |
 | Tenebra | 333921 | [333921-tenebra.json](./333921-tenebra.json) |
 | Tenebra | 360014 | [360014-tenebra.json](./360014-tenebra.json) |
@@ -3470,6 +3471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terraforming Mars | 86558 | [86558-terraforming-mars.json](./86558-terraforming-mars.json) |
 | Terraforming Mars Collection | 200988 | [200988-terraforming-mars-collection.json](./200988-terraforming-mars-collection.json) |
 | Terraforming Mars: Colonies | 402404 | [402404-terraforming-mars-colonies.json](./402404-terraforming-mars-colonies.json) |
+| Terraforming Mars: Hellas & Elysium | 199774 | [199774-terraforming-mars-hellas-and-elysium.json](./199774-terraforming-mars-hellas-and-elysium.json) |
 | Terraforming Mars: Venus Next | 273965 | [273965-terraforming-mars-venus-next.json](./273965-terraforming-mars-venus-next.json) |
 | Terrafort | 285966 | [285966-terrafort.json](./285966-terrafort.json) |
 | TerraGenesis - Space Colony | 102762 | [102762-terragenesis-space-colony.json](./102762-terragenesis-space-colony.json) |
@@ -8136,6 +8138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Honest Little Fisher | 383066 | [383066-the-honest-little-fisher.json](./383066-the-honest-little-fisher.json) |
 | The Honeypot Murders | 250850 | [250850-the-honeypot-murders.json](./250850-the-honeypot-murders.json) |
 | The Hong Kong Massacre | 27069 | [27069-the-hong-kong-massacre.json](./27069-the-hong-kong-massacre.json) |
+| The Hong Kong Massacre / Beautiful Desolation Bundle | 199893 | [199893-the-hong-kong-massacre-beautiful-desolation-bundle.json](./199893-the-hong-kong-massacre-beautiful-desolation-bundle.json) |
 | The Honours Project | 368372 | [368372-the-honours-project.json](./368372-the-honours-project.json) |
 | The Hookmarine | 261670 | [261670-the-hookmarine.json](./261670-the-hookmarine.json) |
 | The Hopebringer | 151114 | [151114-the-hopebringer.json](./151114-the-hopebringer.json) |
@@ -9222,6 +9225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Pixel | 126408 | [126408-the-last-pixel.json](./126408-the-last-pixel.json) |
 | The Last Place | 169747 | [169747-the-last-place.json](./169747-the-last-place.json) |
 | The Last Plague: Blight | 151579 | [151579-the-last-plague-blight.json](./151579-the-last-plague-blight.json) |
+| The Last Planets | 199808 | [199808-the-last-planets.json](./199808-the-last-planets.json) |
 | The Last Plast | 302126 | [302126-the-last-plast.json](./302126-the-last-plast.json) |
 | The Last Player | 115469 | [115469-the-last-player.json](./115469-the-last-player.json) |
 | The Last Poem: The Trials of Poe | 152776 | [152776-the-last-poem-the-trials-of-poe.json](./152776-the-last-poem-the-trials-of-poe.json) |
@@ -9260,6 +9264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Scaler | 314466 | [314466-the-last-scaler.json](./314466-the-last-scaler.json) |
 | The Last Screening | 367061 | [367061-the-last-screening.json](./367061-the-last-screening.json) |
 | The Last Secret | 199656 | [199656-the-last-secret.json](./199656-the-last-secret.json) |
+| The Last Shape | 199798 | [199798-the-last-shape.json](./199798-the-last-shape.json) |
 | The Last Shelter | 349844 | [349844-the-last-shelter.json](./349844-the-last-shelter.json) |
 | The Last Shot: Arcades | 351723 | [351723-the-last-shot-arcades.json](./351723-the-last-shot-arcades.json) |
 | The Last Show | 404387 | [404387-the-last-show.json](./404387-the-last-show.json) |
@@ -10790,6 +10795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nefargad | 278871 | [278871-the-nefargad.json](./278871-the-nefargad.json) |
 | The Neighbor: Escape Room | 309505 | [309505-the-neighbor-escape-room.json](./309505-the-neighbor-escape-room.json) |
 | The Neighborhood | 180592 | [180592-the-neighborhood.json](./180592-the-neighborhood.json) |
+| The Neighborhood | 199778 | [199778-the-neighborhood.json](./199778-the-neighborhood.json) |
 | The Neon Boy | 103964 | [103964-the-neon-boy.json](./103964-the-neon-boy.json) |
 | The Neon Mate | 137483 | [137483-the-neon-mate.json](./137483-the-neon-mate.json) |
 | The Neptune Diaries | 177889 | [177889-the-neptune-diaries.json](./177889-the-neptune-diaries.json) |
@@ -19274,6 +19280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's Underground 2: Ricco Harbor | 314451 | [314451-tony-hawks-underground-2-ricco-harbor.json](./314451-tony-hawks-underground-2-ricco-harbor.json) |
 | Tony Hawk's Underground 2: The Shell Secret | 314453 | [314453-tony-hawks-underground-2-the-shell-secret.json](./314453-tony-hawks-underground-2-the-shell-secret.json) |
 | Tony Hawk's Underground 2: Wuhu Island from Mario Kart 7 | 314454 | [314454-tony-hawks-underground-2-wuhu-island-from-mario-kart-7.json](./314454-tony-hawks-underground-2-wuhu-island-from-mario-kart-7.json) |
+| Tony Hawk's Vert | 199792 | [199792-tony-hawks-vert.json](./199792-tony-hawks-vert.json) |
 | Tony La Russa Baseball '95 | 95378 | [95378-tony-la-russa-baseball-95.json](./95378-tony-la-russa-baseball-95.json) |
 | Tony La Russa Baseball 2 | 95465 | [95465-tony-la-russa-baseball-2.json](./95465-tony-la-russa-baseball-2.json) |
 | Tony La Russa's Ultimate Baseball | 95470 | [95470-tony-la-russas-ultimate-baseball.json](./95470-tony-la-russas-ultimate-baseball.json) |
@@ -20201,6 +20208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Mahoujou: Book of Star Mythology | 246669 | [246669-touhou-mahoujou-book-of-star-mythology.json](./246669-touhou-mahoujou-book-of-star-mythology.json) |
 | Touhou Maiden | 252171 | [252171-touhou-maiden.json](./252171-touhou-maiden.json) |
 | Touhou Makuka Sai: Fantastic Danmaku Festival | 106400 | [106400-touhou-makuka-sai-fantastic-danmaku-festival.json](./106400-touhou-makuka-sai-fantastic-danmaku-festival.json) |
+| Touhou Makuka Sai: Fantastic Danmaku Festival Part II | 199783 | [199783-touhou-makuka-sai-fantastic-danmaku-festival-part-ii.json](./199783-touhou-makuka-sai-fantastic-danmaku-festival-part-ii.json) |
 | Touhou Makuka Sai: Fantastic Danmaku Festival Part III | 331125 | [331125-touhou-makuka-sai-fantastic-danmaku-festival-part-iii.json](./331125-touhou-makuka-sai-fantastic-danmaku-festival-part-iii.json) |
 | Touhou Mario 2 | 322652 | [322652-touhou-mario-2.json](./322652-touhou-mario-2.json) |
 | Touhou Mario: Imperishable Night | 214996 | [214996-touhou-mario-imperishable-night.json](./214996-touhou-mario-imperishable-night.json) |
@@ -20459,6 +20467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Defence Engineer | 323248 | [323248-tower-defence-engineer.json](./323248-tower-defence-engineer.json) |
 | Tower Defender: Hero Wars | 207270 | [207270-tower-defender-hero-wars.json](./207270-tower-defender-hero-wars.json) |
 | Tower Defense | 213813 | [213813-tower-defense.json](./213813-tower-defense.json) |
+| Tower Defense Bundle | 199779 | [199779-tower-defense-bundle.json](./199779-tower-defense-bundle.json) |
 | Tower Defense King | 208379 | [208379-tower-defense-king.json](./208379-tower-defense-king.json) |
 | Tower Defense Ultimate | 32900 | [32900-tower-defense-ultimate.json](./32900-tower-defense-ultimate.json) |
 | Tower Defense: Defender of the Kingdom | 122130 | [122130-tower-defense-defender-of-the-kingdom.json](./122130-tower-defense-defender-of-the-kingdom.json) |
@@ -21116,6 +21125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic Road | 353949 | [353949-traffic-road.json](./353949-traffic-road.json) |
 | Traffic Rush | 87886 | [87886-traffic-rush.json](./87886-traffic-rush.json) |
 | Traffic Rush: Ultimate Drive | 413090 | [413090-traffic-rush-ultimate-drive.json](./413090-traffic-rush-ultimate-drive.json) |
+| Traffic Safety | 199813 | [199813-traffic-safety.json](./199813-traffic-safety.json) |
 | Traffic Safety: Air Scrambled Hard | 204271 | [204271-traffic-safety-air-scrambled-hard.json](./204271-traffic-safety-air-scrambled-hard.json) |
 | Traffic Tour Classic | 249690 | [249690-traffic-tour-classic.json](./249690-traffic-tour-classic.json) |
 | Traffic V | 149931 | [149931-traffic-v.json](./149931-traffic-v.json) |
