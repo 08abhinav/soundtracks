@@ -1095,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Warriors 4 DX | 112910 | [112910-samurai-warriors-4-dx.json](./112910-samurai-warriors-4-dx.json) |
 | Samurai Warriors 4-II | 12279 | [12279-samurai-warriors-4-ii.json](./12279-samurai-warriors-4-ii.json) |
 | Samurai Warriors 4: Empires | 12280 | [12280-samurai-warriors-4-empires.json](./12280-samurai-warriors-4-empires.json) |
+| Samurai Warriors 4: Special Anime Pack | 178296 | [178296-samurai-warriors-4-special-anime-pack.json](./178296-samurai-warriors-4-special-anime-pack.json) |
 | Samurai Warriors 5: Ikkitousen Box | 146037 | [146037-samurai-warriors-5-ikkitousen-box.json](./146037-samurai-warriors-5-ikkitousen-box.json) |
 | Samurai Warriors 5: Treasure Box | 146035 | [146035-samurai-warriors-5-treasure-box.json](./146035-samurai-warriors-5-treasure-box.json) |
 | Samurai Warriors: Chronicles 2nd | 64991 | [64991-samurai-warriors-chronicles-2nd.json](./64991-samurai-warriors-chronicles-2nd.json) |
@@ -10398,6 +10399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime-san: Content Creator | 112734 | [112734-slime-san-content-creator.json](./112734-slime-san-content-creator.json) |
 | Slime-san: Superslime Edition | 96019 | [96019-slime-san-superslime-edition.json](./96019-slime-san-superslime-edition.json) |
 | Slime: Desulted | 183465 | [183465-slime-desulted.json](./183465-slime-desulted.json) |
+| Slime: Isekai Memories | 178301 | [178301-slime-isekai-memories.json](./178301-slime-isekai-memories.json) |
 | Slime:Evo | 143021 | [143021-slime-evo.json](./143021-slime-evo.json) |
 | Slime.io: Devour the Сity | 223911 | [223911-slime-io-devour-the-ity.json](./223911-slime-io-devour-the-ity.json) |
 | Slime's Journey | 378316 | [378316-slimes-journey.json](./378316-slimes-journey.json) |
@@ -15473,6 +15475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceFire Fury | 329079 | [329079-spacefire-fury.json](./329079-spacefire-fury.json) |
 | Spaceflight Simulator | 188384 | [188384-spaceflight-simulator.json](./188384-spaceflight-simulator.json) |
 | Spaceflux | 137421 | [137421-spaceflux.json](./137421-spaceflux.json) |
+| Spacefolk City | 178285 | [178285-spacefolk-city.json](./178285-spacefolk-city.json) |
 | Spaceforce Constellations | 16846 | [16846-spaceforce-constellations.json](./16846-spaceforce-constellations.json) |
 | Spaceforce Rogue Universe HD | 35202 | [35202-spaceforce-rogue-universe-hd.json](./35202-spaceforce-rogue-universe-hd.json) |
 | Spaceforce: Captains | 20783 | [20783-spaceforce-captains.json](./20783-spaceforce-captains.json) |
@@ -15588,6 +15591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacey McRacey | 134355 | [134355-spacey-mcracey.json](./134355-spacey-mcracey.json) |
 | Spacey Vade | 158153 | [158153-spacey-vade.json](./158153-spacey-vade.json) |
 | Spacey-Clopedia | 272484 | [272484-spacey-clopedia.json](./272484-spacey-clopedia.json) |
+| Spacious Snake | 178274 | [178274-spacious-snake.json](./178274-spacious-snake.json) |
 | Spacy Shuffle Puck | 91520 | [91520-spacy-shuffle-puck.json](./91520-spacy-shuffle-puck.json) |
 | Spade no Kuni no Alice: Wonderful White World | 148840 | [148840-spade-no-kuni-no-alice-wonderful-white-world.json](./148840-spade-no-kuni-no-alice-wonderful-white-world.json) |
 | Spades | 372227 | [372227-spades.json](./372227-spades.json) |
@@ -15898,6 +15902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectrum | 260129 | [260129-spectrum.json](./260129-spectrum.json) |
 | Spectrum | 34009 | [34009-spectrum.json](./34009-spectrum.json) |
 | Spectrum 6 | 240838 | [240838-spectrum-6.json](./240838-spectrum-6.json) |
+| Spectrum Forces | 178252 | [178252-spectrum-forces.json](./178252-spectrum-forces.json) |
 | Spectrum Valley | 184132 | [184132-spectrum-valley.json](./184132-spectrum-valley.json) |
 | Spectrum: First Light | 35827 | [35827-spectrum-first-light.json](./35827-spectrum-first-light.json) |
 | SpectrumTap | 41501 | [41501-spectrumtap.json](./41501-spectrumtap.json) |
@@ -25130,7 +25135,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. for Nintendo 3DS: Corrin | 178319 | [178319-super-smash-bros-for-nintendo-3ds-corrin.json](./178319-super-smash-bros-for-nintendo-3ds-corrin.json) |
 | Super Smash Bros. for Nintendo 3DS: Frozen WarioWare Inc. | 342697 | [342697-super-smash-bros-for-nintendo-3ds-frozen-warioware-inc.json](./342697-super-smash-bros-for-nintendo-3ds-frozen-warioware-inc.json) |
 | Super Smash Bros. for Nintendo 3DS: Geno Hat + Geno Outfit | 325077 | [325077-super-smash-bros-for-nintendo-3ds-geno-hat-geno-outfit.json](./325077-super-smash-bros-for-nintendo-3ds-geno-hat-geno-outfit.json) |
+| Super Smash Bros. for Nintendo 3DS: Lucas | 178312 | [178312-super-smash-bros-for-nintendo-3ds-lucas.json](./178312-super-smash-bros-for-nintendo-3ds-lucas.json) |
 | Super Smash Bros. for Nintendo 3DS: Meta Crystal | 342695 | [342695-super-smash-bros-for-nintendo-3ds-meta-crystal.json](./342695-super-smash-bros-for-nintendo-3ds-meta-crystal.json) |
+| Super Smash Bros. for Nintendo 3DS: Mewtwo | 178310 | [178310-super-smash-bros-for-nintendo-3ds-mewtwo.json](./178310-super-smash-bros-for-nintendo-3ds-mewtwo.json) |
 | Super Smash Bros. for Nintendo 3DS: Peach's Castle | 312968 | [312968-super-smash-bros-for-nintendo-3ds-peachs-castle.json](./312968-super-smash-bros-for-nintendo-3ds-peachs-castle.json) |
 | Super Smash Bros. for Nintendo 3DS: Roy | 178314 | [178314-super-smash-bros-for-nintendo-3ds-roy.json](./178314-super-smash-bros-for-nintendo-3ds-roy.json) |
 | Super Smash Bros. for Nintendo 3DS: Ryu | 178316 | [178316-super-smash-bros-for-nintendo-3ds-ryu.json](./178316-super-smash-bros-for-nintendo-3ds-ryu.json) |
@@ -25144,7 +25151,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. for Wii U: Corrin | 178318 | [178318-super-smash-bros-for-wii-u-corrin.json](./178318-super-smash-bros-for-wii-u-corrin.json) |
 | Super Smash Bros. for Wii U: Geno Hat + Geno Outfit | 325076 | [325076-super-smash-bros-for-wii-u-geno-hat-geno-outfit.json](./325076-super-smash-bros-for-wii-u-geno-hat-geno-outfit.json) |
 | Super Smash Bros. for Wii U: Igglybuff moveset | 343431 | [343431-super-smash-bros-for-wii-u-igglybuff-moveset.json](./343431-super-smash-bros-for-wii-u-igglybuff-moveset.json) |
+| Super Smash Bros. for Wii U: Lucas | 178311 | [178311-super-smash-bros-for-wii-u-lucas.json](./178311-super-smash-bros-for-wii-u-lucas.json) |
+| Super Smash Bros. for Wii U: Mewtwo | 178309 | [178309-super-smash-bros-for-wii-u-mewtwo.json](./178309-super-smash-bros-for-wii-u-mewtwo.json) |
 | Super Smash Bros. for Wii U: Peach's Castle | 312969 | [312969-super-smash-bros-for-wii-u-peachs-castle.json](./312969-super-smash-bros-for-wii-u-peachs-castle.json) |
+| Super Smash Bros. for Wii U: Roy | 178313 | [178313-super-smash-bros-for-wii-u-roy.json](./178313-super-smash-bros-for-wii-u-roy.json) |
 | Super Smash Bros. for Wii U: Ryu | 178315 | [178315-super-smash-bros-for-wii-u-ryu.json](./178315-super-smash-bros-for-wii-u-ryu.json) |
 | Super Smash Bros. for Wii U: Stage Bundle | 325075 | [325075-super-smash-bros-for-wii-u-stage-bundle.json](./325075-super-smash-bros-for-wii-u-stage-bundle.json) |
 | Super Smash Bros. for Wii U: Super Mario Maker | 312966 | [312966-super-smash-bros-for-wii-u-super-mario-maker.json](./312966-super-smash-bros-for-wii-u-super-mario-maker.json) |
