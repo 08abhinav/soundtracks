@@ -1156,6 +1156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Term, First Love | 391734 | [391734-last-term-first-love.json](./391734-last-term-first-love.json) |
 | Last Threshold | 192634 | [192634-last-threshold.json](./192634-last-threshold.json) |
 | Last Throne | 364035 | [364035-last-throne.json](./364035-last-throne.json) |
+| Last ticket for Eternity | 178864 | [178864-last-ticket-for-eternity.json](./178864-last-ticket-for-eternity.json) |
 | Last Tide | 106114 | [106114-last-tide.json](./106114-last-tide.json) |
 | Last Toon Standing | 72512 | [72512-last-toon-standing.json](./72512-last-toon-standing.json) |
 | Last Train Home | 131385 | [131385-last-train-home.json](./131385-last-train-home.json) |
@@ -4291,6 +4292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liquid | 224964 | [224964-liquid.json](./224964-liquid.json) |
 | Liquid Abyss: The Melted Jelly | 331883 | [331883-liquid-abyss-the-melted-jelly.json](./331883-liquid-abyss-the-melted-jelly.json) |
 | Liquid Defense | 91281 | [91281-liquid-defense.json](./91281-liquid-defense.json) |
+| Liquid Dungeon Byproduct | 178863 | [178863-liquid-dungeon-byproduct.json](./178863-liquid-dungeon-byproduct.json) |
 | Liquid Havoc | 212105 | [212105-liquid-havoc.json](./212105-liquid-havoc.json) |
 | Liquid Kids | 16750 | [16750-liquid-kids.json](./16750-liquid-kids.json) |
 | Liquid Light | 286001 | [286001-liquid-light.json](./286001-liquid-light.json) |
@@ -6505,6 +6507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Louloudi Asteri: Save the Solar System | 251004 | [251004-louloudi-asteri-save-the-solar-system.json](./251004-louloudi-asteri-save-the-solar-system.json) |
 | Louma | 265116 | [265116-louma.json](./265116-louma.json) |
 | Lounge Café | 390247 | [390247-lounge-cafe.json](./390247-lounge-cafe.json) |
+| Lounge Lord | 178833 | [178833-lounge-lord.json](./178833-lounge-lord.json) |
 | Louny Balloony | 217378 | [217378-louny-balloony.json](./217378-louny-balloony.json) |
 | LouveSystems' TrackMasters | 167607 | [167607-louvesystems-trackmasters.json](./167607-louvesystems-trackmasters.json) |
 | Lovanium: The Rising Suns | 265633 | [265633-lovanium-the-rising-suns.json](./265633-lovanium-the-rising-suns.json) |
