@@ -4877,6 +4877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First! Person Shooter | 333228 | [333228-first-person-shooter.json](./333228-first-person-shooter.json) |
 | FirstPlanet | 114552 | [114552-firstplanet.json](./114552-firstplanet.json) |
 | FirstPlate | 400994 | [400994-firstplate.json](./400994-firstplate.json) |
+| FirstQueen1 Next | 172371 | [172371-firstqueen1-next.json](./172371-firstqueen1-next.json) |
 | Fiscal Jesters | 176509 | [176509-fiscal-jesters.json](./176509-fiscal-jesters.json) |
 | Fiscal Kombat | 167175 | [167175-fiscal-kombat.json](./167175-fiscal-kombat.json) |
 | Fischer's Fishing Journey | 343421 | [343421-fischers-fishing-journey.json](./343421-fischers-fishing-journey.json) |
