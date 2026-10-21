@@ -3399,6 +3399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Split | 173804 | [173804-perfect-split.json](./173804-perfect-split.json) |
 | Perfect Stride | 9612 | [9612-perfect-stride.json](./9612-perfect-stride.json) |
 | Perfect Swing | 241867 | [241867-perfect-swing.json](./241867-perfect-swing.json) |
+| Perfect Teams | 178291 | [178291-perfect-teams.json](./178291-perfect-teams.json) |
 | Perfect Tense: Maggot Therapy | 331958 | [331958-perfect-tense-maggot-therapy.json](./331958-perfect-tense-maggot-therapy.json) |
 | Perfect Thog | 408732 | [408732-perfect-thog.json](./408732-perfect-thog.json) |
 | Perfect Tides: Station to Station | 215695 | [215695-perfect-tides-station-to-station.json](./215695-perfect-tides-station-to-station.json) |
@@ -4271,6 +4272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phobos Vector Prime: The First Ring | 111057 | [111057-phobos-vector-prime-the-first-ring.json](./111057-phobos-vector-prime-the-first-ring.json) |
 | Phobos: Anomaly Reborn | 255623 | [255623-phobos-anomaly-reborn.json](./255623-phobos-anomaly-reborn.json) |
 | Phobos: Relive The Nightmare | 257305 | [257305-phobos-relive-the-nightmare.json](./257305-phobos-relive-the-nightmare.json) |
+| Phobos: Subhuman | 178305 | [178305-phobos-subhuman.json](./178305-phobos-subhuman.json) |
 | PhobosDeimos Anomaly | 263449 | [263449-phobosdeimos-anomaly.json](./263449-phobosdeimos-anomaly.json) |
 | Phobyark | 157907 | [157907-phobyark.json](./157907-phobyark.json) |
 | Phocas Island 2 | 256859 | [256859-phocas-island-2.json](./256859-phocas-island-2.json) |
@@ -9231,6 +9233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polyamorous Relationships | 179048 | [179048-polyamorous-relationships.json](./179048-polyamorous-relationships.json) |
 | Polyaris | 307263 | [307263-polyaris.json](./307263-polyaris.json) |
 | Polyball | 20348 | [20348-polyball.json](./20348-polyball.json) |
+| Polybius | 178251 | [178251-polybius.json](./178251-polybius.json) |
 | Polybius | 239548 | [239548-polybius.json](./239548-polybius.json) |
 | Polybius | 24868 | [24868-polybius.json](./24868-polybius.json) |
 | Polybius | 275668 | [275668-polybius.json](./275668-polybius.json) |
@@ -10531,6 +10534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Praecantor Lila: Bell Spell | 192655 | [192655-praecantor-lila-bell-spell.json](./192655-praecantor-lila-bell-spell.json) |
 | Praetorians HD Remaster | 119382 | [119382-praetorians-hd-remaster.json](./119382-praetorians-hd-remaster.json) |
 | Praey for the Gods | 14378 | [14378-praey-for-the-gods.json](./14378-praey-for-the-gods.json) |
+| Pragma | 178245 | [178245-pragma.json](./178245-pragma.json) |
 | Pragma Arbiter | 227990 | [227990-pragma-arbiter.json](./227990-pragma-arbiter.json) |
 | Pragma Twice | 347714 | [347714-pragma-twice.json](./347714-pragma-twice.json) |
 | Pragmata: Deluxe Edition | 385206 | [385206-pragmata-deluxe-edition.json](./385206-pragmata-deluxe-edition.json) |
@@ -11765,6 +11769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Progear: Airplane Shooter | 231908 | [231908-progear-airplane-shooter.json](./231908-progear-airplane-shooter.json) |
 | Progenitor | 378978 | [378978-progenitor.json](./378978-progenitor.json) |
 | Progeny VR | 81101 | [81101-progeny-vr.json](./81101-progeny-vr.json) |
+| Prognostic | 178287 | [178287-prognostic.json](./178287-prognostic.json) |
 | Program Pack 4 | 319591 | [319591-program-pack-4.json](./319591-program-pack-4.json) |
 | Program Penguin | 349405 | [349405-program-penguin.json](./349405-program-penguin.json) |
 | Programa do Ratinho | 163360 | [163360-programa-do-ratinho.json](./163360-programa-do-ratinho.json) |
