@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z.O.N.A: Shadow of Limansk Redux | 199903 | [199903-z-o-n-a-shadow-of-limansk-redux.json](./199903-z-o-n-a-shadow-of-limansk-redux.json) |
 | Z.W! | 99772 | [99772-z-w.json](./99772-z-w.json) |
 | Z'code | 30782 | [30782-zcode.json](./30782-zcode.json) |
+| Z's Room | 180441 | [180441-zs-room.json](./180441-zs-room.json) |
 | Z0mb1es on teh ph0ne | 77995 | [77995-z0mb1es-on-teh-ph0ne.json](./77995-z0mb1es-on-teh-ph0ne.json) |
 | Z1: Battle Royale | 18094 | [18094-z1-battle-royale.json](./18094-z1-battle-royale.json) |
 | Z2 | 296016 | [296016-z2.json](./296016-z2.json) |
