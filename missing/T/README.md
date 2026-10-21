@@ -2989,6 +2989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temptation | 93800 | [93800-temptation.json](./93800-temptation.json) |
 | Temptations X: Darkest Fantasy | 149408 | [149408-temptations-x-darkest-fantasy.json](./149408-temptations-x-darkest-fantasy.json) |
 | Tempter | 309887 | [309887-tempter.json](./309887-tempter.json) |
+| Tempus | 192223 | [192223-tempus.json](./192223-tempus.json) |
 | Tempus | 377168 | [377168-tempus.json](./377168-tempus.json) |
 | Tempus Bound | 156997 | [156997-tempus-bound.json](./156997-tempus-bound.json) |
 | Tempus Chronicle | 63536 | [63536-tempus-chronicle.json](./63536-tempus-chronicle.json) |
@@ -14039,6 +14040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unknown City | 95199 | [95199-the-unknown-city.json](./95199-the-unknown-city.json) |
 | The Unknown City (Episode 1) | 105987 | [105987-the-unknown-city-episode-1.json](./105987-the-unknown-city-episode-1.json) |
 | The Unknown Force | 179580 | [179580-the-unknown-force.json](./179580-the-unknown-force.json) |
+| The Unknown Halls | 192224 | [192224-the-unknown-halls.json](./192224-the-unknown-halls.json) |
 | The Unknown Planet | 270684 | [270684-the-unknown-planet.json](./270684-the-unknown-planet.json) |
 | The Unknown Strain | 292444 | [292444-the-unknown-strain.json](./292444-the-unknown-strain.json) |
 | The Unlife of Gorlak | 271391 | [271391-the-unlife-of-gorlak.json](./271391-the-unlife-of-gorlak.json) |
@@ -22744,6 +22746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped in a Cage | 267067 | [267067-trapped-in-a-cage.json](./267067-trapped-in-a-cage.json) |
 | Trapped in Fear | 126965 | [126965-trapped-in-fear.json](./126965-trapped-in-fear.json) |
 | Trapped In Here With Me | 263566 | [263566-trapped-in-here-with-me.json](./263566-trapped-in-here-with-me.json) |
+| Trapped In Stone | 192207 | [192207-trapped-in-stone.json](./192207-trapped-in-stone.json) |
 | Trapped in the Backrooms | 404793 | [404793-trapped-in-the-backrooms.json](./404793-trapped-in-the-backrooms.json) |
 | Trapped in the Forest | 190055 | [190055-trapped-in-the-forest.json](./190055-trapped-in-the-forest.json) |
 | Trapped in the Kanal | 259538 | [259538-trapped-in-the-kanal.json](./259538-trapped-in-the-kanal.json) |
