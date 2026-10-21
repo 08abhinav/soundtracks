@@ -1048,6 +1048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okiku | 285394 | [285394-okiku.json](./285394-okiku.json) |
 | Okinawa Journal | 372458 | [372458-okinawa-journal.json](./372458-okinawa-journal.json) |
 | Okinawa Rush | 69375 | [69375-okinawa-rush.json](./69375-okinawa-rush.json) |
+| Okinawa Rush: Limited Edition | 171283 | [171283-okinawa-rush-limited-edition.json](./171283-okinawa-rush-limited-edition.json) |
 | OkioGo! | 61061 | [61061-okiogo.json](./61061-okiogo.json) |
 | Okiraku Daifugou 3D | 222326 | [222326-okiraku-daifugou-3d.json](./222326-okiraku-daifugou-3d.json) |
 | Okiraku Fishing 3D | 222450 | [222450-okiraku-fishing-3d.json](./222450-okiraku-fishing-3d.json) |
