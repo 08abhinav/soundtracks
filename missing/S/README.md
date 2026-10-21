@@ -2488,6 +2488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scoopy Cereal | 304951 | [304951-scoopy-cereal.json](./304951-scoopy-cereal.json) |
 | Scoot Hard DX: Daytime Drama Zero | 230508 | [230508-scoot-hard-dx-daytime-drama-zero.json](./230508-scoot-hard-dx-daytime-drama-zero.json) |
 | Scoot Kaboom and the Tomb of Doom | 132695 | [132695-scoot-kaboom-and-the-tomb-of-doom.json](./132695-scoot-kaboom-and-the-tomb-of-doom.json) |
+| Scoot Scoot | 180469 | [180469-scoot-scoot.json](./180469-scoot-scoot.json) |
 | Scooter Boy | 238389 | [238389-scooter-boy.json](./238389-scooter-boy.json) |
 | Scooter Rush | 235112 | [235112-scooter-rush.json](./235112-scooter-rush.json) |
 | Scooter Shooter | 40199 | [40199-scooter-shooter.json](./40199-scooter-shooter.json) |
@@ -3754,6 +3755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeker of the Ruins | 331304 | [331304-seeker-of-the-ruins.json](./331304-seeker-of-the-ruins.json) |
 | Seeker Shrine | 399735 | [399735-seeker-shrine.json](./399735-seeker-shrine.json) |
 | Seeker Tactics | 412935 | [412935-seeker-tactics.json](./412935-seeker-tactics.json) |
+| Seeker VR | 180460 | [180460-seeker-vr.json](./180460-seeker-vr.json) |
 | Seeker: Quest | 250760 | [250760-seeker-quest.json](./250760-seeker-quest.json) |
 | Seekers | 169342 | [169342-seekers.json](./169342-seekers.json) |
 | Seekers Aeterna | 217339 | [217339-seekers-aeterna.json](./217339-seekers-aeterna.json) |
@@ -4042,6 +4044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Self Defense Kinda... | 258468 | [258468-self-defense-kinda.json](./258468-self-defense-kinda.json) |
 | Self Deleted | 412985 | [412985-self-deleted.json](./412985-self-deleted.json) |
 | Self Destruct | 358635 | [358635-self-destruct.json](./358635-self-destruct.json) |
+| Self Golf | 180461 | [180461-self-golf.json](./180461-self-golf.json) |
 | Self Gunsbase | 149386 | [149386-self-gunsbase.json](./149386-self-gunsbase.json) |
 | Self Layout Shooter | 331194 | [331194-self-layout-shooter.json](./331194-self-layout-shooter.json) |
 | Self Made Man: Life of an Entrepreneur | 204937 | [204937-self-made-man-life-of-an-entrepreneur.json](./204937-self-made-man-life-of-an-entrepreneur.json) |
@@ -9110,6 +9113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skater: Let's Skate | 106096 | [106096-skater-lets-skate.json](./106096-skater-lets-skate.json) |
 | Skater's Solstice | 317562 | [317562-skaters-solstice.json](./317562-skaters-solstice.json) |
 | SkateRide | 180776 | [180776-skateride.json](./180776-skateride.json) |
+| SkateRPG | 180468 | [180468-skaterpg.json](./180468-skaterpg.json) |
 | Skatesterre | 404911 | [404911-skatesterre.json](./404911-skatesterre.json) |
 | Skator Gator | 139871 | [139871-skator-gator.json](./139871-skator-gator.json) |
 | Skator Gator 3D | 217239 | [217239-skator-gator-3d.json](./217239-skator-gator-3d.json) |
@@ -10612,6 +10616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sludgineers | 389622 | [389622-sludgineers.json](./389622-sludgineers.json) |
 | Slug Blast | 28893 | [28893-slug-blast.json](./28893-slug-blast.json) |
 | Slug Gear | 257996 | [257996-slug-gear.json](./257996-slug-gear.json) |
+| Slug Races | 180482 | [180482-slug-races.json](./180482-slug-races.json) |
 | Slug Slasher | 93786 | [93786-slug-slasher.json](./93786-slug-slasher.json) |
 | Slug Survival | 393817 | [393817-slug-survival.json](./393817-slug-survival.json) |
 | Slugger 2 | 326802 | [326802-slugger-2.json](./326802-slugger-2.json) |
@@ -11269,6 +11274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Rampage - Snake Simulator | 108619 | [108619-snake-rampage-snake-simulator.json](./108619-snake-rampage-snake-simulator.json) |
 | Snake Real World | 133874 | [133874-snake-real-world.json](./133874-snake-real-world.json) |
 | Snake Roy | 210642 | [210642-snake-roy.json](./210642-snake-roy.json) |
+| Snake Snafu | 180479 | [180479-snake-snafu.json](./180479-snake-snafu.json) |
 | Snake VR | 78551 | [78551-snake-vr.json](./78551-snake-vr.json) |
 | Snake VS Block Math | 86730 | [86730-snake-vs-block-math.json](./86730-snake-vs-block-math.json) |
 | Snake Vs Colours | 108446 | [108446-snake-vs-colours.json](./108446-snake-vs-colours.json) |
@@ -11999,6 +12005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer America International Cup | 43307 | [43307-soccer-america-international-cup.json](./43307-soccer-america-international-cup.json) |
 | Soccer Battle - PvP Football | 137333 | [137333-soccer-battle-pvp-football.json](./137333-soccer-battle-pvp-football.json) |
 | Soccer Battle Royale | 108973 | [108973-soccer-battle-royale.json](./108973-soccer-battle-royale.json) |
+| Soccer Battle Royale | 180476 | [180476-soccer-battle-royale.json](./180476-soccer-battle-royale.json) |
 | Soccer Battles | 170251 | [170251-soccer-battles.json](./170251-soccer-battles.json) |
 | Soccer Boss | 190209 | [190209-soccer-boss.json](./190209-soccer-boss.json) |
 | Soccer Brawl | 39843 | [39843-soccer-brawl.json](./39843-soccer-brawl.json) |
@@ -21539,6 +21546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Scooters | 279217 | [279217-street-scooters.json](./279217-street-scooters.json) |
 | Street Shuffle | 134659 | [134659-street-shuffle.json](./134659-street-shuffle.json) |
 | Street Shuffle | 212160 | [212160-street-shuffle.json](./212160-street-shuffle.json) |
+| Street Skater City | 180484 | [180484-street-skater-city.json](./180484-street-skater-city.json) |
 | Street Smart | 41084 | [41084-street-smart.json](./41084-street-smart.json) |
 | Street Soccer Online | 345087 | [345087-street-soccer-online.json](./345087-street-soccer-online.json) |
 | Street Soccer Simulator | 391342 | [391342-street-soccer-simulator.json](./391342-street-soccer-simulator.json) |
