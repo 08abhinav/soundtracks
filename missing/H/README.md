@@ -945,6 +945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hananezumi | 200742 | [200742-hananezumi.json](./200742-hananezumi.json) |
 | Hanano | 28828 | [28828-hanano.json](./28828-hanano.json) |
 | Hanano Puzzle | 124570 | [124570-hanano-puzzle.json](./124570-hanano-puzzle.json) |
+| Hanano Puzzle 2 | 177237 | [177237-hanano-puzzle-2.json](./177237-hanano-puzzle-2.json) |
 | Hanapon Princess | 135790 | [135790-hanapon-princess.json](./135790-hanapon-princess.json) |
 | Hanarenga: Takumi no Utage | 338309 | [338309-hanarenga-takumi-no-utage.json](./338309-hanarenga-takumi-no-utage.json) |
 | Hanasaka Tenshi Tenten-kun no Beat Breaker | 228500 | [228500-hanasaka-tenshi-tenten-kun-no-beat-breaker.json](./228500-hanasaka-tenshi-tenten-kun-no-beat-breaker.json) |
@@ -1022,6 +1023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handsome and Brave | 392228 | [392228-handsome-and-brave.json](./392228-handsome-and-brave.json) |
 | Handsome Laundering: The Mystic Lover | 385263 | [385263-handsome-laundering-the-mystic-lover.json](./385263-handsome-laundering-the-mystic-lover.json) |
 | Handsome Mr. Frog | 31905 | [31905-handsome-mr-frog.json](./31905-handsome-mr-frog.json) |
+| Handsome Roadkill | 177210 | [177210-handsome-roadkill.json](./177210-handsome-roadkill.json) |
 | HandsON | 158232 | [158232-handson.json](./158232-handson.json) |
 | Handwalk | 402355 | [402355-handwalk.json](./402355-handwalk.json) |
 | Handwriting Fantasy | 244658 | [244658-handwriting-fantasy.json](./244658-handwriting-fantasy.json) |
@@ -4457,6 +4459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero of Ideal | 393948 | [393948-hero-of-ideal.json](./393948-hero-of-ideal.json) |
 | Hero of Law | 351679 | [351679-hero-of-law.json](./351679-hero-of-law.json) |
 | Hero of Many | 17339 | [17339-hero-of-many.json](./17339-hero-of-many.json) |
+| Hero of Memory | 177227 | [177227-hero-of-memory.json](./177227-hero-of-memory.json) |
 | Hero of Not Our Time | 144818 | [144818-hero-of-not-our-time.json](./144818-hero-of-not-our-time.json) |
 | Hero of Sparta | 21690 | [21690-hero-of-sparta.json](./21690-hero-of-sparta.json) |
 | Hero of Sunset | 364375 | [364375-hero-of-sunset.json](./364375-hero-of-sunset.json) |
