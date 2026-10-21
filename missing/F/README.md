@@ -2766,6 +2766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fears to Fathom: Ironbark Lookout | 256636 | [256636-fears-to-fathom-ironbark-lookout.json](./256636-fears-to-fathom-ironbark-lookout.json) |
 | Fears to Fathom: Norwood Hitchhike | 186437 | [186437-fears-to-fathom-norwood-hitchhike.json](./186437-fears-to-fathom-norwood-hitchhike.json) |
 | Fears to Fathom: Scratch Creek | 348971 | [348971-fears-to-fathom-scratch-creek.json](./348971-fears-to-fathom-scratch-creek.json) |
+| Fearsome Five | 177217 | [177217-fearsome-five.json](./177217-fearsome-five.json) |
 | Fearsome Shadows Bundle | 125135 | [125135-fearsome-shadows-bundle.json](./125135-fearsome-shadows-bundle.json) |
 | Feartten Noir Story | 195246 | [195246-feartten-noir-story.json](./195246-feartten-noir-story.json) |
 | Fearwoods | 388421 | [388421-fearwoods.json](./388421-fearwoods.json) |
