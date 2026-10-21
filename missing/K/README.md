@@ -3821,6 +3821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koko & Kebi: Crank Harrier | 274671 | [274671-koko-and-kebi-crank-harrier.json](./274671-koko-and-kebi-crank-harrier.json) |
 | Koko Adventure | 54899 | [54899-koko-adventure.json](./54899-koko-adventure.json) |
 | Koko kara Natsu no Innocence! | 327920 | [327920-koko-kara-natsu-no-innocence.json](./327920-koko-kara-natsu-no-innocence.json) |
+| Koko: The Last Leaf | 199288 | [199288-koko-the-last-leaf.json](./199288-koko-the-last-leaf.json) |
 | Koko's Cafe | 406678 | [406678-kokos-cafe.json](./406678-kokos-cafe.json) |
 | Kokoa | 305480 | [305480-kokoa.json](./305480-kokoa.json) |
 | Kokoda VR | 74947 | [74947-kokoda-vr.json](./74947-kokoda-vr.json) |
