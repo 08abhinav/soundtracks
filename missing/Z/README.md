@@ -616,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zerko | 289878 | [289878-zerko.json](./289878-zerko.json) |
 | Zero 4 Champ | 37648 | [37648-zero-4-champ.json](./37648-zero-4-champ.json) |
 | Zero 5 | 40818 | [40818-zero-5.json](./40818-zero-5.json) |
+| Zero Caliber: Reloaded | 174559 | [174559-zero-caliber-reloaded.json](./174559-zero-caliber-reloaded.json) |
 | Zero City: Try to Survive | 140935 | [140935-zero-city-try-to-survive.json](./140935-zero-city-try-to-survive.json) |
 | Zero Comico | 185970 | [185970-zero-comico.json](./185970-zero-comico.json) |
 | Zero Conflict TD | 271276 | [271276-zero-conflict-td.json](./271276-zero-conflict-td.json) |
@@ -1909,6 +1910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zyxia: Neon Termination | 122797 | [122797-zyxia-neon-termination.json](./122797-zyxia-neon-termination.json) |
 | Zzap! | 194422 | [194422-zzap.json](./194422-zzap.json) |
 | Zzoom | 45356 | [45356-zzoom.json](./45356-zzoom.json) |
+| Zzyzzyxx | 175634 | [175634-zzyzzyxx.json](./175634-zzyzzyxx.json) |
 | Zzz | 376218 | [376218-zzz.json](./376218-zzz.json) |
 | Zzzep | 60982 | [60982-zzzep.json](./60982-zzzep.json) |
 | Zzzz | 12975 | [12975-zzzz.json](./12975-zzzz.json) |
