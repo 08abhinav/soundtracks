@@ -1976,6 +1976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Eyelashes | 372724 | [372724-killer-eyelashes.json](./372724-killer-eyelashes.json) |
 | Killer Freaks From Outer Space | 132063 | [132063-killer-freaks-from-outer-space.json](./132063-killer-freaks-from-outer-space.json) |
 | Killer Gorilla | 13733 | [13733-killer-gorilla.json](./13733-killer-gorilla.json) |
+| Killer in the Cabin | 181016 | [181016-killer-in-the-cabin.json](./181016-killer-in-the-cabin.json) |
 | Killer Inside Us | 157189 | [157189-killer-inside-us.json](./157189-killer-inside-us.json) |
 | Killer Instinct | 10354 | [10354-killer-instinct.json](./10354-killer-instinct.json) |
 | Killer Instinct | 254517 | [254517-killer-instinct.json](./254517-killer-instinct.json) |
