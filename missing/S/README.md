@@ -2426,6 +2426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scion | 25885 | [25885-scion.json](./25885-scion.json) |
 | Scions of Fate | 72656 | [72656-scions-of-fate.json](./72656-scions-of-fate.json) |
 | Scirocco Thugs | 336515 | [336515-scirocco-thugs.json](./336515-scirocco-thugs.json) |
+| Sciron | 178849 | [178849-sciron.json](./178849-sciron.json) |
 | Scission | 384144 | [384144-scission.json](./384144-scission.json) |
 | Scissor Girl's Weed Crisis | 309720 | [309720-scissor-girls-weed-crisis.json](./309720-scissor-girls-weed-crisis.json) |
 | Scissors and Pink Angels | 345616 | [345616-scissors-and-pink-angels.json](./345616-scissors-and-pink-angels.json) |
@@ -4702,6 +4703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sewer Quest | 376007 | [376007-sewer-quest.json](./376007-sewer-quest.json) |
 | Sewer Raiders | 385929 | [385929-sewer-raiders.json](./385929-sewer-raiders.json) |
 | Sewer Rave | 125326 | [125326-sewer-rave.json](./125326-sewer-rave.json) |
+| Sewer Rave Twitter Royale | 178865 | [178865-sewer-rave-twitter-royale.json](./178865-sewer-rave-twitter-royale.json) |
 | Sewer Run | 194847 | [194847-sewer-run.json](./194847-sewer-run.json) |
 | Sewer's Plague: Into the nest | 179895 | [179895-sewers-plague-into-the-nest.json](./179895-sewers-plague-into-the-nest.json) |
 | Sewercide | 385930 | [385930-sewercide.json](./385930-sewercide.json) |
@@ -5781,6 +5783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharks | 239708 | [239708-sharks.json](./239708-sharks.json) |
 | Sharks 3D | 328305 | [328305-sharks-3d.json](./328305-sharks-3d.json) |
 | Sharks and Minnows | 340956 | [340956-sharks-and-minnows.json](./340956-sharks-and-minnows.json) |
+| Sharks! In Space?! | 178840 | [178840-sharks-in-space.json](./178840-sharks-in-space.json) |
 | SharkSketch | 60576 | [60576-sharksketch.json](./60576-sharksketch.json) |
 | Sharkstorm | 297606 | [297606-sharkstorm.json](./297606-sharkstorm.json) |
 | Sharp | 107729 | [107729-sharp.json](./107729-sharp.json) |
@@ -6792,6 +6795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shobon no Action | 78662 | [78662-shobon-no-action.json](./78662-shobon-no-action.json) |
 | Shobon no Rukimin! DX: Shobomi to Yuki no Tiara | 206541 | [206541-shobon-no-rukimin-dx-shobomi-to-yuki-no-tiara.json](./206541-shobon-no-rukimin-dx-shobomi-to-yuki-no-tiara.json) |
 | Shock | 287552 | [287552-shock.json](./287552-shock.json) |
+| Shock Block. | 178857 | [178857-shock-block.json](./178857-shock-block.json) |
 | Shock Hop | 243089 | [243089-shock-hop.json](./243089-shock-hop.json) |
 | Shock Lobster | 220781 | [220781-shock-lobster.json](./220781-shock-lobster.json) |
 | Shock Tactics | 18811 | [18811-shock-tactics.json](./18811-shock-tactics.json) |
@@ -17123,6 +17127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spook House and Toxic Dumpsite | 69480 | [69480-spook-house-and-toxic-dumpsite.json](./69480-spook-house-and-toxic-dumpsite.json) |
 | Spook Tower | 179735 | [179735-spook-tower.json](./179735-spook-tower.json) |
 | Spook-A-Boo | 317993 | [317993-spook-a-boo.json](./317993-spook-a-boo.json) |
+| Spook's Escape | 178860 | [178860-spooks-escape.json](./178860-spooks-escape.json) |
 | Spooked | 45325 | [45325-spooked.json](./45325-spooked.json) |
 | Spooked Hide & Seek | 218669 | [218669-spooked-hide-and-seek.json](./218669-spooked-hide-and-seek.json) |
 | Spooker | 403027 | [403027-spooker.json](./403027-spooker.json) |
