@@ -4370,6 +4370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maths War | 266147 | [266147-maths-war.json](./266147-maths-war.json) |
 | Mathshot | 298806 | [298806-mathshot.json](./298806-mathshot.json) |
 | MathsJack | 56567 | [56567-mathsjack.json](./56567-mathsjack.json) |
+| Mathuba | 198121 | [198121-mathuba.json](./198121-mathuba.json) |
 | Mathville | 387698 | [387698-mathville.json](./387698-mathville.json) |
 | Matilda | 406546 | [406546-matilda.json](./406546-matilda.json) |
 | Matilda 2 | 409609 | [409609-matilda-2.json](./409609-matilda-2.json) |
@@ -4396,6 +4397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matryoshka | 326572 | [326572-matryoshka.json](./326572-matryoshka.json) |
 | Matsudaira's Myoshu: A Sengoku Village Simulator | 291470 | [291470-matsudairas-myoshu-a-sengoku-village-simulator.json](./291470-matsudairas-myoshu-a-sengoku-village-simulator.json) |
 | Matsukata Hiroki no Super Trawling | 37930 | [37930-matsukata-hiroki-no-super-trawling.json](./37930-matsukata-hiroki-no-super-trawling.json) |
+| Matsukata Hiroki no World Fishing | 198091 | [198091-matsukata-hiroki-no-world-fishing.json](./198091-matsukata-hiroki-no-world-fishing.json) |
 | Matsukeke Burst! | 288297 | [288297-matsukeke-burst.json](./288297-matsukeke-burst.json) |
 | Matsumoto Toru no Kabushiki Hisshougaku | 48783 | [48783-matsumoto-toru-no-kabushiki-hisshougaku.json](./48783-matsumoto-toru-no-kabushiki-hisshougaku.json) |
 | Matsumoto Toru no Kabushiki Hisshougaku II | 48782 | [48782-matsumoto-toru-no-kabushiki-hisshougaku-ii.json](./48782-matsumoto-toru-no-kabushiki-hisshougaku-ii.json) |
