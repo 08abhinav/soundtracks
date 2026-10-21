@@ -2340,6 +2340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Rumble Ni-Gakki Kyoufu no Natsugasshuku Youkan ni Yuurei Arawaru Otakara wo Megutte Makkou Shoubu no Maki | 94864 | [94864-school-rumble-ni-gakki-kyoufu-no-natsugasshuku-youkan-ni-yuurei-arawaru-otakara-wo-megutte-makkou-shoubu-no-maki.json](./94864-school-rumble-ni-gakki-kyoufu-no-natsugasshuku-youkan-ni-yuurei-arawaru-otakara-wo-megutte-makkou-shoubu-no-maki.json) |
 | School Rumble: Nee-san Jiken Desu! | 67683 | [67683-school-rumble-nee-san-jiken-desu.json](./67683-school-rumble-nee-san-jiken-desu.json) |
 | School Rumble: Neru Musume ha Sodatsu | 72583 | [72583-school-rumble-neru-musume-ha-sodatsu.json](./72583-school-rumble-neru-musume-ha-sodatsu.json) |
+| School Trip | 181022 | [181022-school-trip.json](./181022-school-trip.json) |
 | School Tycoon | 9203 | [9203-school-tycoon.json](./9203-school-tycoon.json) |
 | School Years | 132045 | [132045-school-years.json](./132045-school-years.json) |
 | School: The Hardest RPG in Your Life | 263765 | [263765-school-the-hardest-rpg-in-your-life.json](./263765-school-the-hardest-rpg-in-your-life.json) |
@@ -3199,6 +3200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sealed With a Dragon’s Kiss | 298988 | [298988-sealed-with-a-dragon-s-kiss.json](./298988-sealed-with-a-dragon-s-kiss.json) |
 | Sealer Assist | 103954 | [103954-sealer-assist.json](./103954-sealer-assist.json) |
 | Sealer of Dungeons | 211707 | [211707-sealer-of-dungeons.json](./211707-sealer-of-dungeons.json) |
+| Sealife Safari | 180991 | [180991-sealife-safari.json](./180991-sealife-safari.json) |
 | Seals From the Frosty Bay | 402302 | [402302-seals-from-the-frosty-bay.json](./402302-seals-from-the-frosty-bay.json) |
 | Seals of the Bygone | 120572 | [120572-seals-of-the-bygone.json](./120572-seals-of-the-bygone.json) |
 | Seaman | 9130 | [9130-seaman.json](./9130-seaman.json) |
@@ -6212,6 +6214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shifter | 333452 | [333452-shifter.json](./333452-shifter.json) |
 | Shifters | 43557 | [43557-shifters.json](./43557-shifters.json) |
 | Shifting Dreamscape | 177891 | [177891-shifting-dreamscape.json](./177891-shifting-dreamscape.json) |
+| Shifting Dungeon | 181028 | [181028-shifting-dungeon.json](./181028-shifting-dungeon.json) |
 | Shifting Edge | 183278 | [183278-shifting-edge.json](./183278-shifting-edge.json) |
 | Shifting Planes of Existence | 271793 | [271793-shifting-planes-of-existence.json](./271793-shifting-planes-of-existence.json) |
 | Shifting Sand Land | 308232 | [308232-shifting-sand-land.json](./308232-shifting-sand-land.json) |
@@ -6264,6 +6267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shil | 400483 | [400483-shil.json](./400483-shil.json) |
 | Shíliù Zhāng Mahjong | 128548 | [128548-shiliu-zhang-mahjong.json](./128548-shiliu-zhang-mahjong.json) |
 | Shíliù Zhāng Mahjong II | 128549 | [128549-shiliu-zhang-mahjong-ii.json](./128549-shiliu-zhang-mahjong-ii.json) |
+| Shillelagh | 181021 | [181021-shillelagh.json](./181021-shillelagh.json) |
 | Shima Shima Tora no Shimajiro: Tanoshi Ichinichi | 54946 | [54946-shima-shima-tora-no-shimajiro-tanoshi-ichinichi.json](./54946-shima-shima-tora-no-shimajiro-tanoshi-ichinichi.json) |
 | Shimagami | 342015 | [342015-shimagami.json](./342015-shimagami.json) |
 | Shimai no Omoide | 283824 | [283824-shimai-no-omoide.json](./283824-shimai-no-omoide.json) |
@@ -20069,6 +20073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stella: Into the Shadow | 335641 | [335641-stella-into-the-shadow.json](./335641-stella-into-the-shadow.json) |
 | Stella: My Friend | 255891 | [255891-stella-my-friend.json](./255891-stella-my-friend.json) |
 | Stella's Pointless Castle Awakening | 232951 | [232951-stellas-pointless-castle-awakening.json](./232951-stellas-pointless-castle-awakening.json) |
+| Stella's Spikey Dream | 181027 | [181027-stellas-spikey-dream.json](./181027-stellas-spikey-dream.json) |
 | Stellabits | 223405 | [223405-stellabits.json](./223405-stellabits.json) |
 | StellaGale: The Trials Of Faith | 190457 | [190457-stellagale-the-trials-of-faith.json](./190457-stellagale-the-trials-of-faith.json) |
 | Stellanova | 216264 | [216264-stellanova.json](./216264-stellanova.json) |
