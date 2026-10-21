@@ -2134,6 +2134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man Boy vs. Doctor Sock | 327272 | [327272-man-boy-vs-doctor-sock.json](./327272-man-boy-vs-doctor-sock.json) |
 | Man Face Spider I | 132773 | [132773-man-face-spider-i.json](./132773-man-face-spider-i.json) |
 | Man For Takeaway | 323844 | [323844-man-for-takeaway.json](./323844-man-for-takeaway.json) |
+| Man Helsing | 184765 | [184765-man-helsing.json](./184765-man-helsing.json) |
 | Man Human Person Thingy's Quest To Get Back The Gun | 316355 | [316355-man-human-person-thingys-quest-to-get-back-the-gun.json](./316355-man-human-person-thingys-quest-to-get-back-the-gun.json) |
 | Man I Just Wanna Go Home | 303644 | [303644-man-i-just-wanna-go-home.json](./303644-man-i-just-wanna-go-home.json) |
 | Man I Just Wanna Live | 412338 | [412338-man-i-just-wanna-live.json](./412338-man-i-just-wanna-live.json) |
@@ -12213,6 +12214,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Radar | 94189 | [94189-monster-radar.json](./94189-monster-radar.json) |
 | Monster Rain | 110226 | [110226-monster-rain.json](./110226-monster-rain.json) |
 | Monster Rancher | 4104 | [4104-monster-rancher.json](./4104-monster-rancher.json) |
+| Monster Rancher 1 DX | 184782 | [184782-monster-rancher-1-dx.json](./184782-monster-rancher-1-dx.json) |
+| Monster Rancher 2 DX | 184783 | [184783-monster-rancher-2-dx.json](./184783-monster-rancher-2-dx.json) |
 | Monster Rancher Battle Card GB | 104241 | [104241-monster-rancher-battle-card-gb.json](./104241-monster-rancher-battle-card-gb.json) |
 | Monster Rancher Explorer | 49860 | [49860-monster-rancher-explorer.json](./49860-monster-rancher-explorer.json) |
 | Monster Rancher Hop-A-Bout | 78298 | [78298-monster-rancher-hop-a-bout.json](./78298-monster-rancher-hop-a-bout.json) |
