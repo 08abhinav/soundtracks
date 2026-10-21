@@ -4708,6 +4708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firestorm | 239088 | [239088-firestorm.json](./239088-firestorm.json) |
 | Firestorm Deadland | 253365 | [253365-firestorm-deadland.json](./253365-firestorm-deadland.json) |
 | Firestriker | 42553 | [42553-firestriker.json](./42553-firestriker.json) |
+| Fireteam | 195394 | [195394-fireteam.json](./195394-fireteam.json) |
 | Fireteam Rogue | 42244 | [42244-fireteam-rogue.json](./42244-fireteam-rogue.json) |
 | Firetrack | 38926 | [38926-firetrack.json](./38926-firetrack.json) |
 | FireTrap | 40943 | [40943-firetrap.json](./40943-firetrap.json) |
