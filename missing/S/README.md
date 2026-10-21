@@ -3211,21 +3211,27 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search & Rescue: Vietnam Med Evac | 73994 | [73994-search-and-rescue-vietnam-med-evac.json](./73994-search-and-rescue-vietnam-med-evac.json) |
 | Search 4 Bigfoot | 213460 | [213460-search-4-bigfoot.json](./213460-search-4-bigfoot.json) |
 | Search All: Aliens | 294970 | [294970-search-all-aliens.json](./294970-search-all-aliens.json) |
+| Search All: Animals | 191009 | [191009-search-all-animals.json](./191009-search-all-animals.json) |
 | Search All: Balls | 291475 | [291475-search-all-balls.json](./291475-search-all-balls.json) |
 | Search All: Berries | 192377 | [192377-search-all-berries.json](./192377-search-all-berries.json) |
 | Search All: Bones | 387338 | [387338-search-all-bones.json](./387338-search-all-bones.json) |
 | Search All: Buds | 219613 | [219613-search-all-buds.json](./219613-search-all-buds.json) |
 | Search All: Cactuses | 192374 | [192374-search-all-cactuses.json](./192374-search-all-cactuses.json) |
 | Search All: Candy | 181056 | [181056-search-all-candy.json](./181056-search-all-candy.json) |
+| Search All: Cats | 191005 | [191005-search-all-cats.json](./191005-search-all-cats.json) |
 | Search All: Christmas | 186676 | [186676-search-all-christmas.json](./186676-search-all-christmas.json) |
+| Search All: Crabs | 190997 | [190997-search-all-crabs.json](./190997-search-all-crabs.json) |
 | Search All: Dogs | 289716 | [289716-search-all-dogs.json](./289716-search-all-dogs.json) |
 | Search All: Flies | 285713 | [285713-search-all-flies.json](./285713-search-all-flies.json) |
+| Search All: Foxes | 191008 | [191008-search-all-foxes.json](./191008-search-all-foxes.json) |
 | Search All: Keys | 219614 | [219614-search-all-keys.json](./219614-search-all-keys.json) |
 | Search All: Lollipops | 289714 | [289714-search-all-lollipops.json](./289714-search-all-lollipops.json) |
 | Search All: Mice | 219615 | [219615-search-all-mice.json](./219615-search-all-mice.json) |
 | Search All: Mouses | 289717 | [289717-search-all-mouses.json](./289717-search-all-mouses.json) |
 | Search All: Mushrooms | 192375 | [192375-search-all-mushrooms.json](./192375-search-all-mushrooms.json) |
+| Search All: Potions | 191006 | [191006-search-all-potions.json](./191006-search-all-potions.json) |
 | Search All: Runes | 192378 | [192378-search-all-runes.json](./192378-search-all-runes.json) |
+| Search All: Seashells | 191007 | [191007-search-all-seashells.json](./191007-search-all-seashells.json) |
 | Search All: Snails | 279114 | [279114-search-all-snails.json](./279114-search-all-snails.json) |
 | Search All: Snakes | 289715 | [289715-search-all-snakes.json](./289715-search-all-snakes.json) |
 | Search All: Spiders | 192376 | [192376-search-all-spiders.json](./192376-search-all-spiders.json) |
@@ -14446,6 +14452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space 1889 | 73866 | [73866-space-1889.json](./73866-space-1889.json) |
 | Space 2: Breakthrough Gaming Arcade | 145669 | [145669-space-2-breakthrough-gaming-arcade.json](./145669-space-2-breakthrough-gaming-arcade.json) |
 | Space Abyss | 159642 | [159642-space-abyss.json](./159642-space-abyss.json) |
+| Space Accident | 191000 | [191000-space-accident.json](./191000-space-accident.json) |
 | Space Accident VR | 277766 | [277766-space-accident-vr.json](./277766-space-accident-vr.json) |
 | Space Ace | 100161 | [100161-space-ace.json](./100161-space-ace.json) |
 | Space Ace | 363032 | [363032-space-ace.json](./363032-space-ace.json) |
@@ -14837,6 +14844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Impact | 282457 | [282457-space-impact.json](./282457-space-impact.json) |
 | Space Impact Glitch | 29762 | [29762-space-impact-glitch.json](./29762-space-impact-glitch.json) |
 | Space Imperia 4X | 391570 | [391570-space-imperia-4x.json](./391570-space-imperia-4x.json) |
+| Space Inc | 190878 | [190878-space-inc.json](./190878-space-inc.json) |
 | Space Industrial Empire | 250962 | [250962-space-industrial-empire.json](./250962-space-industrial-empire.json) |
 | Space Industry | 415263 | [415263-space-industry.json](./415263-space-industry.json) |
 | Space Instegators | 40753 | [40753-space-instegators.json](./40753-space-instegators.json) |
@@ -18603,6 +18611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Dice | 91312 | [91312-star-wars-dice.json](./91312-star-wars-dice.json) |
 | Star Wars Episode I: The Phantom Menace | 158 | [158-star-wars-episode-i-the-phantom-menace.json](./158-star-wars-episode-i-the-phantom-menace.json) |
 | Star Wars Episode I: The Phantom Menace | 329227 | [329227-star-wars-episode-i-the-phantom-menace.json](./329227-star-wars-episode-i-the-phantom-menace.json) |
+| Star Wars Galaxies Restoration | 191026 | [191026-star-wars-galaxies-restoration.json](./191026-star-wars-galaxies-restoration.json) |
 | Star Wars Galaxies Trading Card Games : Champions of the Force | 72636 | [72636-star-wars-galaxies-trading-card-games-champions-of-the-force.json](./72636-star-wars-galaxies-trading-card-games-champions-of-the-force.json) |
 | Star Wars Galaxies: Ancient Empire | 376116 | [376116-star-wars-galaxies-ancient-empire.json](./376116-star-wars-galaxies-ancient-empire.json) |
 | Star Wars Galaxies: Evolve | 290279 | [290279-star-wars-galaxies-evolve.json](./290279-star-wars-galaxies-evolve.json) |
@@ -24859,6 +24868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Rocket Monkey | 389130 | [389130-super-rocket-monkey.json](./389130-super-rocket-monkey.json) |
 | Super Rocket Pets | 320155 | [320155-super-rocket-pets.json](./320155-super-rocket-pets.json) |
 | Super Rocket Ride | 129092 | [129092-super-rocket-ride.json](./129092-super-rocket-ride.json) |
+| Super Rolling Heroes | 190880 | [190880-super-rolling-heroes.json](./190880-super-rolling-heroes.json) |
 | Super Rolling Heroes Deluxe | 288055 | [288055-super-rolling-heroes-deluxe.json](./288055-super-rolling-heroes-deluxe.json) |
 | Super RPS | 270888 | [270888-super-rps.json](./270888-super-rps.json) |
 | Super Rude Bear Resurrection: Deluxe Edition | 53688 | [53688-super-rude-bear-resurrection-deluxe-edition.json](./53688-super-rude-bear-resurrection-deluxe-edition.json) |
