@@ -2066,6 +2066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossible Bottles | 105407 | [105407-impossible-bottles.json](./105407-impossible-bottles.json) |
 | Impossible Bunny Challenge | 272763 | [272763-impossible-bunny-challenge.json](./272763-impossible-bunny-challenge.json) |
 | Impossible Caves | 105927 | [105927-impossible-caves.json](./105927-impossible-caves.json) |
+| Impossible Cleaning | 179378 | [179378-impossible-cleaning.json](./179378-impossible-cleaning.json) |
 | Impossible Commando Shooting FPS Fury | 101983 | [101983-impossible-commando-shooting-fps-fury.json](./101983-impossible-commando-shooting-fps-fury.json) |
 | Impossible Crime Book | 200384 | [200384-impossible-crime-book.json](./200384-impossible-crime-book.json) |
 | Impossible Date: Tricky Riddle | 208924 | [208924-impossible-date-tricky-riddle.json](./208924-impossible-date-tricky-riddle.json) |
@@ -4826,6 +4827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Islands of the Caliph | 197146 | [197146-islands-of-the-caliph.json](./197146-islands-of-the-caliph.json) |
 | Islands of Wakfu | 22947 | [22947-islands-of-wakfu.json](./22947-islands-of-wakfu.json) |
 | Islandville: A New Home | 192833 | [192833-islandville-a-new-home.json](./192833-islandville-a-new-home.json) |
+| IslandWide Flying Simulator | 179355 | [179355-islandwide-flying-simulator.json](./179355-islandwide-flying-simulator.json) |
 | IslaNode Rescue Signal | 331658 | [331658-islanode-rescue-signal.json](./331658-islanode-rescue-signal.json) |
 | Islantiles | 347807 | [347807-islantiles.json](./347807-islantiles.json) |
 | Islash | 343617 | [343617-islash.json](./343617-islash.json) |
@@ -5154,6 +5156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ITRP: Aero Star | 236857 | [236857-itrp-aero-star.json](./236857-itrp-aero-star.json) |
 | ITRP: Volatile Vertex | 192199 | [192199-itrp-volatile-vertex.json](./192199-itrp-volatile-vertex.json) |
 | Its a Pirate-Game! | 176303 | [176303-its-a-pirate-game.json](./176303-its-a-pirate-game.json) |
+| Its an idle life for me! | 179414 | [179414-its-an-idle-life-for-me.json](./179414-its-an-idle-life-for-me.json) |
 | Its Been a While Since I Went for a Walk | 151708 | [151708-its-been-a-while-since-i-went-for-a-walk.json](./151708-its-been-a-while-since-i-went-for-a-walk.json) |
 | Its Fun to Break Things | 115510 | [115510-its-fun-to-break-things.json](./115510-its-fun-to-break-things.json) |
 | Its Snowing | 282613 | [282613-its-snowing.json](./282613-its-snowing.json) |
