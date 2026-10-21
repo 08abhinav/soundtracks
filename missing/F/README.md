@@ -4189,6 +4189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Love or Die Trying | 165243 | [165243-find-love-or-die-trying.json](./165243-find-love-or-die-trying.json) |
 | Find Love or Die Trying | 324734 | [324734-find-love-or-die-trying.json](./324734-find-love-or-die-trying.json) |
 | Find Love or Die Trying: Til Death Do Us Part | 336039 | [336039-find-love-or-die-trying-til-death-do-us-part.json](./336039-find-love-or-die-trying-til-death-do-us-part.json) |
+| Find Match Icons | 174044 | [174044-find-match-icons.json](./174044-find-match-icons.json) |
 | Find Matt's Cats | 269974 | [269974-find-matts-cats.json](./269974-find-matts-cats.json) |
 | Find Me | 365427 | [365427-find-me.json](./365427-find-me.json) |
 | Find Me A Good One | 128635 | [128635-find-me-a-good-one.json](./128635-find-me-a-good-one.json) |
@@ -7995,6 +7996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortress Building Puzzle | 196479 | [196479-fortress-building-puzzle.json](./196479-fortress-building-puzzle.json) |
 | Fortress Connected | 410476 | [410476-fortress-connected.json](./410476-fortress-connected.json) |
 | Fortress Conquest | 175219 | [175219-fortress-conquest.json](./175219-fortress-conquest.json) |
+| Fortress Defender | 174030 | [174030-fortress-defender.json](./174030-fortress-defender.json) |
 | Fortress Defense | 266117 | [266117-fortress-defense.json](./266117-fortress-defense.json) |
 | Fortress Duty | 295628 | [295628-fortress-duty.json](./295628-fortress-duty.json) |
 | Fortress Era | 188357 | [188357-fortress-era.json](./188357-fortress-era.json) |
@@ -8469,6 +8471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fracture the Flag | 26551 | [26551-fracture-the-flag.json](./26551-fracture-the-flag.json) |
 | Fracture: City of Destruction | 208444 | [208444-fracture-city-of-destruction.json](./208444-fracture-city-of-destruction.json) |
 | Fracture: The Dream | 229746 | [229746-fracture-the-dream.json](./229746-fracture-the-dream.json) |
+| Fractured | 174010 | [174010-fractured.json](./174010-fractured.json) |
 | Fractured | 391691 | [391691-fractured.json](./391691-fractured.json) |
 | Fractured Alliance | 265588 | [265588-fractured-alliance.json](./265588-fractured-alliance.json) |
 | Fractured Balance | 352290 | [352290-fractured-balance.json](./352290-fractured-balance.json) |
