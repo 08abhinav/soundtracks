@@ -682,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of the Wild: The Angler - Reserve Pass | 276300 | [276300-call-of-the-wild-the-angler-reserve-pass.json](./276300-call-of-the-wild-the-angler-reserve-pass.json) |
 | Call of the Wild: The Angler - Ultimate Fishing Bundle | 301333 | [301333-call-of-the-wild-the-angler-ultimate-fishing-bundle.json](./301333-call-of-the-wild-the-angler-ultimate-fishing-bundle.json) |
 | Call of the Wild: The Angler - Winter Vehicle Cosmetics Pack | 366229 | [366229-call-of-the-wild-the-angler-winter-vehicle-cosmetics-pack.json](./366229-call-of-the-wild-the-angler-winter-vehicle-cosmetics-pack.json) |
+| Call of the Winter Monarch | 183758 | [183758-call-of-the-winter-monarch.json](./183758-call-of-the-winter-monarch.json) |
 | Call of Tomsk-7 | 34751 | [34751-call-of-tomsk-7.json](./34751-call-of-tomsk-7.json) |
 | Call of Toys: Tower Defense! | 275357 | [275357-call-of-toys-tower-defense.json](./275357-call-of-toys-tower-defense.json) |
 | Call Of Unity | 387734 | [387734-call-of-unity.json](./387734-call-of-unity.json) |
@@ -6224,6 +6225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroma Quaternion | 146839 | [146839-chroma-quaternion.json](./146839-chroma-quaternion.json) |
 | Chroma Quaternion: Experience & RP x2 | 171029 | [171029-chroma-quaternion-experience-and-rp-x2.json](./171029-chroma-quaternion-experience-and-rp-x2.json) |
 | Chroma Quaternion: Experience x3 | 171030 | [171030-chroma-quaternion-experience-x3.json](./171030-chroma-quaternion-experience-x3.json) |
+| Chroma Tower | 183778 | [183778-chroma-tower.json](./183778-chroma-tower.json) |
 | Chroma Ways | 72022 | [72022-chroma-ways.json](./72022-chroma-ways.json) |
 | Chroma Zero | 319356 | [319356-chroma-zero.json](./319356-chroma-zero.json) |
 | Chroma: Bloom and Blight | 128916 | [128916-chroma-bloom-and-blight.json](./128916-chroma-bloom-and-blight.json) |
@@ -7089,6 +7091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Slickers | 250647 | [250647-city-slickers.json](./250647-city-slickers.json) |
 | City Smasher | 196542 | [196542-city-smasher.json](./196542-city-smasher.json) |
 | City Sniper | 151007 | [151007-city-sniper.json](./151007-city-sniper.json) |
+| City Soarers | 183762 | [183762-city-soarers.json](./183762-city-soarers.json) |
 | City Soccer Challenge | 66956 | [66956-city-soccer-challenge.json](./66956-city-soccer-challenge.json) |
 | City States: Medieval | 381155 | [381155-city-states-medieval.json](./381155-city-states-medieval.json) |
 | City Story | 80434 | [80434-city-story.json](./80434-city-story.json) |
@@ -9125,6 +9128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorbind | 79525 | [79525-colorbind.json](./79525-colorbind.json) |
 | Colorbound | 347850 | [347850-colorbound.json](./347850-colorbound.json) |
 | ColorBox | 91917 | [91917-colorbox.json](./91917-colorbox.json) |
+| ColorClimb | 183761 | [183761-colorclimb.json](./183761-colorclimb.json) |
 | ColorCode | 55481 | [55481-colorcode.json](./55481-colorcode.json) |
 | ColorCoordination | 270086 | [270086-colorcoordination.json](./270086-colorcoordination.json) |
 | ColorCube | 208378 | [208378-colorcube.json](./208378-colorcube.json) |
@@ -14372,6 +14376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Airport | 249186 | [249186-cube-airport.json](./249186-cube-airport.json) |
 | Cube Airport + Cube Farmer | 295697 | [295697-cube-airport-cube-farmer.json](./295697-cube-airport-cube-farmer.json) |
 | Cube Arena | 304900 | [304900-cube-arena.json](./304900-cube-arena.json) |
+| Cube Bash | 183780 | [183780-cube-bash.json](./183780-cube-bash.json) |
 | Cube Battlefield: 2048 | 267071 | [267071-cube-battlefield-2048.json](./267071-cube-battlefield-2048.json) |
 | Cube Battler: Anna Miraiden | 70875 | [70875-cube-battler-anna-miraiden.json](./70875-cube-battler-anna-miraiden.json) |
 | Cube Battler: Debugger Shou-hen | 70874 | [70874-cube-battler-debugger-shou-hen.json](./70874-cube-battler-debugger-shou-hen.json) |
