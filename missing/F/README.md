@@ -8253,6 +8253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FourFeather | 322442 | [322442-fourfeather.json](./322442-fourfeather.json) |
 | Fourfit | 92983 | [92983-fourfit.json](./92983-fourfit.json) |
 | FourFourTwo Touchline Passion | 68711 | [68711-fourfourtwo-touchline-passion.json](./68711-fourfourtwo-touchline-passion.json) |
+| FourPlay Chess | 193236 | [193236-fourplay-chess.json](./193236-fourplay-chess.json) |
 | Fourspell Survivors Online | 224247 | [224247-fourspell-survivors-online.json](./224247-fourspell-survivors-online.json) |
 | Fourteen Years of Flames | 380664 | [380664-fourteen-years-of-flames.json](./380664-fourteen-years-of-flames.json) |
 | Fourth Dimension | 362405 | [362405-fourth-dimension.json](./362405-fourth-dimension.json) |
@@ -8911,6 +8912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeze! 2: Brothers | 59476 | [59476-freeze-2-brothers.json](./59476-freeze-2-brothers.json) |
 | Freeze64 Christmas Game | 281530 | [281530-freeze64-christmas-game.json](./281530-freeze64-christmas-game.json) |
 | Freezeer | 103630 | [103630-freezeer.json](./103630-freezeer.json) |
+| Freezeframe | 193246 | [193246-freezeframe.json](./193246-freezeframe.json) |
 | Freezer Jams | 245196 | [245196-freezer-jams.json](./245196-freezer-jams.json) |
 | Freezer Pops 2: Little Blo's Party | 346540 | [346540-freezer-pops-2-little-blos-party.json](./346540-freezer-pops-2-little-blos-party.json) |
 | Freezing Knights | 293750 | [293750-freezing-knights.json](./293750-freezing-knights.json) |
