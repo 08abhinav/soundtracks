@@ -404,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caliber .50 | 39491 | [39491-caliber-50.json](./39491-caliber-50.json) |
 | Calibration Sequence | 423278 | [423278-calibration-sequence.json](./423278-calibration-sequence.json) |
 | Calibre 10 Racing | 30249 | [30249-calibre-10-racing.json](./30249-calibre-10-racing.json) |
+| Calice | 188316 | [188316-calice.json](./188316-calice.json) |
 | Calice | 357737 | [357737-calice.json](./357737-calice.json) |
 | Calico | 122345 | [122345-calico.json](./122345-calico.json) |
 | Calico | 366427 | [366427-calico.json](./366427-calico.json) |
@@ -15243,6 +15244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cutics | 184564 | [184564-cutics.json](./184564-cutics.json) |
 | Cutie Clash | 85071 | [85071-cutie-clash.json](./85071-cutie-clash.json) |
 | Cutie Crowd Control | 272776 | [272776-cutie-crowd-control.json](./272776-cutie-crowd-control.json) |
+| Cutie Garden | 188280 | [188280-cutie-garden.json](./188280-cutie-garden.json) |
 | Cutie Monsters Battle Arena | 90399 | [90399-cutie-monsters-battle-arena.json](./90399-cutie-monsters-battle-arena.json) |
 | Cutie Smile: Kimi to Issho ni | 398994 | [398994-cutie-smile-kimi-to-issho-ni.json](./398994-cutie-smile-kimi-to-issho-ni.json) |
 | Cutie Squad: Crime War | 404263 | [404263-cutie-squad-crime-war.json](./404263-cutie-squad-crime-war.json) |
