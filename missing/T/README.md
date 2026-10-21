@@ -7049,6 +7049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fantastic Kitty Rue | 223354 | [223354-the-fantastic-kitty-rue.json](./223354-the-fantastic-kitty-rue.json) |
 | The Fantastic Voyage | 39145 | [39145-the-fantastic-voyage.json](./39145-the-fantastic-voyage.json) |
 | The Fantasy Village | 108268 | [108268-the-fantasy-village.json](./108268-the-fantasy-village.json) |
+| The Fantasy World of Mahjong Princess | 197529 | [197529-the-fantasy-world-of-mahjong-princess.json](./197529-the-fantasy-world-of-mahjong-princess.json) |
 | The Far Kingdoms: Awakening Solitaire | 115527 | [115527-the-far-kingdoms-awakening-solitaire.json](./115527-the-far-kingdoms-awakening-solitaire.json) |
 | The Far Kingdoms: Forgotten Relics | 149927 | [149927-the-far-kingdoms-forgotten-relics.json](./149927-the-far-kingdoms-forgotten-relics.json) |
 | The Far Kingdoms: Garden Mosaics | 415906 | [415906-the-far-kingdoms-garden-mosaics.json](./415906-the-far-kingdoms-garden-mosaics.json) |
@@ -8090,6 +8091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The High Desert | 345134 | [345134-the-high-desert.json](./345134-the-high-desert.json) |
 | The High Tower | 373613 | [373613-the-high-tower.json](./373613-the-high-tower.json) |
 | The Higher Lower Game | 186614 | [186614-the-higher-lower-game.json](./186614-the-higher-lower-game.json) |
+| The Highlands | 197540 | [197540-the-highlands.json](./197540-the-highlands.json) |
 | The Highlands of Jurgald | 296752 | [296752-the-highlands-of-jurgald.json](./296752-the-highlands-of-jurgald.json) |
 | The Highscore | 117182 | [117182-the-highscore.json](./117182-the-highscore.json) |
 | The Highway | 365248 | [365248-the-highway.json](./365248-the-highway.json) |
@@ -9439,6 +9441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Fireball | 408921 | [408921-the-legend-of-fireball.json](./408921-the-legend-of-fireball.json) |
 | The Legend of Fjarri | 153369 | [153369-the-legend-of-fjarri.json](./153369-the-legend-of-fjarri.json) |
 | The Legend of Gallia | 66557 | [66557-the-legend-of-gallia.json](./66557-the-legend-of-gallia.json) |
+| The Legend of Gandar | 197531 | [197531-the-legend-of-gandar.json](./197531-the-legend-of-gandar.json) |
 | The Legend of Gandar II | 216660 | [216660-the-legend-of-gandar-ii.json](./216660-the-legend-of-gandar-ii.json) |
 | The Legend of GEML: Awakening | 307589 | [307589-the-legend-of-geml-awakening.json](./307589-the-legend-of-geml-awakening.json) |
 | The Legend of Gwen | 223177 | [223177-the-legend-of-gwen.json](./223177-the-legend-of-gwen.json) |
@@ -11444,6 +11447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Preschoolers: Season 1 Ultimate Edition | 231227 | [231227-the-preschoolers-season-1-ultimate-edition.json](./231227-the-preschoolers-season-1-ultimate-edition.json) |
 | The Present | 288079 | [288079-the-present.json](./288079-the-present.json) |
 | The Preservation Project | 204415 | [204415-the-preservation-project.json](./204415-the-preservation-project.json) |
+| The President | 197566 | [197566-the-president.json](./197566-the-president.json) |
 | The President | 200476 | [200476-the-president.json](./200476-the-president.json) |
 | The President | 209640 | [209640-the-president.json](./209640-the-president.json) |
 | The President | 96645 | [96645-the-president.json](./96645-the-president.json) |
@@ -17575,6 +17579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timeless: The Lost Castle | 74248 | [74248-timeless-the-lost-castle.json](./74248-timeless-the-lost-castle.json) |
 | Timelie | 122385 | [122385-timelie.json](./122385-timelie.json) |
 | Timelie: Game of the Year Edition | 169192 | [169192-timelie-game-of-the-year-edition.json](./169192-timelie-game-of-the-year-edition.json) |
+| Timeline | 197554 | [197554-timeline.json](./197554-timeline.json) |
 | Timeline Traveler | 136401 | [136401-timeline-traveler.json](./136401-timeline-traveler.json) |
 | Timeline Traveler II: Dream | 170518 | [170518-timeline-traveler-ii-dream.json](./170518-timeline-traveler-ii-dream.json) |
 | TimelineTown | 401746 | [401746-timelinetown.json](./401746-timelinetown.json) |
@@ -18710,6 +18715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Desire: Deck Builders | 292461 | [292461-tokyo-desire-deck-builders.json](./292461-tokyo-desire-deck-builders.json) |
 | Tokyo Detectives: Case 01 | 192167 | [192167-tokyo-detectives-case-01.json](./192167-tokyo-detectives-case-01.json) |
 | Tokyo Detectives: Case 02 | 192168 | [192168-tokyo-detectives-case-02.json](./192168-tokyo-detectives-case-02.json) |
+| Tokyo Detectives: Case 03 | 197561 | [197561-tokyo-detectives-case-03.json](./197561-tokyo-detectives-case-03.json) |
 | Tokyo Drive | 336579 | [336579-tokyo-drive.json](./336579-tokyo-drive.json) |
 | Tokyo Dungeon | 108824 | [108824-tokyo-dungeon.json](./108824-tokyo-dungeon.json) |
 | Tokyo Friend Park II Ketteiban: Minna de Chousen! Taikan Attraction | 139255 | [139255-tokyo-friend-park-ii-ketteiban-minna-de-chousen-taikan-attraction.json](./139255-tokyo-friend-park-ii-ketteiban-minna-de-chousen-taikan-attraction.json) |
@@ -24868,6 +24874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TV Vader | 250900 | [250900-tv-vader.json](./250900-tv-vader.json) |
 | TV-Chan's Great Escape! | 358639 | [358639-tv-chans-great-escape.json](./358639-tv-chans-great-escape.json) |
 | TV1998 | 257354 | [257354-tv1998.json](./257354-tv1998.json) |
+| TVG Journey | 197563 | [197563-tvg-journey.json](./197563-tvg-journey.json) |
 | TVhead | 217506 | [217506-tvhead.json](./217506-tvhead.json) |
 | TVhTk | 271945 | [271945-tvhtk.json](./271945-tvhtk.json) |
 | TVS Sample Box | 280248 | [280248-tvs-sample-box.json](./280248-tvs-sample-box.json) |
