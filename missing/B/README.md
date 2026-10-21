@@ -7094,6 +7094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack Academy | 12352 | [12352-blackjack-academy.json](./12352-blackjack-academy.json) |
 | Blackjack Alchemist | 397250 | [397250-blackjack-alchemist.json](./397250-blackjack-alchemist.json) |
 | Blackjack and Pomodoro Mystery | 319015 | [319015-blackjack-and-pomodoro-mystery.json](./319015-blackjack-and-pomodoro-mystery.json) |
+| BlackJack and Waifus | 193646 | [193646-blackjack-and-waifus.json](./193646-blackjack-and-waifus.json) |
 | Blackjack at Carrot | 219208 | [219208-blackjack-at-carrot.json](./219208-blackjack-at-carrot.json) |
 | Blackjack Avenue | 205030 | [205030-blackjack-avenue.json](./205030-blackjack-avenue.json) |
 | Blackjack Bailey VR | 28317 | [28317-blackjack-bailey-vr.json](./28317-blackjack-bailey-vr.json) |
