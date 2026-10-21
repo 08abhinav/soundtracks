@@ -3074,6 +3074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitsune Kitchen | 102376 | [102376-kitsune-kitchen.json](./102376-kitsune-kitchen.json) |
 | Kitsune no Tabiji | 126627 | [126627-kitsune-no-tabiji.json](./126627-kitsune-no-tabiji.json) |
 | Kitsune: The Journey of Adashino | 217024 | [217024-kitsune-the-journey-of-adashino.json](./217024-kitsune-the-journey-of-adashino.json) |
+| Kitsuni | 178835 | [178835-kitsuni.json](./178835-kitsuni.json) |
 | Kitt.Io | 168650 | [168650-kitt-io.json](./168650-kitt-io.json) |
 | Kitt's Quest | 291878 | [291878-kitts-quest.json](./291878-kitts-quest.json) |
 | Kitten Adventure: A Very Meow Christmas | 232859 | [232859-kitten-adventure-a-very-meow-christmas.json](./232859-kitten-adventure-a-very-meow-christmas.json) |
@@ -4425,6 +4426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kryftolike | 176994 | [176994-kryftolike.json](./176994-kryftolike.json) |
 | Krypt | 204948 | [204948-krypt.json](./204948-krypt.json) |
 | KryptCrawler | 51521 | [51521-kryptcrawler.json](./51521-kryptcrawler.json) |
+| Kryptic | 178845 | [178845-kryptic.json](./178845-kryptic.json) |
 | Kryptonite: Flamez Hedgehog | 266700 | [266700-kryptonite-flamez-hedgehog.json](./266700-kryptonite-flamez-hedgehog.json) |
 | Kryptoria | 229633 | [229633-kryptoria.json](./229633-kryptoria.json) |
 | Krysolov | 343848 | [343848-krysolov.json](./343848-krysolov.json) |
