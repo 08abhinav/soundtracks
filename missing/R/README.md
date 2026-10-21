@@ -8660,6 +8660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Routz | 125875 | [125875-routz.json](./125875-routz.json) |
 | Rouvy | 319175 | [319175-rouvy.json](./319175-rouvy.json) |
 | Rova | 297209 | [297209-rova.json](./297209-rova.json) |
+| Rove: The Wanderer's Tale | 192720 | [192720-rove-the-wanderers-tale.json](./192720-rove-the-wanderers-tale.json) |
 | Rover Builder | 65829 | [65829-rover-builder.json](./65829-rover-builder.json) |
 | Rover Mechanic Challenge: ERC Competition | 168754 | [168754-rover-mechanic-challenge-erc-competition.json](./168754-rover-mechanic-challenge-erc-competition.json) |
 | Rover Mechanic Simulator: Perseverance Rover | 170991 | [170991-rover-mechanic-simulator-perseverance-rover.json](./170991-rover-mechanic-simulator-perseverance-rover.json) |
