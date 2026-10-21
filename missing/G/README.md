@@ -4541,6 +4541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godbeast Mk.II | 191219 | [191219-godbeast-mk-ii.json](./191219-godbeast-mk-ii.json) |
 | Godblade | 419986 | [419986-godblade.json](./419986-godblade.json) |
 | Godbreakers | 358248 | [358248-godbreakers.json](./358248-godbreakers.json) |
+| Goddess | 182736 | [182736-goddess.json](./182736-goddess.json) |
 | Goddess Arrival | 276662 | [276662-goddess-arrival.json](./276662-goddess-arrival.json) |
 | Goddess Connect | 310203 | [310203-goddess-connect.json](./310203-goddess-connect.json) |
 | Goddess detective | 167379 | [167379-goddess-detective.json](./167379-goddess-detective.json) |
@@ -6458,6 +6459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Garden | 365759 | [365759-gravity-garden.json](./365759-gravity-garden.json) |
 | Gravity Golfing | 255054 | [255054-gravity-golfing.json](./255054-gravity-golfing.json) |
 | Gravity Guy | 361723 | [361723-gravity-guy.json](./361723-gravity-guy.json) |
+| Gravity Hook | 182716 | [182716-gravity-hook.json](./182716-gravity-hook.json) |
 | Gravity Hook HD | 76177 | [76177-gravity-hook-hd.json](./76177-gravity-hook-hd.json) |
 | Gravity House Duology | 378513 | [378513-gravity-house-duology.json](./378513-gravity-house-duology.json) |
 | Gravity in Space | 168664 | [168664-gravity-in-space.json](./168664-gravity-in-space.json) |
@@ -6680,6 +6682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GreedyCraft | 204701 | [204701-greedycraft.json](./204701-greedycraft.json) |
 | Greek Kitchen Frenzy: Dionysus - Collector's Edition | 337249 | [337249-greek-kitchen-frenzy-dionysus-collectors-edition.json](./337249-greek-kitchen-frenzy-dionysus-collectors-edition.json) |
 | Greek Letters and Alphabet 2 | 99394 | [99394-greek-letters-and-alphabet-2.json](./99394-greek-letters-and-alphabet-2.json) |
+| Greek Tragedy | 182699 | [182699-greek-tragedy.json](./182699-greek-tragedy.json) |
 | Green | 106762 | [106762-green.json](./106762-green.json) |
 | Green | 106971 | [106971-green.json](./106971-green.json) |
 | Green | 133321 | [133321-green.json](./133321-green.json) |
