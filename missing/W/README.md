@@ -1272,6 +1272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wario Land 3 | 1698 | [1698-wario-land-3.json](./1698-wario-land-3.json) |
 | Wario Land 4 | 1699 | [1699-wario-land-4.json](./1699-wario-land-4.json) |
 | Wario Land 4: Burning Nightmares | 339250 | [339250-wario-land-4-burning-nightmares.json](./339250-wario-land-4-burning-nightmares.json) |
+| Wario Land 4: Parallel World | 194826 | [194826-wario-land-4-parallel-world.json](./194826-wario-land-4-parallel-world.json) |
 | Wario Land II | 204786 | [204786-wario-land-ii.json](./204786-wario-land-ii.json) |
 | Wario Land Remix | 322778 | [322778-wario-land-remix.json](./322778-wario-land-remix.json) |
 | Wario Land: Shake It! | 1702 | [1702-wario-land-shake-it.json](./1702-wario-land-shake-it.json) |
@@ -3115,6 +3116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Angels Cry: Tears of the Fallen - Collectors Edition | 34175 | [34175-where-angels-cry-tears-of-the-fallen-collectors-edition.json](./34175-where-angels-cry-tears-of-the-fallen-collectors-edition.json) |
 | Where Angels Meet | 135114 | [135114-where-angels-meet.json](./135114-where-angels-meet.json) |
 | Where are Leo and Mia? Pirate Island | 420655 | [420655-where-are-leo-and-mia-pirate-island.json](./420655-where-are-leo-and-mia-pirate-island.json) |
+| Where are My Mittens | 195005 | [195005-where-are-my-mittens.json](./195005-where-are-my-mittens.json) |
 | Where Are My Pipes? | 89476 | [89476-where-are-my-pipes.json](./89476-where-are-my-pipes.json) |
 | Where are my potatoes 2: Land Of Mystery | 276815 | [276815-where-are-my-potatoes-2-land-of-mystery.json](./276815-where-are-my-potatoes-2-land-of-mystery.json) |
 | Where are My Potatoes? | 207798 | [207798-where-are-my-potatoes.json](./207798-where-are-my-potatoes.json) |
