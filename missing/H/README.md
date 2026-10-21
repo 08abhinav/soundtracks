@@ -1251,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Hour Hero | 277007 | [277007-happy-hour-hero.json](./277007-happy-hour-hero.json) |
 | Happy Hunt | 165625 | [165625-happy-hunt.json](./165625-happy-hunt.json) |
 | Happy Island Fantasy | 369871 | [369871-happy-island-fantasy.json](./369871-happy-island-fantasy.json) |
+| Happy Island Life | 194862 | [194862-happy-island-life.json](./194862-happy-island-life.json) |
 | Happy Jump | 112902 | [112902-happy-jump.json](./112902-happy-jump.json) |
 | Happy Lab | 252573 | [252573-happy-lab.json](./252573-happy-lab.json) |
 | Happy Lesson | 78643 | [78643-happy-lesson.json](./78643-happy-lesson.json) |
@@ -2430,6 +2431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Healer's Quest | 29380 | [29380-healers-quest.json](./29380-healers-quest.json) |
 | Healer's Quest: Pocket Wand | 197759 | [197759-healers-quest-pocket-wand.json](./197759-healers-quest-pocket-wand.json) |
 | Healing Hearts | 337702 | [337702-healing-hearts.json](./337702-healing-hearts.json) |
+| Healing Simulator | 195000 | [195000-healing-simulator.json](./195000-healing-simulator.json) |
 | Healslut | 217999 | [217999-healslut.json](./217999-healslut.json) |
 | Health & Fitness Club Tycoon | 146200 | [146200-health-and-fitness-club-tycoon.json](./146200-health-and-fitness-club-tycoon.json) |
 | Health Insurance Claim Denier | 340422 | [340422-health-insurance-claim-denier.json](./340422-health-insurance-claim-denier.json) |
