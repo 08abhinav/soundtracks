@@ -353,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall Ninja | 139434 | [139434-wall-ninja.json](./139434-wall-ninja.json) |
 | Wall of Insanity | 165541 | [165541-wall-of-insanity.json](./165541-wall-of-insanity.json) |
 | Wall of Insanity 2 | 365847 | [365847-wall-of-insanity-2.json](./365847-wall-of-insanity-2.json) |
+| Wall of Taiji | 178248 | [178248-wall-of-taiji.json](./178248-wall-of-taiji.json) |
 | Wall Shooter | 244864 | [244864-wall-shooter.json](./244864-wall-shooter.json) |
 | Wall Simulator 2017 | 53882 | [53882-wall-simulator-2017.json](./53882-wall-simulator-2017.json) |
 | Wall Street | 261989 | [261989-wall-street.json](./261989-wall-street.json) |
@@ -3767,6 +3768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Why God? | 287207 | [287207-why-god.json](./287207-why-god.json) |
 | Why I Don't Have a Country Any More | 350557 | [350557-why-i-dont-have-a-country-any-more.json](./350557-why-i-dont-have-a-country-any-more.json) |
 | Why I was Born | 213488 | [213488-why-i-was-born.json](./213488-why-i-was-born.json) |
+| Why Is Office Coffee So Bad? | 178270 | [178270-why-is-office-coffee-so-bad.json](./178270-why-is-office-coffee-so-bad.json) |
 | Why is the Princess in a Magic Forest?! | 31577 | [31577-why-is-the-princess-in-a-magic-forest.json](./31577-why-is-the-princess-in-a-magic-forest.json) |
 | Why Is There A Girl In My House?! | 128418 | [128418-why-is-there-a-girl-in-my-house.json](./128418-why-is-there-a-girl-in-my-house.json) |
 | Why is this Dragon so Fucking Cute?? | 136854 | [136854-why-is-this-dragon-so-fucking-cute.json](./136854-why-is-this-dragon-so-fucking-cute.json) |
@@ -3782,6 +3784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Why That Girl Stopped Drawing | 83257 | [83257-why-that-girl-stopped-drawing.json](./83257-why-that-girl-stopped-drawing.json) |
 | Why the Long Gun? | 364607 | [364607-why-the-long-gun.json](./364607-why-the-long-gun.json) |
 | Why the Wrong Face? | 273872 | [273872-why-the-wrong-face.json](./273872-why-the-wrong-face.json) |
+| Why You Do This to Me? | 178261 | [178261-why-you-do-this-to-me.json](./178261-why-you-do-this-to-me.json) |
 | Why? | 335243 | [335243-why.json](./335243-why.json) |
 | Why's It Getting Darker?! | 374922 | [374922-whys-it-getting-darker.json](./374922-whys-it-getting-darker.json) |
 | WhyImmortal | 289897 | [289897-whyimmortal.json](./289897-whyimmortal.json) |
@@ -5880,6 +5883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worded! | 233051 | [233051-worded.json](./233051-worded.json) |
 | Worder | 116852 | [116852-worder.json](./116852-worder.json) |
 | WordFall | 186666 | [186666-wordfall.json](./186666-wordfall.json) |
+| Wordfish | 178304 | [178304-wordfish.json](./178304-wordfish.json) |
 | Wordfright | 334479 | [334479-wordfright.json](./334479-wordfright.json) |
 | WordGirl Word Hunt | 106944 | [106944-wordgirl-word-hunt.json](./106944-wordgirl-word-hunt.json) |
 | Wordgraphy | 233050 | [233050-wordgraphy.json](./233050-wordgraphy.json) |
