@@ -10656,6 +10656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mist | 312221 | [312221-the-mist.json](./312221-the-mist.json) |
 | The Mist City | 284333 | [284333-the-mist-city.json](./284333-the-mist-city.json) |
 | The Mistcaller | 234641 | [234641-the-mistcaller.json](./234641-the-mistcaller.json) |
+| The Mistral Report | 172391 | [172391-the-mistral-report.json](./172391-the-mistral-report.json) |
 | The Misty Tale | 190190 | [190190-the-misty-tale.json](./190190-the-misty-tale.json) |
 | The Mixer | 223178 | [223178-the-mixer.json](./223178-the-mixer.json) |
 | The Mnemograph | 337304 | [337304-the-mnemograph.json](./337304-the-mnemograph.json) |
@@ -24356,6 +24357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Nightmare: Roadside Сafe | 319642 | [319642-true-nightmare-roadside-afe.json](./319642-true-nightmare-roadside-afe.json) |
 | True or False | 96483 | [96483-true-or-false.json](./96483-true-or-false.json) |
 | True or False 2 | 29717 | [29717-true-or-false-2.json](./29717-true-or-false-2.json) |
+| True or False: Owl Rescue | 172364 | [172364-true-or-false-owl-rescue.json](./172364-true-or-false-owl-rescue.json) |
 | True or False: The World | 407276 | [407276-true-or-false-the-world.json](./407276-true-or-false-the-world.json) |
 | True Pinball | 9131 | [9131-true-pinball.json](./9131-true-pinball.json) |
 | True Reporter | 110292 | [110292-true-reporter.json](./110292-true-reporter.json) |
@@ -24465,6 +24467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try to Fit | 259965 | [259965-try-to-fit.json](./259965-try-to-fit.json) |
 | Try to Reach 10 | 130732 | [130732-try-to-reach-10.json](./130732-try-to-reach-10.json) |
 | Try to Survive | 116552 | [116552-try-to-survive.json](./116552-try-to-survive.json) |
+| Try to Survive! | 172379 | [172379-try-to-survive.json](./172379-try-to-survive.json) |
 | Try to Win 2 | 196055 | [196055-try-to-win-2.json](./196055-try-to-win-2.json) |
 | Try. Die. Repeat. | 133875 | [133875-try-die-repeat.json](./133875-try-die-repeat.json) |
 | TryAndLove | 279555 | [279555-tryandlove.json](./279555-tryandlove.json) |
@@ -24583,6 +24586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsukihime Typing Online | 255840 | [255840-tsukihime-typing-online.json](./255840-tsukihime-typing-online.json) |
 | Tsukihime: A Piece of Blue Glass Moon | 142105 | [142105-tsukihime-a-piece-of-blue-glass-moon.json](./142105-tsukihime-a-piece-of-blue-glass-moon.json) |
 | Tsukihime: Fool's Errand | 254127 | [254127-tsukihime-fools-errand.json](./254127-tsukihime-fools-errand.json) |
+| Tsukihime: The Other Side of Red Garden | 172394 | [172394-tsukihime-the-other-side-of-red-garden.json](./172394-tsukihime-the-other-side-of-red-garden.json) |
 | Tsukikage no Simulacre: Kaihou no Hane | 120995 | [120995-tsukikage-no-simulacre-kaihou-no-hane.json](./120995-tsukikage-no-simulacre-kaihou-no-hane.json) |
 | Tsukikomori | 37781 | [37781-tsukikomori.json](./37781-tsukikomori.json) |
 | Tsukino Paradise | 44105 | [44105-tsukino-paradise.json](./44105-tsukino-paradise.json) |
