@@ -877,6 +877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamble Fight Plus | 116783 | [116783-gamble-fight-plus.json](./116783-gamble-fight-plus.json) |
 | Gamble Lair | 348755 | [348755-gamble-lair.json](./348755-gamble-lair.json) |
 | Gamble Life | 416631 | [416631-gamble-life.json](./416631-gamble-life.json) |
+| Gamble Tower | 172398 | [172398-gamble-tower.json](./172398-gamble-tower.json) |
 | Gamble With Your Friends | 361027 | [361027-gamble-with-your-friends.json](./361027-gamble-with-your-friends.json) |
 | Gamble: Hard Exit | 389481 | [389481-gamble-hard-exit.json](./389481-gamble-hard-exit.json) |
 | Gamblemancer TD | 280101 | [280101-gamblemancer-td.json](./280101-gamblemancer-td.json) |
@@ -2258,6 +2259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genius - Tricky Riddles | 95309 | [95309-genius-tricky-riddles.json](./95309-genius-tricky-riddles.json) |
 | Genius At Work! | 153504 | [153504-genius-at-work.json](./153504-genius-at-work.json) |
 | Genius Calculator | 90265 | [90265-genius-calculator.json](./90265-genius-calculator.json) |
+| Genius Greedy Mouse: Greedy of XOR | 172368 | [172368-genius-greedy-mouse-greedy-of-xor.json](./172368-genius-greedy-mouse-greedy-of-xor.json) |
 | Genius Killer | 174749 | [174749-genius-killer.json](./174749-genius-killer.json) |
 | Genius Loci | 176239 | [176239-genius-loci.json](./176239-genius-loci.json) |
 | Genius Quiz | 240245 | [240245-genius-quiz.json](./240245-genius-quiz.json) |
