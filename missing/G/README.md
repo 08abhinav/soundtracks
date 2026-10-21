@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Escape | 208829 | [208829-galactic-escape.json](./208829-galactic-escape.json) |
 | Galactic Express | 294392 | [294392-galactic-express.json](./294392-galactic-express.json) |
 | Galactic Express | 381041 | [381041-galactic-express.json](./381041-galactic-express.json) |
+| Galactic Federation | 189357 | [189357-galactic-federation.json](./189357-galactic-federation.json) |
 | Galactic Field | 336906 | [336906-galactic-field.json](./336906-galactic-field.json) |
 | Galactic Fighter | 30511 | [30511-galactic-fighter.json](./30511-galactic-fighter.json) |
 | Galactic Fighters | 31706 | [31706-galactic-fighters.json](./31706-galactic-fighters.json) |
@@ -519,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galacticare: Supporter Pack | 302210 | [302210-galacticare-supporter-pack.json](./302210-galacticare-supporter-pack.json) |
 | Galacticare: The Voice Beyond | 337495 | [337495-galacticare-the-voice-beyond.json](./337495-galacticare-the-voice-beyond.json) |
 | Galactico | 285561 | [285561-galactico.json](./285561-galactico.json) |
+| Galacticon | 189368 | [189368-galacticon.json](./189368-galacticon.json) |
 | Galacticraft | 232681 | [232681-galacticraft.json](./232681-galacticraft.json) |
 | Galacticverse | 275071 | [275071-galacticverse.json](./275071-galacticverse.json) |
 | Galactineers | 33920 | [33920-galactineers.json](./33920-galactineers.json) |
@@ -6633,6 +6635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed Crystal | 198382 | [198382-greed-crystal.json](./198382-greed-crystal.json) |
 | Greed Forest | 336617 | [336617-greed-forest.json](./336617-greed-forest.json) |
 | Greed Hunters | 244637 | [244637-greed-hunters.json](./244637-greed-hunters.json) |
+| Greed Is Bad | 189340 | [189340-greed-is-bad.json](./189340-greed-is-bad.json) |
 | Greed Knight | 58680 | [58680-greed-knight.json](./58680-greed-knight.json) |
 | Greed of Man | 242106 | [242106-greed-of-man.json](./242106-greed-of-man.json) |
 | Greed Realm | 278991 | [278991-greed-realm.json](./278991-greed-realm.json) |
