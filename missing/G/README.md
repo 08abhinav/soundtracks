@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G1 Jockey Sense | 44155 | [44155-g1-jockey-sense.json](./44155-g1-jockey-sense.json) |
 | G1 Jockey Wii | 21440 | [21440-g1-jockey-wii.json](./21440-g1-jockey-wii.json) |
 | G1 Jockey Wii 2008 | 21455 | [21455-g1-jockey-wii-2008.json](./21455-g1-jockey-wii-2008.json) |
+| G1deon: Towards God | 171799 | [171799-g1deon-towards-god.json](./171799-g1deon-towards-god.json) |
 | G2 Fighter | 110443 | [110443-g2-fighter.json](./110443-g2-fighter.json) |
 | G2: Geeks Unleashed | 53089 | [53089-g2-geeks-unleashed.json](./53089-g2-geeks-unleashed.json) |
 | G30 | 101501 | [101501-g30.json](./101501-g30.json) |
@@ -757,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Trek | 197717 | [197717-galaxy-trek.json](./197717-galaxy-trek.json) |
 | Galaxy Trek | 285458 | [285458-galaxy-trek.json](./285458-galaxy-trek.json) |
 | Galaxy Trucker | 60538 | [60538-galaxy-trucker.json](./60538-galaxy-trucker.json) |
+| Galaxy War | 171857 | [171857-galaxy-war.json](./171857-galaxy-war.json) |
 | Galaxy War | 287514 | [287514-galaxy-war.json](./287514-galaxy-war.json) |
 | Galaxy War: The New Colony | 249658 | [249658-galaxy-war-the-new-colony.json](./249658-galaxy-war-the-new-colony.json) |
 | Galaxy Warfighter | 131984 | [131984-galaxy-warfighter.json](./131984-galaxy-warfighter.json) |
@@ -4261,6 +4263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goal II | 48286 | [48286-goal-ii.json](./48286-goal-ii.json) |
 | Goal IV | 339779 | [339779-goal-iv.json](./339779-goal-iv.json) |
 | Goal Keeper | 287519 | [287519-goal-keeper.json](./287519-goal-keeper.json) |
+| Goal Kick | 171849 | [171849-goal-kick.json](./171849-goal-kick.json) |
 | Goal Poacher VR: Football Header Simulator | 326415 | [326415-goal-poacher-vr-football-header-simulator.json](./326415-goal-poacher-vr-football-header-simulator.json) |
 | Goal Rush | 182147 | [182147-goal-rush.json](./182147-goal-rush.json) |
 | Goal Storm | 20315 | [20315-goal-storm.json](./20315-goal-storm.json) |
