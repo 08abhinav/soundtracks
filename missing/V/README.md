@@ -461,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Family | 236837 | [236837-vampire-family.json](./236837-vampire-family.json) |
 | Vampire Garden | 145928 | [145928-vampire-garden.json](./145928-vampire-garden.json) |
 | Vampire Girls | 243152 | [243152-vampire-girls.json](./243152-vampire-girls.json) |
+| Vampire Heist | 184760 | [184760-vampire-heist.json](./184760-vampire-heist.json) |
 | Vampire Hunt | 370479 | [370479-vampire-hunt.json](./370479-vampire-hunt.json) |
 | Vampire Hunter D | 126469 | [126469-vampire-hunter-d.json](./126469-vampire-hunter-d.json) |
 | Vampire Hunters | 244759 | [244759-vampire-hunters.json](./244759-vampire-hunters.json) |
@@ -481,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Memories | 247954 | [247954-vampire-memories.json](./247954-vampire-memories.json) |
 | Vampire Night | 13902 | [13902-vampire-night.json](./13902-vampire-night.json) |
 | Vampire Night Shift | 138187 | [138187-vampire-night-shift.json](./138187-vampire-night-shift.json) |
+| Vampire Nights | 184756 | [184756-vampire-nights.json](./184756-vampire-nights.json) |
 | Vampire Nights: Horny Secret | 385269 | [385269-vampire-nights-horny-secret.json](./385269-vampire-nights-horny-secret.json) |
 | Vampire on Trial | 394169 | [394169-vampire-on-trial.json](./394169-vampire-on-trial.json) |
 | Vampire Origins Reloaded | 63013 | [63013-vampire-origins-reloaded.json](./63013-vampire-origins-reloaded.json) |
@@ -522,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Therapist: Complete Edition | 403560 | [403560-vampire-therapist-complete-edition.json](./403560-vampire-therapist-complete-edition.json) |
 | Vampire Therapist: Couples Therapy | 398340 | [398340-vampire-therapist-couples-therapy.json](./398340-vampire-therapist-couples-therapy.json) |
 | Vampire Tourist | 230199 | [230199-vampire-tourist.json](./230199-vampire-tourist.json) |
+| Vampire Vengeance | 184754 | [184754-vampire-vengeance.json](./184754-vampire-vengeance.json) |
 | Vampire vs. Devil | 145688 | [145688-vampire-vs-devil.json](./145688-vampire-vs-devil.json) |
 | Vampire vs. Pope Army | 354225 | [354225-vampire-vs-pope-army.json](./354225-vampire-vs-pope-army.json) |
 | Vampire Waifu Puzzles | 329434 | [329434-vampire-waifu-puzzles.json](./329434-vampire-waifu-puzzles.json) |
@@ -572,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampires vs. Zombies | 53933 | [53933-vampires-vs-zombies.json](./53933-vampires-vs-zombies.json) |
 | Vampires: Bloodlord Rising | 278348 | [278348-vampires-bloodlord-rising.json](./278348-vampires-bloodlord-rising.json) |
 | Vampires: Bloodlust | 68009 | [68009-vampires-bloodlust.json](./68009-vampires-bloodlust.json) |
+| Vampires: The New Birth | 184778 | [184778-vampires-the-new-birth.json](./184778-vampires-the-new-birth.json) |
 | Vampires' Melody | 169435 | [169435-vampires-melody.json](./169435-vampires-melody.json) |
 | Vampiress: Eternal Duet | 349116 | [349116-vampiress-eternal-duet.json](./349116-vampiress-eternal-duet.json) |
 | Vampireville: haunted castle adventure | 175295 | [175295-vampireville-haunted-castle-adventure.json](./175295-vampireville-haunted-castle-adventure.json) |
@@ -737,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vasilisas Torment | 264524 | [264524-vasilisas-torment.json](./264524-vasilisas-torment.json) |
 | Vassoul | 384251 | [384251-vassoul.json](./384251-vassoul.json) |
 | Vast | 116103 | [116103-vast.json](./116103-vast.json) |
+| Vast | 184787 | [184787-vast.json](./184787-vast.json) |
 | Vast Haven-1 VR | 350495 | [350495-vast-haven-1-vr.json](./350495-vast-haven-1-vr.json) |
 | Vast Survival | 174774 | [174774-vast-survival.json](./174774-vast-survival.json) |
 | Vasteel | 92701 | [92701-vasteel.json](./92701-vasteel.json) |
