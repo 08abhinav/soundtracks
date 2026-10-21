@@ -334,6 +334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake: Ter Shibboleth | 196463 | [196463-quake-ter-shibboleth.json](./196463-quake-ter-shibboleth.json) |
 | Quake: The Final Descent | 196723 | [196723-quake-the-final-descent.json](./196723-quake-the-final-descent.json) |
 | Quake: The Offering | 46627 | [46627-quake-the-offering.json](./46627-quake-the-offering.json) |
+| Quake: The Prodigy | 195911 | [195911-quake-the-prodigy.json](./195911-quake-the-prodigy.json) |
 | Quake: The Punishment Due | 280188 | [280188-quake-the-punishment-due.json](./280188-quake-the-punishment-due.json) |
 | Quake: Torrent of Impurities | 196498 | [196498-quake-torrent-of-impurities.json](./196498-quake-torrent-of-impurities.json) |
 | Quake: Travail | 203189 | [203189-quake-travail.json](./203189-quake-travail.json) |
