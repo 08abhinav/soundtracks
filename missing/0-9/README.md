@@ -2432,6 +2432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8 To Glory | 125321 | [125321-8-to-glory.json](./125321-8-to-glory.json) |
 | 8 Yous+ | 334089 | [334089-8-yous.json](./334089-8-yous.json) |
 | 8-Ball Pool | 293238 | [293238-8-ball-pool.json](./293238-8-ball-pool.json) |
+| 8-Bit Adventures 1: Bundle | 186538 | [186538-8-bit-adventures-1-bundle.json](./186538-8-bit-adventures-1-bundle.json) |
 | 8-Bit Adventures 2 | 74653 | [74653-8-bit-adventures-2.json](./74653-8-bit-adventures-2.json) |
 | 8-Bit Adventures: The Forgotten Journey | 139719 | [139719-8-bit-adventures-the-forgotten-journey.json](./139719-8-bit-adventures-the-forgotten-journey.json) |
 | 8-Bit Adventures: The Forgotten Journey - Remastered Edition | 35235 | [35235-8-bit-adventures-the-forgotten-journey-remastered-edition.json](./35235-8-bit-adventures-the-forgotten-journey-remastered-edition.json) |
