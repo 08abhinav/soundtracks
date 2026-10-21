@@ -1632,6 +1632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vigor: Path to Vengeance | 238102 | [238102-vigor-path-to-vengeance.json](./238102-vigor-path-to-vengeance.json) |
 | Vigor: Reinforcements Pack | 311096 | [311096-vigor-reinforcements-pack.json](./311096-vigor-reinforcements-pack.json) |
 | Vigor: The Last King Of DayZ | 301571 | [301571-vigor-the-last-king-of-dayz.json](./301571-vigor-the-last-king-of-dayz.json) |
+| Vigorus | 192202 | [192202-vigorus.json](./192202-vigorus.json) |
 | Vigour | 283216 | [283216-vigour.json](./283216-vigour.json) |
 | Vigtafl | 185036 | [185036-vigtafl.json](./185036-vigtafl.json) |
 | VII | 129121 | [129121-vii.json](./129121-vii.json) |
@@ -2239,6 +2240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vision 2 | 92997 | [92997-vision-2.json](./92997-vision-2.json) |
 | Vision Crew's Deltarune: Alternate Chapters | 329603 | [329603-vision-crews-deltarune-alternate-chapters.json](./329603-vision-crews-deltarune-alternate-chapters.json) |
 | Vision Ghost 2 | 311129 | [311129-vision-ghost-2.json](./311129-vision-ghost-2.json) |
+| Vision Memory Maze | 192203 | [192203-vision-memory-maze.json](./192203-vision-memory-maze.json) |
 | Vision of Aurora Borealis | 32347 | [32347-vision-of-aurora-borealis.json](./32347-vision-of-aurora-borealis.json) |
 | Vision Origin | 28735 | [28735-vision-origin.json](./28735-vision-origin.json) |
 | Vision Quench | 378413 | [378413-vision-quench.json](./378413-vision-quench.json) |
