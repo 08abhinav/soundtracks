@@ -12319,6 +12319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Truck Rally Racing | 95554 | [95554-monster-truck-rally-racing.json](./95554-monster-truck-rally-racing.json) |
 | Monster Truck Ramp Stunt | 246431 | [246431-monster-truck-ramp-stunt.json](./246431-monster-truck-ramp-stunt.json) |
 | Monster Truck Soccer | 197648 | [197648-monster-truck-soccer.json](./197648-monster-truck-soccer.json) |
+| Monster Truck Story | 179924 | [179924-monster-truck-story.json](./179924-monster-truck-story.json) |
 | Monster Truck Trip 2 | 337224 | [337224-monster-truck-trip-2.json](./337224-monster-truck-trip-2.json) |
 | Monster Truck Wars | 19783 | [19783-monster-truck-wars.json](./19783-monster-truck-wars.json) |
 | Monster Truck XT Airport Derby | 86784 | [86784-monster-truck-xt-airport-derby.json](./86784-monster-truck-xt-airport-derby.json) |
