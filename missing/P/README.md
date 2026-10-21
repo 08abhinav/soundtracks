@@ -8007,6 +8007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pog 2 | 157503 | [157503-pog-2.json](./157503-pog-2.json) |
 | Pog 4 | 158497 | [158497-pog-4.json](./158497-pog-4.json) |
 | Pog 5 | 165705 | [165705-pog-5.json](./165705-pog-5.json) |
+| Pog 6 | 188853 | [188853-pog-6.json](./188853-pog-6.json) |
 | Pog 7 | 190932 | [190932-pog-7.json](./190932-pog-7.json) |
 | Pog XL | 236891 | [236891-pog-xl.json](./236891-pog-xl.json) |
 | Pogger's Legends | 319641 | [319641-poggers-legends.json](./319641-poggers-legends.json) |
