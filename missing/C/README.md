@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cactus Jumper | 84089 | [84089-cactus-jumper.json](./84089-cactus-jumper.json) |
 | Cactus League Professional Basketball 7 | 23778 | [23778-cactus-league-professional-basketball-7.json](./23778-cactus-league-professional-basketball-7.json) |
 | Cactus McCoy 2: The Ruins of Calavera | 98117 | [98117-cactus-mccoy-2-the-ruins-of-calavera.json](./98117-cactus-mccoy-2-the-ruins-of-calavera.json) |
+| Cactus Out of Place | 176158 | [176158-cactus-out-of-place.json](./176158-cactus-out-of-place.json) |
 | Cactus Simulator | 394357 | [394357-cactus-simulator.json](./394357-cactus-simulator.json) |
 | Cactus Simulator 2 | 266986 | [266986-cactus-simulator-2.json](./266986-cactus-simulator-2.json) |
 | Cad Cam Warrior | 313335 | [313335-cad-cam-warrior.json](./313335-cad-cam-warrior.json) |
@@ -4462,6 +4463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Coin | 363951 | [363951-chaos-coin.json](./363951-chaos-coin.json) |
 | Chaos Coming | 242966 | [242966-chaos-coming.json](./242966-chaos-coming.json) |
 | Chaos CompleXX | 261125 | [261125-chaos-complexx.json](./261125-chaos-complexx.json) |
+| Chaos Control | 176140 | [176140-chaos-control.json](./176140-chaos-control.json) |
 | Chaos Control | 325843 | [325843-chaos-control.json](./325843-chaos-control.json) |
 | Chaos Crafters | 265399 | [265399-chaos-crafters.json](./265399-chaos-crafters.json) |
 | Chaos Crown | 217190 | [217190-chaos-crown.json](./217190-chaos-crown.json) |
@@ -14133,6 +14135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptograms | 116955 | [116955-cryptograms.json](./116955-cryptograms.json) |
 | CryptoGrid | 411789 | [411789-cryptogrid.json](./411789-cryptogrid.json) |
 | CryptoMania: Movie Quotes | 271693 | [271693-cryptomania-movie-quotes.json](./271693-cryptomania-movie-quotes.json) |
+| CryptoMines | 176139 | [176139-cryptomines.json](./176139-cryptomines.json) |
 | Cryptonaut | 190132 | [190132-cryptonaut.json](./190132-cryptonaut.json) |
 | CryptoPlanes | 178324 | [178324-cryptoplanes.json](./178324-cryptoplanes.json) |
 | CryptoQuiz | 108443 | [108443-cryptoquiz.json](./108443-cryptoquiz.json) |
@@ -14569,6 +14572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubes and More Cubes | 180221 | [180221-cubes-and-more-cubes.json](./180221-cubes-and-more-cubes.json) |
 | Cubes Control | 256167 | [256167-cubes-control.json](./256167-cubes-control.json) |
 | Cubes Crush Legend | 174819 | [174819-cubes-crush-legend.json](./174819-cubes-crush-legend.json) |
+| Cubes on the floor | 176161 | [176161-cubes-on-the-floor.json](./176161-cubes-on-the-floor.json) |
 | Cubes Problem | 347102 | [347102-cubes-problem.json](./347102-cubes-problem.json) |
 | Cubes: Procedural Wonders | 240339 | [240339-cubes-procedural-wonders.json](./240339-cubes-procedural-wonders.json) |
 | CubeSat Builder: Build a NASA Spacecraft! | 309025 | [309025-cubesat-builder-build-a-nasa-spacecraft.json](./309025-cubesat-builder-build-a-nasa-spacecraft.json) |
@@ -14747,6 +14751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult | 68774 | [68774-cult.json](./68774-cult.json) |
 | Cult 2112 | 119553 | [119553-cult-2112.json](./119553-cult-2112.json) |
 | Cult Adorable | 276779 | [276779-cult-adorable.json](./276779-cult-adorable.json) |
+| Cult Conquest | 176181 | [176181-cult-conquest.json](./176181-cult-conquest.json) |
 | Cult County | 63659 | [63659-cult-county.json](./63659-cult-county.json) |
 | Cult Game | 362875 | [362875-cult-game.json](./362875-cult-game.json) |
 | Cult II: Federal Crime | 69935 | [69935-cult-ii-federal-crime.json](./69935-cult-ii-federal-crime.json) |
