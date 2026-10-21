@@ -4405,6 +4405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delegati Genesis | 203956 | [203956-delegati-genesis.json](./203956-delegati-genesis.json) |
 | Delete | 380599 | [380599-delete.json](./380599-delete.json) |
 | Delete | 81918 | [81918-delete.json](./81918-delete.json) |
+| Delete Virus; | 202629 | [202629-delete-virus.json](./202629-delete-virus.json) |
 | Deleted | 264654 | [264654-deleted.json](./264654-deleted.json) |
 | Deleters | 405586 | [405586-deleters.json](./405586-deleters.json) |
 | Deleveled | 116227 | [116227-deleveled.json](./116227-deleveled.json) |
@@ -11713,6 +11714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadful 5th Floor | 408497 | [408497-dreadful-5th-floor.json](./408497-dreadful-5th-floor.json) |
 | Dreadful Aurora | 297047 | [297047-dreadful-aurora.json](./297047-dreadful-aurora.json) |
 | Dreadful Bond | 116970 | [116970-dreadful-bond.json](./116970-dreadful-bond.json) |
+| Dreadful Hours | 202540 | [202540-dreadful-hours.json](./202540-dreadful-hours.json) |
 | Dreadful Tales: The Space Between - Collector's Edition | 182252 | [182252-dreadful-tales-the-space-between-collectors-edition.json](./182252-dreadful-tales-the-space-between-collectors-edition.json) |
 | Dreadful Wake | 192669 | [192669-dreadful-wake.json](./192669-dreadful-wake.json) |
 | Dreadhalls | 21561 | [21561-dreadhalls.json](./21561-dreadhalls.json) |
@@ -12764,6 +12766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drums | 187313 | [187313-drums.json](./187313-drums.json) |
 | Drums Hero PC | 37398 | [37398-drums-hero-pc.json](./37398-drums-hero-pc.json) |
 | Drums of War | 307662 | [307662-drums-of-war.json](./307662-drums-of-war.json) |
+| Drums Rock | 202539 | [202539-drums-rock.json](./202539-drums-rock.json) |
 | Drums Rock: Alestorm - 'Keelhauled' | 322226 | [322226-drums-rock-alestorm-keelhauled.json](./322226-drums-rock-alestorm-keelhauled.json) |
 | Drums Rock: Alter Bridge - 'Silver Tongue' | 322232 | [322232-drums-rock-alter-bridge-silver-tongue.json](./322232-drums-rock-alter-bridge-silver-tongue.json) |
 | Drums Rock: Angus McSix - 'Master of the Universe' | 322231 | [322231-drums-rock-angus-mcsix-master-of-the-universe.json](./322231-drums-rock-angus-mcsix-master-of-the-universe.json) |
