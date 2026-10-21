@@ -2818,6 +2818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heckin' Slimes | 176788 | [176788-heckin-slimes.json](./176788-heckin-slimes.json) |
 | Heckle Dungeon | 123999 | [123999-heckle-dungeon.json](./123999-heckle-dungeon.json) |
 | Heckpoint | 74539 | [74539-heckpoint.json](./74539-heckpoint.json) |
+| Hectic Space 2 | 194176 | [194176-hectic-space-2.json](./194176-hectic-space-2.json) |
 | Hector The Cat: Treasure Hunter | 257437 | [257437-hector-the-cat-treasure-hunter.json](./257437-hector-the-cat-treasure-hunter.json) |
 | Hector: Badge of Carnage! - Episode 1 | 119182 | [119182-hector-badge-of-carnage-episode-1.json](./119182-hector-badge-of-carnage-episode-1.json) |
 | Hector'39 | 328247 | [328247-hector39.json](./328247-hector39.json) |
