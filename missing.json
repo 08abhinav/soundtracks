@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T05:48:54.446Z",
-  "total_missing": 240855,
+  "generated_at": "2026-10-21T06:03:54.133Z",
+  "total_missing": 240905,
   "games": [
     {
       "igdb_id": 191680,
@@ -8955,6 +8955,11 @@
       "igdb_id": 253425,
       "game_name": "3D Puzzle: Medieval Inn",
       "file": "missing/0-9/253425-3d-puzzle-medieval-inn.json"
+    },
+    {
+      "igdb_id": 190999,
+      "game_name": "3D Puzzle: Modern House",
+      "file": "missing/0-9/190999-3d-puzzle-modern-house.json"
     },
     {
       "igdb_id": 357757,
@@ -24252,6 +24257,11 @@
       "file": "missing/A/126385-adam-robot-world.json"
     },
     {
+      "igdb_id": 190889,
+      "game_name": "Adam's Memories",
+      "file": "missing/A/190889-adams-memories.json"
+    },
+    {
       "igdb_id": 16298,
       "game_name": "Adam's Venture: Origins",
       "file": "missing/A/16298-adams-venture-origins.json"
@@ -29165,6 +29175,11 @@
       "igdb_id": 146139,
       "game_name": "Afterlife VR",
       "file": "missing/A/146139-afterlife-vr.json"
+    },
+    {
+      "igdb_id": 191010,
+      "game_name": "Afterlife: Killing Death",
+      "file": "missing/A/191010-afterlife-killing-death.json"
     },
     {
       "igdb_id": 306641,
@@ -79502,6 +79517,11 @@
       "file": "missing/A/54704-avatar-racedrome.json"
     },
     {
+      "igdb_id": 190875,
+      "game_name": "Avatar Raiders",
+      "file": "missing/A/190875-avatar-raiders.json"
+    },
+    {
       "igdb_id": 77586,
       "game_name": "Avatar Rockets",
       "file": "missing/A/77586-avatar-rockets.json"
@@ -112882,6 +112902,11 @@
       "file": "missing/B/106757-bingo.json"
     },
     {
+      "igdb_id": 190888,
+      "game_name": "Bingus: My Beloved",
+      "file": "missing/B/190888-bingus-my-beloved.json"
+    },
+    {
       "igdb_id": 93357,
       "game_name": "Biniax",
       "file": "missing/B/93357-biniax.json"
@@ -125282,6 +125307,11 @@
       "file": "missing/B/129672-bloody-ending.json"
     },
     {
+      "igdb_id": 190885,
+      "game_name": "Bloody Everybody",
+      "file": "missing/B/190885-bloody-everybody.json"
+    },
+    {
       "igdb_id": 89948,
       "game_name": "Bloody Faerie",
       "file": "missing/B/89948-bloody-faerie.json"
@@ -131047,6 +131077,11 @@
       "file": "missing/B/400862-bongbongcapy.json"
     },
     {
+      "igdb_id": 191003,
+      "game_name": "Bongirl",
+      "file": "missing/B/191003-bongirl.json"
+    },
+    {
       "igdb_id": 334486,
       "game_name": "Bongo Cat",
       "file": "missing/B/334486-bongo-cat.json"
@@ -133440,6 +133475,11 @@
       "igdb_id": 60766,
       "game_name": "Boss!",
       "file": "missing/B/60766-boss.json"
+    },
+    {
+      "igdb_id": 190883,
+      "game_name": "Bossa Presents",
+      "file": "missing/B/190883-bossa-presents.json"
     },
     {
       "igdb_id": 298388,
@@ -157255,6 +157295,11 @@
       "igdb_id": 87094,
       "game_name": "Candy Mania Star",
       "file": "missing/C/87094-candy-mania-star.json"
+    },
+    {
+      "igdb_id": 191012,
+      "game_name": "Candy Match 3",
+      "file": "missing/C/191012-candy-match-3.json"
     },
     {
       "igdb_id": 103559,
@@ -207992,6 +208037,11 @@
       "file": "missing/C/60298-corridor-z.json"
     },
     {
+      "igdb_id": 191027,
+      "game_name": "Corridors",
+      "file": "missing/C/191027-corridors.json"
+    },
+    {
       "igdb_id": 418277,
       "game_name": "Corridors",
       "file": "missing/C/418277-corridors.json"
@@ -241957,6 +242007,11 @@
       "file": "missing/D/357307-daydream-mosaics-juliettes-collection.json"
     },
     {
+      "igdb_id": 191002,
+      "game_name": "Daydream: Legend of the Eschelons",
+      "file": "missing/D/191002-daydream-legend-of-the-eschelons.json"
+    },
+    {
       "igdb_id": 246906,
       "game_name": "Daydream: Prologue",
       "file": "missing/D/246906-daydream-prologue.json"
@@ -268357,6 +268412,11 @@
       "file": "missing/D/266489-disc-station-msx-11.json"
     },
     {
+      "igdb_id": 190996,
+      "game_name": "Disc Station Special Vol. 10",
+      "file": "missing/D/190996-disc-station-special-vol-10.json"
+    },
+    {
       "igdb_id": 266652,
       "game_name": "Disc Station Vol. 17",
       "file": "missing/D/266652-disc-station-vol-17.json"
@@ -290877,6 +290937,11 @@
       "file": "missing/D/122998-dream-of-the-blood-moon.json"
     },
     {
+      "igdb_id": 190881,
+      "game_name": "Dream of the Hikikomori",
+      "file": "missing/D/190881-dream-of-the-hikikomori.json"
+    },
+    {
       "igdb_id": 244786,
       "game_name": "Dream of Tiny Snow",
       "file": "missing/D/244786-dream-of-tiny-snow.json"
@@ -298465,6 +298530,11 @@
       "igdb_id": 96196,
       "game_name": "Dungeon Construction Co",
       "file": "missing/D/96196-dungeon-construction-co.json"
+    },
+    {
+      "igdb_id": 190887,
+      "game_name": "Dungeon Conundrum",
+      "file": "missing/D/190887-dungeon-conundrum.json"
     },
     {
       "igdb_id": 274770,
@@ -309170,6 +309240,11 @@
       "igdb_id": 360457,
       "game_name": "Egg Finder",
       "file": "missing/E/360457-egg-finder.json"
+    },
+    {
+      "igdb_id": 191011,
+      "game_name": "Egg Fly",
+      "file": "missing/E/191011-egg-fly.json"
     },
     {
       "igdb_id": 307268,
@@ -338972,6 +339047,11 @@
       "file": "missing/F/243683-fall-guys-wildfire-pack.json"
     },
     {
+      "igdb_id": 190892,
+      "game_name": "Fall in Duty",
+      "file": "missing/F/190892-fall-in-duty.json"
+    },
+    {
       "igdb_id": 167382,
       "game_name": "Fall In Labyrinth",
       "file": "missing/F/167382-fall-in-labyrinth.json"
@@ -366995,6 +367075,11 @@
       "igdb_id": 324188,
       "game_name": "Flower Power: The Adventures of Magical Plants",
       "file": "missing/F/324188-flower-power-the-adventures-of-magical-plants.json"
+    },
+    {
+      "igdb_id": 190891,
+      "game_name": "Flower Shop",
+      "file": "missing/F/190891-flower-shop.json"
     },
     {
       "igdb_id": 299174,
@@ -464977,6 +465062,11 @@
       "file": "missing/H/70576-hockey-rage-2005.json"
     },
     {
+      "igdb_id": 190882,
+      "game_name": "Hockey Shooter VR",
+      "file": "missing/H/190882-hockey-shooter-vr.json"
+    },
+    {
       "igdb_id": 102578,
       "game_name": "Hockey Solitaire",
       "file": "missing/H/102578-hockey-solitaire.json"
@@ -497410,6 +497500,11 @@
       "igdb_id": 394555,
       "game_name": "Inken",
       "file": "missing/I/394555-inken.json"
+    },
+    {
+      "igdb_id": 190874,
+      "game_name": "Inkfish",
+      "file": "missing/I/190874-inkfish.json"
     },
     {
       "igdb_id": 123332,
@@ -558205,6 +558300,11 @@
       "igdb_id": 90058,
       "game_name": "Legend's World",
       "file": "missing/L/90058-legends-world.json"
+    },
+    {
+      "igdb_id": 190890,
+      "game_name": "Legendarium Online",
+      "file": "missing/L/190890-legendarium-online.json"
     },
     {
       "igdb_id": 129750,
@@ -799322,6 +799422,11 @@
       "file": "missing/Q/358400-quickmaze.json"
     },
     {
+      "igdb_id": 191028,
+      "game_name": "Quickn",
+      "file": "missing/Q/191028-quickn.json"
+    },
+    {
       "igdb_id": 226086,
       "game_name": "Quickscope Simulator",
       "file": "missing/Q/226086-quickscope-simulator.json"
@@ -866117,6 +866222,11 @@
       "file": "missing/S/294970-search-all-aliens.json"
     },
     {
+      "igdb_id": 191009,
+      "game_name": "Search All: Animals",
+      "file": "missing/S/191009-search-all-animals.json"
+    },
+    {
       "igdb_id": 291475,
       "game_name": "Search All: Balls",
       "file": "missing/S/291475-search-all-balls.json"
@@ -866147,9 +866257,19 @@
       "file": "missing/S/181056-search-all-candy.json"
     },
     {
+      "igdb_id": 191005,
+      "game_name": "Search All: Cats",
+      "file": "missing/S/191005-search-all-cats.json"
+    },
+    {
       "igdb_id": 186676,
       "game_name": "Search All: Christmas",
       "file": "missing/S/186676-search-all-christmas.json"
+    },
+    {
+      "igdb_id": 190997,
+      "game_name": "Search All: Crabs",
+      "file": "missing/S/190997-search-all-crabs.json"
     },
     {
       "igdb_id": 289716,
@@ -866160,6 +866280,11 @@
       "igdb_id": 285713,
       "game_name": "Search All: Flies",
       "file": "missing/S/285713-search-all-flies.json"
+    },
+    {
+      "igdb_id": 191008,
+      "game_name": "Search All: Foxes",
+      "file": "missing/S/191008-search-all-foxes.json"
     },
     {
       "igdb_id": 219614,
@@ -866187,9 +866312,19 @@
       "file": "missing/S/192375-search-all-mushrooms.json"
     },
     {
+      "igdb_id": 191006,
+      "game_name": "Search All: Potions",
+      "file": "missing/S/191006-search-all-potions.json"
+    },
+    {
       "igdb_id": 192378,
       "game_name": "Search All: Runes",
       "file": "missing/S/192378-search-all-runes.json"
+    },
+    {
+      "igdb_id": 191007,
+      "game_name": "Search All: Seashells",
+      "file": "missing/S/191007-search-all-seashells.json"
     },
     {
       "igdb_id": 279114,
@@ -922297,6 +922432,11 @@
       "file": "missing/S/159642-space-abyss.json"
     },
     {
+      "igdb_id": 191000,
+      "game_name": "Space Accident",
+      "file": "missing/S/191000-space-accident.json"
+    },
+    {
       "igdb_id": 277766,
       "game_name": "Space Accident VR",
       "file": "missing/S/277766-space-accident-vr.json"
@@ -924250,6 +924390,11 @@
       "igdb_id": 391570,
       "game_name": "Space Imperia 4X",
       "file": "missing/S/391570-space-imperia-4x.json"
+    },
+    {
+      "igdb_id": 190878,
+      "game_name": "Space Inc",
+      "file": "missing/S/190878-space-inc.json"
     },
     {
       "igdb_id": 250962,
@@ -943085,6 +943230,11 @@
       "igdb_id": 329227,
       "game_name": "Star Wars Episode I: The Phantom Menace",
       "file": "missing/S/329227-star-wars-episode-i-the-phantom-menace.json"
+    },
+    {
+      "igdb_id": 191026,
+      "game_name": "Star Wars Galaxies Restoration",
+      "file": "missing/S/191026-star-wars-galaxies-restoration.json"
     },
     {
       "igdb_id": 72636,
@@ -974367,6 +974517,11 @@
       "file": "missing/S/129092-super-rocket-ride.json"
     },
     {
+      "igdb_id": 190880,
+      "game_name": "Super Rolling Heroes",
+      "file": "missing/S/190880-super-rolling-heroes.json"
+    },
+    {
       "igdb_id": 288055,
       "game_name": "Super Rolling Heroes Deluxe",
       "file": "missing/S/288055-super-rolling-heroes-deluxe.json"
@@ -988430,6 +988585,11 @@
       "igdb_id": 373282,
       "game_name": "Tabletop Tavern",
       "file": "missing/T/373282-tabletop-tavern.json"
+    },
+    {
+      "igdb_id": 190884,
+      "game_name": "Tabletop Warriors",
+      "file": "missing/T/190884-tabletop-warriors.json"
     },
     {
       "igdb_id": 162874,
@@ -1005420,6 +1005580,11 @@
       "igdb_id": 171036,
       "game_name": "Territory",
       "file": "missing/T/171036-territory.json"
+    },
+    {
+      "igdb_id": 190998,
+      "game_name": "Territory",
+      "file": "missing/T/190998-territory.json"
     },
     {
       "igdb_id": 57897,
@@ -1050447,6 +1050612,11 @@
       "file": "missing/T/2836-the-simpsons-itchy-and-scratchy-in-miniature-golf-madness.json"
     },
     {
+      "igdb_id": 190876,
+      "game_name": "The Simpsons: Itchy & Scratchy Land",
+      "file": "missing/T/190876-the-simpsons-itchy-and-scratchy-land.json"
+    },
+    {
       "igdb_id": 256656,
       "game_name": "The Simpsons: Minutes to Meltdown",
       "file": "missing/T/256656-the-simpsons-minutes-to-meltdown.json"
@@ -1055050,6 +1055220,11 @@
       "igdb_id": 71967,
       "game_name": "The Thor Trilogy",
       "file": "missing/T/71967-the-thor-trilogy.json"
+    },
+    {
+      "igdb_id": 190886,
+      "game_name": "The Thorn of Warldia",
+      "file": "missing/T/190886-the-thorn-of-warldia.json"
     },
     {
       "igdb_id": 183445,
@@ -1065005,6 +1065180,11 @@
       "igdb_id": 182979,
       "game_name": "Threadbound",
       "file": "missing/T/182979-threadbound.json"
+    },
+    {
+      "igdb_id": 191001,
+      "game_name": "Threaded",
+      "file": "missing/T/191001-threaded.json"
     },
     {
       "igdb_id": 396214,
@@ -1096022,6 +1096202,11 @@
       "file": "missing/T/279013-train-simulator-classic-db-br-218-v-164.json"
     },
     {
+      "igdb_id": 191019,
+      "game_name": "Train Simulator Classic: DB BR 247 Loco",
+      "file": "missing/T/191019-train-simulator-classic-db-br-247-loco.json"
+    },
+    {
       "igdb_id": 290805,
       "game_name": "Train Simulator Classic: DB Fas 126",
       "file": "missing/T/290805-train-simulator-classic-db-fas-126.json"
@@ -1096217,6 +1096402,11 @@
       "file": "missing/T/156403-train-simulator-allgaubahn-kempten-lindau-and-immenstadt-oberstdorf-route.json"
     },
     {
+      "igdb_id": 191020,
+      "game_name": "Train Simulator: Amtrak P42DC 50th Anniversary - Collector’s Edition",
+      "file": "missing/T/191020-train-simulator-amtrak-p42dc-50th-anniversary-collector-s-edition.json"
+    },
+    {
       "igdb_id": 156384,
       "game_name": "Train Simulator: B&O Kingwood Branch: Tunnelton - Kingwood Route Add-On",
       "file": "missing/T/156384-train-simulator-b-and-o-kingwood-branch-tunnelton-kingwood-route-add-on.json"
@@ -1096225,6 +1096415,11 @@
       "igdb_id": 156404,
       "game_name": "Train Simulator: Bahnstrecke Riesa - Dresden Route Add-On",
       "file": "missing/T/156404-train-simulator-bahnstrecke-riesa-dresden-route-add-on.json"
+    },
+    {
+      "igdb_id": 191015,
+      "game_name": "Train Simulator: Bahnstrecke Strasbourg - Karlsruhe Route",
+      "file": "missing/T/191015-train-simulator-bahnstrecke-strasbourg-karlsruhe-route.json"
     },
     {
       "igdb_id": 156340,
@@ -1096255,6 +1096450,16 @@
       "igdb_id": 156339,
       "game_name": "Train Simulator: Canadian Pacific AC4400CW Loco Add-On",
       "file": "missing/T/156339-train-simulator-canadian-pacific-ac4400cw-loco-add-on.json"
+    },
+    {
+      "igdb_id": 191021,
+      "game_name": "Train Simulator: Canadian Pacific SD60 Loco",
+      "file": "missing/T/191021-train-simulator-canadian-pacific-sd60-loco.json"
+    },
+    {
+      "igdb_id": 191016,
+      "game_name": "Train Simulator: Chatham Main Line: London Victoria & Blackfriars - Dover & Ramsgate Route",
+      "file": "missing/T/191016-train-simulator-chatham-main-line-london-victoria-and-blackfriars-dover-and-ramsgate-route.json"
     },
     {
       "igdb_id": 156489,
@@ -1096290,6 +1096495,16 @@
       "igdb_id": 156378,
       "game_name": "Train Simulator: Colton & Northern Route Add-On",
       "file": "missing/T/156378-train-simulator-colton-and-northern-route-add-on.json"
+    },
+    {
+      "igdb_id": 191017,
+      "game_name": "Train Simulator: CSX SD45-2 Loco",
+      "file": "missing/T/191017-train-simulator-csx-sd45-2-loco.json"
+    },
+    {
+      "igdb_id": 191014,
+      "game_name": "Train Simulator: DB BR 187 Loco",
+      "file": "missing/T/191014-train-simulator-db-br-187-loco.json"
     },
     {
       "igdb_id": 156407,
@@ -1096497,6 +1096712,11 @@
       "file": "missing/T/156477-train-simulator-montana-hi-line-shelby-havre-route-add-on.json"
     },
     {
+      "igdb_id": 191013,
+      "game_name": "Train Simulator: Mount Shasta Line: Dunsmuir - Klamath Falls Route",
+      "file": "missing/T/191013-train-simulator-mount-shasta-line-dunsmuir-klamath-falls-route.json"
+    },
+    {
       "igdb_id": 156342,
       "game_name": "Train Simulator: MRCE ER20 Eurorunner Loco Add-On",
       "file": "missing/T/156342-train-simulator-mrce-er20-eurorunner-loco-add-on.json"
@@ -1096522,6 +1096742,11 @@
       "file": "missing/T/156472-train-simulator-munster-bremen-route-add-on.json"
     },
     {
+      "igdb_id": 191025,
+      "game_name": "Train Simulator: New Zealand DJ Loco Pack",
+      "file": "missing/T/191025-train-simulator-new-zealand-dj-loco-pack.json"
+    },
+    {
       "igdb_id": 156390,
       "game_name": "Train Simulator: Norddeutsche-Bahn: Kiel - Lübeck Route Add-On",
       "file": "missing/T/156390-train-simulator-norddeutsche-bahn-kiel-lubeck-route-add-on.json"
@@ -1096530,6 +1096755,11 @@
       "igdb_id": 265716,
       "game_name": "Train Simulator: Norfolk Southern SD70ACU",
       "file": "missing/T/265716-train-simulator-norfolk-southern-sd70acu.json"
+    },
+    {
+      "igdb_id": 191022,
+      "game_name": "Train Simulator: Norfolk Southern SD70M Loco",
+      "file": "missing/T/191022-train-simulator-norfolk-southern-sd70m-loco.json"
     },
     {
       "igdb_id": 156394,
@@ -1096602,6 +1096832,11 @@
       "file": "missing/T/293693-train-simulator-rudolfsbahn-bruck-an-der-mur-selzthal-and-knittelfeld.json"
     },
     {
+      "igdb_id": 191023,
+      "game_name": "Train Simulator: Salzburg - Mühldorf Route",
+      "file": "missing/T/191023-train-simulator-salzburg-muhldorf-route.json"
+    },
+    {
       "igdb_id": 156480,
       "game_name": "Train Simulator: Sherman Hill Route Add-On",
       "file": "missing/T/156480-train-simulator-sherman-hill-route-add-on.json"
@@ -1096655,6 +1096890,11 @@
       "igdb_id": 154255,
       "game_name": "Train Simulator: Tauernbahn: Schwarzach-Sankt Veit - Spittal an der Drau Route Add-On",
       "file": "missing/T/154255-train-simulator-tauernbahn-schwarzach-sankt-veit-spittal-an-der-drau-route-add-on.json"
+    },
+    {
+      "igdb_id": 191018,
+      "game_name": "Train Simulator: Thameslink BR Class 700 EMU",
+      "file": "missing/T/191018-train-simulator-thameslink-br-class-700-emu.json"
     },
     {
       "igdb_id": 53745,
@@ -1096755,6 +1096995,11 @@
       "igdb_id": 156360,
       "game_name": "Train Simulator: Western Lines of Scotland Route Add-On",
       "file": "missing/T/156360-train-simulator-western-lines-of-scotland-route-add-on.json"
+    },
+    {
+      "igdb_id": 191024,
+      "game_name": "Train Simulator: Western Maryland BL2 Loco",
+      "file": "missing/T/191024-train-simulator-western-maryland-bl2-loco.json"
     },
     {
       "igdb_id": 211898,
@@ -1131575,6 +1131820,11 @@
       "igdb_id": 207788,
       "game_name": "Valor & Victory: Shield of Cholm",
       "file": "missing/V/207788-valor-and-victory-shield-of-cholm.json"
+    },
+    {
+      "igdb_id": 191004,
+      "game_name": "Valor & Victory: Stalingrad",
+      "file": "missing/V/191004-valor-and-victory-stalingrad.json"
     },
     {
       "igdb_id": 153484,
