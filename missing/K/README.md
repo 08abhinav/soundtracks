@@ -729,6 +729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KardVenture | 252720 | [252720-kardventure.json](./252720-kardventure.json) |
 | Kare Kano Trial: Toki wo Kakeru Toki-meki Daisakusen | 339124 | [339124-kare-kano-trial-toki-wo-kakeru-toki-meki-daisakusen.json](./339124-kare-kano-trial-toki-wo-kakeru-toki-meki-daisakusen.json) |
 | Kare wa Kanojo | 116215 | [116215-kare-wa-kanojo.json](./116215-kare-wa-kanojo.json) |
+| Karen and the Body pillow | 185360 | [185360-karen-and-the-body-pillow.json](./185360-karen-and-the-body-pillow.json) |
 | Karen Ready！ | 326095 | [326095-karen-ready.json](./326095-karen-ready.json) |
 | Karen Sees | 186681 | [186681-karen-sees.json](./186681-karen-sees.json) |
 | Karen the Chicken | 251964 | [251964-karen-the-chicken.json](./251964-karen-the-chicken.json) |
@@ -1537,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Khalco Farm | 414505 | [414505-khalco-farm.json](./414505-khalco-farm.json) |
 | Khaldun | 184866 | [184866-khaldun.json](./184866-khaldun.json) |
 | Khamrai | 91879 | [91879-khamrai.json](./91879-khamrai.json) |
+| Khamsin | 185354 | [185354-khamsin.json](./185354-khamsin.json) |
 | Khan: Absolute Power | 33293 | [33293-khan-absolute-power.json](./33293-khan-absolute-power.json) |
 | Khan: Myth of the Wind | 145603 | [145603-khan-myth-of-the-wind.json](./145603-khan-myth-of-the-wind.json) |
 | Khaos Wind | 111894 | [111894-khaos-wind.json](./111894-khaos-wind.json) |
