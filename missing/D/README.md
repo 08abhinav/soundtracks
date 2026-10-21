@@ -7303,6 +7303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dioxide | 403807 | [403807-dioxide.json](./403807-dioxide.json) |
 | Dip the Frog | 159220 | [159220-dip-the-frog.json](./159220-dip-the-frog.json) |
 | Dipets | 327300 | [327300-dipets.json](./327300-dipets.json) |
+| Diphtheria | 190485 | [190485-diphtheria.json](./190485-diphtheria.json) |
 | Diplomacy | 92082 | [92082-diplomacy.json](./92082-diplomacy.json) |
 | Diplomacy is Not an Option | 132334 | [132334-diplomacy-is-not-an-option.json](./132334-diplomacy-is-not-an-option.json) |
 | Diplomacy is Not an Option: Fog of War | 415090 | [415090-diplomacy-is-not-an-option-fog-of-war.json](./415090-diplomacy-is-not-an-option-fog-of-war.json) |
