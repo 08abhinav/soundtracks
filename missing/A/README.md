@@ -556,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Long Way to the Nearest Star | 237440 | [237440-a-long-way-to-the-nearest-star.json](./237440-a-long-way-to-the-nearest-star.json) |
 | A look into... | 235040 | [235040-a-look-into.json](./235040-a-look-into.json) |
 | A Loop is a Loop is | 144789 | [144789-a-loop-is-a-loop-is.json](./144789-a-loop-is-a-loop-is.json) |
+| A Lost Jellyfish: Return to its Parents | 187717 | [187717-a-lost-jellyfish-return-to-its-parents.json](./187717-a-lost-jellyfish-return-to-its-parents.json) |
 | A Lost Land | 384655 | [384655-a-lost-land.json](./384655-a-lost-land.json) |
 | A Lost Man | 403628 | [403628-a-lost-man.json](./403628-a-lost-man.json) |
 | A Lost Note | 244748 | [244748-a-lost-note.json](./244748-a-lost-note.json) |
@@ -7174,6 +7175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AngerDark | 112797 | [112797-angerdark.json](./112797-angerdark.json) |
 | AngerForce: Reloaded for Nintendo Switch | 147948 | [147948-angerforce-reloaded-for-nintendo-switch.json](./147948-angerforce-reloaded-for-nintendo-switch.json) |
 | AngerOfStick | 175433 | [175433-angerofstick.json](./175433-angerofstick.json) |
+| Anges & Gardiens: Journey to the Center of the Earth | 187716 | [187716-anges-and-gardiens-journey-to-the-center-of-the-earth.json](./187716-anges-and-gardiens-journey-to-the-center-of-the-earth.json) |
 | Angevillia | 197322 | [197322-angevillia.json](./197322-angevillia.json) |
 | Angie Magica | 391291 | [391291-angie-magica.json](./391291-angie-magica.json) |
 | Angira Online | 235715 | [235715-angira-online.json](./235715-angira-online.json) |
@@ -7528,6 +7530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Well | 191435 | [191435-animal-well.json](./191435-animal-well.json) |
 | Animal Wine Factory | 212497 | [212497-animal-wine-factory.json](./212497-animal-wine-factory.json) |
 | Animal Wish | 207667 | [207667-animal-wish.json](./207667-animal-wish.json) |
+| Animal Wizard | 187736 | [187736-animal-wizard.json](./187736-animal-wizard.json) |
 | Animal Workforce: Idle Tycoon Clicker | 369583 | [369583-animal-workforce-idle-tycoon-clicker.json](./369583-animal-workforce-idle-tycoon-clicker.json) |
 | Animal World: Big Cats | 269555 | [269555-animal-world-big-cats.json](./269555-animal-world-big-cats.json) |
 | Animal Wrestler | 267325 | [267325-animal-wrestler.json](./267325-animal-wrestler.json) |
