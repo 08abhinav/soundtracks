@@ -4466,6 +4466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mavericks | 349802 | [349802-mavericks.json](./349802-mavericks.json) |
 | Mavericks 2: Resurrection of the Repliforce: | 350788 | [350788-mavericks-2-resurrection-of-the-repliforce.json](./350788-mavericks-2-resurrection-of-the-repliforce.json) |
 | Mavericks 3: Zero's Revenge | 350789 | [350789-mavericks-3-zeros-revenge.json](./350789-mavericks-3-zeros-revenge.json) |
+| Maverta | 181039 | [181039-maverta.json](./181039-maverta.json) |
 | Maverta Island | 186844 | [186844-maverta-island.json](./186844-maverta-island.json) |
 | Mavis Beacon Teaches Typing Version 15 | 225834 | [225834-mavis-beacon-teaches-typing-version-15.json](./225834-mavis-beacon-teaches-typing-version-15.json) |
 | Mavis Beacon Teaches Typing Version 8 | 209541 | [209541-mavis-beacon-teaches-typing-version-8.json](./209541-mavis-beacon-teaches-typing-version-8.json) |
@@ -5361,6 +5362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval and Secrets | 232439 | [232439-medieval-and-secrets.json](./232439-medieval-and-secrets.json) |
 | Medieval Archer Simulator | 348240 | [348240-medieval-archer-simulator.json](./348240-medieval-archer-simulator.json) |
 | Medieval Archery Simulator | 171443 | [171443-medieval-archery-simulator.json](./171443-medieval-archery-simulator.json) |
+| Medieval Arms | 180997 | [180997-medieval-arms.json](./180997-medieval-arms.json) |
 | Medieval Battle: Food Truck | 385960 | [385960-medieval-battle-food-truck.json](./385960-medieval-battle-food-truck.json) |
 | Medieval Battlefields: Black Edition | 33081 | [33081-medieval-battlefields-black-edition.json](./33081-medieval-battlefields-black-edition.json) |
 | Medieval Battlegrounds | 188669 | [188669-medieval-battlegrounds.json](./188669-medieval-battlegrounds.json) |
@@ -6779,6 +6781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Leak | 183355 | [183355-memory-leak.json](./183355-memory-leak.json) |
 | Memory Lost | 172897 | [172897-memory-lost.json](./172897-memory-lost.json) |
 | Memory Lost - Shift Edition | 351138 | [351138-memory-lost-shift-edition.json](./351138-memory-lost-shift-edition.json) |
+| Memory Lost-Pairs | 181017 | [181017-memory-lost-pairs.json](./181017-memory-lost-pairs.json) |
 | Memory Mastermind | 61068 | [61068-memory-mastermind.json](./61068-memory-mastermind.json) |
 | Memory Match | 230700 | [230700-memory-match.json](./230700-memory-match.json) |
 | Memory Match IQ Brain Training | 232477 | [232477-memory-match-iq-brain-training.json](./232477-memory-match-iq-brain-training.json) |
@@ -12738,6 +12741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonsigil Atlas | 322204 | [322204-moonsigil-atlas.json](./322204-moonsigil-atlas.json) |
 | Moonsouls: Echoes of the Past | 234301 | [234301-moonsouls-echoes-of-the-past.json](./234301-moonsouls-echoes-of-the-past.json) |
 | MoonSpire | 336056 | [336056-moonspire.json](./336056-moonspire.json) |
+| Moonsters | 180995 | [180995-moonsters.json](./180995-moonsters.json) |
 | Moonstone Crossroads | 116081 | [116081-moonstone-crossroads.json](./116081-moonstone-crossroads.json) |
 | Moonstone Island: Arcane Artifacts | 301852 | [301852-moonstone-island-arcane-artifacts.json](./301852-moonstone-island-arcane-artifacts.json) |
 | Moonstone Island: Autumnal Accessories DLC Pack | 317958 | [317958-moonstone-island-autumnal-accessories-dlc-pack.json](./317958-moonstone-island-autumnal-accessories-dlc-pack.json) |
