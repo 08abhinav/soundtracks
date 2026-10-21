@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Crow in Hell | 393519 | [393519-a-crow-in-hell.json](./393519-a-crow-in-hell.json) |
 | A Crow in Hell 2 | 393520 | [393520-a-crow-in-hell-2.json](./393520-a-crow-in-hell-2.json) |
 | A Crow in Hell 3 | 393521 | [393521-a-crow-in-hell-3.json](./393521-a-crow-in-hell-3.json) |
+| A Crown of Sorcery and Steel | 197050 | [197050-a-crown-of-sorcery-and-steel.json](./197050-a-crown-of-sorcery-and-steel.json) |
 | A Crown of Thorns | 207740 | [207740-a-crown-of-thorns.json](./207740-a-crown-of-thorns.json) |
 | A Cup of Coffee | 211247 | [211247-a-cup-of-coffee.json](./211247-a-cup-of-coffee.json) |
 | A Curious Pastime | 166669 | [166669-a-curious-pastime.json](./166669-a-curious-pastime.json) |
@@ -8673,6 +8674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apollo Sonata | 372785 | [372785-apollo-sonata.json](./372785-apollo-sonata.json) |
 | Apollo Titanic Bundle | 118856 | [118856-apollo-titanic-bundle.json](./118856-apollo-titanic-bundle.json) |
 | Apollo X | 120292 | [120292-apollo-x.json](./120292-apollo-x.json) |
+| Apollo: A Co-Op Game | 197037 | [197037-apollo-a-co-op-game.json](./197037-apollo-a-co-op-game.json) |
 | Apollo: A Dream Odyssey | 223614 | [223614-apollo-a-dream-odyssey.json](./223614-apollo-a-dream-odyssey.json) |
 | Apollo's Adventure | 211050 | [211050-apollos-adventure.json](./211050-apollos-adventure.json) |
 | Apollo's Palace | 186601 | [186601-apollos-palace.json](./186601-apollos-palace.json) |
@@ -10926,6 +10928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artillery Live | 234693 | [234693-artillery-live.json](./234693-artillery-live.json) |
 | Artillery Royale | 145532 | [145532-artillery-royale.json](./145532-artillery-royale.json) |
 | Artillery: Knights vs. Orcs | 84975 | [84975-artillery-knights-vs-orcs.json](./84975-artillery-knights-vs-orcs.json) |
+| Artis Impact | 197038 | [197038-artis-impact.json](./197038-artis-impact.json) |
 | Artis Impact: Meiji Spa | 349467 | [349467-artis-impact-meiji-spa.json](./349467-artis-impact-meiji-spa.json) |
 | Artisan | 190096 | [190096-artisan.json](./190096-artisan.json) |
 | Artisan Story | 260215 | [260215-artisan-story.json](./260215-artisan-story.json) |
