@@ -5362,6 +5362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Campsite | 326605 | [326605-the-campsite.json](./326605-the-campsite.json) |
 | The Canals of Mars | 73349 | [73349-the-canals-of-mars.json](./73349-the-canals-of-mars.json) |
 | The Candle | 331669 | [331669-the-candle.json](./331669-the-candle.json) |
+| The Candles Breathe | 184762 | [184762-the-candles-breathe.json](./184762-the-candles-breathe.json) |
 | The Candy Adventure | 399135 | [399135-the-candy-adventure.json](./399135-the-candy-adventure.json) |
 | The Candy Jar On My Desk Is Empty Again | 369450 | [369450-the-candy-jar-on-my-desk-is-empty-again.json](./369450-the-candy-jar-on-my-desk-is-empty-again.json) |
 | The Candyman | 186729 | [186729-the-candyman.json](./186729-the-candyman.json) |
@@ -5387,6 +5388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cardinal of the Kremlin | 14382 | [14382-the-cardinal-of-the-kremlin.json](./14382-the-cardinal-of-the-kremlin.json) |
 | The Cards Never Lie | 185402 | [185402-the-cards-never-lie.json](./185402-the-cards-never-lie.json) |
 | The Cards You're Dealt | 182877 | [182877-the-cards-youre-dealt.json](./182877-the-cards-youre-dealt.json) |
+| The Caretaker | 184766 | [184766-the-caretaker.json](./184766-the-caretaker.json) |
 | The Caretaker’s Lease | 361046 | [361046-the-caretaker-s-lease.json](./361046-the-caretaker-s-lease.json) |
 | The Carnage Continues | 276385 | [276385-the-carnage-continues.json](./276385-the-carnage-continues.json) |
 | The Carnival Killer | 320578 | [320578-the-carnival-killer.json](./320578-the-carnival-killer.json) |
@@ -11477,6 +11479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pow-er | 330690 | [330690-the-pow-er.json](./330690-the-pow-er.json) |
 | The Power | 137071 | [137071-the-power.json](./137071-the-power.json) |
 | The Power Latch Kid | 152493 | [152493-the-power-latch-kid.json](./152493-the-power-latch-kid.json) |
+| The Power of Blood | 184775 | [184775-the-power-of-blood.json](./184775-the-power-of-blood.json) |
 | The power of chaos | 118369 | [118369-the-power-of-chaos.json](./118369-the-power-of-chaos.json) |
 | The Power of Fish | 382321 | [382321-the-power-of-fish.json](./382321-the-power-of-fish.json) |
 | The Power of Love | 101934 | [101934-the-power-of-love.json](./101934-the-power-of-love.json) |
@@ -11811,6 +11814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red Button | 289969 | [289969-the-red-button.json](./289969-the-red-button.json) |
 | The Red Cathedral | 359042 | [359042-the-red-cathedral.json](./359042-the-red-cathedral.json) |
 | The Red Crystal: The Seven Secrets of Life | 198262 | [198262-the-red-crystal-the-seven-secrets-of-life.json](./198262-the-red-crystal-the-seven-secrets-of-life.json) |
+| The Red Devil | 184759 | [184759-the-red-devil.json](./184759-the-red-devil.json) |
 | The Red Forest | 267674 | [267674-the-red-forest.json](./267674-the-red-forest.json) |
 | The Red Hat | 327275 | [327275-the-red-hat.json](./327275-the-red-hat.json) |
 | The Red Hood | 193482 | [193482-the-red-hood.json](./193482-the-red-hood.json) |
@@ -15082,6 +15086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | These Heavenly Bodies | 315193 | [315193-these-heavenly-bodies.json](./315193-these-heavenly-bodies.json) |
 | These Nights Alone | 156071 | [156071-these-nights-alone.json](./156071-these-nights-alone.json) |
 | These nights in Cairo | 74688 | [74688-these-nights-in-cairo.json](./74688-these-nights-in-cairo.json) |
+| These Out of Control Booty Shaking Kittens are Ruining My Castlevania! | 184745 | [184745-these-out-of-control-booty-shaking-kittens-are-ruining-my-castlevania.json](./184745-these-out-of-control-booty-shaking-kittens-are-ruining-my-castlevania.json) |
 | These Robotic Hearts of Mine | 22920 | [22920-these-robotic-hearts-of-mine.json](./22920-these-robotic-hearts-of-mine.json) |
 | These Thieving Hearts | 289966 | [289966-these-thieving-hearts.json](./289966-these-thieving-hearts.json) |
 | Theseus | 139912 | [139912-theseus.json](./139912-theseus.json) |
@@ -19504,6 +19509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tooth and Tail | 12519 | [12519-tooth-and-tail.json](./12519-tooth-and-tail.json) |
 | Tooth Fairy Horse | 250454 | [250454-tooth-fairy-horse.json](./250454-tooth-fairy-horse.json) |
 | Tooth Protectors | 11236 | [11236-tooth-protectors.json](./11236-tooth-protectors.json) |
+| Toothless Vampire | 184750 | [184750-toothless-vampire.json](./184750-toothless-vampire.json) |
 | Toothy History | 160221 | [160221-toothy-history.json](./160221-toothy-history.json) |
 | Tootinis | 149868 | [149868-tootinis.json](./149868-tootinis.json) |
 | Tootsie Pop | 273896 | [273896-tootsie-pop.json](./273896-tootsie-pop.json) |
@@ -23017,6 +23023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travelogue 360: Paris | 65182 | [65182-travelogue-360-paris.json](./65182-travelogue-360-paris.json) |
 | Traveloot | 392163 | [392163-traveloot.json](./392163-traveloot.json) |
 | Travelrama USA | 206078 | [206078-travelrama-usa.json](./206078-travelrama-usa.json) |
+| Travels in Od | 184744 | [184744-travels-in-od.json](./184744-travels-in-od.json) |
 | Travels With Gulliver | 416181 | [416181-travels-with-gulliver.json](./416181-travels-with-gulliver.json) |
 | Traverse the Void | 157473 | [157473-traverse-the-void.json](./157473-traverse-the-void.json) |
 | Traverse: Starlight & Prairie | 37782 | [37782-traverse-starlight-and-prairie.json](./37782-traverse-starlight-and-prairie.json) |
