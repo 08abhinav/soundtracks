@@ -5556,6 +5556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet'N'Fuck: Star Mission | 219163 | [219163-meetnfuck-star-mission.json](./219163-meetnfuck-star-mission.json) |
 | Meet'N'Fuck: Street Racing | 221627 | [221627-meetnfuck-street-racing.json](./221627-meetnfuck-street-racing.json) |
 | Meet'N'Fuck: The Plumber | 221725 | [221725-meetnfuck-the-plumber.json](./221725-meetnfuck-the-plumber.json) |
+| MeetCute | 192726 | [192726-meetcute.json](./192726-meetcute.json) |
 | Meeting Her | 253909 | [253909-meeting-her.json](./253909-meeting-her.json) |
 | Meeting in the Flesh | 135008 | [135008-meeting-in-the-flesh.json](./135008-meeting-in-the-flesh.json) |
 | Meeting Myself | 275919 | [275919-meeting-myself.json](./275919-meeting-myself.json) |
@@ -14393,6 +14394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mugalon Poker | 232351 | [232351-mugalon-poker.json](./232351-mugalon-poker.json) |
 | Mugamuchuu | 150166 | [150166-mugamuchuu.json](./150166-mugamuchuu.json) |
 | Mugen Abisu | 190959 | [190959-mugen-abisu.json](./190959-mugen-abisu.json) |
+| Mugen Journey | 192736 | [192736-mugen-journey.json](./192736-mugen-journey.json) |
 | Mugen no Shinzou | 167613 | [167613-mugen-no-shinzou.json](./167613-mugen-no-shinzou.json) |
 | Mugen no Shinzou II | 246656 | [246656-mugen-no-shinzou-ii.json](./246656-mugen-no-shinzou-ii.json) |
 | Mugen no Shinzou III | 281031 | [281031-mugen-no-shinzou-iii.json](./281031-mugen-no-shinzou-iii.json) |
@@ -16162,6 +16164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Universe: Puppies and Kittens | 169236 | [169236-my-universe-puppies-and-kittens.json](./169236-my-universe-puppies-and-kittens.json) |
 | My Universe: Puppies and Kittens - Panda Edition | 210918 | [210918-my-universe-puppies-and-kittens-panda-edition.json](./210918-my-universe-puppies-and-kittens-panda-edition.json) |
 | My Universe: School Teacher | 139216 | [139216-my-universe-school-teacher.json](./139216-my-universe-school-teacher.json) |
+| My University Girlfriend | 192740 | [192740-my-university-girlfriend.json](./192740-my-university-girlfriend.json) |
 | My UnReal Pet | 158705 | [158705-my-unreal-pet.json](./158705-my-unreal-pet.json) |
 | My Unusual Feline Friend | 259014 | [259014-my-unusual-feline-friend.json](./259014-my-unusual-feline-friend.json) |
 | My Valiant Purpose | 278384 | [278384-my-valiant-purpose.json](./278384-my-valiant-purpose.json) |
