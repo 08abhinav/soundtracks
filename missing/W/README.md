@@ -5659,6 +5659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Chaos | 217984 | [217984-word-chaos.json](./217984-word-chaos.json) |
 | Word Charades | 396009 | [396009-word-charades.json](./396009-word-charades.json) |
 | Word Charm | 88511 | [88511-word-charm.json](./88511-word-charm.json) |
+| Word Chef | 192066 | [192066-word-chef.json](./192066-word-chef.json) |
 | Word Chef: Letter Pop | 241330 | [241330-word-chef-letter-pop.json](./241330-word-chef-letter-pop.json) |
 | Word Choices | 233052 | [233052-word-choices.json](./233052-word-choices.json) |
 | Word Chums | 91135 | [91135-word-chums.json](./91135-word-chums.json) |
