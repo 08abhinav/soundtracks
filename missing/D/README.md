@@ -2463,6 +2463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead | 90624 | [90624-dead.json](./90624-dead.json) |
 | Dead 4 Dress | 135019 | [135019-dead-4-dress.json](./135019-dead-4-dress.json) |
 | Dead 4 Now: Bio-weapon Simulator | 391625 | [391625-dead-4-now-bio-weapon-simulator.json](./391625-dead-4-now-bio-weapon-simulator.json) |
+| Dead 4 Returns | 188307 | [188307-dead-4-returns.json](./188307-dead-4-returns.json) |
 | Dead Above | 366309 | [366309-dead-above.json](./366309-dead-above.json) |
 | Dead Abyss | 321336 | [321336-dead-abyss.json](./321336-dead-abyss.json) |
 | Dead Against Us | 193759 | [193759-dead-against-us.json](./193759-dead-against-us.json) |
@@ -4227,6 +4228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender II | 281044 | [281044-defender-ii.json](./281044-defender-ii.json) |
 | Defender II | 344003 | [344003-defender-ii.json](./344003-defender-ii.json) |
 | Defender II | 48902 | [48902-defender-ii.json](./48902-defender-ii.json) |
+| Defender III | 188314 | [188314-defender-iii.json](./188314-defender-iii.json) |
 | Defender of Diosa | 341090 | [341090-defender-of-diosa.json](./341090-defender-of-diosa.json) |
 | Defender of Earth vs. The Alien Armada | 55816 | [55816-defender-of-earth-vs-the-alien-armada.json](./55816-defender-of-earth-vs-the-alien-armada.json) |
 | Defender of Falyndor | 311604 | [311604-defender-of-falyndor.json](./311604-defender-of-falyndor.json) |
@@ -11976,6 +11978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream League Soccer | 249369 | [249369-dream-league-soccer.json](./249369-dream-league-soccer.json) |
 | Dream League Soccer 2016 | 403613 | [403613-dream-league-soccer-2016.json](./403613-dream-league-soccer-2016.json) |
 | Dream League Soccer 2019 | 174601 | [174601-dream-league-soccer-2019.json](./174601-dream-league-soccer-2019.json) |
+| Dream League Soccer 2022 | 188310 | [188310-dream-league-soccer-2022.json](./188310-dream-league-soccer-2022.json) |
 | Dream League Soccer 2024 | 326648 | [326648-dream-league-soccer-2024.json](./326648-dream-league-soccer-2024.json) |
 | Dream League Soccer 2025 | 330832 | [330832-dream-league-soccer-2025.json](./330832-dream-league-soccer-2025.json) |
 | Dream League Soccer 2026 | 411784 | [411784-dream-league-soccer-2026.json](./411784-dream-league-soccer-2026.json) |
@@ -12238,6 +12241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams: Dragons, Dungeons & Templates | 344458 | [344458-dreams-dragons-dungeons-and-templates.json](./344458-dreams-dragons-dungeons-and-templates.json) |
 | Dreams: Unlimited links | 266422 | [266422-dreams-unlimited-links.json](./266422-dreams-unlimited-links.json) |
 | Dreams: VR | 344447 | [344447-dreams-vr.json](./344447-dreams-vr.json) |
+| Dreamscape 2 | 188311 | [188311-dreamscape-2.json](./188311-dreamscape-2.json) |
 | Dreamscape Abyss | 258732 | [258732-dreamscape-abyss.json](./258732-dreamscape-abyss.json) |
 | Dreamscape Highschool | 337452 | [337452-dreamscape-highschool.json](./337452-dreamscape-highschool.json) |
 | Dreamscape Highschool: After Stories | 337451 | [337451-dreamscape-highschool-after-stories.json](./337451-dreamscape-highschool-after-stories.json) |
@@ -13233,6 +13237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel of games | 292581 | [292581-duel-of-games.json](./292581-duel-of-games.json) |
 | Duel of Honor | 272239 | [272239-duel-of-honor.json](./272239-duel-of-honor.json) |
 | Duel of Summoners | 67602 | [67602-duel-of-summoners.json](./67602-duel-of-summoners.json) |
+| Duel of Sword | 188290 | [188290-duel-of-sword.json](./188290-duel-of-sword.json) |
 | Duel of Sword | 196548 | [196548-duel-of-sword.json](./196548-duel-of-sword.json) |
 | Duel Princess | 186912 | [186912-duel-princess.json](./186912-duel-princess.json) |
 | Duel School Infinite | 210524 | [210524-duel-school-infinite.json](./210524-duel-school-infinite.json) |
@@ -13511,6 +13516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Boss: Respawned | 251660 | [251660-dungeon-boss-respawned.json](./251660-dungeon-boss-respawned.json) |
 | Dungeon Bosses | 118225 | [118225-dungeon-bosses.json](./118225-dungeon-bosses.json) |
 | Dungeon Brawl | 373095 | [373095-dungeon-brawl.json](./373095-dungeon-brawl.json) |
+| Dungeon Breakers | 188281 | [188281-dungeon-breakers.json](./188281-dungeon-breakers.json) |
 | Dungeon Breakout: Chapter 1 | 252616 | [252616-dungeon-breakout-chapter-1.json](./252616-dungeon-breakout-chapter-1.json) |
 | Dungeon Brewmaster | 98734 | [98734-dungeon-brewmaster.json](./98734-dungeon-brewmaster.json) |
 | Dungeon Builder S | 44199 | [44199-dungeon-builder-s.json](./44199-dungeon-builder-s.json) |
