@@ -874,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh My Dollz | 351160 | [351160-oh-my-dollz.json](./351160-oh-my-dollz.json) |
 | Oh My Doug! | 403816 | [403816-oh-my-doug.json](./403816-oh-my-doug.json) |
 | Oh My Eggs | 302765 | [302765-oh-my-eggs.json](./302765-oh-my-eggs.json) |
+| Oh My Giraffe | 177204 | [177204-oh-my-giraffe.json](./177204-oh-my-giraffe.json) |
 | Oh My Goat | 51172 | [51172-oh-my-goat.json](./51172-oh-my-goat.json) |
 | Oh My God, Look At This Knight | 76640 | [76640-oh-my-god-look-at-this-knight.json](./76640-oh-my-god-look-at-this-knight.json) |
 | Oh My God! | 64130 | [64130-oh-my-god.json](./64130-oh-my-god.json) |
@@ -1782,6 +1783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Last Job | 330258 | [330258-one-last-job.json](./330258-one-last-job.json) |
 | One Last Journey | 350452 | [350452-one-last-journey.json](./350452-one-last-journey.json) |
 | One Last Memory: Reimagined | 196844 | [196844-one-last-memory-reimagined.json](./196844-one-last-memory-reimagined.json) |
+| One Last Planet | 177199 | [177199-one-last-planet.json](./177199-one-last-planet.json) |
 | One Last Raid | 307109 | [307109-one-last-raid.json](./307109-one-last-raid.json) |
 | One Last Sacrifice | 385342 | [385342-one-last-sacrifice.json](./385342-one-last-sacrifice.json) |
 | One Last Star Trip | 342073 | [342073-one-last-star-trip.json](./342073-one-last-star-trip.json) |
