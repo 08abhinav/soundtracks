@@ -486,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eat All the Things | 54724 | [54724-eat-all-the-things.json](./54724-eat-all-the-things.json) |
 | Eat and Evolve | 227957 | [227957-eat-and-evolve.json](./227957-eat-and-evolve.json) |
 | Eat Bananas | 213399 | [213399-eat-bananas.json](./213399-eat-bananas.json) |
+| Eat Colors | 190371 | [190371-eat-colors.json](./190371-eat-colors.json) |
 | Eat Fish 3D | 169716 | [169716-eat-fish-3d.json](./169716-eat-fish-3d.json) |
 | Eat It | 414313 | [414313-eat-it.json](./414313-eat-it.json) |
 | Eat Lead: The Return of Matt Hazard | 574 | [574-eat-lead-the-return-of-matt-hazard.json](./574-eat-lead-the-return-of-matt-hazard.json) |
