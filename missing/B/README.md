@@ -728,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4571,6 +4572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beezer | 23569 | [23569-beezer.json](./23569-beezer.json) |
 | Beezooka | 303825 | [303825-beezooka.json](./303825-beezooka.json) |
 | Befabled | 183477 | [183477-befabled.json](./183477-befabled.json) |
+| Befizzled! | 176164 | [176164-befizzled.json](./176164-befizzled.json) |
 | Before | 380013 | [380013-before.json](./380013-before.json) |
 | Before Arriving at the Terminal | 123942 | [123942-before-arriving-at-the-terminal.json](./123942-before-arriving-at-the-terminal.json) |
 | Before Closure | 369925 | [369925-before-closure.json](./369925-before-closure.json) |
@@ -6504,6 +6506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birth of Rome: Alea Jacta Est | 62138 | [62138-birth-of-rome-alea-jacta-est.json](./62138-birth-of-rome-alea-jacta-est.json) |
 | Birth of Shadows | 34490 | [34490-birth-of-shadows.json](./34490-birth-of-shadows.json) |
 | Birth of Spring | 82172 | [82172-birth-of-spring.json](./82172-birth-of-spring.json) |
+| Birth of the Empires | 176175 | [176175-birth-of-the-empires.json](./176175-birth-of-the-empires.json) |
 | Birth of X | 358448 | [358448-birth-of-x.json](./358448-birth-of-x.json) |
 | Birth Order | 61071 | [61071-birth-order.json](./61071-birth-order.json) |
 | Birthday Blues | 177881 | [177881-birthday-blues.json](./177881-birthday-blues.json) |
@@ -10011,6 +10014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Company | 189993 | [189993-boom-company.json](./189993-boom-company.json) |
 | Boom Dojo | 148917 | [148917-boom-dojo.json](./148917-boom-dojo.json) |
 | Boom Faster | 157198 | [157198-boom-faster.json](./157198-boom-faster.json) |
+| Boom Guys | 176141 | [176141-boom-guys.json](./176141-boom-guys.json) |
 | Boom Karts: Multiplayer Kart Racing | 144982 | [144982-boom-karts-multiplayer-kart-racing.json](./144982-boom-karts-multiplayer-kart-racing.json) |
 | Boom Lift Operator | 298156 | [298156-boom-lift-operator.json](./298156-boom-lift-operator.json) |
 | Boom Pilot | 120643 | [120643-boom-pilot.json](./120643-boom-pilot.json) |
