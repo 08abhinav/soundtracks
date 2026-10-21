@@ -5142,6 +5142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locked | 276219 | [276219-locked.json](./276219-locked.json) |
 | Locked & Loaded | 121591 | [121591-locked-and-loaded.json](./121591-locked-and-loaded.json) |
 | Locked Arcadia | 261824 | [261824-locked-arcadia.json](./261824-locked-arcadia.json) |
+| Locked Bunker | 185334 | [185334-locked-bunker.json](./185334-locked-bunker.json) |
 | Locked Fears | 30696 | [30696-locked-fears.json](./30696-locked-fears.json) |
 | Locked Heart | 183441 | [183441-locked-heart.json](./183441-locked-heart.json) |
 | Locked Heart | 347104 | [347104-locked-heart.json](./347104-locked-heart.json) |
@@ -5534,6 +5535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Live the Axe | 122858 | [122858-long-live-the-axe.json](./122858-long-live-the-axe.json) |
 | Long Live The Emperor | 419953 | [419953-long-live-the-emperor.json](./419953-long-live-the-emperor.json) |
 | Long Live the King! | 213246 | [213246-long-live-the-king.json](./213246-long-live-the-king.json) |
+| Long Long: A Snake Lies in the Past | 185353 | [185353-long-long-a-snake-lies-in-the-past.json](./185353-long-long-a-snake-lies-in-the-past.json) |
 | Long Lost | 277321 | [277321-long-lost.json](./277321-long-lost.json) |
 | Long Nardy | 264362 | [264362-long-nardy.json](./264362-long-nardy.json) |
 | Long Night | 16941 | [16941-long-night.json](./16941-long-night.json) |
