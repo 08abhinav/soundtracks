@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gachapin & Mukku no Daiundoukai | 198194 | [198194-gachapin-and-mukku-no-daiundoukai.json](./198194-gachapin-and-mukku-no-daiundoukai.json) |
 | Gachapin Challenge DS | 124013 | [124013-gachapin-challenge-ds.json](./124013-gachapin-challenge-ds.json) |
 | Gachapin Nikki DS | 124012 | [124012-gachapin-nikki-ds.json](./124012-gachapin-nikki-ds.json) |
+| Gacharoku | 198090 | [198090-gacharoku.json](./198090-gacharoku.json) |
 | Gachasute! Dino Device - Blue | 49500 | [49500-gachasute-dino-device-blue.json](./49500-gachasute-dino-device-blue.json) |
 | Gachasute! Dino Device - Red | 49499 | [49499-gachasute-dino-device-red.json](./49499-gachasute-dino-device-red.json) |
 | Gachasute! Dino Device 2 - Dragon | 49498 | [49498-gachasute-dino-device-2-dragon.json](./49498-gachasute-dino-device-2-dragon.json) |
@@ -2538,6 +2539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Georifters | 114539 | [114539-georifters.json](./114539-georifters.json) |
 | GeoSafari | 85945 | [85945-geosafari.json](./85945-geosafari.json) |
 | GeoSpark | 67234 | [67234-geospark.json](./67234-geospark.json) |
+| Geospots | 198103 | [198103-geospots.json](./198103-geospots.json) |
 | Geostorm | 74514 | [74514-geostorm.json](./74514-geostorm.json) |
 | GeoStrategic | 294056 | [294056-geostrategic.json](./294056-geostrategic.json) |
 | Geotastic | 142722 | [142722-geotastic.json](./142722-geotastic.json) |
@@ -8583,6 +8585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyaruko-chan to Shippori Onsen Ryokou: H Shimakuri Sanpaku Yokka no Tabi | 396943 | [396943-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json](./396943-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json) |
 | Gyaruko-chan-tachi to Shippori Onsen Ryokou: Ichaicha Shimakuri Ippaku Futsuka no Tabi | 396940 | [396940-gyaruko-chan-tachi-to-shippori-onsen-ryokou-ichaicha-shimakuri-ippaku-futsuka-no-tabi.json](./396940-gyaruko-chan-tachi-to-shippori-onsen-ryokou-ichaicha-shimakuri-ippaku-futsuka-no-tabi.json) |
 | Gyaruzuma Sex: Hoka no Otoko ni Inwai Houshi Suru Ai Suru Tsuma | 159165 | [159165-gyaruzuma-sex-hoka-no-otoko-ni-inwai-houshi-suru-ai-suru-tsuma.json](./159165-gyaruzuma-sex-hoka-no-otoko-ni-inwai-houshi-suru-ai-suru-tsuma.json) |
+| Gyee | 198074 | [198074-gyee.json](./198074-gyee.json) |
 | Gylt: Collector's Edition | 256177 | [256177-gylt-collectors-edition.json](./256177-gylt-collectors-edition.json) |
 | Gym Bullies | 302935 | [302935-gym-bullies.json](./302935-gym-bullies.json) |
 | Gym Business: Fitness Empire Simulator | 319306 | [319306-gym-business-fitness-empire-simulator.json](./319306-gym-business-fitness-empire-simulator.json) |
