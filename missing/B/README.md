@@ -2060,6 +2060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barkane: The Folds of Calamity | 323718 | [323718-barkane-the-folds-of-calamity.json](./323718-barkane-the-folds-of-calamity.json) |
 | Barkelona | 251847 | [251847-barkelona.json](./251847-barkelona.json) |
 | Barker Bill's Trick Shooting | 9875 | [9875-barker-bills-trick-shooting.json](./9875-barker-bills-trick-shooting.json) |
+| Barkhan | 199270 | [199270-barkhan.json](./199270-barkhan.json) |
 | Barking from the Dark | 392404 | [392404-barking-from-the-dark.json](./392404-barking-from-the-dark.json) |
 | Barking Irons | 57328 | [57328-barking-irons.json](./57328-barking-irons.json) |
 | Barking Puzzle | 156224 | [156224-barking-puzzle.json](./156224-barking-puzzle.json) |
@@ -11972,6 +11973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broke Street | 421847 | [421847-broke-street.json](./421847-broke-street.json) |
 | Broken | 188446 | [188446-broken.json](./188446-broken.json) |
 | Broken Age: The Complete Adventure | 20865 | [20865-broken-age-the-complete-adventure.json](./20865-broken-age-the-complete-adventure.json) |
+| Broken Alliance | 199278 | [199278-broken-alliance.json](./199278-broken-alliance.json) |
 | Broken Aperture | 372221 | [372221-broken-aperture.json](./372221-broken-aperture.json) |
 | Broken Armor | 31900 | [31900-broken-armor.json](./31900-broken-armor.json) |
 | Broken Arrow | 147187 | [147187-broken-arrow.json](./147187-broken-arrow.json) |
@@ -12208,6 +12210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal Doom: Ali Jr's Challenge | 199067 | [199067-brutal-doom-ali-jrs-challenge.json](./199067-brutal-doom-ali-jrs-challenge.json) |
 | Brutal Half-Life | 195991 | [195991-brutal-half-life.json](./195991-brutal-half-life.json) |
 | Brutal Inventions | 88003 | [88003-brutal-inventions.json](./88003-brutal-inventions.json) |
+| Brutal John 2 | 199287 | [199287-brutal-john-2.json](./199287-brutal-john-2.json) |
 | Brutal Katana | 304832 | [304832-brutal-katana.json](./304832-brutal-katana.json) |
 | Brutal Mario | 132862 | [132862-brutal-mario.json](./132862-brutal-mario.json) |
 | Brutal MooD | 95589 | [95589-brutal-mood.json](./95589-brutal-mood.json) |
