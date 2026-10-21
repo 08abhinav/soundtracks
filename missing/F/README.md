@@ -6324,6 +6324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower in the Snow: Resurrection | 164998 | [164998-flower-in-the-snow-resurrection.json](./164998-flower-in-the-snow-resurrection.json) |
 | Flower in Us | 263601 | [263601-flower-in-us.json](./263601-flower-in-us.json) |
 | Flower Knight Girl | 109196 | [109196-flower-knight-girl.json](./109196-flower-knight-girl.json) |
+| Flower Knight Hu Die | 197550 | [197550-flower-knight-hu-die.json](./197550-flower-knight-hu-die.json) |
 | Flower Lines | 69880 | [69880-flower-lines.json](./69880-flower-lines.json) |
 | Flower Magic | 108457 | [108457-flower-magic.json](./108457-flower-magic.json) |
 | Flower Memories | 233892 | [233892-flower-memories.json](./233892-flower-memories.json) |
@@ -10416,6 +10417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Tales | 43462 | [43462-furry-tales.json](./43462-furry-tales.json) |
 | Furry Tangram Lite | 225758 | [225758-furry-tangram-lite.json](./225758-furry-tangram-lite.json) |
 | Furry Tits | 349865 | [349865-furry-tits.json](./349865-furry-tits.json) |
+| Furry Tower Defense | 197544 | [197544-furry-tower-defense.json](./197544-furry-tower-defense.json) |
 | Furry Toys | 252255 | [252255-furry-toys.json](./252255-furry-toys.json) |
 | Furry Twins Oshikake Kemomimi Twins | 328524 | [328524-furry-twins-oshikake-kemomimi-twins.json](./328524-furry-twins-oshikake-kemomimi-twins.json) |
 | Furry UwU | 368128 | [368128-furry-uwu.json](./368128-furry-uwu.json) |
