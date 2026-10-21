@@ -699,6 +699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JDM Racing 2 | 147853 | [147853-jdm-racing-2.json](./147853-jdm-racing-2.json) |
 | Jealousy Duel X | 93347 | [93347-jealousy-duel-x.json](./93347-jealousy-duel-x.json) |
 | Jeam's Big Day | 185606 | [185606-jeams-big-day.json](./185606-jeams-big-day.json) |
+| Jean's Boutique | 197028 | [197028-jeans-boutique.json](./197028-jeans-boutique.json) |
 | Jean's Boutique 2 | 95912 | [95912-jeans-boutique-2.json](./95912-jeans-boutique-2.json) |
 | Jean's Club | 197845 | [197845-jeans-club.json](./197845-jeans-club.json) |
 | Jean's Sundaeria | 90503 | [90503-jeans-sundaeria.json](./90503-jeans-sundaeria.json) |
@@ -2430,6 +2431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumbline 2+ for iPad | 95657 | [95657-jumbline-2-for-ipad.json](./95657-jumbline-2-for-ipad.json) |
 | Jumbly | 14138 | [14138-jumbly.json](./14138-jumbly.json) |
 | Jumbo Pumbo | 341471 | [341471-jumbo-pumbo.json](./341471-jumbo-pumbo.json) |
+| Jumbo: Jewel of Realms | 197165 | [197165-jumbo-jewel-of-realms.json](./197165-jumbo-jewel-of-realms.json) |
 | Jumfrog | 318762 | [318762-jumfrog.json](./318762-jumfrog.json) |
 | Jump | 152140 | [152140-jump.json](./152140-jump.json) |
 | Jump | 271775 | [271775-jump.json](./271775-jump.json) |
