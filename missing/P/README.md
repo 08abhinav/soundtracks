@@ -2362,6 +2362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patience Balls | 392789 | [392789-patience-balls.json](./392789-patience-balls.json) |
 | Patience Is a Virtue | 404703 | [404703-patience-is-a-virtue.json](./404703-patience-is-a-virtue.json) |
 | Patience Playdate | 276722 | [276722-patience-playdate.json](./276722-patience-playdate.json) |
+| Patient | 197040 | [197040-patient.json](./197040-patient.json) |
 | Patient 001 | 331395 | [331395-patient-001.json](./331395-patient-001.json) |
 | Patient No. 26 | 291841 | [291841-patient-no-26.json](./291841-patient-no-26.json) |
 | Patient Rogue | 177482 | [177482-patient-rogue.json](./177482-patient-rogue.json) |
@@ -5057,6 +5058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillars of Eternity: Royal Edition | 51888 | [51888-pillars-of-eternity-royal-edition.json](./51888-pillars-of-eternity-royal-edition.json) |
 | Pillars Of Fog | 337165 | [337165-pillars-of-fog.json](./337165-pillars-of-fog.json) |
 | Pillars of Garendall | 69873 | [69873-pillars-of-garendall.json](./69873-pillars-of-garendall.json) |
+| Pillars of Light | 197018 | [197018-pillars-of-light.json](./197018-pillars-of-light.json) |
 | Pillazon: MMO Drug Lord Tycoon | 227794 | [227794-pillazon-mmo-drug-lord-tycoon.json](./227794-pillazon-mmo-drug-lord-tycoon.json) |
 | Pilli Adventure | 76534 | [76534-pilli-adventure.json](./76534-pilli-adventure.json) |
 | Pillory | 280664 | [280664-pillory.json](./280664-pillory.json) |
@@ -10495,6 +10497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pray for Death | 47104 | [47104-pray-for-death.json](./47104-pray-for-death.json) |
 | Pray Game | 167306 | [167306-pray-game.json](./167306-pray-game.json) |
 | Pray or Die: Tactical Defense | 373114 | [373114-pray-or-die-tactical-defense.json](./373114-pray-or-die-tactical-defense.json) |
+| Prayer of the Faithless | 197012 | [197012-prayer-of-the-faithless.json](./197012-prayer-of-the-faithless.json) |
 | Prayers a Thousand-fold | 309976 | [309976-prayers-a-thousand-fold.json](./309976-prayers-a-thousand-fold.json) |
 | Pre Post-Modernistic Post-Ironic Dadaism: Dating Simulator | 306969 | [306969-pre-post-modernistic-post-ironic-dadaism-dating-simulator.json](./306969-pre-post-modernistic-post-ironic-dadaism-dating-simulator.json) |
 | Pre-Odyssey: Love at First Quack | 344552 | [344552-pre-odyssey-love-at-first-quack.json](./344552-pre-odyssey-love-at-first-quack.json) |
