@@ -5456,6 +5456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeZombie Anime Invasion | 261825 | [261825-bezombie-anime-invasion.json](./261825-bezombie-anime-invasion.json) |
 | BFDI: Branches | 305909 | [305909-bfdi-branches.json](./305909-bfdi-branches.json) |
 | BFDI: Four's Kitchen | 385942 | [385942-bfdi-fours-kitchen.json](./385942-bfdi-fours-kitchen.json) |
+| BFDIA 5b | 191631 | [191631-bfdia-5b.json](./191631-bfdia-5b.json) |
 | BFF or Die | 94044 | [94044-bff-or-die.json](./94044-bff-or-die.json) |
 | BFGE | 114995 | [114995-bfge.json](./114995-bfge.json) |
 | BFRIS Zero Gravity Fighter Combat | 85985 | [85985-bfris-zero-gravity-fighter-combat.json](./85985-bfris-zero-gravity-fighter-combat.json) |
@@ -9789,6 +9790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonk's Adventure | 280819 | [280819-bonks-adventure.json](./280819-bonks-adventure.json) |
 | Bonk's Adventure | 7794 | [7794-bonks-adventure.json](./7794-bonks-adventure.json) |
 | Bonk's Adventure | 98703 | [98703-bonks-adventure.json](./98703-bonks-adventure.json) |
+| Bonk's Adventure: Arcade Version | 191614 | [191614-bonks-adventure-arcade-version.json](./191614-bonks-adventure-arcade-version.json) |
 | Bonk's Revenge | 228469 | [228469-bonks-revenge.json](./228469-bonks-revenge.json) |
 | Bonk's Revenge | 7795 | [7795-bonks-revenge.json](./7795-bonks-revenge.json) |
 | Bonka | 92944 | [92944-bonka.json](./92944-bonka.json) |
@@ -9939,6 +9941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Ball for Kinect | 20305 | [20305-boom-ball-for-kinect.json](./20305-boom-ball-for-kinect.json) |
 | Boom Bang | 40631 | [40631-boom-bang.json](./40631-boom-bang.json) |
 | Boom Barn | 58304 | [58304-boom-barn.json](./58304-boom-barn.json) |
+| Boom Bears on Stream | 191468 | [191468-boom-bears-on-stream.json](./191468-boom-bears-on-stream.json) |
 | Boom Beats | 42777 | [42777-boom-beats.json](./42777-boom-beats.json) |
 | Boom Bits | 108040 | [108040-boom-bits.json](./108040-boom-bits.json) |
 | Boom Blast | 108220 | [108220-boom-blast.json](./108220-boom-blast.json) |
@@ -10569,6 +10572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty Drag Racing: Pro Mod Pack 2 | 255969 | [255969-bounty-drag-racing-pro-mod-pack-2.json](./255969-bounty-drag-racing-pro-mod-pack-2.json) |
 | Bounty Drag Racing: Pro Mod Pack 3 | 274742 | [274742-bounty-drag-racing-pro-mod-pack-3.json](./274742-bounty-drag-racing-pro-mod-pack-3.json) |
 | Bounty Fusion | 376858 | [376858-bounty-fusion.json](./376858-bounty-fusion.json) |
+| Bounty Game | 191462 | [191462-bounty-game.json](./191462-bounty-game.json) |
 | Bounty Hounds | 38471 | [38471-bounty-hounds.json](./38471-bounty-hounds.json) |
 | Bounty Hounds Online | 92495 | [92495-bounty-hounds-online.json](./92495-bounty-hounds-online.json) |
 | Bounty Hunter | 251009 | [251009-bounty-hunter.json](./251009-bounty-hunter.json) |
