@@ -1974,6 +1974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Making the Game | 256118 | [256118-making-the-game.json](./256118-making-the-game.json) |
 | Making The Leap | 285150 | [285150-making-the-leap.json](./285150-making-the-leap.json) |
 | Makiomino | 196040 | [196040-makiomino.json](./196040-makiomino.json) |
+| Makis Adventure | 188863 | [188863-makis-adventure.json](./188863-makis-adventure.json) |
 | Makis Adventure: Level Editor | 341605 | [341605-makis-adventure-level-editor.json](./341605-makis-adventure-level-editor.json) |
 | Makka Pakka 2 | 375322 | [375322-makka-pakka-2.json](./375322-makka-pakka-2.json) |
 | Makoto Mobius | 150152 | [150152-makoto-mobius.json](./150152-makoto-mobius.json) |
@@ -5125,6 +5126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechaLeague | 43116 | [43116-mechaleague.json](./43116-mechaleague.json) |
 | Mechamice | 377276 | [377276-mechamice.json](./377276-mechamice.json) |
 | Mechaneer Resta's Grand Adventure | 236785 | [236785-mechaneer-restas-grand-adventure.json](./236785-mechaneer-restas-grand-adventure.json) |
+| Mechanibot | 188831 | [188831-mechanibot.json](./188831-mechanibot.json) |
 | Mechanic 8230 | 151107 | [151107-mechanic-8230.json](./151107-mechanic-8230.json) |
 | Mechanic 8230: Deluxe Edition | 252700 | [252700-mechanic-8230-deluxe-edition.json](./252700-mechanic-8230-deluxe-edition.json) |
 | Mechanic 8230: Escape From Ilgrot - Extended Edition | 259544 | [259544-mechanic-8230-escape-from-ilgrot-extended-edition.json](./259544-mechanic-8230-escape-from-ilgrot-extended-edition.json) |
@@ -5258,6 +5260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior Tactics | 94184 | [94184-mechwarrior-tactics.json](./94184-mechwarrior-tactics.json) |
 | MechWarrior: Living Legends | 51237 | [51237-mechwarrior-living-legends.json](./51237-mechwarrior-living-legends.json) |
 | MechWarrior: Tactical Command | 19196 | [19196-mechwarrior-tactical-command.json](./19196-mechwarrior-tactical-command.json) |
+| Meda Avi | 188842 | [188842-meda-avi.json](./188842-meda-avi.json) |
 | Medabots 4 | 55141 | [55141-medabots-4.json](./55141-medabots-4.json) |
 | Medabots 5: Susutake Mura no Tenkousei | 55142 | [55142-medabots-5-susutake-mura-no-tenkousei.json](./55142-medabots-5-susutake-mura-no-tenkousei.json) |
 | Medabots AX: Metabee Version | 49415 | [49415-medabots-ax-metabee-version.json](./49415-medabots-ax-metabee-version.json) |
@@ -6523,6 +6526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melody Quest | 257444 | [257444-melody-quest.json](./257444-melody-quest.json) |
 | Melody's Escape 2 | 217497 | [217497-melodys-escape-2.json](./217497-melodys-escape-2.json) |
 | Melodyssey | 204510 | [204510-melodyssey.json](./204510-melodyssey.json) |
+| MelodyVerse | 188849 | [188849-melodyverse.json](./188849-melodyverse.json) |
 | MeloMisterio: Play Your Melody | 351783 | [351783-melomisterio-play-your-melody.json](./351783-melomisterio-play-your-melody.json) |
 | Melon | 214441 | [214441-melon.json](./214441-melon.json) |
 | Melon | 314248 | [314248-melon.json](./314248-melon.json) |
@@ -10220,6 +10224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Backrooms | 418617 | [418617-mirror-backrooms.json](./418617-mirror-backrooms.json) |
 | Mirror Broken | 215600 | [215600-mirror-broken.json](./215600-mirror-broken.json) |
 | Mirror Drop | 99153 | [99153-mirror-drop.json](./99153-mirror-drop.json) |
+| Mirror Forge | 188825 | [188825-mirror-forge.json](./188825-mirror-forge.json) |
 | Mirror Head | 327417 | [327417-mirror-head.json](./327417-mirror-head.json) |
 | Mirror House Cornflake | 150109 | [150109-mirror-house-cornflake.json](./150109-mirror-house-cornflake.json) |
 | Mirror Image | 322352 | [322352-mirror-image.json](./322352-mirror-image.json) |
@@ -13460,6 +13465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rider Go: Highway Traffic | 104640 | [104640-moto-rider-go-highway-traffic.json](./104640-moto-rider-go-highway-traffic.json) |
 | Moto Roader II | 37708 | [37708-moto-roader-ii.json](./37708-moto-roader-ii.json) |
 | Moto Roader MC | 79389 | [79389-moto-roader-mc.json](./79389-moto-roader-mc.json) |
+| Moto Roller | 188871 | [188871-moto-roller.json](./188871-moto-roller.json) |
 | Moto Runner 3D | 106780 | [106780-moto-runner-3d.json](./106780-moto-runner-3d.json) |
 | Moto Rush GT | 115751 | [115751-moto-rush-gt.json](./115751-moto-rush-gt.json) |
 | Moto Rush GT + Food Truck Tycoon | 251111 | [251111-moto-rush-gt-food-truck-tycoon.json](./251111-moto-rush-gt-food-truck-tycoon.json) |
