@@ -770,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Alliance | 323587 | [323587-magic-alliance.json](./323587-magic-alliance.json) |
 | Magic and Dragon: 4X Battle | 323427 | [323427-magic-and-dragon-4x-battle.json](./323427-magic-and-dragon-4x-battle.json) |
 | Magic and Elements | 205581 | [205581-magic-and-elements.json](./205581-magic-and-elements.json) |
+| Magic and Metal Zero: Tower of Metal | 182720 | [182720-magic-and-metal-zero-tower-of-metal.json](./182720-magic-and-metal-zero-tower-of-metal.json) |
 | Magic Archer: Monster Islands | 234475 | [234475-magic-archer-monster-islands.json](./234475-magic-archer-monster-islands.json) |
 | Magic Archers | 148862 | [148862-magic-archers.json](./148862-magic-archers.json) |
 | Magic Archery | 318318 | [318318-magic-archery.json](./318318-magic-archery.json) |
@@ -4449,6 +4450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mauri Mursu's Odyssey | 333907 | [333907-mauri-mursus-odyssey.json](./333907-mauri-mursus-odyssey.json) |
 | Maurice Sendak's Little Bear: Toddler Discovery Adventures | 316781 | [316781-maurice-sendaks-little-bear-toddler-discovery-adventures.json](./316781-maurice-sendaks-little-bear-toddler-discovery-adventures.json) |
 | Maurice: In the Predator's Nest | 227770 | [227770-maurice-in-the-predators-nest.json](./227770-maurice-in-the-predators-nest.json) |
+| Maurim: Unepic Thief | 182719 | [182719-maurim-unepic-thief.json](./182719-maurim-unepic-thief.json) |
 | Mauritius Atoll | 176294 | [176294-mauritius-atoll.json](./176294-mauritius-atoll.json) |
 | Mausoleosis | 302951 | [302951-mausoleosis.json](./302951-mausoleosis.json) |
 | Mausoleum of Memories | 295078 | [295078-mausoleum-of-memories.json](./295078-mausoleum-of-memories.json) |
@@ -4849,6 +4851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze: Subject 360 - Collector's Edition | 32785 | [32785-maze-subject-360-collectors-edition.json](./32785-maze-subject-360-collectors-edition.json) |
 | Maze: Subject 360 HD | 95346 | [95346-maze-subject-360-hd.json](./95346-maze-subject-360-hd.json) |
 | Maze: The Amazing Labyrinth | 103554 | [103554-maze-the-amazing-labyrinth.json](./103554-maze-the-amazing-labyrinth.json) |
+| Maze: The Ritual | 182726 | [182726-maze-the-ritual.json](./182726-maze-the-ritual.json) |
 | Maze! | 279475 | [279475-maze.json](./279475-maze.json) |
 | Maze.io | 105807 | [105807-maze-io.json](./105807-maze-io.json) |
 | Mazebert TD | 207848 | [207848-mazebert-td.json](./207848-mazebert-td.json) |
@@ -6943,6 +6946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Menyr | 260638 | [260638-menyr.json](./260638-menyr.json) |
 | Menzoberranzan | 2515 | [2515-menzoberranzan.json](./2515-menzoberranzan.json) |
 | Meo+ | 249363 | [249363-meo.json](./249363-meo.json) |
+| Meomidorian Prince | 182739 | [182739-meomidorian-prince.json](./182739-meomidorian-prince.json) |
 | Meong Puzzel | 188285 | [188285-meong-puzzel.json](./188285-meong-puzzel.json) |
 | Meongnyang Animal Hospital Companion Animal Health Guardian! | 234554 | [234554-meongnyang-animal-hospital-companion-animal-health-guardian.json](./234554-meongnyang-animal-hospital-companion-animal-health-guardian.json) |
 | Meor | 144609 | [144609-meor.json](./144609-meor.json) |
@@ -11966,6 +11970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Girl Saga: Fallen Heroes | 341330 | [341330-monster-girl-saga-fallen-heroes.json](./341330-monster-girl-saga-fallen-heroes.json) |
 | Monster Girl's Labyrinth | 210470 | [210470-monster-girls-labyrinth.json](./210470-monster-girls-labyrinth.json) |
 | Monster Girls Survival & Craft 2040 | 421361 | [421361-monster-girls-survival-and-craft-2040.json](./421361-monster-girls-survival-and-craft-2040.json) |
+| Monster Girls: the Advent | 182733 | [182733-monster-girls-the-advent.json](./182733-monster-girls-the-advent.json) |
 | Monster Girls: You Can't Say No | 415164 | [415164-monster-girls-you-cant-say-no.json](./415164-monster-girls-you-cant-say-no.json) |
 | Monster Grid | 341331 | [341331-monster-grid.json](./341331-monster-grid.json) |
 | Monster Hatcher | 406920 | [406920-monster-hatcher.json](./406920-monster-hatcher.json) |
