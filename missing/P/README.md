@@ -7656,6 +7656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plumber 3 | 168113 | [168113-plumber-3.json](./168113-plumber-3.json) |
 | Plumber 3D | 336908 | [336908-plumber-3d.json](./336908-plumber-3d.json) |
 | Plumber Game: Water Pipe Line Connecting | 96002 | [96002-plumber-game-water-pipe-line-connecting.json](./96002-plumber-game-water-pipe-line-connecting.json) |
+| Plumber Hero | 192079 | [192079-plumber-hero.json](./192079-plumber-hero.json) |
 | Plumber No More | 184109 | [184109-plumber-no-more.json](./184109-plumber-no-more.json) |
 | Plumber Pickle | 392742 | [392742-plumber-pickle.json](./392742-plumber-pickle.json) |
 | Plumber Waluigi | 323352 | [323352-plumber-waluigi.json](./323352-plumber-waluigi.json) |
@@ -7685,6 +7686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plunder Squad | 107797 | [107797-plunder-squad.json](./107797-plunder-squad.json) |
 | Plunder: Scourge of the Sea | 260658 | [260658-plunder-scourge-of-the-sea.json](./260658-plunder-scourge-of-the-sea.json) |
 | Plunderball | 46570 | [46570-plunderball.json](./46570-plunderball.json) |
+| Plunderer's Adventures | 192074 | [192074-plunderers-adventures.json](./192074-plunderers-adventures.json) |
 | Plunderers Adventures: Sea of Whores | 147412 | [147412-plunderers-adventures-sea-of-whores.json](./147412-plunderers-adventures-sea-of-whores.json) |
 | Plunderland | 118874 | [118874-plunderland.json](./118874-plunderland.json) |
 | PlunderPiece | 292404 | [292404-plunderpiece.json](./292404-plunderpiece.json) |
@@ -10747,6 +10749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Girl Ukiyo-e Artist Hoku | 406942 | [406942-pretty-girl-ukiyo-e-artist-hoku.json](./406942-pretty-girl-ukiyo-e-artist-hoku.json) |
 | Pretty Girls 2048 Strike | 227923 | [227923-pretty-girls-2048-strike.json](./227923-pretty-girls-2048-strike.json) |
 | Pretty Girls and Dark Witch. A simple story | 173816 | [173816-pretty-girls-and-dark-witch-a-simple-story.json](./173816-pretty-girls-and-dark-witch-a-simple-story.json) |
+| Pretty Girls Breakers! | 192067 | [192067-pretty-girls-breakers.json](./192067-pretty-girls-breakers.json) |
 | Pretty Girls Breakers! Plus | 237362 | [237362-pretty-girls-breakers-plus.json](./237362-pretty-girls-breakers-plus.json) |
 | Pretty Girls Breakout! Plus | 212238 | [212238-pretty-girls-breakout-plus.json](./212238-pretty-girls-breakout-plus.json) |
 | Pretty Girls Don’t Want You to Die | 392298 | [392298-pretty-girls-don-t-want-you-to-die.json](./392298-pretty-girls-don-t-want-you-to-die.json) |
@@ -12320,6 +12323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Unseek | 217466 | [217466-project-unseek.json](./217466-project-unseek.json) |
 | Project Utgardr | 196608 | [196608-project-utgardr.json](./196608-project-utgardr.json) |
 | Project V: Origins | 304717 | [304717-project-v-origins.json](./304717-project-v-origins.json) |
+| Project Valkyrie | 192204 | [192204-project-valkyrie.json](./192204-project-valkyrie.json) |
 | Project Velocity | 86675 | [86675-project-velocity.json](./86675-project-velocity.json) |
 | Project Vesperi | 260010 | [260010-project-vesperi.json](./260010-project-vesperi.json) |
 | Project Vic | 280885 | [280885-project-vic.json](./280885-project-vic.json) |
