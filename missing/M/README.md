@@ -5260,6 +5260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medal of Honor: Heroes | 1312 | [1312-medal-of-honor-heroes.json](./1312-medal-of-honor-heroes.json) |
 | Medal of Honor: Tier 1 Edition | 47463 | [47463-medal-of-honor-tier-1-edition.json](./47463-medal-of-honor-tier-1-edition.json) |
 | Medal of Honor: Warfighter | 1306 | [1306-medal-of-honor-warfighter.json](./1306-medal-of-honor-warfighter.json) |
+| Medal of Honor: Warfighter - Digital Deluxe Edition | 202061 | [202061-medal-of-honor-warfighter-digital-deluxe-edition.json](./202061-medal-of-honor-warfighter-digital-deluxe-edition.json) |
 | Medal of Valor 4 | 105803 | [105803-medal-of-valor-4.json](./105803-medal-of-valor-4.json) |
 | Medal Tree | 370014 | [370014-medal-tree.json](./370014-medal-tree.json) |
 | Medal Winners 24 | 293554 | [293554-medal-winners-24.json](./293554-medal-winners-24.json) |
@@ -8772,6 +8773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mike was Cursed | 75763 | [75763-mike-was-cursed.json](./75763-mike-was-cursed.json) |
 | Mike's Arcade | 227975 | [227975-mikes-arcade.json](./227975-mikes-arcade.json) |
 | Mike's Lonely Journey | 286616 | [286616-mikes-lonely-journey.json](./286616-mikes-lonely-journey.json) |
+| Mike's Monstrous Adventure | 202087 | [202087-mikes-monstrous-adventure.json](./202087-mikes-monstrous-adventure.json) |
 | Mike's Paper Mario Adventure | 324110 | [324110-mikes-paper-mario-adventure.json](./324110-mikes-paper-mario-adventure.json) |
 | Mikene's Aspects | 267440 | [267440-mikenes-aspects.json](./267440-mikenes-aspects.json) |
 | Mikeneko Holmes: Ghost Panic | 37360 | [37360-mikeneko-holmes-ghost-panic.json](./37360-mikeneko-holmes-ghost-panic.json) |
@@ -16299,6 +16301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious Castle | 205008 | [205008-mysterious-castle.json](./205008-mysterious-castle.json) |
 | Mysterious Castle | 34064 | [34064-mysterious-castle.json](./34064-mysterious-castle.json) |
 | Mysterious City Vegas | 53392 | [53392-mysterious-city-vegas.json](./53392-mysterious-city-vegas.json) |
+| Mysterious City: Golden Prague | 202082 | [202082-mysterious-city-golden-prague.json](./202082-mysterious-city-golden-prague.json) |
 | Mysterious Crimes Bundle | 228941 | [228941-mysterious-crimes-bundle.json](./228941-mysterious-crimes-bundle.json) |
 | Mysterious Forum and 7 Rumors | 115484 | [115484-mysterious-forum-and-7-rumors.json](./115484-mysterious-forum-and-7-rumors.json) |
 | Mysterious House | 190916 | [190916-mysterious-house.json](./190916-mysterious-house.json) |
@@ -16345,6 +16348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: Dire Grove | 5514 | [5514-mystery-case-files-dire-grove.json](./5514-mystery-case-files-dire-grove.json) |
 | Mystery Case Files: Dire Grove, Sacred Grove - Collector's Edition | 135809 | [135809-mystery-case-files-dire-grove-sacred-grove-collectors-edition.json](./135809-mystery-case-files-dire-grove-sacred-grove-collectors-edition.json) |
 | Mystery Case Files: Escape from Ravenhearst | 5516 | [5516-mystery-case-files-escape-from-ravenhearst.json](./5516-mystery-case-files-escape-from-ravenhearst.json) |
+| Mystery Case Files: Fates Carnival - Collector's Edition | 202083 | [202083-mystery-case-files-fates-carnival-collectors-edition.json](./202083-mystery-case-files-fates-carnival-collectors-edition.json) |
 | Mystery Case Files: House That Love Built - Collector's Edition | 409715 | [409715-mystery-case-files-house-that-love-built-collectors-edition.json](./409715-mystery-case-files-house-that-love-built-collectors-edition.json) |
 | Mystery Case Files: Huntsville | 5509 | [5509-mystery-case-files-huntsville.json](./5509-mystery-case-files-huntsville.json) |
 | Mystery Case Files: Incident at Pendle Tower | 187973 | [187973-mystery-case-files-incident-at-pendle-tower.json](./187973-mystery-case-files-incident-at-pendle-tower.json) |
@@ -16409,6 +16413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Master: Felony! | 73291 | [73291-mystery-master-felony.json](./73291-mystery-master-felony.json) |
 | Mystery Masterpiece: The Moonstone | 53394 | [53394-mystery-masterpiece-the-moonstone.json](./53394-mystery-masterpiece-the-moonstone.json) |
 | Mystery Masters | 84148 | [84148-mystery-masters.json](./84148-mystery-masters.json) |
+| Mystery Masters Maze of Mystery | 202084 | [202084-mystery-masters-maze-of-mystery.json](./202084-mystery-masters-maze-of-mystery.json) |
 | Mystery Masters: Carnival of Crime - Collector's Edition | 201820 | [201820-mystery-masters-carnival-of-crime-collectors-edition.json](./201820-mystery-masters-carnival-of-crime-collectors-edition.json) |
 | Mystery Masters: Found Fortunes | 200961 | [200961-mystery-masters-found-fortunes.json](./200961-mystery-masters-found-fortunes.json) |
 | Mystery Masters: Mysteries of Ancient Inventors - Atlantis | 54242 | [54242-mystery-masters-mysteries-of-ancient-inventors-atlantis.json](./54242-mystery-masters-mysteries-of-ancient-inventors-atlantis.json) |
@@ -16416,6 +16421,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Masters: Mystery 6 Pack | 208806 | [208806-mystery-masters-mystery-6-pack.json](./208806-mystery-masters-mystery-6-pack.json) |
 | Mystery Masters: Psycho Train - Deluxe Edition | 35884 | [35884-mystery-masters-psycho-train-deluxe-edition.json](./35884-mystery-masters-psycho-train-deluxe-edition.json) |
 | Mystery Masters: Supernatural Stories | 200962 | [200962-mystery-masters-supernatural-stories.json](./200962-mystery-masters-supernatural-stories.json) |
+| Mystery Masters: The Secret of the Pharaoh's Amulet | 202085 | [202085-mystery-masters-the-secret-of-the-pharaohs-amulet.json](./202085-mystery-masters-the-secret-of-the-pharaohs-amulet.json) |
+| Mystery Masters: The Secret Stories Collection | 202086 | [202086-mystery-masters-the-secret-stories-collection.json](./202086-mystery-masters-the-secret-stories-collection.json) |
 | Mystery Masters: Treasures of Mystery Collection | 206747 | [206747-mystery-masters-treasures-of-mystery-collection.json](./206747-mystery-masters-treasures-of-mystery-collection.json) |
 | Mystery Masters: Twisted Tales | 206625 | [206625-mystery-masters-twisted-tales.json](./206625-mystery-masters-twisted-tales.json) |
 | Mystery Masters: Wicked Worlds Collection | 201860 | [201860-mystery-masters-wicked-worlds-collection.json](./201860-mystery-masters-wicked-worlds-collection.json) |
