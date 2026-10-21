@@ -2012,6 +2012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Room: Yui Hanasaka Memorial | 326122 | [326122-one-room-yui-hanasaka-memorial.json](./326122-one-room-yui-hanasaka-memorial.json) |
 | One Rotten Oath | 358376 | [358376-one-rotten-oath.json](./358376-one-rotten-oath.json) |
 | One S'More | 258706 | [258706-one-smore.json](./258706-one-smore.json) |
+| One Shade's Fate | 183782 | [183782-one-shades-fate.json](./183782-one-shades-fate.json) |
 | One Shell Straight to Hell | 141646 | [141646-one-shell-straight-to-hell.json](./141646-one-shell-straight-to-hell.json) |
 | One Shell Straight to Hell: X Layers of Fear | 170374 | [170374-one-shell-straight-to-hell-x-layers-of-fear.json](./170374-one-shell-straight-to-hell-x-layers-of-fear.json) |
 | One Shot | 179111 | [179111-one-shot.json](./179111-one-shot.json) |
