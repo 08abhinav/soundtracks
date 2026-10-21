@@ -3111,6 +3111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infraspace | 149691 | [149691-infraspace.json](./149691-infraspace.json) |
 | Infraworld: Coma Moonlight | 256832 | [256832-infraworld-coma-moonlight.json](./256832-infraworld-coma-moonlight.json) |
 | Infraworld: The Hatehammer | 261457 | [261457-infraworld-the-hatehammer.json](./261457-infraworld-the-hatehammer.json) |
+| Inga Ouhou: Murderous Plaza | 197019 | [197019-inga-ouhou-murderous-plaza.json](./197019-inga-ouhou-murderous-plaza.json) |
 | InGame.exe | 65817 | [65817-ingame-exe.json](./65817-ingame-exe.json) |
 | Inganock of the Raging Flame: What a Beautiful People | 387048 | [387048-inganock-of-the-raging-flame-what-a-beautiful-people.json](./387048-inganock-of-the-raging-flame-what-a-beautiful-people.json) |
 | Ingenious | 210038 | [210038-ingenious.json](./210038-ingenious.json) |
@@ -4415,6 +4416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Front: Liberation 1944 - Gold Edition | 53237 | [53237-iron-front-liberation-1944-gold-edition.json](./53237-iron-front-liberation-1944-gold-edition.json) |
 | Iron Front: Liberation 1944 D-Day | 53236 | [53236-iron-front-liberation-1944-d-day.json](./53236-iron-front-liberation-1944-d-day.json) |
 | Iron Frontier | 224787 | [224787-iron-frontier.json](./224787-iron-frontier.json) |
+| Iron Frost | 197030 | [197030-iron-frost.json](./197030-iron-frost.json) |
 | Iron Grip: Marauders | 50831 | [50831-iron-grip-marauders.json](./50831-iron-grip-marauders.json) |
 | Iron Grip: Warlord | 8720 | [8720-iron-grip-warlord.json](./8720-iron-grip-warlord.json) |
 | Iron Guard | 226148 | [226148-iron-guard.json](./226148-iron-guard.json) |
