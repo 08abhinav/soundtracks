@@ -4310,6 +4310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitro Nation Stories | 39222 | [39222-nitro-nation-stories.json](./39222-nitro-nation-stories.json) |
 | Nitro Nation World Tour | 261519 | [261519-nitro-nation-world-tour.json](./261519-nitro-nation-world-tour.json) |
 | Nitro Nation: Drag Racing | 233762 | [233762-nitro-nation-drag-racing.json](./233762-nitro-nation-drag-racing.json) |
+| Nitro Rally | 175114 | [175114-nitro-rally.json](./175114-nitro-rally.json) |
 | Nitro Rally Evolution | 234008 | [234008-nitro-rally-evolution.json](./234008-nitro-rally-evolution.json) |
 | Nitro Royale -Heroines Duel- | 70685 | [70685-nitro-royale-heroines-duel.json](./70685-nitro-royale-heroines-duel.json) |
 | Nitro Street Run 2 | 300349 | [300349-nitro-street-run-2.json](./300349-nitro-street-run-2.json) |
