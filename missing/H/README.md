@@ -536,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween 2: Asylum | 357182 | [357182-halloween-2-asylum.json](./357182-halloween-2-asylum.json) |
 | Halloween 3D | 106514 | [106514-halloween-3d.json](./106514-halloween-3d.json) |
 | Halloween Candy Break | 187763 | [187763-halloween-candy-break.json](./187763-halloween-candy-break.json) |
+| Halloween Candy Break 2 | 187750 | [187750-halloween-candy-break-2.json](./187750-halloween-candy-break-2.json) |
 | Halloween Candy Break 2: Head to Head | 214515 | [214515-halloween-candy-break-2-head-to-head.json](./214515-halloween-candy-break-2-head-to-head.json) |
 | Halloween Candy Break Head to Head | 210084 | [210084-halloween-candy-break-head-to-head.json](./210084-halloween-candy-break-head-to-head.json) |
 | Halloween Candy Fun | 221077 | [221077-halloween-candy-fun.json](./221077-halloween-candy-fun.json) |
@@ -6359,8 +6360,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman 3 Access Pass: Hitman 2 Standard | 233572 | [233572-hitman-3-access-pass-hitman-2-standard.json](./233572-hitman-3-access-pass-hitman-2-standard.json) |
 | Hitman 3 VR: Reloaded | 304322 | [304322-hitman-3-vr-reloaded.json](./304322-hitman-3-vr-reloaded.json) |
 | Hitman 3: Ambrose Island | 274894 | [274894-hitman-3-ambrose-island.json](./274894-hitman-3-ambrose-island.json) |
+| Hitman 3: Berlin | 187724 | [187724-hitman-3-berlin.json](./187724-hitman-3-berlin.json) |
+| Hitman 3: Carpathian Mountains | 187727 | [187727-hitman-3-carpathian-mountains.json](./187727-hitman-3-carpathian-mountains.json) |
+| Hitman 3: Chongqing | 187725 | [187725-hitman-3-chongqing.json](./187725-hitman-3-chongqing.json) |
 | Hitman 3: Cloud Version | 140502 | [140502-hitman-3-cloud-version.json](./140502-hitman-3-cloud-version.json) |
+| Hitman 3: Dartmoor | 187723 | [187723-hitman-3-dartmoor.json](./187723-hitman-3-dartmoor.json) |
 | Hitman 3: Deluxe Pack | 215557 | [215557-hitman-3-deluxe-pack.json](./215557-hitman-3-deluxe-pack.json) |
+| Hitman 3: Dubai | 187722 | [187722-hitman-3-dubai.json](./187722-hitman-3-dubai.json) |
+| Hitman 3: Mendoza | 187726 | [187726-hitman-3-mendoza.json](./187726-hitman-3-mendoza.json) |
 | Hitman 3: Patient Zero Requiem | 381244 | [381244-hitman-3-patient-zero-requiem.json](./381244-hitman-3-patient-zero-requiem.json) |
 | Hitman 3: Seven Deadly Sins Act 1 - Greed | 307384 | [307384-hitman-3-seven-deadly-sins-act-1-greed.json](./307384-hitman-3-seven-deadly-sins-act-1-greed.json) |
 | Hitman 3: Seven Deadly Sins Act 2 - Pride | 307385 | [307385-hitman-3-seven-deadly-sins-act-2-pride.json](./307385-hitman-3-seven-deadly-sins-act-2-pride.json) |
@@ -7703,6 +7710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Adventure VR | 146651 | [146651-horror-adventure-vr.json](./146651-horror-adventure-vr.json) |
 | Horror Adventure: Zombie Edition VR | 243061 | [243061-horror-adventure-zombie-edition-vr.json](./243061-horror-adventure-zombie-edition-vr.json) |
 | Horror Amusement Park | 249213 | [249213-horror-amusement-park.json](./249213-horror-amusement-park.json) |
+| Horror Break | 187751 | [187751-horror-break.json](./187751-horror-break.json) |
 | Horror Break: Head to Head | 214528 | [214528-horror-break-head-to-head.json](./214528-horror-break-head-to-head.json) |
 | Horror Bundle Vol. 1 | 147795 | [147795-horror-bundle-vol-1.json](./147795-horror-bundle-vol-1.json) |
 | Horror Bundle: 3 in 1 | 247584 | [247584-horror-bundle-3-in-1.json](./247584-horror-bundle-3-in-1.json) |
