@@ -578,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint Works | 268399 | [268399-paint-works.json](./268399-paint-works.json) |
 | Paint-a'-Way | 271825 | [271825-paint-a-way.json](./271825-paint-a-way.json) |
 | Paint-guin | 310060 | [310060-paint-guin.json](./310060-paint-guin.json) |
+| Paintball | 189855 | [189855-paintball.json](./189855-paintball.json) |
 | Paintball 3: Candy Match Factory | 270960 | [270960-paintball-3-candy-match-factory.json](./270960-paintball-3-candy-match-factory.json) |
 | Paintball 707 | 30321 | [30321-paintball-707.json](./30321-paintball-707.json) |
 | Paintball Arena Challenge | 86998 | [86998-paintball-arena-challenge.json](./86998-paintball-arena-challenge.json) |
@@ -4463,6 +4464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piano Monsters | 175373 | [175373-piano-monsters.json](./175373-piano-monsters.json) |
 | Piano Notes! | 89811 | [89811-piano-notes.json](./89811-piano-notes.json) |
 | Piano Play 3D | 99031 | [99031-piano-play-3d.json](./99031-piano-play-3d.json) |
+| Piano Rocker | 190002 | [190002-piano-rocker.json](./190002-piano-rocker.json) |
 | Piano Simulator | 98323 | [98323-piano-simulator.json](./98323-piano-simulator.json) |
 | Piano Star | 219986 | [219986-piano-star.json](./219986-piano-star.json) |
 | Piano Star! | 108266 | [108266-piano-star.json](./108266-piano-star.json) |
@@ -6839,6 +6841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plague Inc: Aliens & Anti-Vaxxers | 398971 | [398971-plague-inc-aliens-and-anti-vaxxers.json](./398971-plague-inc-aliens-and-anti-vaxxers.json) |
 | Plague Inc: Evolved | 7601 | [7601-plague-inc-evolved.json](./7601-plague-inc-evolved.json) |
 | Plague Inc: The Cure | 170560 | [170560-plague-inc-the-cure.json](./170560-plague-inc-the-cure.json) |
+| Plague Lords: Witch Hunt | 189884 | [189884-plague-lords-witch-hunt.json](./189884-plague-lords-witch-hunt.json) |
 | Plague M.D. | 140631 | [140631-plague-m-d.json](./140631-plague-m-d.json) |
 | Plague Masters | 154012 | [154012-plague-masters.json](./154012-plague-masters.json) |
 | Plague of Athens VR | 327895 | [327895-plague-of-athens-vr.json](./327895-plague-of-athens-vr.json) |
