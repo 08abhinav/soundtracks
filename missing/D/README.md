@@ -1220,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Ill | 367852 | [367852-dark-ill.json](./367852-dark-ill.json) |
 | Dark Incursion | 38958 | [38958-dark-incursion.json](./38958-dark-incursion.json) |
 | Dark Inquisition | 278162 | [278162-dark-inquisition.json](./278162-dark-inquisition.json) |
+| Dark Interval | 185936 | [185936-dark-interval.json](./185936-dark-interval.json) |
 | Dark Invasion VR: Doomsday | 204923 | [204923-dark-invasion-vr-doomsday.json](./204923-dark-invasion-vr-doomsday.json) |
 | Dark is the Void | 276848 | [276848-dark-is-the-void.json](./276848-dark-is-the-void.json) |
 | Dark Island | 128953 | [128953-dark-island.json](./128953-dark-island.json) |
@@ -3103,6 +3104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Threat | 147244 | [147244-deadly-threat.json](./147244-deadly-threat.json) |
 | Deadly Tide | 3139 | [3139-deadly-tide.json](./3139-deadly-tide.json) |
 | Deadly Towers | 48067 | [48067-deadly-towers.json](./48067-deadly-towers.json) |
+| Deadly Traps Premium | 185941 | [185941-deadly-traps-premium.json](./185941-deadly-traps-premium.json) |
 | Deadly Trick | 368801 | [368801-deadly-trick.json](./368801-deadly-trick.json) |
 | Deadly Tropics | 97256 | [97256-deadly-tropics.json](./97256-deadly-tropics.json) |
 | Deadly Voltage: Rise of the Invincible | 52866 | [52866-deadly-voltage-rise-of-the-invincible.json](./52866-deadly-voltage-rise-of-the-invincible.json) |
@@ -8753,6 +8755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogchild | 59062 | [59062-dogchild.json](./59062-dogchild.json) |
 | DogDay | 92948 | [92948-dogday.json](./92948-dogday.json) |
 | Doge and the Lost Kitten | 103409 | [103409-doge-and-the-lost-kitten.json](./103409-doge-and-the-lost-kitten.json) |
+| Doge Dash | 185916 | [185916-doge-dash.json](./185916-doge-dash.json) |
 | Doge Dimensions | 187527 | [187527-doge-dimensions.json](./187527-doge-dimensions.json) |
 | Doge Game | 182168 | [182168-doge-game.json](./182168-doge-game.json) |
 | Doge Jump | 62678 | [62678-doge-jump.json](./62678-doge-jump.json) |
@@ -9602,6 +9605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Land III | 1095 | [1095-donkey-kong-land-iii.json](./1095-donkey-kong-land-iii.json) |
 | Donkey Kong Land: New Colors Mode | 173120 | [173120-donkey-kong-land-new-colors-mode.json](./173120-donkey-kong-land-new-colors-mode.json) |
 | Donkey Kong no Ongaku Asobi | 131901 | [131901-donkey-kong-no-ongaku-asobi.json](./131901-donkey-kong-no-ongaku-asobi.json) |
+| Donkey Kong Plus | 185889 | [185889-donkey-kong-plus.json](./185889-donkey-kong-plus.json) |
 | Donkey Kong Redux | 331437 | [331437-donkey-kong-redux.json](./331437-donkey-kong-redux.json) |
 | Donkey Kong vs. K. Rool Challenge | 307722 | [307722-donkey-kong-vs-k-rool-challenge.json](./307722-donkey-kong-vs-k-rool-challenge.json) |
 | Donkey Kong-e | 170011 | [170011-donkey-kong-e.json](./170011-donkey-kong-e.json) |
