@@ -3982,6 +3982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlaw City: Dark Past | 324685 | [324685-outlaw-city-dark-past.json](./324685-outlaw-city-dark-past.json) |
 | Outlaw Cowboy | 321511 | [321511-outlaw-cowboy.json](./321511-outlaw-cowboy.json) |
 | Outlaw Driver Simulator | 216961 | [216961-outlaw-driver-simulator.json](./216961-outlaw-driver-simulator.json) |
+| Outlaw Golf | 200896 | [200896-outlaw-golf.json](./200896-outlaw-golf.json) |
 | Outlaw Golf 2 | 3437 | [3437-outlaw-golf-2.json](./3437-outlaw-golf-2.json) |
 | Outlaw Golf: 9 More Holes of X-Mas | 47311 | [47311-outlaw-golf-9-more-holes-of-x-mas.json](./47311-outlaw-golf-9-more-holes-of-x-mas.json) |
 | Outlaw Golf: Holiday Golf | 78687 | [78687-outlaw-golf-holiday-golf.json](./78687-outlaw-golf-holiday-golf.json) |
