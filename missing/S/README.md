@@ -7254,6 +7254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek Sugar Fever | 97357 | [97357-shrek-sugar-fever.json](./97357-shrek-sugar-fever.json) |
 | Shrek SuperSlam | 10628 | [10628-shrek-superslam.json](./10628-shrek-superslam.json) |
 | Shrek SuperSlam | 141642 | [141642-shrek-superslam.json](./141642-shrek-superslam.json) |
+| Shrek the Third | 200881 | [200881-shrek-the-third.json](./200881-shrek-the-third.json) |
 | Shrek the Third | 3669 | [3669-shrek-the-third.json](./3669-shrek-the-third.json) |
 | Shrek the Third: Arthur's School Day Adventure | 72995 | [72995-shrek-the-third-arthurs-school-day-adventure.json](./72995-shrek-the-third-arthurs-school-day-adventure.json) |
 | Shrek Treasure Hunt | 44967 | [44967-shrek-treasure-hunt.json](./44967-shrek-treasure-hunt.json) |
@@ -12864,6 +12865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic & Blaze | 266506 | [266506-sonic-and-blaze.json](./266506-sonic-and-blaze.json) |
 | Sonic & Friends | 324960 | [324960-sonic-and-friends.json](./324960-sonic-and-friends.json) |
 | Sonic & Friends 2 | 324959 | [324959-sonic-and-friends-2.json](./324959-sonic-and-friends-2.json) |
+| Sonic & Garfield Pack | 200890 | [200890-sonic-and-garfield-pack.json](./200890-sonic-and-garfield-pack.json) |
 | Sonic & Johnny | 235262 | [235262-sonic-and-johnny.json](./235262-sonic-and-johnny.json) |
 | Sonic & Knuckles | 239072 | [239072-sonic-and-knuckles.json](./239072-sonic-and-knuckles.json) |
 | Sonic & Knuckles | 9475 | [9475-sonic-and-knuckles.json](./9475-sonic-and-knuckles.json) |
@@ -13570,9 +13572,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Wings Special | 44837 | [44837-sonic-wings-special.json](./44837-sonic-wings-special.json) |
 | Sonic Winter Adventures | 256303 | [256303-sonic-winter-adventures.json](./256303-sonic-winter-adventures.json) |
 | Sonic With a Gun | 331977 | [331977-sonic-with-a-gun.json](./331977-sonic-with-a-gun.json) |
+| Sonic World | 200892 | [200892-sonic-world.json](./200892-sonic-world.json) |
 | Sonic World | 239068 | [239068-sonic-world.json](./239068-sonic-world.json) |
 | Sonic World 4: Ashura's Menace | 330959 | [330959-sonic-world-4-ashuras-menace.json](./330959-sonic-world-4-ashuras-menace.json) |
 | Sonic World Doom | 352876 | [352876-sonic-world-doom.json](./352876-sonic-world-doom.json) |
+| Sonic World DX | 200893 | [200893-sonic-world-dx.json](./200893-sonic-world-dx.json) |
 | Sonic World Remix | 332618 | [332618-sonic-world-remix.json](./332618-sonic-world-remix.json) |
 | Sonic X | 54549 | [54549-sonic-x.json](./54549-sonic-x.json) |
 | Sonic X Bowling | 299872 | [299872-sonic-x-bowling.json](./299872-sonic-x-bowling.json) |
@@ -13649,6 +13653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic.Exe: The Spirits of Hell | 255852 | [255852-sonic-exe-the-spirits-of-hell.json](./255852-sonic-exe-the-spirits-of-hell.json) |
 | Sonic.Nes | 311752 | [311752-sonic-nes.json](./311752-sonic-nes.json) |
 | Sonic's Bomb Squad | 237489 | [237489-sonics-bomb-squad.json](./237489-sonics-bomb-squad.json) |
+| Sonic's Bonus Game | 200989 | [200989-sonics-bonus-game.json](./200989-sonics-bonus-game.json) |
 | Sonic's Casino Poker | 261291 | [261291-sonics-casino-poker.json](./261291-sonics-casino-poker.json) |
 | Sonic's Edusoft | 63901 | [63901-sonics-edusoft.json](./63901-sonics-edusoft.json) |
 | Sonic's Fun and Easy Adventure | 270224 | [270224-sonics-fun-and-easy-adventure.json](./270224-sonics-fun-and-easy-adventure.json) |
@@ -14562,6 +14567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Craft | 159764 | [159764-space-craft.json](./159764-space-craft.json) |
 | Space Crafter | 187230 | [187230-space-crafter.json](./187230-space-crafter.json) |
 | Space Crafter | 291585 | [291585-space-crafter.json](./291585-space-crafter.json) |
+| Space Crafting | 200973 | [200973-space-crafting.json](./200973-space-crafting.json) |
 | Space Crawl | 55465 | [55465-space-crawl.json](./55465-space-crawl.json) |
 | Space Crisis | 167782 | [167782-space-crisis.json](./167782-space-crisis.json) |
 | Space Cruise | 114170 | [114170-space-cruise.json](./114170-space-cruise.json) |
@@ -16311,6 +16317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man 2: The Sinister Six | 49971 | [49971-spider-man-2-the-sinister-six.json](./49971-spider-man-2-the-sinister-six.json) |
 | Spider-Man 2: The Snap Game | 224660 | [224660-spider-man-2-the-snap-game.json](./224660-spider-man-2-the-snap-game.json) |
 | Spider-Man 2: Web of Words | 338778 | [338778-spider-man-2-web-of-words.json](./338778-spider-man-2-web-of-words.json) |
+| Spider-Man 3 | 200967 | [200967-spider-man-3.json](./200967-spider-man-3.json) |
 | Spider-Man 3 | 218140 | [218140-spider-man-3.json](./218140-spider-man-3.json) |
 | Spider-Man 3 | 220112 | [220112-spider-man-3.json](./220112-spider-man-3.json) |
 | Spider-Man 3 | 247535 | [247535-spider-man-3.json](./247535-spider-man-3.json) |
@@ -22444,6 +22451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suicide Guy Bundle | 376242 | [376242-suicide-guy-bundle.json](./376242-suicide-guy-bundle.json) |
 | Suicide Guy Collection | 118151 | [118151-suicide-guy-collection.json](./118151-suicide-guy-collection.json) |
 | Suicide Guy VR: Deluxe | 276408 | [276408-suicide-guy-vr-deluxe.json](./276408-suicide-guy-vr-deluxe.json) |
+| Suicide Guy: Deluxe Plus | 200978 | [200978-suicide-guy-deluxe-plus.json](./200978-suicide-guy-deluxe-plus.json) |
 | Suicide Guy: Sleepin' Deeply | 102917 | [102917-suicide-guy-sleepin-deeply.json](./102917-suicide-guy-sleepin-deeply.json) |
 | Suicide Hero | 244279 | [244279-suicide-hero.json](./244279-suicide-hero.json) |
 | Suicide Mission | 18566 | [18566-suicide-mission.json](./18566-suicide-mission.json) |
@@ -25118,6 +25126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Stay Out of the House | 251478 | [251478-super-stay-out-of-the-house.json](./251478-super-stay-out-of-the-house.json) |
 | Super SteamPuff | 22382 | [22382-super-steampuff.json](./22382-super-steampuff.json) |
 | Super Steampunk Pinball 2D | 81933 | [81933-super-steampunk-pinball-2d.json](./81933-super-steampunk-pinball-2d.json) |
+| Super Stereotypical: The Rise of Indiemania | 200879 | [200879-super-stereotypical-the-rise-of-indiemania.json](./200879-super-stereotypical-the-rise-of-indiemania.json) |
 | Super Sticker Studio: Creative Sticker Book Game for Kids | 389074 | [389074-super-sticker-studio-creative-sticker-book-game-for-kids.json](./389074-super-sticker-studio-creative-sticker-book-game-for-kids.json) |
 | Super Stickman Golf | 47270 | [47270-super-stickman-golf.json](./47270-super-stickman-golf.json) |
 | Super Stickman Golf 3 | 58223 | [58223-super-stickman-golf-3.json](./58223-super-stickman-golf-3.json) |
