@@ -374,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Ghost Porno Page By Page | 300821 | [300821-a-ghost-porno-page-by-page.json](./300821-a-ghost-porno-page-by-page.json) |
 | A Ghost Story | 307700 | [307700-a-ghost-story.json](./307700-a-ghost-story.json) |
 | A Ghost Story for Christmas | 135779 | [135779-a-ghost-story-for-christmas.json](./135779-a-ghost-story-for-christmas.json) |
+| A Gift of War | 189341 | [189341-a-gift-of-war.json](./189341-a-gift-of-war.json) |
 | A Girl in the City | 139722 | [139722-a-girl-in-the-city.json](./139722-a-girl-in-the-city.json) |
 | A Girls Fabric Face | 29266 | [29266-a-girls-fabric-face.json](./29266-a-girls-fabric-face.json) |
 | A Gladiator's Hell | 200564 | [200564-a-gladiators-hell.json](./200564-a-gladiators-hell.json) |
@@ -11897,6 +11898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Sever | 414337 | [414337-astral-sever.json](./414337-astral-sever.json) |
 | Astral Shipwright | 193198 | [193198-astral-shipwright.json](./193198-astral-shipwright.json) |
 | Astral Slider | 192262 | [192262-astral-slider.json](./192262-astral-slider.json) |
+| Astral Space | 189359 | [189359-astral-space.json](./189359-astral-space.json) |
 | Astral Stairways | 142993 | [142993-astral-stairways.json](./142993-astral-stairways.json) |
 | Astral Survivor | 345837 | [345837-astral-survivor.json](./345837-astral-survivor.json) |
 | Astral Takers | 356974 | [356974-astral-takers.json](./356974-astral-takers.json) |
