@@ -4107,6 +4107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Speller | 398545 | [398545-beat-speller.json](./398545-beat-speller.json) |
 | Beat Sports | 59835 | [59835-beat-sports.json](./59835-beat-sports.json) |
 | Beat Stage | 408101 | [408101-beat-stage.json](./408101-beat-stage.json) |
+| Beat Stickman: Beyond | 197042 | [197042-beat-stickman-beyond.json](./197042-beat-stickman-beyond.json) |
 | Beat Stickman: Beyond - Story Mode | 357029 | [357029-beat-stickman-beyond-story-mode.json](./357029-beat-stickman-beyond-story-mode.json) |
 | Beat Stickman: Infinity Clones | 112072 | [112072-beat-stickman-infinity-clones.json](./112072-beat-stickman-infinity-clones.json) |
 | Beat Stickman: Infinity Clones - Definitive Edition | 120107 | [120107-beat-stickman-infinity-clones-definitive-edition.json](./120107-beat-stickman-infinity-clones-definitive-edition.json) |
@@ -4650,6 +4651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Being | 92419 | [92419-being.json](./92419-being.json) |
 | Being a DIK | 128462 | [128462-being-a-dik.json](./128462-being-a-dik.json) |
 | Being a DIK: Season 2 | 186507 | [186507-being-a-dik-season-2.json](./186507-being-a-dik-season-2.json) |
+| Being a Penguin | 197026 | [197026-being-a-penguin.json](./197026-being-a-penguin.json) |
 | Being Ball | 190412 | [190412-being-ball.json](./190412-being-ball.json) |
 | Being Dead Simulator | 280925 | [280925-being-dead-simulator.json](./280925-being-dead-simulator.json) |
 | Being Faust: Enter Mephisto | 56459 | [56459-being-faust-enter-mephisto.json](./56459-being-faust-enter-mephisto.json) |
