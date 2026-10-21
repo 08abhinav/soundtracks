@@ -1035,6 +1035,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Bubbles Cannon: Aim & Tap | 245336 | [245336-idle-bubbles-cannon-aim-and-tap.json](./245336-idle-bubbles-cannon-aim-and-tap.json) |
 | Idle Build RPG | 260166 | [260166-idle-build-rpg.json](./260166-idle-build-rpg.json) |
 | Idle Business Tycoon: Build Simulator | 197933 | [197933-idle-business-tycoon-build-simulator.json](./197933-idle-business-tycoon-build-simulator.json) |
+| Idle Business Tycoon: Build Simulator - Expansion Pack 1 | 201445 | [201445-idle-business-tycoon-build-simulator-expansion-pack-1.json](./201445-idle-business-tycoon-build-simulator-expansion-pack-1.json) |
+| Idle Business Tycoon: Build Simulator - Expansion Pack 2 | 201523 | [201523-idle-business-tycoon-build-simulator-expansion-pack-2.json](./201523-idle-business-tycoon-build-simulator-expansion-pack-2.json) |
 | Idle Calibur: Zero | 385905 | [385905-idle-calibur-zero.json](./385905-idle-calibur-zero.json) |
 | Idle Campaign | 210851 | [210851-idle-campaign.json](./210851-idle-campaign.json) |
 | Idle Cannon | 182781 | [182781-idle-cannon.json](./182781-idle-cannon.json) |
@@ -2321,6 +2323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inamorata | 299865 | [299865-inamorata.json](./299865-inamorata.json) |
 | Inanima | 237189 | [237189-inanima.json](./237189-inanima.json) |
 | Inanis | 192178 | [192178-inanis.json](./192178-inanis.json) |
+| inAntrum | 201545 | [201545-inantrum.json](./201545-inantrum.json) |
 | Inari | 277605 | [277605-inari.json](./277605-inari.json) |
 | Inaro | 263321 | [263321-inaro.json](./263321-inaro.json) |
 | Inauthentic Hummus | 348353 | [348353-inauthentic-hummus.json](./348353-inauthentic-hummus.json) |
