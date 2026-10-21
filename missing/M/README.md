@@ -2482,6 +2482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maple Tale | 319374 | [319374-maple-tale.json](./319374-maple-tale.json) |
 | Maple Winters in Leafbud Rampage!! | 256121 | [256121-maple-winters-in-leafbud-rampage.json](./256121-maple-winters-in-leafbud-rampage.json) |
 | Mapleland | 272156 | [272156-mapleland.json](./272156-mapleland.json) |
+| Mapless | 177767 | [177767-mapless.json](./177767-mapless.json) |
 | MapleStory | 9804 | [9804-maplestory.json](./9804-maplestory.json) |
 | MapleStory 2 | 80348 | [80348-maplestory-2.json](./80348-maplestory-2.json) |
 | Maplestory Blitz | 108795 | [108795-maplestory-blitz.json](./108795-maplestory-blitz.json) |
@@ -7597,6 +7598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metamoqester | 39542 | [39542-metamoqester.json](./39542-metamoqester.json) |
 | Metamor Jupiter | 37631 | [37631-metamor-jupiter.json](./37631-metamor-jupiter.json) |
 | Metamor Panic: Doki Doki Youma Busters!! | 384782 | [384782-metamor-panic-doki-doki-youma-busters.json](./384782-metamor-panic-doki-doki-youma-busters.json) |
+| Metamorbob | 177760 | [177760-metamorbob.json](./177760-metamorbob.json) |
 | Metamorph | 345519 | [345519-metamorph.json](./345519-metamorph.json) |
 | Metamorph | 368137 | [368137-metamorph.json](./368137-metamorph.json) |
 | Metamorphic | 27474 | [27474-metamorphic.json](./27474-metamorphic.json) |
@@ -10539,6 +10541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Mars | 147390 | [147390-mission-mars.json](./147390-mission-mars.json) |
 | Mission Mars | 263479 | [263479-mission-mars.json](./263479-mission-mars.json) |
 | Mission Mars Mobile | 213047 | [213047-mission-mars-mobile.json](./213047-mission-mars-mobile.json) |
+| Mission Massive Migration | 177735 | [177735-mission-massive-migration.json](./177735-mission-massive-migration.json) |
 | Mission of Hero | 89424 | [89424-mission-of-hero.json](./89424-mission-of-hero.json) |
 | Mission Omega | 31183 | [31183-mission-omega.json](./31183-mission-omega.json) |
 | Mission on the Planet | 360725 | [360725-mission-on-the-planet.json](./360725-mission-on-the-planet.json) |
@@ -12384,6 +12387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters Are Coming! | 346956 | [346956-monsters-are-coming.json](./346956-monsters-are-coming.json) |
 | Monsters Are Coming!: Madness Builds | 417323 | [417323-monsters-are-coming-madness-builds.json](./417323-monsters-are-coming-madness-builds.json) |
 | Monsters Ate My Birthday Cake | 17344 | [17344-monsters-ate-my-birthday-cake.json](./17344-monsters-ate-my-birthday-cake.json) |
+| Monsters Come Out | 177765 | [177765-monsters-come-out.json](./177765-monsters-come-out.json) |
 | Monsters Everywhere | 256358 | [256358-monsters-everywhere.json](./256358-monsters-everywhere.json) |
 | Monsters Idle RPG | 238721 | [238721-monsters-idle-rpg.json](./238721-monsters-idle-rpg.json) |
 | Monsters in Cards | 380844 | [380844-monsters-in-cards.json](./380844-monsters-in-cards.json) |
@@ -14158,6 +14162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Gold: Tooyama no Kinsan Space Chou | 41317 | [41317-mr-gold-tooyama-no-kinsan-space-chou.json](./41317-mr-gold-tooyama-no-kinsan-space-chou.json) |
 | Mr. Golden Revenge Machine | 369327 | [369327-mr-golden-revenge-machine.json](./369327-mr-golden-revenge-machine.json) |
 | Mr. Golf | 57050 | [57050-mr-golf.json](./57050-mr-golf.json) |
+| Mr. Gray and the Island Invasion | 177729 | [177729-mr-gray-and-the-island-invasion.json](./177729-mr-gray-and-the-island-invasion.json) |
 | Mr. Grin's Final Act | 382591 | [382591-mr-grins-final-act.json](./382591-mr-grins-final-act.json) |
 | Mr. Hibbl | 156661 | [156661-mr-hibbl.json](./156661-mr-hibbl.json) |
 | Mr. Hibbl: The Lost Levels | 262237 | [262237-mr-hibbl-the-lost-levels.json](./262237-mr-hibbl-the-lost-levels.json) |
