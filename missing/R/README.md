@@ -4933,6 +4933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverend: Surf 'n Sin | 380554 | [380554-reverend-surf-n-sin.json](./380554-reverend-surf-n-sin.json) |
 | REVEREX: DX | 327457 | [327457-reverex-dx.json](./327457-reverex-dx.json) |
 | Reverie | 114417 | [114417-reverie.json](./114417-reverie.json) |
+| Reverie | 178294 | [178294-reverie.json](./178294-reverie.json) |
 | Reverie | 220543 | [220543-reverie.json](./220543-reverie.json) |
 | Reverie | 254161 | [254161-reverie.json](./254161-reverie.json) |
 | Reverie | 256825 | [256825-reverie.json](./256825-reverie.json) |
@@ -9015,6 +9016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubicon | 197678 | [197678-rubicon.json](./197678-rubicon.json) |
 | Rubicon | 79242 | [79242-rubicon.json](./79242-rubicon.json) |
 | Rubicon Approach | 83944 | [83944-rubicon-approach.json](./83944-rubicon-approach.json) |
+| Rubicon: A Conspiracy of Silence | 178284 | [178284-rubicon-a-conspiracy-of-silence.json](./178284-rubicon-a-conspiracy-of-silence.json) |
 | Rubido | 260714 | [260714-rubido.json](./260714-rubido.json) |
 | Rubies in Space | 194371 | [194371-rubies-in-space.json](./194371-rubies-in-space.json) |
 | Rubik's Cube | 71210 | [71210-rubiks-cube.json](./71210-rubiks-cube.json) |
