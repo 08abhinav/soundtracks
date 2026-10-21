@@ -6266,6 +6266,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megami Ibunroku Persona Digital Collection | 263596 | [263596-megami-ibunroku-persona-digital-collection.json](./263596-megami-ibunroku-persona-digital-collection.json) |
 | Megami Meguri | 222529 | [222529-megami-meguri.json](./222529-megami-meguri.json) |
 | Megami no Etsubo | 122926 | [122926-megami-no-etsubo.json](./122926-megami-no-etsubo.json) |
+| Megami Paradise | 191464 | [191464-megami-paradise.json](./191464-megami-paradise.json) |
+| Megami Paradise 2 | 191465 | [191465-megami-paradise-2.json](./191465-megami-paradise-2.json) |
 | Megami Quest 2 | 202606 | [202606-megami-quest-2.json](./202606-megami-quest-2.json) |
 | Megami Tensei Gaiden: Last Bible | 225584 | [225584-megami-tensei-gaiden-last-bible.json](./225584-megami-tensei-gaiden-last-bible.json) |
 | Megami Tensei Gaiden: Last Bible | 49830 | [49830-megami-tensei-gaiden-last-bible.json](./49830-megami-tensei-gaiden-last-bible.json) |
@@ -7648,6 +7650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteoric Shower | 47176 | [47176-meteoric-shower.json](./47176-meteoric-shower.json) |
 | Meteoric VR | 207725 | [207725-meteoric-vr.json](./207725-meteoric-vr.json) |
 | Meteorite Destroyer | 104119 | [104119-meteorite-destroyer.json](./104119-meteorite-destroyer.json) |
+| Meteorite V Base | 191625 | [191625-meteorite-v-base.json](./191625-meteorite-v-base.json) |
 | Meteorite Z: The Apocalypse | 293136 | [293136-meteorite-z-the-apocalypse.json](./293136-meteorite-z-the-apocalypse.json) |
 | Meteorite's Journey | 55146 | [55146-meteorites-journey.json](./55146-meteorites-journey.json) |
 | Meteorites | 24787 | [24787-meteorites.json](./24787-meteorites.json) |
@@ -9035,6 +9038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milu Milan | 265824 | [265824-milu-milan.json](./265824-milu-milan.json) |
 | Milya[broken] | 150128 | [150128-milya-broken.json](./150128-milya-broken.json) |
 | MiM: Meditation Interactive Matrix | 358995 | [358995-mim-meditation-interactive-matrix.json](./358995-mim-meditation-interactive-matrix.json) |
+| Mima and Nina's Chocolate Workshop | 191618 | [191618-mima-and-ninas-chocolate-workshop.json](./191618-mima-and-ninas-chocolate-workshop.json) |
 | Mima's Magical Wardrobe | 325817 | [325817-mimas-magical-wardrobe.json](./325817-mimas-magical-wardrobe.json) |
 | Mimana Iyar Chronicle | 80165 | [80165-mimana-iyar-chronicle.json](./80165-mimana-iyar-chronicle.json) |
 | Mimelet | 187784 | [187784-mimelet.json](./187784-mimelet.json) |
@@ -11769,6 +11773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly Plus | 20313 | [20313-monopoly-plus.json](./20313-monopoly-plus.json) |
 | Monopoly Plus and Monopoly Madness | 182497 | [182497-monopoly-plus-and-monopoly-madness.json](./182497-monopoly-plus-and-monopoly-madness.json) |
 | Monopoly Plus: My Little Pony | 242953 | [242953-monopoly-plus-my-little-pony.json](./242953-monopoly-plus-my-little-pony.json) |
+| Monopoly Poker | 191623 | [191623-monopoly-poker.json](./191623-monopoly-poker.json) |
 | Monopoly Sudoku | 292005 | [292005-monopoly-sudoku.json](./292005-monopoly-sudoku.json) |
 | Monopoly Tycoon | 197249 | [197249-monopoly-tycoon.json](./197249-monopoly-tycoon.json) |
 | Monopoly Tycoon | 9710 | [9710-monopoly-tycoon.json](./9710-monopoly-tycoon.json) |
@@ -12521,6 +12526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Crystals | 172710 | [172710-moon-crystals.json](./172710-moon-crystals.json) |
 | Moon Defence | 153901 | [153901-moon-defence.json](./153901-moon-defence.json) |
 | Moon Diver | 20543 | [20543-moon-diver.json](./20543-moon-diver.json) |
+| Moon Dragon | 191457 | [191457-moon-dragon.json](./191457-moon-dragon.json) |
 | Moon Drop | 302596 | [302596-moon-drop.json](./302596-moon-drop.json) |
 | Moon Eater | 59659 | [59659-moon-eater.json](./59659-moon-eater.json) |
 | Moon Fall | 122381 | [122381-moon-fall.json](./122381-moon-fall.json) |
