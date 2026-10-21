@@ -7883,6 +7883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mezase!! Tsuri Master DS | 345136 | [345136-mezase-tsuri-master-ds.json](./345136-mezase-tsuri-master-ds.json) |
 | Mezma's Revenge | 302504 | [302504-mezmas-revenge.json](./302504-mezmas-revenge.json) |
 | Mezzanine | 219636 | [219636-mezzanine.json](./219636-mezzanine.json) |
+| Mezzer | 177244 | [177244-mezzer.json](./177244-mezzer.json) |
 | Mezzo Piano: Oshare & Lesson | 327597 | [327597-mezzo-piano-oshare-and-lesson.json](./327597-mezzo-piano-oshare-and-lesson.json) |
 | MF-01 Aerostrike | 239701 | [239701-mf-01-aerostrike.json](./239701-mf-01-aerostrike.json) |
 | MFC: Midnight Fight Club | 302769 | [302769-mfc-midnight-fight-club.json](./302769-mfc-midnight-fight-club.json) |
@@ -8584,6 +8585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight School Walk | 211649 | [211649-midnight-school-walk.json](./211649-midnight-school-walk.json) |
 | Midnight Scour | 409752 | [409752-midnight-scour.json](./409752-midnight-scour.json) |
 | Midnight Serenade | 397426 | [397426-midnight-serenade.json](./397426-midnight-serenade.json) |
+| Midnight Shadows | 177220 | [177220-midnight-shadows.json](./177220-midnight-shadows.json) |
 | Midnight Shift | 177272 | [177272-midnight-shift.json](./177272-midnight-shift.json) |
 | Midnight Shift | 337663 | [337663-midnight-shift.json](./337663-midnight-shift.json) |
 | Midnight Shift Remake | 229767 | [229767-midnight-shift-remake.json](./229767-midnight-shift-remake.json) |
