@@ -1355,6 +1355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Law & Order: Mushroom Kingdom Unit - Pilot Episode: Tragic Fox "Tails" | 345625 | [345625-law-and-order-mushroom-kingdom-unit-pilot-episode-tragic-fox-tails.json](./345625-law-and-order-mushroom-kingdom-unit-pilot-episode-tragic-fox-tails.json) |
 | Law and Order: Los Angeles | 79795 | [79795-law-and-order-los-angeles.json](./79795-law-and-order-los-angeles.json) |
 | Law Craft | 207832 | [207832-law-craft.json](./207832-law-craft.json) |
+| Law Empire Tycoon | 171810 | [171810-law-empire-tycoon.json](./171810-law-empire-tycoon.json) |
 | Law Law Land | 127693 | [127693-law-law-land.json](./127693-law-law-land.json) |
 | Law Mower | 41933 | [41933-law-mower.json](./41933-law-mower.json) |
 | Law of Creation 2 | 193935 | [193935-law-of-creation-2.json](./193935-law-of-creation-2.json) |
@@ -3180,6 +3181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lewd Gym | 207337 | [207337-lewd-gym.json](./207337-lewd-gym.json) |
 | Lewd Hentai Puzzle | 306241 | [306241-lewd-hentai-puzzle.json](./306241-lewd-hentai-puzzle.json) |
 | Lewd Island | 385875 | [385875-lewd-island.json](./385875-lewd-island.json) |
+| Lewd Maze | 171801 | [171801-lewd-maze.json](./171801-lewd-maze.json) |
 | Lewd Mod 2 | 356871 | [356871-lewd-mod-2.json](./356871-lewd-mod-2.json) |
 | Lewd Mod XXXmas | 358636 | [358636-lewd-mod-xxxmas.json](./358636-lewd-mod-xxxmas.json) |
 | Lewd Mod: Noir | 356876 | [356876-lewd-mod-noir.json](./356876-lewd-mod-noir.json) |
