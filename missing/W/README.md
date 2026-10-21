@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wailing Heights | 18969 | [18969-wailing-heights.json](./18969-wailing-heights.json) |
 | Wailing Heights: Deluxe Edition | 53881 | [53881-wailing-heights-deluxe-edition.json](./53881-wailing-heights-deluxe-edition.json) |
 | Waimanu: Grinding Block Adventure | 123628 | [123628-waimanu-grinding-block-adventure.json](./123628-waimanu-grinding-block-adventure.json) |
+| Wait For It | 184238 | [184238-wait-for-it.json](./184238-wait-for-it.json) |
 | Wait What's That | 324507 | [324507-wait-whats-that.json](./324507-wait-whats-that.json) |
 | Wait, Is That Me? | 364653 | [364653-wait-is-that-me.json](./364653-wait-is-that-me.json) |
 | Wait: The Patient | 312564 | [312564-wait-the-patient.json](./312564-wait-the-patient.json) |
@@ -478,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wander Vehicles: Doggybone Daisakusen | 208853 | [208853-wander-vehicles-doggybone-daisakusen.json](./208853-wander-vehicles-doggybone-daisakusen.json) |
 | Wander Vyrosa | 220527 | [220527-wander-vyrosa.json](./220527-wander-vyrosa.json) |
 | Wander Wonder | 237514 | [237514-wander-wonder.json](./237514-wander-wonder.json) |
+| Wanderboots | 184220 | [184220-wanderboots.json](./184220-wanderboots.json) |
 | Wanderburg | 348047 | [348047-wanderburg.json](./348047-wanderburg.json) |
 | Wanderdawn | 407164 | [407164-wanderdawn.json](./407164-wanderdawn.json) |
 | Wanderer | 185082 | [185082-wanderer.json](./185082-wanderer.json) |
@@ -7256,6 +7258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wyrdsong | 214419 | [214419-wyrdsong.json](./214419-wyrdsong.json) |
 | Wyred | 261764 | [261764-wyred.json](./261764-wyred.json) |
 | Wyrm Climb | 305795 | [305795-wyrm-climb.json](./305795-wyrm-climb.json) |
+| Wyrm's Wrath | 184239 | [184239-wyrms-wrath.json](./184239-wyrms-wrath.json) |
 | WyrmBound | 290721 | [290721-wyrmbound.json](./290721-wyrmbound.json) |
 | Wyrmhall: Brush and Banter | 326221 | [326221-wyrmhall-brush-and-banter.json](./326221-wyrmhall-brush-and-banter.json) |
 | Wyrmhole: The Forbidden Knowledge | 253384 | [253384-wyrmhole-the-forbidden-knowledge.json](./253384-wyrmhole-the-forbidden-knowledge.json) |
