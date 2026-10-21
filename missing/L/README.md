@@ -2878,6 +2878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Play! Oink Games: Nine Tiles | 241310 | [241310-lets-play-oink-games-nine-tiles.json](./241310-lets-play-oink-games-nine-tiles.json) |
 | Let's Play! Oink Games: Rafter Five | 275559 | [275559-lets-play-oink-games-rafter-five.json](./275559-lets-play-oink-games-rafter-five.json) |
 | Let's Play! Oink Games: Scout | 231238 | [231238-lets-play-oink-games-scout.json](./231238-lets-play-oink-games-scout.json) |
+| Let's Puzzle | 189345 | [189345-lets-puzzle.json](./189345-lets-puzzle.json) |
 | Let's Puzzle: Celestial Wonders Pack | 298256 | [298256-lets-puzzle-celestial-wonders-pack.json](./298256-lets-puzzle-celestial-wonders-pack.json) |
 | Let's Puzzle: Verdant Realms Pack | 303671 | [303671-lets-puzzle-verdant-realms-pack.json](./303671-lets-puzzle-verdant-realms-pack.json) |
 | Let's Quip | 61896 | [61896-lets-quip.json](./61896-lets-quip.json) |
@@ -5162,6 +5163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loco | 138123 | [138123-loco.json](./138123-loco.json) |
 | Loco Bonobo | 192871 | [192871-loco-bonobo.json](./192871-loco-bonobo.json) |
 | Loco Dojo Unleashed | 193680 | [193680-loco-dojo-unleashed.json](./193680-loco-dojo-unleashed.json) |
+| Loco Launcher | 189355 | [189355-loco-launcher.json](./189355-loco-launcher.json) |
 | Loco Limbo | 304833 | [304833-loco-limbo.json](./304833-loco-limbo.json) |
 | Loco Loco | 58326 | [58326-loco-loco.json](./58326-loco-loco.json) |
 | Loco Mania | 61477 | [61477-loco-mania.json](./61477-loco-mania.json) |
