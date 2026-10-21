@@ -480,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamia 1999 | 123022 | [123022-lamia-1999.json](./123022-lamia-1999.json) |
 | Lamia's Bambina | 240783 | [240783-lamias-bambina.json](./240783-lamias-bambina.json) |
 | Lamia's Game Room | 33724 | [33724-lamias-game-room.json](./33724-lamias-game-room.json) |
+| Lamina | 184259 | [184259-lamina.json](./184259-lamina.json) |
 | Lamina Island | 224537 | [224537-lamina-island.json](./224537-lamina-island.json) |
 | Lamm | 29600 | [29600-lamm.json](./29600-lamm.json) |
 | Lamo | 121465 | [121465-lamo.json](./121465-lamo.json) |
@@ -5854,6 +5855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of the Dark Castle | 35761 | [35761-lord-of-the-dark-castle.json](./35761-lord-of-the-dark-castle.json) |
 | Lord of the Imps | 212979 | [212979-lord-of-the-imps.json](./212979-lord-of-the-imps.json) |
 | Lord of the Jungle | 142763 | [142763-lord-of-the-jungle.json](./142763-lord-of-the-jungle.json) |
+| Lord of the Mall (Lord of Them All!) | 184253 | [184253-lord-of-the-mall-lord-of-them-all.json](./184253-lord-of-the-mall-lord-of-them-all.json) |
 | Lord of the Other World | 174815 | [174815-lord-of-the-other-world.json](./174815-lord-of-the-other-world.json) |
 | Lord of the Race | 260656 | [260656-lord-of-the-race.json](./260656-lord-of-the-race.json) |
 | Lord of the Rings: Warrior of Middle Earth | 190102 | [190102-lord-of-the-rings-warrior-of-middle-earth.json](./190102-lord-of-the-rings-warrior-of-middle-earth.json) |
