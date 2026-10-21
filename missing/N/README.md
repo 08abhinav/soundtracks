@@ -3226,6 +3226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night City | 293654 | [293654-night-city.json](./293654-night-city.json) |
 | Night City | 57600 | [57600-night-city.json](./57600-night-city.json) |
 | Night City Tokyo Drift: Clumsy Ninja Chasing Cars | 102752 | [102752-night-city-tokyo-drift-clumsy-ninja-chasing-cars.json](./102752-night-city-tokyo-drift-clumsy-ninja-chasing-cars.json) |
+| Night Class: A Vampire Story | 184763 | [184763-night-class-a-vampire-story.json](./184763-night-class-a-vampire-story.json) |
 | Night Clerk | 376476 | [376476-night-clerk.json](./376476-night-clerk.json) |
 | Night Clerk | 389597 | [389597-night-clerk.json](./389597-night-clerk.json) |
 | Night Confessional | 293343 | [293343-night-confessional.json](./293343-night-confessional.json) |
