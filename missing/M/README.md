@@ -4875,6 +4875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazes and Mages 2 | 121778 | [121778-mazes-and-mages-2.json](./121778-mazes-and-mages-2.json) |
 | Mazes of Karradash | 290269 | [290269-mazes-of-karradash.json](./290269-mazes-of-karradash.json) |
 | Mazes of Karradash 2 | 175430 | [175430-mazes-of-karradash-2.json](./175430-mazes-of-karradash-2.json) |
+| Mazeskalation | 183767 | [183767-mazeskalation.json](./183767-mazeskalation.json) |
 | MazeSlug | 342788 | [342788-mazeslug.json](./342788-mazeslug.json) |
 | MazeTD | 384330 | [384330-mazetd.json](./384330-mazetd.json) |
 | Mazewar | 381593 | [381593-mazewar.json](./381593-mazewar.json) |
@@ -5008,6 +5009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mearth | 197875 | [197875-mearth.json](./197875-mearth.json) |
 | Mearth II | 226722 | [226722-mearth-ii.json](./226722-mearth-ii.json) |
 | Measurement Problem | 166740 | [166740-measurement-problem.json](./166740-measurement-problem.json) |
+| Meat | 183755 | [183755-meat.json](./183755-meat.json) |
 | Meat | 225816 | [225816-meat.json](./225816-meat.json) |
 | Meat | 377302 | [377302-meat.json](./377302-meat.json) |
 | Meat | 383500 | [383500-meat.json](./383500-meat.json) |
@@ -7490,6 +7492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Saga: The Ark of Wastes | 75851 | [75851-metal-saga-the-ark-of-wastes.json](./75851-metal-saga-the-ark-of-wastes.json) |
 | Metal Savior | 342272 | [342272-metal-savior.json](./342272-metal-savior.json) |
 | Metal Savior Black | 297717 | [297717-metal-savior-black.json](./297717-metal-savior-black.json) |
+| Metal Saviour Bia | 183764 | [183764-metal-saviour-bia.json](./183764-metal-saviour-bia.json) |
 | Metal Shell: Neon Pulse | 99163 | [99163-metal-shell-neon-pulse.json](./99163-metal-shell-neon-pulse.json) |
 | Metal Shock Game | 211206 | [211206-metal-shock-game.json](./211206-metal-shock-game.json) |
 | Metal Slader Glory 2 | 297474 | [297474-metal-slader-glory-2.json](./297474-metal-slader-glory-2.json) |
@@ -8428,6 +8431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midgard Lava-a-Jato | 298428 | [298428-midgard-lava-a-jato.json](./298428-midgard-lava-a-jato.json) |
 | Midgard Outlaw | 201233 | [201233-midgard-outlaw.json](./201233-midgard-outlaw.json) |
 | Midi Maze | 15265 | [15265-midi-maze.json](./15265-midi-maze.json) |
+| Midi the Cat | 183789 | [183789-midi-the-cat.json](./183789-midi-the-cat.json) |
 | Midinous | 173225 | [173225-midinous.json](./173225-midinous.json) |
 | Midio! | 336919 | [336919-midio.json](./336919-midio.json) |
 | Midjungard | 127689 | [127689-midjungard.json](./127689-midjungard.json) |
@@ -14767,6 +14771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murders & Mistresses | 418705 | [418705-murders-and-mistresses.json](./418705-murders-and-mistresses.json) |
 | Murders at Tealwoods Manor | 215103 | [215103-murders-at-tealwoods-manor.json](./215103-murders-at-tealwoods-manor.json) |
 | Murders on Budapest | 174285 | [174285-murders-on-budapest.json](./174285-murders-on-budapest.json) |
+| Murdershifters | 183768 | [183768-murdershifters.json](./183768-murdershifters.json) |
 | Murderwave: Digital Slaughter | 121011 | [121011-murderwave-digital-slaughter.json](./121011-murderwave-digital-slaughter.json) |
 | Murdle | 194471 | [194471-murdle.json](./194471-murdle.json) |
 | Murdo's Quest | 201464 | [201464-murdos-quest.json](./201464-murdos-quest.json) |
@@ -15590,6 +15595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Golf Game featuring Ernie Els | 206772 | [206772-my-golf-game-featuring-ernie-els.json](./206772-my-golf-game-featuring-ernie-els.json) |
 | My Goth Girl | 400504 | [400504-my-goth-girl.json](./400504-my-goth-girl.json) |
 | My Grandparents' Christmas Mystery | 236378 | [236378-my-grandparents-christmas-mystery.json](./236378-my-grandparents-christmas-mystery.json) |
+| My granny Lala and me | 183773 | [183773-my-granny-lala-and-me.json](./183773-my-granny-lala-and-me.json) |
 | My Group Members Suck!! | 417572 | [417572-my-group-members-suck.json](./417572-my-group-members-suck.json) |
 | My Gyaru Girlfriend | 210609 | [210609-my-gyaru-girlfriend.json](./210609-my-gyaru-girlfriend.json) |
 | My Gym Mommy Treats Me Like A Kid | 393560 | [393560-my-gym-mommy-treats-me-like-a-kid.json](./393560-my-gym-mommy-treats-me-like-a-kid.json) |
