@@ -2798,9 +2798,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opus Magnum: De Re Metallica | 391819 | [391819-opus-magnum-de-re-metallica.json](./391819-opus-magnum-de-re-metallica.json) |
 | Opus Torrentia | 386468 | [386468-opus-torrentia.json](./386468-opus-torrentia.json) |
 | Opus: Collector's Edition | 186904 | [186904-opus-collectors-edition.json](./186904-opus-collectors-edition.json) |
+| Opus: Echo of Starsong - Deluxe Edition | 186534 | [186534-opus-echo-of-starsong-deluxe-edition.json](./186534-opus-echo-of-starsong-deluxe-edition.json) |
 | Opus: Echo of Starsong - Full Bloom Edition | 200915 | [200915-opus-echo-of-starsong-full-bloom-edition.json](./200915-opus-echo-of-starsong-full-bloom-edition.json) |
 | Opus: Prism Peak | 234662 | [234662-opus-prism-peak.json](./234662-opus-prism-peak.json) |
 | Opus: Rocket of Whispers | 77569 | [77569-opus-rocket-of-whispers.json](./77569-opus-rocket-of-whispers.json) |
+| Opus: Rocket of Whispers - Deluxe Edition | 186535 | [186535-opus-rocket-of-whispers-deluxe-edition.json](./186535-opus-rocket-of-whispers-deluxe-edition.json) |
 | Oquonie | 60514 | [60514-oquonie.json](./60514-oquonie.json) |
 | Or | 29613 | [29613-or.json](./29613-or.json) |
 | Oracle | 27457 | [27457-oracle.json](./27457-oracle.json) |
@@ -3907,6 +3909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: Urban Jungle Collection | 331418 | [331418-outbreak-urban-jungle-collection.json](./331418-outbreak-urban-jungle-collection.json) |
 | Outbreak: Zombies For Days Collection | 308586 | [308586-outbreak-zombies-for-days-collection.json](./308586-outbreak-zombies-for-days-collection.json) |
 | Outbrk | 131609 | [131609-outbrk.json](./131609-outbrk.json) |
+| Outbuddies | 186547 | [186547-outbuddies.json](./186547-outbuddies.json) |
 | Outburst | 47130 | [47130-outburst.json](./47130-outburst.json) |
 | Outburst | 79240 | [79240-outburst.json](./79240-outburst.json) |
 | Outcast | 15331 | [15331-outcast.json](./15331-outcast.json) |
