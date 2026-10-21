@@ -586,6 +586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radix | 221658 | [221658-radix.json](./221658-radix.json) |
 | Radley Ravencroft's Spy Web Mystery | 343287 | [343287-radley-ravencrofts-spy-web-mystery.json](./343287-radley-ravencrofts-spy-web-mystery.json) |
 | Radon Blast | 144717 | [144717-radon-blast.json](./144717-radon-blast.json) |
+| Radon Break | 195006 | [195006-radon-break.json](./195006-radon-break.json) |
 | RADS: The Radioactive Apocalypse Dating Simulator | 290822 | [290822-rads-the-radioactive-apocalypse-dating-simulator.json](./290822-rads-the-radioactive-apocalypse-dating-simulator.json) |
 | Radzone | 256248 | [256248-radzone.json](./256248-radzone.json) |
 | Raef | 131588 | [131588-raef.json](./131588-raef.json) |
@@ -4480,6 +4481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReThink | 29260 | [29260-rethink.json](./29260-rethink.json) |
 | ReThink \| Evolved 4 | 132592 | [132592-rethink-evolved-4.json](./132592-rethink-evolved-4.json) |
 | ReThink \| Evolved 5 | 244849 | [244849-rethink-evolved-5.json](./244849-rethink-evolved-5.json) |
+| ReThink 3 | 194858 | [194858-rethink-3.json](./194858-rethink-3.json) |
 | ReThink 3.5 | 289802 | [289802-rethink-3-5.json](./289802-rethink-3-5.json) |
 | ReThink 4 | 148457 | [148457-rethink-4.json](./148457-rethink-4.json) |
 | Rethink Lite | 393951 | [393951-rethink-lite.json](./393951-rethink-lite.json) |
@@ -8318,6 +8320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooms: The Toymaker's Mansion | 193678 | [193678-rooms-the-toymakers-mansion.json](./193678-rooms-the-toymakers-mansion.json) |
 | Rooms: The Unsolvable Puzzle | 19018 | [19018-rooms-the-unsolvable-puzzle.json](./19018-rooms-the-unsolvable-puzzle.json) |
 | Roomscale Tower | 31984 | [31984-roomscale-tower.json](./31984-roomscale-tower.json) |
+| Roomservice | 194840 | [194840-roomservice.json](./194840-roomservice.json) |
 | Rooniverse | 214984 | [214984-rooniverse.json](./214984-rooniverse.json) |
 | Roopocket | 122171 | [122171-roopocket.json](./122171-roopocket.json) |
 | Roost | 220147 | [220147-roost.json](./220147-roost.json) |
