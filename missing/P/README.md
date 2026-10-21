@@ -10165,6 +10165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power & Revolution 2020 Edition: 2019 Scenarios | 168109 | [168109-power-and-revolution-2020-edition-2019-scenarios.json](./168109-power-and-revolution-2020-edition-2019-scenarios.json) |
 | Power & Revolution: 2019 Edition | 116207 | [116207-power-and-revolution-2019-edition.json](./116207-power-and-revolution-2019-edition.json) |
 | Power & Revolution: 2021 Edition | 162429 | [162429-power-and-revolution-2021-edition.json](./162429-power-and-revolution-2021-edition.json) |
+| Power & Revolution: 2022 Edition | 196473 | [196473-power-and-revolution-2022-edition.json](./196473-power-and-revolution-2022-edition.json) |
 | Power & Revolution: Geo-Political Simulator 4 | 53469 | [53469-power-and-revolution-geo-political-simulator-4.json](./53469-power-and-revolution-geo-political-simulator-4.json) |
 | Power at Sea | 55151 | [55151-power-at-sea.json](./55151-power-at-sea.json) |
 | Power Ball 2021 | 150620 | [150620-power-ball-2021.json](./150620-power-ball-2021.json) |
@@ -12295,6 +12296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Unknown | 244240 | [244240-project-unknown.json](./244240-project-unknown.json) |
 | Project Unknown Designation | 309881 | [309881-project-unknown-designation.json](./309881-project-unknown-designation.json) |
 | Project Unseek | 217466 | [217466-project-unseek.json](./217466-project-unseek.json) |
+| Project Utgardr | 196608 | [196608-project-utgardr.json](./196608-project-utgardr.json) |
 | Project V: Origins | 304717 | [304717-project-v-origins.json](./304717-project-v-origins.json) |
 | Project Velocity | 86675 | [86675-project-velocity.json](./86675-project-velocity.json) |
 | Project Vesperi | 260010 | [260010-project-vesperi.json](./260010-project-vesperi.json) |
