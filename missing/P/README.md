@@ -7488,6 +7488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayHex | 319877 | [319877-playhex.json](./319877-playhex.json) |
 | Playhouse Strip Poker | 55990 | [55990-playhouse-strip-poker.json](./55990-playhouse-strip-poker.json) |
 | Playing Field 2 | 410419 | [410419-playing-field-2.json](./410419-playing-field-2.json) |
+| Playing God VR | 179923 | [179923-playing-god-vr.json](./179923-playing-god-vr.json) |
 | Playing History - The Plague | 34628 | [34628-playing-history-the-plague.json](./34628-playing-history-the-plague.json) |
 | Playing History 2 - Slave Trade | 12073 | [12073-playing-history-2-slave-trade.json](./12073-playing-history-2-slave-trade.json) |
 | Playing History: Vikings | 12074 | [12074-playing-history-vikings.json](./12074-playing-history-vikings.json) |
@@ -11649,6 +11650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Process | 60528 | [60528-process.json](./60528-process.json) |
 | Process of Elimination | 216583 | [216583-process-of-elimination.json](./216583-process-of-elimination.json) |
 | Procession Engine | 413079 | [413079-procession-engine.json](./413079-procession-engine.json) |
+| Procrastinaire: Solitairy Confinement | 179932 | [179932-procrastinaire-solitairy-confinement.json](./179932-procrastinaire-solitairy-confinement.json) |
 | Procrastinaut | 270951 | [270951-procrastinaut.json](./270951-procrastinaut.json) |
 | ProcrastiTyper | 202805 | [202805-procrastityper.json](./202805-procrastityper.json) |
 | Procuring Estrogen for Your Toxic Slime Girlfriend | 397074 | [397074-procuring-estrogen-for-your-toxic-slime-girlfriend.json](./397074-procuring-estrogen-for-your-toxic-slime-girlfriend.json) |
