@@ -510,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Will Never Forget You Because You Have Made Me the Happiest Dog on Earth | 227981 | [227981-i-will-never-forget-you-because-you-have-made-me-the-happiest-dog-on-earth.json](./227981-i-will-never-forget-you-because-you-have-made-me-the-happiest-dog-on-earth.json) |
 | I Will Return | 341876 | [341876-i-will-return.json](./341876-i-will-return.json) |
 | I Will: The Story of London | 307987 | [307987-i-will-the-story-of-london.json](./307987-i-will-the-story-of-london.json) |
+| I wish I was | 182697 | [182697-i-wish-i-was.json](./182697-i-wish-i-was.json) |
 | I Wish I Were the Moon | 55976 | [55976-i-wish-i-were-the-moon.json](./55976-i-wish-i-were-the-moon.json) |
 | I Wish it Was Morning All the Time | 237193 | [237193-i-wish-it-was-morning-all-the-time.json](./237193-i-wish-it-was-morning-all-the-time.json) |
 | I Wish You Rain | 23884 | [23884-i-wish-you-rain.json](./23884-i-wish-you-rain.json) |
@@ -1289,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Superpowers | 182300 | [182300-idle-superpowers.json](./182300-idle-superpowers.json) |
 | Idle Surge | 230733 | [230733-idle-surge.json](./230733-idle-surge.json) |
 | Idle Sweeper | 100446 | [100446-idle-sweeper.json](./100446-idle-sweeper.json) |
+| Idle Sword | 182714 | [182714-idle-sword.json](./182714-idle-sword.json) |
 | Idle Sword 2 | 56925 | [56925-idle-sword-2.json](./56925-idle-sword-2.json) |
 | Idle Tamers: Mini Monsters | 188369 | [188369-idle-tamers-mini-monsters.json](./188369-idle-tamers-mini-monsters.json) |
 | Idle Taoist Mage Warrior 2 | 298665 | [298665-idle-taoist-mage-warrior-2.json](./298665-idle-taoist-mage-warrior-2.json) |
@@ -3505,6 +3507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside the Forest | 181070 | [181070-inside-the-forest.json](./181070-inside-the-forest.json) |
 | Inside the Gear | 10437 | [10437-inside-the-gear.json](./10437-inside-the-gear.json) |
 | Inside the Labs | 251996 | [251996-inside-the-labs.json](./251996-inside-the-labs.json) |
+| Inside the loop | 182727 | [182727-inside-the-loop.json](./182727-inside-the-loop.json) |
 | Inside the Machine | 290844 | [290844-inside-the-machine.json](./290844-inside-the-machine.json) |
 | Inside the Memories | 152862 | [152862-inside-the-memories.json](./152862-inside-the-memories.json) |
 | Inside The Memory | 286216 | [286216-inside-the-memory.json](./286216-inside-the-memory.json) |
