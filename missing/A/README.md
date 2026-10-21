@@ -2815,6 +2815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventurous Slime | 337507 | [337507-adventurous-slime.json](./337507-adventurous-slime.json) |
 | Adversary Tower | 257398 | [257398-adversary-tower.json](./257398-adversary-tower.json) |
 | Adverse Effects | 258882 | [258882-adverse-effects.json](./258882-adverse-effects.json) |
+| Adversity Andy | 178302 | [178302-adversity-andy.json](./178302-adversity-andy.json) |
 | Advertising Agency | 134377 | [134377-advertising-agency.json](./134377-advertising-agency.json) |
 | Advisor: Elderly Paradigm | 383081 | [383081-advisor-elderly-paradigm.json](./383081-advisor-elderly-paradigm.json) |
 | Advisors at the End of the Universe | 122184 | [122184-advisors-at-the-end-of-the-universe.json](./122184-advisors-at-the-end-of-the-universe.json) |
