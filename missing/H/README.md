@@ -5185,6 +5185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Anime Girls | 369666 | [369666-hidden-anime-girls.json](./369666-hidden-anime-girls.json) |
 | Hidden Art: Twilight in The Museum | 294435 | [294435-hidden-art-twilight-in-the-museum.json](./294435-hidden-art-twilight-in-the-museum.json) |
 | Hidden Battle Top-Down 3D | 205004 | [205004-hidden-battle-top-down-3d.json](./205004-hidden-battle-top-down-3d.json) |
+| Hidden Beast | 189347 | [189347-hidden-beast.json](./189347-hidden-beast.json) |
 | Hidden Breaking Bed: Top-Down 3D | 269980 | [269980-hidden-breaking-bed-top-down-3d.json](./269980-hidden-breaking-bed-top-down-3d.json) |
 | Hidden Build Top-Down 3D | 192220 | [192220-hidden-build-top-down-3d.json](./192220-hidden-build-top-down-3d.json) |
 | Hidden Capybaras with Orange | 279502 | [279502-hidden-capybaras-with-orange.json](./279502-hidden-capybaras-with-orange.json) |
@@ -9461,6 +9462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Button | 76180 | [76180-hyper-button.json](./76180-hyper-button.json) |
 | Hyper Cards | 209936 | [209936-hyper-cards.json](./209936-hyper-cards.json) |
 | Hyper Cars Ramp Crash | 398271 | [398271-hyper-cars-ramp-crash.json](./398271-hyper-cars-ramp-crash.json) |
+| Hyper Catch | 189361 | [189361-hyper-catch.json](./189361-hyper-catch.json) |
 | Hyper Chess | 353916 | [353916-hyper-chess.json](./353916-hyper-chess.json) |
 | Hyper City Parkour | 371545 | [371545-hyper-city-parkour.json](./371545-hyper-city-parkour.json) |
 | Hyper Contender | 318714 | [318714-hyper-contender.json](./318714-hyper-contender.json) |
