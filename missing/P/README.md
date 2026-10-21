@@ -617,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paintings Restoration | 329576 | [329576-paintings-restoration.json](./329576-paintings-restoration.json) |
 | PaintPool | 334754 | [334754-paintpool.json](./334754-paintpool.json) |
 | Painturio | 188609 | [188609-painturio.json](./188609-painturio.json) |
+| Painty Mob | 193769 | [193769-painty-mob.json](./193769-painty-mob.json) |
 | Painwives | 419852 | [419852-painwives.json](./419852-painwives.json) |
 | Paio Hazard | 134630 | [134630-paio-hazard.json](./134630-paio-hazard.json) |
 | Pair Horror | 309061 | [309061-pair-horror.json](./309061-pair-horror.json) |
@@ -3322,6 +3323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Apocalypse: The Day After | 304128 | [304128-perfect-apocalypse-the-day-after.json](./304128-perfect-apocalypse-the-day-after.json) |
 | Perfect Assassin | 73366 | [73366-perfect-assassin.json](./73366-perfect-assassin.json) |
 | Perfect Balance | 186259 | [186259-perfect-balance.json](./186259-perfect-balance.json) |
+| Perfect Balance Collection | 193640 | [193640-perfect-balance-collection.json](./193640-perfect-balance-collection.json) |
 | Perfect Ball | 225542 | [225542-perfect-ball.json](./225542-perfect-ball.json) |
 | Perfect Bird Pitch | 270650 | [270650-perfect-bird-pitch.json](./270650-perfect-bird-pitch.json) |
 | Perfect Blue | 24149 | [24149-perfect-blue.json](./24149-perfect-blue.json) |
@@ -4335,6 +4337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phone Flipper Simulator | 390787 | [390787-phone-flipper-simulator.json](./390787-phone-flipper-simulator.json) |
 | Phone Story | 62455 | [62455-phone-story.json](./62455-phone-story.json) |
 | Phonequest | 134694 | [134694-phonequest.json](./134694-phonequest.json) |
+| Phonetic | 193647 | [193647-phonetic.json](./193647-phonetic.json) |
 | Phonics Fun with Biff, Chip & Kipper Vol. 1 | 61657 | [61657-phonics-fun-with-biff-chip-and-kipper-vol-1.json](./61657-phonics-fun-with-biff-chip-and-kipper-vol-1.json) |
 | Phonics-Diagraphsgame | 96535 | [96535-phonics-diagraphsgame.json](./96535-phonics-diagraphsgame.json) |
 | Phoning Home | 27116 | [27116-phoning-home.json](./27116-phoning-home.json) |
@@ -9853,6 +9856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Knights: Elves, Rogues, and Rifts | 170872 | [170872-portal-knights-elves-rogues-and-rifts.json](./170872-portal-knights-elves-rogues-and-rifts.json) |
 | Portal Knights: Legendary Edition | 166156 | [166156-portal-knights-legendary-edition.json](./166156-portal-knights-legendary-edition.json) |
 | Portal Knights: Portal Pioneer Pack | 170873 | [170873-portal-knights-portal-pioneer-pack.json](./170873-portal-knights-portal-pioneer-pack.json) |
+| Portal Maze 2 | 193776 | [193776-portal-maze-2.json](./193776-portal-maze-2.json) |
 | Portal Mortal | 156713 | [156713-portal-mortal.json](./156713-portal-mortal.json) |
 | Portal of Evil: Stolen Runes | 77206 | [77206-portal-of-evil-stolen-runes.json](./77206-portal-of-evil-stolen-runes.json) |
 | Portal Panic | 268001 | [268001-portal-panic.json](./268001-portal-panic.json) |
