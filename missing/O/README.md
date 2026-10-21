@@ -788,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offroad Truck Simulator | 308505 | [308505-offroad-truck-simulator.json](./308505-offroad-truck-simulator.json) |
 | Offroad Truck Simulator: Heavy Duty Challenge | 165381 | [165381-offroad-truck-simulator-heavy-duty-challenge.json](./165381-offroad-truck-simulator-heavy-duty-challenge.json) |
 | Offroad VR | 278962 | [278962-offroad-vr.json](./278962-offroad-vr.json) |
+| Offroad: Dead Planet | 189874 | [189874-offroad-dead-planet.json](./189874-offroad-dead-planet.json) |
 | Offroad: VR | 31092 | [31092-offroad-vr.json](./31092-offroad-vr.json) |
 | Offsea | 235761 | [235761-offsea.json](./235761-offsea.json) |
 | Offshore Fishing | 387692 | [387692-offshore-fishing.json](./387692-offshore-fishing.json) |
@@ -4431,6 +4432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Owari no Kane ga Naru mae ni: Chapter 2 | 263135 | [263135-owari-no-kane-ga-naru-mae-ni-chapter-2.json](./263135-owari-no-kane-ga-naru-mae-ni-chapter-2.json) |
 | Owarinaki Natsu, Towa Naru Shirabe | 202383 | [202383-owarinaki-natsu-towa-naru-shirabe.json](./202383-owarinaki-natsu-towa-naru-shirabe.json) |
 | Owaru Sekai to Birthday | 144629 | [144629-owaru-sekai-to-birthday.json](./144629-owaru-sekai-to-birthday.json) |
+| Owata's Action Online | 189995 | [189995-owatas-action-online.json](./189995-owatas-action-online.json) |
 | Owe Money Pay Money | 301251 | [301251-owe-money-pay-money.json](./301251-owe-money-pay-money.json) |
 | Owen to have fun! | 101363 | [101363-owen-to-have-fun.json](./101363-owen-to-have-fun.json) |
 | Owinka Shooter | 211614 | [211614-owinka-shooter.json](./211614-owinka-shooter.json) |
