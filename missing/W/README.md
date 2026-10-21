@@ -1318,6 +1318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlock II: Great Mage Edition | 53910 | [53910-warlock-ii-great-mage-edition.json](./53910-warlock-ii-great-mage-edition.json) |
 | Warlock II: The Exiled - Three Mighty Mages | 170789 | [170789-warlock-ii-the-exiled-three-mighty-mages.json](./170789-warlock-ii-the-exiled-three-mighty-mages.json) |
 | Warlock II: The Exiled - Wrath of the Nagas | 19207 | [19207-warlock-ii-the-exiled-wrath-of-the-nagas.json](./19207-warlock-ii-the-exiled-wrath-of-the-nagas.json) |
+| Warlock of Firetop Mountain | 200318 | [200318-warlock-of-firetop-mountain.json](./200318-warlock-of-firetop-mountain.json) |
 | Warlock Quest II | 75228 | [75228-warlock-quest-ii.json](./75228-warlock-quest-ii.json) |
 | Warlock Survivors | 244215 | [244215-warlock-survivors.json](./244215-warlock-survivors.json) |
 | Warlock The Bounty Hunter | 262296 | [262296-warlock-the-bounty-hunter.json](./262296-warlock-the-bounty-hunter.json) |
@@ -2084,6 +2085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WCP Word Girlfriend | 259058 | [259058-wcp-word-girlfriend.json](./259058-wcp-word-girlfriend.json) |
 | WCW Diamond Dallas Page | 198955 | [198955-wcw-diamond-dallas-page.json](./198955-wcw-diamond-dallas-page.json) |
 | WCW Hollywood Hulk Hogan Power Fighter | 198958 | [198958-wcw-hollywood-hulk-hogan-power-fighter.json](./198958-wcw-hollywood-hulk-hogan-power-fighter.json) |
+| WCW Mayhem | 200415 | [200415-wcw-mayhem.json](./200415-wcw-mayhem.json) |
 | WCW Mayhem | 3633 | [3633-wcw-mayhem.json](./3633-wcw-mayhem.json) |
 | WCW Nitro | 3634 | [3634-wcw-nitro.json](./3634-wcw-nitro.json) |
 | WCW Nitro Giant | 198961 | [198961-wcw-nitro-giant.json](./198961-wcw-nitro-giant.json) |
@@ -3634,6 +3636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who said Meow | 53125 | [53125-who-said-meow.json](./53125-who-said-meow.json) |
 | Who Shot James R. Burnside? | 302493 | [302493-who-shot-james-r-burnside.json](./302493-who-shot-james-r-burnside.json) |
 | Who Shot Johnny Rock? | 4281 | [4281-who-shot-johnny-rock.json](./4281-who-shot-johnny-rock.json) |
+| Who Shuffled My Shapes? | 200413 | [200413-who-shuffled-my-shapes.json](./200413-who-shuffled-my-shapes.json) |
 | Who Stole Me? | 247168 | [247168-who-stole-me.json](./247168-who-stole-me.json) |
 | Who Stole My Beard? | 132747 | [132747-who-stole-my-beard.json](./132747-who-stole-my-beard.json) |
 | Who Stole My Bone? | 177361 | [177361-who-stole-my-bone.json](./177361-who-stole-my-bone.json) |
@@ -5402,6 +5405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Pets!: Save the Puppy! | 205888 | [205888-wonder-pets-save-the-puppy.json](./205888-wonder-pets-save-the-puppy.json) |
 | Wonder Planet | 40245 | [40245-wonder-planet.json](./40245-wonder-planet.json) |
 | Wonder Planets | 196524 | [196524-wonder-planets.json](./196524-wonder-planets.json) |
+| Wonder Pot | 200355 | [200355-wonder-pot.json](./200355-wonder-pot.json) |
 | Wonder Protocol | 413467 | [413467-wonder-protocol.json](./413467-wonder-protocol.json) |
 | Wonder Stick | 40162 | [40162-wonder-stick.json](./40162-wonder-stick.json) |
 | Wonder Tactics | 59030 | [59030-wonder-tactics.json](./59030-wonder-tactics.json) |
@@ -7136,6 +7140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE WrestleMania 21 | 6251 | [6251-wwe-wrestlemania-21.json](./6251-wwe-wrestlemania-21.json) |
 | WWE WrestleMania X8 | 4573 | [4573-wwe-wrestlemania-x8.json](./4573-wwe-wrestlemania-x8.json) |
 | WWE WrestleMania XIX | 4574 | [4574-wwe-wrestlemania-xix.json](./4574-wwe-wrestlemania-xix.json) |
+| WWF Attitude | 200414 | [200414-wwf-attitude.json](./200414-wwf-attitude.json) |
 | WWF Attitude | 3643 | [3643-wwf-attitude.json](./3643-wwf-attitude.json) |
 | WWF King of the Ring | 265031 | [265031-wwf-king-of-the-ring.json](./265031-wwf-king-of-the-ring.json) |
 | WWF King of the Ring | 48707 | [48707-wwf-king-of-the-ring.json](./48707-wwf-king-of-the-ring.json) |
