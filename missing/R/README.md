@@ -926,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway Empire: Northern Europe | 145502 | [145502-railway-empire-northern-europe.json](./145502-railway-empire-northern-europe.json) |
 | Railway Empire: The Great Lakes | 124834 | [124834-railway-empire-the-great-lakes.json](./124834-railway-empire-the-great-lakes.json) |
 | Railway Inferno | 346095 | [346095-railway-inferno.json](./346095-railway-inferno.json) |
+| Railway Islands | 195424 | [195424-railway-islands.json](./195424-railway-islands.json) |
 | Railway Islands 2 | 270942 | [270942-railway-islands-2.json](./270942-railway-islands-2.json) |
 | Railway Mogul | 91548 | [91548-railway-mogul.json](./91548-railway-mogul.json) |
 | Railway Operation Simulator | 214615 | [214615-railway-operation-simulator.json](./214615-railway-operation-simulator.json) |
@@ -4154,6 +4155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reset | 305373 | [305373-reset.json](./305373-reset.json) |
 | Reset Co. | 180620 | [180620-reset-co.json](./180620-reset-co.json) |
 | Reset Day | 396552 | [396552-reset-day.json](./396552-reset-day.json) |
+| Reset Memory | 195545 | [195545-reset-memory.json](./195545-reset-memory.json) |
 | Resettle | 417573 | [417573-resettle.json](./417573-resettle.json) |
 | Resfort | 31687 | [31687-resfort.json](./31687-resfort.json) |
 | Reshape | 255729 | [255729-reshape.json](./255729-reshape.json) |
@@ -4883,6 +4885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge on the Streets | 119726 | [119726-revenge-on-the-streets.json](./119726-revenge-on-the-streets.json) |
 | Revenge Quest | 30040 | [30040-revenge-quest.json](./30040-revenge-quest.json) |
 | Revenge Request | 295533 | [295533-revenge-request.json](./295533-revenge-request.json) |
+| Revenge Story | 195540 | [195540-revenge-story.json](./195540-revenge-story.json) |
 | Revenge: Jane The Killer | 286569 | [286569-revenge-jane-the-killer.json](./286569-revenge-jane-the-killer.json) |
 | Revenge: Rhobar's myth | 17864 | [17864-revenge-rhobars-myth.json](./17864-revenge-rhobars-myth.json) |
 | Revenger | 164983 | [164983-revenger.json](./164983-revenger.json) |
@@ -5222,6 +5225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Stones | 223308 | [223308-rhythm-stones.json](./223308-rhythm-stones.json) |
 | Rhythm Stones | 223609 | [223609-rhythm-stones.json](./223609-rhythm-stones.json) |
 | Rhythm Storm | 239180 | [239180-rhythm-storm.json](./239180-rhythm-storm.json) |
+| Rhythm Story | 195396 | [195396-rhythm-story.json](./195396-rhythm-story.json) |
 | Rhythm Taichi | 193797 | [193797-rhythm-taichi.json](./193797-rhythm-taichi.json) |
 | Rhythm Taichi XR | 391297 | [391297-rhythm-taichi-xr.json](./391297-rhythm-taichi-xr.json) |
 | Rhythm Tengoku | 210730 | [210730-rhythm-tengoku.json](./210730-rhythm-tengoku.json) |
