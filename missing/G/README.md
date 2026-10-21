@@ -5226,6 +5226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Catch! | 391682 | [391682-good-catch.json](./391682-good-catch.json) |
 | Good Children Say Grace | 404251 | [404251-good-children-say-grace.json](./404251-good-children-say-grace.json) |
 | Good Company | 107754 | [107754-good-company.json](./107754-good-company.json) |
+| Good Dog | 176711 | [176711-good-dog.json](./176711-good-dog.json) |
 | Good Doggo | 99627 | [99627-good-doggo.json](./99627-good-doggo.json) |
 | Good Dreams | 381132 | [381132-good-dreams.json](./381132-good-dreams.json) |
 | Good Eggzample | 68749 | [68749-good-eggzample.json](./68749-good-eggzample.json) |
