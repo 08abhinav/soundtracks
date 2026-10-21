@@ -4037,6 +4037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kor | 183561 | [183561-kor.json](./183561-kor.json) |
 | Kör Comp | 128898 | [128898-kor-comp.json](./128898-kor-comp.json) |
 | Kora: Neural Gridlock | 416569 | [416569-kora-neural-gridlock.json](./416569-kora-neural-gridlock.json) |
+| Korax' Heritage: Scattered Evil | 200968 | [200968-korax-heritage-scattered-evil.json](./200968-korax-heritage-scattered-evil.json) |
 | Kore ga Pro Yakyuu '89 | 42037 | [42037-kore-ga-pro-yakyuu-89.json](./42037-kore-ga-pro-yakyuu-89.json) |
 | Kore ga Pro Yakyuu '90 | 37686 | [37686-kore-ga-pro-yakyuu-90.json](./37686-kore-ga-pro-yakyuu-90.json) |
 | Kore VR | 244170 | [244170-kore-vr.json](./244170-kore-vr.json) |
@@ -4740,6 +4741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyoto | 128630 | [128630-kyoto.json](./128630-kyoto.json) |
 | Kyoto Anomaly | 342108 | [342108-kyoto-anomaly.json](./342108-kyoto-anomaly.json) |
 | Kyoto Maiko Monogatari | 333558 | [333558-kyoto-maiko-monogatari.json](./333558-kyoto-maiko-monogatari.json) |
+| Kyou Kara Maou!: Hajimari no Tabi | 200991 | [200991-kyou-kara-maou-hajimari-no-tabi.json](./200991-kyou-kara-maou-hajimari-no-tabi.json) |
 | Kyou kara Tsukaeru Hisshou Business Shinrigaku | 261376 | [261376-kyou-kara-tsukaeru-hisshou-business-shinrigaku.json](./261376-kyou-kara-tsukaeru-hisshou-business-shinrigaku.json) |
 | Kyou no Sekai: Crazy World | 166039 | [166039-kyou-no-sekai-crazy-world.json](./166039-kyou-no-sekai-crazy-world.json) |
 | Kyouai Renka | 285376 | [285376-kyouai-renka.json](./285376-kyouai-renka.json) |
