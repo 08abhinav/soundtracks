@@ -1120,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep in touch | 75652 | [75652-keep-in-touch.json](./75652-keep-in-touch.json) |
 | Keep it alive! | 311680 | [311680-keep-it-alive.json](./311680-keep-it-alive.json) |
 | Keep It Contained | 390028 | [390028-keep-it-contained.json](./390028-keep-it-contained.json) |
+| Keep it Cool, Man | 202625 | [202625-keep-it-cool-man.json](./202625-keep-it-cool-man.json) |
 | Keep it Live | 194666 | [194666-keep-it-live.json](./194666-keep-it-live.json) |
 | Keep It Running | 283747 | [283747-keep-it-running.json](./283747-keep-it-running.json) |
 | Keep It Running: Together | 330692 | [330692-keep-it-running-together.json](./330692-keep-it-running-together.json) |
@@ -3680,6 +3681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kobal 2 | 274133 | [274133-kobal-2.json](./274133-kobal-2.json) |
 | Kobayakawa-san is a Souls-like | 413066 | [413066-kobayakawa-san-is-a-souls-like.json](./413066-kobayakawa-san-is-a-souls-like.json) |
 | Kobayashi Clash of Conquest | 397932 | [397932-kobayashi-clash-of-conquest.json](./397932-kobayashi-clash-of-conquest.json) |
+| Kobayashi ga Kawai Sugite Tsurai!! Game Demo Kyun Moe Max ga Tomaranai | 202610 | [202610-kobayashi-ga-kawai-sugite-tsurai-game-demo-kyun-moe-max-ga-tomaranai.json](./202610-kobayashi-ga-kawai-sugite-tsurai-game-demo-kyun-moe-max-ga-tomaranai.json) |
 | Kobayashi Hitomi no Hold Up | 41348 | [41348-kobayashi-hitomi-no-hold-up.json](./41348-kobayashi-hitomi-no-hold-up.json) |
 | KobberParty - Castle Explorer | 130228 | [130228-kobberparty-castle-explorer.json](./130228-kobberparty-castle-explorer.json) |
 | Kobe Bryant in NBA Courtside | 3397 | [3397-kobe-bryant-in-nba-courtside.json](./3397-kobe-bryant-in-nba-courtside.json) |
