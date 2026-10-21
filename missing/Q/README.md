@@ -480,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarto | 104795 | [104795-quarto.json](./104795-quarto.json) |
 | Quartz | 15352 | [15352-quartz.json](./15352-quartz.json) |
 | Quartz's Quest | 245036 | [245036-quartzs-quest.json](./245036-quartzs-quest.json) |
+| Quasar | 198123 | [198123-quasar.json](./198123-quasar.json) |
 | Quasara | 110191 | [110191-quasara.json](./110191-quasara.json) |
 | Quase Rosa | 373857 | [373857-quase-rosa.json](./373857-quase-rosa.json) |
 | Quash | 137473 | [137473-quash.json](./137473-quash.json) |
