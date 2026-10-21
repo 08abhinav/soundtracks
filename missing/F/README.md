@@ -4655,6 +4655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefox Boulder Dash 01 | 116158 | [116158-firefox-boulder-dash-01.json](./116158-firefox-boulder-dash-01.json) |
 | Firefrost | 286091 | [286091-firefrost.json](./286091-firefrost.json) |
 | Firegirl: Hack 'n Splash Rescue | 117527 | [117527-firegirl-hack-n-splash-rescue.json](./117527-firegirl-hack-n-splash-rescue.json) |
+| Firegirl: Hack 'n Splash Rescue DX | 204287 | [204287-firegirl-hack-n-splash-rescue-dx.json](./204287-firegirl-hack-n-splash-rescue-dx.json) |
 | FireGrid | 416588 | [416588-firegrid.json](./416588-firegrid.json) |
 | Fireground | 115146 | [115146-fireground.json](./115146-fireground.json) |
 | Firehawk: Swarmbreakers | 323362 | [323362-firehawk-swarmbreakers.json](./323362-firehawk-swarmbreakers.json) |
