@@ -6443,6 +6443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Soccer Champs | 261178 | [261178-world-soccer-champs.json](./261178-world-soccer-champs.json) |
 | World Soccer Cup 2022 | 221691 | [221691-world-soccer-cup-2022.json](./221691-world-soccer-cup-2022.json) |
 | World Soccer Finals | 38560 | [38560-world-soccer-finals.json](./38560-world-soccer-finals.json) |
+| World Soccer Jikkyou Winning Eleven 3: World Cup France '98 | 181573 | [181573-world-soccer-jikkyou-winning-eleven-3-world-cup-france-98.json](./181573-world-soccer-jikkyou-winning-eleven-3-world-cup-france-98.json) |
 | World Soccer Kid | 196827 | [196827-world-soccer-kid.json](./196827-world-soccer-kid.json) |
 | World Soccer King | 102698 | [102698-world-soccer-king.json](./102698-world-soccer-king.json) |
 | World Soccer Strikers '91 | 139423 | [139423-world-soccer-strikers-91.json](./139423-world-soccer-strikers-91.json) |
