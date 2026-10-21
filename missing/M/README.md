@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mace and Grace | 117465 | [117465-mace-and-grace.json](./117465-mace-and-grace.json) |
 | Mace Griffin: Bounty Hunter | 5904 | [5904-mace-griffin-bounty-hunter.json](./5904-mace-griffin-bounty-hunter.json) |
 | Mace Knight | 391572 | [391572-mace-knight.json](./391572-mace-knight.json) |
+| Mace: Mapinguari's Temple | 185948 | [185948-mace-mapinguaris-temple.json](./185948-mace-mapinguaris-temple.json) |
 | Mace: The Dark Age | 3535 | [3535-mace-the-dark-age.json](./3535-mace-the-dark-age.json) |
 | Maces and Dices | 252028 | [252028-maces-and-dices.json](./252028-maces-and-dices.json) |
 | MacGolf | 288706 | [288706-macgolf.json](./288706-macgolf.json) |
@@ -6137,6 +6138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megalopolis SOS | 138004 | [138004-megalopolis-sos.json](./138004-megalopolis-sos.json) |
 | Megalothymia: Mokusei Zettai Bouei-ken - Heaven's Fall | 267657 | [267657-megalothymia-mokusei-zettai-bouei-ken-heavens-fall.json](./267657-megalothymia-mokusei-zettai-bouei-ken-heavens-fall.json) |
 | Megalotrain | 285551 | [285551-megalotrain.json](./285551-megalotrain.json) |
+| MegaMacho Oco | 185926 | [185926-megamacho-oco.json](./185926-megamacho-oco.json) |
 | Megamagic: Wizards of the Neon Age | 25610 | [25610-megamagic-wizards-of-the-neon-age.json](./25610-megamagic-wizards-of-the-neon-age.json) |
 | MegaMan NT Warrior Advanced PET | 336716 | [336716-megaman-nt-warrior-advanced-pet.json](./336716-megaman-nt-warrior-advanced-pet.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - 001: Cannon | 352838 | [352838-megaman-nt-warrior-advanced-pet-battle-chip-001-cannon.json](./352838-megaman-nt-warrior-advanced-pet-battle-chip-001-cannon.json) |
