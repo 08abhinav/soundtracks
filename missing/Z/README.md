@@ -596,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeph | 133173 | [133173-zeph.json](./133173-zeph.json) |
 | Zephinala | 288446 | [288446-zephinala.json](./288446-zephinala.json) |
 | Zephyr | 327268 | [327268-zephyr.json](./327268-zephyr.json) |
+| Zephyr: The Cloud Odyssey | 182707 | [182707-zephyr-the-cloud-odyssey.json](./182707-zephyr-the-cloud-odyssey.json) |
 | Zephyr's Pass | 320282 | [320282-zephyrs-pass.json](./320282-zephyrs-pass.json) |
 | Zeppelin | 23871 | [23871-zeppelin.json](./23871-zeppelin.json) |
 | Zeppelin Rescue | 297034 | [297034-zeppelin-rescue.json](./297034-zeppelin-rescue.json) |
