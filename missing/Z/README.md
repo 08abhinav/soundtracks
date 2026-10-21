@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zengeon | 122953 | [122953-zengeon.json](./122953-zengeon.json) |
 | Zengoku Juudan Ultra Shinri Game | 37745 | [37745-zengoku-juudan-ultra-shinri-game.json](./37745-zengoku-juudan-ultra-shinri-game.json) |
 | Zengrams | 68948 | [68948-zengrams.json](./68948-zengrams.json) |
+| Zenite | 187720 | [187720-zenite.json](./187720-zenite.json) |
 | Zenith | 24439 | [24439-zenith.json](./24439-zenith.json) |
 | Zenith | 377137 | [377137-zenith.json](./377137-zenith.json) |
 | Zenith | 78723 | [78723-zenith.json](./78723-zenith.json) |
