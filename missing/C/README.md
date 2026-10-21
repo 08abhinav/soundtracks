@@ -5135,6 +5135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chesscake | 132626 | [132626-chesscake.json](./132626-chesscake.json) |
 | Chesscape Room | 378891 | [378891-chesscape-room.json](./378891-chesscape-room.json) |
 | Chesscent | 406666 | [406666-chesscent.json](./406666-chesscent.json) |
+| ChessCraft | 189885 | [189885-chesscraft.json](./189885-chesscraft.json) |
 | Chessemble | 372052 | [372052-chessemble.json](./372052-chessemble.json) |
 | ChesseR | 78700 | [78700-chesser.json](./78700-chesser.json) |
 | Chessie Chicken | 195611 | [195611-chessie-chicken.json](./195611-chessie-chicken.json) |
@@ -9349,6 +9350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorspace | 254398 | [254398-colorspace.json](./254398-colorspace.json) |
 | ColorSpill Ball | 334751 | [334751-colorspill-ball.json](./334751-colorspill-ball.json) |
 | ColorSweeper | 319413 | [319413-colorsweeper.json](./319413-colorsweeper.json) |
+| Colortone: Remixed | 189880 | [189880-colortone-remixed.json](./189880-colortone-remixed.json) |
 | ColorTris | 178620 | [178620-colortris.json](./178620-colortris.json) |
 | Coloruid | 409892 | [409892-coloruid.json](./409892-coloruid.json) |
 | ColorUs : My Coloring Books | 99401 | [99401-colorus-my-coloring-books.json](./99401-colorus-my-coloring-books.json) |
@@ -15332,6 +15334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Furry Girl | 230138 | [230138-cyber-furry-girl.json](./230138-cyber-furry-girl.json) |
 | Cyber Girl 1.0: Booting | 154585 | [154585-cyber-girl-1-0-booting.json](./154585-cyber-girl-1-0-booting.json) |
 | Cyber Girls | 376754 | [376754-cyber-girls.json](./376754-cyber-girls.json) |
+| Cyber Girls 2022 | 189878 | [189878-cyber-girls-2022.json](./189878-cyber-girls-2022.json) |
 | Cyber Grannies | 307383 | [307383-cyber-grannies.json](./307383-cyber-grannies.json) |
 | Cyber Gunner | 208095 | [208095-cyber-gunner.json](./208095-cyber-gunner.json) |
 | Cyber Hamster Tilt | 186049 | [186049-cyber-hamster-tilt.json](./186049-cyber-hamster-tilt.json) |
