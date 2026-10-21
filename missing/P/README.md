@@ -3265,6 +3265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pepper Girl | 226191 | [226191-pepper-girl.json](./226191-pepper-girl.json) |
 | Pepper Pengui | 363046 | [363046-pepper-pengui.json](./363046-pepper-pengui.json) |
 | Pepper Rush | 382890 | [382890-pepper-rush.json](./382890-pepper-rush.json) |
+| Pepper's Castle | 195398 | [195398-peppers-castle.json](./195398-peppers-castle.json) |
 | Pepper's Puzzles | 52085 | [52085-peppers-puzzles.json](./52085-peppers-puzzles.json) |
 | Peppered: An Existential Platformer | 170018 | [170018-peppered-an-existential-platformer.json](./170018-peppered-an-existential-platformer.json) |
 | Peppermint Falls | 290527 | [290527-peppermint-falls.json](./290527-peppermint-falls.json) |
@@ -9573,6 +9574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop the Jewel | 233435 | [233435-pop-the-jewel.json](./233435-pop-the-jewel.json) |
 | Pop the Lock | 256976 | [256976-pop-the-lock.json](./256976-pop-the-lock.json) |
 | Pop This Pop-It | 163189 | [163189-pop-this-pop-it.json](./163189-pop-this-pop-it.json) |
+| Pop Top Adventure | 195538 | [195538-pop-top-adventure.json](./195538-pop-top-adventure.json) |
 | Pop Town | 26561 | [26561-pop-town.json](./26561-pop-town.json) |
 | Pop Up Computer | 285034 | [285034-pop-up-computer.json](./285034-pop-up-computer.json) |
 | Pop-a-Chick | 232043 | [232043-pop-a-chick.json](./232043-pop-a-chick.json) |
@@ -14074,6 +14076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle: Lines and Knots - Levels Pack 2 | 163437 | [163437-puzzle-lines-and-knots-levels-pack-2.json](./163437-puzzle-lines-and-knots-levels-pack-2.json) |
 | Puzzle: Lines and Knots - Levels Pack 3 | 163438 | [163438-puzzle-lines-and-knots-levels-pack-3.json](./163438-puzzle-lines-and-knots-levels-pack-3.json) |
 | Puzzle: Lines and Knots 2 - Free Levels Pack | 293426 | [293426-puzzle-lines-and-knots-2-free-levels-pack.json](./293426-puzzle-lines-and-knots-2-free-levels-pack.json) |
+| Puzzle: Nature | 195418 | [195418-puzzle-nature.json](./195418-puzzle-nature.json) |
 | Puzzle: Nature 2 | 213980 | [213980-puzzle-nature-2.json](./213980-puzzle-nature-2.json) |
 | Puzzle: Ocean | 116941 | [116941-puzzle-ocean.json](./116941-puzzle-ocean.json) |
 | Puzzle: Stone Blocks | 163555 | [163555-puzzle-stone-blocks.json](./163555-puzzle-stone-blocks.json) |
