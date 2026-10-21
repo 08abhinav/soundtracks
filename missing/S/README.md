@@ -7434,6 +7434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuttlecock-H | 344464 | [344464-shuttlecock-h.json](./344464-shuttlecock-h.json) |
 | Shuttlecock-H: Covered Rematch | 390169 | [390169-shuttlecock-h-covered-rematch.json](./390169-shuttlecock-h-covered-rematch.json) |
 | Shuuchaku Gakuen | 335668 | [335668-shuuchaku-gakuen.json](./335668-shuuchaku-gakuen.json) |
+| Shuuchakueki | 197568 | [197568-shuuchakueki.json](./197568-shuuchakueki.json) |
 | Shuuen ~Another World~ | 151826 | [151826-shuuen-another-world.json](./151826-shuuen-another-world.json) |
 | Shuugoku no Seventh Heim | 221259 | [221259-shuugoku-no-seventh-heim.json](./221259-shuugoku-no-seventh-heim.json) |
 | Shuujin he no Pert-em-Hru | 146169 | [146169-shuujin-he-no-pert-em-hru.json](./146169-shuujin-he-no-pert-em-hru.json) |
@@ -10133,6 +10134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slicy Flips | 322977 | [322977-slicy-flips.json](./322977-slicy-flips.json) |
 | Slide | 139709 | [139709-slide.json](./139709-slide.json) |
 | Slide | 275456 | [275456-slide.json](./275456-slide.json) |
+| Slide 'Em Up | 197548 | [197548-slide-em-up.json](./197548-slide-em-up.json) |
 | Slide & Magic | 390729 | [390729-slide-and-magic.json](./390729-slide-and-magic.json) |
 | Slide 2 Solve Puzzle | 175341 | [175341-slide-2-solve-puzzle.json](./175341-slide-2-solve-puzzle.json) |
 | Slide And Perform | 340958 | [340958-slide-and-perform.json](./340958-slide-and-perform.json) |
@@ -18241,6 +18243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Melody: Yumemi Dreamer - Chapter 11 | 196156 | [196156-star-melody-yumemi-dreamer-chapter-11.json](./196156-star-melody-yumemi-dreamer-chapter-11.json) |
 | Star Melody: Yumemi Dreamer - Chapter 3 | 193147 | [193147-star-melody-yumemi-dreamer-chapter-3.json](./193147-star-melody-yumemi-dreamer-chapter-3.json) |
 | Star Melody: Yumemi Dreamer - Chapter 4 | 191052 | [191052-star-melody-yumemi-dreamer-chapter-4.json](./191052-star-melody-yumemi-dreamer-chapter-4.json) |
+| Star Melody: Yumemi Dreamer - Chapter 5 | 197547 | [197547-star-melody-yumemi-dreamer-chapter-5.json](./197547-star-melody-yumemi-dreamer-chapter-5.json) |
 | Star Melody: Yumemi Dreamer - Chapter 6 | 193146 | [193146-star-melody-yumemi-dreamer-chapter-6.json](./193146-star-melody-yumemi-dreamer-chapter-6.json) |
 | Star Melody: Yumemi Dreamer - Chapter 7 | 193145 | [193145-star-melody-yumemi-dreamer-chapter-7.json](./193145-star-melody-yumemi-dreamer-chapter-7.json) |
 | Star Melody: Yumemi Dreamer - Chapter 8 | 193144 | [193144-star-melody-yumemi-dreamer-chapter-8.json](./193144-star-melody-yumemi-dreamer-chapter-8.json) |
@@ -25611,6 +25614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supersonic | 265741 | [265741-supersonic.json](./265741-supersonic.json) |
 | Supersonic Acrobatic Rocket-Powered Battle-Cars | 11009 | [11009-supersonic-acrobatic-rocket-powered-battle-cars.json](./11009-supersonic-acrobatic-rocket-powered-battle-cars.json) |
 | Supersonic Fight | 216712 | [216712-supersonic-fight.json](./216712-supersonic-fight.json) |
+| Supersonic HD | 197682 | [197682-supersonic-hd.json](./197682-supersonic-hd.json) |
 | Supersonic Highway Defenders | 355559 | [355559-supersonic-highway-defenders.json](./355559-supersonic-highway-defenders.json) |
 | Supersonic Mario | 308471 | [308471-supersonic-mario.json](./308471-supersonic-mario.json) |
 | Supersonic Rhyme Chamber | 172444 | [172444-supersonic-rhyme-chamber.json](./172444-supersonic-rhyme-chamber.json) |
