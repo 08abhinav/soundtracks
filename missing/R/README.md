@@ -2699,6 +2699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reckpunk | 32262 | [32262-reckpunk.json](./32262-reckpunk.json) |
 | Reclaim | 366721 | [366721-reclaim.json](./366721-reclaim.json) |
 | Reclaim | 405688 | [405688-reclaim.json](./405688-reclaim.json) |
+| Reclaim Earth | 177730 | [177730-reclaim-earth.json](./177730-reclaim-earth.json) |
 | Reclaim the Sea | 216954 | [216954-reclaim-the-sea.json](./216954-reclaim-the-sea.json) |
 | Reclaimer | 404308 | [404308-reclaimer.json](./404308-reclaimer.json) |
 | Reclaiming the Lost | 340716 | [340716-reclaiming-the-lost.json](./340716-reclaiming-the-lost.json) |
@@ -3967,6 +3968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repkiss | 143444 | [143444-repkiss.json](./143444-repkiss.json) |
 | Replacement | 182763 | [182763-replacement.json](./182763-replacement.json) |
 | ReplaceR | 251372 | [251372-replacer.json](./251372-replacer.json) |
+| Replanet | 177736 | [177736-replanet.json](./177736-replanet.json) |
 | Replay | 288037 | [288037-replay.json](./288037-replay.json) |
 | Replay Boys | 259188 | [259188-replay-boys.json](./259188-replay-boys.json) |
 | Replay Value: Second Hand Games | 347748 | [347748-replay-value-second-hand-games.json](./347748-replay-value-second-hand-games.json) |
