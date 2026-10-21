@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Scenes | 68538 | [68538-ocean-scenes.json](./68538-ocean-scenes.json) |
 | Ocean Scramble: Age of Exploration | 261863 | [261863-ocean-scramble-age-of-exploration.json](./261863-ocean-scramble-age-of-exploration.json) |
 | Ocean Trader | 71776 | [71776-ocean-trader.json](./71776-ocean-trader.json) |
+| Ocean Tribes | 176174 | [176174-ocean-tribes.json](./176174-ocean-tribes.json) |
 | Ocean Voyager | 209028 | [209028-ocean-voyager.json](./209028-ocean-voyager.json) |
 | Ocean World: Eden Crafters Prologue | 405664 | [405664-ocean-world-eden-crafters-prologue.json](./405664-ocean-world-eden-crafters-prologue.json) |
 | Ocean's Crabellum | 74372 | [74372-oceans-crabellum.json](./74372-oceans-crabellum.json) |
@@ -2011,6 +2012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Putt Wonder | 181709 | [181709-one-putt-wonder.json](./181709-one-putt-wonder.json) |
 | One Py Berry Match | 97317 | [97317-one-py-berry-match.json](./97317-one-py-berry-match.json) |
 | One Question and You'll Want to Share It! 1000 Trivia Quiz Questions | 409554 | [409554-one-question-and-youll-want-to-share-it-1000-trivia-quiz-questions.json](./409554-one-question-and-youll-want-to-share-it-1000-trivia-quiz-questions.json) |
+| One Room Dungeon | 176165 | [176165-one-room-dungeon.json](./176165-one-room-dungeon.json) |
 | One Room Dungeon | 182164 | [182164-one-room-dungeon.json](./182164-one-room-dungeon.json) |
 | One Room Dungeon | 319069 | [319069-one-room-dungeon.json](./319069-one-room-dungeon.json) |
 | One Room Hotel | 178654 | [178654-one-room-hotel.json](./178654-one-room-hotel.json) |
@@ -2532,6 +2534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Ocean | 119659 | [119659-open-ocean.json](./119659-open-ocean.json) |
 | Open Puzzle Box | 59035 | [59035-open-puzzle-box.json](./59035-open-puzzle-box.json) |
 | Open Rails | 89985 | [89985-open-rails.json](./89985-open-rails.json) |
+| Open Realm of Stars | 176169 | [176169-open-realm-of-stars.json](./176169-open-realm-of-stars.json) |
 | Open Road First Front S | 284259 | [284259-open-road-first-front-s.json](./284259-open-road-first-front-s.json) |
 | Open Saber Plus | 343918 | [343918-open-saber-plus.json](./343918-open-saber-plus.json) |
 | Open School World | 297505 | [297505-open-school-world.json](./297505-open-school-world.json) |
