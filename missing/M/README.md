@@ -1559,7 +1559,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjongg Compilation | 91596 | [91596-mahjongg-compilation.json](./91596-mahjongg-compilation.json) |
 | Mahjongg Compilation | 91597 | [91597-mahjongg-compilation.json](./91597-mahjongg-compilation.json) |
 | Mahjongg DS | 91318 | [91318-mahjongg-ds.json](./91318-mahjongg-ds.json) |
+| MahJongg Master 2 | 200882 | [200882-mahjongg-master-2.json](./200882-mahjongg-master-2.json) |
 | Mahjongg Master 3 | 93140 | [93140-mahjongg-master-3.json](./93140-mahjongg-master-3.json) |
+| MahJongg Master 4 | 200883 | [200883-mahjongg-master-4.json](./200883-mahjongg-master-4.json) |
 | Mahjongg Master: Egyptian Edition | 210209 | [210209-mahjongg-master-egyptian-edition.json](./210209-mahjongg-master-egyptian-edition.json) |
 | Mahjongg Platinum Evolution Edition | 96762 | [96762-mahjongg-platinum-evolution-edition.json](./96762-mahjongg-platinum-evolution-edition.json) |
 | Mahjongg Sammlung | 91603 | [91603-mahjongg-sammlung.json](./91603-mahjongg-sammlung.json) |
@@ -4502,6 +4504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Savage | 398489 | [398489-max-savage.json](./398489-max-savage.json) |
 | Max Speed | 409543 | [409543-max-speed.json](./409543-max-speed.json) |
 | Max Speed: Mingo Pack | 410851 | [410851-max-speed-mingo-pack.json](./410851-max-speed-mingo-pack.json) |
+| Max Steel: Covert Missions | 200965 | [200965-max-steel-covert-missions.json](./200965-max-steel-covert-missions.json) |
 | Max Steel: Laptop Bilíngue Power | 294463 | [294463-max-steel-laptop-bilingue-power.json](./294463-max-steel-laptop-bilingue-power.json) |
 | Max Steel: Max Technical | 294464 | [294464-max-steel-max-technical.json](./294464-max-steel-max-technical.json) |
 | Max Steel: Turbo Tablet | 294465 | [294465-max-steel-turbo-tablet.json](./294465-max-steel-turbo-tablet.json) |
@@ -4530,6 +4533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maxim's Seaside Adventure | 416756 | [416756-maxims-seaside-adventure.json](./416756-maxims-seaside-adventure.json) |
 | Maxima: Keepers of the 2nd Law | 348377 | [348377-maxima-keepers-of-the-2nd-law.json](./348377-maxima-keepers-of-the-2nd-law.json) |
 | Maximal Mahjongg | 94235 | [94235-maximal-mahjongg.json](./94235-maximal-mahjongg.json) |
+| Maximillion Fortress | 200873 | [200873-maximillion-fortress.json](./200873-maximillion-fortress.json) |
 | Maximize | 110253 | [110253-maximize.json](./110253-maximize.json) |
 | Maximo vs. Army of Zin | 43642 | [43642-maximo-vs-army-of-zin.json](./43642-maximo-vs-army-of-zin.json) |
 | Maximo: Ghosts to Glory | 22054 | [22054-maximo-ghosts-to-glory.json](./22054-maximo-ghosts-to-glory.json) |
