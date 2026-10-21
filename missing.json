@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-21T04:48:59.813Z",
-  "total_missing": 240655,
+  "generated_at": "2026-10-21T05:03:54.724Z",
+  "total_missing": 240705,
   "games": [
     {
       "igdb_id": 191680,
@@ -16667,6 +16667,11 @@
       "file": "missing/A/176276-a-pirates-end.json"
     },
     {
+      "igdb_id": 193124,
+      "game_name": "A Pirate's Pleasure: Bonus Stories",
+      "file": "missing/A/193124-a-pirates-pleasure-bonus-stories.json"
+    },
+    {
       "igdb_id": 27210,
       "game_name": "A Pixel Story",
       "file": "missing/A/27210-a-pixel-story.json"
@@ -21785,6 +21790,11 @@
       "igdb_id": 153877,
       "game_name": "Academy of Magic: Dark Possession",
       "file": "missing/A/153877-academy-of-magic-dark-possession.json"
+    },
+    {
+      "igdb_id": 193248,
+      "game_name": "Academy Quest",
+      "file": "missing/A/193248-academy-quest.json"
     },
     {
       "igdb_id": 185077,
@@ -29905,6 +29915,11 @@
       "igdb_id": 202424,
       "game_name": "Age of Empires III: Definitive Edition - Knights of the Mediterranean",
       "file": "missing/A/202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json"
+    },
+    {
+      "igdb_id": 193234,
+      "game_name": "Age of Empires III: Definitive Edition - Mexico Civilization",
+      "file": "missing/A/193234-age-of-empires-iii-definitive-edition-mexico-civilization.json"
     },
     {
       "igdb_id": 164609,
@@ -107172,6 +107187,11 @@
       "file": "missing/B/159830-berries-challenge.json"
     },
     {
+      "igdb_id": 193250,
+      "game_name": "Berry",
+      "file": "missing/B/193250-berry.json"
+    },
+    {
       "igdb_id": 302766,
       "game_name": "Berry Barrel Blitz",
       "file": "missing/B/302766-berry-barrel-blitz.json"
@@ -135557,6 +135577,11 @@
       "file": "missing/B/195426-box-cats-puzzle-cat-year-2022.json"
     },
     {
+      "igdb_id": 193122,
+      "game_name": "Box Cats Puzzle: Halloween",
+      "file": "missing/B/193122-box-cats-puzzle-halloween.json"
+    },
+    {
       "igdb_id": 328553,
       "game_name": "Box Chaos",
       "file": "missing/B/328553-box-chaos.json"
@@ -147430,6 +147455,11 @@
       "igdb_id": 59428,
       "game_name": "Bullfight Ring no Hasha",
       "file": "missing/B/59428-bullfight-ring-no-hasha.json"
+    },
+    {
+      "igdb_id": 193238,
+      "game_name": "Bullfighter Neon",
+      "file": "missing/B/193238-bullfighter-neon.json"
     },
     {
       "igdb_id": 281373,
@@ -179755,6 +179785,11 @@
       "igdb_id": 417570,
       "game_name": "Chimeras: Mortal Medicine",
       "file": "missing/C/417570-chimeras-mortal-medicine.json"
+    },
+    {
+      "igdb_id": 193233,
+      "game_name": "Chimeras: Mortal Medicine - Collector's Edition",
+      "file": "missing/C/193233-chimeras-mortal-medicine-collectors-edition.json"
     },
     {
       "igdb_id": 187910,
@@ -314432,6 +314467,11 @@
       "file": "missing/E/117312-embr.json"
     },
     {
+      "igdb_id": 193106,
+      "game_name": "Embr: Secret Hosr",
+      "file": "missing/E/193106-embr-secret-hosr.json"
+    },
+    {
       "igdb_id": 177866,
       "game_name": "Embrace",
       "file": "missing/E/177866-embrace.json"
@@ -323727,6 +323767,11 @@
       "file": "missing/E/26823-escape-machines.json"
     },
     {
+      "igdb_id": 193240,
+      "game_name": "Escape Master",
+      "file": "missing/E/193240-escape-master.json"
+    },
+    {
       "igdb_id": 71385,
       "game_name": "Escape MCP",
       "file": "missing/E/71385-escape-mcp.json"
@@ -325975,6 +326020,11 @@
       "igdb_id": 140609,
       "game_name": "Eternal Dreamers",
       "file": "missing/E/140609-eternal-dreamers.json"
+    },
+    {
+      "igdb_id": 193242,
+      "game_name": "Eternal Dreamers: Sylfie, the Electric",
+      "file": "missing/E/193242-eternal-dreamers-sylfie-the-electric.json"
     },
     {
       "igdb_id": 140589,
@@ -376227,6 +376277,11 @@
       "file": "missing/F/68711-fourfourtwo-touchline-passion.json"
     },
     {
+      "igdb_id": 193236,
+      "game_name": "FourPlay Chess",
+      "file": "missing/F/193236-fourplay-chess.json"
+    },
+    {
       "igdb_id": 224247,
       "game_name": "Fourspell Survivors Online",
       "file": "missing/F/224247-fourspell-survivors-online.json"
@@ -379515,6 +379570,11 @@
       "igdb_id": 103630,
       "game_name": "Freezeer",
       "file": "missing/F/103630-freezeer.json"
+    },
+    {
+      "igdb_id": 193246,
+      "game_name": "Freezeframe",
+      "file": "missing/F/193246-freezeframe.json"
     },
     {
       "igdb_id": 245196,
@@ -411077,6 +411137,11 @@
       "file": "missing/G/176321-god-save-the-queen.json"
     },
     {
+      "igdb_id": 193247,
+      "game_name": "God Save Us",
+      "file": "missing/G/193247-god-save-us.json"
+    },
+    {
       "igdb_id": 399852,
       "game_name": "God Shot",
       "file": "missing/G/399852-god-shot.json"
@@ -432660,6 +432725,11 @@
       "igdb_id": 139874,
       "game_name": "Hackerwars.io",
       "file": "missing/H/139874-hackerwars-io.json"
+    },
+    {
+      "igdb_id": 193237,
+      "game_name": "Hacking Ball 3D",
+      "file": "missing/H/193237-hacking-ball-3d.json"
     },
     {
       "igdb_id": 199369,
@@ -470605,6 +470675,11 @@
       "igdb_id": 60496,
       "game_name": "Horror Stories",
       "file": "missing/H/60496-horror-stories.json"
+    },
+    {
+      "igdb_id": 193235,
+      "game_name": "Horror Stories: Please Comply",
+      "file": "missing/H/193235-horror-stories-please-comply.json"
     },
     {
       "igdb_id": 310258,
@@ -550182,6 +550257,11 @@
       "file": "missing/L/250036-landborne.json"
     },
     {
+      "igdb_id": 193243,
+      "game_name": "LandCombat: Ren",
+      "file": "missing/L/193243-landcombat-ren.json"
+    },
+    {
       "igdb_id": 285970,
       "game_name": "Landelver",
       "file": "missing/L/285970-landelver.json"
@@ -602840,6 +602920,11 @@
       "igdb_id": 104047,
       "game_name": "Mars or Die!",
       "file": "missing/M/104047-mars-or-die.json"
+    },
+    {
+      "igdb_id": 193254,
+      "game_name": "Mars Parking Simulator",
+      "file": "missing/M/193254-mars-parking-simulator.json"
     },
     {
       "igdb_id": 122168,
@@ -668037,6 +668122,11 @@
       "file": "missing/M/187973-mystery-case-files-incident-at-pendle-tower.json"
     },
     {
+      "igdb_id": 193105,
+      "game_name": "Mystery Case Files: Incident at Pendle Tower - Collector's Edition",
+      "file": "missing/M/193105-mystery-case-files-incident-at-pendle-tower-collectors-edition.json"
+    },
+    {
       "igdb_id": 118336,
       "game_name": "Mystery Case Files: Key to Ravenhearst - Collector's Edition",
       "file": "missing/M/118336-mystery-case-files-key-to-ravenhearst-collectors-edition.json"
@@ -668870,6 +668960,11 @@
       "igdb_id": 153456,
       "game_name": "Mystery Trackers: Paxton Creek Avenger Collector's Edition",
       "file": "missing/M/153456-mystery-trackers-paxton-creek-avenger-collectors-edition.json"
+    },
+    {
+      "igdb_id": 193232,
+      "game_name": "Mystery Trackers: Queen of Hearts - Collector's Edition",
+      "file": "missing/M/193232-mystery-trackers-queen-of-hearts-collectors-edition.json"
     },
     {
       "igdb_id": 191483,
@@ -670155,6 +670250,11 @@
       "igdb_id": 307806,
       "game_name": "Myths are 100% True",
       "file": "missing/M/307806-myths-are-100-true.json"
+    },
+    {
+      "igdb_id": 193244,
+      "game_name": "Myths of Gallantium",
+      "file": "missing/M/193244-myths-of-gallantium.json"
     },
     {
       "igdb_id": 214170,
@@ -682935,6 +683035,11 @@
       "igdb_id": 35089,
       "game_name": "New Kind of Adventure",
       "file": "missing/N/35089-new-kind-of-adventure.json"
+    },
+    {
+      "igdb_id": 193241,
+      "game_name": "New Lands",
+      "file": "missing/N/193241-new-lands.json"
     },
     {
       "igdb_id": 252390,
@@ -734362,6 +734467,11 @@
       "file": "missing/P/331855-pathfinder-wrath-of-the-righteous-game-of-the-year-edition.json"
     },
     {
+      "igdb_id": 193126,
+      "game_name": "Pathfinder: Wrath of the Righteous - Inevitable Excess",
+      "file": "missing/P/193126-pathfinder-wrath-of-the-righteous-inevitable-excess.json"
+    },
+    {
       "igdb_id": 206675,
       "game_name": "Pathfinder: Wrath of the Righteous - Limited Edition",
       "file": "missing/P/206675-pathfinder-wrath-of-the-righteous-limited-edition.json"
@@ -767907,6 +768017,11 @@
       "file": "missing/P/240666-police-heroes.json"
     },
     {
+      "igdb_id": 193239,
+      "game_name": "Police Hot Pursuit",
+      "file": "missing/P/193239-police-hot-pursuit.json"
+    },
+    {
       "igdb_id": 147238,
       "game_name": "Police Monster Drift",
       "file": "missing/P/147238-police-monster-drift.json"
@@ -799387,6 +799502,11 @@
       "file": "missing/Q/199432-quiz-wiz-cyber-trivia.json"
     },
     {
+      "igdb_id": 193253,
+      "game_name": "Quiz x RPG",
+      "file": "missing/Q/193253-quiz-x-rpg.json"
+    },
+    {
       "igdb_id": 102696,
       "game_name": "Quiz-Race",
       "file": "missing/Q/102696-quiz-race.json"
@@ -815897,6 +816017,11 @@
       "file": "missing/R/188035-redrawn-the-painted-tower.json"
     },
     {
+      "igdb_id": 193231,
+      "game_name": "ReDrawn: The Painted Tower - Collector's Edition",
+      "file": "missing/R/193231-redrawn-the-painted-tower-collectors-edition.json"
+    },
+    {
       "igdb_id": 232854,
       "game_name": "Redriver 2",
       "file": "missing/R/232854-redriver-2.json"
@@ -828717,6 +828842,11 @@
       "file": "missing/R/241335-ringoword.json"
     },
     {
+      "igdb_id": 193252,
+      "game_name": "RingRacer",
+      "file": "missing/R/193252-ringracer.json"
+    },
+    {
       "igdb_id": 179069,
       "game_name": "Rings",
       "file": "missing/R/179069-rings.json"
@@ -830150,6 +830280,11 @@
       "igdb_id": 257079,
       "game_name": "Rising Sun Mahjong",
       "file": "missing/R/257079-rising-sun-mahjong.json"
+    },
+    {
+      "igdb_id": 193125,
+      "game_name": "Rising Sun VR",
+      "file": "missing/R/193125-rising-sun-vr.json"
     },
     {
       "igdb_id": 212218,
@@ -848722,6 +848857,11 @@
       "file": "missing/R/99302-rustler.json"
     },
     {
+      "igdb_id": 193103,
+      "game_name": "Rustler: Murder Madness",
+      "file": "missing/R/193103-rustler-murder-madness.json"
+    },
+    {
       "igdb_id": 193205,
       "game_name": "Rustler: Vinci",
       "file": "missing/R/193205-rustler-vinci.json"
@@ -858740,6 +858880,11 @@
       "igdb_id": 313463,
       "game_name": "Save: Teaser - Before the Dawn",
       "file": "missing/S/313463-save-teaser-before-the-dawn.json"
+    },
+    {
+      "igdb_id": 193249,
+      "game_name": "Saved",
+      "file": "missing/S/193249-saved.json"
     },
     {
       "igdb_id": 86408,
@@ -893270,6 +893415,11 @@
       "igdb_id": 270668,
       "game_name": "Sir Fred",
       "file": "missing/S/270668-sir-fred.json"
+    },
+    {
+      "igdb_id": 193245,
+      "game_name": "Sir Galgano: A Medieval Tale",
+      "file": "missing/S/193245-sir-galgano-a-medieval-tale.json"
     },
     {
       "igdb_id": 23574,
@@ -966917,6 +967067,11 @@
       "file": "missing/S/323181-super-earthbound.json"
     },
     {
+      "igdb_id": 193123,
+      "game_name": "Super Egg 2020",
+      "file": "missing/S/193123-super-egg-2020.json"
+    },
+    {
       "igdb_id": 276164,
       "game_name": "Super Elastic",
       "file": "missing/S/276164-super-elastic.json"
@@ -997575,6 +997730,11 @@
       "igdb_id": 396720,
       "game_name": "Taverntasia",
       "file": "missing/T/396720-taverntasia.json"
+    },
+    {
+      "igdb_id": 193255,
+      "game_name": "Tavolga-12",
+      "file": "missing/T/193255-tavolga-12.json"
     },
     {
       "igdb_id": 276823,
@@ -1142372,6 +1142532,11 @@
       "file": "missing/V/391326-voody-hex.json"
     },
     {
+      "igdb_id": 193251,
+      "game_name": "Voor de Kroon",
+      "file": "missing/V/193251-voor-de-kroon.json"
+    },
+    {
       "igdb_id": 118148,
       "game_name": "Voracious",
       "file": "missing/V/118148-voracious.json"
@@ -1160485,6 +1160650,11 @@
       "igdb_id": 203378,
       "game_name": "Whenever You Can Breathe",
       "file": "missing/W/203378-whenever-you-can-breathe.json"
+    },
+    {
+      "igdb_id": 193102,
+      "game_name": "WhenNightComes",
+      "file": "missing/W/193102-whennightcomes.json"
     },
     {
       "igdb_id": 289005,
@@ -1182142,6 +1182312,11 @@
       "file": "missing/X/162787-x-plane-11-aerosoft-airport-bali.json"
     },
     {
+      "igdb_id": 193121,
+      "game_name": "X-Plane 11: Aerosoft - Airport Ben Gurion",
+      "file": "missing/X/193121-x-plane-11-aerosoft-airport-ben-gurion.json"
+    },
+    {
       "igdb_id": 162759,
       "game_name": "X-Plane 11: Aerosoft - Airport Bergen",
       "file": "missing/X/162759-x-plane-11-aerosoft-airport-bergen.json"
@@ -1182212,6 +1182387,11 @@
       "file": "missing/X/162801-x-plane-11-aerosoft-airport-john-f-kennedy-international.json"
     },
     {
+      "igdb_id": 193118,
+      "game_name": "X-Plane 11: Aerosoft - Airport Kassel",
+      "file": "missing/X/193118-x-plane-11-aerosoft-airport-kassel.json"
+    },
+    {
       "igdb_id": 162765,
       "game_name": "X-Plane 11: Aerosoft - Airport Lugano",
       "file": "missing/X/162765-x-plane-11-aerosoft-airport-lugano.json"
@@ -1182220,6 +1182400,11 @@
       "igdb_id": 162789,
       "game_name": "X-Plane 11: Aerosoft - Airport Maastricht-Aachen",
       "file": "missing/X/162789-x-plane-11-aerosoft-airport-maastricht-aachen.json"
+    },
+    {
+      "igdb_id": 193119,
+      "game_name": "X-Plane 11: Aerosoft - Airport Menorca",
+      "file": "missing/X/193119-x-plane-11-aerosoft-airport-menorca.json"
     },
     {
       "igdb_id": 162814,
@@ -1182240,6 +1182425,11 @@
       "igdb_id": 162775,
       "game_name": "X-Plane 11: Aerosoft - Airport Split",
       "file": "missing/X/162775-x-plane-11-aerosoft-airport-split.json"
+    },
+    {
+      "igdb_id": 193117,
+      "game_name": "X-Plane 11: Aerosoft - Airport Stuttgart",
+      "file": "missing/X/193117-x-plane-11-aerosoft-airport-stuttgart.json"
     },
     {
       "igdb_id": 162800,
@@ -1182442,6 +1182632,11 @@
       "file": "missing/X/168416-x-plane-11-faco-simulations-f-15c-eagle.json"
     },
     {
+      "igdb_id": 193110,
+      "game_name": "X-Plane 11: FeelThere - KRDU: Raleigh Durham",
+      "file": "missing/X/193110-x-plane-11-feelthere-krdu-raleigh-durham.json"
+    },
+    {
       "igdb_id": 162768,
       "game_name": "X-Plane 11: FlyLogic Airport Bern-Belp",
       "file": "missing/X/162768-x-plane-11-flylogic-airport-bern-belp.json"
@@ -1182615,6 +1182810,56 @@
       "igdb_id": 162807,
       "game_name": "X-Plane 11: Skyline Simulations CYTZ - Billy Bishop Toronto City Airport",
       "file": "missing/X/162807-x-plane-11-skyline-simulations-cytz-billy-bishop-toronto-city-airport.json"
+    },
+    {
+      "igdb_id": 193107,
+      "game_name": "X-Plane 11: Verticalsim - KBWI: Baltimore Professional Edition XP",
+      "file": "missing/X/193107-x-plane-11-verticalsim-kbwi-baltimore-professional-edition-xp.json"
+    },
+    {
+      "igdb_id": 193111,
+      "game_name": "X-Plane 11: Verticalsim - KCRP: Corpus Christi International Airport XP",
+      "file": "missing/X/193111-x-plane-11-verticalsim-kcrp-corpus-christi-international-airport-xp.json"
+    },
+    {
+      "igdb_id": 193115,
+      "game_name": "X-Plane 11: Verticalsim - KFAY: Fayetteville Regional Airport XP",
+      "file": "missing/X/193115-x-plane-11-verticalsim-kfay-fayetteville-regional-airport-xp.json"
+    },
+    {
+      "igdb_id": 193109,
+      "game_name": "X-Plane 11: Verticalsim - KGEG: Spokane International Airport XP",
+      "file": "missing/X/193109-x-plane-11-verticalsim-kgeg-spokane-international-airport-xp.json"
+    },
+    {
+      "igdb_id": 193113,
+      "game_name": "X-Plane 11: Verticalsim - KISP: Long Island MacArthur Airport XP",
+      "file": "missing/X/193113-x-plane-11-verticalsim-kisp-long-island-macarthur-airport-xp.json"
+    },
+    {
+      "igdb_id": 193120,
+      "game_name": "X-Plane 11: Verticalsim - KMSY: New Orleans International Airport XP",
+      "file": "missing/X/193120-x-plane-11-verticalsim-kmsy-new-orleans-international-airport-xp.json"
+    },
+    {
+      "igdb_id": 193108,
+      "game_name": "X-Plane 11: Verticalsim - KMYR: Myrtle Beach International Airport XP",
+      "file": "missing/X/193108-x-plane-11-verticalsim-kmyr-myrtle-beach-international-airport-xp.json"
+    },
+    {
+      "igdb_id": 193116,
+      "game_name": "X-Plane 11: Verticalsim - KORF: Norfolk International Airport XP",
+      "file": "missing/X/193116-x-plane-11-verticalsim-korf-norfolk-international-airport-xp.json"
+    },
+    {
+      "igdb_id": 193112,
+      "game_name": "X-Plane 11: Verticalsim - KPVD: T. F. Green Airport XP",
+      "file": "missing/X/193112-x-plane-11-verticalsim-kpvd-t-f-green-airport-xp.json"
+    },
+    {
+      "igdb_id": 193114,
+      "game_name": "X-Plane 11: Verticalsim - KSRQ: Sarasota-Bradenton International Airport XP",
+      "file": "missing/X/193114-x-plane-11-verticalsim-ksrq-sarasota-bradenton-international-airport-xp.json"
     },
     {
       "igdb_id": 215544,
@@ -1194305,6 +1194550,11 @@
       "igdb_id": 215390,
       "game_name": "Zaccaria Pinball: Postal 2 Table Pack",
       "file": "missing/Z/215390-zaccaria-pinball-postal-2-table-pack.json"
+    },
+    {
+      "igdb_id": 193104,
+      "game_name": "Zaccaria Pinball: Postal Redux Pinball Pack",
+      "file": "missing/Z/193104-zaccaria-pinball-postal-redux-pinball-pack.json"
     },
     {
       "igdb_id": 158446,
