@@ -11831,6 +11831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowscapes | 244145 | [244145-snowscapes.json](./244145-snowscapes.json) |
 | Snowsquall Grip | 302375 | [302375-snowsquall-grip.json](./302375-snowsquall-grip.json) |
 | Snowstorm | 405717 | [405717-snowstorm.json](./405717-snowstorm.json) |
+| Snowstorm of despair | 192596 | [192596-snowstorm-of-despair.json](./192596-snowstorm-of-despair.json) |
 | Snowtracked | 216888 | [216888-snowtracked.json](./216888-snowtracked.json) |
 | Snowy Flag | 291444 | [291444-snowy-flag.json](./291444-snowy-flag.json) |
 | Snowy Leaps | 233436 | [233436-snowy-leaps.json](./233436-snowy-leaps.json) |
@@ -11975,6 +11976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Manager 2018 | 81102 | [81102-soccer-manager-2018.json](./81102-soccer-manager-2018.json) |
 | Soccer Manager 2020 | 123351 | [123351-soccer-manager-2020.json](./123351-soccer-manager-2020.json) |
 | Soccer Manager 2021 | 152486 | [152486-soccer-manager-2021.json](./152486-soccer-manager-2021.json) |
+| Soccer Manager 2022 | 192599 | [192599-soccer-manager-2022.json](./192599-soccer-manager-2022.json) |
 | Soccer Manager 2027 | 340357 | [340357-soccer-manager-2027.json](./340357-soccer-manager-2027.json) |
 | Soccer Manager Arena | 28632 | [28632-soccer-manager-arena.json](./28632-soccer-manager-arena.json) |
 | Soccer Manager Crypto | 109908 | [109908-soccer-manager-crypto.json](./109908-soccer-manager-crypto.json) |
@@ -15117,6 +15119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Runaway | 236224 | [236224-space-runaway.json](./236224-space-runaway.json) |
 | Space runner | 27903 | [27903-space-runner.json](./27903-space-runner.json) |
 | Space Runner | 102257 | [102257-space-runner.json](./102257-space-runner.json) |
+| Space Salvage | 192601 | [192601-space-salvage.json](./192601-space-salvage.json) |
 | Space Salvager | 17760 | [17760-space-salvager.json](./17760-space-salvager.json) |
 | Space Scaven | 33156 | [33156-space-scaven.json](./33156-space-scaven.json) |
 | Space Scavenger | 113597 | [113597-space-scavenger.json](./113597-space-scavenger.json) |
@@ -15175,6 +15178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Squadron | 160208 | [160208-space-squadron.json](./160208-space-squadron.json) |
 | Space Star: Heart of a Soldier | 292628 | [292628-space-star-heart-of-a-soldier.json](./292628-space-star-heart-of-a-soldier.json) |
 | Space Station 13 | 66396 | [66396-space-station-13.json](./66396-space-station-13.json) |
+| Space Station 51 | 192597 | [192597-space-station-51.json](./192597-space-station-51.json) |
 | Space Station Alpha | 35964 | [35964-space-station-alpha.json](./35964-space-station-alpha.json) |
 | Space Station Alpha: The Encounter | 208770 | [208770-space-station-alpha-the-encounter.json](./208770-space-station-alpha-the-encounter.json) |
 | Space Station Cargo Simulator | 149241 | [149241-space-station-cargo-simulator.json](./149241-space-station-cargo-simulator.json) |
@@ -16018,6 +16022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Sniffers | 420512 | [420512-spell-sniffers.json](./420512-spell-sniffers.json) |
 | Spell Something | 328682 | [328682-spell-something.json](./328682-spell-something.json) |
 | Spell Spiral | 321343 | [321343-spell-spiral.json](./321343-spell-spiral.json) |
+| Spell Sweeper | 192598 | [192598-spell-sweeper.json](./192598-spell-sweeper.json) |
 | Spell Tonaeru | 319150 | [319150-spell-tonaeru.json](./319150-spell-tonaeru.json) |
 | Spell Weaver | 335381 | [335381-spell-weaver.json](./335381-spell-weaver.json) |
 | Spell Welders | 199501 | [199501-spell-welders.json](./199501-spell-welders.json) |
@@ -17706,6 +17711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squid Ink | 95932 | [95932-squid-ink.json](./95932-squid-ink.json) |
 | Squid on Road | 236944 | [236944-squid-on-road.json](./236944-squid-on-road.json) |
 | Squid Prison | 199314 | [199314-squid-prison.json](./199314-squid-prison.json) |
+| Squid Run | 192605 | [192605-squid-run.json](./192605-squid-run.json) |
 | Squid Squabble | 264602 | [264602-squid-squabble.json](./264602-squid-squabble.json) |
 | Squid Survival Simulator: Sea Animal Life 3D | 104594 | [104594-squid-survival-simulator-sea-animal-life-3d.json](./104594-squid-survival-simulator-sea-animal-life-3d.json) |
 | Squid Town | 112511 | [112511-squid-town.json](./112511-squid-town.json) |
@@ -20629,6 +20635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stop10 | 292156 | [292156-stop10.json](./292156-stop10.json) |
 | stopDrop | 137354 | [137354-stopdrop.json](./137354-stopdrop.json) |
 | Stoplights | 392140 | [392140-stoplights.json](./392140-stoplights.json) |
+| Stopocop | 192739 | [192739-stopocop.json](./192739-stopocop.json) |
 | Stopots | 50157 | [50157-stopots.json](./50157-stopots.json) |
 | Stoppa! | 115813 | [115813-stoppa.json](./115813-stoppa.json) |
 | Stopping Santa | 335240 | [335240-stopping-santa.json](./335240-stopping-santa.json) |
@@ -25859,6 +25866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surprising My Neighbors 2 | 149038 | [149038-surprising-my-neighbors-2.json](./149038-surprising-my-neighbors-2.json) |
 | Surprising Party | 53690 | [53690-surprising-party.json](./53690-surprising-party.json) |
 | Surprising Stories | 53691 | [53691-surprising-stories.json](./53691-surprising-stories.json) |
+| Surreal Deal | 192603 | [192603-surreal-deal.json](./192603-surreal-deal.json) |
 | Surreal Escape | 315575 | [315575-surreal-escape.json](./315575-surreal-escape.json) |
 | Surreal Farm | 316418 | [316418-surreal-farm.json](./316418-surreal-farm.json) |
 | Surreal House | 260186 | [260186-surreal-house.json](./260186-surreal-house.json) |
