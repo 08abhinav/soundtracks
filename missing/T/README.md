@@ -6946,6 +6946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Expression Amrilato | 119580 | [119580-the-expression-amrilato.json](./119580-the-expression-amrilato.json) |
 | The Extinguishers | 169667 | [169667-the-extinguishers.json](./169667-the-extinguishers.json) |
 | The Extraterrestrials Museum of Earth Exploration | 225188 | [225188-the-extraterrestrials-museum-of-earth-exploration.json](./225188-the-extraterrestrials-museum-of-earth-exploration.json) |
+| The Extravagant Bill | 185322 | [185322-the-extravagant-bill.json](./185322-the-extravagant-bill.json) |
 | The Eye | 141836 | [141836-the-eye.json](./141836-the-eye.json) |
 | The Eye of Borrack | 122823 | [122823-the-eye-of-borrack.json](./122823-the-eye-of-borrack.json) |
 | The Eye of Judgment | 7302 | [7302-the-eye-of-judgment.json](./7302-the-eye-of-judgment.json) |
@@ -15121,6 +15122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Came From Below | 190409 | [190409-they-came-from-below.json](./190409-they-came-from-below.json) |
 | They Came From Dimension X | 213978 | [213978-they-came-from-dimension-x.json](./213978-they-came-from-dimension-x.json) |
 | They Came from the Ground | 328620 | [328620-they-came-from-the-ground.json](./328620-they-came-from-the-ground.json) |
+| They Come at Poop Time | 185355 | [185355-they-come-at-poop-time.json](./185355-they-come-at-poop-time.json) |
 | They Come in Fives | 370915 | [370915-they-come-in-fives.json](./370915-they-come-in-fives.json) |
 | They Die Tomorrow | 188567 | [188567-they-die-tomorrow.json](./188567-they-die-tomorrow.json) |
 | They Dug Too Deep | 258974 | [258974-they-dug-too-deep.json](./258974-they-dug-too-deep.json) |
@@ -24817,6 +24819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn Run | 105124 | [105124-turn-run.json](./105124-turn-run.json) |
 | Turn Tack | 197919 | [197919-turn-tack.json](./197919-turn-tack.json) |
 | Turn the bridge | 109373 | [109373-turn-the-bridge.json](./109373-turn-the-bridge.json) |
+| Turn the Fight | 185329 | [185329-turn-the-fight.json](./185329-turn-the-fight.json) |
 | Turn the Line! | 190005 | [190005-turn-the-line.json](./190005-turn-the-line.json) |
 | Turn the mirror, please. | 111849 | [111849-turn-the-mirror-please.json](./111849-turn-the-mirror-please.json) |
 | Turn to Mine | 312846 | [312846-turn-to-mine.json](./312846-turn-to-mine.json) |
@@ -24824,6 +24827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn-Based Battle Bundle: The Amazing American Circus & Legend of Keepers | 270303 | [270303-turn-based-battle-bundle-the-amazing-american-circus-and-legend-of-keepers.json](./270303-turn-based-battle-bundle-the-amazing-american-circus-and-legend-of-keepers.json) |
 | Turn-Based Champion | 99664 | [99664-turn-based-champion.json](./99664-turn-based-champion.json) |
 | Turn-Based Invaders From Space! | 184074 | [184074-turn-based-invaders-from-space.json](./184074-turn-based-invaders-from-space.json) |
+| Turn-Based Kingdom: Ancient Egypt | 185337 | [185337-turn-based-kingdom-ancient-egypt.json](./185337-turn-based-kingdom-ancient-egypt.json) |
 | Turn: The Lost Artifact | 85457 | [85457-turn-the-lost-artifact.json](./85457-turn-the-lost-artifact.json) |
 | Turnabout Bakeshop | 303245 | [303245-turnabout-bakeshop.json](./303245-turnabout-bakeshop.json) |
 | Turnabout Curtain | 302640 | [302640-turnabout-curtain.json](./302640-turnabout-curtain.json) |
@@ -25513,6 +25517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typical NPC | 412263 | [412263-typical-npc.json](./412263-typical-npc.json) |
 | Typing Break | 373079 | [373079-typing-break.json](./373079-typing-break.json) |
 | Typing Bullets | 251727 | [251727-typing-bullets.json](./251727-typing-bullets.json) |
+| Typing Champ 1987 | 185346 | [185346-typing-champ-1987.json](./185346-typing-champ-1987.json) |
 | Typing Farmer | 392323 | [392323-typing-farmer.json](./392323-typing-farmer.json) |
 | Typing Faster | 125928 | [125928-typing-faster.json](./125928-typing-faster.json) |
 | Typing Fingers | 167352 | [167352-typing-fingers.json](./167352-typing-fingers.json) |
