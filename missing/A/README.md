@@ -2949,6 +2949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aery: Calm Mind 4 | 263037 | [263037-aery-calm-mind-4.json](./263037-aery-calm-mind-4.json) |
 | Aery: Cyber City | 283896 | [283896-aery-cyber-city.json](./283896-aery-cyber-city.json) |
 | Aery: Dream Land | 332491 | [332491-aery-dream-land.json](./332491-aery-dream-land.json) |
+| Aery: Dreamscape | 187142 | [187142-aery-dreamscape.json](./187142-aery-dreamscape.json) |
 | Aery: Midnight Hour | 288376 | [288376-aery-midnight-hour.json](./288376-aery-midnight-hour.json) |
 | Aery: Path of Corruption | 213427 | [213427-aery-path-of-corruption.json](./213427-aery-path-of-corruption.json) |
 | Aery: Peace of Mind | 296628 | [296628-aery-peace-of-mind.json](./296628-aery-peace-of-mind.json) |
