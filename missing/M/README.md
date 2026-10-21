@@ -731,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MageTrain | 338350 | [338350-magetrain.json](./338350-magetrain.json) |
 | MagFighter | 295354 | [295354-magfighter.json](./295354-magfighter.json) |
 | MagForce Racing | 45806 | [45806-magforce-racing.json](./45806-magforce-racing.json) |
+| Maggie the Magnet | 201456 | [201456-maggie-the-magnet.json](./201456-maggie-the-magnet.json) |
 | Maggie's Apartment | 50504 | [50504-maggies-apartment.json](./50504-maggies-apartment.json) |
 | Maggie's Grinning Soul | 182145 | [182145-maggies-grinning-soul.json](./182145-maggies-grinning-soul.json) |
 | Maggie's Movies - Camera, Action! | 61879 | [61879-maggies-movies-camera-action.json](./61879-maggies-movies-camera-action.json) |
@@ -11032,6 +11033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Model Builder: Aether | 215601 | [215601-model-builder-aether.json](./215601-model-builder-aether.json) |
 | Model Builder: Alaskan Road Truckers | 277586 | [277586-model-builder-alaskan-road-truckers.json](./277586-model-builder-alaskan-road-truckers.json) |
 | Model Builder: Cars Pack DLC | 332603 | [332603-model-builder-cars-pack-dlc.json](./332603-model-builder-cars-pack-dlc.json) |
+| Model Builder: Expansion Pack no.1 | 201540 | [201540-model-builder-expansion-pack-no-1.json](./201540-model-builder-expansion-pack-no-1.json) |
 | Model Builder: Frostpunk | 196159 | [196159-model-builder-frostpunk.json](./196159-model-builder-frostpunk.json) |
 | Model Builder: Military Pack | 332602 | [332602-model-builder-military-pack.json](./332602-model-builder-military-pack.json) |
 | Model Builder: Titan-Forge DLC No.2 | 243158 | [243158-model-builder-titan-forge-dlc-no-2.json](./243158-model-builder-titan-forge-dlc-no-2.json) |
@@ -11436,6 +11438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mon Coach Personnel: J'ameliore Mon Anglais | 210124 | [210124-mon-coach-personnel-jameliore-mon-anglais.json](./210124-mon-coach-personnel-jameliore-mon-anglais.json) |
 | Mon Poulain 3D | 147219 | [147219-mon-poulain-3d.json](./147219-mon-poulain-3d.json) |
 | Mon-cuties for All | 134679 | [134679-mon-cuties-for-all.json](./134679-mon-cuties-for-all.json) |
+| Mon-Musu Master | 201462 | [201462-mon-musu-master.json](./201462-mon-musu-master.json) |
 | Mona | 201783 | [201783-mona.json](./201783-mona.json) |
 | Mona | 212161 | [212161-mona.json](./212161-mona.json) |
 | Mona | 217473 | [217473-mona.json](./217473-mona.json) |
@@ -11544,6 +11547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkee Game | 269230 | [269230-monkee-game.json](./269230-monkee-game.json) |
 | Monkeround | 326219 | [326219-monkeround.json](./326219-monkeround.json) |
 | Monkey | 305464 | [305464-monkey.json](./305464-monkey.json) |
+| Monkey Adventure | 201542 | [201542-monkey-adventure.json](./201542-monkey-adventure.json) |
 | Monkey Ball | 40105 | [40105-monkey-ball.json](./40105-monkey-ball.json) |
 | Monkey Bananza | 146349 | [146349-monkey-bananza.json](./146349-monkey-bananza.json) |
 | Monkey Barrels | 125160 | [125160-monkey-barrels.json](./125160-monkey-barrels.json) |
@@ -14697,6 +14701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murders on Budapest | 174285 | [174285-murders-on-budapest.json](./174285-murders-on-budapest.json) |
 | Murderwave: Digital Slaughter | 121011 | [121011-murderwave-digital-slaughter.json](./121011-murderwave-digital-slaughter.json) |
 | Murdle | 194471 | [194471-murdle.json](./194471-murdle.json) |
+| Murdo's Quest | 201464 | [201464-murdos-quest.json](./201464-murdos-quest.json) |
 | Murdoc's Operation Rejuvination | 354761 | [354761-murdocs-operation-rejuvination.json](./354761-murdocs-operation-rejuvination.json) |
 | Murdoku | 401511 | [401511-murdoku.json](./401511-murdoku.json) |
 | Murgles | 121370 | [121370-murgles.json](./121370-murgles.json) |
