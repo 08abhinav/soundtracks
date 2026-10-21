@@ -2067,6 +2067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Saboteurs | 25313 | [25313-party-saboteurs.json](./25313-party-saboteurs.json) |
 | Party Saboteurs: After Party | 130364 | [130364-party-saboteurs-after-party.json](./130364-party-saboteurs-after-party.json) |
 | Party Stars | 309181 | [309181-party-stars.json](./309181-party-stars.json) |
+| Party Talk Simulator | 183232 | [183232-party-talk-simulator.json](./183232-party-talk-simulator.json) |
 | Party Versus | 326770 | [326770-party-versus.json](./326770-party-versus.json) |
 | Party Wave | 234506 | [234506-party-wave.json](./234506-party-wave.json) |
 | Party Words | 207543 | [207543-party-words.json](./207543-party-words.json) |
@@ -5992,6 +5993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PitterPot | 110811 | [110811-pitterpot.json](./110811-pitterpot.json) |
 | Pittsfield | 98322 | [98322-pittsfield.json](./98322-pittsfield.json) |
 | Pitty Meaty | 368657 | [368657-pitty-meaty.json](./368657-pitty-meaty.json) |
+| Pity Party | 183229 | [183229-pity-party.json](./183229-pity-party.json) |
 | Pity Pit | 132769 | [132769-pity-pit.json](./132769-pity-pit.json) |
 | Pity This Busy Monster | 345587 | [345587-pity-this-busy-monster.json](./345587-pity-this-busy-monster.json) |
 | Piui Seoyak | 220285 | [220285-piui-seoyak.json](./220285-piui-seoyak.json) |
@@ -12135,6 +12137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project M | 382401 | [382401-project-m.json](./382401-project-m.json) |
 | Project M EX Remix | 202916 | [202916-project-m-ex-remix.json](./202916-project-m-ex-remix.json) |
 | Project MA | 317422 | [317422-project-ma.json](./317422-project-ma.json) |
+| Project Madison | 183242 | [183242-project-madison.json](./183242-project-madison.json) |
 | Project Madras | 283567 | [283567-project-madras.json](./283567-project-madras.json) |
 | Project Malice | 220660 | [220660-project-malice.json](./220660-project-malice.json) |
 | Project Mansion | 317605 | [317605-project-mansion.json](./317605-project-mansion.json) |
