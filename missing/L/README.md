@@ -3398,7 +3398,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Force | 261900 | [261900-life-force.json](./261900-life-force.json) |
 | Life Force SNES Port | 377226 | [377226-life-force-snes-port.json](./377226-life-force-snes-port.json) |
 | Life Goals | 102144 | [102144-life-goals.json](./102144-life-goals.json) |
-| Life Goes On: Done to Death | 6580 | [6580-life-goes-on-done-to-death.json](./6580-life-goes-on-done-to-death.json) |
 | Life Hutch VR | 121610 | [121610-life-hutch-vr.json](./121610-life-hutch-vr.json) |
 | Life in Adventure | 208079 | [208079-life-in-adventure.json](./208079-life-in-adventure.json) |
 | Life in Bunker | 34451 | [34451-life-in-bunker.json](./34451-life-in-bunker.json) |
