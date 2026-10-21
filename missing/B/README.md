@@ -2173,6 +2173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barrier X | 32964 | [32964-barrier-x.json](./32964-barrier-x.json) |
 | Barro | 95668 | [95668-barro.json](./95668-barro.json) |
 | Barro 2020 | 123866 | [123866-barro-2020.json](./123866-barro-2020.json) |
+| Barro 22 | 181008 | [181008-barro-22.json](./181008-barro-22.json) |
 | Barro F | 130225 | [130225-barro-f.json](./130225-barro-f.json) |
 | Barro F22 | 249694 | [249694-barro-f22.json](./249694-barro-f22.json) |
 | Barro F22: Pack #1 | 298414 | [298414-barro-f22-pack-1.json](./298414-barro-f22-pack-1.json) |
@@ -2936,6 +2937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of 2048: Fantasy Edition | 234350 | [234350-battle-of-2048-fantasy-edition.json](./234350-battle-of-2048-fantasy-edition.json) |
 | Battle of Angels | 137681 | [137681-battle-of-angels.json](./137681-battle-of-angels.json) |
 | Battle of Arachnidia | 337048 | [337048-battle-of-arachnidia.json](./337048-battle-of-arachnidia.json) |
+| Battle of Archers | 180990 | [180990-battle-of-archers.json](./180990-battle-of-archers.json) |
 | Battle of Arrow | 82146 | [82146-battle-of-arrow.json](./82146-battle-of-arrow.json) |
 | Battle of Atlantis | 85845 | [85845-battle-of-atlantis.json](./85845-battle-of-atlantis.json) |
 | Battle of BackYard | 276260 | [276260-battle-of-backyard.json](./276260-battle-of-backyard.json) |
@@ -11827,6 +11829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrickShooter | 93208 | [93208-brickshooter.json](./93208-brickshooter.json) |
 | BricksVR | 144928 | [144928-bricksvr.json](./144928-bricksvr.json) |
 | Bricky Boy | 152304 | [152304-bricky-boy.json](./152304-bricky-boy.json) |
+| Bricky to Me | 181011 | [181011-bricky-to-me.json](./181011-bricky-to-me.json) |
 | Brickyard / Clowns | 93565 | [93565-brickyard-clowns.json](./93565-brickyard-clowns.json) |
 | Brico Utile | 269676 | [269676-brico-utile.json](./269676-brico-utile.json) |
 | Bride Corruption | 225064 | [225064-bride-corruption.json](./225064-bride-corruption.json) |
