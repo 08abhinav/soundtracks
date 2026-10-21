@@ -1666,6 +1666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mail Mole + Expansions Bundle | 238186 | [238186-mail-mole-expansions-bundle.json](./238186-mail-mole-expansions-bundle.json) |
 | Mail Mole: 'Xpress Deliveries | 238444 | [238444-mail-mole-xpress-deliveries.json](./238444-mail-mole-xpress-deliveries.json) |
 | Mail Mole: Collector's Edition | 203098 | [203098-mail-mole-collectors-edition.json](./203098-mail-mole-collectors-edition.json) |
+| Mail Mole: Mystery Mansion | 196064 | [196064-mail-mole-mystery-mansion.json](./196064-mail-mole-mystery-mansion.json) |
 | Mail Order Monsters | 25891 | [25891-mail-order-monsters.json](./25891-mail-order-monsters.json) |
 | Mail Plane | 41981 | [41981-mail-plane.json](./41981-mail-plane.json) |
 | Mail Rabbit | 176417 | [176417-mail-rabbit.json](./176417-mail-rabbit.json) |
@@ -5919,6 +5920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X Innocent Impulse | 247090 | [247090-mega-man-x-innocent-impulse.json](./247090-mega-man-x-innocent-impulse.json) |
 | Mega Man X Legacy Collection 2 | 96254 | [96254-mega-man-x-legacy-collection-2.json](./96254-mega-man-x-legacy-collection-2.json) |
 | Mega Man X Synthesis | 335396 | [335396-mega-man-x-synthesis.json](./335396-mega-man-x-synthesis.json) |
+| Mega Man X: 30th Anniversary Edition | 195937 | [195937-mega-man-x-30th-anniversary-edition.json](./195937-mega-man-x-30th-anniversary-edition.json) |
 | Mega Man X: cadê o chão, Sharivan? | 268420 | [268420-mega-man-x-cade-o-chao-sharivan.json](./268420-mega-man-x-cade-o-chao-sharivan.json) |
 | Mega Man X: Command Mission | 1751 | [1751-mega-man-x-command-mission.json](./1751-mega-man-x-command-mission.json) |
 | Mega Man X: Command Mission | 416112 | [416112-mega-man-x-command-mission.json](./416112-mega-man-x-command-mission.json) |
@@ -6658,6 +6660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memoriedit | 373521 | [373521-memoriedit.json](./373521-memoriedit.json) |
 | Memories | 123314 | [123314-memories.json](./123314-memories.json) |
 | Memories | 174752 | [174752-memories.json](./174752-memories.json) |
+| Memories | 195943 | [195943-memories.json](./195943-memories.json) |
 | Memories | 234107 | [234107-memories.json](./234107-memories.json) |
 | Memories | 269566 | [269566-memories.json](./269566-memories.json) |
 | Memories | 308440 | [308440-memories.json](./308440-memories.json) |
@@ -12088,6 +12091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Maker Kids | 37921 | [37921-monster-maker-kids.json](./37921-monster-maker-kids.json) |
 | Monster Maker: Yami no Ryuukishi | 63878 | [63878-monster-maker-yami-no-ryuukishi.json](./63878-monster-maker-yami-no-ryuukishi.json) |
 | Monster Manor | 115779 | [115779-monster-manor.json](./115779-monster-manor.json) |
+| Monster Master | 195938 | [195938-monster-master.json](./195938-monster-master.json) |
 | Monster Match | 131935 | [131935-monster-match.json](./131935-monster-match.json) |
 | Monster Match | 179504 | [179504-monster-match.json](./179504-monster-match.json) |
 | Monster Maulers | 39541 | [39541-monster-maulers.json](./39541-monster-maulers.json) |
