@@ -1916,6 +1916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virche Evermore: ErroR:salvation | 147480 | [147480-virche-evermore-error-salvation.json](./147480-virche-evermore-error-salvation.json) |
 | Vircoban | 322276 | [322276-vircoban.json](./322276-vircoban.json) |
 | VireFit | 116171 | [116171-virefit.json](./116171-virefit.json) |
+| Virgin Angel | 187742 | [187742-virgin-angel.json](./187742-virgin-angel.json) |
 | Virgin Atlantic Challenge | 142439 | [142439-virgin-atlantic-challenge.json](./142439-virgin-atlantic-challenge.json) |
 | Virgin Queen | 59740 | [59740-virgin-queen.json](./59740-virgin-queen.json) |
 | Virgin Queen Beauty | 59739 | [59739-virgin-queen-beauty.json](./59739-virgin-queen-beauty.json) |
