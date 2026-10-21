@@ -2885,6 +2885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Bull Pac-Man | 219441 | [219441-red-bull-pac-man.json](./219441-red-bull-pac-man.json) |
 | Red Bull X-Fighters | 20629 | [20629-red-bull-x-fighters.json](./20629-red-bull-x-fighters.json) |
 | Red Bull: Soapbox Racers | 336920 | [336920-red-bull-soapbox-racers.json](./336920-red-bull-soapbox-racers.json) |
+| Red Button | 172988 | [172988-red-button.json](./172988-red-button.json) |
 | Red Cap Squad: Zombie Source | 339924 | [339924-red-cap-squad-zombie-source.json](./339924-red-cap-squad-zombie-source.json) |
 | Red Cape Knight | 366989 | [366989-red-cape-knight.json](./366989-red-cape-knight.json) |
 | Red Carpet Diaries: Book 1 | 313688 | [313688-red-carpet-diaries-book-1.json](./313688-red-carpet-diaries-book-1.json) |
@@ -6422,6 +6423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Accident With Dangerous Goods VR Training | 242417 | [242417-road-accident-with-dangerous-goods-vr-training.json](./242417-road-accident-with-dangerous-goods-vr-training.json) |
 | Road Avenger | 93049 | [93049-road-avenger.json](./93049-road-avenger.json) |
 | Road Block | 124709 | [124709-road-block.json](./124709-road-block.json) |
+| Road Builder | 172994 | [172994-road-builder.json](./172994-road-builder.json) |
 | Road Cafe Simulator | 351028 | [351028-road-cafe-simulator.json](./351028-road-cafe-simulator.json) |
 | Road Cards | 187880 | [187880-road-cards.json](./187880-road-cards.json) |
 | Road Champs: BXS Stunt Biking | 49907 | [49907-road-champs-bxs-stunt-biking.json](./49907-road-champs-bxs-stunt-biking.json) |
@@ -6437,6 +6439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Drawing 3D | 262337 | [262337-road-drawing-3d.json](./262337-road-drawing-3d.json) |
 | Road Engineer | 292948 | [292948-road-engineer.json](./292948-road-engineer.json) |
 | Road Fighter | 4607 | [4607-road-fighter.json](./4607-road-fighter.json) |
+| Road Gangs Simulator | 172989 | [172989-road-gangs-simulator.json](./172989-road-gangs-simulator.json) |
 | Road Hell | 317564 | [317564-road-hell.json](./317564-road-hell.json) |
 | Road Hero | 287547 | [287547-road-hero.json](./287547-road-hero.json) |
 | Road Hog! | 84245 | [84245-road-hog.json](./84245-road-hog.json) |
@@ -7295,6 +7298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Space Ship Frontier | 243091 | [243091-rocket-space-ship-frontier.json](./243091-rocket-space-ship-frontier.json) |
 | Rocket Spin Orbit Glide | 369128 | [369128-rocket-spin-orbit-glide.json](./369128-rocket-spin-orbit-glide.json) |
 | Rocket Squad: Infinity | 332856 | [332856-rocket-squad-infinity.json](./332856-rocket-squad-infinity.json) |
+| Rocket Sword | 172992 | [172992-rocket-sword.json](./172992-rocket-sword.json) |
 | Rocket Swords | 107793 | [107793-rocket-swords.json](./107793-rocket-swords.json) |
 | Rocket Theater Rehearsal | 185484 | [185484-rocket-theater-rehearsal.json](./185484-rocket-theater-rehearsal.json) |
 | Rocket Time Trials: Galactic Highway | 389070 | [389070-rocket-time-trials-galactic-highway.json](./389070-rocket-time-trials-galactic-highway.json) |
