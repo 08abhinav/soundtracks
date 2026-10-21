@@ -8525,6 +8525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodBound Knights | 344873 | [344873-bloodbound-knights.json](./344873-bloodbound-knights.json) |
 | Bloodbrand | 417333 | [417333-bloodbrand.json](./417333-bloodbrand.json) |
 | Bloodbreaker: Labyrinth of the Witch | 361834 | [361834-bloodbreaker-labyrinth-of-the-witch.json](./361834-bloodbreaker-labyrinth-of-the-witch.json) |
+| BloodCrypt | 184242 | [184242-bloodcrypt.json](./184242-bloodcrypt.json) |
 | BloodDome Classic | 254140 | [254140-blooddome-classic.json](./254140-blooddome-classic.json) |
 | Bloodecay | 256668 | [256668-bloodecay.json](./256668-bloodecay.json) |
 | Blooded Fields | 217865 | [217865-blooded-fields.json](./217865-blooded-fields.json) |
