@@ -683,6 +683,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Momoko Gekijou: Kojikoji | 96493 | [96493-sakura-momoko-gekijou-kojikoji.json](./96493-sakura-momoko-gekijou-kojikoji.json) |
 | Sakura Moonlight | 135892 | [135892-sakura-moonlight.json](./135892-sakura-moonlight.json) |
 | Sakura no Kumo * Scarlet no Koi | 144891 | [144891-sakura-no-kumo-scarlet-no-koi.json](./144891-sakura-no-kumo-scarlet-no-koi.json) |
+| Sakura no Kumo: Scarlet no Koi | 171265 | [171265-sakura-no-kumo-scarlet-no-koi.json](./171265-sakura-no-kumo-scarlet-no-koi.json) |
+| Sakura no Kumo: Scarlet no Koi - Complete Limited Edition | 171289 | [171289-sakura-no-kumo-scarlet-no-koi-complete-limited-edition.json](./171289-sakura-no-kumo-scarlet-no-koi-complete-limited-edition.json) |
 | Sakura no Mori Dreamers | 75788 | [75788-sakura-no-mori-dreamers.json](./75788-sakura-no-mori-dreamers.json) |
 | Sakura no Mori Dreamers 2 | 114824 | [114824-sakura-no-mori-dreamers-2.json](./114824-sakura-no-mori-dreamers-2.json) |
 | Sakura no Sora to, Kimi no Koto: Sweet Petals For My Dear | 213832 | [213832-sakura-no-sora-to-kimi-no-koto-sweet-petals-for-my-dear.json](./213832-sakura-no-sora-to-kimi-no-koto-sweet-petals-for-my-dear.json) |
@@ -2531,6 +2533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scorching Strings | 331873 | [331873-scorching-strings.json](./331873-scorching-strings.json) |
 | Scorchlands | 165401 | [165401-scorchlands.json](./165401-scorchlands.json) |
 | Scorchy Sky Trials | 402905 | [402905-scorchy-sky-trials.json](./402905-scorchy-sky-trials.json) |
+| Score | 171268 | [171268-score.json](./171268-score.json) |
 | Score | 33624 | [33624-score.json](./33624-score.json) |
 | Score 3020 | 72037 | [72037-score-3020.json](./72037-score-3020.json) |
 | Score a goal (Physical football) | 29951 | [29951-score-a-goal-physical-football.json](./29951-score-a-goal-physical-football.json) |
@@ -9151,6 +9154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skatesterre | 404911 | [404911-skatesterre.json](./404911-skatesterre.json) |
 | Skator Gator | 139871 | [139871-skator-gator.json](./139871-skator-gator.json) |
 | Skator Gator 3D | 217239 | [217239-skator-gator-3d.json](./217239-skator-gator-3d.json) |
+| Skattered Dream | 171305 | [171305-skattered-dream.json](./171305-skattered-dream.json) |
 | Skautfold: Knight's End | 181058 | [181058-skautfold-knights-end.json](./181058-skautfold-knights-end.json) |
 | Skautfold: Moonless Knight | 152142 | [152142-skautfold-moonless-knight.json](./152142-skautfold-moonless-knight.json) |
 | Skautfold: Shrouded in Sanity | 19481 | [19481-skautfold-shrouded-in-sanity.json](./19481-skautfold-shrouded-in-sanity.json) |
@@ -9433,6 +9437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skools Out | 338809 | [338809-skools-out.json](./338809-skools-out.json) |
 | Skoory Rush | 250463 | [250463-skoory-rush.json](./250463-skoory-rush.json) |
 | Skorecery | 113577 | [113577-skorecery.json](./113577-skorecery.json) |
+| Skotos | 171297 | [171297-skotos.json](./171297-skotos.json) |
 | Skotos: Levels Pack | 201534 | [201534-skotos-levels-pack.json](./201534-skotos-levels-pack.json) |
 | Skout | 9358 | [9358-skout.json](./9358-skout.json) |
 | Skrach.it | 345450 | [345450-skrach-it.json](./345450-skrach-it.json) |
@@ -26820,6 +26825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Love | 165027 | [165027-sweet-love.json](./165027-sweet-love.json) |
 | Sweet Magic Madness | 99774 | [99774-sweet-magic-madness.json](./99774-sweet-magic-madness.json) |
 | Sweet Massage | 339453 | [339453-sweet-massage.json](./339453-sweet-massage.json) |
+| Sweet Match 3 | 171300 | [171300-sweet-match-3.json](./171300-sweet-match-3.json) |
 | Sweet Math | 381276 | [381276-sweet-math.json](./381276-sweet-math.json) |
 | Sweet Meat | 26385 | [26385-sweet-meat.json](./26385-sweet-meat.json) |
 | Sweet Model | 371356 | [371356-sweet-model.json](./371356-sweet-model.json) |
@@ -27670,6 +27676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthrun | 114875 | [114875-synthrun.json](./114875-synthrun.json) |
 | SynthRunner | 233630 | [233630-synthrunner.json](./233630-synthrunner.json) |
 | SynthVR | 145267 | [145267-synthvr.json](./145267-synthvr.json) |
+| Synthwaifu: Neon Space Fighter | 171314 | [171314-synthwaifu-neon-space-fighter.json](./171314-synthwaifu-neon-space-fighter.json) |
 | Synthwave Ascension | 265117 | [265117-synthwave-ascension.json](./265117-synthwave-ascension.json) |
 | Synthwave Burnout | 169733 | [169733-synthwave-burnout.json](./169733-synthwave-burnout.json) |
 | Synthwave Driver | 344387 | [344387-synthwave-driver.json](./344387-synthwave-driver.json) |
