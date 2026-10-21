@@ -767,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XRick | 280354 | [280354-xrick.json](./280354-xrick.json) |
 | XRick | 289883 | [289883-xrick.json](./289883-xrick.json) |
 | Xrodon | 62565 | [62565-xrodon.json](./62565-xrodon.json) |
+| Xross Dreams | 192593 | [192593-xross-dreams.json](./192593-xross-dreams.json) |
 | XRY | 103650 | [103650-xry.json](./103650-xry.json) |
 | XS Airboat Racing | 43942 | [43942-xs-airboat-racing.json](./43942-xs-airboat-racing.json) |
 | XS Junior League Dodgeball | 43943 | [43943-xs-junior-league-dodgeball.json](./43943-xs-junior-league-dodgeball.json) |
