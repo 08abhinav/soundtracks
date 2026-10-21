@@ -374,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyrie no Bouken: Toki no Kagi Densetsu | 48592 | [48592-valkyrie-no-bouken-toki-no-kagi-densetsu.json](./48592-valkyrie-no-bouken-toki-no-kagi-densetsu.json) |
 | Valkyrie Profile | 3998 | [3998-valkyrie-profile.json](./3998-valkyrie-profile.json) |
 | Valkyrie Profile 2: Silmeria | 11793 | [11793-valkyrie-profile-2-silmeria.json](./11793-valkyrie-profile-2-silmeria.json) |
+| Valkyrie Profile Niffynee | 189996 | [189996-valkyrie-profile-niffynee.json](./189996-valkyrie-profile-niffynee.json) |
 | Valkyrie Rising: Hordes of Ragnarök | 361860 | [361860-valkyrie-rising-hordes-of-ragnarok.json](./361860-valkyrie-rising-hordes-of-ragnarok.json) |
 | Valkyrie Saga | 280437 | [280437-valkyrie-saga.json](./280437-valkyrie-saga.json) |
 | Valkyrie Spirits | 189991 | [189991-valkyrie-spirits.json](./189991-valkyrie-spirits.json) |
@@ -2187,6 +2188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtuoso Skins Game | 391886 | [391886-virtuoso-skins-game.json](./391886-virtuoso-skins-game.json) |
 | Virtuous Western | 156056 | [156056-virtuous-western.json](./156056-virtuous-western.json) |
 | Virtuxy | 157109 | [157109-virtuxy.json](./157109-virtuxy.json) |
+| Virulence | 189852 | [189852-virulence.json](./189852-virulence.json) |
 | Virulent Vessels: The Legend of Gobbledygunk | 317985 | [317985-virulent-vessels-the-legend-of-gobbledygunk.json](./317985-virulent-vessels-the-legend-of-gobbledygunk.json) |
 | Virus | 12812 | [12812-virus.json](./12812-virus.json) |
 | Virus | 212143 | [212143-virus.json](./212143-virus.json) |
