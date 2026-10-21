@@ -4361,6 +4361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deformuseum | 405485 | [405485-deformuseum.json](./405485-deformuseum.json) |
 | Defragmenting | 390232 | [390232-defragmenting.json](./390232-defragmenting.json) |
 | Defrain | 103390 | [103390-defrain.json](./103390-defrain.json) |
+| Deft | 182742 | [182742-deft.json](./182742-deft.json) |
 | Defy Gravity Extended | 16242 | [16242-defy-gravity-extended.json](./16242-defy-gravity-extended.json) |
 | Defying Fate | 205233 | [205233-defying-fate.json](./205233-defying-fate.json) |
 | Defying Heaven's Will | 183050 | [183050-defying-heavens-will.json](./183050-defying-heavens-will.json) |
@@ -13415,6 +13416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumb Witchfinder | 362018 | [362018-dumb-witchfinder.json](./362018-dumb-witchfinder.json) |
 | Dumball Rush | 278950 | [278950-dumball-rush.json](./278950-dumball-rush.json) |
 | Dumbass Survivors | 344338 | [344338-dumbass-survivors.json](./344338-dumbass-survivors.json) |
+| Dumber dwarves | 182724 | [182724-dumber-dwarves.json](./182724-dumber-dwarves.json) |
 | Dumbino | 307569 | [307569-dumbino.json](./307569-dumbino.json) |
 | Dumbo's Flying Circus | 40639 | [40639-dumbos-flying-circus.json](./40639-dumbos-flying-circus.json) |
 | Dumbot | 330173 | [330173-dumbot.json](./330173-dumbot.json) |
@@ -13732,6 +13734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Maze | 114341 | [114341-dungeon-maze.json](./114341-dungeon-maze.json) |
 | Dungeon Maze | 343789 | [343789-dungeon-maze.json](./343789-dungeon-maze.json) |
 | Dungeon Mercenaries | 309568 | [309568-dungeon-mercenaries.json](./309568-dungeon-mercenaries.json) |
+| Dungeon Mercenary | 182721 | [182721-dungeon-mercenary.json](./182721-dungeon-mercenary.json) |
 | Dungeon Merchant | 250872 | [250872-dungeon-merchant.json](./250872-dungeon-merchant.json) |
 | Dungeon Mori | 338000 | [338000-dungeon-mori.json](./338000-dungeon-mori.json) |
 | Dungeon Munchies: Deluxe Edition | 300483 | [300483-dungeon-munchies-deluxe-edition.json](./300483-dungeon-munchies-deluxe-edition.json) |
