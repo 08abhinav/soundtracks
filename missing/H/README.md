@@ -6329,6 +6329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit Justin Bieber | 321018 | [321018-hit-justin-bieber.json](./321018-hit-justin-bieber.json) |
 | Hit Marmot | 48897 | [48897-hit-marmot.json](./48897-hit-marmot.json) |
 | Hit N 'Rush | 125355 | [125355-hit-n-rush.json](./125355-hit-n-rush.json) |
+| Hit N Descent | 179921 | [179921-hit-n-descent.json](./179921-hit-n-descent.json) |
 | Hit n' Bit | 319010 | [319010-hit-n-bit.json](./319010-hit-n-bit.json) |
 | Hit Ninja | 85183 | [85183-hit-ninja.json](./85183-hit-ninja.json) |
 | Hit Single | 299720 | [299720-hit-single.json](./299720-hit-single.json) |
@@ -7221,6 +7222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey Guardian | 212430 | [212430-honey-guardian.json](./212430-honey-guardian.json) |
 | Honey Guardian | 341651 | [341651-honey-guardian.json](./341651-honey-guardian.json) |
 | Honey Homer RPS | 288046 | [288046-honey-homer-rps.json](./288046-honey-homer-rps.json) |
+| Honey Hunt | 179931 | [179931-honey-hunt.json](./179931-honey-hunt.json) |
 | Honey Kingdom | 328248 | [328248-honey-kingdom.json](./328248-honey-kingdom.json) |
 | Honey Magician | 277969 | [277969-honey-magician.json](./277969-honey-magician.json) |
 | Honey Milf | 367044 | [367044-honey-milf.json](./367044-honey-milf.json) |
@@ -7600,6 +7602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horatio: Connector 13 (Chapters 1-12) | 303567 | [303567-horatio-connector-13-chapters-1-12.json](./303567-horatio-connector-13-chapters-1-12.json) |
 | Horcrux College | 340215 | [340215-horcrux-college.json](./340215-horcrux-college.json) |
 | HorD: High or Die | 83590 | [83590-hord-high-or-die.json](./83590-hord-high-or-die.json) |
+| Horde | 179898 | [179898-horde.json](./179898-horde.json) |
 | Horde Arena | 334304 | [334304-horde-arena.json](./334304-horde-arena.json) |
 | Horde Attack | 55664 | [55664-horde-attack.json](./55664-horde-attack.json) |
 | Horde Circuit | 420504 | [420504-horde-circuit.json](./420504-horde-circuit.json) |
