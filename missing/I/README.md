@@ -2933,6 +2933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Pixel | 62692 | [62692-infinite-pixel.json](./62692-infinite-pixel.json) |
 | Infinite Pizza | 141819 | [141819-infinite-pizza.json](./141819-infinite-pizza.json) |
 | Infinite Prison | 210531 | [210531-infinite-prison.json](./210531-infinite-prison.json) |
+| Infinite Progression | 190381 | [190381-infinite-progression.json](./190381-infinite-progression.json) |
 | Infinite Rails | 341032 | [341032-infinite-rails.json](./341032-infinite-rails.json) |
 | Infinite Rave | 112467 | [112467-infinite-rave.json](./112467-infinite-rave.json) |
 | Infinite Realms | 261771 | [261771-infinite-realms.json](./261771-infinite-realms.json) |
@@ -3304,6 +3305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inner Growth | 403134 | [403134-inner-growth.json](./403134-inner-growth.json) |
 | Inner Kung Fu Game | 99539 | [99539-inner-kung-fu-game.json](./99539-inner-kung-fu-game.json) |
 | Inner Life | 185081 | [185081-inner-life.json](./185081-inner-life.json) |
+| Inner Light | 190363 | [190363-inner-light.json](./190363-inner-light.json) |
 | Inner Riddle | 96669 | [96669-inner-riddle.json](./96669-inner-riddle.json) |
 | Inner Rooms | 405938 | [405938-inner-rooms.json](./405938-inner-rooms.json) |
 | Inner Seasons | 258964 | [258964-inner-seasons.json](./258964-inner-seasons.json) |
