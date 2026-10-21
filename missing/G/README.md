@@ -5540,6 +5540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gosaku ga Horu Mon 2: Yoru no Jugyou Sankan Hen | 214958 | [214958-gosaku-ga-horu-mon-2-yoru-no-jugyou-sankan-hen.json](./214958-gosaku-ga-horu-mon-2-yoru-no-jugyou-sankan-hen.json) |
 | Gosdooma | 292427 | [292427-gosdooma.json](./292427-gosdooma.json) |
 | Gosen-sou | 221413 | [221413-gosen-sou.json](./221413-gosen-sou.json) |
+| Gosh A Ghost | 188872 | [188872-gosh-a-ghost.json](./188872-gosh-a-ghost.json) |
 | Gosick Rogue | 341909 | [341909-gosick-rogue.json](./341909-gosick-rogue.json) |
 | GoSickRogue | 260591 | [260591-gosickrogue.json](./260591-gosickrogue.json) |
 | Gospel of Eve | 225268 | [225268-gospel-of-eve.json](./225268-gospel-of-eve.json) |
