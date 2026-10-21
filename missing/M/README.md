@@ -11793,6 +11793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly | 335112 | [335112-monopoly.json](./335112-monopoly.json) |
 | Monopoly | 335884 | [335884-monopoly.json](./335884-monopoly.json) |
 | Monopoly | 37740 | [37740-monopoly.json](./37740-monopoly.json) |
+| Monopoly and Monopoly Madness | 178280 | [178280-monopoly-and-monopoly-madness.json](./178280-monopoly-and-monopoly-madness.json) |
 | Monopoly Casino | 78950 | [78950-monopoly-casino.json](./78950-monopoly-casino.json) |
 | Monopoly City | 275217 | [275217-monopoly-city.json](./275217-monopoly-city.json) |
 | Monopoly Collection | 50615 | [50615-monopoly-collection.json](./50615-monopoly-collection.json) |
