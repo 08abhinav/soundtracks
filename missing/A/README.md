@@ -309,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Fox and His Robot | 150611 | [150611-a-fox-and-his-robot.json](./150611-a-fox-and-his-robot.json) |
 | A Fox Tale | 142477 | [142477-a-fox-tale.json](./142477-a-fox-tale.json) |
 | A Fragment of Her | 60215 | [60215-a-fragment-of-her.json](./60215-a-fragment-of-her.json) |
+| A Frail Qubit | 192722 | [192722-a-frail-qubit.json](./192722-a-frail-qubit.json) |
 | A Frantic Santa Situation | 239623 | [239623-a-frantic-santa-situation.json](./239623-a-frantic-santa-situation.json) |
 | A Friday Night Real Music Funkin Game | 325105 | [325105-a-friday-night-real-music-funkin-game.json](./325105-a-friday-night-real-music-funkin-game.json) |
 | A Frog in a Well | 337798 | [337798-a-frog-in-a-well.json](./337798-a-frog-in-a-well.json) |
@@ -3157,6 +3158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After the Fall: Frontrunner Edition | 191495 | [191495-after-the-fall-frontrunner-edition.json](./191495-after-the-fall-frontrunner-edition.json) |
 | After the Fall: Frontrunner Season | 204497 | [204497-after-the-fall-frontrunner-season.json](./204497-after-the-fall-frontrunner-season.json) |
 | After the Fall: Launch Edition | 196313 | [196313-after-the-fall-launch-edition.json](./196313-after-the-fall-launch-edition.json) |
+| After The First Station | 192719 | [192719-after-the-first-station.json](./192719-after-the-first-station.json) |
 | After the Flood | 219968 | [219968-after-the-flood.json](./219968-after-the-flood.json) |
 | After the Inferno | 211423 | [211423-after-the-inferno.json](./211423-after-the-inferno.json) |
 | After the Melodrama Novel | 379500 | [379500-after-the-melodrama-novel.json](./379500-after-the-melodrama-novel.json) |
@@ -5391,6 +5393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Pigs Deserve to Burn in Hell | 58034 | [58034-all-pigs-deserve-to-burn-in-hell.json](./58034-all-pigs-deserve-to-burn-in-hell.json) |
 | All Pro Basketball | 217823 | [217823-all-pro-basketball.json](./217823-all-pro-basketball.json) |
 | All Quiet in the Trenches | 245905 | [245905-all-quiet-in-the-trenches.json](./245905-all-quiet-in-the-trenches.json) |
+| All Quiet Roads 4743 | 192715 | [192715-all-quiet-roads-4743.json](./192715-all-quiet-roads-4743.json) |
 | All Quite on the Bridge: Mad Cliff | 105306 | [105306-all-quite-on-the-bridge-mad-cliff.json](./105306-all-quite-on-the-bridge-mad-cliff.json) |
 | All Roads Connected | 391018 | [391018-all-roads-connected.json](./391018-all-roads-connected.json) |
 | All Songs are From the King | 199505 | [199505-all-songs-are-from-the-king.json](./199505-all-songs-are-from-the-king.json) |
@@ -6051,6 +6054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaze | 29235 | [29235-amaze.json](./29235-amaze.json) |
 | Amaze 2 | 36472 | [36472-amaze-2.json](./36472-amaze-2.json) |
 | Amaze 3D | 43172 | [43172-amaze-3d.json](./43172-amaze-3d.json) |
+| Amaze Adventure | 192590 | [192590-amaze-adventure.json](./192590-amaze-adventure.json) |
 | Amaze Christmas | 112829 | [112829-amaze-christmas.json](./112829-amaze-christmas.json) |
 | Amaze Classic | 98686 | [98686-amaze-classic.json](./98686-amaze-classic.json) |
 | Amaze Classic: Inverted | 104079 | [104079-amaze-classic-inverted.json](./104079-amaze-classic-inverted.json) |
