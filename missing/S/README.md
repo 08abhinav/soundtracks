@@ -3659,6 +3659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | See No Evil | 17642 | [17642-see-no-evil.json](./17642-see-no-evil.json) |
 | See No Fear | 243046 | [243046-see-no-fear.json](./243046-see-no-fear.json) |
 | See Thru: Need a Friend? | 305333 | [305333-see-thru-need-a-friend.json](./305333-see-thru-need-a-friend.json) |
+| See You In Desolation? | 190375 | [190375-see-you-in-desolation.json](./190375-see-you-in-desolation.json) |
 | See You Later | 235451 | [235451-see-you-later.json](./235451-see-you-later.json) |
 | See You on the Other Side | 180188 | [180188-see-you-on-the-other-side.json](./180188-see-you-on-the-other-side.json) |
 | See you: A brief exile | 159745 | [159745-see-you-a-brief-exile.json](./159745-see-you-a-brief-exile.json) |
@@ -7652,6 +7653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Side Bullet | 197657 | [197657-side-bullet.json](./197657-side-bullet.json) |
 | Side by Side Special | 93055 | [93055-side-by-side-special.json](./93055-side-by-side-special.json) |
 | Side by Side Special 2000 | 43767 | [43767-side-by-side-special-2000.json](./43767-side-by-side-special-2000.json) |
+| Side Effect | 190488 | [190488-side-effect.json](./190488-side-effect.json) |
 | Side Effects | 343472 | [343472-side-effects.json](./343472-side-effects.json) |
 | Side Effects | 364621 | [364621-side-effects.json](./364621-side-effects.json) |
 | Side Hustle City | 364066 | [364066-side-hustle-city.json](./364066-side-hustle-city.json) |
@@ -10427,6 +10429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slip & Skid | 275082 | [275082-slip-and-skid.json](./275082-slip-and-skid.json) |
 | Slip Tripping | 271189 | [271189-slip-tripping.json](./271189-slip-tripping.json) |
 | Slip, Slap 'n' Quack! | 177020 | [177020-slip-slap-n-quack.json](./177020-slip-slap-n-quack.json) |
+| SlipDream Resonator | 190379 | [190379-slipdream-resonator.json](./190379-slipdream-resonator.json) |
 | SlipDrive | 104553 | [104553-slipdrive.json](./104553-slipdrive.json) |
 | Slipgate to a Lost Dimension | 271188 | [271188-slipgate-to-a-lost-dimension.json](./271188-slipgate-to-a-lost-dimension.json) |
 | Slippery Delivery | 278885 | [278885-slippery-delivery.json](./278885-slippery-delivery.json) |
@@ -18837,6 +18840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starbirds | 73292 | [73292-starbirds.json](./73292-starbirds.json) |
 | Starbites | 235475 | [235475-starbites.json](./235475-starbites.json) |
 | Starblade | 138827 | [138827-starblade.json](./138827-starblade.json) |
+| Starblast: Retro Wars | 190367 | [190367-starblast-retro-wars.json](./190367-starblast-retro-wars.json) |
 | Starblaze | 42133 | [42133-starblaze.json](./42133-starblaze.json) |
 | Starblazer | 112773 | [112773-starblazer.json](./112773-starblazer.json) |
 | Starblind | 293175 | [293175-starblind.json](./293175-starblind.json) |
@@ -19149,6 +19153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starry Moon Island 2: Break Out MP10 | 190567 | [190567-starry-moon-island-2-break-out-mp10.json](./190567-starry-moon-island-2-break-out-mp10.json) |
 | Starry Moon Island 2: Cannon War MP01 | 190520 | [190520-starry-moon-island-2-cannon-war-mp01.json](./190520-starry-moon-island-2-cannon-war-mp01.json) |
 | Starry Moon Island 2: Cannon War MP02 | 190526 | [190526-starry-moon-island-2-cannon-war-mp02.json](./190526-starry-moon-island-2-cannon-war-mp02.json) |
+| Starry Moon Island 2: Cannon War MP03 | 190517 | [190517-starry-moon-island-2-cannon-war-mp03.json](./190517-starry-moon-island-2-cannon-war-mp03.json) |
 | Starry Moon Island 2: Cannon War MP04 | 190523 | [190523-starry-moon-island-2-cannon-war-mp04.json](./190523-starry-moon-island-2-cannon-war-mp04.json) |
 | Starry Moon Island 2: Cannon War MP05 | 190525 | [190525-starry-moon-island-2-cannon-war-mp05.json](./190525-starry-moon-island-2-cannon-war-mp05.json) |
 | Starry Moon Island 2: Cannon War MP06 | 190521 | [190521-starry-moon-island-2-cannon-war-mp06.json](./190521-starry-moon-island-2-cannon-war-mp06.json) |
@@ -19196,6 +19201,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starry Moon Island 2: Out of Control MP08 | 190542 | [190542-starry-moon-island-2-out-of-control-mp08.json](./190542-starry-moon-island-2-out-of-control-mp08.json) |
 | Starry Moon Island 2: Out of Control MP09 | 190543 | [190543-starry-moon-island-2-out-of-control-mp09.json](./190543-starry-moon-island-2-out-of-control-mp09.json) |
 | Starry Moon Island 2: Out of Control MP10 | 190545 | [190545-starry-moon-island-2-out-of-control-mp10.json](./190545-starry-moon-island-2-out-of-control-mp10.json) |
+| Starry Moon Island 2: Perimeter MP01 | 190515 | [190515-starry-moon-island-2-perimeter-mp01.json](./190515-starry-moon-island-2-perimeter-mp01.json) |
+| Starry Moon Island 2: Perimeter MP02 | 190507 | [190507-starry-moon-island-2-perimeter-mp02.json](./190507-starry-moon-island-2-perimeter-mp02.json) |
+| Starry Moon Island 2: Perimeter MP03 | 190508 | [190508-starry-moon-island-2-perimeter-mp03.json](./190508-starry-moon-island-2-perimeter-mp03.json) |
+| Starry Moon Island 2: Perimeter MP04 | 190516 | [190516-starry-moon-island-2-perimeter-mp04.json](./190516-starry-moon-island-2-perimeter-mp04.json) |
+| Starry Moon Island 2: Perimeter MP05 | 190509 | [190509-starry-moon-island-2-perimeter-mp05.json](./190509-starry-moon-island-2-perimeter-mp05.json) |
+| Starry Moon Island 2: Perimeter MP06 | 190511 | [190511-starry-moon-island-2-perimeter-mp06.json](./190511-starry-moon-island-2-perimeter-mp06.json) |
+| Starry Moon Island 2: Perimeter MP07 | 190510 | [190510-starry-moon-island-2-perimeter-mp07.json](./190510-starry-moon-island-2-perimeter-mp07.json) |
+| Starry Moon Island 2: Perimeter MP08 | 190514 | [190514-starry-moon-island-2-perimeter-mp08.json](./190514-starry-moon-island-2-perimeter-mp08.json) |
+| Starry Moon Island 2: Perimeter MP09 | 190513 | [190513-starry-moon-island-2-perimeter-mp09.json](./190513-starry-moon-island-2-perimeter-mp09.json) |
+| Starry Moon Island 2: Perimeter MP10 | 190512 | [190512-starry-moon-island-2-perimeter-mp10.json](./190512-starry-moon-island-2-perimeter-mp10.json) |
 | Starry Moon Island 2: Red Snake MP01 | 190536 | [190536-starry-moon-island-2-red-snake-mp01.json](./190536-starry-moon-island-2-red-snake-mp01.json) |
 | Starry Moon Island 2: Red Snake MP02 | 190532 | [190532-starry-moon-island-2-red-snake-mp02.json](./190532-starry-moon-island-2-red-snake-mp02.json) |
 | Starry Moon Island 2: Red Snake MP03 | 190534 | [190534-starry-moon-island-2-red-snake-mp03.json](./190534-starry-moon-island-2-red-snake-mp03.json) |
@@ -19206,6 +19221,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starry Moon Island 2: Red Snake MP08 | 190531 | [190531-starry-moon-island-2-red-snake-mp08.json](./190531-starry-moon-island-2-red-snake-mp08.json) |
 | Starry Moon Island 2: Red Snake MP09 | 190529 | [190529-starry-moon-island-2-red-snake-mp09.json](./190529-starry-moon-island-2-red-snake-mp09.json) |
 | Starry Moon Island 2: Red Snake MP10 | 190528 | [190528-starry-moon-island-2-red-snake-mp10.json](./190528-starry-moon-island-2-red-snake-mp10.json) |
+| Starry Moon Island 2: Star Ocean MP01 | 190499 | [190499-starry-moon-island-2-star-ocean-mp01.json](./190499-starry-moon-island-2-star-ocean-mp01.json) |
+| Starry Moon Island 2: Star Ocean MP02 | 190502 | [190502-starry-moon-island-2-star-ocean-mp02.json](./190502-starry-moon-island-2-star-ocean-mp02.json) |
+| Starry Moon Island 2: Star Ocean MP03 | 190497 | [190497-starry-moon-island-2-star-ocean-mp03.json](./190497-starry-moon-island-2-star-ocean-mp03.json) |
+| Starry Moon Island 2: Star Ocean MP04 | 190505 | [190505-starry-moon-island-2-star-ocean-mp04.json](./190505-starry-moon-island-2-star-ocean-mp04.json) |
+| Starry Moon Island 2: Star Ocean MP05 | 190503 | [190503-starry-moon-island-2-star-ocean-mp05.json](./190503-starry-moon-island-2-star-ocean-mp05.json) |
+| Starry Moon Island 2: Star Ocean MP06 | 190500 | [190500-starry-moon-island-2-star-ocean-mp06.json](./190500-starry-moon-island-2-star-ocean-mp06.json) |
+| Starry Moon Island 2: Star Ocean MP07 | 190501 | [190501-starry-moon-island-2-star-ocean-mp07.json](./190501-starry-moon-island-2-star-ocean-mp07.json) |
+| Starry Moon Island 2: Star Ocean MP08 | 190504 | [190504-starry-moon-island-2-star-ocean-mp08.json](./190504-starry-moon-island-2-star-ocean-mp08.json) |
+| Starry Moon Island 2: Star Ocean MP09 | 190506 | [190506-starry-moon-island-2-star-ocean-mp09.json](./190506-starry-moon-island-2-star-ocean-mp09.json) |
+| Starry Moon Island 2: Star Ocean MP10 | 190498 | [190498-starry-moon-island-2-star-ocean-mp10.json](./190498-starry-moon-island-2-star-ocean-mp10.json) |
 | Starry Moon Island 2: Tank Advance MP01 | 190583 | [190583-starry-moon-island-2-tank-advance-mp01.json](./190583-starry-moon-island-2-tank-advance-mp01.json) |
 | Starry Moon Island 2: Tank Advance MP02 | 190585 | [190585-starry-moon-island-2-tank-advance-mp02.json](./190585-starry-moon-island-2-tank-advance-mp02.json) |
 | Starry Moon Island 2: Tank Advance MP03 | 190582 | [190582-starry-moon-island-2-tank-advance-mp03.json](./190582-starry-moon-island-2-tank-advance-mp03.json) |
@@ -26320,6 +26345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Svea Rike 2 | 84179 | [84179-svea-rike-2.json](./84179-svea-rike-2.json) |
 | Sveerz | 201280 | [201280-sveerz.json](./201280-sveerz.json) |
 | Sveerz Deluxe | 78378 | [78378-sveerz-deluxe.json](./78378-sveerz-deluxe.json) |
+| Sven - Gut zu Vogeln | 190486 | [190486-sven-gut-zu-vogeln.json](./190486-sven-gut-zu-vogeln.json) |
 | Sven Bømwøllen | 93079 | [93079-sven-b-mw-llen.json](./93079-sven-b-mw-llen.json) |
 | Sven Gordan Paranormal Parody | 326800 | [326800-sven-gordan-paranormal-parody.json](./326800-sven-gordan-paranormal-parody.json) |
 | Sven kommt! | 76471 | [76471-sven-kommt.json](./76471-sven-kommt.json) |
