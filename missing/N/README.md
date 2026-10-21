@@ -1362,6 +1362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nederland | 57013 | [57013-nederland.json](./57013-nederland.json) |
 | Nedetskie Skazki | 252821 | [252821-nedetskie-skazki.json](./252821-nedetskie-skazki.json) |
 | Nedia Hotel | 201548 | [201548-nedia-hotel.json](./201548-nedia-hotel.json) |
+| Nedoida | 179358 | [179358-nedoida.json](./179358-nedoida.json) |
 | Nedra | 324297 | [324297-nedra.json](./324297-nedra.json) |
 | Nedy's Adventure: The Curse of Vera Deluxe | 324525 | [324525-nedys-adventure-the-curse-of-vera-deluxe.json](./324525-nedys-adventure-the-curse-of-vera-deluxe.json) |
 | Neebota: Zeebo's Awakening | 164090 | [164090-neebota-zeebos-awakening.json](./164090-neebota-zeebos-awakening.json) |
