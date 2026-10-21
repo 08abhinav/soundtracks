@@ -3048,6 +3048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Riding Hood: Star Crossed Lovers | 96880 | [96880-red-riding-hood-star-crossed-lovers.json](./96880-red-riding-hood-star-crossed-lovers.json) |
 | Red Ring of Immortality | 238010 | [238010-red-ring-of-immortality.json](./238010-red-ring-of-immortality.json) |
 | Red River | 360727 | [360727-red-river.json](./360727-red-river.json) |
+| Red Robin | 171823 | [171823-red-robin.json](./171823-red-robin.json) |
 | Red Rogue Sea | 338332 | [338332-red-rogue-sea.json](./338332-red-rogue-sea.json) |
 | Red Ronin | 133967 | [133967-red-ronin.json](./133967-red-ronin.json) |
 | Red Room | 178998 | [178998-red-room.json](./178998-red-room.json) |
@@ -3350,6 +3351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refarm | 312178 | [312178-refarm.json](./312178-refarm.json) |
 | Refbals | 392272 | [392272-refbals.json](./392272-refbals.json) |
 | Referee Life Simulator 2026 | 373192 | [373192-referee-life-simulator-2026.json](./373192-referee-life-simulator-2026.json) |
+| Referee Simulator | 171818 | [171818-referee-simulator.json](./171818-referee-simulator.json) |
 | Reficul | 74504 | [74504-reficul.json](./74504-reficul.json) |
 | Refidenptio | 258988 | [258988-refidenptio.json](./258988-refidenptio.json) |
 | Refight: Burning Engine | 110765 | [110765-refight-burning-engine.json](./110765-refight-burning-engine.json) |
@@ -4792,6 +4794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Krondor | 8827 | [8827-return-to-krondor.json](./8827-return-to-krondor.json) |
 | Return to Kroz | 71789 | [71789-return-to-kroz.json](./71789-return-to-kroz.json) |
 | Return to Long Shadows | 406091 | [406091-return-to-long-shadows.json](./406091-return-to-long-shadows.json) |
+| Return to Melanat | 171785 | [171785-return-to-melanat.json](./171785-return-to-melanat.json) |
 | Return to Mysterious Island | 17052 | [17052-return-to-mysterious-island.json](./17052-return-to-mysterious-island.json) |
 | Return to Mysterious Island 2 | 17058 | [17058-return-to-mysterious-island-2.json](./17058-return-to-mysterious-island-2.json) |
 | Return to Nangrim | 116280 | [116280-return-to-nangrim.json](./116280-return-to-nangrim.json) |
@@ -7167,6 +7170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock, Paper, Scissors, Shoot! | 408804 | [408804-rock-paper-scissors-shoot.json](./408804-rock-paper-scissors-shoot.json) |
 | Rock, the Tree Hugger | 34732 | [34732-rock-the-tree-hugger.json](./34732-rock-the-tree-hugger.json) |
 | Rock: Paper - Death | 392934 | [392934-rock-paper-death.json](./392934-rock-paper-death.json) |
+| Rock'n Bark | 171853 | [171853-rockn-bark.json](./171853-rockn-bark.json) |
 | Rock'n Wrestle | 39146 | [39146-rockn-wrestle.json](./39146-rockn-wrestle.json) |
 | Rock'n' Ball | 48206 | [48206-rockn-ball.json](./48206-rockn-ball.json) |
 | Rock'n'Roll: Card Wargame | 163957 | [163957-rocknroll-card-wargame.json](./163957-rocknroll-card-wargame.json) |
@@ -7381,6 +7385,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman 8 Metal Heroes Famicom | 142354 | [142354-rockman-8-metal-heroes-famicom.json](./142354-rockman-8-metal-heroes-famicom.json) |
 | Rockman Battle & Fighters | 75515 | [75515-rockman-battle-and-fighters.json](./75515-rockman-battle-and-fighters.json) |
 | Rockman Complete Works: Rockman | 84124 | [84124-rockman-complete-works-rockman.json](./84124-rockman-complete-works-rockman.json) |
+| Rockman Complete Works: Rockman 2 - Dr. Wily no Nazo | 171827 | [171827-rockman-complete-works-rockman-2-dr-wily-no-nazo.json](./171827-rockman-complete-works-rockman-2-dr-wily-no-nazo.json) |
+| Rockman Complete Works: Rockman 3 - Dr. Wily no Saigo!? | 171828 | [171828-rockman-complete-works-rockman-3-dr-wily-no-saigo.json](./171828-rockman-complete-works-rockman-3-dr-wily-no-saigo.json) |
+| Rockman Complete Works: Rockman 4 - Aratanaru Yabou!! | 171829 | [171829-rockman-complete-works-rockman-4-aratanaru-yabou.json](./171829-rockman-complete-works-rockman-4-aratanaru-yabou.json) |
+| Rockman Complete Works: Rockman 5 - Blues no Wana!? | 171830 | [171830-rockman-complete-works-rockman-5-blues-no-wana.json](./171830-rockman-complete-works-rockman-5-blues-no-wana.json) |
+| Rockman Complete Works: Rockman 6 - Shijou Saidai no Tatakai!! | 171832 | [171832-rockman-complete-works-rockman-6-shijou-saidai-no-tatakai.json](./171832-rockman-complete-works-rockman-6-shijou-saidai-no-tatakai.json) |
 | Rockman Dash / Rockman Dash 2 Value Pack | 171885 | [171885-rockman-dash-rockman-dash-2-value-pack.json](./171885-rockman-dash-rockman-dash-2-value-pack.json) |
 | Rockman Dash Zhěngjiù Dìqiú Dàmàoxiǎn | 290875 | [290875-rockman-dash-zhengjiu-diqiu-damaoxian.json](./290875-rockman-dash-zhengjiu-diqiu-damaoxian.json) |
 | Rockman Dash: 5tsu no Shima no Daibouken! | 229209 | [229209-rockman-dash-5tsu-no-shima-no-daibouken.json](./229209-rockman-dash-5tsu-no-shima-no-daibouken.json) |
