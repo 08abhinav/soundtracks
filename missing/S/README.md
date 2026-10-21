@@ -3009,6 +3009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Battle: Annihilation | 144816 | [144816-sea-battle-annihilation.json](./144816-sea-battle-annihilation.json) |
 | Sea Bikers Jetski | 368896 | [368896-sea-bikers-jetski.json](./368896-sea-bikers-jetski.json) |
 | Sea Birds: End of an Age | 113528 | [113528-sea-birds-end-of-an-age.json](./113528-sea-birds-end-of-an-age.json) |
+| Sea Blade | 193781 | [193781-sea-blade.json](./193781-sea-blade.json) |
 | Sea Blast | 91729 | [91729-sea-blast.json](./91729-sea-blast.json) |
 | Sea Blindness | 343428 | [343428-sea-blindness.json](./343428-sea-blindness.json) |
 | Sea Bubble | 121329 | [121329-sea-bubble.json](./121329-sea-bubble.json) |
@@ -9507,6 +9508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Jaguar 2 | 138250 | [138250-sky-jaguar-2.json](./138250-sky-jaguar-2.json) |
 | Sky Jinks | 18529 | [18529-sky-jinks.json](./18529-sky-jinks.json) |
 | Sky Journey: Cozy Mornings | 290710 | [290710-sky-journey-cozy-mornings.json](./290710-sky-journey-cozy-mornings.json) |
+| Sky Jump | 193633 | [193633-sky-jump.json](./193633-sky-jump.json) |
 | Sky Jumping | 336626 | [336626-sky-jumping.json](./336626-sky-jumping.json) |
 | Sky Kid | 239160 | [239160-sky-kid.json](./239160-sky-kid.json) |
 | Sky Kid | 293755 | [293755-sky-kid.json](./293755-sky-kid.json) |
@@ -19465,6 +19467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stasis: Bone Totem | 140866 | [140866-stasis-bone-totem.json](./140866-stasis-bone-totem.json) |
 | Stasis: Deluxe Edition | 51894 | [51894-stasis-deluxe-edition.json](./51894-stasis-deluxe-edition.json) |
 | Stasis: Special Edition | 53658 | [53658-stasis-special-edition.json](./53658-stasis-special-edition.json) |
+| State Connect: Traffic Control | 193779 | [193779-state-connect-traffic-control.json](./193779-state-connect-traffic-control.json) |
 | State of Anarchy: Master of Mayhem | 29889 | [29889-state-of-anarchy-master-of-mayhem.json](./29889-state-of-anarchy-master-of-mayhem.json) |
 | State of Decay | 3049 | [3049-state-of-decay.json](./3049-state-of-decay.json) |
 | State of Decay 2: Curveball Update | 266858 | [266858-state-of-decay-2-curveball-update.json](./266858-state-of-decay-2-curveball-update.json) |
@@ -23868,6 +23871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Laydock: Mission Striker | 72144 | [72144-super-laydock-mission-striker.json](./72144-super-laydock-mission-striker.json) |
 | Super League | 415935 | [415935-super-league.json](./415935-super-league.json) |
 | Super League Pro Rugby | 80239 | [80239-super-league-pro-rugby.json](./80239-super-league-pro-rugby.json) |
+| Super Leap Day | 193770 | [193770-super-leap-day.json](./193770-super-leap-day.json) |
 | Super Ledgehop: Double Laser | 110857 | [110857-super-ledgehop-double-laser.json](./110857-super-ledgehop-double-laser.json) |
 | Super Lee World | 120950 | [120950-super-lee-world.json](./120950-super-lee-world.json) |
 | Super Lemonade Factory | 17540 | [17540-super-lemonade-factory.json](./17540-super-lemonade-factory.json) |
@@ -26241,6 +26245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sut | 271903 | [271903-sut.json](./271903-sut.json) |
 | Sutakomi: Star Communicator | 49804 | [49804-sutakomi-star-communicator.json](./49804-sutakomi-star-communicator.json) |
 | Sutobasu Yarou Shou | 42426 | [42426-sutobasu-yarou-shou.json](./42426-sutobasu-yarou-shou.json) |
+| Sutopuri Nurie | 193783 | [193783-sutopuri-nurie.json](./193783-sutopuri-nurie.json) |
 | Sutte Hakkun | 356234 | [356234-sutte-hakkun.json](./356234-sutte-hakkun.json) |
 | Sutte Hakkun | 42541 | [42541-sutte-hakkun.json](./42541-sutte-hakkun.json) |
 | Suugaku Riki-ou: Shokyuu Chuu-1 Level | 282046 | [282046-suugaku-riki-ou-shokyuu-chuu-1-level.json](./282046-suugaku-riki-ou-shokyuu-chuu-1-level.json) |
@@ -27064,6 +27069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords and Sorcery Underworld | 27757 | [27757-swords-and-sorcery-underworld.json](./27757-swords-and-sorcery-underworld.json) |
 | Swords and Sorcery Underworld: Definitive Edition | 34318 | [34318-swords-and-sorcery-underworld-definitive-edition.json](./34318-swords-and-sorcery-underworld-definitive-edition.json) |
 | Swords and Souls | 58741 | [58741-swords-and-souls.json](./58741-swords-and-souls.json) |
+| Swords and Their Boy | 193639 | [193639-swords-and-their-boy.json](./193639-swords-and-their-boy.json) |
 | Swords Fantasy: Battlefield | 192450 | [192450-swords-fantasy-battlefield.json](./192450-swords-fantasy-battlefield.json) |
 | Swords of Anima | 193683 | [193683-swords-of-anima.json](./193683-swords-of-anima.json) |
 | Swords of Blood | 365203 | [365203-swords-of-blood.json](./365203-swords-of-blood.json) |
@@ -27432,6 +27438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syphon Filter: Logan's Shadow | 19430 | [19430-syphon-filter-logans-shadow.json](./19430-syphon-filter-logans-shadow.json) |
 | Syphon Filter: The Omega Strain | 20185 | [20185-syphon-filter-the-omega-strain.json](./20185-syphon-filter-the-omega-strain.json) |
 | Syr and the Stars' Revival | 399187 | [399187-syr-and-the-stars-revival.json](./399187-syr-and-the-stars-revival.json) |
+| Syrak: the War in the Middle-East | 193648 | [193648-syrak-the-war-in-the-middle-east.json](./193648-syrak-the-war-in-the-middle-east.json) |
 | Syrenka Racer | 255659 | [255659-syrenka-racer.json](./255659-syrenka-racer.json) |
 | Syrian Warfare: Battlefields | 164603 | [164603-syrian-warfare-battlefields.json](./164603-syrian-warfare-battlefields.json) |
 | Syrian Warfare: Return to Palmyra | 167798 | [167798-syrian-warfare-return-to-palmyra.json](./167798-syrian-warfare-return-to-palmyra.json) |
