@@ -769,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badland Brawl | 77663 | [77663-badland-brawl.json](./77663-badland-brawl.json) |
 | Badland Caravan | 118296 | [118296-badland-caravan.json](./118296-badland-caravan.json) |
 | Badland Envoys | 129636 | [129636-badland-envoys.json](./129636-badland-envoys.json) |
+| Badland Party | 200420 | [200420-badland-party.json](./200420-badland-party.json) |
 | Badland: Game of the Year Edition | 20042 | [20042-badland-game-of-the-year-edition.json](./20042-badland-game-of-the-year-edition.json) |
 | Badlanders | 140378 | [140378-badlanders.json](./140378-badlanders.json) |
 | Badlanders | 192286 | [192286-badlanders.json](./192286-badlanders.json) |
@@ -6311,6 +6312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bipolar: The Tube | 327671 | [327671-bipolar-the-tube.json](./327671-bipolar-the-tube.json) |
 | Bipt | 338239 | [338239-bipt.json](./338239-bipt.json) |
 | Bir Garip Diyar: Hatunum Nerede? | 346932 | [346932-bir-garip-diyar-hatunum-nerede.json](./346932-bir-garip-diyar-hatunum-nerede.json) |
+| Birb Café | 200356 | [200356-birb-cafe.json](./200356-birb-cafe.json) |
 | Birb Game | 343803 | [343803-birb-game.json](./343803-birb-game.json) |
 | Birbout! | 148910 | [148910-birbout.json](./148910-birbout.json) |
 | Birch Simulator | 271136 | [271136-birch-simulator.json](./271136-birch-simulator.json) |
