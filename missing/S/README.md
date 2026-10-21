@@ -1946,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayori Shoots Up The Literature Club | 257531 | [257531-sayori-shoots-up-the-literature-club.json](./257531-sayori-shoots-up-the-literature-club.json) |
 | Sbaceball | 197700 | [197700-sbaceball.json](./197700-sbaceball.json) |
 | SBK 2011: Superbike World Championship | 41583 | [41583-sbk-2011-superbike-world-championship.json](./41583-sbk-2011-superbike-world-championship.json) |
+| SBK Team Manager | 200317 | [200317-sbk-team-manager.json](./200317-sbk-team-manager.json) |
 | SBK-07 Superbike World Championship | 21421 | [21421-sbk-07-superbike-world-championship.json](./21421-sbk-07-superbike-world-championship.json) |
 | SBK-08: Superbike World Championship | 264881 | [264881-sbk-08-superbike-world-championship.json](./264881-sbk-08-superbike-world-championship.json) |
 | SBK16 Official Mobile Game | 175667 | [175667-sbk16-official-mobile-game.json](./175667-sbk16-official-mobile-game.json) |
@@ -2354,6 +2355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schrödinger’s Maze | 358477 | [358477-schrodinger-s-maze.json](./358477-schrodinger-s-maze.json) |
 | Schrödinger's Rat | 21776 | [21776-schrodingers-rat.json](./21776-schrodingers-rat.json) |
 | Schrott | 250820 | [250820-schrott.json](./250820-schrott.json) |
+| Schtroumpfs | 200341 | [200341-schtroumpfs.json](./200341-schtroumpfs.json) |
 | Schwarzenberg | 86063 | [86063-schwarzenberg.json](./86063-schwarzenberg.json) |
 | Schwarzerblitz | 118188 | [118188-schwarzerblitz.json](./118188-schwarzerblitz.json) |
 | Schwarzerblitz: 8-Colors Star Guardians Collaboration Costumes - Chapter 1 | 265083 | [265083-schwarzerblitz-8-colors-star-guardians-collaboration-costumes-chapter-1.json](./265083-schwarzerblitz-8-colors-star-guardians-collaboration-costumes-chapter-1.json) |
@@ -11012,6 +11014,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smurf | 198891 | [198891-smurf.json](./198891-smurf.json) |
 | Smurf | 198892 | [198892-smurf.json](./198892-smurf.json) |
 | Smurf | 198893 | [198893-smurf.json](./198893-smurf.json) |
+| Smurf | 200342 | [200342-smurf.json](./200342-smurf.json) |
+| Smurf | 200343 | [200343-smurf.json](./200343-smurf.json) |
+| Smurf | 200344 | [200344-smurf.json](./200344-smurf.json) |
 | Smurf Life | 261326 | [261326-smurf-life.json](./261326-smurf-life.json) |
 | Smurf: Rescue in Gargamel's Castle | 8080 | [8080-smurf-rescue-in-gargamels-castle.json](./8080-smurf-rescue-in-gargamels-castle.json) |
 | Smurfen | 366256 | [366256-smurfen.json](./366256-smurfen.json) |
