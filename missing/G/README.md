@@ -3829,6 +3829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloctopus | 345682 | [345682-gloctopus.json](./345682-gloctopus.json) |
 | Gloggy | 261697 | [261697-gloggy.json](./261697-gloggy.json) |
 | Glogwillette | 306968 | [306968-glogwillette.json](./306968-glogwillette.json) |
+| Gloo Storm | 194864 | [194864-gloo-storm.json](./194864-gloo-storm.json) |
 | Gloom | 151203 | [151203-gloom.json](./151203-gloom.json) |
 | Gloom | 3030 | [3030-gloom.json](./3030-gloom.json) |
 | Gloom | 77750 | [77750-gloom.json](./77750-gloom.json) |
@@ -4199,6 +4200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go, Diego, Go! Great Dinosaur Rescue | 47978 | [47978-go-diego-go-great-dinosaur-rescue.json](./47978-go-diego-go-great-dinosaur-rescue.json) |
 | Go, Diego, Go! Safari Rescue | 209758 | [209758-go-diego-go-safari-rescue.json](./209758-go-diego-go-safari-rescue.json) |
 | Go, Diego, Go! Safari Rescue | 209759 | [209759-go-diego-go-safari-rescue.json](./209759-go-diego-go-safari-rescue.json) |
+| Go, Go, Knight! | 195004 | [195004-go-go-knight.json](./195004-go-go-knight.json) |
 | Go, Smile | 246336 | [246336-go-smile.json](./246336-go-smile.json) |
 | Go, Sprout! | 200397 | [200397-go-sprout.json](./200397-go-sprout.json) |
 | Go! Benny! | 48321 | [48321-go-benny.json](./48321-go-benny.json) |
@@ -4923,6 +4925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoldenLand | 256693 | [256693-goldenland.json](./256693-goldenland.json) |
 | GoldenMiner | 253939 | [253939-goldenminer.json](./253939-goldenminer.json) |
 | GoldenShot | 275686 | [275686-goldenshot.json](./275686-goldenshot.json) |
+| Goldfinger 64 | 194834 | [194834-goldfinger-64.json](./194834-goldfinger-64.json) |
 | Goldfish | 346226 | [346226-goldfish.json](./346226-goldfish.json) |
 | Goldfish Brain | 142952 | [142952-goldfish-brain.json](./142952-goldfish-brain.json) |
 | Goldfish Go-Karts | 166298 | [166298-goldfish-go-karts.json](./166298-goldfish-go-karts.json) |
@@ -8271,6 +8274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunma's Ambition: You and me are Gunma - Reiwa 2nd National Census Edition | 331891 | [331891-gunmas-ambition-you-and-me-are-gunma-reiwa-2nd-national-census-edition.json](./331891-gunmas-ambition-you-and-me-are-gunma-reiwa-2nd-national-census-edition.json) |
 | Gunman | 172650 | [172650-gunman.json](./172650-gunman.json) |
 | Gunman Clive 2 | 8605 | [8605-gunman-clive-2.json](./8605-gunman-clive-2.json) |
+| Gunman Clive Game Boy Edition | 194831 | [194831-gunman-clive-game-boy-edition.json](./194831-gunman-clive-game-boy-edition.json) |
 | Gunman Contracts: Stand Alone | 269009 | [269009-gunman-contracts-stand-alone.json](./269009-gunman-contracts-stand-alone.json) |
 | Gunman Taco Truck | 27084 | [27084-gunman-taco-truck.json](./27084-gunman-taco-truck.json) |
 | Gunman Tales | 102450 | [102450-gunman-tales.json](./102450-gunman-tales.json) |
@@ -8607,6 +8611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gym Simulator 24 | 263793 | [263793-gym-simulator-24.json](./263793-gym-simulator-24.json) |
 | Gym Simulator 26 | 397070 | [397070-gym-simulator-26.json](./397070-gym-simulator-26.json) |
 | Gym Simulator Ultimate | 312441 | [312441-gym-simulator-ultimate.json](./312441-gym-simulator-ultimate.json) |
+| GymBeasts | 194836 | [194836-gymbeasts.json](./194836-gymbeasts.json) |
 | GymBro | 309954 | [309954-gymbro.json](./309954-gymbro.json) |
 | Gymnastics Girl | 90349 | [90349-gymnastics-girl.json](./90349-gymnastics-girl.json) |
 | Gymnastics Queen | 96606 | [96606-gymnastics-queen.json](./96606-gymnastics-queen.json) |
