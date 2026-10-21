@@ -1935,6 +1935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeGeGe no Kitaro: Yokai Souzoushu Arawaru! | 64109 | [64109-gegege-no-kitaro-yokai-souzoushu-arawaru.json](./64109-gegege-no-kitaro-yokai-souzoushu-arawaru.json) |
 | Geheimprojekt DMSO | 84227 | [84227-geheimprojekt-dmso.json](./84227-geheimprojekt-dmso.json) |
 | Gehena | 192459 | [192459-gehena.json](./192459-gehena.json) |
+| Gehinnom | 172974 | [172974-gehinnom.json](./172974-gehinnom.json) |
 | Gehirn Sport Sammlung | 81388 | [81388-gehirn-sport-sammlung.json](./81388-gehirn-sport-sammlung.json) |
 | Gehirntrainer | 76942 | [76942-gehirntrainer.json](./76942-gehirntrainer.json) |
 | Geisha | 12116 | [12116-geisha.json](./12116-geisha.json) |
