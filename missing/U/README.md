@@ -1533,6 +1533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underwater Life | 148514 | [148514-underwater-life.json](./148514-underwater-life.json) |
 | Underwater Life Bundle | 273005 | [273005-underwater-life-bundle.json](./273005-underwater-life-bundle.json) |
 | Underwater Puzzle: Echter Puzzlespass für Unterwegs | 252656 | [252656-underwater-puzzle-echter-puzzlespass-fur-unterwegs.json](./252656-underwater-puzzle-echter-puzzlespass-fur-unterwegs.json) |
+| Underwater Rescue | 189374 | [189374-underwater-rescue.json](./189374-underwater-rescue.json) |
 | Underwater World | 204924 | [204924-underwater-world.json](./204924-underwater-world.json) |
 | Underwater World: DLC Pack | 263150 | [263150-underwater-world-dlc-pack.json](./263150-underwater-world-dlc-pack.json) |
 | Underwater: Stay Alive | 114194 | [114194-underwater-stay-alive.json](./114194-underwater-stay-alive.json) |
