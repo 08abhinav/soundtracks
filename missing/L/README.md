@@ -6591,6 +6591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Dots | 88160 | [88160-love-dots.json](./88160-love-dots.json) |
 | Love Drops | 204395 | [204395-love-drops.json](./204395-love-drops.json) |
 | Love Drops: Miracle Doukyo Monogatari | 204393 | [204393-love-drops-miracle-doukyo-monogatari.json](./204393-love-drops-miracle-doukyo-monogatari.json) |
+| Love Duction! The Guide for Galactic Lovers | 176145 | [176145-love-duction-the-guide-for-galactic-lovers.json](./176145-love-duction-the-guide-for-galactic-lovers.json) |
 | Love Elysium: Secret of the Goddess | 305565 | [305565-love-elysium-secret-of-the-goddess.json](./305565-love-elysium-secret-of-the-goddess.json) |
 | Love Elysium: Secret of the Goddess - Aimi's Secrets | 309072 | [309072-love-elysium-secret-of-the-goddess-aimis-secrets.json](./309072-love-elysium-secret-of-the-goddess-aimis-secrets.json) |
 | Love Elysium: Secret of the Goddess - Complete + | 324455 | [324455-love-elysium-secret-of-the-goddess-complete.json](./324455-love-elysium-secret-of-the-goddess-complete.json) |
