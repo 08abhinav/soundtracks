@@ -4819,6 +4819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10: Alien Force | 210256 | [210256-ben-10-alien-force.json](./210256-ben-10-alien-force.json) |
 | Ben 10: Alien Force | 2801 | [2801-ben-10-alien-force.json](./2801-ben-10-alien-force.json) |
 | Ben 10: Backpack | 363891 | [363891-ben-10-backpack.json](./363891-ben-10-backpack.json) |
+| Ben 10: Ben to the Rescue | 203084 | [203084-ben-10-ben-to-the-rescue.json](./203084-ben-10-ben-to-the-rescue.json) |
 | Ben 10: Blockade Blitz | 221061 | [221061-ben-10-blockade-blitz.json](./221061-ben-10-blockade-blitz.json) |
 | Ben 10: Cannonbolt Pinball - Ghostfreak's Revenge | 340798 | [340798-ben-10-cannonbolt-pinball-ghostfreaks-revenge.json](./340798-ben-10-cannonbolt-pinball-ghostfreaks-revenge.json) |
 | Ben 10: Critical Impact | 416039 | [416039-ben-10-critical-impact.json](./416039-ben-10-critical-impact.json) |
