@@ -1903,6 +1903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend creatures | 128256 | [128256-legend-creatures.json](./128256-legend-creatures.json) |
 | Legend Creatures 2 | 257382 | [257382-legend-creatures-2.json](./257382-legend-creatures-2.json) |
 | Legend Knight | 95170 | [95170-legend-knight.json](./95170-legend-knight.json) |
+| Legend of a Soul Hunter | 201531 | [201531-legend-of-a-soul-hunter.json](./201531-legend-of-a-soul-hunter.json) |
 | Legend of a Volcano | 202116 | [202116-legend-of-a-volcano.json](./202116-legend-of-a-volcano.json) |
 | Legend of Ace | 124624 | [124624-legend-of-ace.json](./124624-legend-of-ace.json) |
 | Legend of Ahssûn | 127941 | [127941-legend-of-ahssun.json](./127941-legend-of-ahssun.json) |
@@ -3710,6 +3711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lighton: Duo | 151276 | [151276-lighton-duo.json](./151276-lighton-duo.json) |
 | Lightopus | 22316 | [22316-lightopus.json](./22316-lightopus.json) |
 | Lightout | 175388 | [175388-lightout.json](./175388-lightout.json) |
+| Lightout 2 | 201527 | [201527-lightout-2.json](./201527-lightout-2.json) |
 | LightPoint | 350601 | [350601-lightpoint.json](./350601-lightpoint.json) |
 | LightQb | 374799 | [374799-lightqb.json](./374799-lightqb.json) |
 | LightQuest | 180123 | [180123-lightquest.json](./180123-lightquest.json) |
