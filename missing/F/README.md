@@ -7463,6 +7463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forget Westbury Falls: Disc One | 192960 | [192960-forget-westbury-falls-disc-one.json](./192960-forget-westbury-falls-disc-one.json) |
 | Forget Your Chains | 261244 | [261244-forget-your-chains.json](./261244-forget-your-chains.json) |
 | Forget-Me-Knot | 186754 | [186754-forget-me-knot.json](./186754-forget-me-knot.json) |
+| Forget-me-not | 196467 | [196467-forget-me-not.json](./196467-forget-me-not.json) |
 | Forget-Me-Not | 178672 | [178672-forget-me-not.json](./178672-forget-me-not.json) |
 | Forget-Me-Not | 397079 | [397079-forget-me-not.json](./397079-forget-me-not.json) |
 | Forget-Me-Not | 47269 | [47269-forget-me-not.json](./47269-forget-me-not.json) |
@@ -7927,6 +7928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortress | 86214 | [86214-fortress.json](./86214-fortress.json) |
 | Fortress 1024 | 261282 | [261282-fortress-1024.json](./261282-fortress-1024.json) |
 | Fortress 2 Blue | 340237 | [340237-fortress-2-blue.json](./340237-fortress-2-blue.json) |
+| Fortress Building Puzzle | 196479 | [196479-fortress-building-puzzle.json](./196479-fortress-building-puzzle.json) |
 | Fortress Connected | 410476 | [410476-fortress-connected.json](./410476-fortress-connected.json) |
 | Fortress Conquest | 175219 | [175219-fortress-conquest.json](./175219-fortress-conquest.json) |
 | Fortress Defense | 266117 | [266117-fortress-defense.json](./266117-fortress-defense.json) |
@@ -10412,6 +10414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Shakespeare: Oops! All Dragons! | 152805 | [152805-furry-shakespeare-oops-all-dragons.json](./152805-furry-shakespeare-oops-all-dragons.json) |
 | Furry Shakespeare: To Date or Not to Date Cat Girls? | 115492 | [115492-furry-shakespeare-to-date-or-not-to-date-cat-girls.json](./115492-furry-shakespeare-to-date-or-not-to-date-cat-girls.json) |
 | Furry Shakespeare: To Date Or Not To Date Cat Girls? - 2 Prophecy of Convenience | 253951 | [253951-furry-shakespeare-to-date-or-not-to-date-cat-girls-2-prophecy-of-convenience.json](./253951-furry-shakespeare-to-date-or-not-to-date-cat-girls-2-prophecy-of-convenience.json) |
+| Furry Shakespeare: Two Incredibly Ripped, Absolutely Shredded Noble Kinsmen | 196471 | [196471-furry-shakespeare-two-incredibly-ripped-absolutely-shredded-noble-kinsmen.json](./196471-furry-shakespeare-two-incredibly-ripped-absolutely-shredded-noble-kinsmen.json) |
 | Furry Stories: Alpha-Male | 130297 | [130297-furry-stories-alpha-male.json](./130297-furry-stories-alpha-male.json) |
 | Furry Striptease | 215899 | [215899-furry-striptease.json](./215899-furry-striptease.json) |
 | Furry Superstar | 213007 | [213007-furry-superstar.json](./213007-furry-superstar.json) |
