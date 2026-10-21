@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Hime 2 | 193261 | [193261-sakura-hime-2.json](./193261-sakura-hime-2.json) |
 | Sakura Hime 4 | 286539 | [286539-sakura-hime-4.json](./286539-sakura-hime-4.json) |
 | Sakura Isekai Adventure 2 | 301886 | [301886-sakura-isekai-adventure-2.json](./301886-sakura-isekai-adventure-2.json) |
+| Sakura Kakumei: Hana Saku Otome-tachi | 181556 | [181556-sakura-kakumei-hana-saku-otome-tachi.json](./181556-sakura-kakumei-hana-saku-otome-tachi.json) |
 | Sakura Kanji Ketchi | 396503 | [396503-sakura-kanji-ketchi.json](./396503-sakura-kanji-ketchi.json) |
 | Sakura Knight | 137889 | [137889-sakura-knight.json](./137889-sakura-knight.json) |
 | Sakura Knight 2 | 137622 | [137622-sakura-knight-2.json](./137622-sakura-knight-2.json) |
@@ -7982,6 +7983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hunter Patrol Disk #2 | 77311 | [77311-silent-hunter-patrol-disk-2.json](./77311-silent-hunter-patrol-disk-2.json) |
 | Silent Infinity | 202366 | [202366-silent-infinity.json](./202366-silent-infinity.json) |
 | Silent Iron | 94866 | [94866-silent-iron.json](./94866-silent-iron.json) |
+| Silent Island | 181595 | [181595-silent-island.json](./181595-silent-island.json) |
 | Silent Love | 237794 | [237794-silent-love.json](./237794-silent-love.json) |
 | Silent Mementos | 372191 | [372191-silent-mementos.json](./372191-silent-mementos.json) |
 | Silent Mobius | 64742 | [64742-silent-mobius.json](./64742-silent-mobius.json) |
@@ -9891,6 +9893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slapstick Bosses | 349861 | [349861-slapstick-bosses.json](./349861-slapstick-bosses.json) |
 | Slapstick Fighter | 266257 | [266257-slapstick-fighter.json](./266257-slapstick-fighter.json) |
 | SlapTrax | 399885 | [399885-slaptrax.json](./399885-slaptrax.json) |
+| Slash & Girl: Endless Run | 181555 | [181555-slash-and-girl-endless-run.json](./181555-slash-and-girl-endless-run.json) |
 | Slash & Roll | 186299 | [186299-slash-and-roll.json](./186299-slash-and-roll.json) |
 | Slash Abyss | 290629 | [290629-slash-abyss.json](./290629-slash-abyss.json) |
 | Slash and Fuck | 82893 | [82893-slash-and-fuck.json](./82893-slash-and-fuck.json) |
@@ -12477,6 +12480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solenars Edge II: Aurora of The Seventh Dawn | 133182 | [133182-solenars-edge-ii-aurora-of-the-seventh-dawn.json](./133182-solenars-edge-ii-aurora-of-the-seventh-dawn.json) |
 | Solenars Edge Rebirth | 50759 | [50759-solenars-edge-rebirth.json](./50759-solenars-edge-rebirth.json) |
 | Solenars Edge Rebirth: After Story | 174173 | [174173-solenars-edge-rebirth-after-story.json](./174173-solenars-edge-rebirth-after-story.json) |
+| Soletrando | 181575 | [181575-soletrando.json](./181575-soletrando.json) |
 | Soletrando: Nova Ortografia | 181940 | [181940-soletrando-nova-ortografia.json](./181940-soletrando-nova-ortografia.json) |
 | Solfege | 240067 | [240067-solfege.json](./240067-solfege.json) |
 | SolForge | 16487 | [16487-solforge.json](./16487-solforge.json) |
@@ -12648,6 +12652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire: Match 2 Cards - Valentine's Day | 286520 | [286520-solitaire-match-2-cards-valentines-day.json](./286520-solitaire-match-2-cards-valentines-day.json) |
 | Solitaire: Royal Mansion | 199627 | [199627-solitaire-royal-mansion.json](./199627-solitaire-royal-mansion.json) |
 | Solitaire: The Clean One | 221851 | [221851-solitaire-the-clean-one.json](./221851-solitaire-the-clean-one.json) |
+| Solitaire: Treasure of Time | 181582 | [181582-solitaire-treasure-of-time.json](./181582-solitaire-treasure-of-time.json) |
 | Solitaire: Ultimate Collection | 66691 | [66691-solitaire-ultimate-collection.json](./66691-solitaire-ultimate-collection.json) |
 | Solitaire: Victorian Picnic | 99986 | [99986-solitaire-victorian-picnic.json](./99986-solitaire-victorian-picnic.json) |
 | SolitaireX | 388039 | [388039-solitairex.json](./388039-solitairex.json) |
@@ -14447,6 +14452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SouthernCross | 145955 | [145955-southerncross.json](./145955-southerncross.json) |
 | Southernmost Combine | 254296 | [254296-southernmost-combine.json](./254296-southernmost-combine.json) |
 | Southside Racing | 329202 | [329202-southside-racing.json](./329202-southside-racing.json) |
+| Souvenir | 181561 | [181561-souvenir.json](./181561-souvenir.json) |
 | Souvenir | 295509 | [295509-souvenir.json](./295509-souvenir.json) |
 | Souzou Cliff | 181400 | [181400-souzou-cliff.json](./181400-souzou-cliff.json) |
 | Souzou no Memoria | 396936 | [396936-souzou-no-memoria.json](./396936-souzou-no-memoria.json) |
