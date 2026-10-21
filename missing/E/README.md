@@ -3856,6 +3856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Deathmark Dungeon | 195695 | [195695-escape-from-deathmark-dungeon.json](./195695-escape-from-deathmark-dungeon.json) |
 | Escape from Demon Island | 262794 | [262794-escape-from-demon-island.json](./262794-escape-from-demon-island.json) |
 | Escape From Dimension-3 | 236722 | [236722-escape-from-dimension-3.json](./236722-escape-from-dimension-3.json) |
+| Escape From Docy | 189875 | [189875-escape-from-docy.json](./189875-escape-from-docy.json) |
 | Escape From Duck | 394564 | [394564-escape-from-duck.json](./394564-escape-from-duck.json) |
 | Escape From Duckness | 395218 | [395218-escape-from-duckness.json](./395218-escape-from-duckness.json) |
 | Escape from DuFo | 163574 | [163574-escape-from-dufo.json](./163574-escape-from-dufo.json) |
