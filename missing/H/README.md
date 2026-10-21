@@ -1474,6 +1474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HardBoiledFarm | 255967 | [255967-hardboiledfarm.json](./255967-hardboiledfarm.json) |
 | Hardcheologist | 405060 | [405060-hardcheologist.json](./405060-hardcheologist.json) |
 | Hardcoded | 146619 | [146619-hardcoded.json](./146619-hardcoded.json) |
+| HardCoin | 203653 | [203653-hardcoin.json](./203653-hardcoin.json) |
 | HardCop 2 | 156681 | [156681-hardcop-2.json](./156681-hardcop-2.json) |
 | Hardcore and Death | 414503 | [414503-hardcore-and-death.json](./414503-hardcore-and-death.json) |
 | Hardcore Bunny Jumper | 118087 | [118087-hardcore-bunny-jumper.json](./118087-hardcore-bunny-jumper.json) |
@@ -5622,6 +5623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide and Seek | 57570 | [57570-hide-and-seek.json](./57570-hide-and-seek.json) |
 | Hide And Seek | 296416 | [296416-hide-and-seek.json](./296416-hide-and-seek.json) |
 | Hide and Seek 2: Story of Demian | 254293 | [254293-hide-and-seek-2-story-of-demian.json](./254293-hide-and-seek-2-story-of-demian.json) |
+| Hide and Seek Scramble! | 203738 | [203738-hide-and-seek-scramble.json](./203738-hide-and-seek-scramble.json) |
 | Hide and Seek: Story of Dorothy | 151578 | [151578-hide-and-seek-story-of-dorothy.json](./151578-hide-and-seek-story-of-dorothy.json) |
 | Hide and Seek: Toilet Monster | 273949 | [273949-hide-and-seek-toilet-monster.json](./273949-hide-and-seek-toilet-monster.json) |
 | Hide and Sink | 410928 | [410928-hide-and-sink.json](./410928-hide-and-sink.json) |
