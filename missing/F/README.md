@@ -10479,6 +10479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furwind: Limited Edition | 167049 | [167049-furwind-limited-edition.json](./167049-furwind-limited-edition.json) |
 | Fury | 21227 | [21227-fury.json](./21227-fury.json) |
 | Fury | 240773 | [240773-fury.json](./240773-fury.json) |
+| Fury Battle Dragon | 188275 | [188275-fury-battle-dragon.json](./188275-fury-battle-dragon.json) |
 | Fury Cross Road | 235222 | [235222-fury-cross-road.json](./235222-fury-cross-road.json) |
 | Fury Fighter VR | 96520 | [96520-fury-fighter-vr.json](./96520-fury-fighter-vr.json) |
 | Fury Fighters | 212107 | [212107-fury-fighters.json](./212107-fury-fighters.json) |
