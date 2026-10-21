@@ -544,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint Seiya: The Hades | 23113 | [23113-saint-seiya-the-hades.json](./23113-saint-seiya-the-hades.json) |
 | Saint Seiya: The Sanctuary | 43345 | [43345-saint-seiya-the-sanctuary.json](./43345-saint-seiya-the-sanctuary.json) |
 | Saint Seiya: Ultimate Cosmo | 166519 | [166519-saint-seiya-ultimate-cosmo.json](./166519-saint-seiya-ultimate-cosmo.json) |
+| Saint Spell's Love Guide to the Magical Student's Spellbook | 191603 | [191603-saint-spells-love-guide-to-the-magical-students-spellbook.json](./191603-saint-spells-love-guide-to-the-magical-students-spellbook.json) |
 | Saint Sword | 46199 | [46199-saint-sword.json](./46199-saint-sword.json) |
 | Saint Warner's Angels | 239768 | [239768-saint-warners-angels.json](./239768-saint-warners-angels.json) |
 | Sainte-Vibrisse | 322191 | [322191-sainte-vibrisse.json](./322191-sainte-vibrisse.json) |
@@ -1037,6 +1038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Sam | 181204 | [181204-samurai-sam.json](./181204-samurai-sam.json) |
 | Samurai Shampoo | 153879 | [153879-samurai-shampoo.json](./153879-samurai-shampoo.json) |
 | Samurai Shaver | 177442 | [177442-samurai-shaver.json](./177442-samurai-shaver.json) |
+| Samurai Shodown | 191471 | [191471-samurai-shodown.json](./191471-samurai-shodown.json) |
 | Samurai Shodown 64 | 19990 | [19990-samurai-shodown-64.json](./19990-samurai-shodown-64.json) |
 | Samurai Shodown 64: Warriors Rage | 19991 | [19991-samurai-shodown-64-warriors-rage.json](./19991-samurai-shodown-64-warriors-rage.json) |
 | Samurai Shodown Anthology | 50648 | [50648-samurai-shodown-anthology.json](./50648-samurai-shodown-anthology.json) |
@@ -2658,6 +2660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Undeads Winter's | 169737 | [169737-scp-undeads-winters.json](./169737-scp-undeads-winters.json) |
 | SCP: Unity | 130903 | [130903-scp-unity.json](./130903-scp-unity.json) |
 | SCP: Unknown. | 95998 | [95998-scp-unknown.json](./95998-scp-unknown.json) |
+| SCP: Vacation | 191617 | [191617-scp-vacation.json](./191617-scp-vacation.json) |
 | SCP: Valravn | 280174 | [280174-scp-valravn.json](./280174-scp-valravn.json) |
 | Scrabble | 131524 | [131524-scrabble.json](./131524-scrabble.json) |
 | Scrabble | 199433 | [199433-scrabble.json](./199433-scrabble.json) |
@@ -4048,6 +4051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Semaforo Climber | 255846 | [255846-semaforo-climber.json](./255846-semaforo-climber.json) |
 | Semantica: Semantic game | 231905 | [231905-semantica-semantic-game.json](./231905-semantica-semantic-game.json) |
 | Semantics | 388255 | [388255-semantics.json](./388255-semantics.json) |
+| Semantle | 191636 | [191636-semantle.json](./191636-semantle.json) |
 | Seme COM Dungeon: Drururuaga | 59876 | [59876-seme-com-dungeon-drururuaga.json](./59876-seme-com-dungeon-drururuaga.json) |
 | Semi-Sweet Tofu | 96904 | [96904-semi-sweet-tofu.json](./96904-semi-sweet-tofu.json) |
 | Semiramis no Tenbin | 60257 | [60257-semiramis-no-tenbin.json](./60257-semiramis-no-tenbin.json) |
@@ -6263,6 +6267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Ken to Mahou to Gakuen Mono. Toki no Gakuen | 63895 | [63895-shin-ken-to-mahou-to-gakuen-mono-toki-no-gakuen.json](./63895-shin-ken-to-mahou-to-gakuen-mono-toki-no-gakuen.json) |
 | Shin Kidou Senki Gundam Wing: Endless Duel | 42464 | [42464-shin-kidou-senki-gundam-wing-endless-duel.json](./42464-shin-kidou-senki-gundam-wing-endless-duel.json) |
 | Shin Kisekae Monogatari | 49777 | [49777-shin-kisekae-monogatari.json](./49777-shin-kisekae-monogatari.json) |
+| Shin Koihime Musou Tenka Touitsu-den | 191635 | [191635-shin-koihime-musou-tenka-touitsu-den.json](./191635-shin-koihime-musou-tenka-touitsu-den.json) |
 | Shin Koihime Musou: Fighting Maidens of the Romance of the Three Kingdoms | 63253 | [63253-shin-koihime-musou-fighting-maidens-of-the-romance-of-the-three-kingdoms.json](./63253-shin-koihime-musou-fighting-maidens-of-the-romance-of-the-three-kingdoms.json) |
 | Shin Koihime Musou: Kakumei - Ryuuki no Taimou | 127338 | [127338-shin-koihime-musou-kakumei-ryuuki-no-taimou.json](./127338-shin-koihime-musou-kakumei-ryuuki-no-taimou.json) |
 | Shin Lucky Star Moe Drill: Tabidachi | 72619 | [72619-shin-lucky-star-moe-drill-tabidachi.json](./72619-shin-lucky-star-moe-drill-tabidachi.json) |
@@ -22459,6 +22464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugardew Island: Christmas Bundle | 385187 | [385187-sugardew-island-christmas-bundle.json](./385187-sugardew-island-christmas-bundle.json) |
 | Sugardew Island: Christmas Costume | 385178 | [385178-sugardew-island-christmas-costume.json](./385178-sugardew-island-christmas-costume.json) |
 | Sugardew Island: Your Cozy Farm Shop | 289259 | [289259-sugardew-island-your-cozy-farm-shop.json](./289259-sugardew-island-your-cozy-farm-shop.json) |
+| SugarKiss! | 191629 | [191629-sugarkiss.json](./191629-sugarkiss.json) |
 | Sugarlawn | 209610 | [209610-sugarlawn.json](./209610-sugarlawn.json) |
 | SugarStellar | 225532 | [225532-sugarstellar.json](./225532-sugarstellar.json) |
 | Sugary Delight | 234619 | [234619-sugary-delight.json](./234619-sugary-delight.json) |
@@ -23157,6 +23163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Baseball | 81283 | [81283-super-baseball.json](./81283-super-baseball.json) |
 | Super Baseball 2020 | 186665 | [186665-super-baseball-2020.json](./186665-super-baseball-2020.json) |
 | Super Baseball 2020 | 46193 | [46193-super-baseball-2020.json](./46193-super-baseball-2020.json) |
+| Super Baseball League | 191601 | [191601-super-baseball-league.json](./191601-super-baseball-league.json) |
 | Super Baseball Simulator 1.000 | 42601 | [42601-super-baseball-simulator-1-000.json](./42601-super-baseball-simulator-1-000.json) |
 | Super Bases Loaded | 42430 | [42430-super-bases-loaded.json](./42430-super-bases-loaded.json) |
 | Super Basketball AR | 107005 | [107005-super-basketball-ar.json](./107005-super-basketball-ar.json) |
@@ -25874,6 +25881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surprising Stories | 53691 | [53691-surprising-stories.json](./53691-surprising-stories.json) |
 | Surreal Deal | 192603 | [192603-surreal-deal.json](./192603-surreal-deal.json) |
 | Surreal Escape | 315575 | [315575-surreal-escape.json](./315575-surreal-escape.json) |
+| Surreal Experience | 191454 | [191454-surreal-experience.json](./191454-surreal-experience.json) |
 | Surreal Farm | 316418 | [316418-surreal-farm.json](./316418-surreal-farm.json) |
 | Surreal House | 260186 | [260186-surreal-house.json](./260186-surreal-house.json) |
 | SurReal Subway | 113762 | [113762-surreal-subway.json](./113762-surreal-subway.json) |
