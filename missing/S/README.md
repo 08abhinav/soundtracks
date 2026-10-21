@@ -7130,6 +7130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shot Supreme | 253856 | [253856-shot-supreme.json](./253856-shot-supreme.json) |
 | Shot the Body | 126572 | [126572-shot-the-body.json](./126572-shot-the-body.json) |
 | Shot.io | 77424 | [77424-shot-io.json](./77424-shot-io.json) |
+| Shot2048 | 185886 | [185886-shot2048.json](./185886-shot2048.json) |
 | Shota Kare! | 242518 | [242518-shota-kare.json](./242518-shota-kare.json) |
 | Shotball | 329532 | [329532-shotball.json](./329532-shotball.json) |
 | Shotdogs | 210096 | [210096-shotdogs.json](./210096-shotdogs.json) |
@@ -13191,6 +13192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Frost | 316970 | [316970-sonic-frost.json](./316970-sonic-frost.json) |
 | Sonic Fusion | 326819 | [326819-sonic-fusion.json](./326819-sonic-fusion.json) |
 | Sonic Gaiden | 305282 | [305282-sonic-gaiden.json](./305282-sonic-gaiden.json) |
+| Sonic Galactic | 185938 | [185938-sonic-galactic.json](./185938-sonic-galactic.json) |
 | Sonic Gallery | 330528 | [330528-sonic-gallery.json](./330528-sonic-gallery.json) |
 | Sonic Gamebook Origins | 316346 | [316346-sonic-gamebook-origins.json](./316346-sonic-gamebook-origins.json) |
 | Sonic Gamma | 326135 | [326135-sonic-gamma.json](./326135-sonic-gamma.json) |
