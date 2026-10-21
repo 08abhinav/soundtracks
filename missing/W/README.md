@@ -433,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walt Disney's The Jungle Book | 284215 | [284215-walt-disneys-the-jungle-book.json](./284215-walt-disneys-the-jungle-book.json) |
 | Walt Disney's The Jungle Book: Mowgli's Wild Adventure | 49922 | [49922-walt-disneys-the-jungle-book-mowglis-wild-adventure.json](./49922-walt-disneys-the-jungle-book-mowglis-wild-adventure.json) |
 | Walter | 94159 | [94159-walter.json](./94159-walter.json) |
+| Walter Walnut | 199275 | [199275-walter-walnut.json](./199275-walter-walnut.json) |
 | Walthros | 353366 | [353366-walthros.json](./353366-walthros.json) |
 | Walto | 391237 | [391237-walto.json](./391237-walto.json) |
 | Waltz and Jam | 288479 | [288479-waltz-and-jam.json](./288479-waltz-and-jam.json) |
@@ -3757,6 +3758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wi-Fi Taiou Yakuman DS | 124122 | [124122-wi-fi-taiou-yakuman-ds.json](./124122-wi-fi-taiou-yakuman-ds.json) |
 | Wi-Fi Taiou: Gensen Table Game Wii | 268206 | [268206-wi-fi-taiou-gensen-table-game-wii.json](./268206-wi-fi-taiou-gensen-table-game-wii.json) |
 | Wibarm | 84248 | [84248-wibarm.json](./84248-wibarm.json) |
+| Wibble | 199262 | [199262-wibble.json](./199262-wibble.json) |
 | Wibble Wobble | 177251 | [177251-wibble-wobble.json](./177251-wibble-wobble.json) |
 | Wibbly-wobbly Tower | 178421 | [178421-wibbly-wobbly-tower.json](./178421-wibbly-wobbly-tower.json) |
 | Wibby Buddy | 366865 | [366865-wibby-buddy.json](./366865-wibby-buddy.json) |
@@ -6190,6 +6192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Motors | 369324 | [369324-world-of-motors.json](./369324-world-of-motors.json) |
 | World of Motors 2 | 220722 | [220722-world-of-motors-2.json](./220722-world-of-motors-2.json) |
 | World of Movies: Puzzle Game Challenge | 328463 | [328463-world-of-movies-puzzle-game-challenge.json](./328463-world-of-movies-puzzle-game-challenge.json) |
+| World of Music Interactive Simulator | 199291 | [199291-world-of-music-interactive-simulator.json](./199291-world-of-music-interactive-simulator.json) |
 | World of Mystery | 230966 | [230966-world-of-mystery.json](./230966-world-of-mystery.json) |
 | World of Myths | 112493 | [112493-world-of-myths.json](./112493-world-of-myths.json) |
 | World of One | 39012 | [39012-world-of-one.json](./39012-world-of-one.json) |
@@ -6632,6 +6635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wormhole | 195084 | [195084-wormhole.json](./195084-wormhole.json) |
 | Wormhole | 307618 | [307618-wormhole.json](./307618-wormhole.json) |
 | Wormhole | 374611 | [374611-wormhole.json](./374611-wormhole.json) |
+| Wormhole Adventurer | 199273 | [199273-wormhole-adventurer.json](./199273-wormhole-adventurer.json) |
 | Wormhole Cafe | 235709 | [235709-wormhole-cafe.json](./235709-wormhole-cafe.json) |
 | Wormhole Warfare | 176995 | [176995-wormhole-warfare.json](./176995-wormhole-warfare.json) |
 | Wormhole: Battle for Planet Earth | 265091 | [265091-wormhole-battle-for-planet-earth.json](./265091-wormhole-battle-for-planet-earth.json) |
