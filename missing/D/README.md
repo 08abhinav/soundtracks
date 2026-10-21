@@ -2215,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daydream Mosaics 4: Shades of Blue | 268318 | [268318-daydream-mosaics-4-shades-of-blue.json](./268318-daydream-mosaics-4-shades-of-blue.json) |
 | Daydream Mosaics 6: Empire - Collector's Edition | 385425 | [385425-daydream-mosaics-6-empire-collectors-edition.json](./385425-daydream-mosaics-6-empire-collectors-edition.json) |
 | Daydream Mosaics: Juliette's Collection | 357307 | [357307-daydream-mosaics-juliettes-collection.json](./357307-daydream-mosaics-juliettes-collection.json) |
+| Daydream: Legend of the Eschelons | 191002 | [191002-daydream-legend-of-the-eschelons.json](./191002-daydream-legend-of-the-eschelons.json) |
 | Daydream: Prologue | 246906 | [246906-daydream-prologue.json](./246906-daydream-prologue.json) |
 | Daydream: When Butterflies Dance | 201240 | [201240-daydream-when-butterflies-dance.json](./201240-daydream-when-butterflies-dance.json) |
 | Daydreamer | 295789 | [295789-daydreamer.json](./295789-daydreamer.json) |
@@ -7495,6 +7496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Station MSX #08 | 266412 | [266412-disc-station-msx-08.json](./266412-disc-station-msx-08.json) |
 | Disc Station MSX #09 | 266482 | [266482-disc-station-msx-09.json](./266482-disc-station-msx-09.json) |
 | Disc Station MSX #11 | 266489 | [266489-disc-station-msx-11.json](./266489-disc-station-msx-11.json) |
+| Disc Station Special Vol. 10 | 190996 | [190996-disc-station-special-vol-10.json](./190996-disc-station-special-vol-10.json) |
 | Disc Station Vol. 17 | 266652 | [266652-disc-station-vol-17.json](./266652-disc-station-vol-17.json) |
 | Discard All Hope | 350614 | [350614-discard-all-hope.json](./350614-discard-all-hope.json) |
 | Discarded Empire | 244128 | [244128-discarded-empire.json](./244128-discarded-empire.json) |
@@ -11999,6 +12001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream of Pixels | 22203 | [22203-dream-of-pixels.json](./22203-dream-of-pixels.json) |
 | Dream of Salmon | 156891 | [156891-dream-of-salmon.json](./156891-dream-of-salmon.json) |
 | Dream of the Blood Moon | 122998 | [122998-dream-of-the-blood-moon.json](./122998-dream-of-the-blood-moon.json) |
+| Dream of the Hikikomori | 190881 | [190881-dream-of-the-hikikomori.json](./190881-dream-of-the-hikikomori.json) |
 | Dream of Tiny Snow | 244786 | [244786-dream-of-tiny-snow.json](./244786-dream-of-tiny-snow.json) |
 | Dream of Tomorrow | 161354 | [161354-dream-of-tomorrow.json](./161354-dream-of-tomorrow.json) |
 | Dream of YukiHana | 396018 | [396018-dream-of-yukihana.json](./396018-dream-of-yukihana.json) |
@@ -13517,6 +13520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Concierge | 377812 | [377812-dungeon-concierge.json](./377812-dungeon-concierge.json) |
 | Dungeon Conqueror | 166172 | [166172-dungeon-conqueror.json](./166172-dungeon-conqueror.json) |
 | Dungeon Construction Co | 96196 | [96196-dungeon-construction-co.json](./96196-dungeon-construction-co.json) |
+| Dungeon Conundrum | 190887 | [190887-dungeon-conundrum.json](./190887-dungeon-conundrum.json) |
 | Dungeon Core Master | 274770 | [274770-dungeon-core-master.json](./274770-dungeon-core-master.json) |
 | Dungeon Coup | 161350 | [161350-dungeon-coup.json](./161350-dungeon-coup.json) |
 | Dungeon Crawl | 229226 | [229226-dungeon-crawl.json](./229226-dungeon-crawl.json) |
