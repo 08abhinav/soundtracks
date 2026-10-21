@@ -218,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jade Cicada | 132560 | [132560-jade-cicada.json](./132560-jade-cicada.json) |
 | Jade Cocoon 2 | 18079 | [18079-jade-cocoon-2.json](./18079-jade-cocoon-2.json) |
 | Jade Cocoon: Story of the Tamamayu | 45000 | [45000-jade-cocoon-story-of-the-tamamayu.json](./45000-jade-cocoon-story-of-the-tamamayu.json) |
+| Jade Dynasty 2 | 193785 | [193785-jade-dynasty-2.json](./193785-jade-dynasty-2.json) |
 | Jade Dynasty: Vengeance | 66443 | [66443-jade-dynasty-vengeance.json](./66443-jade-dynasty-vengeance.json) |
 | Jade Earth | 141255 | [141255-jade-earth.json](./141255-jade-earth.json) |
 | Jade Empire | 5867 | [5867-jade-empire.json](./5867-jade-empire.json) |
