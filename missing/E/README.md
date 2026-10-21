@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ears of the Killer | 206957 | [206957-ears-of-the-killer.json](./206957-ears-of-the-killer.json) |
 | Earth | 313840 | [313840-earth.json](./313840-earth.json) |
 | Earth 2025 | 92497 | [92497-earth-2025.json](./92497-earth-2025.json) |
+| Earth 2140 | 200884 | [200884-earth-2140.json](./200884-earth-2140.json) |
 | Earth 2140 Trilogy | 51765 | [51765-earth-2140-trilogy.json](./51765-earth-2140-trilogy.json) |
 | Earth 2140: Mission Pack 1 | 79919 | [79919-earth-2140-mission-pack-1.json](./79919-earth-2140-mission-pack-1.json) |
 | Earth 2150 | 8932 | [8932-earth-2150.json](./8932-earth-2150.json) |
@@ -850,8 +851,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ectorider | 363677 | [363677-ectorider.json](./363677-ectorider.json) |
 | Ecumene Aztec | 253442 | [253442-ecumene-aztec.json](./253442-ecumene-aztec.json) |
 | ECW Anarchy Rulz | 72029 | [72029-ecw-anarchy-rulz.json](./72029-ecw-anarchy-rulz.json) |
+| ECW Hardcore Revolution | 200887 | [200887-ecw-hardcore-revolution.json](./200887-ecw-hardcore-revolution.json) |
 | ECW Hardcore Revolution | 3483 | [3483-ecw-hardcore-revolution.json](./3483-ecw-hardcore-revolution.json) |
 | ECW: Born to be Wired | 394541 | [394541-ecw-born-to-be-wired.json](./394541-ecw-born-to-be-wired.json) |
+| ECW: Hardcore Revolution | 200888 | [200888-ecw-hardcore-revolution.json](./200888-ecw-hardcore-revolution.json) |
 | Eczema Angel Orifice | 144107 | [144107-eczema-angel-orifice.json](./144107-eczema-angel-orifice.json) |
 | Ed & Edda: Grand Prix – Racing Champions | 346020 | [346020-ed-and-edda-grand-prix-racing-champions.json](./346020-ed-and-edda-grand-prix-racing-champions.json) |
 | Ed Chess | 93042 | [93042-ed-chess.json](./93042-ed-chess.json) |
@@ -1090,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EGA-Roids | 130850 | [130850-ega-roids.json](./130850-ega-roids.json) |
 | Egaint | 79760 | [79760-egaint.json](./79760-egaint.json) |
 | Egao no Renkinjutsu | 238099 | [238099-egao-no-renkinjutsu.json](./238099-egao-no-renkinjutsu.json) |
+| Eger | 200974 | [200974-eger.json](./200974-eger.json) |
 | Egg | 108799 | [108799-egg.json](./108799-egg.json) |
 | Egg | 231737 | [231737-egg.json](./231737-egg.json) |
 | Egg | 285669 | [285669-egg.json](./285669-egg.json) |
