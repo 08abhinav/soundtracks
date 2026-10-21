@@ -2235,6 +2235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daylight | 5593 | [5593-daylight.json](./5593-daylight.json) |
 | Daylight District | 287307 | [287307-daylight-district.json](./287307-daylight-district.json) |
 | Daylight Dread | 317214 | [317214-daylight-dread.json](./317214-daylight-dread.json) |
+| Daylight Savings | 178837 | [178837-daylight-savings.json](./178837-daylight-savings.json) |
 | Daymaker: Release From Doomsday | 265654 | [265654-daymaker-release-from-doomsday.json](./265654-daymaker-release-from-doomsday.json) |
 | Daymare Cat | 129557 | [129557-daymare-cat.json](./129557-daymare-cat.json) |
 | Daymare Cat: 10-year Anniversary | 257659 | [257659-daymare-cat-10-year-anniversary.json](./257659-daymare-cat-10-year-anniversary.json) |
@@ -13761,6 +13762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon No Dungeon: Tyrant's Endgame | 253968 | [253968-dungeon-no-dungeon-tyrants-endgame.json](./253968-dungeon-no-dungeon-tyrants-endgame.json) |
 | Dungeon of Argion | 245941 | [245941-dungeon-of-argion.json](./245941-dungeon-of-argion.json) |
 | Dungeon of Astaroth | 293976 | [293976-dungeon-of-astaroth.json](./293976-dungeon-of-astaroth.json) |
+| Dungeon of Choices | 178859 | [178859-dungeon-of-choices.json](./178859-dungeon-of-choices.json) |
 | Dungeon of Despair | 193990 | [193990-dungeon-of-despair.json](./193990-dungeon-of-despair.json) |
 | Dungeon of Doom | 178615 | [178615-dungeon-of-doom.json](./178615-dungeon-of-doom.json) |
 | Dungeon of Dragon Knight | 113402 | [113402-dungeon-of-dragon-knight.json](./113402-dungeon-of-dragon-knight.json) |
