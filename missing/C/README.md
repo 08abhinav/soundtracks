@@ -5581,6 +5581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimeras: Inhuman Nature | 417544 | [417544-chimeras-inhuman-nature.json](./417544-chimeras-inhuman-nature.json) |
 | Chimeras: Mark of Death | 187907 | [187907-chimeras-mark-of-death.json](./187907-chimeras-mark-of-death.json) |
 | Chimeras: Mortal Medicine | 417570 | [417570-chimeras-mortal-medicine.json](./417570-chimeras-mortal-medicine.json) |
+| Chimeras: Mortal Medicine - Collector's Edition | 193233 | [193233-chimeras-mortal-medicine-collectors-edition.json](./193233-chimeras-mortal-medicine-collectors-edition.json) |
 | Chimeras: Price of Greed | 187910 | [187910-chimeras-price-of-greed.json](./187910-chimeras-price-of-greed.json) |
 | Chimeras: The Lost Film | 416624 | [416624-chimeras-the-lost-film.json](./416624-chimeras-the-lost-film.json) |
 | Chimeras: The Signs of Prophecy | 101011 | [101011-chimeras-the-signs-of-prophecy.json](./101011-chimeras-the-signs-of-prophecy.json) |
