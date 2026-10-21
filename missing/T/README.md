@@ -877,6 +877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of a Turnabout | 318795 | [318795-tales-of-a-turnabout.json](./318795-tales-of-a-turnabout.json) |
 | Tales of a Viking: Episode One | 233086 | [233086-tales-of-a-viking-episode-one.json](./233086-tales-of-a-viking-episode-one.json) |
 | Tales of Adventure 2 | 17600 | [17600-tales-of-adventure-2.json](./17600-tales-of-adventure-2.json) |
+| Tales of Agaris | 201536 | [201536-tales-of-agaris.json](./201536-tales-of-agaris.json) |
 | Tales of Agaris: Children of Fate | 236929 | [236929-tales-of-agaris-children-of-fate.json](./236929-tales-of-agaris-children-of-fate.json) |
 | Tales of Agaris: The Legendary Rion | 225102 | [225102-tales-of-agaris-the-legendary-rion.json](./225102-tales-of-agaris-the-legendary-rion.json) |
 | Tales of Ancient Nights | 114334 | [114334-tales-of-ancient-nights.json](./114334-tales-of-ancient-nights.json) |
@@ -4663,6 +4664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms VR | 200518 | [200518-the-backrooms-vr.json](./200518-the-backrooms-vr.json) |
 | The Backrooms World | 204671 | [204671-the-backrooms-world.json](./204671-the-backrooms-world.json) |
 | The Backrooms: Anomaly Containment Unit | 339219 | [339219-the-backrooms-anomaly-containment-unit.json](./339219-the-backrooms-anomaly-containment-unit.json) |
+| The Backrooms: Deeper | 201535 | [201535-the-backrooms-deeper.json](./201535-the-backrooms-deeper.json) |
 | The Backrooms: Escape | 272252 | [272252-the-backrooms-escape.json](./272252-the-backrooms-escape.json) |
 | The Backrooms: Forsaken | 329584 | [329584-the-backrooms-forsaken.json](./329584-the-backrooms-forsaken.json) |
 | The Backrooms: Liminal Reality | 238066 | [238066-the-backrooms-liminal-reality.json](./238066-the-backrooms-liminal-reality.json) |
@@ -4676,6 +4678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms: Survival | 192975 | [192975-the-backrooms-survival.json](./192975-the-backrooms-survival.json) |
 | The Backrooms: You've Been Here Before | 276161 | [276161-the-backrooms-youve-been-here-before.json](./276161-the-backrooms-youve-been-here-before.json) |
 | The Backstreets | 304289 | [304289-the-backstreets.json](./304289-the-backstreets.json) |
+| The Backworld | 201539 | [201539-the-backworld.json](./201539-the-backworld.json) |
 | The Backworlds | 298106 | [298106-the-backworlds.json](./298106-the-backworlds.json) |
 | The Backyardigans | 159264 | [159264-the-backyardigans.json](./159264-the-backyardigans.json) |
 | The Backyardigans | 47879 | [47879-the-backyardigans.json](./47879-the-backyardigans.json) |
@@ -6302,6 +6305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devil Within: Satgat | 213423 | [213423-the-devil-within-satgat.json](./213423-the-devil-within-satgat.json) |
 | The Devil's Bride | 326215 | [326215-the-devils-bride.json](./326215-the-devils-bride.json) |
 | The Devil's Calculator | 114080 | [114080-the-devils-calculator.json](./114080-the-devils-calculator.json) |
+| The Devil's Chosen | 201449 | [201449-the-devils-chosen.json](./201449-the-devils-chosen.json) |
 | The Devil's Eight | 55126 | [55126-the-devils-eight.json](./55126-the-devils-eight.json) |
 | The Devil's Face | 236215 | [236215-the-devils-face.json](./236215-the-devils-face.json) |
 | The Devil's Gambit | 186082 | [186082-the-devils-gambit.json](./186082-the-devils-gambit.json) |
@@ -13501,6 +13505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Torus Syndicate | 30725 | [30725-the-torus-syndicate.json](./30725-the-torus-syndicate.json) |
 | The Totemist | 408524 | [408524-the-totemist.json](./408524-the-totemist.json) |
 | The Touch | 415498 | [415498-the-touch.json](./415498-the-touch.json) |
+| The Touhou Empires | 201463 | [201463-the-touhou-empires.json](./201463-the-touhou-empires.json) |
 | The Tour | 179178 | [179178-the-tour.json](./179178-the-tour.json) |
 | The Tour | 282029 | [282029-the-tour.json](./282029-the-tour.json) |
 | The Tour of Duty | 145618 | [145618-the-tour-of-duty.json](./145618-the-tour-of-duty.json) |
@@ -14296,6 +14301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Warrior of Treasures 2: Skull Hunter | 107804 | [107804-the-warrior-of-treasures-2-skull-hunter.json](./107804-the-warrior-of-treasures-2-skull-hunter.json) |
 | The Warrior of Wisdom | 173784 | [173784-the-warrior-of-wisdom.json](./173784-the-warrior-of-wisdom.json) |
 | The Warrior War | 105101 | [105101-the-warrior-war.json](./105101-the-warrior-war.json) |
+| The Warrior's Path | 201526 | [201526-the-warriors-path.json](./201526-the-warriors-path.json) |
 | The Warriors: Street Brawl | 21218 | [21218-the-warriors-street-brawl.json](./21218-the-warriors-street-brawl.json) |
 | The Wars II Evolution | 255725 | [255725-the-wars-ii-evolution.json](./255725-the-wars-ii-evolution.json) |
 | The Wassie Games | 215730 | [215730-the-wassie-games.json](./215730-the-wassie-games.json) |
@@ -14601,6 +14607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World of Animals | 293980 | [293980-the-world-of-animals.json](./293980-the-world-of-animals.json) |
 | The World of Cars Online | 70989 | [70989-the-world-of-cars-online.json](./70989-the-world-of-cars-online.json) |
 | The World of Decadence | 53791 | [53791-the-world-of-decadence.json](./53791-the-world-of-decadence.json) |
+| The World of Gangs | 201546 | [201546-the-world-of-gangs.json](./201546-the-world-of-gangs.json) |
 | The World of Golden Eggs: Nori Nori Rhythm-kei - Nissan Note Original Version | 268205 | [268205-the-world-of-golden-eggs-nori-nori-rhythm-kei-nissan-note-original-version.json](./268205-the-world-of-golden-eggs-nori-nori-rhythm-kei-nissan-note-original-version.json) |
 | The World of Golden Eggs: Nori Nori Uta Dekichatte Kei | 124089 | [124089-the-world-of-golden-eggs-nori-nori-uta-dekichatte-kei.json](./124089-the-world-of-golden-eggs-nori-nori-uta-dekichatte-kei.json) |
 | The World of Kungfu: Dragon and Eagle | 156090 | [156090-the-world-of-kungfu-dragon-and-eagle.json](./156090-the-world-of-kungfu-dragon-and-eagle.json) |
@@ -15403,6 +15410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrall of the Dying Sun | 177517 | [177517-thrall-of-the-dying-sun.json](./177517-thrall-of-the-dying-sun.json) |
 | Thrash Rally | 46521 | [46521-thrash-rally.json](./46521-thrash-rally.json) |
 | Thrasher | 279618 | [279618-thrasher.json](./279618-thrasher.json) |
+| Thread | 201455 | [201455-thread.json](./201455-thread.json) |
 | thread and Needle | 301922 | [301922-thread-and-needle.json](./301922-thread-and-needle.json) |
 | Threadbare | 364664 | [364664-threadbare.json](./364664-threadbare.json) |
 | Threadbound | 182979 | [182979-threadbound.json](./182979-threadbound.json) |
