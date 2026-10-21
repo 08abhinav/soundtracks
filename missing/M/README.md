@@ -5360,6 +5360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval 2 | 95476 | [95476-medieval-2.json](./95476-medieval-2.json) |
 | Medieval Adventure | 366264 | [366264-medieval-adventure.json](./366264-medieval-adventure.json) |
 | Medieval and Secrets | 232439 | [232439-medieval-and-secrets.json](./232439-medieval-and-secrets.json) |
+| Medieval Archer | 180492 | [180492-medieval-archer.json](./180492-medieval-archer.json) |
 | Medieval Archer Simulator | 348240 | [348240-medieval-archer-simulator.json](./348240-medieval-archer-simulator.json) |
 | Medieval Archery Simulator | 171443 | [171443-medieval-archery-simulator.json](./171443-medieval-archery-simulator.json) |
 | Medieval Arms | 180997 | [180997-medieval-arms.json](./180997-medieval-arms.json) |
@@ -15609,6 +15610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Grandparents' Christmas Mystery | 236378 | [236378-my-grandparents-christmas-mystery.json](./236378-my-grandparents-christmas-mystery.json) |
 | My granny Lala and me | 183773 | [183773-my-granny-lala-and-me.json](./183773-my-granny-lala-and-me.json) |
 | My Group Members Suck!! | 417572 | [417572-my-group-members-suck.json](./417572-my-group-members-suck.json) |
+| My Grumpy Hyena! | 180444 | [180444-my-grumpy-hyena.json](./180444-my-grumpy-hyena.json) |
 | My Gyaru Girlfriend | 210609 | [210609-my-gyaru-girlfriend.json](./210609-my-gyaru-girlfriend.json) |
 | My Gym Mommy Treats Me Like A Kid | 393560 | [393560-my-gym-mommy-treats-me-like-a-kid.json](./393560-my-gym-mommy-treats-me-like-a-kid.json) |
 | My Gym: Fitness Studio Manager | 233473 | [233473-my-gym-fitness-studio-manager.json](./233473-my-gym-fitness-studio-manager.json) |
