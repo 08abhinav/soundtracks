@@ -920,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warcraft II: Battle.net Edition | 127782 | [127782-warcraft-ii-battle-net-edition.json](./127782-warcraft-ii-battle-net-edition.json) |
 | Warcraft II: Beyond the Dark Portal | 131 | [131-warcraft-ii-beyond-the-dark-portal.json](./131-warcraft-ii-beyond-the-dark-portal.json) |
 | Warcraft II: The Dark Saga | 77210 | [77210-warcraft-ii-the-dark-saga.json](./77210-warcraft-ii-the-dark-saga.json) |
+| Warcraft III: Nirvana | 191605 | [191605-warcraft-iii-nirvana.json](./191605-warcraft-iii-nirvana.json) |
 | Warcraft III: Reforged | 111650 | [111650-warcraft-iii-reforged.json](./111650-warcraft-iii-reforged.json) |
 | Warcraft III: Reforged - Forsaken Kingdom | 417648 | [417648-warcraft-iii-reforged-forsaken-kingdom.json](./417648-warcraft-iii-reforged-forsaken-kingdom.json) |
 | Warcraft III: Reforged - Spoils of War Edition | 111652 | [111652-warcraft-iii-reforged-spoils-of-war-edition.json](./111652-warcraft-iii-reforged-spoils-of-war-edition.json) |
