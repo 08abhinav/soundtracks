@@ -3096,6 +3096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nickelodeon Brain Bender Puzzles & Activities | 206474 | [206474-nickelodeon-brain-bender-puzzles-and-activities.json](./206474-nickelodeon-brain-bender-puzzles-and-activities.json) |
 | Nickelodeon Dance | 20240 | [20240-nickelodeon-dance.json](./20240-nickelodeon-dance.json) |
 | Nickelodeon Director's Lab | 243145 | [243145-nickelodeon-directors-lab.json](./243145-nickelodeon-directors-lab.json) |
+| Nickelodeon Extreme Tennis | 194327 | [194327-nickelodeon-extreme-tennis.json](./194327-nickelodeon-extreme-tennis.json) |
 | Nickelodeon Fit | 50706 | [50706-nickelodeon-fit.json](./50706-nickelodeon-fit.json) |
 | Nickelodeon Guts | 42478 | [42478-nickelodeon-guts.json](./42478-nickelodeon-guts.json) |
 | Nickelodeon Kart Racers 2: Grand Prix | 134680 | [134680-nickelodeon-kart-racers-2-grand-prix.json](./134680-nickelodeon-kart-racers-2-grand-prix.json) |
