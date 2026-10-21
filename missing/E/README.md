@@ -1625,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electrician | 41304 | [41304-electrician.json](./41304-electrician.json) |
 | Electrician Simulator | 118473 | [118473-electrician-simulator.json](./118473-electrician-simulator.json) |
 | Electrician Simulator VR | 326444 | [326444-electrician-simulator-vr.json](./326444-electrician-simulator-vr.json) |
+| Electrician Simulator: First Shock | 186506 | [186506-electrician-simulator-first-shock.json](./186506-electrician-simulator-first-shock.json) |
 | Electrician Simulator: Smart Devices | 245991 | [245991-electrician-simulator-smart-devices.json](./245991-electrician-simulator-smart-devices.json) |
 | Electricman 2: The Tournament of Voltagen | 195021 | [195021-electricman-2-the-tournament-of-voltagen.json](./195021-electricman-2-the-tournament-of-voltagen.json) |
 | ElectricScribe | 44222 | [44222-electricscribe.json](./44222-electricscribe.json) |
@@ -2121,6 +2122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elvira II: The Jaws of Cerberus | 12064 | [12064-elvira-ii-the-jaws-of-cerberus.json](./12064-elvira-ii-the-jaws-of-cerberus.json) |
 | Elvira II: The Jaws of Cerberus | 228728 | [228728-elvira-ii-the-jaws-of-cerberus.json](./228728-elvira-ii-the-jaws-of-cerberus.json) |
 | Elvira: The Arcade Game | 39035 | [39035-elvira-the-arcade-game.json](./39035-elvira-the-arcade-game.json) |
+| Elvira's Horror Bundle | 186542 | [186542-elviras-horror-bundle.json](./186542-elviras-horror-bundle.json) |
 | Elvira's Horror Pack | 71476 | [71476-elviras-horror-pack.json](./71476-elviras-horror-pack.json) |
 | Elyndor | 402563 | [402563-elyndor.json](./402563-elyndor.json) |
 | Elysian | 306799 | [306799-elysian.json](./306799-elysian.json) |
