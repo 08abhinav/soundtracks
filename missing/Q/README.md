@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Siege | 54725 | [54725-quantum-siege.json](./54725-quantum-siege.json) |
 | Quantum Storm | 226318 | [226318-quantum-storm.json](./226318-quantum-storm.json) |
 | Quantum Threshold | 344962 | [344962-quantum-threshold.json](./344962-quantum-threshold.json) |
+| Quantum Tripper | 202619 | [202619-quantum-tripper.json](./202619-quantum-tripper.json) |
 | Quantum Tripper: Math | 267084 | [267084-quantum-tripper-math.json](./267084-quantum-tripper-math.json) |
 | Quantum Tripper: Max | 296520 | [296520-quantum-tripper-max.json](./296520-quantum-tripper-max.json) |
 | Quantum Tripper: Voyager | 221679 | [221679-quantum-tripper-voyager.json](./221679-quantum-tripper-voyager.json) |
