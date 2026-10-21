@@ -1606,6 +1606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Angels II | 21603 | [21603-league-of-angels-ii.json](./21603-league-of-angels-ii.json) |
 | League of Angels: Pact | 254046 | [254046-league-of-angels-pact.json](./254046-league-of-angels-pact.json) |
 | League of Battle | 50522 | [50522-league-of-battle.json](./50522-league-of-battle.json) |
+| League of Battleship: Thunder War | 181584 | [181584-league-of-battleship-thunder-war.json](./181584-league-of-battleship-thunder-war.json) |
 | League of Champions Soccer | 152350 | [152350-league-of-champions-soccer.json](./152350-league-of-champions-soccer.json) |
 | League of Champions Soccer 2024 | 265840 | [265840-league-of-champions-soccer-2024.json](./265840-league-of-champions-soccer-2024.json) |
 | League of Empires | 224161 | [224161-league-of-empires.json](./224161-league-of-empires.json) |
