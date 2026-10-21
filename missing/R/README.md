@@ -2180,6 +2180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Bird Fake Bird | 325241 | [325241-real-bird-fake-bird.json](./325241-real-bird-fake-bird.json) |
 | Real Bout Fatal Fury 2: The Newcomers | 46787 | [46787-real-bout-fatal-fury-2-the-newcomers.json](./46787-real-bout-fatal-fury-2-the-newcomers.json) |
 | Real Bout Fatal Fury Best Collection | 70941 | [70941-real-bout-fatal-fury-best-collection.json](./70941-real-bout-fatal-fury-best-collection.json) |
+| Real Bout Garou Densetsu Best Collection | 176135 | [176135-real-bout-garou-densetsu-best-collection.json](./176135-real-bout-garou-densetsu-best-collection.json) |
 | Real Bout Garou Densetsu Special: Dominated Mind | 43874 | [43874-real-bout-garou-densetsu-special-dominated-mind.json](./43874-real-bout-garou-densetsu-special-dominated-mind.json) |
 | Real Boxing | 9415 | [9415-real-boxing.json](./9415-real-boxing.json) |
 | Real Boxing 2: Remastered | 324127 | [324127-real-boxing-2-remastered.json](./324127-real-boxing-2-remastered.json) |
@@ -8566,8 +8567,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rota's Nautical Chronicles of Trade: Nekozeno Shin - Collaboration Commemorative Residentization DLC | 323258 | [323258-rotas-nautical-chronicles-of-trade-nekozeno-shin-collaboration-commemorative-residentization-dlc.json](./323258-rotas-nautical-chronicles-of-trade-nekozeno-shin-collaboration-commemorative-residentization-dlc.json) |
 | RotaDim | 93031 | [93031-rotadim.json](./93031-rotadim.json) |
 | Rotata | 349184 | [349184-rotata.json](./349184-rotata.json) |
+| Rotate 'N' Shoot | 176155 | [176155-rotate-n-shoot.json](./176155-rotate-n-shoot.json) |
 | Rotate & Roll | 342600 | [342600-rotate-and-roll.json](./342600-rotate-and-roll.json) |
 | Rotate 2 Learn: Christmas Edition Puzzles! | 104705 | [104705-rotate-2-learn-christmas-edition-puzzles.json](./104705-rotate-2-learn-christmas-edition-puzzles.json) |
+| Rotate Game | 176163 | [176163-rotate-game.json](./176163-rotate-game.json) |
 | Rotate It! | 68934 | [68934-rotate-it.json](./68934-rotate-it.json) |
 | Rotate the Rings | 259234 | [259234-rotate-the-rings.json](./259234-rotate-the-rings.json) |
 | Rotate: Collective | 258611 | [258611-rotate-collective.json](./258611-rotate-collective.json) |
@@ -8582,9 +8585,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotation | 117472 | [117472-rotation.json](./117472-rotation.json) |
 | Rotation Phonology: Break | 26843 | [26843-rotation-phonology-break.json](./26843-rotation-phonology-break.json) |
 | Rotational | 331182 | [331182-rotational.json](./331182-rotational.json) |
+| Rotational Golf | 176152 | [176152-rotational-golf.json](./176152-rotational-golf.json) |
 | Rotato | 176362 | [176362-rotato.json](./176362-rotato.json) |
 | Rotato | 377595 | [377595-rotato.json](./377595-rotato.json) |
 | Rotato Disc Jam | 176385 | [176385-rotato-disc-jam.json](./176385-rotato-disc-jam.json) |
+| Rotato Rocket | 176156 | [176156-rotato-rocket.json](./176156-rotato-rocket.json) |
 | Rotato Ship | 185612 | [185612-rotato-ship.json](./185612-rotato-ship.json) |
 | Rotatorix | 74379 | [74379-rotatorix.json](./74379-rotatorix.json) |
 | Rote | 105428 | [105428-rote.json](./105428-rote.json) |
