@@ -3130,6 +3130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Tiers Invasion | 62646 | [62646-battle-tiers-invasion.json](./62646-battle-tiers-invasion.json) |
 | Battle Titan Rainbow | 234686 | [234686-battle-titan-rainbow.json](./234686-battle-titan-rainbow.json) |
 | Battle Titans | 199942 | [199942-battle-titans.json](./199942-battle-titans.json) |
+| Battle Tops | 192738 | [192738-battle-tops.json](./192738-battle-tops.json) |
 | Battle Tracks | 207403 | [207403-battle-tracks.json](./207403-battle-tracks.json) |
 | Battle Train | 311876 | [311876-battle-train.json](./311876-battle-train.json) |
 | Battle Traverse | 58287 | [58287-battle-traverse.json](./58287-battle-traverse.json) |
@@ -3786,6 +3787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beany Bopper | 11138 | [11138-beany-bopper.json](./11138-beany-bopper.json) |
 | Bear & Breakfast | 136772 | [136772-bear-and-breakfast.json](./136772-bear-and-breakfast.json) |
 | Bear Adventure | 370762 | [370762-bear-adventure.json](./370762-bear-adventure.json) |
+| Bear Adventures | 192591 | [192591-bear-adventures.json](./192591-bear-adventures.json) |
 | Bear Adventures 2 | 190388 | [190388-bear-adventures-2.json](./190388-bear-adventures-2.json) |
 | Bear Bovver | 13812 | [13812-bear-bovver.json](./13812-bear-bovver.json) |
 | Bear Boy | 338827 | [338827-bear-boy.json](./338827-bear-boy.json) |
@@ -3981,6 +3983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Heaven Symphony | 341276 | [341276-beat-heaven-symphony.json](./341276-beat-heaven-symphony.json) |
 | Beat Hopper | 96049 | [96049-beat-hopper.json](./96049-beat-hopper.json) |
 | Beat in Zero | 297343 | [297343-beat-in-zero.json](./297343-beat-in-zero.json) |
+| Beat Invaders | 192729 | [192729-beat-invaders.json](./192729-beat-invaders.json) |
 | Beat It! | 66758 | [66758-beat-it.json](./66758-beat-it.json) |
 | Beat It!: Christmas Edition | 68649 | [68649-beat-it-christmas-edition.json](./68649-beat-it-christmas-edition.json) |
 | Beat Legend: Avicii | 175320 | [175320-beat-legend-avicii.json](./175320-beat-legend-avicii.json) |
@@ -11403,6 +11406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Chance Memento | 33789 | [33789-break-chance-memento.json](./33789-break-chance-memento.json) |
 | Break Everything: Living room | 230922 | [230922-break-everything-living-room.json](./230922-break-everything-living-room.json) |
 | Break Everything: Park | 232522 | [232522-break-everything-park.json](./232522-break-everything-park.json) |
+| Break Free | 192595 | [192595-break-free.json](./192595-break-free.json) |
 | Break Free | 304334 | [304334-break-free.json](./304334-break-free.json) |
 | Break Free | 377886 | [377886-break-free.json](./377886-break-free.json) |
 | Break Games | 304844 | [304844-break-games.json](./304844-break-games.json) |
