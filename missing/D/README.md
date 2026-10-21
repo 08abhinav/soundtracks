@@ -9645,6 +9645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Cat | 343797 | [343797-doodle-cat.json](./343797-doodle-cat.json) |
 | Doodle Cats | 320325 | [320325-doodle-cats.json](./320325-doodle-cats.json) |
 | Doodle Champs | 211629 | [211629-doodle-champs.json](./211629-doodle-champs.json) |
+| Doodle City | 197032 | [197032-doodle-city.json](./197032-doodle-city.json) |
 | Doodle Creatures | 56900 | [56900-doodle-creatures.json](./56900-doodle-creatures.json) |
 | Doodle Creatures HD | 100873 | [100873-doodle-creatures-hd.json](./100873-doodle-creatures-hd.json) |
 | Doodle Dash | 85096 | [85096-doodle-dash.json](./85096-doodle-dash.json) |
@@ -12166,6 +12167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams | 286686 | [286686-dreams.json](./286686-dreams.json) |
 | Dreams and Nightmares | 146277 | [146277-dreams-and-nightmares.json](./146277-dreams-and-nightmares.json) |
 | Dreams Creator | 118197 | [118197-dreams-creator.json](./118197-dreams-creator.json) |
+| Dreams in the Witch House | 197158 | [197158-dreams-in-the-witch-house.json](./197158-dreams-in-the-witch-house.json) |
 | Dreams Keeper Solitaire | 138497 | [138497-dreams-keeper-solitaire.json](./138497-dreams-keeper-solitaire.json) |
 | Dreams of a Geisha | 264700 | [264700-dreams-of-a-geisha.json](./264700-dreams-of-a-geisha.json) |
 | Dreams of a Lifetime | 210588 | [210588-dreams-of-a-lifetime.json](./210588-dreams-of-a-lifetime.json) |
