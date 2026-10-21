@@ -2032,6 +2032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Kuroi | 151725 | [151725-re-kuroi.json](./151725-re-kuroi.json) |
 | Re:leap-future City and Futureless | 346572 | [346572-re-leap-future-city-and-futureless.json](./346572-re-leap-future-city-and-futureless.json) |
 | Re:Legend | 51535 | [51535-re-legend.json](./51535-re-legend.json) |
+| Re:Lief - Shinai Naru Anata he: For Switch | 197684 | [197684-re-lief-shinai-naru-anata-he-for-switch.json](./197684-re-lief-shinai-naru-anata-he-for-switch.json) |
 | Re:Lord 2 - The witch of Cologne and black cat | 189940 | [189940-re-lord-2-the-witch-of-cologne-and-black-cat.json](./189940-re-lord-2-the-witch-of-cologne-and-black-cat.json) |
 | Re:Memento - White Shadow | 326138 | [326138-re-memento-white-shadow.json](./326138-re-memento-white-shadow.json) |
 | Re:Metamorphosis Candina | 409768 | [409768-re-metamorphosis-candina.json](./409768-re-metamorphosis-candina.json) |
@@ -3392,6 +3393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refract | 43162 | [43162-refract.json](./43162-refract.json) |
 | Refracted Reality | 259428 | [259428-refracted-reality.json](./259428-refracted-reality.json) |
 | Refraction | 171338 | [171338-refraction.json](./171338-refraction.json) |
+| Refraction | 197688 | [197688-refraction.json](./197688-refraction.json) |
 | Refraction: Beyond the Mirror | 186647 | [186647-refraction-beyond-the-mirror.json](./186647-refraction-beyond-the-mirror.json) |
 | Refrain Blue | 395006 | [395006-refrain-blue.json](./395006-refrain-blue.json) |
 | Refrain Love 2 | 55116 | [55116-refrain-love-2.json](./55116-refrain-love-2.json) |
@@ -9459,6 +9461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runeroots | 211800 | [211800-runeroots.json](./211800-runeroots.json) |
 | Runeroots TD | 253865 | [253865-runeroots-td.json](./253865-runeroots-td.json) |
 | Runes | 82009 | [82009-runes.json](./82009-runes.json) |
+| Runes Magica | 197541 | [197541-runes-magica.json](./197541-runes-magica.json) |
 | Runes of Aereal | 257944 | [257944-runes-of-aereal.json](./257944-runes-of-aereal.json) |
 | Runes of Avalon | 25538 | [25538-runes-of-avalon.json](./25538-runes-of-avalon.json) |
 | Runes of Brennos | 17977 | [17977-runes-of-brennos.json](./17977-runes-of-brennos.json) |
@@ -9580,6 +9583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RunOut | 220490 | [220490-runout.json](./220490-runout.json) |
 | RunPostmanRun | 94132 | [94132-runpostmanrun.json](./94132-runpostmanrun.json) |
 | Runpuzzle | 132539 | [132539-runpuzzle.json](./132539-runpuzzle.json) |
+| Runr End | 197538 | [197538-runr-end.json](./197538-runr-end.json) |
 | Runren Simulator | 390721 | [390721-runren-simulator.json](./390721-runren-simulator.json) |
 | Runt | 392177 | [392177-runt.json](./392177-runt.json) |
 | RunVR | 30732 | [30732-runvr.json](./30732-runvr.json) |
