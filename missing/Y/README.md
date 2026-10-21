@@ -1160,6 +1160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Very Last Words | 352760 | [352760-your-very-last-words.json](./352760-your-very-last-words.json) |
 | Your Voice in the Autumn Leaves | 225819 | [225819-your-voice-in-the-autumn-leaves.json](./225819-your-voice-in-the-autumn-leaves.json) |
 | Your Waifu Juice | 216478 | [216478-your-waifu-juice.json](./216478-your-waifu-juice.json) |
+| Your Way | 171820 | [171820-your-way.json](./171820-your-way.json) |
 | Your Way Out | 395998 | [395998-your-way-out.json](./395998-your-way-out.json) |
 | Your wife | 166731 | [166731-your-wife.json](./166731-your-wife.json) |
 | Your Wife Oh | 337757 | [337757-your-wife-oh.json](./337757-your-wife-oh.json) |
@@ -1567,6 +1568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yunyun Syndrome!?: Rhythm Psychosis | 302655 | [302655-yunyun-syndrome-rhythm-psychosis.json](./302655-yunyun-syndrome-rhythm-psychosis.json) |
 | Yuoni | 146806 | [146806-yuoni.json](./146806-yuoni.json) |
 | Yuoni | 206573 | [206573-yuoni.json](./206573-yuoni.json) |
+| Yuoni: Sunset Edition | 171858 | [171858-yuoni-sunset-edition.json](./171858-yuoni-sunset-edition.json) |
 | Yupi | 153394 | [153394-yupi.json](./153394-yupi.json) |
 | Yupitergrad | 142438 | [142438-yupitergrad.json](./142438-yupitergrad.json) |
 | Yupitergrad 2: The Lost Station | 202106 | [202106-yupitergrad-2-the-lost-station.json](./202106-yupitergrad-2-the-lost-station.json) |
