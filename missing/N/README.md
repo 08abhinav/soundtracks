@@ -1720,6 +1720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemurenu Yoru no Mikaketsu Mystery | 254925 | [254925-nemurenu-yoru-no-mikaketsu-mystery.json](./254925-nemurenu-yoru-no-mikaketsu-mystery.json) |
 | Nemuri Uri no | 233479 | [233479-nemuri-uri-no.json](./233479-nemuri-uri-no.json) |
 | Nemuru Mayu | 141028 | [141028-nemuru-mayu.json](./141028-nemuru-mayu.json) |
+| Nend.io | 183231 | [183231-nend-io.json](./183231-nend-io.json) |
 | Nendoroid Generation | 44485 | [44485-nendoroid-generation.json](./44485-nendoroid-generation.json) |
 | NeNeKoNeKo | 394761 | [394761-nenekoneko.json](./394761-nenekoneko.json) |
 | Nenneman: The Game | 217360 | [217360-nenneman-the-game.json](./217360-nenneman-the-game.json) |
@@ -5500,6 +5501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Novel Simulator | 392130 | [392130-novel-simulator.json](./392130-novel-simulator.json) |
 | Novelist Simulator | 79177 | [79177-novelist-simulator.json](./79177-novelist-simulator.json) |
 | Novels Rogue: Isekai Koshodo to Fuuin no Majo | 320827 | [320827-novels-rogue-isekai-koshodo-to-fuuin-no-majo.json](./320827-novels-rogue-isekai-koshodo-to-fuuin-no-majo.json) |
+| November | 183228 | [183228-november.json](./183228-november.json) |
 | November | 255893 | [255893-november.json](./255893-november.json) |
 | November 5th | 262561 | [262561-november-5th.json](./262561-november-5th.json) |
 | Novena Diabolos | 132267 | [132267-novena-diabolos.json](./132267-novena-diabolos.json) |
