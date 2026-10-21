@@ -5096,6 +5096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rewind: One Last Chance | 197736 | [197736-rewind-one-last-chance.json](./197736-rewind-one-last-chance.json) |
 | Rewindead | 382756 | [382756-rewindead.json](./382756-rewindead.json) |
 | Rewinder | 183315 | [183315-rewinder.json](./183315-rewinder.json) |
+| Rewinder | 184227 | [184227-rewinder.json](./184227-rewinder.json) |
 | Rewinding Cadence | 350187 | [350187-rewinding-cadence.json](./350187-rewinding-cadence.json) |
 | ReWire | 348839 | [348839-rewire.json](./348839-rewire.json) |
 | Rewolborough Vol.1 | 394622 | [394622-rewolborough-vol-1.json](./394622-rewolborough-vol-1.json) |
