@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaii Judge Labyrinth | 288431 | [288431-kaii-judge-labyrinth.json](./288431-kaii-judge-labyrinth.json) |
 | Kaiichi Otto-sensei Tokyo Daigaku Kanshuu: Suku-suku Kosodate DS - Akachan to Asobou! | 269632 | [269632-kaiichi-otto-sensei-tokyo-daigaku-kanshuu-suku-suku-kosodate-ds-akachan-to-asobou.json](./269632-kaiichi-otto-sensei-tokyo-daigaku-kanshuu-suku-suku-kosodate-ds-akachan-to-asobou.json) |
 | Kaijin Zona | 59340 | [59340-kaijin-zona.json](./59340-kaijin-zona.json) |
+| Kaiju Attack | 194182 | [194182-kaiju-attack.json](./194182-kaiju-attack.json) |
 | Kaiju Big Battel: Fighto Fantasy | 29075 | [29075-kaiju-big-battel-fighto-fantasy.json](./29075-kaiju-big-battel-fighto-fantasy.json) |
 | Kaiju Catastrophe | 217331 | [217331-kaiju-catastrophe.json](./217331-kaiju-catastrophe.json) |
 | Kaiju Cleaner Simulator | 368798 | [368798-kaiju-cleaner-simulator.json](./368798-kaiju-cleaner-simulator.json) |
@@ -942,6 +943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KatsuobushiClicker | 401732 | [401732-katsuobushiclicker.json](./401732-katsuobushiclicker.json) |
 | Katsuragi Misato Houdou Keikaku | 68229 | [68229-katsuragi-misato-houdou-keikaku.json](./68229-katsuragi-misato-houdou-keikaku.json) |
 | Katsute Watashitachi ha Jigoku no Mattadanaka Deshita | 331896 | [331896-katsute-watashitachi-ha-jigoku-no-mattadanaka-deshita.json](./331896-katsute-watashitachi-ha-jigoku-no-mattadanaka-deshita.json) |
+| Kattam: The Box | 194179 | [194179-kattam-the-box.json](./194179-kattam-the-box.json) |
 | Kattastick | 91214 | [91214-kattastick.json](./91214-kattastick.json) |
 | Katte ni Shirokuma | 77407 | [77407-katte-ni-shirokuma.json](./77407-katte-ni-shirokuma.json) |
 | Kattespill | 177950 | [177950-kattespill.json](./177950-kattespill.json) |
@@ -1538,6 +1540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kharakov | 340789 | [340789-kharakov.json](./340789-kharakov.json) |
 | Kharkov: Disaster on the Donets | 59493 | [59493-kharkov-disaster-on-the-donets.json](./59493-kharkov-disaster-on-the-donets.json) |
 | Kharkov: Disaster on the Donets - Across the Dnepr: Second Edition | 281007 | [281007-kharkov-disaster-on-the-donets-across-the-dnepr-second-edition.json](./281007-kharkov-disaster-on-the-donets-across-the-dnepr-second-edition.json) |
+| Kharon 108 | 194170 | [194170-kharon-108.json](./194170-kharon-108.json) |
 | Kharon's Crypt: Even Death May Die | 74721 | [74721-kharons-crypt-even-death-may-die.json](./74721-kharons-crypt-even-death-may-die.json) |
 | Khatyrka: Prelude | 229967 | [229967-khatyrka-prelude.json](./229967-khatyrka-prelude.json) |
 | Khemia | 136460 | [136460-khemia.json](./136460-khemia.json) |
