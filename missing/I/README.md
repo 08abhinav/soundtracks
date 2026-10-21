@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Your Beast: Cold Sweat Update | 335994 | [335994-i-am-your-beast-cold-sweat-update.json](./335994-i-am-your-beast-cold-sweat-update.json) |
 | I Am Your Beast: Quitting Time | 418506 | [418506-i-am-your-beast-quitting-time.json](./418506-i-am-your-beast-quitting-time.json) |
 | I Am Your Beast: Support Group Update | 334704 | [334704-i-am-your-beast-support-group-update.json](./334704-i-am-your-beast-support-group-update.json) |
+| I am Your King | 181002 | [181002-i-am-your-king.json](./181002-i-am-your-king.json) |
 | I am your President: Prove Yourself Scenario | 249042 | [249042-i-am-your-president-prove-yourself-scenario.json](./249042-i-am-your-president-prove-yourself-scenario.json) |
 | I Am Zombie | 266098 | [266098-i-am-zombie.json](./266098-i-am-zombie.json) |
 | I Am: A Story of Awakenings | 154993 | [154993-i-am-a-story-of-awakenings.json](./154993-i-am-a-story-of-awakenings.json) |
@@ -3436,6 +3437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insect Empires | 333428 | [333428-insect-empires.json](./333428-insect-empires.json) |
 | Insect Planet TD | 111461 | [111461-insect-planet-td.json](./111461-insect-planet-td.json) |
 | Insect Planet TD | 111462 | [111462-insect-planet-td.json](./111462-insect-planet-td.json) |
+| Insect Seeker | 180994 | [180994-insect-seeker.json](./180994-insect-seeker.json) |
 | Insect Simulator | 192641 | [192641-insect-simulator.json](./192641-insect-simulator.json) |
 | Insect War | 188844 | [188844-insect-war.json](./188844-insect-war.json) |
 | Insect Wars | 249920 | [249920-insect-wars.json](./249920-insect-wars.json) |
