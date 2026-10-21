@@ -1490,6 +1490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absin | 165505 | [165505-absin.json](./165505-absin.json) |
 | Absinth | 68905 | [68905-absinth.json](./68905-absinth.json) |
 | Absinthe | 337440 | [337440-absinthe.json](./337440-absinthe.json) |
+| Absinthia | 194851 | [194851-absinthia.json](./194851-absinthia.json) |
 | Absolut deadmau5 | 58283 | [58283-absolut-deadmau5.json](./58283-absolut-deadmau5.json) |
 | Absolute | 143945 | [143945-absolute.json](./143945-absolute.json) |
 | Absolute Alchemical Potion | 158555 | [158555-absolute-alchemical-potion.json](./158555-absolute-alchemical-potion.json) |
@@ -10878,6 +10879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifact Adventure Gaiden DX | 119527 | [119527-artifact-adventure-gaiden-dx.json](./119527-artifact-adventure-gaiden-dx.json) |
 | Artifact Conquest | 238538 | [238538-artifact-conquest.json](./238538-artifact-conquest.json) |
 | Artifact Hunter | 156036 | [156036-artifact-hunter.json](./156036-artifact-hunter.json) |
+| Artifact Hunter: The Lost Prophecy | 195014 | [195014-artifact-hunter-the-lost-prophecy.json](./195014-artifact-hunter-the-lost-prophecy.json) |
 | Artifact Quest 2 | 75035 | [75035-artifact-quest-2.json](./75035-artifact-quest-2.json) |
 | Artifact Red-X | 63365 | [63365-artifact-red-x.json](./63365-artifact-red-x.json) |
 | Artifact Run | 384534 | [384534-artifact-run.json](./384534-artifact-run.json) |
@@ -11059,6 +11061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascended Gods: Realm of Origins | 270104 | [270104-ascended-gods-realm-of-origins.json](./270104-ascended-gods-realm-of-origins.json) |
 | Ascended Realms | 137683 | [137683-ascended-realms.json](./137683-ascended-realms.json) |
 | Ascender | 20346 | [20346-ascender.json](./20346-ascender.json) |
+| Ascenders | 194853 | [194853-ascenders.json](./194853-ascenders.json) |
 | Ascendia | 255859 | [255859-ascendia.json](./255859-ascendia.json) |
 | Ascending Inferno | 256126 | [256126-ascending-inferno.json](./256126-ascending-inferno.json) |
 | Ascending Madness | 96706 | [96706-ascending-madness.json](./96706-ascending-madness.json) |
@@ -11903,6 +11906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astria Ascending | 145107 | [145107-astria-ascending.json](./145107-astria-ascending.json) |
 | Astria Ascending: Collector's Edition | 173776 | [173776-astria-ascending-collectors-edition.json](./173776-astria-ascending-collectors-edition.json) |
 | Astria Ascending: Special Edition | 159027 | [159027-astria-ascending-special-edition.json](./159027-astria-ascending-special-edition.json) |
+| Astria World | 194869 | [194869-astria-world.json](./194869-astria-world.json) |
 | Astrid | 207304 | [207304-astrid.json](./207304-astrid.json) |
 | Astrid & the Witch | 177941 | [177941-astrid-and-the-witch.json](./177941-astrid-and-the-witch.json) |
 | Astrid: Reverie | 223493 | [223493-astrid-reverie.json](./223493-astrid-reverie.json) |
