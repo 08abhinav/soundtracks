@@ -1326,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnet Action: Zi | 147890 | [147890-magnet-action-zi.json](./147890-magnet-action-zi.json) |
 | Magnet Crusher | 190903 | [190903-magnet-crusher.json](./190903-magnet-crusher.json) |
 | Magnet Effect | 214010 | [214010-magnet-effect.json](./214010-magnet-effect.json) |
+| Magnet Face | 203091 | [203091-magnet-face.json](./203091-magnet-face.json) |
 | Magnet Jack | 235665 | [235665-magnet-jack.json](./235665-magnet-jack.json) |
 | Magnet Knights | 99520 | [99520-magnet-knights.json](./99520-magnet-knights.json) |
 | Magnet Mania 3D | 262580 | [262580-magnet-mania-3d.json](./262580-magnet-mania-3d.json) |
@@ -3380,6 +3381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marshals of War: Orcblood | 408044 | [408044-marshals-of-war-orcblood.json](./408044-marshals-of-war-orcblood.json) |
 | Marshawn Lynch Blocky Football | 267328 | [267328-marshawn-lynch-blocky-football.json](./267328-marshawn-lynch-blocky-football.json) |
 | Marshawn Lynch Pro Football | 86858 | [86858-marshawn-lynch-pro-football.json](./86858-marshawn-lynch-pro-football.json) |
+| Marshie's Malloween Mix-Up | 203155 | [203155-marshies-malloween-mix-up.json](./203155-marshies-malloween-mix-up.json) |
 | Marshin | 121770 | [121770-marshin.json](./121770-marshin.json) |
 | Marshland Hollow | 412242 | [412242-marshland-hollow.json](./412242-marshland-hollow.json) |
 | Marshmallow | 197396 | [197396-marshmallow.json](./197396-marshmallow.json) |
@@ -6379,6 +6381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mein neues Leben Abenteuer auf Tropicana | 152028 | [152028-mein-neues-leben-abenteuer-auf-tropicana.json](./152028-mein-neues-leben-abenteuer-auf-tropicana.json) |
 | Meine Eigene Traumstadt | 337719 | [337719-meine-eigene-traumstadt.json](./337719-meine-eigene-traumstadt.json) |
 | Meine Liebe II: Hokori to Seigi to Ai | 203178 | [203178-meine-liebe-ii-hokori-to-seigi-to-ai.json](./203178-meine-liebe-ii-hokori-to-seigi-to-ai.json) |
+| Meine Liebe: Yuubinaru Kioku | 203177 | [203177-meine-liebe-yuubinaru-kioku.json](./203177-meine-liebe-yuubinaru-kioku.json) |
 | Meine Reise | 395851 | [395851-meine-reise.json](./395851-meine-reise.json) |
 | Meine Tierarztpraxis in Australien | 77635 | [77635-meine-tierarztpraxis-in-australien.json](./77635-meine-tierarztpraxis-in-australien.json) |
 | Meine Tierarztpraxis: SOS am Ozean | 204688 | [204688-meine-tierarztpraxis-sos-am-ozean.json](./204688-meine-tierarztpraxis-sos-am-ozean.json) |
@@ -11515,6 +11518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mônica no Castelo do Dragão | 9557 | [9557-monica-no-castelo-do-dragao.json](./9557-monica-no-castelo-do-dragao.json) |
 | Monica's Paradox | 276222 | [276222-monicas-paradox.json](./276222-monicas-paradox.json) |
 | Monigote Fantasy | 184971 | [184971-monigote-fantasy.json](./184971-monigote-fantasy.json) |
+| Monique: Passion Hôtesse de Caisse | 203076 | [203076-monique-passion-hotesse-de-caisse.json](./203076-monique-passion-hotesse-de-caisse.json) |
 | Monishiri Quiz Taiko no Kyouryuu | 276466 | [276466-monishiri-quiz-taiko-no-kyouryuu.json](./276466-monishiri-quiz-taiko-no-kyouryuu.json) |
 | Monitoball | 418637 | [418637-monitoball.json](./418637-monitoball.json) |
 | Monitor Puzzle Kineko: Kinetic Connection Vol. II | 41403 | [41403-monitor-puzzle-kineko-kinetic-connection-vol-ii.json](./41403-monitor-puzzle-kineko-kinetic-connection-vol-ii.json) |
