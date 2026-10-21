@@ -1435,6 +1435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Boat | 284442 | [284442-banana-boat.json](./284442-banana-boat.json) |
 | Banana Boat Water Speed Race | 107071 | [107071-banana-boat-water-speed-race.json](./107071-banana-boat-water-speed-race.json) |
 | Banana Bonanza! | 231627 | [231627-banana-bonanza.json](./231627-banana-bonanza.json) |
+| Banana Boy and the Interdimensional Crusade | 178838 | [178838-banana-boy-and-the-interdimensional-crusade.json](./178838-banana-boy-and-the-interdimensional-crusade.json) |
 | Banana Bugs | 230534 | [230534-banana-bugs.json](./230534-banana-bugs.json) |
 | Banana Cat | 314405 | [314405-banana-cat.json](./314405-banana-cat.json) |
 | Banana Cat Jump | 256143 | [256143-banana-cat-jump.json](./256143-banana-cat-jump.json) |
@@ -5067,6 +5068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berserker's Descent | 145433 | [145433-berserkers-descent.json](./145433-berserkers-descent.json) |
 | Berserker's Domain | 350024 | [350024-berserkers-domain.json](./350024-berserkers-domain.json) |
 | Bert and the Snake | 93130 | [93130-bert-and-the-snake.json](./93130-bert-and-the-snake.json) |
+| Bert the Barbarian | 178830 | [178830-bert-the-barbarian.json](./178830-bert-the-barbarian.json) |
 | Bert's Family Feud: The Interactive DVD Game | 231831 | [231831-berts-family-feud-the-interactive-dvd-game.json](./231831-berts-family-feud-the-interactive-dvd-game.json) |
 | Bertha Butt's Boogie | 314367 | [314367-bertha-butts-boogie.json](./314367-bertha-butts-boogie.json) |
 | Bertie the Brain | 19157 | [19157-bertie-the-brain.json](./19157-bertie-the-brain.json) |
@@ -6033,6 +6035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billy Masters Was Right | 139402 | [139402-billy-masters-was-right.json](./139402-billy-masters-was-right.json) |
 | Billy Meets World | 121605 | [121605-billy-meets-world.json](./121605-billy-meets-world.json) |
 | Billy Saves the World | 197098 | [197098-billy-saves-the-world.json](./197098-billy-saves-the-world.json) |
+| Billy the Cleaner | 178861 | [178861-billy-the-cleaner.json](./178861-billy-the-cleaner.json) |
 | Billy the Hero | 411755 | [411755-billy-the-hero.json](./411755-billy-the-hero.json) |
 | Billy the Kid | 355142 | [355142-billy-the-kid.json](./355142-billy-the-kid.json) |
 | Billy the Wizard: Rocket Broomstick Racing | 4717 | [4717-billy-the-wizard-rocket-broomstick-racing.json](./4717-billy-the-wizard-rocket-broomstick-racing.json) |
