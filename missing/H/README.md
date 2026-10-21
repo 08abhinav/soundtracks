@@ -2596,6 +2596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartland | 23046 | [23046-heartland.json](./23046-heartland.json) |
 | Heartland | 249049 | [249049-heartland.json](./249049-heartland.json) |
 | Heartland Deluxe | 73756 | [73756-heartland-deluxe.json](./73756-heartland-deluxe.json) |
+| Heartland Frontier | 176182 | [176182-heartland-frontier.json](./176182-heartland-frontier.json) |
 | Heartless | 183969 | [183969-heartless.json](./183969-heartless.json) |
 | Heartless | 219824 | [219824-heartless.json](./219824-heartless.json) |
 | Heartless | 339834 | [339834-heartless.json](./339834-heartless.json) |
@@ -5085,6 +5086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeXpunk | 343246 | [343246-hexpunk.json](./343246-hexpunk.json) |
 | Hexroll | 337779 | [337779-hexroll.json](./337779-hexroll.json) |
 | HexRoller | 253015 | [253015-hexroller.json](./253015-hexroller.json) |
+| Hexsequence | 176153 | [176153-hexsequence.json](./176153-hexsequence.json) |
 | HexSwarm: Hostile Worlds | 389721 | [389721-hexswarm-hostile-worlds.json](./389721-hexswarm-hostile-worlds.json) |
 | Hextalia | 353966 | [353966-hextalia.json](./353966-hextalia.json) |
 | HexTD | 212834 | [212834-hextd.json](./212834-hextd.json) |
@@ -7736,6 +7738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horrid Henry's Horrid Adventure | 269630 | [269630-horrid-henrys-horrid-adventure.json](./269630-horrid-henrys-horrid-adventure.json) |
 | Horrid Henry's Krazy Karts | 187451 | [187451-horrid-henrys-krazy-karts.json](./187451-horrid-henrys-krazy-karts.json) |
 | Horripilant | 342102 | [342102-horripilant.json](./342102-horripilant.json) |
+| Horror & Adventure Pinball | 176148 | [176148-horror-and-adventure-pinball.json](./176148-horror-and-adventure-pinball.json) |
 | Horror & Sports Pinball | 186698 | [186698-horror-and-sports-pinball.json](./186698-horror-and-sports-pinball.json) |
 | Horror Adventure | 235043 | [235043-horror-adventure.json](./235043-horror-adventure.json) |
 | Horror Adventure VR | 146651 | [146651-horror-adventure-vr.json](./146651-horror-adventure-vr.json) |
