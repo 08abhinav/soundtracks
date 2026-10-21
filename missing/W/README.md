@@ -3110,6 +3110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When You Wish Upon a Star | 200447 | [200447-when-you-wish-upon-a-star.json](./200447-when-you-wish-upon-a-star.json) |
 | When you're gone | 37192 | [37192-when-youre-gone.json](./37192-when-youre-gone.json) |
 | Whenever You Can Breathe | 203378 | [203378-whenever-you-can-breathe.json](./203378-whenever-you-can-breathe.json) |
+| WhenNightComes | 193102 | [193102-whennightcomes.json](./193102-whennightcomes.json) |
 | WhenTaken | 289005 | [289005-whentaken.json](./289005-whentaken.json) |
 | Where Am I?: GeoGuess Game | 333996 | [333996-where-am-i-geoguess-game.json](./333996-where-am-i-geoguess-game.json) |
 | Where Angels Cry: Hell Broke Loose | 22084 | [22084-where-angels-cry-hell-broke-loose.json](./22084-where-angels-cry-hell-broke-loose.json) |
