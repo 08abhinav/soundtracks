@@ -813,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Games: Prisoners of Destiny | 139751 | [139751-dangerous-games-prisoners-of-destiny.json](./139751-dangerous-games-prisoners-of-destiny.json) |
 | Dangerous Golf | 18985 | [18985-dangerous-golf.json](./18985-dangerous-golf.json) |
 | Dangerous Ground | 111219 | [111219-dangerous-ground.json](./111219-dangerous-ground.json) |
+| Dangerous Hobby | 187732 | [187732-dangerous-hobby.json](./187732-dangerous-hobby.json) |
 | Dangerous Ivan | 262462 | [262462-dangerous-ivan.json](./262462-dangerous-ivan.json) |
 | Dangerous Land | 303096 | [303096-dangerous-land.json](./303096-dangerous-land.json) |
 | Dangerous Level | 82348 | [82348-dangerous-level.json](./82348-dangerous-level.json) |
@@ -11549,6 +11550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragons of Elanthia | 62998 | [62998-dragons-of-elanthia.json](./62998-dragons-of-elanthia.json) |
 | Dragons of Hong Kong | 55836 | [55836-dragons-of-hong-kong.json](./55836-dragons-of-hong-kong.json) |
 | Dragons Online | 56000 | [56000-dragons-online.json](./56000-dragons-online.json) |
+| Dragons Online Ultra | 187753 | [187753-dragons-online-ultra.json](./187753-dragons-online-ultra.json) |
 | Dragons Reef | 344711 | [344711-dragons-reef.json](./344711-dragons-reef.json) |
 | Dragons Vs Aircrafts | 101500 | [101500-dragons-vs-aircrafts.json](./101500-dragons-vs-aircrafts.json) |
 | Dragons War | 69335 | [69335-dragons-war.json](./69335-dragons-war.json) |
