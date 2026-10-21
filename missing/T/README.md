@@ -4941,6 +4941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beziér Game | 138840 | [138840-the-bezier-game.json](./138840-the-bezier-game.json) |
 | The BFG Game | 58282 | [58282-the-bfg-game.json](./58282-the-bfg-game.json) |
 | The Biba Collection | 96932 | [96932-the-biba-collection.json](./96932-the-biba-collection.json) |
+| The Bibites | 183260 | [183260-the-bibites.json](./183260-the-bibites.json) |
 | The Bible Game | 225574 | [225574-the-bible-game.json](./225574-the-bible-game.json) |
 | The Bible Text Adventure | 377981 | [377981-the-bible-text-adventure.json](./377981-the-bible-text-adventure.json) |
 | The Bible: Exodus | 155381 | [155381-the-bible-exodus.json](./155381-the-bible-exodus.json) |
@@ -6833,6 +6834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The ER: Patient Typhon - SOS | 196095 | [196095-the-er-patient-typhon-sos.json](./196095-the-er-patient-typhon-sos.json) |
 | The Era of Pioneers | 302924 | [302924-the-era-of-pioneers.json](./302924-the-era-of-pioneers.json) |
 | The Erased Student | 374201 | [374201-the-erased-student.json](./374201-the-erased-student.json) |
+| The Eraser | 183270 | [183270-the-eraser.json](./183270-the-eraser.json) |
 | The Escape | 112115 | [112115-the-escape.json](./112115-the-escape.json) |
 | The Escape | 219555 | [219555-the-escape.json](./219555-the-escape.json) |
 | The Escape | 365256 | [365256-the-escape.json](./365256-the-escape.json) |
@@ -7639,6 +7641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Giant Crab in Space | 301063 | [301063-the-giant-crab-in-space.json](./301063-the-giant-crab-in-space.json) |
 | The Giant of Torridge Island | 192984 | [192984-the-giant-of-torridge-island.json](./192984-the-giant-of-torridge-island.json) |
 | The GIF Game | 297813 | [297813-the-gif-game.json](./297813-the-gif-game.json) |
+| The Gift | 183251 | [183251-the-gift.json](./183251-the-gift.json) |
 | The Gift | 192151 | [192151-the-gift.json](./192151-the-gift.json) |
 | The Gift | 53739 | [53739-the-gift.json](./53739-the-gift.json) |
 | The Gigglebone Gang: The AlphaBonk Farm | 206110 | [206110-the-gigglebone-gang-the-alphabonk-farm.json](./206110-the-gigglebone-gang-the-alphabonk-farm.json) |
