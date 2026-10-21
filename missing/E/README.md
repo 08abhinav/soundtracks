@@ -365,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthworm Jim | 362036 | [362036-earthworm-jim.json](./362036-earthworm-jim.json) |
 | Earthworm Jim | 362037 | [362037-earthworm-jim.json](./362037-earthworm-jim.json) |
 | Earthworm Jim 1 & 2: The Whole Can 'O Worms | 125989 | [125989-earthworm-jim-1-and-2-the-whole-can-o-worms.json](./125989-earthworm-jim-1-and-2-the-whole-can-o-worms.json) |
+| Earthworm Jim 1+2: 25th Anniversary Edition | 195923 | [195923-earthworm-jim-1-2-25th-anniversary-edition.json](./195923-earthworm-jim-1-2-25th-anniversary-edition.json) |
 | Earthworm Jim 2 | 242099 | [242099-earthworm-jim-2.json](./242099-earthworm-jim-2.json) |
 | Earthworm Jim 2 | 242100 | [242100-earthworm-jim-2.json](./242100-earthworm-jim-2.json) |
 | Earthworm Jim 2 | 3481 | [3481-earthworm-jim-2.json](./3481-earthworm-jim-2.json) |
