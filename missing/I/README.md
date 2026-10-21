@@ -5032,6 +5032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IT was only a dream | 22031 | [22031-it-was-only-a-dream.json](./22031-it-was-only-a-dream.json) |
 | It Was Raining That Night | 278960 | [278960-it-was-raining-that-night.json](./278960-it-was-raining-that-night.json) |
 | It Was You | 333019 | [333019-it-was-you.json](./333019-it-was-you.json) |
+| It Weighs You Down | 177221 | [177221-it-weighs-you-down.json](./177221-it-weighs-you-down.json) |
 | It Will Find You | 124207 | [124207-it-will-find-you.json](./124207-it-will-find-you.json) |
 | It Works: Electronics Repair Simulator | 352231 | [352231-it-works-electronics-repair-simulator.json](./352231-it-works-electronics-repair-simulator.json) |
 | It: Unstoppable | 364059 | [364059-it-unstoppable.json](./364059-it-unstoppable.json) |
