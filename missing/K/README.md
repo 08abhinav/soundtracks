@@ -2969,6 +2969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiss Trilogy: Premium Edition | 136826 | [136826-kiss-trilogy-premium-edition.json](./136826-kiss-trilogy-premium-edition.json) |
 | KISS U | 194891 | [194891-kiss-u.json](./194891-kiss-u.json) |
 | Kiss Yori... | 73766 | [73766-kiss-yori.json](./73766-kiss-yori.json) |
+| Kiss/Off | 189994 | [189994-kiss-off.json](./189994-kiss-off.json) |
 | Kissa | 181891 | [181891-kissa.json](./181891-kissa.json) |
 | Kissed by a Star | 349981 | [349981-kissed-by-a-star.json](./349981-kissed-by-a-star.json) |
 | Kissed by the Baddest Bidder | 125276 | [125276-kissed-by-the-baddest-bidder.json](./125276-kissed-by-the-baddest-bidder.json) |
@@ -4424,6 +4425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kselebox | 169978 | [169978-kselebox.json](./169978-kselebox.json) |
 | KSI Unleashed | 350371 | [350371-ksi-unleashed.json](./350371-ksi-unleashed.json) |
 | Ksiega Dzungli | 318486 | [318486-ksiega-dzungli.json](./318486-ksiega-dzungli.json) |
+| Ktgame | 189877 | [189877-ktgame.json](./189877-ktgame.json) |
 | KTX-1 | 170044 | [170044-ktx-1.json](./170044-ktx-1.json) |
 | Ku Blast Brawl | 133699 | [133699-ku-blast-brawl.json](./133699-ku-blast-brawl.json) |
 | Ku Gyoku Den | 216761 | [216761-ku-gyoku-den.json](./216761-ku-gyoku-den.json) |
