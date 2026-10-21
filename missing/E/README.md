@@ -1306,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eidetus | 125898 | [125898-eidetus.json](./125898-eidetus.json) |
 | Eidol | 405550 | [405550-eidol.json](./405550-eidol.json) |
 | Eidolon | 17161 | [17161-eidolon.json](./17161-eidolon.json) |
+| Eidolon | 183752 | [183752-eidolon.json](./183752-eidolon.json) |
 | Eidolon Adventure | 119459 | [119459-eidolon-adventure.json](./119459-eidolon-adventure.json) |
 | Eidolon Awakened | 262874 | [262874-eidolon-awakened.json](./262874-eidolon-awakened.json) |
 | Eidolons: Nethergate | 116818 | [116818-eidolons-nethergate.json](./116818-eidolons-nethergate.json) |
@@ -2534,6 +2535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empty Soul: S&S Edition | 32914 | [32914-empty-soul-s-and-s-edition.json](./32914-empty-soul-s-and-s-edition.json) |
 | Empty the Ocean With a Bucket | 392927 | [392927-empty-the-ocean-with-a-bucket.json](./392927-empty-the-ocean-with-a-bucket.json) |
 | Empty Town | 102293 | [102293-empty-town.json](./102293-empty-town.json) |
+| Empty Void | 183785 | [183785-empty-void.json](./183785-empty-void.json) |
 | Empty World | 365768 | [365768-empty-world.json](./365768-empty-world.json) |
 | Empty. | 134449 | [134449-empty.json](./134449-empty.json) |
 | Empulse | 402471 | [402471-empulse.json](./402471-empulse.json) |
@@ -3582,6 +3584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Era Online: Şeref Savaşı | 415972 | [415972-era-online-seref-savas.json](./415972-era-online-seref-savas.json) |
 | Era's Adventures | 247534 | [247534-eras-adventures.json](./247534-eras-adventures.json) |
 | eRacer | 92816 | [92816-eracer.json](./92816-eracer.json) |
+| Eradicate | 183769 | [183769-eradicate.json](./183769-eradicate.json) |
 | Eradicator | 8340 | [8340-eradicator.json](./8340-eradicator.json) |
 | Eradicator Genesis | 384187 | [384187-eradicator-genesis.json](./384187-eradicator-genesis.json) |
 | Erannorth Chronicles: Ancient Ruins | 192263 | [192263-erannorth-chronicles-ancient-ruins.json](./192263-erannorth-chronicles-ancient-ruins.json) |
@@ -5501,6 +5504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolve | 3770 | [3770-evolve.json](./3770-evolve.json) |
 | Evolve Incremental | 255342 | [255342-evolve-incremental.json](./255342-evolve-incremental.json) |
 | Evolve Lab | 168639 | [168639-evolve-lab.json](./168639-evolve-lab.json) |
+| Evolve Me | 183797 | [183797-evolve-me.json](./183797-evolve-me.json) |
 | Evolve or Die | 373526 | [373526-evolve-or-die.json](./373526-evolve-or-die.json) |
 | Evolve: Mecha Squad | 309691 | [309691-evolve-mecha-squad.json](./309691-evolve-mecha-squad.json) |
 | Evolve: Ultimate Edition | 99767 | [99767-evolve-ultimate-edition.json](./99767-evolve-ultimate-edition.json) |
