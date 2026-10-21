@@ -9390,6 +9390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull and Bones: Premium Edition | 208432 | [208432-skull-and-bones-premium-edition.json](./208432-skull-and-bones-premium-edition.json) |
 | Skull and Bones: Season 1 - Raging Tides | 303240 | [303240-skull-and-bones-season-1-raging-tides.json](./303240-skull-and-bones-season-1-raging-tides.json) |
 | Skull and Bones: Season 2 - Chorus of Havoc | 303241 | [303241-skull-and-bones-season-2-chorus-of-havoc.json](./303241-skull-and-bones-season-2-chorus-of-havoc.json) |
+| Skull Bullets | 188859 | [188859-skull-bullets.json](./188859-skull-bullets.json) |
 | Skull Dash | 272553 | [272553-skull-dash.json](./272553-skull-dash.json) |
 | Skull Golf: Creation in Decay | 181714 | [181714-skull-golf-creation-in-decay.json](./181714-skull-golf-creation-in-decay.json) |
 | Skull Head World | 157408 | [157408-skull-head-world.json](./157408-skull-head-world.json) |
@@ -19781,6 +19782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steampuff: Phinnegan's Factory | 32334 | [32334-steampuff-phinnegans-factory.json](./32334-steampuff-phinnegans-factory.json) |
 | Steampunch | 335075 | [335075-steampunch.json](./335075-steampunch.json) |
 | Steampunch: Lost Tombs | 358357 | [358357-steampunch-lost-tombs.json](./358357-steampunch-lost-tombs.json) |
+| Steampunk Abyss | 188864 | [188864-steampunk-abyss.json](./188864-steampunk-abyss.json) |
 | Steampunk Action Battle Simulator | 41930 | [41930-steampunk-action-battle-simulator.json](./41930-steampunk-action-battle-simulator.json) |
 | Steampunk Idle Spinner | 116243 | [116243-steampunk-idle-spinner.json](./116243-steampunk-idle-spinner.json) |
 | Steampunk Jigsaw Puzzles | 264578 | [264578-steampunk-jigsaw-puzzles.json](./264578-steampunk-jigsaw-puzzles.json) |
@@ -20677,6 +20679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stop the Bus | 83464 | [83464-stop-the-bus.json](./83464-stop-the-bus.json) |
 | Stop the Cult | 189913 | [189913-stop-the-cult.json](./189913-stop-the-cult.json) |
 | Stop the Press! | 381631 | [381631-stop-the-press.json](./381631-stop-the-press.json) |
+| Stop the Saturnians! | 188841 | [188841-stop-the-saturnians.json](./188841-stop-the-saturnians.json) |
 | Stop the Slimes | 273967 | [273967-stop-the-slimes.json](./273967-stop-the-slimes.json) |
 | Stop Thief | 301438 | [301438-stop-thief.json](./301438-stop-thief.json) |
 | Stop Those Aliens! | 277567 | [277567-stop-those-aliens.json](./277567-stop-those-aliens.json) |
@@ -22027,6 +22030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subject 264 | 30959 | [30959-subject-264.json](./30959-subject-264.json) |
 | Subject 65 | 222752 | [222752-subject-65.json](./222752-subject-65.json) |
 | Subject: Dinha | 413857 | [413857-subject-dinha.json](./413857-subject-dinha.json) |
+| Subject: Relictus | 188835 | [188835-subject-relictus.json](./188835-subject-relictus.json) |
 | Subject:Love | 305850 | [305850-subject-love.json](./305850-subject-love.json) |
 | Subjectivation | 341910 | [341910-subjectivation.json](./341910-subjectivation.json) |
 | Sublight | 377057 | [377057-sublight.json](./377057-sublight.json) |
@@ -27024,6 +27028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of Resistance | 134640 | [134640-sword-of-resistance.json](./134640-sword-of-resistance.json) |
 | Sword of Rule | 376075 | [376075-sword-of-rule.json](./376075-sword-of-rule.json) |
 | Sword of Saros | 40727 | [40727-sword-of-saros.json](./40727-sword-of-saros.json) |
+| Sword of Shadow: Revolution | 188870 | [188870-sword-of-shadow-revolution.json](./188870-sword-of-shadow-revolution.json) |
 | Sword of Shandar | 384914 | [384914-sword-of-shandar.json](./384914-sword-of-shandar.json) |
 | Sword of Shushan | 158088 | [158088-sword-of-shushan.json](./158088-sword-of-shushan.json) |
 | Sword of Sia: Lady Sia 2 | 207006 | [207006-sword-of-sia-lady-sia-2.json](./207006-sword-of-sia-lady-sia-2.json) |
