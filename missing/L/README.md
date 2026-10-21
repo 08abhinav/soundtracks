@@ -3014,6 +3014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leticia Land | 183464 | [183464-leticia-land.json](./183464-leticia-land.json) |
 | Letifer | 267831 | [267831-letifer.json](./267831-letifer.json) |
 | LetMeSee | 406295 | [406295-letmesee.json](./406295-letmesee.json) |
+| Letreco | 186524 | [186524-letreco.json](./186524-letreco.json) |
 | Letris 4 | 233103 | [233103-letris-4.json](./233103-letris-4.json) |
 | Letris Power: Word puzzle game | 89239 | [89239-letris-power-word-puzzle-game.json](./89239-letris-power-word-puzzle-game.json) |
 | Lets Beats | 105319 | [105319-lets-beats.json](./105319-lets-beats.json) |
