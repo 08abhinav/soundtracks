@@ -6901,6 +6901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Exit of Nightmare | 320614 | [320614-the-exit-of-nightmare.json](./320614-the-exit-of-nightmare.json) |
 | The Exit Project: Backstreets | 319939 | [319939-the-exit-project-backstreets.json](./319939-the-exit-project-backstreets.json) |
 | The Exit Strategy | 377346 | [377346-the-exit-strategy.json](./377346-the-exit-strategy.json) |
+| The Exodus | 188839 | [188839-the-exodus.json](./188839-the-exodus.json) |
 | The Exomachinist | 153930 | [153930-the-exomachinist.json](./153930-the-exomachinist.json) |
 | The Exorcist | 117425 | [117425-the-exorcist.json](./117425-the-exorcist.json) |
 | The Exorcist | 54469 | [54469-the-exorcist.json](./54469-the-exorcist.json) |
@@ -7614,6 +7615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ghost X: Sniper Simulator | 272445 | [272445-the-ghost-x-sniper-simulator.json](./272445-the-ghost-x-sniper-simulator.json) |
 | The Ghost X: Sniper Simulator - Arsenal Expansion | 304814 | [304814-the-ghost-x-sniper-simulator-arsenal-expansion.json](./304814-the-ghost-x-sniper-simulator-arsenal-expansion.json) |
 | The Ghost X: Sniper Simulator - Premium Edition | 305594 | [305594-the-ghost-x-sniper-simulator-premium-edition.json](./305594-the-ghost-x-sniper-simulator-premium-edition.json) |
+| The Ghost: Task of the Ghost Hunters | 188856 | [188856-the-ghost-task-of-the-ghost-hunters.json](./188856-the-ghost-task-of-the-ghost-hunters.json) |
 | The Ghosts of Blackwood Manor | 308021 | [308021-the-ghosts-of-blackwood-manor.json](./308021-the-ghosts-of-blackwood-manor.json) |
 | The Ghosts of Hackney Mills | 74985 | [74985-the-ghosts-of-hackney-mills.json](./74985-the-ghosts-of-hackney-mills.json) |
 | The Ghosts of Terinor | 266762 | [266762-the-ghosts-of-terinor.json](./266762-the-ghosts-of-terinor.json) |
@@ -8031,6 +8033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hauntings: Surveillance | 202367 | [202367-the-hauntings-surveillance.json](./202367-the-hauntings-surveillance.json) |
 | The Headlands | 389687 | [389687-the-headlands.json](./389687-the-headlands.json) |
 | The Headsman | 153412 | [153412-the-headsman.json](./153412-the-headsman.json) |
+| The Healer | 188865 | [188865-the-healer.json](./188865-the-healer.json) |
 | The Heart Defenders | 224778 | [224778-the-heart-defenders.json](./224778-the-heart-defenders.json) |
 | The Heart of Darkness | 164909 | [164909-the-heart-of-darkness.json](./164909-the-heart-of-darkness.json) |
 | The Heart of Influencer | 342275 | [342275-the-heart-of-influencer.json](./342275-the-heart-of-influencer.json) |
@@ -8560,6 +8563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Island: Into the Mist | 173095 | [173095-the-island-into-the-mist.json](./173095-the-island-into-the-mist.json) |
 | The Island: King's Order | 164443 | [164443-the-island-kings-order.json](./164443-the-island-kings-order.json) |
 | The Islander: Landscape Designer | 118242 | [118242-the-islander-landscape-designer.json](./118242-the-islander-landscape-designer.json) |
+| The Islands | 188830 | [188830-the-islands.json](./188830-the-islands.json) |
 | The Islands of Freedom | 320307 | [320307-the-islands-of-freedom.json](./320307-the-islands-of-freedom.json) |
 | The Isle | 25838 | [25838-the-isle.json](./25838-the-isle.json) |
 | The Isle is Full of Noises | 159080 | [159080-the-isle-is-full-of-noises.json](./159080-the-isle-is-full-of-noises.json) |
@@ -17964,6 +17968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Realms | 288590 | [288590-tiny-realms.json](./288590-tiny-realms.json) |
 | Tiny Realms | 61720 | [61720-tiny-realms.json](./61720-tiny-realms.json) |
 | Tiny Ring | 257364 | [257364-tiny-ring.json](./257364-tiny-ring.json) |
+| Tiny Road Interchanges | 188834 | [188834-tiny-road-interchanges.json](./188834-tiny-road-interchanges.json) |
 | Tiny Robots Recharged | 167830 | [167830-tiny-robots-recharged.json](./167830-tiny-robots-recharged.json) |
 | Tiny Robots: Portal Escape | 297201 | [297201-tiny-robots-portal-escape.json](./297201-tiny-robots-portal-escape.json) |
 | Tiny Rogues | 215217 | [215217-tiny-rogues.json](./215217-tiny-rogues.json) |
@@ -18777,6 +18782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Day | 399166 | [399166-tokyo-day.json](./399166-tokyo-day.json) |
 | Tokyo Debunker | 197035 | [197035-tokyo-debunker.json](./197035-tokyo-debunker.json) |
 | Tokyo Desire: Deck Builders | 292461 | [292461-tokyo-desire-deck-builders.json](./292461-tokyo-desire-deck-builders.json) |
+| Tokyo Detectives | 188824 | [188824-tokyo-detectives.json](./188824-tokyo-detectives.json) |
 | Tokyo Detectives: Case 01 | 192167 | [192167-tokyo-detectives-case-01.json](./192167-tokyo-detectives-case-01.json) |
 | Tokyo Detectives: Case 02 | 192168 | [192168-tokyo-detectives-case-02.json](./192168-tokyo-detectives-case-02.json) |
 | Tokyo Detectives: Case 03 | 197561 | [197561-tokyo-detectives-case-03.json](./197561-tokyo-detectives-case-03.json) |
