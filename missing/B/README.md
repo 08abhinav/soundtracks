@@ -681,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Dudes vs. Dragon Ninja | 18831 | [18831-bad-dudes-vs-dragon-ninja.json](./18831-bad-dudes-vs-dragon-ninja.json) |
 | Bad Eggs Online 2 | 60360 | [60360-bad-eggs-online-2.json](./60360-bad-eggs-online-2.json) |
 | Bad Ethics | 252094 | [252094-bad-ethics.json](./252094-bad-ethics.json) |
+| Bad Faith | 187714 | [187714-bad-faith.json](./187714-bad-faith.json) |
 | Bad Faith | 329027 | [329027-bad-faith.json](./329027-bad-faith.json) |
 | Bad Flesh | 301140 | [301140-bad-flesh.json](./301140-bad-flesh.json) |
 | Bad Football | 407893 | [407893-bad-football.json](./407893-bad-football.json) |
@@ -4140,6 +4141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat the House | 71041 | [71041-beat-the-house.json](./71041-beat-the-house.json) |
 | Beat the House 2 | 71503 | [71503-beat-the-house-2.json](./71503-beat-the-house-2.json) |
 | Beat the Humans | 239793 | [239793-beat-the-humans.json](./239793-beat-the-humans.json) |
+| Beat the Little Zombie | 187705 | [187705-beat-the-little-zombie.json](./187705-beat-the-little-zombie.json) |
 | Beat the Machine: Rebooted | 135767 | [135767-beat-the-machine-rebooted.json](./135767-beat-the-machine-rebooted.json) |
 | Beat the Machine: Rebooted - Invasion | 249023 | [249023-beat-the-machine-rebooted-invasion.json](./249023-beat-the-machine-rebooted-invasion.json) |
 | Beat the Markets | 348262 | [348262-beat-the-markets.json](./348262-beat-the-markets.json) |
@@ -8780,6 +8782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blowback | 184611 | [184611-blowback.json](./184611-blowback.json) |
 | Blower | 180664 | [180664-blower.json](./180664-blower.json) |
 | Blowfly: DungHole Wanderer | 202745 | [202745-blowfly-dunghole-wanderer.json](./202745-blowfly-dunghole-wanderer.json) |
+| Blown Away | 187703 | [187703-blown-away.json](./187703-blown-away.json) |
 | Blowout & Cosmic Alphabet | 14325 | [14325-blowout-and-cosmic-alphabet.json](./14325-blowout-and-cosmic-alphabet.json) |
 | Blowup | 269109 | [269109-blowup.json](./269109-blowup.json) |
 | Blowup!! | 233246 | [233246-blowup.json](./233246-blowup.json) |
@@ -9990,6 +9993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom! Boom! | 115691 | [115691-boom-boom.json](./115691-boom-boom.json) |
 | Boom! Buster | 278963 | [278963-boom-buster.json](./278963-boom-buster.json) |
 | Boom! Maze | 86421 | [86421-boom-maze.json](./86421-boom-maze.json) |
+| Boom! Party | 187738 | [187738-boom-party.json](./187738-boom-party.json) |
 | Boom! Tanks | 62778 | [62778-boom-tanks.json](./62778-boom-tanks.json) |
 | Boom! VR | 158069 | [158069-boom-vr.json](./158069-boom-vr.json) |
 | Boomadrons Bouncyverse Rebound | 303824 | [303824-boomadrons-bouncyverse-rebound.json](./303824-boomadrons-bouncyverse-rebound.json) |
@@ -10678,6 +10682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling Strike | 421386 | [421386-bowling-strike.json](./421386-bowling-strike.json) |
 | Bowling X | 68642 | [68642-bowling-x.json](./68642-bowling-x.json) |
 | Bowling Xciting | 56962 | [56962-bowling-xciting.json](./56962-bowling-xciting.json) |
+| Bowling: Breakthrough Gaming Arcade | 187749 | [187749-bowling-breakthrough-gaming-arcade.json](./187749-bowling-breakthrough-gaming-arcade.json) |
 | Bowling! / Basketball! | 80209 | [80209-bowling-basketball.json](./80209-bowling-basketball.json) |
 | Bowlout | 224969 | [224969-bowlout.json](./224969-bowlout.json) |
 | Bowls | 14337 | [14337-bowls.json](./14337-bowls.json) |
@@ -13610,6 +13615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bury Me With The Rain | 330370 | [330370-bury-me-with-the-rain.json](./330370-bury-me-with-the-rain.json) |
 | Bury me, my Love | 74959 | [74959-bury-me-my-love.json](./74959-bury-me-my-love.json) |
 | Bury My Heart Knee Deep | 262546 | [262546-bury-my-heart-knee-deep.json](./262546-bury-my-heart-knee-deep.json) |
+| Bury Treasure | 187740 | [187740-bury-treasure.json](./187740-bury-treasure.json) |
 | Bury Your Gays | 269864 | [269864-bury-your-gays.json](./269864-bury-your-gays.json) |
 | Bus & Cable Car Simulator | 52487 | [52487-bus-and-cable-car-simulator.json](./52487-bus-and-cable-car-simulator.json) |
 | Bus & Taxi Driving Simulator | 86825 | [86825-bus-and-taxi-driving-simulator.json](./86825-bus-and-taxi-driving-simulator.json) |
