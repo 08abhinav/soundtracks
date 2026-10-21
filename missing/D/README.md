@@ -1821,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dàshídài: Sānguó Lìzhì | 118071 | [118071-dashidai-sanguo-lizhi.json](./118071-dashidai-sanguo-lizhi.json) |
 | Dashie's Puh-ranormal Activity | 147240 | [147240-dashies-puh-ranormal-activity.json](./147240-dashies-puh-ranormal-activity.json) |
 | Dashin' Desperadoes | 46247 | [46247-dashin-desperadoes.json](./46247-dashin-desperadoes.json) |
+| Dashing Adventurer | 201997 | [201997-dashing-adventurer.json](./201997-dashing-adventurer.json) |
 | Dashing Dasher | 332276 | [332276-dashing-dasher.json](./332276-dashing-dasher.json) |
 | Dashing Dinosaurs & Sexy Centaurs: Winter's Tale | 126404 | [126404-dashing-dinosaurs-and-sexy-centaurs-winters-tale.json](./126404-dashing-dinosaurs-and-sexy-centaurs-winters-tale.json) |
 | Dashing Dinosaurs & Sexy Centaurs: Winter's Tale 2 | 227868 | [227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json](./227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json) |
@@ -5701,6 +5702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeTails | 355129 | [355129-details.json](./355129-details.json) |
 | Detained: Too Good for School | 152148 | [152148-detained-too-good-for-school.json](./152148-detained-too-good-for-school.json) |
 | Detana TwinBee Yahho! Deluxe Pack | 73358 | [73358-detana-twinbee-yahho-deluxe-pack.json](./73358-detana-twinbee-yahho-deluxe-pack.json) |
+| Detana!! TwinBee | 202072 | [202072-detana-twinbee.json](./202072-detana-twinbee.json) |
 | Detana!! TwinBee | 202103 | [202103-detana-twinbee.json](./202103-detana-twinbee.json) |
 | Detana!! TwinBee | 202104 | [202104-detana-twinbee.json](./202104-detana-twinbee.json) |
 | Detanabi Pro Yakyuu | 65591 | [65591-detanabi-pro-yakyuu.json](./65591-detanabi-pro-yakyuu.json) |
@@ -5805,6 +5807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Solitaire: The Ghost Agency 2 | 222280 | [222280-detective-solitaire-the-ghost-agency-2.json](./222280-detective-solitaire-the-ghost-agency-2.json) |
 | Detective Stories | 218675 | [218675-detective-stories.json](./218675-detective-stories.json) |
 | Detective Stories Bundle | 118885 | [118885-detective-stories-bundle.json](./118885-detective-stories-bundle.json) |
+| Detective Stories: Hollywood | 202069 | [202069-detective-stories-hollywood.json](./202069-detective-stories-hollywood.json) |
 | Detective Story | 148553 | [148553-detective-story.json](./148553-detective-story.json) |
 | Detective Time | 180035 | [180035-detective-time.json](./180035-detective-time.json) |
 | Detective Turner: If Looks Could Kill | 404825 | [404825-detective-turner-if-looks-could-kill.json](./404825-detective-turner-if-looks-could-kill.json) |
@@ -6714,6 +6717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digi Pool | 70341 | [70341-digi-pool.json](./70341-digi-pool.json) |
 | Digi-Dodgy | 336676 | [336676-digi-dodgy.json](./336676-digi-dodgy.json) |
 | Digi-Doll | 345964 | [345964-digi-doll.json](./345964-digi-doll.json) |
+| Digi-tiles | 202074 | [202074-digi-tiles.json](./202074-digi-tiles.json) |
 | Digiclimb | 402281 | [402281-digiclimb.json](./402281-digiclimb.json) |
 | DigiGods: Build and Battle | 325874 | [325874-digigods-build-and-battle.json](./325874-digigods-build-and-battle.json) |
 | Digimon 2 | 247398 | [247398-digimon-2.json](./247398-digimon-2.json) |
@@ -7525,6 +7529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discovery | 354575 | [354575-discovery.json](./354575-discovery.json) |
 | Discovery Freelancer | 111445 | [111445-discovery-freelancer.json](./111445-discovery-freelancer.json) |
 | Discovery Islands | 399706 | [399706-discovery-islands.json](./399706-discovery-islands.json) |
+| Discovery Kids Snake Safari | 202079 | [202079-discovery-kids-snake-safari.json](./202079-discovery-kids-snake-safari.json) |
 | Discovery Kids: Dolphin Discovery | 72755 | [72755-discovery-kids-dolphin-discovery.json](./72755-discovery-kids-dolphin-discovery.json) |
 | Discovery Kids: Kitten Corner | 72957 | [72957-discovery-kids-kitten-corner.json](./72957-discovery-kids-kitten-corner.json) |
 | Discovery Kids: Pony Paradise | 69273 | [69273-discovery-kids-pony-paradise.json](./69273-discovery-kids-pony-paradise.json) |
@@ -7782,6 +7787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's 102 Dalmatians: Puppies to the Rescue | 372836 | [372836-disneys-102-dalmatians-puppies-to-the-rescue.json](./372836-disneys-102-dalmatians-puppies-to-the-rescue.json) |
 | Disney's A Bug's Life: Active Play | 215088 | [215088-disneys-a-bugs-life-active-play.json](./215088-disneys-a-bugs-life-active-play.json) |
 | Disney's A Christmas Carol | 21086 | [21086-disneys-a-christmas-carol.json](./21086-disneys-a-christmas-carol.json) |
+| Disney's Active Play: The Lion King II - Simba's Pride | 202089 | [202089-disneys-active-play-the-lion-king-ii-simbas-pride.json](./202089-disneys-active-play-the-lion-king-ii-simbas-pride.json) |
 | Disney's Activity Center: Winnie the Pooh | 209035 | [209035-disneys-activity-center-winnie-the-pooh.json](./209035-disneys-activity-center-winnie-the-pooh.json) |
 | Disney's Adventures in Typing with Timon & Pumbaa | 167278 | [167278-disneys-adventures-in-typing-with-timon-and-pumbaa.json](./167278-disneys-adventures-in-typing-with-timon-and-pumbaa.json) |
 | Disney's Aladdin | 106270 | [106270-disneys-aladdin.json](./106270-disneys-aladdin.json) |
@@ -7907,6 +7913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Winnie the Pooh's Rumbly Tumbly Adventure | 4234 | [4234-disneys-winnie-the-poohs-rumbly-tumbly-adventure.json](./4234-disneys-winnie-the-poohs-rumbly-tumbly-adventure.json) |
 | Disney's Winnie the Pooh's Rumbly Tumbly Adventure & Rayman 3 | 82097 | [82097-disneys-winnie-the-poohs-rumbly-tumbly-adventure-and-rayman-3.json](./82097-disneys-winnie-the-poohs-rumbly-tumbly-adventure-and-rayman-3.json) |
 | Disney's You Can Fly! with Tinker Bell | 209033 | [209033-disneys-you-can-fly-with-tinker-bell.json](./209033-disneys-you-can-fly-with-tinker-bell.json) |
+| Disney/Pixar Learning: 2nd & 3rd Grade | 202076 | [202076-disney-pixar-learning-2nd-and-3rd-grade.json](./202076-disney-pixar-learning-2nd-and-3rd-grade.json) |
 | Disneyland Adventures | 108251 | [108251-disneyland-adventures.json](./108251-disneyland-adventures.json) |
 | Disobedient Sheep | 115623 | [115623-disobedient-sheep.json](./115623-disobedient-sheep.json) |
 | Disobey - Revolt Simulator | 33031 | [33031-disobey-revolt-simulator.json](./33031-disobey-revolt-simulator.json) |
@@ -10682,6 +10689,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula Defense! | 224719 | [224719-dracula-defense.json](./224719-dracula-defense.json) |
 | Dracula Frames | 168320 | [168320-dracula-frames.json](./168320-dracula-frames.json) |
 | Dracula Hakushaku | 66111 | [66111-dracula-hakushaku.json](./66111-dracula-hakushaku.json) |
+| Dracula III: The Path of the Dragon - Part 1: The Strange Case of Martha | 202071 | [202071-dracula-iii-the-path-of-the-dragon-part-1-the-strange-case-of-martha.json](./202071-dracula-iii-the-path-of-the-dragon-part-1-the-strange-case-of-martha.json) |
+| Dracula III: The Path of the Dragon - Part 2: The Myth of the Vampire | 202070 | [202070-dracula-iii-the-path-of-the-dragon-part-2-the-myth-of-the-vampire.json](./202070-dracula-iii-the-path-of-the-dragon-part-2-the-myth-of-the-vampire.json) |
+| Dracula III: The Path of the Dragon - Part 3: The Destruction of the Evil | 202073 | [202073-dracula-iii-the-path-of-the-dragon-part-3-the-destruction-of-the-evil.json](./202073-dracula-iii-the-path-of-the-dragon-part-3-the-destruction-of-the-evil.json) |
 | Dracula in London | 71727 | [71727-dracula-in-london.json](./71727-dracula-in-london.json) |
 | Dracula Is Coming | 190447 | [190447-dracula-is-coming.json](./190447-dracula-is-coming.json) |
 | Dracula Solitaire | 386152 | [386152-dracula-solitaire.json](./386152-dracula-solitaire.json) |
