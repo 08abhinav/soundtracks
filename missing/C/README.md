@@ -12309,6 +12309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crapshoot | 380095 | [380095-crapshoot.json](./380095-crapshoot.json) |
 | CrapShoot | 319239 | [319239-crapshoot.json](./319239-crapshoot.json) |
 | CrapsVR | 31932 | [31932-crapsvr.json](./31932-crapsvr.json) |
+| Crash | 171273 | [171273-crash.json](./171273-crash.json) |
 | Crash | 39514 | [39514-crash.json](./39514-crash.json) |
 | Crash 'n Burn | 95438 | [95438-crash-n-burn.json](./95438-crash-n-burn.json) |
 | Crash 'N' Burn | 5789 | [5789-crash-n-burn.json](./5789-crash-n-burn.json) |
@@ -13949,6 +13950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader Kings III: Coronations | 352851 | [352851-crusader-kings-iii-coronations.json](./352851-crusader-kings-iii-coronations.json) |
 | Crusader Kings III: Couture of the Capets | 291080 | [291080-crusader-kings-iii-couture-of-the-capets.json](./291080-crusader-kings-iii-couture-of-the-capets.json) |
 | Crusader Kings III: Crowns of the World | 352848 | [352848-crusader-kings-iii-crowns-of-the-world.json](./352848-crusader-kings-iii-crowns-of-the-world.json) |
+| Crusader Kings III: Day One Edition | 171278 | [171278-crusader-kings-iii-day-one-edition.json](./171278-crusader-kings-iii-day-one-edition.json) |
 | Crusader Kings III: Fashion of the Abbasid Court | 286097 | [286097-crusader-kings-iii-fashion-of-the-abbasid-court.json](./286097-crusader-kings-iii-fashion-of-the-abbasid-court.json) |
 | Crusader Kings III: Fate of Iberia | 203964 | [203964-crusader-kings-iii-fate-of-iberia.json](./203964-crusader-kings-iii-fate-of-iberia.json) |
 | Crusader Kings III: Friends & Foes | 215534 | [215534-crusader-kings-iii-friends-and-foes.json](./215534-crusader-kings-iii-friends-and-foes.json) |
@@ -14887,6 +14889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupid Island | 190448 | [190448-cupid-island.json](./190448-cupid-island.json) |
 | Cupid Nonogram | 182248 | [182248-cupid-nonogram.json](./182248-cupid-nonogram.json) |
 | Cupid Parasite | 136964 | [136964-cupid-parasite.json](./136964-cupid-parasite.json) |
+| Cupid Parasite: Day One Edition | 171287 | [171287-cupid-parasite-day-one-edition.json](./171287-cupid-parasite-day-one-edition.json) |
 | Cupid Parasite: Sweet and Spicy Darling | 200558 | [200558-cupid-parasite-sweet-and-spicy-darling.json](./200558-cupid-parasite-sweet-and-spicy-darling.json) |
 | Cupid Parasite: Sweet and Spicy Darling - Day One Edition | 287041 | [287041-cupid-parasite-sweet-and-spicy-darling-day-one-edition.json](./287041-cupid-parasite-sweet-and-spicy-darling-day-one-edition.json) |
 | Cupid Parasite/Cupid Parasite: Sweet and Spicy Darling – Day One Edition | 287042 | [287042-cupid-parasite-cupid-parasite-sweet-and-spicy-darling-day-one-edition.json](./287042-cupid-parasite-cupid-parasite-sweet-and-spicy-darling-day-one-edition.json) |
