@@ -5584,6 +5584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cinderling | 404855 | [404855-the-cinderling.json](./404855-the-cinderling.json) |
 | The Cinema Rosa | 101449 | [101449-the-cinema-rosa.json](./101449-the-cinema-rosa.json) |
 | The Circle Move | 341106 | [341106-the-circle-move.json](./341106-the-circle-move.json) |
+| The Circle of Suffering | 190364 | [190364-the-circle-of-suffering.json](./190364-the-circle-of-suffering.json) |
 | The Circle: Martial Arts Fighter | 206189 | [206189-the-circle-martial-arts-fighter.json](./206189-the-circle-martial-arts-fighter.json) |
 | The Circulation of Shadows | 271462 | [271462-the-circulation-of-shadows.json](./271462-the-circulation-of-shadows.json) |
 | The Circus of Misfortune | 364662 | [364662-the-circus-of-misfortune.json](./364662-the-circus-of-misfortune.json) |
@@ -12969,6 +12970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Space Between Stars | 364379 | [364379-the-space-between-stars.json](./364379-the-space-between-stars.json) |
 | The Space Opera "Dragon Eyes" | 125954 | [125954-the-space-opera-dragon-eyes.json](./125954-the-space-opera-dragon-eyes.json) |
 | The Space Sim | 179057 | [179057-the-space-sim.json](./179057-the-space-sim.json) |
+| The Spanish Privateer | 190374 | [190374-the-spanish-privateer.json](./190374-the-spanish-privateer.json) |
 | The Spark of One | 135064 | [135064-the-spark-of-one.json](./135064-the-spark-of-one.json) |
 | The Spatials | 51520 | [51520-the-spatials.json](./51520-the-spatials.json) |
 | The Spatials Collection | 53775 | [53775-the-spatials-collection.json](./53775-the-spatials-collection.json) |
@@ -15601,6 +15603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrillville: Off the Rails | 281902 | [281902-thrillville-off-the-rails.json](./281902-thrillville-off-the-rails.json) |
 | Thrillville: Off the Rails | 322364 | [322364-thrillville-off-the-rails.json](./322364-thrillville-off-the-rails.json) |
 | Thrive | 142499 | [142499-thrive.json](./142499-thrive.json) |
+| Thrive: Heavy Lies the Crown | 190494 | [190494-thrive-heavy-lies-the-crown.json](./190494-thrive-heavy-lies-the-crown.json) |
 | Thro' The Wall also Scramble | 319600 | [319600-thro-the-wall-also-scramble.json](./319600-thro-the-wall-also-scramble.json) |
 | Throb of Lovegirl: A Ero Waifu TD | 175983 | [175983-throb-of-lovegirl-a-ero-waifu-td.json](./175983-throb-of-lovegirl-a-ero-waifu-td.json) |
 | Throbax TD | 35952 | [35952-throbax-td.json](./35952-throbax-td.json) |
@@ -19403,6 +19406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toolbox Tycoon | 362826 | [362826-toolbox-tycoon.json](./362826-toolbox-tycoon.json) |
 | ToolBoy | 116869 | [116869-toolboy.json](./116869-toolboy.json) |
 | Toolkid Creation | 310664 | [310664-toolkid-creation.json](./310664-toolkid-creation.json) |
+| Toolnich Village | 190376 | [190376-toolnich-village.json](./190376-toolnich-village.json) |
 | Tools Up! | 118357 | [118357-tools-up.json](./118357-tools-up.json) |
 | Tools Up! Garden Party: Episode 2 - Tunnel Vision | 169281 | [169281-tools-up-garden-party-episode-2-tunnel-vision.json](./169281-tools-up-garden-party-episode-2-tunnel-vision.json) |
 | Tools Up! Garden Party: Episode 3 - Home Sweet Home | 169279 | [169279-tools-up-garden-party-episode-3-home-sweet-home.json](./169279-tools-up-garden-party-episode-3-home-sweet-home.json) |
@@ -24626,6 +24630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tupsu | 117761 | [117761-tupsu.json](./117761-tupsu.json) |
 | Tuqim | 366742 | [366742-tuqim.json](./366742-tuqim.json) |
 | Turandot | 216328 | [216328-turandot.json](./216328-turandot.json) |
+| Turbeton | 190366 | [190366-turbeton.json](./190366-turbeton.json) |
 | Turbo | 18510 | [18510-turbo.json](./18510-turbo.json) |
 | Turbo | 230415 | [230415-turbo.json](./230415-turbo.json) |
 | Turbo 21 HD | 355009 | [355009-turbo-21-hd.json](./355009-turbo-21-hd.json) |
