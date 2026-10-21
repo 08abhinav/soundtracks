@@ -6903,6 +6903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Games Of Nations: The Royal Game Of Ur | 232286 | [232286-ancient-games-of-nations-the-royal-game-of-ur.json](./232286-ancient-games-of-nations-the-royal-game-of-ur.json) |
 | Ancient Gladiators | 187251 | [187251-ancient-gladiators.json](./187251-ancient-gladiators.json) |
 | Ancient Glory | 129129 | [129129-ancient-glory.json](./129129-ancient-glory.json) |
+| Ancient Gods | 172362 | [172362-ancient-gods.json](./172362-ancient-gods.json) |
 | Ancient Guardian | 30479 | [30479-ancient-guardian.json](./30479-ancient-guardian.json) |
 | Ancient Guardians: The Dragon | 234203 | [234203-ancient-guardians-the-dragon.json](./234203-ancient-guardians-the-dragon.json) |
 | Ancient Huntsmen | 181031 | [181031-ancient-huntsmen.json](./181031-ancient-huntsmen.json) |
@@ -6947,6 +6948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Shadows: Awakening | 351121 | [351121-ancient-shadows-awakening.json](./351121-ancient-shadows-awakening.json) |
 | Ancient Siberia | 68471 | [68471-ancient-siberia.json](./68471-ancient-siberia.json) |
 | Ancient Souls Tamag | 167676 | [167676-ancient-souls-tamag.json](./167676-ancient-souls-tamag.json) |
+| Ancient Souls: Starship Renata | 172378 | [172378-ancient-souls-starship-renata.json](./172378-ancient-souls-starship-renata.json) |
 | Ancient Spider | 190936 | [190936-ancient-spider.json](./190936-ancient-spider.json) |
 | Ancient Stars | 277014 | [277014-ancient-stars.json](./277014-ancient-stars.json) |
 | Ancient Stories: Gods of Egypt | 119684 | [119684-ancient-stories-gods-of-egypt.json](./119684-ancient-stories-gods-of-egypt.json) |
@@ -7300,6 +7302,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Tennis | 199901 | [199901-angry-birds-tennis.json](./199901-angry-birds-tennis.json) |
 | Angry Birds Time Travel | 195453 | [195453-angry-birds-time-travel.json](./195453-angry-birds-time-travel.json) |
 | Angry Birds Trilogy | 4675 | [4675-angry-birds-trilogy.json](./4675-angry-birds-trilogy.json) |
+| Angry Birds Trilogy: Anger Management Pack | 172417 | [172417-angry-birds-trilogy-anger-management-pack.json](./172417-angry-birds-trilogy-anger-management-pack.json) |
+| Angry Birds Trilogy: Fowl Tempered Pack | 172418 | [172418-angry-birds-trilogy-fowl-tempered-pack.json](./172418-angry-birds-trilogy-fowl-tempered-pack.json) |
 | Angry Birds V Rossii | 210310 | [210310-angry-birds-v-rossii.json](./210310-angry-birds-v-rossii.json) |
 | Angry Birds World Tour | 214040 | [214040-angry-birds-world-tour.json](./214040-angry-birds-world-tour.json) |
 | Angry Birds: Dangerous Railroad | 325564 | [325564-angry-birds-dangerous-railroad.json](./325564-angry-birds-dangerous-railroad.json) |
@@ -7795,6 +7799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime: Fantasy Uni 3 | 392866 | [392866-anime-fantasy-uni-3.json](./392866-anime-fantasy-uni-3.json) |
 | Anime: Japanese Goblins | 293364 | [293364-anime-japanese-goblins.json](./293364-anime-japanese-goblins.json) |
 | Anime: World War II | 148702 | [148702-anime-world-war-ii.json](./148702-anime-world-war-ii.json) |
+| Anime: World War II - Nazi Zombies | 172372 | [172372-anime-world-war-ii-nazi-zombies.json](./172372-anime-world-war-ii-nazi-zombies.json) |
 | Animeahikoaprinceaverse A4: Prince Akihiko & Princess A | 303154 | [303154-animeahikoaprinceaverse-a4-prince-akihiko-and-princess-a.json](./303154-animeahikoaprinceaverse-a4-prince-akihiko-and-princess-a.json) |
 | Animelee | 74774 | [74774-animelee.json](./74774-animelee.json) |
 | Animentals | 387361 | [387361-animentals.json](./387361-animentals.json) |
@@ -10244,6 +10249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aria and the Secret of the Labyrinth | 385837 | [385837-aria-and-the-secret-of-the-labyrinth.json](./385837-aria-and-the-secret-of-the-labyrinth.json) |
 | Aria Blue I: Natsuoto | 417312 | [417312-aria-blue-i-natsuoto.json](./417312-aria-blue-i-natsuoto.json) |
 | Aria Chronicle | 135749 | [135749-aria-chronicle.json](./135749-aria-chronicle.json) |
+| Aria Chronicle: Necroknight | 172386 | [172386-aria-chronicle-necroknight.json](./172386-aria-chronicle-necroknight.json) |
 | Aria Chronicle: Necroknight Amazon Bundle | 199888 | [199888-aria-chronicle-necroknight-amazon-bundle.json](./199888-aria-chronicle-necroknight-amazon-bundle.json) |
 | Aria Dating Simulator | 385049 | [385049-aria-dating-simulator.json](./385049-aria-dating-simulator.json) |
 | Aria of Destiny | 326828 | [326828-aria-of-destiny.json](./326828-aria-of-destiny.json) |
