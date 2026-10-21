@@ -6904,6 +6904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Mesa: Military | 327903 | [327903-black-mesa-military.json](./327903-black-mesa-military.json) |
 | Black Mesa: Route to Evacuation - Part 1 | 374376 | [374376-black-mesa-route-to-evacuation-part-1.json](./374376-black-mesa-route-to-evacuation-part-1.json) |
 | Black Mesa: Xen | 229858 | [229858-black-mesa-xen.json](./229858-black-mesa-xen.json) |
+| Black Metal Man 2 | 197686 | [197686-black-metal-man-2.json](./197686-black-metal-man-2.json) |
 | Black Mirror | 54699 | [54699-black-mirror.json](./54699-black-mirror.json) |
 | Black Mirror III: Final Fear | 10049 | [10049-black-mirror-iii-final-fear.json](./10049-black-mirror-iii-final-fear.json) |
 | Black Mirror: Thronglets | 339816 | [339816-black-mirror-thronglets.json](./339816-black-mirror-thronglets.json) |
@@ -13590,6 +13591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator 2023 | 227959 | [227959-bus-simulator-2023.json](./227959-bus-simulator-2023.json) |
 | Bus Simulator 21: Angel Shores Insider Skin Pack | 213848 | [213848-bus-simulator-21-angel-shores-insider-skin-pack.json](./213848-bus-simulator-21-angel-shores-insider-skin-pack.json) |
 | Bus Simulator 21: Extended Edition | 169245 | [169245-bus-simulator-21-extended-edition.json](./169245-bus-simulator-21-extended-edition.json) |
+| Bus Simulator 21: Iveco Bus Pack | 197557 | [197557-bus-simulator-21-iveco-bus-pack.json](./197557-bus-simulator-21-iveco-bus-pack.json) |
 | Bus Simulator 21: MAN Bus Pack | 213951 | [213951-bus-simulator-21-man-bus-pack.json](./213951-bus-simulator-21-man-bus-pack.json) |
 | Bus Simulator 21: Next Stop - Ebusco Bus Pack | 249892 | [249892-bus-simulator-21-next-stop-ebusco-bus-pack.json](./249892-bus-simulator-21-next-stop-ebusco-bus-pack.json) |
 | Bus Simulator 21: Next Stop - Halloween Skin Pack | 263040 | [263040-bus-simulator-21-next-stop-halloween-skin-pack.json](./263040-bus-simulator-21-next-stop-halloween-skin-pack.json) |
