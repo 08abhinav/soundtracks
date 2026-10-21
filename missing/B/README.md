@@ -10960,6 +10960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brahma Force: The Assault on Beltlogger 9 | 20816 | [20816-brahma-force-the-assault-on-beltlogger-9.json](./20816-brahma-force-the-assault-on-beltlogger-9.json) |
 | Brahman: The Gate of Salvation | 236327 | [236327-brahman-the-gate-of-salvation.json](./236327-brahman-the-gate-of-salvation.json) |
 | Braid: Anniversary Edition | 136511 | [136511-braid-anniversary-edition.json](./136511-braid-anniversary-edition.json) |
+| Braiiinz | 179894 | [179894-braiiinz.json](./179894-braiiinz.json) |
 | Brain | 130707 | [130707-brain.json](./130707-brain.json) |
 | Brain | 367197 | [367197-brain.json](./367197-brain.json) |
 | Brain 43°C | 104051 | [104051-brain-43-c.json](./104051-brain-43-c.json) |
@@ -12053,6 +12054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broadtrip | 316709 | [316709-broadtrip.json](./316709-broadtrip.json) |
 | Broadway Legend Ellena | 252127 | [252127-broadway-legend-ellena.json](./252127-broadway-legend-ellena.json) |
 | Broadway: 1849 | 76299 | [76299-broadway-1849.json](./76299-broadway-1849.json) |
+| Brober man | 179926 | [179926-brober-man.json](./179926-brober-man.json) |
 | Brobot | 159866 | [159866-brobot.json](./159866-brobot.json) |
 | Brocante Game: Blister Hunter | 263020 | [263020-brocante-game-blister-hunter.json](./263020-brocante-game-blister-hunter.json) |
 | Broccoli Quest | 176873 | [176873-broccoli-quest.json](./176873-broccoli-quest.json) |
@@ -12362,10 +12364,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bryan's Indie Collection | 355577 | [355577-bryans-indie-collection.json](./355577-bryans-indie-collection.json) |
 | Bryce Tiles | 236740 | [236740-bryce-tiles.json](./236740-bryce-tiles.json) |
 | BS Bokujou Monogatari | 134429 | [134429-bs-bokujou-monogatari.json](./134429-bs-bokujou-monogatari.json) |
+| BS Bokujou Monogatari: Dai-1-wa | 179913 | [179913-bs-bokujou-monogatari-dai-1-wa.json](./179913-bs-bokujou-monogatari-dai-1-wa.json) |
+| BS Bokujou Monogatari: Dai-2-wa | 179914 | [179914-bs-bokujou-monogatari-dai-2-wa.json](./179914-bs-bokujou-monogatari-dai-2-wa.json) |
+| BS Bokujou Monogatari: Dai-3-wa | 179915 | [179915-bs-bokujou-monogatari-dai-3-wa.json](./179915-bs-bokujou-monogatari-dai-3-wa.json) |
+| BS Bokujou Monogatari: Dai-4-wa | 179916 | [179916-bs-bokujou-monogatari-dai-4-wa.json](./179916-bs-bokujou-monogatari-dai-4-wa.json) |
 | BS Dragon Quest | 134416 | [134416-bs-dragon-quest.json](./134416-bs-dragon-quest.json) |
+| BS Dragon Quest: Dai-1-wa | 179907 | [179907-bs-dragon-quest-dai-1-wa.json](./179907-bs-dragon-quest-dai-1-wa.json) |
+| BS Dragon Quest: Dai-2-wa | 179908 | [179908-bs-dragon-quest-dai-2-wa.json](./179908-bs-dragon-quest-dai-2-wa.json) |
+| BS Dragon Quest: Dai-3-wa | 179909 | [179909-bs-dragon-quest-dai-3-wa.json](./179909-bs-dragon-quest-dai-3-wa.json) |
+| BS Dragon Quest: Dai-4-wa | 179910 | [179910-bs-dragon-quest-dai-4-wa.json](./179910-bs-dragon-quest-dai-4-wa.json) |
 | BS F-Zero Deluxe | 286625 | [286625-bs-f-zero-deluxe.json](./286625-bs-f-zero-deluxe.json) |
 | BS F-Zero Grand Prix 2 | 151577 | [151577-bs-f-zero-grand-prix-2.json](./151577-bs-f-zero-grand-prix-2.json) |
 | BS F-Zero Grand Prix 2: Practice | 38348 | [38348-bs-f-zero-grand-prix-2-practice.json](./38348-bs-f-zero-grand-prix-2-practice.json) |
+| BS F-Zero Grand Prix: Dai-1-shuu - Knight League | 179903 | [179903-bs-f-zero-grand-prix-dai-1-shuu-knight-league.json](./179903-bs-f-zero-grand-prix-dai-1-shuu-knight-league.json) |
+| BS F-Zero Grand Prix: Dai-2-shuu - Queen League | 179904 | [179904-bs-f-zero-grand-prix-dai-2-shuu-queen-league.json](./179904-bs-f-zero-grand-prix-dai-2-shuu-queen-league.json) |
+| BS F-Zero Grand Prix: Dai-3-shuu - King League | 179905 | [179905-bs-f-zero-grand-prix-dai-3-shuu-king-league.json](./179905-bs-f-zero-grand-prix-dai-3-shuu-king-league.json) |
+| BS F-Zero Grand Prix: Dai-4-shuu - Ace League | 179906 | [179906-bs-f-zero-grand-prix-dai-4-shuu-ace-league.json](./179906-bs-f-zero-grand-prix-dai-4-shuu-ace-league.json) |
 | BS Fire Emblem: Archanea Saga | 178586 | [178586-bs-fire-emblem-archanea-saga.json](./178586-bs-fire-emblem-archanea-saga.json) |
 | BS Fire Emblem: Archanea Senki-hen | 1446 | [1446-bs-fire-emblem-archanea-senki-hen.json](./1446-bs-fire-emblem-archanea-senki-hen.json) |
 | BS Fire Emblem: Archanea Senki-hen - Dai-1-wa: Palace Kanraku | 178392 | [178392-bs-fire-emblem-archanea-senki-hen-dai-1-wa-palace-kanraku.json](./178392-bs-fire-emblem-archanea-senki-hen-dai-1-wa-palace-kanraku.json) |
@@ -12373,6 +12387,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS Fire Emblem: Archanea Senki-hen - Dai-3-wa: Seigi no Touzokudan | 178394 | [178394-bs-fire-emblem-archanea-senki-hen-dai-3-wa-seigi-no-touzokudan.json](./178394-bs-fire-emblem-archanea-senki-hen-dai-3-wa-seigi-no-touzokudan.json) |
 | BS Fire Emblem: Archanea Senki-hen - Dai-4-wa: Hajimari no Toki | 178396 | [178396-bs-fire-emblem-archanea-senki-hen-dai-4-wa-hajimari-no-toki.json](./178396-bs-fire-emblem-archanea-senki-hen-dai-4-wa-hajimari-no-toki.json) |
 | BS Fuurai no Shiren: Surara wo Sukue | 134430 | [134430-bs-fuurai-no-shiren-surara-wo-sukue.json](./134430-bs-fuurai-no-shiren-surara-wo-sukue.json) |
+| BS Fuurai no Shiren: Surara wo Sukue - Dai-1-shuu | 179897 | [179897-bs-fuurai-no-shiren-surara-wo-sukue-dai-1-shuu.json](./179897-bs-fuurai-no-shiren-surara-wo-sukue-dai-1-shuu.json) |
+| BS Fuurai no Shiren: Surara wo Sukue - Dai-2-shuu | 179900 | [179900-bs-fuurai-no-shiren-surara-wo-sukue-dai-2-shuu.json](./179900-bs-fuurai-no-shiren-surara-wo-sukue-dai-2-shuu.json) |
+| BS Fuurai no Shiren: Surara wo Sukue - Dai-3-shuu | 179901 | [179901-bs-fuurai-no-shiren-surara-wo-sukue-dai-3-shuu.json](./179901-bs-fuurai-no-shiren-surara-wo-sukue-dai-3-shuu.json) |
+| BS Fuurai no Shiren: Surara wo Sukue - Dai-4-shuu | 179902 | [179902-bs-fuurai-no-shiren-surara-wo-sukue-dai-4-shuu.json](./179902-bs-fuurai-no-shiren-surara-wo-sukue-dai-4-shuu.json) |
 | BS Hacker: Replay | 68733 | [68733-bs-hacker-replay.json](./68733-bs-hacker-replay.json) |
 | BS Hacker: Zero Expansions | 78052 | [78052-bs-hacker-zero-expansions.json](./78052-bs-hacker-zero-expansions.json) |
 | BS Ihatovo Monogatari | 150170 | [150170-bs-ihatovo-monogatari.json](./150170-bs-ihatovo-monogatari.json) |
@@ -12391,7 +12409,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS Marvelous: Time Athletic - Course 3 | 178389 | [178389-bs-marvelous-time-athletic-course-3.json](./178389-bs-marvelous-time-athletic-course-3.json) |
 | BS Marvelous: Time Athletic - Course 4 | 178390 | [178390-bs-marvelous-time-athletic-course-4.json](./178390-bs-marvelous-time-athletic-course-4.json) |
 | BS Monopoly: Kouza Boardwalk he no Michi | 134495 | [134495-bs-monopoly-kouza-boardwalk-he-no-michi.json](./134495-bs-monopoly-kouza-boardwalk-he-no-michi.json) |
+| BS Nichibutsu Mahjong: Renshuu Mahjong - Ichimantou | 179911 | [179911-bs-nichibutsu-mahjong-renshuu-mahjong-ichimantou.json](./179911-bs-nichibutsu-mahjong-renshuu-mahjong-ichimantou.json) |
+| BS Nichibutsu Mahjong: Renshuu Mahjong - Nimantou | 179912 | [179912-bs-nichibutsu-mahjong-renshuu-mahjong-nimantou.json](./179912-bs-nichibutsu-mahjong-renshuu-mahjong-nimantou.json) |
 | BS Parlor! Parlor! | 134433 | [134433-bs-parlor-parlor.json](./134433-bs-parlor-parlor.json) |
+| BS Parlor! Parlor!: Dai-1-shuu | 179917 | [179917-bs-parlor-parlor-dai-1-shuu.json](./179917-bs-parlor-parlor-dai-1-shuu.json) |
+| BS Parlor! Parlor!: Dai-2-shuu | 179918 | [179918-bs-parlor-parlor-dai-2-shuu.json](./179918-bs-parlor-parlor-dai-2-shuu.json) |
 | BS Shin Onigashima | 134434 | [134434-bs-shin-onigashima.json](./134434-bs-shin-onigashima.json) |
 | BS Shin Onigashima: Dai-1-wa | 179967 | [179967-bs-shin-onigashima-dai-1-wa.json](./179967-bs-shin-onigashima-dai-1-wa.json) |
 | BS Shin Onigashima: Dai-2-wa | 179968 | [179968-bs-shin-onigashima-dai-2-wa.json](./179968-bs-shin-onigashima-dai-2-wa.json) |
