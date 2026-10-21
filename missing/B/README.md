@@ -1012,6 +1012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balavour | 345986 | [345986-balavour.json](./345986-balavour.json) |
 | Balconing Simulator 2020 | 127988 | [127988-balconing-simulator-2020.json](./127988-balconing-simulator-2020.json) |
 | Bald Bull's Punch-Out!! | 356061 | [356061-bald-bulls-punch-out.json](./356061-bald-bulls-punch-out.json) |
+| Bald Luigi's Crustmust Deluxe | 187084 | [187084-bald-luigis-crustmust-deluxe.json](./187084-bald-luigis-crustmust-deluxe.json) |
 | Bald Man Climbs Up | 260988 | [260988-bald-man-climbs-up.json](./260988-bald-man-climbs-up.json) |
 | Baldi's Basic's Advanced 0.0.1 | 179933 | [179933-baldis-basics-advanced-0-0-1.json](./179933-baldis-basics-advanced-0-0-1.json) |
 | Baldi's Basics 1 Year Birthday Bash! | 176497 | [176497-baldis-basics-1-year-birthday-bash.json](./176497-baldis-basics-1-year-birthday-bash.json) |
@@ -9076,6 +9077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bo Jackson Baseball | 8673 | [8673-bo-jackson-baseball.json](./8673-bo-jackson-baseball.json) |
 | Bo Jackson Football and Baseball | 198701 | [198701-bo-jackson-football-and-baseball.json](./198701-bo-jackson-football-and-baseball.json) |
 | Bō: Path of the Teal Lotus - Tanuki Kabuki | 335294 | [335294-bo-path-of-the-teal-lotus-tanuki-kabuki.json](./335294-bo-path-of-the-teal-lotus-tanuki-kabuki.json) |
+| Bo's Adventure: Merging Islands | 187148 | [187148-bos-adventure-merging-islands.json](./187148-bos-adventure-merging-islands.json) |
 | Boa Retina | 134663 | [134663-boa-retina.json](./134663-boa-retina.json) |
 | BOAA: Baako | 138222 | [138222-boaa-baako.json](./138222-boaa-baako.json) |
 | Boar Farm | 383635 | [383635-boar-farm.json](./383635-boar-farm.json) |
@@ -9362,6 +9364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boink Zoink Hoink | 90100 | [90100-boink-zoink-hoink.json](./90100-boink-zoink-hoink.json) |
 | Boitatá: Wilderness Reborn | 415179 | [415179-boitata-wilderness-reborn.json](./415179-boitata-wilderness-reborn.json) |
 | Bojan | 406672 | [406672-bojan.json](./406672-bojan.json) |
+| Bok | 187149 | [187149-bok.json](./187149-bok.json) |
 | Bok-Bok: A Chicken Dating Sim | 148930 | [148930-bok-bok-a-chicken-dating-sim.json](./148930-bok-bok-a-chicken-dating-sim.json) |
 | BoKe Travelog | 292128 | [292128-boke-travelog.json](./292128-boke-travelog.json) |
 | Bokehme | 201761 | [201761-bokehme.json](./201761-bokehme.json) |
@@ -13623,6 +13626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Derby | 200203 | [200203-bus-derby.json](./200203-bus-derby.json) |
 | Bus Driver Simulator | 141689 | [141689-bus-driver-simulator.json](./141689-bus-driver-simulator.json) |
 | Bus Driver Simulator 2019 | 75103 | [75103-bus-driver-simulator-2019.json](./75103-bus-driver-simulator-2019.json) |
+| Bus Driver Simulator: Countryside | 187111 | [187111-bus-driver-simulator-countryside.json](./187111-bus-driver-simulator-countryside.json) |
 | Bus Driver: Pocket Edition | 175318 | [175318-bus-driver-pocket-edition.json](./175318-bus-driver-pocket-edition.json) |
 | Bus Driving Sim 22 | 203890 | [203890-bus-driving-sim-22.json](./203890-bus-driving-sim-22.json) |
 | Bus Driving Simulator 24 City Roads & Farmer Simulator Bundle | 390509 | [390509-bus-driving-simulator-24-city-roads-and-farmer-simulator-bundle.json](./390509-bus-driving-simulator-24-city-roads-and-farmer-simulator-bundle.json) |
