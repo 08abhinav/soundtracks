@@ -557,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints of Virtue | 67312 | [67312-saints-of-virtue.json](./67312-saints-of-virtue.json) |
 | Saints Reborn | 422512 | [422512-saints-reborn.json](./422512-saints-reborn.json) |
 | Saints Row | 198113 | [198113-saints-row.json](./198113-saints-row.json) |
+| Saints Row 2 | 198115 | [198115-saints-row-2.json](./198115-saints-row-2.json) |
 | Saints Row 2: Ultimate Edition | 99971 | [99971-saints-row-2-ultimate-edition.json](./99971-saints-row-2-ultimate-edition.json) |
 | Saints Row 2: Ultor Exposed | 22998 | [22998-saints-row-2-ultor-exposed.json](./22998-saints-row-2-ultor-exposed.json) |
 | Saints Row Boss Factory | 344978 | [344978-saints-row-boss-factory.json](./344978-saints-row-boss-factory.json) |
@@ -1076,6 +1077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Warriors 2 Empires | 7174 | [7174-samurai-warriors-2-empires.json](./7174-samurai-warriors-2-empires.json) |
 | Samurai Warriors 2 Xtreme Legends | 7175 | [7175-samurai-warriors-2-xtreme-legends.json](./7175-samurai-warriors-2-xtreme-legends.json) |
 | Samurai Warriors 3 Z | 136468 | [136468-samurai-warriors-3-z.json](./136468-samurai-warriors-3-z.json) |
+| Samurai Warriors 3 Z: Special | 198124 | [198124-samurai-warriors-3-z-special.json](./198124-samurai-warriors-3-z-special.json) |
 | Samurai Warriors 3: Empires | 12295 | [12295-samurai-warriors-3-empires.json](./12295-samurai-warriors-3-empires.json) |
 | Samurai Warriors 3: Xtreme Legends | 12286 | [12286-samurai-warriors-3-xtreme-legends.json](./12286-samurai-warriors-3-xtreme-legends.json) |
 | Samurai Warriors 4 | 7290 | [7290-samurai-warriors-4.json](./7290-samurai-warriors-4.json) |
@@ -13546,6 +13548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Ultra X | 330869 | [330869-sonic-ultra-x.json](./330869-sonic-ultra-x.json) |
 | Sonic Ultra: The Return | 331087 | [331087-sonic-ultra-the-return.json](./331087-sonic-ultra-the-return.json) |
 | Sonic UltraSaturn | 316501 | [316501-sonic-ultrasaturn.json](./316501-sonic-ultrasaturn.json) |
+| Sonic Unfair 2 | 198116 | [198116-sonic-unfair-2.json](./198116-sonic-unfair-2.json) |
 | Sonic Unite | 336359 | [336359-sonic-unite.json](./336359-sonic-unite.json) |
 | Sonic Universe 2 | 299877 | [299877-sonic-universe-2.json](./299877-sonic-universe-2.json) |
 | Sonic Universe Adventure | 326824 | [326824-sonic-universe-adventure.json](./326824-sonic-universe-adventure.json) |
@@ -14142,6 +14145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulcrusher | 255881 | [255881-soulcrusher.json](./255881-soulcrusher.json) |
 | Souldead | 216895 | [216895-souldead.json](./216895-souldead.json) |
 | Souldiers: Digital Deluxe Edition | 203687 | [203687-souldiers-digital-deluxe-edition.json](./203687-souldiers-digital-deluxe-edition.json) |
+| Souldrop | 198075 | [198075-souldrop.json](./198075-souldrop.json) |
 | Soulers | 280122 | [280122-soulers.json](./280122-soulers.json) |
 | Soulfall | 326258 | [326258-soulfall.json](./326258-soulfall.json) |
 | SoulFeast | 369559 | [369559-soulfeast.json](./369559-soulfeast.json) |
@@ -17054,6 +17058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Town | 272565 | [272565-spooky-town.json](./272565-spooky-town.json) |
 | Spooky Typing: The Ghost Plague | 178097 | [178097-spooky-typing-the-ghost-plague.json](./178097-spooky-typing-the-ghost-plague.json) |
 | Spooky Walking Simulator | 400425 | [400425-spooky-walking-simulator.json](./400425-spooky-walking-simulator.json) |
+| Spooky Waltz | 198106 | [198106-spooky-waltz.json](./198106-spooky-waltz.json) |
 | Spooky's Jump Scare Mansion: The Doll House | 140550 | [140550-spookys-jump-scare-mansion-the-doll-house.json](./140550-spookys-jump-scare-mansion-the-doll-house.json) |
 | Spooky's Jumpscare Mansion Plus | 356227 | [356227-spookys-jumpscare-mansion-plus.json](./356227-spookys-jumpscare-mansion-plus.json) |
 | SpookyKillers | 191121 | [191121-spookykillers.json](./191121-spookykillers.json) |
@@ -18702,6 +18707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: The Empire Strikes Back | 219021 | [219021-star-wars-the-empire-strikes-back.json](./219021-star-wars-the-empire-strikes-back.json) |
 | Star Wars: The Empire Strikes Back | 5706 | [5706-star-wars-the-empire-strikes-back.json](./5706-star-wars-the-empire-strikes-back.json) |
 | Star Wars: The Force Unleashed | 197926 | [197926-star-wars-the-force-unleashed.json](./197926-star-wars-the-force-unleashed.json) |
+| Star Wars: The Force Unleashed | 198108 | [198108-star-wars-the-force-unleashed.json](./198108-star-wars-the-force-unleashed.json) |
 | Star Wars: The Force Unleashed | 199822 | [199822-star-wars-the-force-unleashed.json](./199822-star-wars-the-force-unleashed.json) |
 | Star Wars: The Force Unleashed | 399219 | [399219-star-wars-the-force-unleashed.json](./399219-star-wars-the-force-unleashed.json) |
 | Star Wars: The Force Unleashed | 399295 | [399295-star-wars-the-force-unleashed.json](./399295-star-wars-the-force-unleashed.json) |
@@ -23456,6 +23462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dunkman | 134700 | [134700-super-dunkman.json](./134700-super-dunkman.json) |
 | Super Duper Amy Freaking Rose | 370489 | [370489-super-duper-amy-freaking-rose.json](./370489-super-duper-amy-freaking-rose.json) |
 | Super Duper Flying Genocide 2017 | 34004 | [34004-super-duper-flying-genocide-2017.json](./34004-super-duper-flying-genocide-2017.json) |
+| Super Duper Metroid | 198097 | [198097-super-duper-metroid.json](./198097-super-duper-metroid.json) |
 | Super Duper Multitasking | 330972 | [330972-super-duper-multitasking.json](./330972-super-duper-multitasking.json) |
 | Super Duper Party Pooper | 19680 | [19680-super-duper-party-pooper.json](./19680-super-duper-party-pooper.json) |
 | Super Duper Sumos | 49217 | [49217-super-duper-sumos.json](./49217-super-duper-sumos.json) |
@@ -25576,6 +25583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supernormal | 278716 | [278716-supernormal.json](./278716-supernormal.json) |
 | Supernova | 100090 | [100090-supernova.json](./100090-supernova.json) |
 | Supernova | 11463 | [11463-supernova.json](./11463-supernova.json) |
+| Supernova | 198095 | [198095-supernova.json](./198095-supernova.json) |
 | Supernova Tactics | 211287 | [211287-supernova-tactics.json](./211287-supernova-tactics.json) |
 | Superola and the Lost Burgers | 87475 | [87475-superola-and-the-lost-burgers.json](./87475-superola-and-the-lost-burgers.json) |
 | Superorbit.io | 58285 | [58285-superorbit-io.json](./58285-superorbit-io.json) |
