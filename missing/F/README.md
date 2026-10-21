@@ -3144,6 +3144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fhtagn Simulator | 221860 | [221860-fhtagn-simulator.json](./221860-fhtagn-simulator.json) |
 | Fhtagn! - Tales of the Creeping Madness | 87947 | [87947-fhtagn-tales-of-the-creeping-madness.json](./87947-fhtagn-tales-of-the-creeping-madness.json) |
 | Fi-Knight Kingdom | 262450 | [262450-fi-knight-kingdom.json](./262450-fi-knight-kingdom.json) |
+| Fi, Chris and the Apocalypse | 199821 | [199821-fi-chris-and-the-apocalypse.json](./199821-fi-chris-and-the-apocalypse.json) |
 | FIA European Truck Racing Championship | 117855 | [117855-fia-european-truck-racing-championship.json](./117855-fia-european-truck-racing-championship.json) |
 | Fianna | 410425 | [410425-fianna.json](./410425-fianna.json) |
 | Fibbage XL | 33374 | [33374-fibbage-xl.json](./33374-fibbage-xl.json) |
@@ -3183,6 +3184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fidget Spinner | 100888 | [100888-fidget-spinner.json](./100888-fidget-spinner.json) |
 | Fidget Spinner - Extra Speed | 102606 | [102606-fidget-spinner-extra-speed.json](./102606-fidget-spinner-extra-speed.json) |
 | Fidget Spinner Editor | 68595 | [68595-fidget-spinner-editor.json](./68595-fidget-spinner-editor.json) |
+| Fidget Spinner RPG | 199784 | [199784-fidget-spinner-rpg.json](./199784-fidget-spinner-rpg.json) |
 | Fidget Spinner Simulator | 51415 | [51415-fidget-spinner-simulator.json](./51415-fidget-spinner-simulator.json) |
 | Fidget Town | 220247 | [220247-fidget-town.json](./220247-fidget-town.json) |
 | Fido | 315275 | [315275-fido.json](./315275-fido.json) |
@@ -8555,6 +8557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frank's Adventure 3 | 212740 | [212740-franks-adventure-3.json](./212740-franks-adventure-3.json) |
 | Frank's Adventure 4 | 212742 | [212742-franks-adventure-4.json](./212742-franks-adventure-4.json) |
 | Frank's Kitchen | 180055 | [180055-franks-kitchen.json](./180055-franks-kitchen.json) |
+| Franken | 199805 | [199805-franken.json](./199805-franken.json) |
 | Franken Girl | 208014 | [208014-franken-girl.json](./208014-franken-girl.json) |
 | FrankenSketch | 413808 | [413808-frankensketch.json](./413808-frankensketch.json) |
 | Frankenstein | 37191 | [37191-frankenstein.json](./37191-frankenstein.json) |
