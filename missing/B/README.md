@@ -728,7 +728,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -782,6 +781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badlanders | 192286 | [192286-badlanders.json](./192286-badlanders.json) |
 | Badlands | 190719 | [190719-badlands.json](./190719-badlands.json) |
 | Badlands Crew | 258109 | [258109-badlands-crew.json](./258109-badlands-crew.json) |
+| Badlands Racer | 174049 | [174049-badlands-racer.json](./174049-badlands-racer.json) |
 | Badmad Robots | 294140 | [294140-badmad-robots.json](./294140-badmad-robots.json) |
 | BadMan | 240524 | [240524-badman.json](./240524-badman.json) |
 | Badminton Clash: Master League - World Championship Arena | 181654 | [181654-badminton-clash-master-league-world-championship-arena.json](./181654-badminton-clash-master-league-world-championship-arena.json) |
@@ -1163,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Points | 304693 | [304693-ball-points.json](./304693-ball-points.json) |
 | Ball Raider | 14281 | [14281-ball-raider.json](./14281-ball-raider.json) |
 | Ball Raider II | 14282 | [14282-ball-raider-ii.json](./14282-ball-raider-ii.json) |
+| Ball Ranger | 174032 | [174032-ball-ranger.json](./174032-ball-ranger.json) |
 | Ball Relay | 108471 | [108471-ball-relay.json](./108471-ball-relay.json) |
 | Ball Revamped | 381187 | [381187-ball-revamped.json](./381187-ball-revamped.json) |
 | Ball Revamped 2: Metaphysik | 381191 | [381191-ball-revamped-2-metaphysik.json](./381191-ball-revamped-2-metaphysik.json) |
@@ -3216,6 +3217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleCrew: Space Pirates | 26807 | [26807-battlecrew-space-pirates.json](./26807-battlecrew-space-pirates.json) |
 | BattleCross | 266827 | [266827-battlecross.json](./266827-battlecross.json) |
 | Battlecruiser 3000AD | 77288 | [77288-battlecruiser-3000ad.json](./77288-battlecruiser-3000ad.json) |
+| Battlecruiser Generations | 174031 | [174031-battlecruiser-generations.json](./174031-battlecruiser-generations.json) |
 | Battlecruiser Millennium | 61898 | [61898-battlecruiser-millennium.json](./61898-battlecruiser-millennium.json) |
 | Battlecruiser Millennium: Gold Edition | 205907 | [205907-battlecruiser-millennium-gold-edition.json](./205907-battlecruiser-millennium-gold-edition.json) |
 | BattleCry | 7210 | [7210-battlecry.json](./7210-battlecry.json) |
