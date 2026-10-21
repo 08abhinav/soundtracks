@@ -313,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race With Ryan: Adventure Track Pack | 168140 | [168140-race-with-ryan-adventure-track-pack.json](./168140-race-with-ryan-adventure-track-pack.json) |
 | Race with Ryan: Road Trip - Deluxe Edition | 141036 | [141036-race-with-ryan-road-trip-deluxe-edition.json](./141036-race-with-ryan-road-trip-deluxe-edition.json) |
 | Race With Ryan: Surprise Track Pack | 197661 | [197661-race-with-ryan-surprise-track-pack.json](./197661-race-with-ryan-surprise-track-pack.json) |
+| Race, Stunt, Fight! | 175594 | [175594-race-stunt-fight.json](./175594-race-stunt-fight.json) |
 | Race: Caterham | 24770 | [24770-race-caterham.json](./24770-race-caterham.json) |
 | Race: Rocket Arena Car Extreme | 226724 | [226724-race-rocket-arena-car-extreme.json](./226724-race-rocket-arena-car-extreme.json) |
 | Race: The WTCC Game | 839 | [839-race-the-wtcc-game.json](./839-race-the-wtcc-game.json) |
@@ -3418,6 +3419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refracted Reality | 259428 | [259428-refracted-reality.json](./259428-refracted-reality.json) |
 | Refraction | 171338 | [171338-refraction.json](./171338-refraction.json) |
 | Refraction | 197688 | [197688-refraction.json](./197688-refraction.json) |
+| Refraction HD | 175075 | [175075-refraction-hd.json](./175075-refraction-hd.json) |
 | Refraction: Beyond the Mirror | 186647 | [186647-refraction-beyond-the-mirror.json](./186647-refraction-beyond-the-mirror.json) |
 | Refrain Blue | 395006 | [395006-refrain-blue.json](./395006-refrain-blue.json) |
 | Refrain Love 2 | 55116 | [55116-refrain-love-2.json](./55116-refrain-love-2.json) |
@@ -6196,6 +6198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risky Chronicles and the Curse of Destiny | 296595 | [296595-risky-chronicles-and-the-curse-of-destiny.json](./296595-risky-chronicles-and-the-curse-of-destiny.json) |
 | Risky Floors | 167374 | [167374-risky-floors.json](./167374-risky-floors.json) |
 | Risky Rescue | 33558 | [33558-risky-rescue.json](./33558-risky-rescue.json) |
+| Risky Rider 3D | 175598 | [175598-risky-rider-3d.json](./175598-risky-rider-3d.json) |
 | Risky Roads | 300993 | [300993-risky-roads.json](./300993-risky-roads.json) |
 | Risky Sanctuary | 261772 | [261772-risky-sanctuary.json](./261772-risky-sanctuary.json) |
 | Risky Wings: 'Colibri' Character | 170783 | [170783-risky-wings-colibri-character.json](./170783-risky-wings-colibri-character.json) |
