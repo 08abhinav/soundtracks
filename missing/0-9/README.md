@@ -1280,6 +1280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2044 Moto Racer: Cyber Racing Simulator | 265709 | [265709-2044-moto-racer-cyber-racing-simulator.json](./265709-2044-moto-racer-cyber-racing-simulator.json) |
 | 2047 CCG | 205587 | [205587-2047-ccg.json](./205587-2047-ccg.json) |
 | 2048 | 143267 | [143267-2048.json](./143267-2048.json) |
+| 2048 | 181593 | [181593-2048.json](./181593-2048.json) |
 | 2048 | 214042 | [214042-2048.json](./214042-2048.json) |
 | 2048 | 256775 | [256775-2048.json](./256775-2048.json) |
 | 2048 | 267569 | [267569-2048.json](./267569-2048.json) |
