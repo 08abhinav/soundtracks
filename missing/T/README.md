@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales From The Outer Zone: The Goat Crone | 230876 | [230876-tales-from-the-outer-zone-the-goat-crone.json](./230876-tales-from-the-outer-zone-the-goat-crone.json) |
 | Tales from the Recycle Bin | 184035 | [184035-tales-from-the-recycle-bin.json](./184035-tales-from-the-recycle-bin.json) |
 | Tales from the Road | 135054 | [135054-tales-from-the-road.json](./135054-tales-from-the-road.json) |
+| Tales from the Under-Realm: After Midnight | 204190 | [204190-tales-from-the-under-realm-after-midnight.json](./204190-tales-from-the-under-realm-after-midnight.json) |
 | Tales From The Under-Realm: After Midnight | 301004 | [301004-tales-from-the-under-realm-after-midnight.json](./301004-tales-from-the-under-realm-after-midnight.json) |
 | Tales from the Under-Realm: Hazel | 149401 | [149401-tales-from-the-under-realm-hazel.json](./149401-tales-from-the-under-realm-hazel.json) |
 | Tales From The Under-Realm: Hazel | 298566 | [298566-tales-from-the-under-realm-hazel.json](./298566-tales-from-the-under-realm-hazel.json) |
@@ -1423,6 +1424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangy TD | 236534 | [236534-tangy-td.json](./236534-tangy-td.json) |
 | Tanigawa Kouji no Shogi Shinan II: Meijin he no Michi | 41382 | [41382-tanigawa-kouji-no-shogi-shinan-ii-meijin-he-no-michi.json](./41382-tanigawa-kouji-no-shogi-shinan-ii-meijin-he-no-michi.json) |
 | Tanigawa Kouji no Shogi Shinan III | 48884 | [48884-tanigawa-kouji-no-shogi-shinan-iii.json](./48884-tanigawa-kouji-no-shogi-shinan-iii.json) |
+| Tanima | 204188 | [204188-tanima.json](./204188-tanima.json) |
 | Tanimura Hitoshi no Don Quixote ga Iku | 282672 | [282672-tanimura-hitoshi-no-don-quixote-ga-iku.json](./282672-tanimura-hitoshi-no-don-quixote-ga-iku.json) |
 | TaniNani | 127185 | [127185-taninani.json](./127185-taninani.json) |
 | Tanium | 142767 | [142767-tanium.json](./142767-tanium.json) |
@@ -2563,6 +2565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teen Titans 2 | 49214 | [49214-teen-titans-2.json](./49214-teen-titans-2.json) |
 | Teen Titans Battle Blitz | 144130 | [144130-teen-titans-battle-blitz.json](./144130-teen-titans-battle-blitz.json) |
 | Teen Titans Go! Arcade | 59358 | [59358-teen-titans-go-arcade.json](./59358-teen-titans-go-arcade.json) |
+| Teen Titans Go! Drillionaire | 204194 | [204194-teen-titans-go-drillionaire.json](./204194-teen-titans-go-drillionaire.json) |
 | Teen Witches Academy | 207163 | [207163-teen-witches-academy.json](./207163-teen-witches-academy.json) |
 | Teenage Blob: Paperperson - The First Single | 170868 | [170868-teenage-blob-paperperson-the-first-single.json](./170868-teenage-blob-paperperson-the-first-single.json) |
 | Teenage Crush Love Story Games | 255046 | [255046-teenage-crush-love-story-games.json](./255046-teenage-crush-love-story-games.json) |
@@ -3334,6 +3337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Interface for Models RCM301-303 | 364625 | [364625-terminal-interface-for-models-rcm301-303.json](./364625-terminal-interface-for-models-rcm301-303.json) |
 | Terminal Land | 138515 | [138515-terminal-land.json](./138515-terminal-land.json) |
 | Terminal Machine | 54427 | [54427-terminal-machine.json](./54427-terminal-machine.json) |
+| Terminal Madness: The Awakening | 204187 | [204187-terminal-madness-the-awakening.json](./204187-terminal-madness-the-awakening.json) |
 | Terminal Protocol | 126949 | [126949-terminal-protocol.json](./126949-terminal-protocol.json) |
 | Terminal Reign | 416003 | [416003-terminal-reign.json](./416003-terminal-reign.json) |
 | Terminal Shift | 355074 | [355074-terminal-shift.json](./355074-terminal-shift.json) |
@@ -4000,6 +4004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Sausage Museum Game | 350177 | [350177-that-sausage-museum-game.json](./350177-that-sausage-museum-game.json) |
 | That Smiling Game | 202963 | [202963-that-smiling-game.json](./202963-that-smiling-game.json) |
 | That Spongy Thing on Your Tongue | 184575 | [184575-that-spongy-thing-on-your-tongue.json](./184575-that-spongy-thing-on-your-tongue.json) |
+| That Summer | 204256 | [204256-that-summer.json](./204256-that-summer.json) |
 | That Summer: Hannah's Summer Vacation | 398043 | [398043-that-summer-hannahs-summer-vacation.json](./398043-that-summer-hannahs-summer-vacation.json) |
 | That Time I Became Friends with The Royal Scuttlebug Family and Fell From Space | 304155 | [304155-that-time-i-became-friends-with-the-royal-scuttlebug-family-and-fell-from-space.json](./304155-that-time-i-became-friends-with-the-royal-scuttlebug-family-and-fell-from-space.json) |
 | That Time I Found a Box | 341377 | [341377-that-time-i-found-a-box.json](./341377-that-time-i-found-a-box.json) |
@@ -5513,6 +5518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Christopher Redemption: I | 276811 | [276811-the-christopher-redemption-i.json](./276811-the-christopher-redemption-i.json) |
 | The Chroma: From the Wasteland | 367542 | [367542-the-chroma-from-the-wasteland.json](./367542-the-chroma-from-the-wasteland.json) |
 | The Chronic | 273251 | [273251-the-chronic.json](./273251-the-chronic.json) |
+| The Chronicle | 204186 | [204186-the-chronicle.json](./204186-the-chronicle.json) |
 | The Chronicler | 150631 | [150631-the-chronicler.json](./150631-the-chronicler.json) |
 | The Chronicles of Confucius's Journey | 133129 | [133129-the-chronicles-of-confuciuss-journey.json](./133129-the-chronicles-of-confuciuss-journey.json) |
 | The Chronicles of Dragon Wing - Reborn | 44160 | [44160-the-chronicles-of-dragon-wing-reborn.json](./44160-the-chronicles-of-dragon-wing-reborn.json) |
@@ -7439,6 +7445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Galactic Junkers | 204410 | [204410-the-galactic-junkers.json](./204410-the-galactic-junkers.json) |
 | The Galactic Plague | 13000 | [13000-the-galactic-plague.json](./13000-the-galactic-plague.json) |
 | The Gallagher Case | 213843 | [213843-the-gallagher-case.json](./213843-the-gallagher-case.json) |
+| The Gallery | 204185 | [204185-the-gallery.json](./204185-the-gallery.json) |
 | The Gallery | 337081 | [337081-the-gallery.json](./337081-the-gallery.json) |
 | The Gallery: Episode 1 - Call of the Starseed | 36432 | [36432-the-gallery-episode-1-call-of-the-starseed.json](./36432-the-gallery-episode-1-call-of-the-starseed.json) |
 | The Gallery: Episode 2 - Heart of the Emberstone | 68173 | [68173-the-gallery-episode-2-heart-of-the-emberstone.json](./68173-the-gallery-episode-2-heart-of-the-emberstone.json) |
@@ -9272,6 +9279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Star Walker: Season 1 | 385793 | [385793-the-last-star-walker-season-1.json](./385793-the-last-star-walker-season-1.json) |
 | The Last Starfighter | 282069 | [282069-the-last-starfighter.json](./282069-the-last-starfighter.json) |
 | The Last Starfighter | 71759 | [71759-the-last-starfighter.json](./71759-the-last-starfighter.json) |
+| The Last Starship | 204184 | [204184-the-last-starship.json](./204184-the-last-starship.json) |
 | The Last Stop | 290001 | [290001-the-last-stop.json](./290001-the-last-stop.json) |
 | The Last Story | 4966 | [4966-the-last-story.json](./4966-the-last-story.json) |
 | The Last Strand | 318621 | [318621-the-last-strand.json](./318621-the-last-strand.json) |
@@ -14318,6 +14326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way of Life: Definitive Edition | 88398 | [88398-the-way-of-life-definitive-edition.json](./88398-the-way-of-life-definitive-edition.json) |
 | The Way of Life: Free Edition | 36291 | [36291-the-way-of-life-free-edition.json](./36291-the-way-of-life-free-edition.json) |
 | The Way of Love: Sub Zero | 74761 | [74761-the-way-of-love-sub-zero.json](./74761-the-way-of-love-sub-zero.json) |
+| The Way of the Badass | 204265 | [204265-the-way-of-the-badass.json](./204265-the-way-of-the-badass.json) |
 | The Way of the Tiger | 26463 | [26463-the-way-of-the-tiger.json](./26463-the-way-of-the-tiger.json) |
 | The Way of the Tray: Japanese Restaurant Simulator | 334174 | [334174-the-way-of-the-tray-japanese-restaurant-simulator.json](./334174-the-way-of-the-tray-japanese-restaurant-simulator.json) |
 | The Way of Wine | 255983 | [255983-the-way-of-wine.json](./255983-the-way-of-wine.json) |
@@ -21078,6 +21087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic Road | 353949 | [353949-traffic-road.json](./353949-traffic-road.json) |
 | Traffic Rush | 87886 | [87886-traffic-rush.json](./87886-traffic-rush.json) |
 | Traffic Rush: Ultimate Drive | 413090 | [413090-traffic-rush-ultimate-drive.json](./413090-traffic-rush-ultimate-drive.json) |
+| Traffic Safety: Air Scrambled Hard | 204271 | [204271-traffic-safety-air-scrambled-hard.json](./204271-traffic-safety-air-scrambled-hard.json) |
 | Traffic Tour Classic | 249690 | [249690-traffic-tour-classic.json](./249690-traffic-tour-classic.json) |
 | Traffic V | 149931 | [149931-traffic-v.json](./149931-traffic-v.json) |
 | Traffic X | 68096 | [68096-traffic-x.json](./68096-traffic-x.json) |
@@ -22250,6 +22260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2022: Harvard Subdivision - Commuter Edition | 285474 | [285474-trainz-railroad-simulator-2022-harvard-subdivision-commuter-edition.json](./285474-trainz-railroad-simulator-2022-harvard-subdivision-commuter-edition.json) |
 | Trainz Railroad Simulator 2022: Hccrrs Car Transporter | 205349 | [205349-trainz-railroad-simulator-2022-hccrrs-car-transporter.json](./205349-trainz-railroad-simulator-2022-hccrrs-car-transporter.json) |
 | Trainz Railroad Simulator 2022: Industrial Mayhem | 219538 | [219538-trainz-railroad-simulator-2022-industrial-mayhem.json](./219538-trainz-railroad-simulator-2022-industrial-mayhem.json) |
+| Trainz Railroad Simulator 2022: Industrial Switching | 204270 | [204270-trainz-railroad-simulator-2022-industrial-switching.json](./204270-trainz-railroad-simulator-2022-industrial-switching.json) |
 | Trainz Railroad Simulator 2022: ITC GP7 Phase I & II | 205396 | [205396-trainz-railroad-simulator-2022-itc-gp7-phase-i-and-ii.json](./205396-trainz-railroad-simulator-2022-itc-gp7-phase-i-and-ii.json) |
 | Trainz Railroad Simulator 2022: Laadgs Transporter | 205348 | [205348-trainz-railroad-simulator-2022-laadgs-transporter.json](./205348-trainz-railroad-simulator-2022-laadgs-transporter.json) |
 | Trainz Railroad Simulator 2022: Lafond Regional Railway | 205345 | [205345-trainz-railroad-simulator-2022-lafond-regional-railway.json](./205345-trainz-railroad-simulator-2022-lafond-regional-railway.json) |
@@ -23033,6 +23044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tree.Bonsai | 104946 | [104946-tree-bonsai.json](./104946-tree-bonsai.json) |
 | Tree's Love Crossing Above | 346571 | [346571-trees-love-crossing-above.json](./346571-trees-love-crossing-above.json) |
 | TreeConnect | 92140 | [92140-treeconnect.json](./92140-treeconnect.json) |
+| Treefender | 204263 | [204263-treefender.json](./204263-treefender.json) |
 | Treefiner | 338611 | [338611-treefiner.json](./338611-treefiner.json) |
 | Treehouse Riddle | 123888 | [123888-treehouse-riddle.json](./123888-treehouse-riddle.json) |
 | Treehouse Trouble | 181133 | [181133-treehouse-trouble.json](./181133-treehouse-trouble.json) |
@@ -24106,6 +24118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try Again | 249388 | [249388-try-again.json](./249388-try-again.json) |
 | Try Dying | 319713 | [319713-try-dying.json](./319713-try-dying.json) |
 | Try if you can 100 | 283030 | [283030-try-if-you-can-100.json](./283030-try-if-you-can-100.json) |
+| Try Me | 204260 | [204260-try-me.json](./204260-try-me.json) |
 | Try not to die | 126919 | [126919-try-not-to-die.json](./126919-try-not-to-die.json) |
 | Try Not to Fart | 79371 | [79371-try-not-to-fart.json](./79371-try-not-to-fart.json) |
 | Try Not to Laugh | 102754 | [102754-try-not-to-laugh.json](./102754-try-not-to-laugh.json) |
