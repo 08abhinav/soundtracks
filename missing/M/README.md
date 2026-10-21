@@ -4772,6 +4772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Mart | 208248 | [208248-maze-mart.json](./208248-maze-mart.json) |
 | Maze Master | 94010 | [94010-maze-master.json](./94010-maze-master.json) |
 | Maze Masters | 148913 | [148913-maze-masters.json](./148913-maze-masters.json) |
+| Maze Mayhem | 189889 | [189889-maze-mayhem.json](./189889-maze-mayhem.json) |
 | Maze Monsters | 266111 | [266111-maze-monsters.json](./266111-maze-monsters.json) |
 | Maze Nightmare: Edge of Darkness | 379710 | [379710-maze-nightmare-edge-of-darkness.json](./379710-maze-nightmare-edge-of-darkness.json) |
 | Maze Ninja | 115141 | [115141-maze-ninja.json](./115141-maze-ninja.json) |
@@ -5485,6 +5486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medville | 276634 | [276634-medville.json](./276634-medville.json) |
 | Meeblings | 214498 | [214498-meeblings.json](./214498-meeblings.json) |
 | Meebzork | 282627 | [282627-meebzork.json](./282627-meebzork.json) |
+| MeecheenMe | 189862 | [189862-meecheenme.json](./189862-meecheenme.json) |
 | Meegah Mem 2 | 120665 | [120665-meegah-mem-2.json](./120665-meegah-mem-2.json) |
 | Meekanoid | 200174 | [200174-meekanoid.json](./200174-meekanoid.json) |
 | Meena | 364257 | [364257-meena.json](./364257-meena.json) |
