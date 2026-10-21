@@ -4911,6 +4911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Stick Protocol | 340540 | [340540-fish-stick-protocol.json](./340540-fish-stick-protocol.json) |
 | Fish Story | 189876 | [189876-fish-story.json](./189876-fish-story.json) |
 | Fish Story | 230691 | [230691-fish-story.json](./230691-fish-story.json) |
+| Fish Story: Gourmet Puzzle | 188832 | [188832-fish-story-gourmet-puzzle.json](./188832-fish-story-gourmet-puzzle.json) |
 | Fish Survivor: Feed, Grow and Evolve! | 266996 | [266996-fish-survivor-feed-grow-and-evolve.json](./266996-fish-survivor-feed-grow-and-evolve.json) |
 | Fish Swarm: Within Inches | 383962 | [383962-fish-swarm-within-inches.json](./383962-fish-swarm-within-inches.json) |
 | Fish Tales | 358849 | [358849-fish-tales.json](./358849-fish-tales.json) |
