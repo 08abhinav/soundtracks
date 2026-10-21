@@ -1284,6 +1284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamaghost Jump!I Can't Believe It's Not Exorcism! | 307690 | [307690-tamaghost-jump-i-cant-believe-its-not-exorcism.json](./307690-tamaghost-jump-i-cant-believe-its-not-exorcism.json) |
 | Tamago | 369056 | [369056-tamago.json](./369056-tamago.json) |
 | Tamagotchi | 11284 | [11284-tamagotchi.json](./11284-tamagotchi.json) |
+| Tamagotchi | 194325 | [194325-tamagotchi.json](./194325-tamagotchi.json) |
 | Tamagotchi | 301415 | [301415-tamagotchi.json](./301415-tamagotchi.json) |
 | Tamagotchi Angel | 229837 | [229837-tamagotchi-angel.json](./229837-tamagotchi-angel.json) |
 | Tamagotchi Angel | 320176 | [320176-tamagotchi-angel.json](./320176-tamagotchi-angel.json) |
@@ -1770,6 +1771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Craft | 239048 | [239048-tap-craft.json](./239048-tap-craft.json) |
 | Tap Crush Jewels | 90679 | [90679-tap-crush-jewels.json](./90679-tap-crush-jewels.json) |
 | Tap Dash | 252140 | [252140-tap-dash.json](./252140-tap-dash.json) |
+| Tap Defenders | 194162 | [194162-tap-defenders.json](./194162-tap-defenders.json) |
 | Tap Derby | 327876 | [327876-tap-derby.json](./327876-tap-derby.json) |
 | Tap Dragon: Little Knight Luna | 247329 | [247329-tap-dragon-little-knight-luna.json](./247329-tap-dragon-little-knight-luna.json) |
 | Tap Drift Car | 290846 | [290846-tap-drift-car.json](./290846-tap-drift-car.json) |
@@ -1786,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Master | 239038 | [239038-tap-master.json](./239038-tap-master.json) |
 | Tap Master: Mondrian | 333581 | [333581-tap-master-mondrian.json](./333581-tap-master-mondrian.json) |
 | Tap My Katamari | 26991 | [26991-tap-my-katamari.json](./26991-tap-my-katamari.json) |
+| Tap On Overlap | 194168 | [194168-tap-on-overlap.json](./194168-tap-on-overlap.json) |
 | Tap Pet Hotel | 269072 | [269072-tap-pet-hotel.json](./269072-tap-pet-hotel.json) |
 | Tap Rising | 242200 | [242200-tap-rising.json](./242200-tap-rising.json) |
 | Tap Romantics | 258930 | [258930-tap-romantics.json](./258930-tap-romantics.json) |
@@ -7048,6 +7051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fancy Pants Adventures: World 4 | 210712 | [210712-the-fancy-pants-adventures-world-4.json](./210712-the-fancy-pants-adventures-world-4.json) |
 | The Fang | 156068 | [156068-the-fang.json](./156068-the-fang.json) |
 | The Fangs Huntress | 148462 | [148462-the-fangs-huntress.json](./148462-the-fangs-huntress.json) |
+| The Fantaballous Tilt | 194320 | [194320-the-fantaballous-tilt.json](./194320-the-fantaballous-tilt.json) |
 | The Fantastic Adventures of Mr. Don and Friends | 372982 | [372982-the-fantastic-adventures-of-mr-don-and-friends.json](./372982-the-fantastic-adventures-of-mr-don-and-friends.json) |
 | The Fantastic Fivesome | 303015 | [303015-the-fantastic-fivesome.json](./303015-the-fantastic-fivesome.json) |
 | The Fantastic Game | 230520 | [230520-the-fantastic-game.json](./230520-the-fantastic-game.json) |
@@ -10203,6 +10207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lot | 116317 | [116317-the-lot.json](./116317-the-lot.json) |
 | The Lotus | 187844 | [187844-the-lotus.json](./187844-the-lotus.json) |
 | The Lotus Eater | 184610 | [184610-the-lotus-eater.json](./184610-the-lotus-eater.json) |
+| The Loud House: Outta Control | 194336 | [194336-the-loud-house-outta-control.json](./194336-the-loud-house-outta-control.json) |
 | The Love Boat: Puzzle Cruise | 138678 | [138678-the-love-boat-puzzle-cruise.json](./138678-the-love-boat-puzzle-cruise.json) |
 | The Love Bot | 53758 | [53758-the-love-bot.json](./53758-the-love-bot.json) |
 | The Love Interests get their Own Game | 183049 | [183049-the-love-interests-get-their-own-game.json](./183049-the-love-interests-get-their-own-game.json) |
@@ -13276,6 +13281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tale of Doris and the Dragon | 79274 | [79274-the-tale-of-doris-and-the-dragon.json](./79274-the-tale-of-doris-and-the-dragon.json) |
 | The Tale of Doris and the Dragon - Episode 1 | 31613 | [31613-the-tale-of-doris-and-the-dragon-episode-1.json](./31613-the-tale-of-doris-and-the-dragon-episode-1.json) |
 | The Tale of Dragons and Oceans | 259440 | [259440-the-tale-of-dragons-and-oceans.json](./259440-the-tale-of-dragons-and-oceans.json) |
+| The tale of Five Kingdoms | 194154 | [194154-the-tale-of-five-kingdoms.json](./194154-the-tale-of-five-kingdoms.json) |
 | The Tale of Food | 246983 | [246983-the-tale-of-food.json](./246983-the-tale-of-food.json) |
 | The Tale of Galariel | 228304 | [228304-the-tale-of-galariel.json](./228304-the-tale-of-galariel.json) |
 | The Tale of Greenbrier | 117819 | [117819-the-tale-of-greenbrier.json](./117819-the-tale-of-greenbrier.json) |
