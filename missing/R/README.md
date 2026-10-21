@@ -8324,6 +8324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room of Doom | 18533 | [18533-room-of-doom.json](./18533-room-of-doom.json) |
 | Room of Halloween | 229153 | [229153-room-of-halloween.json](./229153-room-of-halloween.json) |
 | Room of Roilands | 177501 | [177501-room-of-roilands.json](./177501-room-of-roilands.json) |
+| Room Planner | 183268 | [183268-room-planner.json](./183268-room-planner.json) |
 | Room Room | 176336 | [176336-room-room.json](./176336-room-room.json) |
 | Room Rules | 382951 | [382951-room-rules.json](./382951-room-rules.json) |
 | Room Service | 343231 | [343231-room-service.json](./343231-room-service.json) |
