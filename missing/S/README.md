@@ -1866,6 +1866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the throne | 285527 | [285527-save-the-throne.json](./285527-save-the-throne.json) |
 | Save the Titanic | 22106 | [22106-save-the-titanic.json](./22106-save-the-titanic.json) |
 | Save The Toast! | 265183 | [265183-save-the-toast.json](./265183-save-the-toast.json) |
+| Save the Unicorn | 174035 | [174035-save-the-unicorn.json](./174035-save-the-unicorn.json) |
 | Save the Universe, Please! | 32129 | [32129-save-the-universe-please.json](./32129-save-the-universe-please.json) |
 | Save the Vampire | 212508 | [212508-save-the-vampire.json](./212508-save-the-vampire.json) |
 | Save the village chief | 114245 | [114245-save-the-village-chief.json](./114245-save-the-village-chief.json) |
@@ -4821,6 +4822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Quest | 167387 | [167387-sex-quest.json](./167387-sex-quest.json) |
 | Sex Restaurant: Kuronekotei | 108938 | [108938-sex-restaurant-kuronekotei.json](./108938-sex-restaurant-kuronekotei.json) |
 | Sex Rhythm: Onsen | 257846 | [257846-sex-rhythm-onsen.json](./257846-sex-rhythm-onsen.json) |
+| Sex Robot Road Trip: Highway to Harrisburg | 174029 | [174029-sex-robot-road-trip-highway-to-harrisburg.json](./174029-sex-robot-road-trip-highway-to-harrisburg.json) |
 | Sex Room 2: 18+ | 245725 | [245725-sex-room-2-18.json](./245725-sex-room-2-18.json) |
 | Sex Room: 18+ | 235270 | [235270-sex-room-18.json](./235270-sex-room-18.json) |
 | Sex Search | 230950 | [230950-sex-search.json](./230950-sex-search.json) |
@@ -7915,6 +7917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siheyuan | 244325 | [244325-siheyuan.json](./244325-siheyuan.json) |
 | Siienaa | 195575 | [195575-siienaa.json](./195575-siienaa.json) |
 | SiIvaGunner: King for a Day Tournament - Playable Credits Minigame!! | 326974 | [326974-siivagunner-king-for-a-day-tournament-playable-credits-minigame.json](./326974-siivagunner-king-for-a-day-tournament-playable-credits-minigame.json) |
+| SIK Space Invader Kreature | 174034 | [174034-sik-space-invader-kreature.json](./174034-sik-space-invader-kreature.json) |
 | Sika: Tribe's salvation | 184985 | [184985-sika-tribes-salvation.json](./184985-sika-tribes-salvation.json) |
 | Sikanda | 108380 | [108380-sikanda.json](./108380-sikanda.json) |
 | Sikhl | 308266 | [308266-sikhl.json](./308266-sikhl.json) |
@@ -10266,6 +10269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide Treasures: Lydia's Hunt | 311778 | [311778-slide-treasures-lydias-hunt.json](./311778-slide-treasures-lydias-hunt.json) |
 | Slide Viking: Treasure's Path | 395664 | [395664-slide-viking-treasures-path.json](./395664-slide-viking-treasures-path.json) |
 | Slide With You | 401834 | [401834-slide-with-you.json](./401834-slide-with-you.json) |
+| Slide: Animal Race | 174020 | [174020-slide-animal-race.json](./174020-slide-animal-race.json) |
 | Slide! Throw! Snow Party | 379977 | [379977-slide-throw-snow-party.json](./379977-slide-throw-snow-party.json) |
 | SlideGrid | 409195 | [409195-slidegrid.json](./409195-slidegrid.json) |
 | Slidemagi | 244600 | [244600-slidemagi.json](./244600-slidemagi.json) |
@@ -21000,6 +21004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storyteller | 383135 | [383135-storyteller.json](./383135-storyteller.json) |
 | Storyteller: Devilish Update | 269078 | [269078-storyteller-devilish-update.json](./269078-storyteller-devilish-update.json) |
 | Stow Away | 400958 | [400958-stow-away.json](./400958-stow-away.json) |
+| Stowaway | 174008 | [174008-stowaway.json](./174008-stowaway.json) |
 | Stowaway | 288868 | [288868-stowaway.json](./288868-stowaway.json) |
 | Stowizm | 184103 | [184103-stowizm.json](./184103-stowizm.json) |
 | Stozle: Solve the Mystery | 284563 | [284563-stozle-solve-the-mystery.json](./284563-stozle-solve-the-mystery.json) |
