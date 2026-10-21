@@ -4825,6 +4825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Sword: Incubus | 203955 | [203955-demon-sword-incubus.json](./203955-demon-sword-incubus.json) |
 | Demon Throttle | 152206 | [152206-demon-throttle.json](./152206-demon-throttle.json) |
 | Demon Tomb | 212152 | [212152-demon-tomb.json](./212152-demon-tomb.json) |
+| Demon Turf: Bundle | 203723 | [203723-demon-turf-bundle.json](./203723-demon-turf-bundle.json) |
 | Demon Turf: Neon Splash | 197868 | [197868-demon-turf-neon-splash.json](./197868-demon-turf-neon-splash.json) |
 | Demon Turf: Queen's Edition | 341624 | [341624-demon-turf-queens-edition.json](./341624-demon-turf-queens-edition.json) |
 | Demon Turf: The Tower | 280851 | [280851-demon-turf-the-tower.json](./280851-demon-turf-the-tower.json) |
@@ -11228,11 +11229,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest X: All In One Package - Versions 1-5 | 136742 | [136742-dragon-quest-x-all-in-one-package-versions-1-5.json](./136742-dragon-quest-x-all-in-one-package-versions-1-5.json) |
 | Dragon Quest X: All In One Package - Versions 1-6 | 222408 | [222408-dragon-quest-x-all-in-one-package-versions-1-6.json](./222408-dragon-quest-x-all-in-one-package-versions-1-6.json) |
 | Dragon Quest X: Ibara no Miko to Horobi no Kami Online | 136835 | [136835-dragon-quest-x-ibara-no-miko-to-horobi-no-kami-online.json](./136835-dragon-quest-x-ibara-no-miko-to-horobi-no-kami-online.json) |
+| Dragon Quest X: Inishie no Ryuu no Denshou Online | 203732 | [203732-dragon-quest-x-inishie-no-ryuu-no-denshou-online.json](./203732-dragon-quest-x-inishie-no-ryuu-no-denshou-online.json) |
 | Dragon Quest X: Jikuu no Mayoigo-tachi Online | 374305 | [374305-dragon-quest-x-jikuu-no-mayoigo-tachi-online.json](./374305-dragon-quest-x-jikuu-no-mayoigo-tachi-online.json) |
 | Dragon Quest X: Mezameshi Itsutsu no Shuzoku Offline | 149989 | [149989-dragon-quest-x-mezameshi-itsutsu-no-shuzoku-offline.json](./149989-dragon-quest-x-mezameshi-itsutsu-no-shuzoku-offline.json) |
 | Dragon Quest X: Mezameshi Itsutsu no Shuzoku Online | 80597 | [80597-dragon-quest-x-mezameshi-itsutsu-no-shuzoku-online.json](./80597-dragon-quest-x-mezameshi-itsutsu-no-shuzoku-online.json) |
 | Dragon Quest X: Mirai he no Tobira to Madoromi no Shoujo Online | 260191 | [260191-dragon-quest-x-mirai-he-no-tobira-to-madoromi-no-shoujo-online.json](./260191-dragon-quest-x-mirai-he-no-tobira-to-madoromi-no-shoujo-online.json) |
 | Dragon Quest X: Nemureru Yuusha to Michibiki no Meiyuu Offline | 252044 | [252044-dragon-quest-x-nemureru-yuusha-to-michibiki-no-meiyuu-offline.json](./252044-dragon-quest-x-nemureru-yuusha-to-michibiki-no-meiyuu-offline.json) |
+| Dragon Quest X: Nemureru Yuusha to Michibiki no Meiyuu Online | 203731 | [203731-dragon-quest-x-nemureru-yuusha-to-michibiki-no-meiyuu-online.json](./203731-dragon-quest-x-nemureru-yuusha-to-michibiki-no-meiyuu-online.json) |
 | Dragon Quest X: Tensei no Eiyuu-tachi Online | 159205 | [159205-dragon-quest-x-tensei-no-eiyuu-tachi-online.json](./159205-dragon-quest-x-tensei-no-eiyuu-tachi-online.json) |
 | Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition | 110069 | [110069-dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition.json](./110069-dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition.json) |
 | Dragon Quest XI: Echoes of an Elusive Age S - Ultimate Edition | 313423 | [313423-dragon-quest-xi-echoes-of-an-elusive-age-s-ultimate-edition.json](./313423-dragon-quest-xi-echoes-of-an-elusive-age-s-ultimate-edition.json) |
