@@ -6552,6 +6552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey Legacy Manager 25 | 340475 | [340475-hockey-legacy-manager-25.json](./340475-hockey-legacy-manager-25.json) |
 | Hockey Player VR | 117837 | [117837-hockey-player-vr.json](./117837-hockey-player-vr.json) |
 | Hockey Rage 2005 | 70576 | [70576-hockey-rage-2005.json](./70576-hockey-rage-2005.json) |
+| Hockey Shooter VR | 190882 | [190882-hockey-shooter-vr.json](./190882-hockey-shooter-vr.json) |
 | Hockey Solitaire | 102578 | [102578-hockey-solitaire.json](./102578-hockey-solitaire.json) |
 | Hockey Space | 44174 | [44174-hockey-space.json](./44174-hockey-space.json) |
 | Hockey Stars | 238931 | [238931-hockey-stars.json](./238931-hockey-stars.json) |
