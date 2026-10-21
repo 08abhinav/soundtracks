@@ -1317,6 +1317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 206 | 186710 | [186710-206.json](./186710-206.json) |
 | 2064: Read Only Memories Integral | 84927 | [84927-2064-read-only-memories-integral.json](./84927-2064-read-only-memories-integral.json) |
 | 2069 AD | 98267 | [98267-2069-ad.json](./98267-2069-ad.json) |
+| 2080 Apocalypse | 197565 | [197565-2080-apocalypse.json](./197565-2080-apocalypse.json) |
 | 2084 | 113154 | [113154-2084.json](./113154-2084.json) |
 | 2088: The Cryllan Mission | 57377 | [57377-2088-the-cryllan-mission.json](./57377-2088-the-cryllan-mission.json) |
 | 2088: The Cryllan Mission - The Second Scenario | 57374 | [57374-2088-the-cryllan-mission-the-second-scenario.json](./57374-2088-the-cryllan-mission-the-second-scenario.json) |
