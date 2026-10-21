@@ -8397,6 +8397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series Vol. 115: The Roomshare to Iu Seikatsu | 203336 | [203336-simple-2000-series-vol-115-the-roomshare-to-iu-seikatsu.json](./203336-simple-2000-series-vol-115-the-roomshare-to-iu-seikatsu.json) |
 | Simple 2000 Series Vol. 117: The Zerosen | 203338 | [203338-simple-2000-series-vol-117-the-zerosen.json](./203338-simple-2000-series-vol-117-the-zerosen.json) |
 | Simple 2000 Series Vol. 118: The Ochimusha - Doemu Samurai Toujou | 203339 | [203339-simple-2000-series-vol-118-the-ochimusha-doemu-samurai-toujou.json](./203339-simple-2000-series-vol-118-the-ochimusha-doemu-samurai-toujou.json) |
+| Simple 2000 Series Vol. 119: The Survival Game 2 | 176719 | [176719-simple-2000-series-vol-119-the-survival-game-2.json](./176719-simple-2000-series-vol-119-the-survival-game-2.json) |
 | Simple 2000 Series Vol. 12: The Quiz 20000 Mon | 77013 | [77013-simple-2000-series-vol-12-the-quiz-20000-mon.json](./77013-simple-2000-series-vol-12-the-quiz-20000-mon.json) |
 | Simple 2000 Series Vol. 120: Saigo no Nippon Hei - Utsukushiki Kokudo Dakkan Sakusen | 203340 | [203340-simple-2000-series-vol-120-saigo-no-nippon-hei-utsukushiki-kokudo-dakkan-sakusen.json](./203340-simple-2000-series-vol-120-saigo-no-nippon-hei-utsukushiki-kokudo-dakkan-sakusen.json) |
 | Simple 2000 Series Vol. 14: The Billiard | 335904 | [335904-simple-2000-series-vol-14-the-billiard.json](./335904-simple-2000-series-vol-14-the-billiard.json) |
@@ -9803,6 +9804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyrift | 122107 | [122107-skyrift.json](./122107-skyrift.json) |
 | SkyRig | 348286 | [348286-skyrig.json](./348286-skyrig.json) |
 | SkyRoads X-mas Special | 19236 | [19236-skyroads-x-mas-special.json](./19236-skyroads-x-mas-special.json) |
+| Skyrush | 176725 | [176725-skyrush.json](./176725-skyrush.json) |
 | Skyscraper | 125335 | [125335-skyscraper.json](./125335-skyscraper.json) |
 | Skyscraper | 225486 | [225486-skyscraper.json](./225486-skyscraper.json) |
 | Skyscraper | 267990 | [267990-skyscraper.json](./267990-skyscraper.json) |
@@ -27133,6 +27135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of Hypotenuse | 171874 | [171874-sword-of-hypotenuse.json](./171874-sword-of-hypotenuse.json) |
 | Sword of Jade: Parallel Dreams | 285149 | [285149-sword-of-jade-parallel-dreams.json](./285149-sword-of-jade-parallel-dreams.json) |
 | Sword of Justice | 283391 | [283391-sword-of-justice.json](./283391-sword-of-justice.json) |
+| Sword of Legacy | 176671 | [176671-sword-of-legacy.json](./176671-sword-of-legacy.json) |
 | Sword of Legendia | 185950 | [185950-sword-of-legendia.json](./185950-sword-of-legendia.json) |
 | Sword of Mana | 6630 | [6630-sword-of-mana.json](./6630-sword-of-mana.json) |
 | Sword of Mejor | 356052 | [356052-sword-of-mejor.json](./356052-sword-of-mejor.json) |
