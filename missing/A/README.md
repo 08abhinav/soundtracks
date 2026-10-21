@@ -2762,7 +2762,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -4621,6 +4620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemist's Prison | 179984 | [179984-alchemists-prison.json](./179984-alchemists-prison.json) |
 | Alchemist's Secret | 297059 | [297059-alchemists-secret.json](./297059-alchemists-secret.json) |
 | Alchemistress Vivi | 287142 | [287142-alchemistress-vivi.json](./287142-alchemistress-vivi.json) |
+| Alchemistry | 171813 | [171813-alchemistry.json](./171813-alchemistry.json) |
 | Alchemists | 316465 | [316465-alchemists.json](./316465-alchemists.json) |
 | Alchemists' Garden | 199908 | [199908-alchemists-garden.json](./199908-alchemists-garden.json) |
 | Alchemos | 190041 | [190041-alchemos.json](./190041-alchemos.json) |
@@ -10699,6 +10699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army War: Shooting Simulator | 235198 | [235198-army-war-shooting-simulator.json](./235198-army-war-shooting-simulator.json) |
 | Army Wars Tactics | 200158 | [200158-army-wars-tactics.json](./200158-army-wars-tactics.json) |
 | ArmyCraft | 52612 | [52612-armycraft.json](./52612-armycraft.json) |
+| Arn's Winter Quest | 171850 | [171850-arns-winter-quest.json](./171850-arns-winter-quest.json) |
 | Arnaud Thion's Dragons | 185115 | [185115-arnaud-thions-dragons.json](./185115-arnaud-thions-dragons.json) |
 | Arnie | 13797 | [13797-arnie.json](./13797-arnie.json) |
 | Arnie | 14268 | [14268-arnie.json](./14268-arnie.json) |
@@ -12689,6 +12690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Super Lander Re-Nuked Edition | 392826 | [392826-atomic-super-lander-re-nuked-edition.json](./392826-atomic-super-lander-re-nuked-edition.json) |
 | Atomic Surf | 238641 | [238641-atomic-surf.json](./238641-atomic-surf.json) |
 | Atomic Survivors | 249748 | [249748-atomic-survivors.json](./249748-atomic-survivors.json) |
+| Atomic War | 171811 | [171811-atomic-war.json](./171811-atomic-war.json) |
 | Atomic Warfare | 303901 | [303901-atomic-warfare.json](./303901-atomic-warfare.json) |
 | Atomic Wilds | 216661 | [216661-atomic-wilds.json](./216661-atomic-wilds.json) |
 | Atomica | 379989 | [379989-atomica.json](./379989-atomica.json) |
