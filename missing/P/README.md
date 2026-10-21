@@ -14299,6 +14299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PyraMaze | 177850 | [177850-pyramaze.json](./177850-pyramaze.json) |
 | Pyramaze: The Game | 55294 | [55294-pyramaze-the-game.json](./55294-pyramaze-the-game.json) |
 | Pyrami Head | 250967 | [250967-pyrami-head.json](./250967-pyrami-head.json) |
+| Pyramid | 185891 | [185891-pyramid.json](./185891-pyramid.json) |
 | Pyramid | 195054 | [195054-pyramid.json](./195054-pyramid.json) |
 | Pyramid | 25831 | [25831-pyramid.json](./25831-pyramid.json) |
 | Pyramid | 86002 | [86002-pyramid.json](./86002-pyramid.json) |
