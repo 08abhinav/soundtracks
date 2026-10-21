@@ -1063,6 +1063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Continent: Mist | 304167 | [304167-dark-continent-mist.json](./304167-dark-continent-mist.json) |
 | Dark Core | 110763 | [110763-dark-core.json](./110763-dark-core.json) |
 | Dark Corridors | 225199 | [225199-dark-corridors.json](./225199-dark-corridors.json) |
+| Dark Cravings | 199276 | [199276-dark-cravings.json](./199276-dark-cravings.json) |
 | Dark Crescent | 404660 | [404660-dark-crescent.json](./404660-dark-crescent.json) |
 | Dark Cube | 125906 | [125906-dark-cube.json](./125906-dark-cube.json) |
 | Dark Data | 120754 | [120754-dark-data.json](./120754-dark-data.json) |
@@ -3424,6 +3425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Remains | 333380 | [333380-death-remains.json](./333380-death-remains.json) |
 | Death Report | 336708 | [336708-death-report.json](./336708-death-report.json) |
 | Death ring | 282006 | [282006-death-ring.json](./282006-death-ring.json) |
+| Death Ring | 199259 | [199259-death-ring.json](./199259-death-ring.json) |
 | Death Rings of Jupiter | 55788 | [55788-death-rings-of-jupiter.json](./55788-death-rings-of-jupiter.json) |
 | Death Road | 237264 | [237264-death-road.json](./237264-death-road.json) |
 | Death Road to Canada | 21634 | [21634-death-road-to-canada.json](./21634-death-road-to-canada.json) |
@@ -5996,6 +5998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil May Cry Triple Pack | 218404 | [218404-devil-may-cry-triple-pack.json](./218404-devil-may-cry-triple-pack.json) |
 | Devil Ninja Fight: Kungfu combat | 255058 | [255058-devil-ninja-fight-kungfu-combat.json](./255058-devil-ninja-fight-kungfu-combat.json) |
 | Devil of the Mirror | 182987 | [182987-devil-of-the-mirror.json](./182987-devil-of-the-mirror.json) |
+| Devil on Your Shoulder | 199272 | [199272-devil-on-your-shoulder.json](./199272-devil-on-your-shoulder.json) |
 | Devil Piece | 174645 | [174645-devil-piece.json](./174645-devil-piece.json) |
 | Devil Rhythm -Silver Phantom- | 83401 | [83401-devil-rhythm-silver-phantom.json](./83401-devil-rhythm-silver-phantom.json) |
 | Devil Seed | 82748 | [82748-devil-seed.json](./82748-devil-seed.json) |
@@ -12860,6 +12863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunken Fist Totally Accurate Beat 'em up | 124272 | [124272-drunken-fist-totally-accurate-beat-em-up.json](./124272-drunken-fist-totally-accurate-beat-em-up.json) |
 | Drunken Goddess Reflux | 399414 | [399414-drunken-goddess-reflux.json](./399414-drunken-goddess-reflux.json) |
 | Drunken Hog | 385950 | [385950-drunken-hog.json](./385950-drunken-hog.json) |
+| Drunken Nuke'em | 199266 | [199266-drunken-nukeem.json](./199266-drunken-nukeem.json) |
 | Drunken Ravings | 183850 | [183850-drunken-ravings.json](./183850-drunken-ravings.json) |
 | Drunken Rogue | 310824 | [310824-drunken-rogue.json](./310824-drunken-rogue.json) |
 | Drunken Samurai | 157042 | [157042-drunken-samurai.json](./157042-drunken-samurai.json) |
