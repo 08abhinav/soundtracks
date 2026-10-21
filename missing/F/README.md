@@ -1938,6 +1938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Invasion USA | 61125 | [61125-farm-invasion-usa.json](./61125-farm-invasion-usa.json) |
 | Farm It: Fluffy DLC | 316209 | [316209-farm-it-fluffy-dlc.json](./316209-farm-it-fluffy-dlc.json) |
 | Farm It: Funky DLC | 316210 | [316210-farm-it-funky-dlc.json](./316210-farm-it-funky-dlc.json) |
+| Farm It! | 194334 | [194334-farm-it.json](./194334-farm-it.json) |
 | Farm it! Seasons | 96921 | [96921-farm-it-seasons.json](./96921-farm-it-seasons.json) |
 | Farm Jam: Animal Parking Game | 247216 | [247216-farm-jam-animal-parking-game.json](./247216-farm-jam-animal-parking-game.json) |
 | Farm Keeper | 247034 | [247034-farm-keeper.json](./247034-farm-keeper.json) |
@@ -3654,6 +3655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fill one-line puzzle game | 88820 | [88820-fill-one-line-puzzle-game.json](./88820-fill-one-line-puzzle-game.json) |
 | Fill The Cup | 315705 | [315705-fill-the-cup.json](./315705-fill-the-cup.json) |
 | Fill The Cup 3: Frost | 390801 | [390801-fill-the-cup-3-frost.json](./390801-fill-the-cup-3-frost.json) |
+| Fill the Fridge | 194161 | [194161-fill-the-fridge.json](./194161-fill-the-fridge.json) |
 | Fill the Fridge | 311817 | [311817-fill-the-fridge.json](./311817-fill-the-fridge.json) |
 | Fill the Void | 419326 | [419326-fill-the-void.json](./419326-fill-the-void.json) |
 | Fill Up the Hole | 346799 | [346799-fill-up-the-hole.json](./346799-fill-up-the-hole.json) |
@@ -9804,6 +9806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruitbearer | 389696 | [389696-fruitbearer.json](./389696-fruitbearer.json) |
 | Fruitcraft | 63140 | [63140-fruitcraft.json](./63140-fruitcraft.json) |
 | Fruitee! | 377949 | [377949-fruitee.json](./377949-fruitee.json) |
+| FruitFall Crush | 194166 | [194166-fruitfall-crush.json](./194166-fruitfall-crush.json) |
 | Fruitgeddon | 339083 | [339083-fruitgeddon.json](./339083-fruitgeddon.json) |
 | Fruiti Blox | 314698 | [314698-fruiti-blox.json](./314698-fruiti-blox.json) |
 | Fruitimo! | 352216 | [352216-fruitimo.json](./352216-fruitimo.json) |
