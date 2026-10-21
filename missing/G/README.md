@@ -6294,6 +6294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard Keeper | 27384 | [27384-graveyard-keeper.json](./27384-graveyard-keeper.json) |
 | Graveyard Keeper II | 397817 | [397817-graveyard-keeper-ii.json](./397817-graveyard-keeper-ii.json) |
 | Graveyard Keeper II: Pre-Order Bonus | 415416 | [415416-graveyard-keeper-ii-pre-order-bonus.json](./415416-graveyard-keeper-ii-pre-order-bonus.json) |
+| Graveyard Keeper: Better Save Soul | 186516 | [186516-graveyard-keeper-better-save-soul.json](./186516-graveyard-keeper-better-save-soul.json) |
 | Graveyard Keeper: Breaking Dead | 111556 | [111556-graveyard-keeper-breaking-dead.json](./111556-graveyard-keeper-breaking-dead.json) |
 | Graveyard Keeper: Collector's Edition | 134367 | [134367-graveyard-keeper-collectors-edition.json](./134367-graveyard-keeper-collectors-edition.json) |
 | Graveyard Keeper: Last Journey Edition | 246261 | [246261-graveyard-keeper-last-journey-edition.json](./246261-graveyard-keeper-last-journey-edition.json) |
