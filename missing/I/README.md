@@ -1130,6 +1130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Factory | 211625 | [211625-idle-factory.json](./211625-idle-factory.json) |
 | Idle Factory Tycoon | 99142 | [99142-idle-factory-tycoon.json](./99142-idle-factory-tycoon.json) |
 | Idle Farming Tycoon Empire | 175877 | [175877-idle-farming-tycoon-empire.json](./175877-idle-farming-tycoon-empire.json) |
+| Idle Fields | 189873 | [189873-idle-fields.json](./189873-idle-fields.json) |
 | Idle Fishing | 280117 | [280117-idle-fishing.json](./280117-idle-fishing.json) |
 | Idle Fishing Tycoon | 212517 | [212517-idle-fishing-tycoon.json](./212517-idle-fishing-tycoon.json) |
 | Idle Fitness Gym Tycoon | 392447 | [392447-idle-fitness-gym-tycoon.json](./392447-idle-fitness-gym-tycoon.json) |
@@ -3922,6 +3923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intexistentance | 180561 | [180561-intexistentance.json](./180561-intexistentance.json) |
 | Inti Creates Gold Archive Collection | 319667 | [319667-inti-creates-gold-archive-collection.json](./319667-inti-creates-gold-archive-collection.json) |
 | Intimate Abode | 302475 | [302475-intimate-abode.json](./302475-intimate-abode.json) |
+| Intimate Relationship | 189998 | [189998-intimate-relationship.json](./189998-intimate-relationship.json) |
 | Intimate, Infinite | 134009 | [134009-intimate-infinite.json](./134009-intimate-infinite.json) |
 | Intlovert Game Club | 342756 | [342756-intlovert-game-club.json](./342756-intlovert-game-club.json) |
 | Into a Dream | 129629 | [129629-into-a-dream.json](./129629-into-a-dream.json) |
