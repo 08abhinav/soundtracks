@@ -1766,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joan Mad Run | 58611 | [58611-joan-mad-run.json](./58611-joan-mad-run.json) |
 | Joan of Arc: The Beginning | 127841 | [127841-joan-of-arc-the-beginning.json](./127841-joan-of-arc-the-beginning.json) |
 | Joanie | 176386 | [176386-joanie.json](./176386-joanie.json) |
+| Job Application Simulator | 183247 | [183247-job-application-simulator.json](./183247-job-application-simulator.json) |
 | Job Applications | 343041 | [343041-job-applications.json](./343041-job-applications.json) |
 | Job at Risk | 236172 | [236172-job-at-risk.json](./236172-job-at-risk.json) |
 | Job Battle Simulator: Accurate Physics Showdown | 348253 | [348253-job-battle-simulator-accurate-physics-showdown.json](./348253-job-battle-simulator-accurate-physics-showdown.json) |
@@ -2839,6 +2840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junkoid | 215859 | [215859-junkoid.json](./215859-junkoid.json) |
 | Junkpunk: Arena | 153856 | [153856-junkpunk-arena.json](./153856-junkpunk-arena.json) |
 | JunkRats | 353805 | [353805-junkrats.json](./353805-junkrats.json) |
+| JunkStar | 183265 | [183265-junkstar.json](./183265-junkstar.json) |
 | Junkworld | 174745 | [174745-junkworld.json](./174745-junkworld.json) |
 | Junkyard Apocalypse | 243943 | [243943-junkyard-apocalypse.json](./243943-junkyard-apocalypse.json) |
 | Junkyard Builder Simulator | 174883 | [174883-junkyard-builder-simulator.json](./174883-junkyard-builder-simulator.json) |
