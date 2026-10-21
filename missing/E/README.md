@@ -1705,6 +1705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Element Fighters | 277776 | [277776-element-fighters.json](./277776-element-fighters.json) |
 | Element Hunters | 67640 | [67640-element-hunters.json](./67640-element-hunters.json) |
 | Element Release: Water Territory | 292526 | [292526-element-release-water-territory.json](./292526-element-release-water-territory.json) |
+| Element Runner | 200352 | [200352-element-runner.json](./200352-element-runner.json) |
 | Element TD 2 | 129388 | [129388-element-td-2.json](./129388-element-td-2.json) |
 | Element Z | 120763 | [120763-element-z.json](./120763-element-z.json) |
 | Element147 | 98016 | [98016-element147.json](./98016-element147.json) |
@@ -4970,6 +4971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve: The Fatal Attraction | 44730 | [44730-eve-the-fatal-attraction.json](./44730-eve-the-fatal-attraction.json) |
 | EVE: Valkyrie - Warzone | 68444 | [68444-eve-valkyrie-warzone.json](./68444-eve-valkyrie-warzone.json) |
 | EVE: War of Ascension | 74277 | [74277-eve-war-of-ascension.json](./74277-eve-war-of-ascension.json) |
+| Evel Knievel | 200330 | [200330-evel-knievel.json](./200330-evel-knievel.json) |
 | Evel Knievel | 348405 | [348405-evel-knievel.json](./348405-evel-knievel.json) |
 | Evel Knievel Evel-ution | 23533 | [23533-evel-knievel-evel-ution.json](./23533-evel-knievel-evel-ution.json) |
 | Eveline | 416057 | [416057-eveline.json](./416057-eveline.json) |
