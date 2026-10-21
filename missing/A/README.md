@@ -980,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Total War Saga: Troy - Limited Edition | 139940 | [139940-a-total-war-saga-troy-limited-edition.json](./139940-a-total-war-saga-troy-limited-edition.json) |
 | A Total War Saga: Troy - Mythic Edition | 169186 | [169186-a-total-war-saga-troy-mythic-edition.json](./169186-a-total-war-saga-troy-mythic-edition.json) |
 | A Total War Saga: Troy - Mythos | 165388 | [165388-a-total-war-saga-troy-mythos.json](./165388-a-total-war-saga-troy-mythos.json) |
+| A Total War Saga: Troy - Rhesus & Memnon | 196061 | [196061-a-total-war-saga-troy-rhesus-and-memnon.json](./196061-a-total-war-saga-troy-rhesus-and-memnon.json) |
 | A Totally Realistic Stealth Game | 310264 | [310264-a-totally-realistic-stealth-game.json](./310264-a-totally-realistic-stealth-game.json) |
 | A Touch of Magic | 273966 | [273966-a-touch-of-magic.json](./273966-a-touch-of-magic.json) |
 | A Tower | 338718 | [338718-a-tower.json](./338718-a-tower.json) |
@@ -1181,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.I. Invasion: Road of Rodan | 164435 | [164435-a-i-invasion-road-of-rodan.json](./164435-a-i-invasion-road-of-rodan.json) |
 | A.I. Puzzler | 206100 | [206100-a-i-puzzler.json](./206100-a-i-puzzler.json) |
 | A.I. Space Corps | 34206 | [34206-a-i-space-corps.json](./34206-a-i-space-corps.json) |
+| A.I.D.: Artificial Intelligence Defence | 195910 | [195910-a-i-d-artificial-intelligence-defence.json](./195910-a-i-d-artificial-intelligence-defence.json) |
 | A.I.Liens | 270859 | [270859-a-i-liens.json](./270859-a-i-liens.json) |
 | A.I.M. Racing | 9955 | [9955-a-i-m-racing.json](./9955-a-i-m-racing.json) |
 | A.I.M.2 Clan Wars | 18960 | [18960-a-i-m-2-clan-wars.json](./18960-a-i-m-2-clan-wars.json) |
@@ -9767,6 +9769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArcherCat | 200020 | [200020-archercat.json](./200020-archercat.json) |
 | Archerio | 391860 | [391860-archerio.json](./391860-archerio.json) |
 | Archero | 119062 | [119062-archero.json](./119062-archero.json) |
+| Archero | 195909 | [195909-archero.json](./195909-archero.json) |
 | Archero 2 | 319370 | [319370-archero-2.json](./319370-archero-2.json) |
 | Archers Online | 316047 | [316047-archers-online.json](./316047-archers-online.json) |
 | Archers Shadow Strike | 332536 | [332536-archers-shadow-strike.json](./332536-archers-shadow-strike.json) |
