@@ -2852,6 +2852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Racing Game | 63204 | [63204-endless-racing-game.json](./63204-endless-racing-game.json) |
 | Endless Rails | 406947 | [406947-endless-rails.json](./406947-endless-rails.json) |
 | Endless Railway | 240042 | [240042-endless-railway.json](./240042-endless-railway.json) |
+| Endless Rain | 177764 | [177764-endless-rain.json](./177764-endless-rain.json) |
 | Endless Ranger Awakening | 353768 | [353768-endless-ranger-awakening.json](./353768-endless-ranger-awakening.json) |
 | Endless Reach | 358964 | [358964-endless-reach.json](./358964-endless-reach.json) |
 | Endless Return | 293007 | [293007-endless-return.json](./293007-endless-return.json) |
