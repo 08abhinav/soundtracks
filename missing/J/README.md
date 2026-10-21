@@ -2132,6 +2132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey Into Darkness | 243122 | [243122-journey-into-darkness.json](./243122-journey-into-darkness.json) |
 | Journey North | 335377 | [335377-journey-north.json](./335377-journey-north.json) |
 | Journey of a Roach | 9000 | [9000-journey-of-a-roach.json](./9000-journey-of-a-roach.json) |
+| Journey of a Sprite | 179403 | [179403-journey-of-a-sprite.json](./179403-journey-of-a-sprite.json) |
 | Journey of Carrying Light | 369575 | [369575-journey-of-carrying-light.json](./369575-journey-of-carrying-light.json) |
 | Journey of Greed | 116510 | [116510-journey-of-greed.json](./116510-journey-of-greed.json) |
 | Journey of Haha | 39008 | [39008-journey-of-haha.json](./39008-journey-of-haha.json) |
@@ -2455,6 +2456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump | 363034 | [363034-jump.json](./363034-jump.json) |
 | Jump 'n Bump | 19226 | [19226-jump-n-bump.json](./19226-jump-n-bump.json) |
 | Jump 'n' Run VR | 187768 | [187768-jump-n-run-vr.json](./187768-jump-n-run-vr.json) |
+| Jump & Escape | 179368 | [179368-jump-and-escape.json](./179368-jump-and-escape.json) |
 | Jump & Fall | 369168 | [369168-jump-and-fall.json](./369168-jump-and-fall.json) |
 | Jump & Splash | 87129 | [87129-jump-and-splash.json](./87129-jump-and-splash.json) |
 | Jump 1/2 | 215761 | [215761-jump-1-2.json](./215761-jump-1-2.json) |
