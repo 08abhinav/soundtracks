@@ -14615,6 +14615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubriko | 104555 | [104555-cubriko.json](./104555-cubriko.json) |
 | Cubs Story: | 368630 | [368630-cubs-story.json](./368630-cubs-story.json) |
 | CubScouting: OnTarget | 65759 | [65759-cubscouting-ontarget.json](./65759-cubscouting-ontarget.json) |
+| Cubstacle | 189375 | [189375-cubstacle.json](./189375-cubstacle.json) |
 | CuBuGo | 175130 | [175130-cubugo.json](./175130-cubugo.json) |
 | Cubuleto | 374124 | [374124-cubuleto.json](./374124-cubuleto.json) |
 | Cubway | 31800 | [31800-cubway.json](./31800-cubway.json) |
@@ -14978,6 +14979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed House Escape | 315581 | [315581-cursed-house-escape.json](./315581-cursed-house-escape.json) |
 | Cursed House Match 3 Puzzle | 246855 | [246855-cursed-house-match-3-puzzle.json](./246855-cursed-house-match-3-puzzle.json) |
 | Cursed Island | 176289 | [176289-cursed-island.json](./176289-cursed-island.json) |
+| Cursed Island | 189342 | [189342-cursed-island.json](./189342-cursed-island.json) |
 | Cursed Land | 297237 | [297237-cursed-land.json](./297237-cursed-land.json) |
 | Cursed Lands | 80935 | [80935-cursed-lands.json](./80935-cursed-lands.json) |
 | Cursed Legacy | 370707 | [370707-cursed-legacy.json](./370707-cursed-legacy.json) |
